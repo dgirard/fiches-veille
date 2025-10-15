@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Octobre 2025
 
+- **[2025-10-15]** [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Redéfinition du logiciel - Architecture AI-native - LinkedIn
 - **[2025-10-11]** [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Philosophie médiévale/moderne - Revue Thomiste
 - **[2025-10-10]** [Claude Skills: Document Manipulation](fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md) - Découverte /mnt/skills - Simon Willison
 - **[2025-10-09]** [Superpowers: Skills pour agents IA](fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md) - Apprentissage continu - Jesse Vincent
@@ -17,6 +18,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Septembre 2025
 
+- **[2025-09-28]** [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Productivité exponentielle - IA récursif - Substack
 - **[2025-09-23]** [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - IA amplifie performance équipes - Google Cloud
 - **[2025-09-15]** [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025.md) - Architecture AI-first - Pragmatic Engineer
 - **[2025-09-15]** [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025.md) - Jean-Christophe Laissy
@@ -30,6 +32,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-08-15]** [Réflexions sur LLMs et développement](fiches/2025-08/martin-fowler-llm-software-development-2025-08.md) - Bulle IA, hallucinations, sécurité - Martin Fowler
 
+### Juillet 2025
+
+- **[2025-07-18]** [Call Me A Jerk: Persuading AI](fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md) - Principes de Cialdini - Compliance parahuman - Wharton
+
 ---
 
 ## Thématiques
@@ -38,9 +44,11 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Méthodologie agents de codage IA](fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md) - Jesse Vincent
 - [Superpowers: Skills pour agents IA](fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md) - Jesse Vincent
 - [Claude Skills: Document Manipulation](fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md) - Simon Willison
+- [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Sam Schillace
 - [The Hot Vibe Code Summer](fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md) - RedMonk
 
 ### Architecture & Construction
+- [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Philippe Ensarguet
 - [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025.md) - Pragmatic Engineer
 - [MCP remplace le navigateur](fiches/2025-09/mcp-replaces-browser-logrocket-2025.md) - LogRocket
 - [Déclin du RAG](fiches/2025-10/rag-decline-context-windows-2025-10-08.md) - LinkedIn
@@ -53,6 +61,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Qualité & Sécurité
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025.md) - AI Journal
 - [Réflexions sur LLMs et développement](fiches/2025-08/martin-fowler-llm-software-development-2025-08.md) - Martin Fowler
+- [Call Me A Jerk: Persuading AI](fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md) - Wharton Research
 
 ### Économie & Marché
 - [Risque de bulle IA](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) - LinkedIn/Bloomberg
@@ -65,7 +74,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 15
-- **Période couverte** : Août - Octobre 2025
-- **Principaux auteurs** : Jesse Vincent (2), Jean-Christophe Laissy (1), Simon Willison (1), Martin Fowler (1)
-- **Sources principales** : LinkedIn, Blogs techniques, Recherche Anthropic, Google Cloud
+- **Total d'articles** : 18
+- **Période couverte** : Juillet - Octobre 2025
+- **Principaux auteurs** : Jesse Vincent (2), Philippe Ensarguet (1), Ethan & Lilach Mollick (1), Sam Schillace (1), Jean-Christophe Laissy (1), Simon Willison (1), Martin Fowler (1), Robert Cialdini (1)
+- **Sources principales** : LinkedIn, Blogs techniques, Recherche Anthropic, Google Cloud, Substack, Wharton Research

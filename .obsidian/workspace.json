@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
+                "file": "fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ia-monopsychisme-serres-averroes-aquin-2025-10-11"
+              "title": "ai-platform-shift-ensarguet-2025-10-15"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "3a1fd488ec67f5a5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
+                "file": "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour ia-monopsychisme-serres-averroes-aquin-2025-10-11"
+              "title": "Rétrolien pour superpowers-skills-coding-agents-vincent-2025-10-09"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
+                "file": "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de ia-monopsychisme-serres-averroes-aquin-2025-10-11"
+              "title": "Liens sortants de superpowers-skills-coding-agents-vincent-2025-10-09"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
+                "file": "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de ia-monopsychisme-serres-averroes-aquin-2025-10-11"
+              "title": "Plan de superpowers-skills-coding-agents-vincent-2025-10-09"
             }
           }
         ]
@@ -171,6 +171,19 @@
   "active": "4f09fa8865069ec2",
   "lastOpenFiles": [
     "index.md",
+    "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
+    "index.md.tmp.69135.1760519976596",
+    "index.md.tmp.69135.1760519976303",
+    "skills/brainstorming.md",
+    "skills/#brainstorming.md#",
+    "skills",
+    "fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md",
+    "fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md",
+    "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
+    "index.md.tmp.69135.1760271335915",
+    "fiches/2025-07",
+    "index.md.tmp.69135.1760270927633",
+    "fiches/2025-09/compounding-teams-schillace-2025-09-28.md",
     "fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md",
     "fiches/2025-09/transformation-ai-first-15-questions-laissy-2025.md",
     "fiches/2025-09/mcp-replaces-browser-logrocket-2025.md",
@@ -185,20 +198,12 @@
     "2025-10.md",
     "fiches/2025-10/dora-report-2025-ai-software-dev-2025-09-23.md",
     "fiches/2025-10/rag-decline-context-windows-2025-10-08.md",
-    "fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md",
     "fiches/2025-10/ia-sdlc-cutting-hype-aijournal-2025.md",
     "fiches/2025-10/martin-fowler-llm-software-development-2025-08.md",
     "fiches/2025-10/fin-assistants-ia-bon-marche-infoworld-2025.md",
     "fiches/2025-10/vibe-coding-hot-summer-redmonk-2025-09-08.md",
     "fiches/2025-10/mcp-replaces-browser-logrocket-2025.md",
     "fiches/2025-10/anthropic-economic-index-adoption-inegale-2025-09-15.md",
-    "fiches/2025-10/transformation-ai-first-15-questions-laissy-2025.md",
-    "fiches/2025-10/how-claude-code-is-built-pragmatic-engineer-2025.md",
-    "fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md",
-    "fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md",
-    "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
-    "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
-    "fiches/2025-10",
-    "fiches"
+    "fiches/2025-10"
   ]
 }
