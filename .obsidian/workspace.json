@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md",
+                "file": "fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-platform-shift-ensarguet-2025-10-15"
+              "title": "opinionated-guide-ai-mollick-2025-10-19"
             }
           }
         ]
@@ -170,19 +170,34 @@
   },
   "active": "4f09fa8865069ec2",
   "lastOpenFiles": [
+    "docs/deep research/202510/Wardley Mapping Expliqué.md",
+    "docs/deep research/202510",
+    "docs/deep research",
+    "docs/deep",
+    "docs/untitled folder",
+    "docs/202510/Wardley Mapping Expliqué.md",
+    "docs/202510",
+    "docs/Wardley Mapping Expliqué.md",
     "index.md",
+    "fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10.md",
+    "index.md.tmp.13295.1760947735124",
+    "fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md",
+    "index.md.tmp.13295.1760823419133",
+    "index.md.tmp.13295.1760823409200",
+    "fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md",
+    "index.md.tmp.13295.1760823125273",
+    "index.md.tmp.13295.1760823115317",
+    "SYNTHESE-JUILLET-OCTOBRE-2025.md",
+    "fiches/2025-10/agent-skills-anthropic-2025-10-16.md",
+    "fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02.md",
+    "fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md",
+    "fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10.md",
+    "fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md",
     "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
-    "index.md.tmp.69135.1760519976596",
-    "index.md.tmp.69135.1760519976303",
     "skills/brainstorming.md",
-    "skills/#brainstorming.md#",
-    "skills",
     "fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md",
     "fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md",
     "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
-    "index.md.tmp.69135.1760271335915",
-    "fiches/2025-07",
-    "index.md.tmp.69135.1760270927633",
     "fiches/2025-09/compounding-teams-schillace-2025-09-28.md",
     "fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md",
     "fiches/2025-09/transformation-ai-first-15-questions-laissy-2025.md",
@@ -190,20 +205,6 @@
     "fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025.md",
     "fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025.md",
     "fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025.md",
-    "fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md",
-    "fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md",
-    "fiches/2025-08/martin-fowler-llm-software-development-2025-08.md",
-    "fiches/2025-09",
-    "fiches/2025-08",
-    "2025-10.md",
-    "fiches/2025-10/dora-report-2025-ai-software-dev-2025-09-23.md",
-    "fiches/2025-10/rag-decline-context-windows-2025-10-08.md",
-    "fiches/2025-10/ia-sdlc-cutting-hype-aijournal-2025.md",
-    "fiches/2025-10/martin-fowler-llm-software-development-2025-08.md",
-    "fiches/2025-10/fin-assistants-ia-bon-marche-infoworld-2025.md",
-    "fiches/2025-10/vibe-coding-hot-summer-redmonk-2025-09-08.md",
-    "fiches/2025-10/mcp-replaces-browser-logrocket-2025.md",
-    "fiches/2025-10/anthropic-economic-index-adoption-inegale-2025-09-15.md",
-    "fiches/2025-10"
+    "fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md"
   ]
 }
