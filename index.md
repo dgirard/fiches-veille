@@ -209,7 +209,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 81
-- **Période couverte** : Mai - Octobre 2025
+- **Total d'articles** : 80
+- **Période couverte** : Juillet 2023 - Novembre 2025
 - **Principaux auteurs** : Ethan Mollick (3), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, Wenvision, Linear, Qodo, Forbes, White House
