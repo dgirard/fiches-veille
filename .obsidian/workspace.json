@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fiches/2025-10/ai-workflow-wardley-mapping-obsidian-youtube-2025-10.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-workflow-wardley-mapping-obsidian-youtube-2025-10"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 538.5
   },
   "right": {
     "id": "3a1fd488ec67f5a5",
@@ -170,40 +170,41 @@
   },
   "active": "4f09fa8865069ec2",
   "lastOpenFiles": [
+    "fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17.md",
     "index.md",
-    "fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10.md",
-    "fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md",
-    "index.md.tmp.13295.1760951275275",
-    "index.md.tmp.13295.1760951265825",
-    "fiches/2025-10/ai-workflow-wardley-mapping-obsidian-youtube-2025-10.md",
-    "index.md.tmp.13295.1760950877865",
-    "fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03.md",
-    "index.md.tmp.13295.1760949553250",
-    "docs/deep research/202510/Wardley Mapping Expliqué.md",
-    "docs/deep research/202510",
-    "docs/deep research",
-    "docs/deep",
-    "docs/untitled folder",
-    "docs/202510/Wardley Mapping Expliqué.md",
-    "docs/202510",
-    "docs/Wardley Mapping Expliqué.md",
-    "fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10.md",
-    "index.md.tmp.13295.1760947735124",
-    "fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md",
-    "SYNTHESE-JUILLET-OCTOBRE-2025.md",
-    "fiches/2025-10/agent-skills-anthropic-2025-10-16.md",
-    "fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02.md",
-    "fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md",
-    "fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10.md",
-    "fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md",
-    "fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md",
-    "skills/brainstorming.md",
-    "fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md",
-    "fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md",
-    "fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md",
-    "fiches/2025-09/compounding-teams-schillace-2025-09-28.md",
-    "fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md",
-    "fiches/2025-09/transformation-ai-first-15-questions-laissy-2025.md",
-    "fiches/2025-09/mcp-replaces-browser-logrocket-2025.md"
+    "fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md",
+    "fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15.md",
+    "fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15.md",
+    "fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md",
+    "fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15.md",
+    "fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md",
+    "fiches/2025-08/martin-fowler-llm-software-development-2025-08-15.md",
+    "fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md",
+    "fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23.md",
+    "fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15.md",
+    "fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18.md",
+    "fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22.md",
+    "fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15.md",
+    "fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md",
+    "fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11.md",
+    "fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25.md",
+    "fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07.md",
+    "mobile-share/docs/plans/2025-10-23-implementation-plan.md",
+    "mobile-share/docs/plans/2025-10-23-mobile-share-design.md",
+    "mobile-share/docs/plans",
+    "mobile-share/docs",
+    "fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01.md",
+    "fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17.md",
+    "fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01.md",
+    "fiches/2023-10",
+    "fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01.md",
+    "fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01.md",
+    "fiches/2025-11",
+    "mobile-share",
+    "fiches/2023-07",
+    "fiches/2024-10",
+    "fiches/2025-03",
+    "fiches/2024-04",
+    "fiches/2021-02"
   ]
 }

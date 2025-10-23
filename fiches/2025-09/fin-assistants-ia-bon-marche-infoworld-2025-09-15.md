@@ -1,4 +1,4 @@
-# fin-assistants-ia-bon-marche-infoworld-2025
+# fin-assistants-ia-bon-marche-infoworld-2025-09-15
 ## Veille
 Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld
 ## Titre Article

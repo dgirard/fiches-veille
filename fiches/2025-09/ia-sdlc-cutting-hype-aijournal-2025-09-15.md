@@ -1,4 +1,4 @@
-# ia-sdlc-cutting-hype-aijournal-2025
+# ia-sdlc-cutting-hype-aijournal-2025-09-15
 ## Veille
 IA dans le cycle de vie logiciel - Qualité vs vitesse - Assurance qualité systématique - AI Journal
 ## Titre Article

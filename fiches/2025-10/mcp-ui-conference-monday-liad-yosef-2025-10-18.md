@@ -1,4 +1,4 @@
-# mcp-ui-conference-monday-liad-yosef-2025-10
+# mcp-ui-conference-monday-liad-yosef-2025-10-18
 
 ## Veille
 MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com
@@ -7,7 +7,7 @@ MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état
 MCP-UI: The Future of Agentic Interfaces (Conference Talk)
 
 ## Date
-2025-10
+2025-10-18
 
 ## URL
 https://www.youtube.com/watch?v=SIXTArBVL5w

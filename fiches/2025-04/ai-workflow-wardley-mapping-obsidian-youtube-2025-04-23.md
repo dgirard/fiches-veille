@@ -1,4 +1,4 @@
-# ai-workflow-wardley-mapping-obsidian-youtube-2025-10
+# ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23
 
 ## Veille
 Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo
@@ -7,7 +7,7 @@ Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian grap
 AI Workflow for Creating Wardley Maps (Video Tutorial)
 
 ## Date
-2025-10
+2025-04-23
 
 ## URL
 https://www.youtube.com/watch?v=uU1fSE0piXM

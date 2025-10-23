@@ -1,4 +1,4 @@
-# mcp-replaces-browser-logrocket-2025
+# mcp-replaces-browser-logrocket-2025-09-15
 ## Veille
 MCP remplace le navigateur - Interactions agents IA - Développeurs frontend - LogRocket Blog
 ## Titre Article

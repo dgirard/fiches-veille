@@ -1,4 +1,4 @@
-# wardley-mapping-explique-guide-strategique-2025-10
+# wardley-mapping-explique-guide-strategique-2025-10-01
 
 ## Veille
 Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne
@@ -7,7 +7,7 @@ Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolut
 Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)
 
 ## Date
-2025-10
+2025-10-01
 
 ## URL
 https://github.com/dgirard/fiches-veille/blob/main/docs/deep%20research/202510/Wardley%20Mapping%20Expliqu%C3%A9.md

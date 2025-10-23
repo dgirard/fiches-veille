@@ -1,4 +1,4 @@
-# martin-fowler-llm-software-development-2025-08
+# martin-fowler-llm-software-development-2025-08-15
 ## Veille
 Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler
 ## Titre Article

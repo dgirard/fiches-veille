@@ -1,4 +1,4 @@
-# ace-agentic-context-engineering-stanford-2025-10
+# ace-agentic-context-engineering-stanford-2025-10-07
 ## Veille
 Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford
 ## Titre Article
