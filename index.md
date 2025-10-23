@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Octobre 2025
 
+- **[2025-10-22]** [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Web conversationnel, navigateur IA, transformation digitale - WeVision
 - **[2025-10]** [Wardley Mapping Expliqué](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10.md) - Conscience situationnelle, stratégie visuelle, évolution - Guide stratégique
 - **[2025-10-19]** [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Jagged frontier, Centaurs vs Cyborgs, guide pratique - Ethan Mollick
 - **[2025-10-03]** [Why Teams Don't Escalate](fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03.md) - Barrières escalation, surengagement, actions leaders - John Cutler
@@ -75,6 +76,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Anthropic Research
 - [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - Google Cloud
 - [Why Teams Don't Escalate](fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03.md) - John Cutler
+- [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Olivier Rafal
 
 ### Qualité & Sécurité
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025.md) - AI Journal
@@ -98,7 +100,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 29
+- **Total d'articles** : 30
 - **Période couverte** : Juillet - Octobre 2025
-- **Principaux auteurs** : Ethan Mollick (2), Simon Willison (2), Jesse Vincent (2), Anthropic (2), Qizheng Zhang et al. (1), Philippe Ensarguet (1), Sam Schillace (1), Jean-Christophe Laissy (1), Martin Fowler (1), Robert Cialdini (1), Guillaume Roques (1), Ebony Louis (1), Liad Yosef (1), Simon Wardley (1), John Cutler (1)
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google Cloud, Substack, Wharton Research, arXiv/Stanford, The Batch, Think with Google, Goose/Block, Monday.com, YouTube, One Useful Thing
+- **Principaux auteurs** : Ethan Mollick (2), Simon Willison (2), Jesse Vincent (2), Anthropic (2), Qizheng Zhang et al. (1), Philippe Ensarguet (1), Sam Schillace (1), Jean-Christophe Laissy (1), Martin Fowler (1), Robert Cialdini (1), Guillaume Roques (1), Ebony Louis (1), Liad Yosef (1), Simon Wardley (1), John Cutler (1), Olivier Rafal (1)
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google Cloud, Substack, Wharton Research, arXiv/Stanford, The Batch, Think with Google, Goose/Block, Monday.com, YouTube, One Useful Thing, WeVision
