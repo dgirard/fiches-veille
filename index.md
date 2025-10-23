@@ -48,6 +48,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-07-18]** [Call Me A Jerk: Persuading AI](fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md) - Principes de Cialdini - Compliance parahuman - Wharton
 
+### Mai 2025
+
+- **[2025-05-22]** [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Framework adoption IA organisationnelle - One Useful Thing
+
 ---
 
 ## Thématiques
@@ -71,6 +75,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Déclin du RAG](fiches/2025-10/rag-decline-context-windows-2025-10-08.md) - LinkedIn
 
 ### Transformation & Adoption
+- [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025.md) - Jean-Christophe Laissy
 - [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Anthropic Research
@@ -100,7 +105,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 30
-- **Période couverte** : Juillet - Octobre 2025
-- **Principaux auteurs** : Ethan Mollick (2), Simon Willison (2), Jesse Vincent (2), Anthropic (2), Qizheng Zhang et al. (1), Philippe Ensarguet (1), Sam Schillace (1), Jean-Christophe Laissy (1), Martin Fowler (1), Robert Cialdini (1), Guillaume Roques (1), Ebony Louis (1), Liad Yosef (1), Simon Wardley (1), John Cutler (1), Olivier Rafal (1)
+- **Total d'articles** : 31
+- **Période couverte** : Mai - Octobre 2025
+- **Principaux auteurs** : Ethan Mollick (3), Simon Willison (2), Jesse Vincent (2), Anthropic (2), Qizheng Zhang et al. (1), Philippe Ensarguet (1), Sam Schillace (1), Jean-Christophe Laissy (1), Martin Fowler (1), Robert Cialdini (1), Guillaume Roques (1), Ebony Louis (1), Liad Yosef (1), Simon Wardley (1), John Cutler (1), Olivier Rafal (1)
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google Cloud, Substack, Wharton Research, arXiv/Stanford, The Batch, Think with Google, Goose/Block, Monday.com, YouTube, One Useful Thing, WeVision
