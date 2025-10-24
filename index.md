@@ -38,7 +38,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-09-15]** [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15.md) - Jean-Christophe Laissy
 - **[2025-09-15]** [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Adoption inégale de l'IA
 - **[2025-09-15]** [MCP remplace le navigateur](fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15.md) - Model Context Protocol - LogRocket
-- **[2025-09-15]** [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md) - Réalité économique - InfoWorld
+- **[2025-09-15]** [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-che-infoworld-2025-09-15.md) - Réalité économique - InfoWorld
 - **[2025-09-15]** [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - Qualité vs vitesse - AI Journal
 - **[2025-09-08]** [The Hot Vibe Code Summer](fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md) - Développement intuitif assisté IA - RedMonk
 
