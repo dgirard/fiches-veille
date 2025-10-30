@@ -8,6 +8,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Octobre 2025
 
+- **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
+- **[2025-10-24]** [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Disruption IA du conseil en management - Reuters Breakingviews
+- **[2025-10-22]** [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Format optimisation jetons - GitHub
 - **[2025-10-22]** [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Web conversationnel, navigateur IA, transformation digitale - WeVision
 - **[2025-10-19]** [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Jagged frontier, Centaurs vs Cyborgs, guide pratique - Ethan Mollick
 - **[2025-10-16]** [Introducing Agent Skills](fiches/2025-10/agent-skills-anthropic-2025-10-16.md) - Annonce officielle Skills par Anthropic - Anthropic
@@ -81,6 +84,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-05-22]** [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Framework adoption IA organisationnelle - One Useful Thing
 - **[2025-05-01]** [Linear: AI-First Issue Tracking](fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01.md) - Project management - Linear
 
+### Juillet 2024
+
+- **[2024-07-22]** [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Planification stratégique face à l'AGI - One Useful Thing
+
 ### Avril 2024
 
 - **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
@@ -118,8 +125,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [n8n Workflows: 2000+ Collection](fiches/2025-10/n8n-workflows-2000-collection-agents-ia-2025-10.md) - n8n
 - [Claude Code Subagents Documentation](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) - Anthropic
 - [AWS Kiro: Specification-Driven Agentic IDE](fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15.md) - Forbes
+- [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
 
 ### Architecture & Construction
+- [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Johann Schopplich
 - [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Philippe Ensarguet
 - [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15.md) - Pragmatic Engineer
 - [MCP-UI: Conference Talk](fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10.md) - Liad Yosef (Monday.com)
@@ -134,6 +143,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Ethan Mollick
+- [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Ethan Mollick
 - [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15.md) - Jean-Christophe Laissy
 - [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Anthropic Research
 - [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - Google Cloud
@@ -158,6 +168,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Aimee Donnellan
 - [DeepSeek Cuts Inference Costs, OpenAI-AMD, Fine-Tuning](fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md) - The Batch
 - [Risque de bulle IA](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) - LinkedIn/Bloomberg
 - [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md) - InfoWorld
@@ -209,7 +220,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 80
+- **Total d'articles** : 84
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (3), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, Wenvision, Linear, Qodo, Forbes, White House
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub
