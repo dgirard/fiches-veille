@@ -6,6 +6,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Articles par date de publication
 
+### Janvier 2025
+
+- **[2025-01-01]** [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Applications customisées par IA - Lee Robinson
+
 ### Octobre 2025
 
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
@@ -152,6 +156,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Salesforce: AI 30-50% Work](fiches/2025-10/salesforce-ai-30-50-percent-work-benioff-2025-10.md) - Marc Benioff
 - [a16z: One Prompt Zero Engineers](fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19.md) - a16z
 - [Yamini Rangan: HubSpot AI](fiches/2025-10/yamini-rangan-hubspot-ceo-ai-transformation-2025-10.md) - HubSpot
+- [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Lee Robinson
 
 ### Qualité & Sécurité
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - AI Journal
@@ -220,7 +225,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 84
+- **Total d'articles** : 85
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog
