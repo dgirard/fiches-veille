@@ -7,3 +7,5 @@ https://www.reuters.com/commentary/breakingviews/ai-sets-up-kodak-moment-global-
 https://leerob.com/personal-software?s=09
 
 https://www.cybernetica.fr/le-sentiment-de-bulle-a-lepreuve-du-capital-infini/?ref=conseil-de-la-resilience-numerique-newsletter
+
+https://a16z.com/the-trillion-dollar-ai-software-development-stack/
