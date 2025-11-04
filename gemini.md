@@ -1,6 +1,6 @@
 # Structure d'analyse d'article pour la veille
 
-## Organisation des fichiers
+## Organisation des fichiers:
 
 Les fiches de veille sont organisées dans des répertoires par mois de **publication** (et non par date de lecture) :
 
