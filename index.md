@@ -6,6 +6,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Articles par date de publication
 
+### Novembre 2025
+
+- **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
+- **[2025-11-02]** [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Réalignement industriel, capital infini - Cybernetica
+
+### Février 2025
+
+- **[2025-02-01]** [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Answer Engine Optimization - Graphite.io
+
 ### Janvier 2025
 
 - **[2025-01-01]** [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Applications customisées par IA - Lee Robinson
@@ -23,6 +32,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-10-15]** [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Redéfinition du logiciel - Architecture AI-native - LinkedIn
 - **[2025-10-11]** [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Philosophie médiévale/moderne - Revue Thomiste
 - **[2025-10-10]** [Claude Skills: Document Manipulation](fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md) - Découverte /mnt/skills - Simon Willison
+- **[2025-10-09]** [The Trillion Dollar AI Software Development Stack](fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09.md) - Marché 1T$, productivité développeur - a16z
 - **[2025-10-09]** [Superpowers: Skills pour agents IA](fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md) - Apprentissage continu - Jesse Vincent
 - **[2025-10-09]** [Risque de bulle IA](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg
 - **[2025-10-08]** [Déclin du RAG](fiches/2025-10/rag-decline-context-windows-2025-10-08.md) - Expansion fenêtres de contexte - LinkedIn
@@ -157,6 +167,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [a16z: One Prompt Zero Engineers](fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19.md) - a16z
 - [Yamini Rangan: HubSpot AI](fiches/2025-10/yamini-rangan-hubspot-ceo-ai-transformation-2025-10.md) - HubSpot
 - [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Lee Robinson
+- [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - AI Journal
@@ -182,6 +193,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [a16z Top 100 Gen AI Apps - 5th Edition](fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md) - a16z
 - [Stanford HAI: AI Index 2025](fiches/2025-10/stanford-hai-ai-index-report-2025-trends-2025-10.md) - Stanford
 - [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - Gartner
+- [The Trillion Dollar AI Software Development Stack](fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09.md) - a16z
+- [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Tariq KRIM
+- [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
 
 ### Philosophie & Société
 - [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Revue Thomiste
@@ -225,7 +239,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 85
+- **Total d'articles** : 89
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code
