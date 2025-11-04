@@ -13,14 +13,6 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
 - **[2025-11-02]** [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Réalignement industriel, capital infini - Cybernetica
 
-### Février 2025
-
-- **[2025-02-01]** [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Answer Engine Optimization - Graphite.io
-
-### Janvier 2025
-
-- **[2025-01-01]** [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Applications customisées par IA - Lee Robinson
-
 ### Octobre 2025
 
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
@@ -46,11 +38,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-10-01]** [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - RISC-V AI SoC - CEA
 - **[2025-10-01]** [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Research program - Apollo Academy
 
-
 ### Septembre 2025
 
-- **[2025-09-28]** [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Productivité exponentielle - IA récursif - Substack
 - **[2025-09-29]** [Claude Code Subagents Documentation](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) - Specialized AI assistants - Anthropic
+- **[2025-09-28]** [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Productivité exponentielle - IA récursif - Substack
 - **[2025-09-23]** [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - IA amplifie performance équipes - Google Cloud
 - **[2025-09-18]** [Anthropic Outage Post-Mortem](fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18.md) - Service reliability - Anthropic
 - **[2025-09-16]** [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Payment protocol - Google
@@ -65,7 +56,6 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Août 2025
 
 - **[2025-08-27]** [a16z Top 100 Gen AI Apps - 5th Edition](fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md) - Market stabilization, Google Gemini #2 - a16z
-- **[2025-07-29]** [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - 4 innovations critiques - Gartner
 - **[2025-08-25]** [Block Goose: MCP-UI Future](fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25.md) - Agentic interfaces - Block/Square
 - **[2025-08-25]** [MCP-UI: The Future of Agentic Interfaces](fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md) - Interfaces riches et interactives pour agents - Goose/Block
 - **[2025-08-22]** [Luc Julia: AI Controversy](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) - French tech debate - Media
@@ -101,14 +91,6 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-05-22]** [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Framework adoption IA organisationnelle - One Useful Thing
 - **[2025-05-01]** [Linear: AI-First Issue Tracking](fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01.md) - Project management - Linear
 
-### Juillet 2024
-
-- **[2024-07-22]** [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Planification stratégique face à l'AGI - One Useful Thing
-
-### Avril 2024
-
-- **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
-
 ### Avril 2025
 
 - **[2025-04-23]** [AI Workflow for Wardley Mapping](fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23.md) - LLM prompts, Obsidian, NetworkX clustering - Tutoriel vidéo
@@ -118,10 +100,26 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-03-05]** [Google AI Mode Search](fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05.md) - Personalized sites - Google
 
+### Février 2025
+
+- **[2025-02-01]** [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Answer Engine Optimization - Graphite.io
+
+### Janvier 2025
+
+- **[2025-01-01]** [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Applications customisées par IA - Lee Robinson
+
 ### Octobre 2024
 
 - **[2024-10-17]** [Kent Beck: Vibe Coding vs TDD](fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17.md) - Software craftsmanship - LinkedIn
 - **[2024-10-08]** [LightRAG: Simple and Fast RAG](fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08.md) - Dual-level retrieval system - HKUDS 22k stars
+
+### Juillet 2024
+
+- **[2024-07-22]** [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Planification stratégique face à l'AGI - One Useful Thing
+
+### Avril 2024
+
+- **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
 
 ---
 
