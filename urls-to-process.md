@@ -9,3 +9,5 @@ https://leerob.com/personal-software?s=09
 https://www.cybernetica.fr/le-sentiment-de-bulle-a-lepreuve-du-capital-infini/?ref=conseil-de-la-resilience-numerique-newsletter
 
 https://a16z.com/the-trillion-dollar-ai-software-development-stack/
+
+https://welovesota.com/article/the-human-layer-with-gilles-chehade-building-trust-through-transparency
