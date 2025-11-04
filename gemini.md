@@ -42,7 +42,7 @@ Chaque fiche suit ce format :
 - **Keywords** : Mots-clés associés à l'article
 - **Authors** : Auteur(s) de l'article
 - **Pense-betes** : Notes et remarques importantes (format liste à puces)
-- **RésuméDe400mots** : Résumé de l'article en 400 mots maximum
+- **RésuméDe400mots** : Résumé de l'article en 400 mots maximum (en français)
 
 ## Workflow d'ajout d'un nouvel article
 
