@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-04]** [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Effondrement coût logiciel, permissionless dev - Cobus Greyling
+- **[2025-11-03]** [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Artisanat logiciel, open-source, impact IA - Gilles Chehade
 - **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
 - **[2025-11-02]** [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Réalignement industriel, capital infini - Cybernetica
 
@@ -22,6 +24,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Octobre 2025
 
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
+- **[2025-10-26]** [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Commerce agentique, confiance IA shopping - Riskified/Jerusalem Post
 - **[2025-10-24]** [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Disruption IA du conseil en management - Reuters Breakingviews
 - **[2025-10-22]** [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Format optimisation jetons - GitHub
 - **[2025-10-22]** [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Web conversationnel, navigateur IA, transformation digitale - WeVision
@@ -170,6 +173,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
+- [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Gilles Chehade
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - AI Journal
 - [Réflexions sur LLMs et développement](fiches/2025-08/martin-fowler-llm-software-development-2025-08-15.md) - Martin Fowler
 - [Call Me A Jerk: Persuading AI](fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18.md) - Wharton Research
@@ -184,6 +188,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Cobus Greyling
+- [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Lior Novik
 - [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Aimee Donnellan
 - [DeepSeek Cuts Inference Costs, OpenAI-AMD, Fine-Tuning](fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md) - The Batch
 - [Risque de bulle IA](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) - LinkedIn/Bloomberg
@@ -239,7 +245,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 89
+- **Total d'articles** : 92
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, Medium
