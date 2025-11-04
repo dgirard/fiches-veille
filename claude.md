@@ -32,17 +32,32 @@ Chaque fiche suit ce format :
 ## RésuméDe400mots
 ```
 
+## Langue de rédaction
+
+**IMPORTANT : Toutes les fiches doivent être rédigées intégralement en français.**
+
+Cela inclut :
+- Les résumés (RésuméDe400mots)
+- Les pense-bêtes
+- Les keywords
+- Toutes les sections de la fiche
+
+Seuls les éléments suivants peuvent rester dans leur langue d'origine :
+- Le titre original de l'article (Titre Article)
+- L'URL
+- Les noms d'auteurs
+
 ## Description des sections
 
 - **Identifiant Technique** : Identifiant unique pour l'article (utilisé comme nom de fichier)
-- **Veille** : Compression synthétique du titre de l'article, des keywords et du domaine du site
-- **Titre Article** : Titre original de l'article
+- **Veille** : Compression synthétique du titre de l'article, des keywords et du domaine du site (en français)
+- **Titre Article** : Titre original de l'article (langue source)
 - **Date** : Date de publication au format ISO (YYYY-MM-DD) - détermine le répertoire de stockage
 - **URL** : Lien vers l'article source
-- **Keywords** : Mots-clés associés à l'article
+- **Keywords** : Mots-clés associés à l'article (en français)
 - **Authors** : Auteur(s) de l'article
-- **Pense-betes** : Notes et remarques importantes (format liste à puces)
-- **RésuméDe400mots** : Résumé de l'article en 400 mots maximum
+- **Pense-betes** : Notes et remarques importantes (format liste à puces, en français)
+- **RésuméDe400mots** : Résumé de l'article en 400 mots maximum (en français)
 
 ## Workflow d'ajout d'un nouvel article
 
