@@ -18,6 +18,11 @@ IA générative, Développement interne, No-code/low-code, Automatisation, Démo
 ## Authors
 Gabriel Vasquez, Stephenie Zhang, Yoko Li (a16z)
 
+## Ton
+**Profil:** Professionnel-Stratégique | Institutionnelle VC | Analytique-Prescriptive | Intermédiaire-Expert
+
+Authors a16z adoptent venture capital thought leadership voice combinant trend analysis et investment thesis. Titre provocateur "One Prompt, Zero Engineers" captures disruption narrative mémorablement. Structure historical context → current revolution → challenges → recommendations reveals systematic framework thinking. Multiple auteurs signalent team analysis approach. Langage balances technical concepts (low-code evolution, Gen AI capabilities) avec business implications (democratization, bottleneck reduction). Warnings explicit (security, governance, shadow IT) demonstrate mature assessment beyond hype. Vise enterprise leaders et investors avec blend market opportunity analysis et implementation cautions. Typique a16z content positioning firm comme thoughtful observers emerging technology landscapes.
+
 ## Pense-betes
 - **Réduction temps prototype** : semaines → heures
 - **Non-engineers can create** functional workflows

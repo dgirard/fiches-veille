@@ -11,6 +11,12 @@ https://blog.logrocket.com/mcp-is-replacing-the-browser/
 mcp, agents IA, Model Context Protocol, développement web, frontend, API, sécurité, UX, AI-first, ingénierie logicielle
 ## Authors
 Peter Aideloje
+
+## Ton
+**Profil:** Professionnel-Éducatif | Deuxième personne instructionnelle | Éducative-Analytique | Intermédiaire
+
+Aideloje adopte developer advocate voice combinant vision transformative et practical guidance. Titre provocateur "MCP remplace le navigateur" establishes bold thesis. Structure explication protocol → implications → preparation guides progressive understanding. Langage technique accessible (serveurs MCP, schémas, outils/ressources/prompts) vise frontend developers transitioning. Framing "AI-first experiences" vs traditional web UIs crystallizes paradigm shift. Tone encouraging sans être dismissive des défis (debugging AI behavior, reliability). Typique LogRocket technical content visant upskill developers sur emerging technologies avec blend strategic vision et tactical implementation advice.
+
 ## Pense-betes
 - MCP = protocole ouvert pour connexion agents IA aux outils/données/API
 - Accès structuré et fiable au contexte au-delà des données d'entraînement

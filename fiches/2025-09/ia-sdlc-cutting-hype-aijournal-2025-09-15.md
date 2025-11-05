@@ -11,6 +11,12 @@ https://aijourn.com/ai-in-the-sdlc-cutting-through-the-hype/
 AI in the SDLC, Software Development Lifecycle, Quality Assurance, Code Generation, Security Vulnerabilities, Technical Debt, Testing, Code Review
 ## Authors
 Edgar Kussberg, AIJ Guest Post
+
+## Ton
+**Profil:** Professionnel-Critique | Guest post analytique | Analytique-Prescriptive | Intermédiaire-Expert
+
+Kussberg adopte tone quality assurance advocate tempérant AI enthusiasm avec rigorous caution. Titre "Cutting Through the Hype" signals skeptical posture. Structure balanced promises → challenges → strategies reveals measured assessment. Citations research (Stanford study developers introducing vulnerabilities) ground warnings empirically. Langage technique (SDLC stages, technical debt, security vulnerabilities) vise engineering leaders. Prescriptions systematic (mandatory unit tests, separate QA tools) provide actionable mitigation. Tone serious professional évite both dismissive cynicism et naive cheerleading. Typique guest posts tech journals introducing contrarian quality-focused perspective contre prevailing AI optimism.
+
 ## Pense-betes
 - IA transforme SDLC, mais vitesse court terme peut sacrifier valeur long terme
 - Évolution : co-rédaction code → génération fonctionnalités complètes par agents

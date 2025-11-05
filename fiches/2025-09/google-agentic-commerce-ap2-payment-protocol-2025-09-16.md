@@ -18,6 +18,11 @@ payments, agents, a2a, generative-ai, gen-ai, agentic-ai, AP2, interoperability,
 ## Authors
 @holtskinner, @mdoeseckle, @github-actions[bot], @zeroasterisk, @prateekdudeja19-g, @gemini-code-assist[bot], @didier-durand, @rickj1ang, @timcappalli, @hqueue, @mikeas1, @pln-google
 
+## Ton
+**Profil:** Professionnel-Technique | Institutionnelle collaborative | Éducative-Promotionnelle | Intermédiaire-Expert
+
+README GitHub adopte ton open-source project standard équilibrant technical documentation et community invitation. Multiple contributors signalent collaborative development approach. Langage technique direct (PyPI, ADK, Gemini 2.5, authentication methods, protocol objects) vise developer audience. Explicit statement flexibility ("AP2 not dependent on specific tools") encourages broad adoption. Structure README systematic (Introduction → Getting Started → Core Objects → Contributing) follows GitHub conventions. Apache-2.0 license prominence signals open collaborative philosophy. Tone measured professional évite corporate hype tout en communiquant protocol importance. Typique Google open-source initiatives (TensorFlow, Kubernetes style) inviting community participation.
+
 ## Pense-betes
 - **AP2 = Agent Payments Protocol** : sécurisé et interopérable pour AI-driven payments
 - **Code samples et demos** fournis dans repository

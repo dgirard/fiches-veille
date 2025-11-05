@@ -18,6 +18,11 @@ Claude Code, subagents, AI assistants, task-specific workflows, context manageme
 ## Authors
 Anthropic (documentation officielle)
 
+## Ton
+**Profil:** Professionnel-Pédagogique | Instructionnelle | Éducative | Intermédiaire
+
+Documentation adopte ton technical writing standard équilibrant completeness et accessibility. Structure systematic (Caractéristiques → Configuration → Exemples → Best Practices) guides progressive understanding. Terminologie technique précise (YAML frontmatter, context windows, tool permissions) assume developer audience. Code examples concrets (code reviewer, debugger, data scientist) ground abstract concepts. Langage prescriptif pour best practices ("should", "must", "avoid") provides clear guidance. Formatting soigné avec sections clairement délimitées facilite scanning. Pas de marketing fluff — pure instructional content. Typique developer documentation quality (Stripe, Anthropic docs style) priorisant clarity et practical utility.
+
 ## Pense-betes
 - **Subagents = AI assistants spécialisés** avec purpose spécifique, context window séparé, outils configurables, system prompt custom
 - **Bénéfices clés** : préservation contexte, expertise spécialisée, réutilisabilité, permissions outils flexibles

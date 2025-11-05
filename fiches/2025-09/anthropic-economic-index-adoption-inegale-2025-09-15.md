@@ -11,6 +11,12 @@ https://www.anthropic.com/research/anthropic-economic-index-september-2025-repor
 Adoption de l'IA, impact économique, distribution géographique, IA d'entreprise, Claude.ai, utilisation de l'API, automatisation, augmentation, marché du travail, inégalité économique, fracture numérique, tâches O*NET, Indice Économique d'Anthropic, Indice d'Utilisation de l'IA d'Anthropic
 ## Authors
 Ruth Appel, Peter McCrory, Alex Tamkin, Miles McCain, Tyler Neylon, Michael Stern
+
+## Ton
+**Profil:** Académique-Professionnel | Institutionnelle research | Analytique-Éducative | Expert
+
+Rapport adopte ton research institutionnel rigoureux combinant data science et policy analysis. Multiple auteurs reflètent équipe research collaborative. Terminologie spécialisée (AUI Index, O*NET tasks, directive vs augmentative usage) vise audience researchers, policymakers et business analysts. Structure méthodologique systématique révèle rigueur académique. Citations quantitatives précises (40% adoption, 77% automation, 90% rate Dropbox) ancrent claims empiriquement. Framing impact économique et policy implications signale double audience : research community ET décideurs. Open-sourcing data reflects commitment à reproducible research. Typique AI research reports combinant scientific rigor et practical relevance (style OpenAI/Google Research reports).
+
 ## Pense-betes
 - 40% des employés américains utilisent l'IA au travail (vs 20% en 2023)
 - Augmentation des tâches "directives" (délégation complète) sur Claude.ai

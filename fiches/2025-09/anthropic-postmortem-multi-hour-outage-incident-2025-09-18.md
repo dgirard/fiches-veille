@@ -18,6 +18,11 @@ Anthropic, outage post-mortem, Claude, service reliability, incident response, i
 ## Authors
 Anthropic Engineering team
 
+## Ton
+**Profil:** Professionnel-Technique | Institutionnelle transparente | Analytique-Éducative | Expert
+
+Engineering team adopte ton post-mortem institutionnel exemplaire combinant radical transparency et technical precision. Structure chronological rigoureuse (timestamps précis 14:23 → 18:50 UTC) demonstrates systematic analysis. Terminologie hautement technique (database shards, failover protocols, load balancer configuration, circuit breakers) vise audience technical stakeholders. Sections dédiées root cause, monitoring gaps, customer impact, remediation signalent thoroughness. Quantifications précises (47k users, 3.2M failed requests, $2.1M impact) show accountability. Tone measured, factual, non-defensive révèle engineering culture maturity. Contrasts sharply avec vague corporate PR. Typique elite engineering post-mortems (Google SRE, AWS style) building trust through transparency.
+
 ## Pense-betes
 - **Multi-hour outage** : Claude unavailable 4+ hours
 - **Database cascade failure** : root cause identified

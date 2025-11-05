@@ -11,6 +11,12 @@ https://www.infoworld.com/article/4048198/the-era-of-cheap-ai-coding-assistants-
 Développeur, IA Générative, Intelligence Artificielle, Développement Logiciel, Budgets IT, Productivité, Pénuries de GPU, Coûts de licence des modèles
 ## Authors
 Anirban Ghoshal
+
+## Ton
+**Profil:** Journalistique-Analytique | Troisième personne | Analytique-Éducative | Intermédiaire
+
+Ghoshal adopte ton tech journalism enterprise équilibrant reporting factuel et implications business. Structure problème économique → causes → reactions → solutions strategiques révèle analyse systématique. Multiple expert citations (Hinchcliffe, Zhou, Dai, Shimmin) construct multiperspective narrative évitant single-source bias. Data points précis (84% adoption, 97% usage) ground claims empiriquement. Langage accessible évite jargon technique while covering substantive topics (GPU tensions, KVCache). Framing pour CIO audience (budget implications, ROI considerations) signals practical business focus. Typique InfoWorld enterprise tech journalism combinant industry trends analysis avec actionable guidance pour IT leaders.
+
 ## Pense-betes
 - 84% d'adoption ou planification en 2025 (Stack Overflow), 97%+ utilisent (GitHub)
 - Harmonisation des prix à la hausse : Cursor, Claude Code, Kiro

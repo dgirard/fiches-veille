@@ -11,6 +11,12 @@ https://www.linkedin.com/pulse/structurer-la-transformation-ai-first-en-15-quest
 IA, AI-First, Transformation digitale, Pilotes IA, Industrialisation IA, Héritage d'entreprise, Obstacles organisationnels, Coût de friction, Démocratisation de l'IA, Modèle économique AI-native, Paradoxe de l'héritage, Données propriétaires, Organisation AI-First, Plateforme technologique décentralisée, Rôle DSI, Règle 10/20/70, Gestion du changement, Co-construction, Leadership, Compétences IA, Quick wins, Gouvernance financière agile, Entreprise Bionique, IA Responsable
 ## Authors
 Jean-Christophe LAISSY
+
+## Ton
+**Profil:** Professionnel-Stratégique | Première personne consulting | Prescriptive-Éducative | Intermédiaire-Expert
+
+Laissy adopte ton consultant senior français combinant rigueur intellectuelle et pragmatisme actionable. Structure 15 questions systematically decompose transformation complexity. Concepts percutants ("purgatoire des pilotes", "paradoxe de l'héritage", "entreprise bionique") crystallize abstract issues mémorablement. Règle 10/20/70 provides memorable framework. Citations data (70% échec transformations) ground recommendations empirically. Langage assumé technique-business (P&L, DSI, SUV, KPIs) vise C-suite/VP-level audience. Tone authoritative sans être academic, accessible sans oversimplification. Typique LinkedIn thought leadership executives français combinant strategic vision et change management expertise.
+
 ## Pense-betes
 - 70% d'échec des transformations digitales
 - "Purgatoire des pilotes IA" : investissements massifs sans industrialisation

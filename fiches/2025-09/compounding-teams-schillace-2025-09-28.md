@@ -11,6 +11,12 @@ https://sundaylettersfromsam.substack.com/p/i-have-seen-the-compounding-teams
 Compounding Teams, AI-driven Development, Exponential Productivity, Recursive Tools, Framework Development, Automation, Modular Systems, AI Agents, Knowledge Work, Software Engineering
 ## Authors
 Sam Schillace
+
+## Ton
+**Profil:** Conversationnel-Visionnaire | Première personne testimoniale | Opinion-Éducative | Intermédiaire-Expert
+
+Schillace adopte style Substack thought leader mêlant observation empirique et vision transformative. Ouverture déclarative ("I have seen the compounding teams") establishes testimonial authority. Citation clé upfront ("new, better way to do things is now very clear") signals strong conviction. Détails concrets (5-10 parallel processes, hundreds dollars daily API spend, haven't touched code in months) ground visionary claims. Comparaisons historical tech revolutions (PC, browsers, smartphones) frame significance. Langage technique assumed (git, Kubernetes, orchestration) vise audience technical leaders. Ton enthousiaste tempéré par pragmatic specifics évite hype excessif. Typique executive Substack newsletters (Altman, Brockman style) partageant insights depuis position privileged observation.
+
 ## Pense-betes
 - Citation clé : "The new, better way to do things is now very clear"
 - Équipes n'utilisant PAS les outils basiques (GitHub Copilot)

@@ -11,6 +11,12 @@ https://redmonk.com/kholterhoff/2025/09/08/the-endless-hot-vibe-code-summer/
 vibe coding, IA, LLMs, développement logiciel, sécurité, outils de développement, ingénierie IA, Andrej Karpathy, Simon Willison, Cursor, Windsurf, Lovable, v0, Bolt, Replit, GitHub Spark
 ## Authors
 Kate Holterhoff
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Journalistique narrative | Analytique-Opinion | Intermédiaire-Accessible
+
+Holterhoff adopte style tech journalism accessible mêlant reporting factuel et commentary culturel. Métaphore "Hot Vibe Code Summer" sets playful seasonal framing. Citations multiperspectives (Karpathy, Willison, Wang) construct narrative balanced. Langage direct évite jargon excessif ("vibe coding" lui-même terme colloquial) tout en couvrant technical substance (KVCache, MCP protocol). Structure chronological summer → problèmes émergents → perspectives futures révèle journaliste tracking story evolution. Admissions nuances (enthousiasme + préoccupations sécurité) shows balanced assessment. Typique RedMonk analysis combinant tech savvy et accessible storytelling visant broad developer audience.
+
 ## Pense-betes
 - "Vibe coding" : approche décontractée du dev assisté IA (terme d'Andrej Karpathy)
 - LLM fait le codage, développeur guide en langage naturel

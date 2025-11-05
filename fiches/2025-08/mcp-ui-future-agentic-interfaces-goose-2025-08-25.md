@@ -18,6 +18,11 @@ MCP-UI, Model Context Protocol UI, agentic interfaces, rich interactive web comp
 ## Authors
 Ebony Louis (Developer Advocate - Block/Goose)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Developer advocate enthusiastic | Éducative-Promotionnelle | Intermédiaire
+
+Louis adopte developer advocate voice équilibrant enthusiasm product et technical education. Ouverture problem-framing ("murs de texte", "copier-coller URLs") establishes relatable pain points. Structure problème → solution → architecture → benefits → exemples guides progressive understanding. Langage technique accessible (sandboxed iframes, remote DOM, post messages) évite intimidation. Exemples concrets (Shopify, voyage, restaurants) ground abstract protocol. Emphasis accessibility et cross-platform standardization shows values-driven approach. Tone optimistic sans naive hype (acknowledging adoption challenge). Typique Block/Goose developer advocacy combinant technical depth, practical utility et vision transformative.
+
 ## Pense-betes
 - **Problème résolu** : murs de texte dans conversations agents IA, copier-coller URLs, multiples onglets
 - **MCP-UI = protocole + SDK** pour composants web interactifs dans conversations agents

@@ -11,6 +11,12 @@ https://cloud.google.com/blog/products/ai-machine-learning/announcing-the-2025-d
 AI & Machine Learning, DevOps & SRE, Software Development, Team Performance, AI Adoption, Platform Engineering, DORA Metrics
 ## Authors
 Nathen Harvey, Derek DeBellis
+
+## Ton
+**Profil:** Professionnel-Éducatif | Institutionnelle avec adresse directe | Éducative-Prescriptive | Intermédiaire-Expert
+
+Harvey et DeBellis adoptent ton authoritative Google Cloud research combinant data-driven insights et actionable recommendations. Métaphore centrale "AI as amplifier" crystallizes core finding mémorably. Chiffres stratégiquement déployés (90% adoption, 80% productivity belief, 5000 surveys) ground claims empirically. Introduction DORA AI Capabilities Model avec 7 archétypes provides structured framework pour self-assessment. Langage prescriptif ("must", "critical", "essential") positions comme guide implementation. Framing organizational capabilities over tools signals maturity focus. Vise CTOs/VPs Engineering avec blend strategic vision et tactical guidance. Typique enterprise research reports (Google, McKinsey style) visant influence organizational strategy.
+
 ## Pense-betes
 - L'IA agit comme un "amplificateur" des dynamiques d'équipe existantes
 - 90% des organisations ont adopté au moins une plateforme IA

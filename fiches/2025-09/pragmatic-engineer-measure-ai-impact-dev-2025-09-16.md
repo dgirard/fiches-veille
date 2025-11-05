@@ -18,6 +18,11 @@ AI impact, software development, engineering efficiency, developer productivity,
 ## Authors
 Gergely Orosz and Laura Tacho
 
+## Ton
+**Profil:** Professionnel-Analytique | Co-auteurs expert | Éducative-Prescriptive | Intermédiaire-Expert
+
+Orosz et Tacho adoptent collaborative expert voice combinant reporting et framework building. Data depuis 18 companies (Google, GitHub, Microsoft, Dropbox) grounds recommendations empirically. Structure systematic blend core metrics + AI-specific reveals framework thinking. Citations case studies concrets (Dropbox 90% adoption, Microsoft BDDs, Monzo challenges) illustrate abstract principles. Langage prescriptif ("should blend", "must track", "essential") provides actionable guidance. Warnings explicit (quality risks, maintainability debt, acceptance rate limitations) show intellectual honesty. Vise engineering leaders avec blend strategic thinking et tactical implementation. Typique Pragmatic Engineer deep-dives combining industry research avec practical recommendations.
+
 ## Pense-betes
 - **18 leading tech companies** étudiées (Google, GitHub, Microsoft, Dropbox, Monzo, Atlassian...)
 - **85% engineers use AI tools**, mais manque de metrics claires pour justifier investment

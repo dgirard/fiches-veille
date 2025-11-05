@@ -11,6 +11,12 @@ https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built
 Claude Code, Anthropic, IA, ingénierie logicielle, développement, agents IA, terminal UX, prototypage rapide, tech stack, TypeScript, React, Ink, Yoga, Bun, sécurité, permissions, productivité, futur du développement, Gergely Orosz, Boris Cherny, Sid Bidasaria, Cat Wu
 ## Authors
 Gergely Orosz (auteur de l'article), Boris Cherny, Sid Bidasaria, Cat Wu (équipe fondatrice de Claude Code)
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Journalistique interview-based | Éducative-Analytique | Intermédiaire-Expert
+
+Orosz adopte style longform tech journalism combinant narrative storytelling et technical deep-dive. Structure chronologique genèse → architecture → impact révèle product development journey. Multiple voix (Cherny, Bidasaria, Wu) créent richesse perspective. Details revealing (90% self-written code, 50% adoption 5 days) ground ambitious claims. Langage technique assumed (TypeScript, React/Ink, Yoga, Bun) vise developer audience. Admissions franches (permission system challenges, dogfooding extreme) show authenticity. Typique Pragmatic Engineer feature stories combinant access insider avec critical analysis visant engineering leaders et practitioners.
+
 ## Pense-betes
 - Claude Code génère 500M$ de revenus annuels
 - Prototype initial (sept 2024) : identifier la musique écoutée
