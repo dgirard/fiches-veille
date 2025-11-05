@@ -86,6 +86,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-06-25]** [Augmented Coding Beyond Vibes](fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25.md) - Kent Beck on TDD with AI - Kent Beck
 - **[2025-06-23]** [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Three career paths in AI era - LinkedIn
 - **[2025-06-23]** [Gemini CLI et Claude Code: Hybrid Workflow](fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23.md) - Approche hybride multi-modèles - Reddit
+- **[2025-06-12]** [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) - Knowledge graph RDF/SHACL, Upper metamodel, projections automatiques - Netflix
 - **[2025-06-11]** [Qodo: State of AI Code Quality 2025](fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11.md) - 609 developers survey - Qodo
 
 ### Mai 2025
@@ -146,6 +147,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
 
 ### Architecture & Construction
+- [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) - Netflix
 - [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Johann Schopplich
 - [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Philippe Ensarguet
 - [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15.md) - Pragmatic Engineer
@@ -248,7 +250,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 94
+- **Total d'articles** : 95
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, Medium, OCTO Technology
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Netflix Technology Blog (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, Medium, OCTO Technology, Netflix TechBlog
