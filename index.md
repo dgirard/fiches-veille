@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-05]** [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli
+- **[2025-11-05]** [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Transformation rôles développeurs, ingénierie système, orchestration agentique - Yves Caseau
 - **[2025-11-04]** [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Effondrement coût logiciel, permissionless dev - Cobus Greyling
 - **[2025-11-03]** [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Artisanat logiciel, open-source, impact IA - Gilles Chehade
 - **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
@@ -126,6 +128,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Soufiane Keli
 - [Méthodologie agents de codage IA](fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md) - Jesse Vincent
 - [Superpowers: Skills pour agents IA](fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md) - Jesse Vincent
 - [Claude Skills: Document Manipulation](fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md) - Simon Willison
@@ -155,6 +158,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Ethan Mollick
@@ -171,6 +175,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
+- [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Soufiane Keli
 - [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Gilles Chehade
 - [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - AI Journal
 - [Réflexions sur LLMs et développement](fiches/2025-08/martin-fowler-llm-software-development-2025-08-15.md) - Martin Fowler
@@ -243,7 +248,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 92
+- **Total d'articles** : 94
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, Medium
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, Medium, OCTO Technology
