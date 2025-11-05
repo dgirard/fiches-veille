@@ -68,7 +68,91 @@ Seuls les éléments suivants peuvent rester dans leur langue d'origine :
 2. **Créer un identifiant technique** descriptif (ex: `nom-auteur-sujet-YYYY-MM-DD`)
 3. **Créer le fichier** dans le répertoire correspondant au mois de publication : `fiches/YYYY-MM/identifiant.md`
 4. **Remplir toutes les sections** selon le format standardisé
-5. **Mettre à jour `index.md`** (voir section suivante)
+5. **Sauvegarder le contenu brut** dans `raw-data/` (voir section suivante)
+6. **Mettre à jour `index.md`** (voir section plus bas)
+
+## Gestion des données brutes (raw-data)
+
+**IMPORTANT : Pour chaque article ajouté, le contenu brut de l'URL source doit être sauvegardé dans le répertoire `raw-data/`.**
+
+### Objectif
+Conserver le texte original des articles au format markdown pour :
+- Permettre des analyses futures du contenu source
+- Faciliter la vérification et mise à jour des fiches
+- Archiver le contenu en cas de disparition de l'article source
+
+### Structure
+```
+veille/
+├── raw-data/                          # Contenus bruts des articles (ignoré par git)
+│   ├── identifiant-article-1.md      # Format: {identifiant}.md
+│   └── identifiant-article-2.md
+├── scripts/                           # Scripts d'extraction et conversion
+│   ├── fetch_urls.py                 # Extraction des URLs des fiches
+│   └── download_raw_data.py          # Téléchargement et conversion en MD
+└── fiches/                            # Fiches d'analyse
+```
+
+### Workflow de sauvegarde du contenu brut
+
+#### 1. Vérifier la configuration
+
+**Avant toute opération, vérifier que :**
+
+- [ ] Le répertoire `raw-data/` existe (le créer si nécessaire : `mkdir raw-data`)
+- [ ] `raw-data/` est bien dans le `.gitignore`
+- [ ] Les scripts sont disponibles dans `scripts/`
+
+```bash
+# Vérifier .gitignore
+grep "raw-data/" .gitignore
+
+# Si absent, ajouter :
+echo "# Raw data from article URLs" >> .gitignore
+echo "raw-data/" >> .gitignore
+```
+
+#### 2. Sauvegarder le contenu brut lors de l'ajout d'une fiche
+
+**Deux méthodes possibles :**
+
+**Méthode A : Automatique (pour tous les articles)**
+```bash
+# Depuis la racine du projet
+python3 scripts/fetch_urls.py        # Extrait toutes les URLs
+python3 scripts/download_raw_data.py # Télécharge et convertit
+```
+
+**Méthode B : Manuel (pour un article spécifique)**
+```bash
+# Télécharger et convertir avec curl + lynx
+curl -sL "URL_ARTICLE" | lynx -dump -stdin -nolist > raw-data/identifiant-article.md
+```
+
+#### 3. Format du fichier brut
+
+Chaque fichier dans `raw-data/` doit :
+- Porter le même nom que l'identifiant de la fiche : `{identifiant}.md`
+- Contenir le contenu en markdown converti depuis le HTML
+- Inclure en en-tête : l'identifiant et l'URL source
+
+**Exemple de structure :**
+```markdown
+# identifiant-article-2025-11-05
+
+**URL:** https://example.com/article
+
+---
+
+[Contenu converti en markdown]
+```
+
+### Notes importantes
+
+- ⚠️ **Le répertoire `raw-data/` est ignoré par git** : les contenus ne sont pas versionnés
+- 📦 **Taille** : Prévoir ~100-500 Ko par article en moyenne
+- 🔄 **Mise à jour** : Relancer `download_raw_data.py` pour récupérer les articles manquants
+- ❌ **Exclusions** : Certains domaines peuvent être exclus (ex: yahoo.com)
 
 ## Mise à jour de index.md
 

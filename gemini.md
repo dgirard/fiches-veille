@@ -52,7 +52,50 @@ Chaque fiche suit ce format :
 2. **Créer un identifiant technique** descriptif (ex: `nom-auteur-sujet-YYYY-MM-DD`)
 3. **Créer le fichier** dans le répertoire correspondant au mois de publication : `fiches/YYYY-MM/identifiant.md`
 4. **Remplir toutes les sections** selon le format standardisé
-5. **Mettre à jour `index.md`** (voir section suivante)
+5. **Sauvegarder le contenu brut** dans `raw-data/` (voir section suivante)
+6. **Mettre à jour `index.md`** (voir section plus bas)
+
+## Gestion des données brutes (raw-data)
+
+**IMPORTANT : Pour chaque article ajouté, le contenu brut de l'URL source doit être sauvegardé dans le répertoire `raw-data/`.**
+
+### Objectif
+Conserver le texte original des articles au format markdown pour :
+- Permettre des analyses futures du contenu source
+- Faciliter la vérification et mise à jour des fiches
+- Archiver le contenu en cas de disparition de l'article source
+
+### Workflow de sauvegarde
+
+#### 1. Vérifier la configuration
+
+**Avant toute opération :**
+- Vérifier que `raw-data/` existe (créer si nécessaire : `mkdir raw-data`)
+- Vérifier que `raw-data/` est dans `.gitignore`
+- S'assurer que les scripts sont dans `scripts/`
+
+#### 2. Sauvegarder le contenu brut
+
+**Option 1 : Automatique (tous les articles)**
+```bash
+python3 scripts/fetch_urls.py        # Extrait les URLs
+python3 scripts/download_raw_data.py # Télécharge et convertit
+```
+
+**Option 2 : Manuel (article spécifique)**
+```bash
+curl -sL "URL" | lynx -dump -stdin -nolist > raw-data/identifiant.md
+```
+
+#### 3. Nommage
+
+Utiliser le même identifiant que la fiche : `{identifiant}.md`
+
+### Notes
+
+- Le répertoire `raw-data/` est ignoré par git
+- Format : markdown converti depuis HTML
+- Inclure identifiant et URL en en-tête
 
 ## Mise à jour de index.md
 
