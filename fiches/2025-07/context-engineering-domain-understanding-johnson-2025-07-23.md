@@ -18,6 +18,11 @@ Context Engineering, Domain Understanding, LLM, Gen AI, Domain-Integrated Contex
 ## Authors
 Rod Johnson
 
+## Ton
+**Profil:** Professionnel-Technique | Première personne thought leader | Analytique-Prescriptive | Expert
+
+Johnson (Spring Framework creator) adopte authoritative technical voice combinant software architecture expertise et Gen AI insights. Introduction nouveau concept DICE (Domain-Integrated Context Engineering) reveals framework builder mindset. Langage technique assumé (domain objects, bidirectional communication, structured persistence, Cypher queries) vise enterprise architects. Structure critique → proposition → benefits demonstrates systematic thinking. Emphasis integration existing systems over isolated capabilities shows pragmatic enterprise focus. Tone measured authoritative évitant both dismissive skepticism et naive enthusiasm. Typique technical thought leadership (Martin Fowler, Kent Beck style) proposing architectural patterns grounded practical experience.
+
 ## Pense-betes
 - **"Context engineering"** plus précis que "prompt engineering" pour LLM apps
 - **Context engineering traditionnel** overlook bidirectional nature (inputs AND outputs) et relation avec existing business apps

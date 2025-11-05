@@ -19,9 +19,11 @@ développeur, IA générative, génération code, ingénierie système, orchestr
 Yves Caseau (Group Chief Digital & Information Officer chez Michelin)
 
 ## Ton
-**Profil:** Professionnel | Première personne institutionnelle | Analytique-Éducative | Intermédiaire-Technique
+**Profil:** Professionnel-Académique | Première personne institutionnelle | Analytique-Éducative | Intermédiaire-Technique
 
-Caseau, CIO Michelin, adopte ton thought leader corporate structurant réflexion en 3 thèses argumentées ("L'IA dévore le logiciel", "L'ingénierie système perdure", "Le contexte reste roi"). Le langage mélange rigueur analytique et formulations percutantes ("vibe coding progresse via orchestration agentique"). Position d'autorité basée sur expérience enterprise-scale. Typique des executives tech combinant vision stratégique, expertise technique et pédagogie sur LinkedIn.
+Caseau adopte ton thought leader hybride corporate-académique structurant 3 thèses avec hiérarchie visuelle (bold headers). Langage métaphorique percutant ("AI devours software, as software devours the world", métaphore poisson/arête centrale) mêlé à rigueur analytique. Scepticisme mesuré sur hype IA ("agentic approaches overestimated, legacy impact underestimated") révèle intellectual honesty. Vise enterprise tech leaders/architectes via terminologie (MCP backends, legacy systems). Autorité executive tempérée par pragmatisme terrain.
+
+
 
 ## Pense-bêtes
 - **Thèse 1** : "L'IA dévore le logiciel, comme le logiciel dévore le monde"

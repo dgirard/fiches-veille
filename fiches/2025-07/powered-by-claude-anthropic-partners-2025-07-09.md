@@ -18,6 +18,11 @@ Claude, Anthropic, AI, partners, artificial intelligence, large language models,
 ## Authors
 Anthropic PBC
 
+## Ton
+**Profil:** Professionnel-Marketing | Institutionnelle | Promotionnelle | Intermédiaire
+
+Anthropic adopte partner showcase format highlighting ecosystem adoption et diverse use cases. Structure case study collection (multiple partners, varied industries) demonstrates breadth platform utility. Langage marketing professional emphasizes partner success stories et Claude capabilities. Tone confident celebratory positioning Claude comme enterprise-ready platform. "Powered by Claude" branding initiative signals maturity push versus pure research positioning. Visual showcase format avec logos et testimonials típico B2B SaaS marketing. Typique tech platform ecosystem pages (AWS Partner Network, Salesforce AppExchange style) building credibility through association avec recognized brands.
+
 ## Pense-betes
 - **Ecosystem showcase** : liste curée de business utilisant Claude pour améliorer produits/services
 - **Secteurs diversifiés** : coding, creative content, data analytics, business intelligence, communications, education

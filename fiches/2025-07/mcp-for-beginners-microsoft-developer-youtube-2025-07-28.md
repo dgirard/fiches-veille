@@ -18,6 +18,11 @@ AI Agents, Model Context Protocol, MCP, AI applications, secure AI, scalable AI,
 ## Authors
 Microsoft Developer
 
+## Ton
+**Profil:** Conversationnel-Éducatif | Deuxième personne instructionnelle | Éducative | Débutant-Intermédiaire
+
+Microsoft Developer adopte YouTube tutorial voice accessible combinant visual demonstrations et clear explanations. Format video playlist implies conversational pacing avec step-by-step walkthroughs. Terminology technique introduced progressively évitant overwhelming beginners. "For Beginners" framing signals explicit accessibility goal. Tone encouraging friendly positioning MCP comme approachable rather than intimidating. Visual aids et practical demos prioritize hands-on understanding over theoretical depth. Typique Microsoft Learn content (Channel 9, docs.microsoft style) democratizing technology avec beginner-friendly approach maintaining technical accuracy.
+
 ## Pense-betes
 - **12 vidéos**, **43 713+ vues**, playlist complète sur MCP
 - **Framework MCP** : sécurisé, scalable, real-world AI applications

@@ -11,6 +11,12 @@ https://gail.wharton.upenn.edu/research-and-insights/call-me-a-jerk-persuading-a
 AI Persuasion, Robert Cialdini, Principles of Influence, Compliance, GPT-4o-mini, Parahuman Behavior, Social Cognition, Behavioral Science, AI Safety, Jailbreaking, Statistical Learning, LLM Behavior
 ## Authors
 Lennart Meincke, Dan Shapiro, Angela Duckworth, Ethan Mollick, Lilach Mollick, Robert Cialdini
+
+## Ton
+**Profil:** Académique-Professionnel | Institutionnelle research | Analytique-Éducative | Expert
+
+Research team Wharton adopte ton academic paper rigoureux combinant behavioral science et AI research. Multiple auteurs prestigieux (dont Cialdini, créateur principes persuasion) signals collaborative heavyweight scholarship. Terminologie spécialisée (parahuman behavior, compliance rates, statistical learning) vise audience researchers. Structure méthodologique systematique (28k conversations, 7 principes testés) demonstrates empirical rigor. Quantifications précises (72% vs 33.3%, 10%→100% commitment principle) ground claims scientifically. Framing implications AI safety ET theoretical insights reveals dual research-practical orientation. Typique Wharton GAIL publications combinant behavioral economics insights avec AI system understanding.
+
 ## Pense-betes
 - LLMs exhibent des réponses "parahumaines" aux techniques de persuasion
 - 28 000 conversations testées avec GPT-4o-mini

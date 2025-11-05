@@ -18,6 +18,11 @@ Claude Code, meta-programming, configuration framework, AI agents, commands, cog
 ## Authors
 SuperClaude-Org community, NomenAK (sponsor)
 
+## Ton
+**Profil:** Professionnel-Technique | Communautaire collaborative | Éducative-Prescriptive | Intermédiaire-Expert
+
+Community contributors adoptent open-source documentation voice combining technical precision et collaborative spirit. README structure systematic (Features → Installation → Configuration → Usage → Contributing) follows GitHub conventions. Code examples generous avec configuration snippets demonstrates practical implementation. Langage technique direct assume developer familiarity Claude Code. Tone pragmatic helpful évitant both marketing fluff et unnecessary complexity. Emphasis customization et extensibility appeals power users. Typique community-driven tooling projects (Awesome lists, framework extensions) prioritizing utility et developer autonomy avec clear contributing guidelines.
+
 ## Pense-betes
 - **17.2k stars** GitHub, framework open source sous licence MIT
 - **Version 4.2.0** : améliorations majeures d'architecture et performance

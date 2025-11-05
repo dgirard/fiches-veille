@@ -28,6 +28,7 @@ Chaque fiche suit ce format :
 ## URL
 ## Keywords
 ## Authors
+## Ton
 ## Pense-betes
 ## RésuméDe400mots
 ```
@@ -39,6 +40,7 @@ Chaque fiche suit ce format :
 Cela inclut :
 - Les résumés (RésuméDe400mots)
 - Les pense-bêtes
+- Le ton of voice (Ton)
 - Les keywords
 - Toutes les sections de la fiche
 
@@ -56,6 +58,7 @@ Seuls les éléments suivants peuvent rester dans leur langue d'origine :
 - **URL** : Lien vers l'article source
 - **Keywords** : Mots-clés associés à l'article (en français)
 - **Authors** : Auteur(s) de l'article
+- **Ton** : Analyse du ton et du style de l'article, incluant le profil (perspective narrative, registre, niveau technique) et une description détaillée du style d'écriture, des métaphores utilisées, de l'autorité de l'auteur et du public cible (en français)
 - **Pense-betes** : Notes et remarques importantes (format liste à puces, en français)
 - **RésuméDe400mots** : Résumé de l'article en 400 mots maximum (en français)
 

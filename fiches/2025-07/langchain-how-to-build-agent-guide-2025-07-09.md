@@ -18,6 +18,11 @@ Développement d'agents, LLM reasoning, MVP, Prompt engineering, Workflow d'agen
 ## Authors
 LangChain
 
+## Ton
+**Profil:** Professionnel-Pédagogique | Institutionnelle tutorial | Éducative | Intermédiaire
+
+LangChain team adopte developer education voice combinant conceptual explanation et practical implementation. Structure systematic (concepts → architecture → code examples → best practices) guides progressive learning. Code snippets généreux demonstrate concrete implementation. Terminology framework-specific (ReAct paradigm, LangGraph, tool calling) assume LangChain familiarity. Tone encouraging accessible évitant intimidation tout en couvrant complexity. Documentation style soigné avec visual diagrams et step-by-step guidance. Typique framework documentation (React, Vue style) visant onboard developers efficacement avec blend theory et hands-on examples.
+
 ## Pense-betes
 - **Framework 6 étapes** pour construire agents IA
 - **Email agent** utilisé comme exemple pratique fil rouge

@@ -18,6 +18,11 @@ Agent autonome, Automatisation, OpenAI, VM semi-automatisée, Interface utilisat
 ## Authors
 OpenAI
 
+## Ton
+**Profil:** Professionnel-Marketing | Institutionnelle | Promotionnelle-Éducative | Intermédiaire
+
+OpenAI adopte ton product announcement corporate équilibrant innovation showcase et practical capability description. Langage marketing controlled ("version améliorée", "évolution significative") évite hype excessive. Structure systematic capabilities → evolution → strategic positioning reveals product marketing framework. Terminology technique accessible (VM semi-automatisée, direct UI interaction, multi-step operations) vise broad technical audience. Emphasis rebrand Operator→Agent signals strategic branding integration sous ChatGPT umbrella. Tone confident professional positioning product comme market leader. Typique tech giant product launches (Apple, Google style) combining aspirational framing avec concrete capability descriptions.
+
 ## Pense-betes
 - **ChatGPT Agent lancé** par OpenAI : version "pumpée" de Runner H
 - **VM semi-automatisée** : exécute tâches semi-automatisées

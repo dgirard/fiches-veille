@@ -18,6 +18,11 @@ Generative AI, GenAI, Hype Cycle, AI models, Large Language Models (LLMs), AI en
 ## Authors
 Arun Chandrasekaran
 
+## Ton
+**Profil:** Professionnel-Analytique | Institutionnelle research | Analytique-Prescriptive | Expert
+
+Chandrasekaran (Gartner) adopte ton authoritative market research combinant trend analysis et strategic recommendations. Structure Hype Cycle methodology (Peak Inflated Expectations, Trough Disillusionment, Plateau Productivity) provides systematic framework pour technology maturity assessment. Terminologie spécialisée (trigger innovations, mainstream adoption timelines, transformational impact) vise C-suite et enterprise architects. Quantifications temporal précises (2-5 years, 5-10 years adoption horizons) ground predictions. Tone measured professional évitant both hype et excessive conservatism. Typique Gartner research publications positioning firm comme trusted advisor enterprise technology strategy avec frameworks propriétaires reconnus industry-wide.
+
 ## Pense-betes
 - **By 2028** : **95%+ enterprises** expected use generative AI APIs, models, ou deployed GenAI-enabled apps en production
 - **4 crucial technology areas** : GenAI models, AI engineering, AI agents/applications/use cases, infrastructure/enablement techniques

@@ -28,6 +28,7 @@ Chaque fiche suit ce format :
 ## URL
 ## Keywords
 ## Authors
+## Ton
 ## Pense-betes
 ## RésuméDe400mots
 ```
@@ -41,6 +42,7 @@ Chaque fiche suit ce format :
 - **URL** : Lien vers l'article source
 - **Keywords** : Mots-clés associés à l'article
 - **Authors** : Auteur(s) de l'article
+- **Ton** : Analyse du ton et du style de l'article, incluant le profil (perspective narrative, registre, niveau technique) et une description détaillée du style d'écriture, des métaphores utilisées, de l'autorité de l'auteur et du public cible (en français)
 - **Pense-betes** : Notes et remarques importantes (format liste à puces)
 - **RésuméDe400mots** : Résumé de l'article en 400 mots maximum (en français)
 

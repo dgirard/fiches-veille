@@ -18,6 +18,11 @@ https://www.linkedin.com/pulse/exit-le-vibe-coding-place-au-reviewing-alexandre-
 ## Authors
 Alexandre Mogère (Chapter Lead Software Factory, Carrefour France)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne practitioner | Éducative-Opinion | Intermédiaire
+
+Mogère adopte LinkedIn practitioner voice mêlant retour expérience et practical guidance. Titre provocateur "Exit Vibe Coding, place Vibe Reviewing" captures attention avec wordplay mémorable. Structure journey narrative (initial disillusionment → iterations → methodology) reveals authentic learning process. Quantification concrete (time divided by 3) grounds productivity claims. Warnings explicit ("IA n'est pas magic wand", skepticism "IA evangelists") demonstrate intellectual honesty. Langage accessible évite jargon excessif tout en covering technical substance (multi-agent validation, static site generator). Typique engineering leadership LinkedIn posts partageant lessons learned depuis implementation réelle avec pragmatic recommendations.
+
 ## Pense-betes
 - **IA n'est pas "magic wand"** : requires rigorous, iterative approach
 - **"Vibe Reviewing"** : apply AI-assisted generation principles à code review process

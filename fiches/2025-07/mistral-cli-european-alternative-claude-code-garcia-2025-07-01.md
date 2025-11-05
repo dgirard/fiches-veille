@@ -18,6 +18,11 @@ Mistral AI CLI, Claude Code, Anthropic, European alternative, open source, AI, d
 ## Authors
 Mathias Garcia (HEC Paris, Presti)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne advocate | Promotionnelle-Éducative | Intermédiaire
+
+Garcia (HEC/Presti) adopte LinkedIn announcement voice équilibrant product promotion et genuine utility demonstration. Framing "alternative européenne" signals strategic positioning versus US competitors (Claude Code $200M revenues cited). Langage accessible mixed français-anglais reflects French tech ecosystem. Structure typically announces → features → benefits → call-to-action. Tone enthusiastic entrepreneur évitant corporate stuffiness. Emphasis open-source et European sovereignty appeals specific audience segment. Typique French tech LinkedIn posts combining authentic passion avec strategic positioning, less polished than US DevRel mais plus direct.
+
 ## Pense-betes
 - **Mistral AI CLI** : alternative européenne open-source à Claude Code d'Anthropic (proprietary)
 - **Inspiration** : Claude Code revenue growth **$1B → $4B** en quelques mois
