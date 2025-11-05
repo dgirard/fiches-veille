@@ -17,6 +17,11 @@ IA, intelligence artificielle, bulle spéculative, infrastructure IA, capital, d
 ## Authors
 Tariq KRIM
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Analytique avec autorité | Analytique-Opinion | Intermédiaire-Accessible
+
+KRIM adopte une approche hybride mêlant rigueur analytique et accessibilité newsletter. Son positionnement counterintuitive ("rational capital recalignment" plutôt que bulle) révèle un analyste interpétant perspectives Silicon Valley. Le langage alterne terminologie technique et expressions conversationnelles ("Petite plongée"), avec emojis (🔴 🆓 💡) pour segmenter le contenu. Typique des newsletters tech françaises combinant profondeur stratégique et lisibilité.
+
 ## Pense-betes
 - **Pas une bulle, mais un réalignement industriel** : Le marché de l'IA est vu comme une reconfiguration rationnelle du capital.
 - **Infrastructure rentable** : Contrairement à 2000, l'infrastructure (GPU, data centers) est utilisée à pleine capacité et génère des revenus.

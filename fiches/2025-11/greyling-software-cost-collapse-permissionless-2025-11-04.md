@@ -18,6 +18,11 @@ coût logiciel, effondrement complexité, IA générative, développement permis
 ## Authors
 Cobus Greyling
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Analytique avec opinion | Analytique-Opinion | Intermédiaire-Accessible
+
+Greyling adopte style thought leadership Medium mêlant analyse économique/tech et thèse provocatrice. Citations stratégiques (Marc Andreessen, "moment Gutenberg") et concepts percutants ("Work Slop", "AI Slop", "permissionless development") révèlent analyste tech construisant narrative forte. Le ton alterne rigueur factuelle (+55% productivité) et formulations mémorables ("Software eating the world"). Typique des articles Medium positionnant auteur comme observateur critique des grandes tendances tech.
+
 ## Pense-bêtes
 - **Marc Andreessen** : "Pas de bulle IA" - contrairement dot-com (97% fibre "dark"), pas de "dark GPUs" aujourd'hui
 - **Principe vagues tech** : "Tech waves surge when the expensive turns cheap enough to squander"

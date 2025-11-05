@@ -18,6 +18,11 @@ IA générative, génération code, développement logiciel, tâches atomiques, 
 ## Authors
 Soufiane Keli (OCTO Technology)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne praticien | Éducative-Promotionnelle | Intermédiaire-Technique
+
+Keli, consultant OCTO, partage méthodologie concrète avec ton praticien expérimenté. Approche structurée en 4 étapes ("Onboarding IA", "tâches atomiques", "spec-driven", "capitalisation continue") révèle pédagogue combinant bonnes pratiques et retour d'expérience brownfield. Le langage alterne prescriptions méthodologiques et admissions pragmatiques ("Ne pas demander à l'IA de tout faire d'un coup"). Typique des consultants tech LinkedIn partageant expertise terrain avec soft promotion de leur société.
+
 ## Pense-bêtes
 - **IA génère presque 100% du code** via approche structurée
 - **Étape 0 : Onboarding IA** - traiter LLM comme "junior chaque jour", rappeler contexte global

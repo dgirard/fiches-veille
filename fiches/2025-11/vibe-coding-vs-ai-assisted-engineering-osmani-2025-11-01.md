@@ -18,6 +18,11 @@ ai, programming, softwareengineering, vibe coding, AI-assisted engineering, soft
 ## Authors
 Addy Osmani
 
+## Ton
+**Profil:** Professionnel | Première personne autorité | Opinion-Éducative | Intermédiaire-Accessible
+
+Osmani adopte le ton d'un senior engineer faisant une mise en garde professionnelle. Son argumentation ("devalues engineering discipline", "misleads newcomers") révèle une opinion forte mais pédagogique. Le langage reste accessible ("throwaway weekend projects") tout en maintenant rigueur technique. Typique des thought leaders tech sur LinkedIn combinant autorité professionnelle et accessibilité.
+
 ## Pense-betes
 - **Distinction cruciale** : "vibe coding" ≠ "AI-assisted engineering"
 - **Vibe Coding** : high-level prompting, creative flow, rapid experimentation, ideal pour prototypes/MVPs/learning/"throwaway weekend projects", moins rigorous review

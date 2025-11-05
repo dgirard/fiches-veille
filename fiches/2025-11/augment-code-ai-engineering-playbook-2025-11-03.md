@@ -17,6 +17,11 @@ Ingénierie augmentée par l'IA, Adoption de l'IA en entreprise, Transformation 
 ## Authors
 Augment Code
 
+## Ton
+**Profil:** Professionnel | Narrative technique institutionnelle | Éducative-Promotionnelle | Intermédiaire-Accessible
+
+Document corporate structuré comme "feuille de route" méthodique en 4 phases. Langage prescriptif et stratégique ("avantage concurrentiel durable", "transformation durable") visant leaders tech (CTO, VP Engineering). Approche pédagogique systématique ("mesurable et progressive") servant double objectif : guider adoption IA ET positionner Augment Code comme partenaire stratégique. Typique des playbooks enterprise B2B combinant expertise méthodologique et soft selling.
+
 ## Pense-betes
 - **Playbook en 4 phases** pour l'adoption de l'IA dans l'ingénierie logicielle.
 - **Phase 1 : Fondation des Champions** - Identifier et responsabiliser des ambassadeurs IA.

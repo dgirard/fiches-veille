@@ -18,6 +18,11 @@ développement logiciel, artisanat logiciel, open-source, transparence, confianc
 ## Authors
 Kevin Kuipers (interview de Gilles Chehade)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne narrative | Éducative-Opinion | Intermédiaire-Accessible
+
+Interview révélant les convictions d'un artisan logiciel expérimenté. Chehade partage expérience personnelle ("co-fondateur Plakar, créateur OpenSMTPD") avec opinions fortes ("open-source authentique", "IA = plus grande percée depuis Internet"). Le ton mélange humilité technique ("qualité logicielle années 90 objectivement pire") et positions assumées sur philosophie développement. Typique des interviews de praticiens seniors partageant sagesse acquise par l'expérience.
+
 ## Pense-bêtes
 - **Gilles Chehade** : co-fondateur Plakar, créateur OpenSMTPD, architecte systèmes
 - **Qualité logicielle années 90** : objectivement pire mais progrès grâce au partage de connaissances
