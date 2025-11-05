@@ -18,6 +18,11 @@ Generative AI, Consumer Apps, AI Ecosystem, Mobile Apps, Web Products, Google AI
 ## Authors
 Olivia Moore and Daisy Zhao
 
+## Ton
+**Profil:** Venture-Analysis | Institutionnelle research | Analytique-Quantitative | Expert
+
+a16z analysts (Moore, Zhao) adoptent venture capital research voice combinant data-driven market analysis et trend identification. Emphasis metrics (2.5 years data, market stabilization, revenue retention) grounds observations empirically. Langage competitive landscape-oriented (Gemini #2, Grok growth, Google ecosystem expansion) reveals investor evaluation frameworks. Structure "Top 100" ranking format facilitates pattern recognition trends émergents. Tone authoritative analytical typical VC market intelligence (CB Insights, Pitchbook style) serving dual audience: portfolio companies benchmarking performance ET investors identifying opportunities.
+
 ## Pense-betes
 - **2.5 years data** : stabilization de l'ecosystem Gen AI consumer
 - **Google Gemini #2** : behind ChatGPT sur web ET mobile

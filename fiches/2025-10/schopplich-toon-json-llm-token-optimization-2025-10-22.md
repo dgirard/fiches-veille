@@ -18,6 +18,11 @@ TOON, LLM, optimisation jetons, sérialisation données, JSON, YAML, CSV, TypeSc
 ## Authors
 Johann Schopplich (@johannschopplich)
 
+## Ton
+**Profil:** Developer-Innovation | Première personne creator | Technique-Pragmatique | Expert
+
+Schopplich (independent developer) adopte problem-solving voice presenting TOON format addressing practical LLM API cost challenges. GitHub project format emphasizes open-source sharing. Langage optimization-focused (token reduction 30-60%, serialization, compression) demonstrates cost-conscious engineering. Tone pragmatic creator offering useful tool rather than academic innovation. Structure clear problem→solution→benchmarks facilitates adoption decision. Typique indie developer open-source projects solving practical problems visant cost-conscious practitioners seeking efficiency improvements LLM workflows.
+
 ## Pense-bêtes
 - TOON réduit la consommation de jetons de 30-60% par rapport à JSON, jusqu'à 65% dans certains cas
 - Format hybride fusionnant YAML (indentation hiérarchique) et CSV (format tabulaire)

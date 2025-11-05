@@ -18,6 +18,11 @@ Gemini CLI, Claude Code, Large Codebase Analysis, Context Window, AI Agents, Pro
 ## Authors
 u/H9ejFGzpN2 (auteur original). Contributeurs notables: u/CatsFrGold, u/djc0, u/Parabola2112, u/Comfortable-Gap-808, u/Still-Ad3045, u/fhinkel-dev, u/bull_chief, u/casce, et 30+ autres participants actifs de la communauté
 
+## Ton
+**Profil:** Community-Technical | Première personne practitioner | Conversationnelle-Collaborative | Expert
+
+Reddit user adopte enthusiastic discovery voice typical r/ChatGPTCoding community sharing workflow breakthroughs. Provocative framing ("make Claude Code use it as its bitch") captures Reddit informal tone. Langage technical dense (context windows, prompt engineering, MCP, tool chaining) assumes expert audience. Thread structure allows collaborative refinement (30+ contributors) typical Reddit technical discussions. Tone excited practitioner sharing "aha moment" encourages experimentation. Typique Reddit technical communities fostering knowledge sharing through authentic practitioner experiences visant fellow developers exploring AI coding tools.
+
 ## Pense-betes
 - **Stratégie hybride** : Gemini pour analyse massive de code, Claude pour exécution et génération
 - **Gemini CLI gratuit** actuellement, solution cost-effective pour analyse large échelle

@@ -18,6 +18,11 @@ Staff Engineer, career paths, AI Orchestrator, Augmented Craftsman, Code Philoso
 ## Authors
 Nicolas Martignole
 
+## Ton
+**Profil:** Conversationnel-Réflexif | Première personne practitioner | Opinion-Prospective | Intermédiaire
+
+Martignole (Le Touilleur Express) adopte French tech blog voice combinant industry observation et personal reflection. Provocative framing ("Ni manager ni contributeur") signals willingness challenge conventional career paths. Langage accessible français mixing technical concepts (Staff Engineer, AI Orchestrator, Augmented Craftsman) avec cultural references. Tone thoughtful practitioner exploring AI impact career trajectories. Blog format allows nuanced exploration emerging roles. Typique French tech blogosphere (Octo, SCIAM style) offering francophone perspective sur global tech trends visant French-speaking practitioners.
+
 ## Pense-betes
 - **3 nouveaux career paths en 2025** : AI Orchestrator, Augmented Craftsman, Code Philosopher
 - **AI Orchestrator** (ex-technical management) : manage "army of AI", define architectures AI implementation, validate AI outputs, arbitrate conflicts entre AI tools

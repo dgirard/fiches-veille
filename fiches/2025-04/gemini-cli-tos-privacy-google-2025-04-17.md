@@ -18,6 +18,11 @@ Gemini CLI, Terms of Service, Privacy Notice, Google, Google Cloud, Gemini Code 
 ## Authors
 Google / Gemini team
 
+## Ton
+**Profil:** Legal-Technical | Institutionnelle | Informative-Prescriptive | Expert
+
+Google legal/product documentation adopte formal Terms of Service voice combinant legal precision et developer clarity. Langage structured (data collection policies, opt-out procedures, authentication requirements) establishes contractual framework. Tone neutral professional typical legal documentation avoiding ambiguity. Structure systematic (scope→data practices→user rights→opt-out) facilitates compliance understanding. Format GitHub markdown makes technical documentation accessible developers. Typique developer-facing legal docs (AWS ToS, Azure Privacy) balancing legal requirements avec developer usability concerns.
+
 ## Pense-betes
 - **ToS/Privacy varient** selon méthode authentication et type de compte
 - **4 méthodes d'authentication** : Google account avec Code Assist Individuals, Standard/Enterprise, Gemini API key avec Developer API, Vertex AI GenAI API

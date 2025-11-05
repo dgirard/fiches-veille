@@ -17,6 +17,11 @@ IA, personal software, applications customisées, logiciel à usage unique, no-c
 ## Authors
 Lee Robinson
 
+## Ton
+**Profil:** Thought-Leader-Tech | Première personne visionary | Provocatrice-Prospective | Intermédiaire
+
+Robinson (Vercel VP Product) adopte tech visionary voice combinant product experience et future-oriented thinking. Concept "Personal Software" signals paradigm shift thinking typical thought leaders. Langage accessible évitant excessive jargon tout en covering sophisticated AI-enabled customization concepts. Tone optimistic provocative challenging status quo software distribution models. Structure essay-style exploration encourages reader imagination re: software futures. Typique tech industry thought leaders (DHH, Joel Spolsky style) proposing contrarian views grounded product/engineering experience visant developers et product builders.
+
 ## Pense-betes
 - **Transition du "taille unique" au "logiciel personnel"** : L'IA rend cette transition possible.
 - **Applications "faites maison"** : Logiciels personnalisés à usage unique adaptés à des besoins spécifiques.

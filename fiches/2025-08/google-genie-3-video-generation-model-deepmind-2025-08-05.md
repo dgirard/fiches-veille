@@ -18,6 +18,11 @@ Google, Genie 3, DeepMind, video generation, generative AI, world models, intera
 ## Authors
 Google DeepMind team
 
+## Ton
+**Profil:** Research-Innovation | Institutionnelle research | Informative-Inspirationnelle | Expert
+
+DeepMind team adopte research announcement voice showcasing breakthrough interactive video generation. Genie 3 positioning emphasizes world models et controllable generation capabilities. Langage AI research specialized (spatial understanding, temporal consistency, generative models) demonstrates technical sophistication. Tone measured excitement typical DeepMind research communications balancing scientific rigor avec innovation messaging. Structure capability-demonstration format reveals model potential. Typique AI research labs (OpenAI, Anthropic Research style) announcing major model releases visant AI research community, developers, et media covering AI progress.
+
 ## Pense-betes
 - **Genie 3** : Google's latest video generation model
 - **Interactive controllable video** : user inputs direct generation

@@ -18,6 +18,11 @@ Kiro, AWS, Agentic IDE, Cursor, Windsurf, VS Code, specification-driven developm
 ## Authors
 Janakiram MSV, Senior Contributor
 
+## Ton
+**Profil:** Journalisme-Technique | Troisième personne analyst | Analytique-Évaluative | Expert
+
+Janakiram (Forbes Senior Contributor, cloud/AI analyst) adopte tech journalism voice combinant product analysis et market positioning. Framing "vibe coding vs spec coding" reveals narrative construction skills positioning Kiro comme enterprise answer to consumer-oriented tools. Langage technical accessible (hooks system, Code OSS, Claude integration) vise CTO/engineering leaders. Structure product launch coverage typical Forbes tech reporting avec features→benefits→market implications. Tone analytical professional évitant both uncritical cheerleading et cynical dismissal. Typique enterprise tech journalism (TechCrunch, VentureBeat style) translating product announcements into strategic context pour decision makers.
+
 ## Pense-betes
 - **AWS lance Kiro** : nouveau IDE agentique specification-driven
 - **Gap "vibe coding" ↔ enterprise** : Kiro vise structured, documented, production-ready code

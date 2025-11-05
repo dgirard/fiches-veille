@@ -17,6 +17,11 @@ IA, développement logiciel, productivité développeur, pile technologique IA, 
 ## Authors
 Guido Appenzeller, Yoko Li
 
+## Ton
+**Profil:** Venture-Market-Analysis | Institutionnelle VC | Analytique-Prospective | Expert
+
+a16z partners adoptent market opportunity analysis voice projecting massive AI development tools market. Trillion-dollar framing emphasizes investment thesis scale. Langage market-oriented (productivity gains, tooling categories, stack layers) reveals investor evaluation framework. Tone confident prospective typical VC thought leadership positioning emerging opportunities. Structure market taxonomy (coding assistants→agents→QA→documentation) facilitates investment landscape understanding. Typique venture capital market analyses (Sequoia market maps, Bessemer cloud roadmaps style) signaling investment focus areas visant founders, LPs, et industry tracking VC theses.
+
 ## Pense-betes
 - **Marché potentiel de 1 billion de dollars** pour l'IA dans le développement logiciel.
 - L'IA transforme **l'ensemble du cycle de vie** du développement (SDLC).

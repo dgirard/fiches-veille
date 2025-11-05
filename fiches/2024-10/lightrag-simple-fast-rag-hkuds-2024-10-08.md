@@ -18,6 +18,11 @@ knowledge-graph, gpt, rag, gpt-4, large-language-models, llm, genai, retrieval-a
 ## Authors
 Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang (HKUDS - Hong Kong University Data Science)
 
+## Ton
+**Profil:** Academic-Technical | Institutionnelle research | Descriptive-Technique | Expert
+
+HKUDS researchers adoptent ton GitHub repo académique combinant technical documentation et research paper positioning (EMNLP2025 accepted). Langage ML/AI specialized (dual-level retrieval, knowledge graphs, vector storage) vise researchers et practitioners. Structure typical open-source project (README, examples, benchmarks) facilitates adoption. Tone objective technical évitant marketing hype focusing capability demonstration. Typique academic code releases (HuggingFace, Papers with Code style) bridging research contributions avec practical implementation visant ML community.
+
 ## Pense-betes
 - **22k étoiles** GitHub, **3.3k forks**, licence MIT
 - Présentation à **EMNLP 2025** (conférence majeure NLP)

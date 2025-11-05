@@ -18,6 +18,11 @@ N8n, Workflows, Automatisation, Agents IA, Open source, workflow automation, no-
 ## Authors
 Zie619 (GitHub)
 
+## Ton
+**Profil:** Community-Resource | Institutionnelle open-source | Catalogue-Pratique | Intermédiaire
+
+GitHub contributor adopte community resource voice curating extensive workflow collection. Repository structure (2000+ workflows) demonstrates systematic organization typical valuable open-source resources. Langage accessible practical (automation, no-code, agents IA) lowers barrier entry. Tone collaborative community-oriented encouraging sharing et reuse. Format workflow catalog facilitates discovery practical automation patterns. Typique GitHub community projects (awesome lists, template repositories style) aggregating practical resources visant practitioners seeking ready-made solutions accelerate development.
+
 ## Pense-betes
 - **2000+ workflows** disponibles sur GitHub
 - **Ressource open source** complète

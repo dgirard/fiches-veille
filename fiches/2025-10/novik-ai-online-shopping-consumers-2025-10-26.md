@@ -18,6 +18,11 @@ intelligence artificielle, e-commerce, achats en ligne, IA shopping, comportemen
 ## Authors
 Lior Novik/Maariv
 
+## Ton
+**Profil:** Consumer-Research-Journalism | Institutionnelle media | Informative-Trend-Reporting | Intermédiaire
+
+Maariv/JPost journalist adopte consumer trend reporting voice covering AI shopping adoption survey data. Emphasis quantitative findings (73% consumer adoption) grounds observations empirically. Langage consumer-oriented (trust, confidence, payment security, data protection) addresses mainstream audience concerns. Tone informative accessible typical consumer tech journalism. Structure survey-findings format presents research-backed insights. Survey sponsor (Riskified) contextualizes fraud prevention industry perspective. Typique consumer tech media covering adoption trends visant general audience, retailers, et e-commerce industry tracking consumer behavior shifts.
+
 ## Pense-bêtes
 - **73% consommateurs** utilisent IA durant processus d'achat
 - **Enquête Riskified** : 5000+ répondants niveau mondial

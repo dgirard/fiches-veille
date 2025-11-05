@@ -18,6 +18,11 @@ UDA, Unified Data Architecture, knowledge graph, domain modeling, RDF, SHACL, Up
 ## Authors
 Alex Hutter, Alexandre Bertails, Claire Wang, Haoyuan He, Kishore Banala, Peter Royal, Shervin Afshar (Netflix Technology Blog)
 
+## Ton
+**Profil:** Engineering-Deep-Dive | Institutionnelle tech | Descriptive-Technique | Expert
+
+Netflix engineering team adopte deep technical exposition voice typical Netflix Tech Blog showcasing architectural innovations. Multi-author collaboration (7 engineers) signals cross-team effort. Langage highly specialized (RDF/SHACL, Upper metamodel, semantic mappings, SPARQL) vise senior data engineers. Structure systematic (problem→solution→implementation→results) demonstrates engineering rigor. Tone confident technical authority sharing lessons at scale. Typique big tech engineering blogs (Uber, Airbnb, LinkedIn style) documenting complex systems visant engineering community learning from scale challenges.
+
 ## Pense-bêtes
 - **Principe fondamental** : "Model once, represent everywhere" - modéliser une fois, représenter partout
 - **Problème résolu** : modèles dupliqués/inconsistants, terminologie incohérente, qualité données, connectivité limitée

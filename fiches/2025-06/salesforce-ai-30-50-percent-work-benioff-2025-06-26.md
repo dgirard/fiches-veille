@@ -18,6 +18,11 @@ Automatisation, Productivité, Salesforce, Marc Benioff, Transformation interne,
 ## Authors
 Yahoo Finance
 
+## Ton
+**Profil:** Financial-Media | Institutionnelle journalisme | Informative-Factuelle | Intermédiaire
+
+Yahoo Finance adopte business journalism voice covering corporate AI adoption news. CEO quote-based article ("30-50% of work") emphasizes quantifiable impact metrics. Langage business-oriented (automation, productivity gains, transformation) vise investors et business readers. Tone factual journalistic typical financial news coverage. Structure interview format avec CEO statements provides executive perspective. Typique financial media (Bloomberg, CNBC style) covering tech industry news visant financial community tracking corporate AI adoption trends.
+
 ## Pense-betes
 - **30-50% du travail** chez Salesforce maintenant réalisé par IA
 - **Marc Benioff** (CEO) : déclaration majeure sur adoption IA interne

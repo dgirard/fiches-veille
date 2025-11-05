@@ -18,6 +18,11 @@ Stanford HAI, AI Index, AI trends, industry analysis, research metrics, AI inves
 ## Authors
 Stanford Human-Centered AI Institute (HAI)
 
+## Ton
+**Profil:** Academic-Institutional | Institutionnelle research | Analytique-Quantitative | Expert
+
+Stanford HAI adopte authoritative research institution voice combinant comprehensive data collection et objective analysis. Annual report format (AI Index) signals systematic longitudinal tracking typical academic research centers. Langage metrics-oriented (investment trends, compute costs, model capabilities, regulatory developments) emphasizes quantitative rigor. Tone measured neutral évitant both tech boosterism et alarmism. Structure multi-dimensional (technical→economic→policy) facilitates holistic understanding. Typique prestigious academic institutions (MIT CSAIL, Berkeley AI Research) producing definitive annual reports serving policymakers, researchers, industry leaders comme authoritative reference.
+
 ## Pense-betes
 - **Annual comprehensive report** tracking global AI development
 - **Industry increasingly dominates** research over academia

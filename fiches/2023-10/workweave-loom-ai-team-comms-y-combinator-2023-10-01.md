@@ -18,6 +18,11 @@ Workweave, AI communication, asynchronous collaboration, team communication, Y C
 ## Authors
 Y Combinator
 
+## Ton
+**Profil:** Startup-Directory | Institutionnelle | Informative-Promotionnelle | Intermédiaire
+
+Format standardisé Y Combinator startup directory combinant facts structurés et pitch concis. Langage startup-optimized ("AI to understand engineering work") avec credentials founders (MIT, employee #1 Causal) building credibility. Tone factuel efficient typical YC directory pages visant investors et early adopters. Structure information-dense (batch, status, location, founders) facilitates quick assessment. Professional neutral évitant excessive marketing tout en highlighting key value props. Typique YC company pages designed rapid scanning avec essential signals (batch, team pedigree, product vision).
+
 ## Pense-betes
 - **"Loom of AI"** : positioned comme AI equivalent de Loom pour team communication
 - **Asynchronous-first** approach à team collaboration

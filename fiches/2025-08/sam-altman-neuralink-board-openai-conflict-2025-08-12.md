@@ -18,6 +18,11 @@ Sam Altman, Neuralink, board appointment, OpenAI, conflict of interest, brain-co
 ## Authors
 Tech media, business press
 
+## Ton
+**Profil:** Business-Journalism | Institutionnelle media | Analytique-Critique | Intermédiaire
+
+Tech/business press adopte investigative journalism voice covering potential conflicts interest tech industry. Altman's Neuralink board appointment raises questions OpenAI/Neuralink relationship. Langage business-ethics oriented (conflict of interest, competitive overlap, corporate governance) emphasizes accountability concerns. Tone skeptical professional typical business journalism covering tech power concentrations. Structure issue-exploration format presents multiple stakeholder perspectives. Typique business media (Wall Street Journal, Financial Times style) scrutinizing tech industry leadership decisions visant investors, regulators, et public interested corporate ethics.
+
 ## Pense-betes
 - **Sam Altman joins Neuralink board** : strategic appointment
 - **Potential conflicts** : OpenAI CEO serving on competitor's board

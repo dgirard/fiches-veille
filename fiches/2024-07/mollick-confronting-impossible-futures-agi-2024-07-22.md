@@ -18,6 +18,11 @@ AGI, Intelligence Artificielle Générale, planification stratégique, LLM, adop
 ## Authors
 Ethan Mollick, Professeur à la Wharton School, University of Pennsylvania
 
+## Ton
+**Profil:** Académique-Prospectif | Première personne thought leader | Analytique-Provocatrice | Intermédiaire
+
+Mollick adopte ton essayiste intellectuel combinant data empirique (sondages AGI 2047) et réflexion stratégique. Titre "Confronting Impossible Futures" signals willingness aborder uncomfortable scenarios. Langage accessible évite jargon technique excessif tout en covering complex AGI implications. Structure argument méthodique identifiant obstacles (discussions dystopiques, documentation manquante, fragmentation progrès) puis proposing frameworks action. Tone measured urgency évitant both dismissive skepticism et panicked alarmism. Typique Substack thoughtful essays (Stratechery, Margins style) challenging conventional wisdom et forcing readers confront difficult questions sur technological trajectory.
+
 ## Pense-bêtes
 - Les organisations planifient sur 10 ans mais ignorent l'amélioration continue de l'IA dans leurs stratégies
 - Même sans nouvelles avancées, l'IA actuelle disruptera les organisations pendant des années

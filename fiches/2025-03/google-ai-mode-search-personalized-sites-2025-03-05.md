@@ -18,6 +18,11 @@ Google Search, AI Mode, Recherche générative, Personnalisation, Web générati
 ## Authors
 Robby Stein (Google)
 
+## Ton
+**Profil:** Corporate-Product | Institutionnelle | Informative-Promotionnelle | Intermédiaire
+
+Google product team (Robby Stein) adopte official product announcement voice balancing innovation showcase et user benefit framing. Langage product-centric (AI Mode, AI Overviews, personalized results) emphasizes feature capabilities. Tone measured confident typical Google product launches avoiding excessive hype. Structure announcement format (what→why→how) facilitates understanding. Professional accessible évitant technical depth inappropriate general audience. Typique big tech product blogs (Apple Newsroom, Microsoft Blog style) communicating product evolution visant broad user base, press, et industry watchers.
+
 ## Pense-betes
 - **AI Mode** : nouveau produit Google pour Search
 - **Site personnalisé généré** pour chaque résultat de recherche

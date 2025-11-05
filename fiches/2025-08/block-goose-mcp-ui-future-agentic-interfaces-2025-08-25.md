@@ -18,6 +18,11 @@ Block, Goose, MCP, Model Context Protocol, agentic interfaces, UI future, Square
 ## Authors
 Block (Square) Engineering team
 
+## Ton
+**Profil:** Engineering-Thought-Leadership | Institutionnelle tech | Analytique-Prospective | Expert
+
+Block engineering team adopte forward-looking technical exposition voice exploring UI future avec MCP. Goose project demonstrates Block's investment agentic interfaces. Langage architecture-oriented (Model Context Protocol, tool integration, context management) vise senior engineers thinking interface evolution. Tone visionary technical positioning Block comme innovator developer tools space. Structure conceptual exploration typical tech company research blogs sharing architectural thinking. Typique fintech engineering teams (Stripe, Plaid style) contributing open-source innovations visant developer community shaping future tooling paradigms.
+
 ## Pense-betes
 - **Goose** : Block's internal AI agent development platform
 - **MCP adoption** : implementing Model Context Protocol

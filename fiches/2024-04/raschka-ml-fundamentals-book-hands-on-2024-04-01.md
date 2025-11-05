@@ -18,6 +18,11 @@ Machine Learning, Deep Learning, Sebastian Raschka, educational book, PyTorch, n
 ## Authors
 Sebastian Raschka
 
+## Ton
+**Profil:** Éducatif-Technique | Première personne educator | Pédagogique-Pratique | Intermédiaire-Expert
+
+Raschka (Lightning AI researcher, ML author) adopte educator voice combinant depth technique et clarity pédagogique. Site personnel showcase books, tutorials, resources avec emphasis hands-on learning. Langage précis technique (PyTorch, neural networks, deep learning) vise practitioners et students. Structure organized resource hub (books, blog, courses) demonstrates teaching commitment. Tone approachable expert évitant both oversimplification et unnecessary complexity. Typique academic practitioners (Andrew Ng, fast.ai style) bridging theory-practice avec comprehensive educational materials visant ML learners tous niveaux.
+
 ## Pense-betes
 - **Comprehensive ML fundamentals** : from basics à deep learning
 - **Hands-on approach** : code examples et practical exercises

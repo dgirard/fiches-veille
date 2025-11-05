@@ -18,6 +18,11 @@ Yamini Rangan, HubSpot, CEO interview, AI transformation, CRM, customer relation
 ## Authors
 Various interview sources
 
+## Ton
+**Profil:** Corporate-Leadership | Première personne CEO | Stratégique-Promotionnelle | Intermédiaire
+
+Rangan (HubSpot CEO) adopte executive voice balancing product vision et market positioning. Langage oriented customer success (relationship transformation, personalization at scale) demonstrates customer-centric leadership. Tone measured optimistic highlighting AI democratization sans overselling. Structure interview format allows nuanced exploration AI strategy across CRM/marketing domains. Professional confident évitant both technical jargon et buzzword overload. Typique SaaS CEO communications (Salesforce Benioff, ServiceNow McDermott style) articulating platform evolution visant enterprise buyers et industry analysts.
+
 ## Pense-betes
 - **AI transforming CRM** : depuis manual data entry vers intelligent automation
 - **Customer journey AI** : personalization at scale

@@ -18,6 +18,11 @@ Augmented Coding, Vibe Coding, GenAI, Software Development, Programming, B+ Tree
 ## Authors
 Kent Beck
 
+## Ton
+**Profil:** Practitioner-Reflective | Première personne craftsman | Narrative-Prescriptive | Expert
+
+Beck adopte personal journey voice documenting hands-on experimentation ("Augmented Coding") versus dismissing trends ("Vibe Coding"). Concrete example (B+ Tree implementation Rust→Python) demonstrates points rather than abstract theorizing. Langage craft-oriented (TDD, performance benchmarking, code quality) maintains engineering discipline focus. Tone measured practitioner enthusiasm grounded actual coding experience. Substack TidyFirst format allows nuanced exploration impossible Twitter threads. Typique software craftsmen (Michael Feathers, Sandi Metz style) sharing learned wisdom through concrete examples visant fellow practitioners valuing disciplined practice.
+
 ## Pense-betes
 - **Augmented Coding** : qualité code prioritaire, tests, couverture - valeurs similaires au hand coding
 - **Vibe Coding** : indifférence qualité code, focus uniquement sur comportement système

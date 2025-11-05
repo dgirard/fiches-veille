@@ -18,6 +18,11 @@ Ethan Mollick, AI adoption, organizational change, Wharton, One Useful Thing, ma
 ## Authors
 Ethan Mollick (Wharton School)
 
+## Ton
+**Profil:** Académique-Accessible | Première personne thought leader | Éducative-Engageante | Intermédiaire
+
+Mollick (Wharton professor) adopte Substack newsletter voice combinant rigueur recherche et storytelling accessible. Titres provocateurs engageants ("On Working with Wizards", "The Bitter Lesson versus The Garbage Can") capture attention tout en signalant substance intellectuelle. Engagement metrics visibles (1,700+ likes) demonstrate community following. Tone conversational-authoritative blending academic insights avec practical guidance. Emphasis data-driven patterns (70% experiment, 20% adoption) grounds recommendations empirically. Typique public intellectuals (Scott Galloway, Ben Thompson style) bridging academia-practice avec consistent publishing cadence visant managers, educators, knowledge workers curious AI transformation.
+
 ## Pense-betes
 - **Organizational AI adoption research** : data-driven insights
 - **70% employees experiment** mais only 20% regular users

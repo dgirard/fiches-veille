@@ -18,6 +18,11 @@ Wardley Mapping automation, LLM prompts, capability decomposition, OpenAI API, O
 ## Authors
 Auteur vidéo (Product Manager ERP/Business Intelligence)
 
+## Ton
+**Profil:** Tutorial-Practitioner | Première personne educator | Pédagogique-Démonstrative | Intermédiaire-Expert
+
+PM/BI practitioner adopte YouTube tutorial voice combinant hands-on demonstration et conceptual explanation. Langage technical accessible (LLM prompts, Obsidian canvas, NetworkX clustering) guides viewers through workflow. Format vidéo allows visual demonstration complex automation process. Tone enthusiastic practitioner sharing discovered workflow rather than authoritative expert. Structure tutorial typical (problem→solution→implementation) facilitates learning. Typique practitioner YouTube channels partageant personal workflows et discoveries visant fellow practitioners curious automation strategic thinking tools.
+
 ## Pense-betes
 - **Objectif** : utiliser IA pour bootstrapper Wardley Map, obtenir bon point départ rapidement
 - **Outil stack** : OpenAI API + Obsidian + Python NetworkX + custom frontend

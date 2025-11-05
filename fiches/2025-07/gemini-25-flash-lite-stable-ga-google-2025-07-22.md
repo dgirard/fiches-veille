@@ -18,6 +18,11 @@ Gemini 2.5 Flash-Lite, AI, machine learning, Google AI Studio, Vertex AI, large 
 ## Authors
 Logan Kilpatrick (Group Product Manager), Zach Gleicher (Product Manager)
 
+## Ton
+**Profil:** Developer-Product | Institutionnelle developer relations | Informative-Technique | Expert
+
+Google product managers adoptent Google Developers Blog voice targeting technical audience. Emphasis model specifications (cost-efficient, speed, latency, context window) appeals developer priorities. Langage technical accessible (multimodal, grounding, code execution) demonstrates capability depth. Tone professional confident typical Google developer communications. Structure feature-focused avec availability information facilitates developer adoption. Typique developer-facing product announcements (AWS What's New, Azure Updates style) providing technical details visant developer community making integration decisions.
+
 ## Pense-betes
 - **Fastest et most cost-efficient** model dans Gemini 2.5 family
 - **Pricing** : **$0.10 per 1M input tokens**, **$0.40 per 1M output tokens**

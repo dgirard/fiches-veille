@@ -18,6 +18,11 @@ YouTube, educational content, AI tutorials, online learning, video education, co
 ## Authors
 Various content creators
 
+## Ton
+**Profil:** Platform-Phenomenon | Institutionnelle platform | Observationnelle-Démocratique | Intermédiaire
+
+YouTube platform phenomenon voice capturing educational content explosion through collective creator community. Platform democratization emphasis reflects YouTube's positioning knowledge access. Langage accessible inclusive (tutorials, self-directed learning, skills acquisition) lowers entry barriers. Tone optimistic celebrating knowledge democratization typical creator economy narratives. Structure distributed content creation reflects YouTube's network effects. Typique platform-level phenomena (Khan Academy, Coursera impacts style) transforming education access visant learners, educators, et policymakers tracking alternative education pathways.
+
 ## Pense-betes
 - **Massive growth** : AI tutorial content exploding on YouTube
 - **Democratizing education** : world-class content freely accessible

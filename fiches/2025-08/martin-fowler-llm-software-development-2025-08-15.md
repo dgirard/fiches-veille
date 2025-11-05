@@ -11,6 +11,12 @@ https://martinfowler.com/articles/202508-ai-thoughts.html
 LLM, AI, Software Development, Bubble, Hallucinations, Non-determinism, Security, Attack Surface, Martin Fowler
 ## Authors
 Martin Fowler
+
+## Ton
+**Profil:** Elder-Statesman-Reflective | Première personne authority | Analytique-Balanced | Expert
+
+Fowler (ThoughtWorks Chief Scientist) adopte measured authority voice offering nuanced AI software development perspective. Characteristic intellectual honesty ("BIEN SÛR QUE C'EST UNE BULLE") demonstrates willingness state uncomfortable truths. Langage thoughtful balanced (hallucinations as features, non-determinism challenges, security implications) avoids both boosterism et dismissiveness. Tone experienced practitioner wisdom accumulated decades software evolution. Structure exploratory essay typical Fowler's writing encouraging reader critical thinking. Typique software industry thought leaders (Kent Beck, Robert Martin style) offering measured perspectives grounded deep experience visant practitioners seeking balanced guidance amidst hype.
+
 ## Pense-betes
 - Enquêtes actuelles sur IA peu fiables : ne distinguent pas usages (auto-complétion vs édition directe code)
 - Édition directe code par IA a bien plus de valeur qu'auto-complétion

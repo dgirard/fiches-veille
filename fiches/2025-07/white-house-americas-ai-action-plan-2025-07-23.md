@@ -18,6 +18,11 @@ Artificial Intelligence, AI, Americas AI Action Plan, White House, Trump Adminis
 ## Authors
 The White House. Key officials: Michael Kratsios (OSTP Director), David Sacks (AI and Crypto Czar), Marco Rubio (Secretary of State & Acting NSA)
 
+## Ton
+**Profil:** Gouvernemental-Policy | Institutionnelle | Déclarative-Stratégique | Expert
+
+White House adopte official government policy voice combinant aspirational framing ("Winning the AI Race") et structured action plans (90+ Federal actions across 3 pillars). Langage policy-oriented (national security, economic competitiveness, human flourishing) signals broad stakeholder coalition building. Named officials (Kratsios, Sacks, Rubio) establish accountability. Tone measured ambitious typical administration policy rollouts balancing innovation encouragement avec regulatory guardrails. Structure systematic (objectives→pillars→actions) facilitates implementation tracking. Typique White House policy communications positioning technology leadership comme national priority visant domestic industry, international partners, et citizens.
+
 ## Pense-betes
 - **July 23, 2025** : White House released "Winning the AI Race: Americas AI Action Plan"
 - **Aligns avec Trump executive order** : "Removing Barriers to American Leadership in AI"

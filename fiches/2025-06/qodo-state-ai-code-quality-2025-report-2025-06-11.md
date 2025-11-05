@@ -18,6 +18,11 @@ AI code quality, AI coding, AI tools, software development, developer productivi
 ## Authors
 Itamar Friedman (Co-founder & CEO, Qodo)
 
+## Ton
+**Profil:** Industry-Research | Institutionnelle vendor | Analytique-Éducative | Intermédiaire
+
+Qodo CEO/founder adopte industry research report voice balancing market insights et product positioning. Survey methodology (developer confidence, hallucinations, context challenges) grounds observations empirically. Langage developer-centric (code quality, SDLC, code generation, integrity) demonstrates domain expertise. Tone measured professional typical vendor-sponsored research (GitLab DevOps Report, Stack Overflow Survey style). Structure findings→implications positions Qodo solutions naturally. Vise engineering leaders, CTOs assessing AI coding tool landscape combining genuine insights avec vendor perspective.
+
 ## Pense-betes
 - **609 développeurs** sondés en 2025
 - **82%** utilisent AI daily/weekly, **59%** utilisent 3+ outils

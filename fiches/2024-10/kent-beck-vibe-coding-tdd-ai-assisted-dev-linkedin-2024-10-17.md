@@ -18,6 +18,11 @@ Kent Beck, Vibe Coding, TDD, Test-Driven Development, AI-assisted development, s
 ## Authors
 Kent Beck
 
+## Ton
+**Profil:** Authoritative-Reflective | Première personne authority | Opinion-Prescriptive | Expert
+
+Beck (TDD creator, Agile Manifesto signatory) adopte elder statesman voice software craftsmanship avec LinkedIn platform enabling direct practitioner dialogue. Critique "Vibe Coding" reveals principled stance sur engineering discipline versus hype-driven shortcuts. Langage craft-oriented (systematic validation, technical debt, code quality) vise professional developers valuing rigor. Tone measured concern rather than dismissive condemnation demonstrates intellectual generosity. LinkedIn format allows community discussion tout en maintaining authoritative positioning. Typique industry pioneers (Martin Fowler, Uncle Bob style) defending core principles face nouveaux paradigms avec wisdom earned décennies experience.
+
 ## Pense-betes
 - **Kent Beck** : TDD creator, Agile Manifesto signatory, XP founder
 - **"Vibe Coding" critique** : concerns about undisciplined AI-assisted coding

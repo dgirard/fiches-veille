@@ -18,6 +18,11 @@ IA agentique, agents autonomes, production, AI4Ops, observabilité, transparence
 ## Authors
 Antoine Habert
 
+## Ton
+**Profil:** Practitioner-Lessons-Learned | Première personne practitioner | Réflexive-Prescriptive | Expert
+
+Habert (fintech practitioner) adopte experience-sharing voice documenting deux ans production AI agent deployment. French language adds European tech perspective to predominantly anglophone AI discourse. Langage production-oriented (observabilité, mémoire organisationnelle, supervision adaptative) demonstrates operational maturity beyond prototyping. Tone measured experienced practitioner sharing hard-won lessons. Structure lessons-learned format facilitates knowledge transfer practitioners facing similar challenges. Typique French tech practitioners blogging operational AI experiences visant francophone engineering community learning production deployment realities.
+
 ## Pense-betes
 - Retour d'expérience de 2 ans (2023-2025) de déploiement d'agents IA fonctionnels en production dans une fintech européenne
 - **2023 : Cas AI4Ops** - Automatisation 100% support niveau 1 avec 90%+ réduction des coûts, tout en respectant la conformité bancaire

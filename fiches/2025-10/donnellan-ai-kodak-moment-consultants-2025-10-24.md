@@ -18,6 +18,11 @@ IA, Intelligence Artificielle, conseil en management, Accenture, transformation 
 ## Authors
 Aimee Donnellan, Reuters Breakingviews
 
+## Ton
+**Profil:** Financial-Analysis-Opinion | Institutionnelle financial media | Analytique-Provocatrice | Expert
+
+Reuters Breakingviews adopte sharp financial commentary voice applying "Kodak moment" metaphor consulting industry. Historical analogy (Kodak disruption) frames AI impact dramatically. Langage business-analytical (valorisation, restructuration, automatisation) vise financial community. Tone critical analytical typical Breakingviews commentary challenging conventional wisdom. Structure thesis-driven argument positions consulting industry facing existential challenge. Typique financial opinion journalism (FT Lex, WSJ Heard style) offering contrarian perspectives grounded financial analysis visant investors, executives, et industry watching power shifts.
+
 ## Pense-bêtes
 - Industrie du conseil : 1 000 milliards de dollars menacée par l'IA
 - Accenture valorisée à 155 milliards de dollars, actions en baisse de 30% sur 2 ans

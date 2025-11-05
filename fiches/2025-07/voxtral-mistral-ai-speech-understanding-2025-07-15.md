@@ -18,6 +18,11 @@ Voxtral, Mistral AI, speech understanding, open source, speech recognition, lang
 ## Authors
 Mistral AI
 
+## Ton
+**Profil:** Product-Launch-Technical | Institutionnelle | Informative-Promotionnelle | Expert
+
+Mistral AI adopte product announcement voice positioning Voxtral comme major open-source speech model release. Emphasis Apache 2.0 licensing et multilingual capabilities appeals open-source community. Langage technical precise (24B model, 3B Mini, function-calling, Q&A) demonstrates capability breadth. Tone confident professional typical European AI startup positioning competitive OpenAI/Google. Structure capability-focused avec availability details facilitates developer adoption. Typique AI lab product launches (Anthropic, Cohere style) targeting developer community valuing open-source avec commercial-grade capabilities.
+
 ## Pense-betes
 - **2 tailles** : 24B variant (production), 3B Mini (local/edge), sous **licence Apache 2.0**
 - **API accessible** + téléchargement open source

@@ -18,6 +18,11 @@ Linear, AI-first, issue tracking, project management, product development, workf
 ## Authors
 Linear team
 
+## Ton
+**Profil:** Product-Minimalist | Institutionnelle | Démonstrative-Inspirationnelle | Intermédiaire
+
+Linear team adopte product-first voice emphasizing design excellence et user experience. Website/marketing materials communicate product philosophy avant feature lists. Langage design-conscious (keyboard shortcuts, developer tools, workflow automation) signals craft approach. Tone refined minimalist typical design-led startups (Figma, Notion style). Emphasis "AI-first" positions product future-oriented sans overwhelming current capabilities. Structure show-don't-tell reveals product through interaction rather than verbose explanation. Vise product-minded developers et teams valuing thoughtful tooling over feature bloat.
+
 ## Pense-betes
 - **AI-first approach** à issue tracking et project management
 - **Keyboard-first** interface : designed pour developer speed

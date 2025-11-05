@@ -18,6 +18,11 @@ Adoption IA, transformation organisationnelle, productivité, leadership, innova
 ## Authors
 Ethan Mollick
 
+## Ton
+**Profil:** Académique-Praticien | Première personne thought leader | Analytique-Prescriptive | Intermédiaire
+
+Mollick adopte framework-building voice synthesizing research insights into actionable organizational strategies. Tripartite structure "Leadership, Lab, Crowd" reveals systematic thinking typical management frameworks. Langage balanced academic (organizational learning, ambidextrous innovation) et practical (experimentation, productivity gains). Tone encouraging pragmatic positioning AI transformation comme manageable rather than overwhelming. Substack format allows depth exploration impossible shorter formats. Typique academic-practitioners (Rita McGrath, Clayton Christensen style) translating research into executive guidance visant organizational leaders navigating technological change.
+
 ## Pense-betes
 
 - **Paradoxe de l'adoption IA** : gains individuels importants (jusqu'à triplement de productivité) mais amélioration organisationnelle minimale

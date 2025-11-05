@@ -17,6 +17,11 @@ AEO (Answer Engine Optimization), SEO, IA, moteurs de réponse, IA générative,
 ## Authors
 Graphite.io Team
 
+## Ton
+**Profil:** Marketing-Thought-Leadership | Institutionnelle | Éducative-Promotionnelle | Intermédiaire
+
+Graphite team adopte marketing content voice combinant trend analysis et strategic positioning. Framing "AEO is the new SEO" employs attention-grabbing paradigm shift messaging typical content marketing. Langage SEO/marketing professional (answer engines, optimization, content strategy) vise marketing practitioners. Tone authoritative educational balancing genuine insights avec subtle product positioning. Structure thought leadership article establishes expertise tout en driving awareness. Typique SaaS content marketing (HubSpot, Ahrefs style) educating target audience sur émergent trends relevant to product value proposition.
+
 ## Pense-betes
 - **AEO (Answer Engine Optimization)** remplace le SEO traditionnel.
 - L'optimisation vise à devenir la source directe pour les "moteurs de réponse" IA (ChatGPT, Perplexity).

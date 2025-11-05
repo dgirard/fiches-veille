@@ -18,6 +18,11 @@ METR, AI safety, autonomous replication, AI agents, existential risk, alignment,
 ## Authors
 METR (formerly ARC Evals)
 
+## Ton
+**Profil:** Institutionnel-Research | Institutionnelle | Analytique-Informative | Expert
+
+METR adopte ton recherche scientifique nonprofit combinant rigueur académique et accessibilité stratégique. Langage précis et technique (autonomous replication, capability evaluation, dangerous capabilities) vise audience experte (AI researchers, policy makers, AI labs). Structure systématique avec sections resources/reports reveals organizational maturity. Emphasis mesure quantitative (doubling time 7 months, exponential trends) grounds risk assessment scientifically. Tone measured professional évitant both alarmism et complacency sur AI risks. Typique nonprofit research organizations (Future of Humanity Institute, Center for AI Safety) positioning comme authoritative evaluator indépendant avec third-party credibility.
+
 ## Pense-betes
 - **Autonomous Replication and Adaptation (ARA)** : key risk metric
 - **Can AI agents self-replicate?** : central research question
