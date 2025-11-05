@@ -11,6 +11,12 @@ https://www.linkedin.com/pulse/we-building-next-ai-bubble-insights-from-bloomber
 AI Market, Technology Investment, Circular Economy, Tech Bubble, AI Infrastructure, OpenAI, Nvidia, Digital Transformation
 ## Authors
 Philippe Ensarguet
+
+## Ton
+**Profil:** Professionnel | Analytique avec opinion | Analytique-Opinion | Intermédiaire-Accessible
+
+Ensarguet analyse article Bloomberg sur investissements circulaires IA avec ton thought leader LinkedIn équilibrant rigueur analytique et accessibilité. Parallèles historiques (bulle dot-com) et questionnement rhétorique ("Are We Building the Next AI Bubble?") révèlent analyste tech constructuisant narrative critique. Langage professionnel visant audience business/tech intéressée par implications économiques IA sans nécessiter expertise financière approfondie.
+
 ## Pense-betes
 - Parallèles avec la bulle dot-com des années 1990
 - OpenAI ne devrait pas être cash-flow positif avant la fin de la décennie

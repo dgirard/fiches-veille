@@ -11,6 +11,12 @@ https://revuethomiste.fr/contenu-editorial/chroniques/lumieres-et-grains-de-sel/
 Intelligence Artificielle, Monopsychisme, Averroès, Thomas d'Aquin, Michel Serres, Philosophie médiévale, Autonomie intellectuelle, Technologies numériques, Cognition
 ## Authors
 David Perrin
+
+## Ton
+**Profil:** Académique-Professionnel | Analytique troisième personne | Analytique-Éducative | Intermédiaire-Accessible
+
+Perrin adopte ton philosophique académique établissant parallèles historiques entre débats médiévaux et enjeux IA contemporains. Question centrale ("L'homme pense-t-il ?") révèle approche conceptuelle structurée. Langage équilibre rigueur philosophique (Averroès, Thomas d'Aquin, monopsychisme) et accessibilité pour lecteurs non-spécialistes. Typique revues académiques vulgarisant concepts complexes pour dialogue interdisciplinaire philosophie-technologie.
+
 ## Pense-betes
 - Parallèle entre débats médiévaux sur l'intellect et technologies IA contemporaines
 - Question centrale : "L'homme pense-t-il ?" déjà posée au XIIIe siècle concernant l'averroïsme

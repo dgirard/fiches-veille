@@ -11,6 +11,12 @@ https://www.linkedin.com/pulse/ai-platform-shift-redefining-what-software-how-sh
 Platform Shift, AI-Native Architecture, Software Transformation, Computing Revolution, Adaptive Software, Composable Systems, Intent-Driven, Context-Aware, Conversational Interfaces, Innovation Strategy
 ## Authors
 Philippe Ensarguet
+
+## Ton
+**Profil:** Professionnel | Analytique avec prescriptions | Analytique-Éducative | Intermédiaire-Accessible
+
+Ensarguet vise leaders tech/business avec analyse stratégique platform shifts IA. Citation programmatique ("Platform shifts are inevitable. How quickly we adapt is not") révèle consultant positionnant comme guide transformation. Langage équilibre concepts techniques (AI-native architecture, composable systems) et implications leadership. Ton prescriptif ("How Leaders Should Respond") typique thought leadership LinkedIn orienté action plutôt que pure analyse. Vise décideurs cherchant frameworks stratégiques.
+
 ## Pense-betes
 - Citation clé : "Platform shifts are inevitable. How quickly we adapt to them is not."
 - IA = transformation fondamentale du logiciel, pas amélioration incrémentale

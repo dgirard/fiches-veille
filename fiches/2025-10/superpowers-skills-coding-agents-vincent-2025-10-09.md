@@ -11,6 +11,12 @@ https://blog.fsck.com/2025/10/09/superpowers/
 AI Skills System, Coding Agents Superpowers, Claude, Test-Driven Development, Git Worktrees, Subagents, Agent Learning, Skill Sharing, Self-Optimization, AI Workflow
 ## Authors
 Jesse Vincent
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne narrative | Éducative-Opinion | Intermédiaire-Expert
+
+Vincent poursuit sa série méthodologique avec même ton praticien-expérimentateur. Citation programmatique ("Skills are what give your agents Superpowers") révèle enthousiasme contrôlé pour systèmes Skills. Approche itérative documentée (Brainstorm → Plan → Implement, RED/GREEN TDD) avec transparence sur succès/échecs. Assume expertise développement avancée (subagents, git worktrees automation). Continuité stylistique cohérente avec blog perso partageant évolution pratiques terrain.
+
 ## Pense-betes
 - Citation clé : "Skills are what give your agents Superpowers"
 - Système de compétences basé sur documents markdown

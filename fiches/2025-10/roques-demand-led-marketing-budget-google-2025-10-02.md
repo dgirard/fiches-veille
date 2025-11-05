@@ -18,6 +18,11 @@ demand-led marketing, ROI, marketing budget flexibility, AI-powered marketing, m
 ## Authors
 Guillaume Roques (Senior Director of Marketing for Google Cloud EMEA)
 
+## Ton
+**Profil:** Professionnel | Prescriptif avec autorité | Éducative-Promotionnelle | Intermédiaire-Accessible
+
+Roques adopte approche hybride corporate-conversationnelle équilibrant rigueur business et accessibilité praticien. Ouvre avec pain points relatables ("I'm sure you're feeling the squeeze") avant frameworks stratégiques. Data stratégiquement déployée (20% conversions, 17% budgets flexibles) sans surcharge métriques. Langage fortement prescriptif ("you need to", "you should") positionnant comme advisor/playbook. Vise double audience CMO-CFO via équilibre philosophie stratégique et KPIs financièrement pertinents. Typique Think with Google thought leadership visant décideurs.
+
 ## Pense-betes
 - Seulement 17% des entreprises ont des budgets marketing vraiment flexibles
 - Les annonceurs UK pourraient gagner 20% de conversions supplémentaires simplement en étant agiles sur leurs budgets Search

@@ -11,6 +11,12 @@ https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/
 Coding Agents, AI-Assisted Development, Claude, Workflow Methodology, Git Worktrees, Code Review, Multi-Session Approach, Software Development, Test-Driven Development
 ## Authors
 Jesse Vincent
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne narrative | Éducative-Opinion | Intermédiaire-Expert
+
+Vincent partage workflow personnel avec humour technique ("Our robot buddies are quite credulous", "Sometimes it tries to start writing code before I can stop it"). Ton praticien expérimenté documentant méthodologie éprouvée ("point-in-time writeup of a flow that's been pretty effective for me") avec admissions franches sur limites IA. Assume familiarité développement (git worktrees, TDD, code review). Typique blogs perso développeurs seniors partageant sagesse terrain sans prétention théorique.
+
 ## Pense-betes
 - Utilisation de git worktrees pour isoler les tâches
 - Approche multi-sessions avec différents "rôles" IA (architecte/implémenteur)

@@ -11,6 +11,12 @@ https://simonwillison.net/2025/Oct/16/claude-skills/
 Claude Skills, Model Context Protocol, MCP, AI Agents, Task Specialization, Token Efficiency, Data Journalism, Skill Sharing, Lightweight Architecture, Cambrian Explosion, Markdown Instructions
 ## Authors
 Simon Willison
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne narrative | Opinion-Analytique | Intermédiaire
+
+Willison adopte style blog perso avec opinion forte assumée dès le titre ("maybe a bigger deal than MCP"). Ton mélange enthousiasme contrôlé ("OK, this particular GIF is terrible") et argument persuasif structuré. Admissions personnelles ("I inadvertently preempted their announcement", "I was entirely wrong about that") établissent authenticité. Langage accessible ("Markdown with a tiny bit of YAML") malgré expertise technique. Typique thought leaders tech documentant découvertes avec humilité intellectuelle et conviction argumentée.
+
 ## Pense-betes
 - Skills = dossiers avec instructions, scripts et ressources chargés par Claude quand pertinent
 - Extrêmement simples : principalement fichier Markdown + documents/scripts optionnels

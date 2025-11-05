@@ -11,6 +11,12 @@ https://simonwillison.net/2025/Oct/10/claude-skills/
 Claude Skills, Document Manipulation, Code Interpreter, Anthropic, PDF Processing, Word Documents, Excel, PowerPoint, Python Scripts, AI Capabilities Discovery
 ## Authors
 Simon Willison
+
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne narrative | Éducative-Opinion | Intermédiaire
+
+Willison adopte style blog perso explorateur-découvreur ("découverte du dossier /mnt/skills"). Ton mélange curiosité technique et méthodologie transparente ("demander directement à Claude, puis récupérer zip"). Langage accessible tout en démontrant expertise reverse engineering. Citations appropriées ("Skills are what give your agents Superpowers") et documentation pratique (scripts Python, bibliothèques). Typique thought leader tech documentant expérimentation continue avec approche pédagogique hands-on.
+
 ## Pense-betes
 - Citation clé : "Skills are what give your agents Superpowers"
 - Découverte du dossier `/mnt/skills` dans Claude

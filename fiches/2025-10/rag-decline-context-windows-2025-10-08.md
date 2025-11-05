@@ -11,6 +11,12 @@ https://www.linkedin.com/pulse/from-rag-rigor-mortis-why-retrieval-augmented-loo
 Retrieval-Augmented Generation (RAG), AI context windows, Agentic AI, Large Language Models (LLMs), AI technology evolution, Context search strategies
 ## Authors
 Philippe Ensarguet
+
+## Ton
+**Profil:** Professionnel | Analytique avec opinion forte | Opinion-Analytique | Intermédiaire-Accessible
+
+Ensarguet adopte ton plus provocateur que ses autres articles LinkedIn. Titre percutant ("From RAG to Rigor Mortis") et thèse controverse (déclin RAG) révèlent thought leader assumant positions tranchées. Langage accessible malgré concepts techniques (fenêtres contexte, LLMs). Style caractéristique LinkedIn posts visant engagement via thèses counterintuitives plutôt que consensus prudent. Vise audience tech curieuse d'analyses prospectives.
+
 ## Pense-betes
 - RAG était une solution temporaire aux fenêtres de contexte limitées
 - Les fenêtres de contexte évoluent de 8K à potentiellement des millions de tokens

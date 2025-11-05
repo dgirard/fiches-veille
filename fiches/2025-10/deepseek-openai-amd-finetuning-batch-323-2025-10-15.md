@@ -18,6 +18,11 @@ DeepSeek, OpenAI, AMD, fine-tuning, inference costs, machine learning, AI newsle
 ## Authors
 Analytics DeepLearning.AI
 
+## Ton
+**Profil:** Professionnel | Narrative factuelle actualité | Éducative-Informative | Intermédiaire-Accessible
+
+Newsletter DeepLearning.AI adopte ton informatif neutre typique agrégateurs actualité tech. Structure multi-sujets ("DeepSeek Cuts..., OpenAI Tightens..., Thinking Machines...") révèle format digest. Langage professionnel-accessible visant broad audience ML/IA sans jargon excessif. Perspective troisième personne journalistique plutôt qu'opinion. Typique newsletters éducatives tech (Batch, TLDR) priorisant couverture exhaustive actualité sur analyses approfondies.
+
 ## Pense-betes
 - Issue #323 de The Batch, newsletter hebdomadaire de DeepLearning.AI
 - Plusieurs sujets d'actualité IA couverts dans ce numéro
