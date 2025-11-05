@@ -18,6 +18,11 @@ Think with Google, demand-led marketing, 2026 budget, marketing strategy, data-d
 ## Authors
 Google Marketing Team
 
+## Ton
+**Profil:** Professionnel | Prescriptif avec autorité | Éducative-Promotionnelle | Intermédiaire-Accessible
+
+Google adopte approche hybride corporate-conversationnelle équilibrant rigueur business et accessibilité praticien pour CMOs. Ouvre avec pain points relatables économiques ("uncertain macroeconomic environment", "CFO scrutiny intensifying") avant frameworks stratégiques. Data stratégiquement déployée (60/40 brand-performance split, billions queries analysées) sans surcharge métriques. Langage fortement prescriptif ("CMOs must", "marketers should") positionnant comme advisor authoritative. Vise double audience CMO-CFO via équilibre philosophie stratégique et KPIs financièrement pertinents (ROI, payback periods, contribution margin). Typique Think with Google thought leadership guidant décideurs marketing avec evidence-based recommendations et subtle Google products promotion.
+
 ## Pense-betes
 - **Demand-led approach** : budgeting based on customer demand signals
 - **2026 planning guidance** : forward-looking budget recommendations

@@ -18,6 +18,11 @@ Web conversationnel, ChatGPT Atlas, OpenAI, navigateur IA, transformation digita
 ## Authors
 Olivier Rafal
 
+## Ton
+**Profil:** Professionnel-Conversationnel | Première personne institutionnelle | Analytique-Promotionnelle subtile | Intermédiaire-Expert
+
+Rafal mêle langage accessible et expertise industrie. Ouverture conversationnelle ("OpenAI a sorti son propre navigateur Web, et ça change tout") transition vers concepts sophistiqués (SI conversationnel, Agentic Commerce Protocol). Utilisation "je ne dis pas" et "nous tenons" crée engagement direct tout en représentant viewpoint WEnvision. Analyse implications business plutôt que hard-selling, positionnant subtilement WEnvision comme forward-thinking via discussion services headless et transformations conversationnelles. Terminologie technique assume audience familière transformation digitale (headless services, agents IA). Typique thought leadership consulting français visant décideurs business-savvy.
+
 ## Pense-betes
 
 - OpenAI lance ChatGPT Atlas, son navigateur web propriétaire, marquant l'entrée dans l'ère du web conversationnel

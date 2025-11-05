@@ -18,6 +18,11 @@ Perplexity, Chrome integration, browser AI, AI search, Google competition, nativ
 ## Authors
 Perplexity, tech media
 
+## Ton
+**Profil:** Professionnel-Journalistique | Troisième personne analytique | Analytique | Intermédiaire
+
+Coverage tech media adopte ton news analysis neutre évaluant implications stratégiques intégration Perplexity-Chrome. Langage professionnel balancé évite hype excessive tout en reconnaissant significance ("bold competitive challenge", "dramatic friction reduction"). Structure systématique explore mechanics→strategic significance→competitive dynamics→user experience→monetization→responses. Analyse multiperspective (user adoption, Google response, regulatory context, industry implications) révèle journalism sophistiqué. Pas de promotional bias ni opinion tranchée — pure assessment factuel strategic landscape. Typique tech business journalism quality (TechCrunch, The Verge, Ars Technica) visant professionals tracking industry shifts.
+
 ## Pense-betes
 - **Native Chrome integration** : Perplexity directly dans browser
 - **Google's home turf** : competing dans Chrome browser itself

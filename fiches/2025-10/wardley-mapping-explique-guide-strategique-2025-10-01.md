@@ -18,6 +18,11 @@ Wardley Mapping, conscience situationnelle, chaîne de valeur, évolution techno
 ## Authors
 Recherche synthétique compilée (28 sources)
 
+## Ton
+**Profil:** Éducatif-Conversationnel | Deuxième personne pédagogique | Éducative | Débutant-Intermédiaire
+
+Document adopte ton pédagogue enthousiaste rendant stratégie business accessible jeunes audiences. Métaphores gaming omniprésentes (Fortnite, League of Legends, jeu dames) et exemples concrets (pizza, YouTube, musique streaming) ancrent concepts abstraits. Langage direct deuxième personne ("vous possédez maintenant", "votre nouveau super-pouvoir") crée engagement. Structure progressive simple→complexe avec récaps visuels (tableaux "guide terrain"). Analogies multiples renforcent compréhension (Far West/Atelier/Mall/Robinet). Ton encourageant ("Le jeu a commencé, vous avez la carte") sans condescendance. Typique educational content vulgarisation concepts business sophistiqués pour lycéens/étudiants via storytelling accessible et frameworks visuels clairs.
+
 ## Pense-betes
 - **Wardley Mapping = plateau de jeu** pour projets/entreprises/objectifs personnels
 - **Créé par Simon Wardley** pour éviter "erreurs stratégiques coûteuses" par manque de carte

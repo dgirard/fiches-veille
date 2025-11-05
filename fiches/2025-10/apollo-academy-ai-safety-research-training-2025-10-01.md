@@ -18,6 +18,11 @@ Apollo Academy, AI safety, alignment research, technical safety, educational pro
 ## Authors
 Apollo Academy team
 
+## Ton
+**Profil:** Professionnel-Académique | Institutionnelle descriptive | Éducative-Promotionnelle | Intermédiaire-Expert
+
+Apollo adopte ton académique sérieux reflétant gravité AI safety tout en restant accessible aspirants researchers. Langage technique assumé (interpretability, scalable oversight, alignment research) vise audience ML-literate. Structure programmatique détaillée (12-16 week programs, curriculum breakdown, admission process) communique rigueur et crédibilité. Framing urgency ("critical talent bottleneck", "AI capabilities advancing rapidly") sans alarmisme excessif. Balance promotional goals (attracting fellows) avec educational transparency (selective admission 5-15%, technical prerequisites). Typique program descriptions elite research training combinant gravitas mission-driven et practical implementation details.
+
 ## Pense-betes
 - **Intensive research training** : multi-month AI safety programs
 - **Technical alignment focus** : interpretability, robustness, governance

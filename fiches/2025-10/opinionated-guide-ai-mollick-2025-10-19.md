@@ -18,6 +18,11 @@ AI model selection, ChatGPT vs Claude vs Gemini, jagged frontier, practical AI u
 ## Authors
 Ethan Mollick (Associate Professor, Wharton School, University of Pennsylvania ; Auteur "Co-Intelligence: Living and Working with AI" ; TIME 100 Most Influential People in AI 2024)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Première personne expert | Éducative | Intermédiaire-Accessible
+
+Mollick maintient langage accessible avec autorité académique. Contractions ("it isn't," "you'd think") et phrasings décontractés ("way less casual chat than you'd think") préviennent intimidation tout en préservant structure professionnelle. Voix première personne établit crédibilité : "Every few months I write an opinionated guide" et "I can finally give you advice based on real usage patterns." Intention purement éducative plutôt que promotional, reconnaissant incertitudes ("difficult to control what models you are using") tout en guidant décisions. Typique thought leadership académique rendant contenu sophistiqué digestible sans oversimplification.
+
 ## Pense-betes
 - **10% humanité** utilise IA hebdomadairement (fin 2025)
 - **Article basé données** : OpenAI a publié données usage réelles ChatGPT, permettant conseils evidence-based

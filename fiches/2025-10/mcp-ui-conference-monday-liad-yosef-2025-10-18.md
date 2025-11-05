@@ -18,6 +18,11 @@ MCP-UI, islands architecture, remote DOM, theming, sandboxed iframes, state mana
 ## Authors
 Liad Yosef (AI & MCP Lead - Monday.com, co-modérateur UI work group)
 
+## Ton
+**Profil:** Professionnel-Technique | Première personne démonstrative | Éducative-Promotionnelle | Intermédiaire-Expert
+
+Yosef adopte style conference talk tech combinant rigueur architecturale et démo pragmatique. Structure claire problème→solution→architecture→démo→future révèle presenter chevronné. Langage technique assumé (sandboxed iframes, post messages, remote DOM, islands architecture) vise audience developers et architects. Citations mémorables framing enjeux ("providers lose identity", "wall of text for users"). Démo concrète sprint management Monday illustre concepts abstraits. Vision transformative finale ("web fragmenté → atomes composables") inspire sans overselling. Typique tech conference talks senior engineers communicant architectural innovations avec clarté pédagogique et enthusiasm tempéré.
+
 ## Pense-betes
 - **Problème double** : perte d'identité fournisseurs (Shopify/Airbnb/Amazon) ET expérience utilisateur dégradée
 - **MCP-UI = protocole ouvert** pour envoyer UI via MCP + standardiser communication host/UI

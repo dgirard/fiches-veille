@@ -18,6 +18,11 @@ Wenvision, AI agents, enterprise deployment, agent platform, orchestration, prod
 ## Authors
 Wenvision team
 
+## Ton
+**Profil:** Professionnel-Corporate | Institutionnelle | Promotionnelle-Éducative | Intermédiaire-Expert
+
+Wenvision adopte ton enterprise platform vendor équilibrant technical credibility et business value messaging. Terminologie IT enterprise assumée (governance, orchestration, observability, multi-agent workflows) vise CTOs et enterprise architects. Structure systématique explore enterprise requirements gap→core capabilities→governance→monitoring→integration→cost management. Framing "bridging experimentation-production gap" positionne comme enabler pragmatique. Balance technical depth (RBAC, secrets management, network isolation) avec business outcomes (CFO buy-in, ROI demonstration). Pas de hype excessive — tone measured professionnel. Typique B2B enterprise software vendors (Databricks, Snowflake style) communicant platform value à decision-makers techniques et business.
+
 ## Pense-betes
 - **Enterprise-grade agent platform** : production-ready AI agent deployment
 - **Governance et compliance** : built-in security, audit trails

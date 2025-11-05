@@ -18,6 +18,11 @@ Solstice Lab, AI agents, multi-agent systems, collaborative AI, agent orchestrat
 ## Authors
 Solstice Lab team
 
+## Ton
+**Profil:** Professionnel-Académique | Institutionnelle descriptive | Éducative-Analytique | Expert
+
+Solstice adopte ton research lab rigoureux équilibrant academic depth et practical applications focus. Terminologie spécialisée multi-agent systems (manager-worker patterns, peer-to-peer coordination, emergent behaviors, orchestration challenges) vise audience AI researchers et enterprise architects. Structure systématique explore motivation→patterns→communication→emergent behaviors→challenges→applications. Framing "bridging academic rigor avec enterprise deployment reality" positionne comme applied research. Pas de marketing fluff — pure technical substance avec pragmatic enterprise use cases grounding. Typique research lab communications (DeepMind, MSR, AI research groups) combinant scientific rigor et industry relevance.
+
 ## Pense-betes
 - **Multi-agent collaboration** : multiple AI agents working together
 - **Coordination patterns** : manager-worker, peer-to-peer, hierarchical

@@ -18,6 +18,11 @@ CEA, ExpressIF 3, RISC-V, AI SoC, edge computing, embedded AI, system-on-chip, o
 ## Authors
 CEA (Commissariat à l'énergie atomique et aux énergies alternatives)
 
+## Ton
+**Profil:** Professionnel-Technique | Institutionnelle descriptive | Analytique-Promotionnelle | Expert
+
+CEA adopte ton institutionnel français combinant rigueur scientifique et messaging souveraineté technologique. Terminologie hautement spécialisée (RISC-V ISA, neural network accelerators, milliwatt-scale power consumption, edge inference) vise audience ingénieurs systèmes et décideurs tech policy. Framing stratégique européen ("technological sovereignty", "avoiding proprietary dependencies") révèle positioning géopolitique. Balance technical depth avec strategic narrative. Pas d'accessibilité grand public — assume readers comprennent SoC architecture, AI workloads, semiconductor ecosystem. Typique communications research institutes nationaux européens combinant innovation showcase et strategic autonomy messaging.
+
 ## Pense-betes
 - **ExpressIF 3** : CEA's latest RISC-V based AI system-on-chip
 - **Edge AI acceleration** : designed pour neural network inference at edge

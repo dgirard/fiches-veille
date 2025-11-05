@@ -18,6 +18,11 @@ escalation dysfunction, organizational barriers, overcommitment culture, career 
 ## Authors
 John Cutler (Head of Product @Dotwork, ex-Amplitude)
 
+## Ton
+**Profil:** Conversationnel-Professionnel | Deuxième personne diagnostic | Analytique-Éducative | Intermédiaire-Expert
+
+Cutler adopte style direct adressant leaders ("you receive opposite story") mêlant rigueur analytique et langage terrain accessible. Structure énumération systématique (8 barrières, 10 leviers) révèle penseur systémique. Ton diagnostic empathique reconnaissant complexité humaine ("not malice/subterfuge but because humans"). Citations mémorables ("Lost in details", "Cascade down-the-chain") cristallisent patterns organisationnels. Vocabulaire technique assumé (trip-wires, WIP limits, enabling constraints) vise audience product leaders/engineering managers. Typique LinkedIn thought leadership praticien senior partageant battle-tested insights sans academic formality.
+
 ## Pense-betes
 - **Paradoxe central** : feedbacks informels remplis de problèmes (débordement, priorités conflictuelles, dépendances) mais leaders n'entendent rien quand ils demandent "Comment puis-je aider ?"
 - **3 minutes insuffisant** : problèmes complexes ne se condensent pas en résumé 3min, distorsion/oversimplification garantie

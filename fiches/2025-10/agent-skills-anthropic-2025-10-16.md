@@ -18,6 +18,11 @@ Agent Skills, Claude, composable AI, portable skills, Code Execution Tool, skill
 ## Authors
 Anthropic (équipe produit)
 
+## Ton
+**Profil:** Professionnel | Institutionnelle avec adresse directe | Promotionnelle-Éducative | Intermédiaire
+
+Anthropic adopte voix institutionnelle accessible équilibrant précision technique et lisibilité grand public. Utilisation stratégique du "we" et "you" établit autorité tout en restant approchable ("Claude can now use Skills"). Mouvement narratif structuré introduction fonctionnalité → bénéfices → usage pratique → ressources getting-started drive readers vers engagement. Citation : "Skills are folders that include instructions, scripts, and resources that Claude can load when needed" — explique concept technique plainement. Typique product announcements tech combinant promotional showcase et educational guidance.
+
 ## Pense-betes
 - **Skills = dossiers** contenant instructions, scripts et ressources que Claude charge à la demande
 - **Sélection automatique** : Claude scanne les skills disponibles et charge uniquement ce qui est nécessaire
