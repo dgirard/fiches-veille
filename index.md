@@ -69,6 +69,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Juillet 2025
 
+- **[2025-07-29]** [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Team Topologies framework, Conway's Law, design organisationnel - Xebia
 - **[2025-07-29]** [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - 4 innovations critiques - Gartner
 - **[2025-07-28]** [MCP pour débutants](fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28.md) - 12 vidéos, 43k+ vues - Microsoft Developer
 - **[2025-07-23]** [White House: America's AI Action Plan](fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23.md) - National AI strategy - White House
@@ -162,6 +163,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Transformation & Adoption
 - [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
+- [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Arjan van den Heuvel
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Ethan Mollick
@@ -252,7 +254,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 96
+- **Total d'articles** : 97
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Netflix Technology Blog (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Netflix Technology Blog (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia
