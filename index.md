@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-07]** [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Format .deepnote YAML, extensions VS Code/Cursor, open source 1.5k stars - GitHub
 - **[2025-11-05]** [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli
 - **[2025-11-05]** [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Transformation rôles développeurs, ingénierie système, orchestration agentique - Yves Caseau
 - **[2025-11-04]** [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - Commerce agentique, partenariats ChatGPT/Perplexity/Copilot - TechCrunch
@@ -225,6 +226,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Pragmatic Engineer: Measure AI Impact](fiches/2025-10/pragmatic-engineer-measure-ai-impact-dev-2025-10.md) - Pragmatic Engineer
 
 ### Outils & Plateformes
+- [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Deepnote Team
 - [SuperClaude Framework](fiches/2025-10/superclaude-framework-config-claude-code-2025-10.md) - GitHub 17.2k stars
 - [Gemini CLI et Claude Code: Hybrid Workflow](fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23.md) - Reddit
 - [Gemini CLI ToS Privacy](fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17.md) - Google
@@ -254,7 +256,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 97
+- **Total d'articles** : 98
 - **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Netflix Technology Blog (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia
+- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Netflix Technology Blog (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote
