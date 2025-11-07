@@ -127,6 +127,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
 
+### Juin 2023
+
+- **[2023-06-03]** [Setting time on fire and the temptation of The Button](fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03.md) - Crise de sens au travail, Help me write, signaux d'effort - One Useful Thing
+
 ---
 
 ## Thématiques
@@ -169,6 +173,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Ethan Mollick
 - [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Ethan Mollick
+- [Setting time on fire and the temptation of The Button](fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03.md) - Ethan Mollick
 - [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15.md) - Jean-Christophe Laissy
 - [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Anthropic Research
 - [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - Google Cloud
@@ -256,7 +261,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 98
-- **Période couverte** : Juillet 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (4), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Netflix Technology Blog (1), et al.
+- **Total d'articles** : 99
+- **Période couverte** : Juin 2023 - Novembre 2025
+- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Netflix Technology Blog (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote
