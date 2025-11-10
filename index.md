@@ -46,6 +46,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-09-29]** [Claude Code Subagents Documentation](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) - Specialized AI assistants - Anthropic
 - **[2025-09-28]** [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Productivité exponentielle - IA récursif - Substack
+- **[2025-09-23]** [Deploy your own AI vibe coding platform](fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23.md) - VibeSDK open-source, Sandboxes, Workers for Platforms - Cloudflare
 - **[2025-09-23]** [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - IA amplifie performance équipes - Google Cloud
 - **[2025-09-18]** [Anthropic Outage Post-Mortem](fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18.md) - Service reliability - Anthropic
 - **[2025-09-16]** [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Payment protocol - Google
@@ -144,6 +145,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Claude Skills are awesome, maybe a bigger deal than MCP](fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16.md) - Simon Willison
 - [Agentic Context Engineering (ACE)](fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07.md) - Stanford Research
 - [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) - Sam Schillace
+- [Deploy your own AI vibe coding platform](fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23.md) - Cloudflare
 - [The Hot Vibe Code Summer](fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md) - RedMonk
 - [ChatGPT Agent Launch](fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17.md) - OpenAI
 - [LangChain: How to Build an Agent](fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09.md) - LangChain
@@ -261,7 +263,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 99
+- **Total d'articles** : 100
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Netflix Technology Blog (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote
+- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Netflix Technology Blog (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare
