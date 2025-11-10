@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-08]** [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Commerce conversationnel, changement de plateforme IA - Barron Ernst
 - **[2025-11-07]** [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Format .deepnote YAML, extensions VS Code/Cursor, open source 1.5k stars - GitHub
 - **[2025-11-05]** [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli
 - **[2025-11-05]** [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Transformation rôles développeurs, ingénierie système, orchestration agentique - Yves Caseau
@@ -204,6 +205,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Barron Ernst
 - [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - TechCrunch
 - [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Cobus Greyling
 - [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Lior Novik
@@ -263,7 +265,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 100
+- **Total d'articles** : 101
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Netflix Technology Blog (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare
+- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Netflix Technology Blog (1), Barron Ernst (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Barron Ernst's Newsletter
