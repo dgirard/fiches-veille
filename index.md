@@ -8,10 +8,13 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-12]** [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Benchmarking beyond tests, interview models for specific use cases, Jagged Frontier, GuacaDrone - Ethan Mollick
 - **[2025-11-08]** [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Commerce conversationnel, changement de plateforme IA - Barron Ernst
 - **[2025-11-07]** [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Format .deepnote YAML, extensions VS Code/Cursor, open source 1.5k stars - GitHub
 - **[2025-11-07]** [Teach Your AI to Think Like a Senior Engineer](fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07.md) - 8 stratégies planification IA, research agents parallèles, compounding engineering - Every Source Code
+- **[2025-11-06]** [Microsoft researchers tried to manipulate AI agents](fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06.md) - Magentic Marketplace, Claude Sonnet 4 seul résistant, paradox of choice - ZDNet
 - **[2025-11-06]** [Stop Coding and Start Planning](fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06.md) - Compounding engineering, three fidelities, plans teach systems - Every Source Code
+- **[2025-11]** [The Gen AI Playbook for Organizations](fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11.md) - Framework 4 quadrants, paradoxe accès, data as moat - Harvard Business Review
 - **[2025-11-05]** [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli
 - **[2025-11-05]** [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Transformation rôles développeurs, ingénierie système, orchestration agentique - Yves Caseau
 - **[2025-11-04]** [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - Commerce agentique, partenariats ChatGPT/Perplexity/Copilot - TechCrunch
@@ -22,6 +25,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Octobre 2025
 
+- **[2025-10-30]** [NVIDIA is moving beyond hardware to software ecosystem dominance](fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30.md) - SLMs workflows agentiques, Nemotron Nano, DGX Spark, data flywheel, hardware moat - Cobus Greyling
 - **[2025-10-29]** [How to Use Claude Code Like the People Who Built It](fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29.md) - Cat Wu & Boris Cherny, antfooding, plan mode, subagents, slash commands - Every AI & I Podcast
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
 - **[2025-10-26]** [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Commerce agentique, confiance IA shopping - Riskified/Jerusalem Post
@@ -141,9 +145,11 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Microsoft researchers tried to manipulate AI agents](fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06.md) - Webb Wright
 - [Teach Your AI to Think Like a Senior Engineer](fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07.md) - Kieran Klaassen
 - [Stop Coding and Start Planning](fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06.md) - Kieran Klaassen
 - [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Soufiane Keli
+- [NVIDIA is moving beyond hardware to software ecosystem dominance](fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30.md) - Cobus Greyling
 - [How to Use Claude Code Like the People Who Built It](fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29.md) - Cat Wu & Boris Cherny
 - [Méthodologie agents de codage IA](fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md) - Jesse Vincent
 - [Superpowers: Skills pour agents IA](fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09.md) - Jesse Vincent
@@ -176,6 +182,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Ethan Mollick
 - [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
 - [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Arjan van den Heuvel
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
@@ -235,6 +242,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Career paths
 
 ### Stratégie & Frameworks
+- [The Gen AI Playbook for Organizations](fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11.md) - Bharat N. Anand & Andy Wu
 - [Wardley Mapping Expliqué](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10.md) - Simon Wardley
 - [AI Workflow for Wardley Mapping](fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23.md) - Tutoriel vidéo
 - [Context Engineering: Domain Understanding](fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23.md) - David Johnson
@@ -271,7 +279,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 104
+- **Total d'articles** : 108
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (5), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Kieran Klaassen (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Cobus Greyling (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter
+- **Principaux auteurs** : Ethan Mollick (6), Simon Willison (2), Jesse Vincent (2), Anthropic (4), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review
