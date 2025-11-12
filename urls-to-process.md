@@ -12,3 +12,5 @@ https://openai.com/index/ai-progress-and-recommendations/
 https://www.zdnet.com/article/microsoft-researchers-tried-to-manipulate-ai-agents-and-only-one-resisted-all-attempts/
 
 https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
+
+https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1
