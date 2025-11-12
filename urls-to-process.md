@@ -14,3 +14,5 @@ https://openai.com/index/ai-progress-and-recommendations/
 
 Note: URL OpenAI bloquée par JavaScript/protection anti-scraping
 -->
+
+https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1
