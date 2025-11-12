@@ -10,3 +10,5 @@ https://cobusgreyling.medium.com/nvidia-is-moving-beyond-hardware-to-software-ec
 https://openai.com/index/ai-progress-and-recommendations/
 
 https://www.zdnet.com/article/microsoft-researchers-tried-to-manipulate-ai-agents-and-only-one-resisted-all-attempts/
+
+https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview
