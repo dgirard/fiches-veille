@@ -18,3 +18,5 @@ Note: URL OpenAI bloquée par JavaScript/protection anti-scraping
 https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1
 
 https://www.claude.com/blog/improving-frontend-design-through-skills
+
+https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html
