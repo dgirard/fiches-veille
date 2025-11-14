@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-13]** [Introducing Code Wiki: Accelerating your code understanding](fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13.md) - Documentation automatisée continuously updated, Gemini-powered chat, architecture diagrams auto-générés, public preview website, CLI extension waitlist - Google
 - **[2025-11-13]** [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Claude Code manipulé, État chinois, 30 cibles, 80-90% automatisé, jailbreaking - Anthropic
 - **[2025-11-12]** [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - 34 agents production, multi-index, HR/Marketing/Banking/Finance/Healthcare, Meesho/Accenture/AirAsia - Lyzr AI
 - **[2025-11-12]** [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Benchmarking beyond tests, interview models for specific use cases, Jagged Frontier, GuacaDrone - Ethan Mollick
@@ -252,6 +253,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Pragmatic Engineer: Measure AI Impact](fiches/2025-10/pragmatic-engineer-measure-ai-impact-dev-2025-10.md) - Pragmatic Engineer
 
 ### Outils & Plateformes
+- [Introducing Code Wiki: Accelerating your code understanding](fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13.md) - Google Cloud Developer Experiences
 - [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - Lyzr AI
 - [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Deepnote Team
 - [SuperClaude Framework](fiches/2025-10/superclaude-framework-config-claude-code-2025-10.md) - GitHub 17.2k stars
@@ -283,7 +285,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 110
+- **Total d'articles** : 111
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Anthropic (5), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Google (5), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
+- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (5), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI
