@@ -86,7 +86,7 @@ Google adopte product launch voice mêlant mission statement corporate ("organiz
 
 ## RésuméDe400mots
 
-Google lance Code Wiki en public preview, plateforme révolutionnaire adressant "one of biggest, most expensive bottlenecks in software development" : reading existing code. Appliquant mission Google ("organize world's information") aux développeurs, Code Wiki "unlocks vital knowledge currently buried in complex source code" via documentation continuously updated structured wiki.
+Google lance Code Wiki en public preview, plateforme  adressant "one of biggest, most expensive bottlenecks in software development" : reading existing code. Appliquant mission Google ("organize world's information") aux développeurs, Code Wiki "unlocks vital knowledge currently buried in complex source code" via documentation continuously updated structured wiki.
 
 **3 caractéristiques différenciatrices**
 
