@@ -20,3 +20,5 @@ https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-
 https://www.claude.com/blog/improving-frontend-design-through-skills
 
 https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html
+
+https://www.anthropic.com/news/political-even-handedness
