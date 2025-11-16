@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-13]** [Measuring political bias in Claude](fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13.md) - Even-handedness 94-95%, Paired Prompts method, open-source evaluation, character training, comparaison 6 modèles - Anthropic
 - **[2025-11-13]** [Introducing Code Wiki: Accelerating your code understanding](fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13.md) - Documentation automatisée continuously updated, Gemini-powered chat, architecture diagrams auto-générés, public preview website, CLI extension waitlist - Google
 - **[2025-11-13]** [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Claude Code manipulé, État chinois, 30 cibles, 80-90% automatisé, jailbreaking - Anthropic
 - **[2025-11-12]** [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - 34 agents production, multi-index, HR/Marketing/Banking/Finance/Healthcare, Meesho/Accenture/AirAsia - Lyzr AI
@@ -29,6 +30,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Octobre 2025
 
 - **[2025-10-30]** [NVIDIA is moving beyond hardware to software ecosystem dominance](fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30.md) - SLMs workflows agentiques, Nemotron Nano, DGX Spark, data flywheel, hardware moat - Cobus Greyling
+- **[2025-10-29]** [Agent reliability: What's missing in Enterprise AI agent architecture?](fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29.md) - Gap déploiement 64% vs 17%, decision governance manquante hyperscalers, Hypergraph Database, <1% hallucination, Gartner 40% canceled 2027 - Rippletide
 - **[2025-10-29]** [How to Use Claude Code Like the People Who Built It](fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29.md) - Cat Wu & Boris Cherny, antfooding, plan mode, subagents, slash commands - Every AI & I Podcast
 - **[2025-10-29]** [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Quatre piliers agents production viables - WEnvision
 - **[2025-10-26]** [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Commerce agentique, confiance IA shopping - Riskified/Jerusalem Post
@@ -172,6 +174,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
 
 ### Architecture & Construction
+- [Agent reliability: What's missing in Enterprise AI agent architecture?](fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29.md) - Patrick Joubert (Rippletide)
 - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) - Netflix
 - [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Johann Schopplich
 - [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Philippe Ensarguet
@@ -205,6 +208,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
+- [Measuring political bias in Claude](fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13.md) - Anthropic
 - [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Anthropic
 - [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Soufiane Keli
 - [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Gilles Chehade
@@ -285,7 +289,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 111
+- **Total d'articles** : 113
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (5), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI
+- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (6), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), Patrick Joubert (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide
