@@ -22,3 +22,5 @@ https://www.claude.com/blog/improving-frontend-design-through-skills
 https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html
 
 https://www.anthropic.com/news/political-even-handedness
+
+https://www.rippletide.com/resources/blog/agent-reliability-what-s-missing-in-enterprise-ai-agent-architecture
