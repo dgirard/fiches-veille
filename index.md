@@ -27,6 +27,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-11-03]** [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Artisanat logiciel, open-source, impact IA - Gilles Chehade
 - **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
 - **[2025-11-02]** [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Réalignement industriel, capital infini - Cybernetica
+- **[2025-11-01]** [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Du mode Conductor au mode Orchestrator, workflows asynchrones - Addy Osmani
 
 ### Octobre 2025
 
@@ -155,6 +156,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Teach Your AI to Think Like a Senior Engineer](fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07.md) - Kieran Klaassen
 - [Stop Coding and Start Planning](fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06.md) - Kieran Klaassen
 - [Approche fonctionnelle pour l'IA générative en développement : 100% de code généré](fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05.md) - Soufiane Keli
+- [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Addy Osmani
 - [NVIDIA is moving beyond hardware to software ecosystem dominance](fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30.md) - Cobus Greyling
 - [How to Use Claude Code Like the People Who Built It](fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29.md) - Cat Wu & Boris Cherny
 - [Méthodologie agents de codage IA](fiches/2025-10/coding-agents-methodology-vincent-2025-10-05.md) - Jesse Vincent
@@ -193,6 +195,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
 - [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Ethan Mollick
 - [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
+- [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Addy Osmani
 - [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Arjan van den Heuvel
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
@@ -293,7 +296,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 114
+- **Total d'articles** : 115
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (6), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Addy Osmani (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), Patrick Joubert (1), Deep Research Veille Interne (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research
+- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (6), Addy Osmani (2), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), Patrick Joubert (1), Deep Research Veille Interne (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack
