@@ -28,3 +28,5 @@ https://www.rippletide.com/resources/blog/agent-reliability-what-s-missing-in-en
 https://fortune.com/2025/11/17/jeff-bezos-project-prometheus-co-ceo-ai-startup-6-2-billion/
 
 https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+
+https://www.itforbusiness.fr/enquete-la-revision-discrete-du-rgpd-qui-y-gagne-qui-y-perd-96974
