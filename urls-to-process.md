@@ -30,3 +30,6 @@ https://fortune.com/2025/11/17/jeff-bezos-project-prometheus-co-ceo-ai-startup-6
 https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
 
 https://www.itforbusiness.fr/enquete-la-revision-discrete-du-rgpd-qui-y-gagne-qui-y-perd-96974
+
+https://cobusgreyling.medium.com/the-two-breakout-use-cases-for-generative-ai-d9039a4ecfd5?s=09
+https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf
