@@ -8,8 +8,27 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Novembre 2025
 
+- **[2025-11-23]** [The Year the IDE Died & Vibe Coding](fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23.md) - Mort IDE, 60k lignes IA non reviewées - Sourcegraph/IT Revolution
+- **[2025-11-23]** [Empowering Support to Ship Code](fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23.md) - Érosion applicative, support autonome - Zapier
+- **[2025-11-23]** [Building the Future of Autonomous Coding](fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23.md) - Autonomie complète, démocratisation dev - Replit
+- **[2025-11-23]** [Building Powerful Agentic Systems with Claude](fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23.md) - APIs Claude, orchestration multi-agents - Anthropic
+- **[2025-11-23]** [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Compounding Engineering, Managers codeurs - Every
+- **[2025-11-23]** [Effective Leadership in AI-Enhanced Organizations](fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23.md) - Sécurité psychologique, Théorie des contraintes - DX
+- **[2025-11-23]** [Paying Engineers like Salespeople](fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23.md) - Rémunération par Story Points - 10x
+- **[2025-11-23]** [Enterprise AI Adoption Status & ROI](fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23.md) - Enquête ROI, Time savings vs Transformation - AI Daily Brief
+- **[2025-11-23]** [Developer Experience in the Age of AI Coding Agents](fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23.md) - No regrets investments, Code review - Capital One
+- **[2025-11-23]** [From Arc to Dia: Lessons learned in building AI Browser](fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23.md) - AI Native Product, Prompt Injection - The Browser Company
+- **[2025-11-23]** [What We Learned Deploying AI within Bloomberg's Engineering Organization](fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23.md) - Paved Path, Uplift Agents - Bloomberg
+- **[2025-11-23]** [Small Bets, Big Impact: Building GenBI at a Fortune 100](fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23.md) - GenBI, Incremental rollout - Northwestern Mutual
+- **[2025-11-23]** [Proactive Agents: Doing the Dishes Without Being Asked](fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23.md) - Project Jules, Proactivité - Google Labs
+- **[2025-11-23]** [MiniMax M2: NextGen Experiences for Code Generation](fiches/2025-11/song-minimax-m2-model-2025-11-23.md) - Interleaved Thinking, Modèle économique - MiniMax
+- **[2025-11-23]** [The State of AI Code Quality: Hype vs. Reality](fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23.md) - Quality Gates, Context Engine - QodoAI
+- **[2025-11-23]** [How to Quantify AI ROI in Software Engineering](fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23.md) - Métriques, Hygiène du code - Stanford
+- **[2025-11-23]** [Reshaping Software Delivery with Agents](fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23.md) - AI Native Workflows, Spec-driven - McKinsey
+- **[2025-11-23]** [Future-Proof Coding Agents](fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23.md) - Codex Harness, Computer Use - OpenAI
 - **[2025-11]** [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research 6 piliers (AI4Project/UX/Dev/Ops/Data/Cloud), Transition Copilotes→Agents, Paradoxe Vibe vs Check, Crise FinOps pour IA, GenAI Landing Zone - Deep Research Veille Interne
 - **[2025-11-13]** [Measuring political bias in Claude](fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13.md) - Even-handedness 94-95%, Paired Prompts method, open-source evaluation, character training, comparaison 6 modèles - Anthropic
+- **[2025-11-13]** [Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?](fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13.md) - Digital Omnibus, redéfinition données sensibles, élargissement intérêt légitime, affaiblissement droits individuels, centralisation ENISA - IT for Business
 - **[2025-11-13]** [Introducing Code Wiki: Accelerating your code understanding](fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13.md) - Documentation automatisée continuously updated, Gemini-powered chat, architecture diagrams auto-générés, public preview website, CLI extension waitlist - Google
 - **[2025-11-13]** [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Claude Code manipulé, État chinois, 30 cibles, 80-90% automatisé, jailbreaking - Anthropic
 - **[2025-11-12]** [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - 34 agents production, multi-index, HR/Marketing/Banking/Finance/Healthcare, Meesho/Accenture/AirAsia - Lyzr AI
@@ -152,6 +171,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [The Year the IDE Died & Vibe Coding](fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23.md) - Steve Yegge & Gene Kim
+- [Building the Future of Autonomous Coding](fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23.md) - Michele Catasta
+- [Building Powerful Agentic Systems with Claude](fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23.md) - Katelyn Lesse
+- [MiniMax M2: NextGen Experiences for Code Generation](fiches/2025-11/song-minimax-m2-model-2025-11-23.md) - Olive Song
+- [Proactive Agents: Doing the Dishes Without Being Asked](fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23.md) - Kath Korevec
+- [From Arc to Dia: Lessons learned in building AI Browser](fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23.md) - Samir Mody
+- [Developer Experience in the Age of AI Coding Agents](fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23.md) - Max Kanat-Alexander
+- [Future-Proof Coding Agents](fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23.md) - Bill Chen & Brian Fioca
+- [The State of AI Code Quality: Hype vs. Reality](fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23.md) - Itamar Friedman
 - [Microsoft researchers tried to manipulate AI agents](fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06.md) - Webb Wright
 - [Teach Your AI to Think Like a Senior Engineer](fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07.md) - Kieran Klaassen
 - [Stop Coding and Start Planning](fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06.md) - Kieran Klaassen
@@ -177,6 +205,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
 
 ### Architecture & Construction
+- [Empowering Support to Ship Code](fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23.md) - Lisa Orr (Zapier)
+- [What We Learned Deploying AI within Bloomberg's Engineering Organization](fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23.md) - Lei Zhang (Bloomberg)
+- [Small Bets, Big Impact: Building GenBI at a Fortune 100](fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23.md) - Asaf Bord (Northwestern Mutual)
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
 - [Agent reliability: What's missing in Enterprise AI agent architecture?](fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29.md) - Patrick Joubert (Rippletide)
 - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) - Netflix
@@ -192,6 +223,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 
 ### Transformation & Adoption
+- [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Dan Shipper (Every)
+- [Effective Leadership in AI-Enhanced Organizations](fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23.md) - Justin Reock (DX)
+- [Reshaping Software Delivery with Agents](fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23.md) - Martin Harrison & Natasha Maniar (McKinsey)
+- [Enterprise AI Adoption Status & ROI](fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23.md) - NLW (AI Daily Brief)
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
 - [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Ethan Mollick
 - [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
@@ -232,6 +267,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [Paying Engineers like Salespeople](fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23.md) - Arman Hezarkhani (10x)
+- [How to Quantify AI ROI in Software Engineering](fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23.md) - Yegor Denisov-Blanch (Stanford)
 - [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Barron Ernst
 - [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - TechCrunch
 - [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Cobus Greyling
@@ -290,13 +327,14 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Google
 
 ### Politique & Régulation
+- [Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?](fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13.md) - Thierry Derouet
 - [White House: America's AI Action Plan](fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23.md) - White House
 
 ---
 
 ## Statistiques
 
-- **Total d'articles** : 115
+- **Total d'articles** : 134
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (6), Google (6), Anthropic (6), Addy Osmani (2), Simon Willison (2), Jesse Vincent (2), Kent Beck (2), Kieran Klaassen (2), Cobus Greyling (2), Marc Benioff (1), Sam Altman (1), Luc Julia (1), Yamini Rangan (1), Sebastian Raschka (1), Alexandre Mogère (1), Mathias Garcia (1), Johann Schopplich (1), Aimee Donnellan (1), Antoine Habert (1), Lee Robinson (1), Guido Appenzeller (1), Yoko Li (1), Tariq KRIM (1), Gilles Chehade (1), Lior Novik (1), Yves Caseau (1), Soufiane Keli (1), Sarah Perez (1), Arjan van den Heuvel (1), Deepnote Team (1), Cloudflare Team (1), Cat Wu & Boris Cherny (1), Netflix Technology Blog (1), Barron Ernst (1), Webb Wright (1), Bharat N. Anand (1), Andy Wu (1), Lyzr AI (1), Patrick Joubert (1), Deep Research Veille Interne (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack
+- **Principaux auteurs** : Ethan Mollick (6), Google (7), Anthropic (7), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution.

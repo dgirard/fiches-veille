@@ -17,19 +17,19 @@ Note: URL OpenAI bloquée par JavaScript/protection anti-scraping
 
 https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1
 
-https://www.claude.com/blog/improving-frontend-design-through-skills
+<!-- URLs traitées le 2025-11-20:
+- https://www.itforbusiness.fr/enquete-la-revision-discrete-du-rgpd-qui-y-gagne-qui-y-perd-96974 (fiche créée: derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13.md)
+-->
 
-https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html
+<!-- URLs traitées le 2025-11-23:
+- https://www.claude.com/blog/improving-frontend-design-through-skills (fiche créée: rajasekaran-anthropic-frontend-design-skills-2025-11-12.md)
+- https://fortune.com/2025/11/17/jeff-bezos-project-prometheus-co-ceo-ai-startup-6-2-billion/ (fiche créée: lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17.md)
+- https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini (fiche créée: mollick-three-years-gpt3-gemini3-evolution-2025-11-18.md)
+- https://www.anthropic.com/news/political-even-handedness (fiche existait déjà: anthropic-measuring-political-bias-claude-2025-11-13.md)
+- https://www.rippletide.com/resources/blog/agent-reliability-what-s-missing-in-enterprise-ai-agent-architecture (fiche existait déjà: rippletide-agent-reliability-enterprise-architecture-2025-10-29.md)
 
-https://www.anthropic.com/news/political-even-handedness
-
-https://www.rippletide.com/resources/blog/agent-reliability-what-s-missing-in-enterprise-ai-agent-architecture
-
-https://fortune.com/2025/11/17/jeff-bezos-project-prometheus-co-ceo-ai-startup-6-2-billion/
-
-https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
-
-https://www.itforbusiness.fr/enquete-la-revision-discrete-du-rgpd-qui-y-gagne-qui-y-perd-96974
-
-https://cobusgreyling.medium.com/the-two-breakout-use-cases-for-generative-ai-d9039a4ecfd5?s=09
-https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf
+URLs non accessibles:
+- https://www.leoniemonigatti.com/blog/from-rag-to-agent-memory.html (domaine bloqué)
+- https://cobusgreyling.medium.com/the-two-breakout-use-cases-for-generative-ai-d9039a4ecfd5?s=09 (erreur 403)
+- https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf (PDF trop gros)
+-->
