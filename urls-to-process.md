@@ -33,3 +33,4 @@ URLs non accessibles:
 - https://cobusgreyling.medium.com/the-two-breakout-use-cases-for-generative-ai-d9039a4ecfd5?s=09 (erreur 403)
 - https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf (PDF trop gros)
 -->
+https://github.com/EveryInc/compounding-engineering-plugin
