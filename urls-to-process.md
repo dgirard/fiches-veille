@@ -34,3 +34,5 @@ URLs non accessibles:
 - https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf (PDF trop gros)
 -->
 https://github.com/EveryInc/compounding-engineering-plugin
+
+https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html?utm_campaign=predictions+amplification&utm_source=newsletter
