@@ -40,3 +40,5 @@ https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyon
 https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html
 
 https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
+
+https://www.anthropic.com/research/anthropic-interviewer
