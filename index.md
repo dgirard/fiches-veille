@@ -111,6 +111,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-12-02]** [Anthropic AI Transforming Work Research](fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02.md) - AI impact on software engineering, survey data, qualitative interviews - Anthropic
 - **[2025-12-04]** [Anthropic Interviewer AI Workforce Study](fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04.md) - AI Interviewer tool, workforce study, methodology and findings - Anthropic
+- **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
 - **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
 
 ### Juillet 2025
@@ -242,6 +243,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Reshaping Software Delivery with Agents](fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23.md) - Martin Harrison & Natasha Maniar (McKinsey)
 - [Enterprise AI Adoption Status & ROI](fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23.md) - NLW (AI Daily Brief)
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
+- [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - Menlo Ventures
 - [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Ethan Mollick
 - [L'IA dévore le logiciel : évolution du métier de développeur](fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05.md) - Yves Caseau
 - [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Addy Osmani
@@ -288,6 +290,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Shopify: AI Traffic 7x, Orders 11x Since January](fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04.md) - TechCrunch
 - [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Cobus Greyling
 - [MIT Study on AI Workforce Impact](fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md) - CNBC
+- [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - Menlo Ventures
 - [73% des consommateurs utilisent l'IA pour achats en ligne](fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26.md) - Lior Novik
 - [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Aimee Donnellan
 - [DeepSeek Cuts Inference Costs, OpenAI-AMD, Fine-Tuning](fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md) - The Batch
@@ -352,7 +355,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 142
+- **Total d'articles** : 143
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (7), Google (7), Anthropic (9), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin.
+- **Principaux auteurs** : Ethan Mollick (7), Google (7), Anthropic (9), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures.
