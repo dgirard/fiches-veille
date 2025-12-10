@@ -6,6 +6,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Articles par date de publication
 
+### Décembre 2025
+
+- **[2025-12-02]** [Anthropic AI Transforming Work Research](fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02.md) - AI impact on software engineering, survey data, qualitative interviews - Anthropic
+- **[2025-12-04]** [Anthropic Interviewer AI Workforce Study](fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04.md) - AI Interviewer tool, workforce study, methodology and findings - Anthropic
+- **[2025-12-07]** [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI study, persona prompting effectiveness, GPQA/MMLU-Pro benchmarks - SSRN
+- **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
+- **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
+
+
 ### Novembre 2025
 
 - **[2025-11-23]** [The Year the IDE Died & Vibe Coding](fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23.md) - Mort IDE, 60k lignes IA non reviewées - Sourcegraph/IT Revolution
@@ -107,13 +116,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-08-12]** [Sam Altman Neuralink Board](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) - Conflict of interest - Neuralink
 - **[2025-08-05]** [Google Genie 3](fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05.md) - Video generation - DeepMind
 
-### Décembre 2025
 
-- **[2025-12-02]** [Anthropic AI Transforming Work Research](fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02.md) - AI impact on software engineering, survey data, qualitative interviews - Anthropic
-- **[2025-12-04]** [Anthropic Interviewer AI Workforce Study](fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04.md) - AI Interviewer tool, workforce study, methodology and findings - Anthropic
-- **[2025-12-07]** [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI study, persona prompting effectiveness, GPQA/MMLU-Pro benchmarks - SSRN
-- **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
-- **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
 
 ### Juillet 2025
 
