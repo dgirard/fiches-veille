@@ -33,16 +33,43 @@ URLs non accessibles:
 - https://cobusgreyling.medium.com/the-two-breakout-use-cases-for-generative-ai-d9039a4ecfd5?s=09 (erreur 403)
 - https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/691f5a79a0df314757b754de/1763662458002/2025+Autumn+AI.pdf (PDF trop gros)
 -->
-https://github.com/EveryInc/compounding-engineering-plugin
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+-->
 
-https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html?utm_campaign=predictions+amplification&utm_source=newsletter
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+- https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html (fiche créée: vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md)
+-->
 
-https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+- https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html (fiche créée: vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md)
+- https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html (fiche créée: mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md)
+-->
 
-https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+- https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html (fiche créée: vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md)
+- https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html (fiche créée: mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md)
+- https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic (fiche créée: anthropic-ai-transforming-work-research-2025-12-02.md)
+-->
 
-https://www.anthropic.com/research/anthropic-interviewer
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+- https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html (fiche créée: vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md)
+- https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html (fiche créée: mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md)
+- https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic (fiche créée: anthropic-ai-transforming-work-research-2025-12-02.md)
+- https://www.anthropic.com/research/anthropic-interviewer (fiche créée: anthropic-interviewer-ai-workforce-study-2025-12-04.md)
+-->
 
-https://pastebin.com/nNsdXSWg
+<!-- URLs traitées le 2025-12-10:
+- https://github.com/EveryInc/compounding-engineering-plugin (fiche créée: every-compound-engineering-plugin-github-2025-12-10.md)
+- https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html (fiche créée: vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md)
+- https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html (fiche créée: mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md)
+- https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic (fiche créée: anthropic-ai-transforming-work-research-2025-12-02.md)
+- https://www.anthropic.com/research/anthropic-interviewer (fiche créée: anthropic-interviewer-ai-workforce-study-2025-12-04.md)
+- https://pastebin.com/nNsdXSWg (fiche créée: infographic-design-perfectionist-procedure-pastebin-2025-12-10.md)
+- https://www.oneusefulthing.org/p/real-ai-agents-and-real-work?utm_campaign=post&utm_medium=web (fiche créée: mollick-real-ai-agents-work-oneusefulthing-2025-09-29.md)
+-->
 
-https://www.oneusefulthing.org/p/real-ai-agents-and-real-work?utm_campaign=post&utm_medium=web
