@@ -44,3 +44,5 @@ https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic
 https://www.anthropic.com/research/anthropic-interviewer
 
 https://pastebin.com/nNsdXSWg
+
+https://www.oneusefulthing.org/p/real-ai-agents-and-real-work?utm_campaign=post&utm_medium=web
