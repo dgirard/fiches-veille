@@ -9,6 +9,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Décembre 2025
 
 - **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
+- **[2025-12-11]** [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - Context data platform, agent self-learning, cloud-native architecture - memodb-io
 - **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
 - **[2025-12-07]** [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI study, persona prompting effectiveness, GPQA/MMLU-Pro benchmarks - SSRN
 - **[2025-12-04]** [Anthropic Interviewer AI Workforce Study](fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04.md) - AI Interviewer tool, workforce study, methodology and findings - Anthropic
@@ -224,6 +225,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Architecture & Construction
 - [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - Harry (Gadget)
+- [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - memodb-io
 - [Empowering Support to Ship Code](fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23.md) - Lisa Orr (Zapier)
 - [What We Learned Deploying AI within Bloomberg's Engineering Organization](fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23.md) - Lei Zhang (Bloomberg)
 - [Small Bets, Big Impact: Building GenBI at a Fortune 100](fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23.md) - Asaf Bord (Northwestern Mutual)
@@ -326,6 +328,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Outils & Plateformes
 - [Introducing Code Wiki: Accelerating your code understanding](fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13.md) - Google Cloud Developer Experiences
+- [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - memodb-io
 - [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - Lyzr AI
 - [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Deepnote Team
 - [SuperClaude Framework](fiches/2025-10/superclaude-framework-config-claude-code-2025-10.md) - GitHub 17.2k stars
@@ -361,7 +364,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 144
+- **Total d'articles** : 145
 - **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (8), Google (7), Anthropic (9), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), et al.
+- **Principaux auteurs** : Ethan Mollick (8), Google (7), Anthropic (9), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN.

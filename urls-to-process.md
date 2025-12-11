@@ -4,7 +4,9 @@
 Une URL par ligne, séparées par une ligne vide
 -->
 
-https://openai.com/index/ai-progress-and-recommendations/
+<!-- URLs traitées le 2025-12-11:
+- https://openai.com/index/ai-progress-and-recommendations/ (URL bloquée par protection anti-scraping)
+-->
 
 <!-- URLs traitées le 2025-11-12:
 - https://cobusgreyling.medium.com/nvidia-is-moving-beyond-hardware-to-software-ecosystem-dominance-09c61f696ba9 (fiche créée)
@@ -74,4 +76,6 @@ URLs non accessibles:
 -->
 
 
-https://github.com/memodb-io/Acontext
+<!-- URLs traitées le 2025-12-11:
+- https://github.com/memodb-io/Acontext (fiche créée: memodb-acontext-context-data-platform-agents-2025-12-11.md)
+-->
