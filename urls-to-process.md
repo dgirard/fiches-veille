@@ -79,3 +79,5 @@ URLs non accessibles:
 <!-- URLs traitées le 2025-12-11:
 - https://github.com/memodb-io/Acontext (fiche créée: memodb-acontext-context-data-platform-agents-2025-12-11.md)
 -->
+
+https://blog.google/technology/developers/interactions-api/
