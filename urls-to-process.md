@@ -81,3 +81,5 @@ URLs non accessibles:
 -->
 
 https://blog.google/technology/developers/interactions-api/
+
+https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction
