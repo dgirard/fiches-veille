@@ -85,3 +85,5 @@ https://blog.google/technology/developers/interactions-api/
 https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction
 
 https://leerob.com/agents
+
+https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/
