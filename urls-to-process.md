@@ -17,8 +17,6 @@ Une URL par ligne, séparées par une ligne vide
 Note: URL OpenAI bloquée par JavaScript/protection anti-scraping
 -->
 
-https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1
-
 <!-- URLs traitées le 2025-11-20:
 - https://www.itforbusiness.fr/enquete-la-revision-discrete-du-rgpd-qui-y-gagne-qui-y-perd-96974 (fiche créée: derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13.md)
 -->
@@ -80,10 +78,10 @@ URLs non accessibles:
 - https://github.com/memodb-io/Acontext (fiche créée: memodb-acontext-context-data-platform-agents-2025-12-11.md)
 -->
 
-https://blog.google/technology/developers/interactions-api/
-
-https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction
-
-https://leerob.com/agents
-
-https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/
+<!-- URLs traitées le 2025-12-19:
+- https://hbr.org/2025/11/the-gen-ai-playbook-for-organizations?ab=HP-hero-latest-1 (doublon de fiche existante)
+- https://blog.google/technology/developers/interactions-api/ (fiche créée: google-deepmind-interactions-api-gemini-agents-2025-12-11.md)
+- https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction (fiche créée: numind-nuextract-foundation-model-structured-extraction-2024-06-24.md)
+- https://leerob.com/agents (fiche créée: robinson-coding-agents-complexity-budgets-cursor-2025-12.md)
+- https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/ (fiche créée: google-conductor-context-driven-development-gemini-cli-2025-12-17.md)
+-->

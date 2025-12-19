@@ -1,2 +1,21 @@
 # Raw data from article URLs
 raw-data/
+
+# Fichiers système macOS
+.DS_Store
+*.DS_Store
+
+# Répertoires temporaires
+temp/
+
+# Fichiers sensibles potentiels
+.env*
+*.pem
+*.key
+*credentials*
+*.p12
+*.pfx
+
+# Répertoires de travail
+copywriting/
+docs/deep research/

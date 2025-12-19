@@ -8,12 +8,16 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
-- **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
+- **[2025-12-17]** [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Extension Gemini CLI, specs Markdown, workflow brownfield - Google
+- **[2025-12-11]** [Interactions API: A unified foundation for models and agents](fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11.md) - API unifiée Gemini, MCP, état serveur, Deep Research - Google DeepMind
 - **[2025-12-11]** [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - Context data platform, agent self-learning, cloud-native architecture - memodb-io
+- **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
+- **[2025-12-09]** [OpenAI co-fonde l'Agentic AI Foundation](fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09.md) - AAIF Linux Foundation, AGENTS.md, MCP, goose, standards ouverts agents IA - OpenAI
 - **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
 - **[2025-12-07]** [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI study, persona prompting effectiveness, GPQA/MMLU-Pro benchmarks - SSRN
 - **[2025-12-04]** [Anthropic Interviewer AI Workforce Study](fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04.md) - AI Interviewer tool, workforce study, methodology and findings - Anthropic
 - **[2025-12-02]** [Anthropic AI Transforming Work Research](fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02.md) - AI impact on software engineering, survey data, qualitative interviews - Anthropic
+- **[2025-12-01]** [Coding Agents & Complexity Budgets](fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12.md) - Migration CMS, 260$ tokens, élimination complexité - Lee Robinson
 
 
 ### Novembre 2025
@@ -174,6 +178,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2024-07-22]** [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) - Planification stratégique face à l'AGI - One Useful Thing
 
+### Juin 2024
+
+- **[2024-06-24]** [NuExtract: A Foundation Model for Structured Extraction](fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24.md) - Modèle compact extraction JSON, 100x plus petit que GPT-4o - NuMind
+
 ### Avril 2024
 
 - **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
@@ -222,6 +230,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Claude Code Subagents Documentation](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) - Anthropic
 - [AWS Kiro: Specification-Driven Agentic IDE](fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15.md) - Forbes
 - [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
+- [OpenAI co-fonde l'Agentic AI Foundation](fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09.md) - OpenAI
+- [Interactions API: A unified foundation for models and agents](fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11.md) - Google DeepMind
+- [Coding Agents & Complexity Budgets](fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12.md) - Lee Robinson
+- [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 
 ### Architecture & Construction
 - [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - Harry (Gadget)
@@ -242,6 +254,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Déclin du RAG](fiches/2025-10/rag-decline-context-windows-2025-10-08.md) - LinkedIn
 - [LightRAG: Simple and Fast RAG](fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08.md) - HKUDS
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
+- [NuExtract: A Foundation Model for Structured Extraction](fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24.md) - NuMind
 
 ### Transformation & Adoption
 - [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Dan Shipper (Every)
@@ -342,6 +355,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Voxtral: Mistral AI Speech Understanding](fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15.md) - Mistral AI
 - [Gemini 2.5 Flash Lite Stable GA](fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22.md) - Google
 - [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Pastebin
+- [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 
 ### Recherche & Éducation
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI Labs
@@ -364,7 +378,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 145
-- **Période couverte** : Juin 2023 - Novembre 2025
-- **Principaux auteurs** : Ethan Mollick (8), Google (7), Anthropic (9), OpenAI (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN.
+- **Total d'articles** : 150
+- **Période couverte** : Juin 2023 - Décembre 2025
+- **Principaux auteurs** : Ethan Mollick (8), Google (9), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google DeepMind, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind.
