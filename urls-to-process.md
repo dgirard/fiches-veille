@@ -85,3 +85,5 @@ URLs non accessibles:
 - https://leerob.com/agents (fiche créée: robinson-coding-agents-complexity-budgets-cursor-2025-12.md)
 - https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/ (fiche créée: google-conductor-context-driven-development-gemini-cli-2025-12-17.md)
 -->
+
+https://design.google/library/google-sans-flex-font
