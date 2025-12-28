@@ -65,6 +65,9 @@ dev_dependencies:
   mockito: ^5.4.4
   build_runner: ^2.4.7
 
+  # Icon Generation
+  flutter_launcher_icons: ^0.14.4
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -106,3 +109,14 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+# Flutter Launcher Icons configuration
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/Mobile-Share.png"
+  # Android adaptive icon configuration for better appearance
+  adaptive_icon_background: "#1a1a2e"
+  adaptive_icon_foreground: "assets/icon/Mobile-Share.png"
+  # This removes white space and makes icon fill the safe zone
+  min_sdk_android: 21
