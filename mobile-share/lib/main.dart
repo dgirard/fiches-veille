@@ -9,6 +9,7 @@ import 'presentation/blocs/auth/auth_bloc.dart';
 import 'presentation/blocs/url/url_bloc.dart';
 import 'presentation/blocs/sync/sync_bloc.dart';
 import 'presentation/screens/url_list_screen.dart';
+import 'services/share_receiver_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -65,11 +66,18 @@ class MobileShareApp extends StatelessWidget {
             ),
           ),
         ],
-        child: MaterialApp(
-          title: 'Mobile-Share',
-          theme: AppTheme.lightTheme,
-          debugShowCheckedModeBanner: false,
-          home: const UrlListScreen(),
+        child: Builder(
+          builder: (context) {
+            // Initialize share receiver service after BLoC providers are available
+            ShareReceiverService(context.read<UrlBloc>());
+            
+            return MaterialApp(
+              title: 'Mobile-Share',
+              theme: AppTheme.lightTheme,
+              debugShowCheckedModeBanner: false,
+              home: const UrlListScreen(),
+            );
+          },
         ),
       ),
     );
