@@ -84,6 +84,6 @@ URLs non accessibles:
 - https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction (fiche créée: numind-nuextract-foundation-model-structured-extraction-2024-06-24.md)
 - https://leerob.com/agents (fiche créée: robinson-coding-agents-complexity-budgets-cursor-2025-12.md)
 - https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/ (fiche créée: google-conductor-context-driven-development-gemini-cli-2025-12-17.md)
+- https://design.google/library/google-sans-flex-font (fiche créée: google-sans-flex-font-evolution-design-2025-12-18.md)
+- https://x.com/JayaGup10/status/2003525933534179480 (fiche créée: gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md)
 -->
-
-https://design.google/library/google-sans-flex-font

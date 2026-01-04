@@ -8,7 +8,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12-22]** [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Decision traces, nouveaux systèmes de record, avantage startups agents - Foundation Capital
+- **[2025-12-18]** [Making Google Sans Flex](fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18.md) - Évolution typographie Google, 6 axes variables, open source - Google Design
 - **[2025-12-17]** [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Extension Gemini CLI, specs Markdown, workflow brownfield - Google
+- **[2025-12-12]** [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Systèmes de record, truth registries, agents IA - Jamin Ball
 - **[2025-12-11]** [Interactions API: A unified foundation for models and agents](fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11.md) - API unifiée Gemini, MCP, état serveur, Deep Research - Google DeepMind
 - **[2025-12-11]** [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - Context data platform, agent self-learning, cloud-native architecture - memodb-io
 - **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
@@ -236,6 +239,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 
 ### Architecture & Construction
+- [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
 - [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - Harry (Gadget)
 - [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - memodb-io
 - [Empowering Support to Ship Code](fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23.md) - Lisa Orr (Zapier)
@@ -255,6 +259,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [LightRAG: Simple and Fast RAG](fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08.md) - HKUDS
 - [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - CEA
 - [NuExtract: A Foundation Model for Structured Extraction](fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24.md) - NuMind
+- [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
 - [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Dan Shipper (Every)
@@ -378,7 +383,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 150
+- **Total d'articles** : 153
 - **Période couverte** : Juin 2023 - Décembre 2025
-- **Principaux auteurs** : Ethan Mollick (8), Google (9), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google DeepMind, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind.
+- **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind.
