@@ -6,6 +6,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Articles par date de publication
 
+### Janvier 2026
+
+- **[2026-01-02]** [The fundamental coding agent abstraction is the CLI](fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02.md) - CLI comme abstraction OS, Claude Code comme IA pour l'OS, Vercel Sandbox - Guillermo Rauch
+
 ### Décembre 2025
 
 - **[2025-12-22]** [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Decision traces, nouveaux systèmes de record, avantage startups agents - Foundation Capital
