@@ -9,6 +9,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Janvier 2026
 
 - **[2026-01-02]** [The fundamental coding agent abstraction is the CLI](fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02.md) - CLI comme abstraction OS, Claude Code comme IA pour l'OS, Vercel Sandbox - Guillermo Rauch
+- **[2026-01-01]** [The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders](fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md) - Acquisition 2B$, agents IA autonomes, géopolitique US-Chine - Medium/WSJ
 
 ### Décembre 2025
 
@@ -313,6 +314,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders](fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md) - Julia Ahrens (Medium/WSJ)
 - [Paying Engineers like Salespeople](fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23.md) - Arman Hezarkhani (10x)
 - [How to Quantify AI ROI in Software Engineering](fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23.md) - Yegor Denisov-Blanch (Stanford)
 - [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Barron Ernst
@@ -387,7 +389,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 153
-- **Période couverte** : Juin 2023 - Décembre 2025
+- **Total d'articles** : 154
+- **Période couverte** : Juin 2023 - Janvier 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind.

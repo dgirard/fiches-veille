@@ -86,4 +86,5 @@ URLs non accessibles:
 - https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/ (fiche créée: google-conductor-context-driven-development-gemini-cli-2025-12-17.md)
 - https://design.google/library/google-sans-flex-font (fiche créée: google-sans-flex-font-evolution-design-2025-12-18.md)
 - https://x.com/JayaGup10/status/2003525933534179480 (fiche créée: gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md)
+- https://medium.com/@makemoneyxxltips/the-meta-manus-deal-how-a-2b-ai-gamble-redefines-tech-borders-and-our-digital-future-96eabca962bf (fiche créée: ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md)
 -->
