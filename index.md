@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Janvier 2026
 
+- **[2026-01-11]** [Don't fall into the anti-AI hype](fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11.md) - Créateur Redis, Claude Code 4 projets concrets, position nuancée - antirez
+- **[2026-01-11]** [Analyse Langages de Programmation et Spec Drive Development](fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01.md) - TypeScript optimal, Go/Python alternatives, Rust friction élevée - Deep Research
 - **[2026-01-10]** [In software, the code documents the app. In AI, the traces do.](fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10.md) - Traces comme documentation agents, observabilité runtime - LangChain
 - **[2026-01-06]** [SecNumCloud en (pas si) bref](fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06.md) - Qualification ANSSI cloud, risques extraterritoriaux, offres hybrides - LinkedIn
 - **[2026-01-05]** [The creator of Claude Code just revealed his workflow](fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05.md) - Boris Cherny, 5 agents parallèles, Opus 4.5, CLAUDE.md - VentureBeat
@@ -247,6 +249,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 - [The creator of Claude Code just revealed his workflow](fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05.md) - Boris Cherny (VentureBeat)
 - [In software, the code documents the app. In AI, the traces do.](fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10.md) - Harrison Chase (LangChain)
+- [Analyse Langages de Programmation et Spec Drive Development](fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01.md) - Deep Research Veille Interne
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -272,6 +275,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [Don't fall into the anti-AI hype](fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11.md) - Salvatore Sanfilippo (antirez)
 - [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Dan Shipper (Every)
 - [Effective Leadership in AI-Enhanced Organizations](fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23.md) - Justin Reock (DX)
 - [Reshaping Software Delivery with Agents](fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23.md) - Martin Harrison & Natasha Maniar (McKinsey)
@@ -395,7 +399,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 157
+- **Total d'articles** : 159
 - **Période couverte** : Juin 2023 - Janvier 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
