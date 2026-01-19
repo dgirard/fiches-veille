@@ -131,7 +131,7 @@ python3 scripts/check_missing.py
 ## 🔗 Liens utiles
 
 - [Index complet](index.md) - Toutes les fiches organisées
-- [CLAUDE.md](CLAUDE.md) - Instructions pour Claude Code
+- [CLAUDE.md](claude.md) - Instructions pour Claude Code
 - [Synthèse Juillet-Octobre 2025](SYNTHESE-JUILLET-OCTOBRE-2025.md)
 
 ## 📜 Licence
