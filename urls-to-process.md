@@ -88,3 +88,5 @@ URLs non accessibles:
 - https://x.com/JayaGup10/status/2003525933534179480 (fiche créée: gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md)
 - https://medium.com/@makemoneyxxltips/the-meta-manus-deal-how-a-2b-ai-gamble-redefines-tech-borders-and-our-digital-future-96eabca962bf (fiche créée: ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md)
 -->
+
+https://www.wenvision.com/fr/
