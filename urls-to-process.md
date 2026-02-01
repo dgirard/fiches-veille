@@ -90,3 +90,5 @@ URLs non accessibles:
 -->
 
 https://www.wenvision.com/fr/
+
+https://x.com/bcherny/status/2017742741636321619
