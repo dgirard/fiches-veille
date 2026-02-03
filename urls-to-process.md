@@ -92,3 +92,5 @@ URLs non accessibles:
 https://www.wenvision.com/fr/
 
 https://x.com/bcherny/status/2017742741636321619
+
+https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
