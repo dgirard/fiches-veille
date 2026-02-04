@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Février 2026
 
+- **[2026-02-04]** [Signal over noise : repenser la contribution open source face à l'AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) - Ghostty, cURL, Contribution Stack, gouvernance - Philippe Ensarguet (LinkedIn)
 - **[2026-02-01]** [10 conseils Claude Code par l'équipe Anthropic](fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01.md) - Git worktrees, plan mode, CLAUDE.md, skills, subagents - Boris Cherny (X/Twitter)
 - **[2026-02]** [Project Genie : World Models interactifs temps réel](fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02.md) - Genie 3, Nano Banana Pro, simulation mondes, Simmer agents - Google DeepMind (YouTube)
 - **[2026-02]** [Guide Comparatif Formats Conférence & Narrations](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) - Keynote, TED, Pecha Kucha, Sparkline, Kishōtenketsu - Deep Research
@@ -320,6 +321,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
+- [Signal over noise : repenser la contribution open source face à l'AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) - Philippe Ensarguet
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI Labs
 - [Measuring political bias in Claude](fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13.md) - Anthropic
 - [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Anthropic
@@ -420,7 +422,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 168
+- **Total d'articles** : 169
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
