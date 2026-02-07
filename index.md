@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Février 2026
 
+- **[2026-02]** [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Pierre philosophale, timing population, éducation IA, Mexican standoff, optimisme déterminé - Lenny Rachitsky (YouTube)
+- **[2026-02]** [Andreessen : l'IA redéfinit les programmeurs, pas les remplace](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Orchestration 10 bots, productivité 1000x, fondamentaux indispensables - Marc Andreessen (X/Twitter)
 - **[2026-02-04]** [Signal over noise : repenser la contribution open source face à l'AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) - Ghostty, cURL, Contribution Stack, gouvernance - Philippe Ensarguet (LinkedIn)
 - **[2026-02-01]** [10 conseils Claude Code par l'équipe Anthropic](fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01.md) - Git worktrees, plan mode, CLAUDE.md, skills, subagents - Boris Cherny (X/Twitter)
 - **[2026-02]** [Project Genie : World Models interactifs temps réel](fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02.md) - Genie 3, Nano Banana Pro, simulation mondes, Simmer agents - Google DeepMind (YouTube)
@@ -266,6 +268,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [How to write a good spec for AI agents](fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13.md) - Addy Osmani
 - [10 conseils Claude Code par l'équipe Anthropic](fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01.md) - Boris Cherny
 - [Andrej Karpathy Skills pour Claude Code](fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27.md) - forrestchang/Karpathy
+- [Andreessen : l'IA redéfinit les programmeurs](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -365,6 +368,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
 
 ### Philosophie & Société
+- [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Lenny Rachitsky & Marc Andreessen
+- [Andreessen : l'IA redéfinit les programmeurs, pas les remplace](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
 - [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Revue Thomiste
 - [Luc Julia: AI Controversy](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) - French tech debate
 - [Sam Altman Neuralink Board](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) - Conflict of interest
@@ -422,7 +427,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 169
+- **Total d'articles** : 171
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
