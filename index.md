@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Février 2026
 
+- **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
+- **[2026-02-06]** [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Développement non-interactif, grown software, Digital Twin Universe, $1000 tokens/jour - Justin McCarthy (StrongDM)
 - **[2026-02]** [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Pierre philosophale, timing population, éducation IA, Mexican standoff, optimisme déterminé - Lenny Rachitsky (YouTube)
 - **[2026-02]** [Andreessen : l'IA redéfinit les programmeurs, pas les remplace](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Orchestration 10 bots, productivité 1000x, fondamentaux indispensables - Marc Andreessen (X/Twitter)
 - **[2026-02-04]** [Signal over noise : repenser la contribution open source face à l'AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) - Ghostty, cURL, Contribution Stack, gouvernance - Philippe Ensarguet (LinkedIn)
@@ -223,6 +225,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Ethan Mollick
+- [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Justin McCarthy
 - [The Year the IDE Died & Vibe Coding](fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23.md) - Steve Yegge & Gene Kim
 - [Building the Future of Autonomous Coding](fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23.md) - Michele Catasta
 - [Building Powerful Agentic Systems with Claude](fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23.md) - Katelyn Lesse
@@ -427,7 +431,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 171
+- **Total d'articles** : 173
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
