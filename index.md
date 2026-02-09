@@ -35,6 +35,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Décembre 2025
 
+- **[2025-12]** [From Chalkboards to Chatbots : IA générative et éducation au Nigeria](fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12.md) - RCT, +0.31 SD, ratio 161:1, 1.5 années scolarité équivalentes, Microsoft Copilot - World Bank
 - **[2025-12-22]** [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Decision traces, nouveaux systèmes de record, avantage startups agents - Foundation Capital
 - **[2025-12-18]** [Making Google Sans Flex](fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18.md) - Évolution typographie Google, 6 axes variables, open source - Google Design
 - **[2025-12-17]** [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Extension Gemini CLI, specs Markdown, workflow brownfield - Google
@@ -298,6 +299,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [From Chalkboards to Chatbots : IA générative et éducation au Nigeria](fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12.md) - World Bank
 - [SoGPT vs Copilot : le faux débat qui nous fait perdre la vraie bataille](fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15.md) - Erwan Simon (GENIAL)
 - [Don't fall into the anti-AI hype](fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11.md) - Salvatore Sanfilippo (antirez)
 - [How to build an AI-native company (even if your company is 50 years old)](fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23.md) - Dan Shipper (Every)
@@ -431,7 +433,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 173
+- **Total d'articles** : 174
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
