@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Février 2026
 
+- **[2026-02]** [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Formation complète coding agentique, pédagogie socratique, 60 leçons - Deep Research
 - **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
 - **[2026-02-06]** [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Développement non-interactif, grown software, Digital Twin Universe, $1000 tokens/jour - Justin McCarthy (StrongDM)
 - **[2026-02]** [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Pierre philosophale, timing population, éducation IA, Mexican standoff, optimisme déterminé - Lenny Rachitsky (YouTube)
@@ -274,6 +275,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [10 conseils Claude Code par l'équipe Anthropic](fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01.md) - Boris Cherny
 - [Andrej Karpathy Skills pour Claude Code](fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27.md) - forrestchang/Karpathy
 - [Andreessen : l'IA redéfinit les programmeurs](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
+- [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Deep Research
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -409,6 +411,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 
 ### Recherche & Éducation
+- [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Deep Research
 - [Guide Comparatif Formats Conférence & Narrations](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) - Deep Research
 - [Synthèse Frameworks Narratifs et Prompts Talks](fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02.md) - Deep Research
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI Labs
@@ -433,7 +436,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 174
+- **Total d'articles** : 175
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
