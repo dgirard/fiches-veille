@@ -87,10 +87,11 @@ URLs non accessibles:
 - https://design.google/library/google-sans-flex-font (fiche créée: google-sans-flex-font-evolution-design-2025-12-18.md)
 - https://x.com/JayaGup10/status/2003525933534179480 (fiche créée: gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md)
 - https://medium.com/@makemoneyxxltips/the-meta-manus-deal-how-a-2b-ai-gamble-redefines-tech-borders-and-our-digital-future-96eabca962bf (fiche créée: ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md)
+- https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are (fiche créée: nunez-cherny-claude-code-workflow-venturebeat-2026-01-05.md)
 -->
 
-https://www.wenvision.com/fr/
-
-https://x.com/bcherny/status/2017742741636321619
-
-https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
+<!-- URLs traitées le 2026-02-09:
+- https://www.wenvision.com/fr/ (site corporate, pas un article - fiches WEnvision existent déjà)
+- https://x.com/bcherny/status/2017742741636321619 (doublon de fiche existante: cherny-claude-code-10-tips-team-x-2026-02-01.md)
+- https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals (fiche créée: gao-vercel-agents-md-outperforms-skills-evals-2026-01-27.md)
+-->
