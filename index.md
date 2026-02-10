@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Février 2026
 
+- **[2026-02]** [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - 8 tendances codage agentique, multi-agents, supervision humaine, démocratisation - Anthropic
 - **[2026-02]** [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Formation complète coding agentique, pédagogie socratique, 60 leçons - Deep Research
 - **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
 - **[2026-02-06]** [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Développement non-interactif, grown software, Digital Twin Universe, $1000 tokens/jour - Justin McCarthy (StrongDM)
@@ -276,6 +277,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Andrej Karpathy Skills pour Claude Code](fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27.md) - forrestchang/Karpathy
 - [Andreessen : l'IA redéfinit les programmeurs](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
 - [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Deep Research
+- [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -301,6 +303,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
 - [From Chalkboards to Chatbots : IA générative et éducation au Nigeria](fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12.md) - World Bank
 - [SoGPT vs Copilot : le faux débat qui nous fait perdre la vraie bataille](fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15.md) - Erwan Simon (GENIAL)
 - [Don't fall into the anti-AI hype](fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11.md) - Salvatore Sanfilippo (antirez)
@@ -436,7 +439,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 175
+- **Total d'articles** : 176
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI.
