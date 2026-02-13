@@ -9,6 +9,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Février 2026
 
 - **[2026-02]** [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - 8 tendances codage agentique, multi-agents, supervision humaine, démocratisation - Anthropic
+- **[2026-02-12]** [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Dépendance étudiante, campus ambassadors, détecteur supprimé, conflits d'intérêts - New York Times
 - **[2026-02]** [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Formation complète coding agentique, pédagogie socratique, 60 leçons - Deep Research
 - **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
 - **[2026-02-05]** [Compilateur C construit par 16 agents Claude parallèles](fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05.md) - 100k lignes Rust, Linux 6.9, 20k$, agents autonomes Docker - Anthropic
@@ -383,6 +384,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
 
 ### Philosophie & Société
+- [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Matthew Connelly (NYT)
 - [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Lenny Rachitsky & Marc Andreessen
 - [Andreessen : l'IA redéfinit les programmeurs, pas les remplace](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
 - [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Revue Thomiste
@@ -418,6 +420,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Google
 
 ### Recherche & Éducation
+- [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Matthew Connelly (NYT)
 - [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Deep Research
 - [Guide Comparatif Formats Conférence & Narrations](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) - Deep Research
 - [Synthèse Frameworks Narratifs et Prompts Talks](fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02.md) - Deep Research
@@ -443,7 +446,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 178
+- **Total d'articles** : 179
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times.
