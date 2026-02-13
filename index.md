@@ -12,6 +12,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2026-02-12]** [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Dépendance étudiante, campus ambassadors, détecteur supprimé, conflits d'intérêts - New York Times
 - **[2026-02]** [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Formation complète coding agentique, pédagogie socratique, 60 leçons - Deep Research
 - **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
+- **[2026-02-04]** [BMAD : le plan d'urbanisme qui apprivoise l'IA agentique dans le SDLC](fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04.md) - Agents spécialisés, dette technique, intégration DSI, métaphore urbanisme - Tech Away
 - **[2026-02-05]** [Compilateur C construit par 16 agents Claude parallèles](fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05.md) - 100k lignes Rust, Linux 6.9, 20k$, agents autonomes Docker - Anthropic
 - **[2026-02-06]** [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Développement non-interactif, grown software, Digital Twin Universe, $1000 tokens/jour - Justin McCarthy (StrongDM)
 - **[2026-02]** [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Pierre philosophale, timing population, éducation IA, Mexican standoff, optimisme déterminé - Lenny Rachitsky (YouTube)
@@ -283,6 +284,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
 - [AGENTS.md surpasse les skills dans les évaluations agents](fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27.md) - Jude Gao (Vercel)
 - [Compilateur C construit par 16 agents Claude parallèles](fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05.md) - Nicholas Carlini (Anthropic)
+- [BMAD : le plan d'urbanisme qui apprivoise l'IA agentique dans le SDLC](fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04.md) - Philippe Martin (Tech Away)
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -446,7 +448,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 179
+- **Total d'articles** : 180
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times.
