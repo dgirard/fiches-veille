@@ -95,3 +95,5 @@ URLs non accessibles:
 - https://x.com/bcherny/status/2017742741636321619 (doublon de fiche existante: cherny-claude-code-10-tips-team-x-2026-02-01.md)
 - https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals (fiche créée: gao-vercel-agents-md-outperforms-skills-evals-2026-01-27.md)
 -->
+
+https://martinphilippe.wixsite.com/tech-away/post/bmad-le-plan-d-urbanisme-qui-apprivoise-l-ia-agentique-dans-votre-sdlc
