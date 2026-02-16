@@ -99,3 +99,5 @@ URLs non accessibles:
 https://martinphilippe.wixsite.com/tech-away/post/bmad-le-plan-d-urbanisme-qui-apprivoise-l-ia-agentique-dans-votre-sdlc
 
 https://blog.cloudflare.com/markdown-for-agents/
+
+https://martinfowler.com/fragments/2026-02-13.html
