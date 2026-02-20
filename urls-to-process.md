@@ -101,3 +101,6 @@ https://martinphilippe.wixsite.com/tech-away/post/bmad-le-plan-d-urbanisme-qui-a
 https://blog.cloudflare.com/markdown-for-agents/
 
 https://martinfowler.com/fragments/2026-02-13.html
+
+https://x.com/trq212/status/2024574133011673516?s=20
+https://x.com/i/status/2024573404888911886
