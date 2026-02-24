@@ -49,3 +49,38 @@ Le **plan mode** illustre parfaitement le design contraint par le cache. Au lieu
 La **compaction** (résumé lors du dépassement de la fenêtre de contexte) présente des pièges majeurs. L'implémentation naïve avec un appel API séparé (system prompt différent, sans outils) fait payer le prix complet de tous les tokens. La solution : utiliser exactement les mêmes paramètres que la conversation parente pour réutiliser le préfixe caché, en ne payant que les tokens du prompt de compaction.
 
 L'article conclut que le taux de cache hit doit être surveillé comme l'uptime, avec alertes et incidents déclarés en cas de baisse. Ces patterns sont désormais intégrés directement dans l'API Anthropic, permettant à tout développeur d'agents de bénéficier de ces optimisations.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Prompt caching | CONCEPT | est_le_fondement_de | architecture Claude Code | TECHNOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| Cache | CONCEPT | fonctionne_par | correspondance de préfixe | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| System prompt | CONCEPT | doit_suivre | ordre statique puis dynamique | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| Modification du system prompt | CONCEPT | invalide | cache de la conversation | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| System-reminder | TECHNOLOGIE | remplace | modification du system prompt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Plan mode | METHODOLOGIE | préserve | stabilité du cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Plan mode | METHODOLOGIE | utilise | EnterPlanMode/ExitPlanMode comme outils | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Tool search | METHODOLOGIE | utilise | stubs avec defer_loading | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Changement de modèle | CONCEPT | détruit | cache de la session | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Compaction | METHODOLOGIE | doit_réutiliser | même system prompt et outils | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| @trq212 | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | surveille | cache hit rate comme l'uptime | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Compaction | METHODOLOGIE | a_été_intégrée_dans | API Anthropic | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Ajout/retrait d'outils | CONCEPT | invalide | cache de la conversation | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| @trq212 | PERSONNE | rôle | Ingénieur équipe Claude Code, Anthropic | AJOUT |
+| Prompt caching | CONCEPT | description | Mécanisme de réutilisation du prefill par correspondance de préfixe | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Plan mode | METHODOLOGIE | description | Conserve tous les outils + system message au lieu de swapper les outils | AJOUT |
+| Tool search | METHODOLOGIE | description | Stubs légers avec defer_loading pour maintenir préfixe stable | AJOUT |
+| Compaction | METHODOLOGIE | description | Résumé cache-safe réutilisant le même préfixe que la conversation parente | AJOUT |
+| System-reminder | TECHNOLOGIE | description | Balise dans le message utilisateur pour infos dynamiques sans casser le cache | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| API Anthropic | TECHNOLOGIE | catégorie | API messages pour LLM Claude | AJOUT |

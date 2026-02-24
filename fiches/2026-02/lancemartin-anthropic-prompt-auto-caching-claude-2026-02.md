@@ -45,3 +45,39 @@ Techniquement, le caching utilise un paramètre `cache_control` qui sert de brea
 La nouveauté majeure est l'**auto-caching** : un seul paramètre `cache_control: {"type": "ephemeral"}` placé au niveau de la requête (et non plus au niveau de chaque bloc) fait que le breakpoint se déplace automatiquement au dernier bloc cachable. À mesure que la conversation s'allonge, le breakpoint suit automatiquement. Cette fonctionnalité reste compatible avec le caching bloc par bloc pour les cas où l'on souhaite fixer des breakpoints spécifiques (par exemple sur le system prompt).
 
 Martin cite @peakji de Manus qui considère le cache hit rate comme "la métrique la plus importante pour un agent IA en production", et renvoie vers le post complémentaire de @trq212 qui détaille les leçons pratiques tirées de Claude Code : comment structurer le prompt pour maximiser les hits, pourquoi ne jamais modifier les outils ou le modèle en cours de session, et comment concevoir des fonctionnalités (plan mode, compaction) en respectant les contraintes du cache. Les deux articles forment ensemble un guide complet pour construire des agents cache-optimisés sur l'API Claude.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lance Martin | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Lance Martin | PERSONNE | présente | auto-caching | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| API Claude messages | TECHNOLOGIE | est | stateless | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| Tokens cachés | CONCEPT | coûtent | 10% du prix normal | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| cache_control | TECHNOLOGIE | crée | hash cryptographique du préfixe | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Auto-caching | TECHNOLOGIE | simplifie | gestion des breakpoints cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Auto-caching | TECHNOLOGIE | est_compatible_avec | caching bloc par bloc | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Inférence LLM | CONCEPT | comprend | prefill et decode | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Prompt caching | CONCEPT | évite | recalcul du prefill | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| @peakji | PERSONNE | affirme_que | cache hit rate est la métrique la plus importante | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| @peakji | PERSONNE | travaille_chez | Manus | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| @trq212 | PERSONNE | détaille | leçons pratiques cache Claude Code | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| vLLM | TECHNOLOGIE | implémente | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| SGLang | TECHNOLOGIE | implémente | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lance Martin | PERSONNE | rôle | Developer advocate, Anthropic | AJOUT |
+| Auto-caching | TECHNOLOGIE | description | Paramètre unique cache_control ephemeral au niveau requête | AJOUT |
+| Auto-caching | TECHNOLOGIE | mécanisme | Breakpoint se déplace automatiquement au dernier bloc cachable | AJOUT |
+| cache_control | TECHNOLOGIE | description | Breakpoint créant un hash cryptographique scopé au workspace | AJOUT |
+| API Claude messages | TECHNOLOGIE | catégorie | API stateless pour inférence LLM | AJOUT |
+| @peakji | PERSONNE | rôle | Ingénieur chez Manus | AJOUT |
+| Manus | ORGANISATION | secteur | Agent IA | AJOUT |
+| @trq212 | PERSONNE | rôle | Ingénieur équipe Claude Code, Anthropic | AJOUT |
+| vLLM | TECHNOLOGIE | catégorie | Framework d'inférence LLM | AJOUT |
+| SGLang | TECHNOLOGIE | catégorie | Framework d'inférence LLM | AJOUT |

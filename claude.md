@@ -31,6 +31,7 @@ Chaque fiche suit ce format :
 ## Ton
 ## Pense-betes
 ## RésuméDe400mots
+## GrapheDeConnaissance
 ```
 
 ## Langue de rédaction
@@ -42,6 +43,7 @@ Cela inclut :
 - Les pense-bêtes
 - Le ton of voice (Ton)
 - Les keywords
+- Le graphe de connaissance (GrapheDeConnaissance) : types, prédicats, en-têtes de tableau
 - Toutes les sections de la fiche
 
 Seuls les éléments suivants peuvent rester dans leur langue d'origine :
@@ -61,6 +63,86 @@ Seuls les éléments suivants peuvent rester dans leur langue d'origine :
 - **Ton** : Analyse du ton et du style de l'article, incluant le profil (perspective narrative, registre, niveau technique) et une description détaillée du style d'écriture, des métaphores utilisées, de l'autorité de l'auteur et du public cible (en français)
 - **Pense-betes** : Notes et remarques importantes (format liste à puces, en français)
 - **RésuméDe400mots** : Résumé de l'article en 400 mots maximum (en français)
+- **GrapheDeConnaissance** : Extraction structurée des entités et relations clés de l'article sous forme de triples (sujet, prédicat, objet). Contient deux sous-sections : `### Triples` (tableau des relations) et `### Entités` (tableau des entités avec attributs). Voir section dédiée ci-dessous pour le format complet.
+
+## Section GrapheDeConnaissance — Format détaillé
+
+La section `## GrapheDeConnaissance` est la 10e et dernière section de chaque fiche. Elle capture les entités et relations clés de l'article sous forme de knowledge graph structuré.
+
+### Sous-section `### Triples`
+
+Tableau markdown avec 8 colonnes :
+
+```markdown
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | prompt caching | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | emploie | Boris Cherny | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Demande latente | CONCEPT | guide | développement produit | CONCEPT | 0.90 | ATEMPOREL | inféré |
+```
+
+### Sous-section `### Entités`
+
+Tableau markdown avec 5 colonnes :
+
+```markdown
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Créateur Claude Code | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+```
+
+### Types d'entités
+
+| Type | Description | Exemples |
+|------|-------------|----------|
+| `PERSONNE` | Individu nommé | Boris Cherny, Ethan Mollick, Marc Andreessen |
+| `ORGANISATION` | Entreprise, labo, institution | Anthropic, Google, Y Combinator, Stanford |
+| `TECHNOLOGIE` | Outil, framework, plateforme, langage | Claude Code, MCP, TypeScript, React |
+| `CONCEPT` | Idée, principe, pattern | Demande latente, Bitter Lesson, prompt caching |
+| `METHODOLOGIE` | Approche, workflow, pratique | Vibe coding, Plan mode, Compounding Engineering |
+| `EVENEMENT` | Publication, annonce, incident | Opus 4.5 launch, 2026 Agentic Coding Report |
+| `LIEU` | Localisation géographique | Silicon Valley, France, Japon |
+
+### Types temporels
+
+| Type | Quand l'utiliser | Exemple |
+|------|-----------------|---------|
+| `STATIQUE` | Fait ponctuel, ne change pas | "a publié en 2026", "a été fondé en 2021" |
+| `DYNAMIQUE` | Fait qui peut évoluer | "travaille chez Anthropic", "utilise VS Code" |
+| `ATEMPOREL` | Vérité générale, principe | "le cache fonctionne par préfixe" |
+
+### Types de source
+
+| Type | Description |
+|------|-------------|
+| `déclaré_article` | Fait explicitement énoncé dans l'article |
+| `inféré` | Relation déduite du contexte de l'article |
+| `généré_assistant` | Relation ajoutée par Claude pour enrichir le contexte |
+
+### Actions (Entités)
+
+| Action | Quand l'utiliser |
+|--------|-----------------|
+| `AJOUT` | Nouvelle entité ou attribut identifié (cas standard) |
+| `MISE_A_JOUR` | L'article corrige une information connue |
+| `INVALIDATION` | L'article contredit une information connue |
+
+### Règles d'extraction
+
+- **Seuil de confiance minimum** : 0.70 — Les triples en dessous ne sont pas inclus
+- **Nombre cible** : 5 à 15 triples par fiche (ajuster selon la densité de l'article)
+- **Prédicats en français**, sous forme verbale courte (1-3 mots) : `a_créé`, `utilise`, `emploie`, `publie`, `critique`, `recommande`, `transforme`, `remplace`, `améliore`, `réduit`, `augmente`, `affirme_que`, `prédit`, `contredit`, `s_oppose_à`, `fait_partie_de`, `est_basé_sur`, `collabore_avec`
+- **Prédicats épistémiques** (`affirme_que`, `prédit`, `recommande`) pour distinguer les faits des opinions
+- **Noms d'entités** : restent dans leur langue d'origine (comme pour Authors)
+- **Tout le reste en français** : types, en-têtes de tableau, prédicats
+- Privilégier les relations **structurantes** (qui relient des entités majeures) aux relations anecdotiques
 
 ## Workflow d'ajout d'un nouvel article
 

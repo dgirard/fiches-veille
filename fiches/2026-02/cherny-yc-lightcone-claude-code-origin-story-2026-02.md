@@ -55,3 +55,42 @@ Les chiffres sont saisissants : la productivité par ingénieur chez Anthropic a
 L'interview révèle aussi les prochaines évolutions. Claude Teams explore les **topologies agents** avec des fenêtres de contexte non-corrélées comme forme de test-time compute. La feature plugins a été entièrement construite par un essaim d'agents à partir d'une spec et d'un board Asana, en un week-end et quasi sans intervention humaine. Co-work, la version GUI pour non-développeurs, a été construite en 10 jours par Claude Code lui-même.
 
 Sur le recrutement, Cherny valorise l'humilité et la pensée first principles plutôt que les opinions fortes. Il observe un profil bimodal des meilleurs ingénieurs : hyper-spécialistes ou hyper-généralistes. Sa prédiction : le titre "software engineer" va disparaître au profit de "builder", et le codage sera bientôt résolu pour tous, quel que soit le domaine.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_né_comme | terminal chat CLI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Demande latente | CONCEPT | guide | développement produit Claude Code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Bitter Lesson | CONCEPT | influence | architecture Claude Code | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | augmente | productivité ingénieur | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | +150% productivité par ingénieur | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | prédit | disparition du titre software engineer | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Plan mode | METHODOLOGIE | a_été_codé_en | 30 minutes | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Sonnet 3.5 | TECHNOLOGIE | a_provoqué | moment déclic feel the AGI | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | génère | 90-100% du code chez Cherny | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Essaim d'agents | METHODOLOGIE | a_construit | feature plugins | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Co-work | TECHNOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | construire pour le modèle de dans 6 mois | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | représente | 4% des commits publics mondiaux | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Créateur et ingénieur principal Claude Code | AJOUT |
+| Boris Cherny | PERSONNE | philosophie | Humilité, pensée first principles | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Claude Code | TECHNOLOGIE | date_création | Septembre 2024 | AJOUT |
+| Claude Code | TECHNOLOGIE | stack | TypeScript, React terminal | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Plan mode | METHODOLOGIE | description | Instruction "please don't code" ajoutée au prompt | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | catégorie | Fichier de configuration projet | AJOUT |
+| Demande latente | CONCEPT | description | Rendre plus facile ce que les gens font déjà | AJOUT |
+| Bitter Lesson | CONCEPT | auteur | Rich Sutton | AJOUT |
+| Co-work | TECHNOLOGIE | description | Claude Code en version GUI, construit en 10 jours | AJOUT |
+| Y Combinator | ORGANISATION | rôle | Média podcast (The Light Cone) | AJOUT |
