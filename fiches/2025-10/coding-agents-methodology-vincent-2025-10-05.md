@@ -46,3 +46,39 @@ Le processus intègre également CodeRabbit, un outil de revue de code automatis
 Vincent met en place des instructions strictes pour empêcher l'IA de dévier des plans établis lors de la phase d'architecture. Cette contrainte force une réflexion plus approfondie pendant la planification et évite les solutions de facilité ou les raccourcis qui pourraient compromettre la qualité du design.
 
 En conclusion, la méthodologie de Jesse Vincent démontre qu'une utilisation efficace des agents de codage IA nécessite une orchestration réfléchie, des processus clairs et une supervision active. Son approche transforme l'IA d'un simple outil d'autocomplétion en un véritable partenaire de développement, tout en maintenant le contrôle humain sur les décisions architecturales critiques.
+## GrapheDeConnaissance
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Jesse Vincent | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | a_créé | coderabbit-review-helper | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | recommande | git worktrees | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| Jesse Vincent | PERSONNE | applique | approche multi-sessions | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| git worktrees | METHODOLOGIE | permet | isolation des tâches | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| approche multi-sessions | METHODOLOGIE | utilise | session architecte | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| approche multi-sessions | METHODOLOGIE | utilise | session implémenteur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| session architecte | CONCEPT | produit | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| session implémenteur | CONCEPT | exécute | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| CodeRabbit | TECHNOLOGIE | effectue | revue de code automatisée | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| coderabbit-review-helper | TECHNOLOGIE | améliore | intégration CodeRabbit | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | réduit | déviation du plan | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| role-playing | METHODOLOGIE | rend | Claude Code | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
+| TDD | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Jesse Vincent | PERSONNE | rôle | Développeur senior, auteur du blog Massively Parallel Procrastination | AJOUT |
+| Jesse Vincent | PERSONNE | contact | jesse@fsck.com | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| git worktrees | METHODOLOGIE | usage | Isolation de tâches parallèles sur une même base de code | AJOUT |
+| approche multi-sessions | METHODOLOGIE | description | Séparation des rôles architecte/implémenteur entre deux instances Claude | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | catégorie | Fichier de configuration et règles de processus pour Claude | AJOUT |
+| CodeRabbit | TECHNOLOGIE | catégorie | Outil de revue de code automatisée par IA | AJOUT |
+| coderabbit-review-helper | TECHNOLOGIE | auteur | Jesse Vincent | AJOUT |
+| TDD | METHODOLOGIE | description | Test-Driven Development, pratique recommandée dans le workflow | AJOUT |
+| role-playing | METHODOLOGIE | objectif | Inciter Claude à évaluer critiquement les suggestions de revue | AJOUT |
+| session architecte | CONCEPT | responsabilité | Conception, planification et revue du travail de l'implémenteur | AJOUT |
+| session implémenteur | CONCEPT | responsabilité | Exécution du plan et écriture du code | AJOUT |

@@ -10,6 +10,7 @@ import '../widgets/url_card.dart';
 import '../widgets/empty_state.dart';
 import 'settings_screen.dart';
 import '../../core/theme/app_theme.dart';
+import '../../services/share_receiver_service.dart';
 
 class UrlListScreen extends StatefulWidget {
   const UrlListScreen({super.key});
@@ -19,10 +20,14 @@ class UrlListScreen extends StatefulWidget {
 }
 
 class _UrlListScreenState extends State<UrlListScreen> {
+  ShareReceiverService? _shareReceiverService;
+
   @override
   void initState() {
     super.initState();
     context.read<UrlBloc>().add(LoadUrls());
+    // Initialize share receiver service to handle URLs shared from other apps
+    _shareReceiverService = ShareReceiverService(context.read<UrlBloc>());
   }
 
   void _navigateToSettings() {

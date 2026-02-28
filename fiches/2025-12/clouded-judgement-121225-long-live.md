@@ -48,3 +48,38 @@ L'auteur insiste sur une distinction fondamentale : un système de record n'est 
 L'article inclut également des données de marché SaaS montrant une médiane de multiples de revenus NTM à 4.9x, avec les entreprises à forte croissance commandant 14.5x contre 3.7x pour celles à croissance lente.
 
 Cette analyse a été explicitement référencée par Foundation Capital dans leur thèse sur les context graphs comme le point de départ de leur réflexion sur l'évolution des systèmes de record.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|------------|----------|-------|------------|-----------|-------------|--------|
+| Jamin Ball | PERSONNE | affirme_que | les agents élèvent les standards des systèmes de record | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | dépendent_de | source canonique de vérité | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | transforme | systèmes de record | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| data warehouse | TECHNOLOGIE | évolue_vers | truth registry | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Databricks | ORGANISATION | prédit_devenir | centre de gravité des agents IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| ARR | CONCEPT | illustre | fragmentation des sources de vérité | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| workflow quote-to-cash | METHODOLOGIE | requiert | données canoniques correctes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Foundation Capital | ORGANISATION | référence | analyse Jamin Ball sur les systèmes de record | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
+| interfaces SaaS | TECHNOLOGIE | perd_en_importance | au profit des couches data | CONCEPT | 0.87 | DYNAMIQUE | inféré |
+| couche sémantique | CONCEPT | permet | résolution de conflits entre sources | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | nécessite | règles explicites de précédence des données | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| systèmes de record | CONCEPT | s_oppose_à | narratif "agents remplacent tout" | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Jamin Ball | PERSONNE | rôle | Analyste / auteur newsletter Clouded Judgement | AJOUT |
+| Jamin Ball | PERSONNE | affiliation | Altimeter Capital Management | AJOUT |
+| Clouded Judgement | TECHNOLOGIE | catégorie | Newsletter SaaS / cloud software | AJOUT |
+| agents IA | TECHNOLOGIE | caractéristique | cross-système et orientés action | AJOUT |
+| systèmes de record | CONCEPT | définition | Source canonique de vérité, pas une catégorie produit | AJOUT |
+| truth registry | CONCEPT | rôle | Couche sémantique + gouvernance pour agents | AJOUT |
+| ARR | CONCEPT | problème | Définitions multiples et conflictuelles entre équipes | AJOUT |
+| Databricks | ORGANISATION | secteur | Data lakehouse / plateforme IA | AJOUT |
+| Foundation Capital | ORGANISATION | secteur | Capital-risque / investissement tech | AJOUT |
+| data warehouse | TECHNOLOGIE | évolution | De miroir rétrospectif vers registre de vérité pour agents | AJOUT |
+| couche sémantique | CONCEPT | fonction | Encoder précédence et signification des données pour agents | AJOUT |

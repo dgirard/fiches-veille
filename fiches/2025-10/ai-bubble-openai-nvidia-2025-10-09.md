@@ -39,3 +39,41 @@ Cette citation illustre l'énorme influence que quelques individus clés exercen
 L'article appelle à une approche plus prudente et mesurée du développement de l'IA, où l'innovation doit être équilibrée avec la durabilité économique. Il suggère que tout en reconnaissant le potentiel transformateur de l'IA, les investisseurs et les décideurs doivent rester conscients des risques de surévaluation et de surextension financière.
 
 En conclusion, le marché de l'IA représente à la fois une promesse extraordinaire et un risque significatif, nécessitant une surveillance attentive et une gestion prudente pour éviter de répéter les erreurs du passé.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Philippe Ensarguet | PERSONNE | analyse | bulle IA | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | investit_dans | Nvidia | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Nvidia | ORGANISATION | investit_dans | OpenAI | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | achète | puces Nvidia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | ne_sera_pas | cash-flow positif avant 2030 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Sam Altman | PERSONNE | contrôle | destin économie mondiale IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Stacy Rasgon | PERSONNE | affirme_que | Sam Altman peut crasher l'économie mondiale | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| bulle IA | CONCEPT | ressemble_à | bulle dot-com | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Lisa Su | PERSONNE | affirme_que | cycle vertueux de collaboration IA | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Greg Brockman | PERSONNE | affirme_que | cycle vertueux de collaboration IA | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | relie | OpenAI, Nvidia, AMD, Oracle, CoreWeave, xAI | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Emily Forgash | PERSONNE | publie | article Bloomberg bulle IA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Agnee Ghosh | PERSONNE | publie | article Bloomberg bulle IA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Philippe Ensarguet | PERSONNE | rôle | VP Software Engineering, thought leader tech | AJOUT |
+| OpenAI | ORGANISATION | statut financier | non cash-flow positif avant fin de décennie | AJOUT |
+| Nvidia | ORGANISATION | secteur | semiconducteurs / puces IA | AJOUT |
+| AMD | ORGANISATION | rôle | acteur du réseau circulaire d'investissements IA | AJOUT |
+| Oracle | ORGANISATION | rôle | acteur du réseau circulaire d'investissements IA | AJOUT |
+| CoreWeave | ORGANISATION | rôle | acteur du réseau circulaire d'investissements IA | AJOUT |
+| xAI | ORGANISATION | rôle | acteur du réseau circulaire d'investissements IA | AJOUT |
+| bulle IA | CONCEPT | caractéristique | investissements circulaires entre acteurs interconnectés | AJOUT |
+| bulle dot-com | EVENEMENT | période | fin des années 1990 | AJOUT |
+| économie circulaire IA | CONCEPT | montant estimé | 1 trillion de dollars | AJOUT |
+| Sam Altman | PERSONNE | rôle | PDG OpenAI | AJOUT |
+| Stacy Rasgon | PERSONNE | rôle | analyste financier cité par Bloomberg | AJOUT |
+| Lisa Su | PERSONNE | rôle | PDG AMD | AJOUT |
+| Greg Brockman | PERSONNE | rôle | cofondateur OpenAI | AJOUT |

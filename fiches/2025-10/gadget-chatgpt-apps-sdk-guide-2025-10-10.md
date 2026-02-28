@@ -60,3 +60,40 @@ Pour la communication avec le backend depuis un widget, deux approches existent.
 Le CORS constitue un défi majeur avec trois configurations distinctes à gérer : les routes MCP, les routes OAuth 2.1, et les assets frontend. Pour les deux premières, un header permissif `Access-Control-Allowed-Origin: *` est recommandé car l'authentification sécurise déjà les appels. Pour les assets de widgets, il faut autoriser l'origin `https://web-sandbox.oaiusercontent.com` utilisée par OpenAI.
 
 L'article conclut que l'écosystème est encore très jeune mais prometteur, avec des templates prêts à l'emploi disponibles chez Gadget pour accélérer le démarrage.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Gadget | ORGANISATION | a_publié | guide ChatGPT Apps SDK | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Harry Brundage | PERSONNE | a_rédigé | guide ChatGPT Apps SDK | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| ChatGPT App | CONCEPT | est_basé_sur | MCP server | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT App | CONCEPT | utilise | OAuth 2.1 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT App | CONCEPT | intègre | widgets iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Gadget | ORGANISATION | recommande | StreamableHTTPServerTransport | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | ChatGPT Apps SDK | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT Apps SDK | TECHNOLOGIE | nécessite | OAuth 2.1 provider | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Vite | TECHNOLOGIE | améliore | développement widgets ChatGPT | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| window.openai | TECHNOLOGIE | fournit | authentification gratuite | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| CORS | CONCEPT | bloque | développement ChatGPT Apps | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| MCP Inspector | TECHNOLOGIE | facilite | débogage MCP | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Gadget | ORGANISATION | s_oppose_à | exemples officiels OpenAI | CONCEPT | 0.88 | STATIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Harry Brundage | PERSONNE | rôle | Auteur principal, développeur Gadget | AJOUT |
+| Gadget | ORGANISATION | secteur | Plateforme de développement full-stack | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA / Produits LLM | AJOUT |
+| ChatGPT Apps SDK | TECHNOLOGIE | catégorie | SDK pour applications ChatGPT intégrées | AJOUT |
+| MCP server | TECHNOLOGIE | catégorie | Serveur Model Context Protocol | AJOUT |
+| OAuth 2.1 | TECHNOLOGIE | rôle | Protocole d'authentification provider-side | AJOUT |
+| StreamableHTTPServerTransport | TECHNOLOGIE | statut | Transport recommandé vs SSE obsolète | AJOUT |
+| Vite | TECHNOLOGIE | usage | Bundler TypeScript/HMR pour widgets | AJOUT |
+| window.openai | TECHNOLOGIE | catégorie | Objet injecté dans iframe par OpenAI | AJOUT |
+| MCP Inspector | TECHNOLOGIE | usage | Outil de débogage MCP hors ChatGPT | AJOUT |
+| CORS | CONCEPT | catégorie | Contrainte sécurité cross-origin navigateur | AJOUT |
+| widgets iframes | CONCEPT | contrainte | HTML statique, SPA obligatoire, mis en cache à l'installation | AJOUT |

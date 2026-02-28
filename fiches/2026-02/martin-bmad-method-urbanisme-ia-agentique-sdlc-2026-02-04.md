@@ -64,3 +64,38 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 **Évolution des rôles** : l'analogie du pilote automatique en aviation illustre la transformation — le pilote n'a pas disparu, son travail a changé. Les développeurs deviennent designers de solutions et reviewers exigeants, les architectes orchestrent un système où les contraintes d'entreprise sont injectées dans les agents, les managers apprennent à cadrer le problème et évaluer la valeur produite par la chaîne hybride.
 
 **Recommandations** : commencer par les règles du jeu avant les outils, choisir des cas pilotes concrets, mesurer et raconter les résultats, et accepter que le cadre évoluera — comme un bon plan d'urbanisme permet de rénover une ville sans tout raser à chaque fois.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| BMAD | METHODOLOGIE | résout | vibe coding | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | structure | SDLC | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | assigne_des_rôles_à | agents IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| vibe coding | CONCEPT | génère | dette technique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| humain | CONCEPT | reste_architecte_de | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | jouent_le_rôle_de | contremaîtres spécialisés | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | s_intègre_dans | DSI | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | traite | legacy | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Philippe Martin | PERSONNE | publie_sur | Tech Away | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Philippe Martin | PERSONNE | recommande | BMAD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | transforme | rôle_développeur | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| absence_de_cadre | CONCEPT | entraîne | architectures incohérentes | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Breakthrough Method for Agile AI-Driven Development | METHODOLOGIE | est_désigné_par | BMAD | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| BMAD | METHODOLOGIE | nom complet | Breakthrough Method for Agile AI-Driven Development | AJOUT |
+| BMAD | METHODOLOGIE | métaphore centrale | plan d'urbanisme pour l'IA agentique | AJOUT |
+| Philippe Martin | PERSONNE | rôle | auteur, chroniqueur IT francophone | AJOUT |
+| Tech Away | ORGANISATION | type | blog IT francophone (Wix) | AJOUT |
+| vibe coding | CONCEPT | définition | coder au feeling avec l'IA sans cadre structuré | AJOUT |
+| dette technique | CONCEPT | cause principale | usage non encadré de l'IA agentique | AJOUT |
+| agents IA | TECHNOLOGIE | rôles BMAD | spécification, architecture, artisans, contrôleurs | AJOUT |
+| DSI | ORGANISATION | contexte | grande entreprise, intégrateur de BMAD | AJOUT |
+| SDLC | CONCEPT | zones d'intégration | amont, milieu, aval | AJOUT |
+| legacy | CONCEPT | traitement BMAD | cartographie, refactoring progressif, génération tests | AJOUT |

@@ -42,3 +42,38 @@ L'auteur suggère que les organisations doivent se préparer à cette transition
 La citation centrale résume parfaitement cette perspective : "Le RAG n'a jamais été la destination—c'était un détour temporaire." Cette affirmation encapsule l'idée que le RAG était une solution pragmatique à des limitations techniques qui sont maintenant en train d'être dépassées par l'innovation technologique rapide.
 
 En conclusion, l'article appelle à une réévaluation des architectures IA actuelles et à une anticipation des paradigmes émergents qui remplaceront les approches RAG traditionnelles.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Philippe Ensarguet | PERSONNE | analyse | RAG | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Nicolas Bustamante | PERSONNE | a_publié | The RAG Obituary | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Nicolas Bustamante | PERSONNE | dirige | Fintool | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| RAG | TECHNOLOGIE | est_basé_sur | fenêtres de contexte limitées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| RAG | TECHNOLOGIE | souffre_de | cascade d'échecs en cinq étapes | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | remplace | RAG | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | grep et glob | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_publié | Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| fenêtres de contexte | CONCEPT | augmente | de 8K à 2M tokens | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| IA agentique | CONCEPT | remplace | RAG | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| IA agentique | CONCEPT | requiert | nouvelles compétences techniques | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| RAG | TECHNOLOGIE | prédit_obsolescence_par | expansion des contextes LLM | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Gemini 2.5 | TECHNOLOGIE | supporte | 1M tokens de contexte | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Philippe Ensarguet | PERSONNE | rôle | VP Software Engineering, thought leader LinkedIn | AJOUT |
+| Nicolas Bustamante | PERSONNE | rôle | Fondateur de Fintool, auteur de The RAG Obituary | AJOUT |
+| Fintool | ORGANISATION | secteur | Recherche financière augmentée par IA | AJOUT |
+| RAG | TECHNOLOGIE | statut | Technologie en déclin structurel | AJOUT |
+| Claude Code | TECHNOLOGIE | approche | Recherche directe via grep/glob sans indexation | AJOUT |
+| fenêtres de contexte | CONCEPT | évolution | 8K tokens (2022) → 2M tokens (2025) | AJOUT |
+| IA agentique | CONCEPT | paradigme | Navigation directe dans le contexte complet | AJOUT |
+| chunking | TECHNOLOGIE | limite | Fragmentation artificielle du sens contextuel | AJOUT |
+| Gemini 2.5 | TECHNOLOGIE | capacité | 1M tokens de contexte | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |

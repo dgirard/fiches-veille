@@ -72,3 +72,40 @@ La vraie puissance : chaque plan review accumule institutional knowledge. Code e
 **Fastest way to teach**
 
 Klaassen conclut : planning est highest-leverage activity en AI-assisted development. Une heure investie improving planning system makes every future hour more productive. Fastest way to teach AI n'est pas through code you write, mais through plans you review.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | publie_dans | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | préconise | planification avec IA | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| vibe coding | METHODOLOGIE | s_oppose_à | planification avec IA | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| compounding engineering | CONCEPT | repose_sur | plans enseignant le système | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Three Fidelities | METHODOLOGIE | catégorise | travail d'engineering | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Fidelity Two | CONCEPT | optimise | compounding engineering | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Fidelity Three | CONCEPT | requiert | vibe planning | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| agent de planification Figma | TECHNOLOGIE | utilise | Puppeteer | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | planification Fidelity One | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Cora | TECHNOLOGIE | a_implémenté | email bankruptcy feature | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Gmail API | TECHNOLOGIE | impose | quotas sur opérations bulk | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| plans | CONCEPT | transmettent | connaissance institutionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kieran Klaassen | PERSONNE | rôle | General Manager de Cora | AJOUT |
+| Cora | TECHNOLOGIE | catégorie | Produit email / Every | AJOUT |
+| Every | ORGANISATION | secteur | Médias / IA / Newsletters | AJOUT |
+| compounding engineering | CONCEPT | définition | Chaque unité de travail rend la suivante plus facile en enseignant l'IA | AJOUT |
+| Three Fidelities | METHODOLOGIE | niveaux | Fidelity One / Two / Three selon complexité et clarté | AJOUT |
+| vibe planning | METHODOLOGIE | usage | Prototypage rapide disposable pour Fidelity Three | AJOUT |
+| email bankruptcy feature | CONCEPT | périmètre | Traitement bulk de 53 000 emails via cache + queue | AJOUT |
+| Claude Code | TECHNOLOGIE | usage_décrit | Exécution de plans détaillés en Fidelity One et Two | AJOUT |
+| Puppeteer | TECHNOLOGIE | rôle | Capture screenshots pour agent de revue visuelle | AJOUT |
+| Gmail API | TECHNOLOGIE | contrainte | Quotas stricts sur opérations bulk | AJOUT |
+| Lucas Crespo | PERSONNE | rôle | Designer Every (Figma designs Cora) | AJOUT |
+| Daniel Rodrigues | PERSONNE | rôle | Designer Every (Figma designs Cora) | AJOUT |

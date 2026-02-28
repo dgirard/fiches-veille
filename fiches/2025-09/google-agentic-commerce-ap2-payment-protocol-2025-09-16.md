@@ -58,3 +58,38 @@ Core objects et definitions de AP2 located dans `src/ap2/types` directory, avec 
 **Open Collaborative Approach**
 
 Project licensed under **Apache-2.0 license**, indicating open et collaborative approach à development. Cette initiative représente Google's commitment à building infrastructure enabling safe, efficient AI-powered commerce transactions. L'architecture distribuée avec multiple agents et servers demonstrates scalability considerations et real-world applicability de protocol. Repository positions AP2 comme foundational technology pour emerging ecosystem de agentic commerce, où AI agents autonomously manage financial transactions avec proper security safeguards et interoperability standards.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| google-agentic-commerce | ORGANISATION | a_publié | AP2 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | vise_à | paiements IA sécurisés et interopérables | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | est_basé_sur | Apache-2.0 license | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | définit | protocol objects | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| samples AP2 | TECHNOLOGIE | utilise | Agent Development Kit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| samples AP2 | TECHNOLOGIE | utilise | Gemini 2.5 Flash | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | ne_dépend_pas_de | Agent Development Kit | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| AP2 | TECHNOLOGIE | prend_en_charge | Google API Key | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | prend_en_charge | Vertex AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | prévoit | publication package PyPI | EVENEMENT | 0.88 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | fait_partie_de | agentic commerce | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| google-agentic-commerce | ORGANISATION | représente | Google | ORGANISATION | 0.85 | STATIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| AP2 | TECHNOLOGIE | nom complet | Agent Payments Protocol | AJOUT |
+| AP2 | TECHNOLOGIE | version | v0.1.0 | AJOUT |
+| AP2 | TECHNOLOGIE | date de release | 2025-09-16 | AJOUT |
+| AP2 | TECHNOLOGIE | licence | Apache-2.0 | AJOUT |
+| AP2 | TECHNOLOGIE | langage principal | Python 3.10+ | AJOUT |
+| google-agentic-commerce | ORGANISATION | type | organisation GitHub open-source | AJOUT |
+| Agent Development Kit | TECHNOLOGIE | acronyme | ADK | AJOUT |
+| Gemini 2.5 Flash | TECHNOLOGIE | fournisseur | Google | AJOUT |
+| Vertex AI | TECHNOLOGIE | usage recommandé | environnements de production | AJOUT |
+| agentic commerce | CONCEPT | définition | commerce géré de façon autonome par des agents IA | AJOUT |
+| protocol objects | CONCEPT | localisation | src/ap2/types | AJOUT |

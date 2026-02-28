@@ -121,3 +121,41 @@ Kieran Klaassen présente les 8 stratégies concrètes transformant la philosoph
 **Open-source contribution** : Klaassen open-sourced planning system Every's GitHub marketplace avec /plan slash command et research agents prêts à utiliser. Philosophy : don't build from scratch, adapt existing proven systems.
 
 Chaque stratégie includes "How to make this compound" demonstrating central thesis : parallel research operations teach AI institutional knowledge accumulating faster than human sequential planning.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Kieran Klaassen | PERSONNE | a_créé | Compounding Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | gère | Cora | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | publie_dans | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering | METHODOLOGIE | est_basé_sur | opérations de recherche parallèles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| opérations de recherche parallèles | CONCEPT | remplace | planification séquentielle humaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_utilisé_par | Kieran Klaassen | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Cora | TECHNOLOGIE | utilise | Gmail API | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Gmail API | TECHNOLOGIE | impose | limite de débit à 2000 emails | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| AppSignal | TECHNOLOGIE | permet | diagnostic logs production | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| RubyLLM | TECHNOLOGIE | est_utilisé_par | Cora | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | codifie | préférences architecturales | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| mémoire institutionnelle | CONCEPT | est_préservée_par | git history | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | transforme | incertitudes UX en spécifications | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Every | ORGANISATION | héberge | planning system open-source | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kieran Klaassen | PERSONNE | rôle | General Manager de Cora | AJOUT |
+| Every | ORGANISATION | secteur | Media / Outils IA | AJOUT |
+| Cora | TECHNOLOGIE | catégorie | Produit email géré par Every | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| AppSignal | TECHNOLOGIE | catégorie | Système de tracking d'erreurs production | AJOUT |
+| RubyLLM | TECHNOLOGIE | catégorie | Gem Ruby pour appels API LLM | AJOUT |
+| Gmail API | TECHNOLOGIE | contrainte | Rate limit 2000 emails par batch | AJOUT |
+| Compounding Engineering | METHODOLOGIE | principe | Chaque feature améliore le système pour la suivante | AJOUT |
+| opérations de recherche parallèles | CONCEPT | avantage | Plus rapide que planification séquentielle humaine | AJOUT |
+| mémoire institutionnelle | CONCEPT | mécanisme | Git history + agents spécialisés + docs/*.md | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | usage | Codifier préférences et règles de l'ingénieur | AJOUT |
+| vibe coding | METHODOLOGIE | usage | Prototypage rapide jetable pour clarifier les exigences | AJOUT |

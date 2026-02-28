@@ -69,3 +69,36 @@ Beck aborde l'anxiété du remplacement : "Yes programming changes with a genie,
 **Gap Qualité Persistant**
 
 Malgré le succès fonctionnel et performantiel, Beck exprime insatisfaction qualitative : "I feel good about the correctness & performance, not so good about the code quality. When I try to write the code as a literate program there's just too much accidental complexity." Ce défi restant suggère que l'IA nécessite encore guidance humaine pour optimisation de simplicité, confirmation que l'augmented coding demeure collaboration homme-machine plutôt que remplacement.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Kent Beck | PERSONNE | a_créé | BPlusTree3 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | distingue | augmented coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | distingue | vibe coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| augmented coding | CONCEPT | s_oppose_à | vibe coding | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| augmented coding | CONCEPT | préserve | qualité du code | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| vibe coding | CONCEPT | ignore | qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Kent Beck | PERSONNE | applique | TDD | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | applique | Tidy First | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| BPlusTree3 | TECHNOLOGIE | est_implémenté_en | Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| BPlusTree3 | TECHNOLOGIE | est_implémenté_en | Python | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Augment Remote Agent | TECHNOLOGIE | a_débloqué | translittération Python→Rust | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | affirme_que | "yak shaving éliminé avec IA" | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| augmented coding | CONCEPT | augmente | décisions conséquentes par heure | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kent Beck | PERSONNE | rôle | Créateur du TDD et Tidy First, praticien augmented coding | AJOUT |
+| augmented coding | CONCEPT | définition | Codage assisté IA avec priorité qualité, tests et couverture | AJOUT |
+| vibe coding | CONCEPT | définition | Codage assisté IA indifférent à la qualité, orienté seul comportement | AJOUT |
+| BPlusTree3 | TECHNOLOGIE | nature | Bibliothèque B+ Tree performance-compétitive en Rust et Python | AJOUT |
+| TDD | METHODOLOGIE | cycle | Red → Green → Refactor, un test à la fois | AJOUT |
+| Tidy First | METHODOLOGIE | principe | Séparation stricte changements structurels / comportementaux | AJOUT |
+| Augment Remote Agent | TECHNOLOGIE | rôle | Agent distant ayant permis translittération Python→Rust | AJOUT |
+| yak shaving | CONCEPT | nature | Tâches setup pénibles éliminées par l'IA dans l'augmented coding | AJOUT |

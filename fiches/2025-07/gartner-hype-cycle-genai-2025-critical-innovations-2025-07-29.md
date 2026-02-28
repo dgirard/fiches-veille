@@ -58,3 +58,38 @@ Finally, **infrastructure et enablement techniques** form fourth crucial area. E
 **Strategic Guidance**
 
 En essence, 2025 Hype Cycle pour GenAI serves comme guide pour IT leaders make informed investment decisions, move beyond hype, et successfully integrate generative AI dans enterprise strategies pour drive innovation et achieve business value.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Gartner | ORGANISATION | publie | Hype Cycle for Generative AI 2025 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Arun Chandrasekaran | PERSONNE | rédige | Hype Cycle for Generative AI 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Arun Chandrasekaran | PERSONNE | travaille_pour | Gartner | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Hype Cycle for Generative AI 2025 | EVENEMENT | prédit | 95% entreprises utiliseront GenAI en production d'ici 2028 | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| LLMs | TECHNOLOGIE | est_basé_sur | GenAI models | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI TRiSM | CONCEPT | renforce | sécurité et gouvernance IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Agentic AI | CONCEPT | remplace | chatbots passifs | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
+| self-supervised learning | METHODOLOGIE | réduit | besoin de données étiquetées | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| AI engineering | CONCEPT | améliore | déploiement à l'échelle GenAI | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Multimodal generative AI | TECHNOLOGIE | fait_partie_de | GenAI models | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Embodied AI | TECHNOLOGIE | fait_partie_de | AI agents | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| AI supercomputing | TECHNOLOGIE | réduit | coûts entraînement et inférence modèles | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| large reasoning models | TECHNOLOGIE | émerge_comme | alternative aux LLMs | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Gartner | ORGANISATION | secteur | Recherche et conseil en technologie | AJOUT |
+| Arun Chandrasekaran | PERSONNE | rôle | Analyste Gartner, auteur Hype Cycle GenAI | AJOUT |
+| Hype Cycle for Generative AI 2025 | EVENEMENT | date | 2025-07-29 | AJOUT |
+| LLMs | TECHNOLOGIE | maturité | Technologie la plus mature du Hype Cycle GenAI | AJOUT |
+| AI TRiSM | CONCEPT | signification | Trust, Risk and Security Management | AJOUT |
+| Agentic AI | CONCEPT | description | IA autonome ou semi-autonome percevant, décidant et agissant | AJOUT |
+| AI engineering | CONCEPT | usage | Construction, gouvernance et personnalisation d'applications GenAI | AJOUT |
+| self-supervised learning | METHODOLOGIE | applications | Conduite autonome, diagnostic médical | AJOUT |
+| Multimodal generative AI | TECHNOLOGIE | promesse | Résultats IA plus forts et plus rapides | AJOUT |
+| AI supercomputing | TECHNOLOGIE | catégorie | Infrastructure et techniques d'activation GenAI | AJOUT |

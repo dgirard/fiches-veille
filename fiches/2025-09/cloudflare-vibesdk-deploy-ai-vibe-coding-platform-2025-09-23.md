@@ -73,3 +73,38 @@ VibeSDK utilise par défaut les modèles Gemini de Google (gemini-2.5-pro, flash
 Les organisations peuvent déployer VibeSDK pour équipes internes (marketing, produit, support créant landing pages, prototypes, outils sans dépendre engineering) ou l'embedder dans produits SaaS permettant aux users de construire customizations. La plateforme open-source permet custom logic pour prompts LLM spécifiques, contrôle complet sur environnement développement et hosting, garantissant privacy et contrôle des données.
 
 Cloudflare open-source VibeSDK avec la même philosophie que le Workers runtime : développement optimal se fait dans l'ouvert, économisant mois d'intégration pour quiconque souhaite construire plateforme vibe coding.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Cloudflare | ORGANISATION | a_publié | VibeSDK | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| VibeSDK | TECHNOLOGIE | est_basé_sur | Agents SDK | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| VibeSDK | TECHNOLOGIE | utilise | Cloudflare Sandboxes | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| VibeSDK | TECHNOLOGIE | utilise | Workers for Platforms | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| VibeSDK | TECHNOLOGIE | utilise | AI Gateway | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| VibeSDK | TECHNOLOGIE | utilise | Gemini models | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| AI Gateway | TECHNOLOGIE | permet | multi-model support | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Cloudflare Sandboxes | TECHNOLOGIE | isole | code généré par IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Workers for Platforms | TECHNOLOGIE | déploie_à_échelle | Cloudflare Workers | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| vibe coding | CONCEPT | transforme | développement logiciel | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| VibeSDK | TECHNOLOGIE | permet | déploiement one-click | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| AI Gateway | TECHNOLOGIE | réduit | coûts inference | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Cloudflare | ORGANISATION | secteur | Infrastructure cloud / réseau global | AJOUT |
+| VibeSDK | TECHNOLOGIE | catégorie | Plateforme vibe coding open-source | AJOUT |
+| Agents SDK | TECHNOLOGIE | rôle | Orchestration LLM pour génération de code | AJOUT |
+| Cloudflare Sandboxes | TECHNOLOGIE | catégorie | Environnements isolés container-based | AJOUT |
+| Workers for Platforms | TECHNOLOGIE | catégorie | Déploiement Workers à grande échelle | AJOUT |
+| AI Gateway | TECHNOLOGIE | catégorie | Accès unifié multi-providers LLM | AJOUT |
+| Gemini models | TECHNOLOGIE | catégorie | Modèles LLM Google (2.5-pro, flash, flash-lite) | AJOUT |
+| vibe coding | CONCEPT | définition | Développement applicatif par description langage naturel | AJOUT |
+| Ashish Kumar Singh | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |
+| Abhishek Kankani | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |
+| Dina Kozlov | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |

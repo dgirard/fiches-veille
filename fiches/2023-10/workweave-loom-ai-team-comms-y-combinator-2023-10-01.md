@@ -74,3 +74,33 @@ Launch timing opportune : remote/hybrid work now standard, AI capabilities reach
 Y Combinator support signals **validation de problem space et team potential**. YC portfolio gives access à early adopters (other YC companies), mentorship depuis communication tool veterans, potential customer pipeline through accelerator network. However, YC backing also raises expectations for rapid growth et clear differentiation.
 
 Success will depend on : AI summary quality consistently exceeding manual summarization, seamless workflow integration reducing adoption friction, clear ROI demonstration (time saved, decisions accelerated), privacy/security meeting enterprise requirements.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Weave | ORGANISATION | est_soutenu_par | Y Combinator | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Weave | ORGANISATION | est_fondé_par | Adam Cohen | PERSONNE | 0.98 | STATIQUE | déclaré_article |
+| Weave | ORGANISATION | est_fondé_par | Andrew Churchill | PERSONNE | 0.98 | STATIQUE | déclaré_article |
+| Weave | ORGANISATION | mesure | travail d'ingénierie par IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Weave | ORGANISATION | intègre | Claude | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Weave | ORGANISATION | intègre | Cursor | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Weave | ORGANISATION | génère | 16% d'augmentation de livraisons | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Andrew Churchill | PERSONNE | a_travaillé_chez | Causal | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| Weave Hour | CONCEPT | mesure | temps qu'un ingénieur expérimenté prendrait | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Jared Friedman | PERSONNE | est_partenaire_de | Weave | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Weave | ORGANISATION | batch YC | Winter 2025 | AJOUT |
+| Weave | ORGANISATION | taille | 5 personnes | AJOUT |
+| Weave | ORGANISATION | localisation | San Francisco | AJOUT |
+| Adam Cohen | PERSONNE | rôle | Co-fondateur & CEO | AJOUT |
+| Andrew Churchill | PERSONNE | rôle | Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math | AJOUT |
+| Weave Hour | CONCEPT | définition | Métrique : temps qu'un ingénieur expérimenté prendrait pour un changement | AJOUT |
+| Y Combinator | ORGANISATION | type | Accélérateur de startups | AJOUT |
+| Jared Friedman | PERSONNE | rôle | Partner YC associé à Weave | AJOUT |

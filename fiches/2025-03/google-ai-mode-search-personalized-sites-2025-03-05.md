@@ -70,3 +70,36 @@ AI Mode represents **major escalation** dans search innovation race. Competitors
 Practical questions remain : How Google ensures accuracy? What mechanisms prevent misinformation? How system handles controversial topics? How fresh is generated content? Can users verify sources? How Google balances innovation avec responsibility?
 
 AI Mode announcement signals **Google's vision pour future search** : move depuis passive index vers active content generator. Whether cette vision beneficial pour broader internet ecosystem remains to be seen, mais transformation already underway.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | lance | AI Mode | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| AI Mode | TECHNOLOGIE | est_basé_sur | Gemini 2.0 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | améliore | AI Overviews | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AI Overviews | TECHNOLOGIE | utilise | Gemini 2.0 | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| AI Overviews | TECHNOLOGIE | est_utilisé_par | plus d'un milliard d'utilisateurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Robby Stein | PERSONNE | publie | AI Mode announcement | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| AI Mode | TECHNOLOGIE | utilise | query fan-out | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| query fan-out | METHODOLOGIE | améliore | couverture de recherche | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| AI Mode | TECHNOLOGIE | menace | modèle économique web traditionnel | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| AI Mode | TECHNOLOGIE | transforme | SEO | CONCEPT | 0.87 | DYNAMIQUE | inféré |
+| Google One AI Premium | TECHNOLOGIE | donne_accès_à | AI Mode (Labs) | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| AI Mode | TECHNOLOGIE | soulève | questions de copyright | CONCEPT | 0.82 | ATEMPOREL | inféré |
+| Google | ORGANISATION | s_oppose_à | Microsoft Bing / Perplexity | ORGANISATION | 0.78 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Google | ORGANISATION | secteur | Moteur de recherche / IA | AJOUT |
+| AI Mode | TECHNOLOGIE | catégorie | Mode de recherche génératif expérimental | AJOUT |
+| AI Overviews | TECHNOLOGIE | adoption | Plus d'un milliard d'utilisateurs | AJOUT |
+| Gemini 2.0 | TECHNOLOGIE | usage | Modèle sous-jacent d'AI Mode et AI Overviews | AJOUT |
+| Robby Stein | PERSONNE | rôle | VP of Product, Google Search | AJOUT |
+| query fan-out | METHODOLOGIE | description | Technique de recherches parallèles sur sous-sujets multiples | AJOUT |
+| Google One AI Premium | TECHNOLOGIE | rôle | Accès prioritaire à AI Mode en phase Labs | AJOUT |
+| SEO | CONCEPT | impact | Redéfinition complète face à la génération de contenu | AJOUT |

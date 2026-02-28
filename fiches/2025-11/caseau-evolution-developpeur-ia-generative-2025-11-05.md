@@ -71,3 +71,39 @@ Caseau souligne perspicacement que chaque niveau d'abstraction historique a atte
 **Vision équilibrée**
 
 Cette vision équilibrée reconnaît l'impact transformateur de l'IA tout en préservant les fondamentaux de l'ingénierie logicielle : gestion de la complexité, architecture robuste et compréhension approfondie du contexte métier restent des compétences inaliénables. L'abstraction augmente certes, mais responsabilité et cohérence architecturale demeurent centrales—l'IA accélère la production mais ne supprime ni la complexité ni la nécessité d'expertise architecturale profonde.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Yves Caseau | PERSONNE | occupe_le_poste_de | Group Chief Digital & Information Officer | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | travaille_chez | Michelin | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | publie | réflexion sur l'évolution du développeur | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| vibe coding | METHODOLOGIE | progresse_grâce_à | orchestration agentique | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| systèmes logiciels futurs | CONCEPT | serviront | humains et agents autonomes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| interfaces SaaS | TECHNOLOGIE | se_transforment_en | services backend flexibles | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Computer System Engineers | CONCEPT | construisent | architectures backbone | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Solutions Engineers | CONCEPT | orchestrent | agents en langage naturel | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Citizen Developers | CONCEPT | accèdent_à | systèmes sophistiqués sans compétences IT | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| transition agentique | CONCEPT | est_surestimée_par | discours technologiques | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| impact legacy systems | CONCEPT | est_sous-estimé_par | organisations IT | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| langage naturel | CONCEPT | a_des_limites_comme | langage de spécification | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| abstraction logicielle | CONCEPT | augmente_mais_ne_supprime_pas | complexité intrinsèque | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Yves Caseau | PERSONNE | participe_à | Tech.Rocks Summit | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Yves Caseau | PERSONNE | rôle | Group Chief Digital & Information Officer | AJOUT |
+| Michelin | ORGANISATION | secteur | Industrie / Transformation numérique | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Développement assisté par orchestration agentique | AJOUT |
+| Computer System Engineers | CONCEPT | rôle futur | Construire les backbones en code assisté IA | AJOUT |
+| Solutions Engineers | CONCEPT | rôle futur | Programmer en langage naturel, orchestrer agents | AJOUT |
+| Citizen Developers | CONCEPT | rôle futur | Utilisateurs autonomes de systèmes infusés d'IA | AJOUT |
+| legacy systems | TECHNOLOGIE | caractéristique | Impact sous-estimé dans la transition agentique | AJOUT |
+| orchestration agentique | TECHNOLOGIE | statut | Vecteur principal de l'évolution du vibe coding | AJOUT |
+| Tech.Rocks Summit | EVENEMENT | date | 1er décembre 2025 | AJOUT |
+| langage naturel | CONCEPT | limite | Pas toujours optimal comme langage de spécification | AJOUT |

@@ -55,3 +55,34 @@ Soumis aux Google Cloud Platform Service Terms et Google Cloud Privacy Notice. D
 Le document adresse également "Usage Statistics", servant de contrôle unique pour toute data collection optionnelle dans Gemini CLI. Le scope des données collectées via ce paramètre **varie selon type de compte**. Pour individual Code Assist users et unpaid Developer API users, activer Usage Statistics **permet collection de telemetry anonyme PLUS prompts/answers/code** pour model improvement. Pour Standard/Enterprise Code Assist users et Vertex AI GenAI API users, ce paramètre contrôle **uniquement anonymous telemetry**, car leurs prompts et code ne sont jamais collectés. Paid Developer API users voient leurs prompts/responses **logged pour limited time** solely pour policy violation detection. **Tous les utilisateurs peuvent opt-out** de Usage Statistics collection.
 
 Cette structure documentaire met en évidence une stratégie de monétisation claire : les services gratuits financent leur coût opérationnel via data collection pour model improvement, tandis que les services payants et entreprise garantissent confidentialité complète comme value proposition premium.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | publie | Gemini CLI | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini CLI | TECHNOLOGIE | est_hébergé_sur | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini Code Assist for Individuals | TECHNOLOGIE | collecte | prompts et code utilisateurs | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Gemini Code Assist for Standard/Enterprise | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Gemini Developer API non payant | TECHNOLOGIE | collecte | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Gemini Developer API payant | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Vertex AI GenAI API | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| services IA gratuits | CONCEPT | financent_via | collecte de données pour entraînement | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| services IA payants | CONCEPT | garantissent | confidentialité des données | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| Usage Statistics | CONCEPT | permet | opt-out collecte données | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Google Cloud Platform | TECHNOLOGIE | applique | termes de confidentialité enterprise | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Google | ORGANISATION | secteur | IA et cloud computing | AJOUT |
+| Gemini CLI | TECHNOLOGIE | catégorie | Interface en ligne de commande IA | AJOUT |
+| Gemini Code Assist for Individuals | TECHNOLOGIE | politique | Collecte prompts/code pour entraînement modèles | AJOUT |
+| Gemini Code Assist for Standard/Enterprise | TECHNOLOGIE | politique | Confidentialité garantie, pas de collecte | AJOUT |
+| Gemini Developer API | TECHNOLOGIE | catégorie | API d'accès aux modèles Gemini | AJOUT |
+| Vertex AI GenAI API | TECHNOLOGIE | catégorie | API IA enterprise Google Cloud | AJOUT |
+| Usage Statistics | CONCEPT | définition | Contrôle unique opt-out de collecte de données | AJOUT |
+| Google Cloud Platform | TECHNOLOGIE | catégorie | Plateforme cloud enterprise Google | AJOUT |

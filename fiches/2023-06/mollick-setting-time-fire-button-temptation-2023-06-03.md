@@ -70,3 +70,42 @@ Mollick voit potentiellement un outcome empowering : libération du busy-work et
 **Urgence**
 
 Cette transformation ne nécessite aucune IA plus avancée que celle existant en juin 2023. C'est déjà en cours dans l'éducation (essays AI-generated). Sans réflexion proactive maintenant, multiples crises de sens frapperont diverses professions alors que The Button se généralise.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | publie | Setting time on fire and the temptation of The Button | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | intègre | Help me write | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Help me write | TECHNOLOGIE | utilise | Bard | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Microsoft Office | TECHNOLOGIE | intègre | GPT-4 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| GPT-4 | TECHNOLOGIE | génère | lettre de recommandation | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| The Button | CONCEPT | provoque | crise de sens | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| setting time on fire | CONCEPT | représente | signal d'effort | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| IA générative | TECHNOLOGIE | remplace | signal d'effort écrit | CONCEPT | 0.94 | DYNAMIQUE | inféré |
+| Noy and Zhang | ORGANISATION | publie | recherche satisfaction travail IA | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
+| utilisation IA au travail | METHODOLOGIE | augmente | satisfaction au travail | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| mere ceremony | CONCEPT | est_basé_sur | tâches organisationnelles sans utilité | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA générative | TECHNOLOGIE | transforme | documents comme signaux | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | prédit | crise de sens au travail | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Adobe Photoshop | TECHNOLOGIE | intègre | IA générative | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| leaders organisationnels | CONCEPT | doivent_redesigner | travail pour monde IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | affiliation | Wharton / One Useful Thing Substack | AJOUT |
+| Help me write | TECHNOLOGIE | catégorie | Bouton IA intégré à Google Docs | AJOUT |
+| Bard | TECHNOLOGIE | éditeur | Google | AJOUT |
+| GPT-4 | TECHNOLOGIE | éditeur | OpenAI | AJOUT |
+| Microsoft Office | TECHNOLOGIE | catégorie | Suite bureautique | AJOUT |
+| Adobe Photoshop | TECHNOLOGIE | catégorie | Outil de retouche photo | AJOUT |
+| The Button | CONCEPT | catégorie | Métaphore d'accès trivial à l'IA générative | AJOUT |
+| setting time on fire | CONCEPT | catégorie | Signalement d'effort par le temps consacré | AJOUT |
+| mere ceremony | CONCEPT | catégorie | Tâche organisationnelle sans utilité réelle | AJOUT |
+| crise de sens | CONCEPT | catégorie | Perte de sens du travail face à l'IA | AJOUT |
+| Noy and Zhang | ORGANISATION | catégorie | Chercheurs en économie du travail et IA | AJOUT |
+| lettre de recommandation | CONCEPT | catégorie | Document signal d'effort et de soutien | AJOUT |

@@ -79,3 +79,31 @@ Interesting dynamic : **experienced engineers** (learning pre-AI) often emphasiz
 Beck frames issue as **professional ethics** : engineers have responsibility à employers, users, colleagues deliver reliable software. **"Vibes" insufficient basis** pour professional work affecting others. Not about personal preference - about **maintaining professional standards** ensuring software safety, reliability, maintainability. Cette framing elevates discussion beyond tooling choices à professional identity.
 
 Beck's intervention valuable reminder : **AI changes how we code mais not whether quality matters**. Tools evolve; engineering discipline remains essential.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Kent Beck | PERSONNE | a_créé | Test-Driven Development | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | a_signé | Agile Manifesto | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | critique | Vibe Coding | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | affirme_que | TDD reste pertinent à l'ère de l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Vibe Coding | METHODOLOGIE | s_oppose_à | validation systématique | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | amplifie | dettes techniques sans tests | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Test-Driven Development | METHODOLOGIE | complète | développement assisté par IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Kent Beck | PERSONNE | recommande | approches hybrides | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Vibe Coding | METHODOLOGIE | convient_à | prototypage expérimental | CONCEPT | 0.82 | ATEMPOREL | inféré |
+| discipline logicielle | CONCEPT | réduit | accumulation de dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kent Beck | PERSONNE | rôle | Créateur TDD, signataire Agile Manifesto | AJOUT |
+| Test-Driven Development | METHODOLOGIE | abréviation | TDD | AJOUT |
+| Vibe Coding | METHODOLOGIE | définition | Codage par intuition sans validation systématique | AJOUT |
+| Agile Manifesto | DOCUMENT | type | Manifeste fondateur du mouvement Agile | AJOUT |
+| dette technique | CONCEPT | risque | Amplifié par IA sans discipline de test | AJOUT |
+| approches hybrides | METHODOLOGIE | description | Combinaison efficacité IA et rigueur de vérification | AJOUT |

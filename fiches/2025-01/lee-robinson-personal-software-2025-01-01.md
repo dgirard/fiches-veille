@@ -33,3 +33,29 @@ Robinson (Vercel VP Product) adopte tech visionary voice combinant product exper
 L'article "Personal Software" de Lee Robinson explore la transition des logiciels génériques et universels ("one-size-fits-all") vers une nouvelle ère d'applications personnalisées pilotées par l'IA. Historiquement, les logiciels grand public obligeaient les utilisateurs à naviguer dans une complexité de fonctionnalités souvent superflues pour des tâches simples. Robinson soutient que l'IA démocratise la création logicielle, permettant désormais à des non-développeurs de concevoir des applications "faites maison" : des outils sur mesure, à usage unique, parfaitement adaptés à leurs besoins spécifiques.
 
 Cette tendance donne le pouvoir à divers professionnels (designers, marketeurs, chefs de produit) de bâtir leurs propres solutions sans nécessiter de compétences avancées en programmation. Loin de menacer les développeurs professionnels, l'émergence du logiciel personnel devrait, selon Robinson, rehausser l'appréciation pour les logiciels de haute qualité et bien conçus. En initiant plus de monde à la création logicielle, elle favorisera une vague d'innovation et une meilleure compréhension de la valeur du métier. L'article dessine un avenir où le logiciel devient plus accessible, personnel et intégré aux workflows individuels, s'affranchissant des structures rigides des applications traditionnelles.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lee Robinson | PERSONNE | publie | Personal Software | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | transforme | création logicielle | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| personal software | CONCEPT | remplace | logiciel taille unique | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| personal software | CONCEPT | est_basé_sur | IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Lee Robinson | PERSONNE | affirme_que | non-développeurs pourront créer des logiciels | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| personal software | CONCEPT | améliore | expérience utilisateur individuelle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| création logicielle accessible | CONCEPT | augmente | valeur du développement professionnel | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| personal software | CONCEPT | favorise | innovation | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Lee Robinson | PERSONNE | travaille_chez | Vercel | ORGANISATION | 0.90 | DYNAMIQUE | généré_assistant |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lee Robinson | PERSONNE | rôle | VP Product, Vercel | AJOUT |
+| personal software | CONCEPT | définition | Application à usage unique créée par et pour une personne, adaptée à ses besoins précis | AJOUT |
+| logiciel taille unique | CONCEPT | statut | Modèle dominant historique, en déclin avec l'IA | AJOUT |
+| IA | TECHNOLOGIE | impact | Démocratise la création logicielle pour les non-développeurs | AJOUT |
+| Vercel | ORGANISATION | secteur | Infrastructure web / Développement frontend | AJOUT |

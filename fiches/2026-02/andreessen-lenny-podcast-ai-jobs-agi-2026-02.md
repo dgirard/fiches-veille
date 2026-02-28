@@ -49,3 +49,38 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage dans ce podcast ave
 **Définitions de l'AGI** : Andreessen propose trois réponses à cette question fondamentale. Premièrement, une IA capable de produire une recherche équivalente à une thèse de doctorat. Deuxièmement, le point où l'IA peut prendre le contrôle de son propre développement et s'améliorer elle-même. Troisièmement, plus pragmatiquement, nous le saurons simplement quand nous l'aurons atteint.
 
 **Optimisme déterminé** : Andreessen se définit comme un "optimiste déterminé" plutôt qu'indéterminé. Il croit en un avenir meilleur, mais pense qu'il faut activement travailler pour le créer. Le progrès ne nous arrive pas passivement - il doit être construit, décidé, forcé. Cette philosophie imprègne sa vision de l'IA comme outil à façonner plutôt que comme force à subir.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Marc Andreessen | PERSONNE | affirme_que | la force de travail mondiale rétrécit indéfiniment | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'IA arrive au bon moment face au déclin démographique | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | réalise | pierre philosophale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | transmute | sable en pensée | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'absence d'IA à l'école est un scandale | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | augmente | agence des enfants | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Mexican standoff | CONCEPT | bloque | développement produit | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | définit | AGI | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| AGI | CONCEPT | requiert | capacité auto-amélioration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | se_définit_comme | optimiste déterminé | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| optimisme déterminé | CONCEPT | s_oppose_à | optimisme indéterminé | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Lenny Rachitsky | PERSONNE | interviewe | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | est_cofondé_par | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | généré_assistant |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Marc Andreessen | PERSONNE | rôle | Co-fondateur Andreessen Horowitz, investisseur tech | AJOUT |
+| Lenny Rachitsky | PERSONNE | rôle | Animateur du podcast Lenny's Podcast | AJOUT |
+| Andreessen Horowitz | ORGANISATION | secteur | Capital-risque / technologie | AJOUT |
+| IA | TECHNOLOGIE | métaphore | Pierre philosophale — transmutation du sable en pensée | AJOUT |
+| agents IA | TECHNOLOGIE | usage | Outil éducatif pour enfants | AJOUT |
+| AGI | CONCEPT | définition | Système capable de recherche PhD ou d'auto-amélioration | AJOUT |
+| Mexican standoff | CONCEPT | domaine | Gestion de produit — impasse PM/ingénieur/designer | AJOUT |
+| optimisme déterminé | CONCEPT | opposé | Optimisme indéterminé (avenir passif) | AJOUT |
+| pierre philosophale | CONCEPT | origine | Rêve alchimiste — transmutation de matériaux ordinaires | AJOUT |
+| déclin démographique | CONCEPT | portée | Mondial, permanent selon Andreessen | AJOUT |

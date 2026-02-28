@@ -50,3 +50,38 @@ L'entreprise décrit l'intelligence artificielle comme "le plus grand changement
 Une enquête citée dans l'annonce révèle que 64% des acheteurs sont susceptibles d'utiliser l'IA lors de leurs achats, validant la stratégie d'investissement massif de Shopify dans ce domaine. Cette adoption rapide par les consommateurs justifie l'urgence avec laquelle Shopify et ses concurrents développent des capacités IA.
 
 La stratégie de Shopify vise à positionner favorablement ses marchands alors que le commerce agentique évolue à travers différentes plateformes IA et cas d'usage. En s'intégrant précocement et largement avec les principaux acteurs de l'IA conversationnelle, Shopify cherche à devenir l'infrastructure de commerce incontournable de l'ère de l'IA générative, répétant le succès de sa plateforme dans l'ère du e-commerce traditionnel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Shopify | ORGANISATION | rapporte_croissance | trafic IA 7x depuis janvier 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | rapporte_croissance | commandes via IA 11x depuis janvier 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | collabore_avec | Perplexity | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | collabore_avec | Microsoft | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_développé | Scout | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | analyse | feedback merchants | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Harley Finkelstein | PERSONNE | affirme_que | données millions marchands sont avantage compétitif | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Shopify | ORGANISATION | génère_revenu | 2,84 milliards USD Q3 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | prédit | commerce agentique comme avenir du e-commerce | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| ChatGPT | TECHNOLOGIE | génère | trafic vers boutiques Shopify | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| commerce agentique | CONCEPT | transforme | parcours d'achat consommateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | affirme_que | IA est plus grand changement depuis Internet | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Shopify | ORGANISATION | secteur | E-commerce / Plateforme marchands | AJOUT |
+| Shopify | ORGANISATION | revenu Q3 2025 | 2,84 milliards USD (+32% annuel) | AJOUT |
+| Shopify | ORGANISATION | profit opérationnel Q3 2025 | 264 millions USD | AJOUT |
+| Harley Finkelstein | PERSONNE | rôle | Président de Shopify | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA générative | AJOUT |
+| Perplexity | ORGANISATION | secteur | Recherche IA conversationnelle | AJOUT |
+| Microsoft | ORGANISATION | produit partenaire | Copilot | AJOUT |
+| Scout | TECHNOLOGIE | usage | Analyse feedback merchants pour décisions produit | AJOUT |
+| commerce agentique | CONCEPT | définition | Agents IA agissant au nom des consommateurs pour achats | AJOUT |
+| ChatGPT | TECHNOLOGIE | catégorie | Assistant IA conversationnel | AJOUT |

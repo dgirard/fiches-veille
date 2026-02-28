@@ -75,3 +75,46 @@ Le **caveat le plus critique** : mur invisible de capacités IA - tâches où IA
 **Démocratisation et Équité**
 
 Résultats recherche suggèrent IA comme **grand équalisateur** : underperformers améliorent dramatiquement, top performers moins. Cette dynamique pose questions profondes sur future du travail, compétition talent, et si gains IA bénéficieront équitablement ou exacerberont inégalités existantes.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | publie | An Opinionated Guide to Using AI Right Now | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | enseigne_à | Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | ChatGPT | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | Gemini | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | données d'usage ChatGPT | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | introduit_concept | jagged frontier | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | collabore_avec | Boston Consulting Group | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| étude BCG | EVENEMENT | implique | 758 consultants | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | améliore | underperformers (+43%) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| jagged frontier | CONCEPT | définit | limites invisibles des capacités IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| modèle Cyborg | METHODOLOGIE | s_oppose_à | modèle Centaur | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
+| Claude | TECHNOLOGIE | manque | génération d'images et vidéos | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Deep Research | TECHNOLOGIE | améliore | qualité des réponses IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| sycophancy | CONCEPT | représente | risque d'adoption IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur associé, Wharton School | AJOUT |
+| Ethan Mollick | PERSONNE | distinction | TIME 100 Most Influential People in AI 2024 | AJOUT |
+| Ethan Mollick | PERSONNE | indépendance | N'accepte aucun financement des entreprises IA | AJOUT |
+| Wharton School | ORGANISATION | type | École de commerce, University of Pennsylvania | AJOUT |
+| Boston Consulting Group | ORGANISATION | secteur | Conseil en stratégie | AJOUT |
+| OpenAI | ORGANISATION | produit | ChatGPT | AJOUT |
+| Anthropic | ORGANISATION | produit | Claude | AJOUT |
+| Google | ORGANISATION | produit | Gemini | AJOUT |
+| Claude | TECHNOLOGIE | limitation | Pas de génération d'images ou vidéos | AJOUT |
+| ChatGPT | TECHNOLOGIE | catégorie | Modèle de langage conversationnel | AJOUT |
+| Gemini | TECHNOLOGIE | catégorie | Modèle de langage multimodal | AJOUT |
+| jagged frontier | CONCEPT | définition | Frontière imprévisible des capacités IA | AJOUT |
+| Deep Research | TECHNOLOGIE | fonctionnement | Recherche web extensive de 10-15 minutes | AJOUT |
+| modèle Centaur | METHODOLOGIE | description | Division stratégique du travail humain/IA | AJOUT |
+| modèle Cyborg | METHODOLOGIE | description | Intégration profonde de l'IA dans le workflow | AJOUT |
+| sycophancy | CONCEPT | risque | Biais d'acquiescement des modèles IA | AJOUT |

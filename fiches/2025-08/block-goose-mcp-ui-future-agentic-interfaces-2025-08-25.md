@@ -78,3 +78,38 @@ Block commitment sharing : **Core Goose framework** (open sourced components), *
 Article concludes avec forward-looking perspective : agents becoming **invisible infrastructure** rather than explicit tools, interfaces adapting dynamically based on agent capabilities available, **agent marketplace** où teams discover/deploy specialized agents, **agent composition** allowing non-technical users chain agents, **continuous learning** agents improving depuis usage patterns. Vision represents **agent-native computing paradigm** versus current AI-bolted-onto-traditional-UX.
 
 Block's transparency provides **invaluable roadmap** for organizations building enterprise AI agent platforms.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ebony Louis | PERSONNE | a_rédigé | article MCP-UI agentic interfaces | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Ido Salomon | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Ido Salomon | PERSONNE | travaille_chez | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | travaille_chez | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Andrew Harvard | PERSONNE | travaille_chez | Block | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | utilise | iframes sandboxées | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | remplace | interfaces textuelles des agents IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Goose | TECHNOLOGIE | supporte | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_adopté | MCP | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | préserve | expérience de marque des entreprises | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| MCP-UI | TECHNOLOGIE | permet | interfaces UI génératives personnalisées | CONCEPT | 0.85 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| MCP-UI | TECHNOLOGIE | catégorie | Protocole et SDK d'interface utilisateur pour agents IA | AJOUT |
+| Goose | TECHNOLOGIE | éditeur | Block, Inc. | AJOUT |
+| Block | ORGANISATION | secteur | Fintech / Outillage développeur IA | AJOUT |
+| Monday.com | ORGANISATION | secteur | SaaS / Productivité | AJOUT |
+| Ebony Louis | PERSONNE | rôle | Developer Advocate chez Block | AJOUT |
+| Ido Salomon | PERSONNE | rôle | Créateur MCP-UI / Monday.com | AJOUT |
+| Liad Yosef | PERSONNE | rôle | Créateur MCP-UI / Monday.com | AJOUT |
+| Andrew Harvard | PERSONNE | rôle | Contributeur MCP-UI / Block | AJOUT |
+| Shopify | ORGANISATION | secteur | E-commerce | AJOUT |
+| iframes sandboxées | CONCEPT | rôle | Mécanisme d'isolation sécurisée des composants UI | AJOUT |

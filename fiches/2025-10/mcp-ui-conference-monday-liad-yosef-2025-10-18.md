@@ -72,3 +72,41 @@ Vision transformative : aujourd'hui on ouvre 10 tabs différentes (Amazon, Calen
 **Challenges Roadmap**
 
 Trois défis majeurs : **(1) Auth/SSO** - actuellement état baked in context/UI ou auth in-UI, besoin SSO seamless ; **(2) Clients natifs** - ChatGPT/Claude vont natif, beaucoup ne supportent pas iframes/webviews, exploration **abstract payload** convertible HTML ou native avec **capabilities negotiation** ; **(3) Standardisation adoption** - technologie ready, besoin momentum communautaire.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Liad Yosef | PERSONNE | co_modère | UI work group MCP | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | résout | perte d'identité visuelle des fournisseurs | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| MCP-UI | TECHNOLOGIE | utilise | sandboxed iframes | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | utilise | islands architecture | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | utilise | remote DOM | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | définit | spectrum de communication | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | adopte | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Hugging Face | ORGANISATION | adopte | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| remote DOM | TECHNOLOGIE | sépare | structure UI et rendering | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| MCP-UI | TECHNOLOGIE | vise | web fragmenté recomposé en atomes | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| capabilities negotiation | CONCEPT | permet | clients natifs non-webview | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Monday.com | ORGANISATION | publie | mcpui.dev | TECHNOLOGIE | 0.80 | STATIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Liad Yosef | PERSONNE | rôle | AI & MCP Lead - Monday.com | AJOUT |
+| MCP-UI | TECHNOLOGIE | catégorie | Protocole ouvert UI via MCP | AJOUT |
+| Monday.com | ORGANISATION | secteur | Gestion de projet / IA | AJOUT |
+| Shopify | ORGANISATION | statut adoption | Full deployment MCP-UI | AJOUT |
+| Hugging Face | ORGANISATION | statut adoption | Tous les spaces exposés MCP-UI | AJOUT |
+| Postman | ORGANISATION | statut adoption | Adoptant MCP-UI (host) | AJOUT |
+| 11 Labs | ORGANISATION | statut adoption | Adoptant MCP-UI (provider) | AJOUT |
+| sandboxed iframes | TECHNOLOGIE | rôle | Isolation sécurité UI | AJOUT |
+| remote DOM | TECHNOLOGIE | rôle | Séparation structure/rendering | AJOUT |
+| islands architecture | METHODOLOGIE | rôle | Composition d'îles UI dans un contexte unique | AJOUT |
+| spectrum de communication | CONCEPT | niveaux | notify, tool call, prompt, intent | AJOUT |
+| mcpui.dev | TECHNOLOGIE | catégorie | Site communautaire guides et exemples | AJOUT |
+| perte d'identité visuelle des fournisseurs | CONCEPT | domaine | Problème core que MCP-UI résout | AJOUT |

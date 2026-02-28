@@ -71,3 +71,36 @@ Linear provides **analytics without manual reporting** : cycle completion trends
 Linear's success demonstrates market appetite pour **AI-native tools** built around modern UX principles rather than legacy architecture avec AI bolted on. Product has **captured significant market share from Jira**, particularly among high-velocity startups et engineering-focused companies. Pricing model (per-seat) aligns avec usage whilst remaining cost-effective pour growing teams.
 
 Success signals broader trend : next generation de enterprise tools will be **AI-first depuis inception**, using intelligence layer pour eliminate manual overhead whilst maintaining human agency in decision-making.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Linear | TECHNOLOGIE | est_un | outil de gestion de projet AI-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | concurrence | Jira | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | intègre | Cursor | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | intègre | GitHub Copilot | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | intègre | Devin | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | intègre | Sentry | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | propose | Linear MCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Linear MCP | TECHNOLOGIE | connecte | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear MCP | TECHNOLOGIE | connecte | ChatGPT | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | intègre | Figma | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | a_capturé | parts de marché de Jira | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| outils AI-native | CONCEPT | remplacent | outils legacy avec IA ajoutée | CONCEPT | 0.88 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Linear | TECHNOLOGIE | catégorie | Outil de gestion de projet AI-first | AJOUT |
+| Jira | TECHNOLOGIE | catégorie | Outil de gestion de projet traditionnel | AJOUT |
+| Linear MCP | TECHNOLOGIE | catégorie | Protocole de connexion aux outils IA | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | Agent IA de développement | AJOUT |
+| GitHub Copilot | TECHNOLOGIE | catégorie | Agent IA de développement | AJOUT |
+| Devin | TECHNOLOGIE | catégorie | Agent IA de développement | AJOUT |
+| Sentry | TECHNOLOGIE | catégorie | Outil de monitoring et reporting d'erreurs | AJOUT |
+| Figma | TECHNOLOGIE | catégorie | Outil de design collaboratif | AJOUT |
+| Linear Sync Engine | TECHNOLOGIE | attribut | Architecture haute performance temps réel | AJOUT |

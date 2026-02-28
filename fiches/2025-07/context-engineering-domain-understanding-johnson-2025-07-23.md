@@ -52,3 +52,35 @@ Further advantages incluent accelerated delivery et improved quality through reu
 **Positionnement Stratégique**
 
 Johnson conclut que domain integration est paramount pour unlocking full business value de Generative AI, positioning existing business applications comme key adjacency pour Gen AI, plutôt que solely data science ou LLMs themselves. **L'argument central** : domain model structure transforme LLM capabilities de powerful-but-chaotic vers controlled-and-reliable, essential pour enterprise adoption. En conceptualizing domain objects comme behavior-defining entities exposable comme tools, DICE bridges conceptual gap entre LLM potential et enterprise reality, offrant framework pour systematic, reliable, et valuable Gen AI integration dans business workflows existants. Cette perspective pragmatique reconnaît que **Gen AI value réside not dans isolation**, mais dans harmonious integration avec proven systems où domain knowledge réside.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Rod Johnson | PERSONNE | a_créé | DICE | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Rod Johnson | PERSONNE | a_créé | Spring | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Rod Johnson | PERSONNE | a_fondé | Embabel | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| DICE | CONCEPT | est_basé_sur | context engineering | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| DICE | CONCEPT | améliore | context engineering | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| context engineering | CONCEPT | améliore | prompt engineering | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Andrej Karpathy | PERSONNE | a_défini | context engineering | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| DICE | CONCEPT | utilise | modèle de domaine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| modèle de domaine | CONCEPT | améliore | intégration systèmes existants | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Embabel | ORGANISATION | démontre | approche DICE | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | s_oppose_à | DICE | CONCEPT | 0.75 | ATEMPOREL | inféré |
+| Martin Fowler | PERSONNE | a_conceptualisé | bounded contexts | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| bounded contexts | CONCEPT | fait_partie_de | modèle de domaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Rod Johnson | PERSONNE | rôle | Créateur Spring Framework, Fondateur Embabel | AJOUT |
+| DICE | CONCEPT | définition | Domain-Integrated Context Engineering — extension du context engineering intégrant un modèle de domaine pour structurer inputs et outputs LLM | AJOUT |
+| context engineering | CONCEPT | définition | Art et science de remplir la fenêtre de contexte LLM avec les bonnes informations (définition Karpathy) | AJOUT |
+| Embabel | ORGANISATION | secteur | Plateforme IA agentic basée sur JVM, démontre l'approche DICE | AJOUT |
+| modèle de domaine | CONCEPT | rôle | Structure les objets métier avec comportements exposables comme outils aux LLMs | AJOUT |
+| bounded contexts | CONCEPT | origine | Concept de Martin Fowler appliqué à la structuration des contextes LLM | AJOUT |
+| MCP | TECHNOLOGIE | limite | Interactions semi-typées perdant de la fidélité par rapport aux domain objects | AJOUT |

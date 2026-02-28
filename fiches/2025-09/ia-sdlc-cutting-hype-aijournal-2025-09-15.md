@@ -45,3 +45,38 @@ De plus, les modèles d'IA, souvent entraînés sur des bases de code open-sourc
 Pour assurer la qualité, des stratégies de test robustes sont nécessaires, y compris des tests unitaires obligatoires indépendants du processus de génération de code. Les revues de code rigoureuses sont non négociables, et des outils spécialisés sont nécessaires pour identifier et trier les bugs complexes, les vulnérabilités de sécurité et les problèmes de licence des bibliothèques tierces.
 
 En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, mais ne remplace pas le jugement et la responsabilité humaine. Il est essentiel de séparer la génération de code de son assurance qualité en utilisant différents outils d'IA pour éviter les biais.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Edgar Kussberg | PERSONNE | a_publié | AI in the SDLC: Cutting Through the Hype | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Edgar Kussberg | PERSONNE | travaille_pour | Sonar | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | transforme | SDLC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| adoption IA | CONCEPT | corrèle_avec | diminution stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| rapport DORA 2024 | EVENEMENT | affirme_que | augmentation 25% adoption IA corrèle avec baisse 7,2% stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| assistants IA | TECHNOLOGIE | augmente | introduction vulnérabilités sécurité | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Stanford University | ORGANISATION | a_publié | étude sur assistants IA et vulnérabilités sécurité | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| dépendance excessive IA | CONCEPT | provoque | dégradation compétences développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| code inutilisé | CONCEPT | crée | vulnérabilités sécurité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| revue de code rigoureuse | METHODOLOGIE | réduit | dette technique | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| génération de code IA | CONCEPT | doit_être_séparé_de | assurance qualité IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| modèles IA | TECHNOLOGIE | sont_entraînés_sur | bases de code open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| modèles IA | TECHNOLOGIE | perpétuent | biais et vulnérabilités | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| tests unitaires obligatoires | METHODOLOGIE | améliore | qualité code IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Edgar Kussberg | PERSONNE | rôle | Group Product Manager, Sonar | AJOUT |
+| Sonar | ORGANISATION | secteur | Qualité et sécurité code | AJOUT |
+| The AI Journal | ORGANISATION | type | Publication spécialisée IA | AJOUT |
+| SDLC | CONCEPT | définition | Software Development Lifecycle | AJOUT |
+| rapport DORA 2024 | EVENEMENT | date | 2024 | AJOUT |
+| Stanford University | ORGANISATION | secteur | Recherche académique | AJOUT |
+| dette technique | CONCEPT | description | Accumulation de code de faible qualité sur le long terme | AJOUT |
+| revue de code rigoureuse | METHODOLOGIE | objectif | Garantir qualité et sécurité du code généré par IA | AJOUT |
+| tests unitaires obligatoires | METHODOLOGIE | contrainte | Indépendants du processus de génération de code | AJOUT |
+| génération de code IA | CONCEPT | risque | Introduction de vulnérabilités et dégradation des compétences | AJOUT |

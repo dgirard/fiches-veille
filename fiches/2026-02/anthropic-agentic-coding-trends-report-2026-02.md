@@ -40,3 +40,45 @@ Côté capacités, quatre tendances se dégagent. Les systèmes mono-agent évol
 Les impacts organisationnels sont considérables. La productivité ne se traduit pas seulement par de la vitesse mais par un volume de production accru (Tendance 6) : 27% du travail assisté par IA concerne des tâches qui n'auraient jamais été entreprises autrement. TELUS a économisé plus de 500 000 heures. Les cas d'usage non-techniques explosent (Tendance 7) : chez Anthropic même, l'équipe juridique a réduit les délais de revue marketing de 2-3 jours à 24 heures, et Zapier affiche 89% d'adoption IA avec 800+ agents internes. La sécurité présente un double tranchant (Tendance 8) : les mêmes capacités bénéficient défenseurs et attaquants.
 
 Le rapport insiste sur un paradoxe central : bien que les développeurs utilisent l'IA dans 60% de leur travail, ils ne délèguent entièrement que 0-20% des tâches. L'IA est un collaborateur constant exigeant supervision active et validation humaine. Les quatre priorités pour 2026 sont la coordination multi-agents, la mise à l'échelle de la supervision, l'extension au-delà de l'ingénierie et l'architecture security-first.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | publie | 2026 Agentic Coding Trends Report | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | prédit | transformation rôle ingénieur | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilisé_par | Rakuten | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Rakuten | ORGANISATION | a_réalisé | implémentation vLLM en 7 heures | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Fountain | ORGANISATION | utilise | orchestration multi-agents | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Fountain | ORGANISATION | a_obtenu | 50% screening plus rapide | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| TELUS | ORGANISATION | a_économisé | 500 000 heures grâce à l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Zapier | ORGANISATION | a_déployé | 800+ agents internes | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Augment Code | TECHNOLOGIE | est_basé_sur | Claude | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Augment Code | TECHNOLOGIE | a_réduit | délai projet de 4-8 mois à 2 semaines | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| codage agentique | CONCEPT | transforme | cycle de développement logiciel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | remplace | tâches d'implémentation code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| ingénieur logiciel | CONCEPT | évolue_vers | rôle d'orchestrateur | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| architecture security-first | METHODOLOGIE | recommandée_par | Anthropic | ORGANISATION | 0.92 | ATEMPOREL | déclaré_article |
+| Legora | ORGANISATION | utilise | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety / Modèles de langage | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| 2026 Agentic Coding Trends Report | EVENEMENT | date | Février 2026 | AJOUT |
+| Rakuten | ORGANISATION | secteur | Commerce en ligne / Technologie | AJOUT |
+| Fountain | ORGANISATION | secteur | Gestion RH / Personnel de terrain | AJOUT |
+| TELUS | ORGANISATION | secteur | Télécommunications | AJOUT |
+| Zapier | ORGANISATION | secteur | Automatisation / Orchestration IA | AJOUT |
+| Augment Code | TECHNOLOGIE | catégorie | Outil de développement IA | AJOUT |
+| Legora | ORGANISATION | secteur | Technologie juridique | AJOUT |
+| CRED | ORGANISATION | secteur | Fintech / Inde (15M utilisateurs) | AJOUT |
+| codage agentique | CONCEPT | définition | Développement logiciel piloté par agents IA autonomes | AJOUT |
+| paradoxe collaboratif | CONCEPT | valeur | IA utilisée dans 60% du travail mais déléguée à 0-20% | AJOUT |
+| orchestration multi-agents | METHODOLOGIE | bénéfice | Parallélisme, spécialisation, coordination | AJOUT |
+| architecture security-first | METHODOLOGIE | priorité | Intégration sécurité dès la conception agentique | AJOUT |
+| surge staffing | CONCEPT | définition | Déploiement dynamique d'ingénieurs sur demande grâce à l'IA | AJOUT |

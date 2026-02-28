@@ -39,3 +39,41 @@ L'auteur souligne que cette externalisation cognitive n'est pas neutre : elle mo
 Le texte interroge également la dimension politique de ces technologies. Les entreprises technologiques exercent un pouvoir considérable sur les processus cognitifs collectifs, concentrant entre quelques mains la capacité d'orienter la pensée de millions d'utilisateurs. Cette centralisation rappelle le danger identifié par les critiques médiévaux du monopsychisme : si l'intellect n'est pas proprement individuel, qu'advient-il de la responsabilité morale et de l'agentivité personnelle ?
 
 En conclusion, David Perrin appelle à une vigilance critique face aux technologies numériques. Il invite à maintenir l'autonomie intellectuelle individuelle tout en reconnaissant le potentiel des outils technologiques. La leçon des débats médiévaux reste pertinente : préserver la capacité humaine à penser par soi-même est un enjeu philosophique, éthique et politique fondamental, peut-être encore plus crucial à l'ère de l'IA qu'au temps d'Averroès et Thomas d'Aquin.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| David Perrin | PERSONNE | a_publié | L'Intelligence Artificielle et le monopsychisme | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| David Perrin | PERSONNE | établit_parallèle_entre | monopsychisme averroïste et IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Averroès | PERSONNE | a_défendu | monopsychisme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| monopsychisme | CONCEPT | postule | intellect universel unique séparé | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Thomas d'Aquin | PERSONNE | s_oppose_à | averroïsme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Thomas d'Aquin | PERSONNE | affirme_que | l'homme est sujet et agent de sa propre pensée | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Michel Serres | PERSONNE | décrit | externalisation cognitive via technologies numériques | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| intelligence artificielle | TECHNOLOGIE | exploite | données cognitives des utilisateurs | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| entreprises technologiques | ORGANISATION | exercent | pouvoir sur les processus cognitifs collectifs | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| connexion numérique | CONCEPT | est_analogue_à | continuatio averroïste | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| externalisation cognitive | CONCEPT | menace | autonomie intellectuelle individuelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | est_interrogé_sur | parallèle averroïsme et IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Université de Paris | ORGANISATION | a_condamné | averroïsme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Georges Bernanos | PERSONNE | prédit | double asservissement par les machines | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Revue thomiste | ORGANISATION | publie | article de David Perrin | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| David Perrin | PERSONNE | rôle | Dominicain, auteur à la Revue thomiste | AJOUT |
+| Averroès | PERSONNE | époque | Philosophe arabe médiéval (XIIe siècle) | AJOUT |
+| Thomas d'Aquin | PERSONNE | époque | Théologien scolastique (XIIIe siècle) | AJOUT |
+| Michel Serres | PERSONNE | dates | 1930-2019, philosophe français | AJOUT |
+| Georges Bernanos | PERSONNE | domaine | Écrivain français, critique de la technique | AJOUT |
+| ChatGPT | TECHNOLOGIE | catégorie | Modèle de langage, outil d'IA générative | AJOUT |
+| monopsychisme | CONCEPT | définition | Thèse d'un intellect universel unique partagé par tous les humains | AJOUT |
+| intellect séparé | CONCEPT | origine | Concept averroïste, intellect agent et intellect possible | AJOUT |
+| externalisation cognitive | CONCEPT | domaine | Noétique, philosophie de la technique | AJOUT |
+| autonomie intellectuelle | CONCEPT | enjeu | Condition de la dignité humaine et de la responsabilité morale | AJOUT |
+| Université de Paris | ORGANISATION | acte | Condamnation de l'averroïsme en 1270 et 1277 | AJOUT |
+| Revue thomiste | ORGANISATION | type | Revue académique philosophique et théologique | AJOUT |

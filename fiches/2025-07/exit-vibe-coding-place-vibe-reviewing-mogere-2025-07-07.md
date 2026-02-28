@@ -62,3 +62,35 @@ Cette méthodologie représente transformation dans how code quality est assesse
 **Pragmatic AI Integration**
 
 Ultimate message est pragmatic : AI powerful pour accelerate certain aspects de development et review, mais requires thoughtful integration, human oversight, et systematic methodology pour deliver real value. **"Vibe Reviewing" positioning comme professional counterpart** à more casual "Vibe Coding" reflects growing maturity dans how organizations approach AI-assisted development workflows.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Alexandre Mogère | PERSONNE | travaille_pour | Carrefour France | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Alexandre Mogère | PERSONNE | a_créé | Vibe Reviewing | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Vibe Reviewing | METHODOLOGIE | s_oppose_à | Vibe Coding | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Vibe Reviewing | METHODOLOGIE | utilise | cross-validation multi-agents | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Alexandre Mogère | PERSONNE | affirme_que | agents IA réduisent temps audit par 3 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | génère | hallucinations techniques | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| cross-validation multi-agents | METHODOLOGIE | réduit | hallucinations techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| VitePress | TECHNOLOGIE | transforme | rapports markdown en documentation interactive | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Vibe Reviewing | METHODOLOGIE | nécessite | expertise technique humaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| rapport d'audit | CONCEPT | évolue_vers | roadmap de migration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Agent2Agent | TECHNOLOGIE | améliore | cross-validation multi-agents | METHODOLOGIE | 0.75 | DYNAMIQUE | déclaré_article |
+| Software Factory | ORGANISATION | fait_partie_de | Carrefour France | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Alexandre Mogère | PERSONNE | rôle | Chapter Lead, Software Factory Carrefour France | AJOUT |
+| Vibe Reviewing | METHODOLOGIE | définition | Audit de code assisté par agents IA avec validation humaine rigoureuse | AJOUT |
+| Vibe Coding | CONCEPT | critique | App générée par IA sans contrôle humain rigoureux non viable en production | AJOUT |
+| Carrefour France | ORGANISATION | secteur | Grande distribution / Software Factory | AJOUT |
+| VitePress | TECHNOLOGIE | usage | Générateur de site statique pour documentation d'audit interactive | AJOUT |
+| cross-validation multi-agents | METHODOLOGIE | objectif | Détecter incohérences et hallucinations entre agents IA | AJOUT |
+| hallucinations techniques | CONCEPT | exemple | CVE-9999 inexistante générée par agent lors de validation croisée | AJOUT |
+| Agent2Agent | TECHNOLOGIE | statut | Protocole potentiellement exploitable pour dialogue inter-agents | AJOUT |

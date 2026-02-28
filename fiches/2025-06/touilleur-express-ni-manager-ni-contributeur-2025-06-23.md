@@ -60,3 +60,38 @@ Article conclut en urging developers reflect sur motivations et aspirations pour
 **Autonomie Redéfinie**
 
 Emphasizes que true **technical autonomy now involves understanding *when*, *what*, et *why* to code**, avec human element d'organizational et human architecture remaining paramount. Dans cette new paradigm, développeurs ne sont plus solely defined par their management track ou individual contribution, mais par how they choose navigate et shape AI-augmented development landscape.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Nicolas Martignole | PERSONNE | publie_sur | Le Touilleur Express | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | transforme | career paths des développeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| AI Orchestrator | CONCEPT | remplace | management technique traditionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Augmented Craftsman | CONCEPT | remplace | individual contributor traditionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AI Orchestrator | CONCEPT | utilise | prompt engineering | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Augmented Craftsman | CONCEPT | utilise | Cursor | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| Augmented Craftsman | CONCEPT | utilise | Windsurf | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| charge cognitive de validation | CONCEPT | s_ajoute_à | charge cognitive existante | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Code Philosopher | CONCEPT | protège | intégrité architecturale | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | s_oppose_à | exigences enterprise | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Kent Beck | PERSONNE | a_créé | TDD | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | publie | Augmented Coding: Beyond the Vibes | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
+| autonomie technique | CONCEPT | signifie | comprendre quand, quoi et pourquoi coder | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Nicolas Martignole | PERSONNE | rôle | Auteur / Blogger tech francophone | AJOUT |
+| Le Touilleur Express | ORGANISATION | catégorie | Blog tech francophone | AJOUT |
+| AI Orchestrator | CONCEPT | description | Rôle émergent : manage une armée d'IA au lieu d'humains | AJOUT |
+| Augmented Craftsman | CONCEPT | description | Développeur augmenté par IA, reste dans le code | AJOUT |
+| Code Philosopher | CONCEPT | description | Troisième voie : questionne le pourquoi, protège l'architecture | AJOUT |
+| charge cognitive de validation | CONCEPT | description | Charge mentale liée à la vérification du code généré par IA | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | IDE IA de codage assisté | AJOUT |
+| Windsurf | TECHNOLOGIE | catégorie | IDE IA de codage assisté | AJOUT |
+| Kent Beck | PERSONNE | rôle | Créateur de TDD, auteur Augmented Coding | AJOUT |
+| vibe coding | METHODOLOGIE | description | Approche de codage par itération rapide avec IA, inadaptée en enterprise | AJOUT |

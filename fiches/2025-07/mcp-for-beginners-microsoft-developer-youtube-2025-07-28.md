@@ -56,3 +56,32 @@ La playlist est designed pour être versatile et beneficial à travers various o
 **Engagement et Déploiement**
 
 Security et data privacy sont paramount dans MCP framework. La playlist assure users que données sont handled avec highest security standards, reflected dans comprehensive coverage de security best practices throughout videos. L'approche pédagogique met emphasis sur real-world applicability, ensuring que learners peuvent immediately apply knowledge à leurs AI development projects. Cette resource Microsoft Developer représente investment significatif dans education communautaire autour de MCP, positioning protocol comme essential skill pour future AI development.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Microsoft Developer | ORGANISATION | publie | MCP for Beginners | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| MCP for Beginners | EVENEMENT | contient | 12 vidéos | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| MCP for Beginners | EVENEMENT | enseigne | Model Context Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Model Context Protocol | TECHNOLOGIE | permet_de_construire | AI agents sécurisés et scalables | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| MCP for Beginners | EVENEMENT | utilise | Visual Studio Code | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| MCP for Beginners | EVENEMENT | utilise | AI Toolkit | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| MCP for Beginners | EVENEMENT | comprend | 4 hands-on labs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Model Context Protocol | TECHNOLOGIE | intègre | security best practices | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| MCP for Beginners | EVENEMENT | cible | développeurs débutants et intermédiaires | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Microsoft Developer | ORGANISATION | contribue_à | éducation communautaire MCP | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| MCP for Beginners | EVENEMENT | inclut | retours d'early adopters | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Microsoft Developer | ORGANISATION | secteur | Développement logiciel / IA | AJOUT |
+| Model Context Protocol | TECHNOLOGIE | catégorie | Framework pour AI agents | AJOUT |
+| MCP for Beginners | EVENEMENT | format | Playlist YouTube 12 vidéos | AJOUT |
+| MCP for Beginners | EVENEMENT | vues | 43 713+ | AJOUT |
+| Visual Studio Code | TECHNOLOGIE | usage | IDE pour labs pratiques MCP | AJOUT |
+| AI Toolkit | TECHNOLOGIE | usage | Extension VS Code pour agents IA | AJOUT |

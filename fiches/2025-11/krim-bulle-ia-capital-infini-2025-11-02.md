@@ -43,3 +43,43 @@ Le modèle économique lui-même a muté. La course à la domination accepte une
 L'article met en lumière le duel d'infrastructure qui se joue entre Nvidia, avec ses GPU devenus un standard de fait, et Google, qui pourrait tirer son épingle du jeu avec ses TPU et son écosystème intégré.
 
 Enfin, Tariq Krim élargit la perspective au-delà du logiciel en soulignant le prolongement physique de cette révolution : la robotique humanoïde. Des acteurs comme Tesla, avec Optimus, montrent que l'IA est sur le point de s'incarner dans le monde physique, ouvrant un nouveau champ d'application et d'investissement colossal.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Tariq KRIM | PERSONNE | affirme_que | infrastructure IA n'est pas une bulle spéculative | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | OpenAI Group PBC | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Microsoft | ORGANISATION | détient | 27% du capital d'OpenAI Group PBC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | fournit | infrastructure de calcul via Azure | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Nvidia | ORGANISATION | concurrence | Google TPU | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | développe | TPU | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Big Tech | CONCEPT | concentre | 500 milliards de dollars de trésorerie | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Big Tech | CONCEPT | crée | barrières à l'entrée pour l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Tesla | ORGANISATION | développe | Optimus | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| modèles économiques IA | CONCEPT | évolue_vers | facturation au résultat | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| infrastructure IA | CONCEPT | diffère_de | bulle Internet de 2000 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Mistral | ORGANISATION | cherche_à_lever | 6 milliards de dollars | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| souveraineté numérique | CONCEPT | est_menacée_par | concentration du capital Big Tech | CONCEPT | 0.88 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Tariq KRIM | PERSONNE | rôle | Analyste, auteur Cybernetica | AJOUT |
+| Éditions Cybernetica | ORGANISATION | type | Newsletter stratégique tech française | AJOUT |
+| OpenAI | ORGANISATION | statut_juridique | OpenAI Group PBC (Public Benefit Corporation) | AJOUT |
+| OpenAI Group PBC | ORGANISATION | secteur | Développement IA commerciale | AJOUT |
+| Microsoft | ORGANISATION | participation | 27% capital OpenAI Group PBC | AJOUT |
+| Microsoft | ORGANISATION | trésorerie | 80 milliards de dollars | AJOUT |
+| Nvidia | ORGANISATION | positionnement | Constructeur de datacenters complets (GPU + logiciels + réseaux) | AJOUT |
+| Google | ORGANISATION | avantage_concurrentiel | 3 à 4 générations d'avance en puces TPU | AJOUT |
+| Google | ORGANISATION | trésorerie | 100 milliards de dollars | AJOUT |
+| TPU | TECHNOLOGIE | fabricant | Google / Broadcom | AJOUT |
+| Tesla Optimus | TECHNOLOGIE | catégorie | Robot humanoïde | AJOUT |
+| Big Tech | CONCEPT | free_cash_flow_annuel | 300 milliards de dollars combinés | AJOUT |
+| bulle Internet de 2000 | EVENEMENT | indicateur | 97% de la fibre optique inutilisée | AJOUT |
+| souveraineté numérique | CONCEPT | domaine | Stratégie des États face à la concentration IA | AJOUT |
+| Mistral | ORGANISATION | secteur | IA / modèles de langage (Europe) | AJOUT |

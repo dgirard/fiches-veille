@@ -65,3 +65,37 @@ Developers utilisant AI pour testing sont **2x plus confiants** dans leurs test 
 **Conclusion Stratégique**
 
 Qodo conclut qu'unlocking full business value de Generative AI requiert bridging gap entre LLM capabilities et proven existing systems, avec domain integration being critical. Le rapport advocate pour agentic code quality platform fournissant deep context awareness et integrating AI across development lifecycle pour enhance code quality et developer trust. Cette approach iterative, avec safeguards techniques et focus sur interactive documentation, est highly effective mais révèle aussi limitations : human technical expertise reste essentielle pour spot AI errors, et agents manquent business context.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Itamar Friedman | PERSONNE | dirige | Qodo | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Qodo | ORGANISATION | publie | State of AI Code Quality 2025 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| State of AI Code Quality 2025 | EVENEMENT | est_basé_sur | sondage de 609 développeurs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Confidence Flywheel | CONCEPT | est_basé_sur | contexte riche réduisant les hallucinations | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| contexte | CONCEPT | est | fondement de la confiance et de la qualité | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| hallucinations IA | CONCEPT | réduit | confiance des développeurs | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| revue de code IA | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Qodo Merge | TECHNOLOGIE | automatise | revue de code | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Qodo Gen | TECHNOLOGIE | génère | tests automatisés | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| tests générés par IA | CONCEPT | augmente | confiance dans les suites de tests | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| sélection manuelle de contexte | METHODOLOGIE | s_oppose_à | apprentissage persistant du contexte | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| productivité IA | CONCEPT | corrèle_avec | amélioration de la qualité du code | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Qodo | ORGANISATION | se_nomme_anciennement | Codium | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Itamar Friedman | PERSONNE | rôle | Co-founder & CEO, Qodo | AJOUT |
+| Qodo | ORGANISATION | secteur | Plateforme IA de qualité de code (anciennement Codium) | AJOUT |
+| State of AI Code Quality 2025 | EVENEMENT | catégorie | Rapport de recherche industrielle, 609 développeurs sondés | AJOUT |
+| Confidence Flywheel | CONCEPT | description | Cycle vertueux : contexte → moins d'hallucinations → confiance → vitesse de livraison | AJOUT |
+| Qodo Merge | TECHNOLOGIE | catégorie | Agent Git de revue de code automatisée | AJOUT |
+| Qodo Gen | TECHNOLOGIE | catégorie | Agent IDE de génération de code et de tests | AJOUT |
+| hallucinations IA | CONCEPT | description | Suggestions incorrectes ou trompeuses générées par un LLM | AJOUT |
+| contexte | CONCEPT | description | Connaissance du dépôt, des conventions et de l'architecture par l'IA | AJOUT |
+| revue de code IA | METHODOLOGIE | description | Revue automatisée de pull requests par agent IA | AJOUT |

@@ -70,3 +70,37 @@ Le système offre des capacités sophistiquées : suppression de documents par I
 **Déploiement et Communauté**
 
 Installation flexible via PyPI (`pip install "lightrag-hku[api]"`), depuis source ou Docker Compose avec fichiers d'environnement pré-configurés. La communauté active maintient Discord, WeChat, documentation complète, exemples, vidéos tutorielles. Les mises à jour récentes (support PostgreSQL, citations, suppressions, Neo4J) démontrent un développement actif.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| LightRAG | TECHNOLOGIE | est_développé_par | HKUDS | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | sera_présenté_à | EMNLP2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | utilise | dual-level retrieval | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| dual-level retrieval | CONCEPT | combine | knowledge graphs | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| dual-level retrieval | CONCEPT | combine | bases de données vectorielles | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| LightRAG | TECHNOLOGIE | intègre | RAG-Anything | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| RAG-Anything | TECHNOLOGIE | permet | traitement multimodal | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | supporte | Neo4j | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | supporte | PostgreSQL | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | recommande | modèles 32B paramètres minimum | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | expose | 6 modes de requête | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| HKUDS | ORGANISATION | publie_sur | GitHub | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | obtient | 22k étoiles GitHub | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| LightRAG | TECHNOLOGIE | licence | MIT | AJOUT |
+| LightRAG | TECHNOLOGIE | catégorie | Système RAG dual-level | AJOUT |
+| HKUDS | ORGANISATION | nom complet | Hong Kong University Data Science | AJOUT |
+| EMNLP2025 | EVENEMENT | type | Conférence majeure NLP | AJOUT |
+| dual-level retrieval | CONCEPT | description | Hybridation knowledge graphs + bases vectorielles | AJOUT |
+| RAG-Anything | TECHNOLOGIE | capacité | Traitement texte, images, tableaux, équations | AJOUT |
+| Neo4j | TECHNOLOGIE | rôle | Base de données graphe recommandée pour production | AJOUT |
+| Zirui Guo | PERSONNE | affiliation | HKUDS | AJOUT |
+| Chao Huang | PERSONNE | rôle | Chercheur principal HKUDS | AJOUT |

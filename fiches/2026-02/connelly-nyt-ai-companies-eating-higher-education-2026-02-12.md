@@ -55,3 +55,45 @@ Matthew Connelly, vice-doyen pour les initiatives IA à Columbia University, sig
 **Impact sur l'apprentissage** : la recherche montre que les étudiants utilisant l'IA lisent moins attentivement, écrivent avec moins de précision et d'originalité, et ne réalisent pas ce qu'ils perdent. Des professeurs rapportent une baisse notable des questions en cours. Le paradoxe central : les compétences nécessaires pour exploiter le potentiel réel de l'IA — lecture critique, pensée analytique, écriture argumentée — sont précisément celles que l'usage passif de l'IA érode.
 
 **Appel à la résistance** : Connelly conclut par une métaphore militaire : les guerres peuvent être perdues avant d'être déclarées si les défenseurs abandonnent le terrain stratégique sans combattre. Pour les universités, ce terrain est l'intelligence humaine elle-même. Il appelle les éducateurs à défendre et faire progresser l'intelligence humaine plutôt que de se laisser séduire par des partenariats déséquilibrés avec une industrie dont les intérêts divergent fondamentalement de la mission éducative.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Matthew Connelly | PERSONNE | affirme_que | entreprises IA mènent une prise de contrôle hostile de l'enseignement supérieur | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | paie | campus ambassadors | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | impose | frais exorbitants pour comptes entreprise universitaires | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_supprimé | détecteur ChatGPT (précision 99,9%) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | prédit | intégration dans infrastructure centrale de l'enseignement supérieur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Roy Lee | PERSONNE | a_créé | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | a_financé | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Cluely | ORGANISATION | affirme_que | veut aider les utilisateurs à tricher sur tout | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | utilise | NotebookLM | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| usage passif de l'IA | CONCEPT | réduit | compétences de lecture critique et d'écriture | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| entreprises IA | ORGANISATION | cible | étudiants universitaires comme base client | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Columbia University | ORGANISATION | emploie | Matthew Connelly | PERSONNE | 0.99 | DYNAMIQUE | déclaré_article |
+| Perplexity | ORGANISATION | a_organisé | compétition d'inscriptions sur campus (2024) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Sam Altman | PERSONNE | affirme_que | les éducateurs devraient mener le prochain tournant avec l'IA | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Matthew Connelly | PERSONNE | recommande | résistance active des universités face aux entreprises IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Matthew Connelly | PERSONNE | rôle | Vice-doyen pour les initiatives IA, Columbia University | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA générative | AJOUT |
+| Google | ORGANISATION | secteur | IA / Big Tech | AJOUT |
+| Perplexity | ORGANISATION | secteur | IA / Moteur de recherche | AJOUT |
+| Andreessen Horowitz | ORGANISATION | secteur | Capital-risque, Silicon Valley | AJOUT |
+| Roy Lee | PERSONNE | rôle | Étudiant Columbia / co-fondateur Cluely | AJOUT |
+| Sam Altman | PERSONNE | rôle | PDG OpenAI | AJOUT |
+| Cluely | ORGANISATION | description | Startup voulant aider à « tricher sur tout » | AJOUT |
+| Columbia University | ORGANISATION | secteur | Enseignement supérieur | AJOUT |
+| campus ambassadors | CONCEPT | description | Étudiants payés par des entreprises IA pour promouvoir leurs outils | AJOUT |
+| NotebookLM | TECHNOLOGIE | éditeur | Google | AJOUT |
+| ChatGPT | TECHNOLOGIE | éditeur | OpenAI | AJOUT |
+| usage passif de l'IA | CONCEPT | effet | Érosion des compétences cognitives (lecture, écriture, pensée critique) | AJOUT |
+| AGI | CONCEPT | description | Objectif déclaré des entreprises IA : systèmes substituables à l'humain | AJOUT |

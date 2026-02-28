@@ -65,3 +65,42 @@ L'article formalise quatre piliers essentiels pour des systèmes agentiques viab
 L'article souligne que ces quatre piliers doivent être traités comme des principes architecturaux fondamentaux, intégrés dès la conception, et non comme des ajouts post-implémentation. WEnvision a formalisé ces insights dans leur plateforme RAISE, positionnée comme infrastructure pour l'IA agentique adaptative.
 
 Cette contribution éclaire le chemin vers des agents IA véritablement viables en production, en distinguant l'orchestration technique de la gouvernance cognitive nécessaire pour des déploiements critiques.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Antoine Habert | PERSONNE | a_rejoint | WEnvision | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | a_construit | AI4Ops | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| WEnvision | ORGANISATION | fait_partie_de | SFEIR | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| WEnvision | ORGANISATION | a_développé | RAISE | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| AI4Ops | TECHNOLOGIE | a_automatisé | support IT niveau 1 | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| AI4Ops | TECHNOLOGIE | a_réduit | coûts opérationnels | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Agentique adaptative | CONCEPT | repose_sur | transparence du raisonnement | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | CONCEPT | repose_sur | mémoire organisationnelle intelligente | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | CONCEPT | repose_sur | collaboration cognitive des agents | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | CONCEPT | repose_sur | supervision adaptative | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| LangGraph | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| CrewAI | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| AutoGen | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| RAISE | TECHNOLOGIE | incarne | agentique adaptative | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | prédit | agents IA viables en production nécessitent gouvernance cognitive | CONCEPT | 0.92 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Antoine Habert | PERSONNE | rôle | Practitioner IA agentique, auteur WEnvision | AJOUT |
+| WEnvision | ORGANISATION | secteur | IA générative, conseil | AJOUT |
+| SFEIR | ORGANISATION | relation | Groupe parent de WEnvision | AJOUT |
+| AI4Ops | TECHNOLOGIE | résultat | 100% automatisation support N1, réduction >90% coûts | AJOUT |
+| RAISE | TECHNOLOGIE | catégorie | Plateforme agentique adaptative | AJOUT |
+| LangGraph | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
+| CrewAI | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
+| AutoGen | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
+| Agentique adaptative | CONCEPT | définition | Approche architecturale à 4 piliers pour IA agentique en production | AJOUT |
+| Transparence du raisonnement | CONCEPT | pilier | Pilier 1 de l'agentique adaptative | AJOUT |
+| Mémoire organisationnelle intelligente | CONCEPT | pilier | Pilier 2 de l'agentique adaptative | AJOUT |
+| Supervision adaptative | CONCEPT | pilier | Pilier 4 de l'agentique adaptative | AJOUT |

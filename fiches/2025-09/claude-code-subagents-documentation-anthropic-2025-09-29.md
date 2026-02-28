@@ -62,3 +62,34 @@ La commande `/agents` offre interface interactive pour viewing, creating, editin
 **Best Practices et Cas d'Usage Avancés**
 
 Les recommandations clés incluent : démarrer avec agents Claude-generated pour calibration initiale, designer subagents focused avec responsabilités claires, écrire system prompts détaillés, limiter accès outils au strict minimum, utiliser version control pour subagents projet. Les usages avancés comprennent chaînage de multiples subagents pour workflows complexes et leverage de sélection dynamique où Claude choisit automatiquement le subagent approprié selon contexte. Cette architecture modulaire permet composition flexible de capacités spécialisées tout en maintenant séparation des préoccupations et clarté contextuelle.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | publie | documentation subagents Claude Code | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | supporte | subagents | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| subagents | CONCEPT | possèdent | context window séparé | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| subagents | CONCEPT | sont_configurés_via | fichiers Markdown YAML frontmatter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | délègue_tâches_à | subagents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| subagents | CONCEPT | améliore | préservation du contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Plan subagent | TECHNOLOGIE | est_utilisé_par | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Plan subagent | TECHNOLOGIE | fonctionne_en | plan mode | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| subagents | CONCEPT | permettent | chaînage de workflows | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| subagents | CONCEPT | stockés_dans | .claude/agents/ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| MCP Tools | TECHNOLOGIE | accessibles_par | subagents | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| subagents | CONCEPT | peuvent_être_repris_via | agentId | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| subagents | CONCEPT | définition | Assistants IA spécialisés avec context window séparé | AJOUT |
+| Plan subagent | TECHNOLOGIE | rôle | Sous-agent natif Claude Code pour le plan mode | AJOUT |
+| plan mode | CONCEPT | définition | Mode non-exécution pour planification et recherche codebase | AJOUT |
+| MCP Tools | TECHNOLOGIE | catégorie | Outils Model Context Protocol accessibles aux subagents | AJOUT |
+| agentId | CONCEPT | rôle | Identifiant unique permettant reprise de session subagent | AJOUT |

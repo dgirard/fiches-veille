@@ -60,3 +60,36 @@ Atlas démontre un potentiel particulièrement intéressant pour l'e-commerce à
 Le message central d'Olivier Rafal est clair : "Le futur arrive plus vite que prévu." ChatGPT Atlas n'est pas simplement un nouveau produit technologique, mais le signe d'une transformation profonde et rapide des interfaces numériques. Les organisations doivent se préparer à cette évolution où les interactions conversationnelles deviendront la norme plutôt que l'exception, tant pour les consommateurs que pour les utilisateurs professionnels.
 
 Cette démocratisation du web conversationnel représente un tournant stratégique majeur dans la transformation digitale, avec des implications profondes pour tous les secteurs d'activité.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| OpenAI | ORGANISATION | a_lancé | ChatGPT Atlas | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | est_un | navigateur web conversationnel | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | inaugure | web conversationnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | compte | 700 millions d'utilisateurs hebdomadaires | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | génère | 2,5 milliards de requêtes par jour | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | recherche_sur | sites web | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Agentic Commerce Protocol | TECHNOLOGIE | permet | Instant Checkout via ChatGPT | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Etsy | ORGANISATION | implémente | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Walmart | ORGANISATION | implémente | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | préfigure | interfaces entreprise conversationnelles | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| web conversationnel | CONCEPT | nécessite | services headless | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | le futur arrive plus vite que prévu | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| WEnvision | ORGANISATION | publie | analyse ChatGPT Atlas | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| ChatGPT Atlas | TECHNOLOGIE | catégorie | Navigateur web conversationnel IA | AJOUT |
+| OpenAI | ORGANISATION | secteur | Intelligence Artificielle | AJOUT |
+| Agentic Commerce Protocol | TECHNOLOGIE | usage | Achat direct via agent IA (Instant Checkout) | AJOUT |
+| Olivier Rafal | PERSONNE | affiliation | WEnvision | AJOUT |
+| WEnvision | ORGANISATION | type | Cabinet de conseil en transformation digitale | AJOUT |
+| web conversationnel | CONCEPT | définition | Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA | AJOUT |
+| Instant Checkout | CONCEPT | statut | Disponible sur Etsy et Walmart aux États-Unis en 2025 | AJOUT |
+| services headless | CONCEPT | rôle | Architecture SI permettant aux agents IA d'accéder aux données de manière autonome | AJOUT |

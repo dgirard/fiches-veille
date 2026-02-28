@@ -1,0 +1,28 @@
+# Index — EVENEMENT
+
+> 24 entités de type EVENEMENT
+
+- [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
+- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (3 occ., 1 fiches)
+- [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] — date: 2025-09-15 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AppWorld\|AppWorld]] — type: benchmark agent multi-tâches (1 occ., 1 fiches)
+- [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
+- [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Hype-Cycle-for-Generative-AI-2025\|Hype Cycle for Generative AI 2025]] — date: 2025-07-29 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] — catégorie: Livre, thèse sceptique sur IA (1 occ., 1 fiches)
+- [[kb/MCP-for-Beginners\|MCP for Beginners]] — format: Playlist YouTube 12 vidéos (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires ecosystem (1 occ., 1 fiches)
+- [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (2 occ., 1 fiches)
+- [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] — indicateur: 97% de la fibre optique inutilisée (1 occ., 1 fiches)
+- [[kb/_entites-mineures#bulle-dot-com\|bulle dot-com]] — période: fin des années 1990 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)
+- [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] — facteurs: layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] — taille_échantillon: 5000+ répondants mondiaux (1 occ., 1 fiches)
+- [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] — impact: Suppression de 1 206+ enregistrements executives et entreprises (1 occ., 1 fiches)
+- [[kb/panne-de-service-Claude\|panne de service Claude]] — date: 2025-09-18 (3 occ., 1 fiches)
+- [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)

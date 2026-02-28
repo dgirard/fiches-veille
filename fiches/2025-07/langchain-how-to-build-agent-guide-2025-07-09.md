@@ -69,3 +69,34 @@ Steps 4 et 5 address practical challenges de **connecting data sources et orches
 **Deployment et Continuous Refinement**
 
 Final step recognizes que **deployment n'est pas endpoint** mais beginning de new phase. Agents require ongoing monitoring, performance analysis, et refinement basé sur production usage. Cette continuous improvement cycle ensures agent remains relevant et effective as user needs et data landscapes evolve. Methodical approach presented dans guide provides structured pathway depuis concept à production-ready agent, emphasizing pragmatism, user focus, et iterative improvement throughout development lifecycle.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| LangChain | ORGANISATION | publie | How to Build an Agent | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| How to Build an Agent | EVENEMENT | propose | framework 6 étapes | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| framework 6 étapes | METHODOLOGIE | guide | développement agent IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| LangSmith | TECHNOLOGIE | permet | traçage et debugging d'agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| LangGraph Platform | TECHNOLOGIE | permet | déploiement en production d'agents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| LangChain | ORGANISATION | développe | LangSmith | TECHNOLOGIE | 0.95 | STATIQUE | inféré |
+| LangChain | ORGANISATION | développe | LangGraph Platform | TECHNOLOGIE | 0.95 | STATIQUE | inféré |
+| framework 6 étapes | METHODOLOGIE | inclut | Standard Operating Procedure | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| framework 6 étapes | METHODOLOGIE | recommande | construction MVP focalisée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| email agent | CONCEPT | illustre | framework 6 étapes | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| email agent | CONCEPT | intègre | Gmail API | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| email agent | CONCEPT | intègre | Google Calendar API | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| développement agent IA | CONCEPT | requiert | prompt engineering | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| LangChain | ORGANISATION | secteur | Frameworks IA / LLM | AJOUT |
+| LangSmith | TECHNOLOGIE | catégorie | Outil de traçage et debugging d'agents | AJOUT |
+| LangGraph Platform | TECHNOLOGIE | catégorie | Plateforme de déploiement d'agents IA | AJOUT |
+| framework 6 étapes | METHODOLOGIE | étapes | Définir, Concevoir SOP, MVP, Connecter, Tester, Déployer | AJOUT |
+| email agent | CONCEPT | usage | Exemple fil rouge de l'article | AJOUT |
+| Standard Operating Procedure | CONCEPT | rôle | Formalisation du comportement attendu de l'agent | AJOUT |

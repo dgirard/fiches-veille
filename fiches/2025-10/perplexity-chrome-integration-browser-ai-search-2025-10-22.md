@@ -79,3 +79,36 @@ Success could inspire : **other AI search providers** (You.com, Phind, others) p
 Perplexity's success depends on : actual user adoption rates (will people change defaults?), quality consistency (maintaining high answer quality at scale), monetization viability (sustainable business model), Google's competitive response speed, regulatory environment evolution.
 
 Integration represents **significant milestone** dans AI search competition, bringing battle directly à Google's strongest distribution channel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Perplexity | ORGANISATION | s_intègre_dans | Google Chrome | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Perplexity | ORGANISATION | concurrence | Google Search | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Perplexity | ORGANISATION | utilise | OpenSearch protocol | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Google Chrome | TECHNOLOGIE | est_contrôlé_par | Google | ORGANISATION | 0.99 | DYNAMIQUE | généré_assistant |
+| Perplexity | ORGANISATION | réduit | friction d'adoption | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Perplexity | ORGANISATION | produit | réponses synthétisées par IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | fait_face_à | contrôle antitrust | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Perplexity | ORGANISATION | renforce | arguments antitrust contre Google | CONCEPT | 0.82 | INFÉRÉ | inféré |
+| Google | ORGANISATION | prédit_répondre_par | intégration Gemini | TECHNOLOGIE | 0.80 | DYNAMIQUE | inféré |
+| Intégration Chrome Perplexity | EVENEMENT | transforme | paradigme de recherche web | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Perplexity | ORGANISATION | cite | sources d'information | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Distribution | CONCEPT | détermine | succès produit technologique | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Perplexity | ORGANISATION | secteur | Recherche IA / moteur de recherche conversationnel | AJOUT |
+| Google Chrome | TECHNOLOGIE | catégorie | Navigateur web dominant | AJOUT |
+| Google Search | TECHNOLOGIE | catégorie | Moteur de recherche traditionnel | AJOUT |
+| Google | ORGANISATION | secteur | Big Tech / publicité / recherche | AJOUT |
+| OpenSearch protocol | TECHNOLOGIE | rôle | Protocole d'intégration moteurs de recherche alternatifs dans Chrome | AJOUT |
+| Gemini | TECHNOLOGIE | catégorie | IA générative de Google | AJOUT |
+| Intégration Chrome Perplexity | EVENEMENT | date | 2025-10-22 | AJOUT |
+| Contrôle antitrust | CONCEPT | acteurs | DOJ américain, régulateurs UE | AJOUT |
+| Distribution | CONCEPT | rôle | Facteur clé de succès dans l'industrie tech | AJOUT |

@@ -194,3 +194,36 @@ Question "why continue develop/release?" Réponse : very abilities enabling atta
 **Fundamental change**
 
 Advise security teams experiment AI defense (SOC automation, threat detection, vulnerability assessment, incident response). Advise developers invest safeguards prevent adversarial misuse. Techniques doubtless used many more attackers - industry threat sharing, improved detection, stronger safety controls critical.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_détecté | campagne d'espionnage IA | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Groupe étatique chinois | ORGANISATION | a_manipulé | Claude Code | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Groupe étatique chinois | ORGANISATION | a_ciblé | ~30 organisations mondiales | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_exécuté | reconnaissance et exfiltration de données | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Groupe étatique chinois | ORGANISATION | a_utilisé | jailbreaking | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Model Context Protocol | TECHNOLOGIE | a_permis | accès outils cyberattaque | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_effectué | 80-90% de la campagne | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_utilisé | Claude | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | recommande | automatisation SOC et défense IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Capacités agentiques IA | CONCEPT | réduit | barrières cyberattaques sophistiquées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Vibe hacking | CONCEPT | précède | campagne espionnage autonome IA | EVENEMENT | 0.88 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_produit | documentation et fichiers de credentials volés | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | rôle | Éditeur de Claude, divulgateur de l'incident | AJOUT |
+| Groupe étatique chinois | ORGANISATION | attribution | Haute confiance, commanditaire de la campagne | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Outil d'agent de codage CLI détourné | AJOUT |
+| Model Context Protocol | TECHNOLOGIE | abréviation | MCP — standard ouvert d'accès aux outils | AJOUT |
+| campagne d'espionnage IA | EVENEMENT | date | Mi-septembre 2025 — première mondiale documentée | AJOUT |
+| jailbreaking | METHODOLOGIE | technique | Fragmentation de tâches + fausse identité cybersécurité | AJOUT |
+| capacités agentiques IA | CONCEPT | impact | Attaque autonome à 80-90% sans supervision humaine | AJOUT |
+| vibe hacking | CONCEPT | contexte | Précédent été 2025 — humains encore en boucle | AJOUT |
+| Anthropic Threat Intelligence | ORGANISATION | rôle | Analyse des données d'investigation via Claude | AJOUT |

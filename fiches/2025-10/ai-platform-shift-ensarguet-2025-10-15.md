@@ -57,3 +57,35 @@ L'article souligne l'avantage structurel dont disposent les startups dans ces mo
 Les implications pratiques incluent la nécessité de repenser les problèmes fondamentaux que le logiciel cherche à résoudre, plutôt que de simplement optimiser les solutions existantes. Les équipes doivent explorer de nouveaux paradigmes d'interaction où l'utilisateur exprime ses intentions et le contexte plutôt que de suivre des workflows prédéfinis. Les systèmes doivent être conçus pour être flexibles et adaptatifs dès le départ.
 
 Ensarguet conclut avec une observation puissante : "Les changements de plateforme sont inévitables. La rapidité avec laquelle nous nous y adaptons ne l'est pas." Cette citation encapsule l'impératif stratégique pour les leaders technologiques : reconnaître que la transformation IA n'est pas optionnelle, mais que le choix du moment et de la manière de s'adapter peut déterminer le succès ou l'échec organisationnel. Le futur du logiciel ne sera pas constitué de versions améliorées des applications actuelles, mais d'applications fondamentalement différentes que nous commençons tout juste à imaginer.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Philippe Ensarguet | PERSONNE | affirme_que | le changement de plateforme IA est inévitable | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Philippe Ensarguet | PERSONNE | recommande | construire des architectures AI-native | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | transforme | la nature fondamentale du logiciel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| changement de plateforme | CONCEPT | suit | pattern historique récurrent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| startups | ORGANISATION | bénéficient_de | changements de plateforme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Perplexity | ORGANISATION | réimagine | moteur de recherche | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| GitHub Copilot | TECHNOLOGIE | réimagine | codage logiciel | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| logiciel IA-natif | CONCEPT | est_basé_sur | architecture composable et intent-driven | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Luke Wroblewski | PERSONNE | affirme_que | chaque ère redéfinit la notion d'application | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| organisations établies | CONCEPT | reproduisent | anciens modèles sur nouvelles plateformes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Philippe Ensarguet | PERSONNE | prédit | dissolution de la notion d'application | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| ère mobile | EVENEMENT | a_produit | Instagram, WhatsApp, Uber | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Philippe Ensarguet | PERSONNE | rôle | VP Software Engineering, Keynote Speaker | AJOUT |
+| Philippe Ensarguet | PERSONNE | posture | Thought leader transformation numérique | AJOUT |
+| IA | TECHNOLOGIE | catégorie | Cinquième ère de plateforme informatique | AJOUT |
+| Luke Wroblewski | PERSONNE | contribution | Cadrage notion d'application par ère | AJOUT |
+| Perplexity | ORGANISATION | secteur | IA-native / moteur de recherche | AJOUT |
+| GitHub Copilot | TECHNOLOGIE | catégorie | Outil de codage assisté par IA | AJOUT |
+| logiciel IA-natif | CONCEPT | attributs | adaptatif, composable, intent-driven, context-aware, conversationnel | AJOUT |
+| changement de plateforme | CONCEPT | pattern | mainframe → PC → web → mobile → IA | AJOUT |
+| architectures AI-native | METHODOLOGIE | composants | bases vectorielles, RAG, orchestration d'agents | AJOUT |

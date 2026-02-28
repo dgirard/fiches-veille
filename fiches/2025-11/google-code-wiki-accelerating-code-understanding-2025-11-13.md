@@ -125,3 +125,41 @@ Positioning audacieux : documentation traditionnelle obsolète, instant understa
 Public preview website (codewiki.google) immediate availability open-source community. Gemini CLI extension (waitlist) enterprise/private repos. Strategy covers spectrum use cases developer ecosystems.
 
 Code Wiki represents Google Cloud Developer Experiences bet improving developer productivity via AI-powered automated documentation continuously synchronized codebase evolution, Gemini integration providing intelligent context-aware assistance.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | a_lancé | Code Wiki | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Code Wiki | TECHNOLOGIE | utilise | Gemini | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Code Wiki | TECHNOLOGIE | adresse | compréhension du code existant | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Code Wiki | TECHNOLOGIE | génère | diagrammes d'architecture | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Code Wiki | TECHNOLOGIE | remplace | documentation statique | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Fergus Hurley | PERSONNE | a_coécrit | Introducing Code Wiki | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Pedro Rodriguez | PERSONNE | a_coécrit | Introducing Code Wiki | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Rafael Marques | PERSONNE | a_coécrit | Introducing Code Wiki | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Google Cloud Developer & Experiences | ORGANISATION | a_développé | Code Wiki | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Gemini CLI extension | TECHNOLOGIE | étend | Code Wiki | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Gemini CLI extension | TECHNOLOGIE | adresse | dépôts privés internes | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Code Wiki | TECHNOLOGIE | améliore | productivité développeur | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| lecture du code existant | CONCEPT | constitue | goulot d'étranglement majeur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Code Wiki | TECHNOLOGIE | statut | Public preview (novembre 2025) | AJOUT |
+| Code Wiki | TECHNOLOGIE | URL | codewiki.google | AJOUT |
+| Code Wiki | TECHNOLOGIE | portée initiale | Dépôts publics | AJOUT |
+| Gemini | TECHNOLOGIE | rôle | Moteur du chat agent intégré | AJOUT |
+| Gemini CLI extension | TECHNOLOGIE | statut | Waitlist ouverte | AJOUT |
+| Gemini CLI extension | TECHNOLOGIE | portée | Dépôts privés / internes | AJOUT |
+| Google | ORGANISATION | mission | Organiser l'information mondiale | AJOUT |
+| Google Cloud Developer & Experiences | ORGANISATION | rôle | Équipe produit Code Wiki | AJOUT |
+| Fergus Hurley | PERSONNE | rôle | Director, Product Management, Google Cloud | AJOUT |
+| Pedro Rodriguez | PERSONNE | rôle | Senior Engineering Manager, Google Cloud | AJOUT |
+| Rafael Marques | PERSONNE | rôle | Product Manager, Google Cloud | AJOUT |
+| documentation statique | CONCEPT | limite | Obsolescence, pas synchronisée au code | AJOUT |
+| compréhension du code existant | CONCEPT | qualification | Goulot d'étranglement coûteux | AJOUT |

@@ -48,3 +48,42 @@ Un aspect crucial est le système de permissions, conçu pour empêcher l'IA d'a
 Le processus de développement se caractérise par une vitesse extrême. L'équipe publie 60 à 100 versions internes par jour et une version externe quotidienne. Le prototypage est exceptionnellement rapide : Boris Cherny a développé environ 20 prototypes d'interface utilisateur pour une fonctionnalité de "liste de tâches" en seulement deux jours, itérant rapidement en fonction des prompts et des retours.
 
 Cette itération rapide, rendue possible par les agents IA, accélère considérablement la conception et l'implémentation de nouvelles fonctionnalités, modifiant fondamentalement le rythme du prototypage. Claude Code introduit également des fonctionnalités innovantes d'expérience utilisateur pour le terminal, tirant parti de la nature interactive des terminaux alimentés par les LLM.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | a_rejoint | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Sid Bidasaria | PERSONNE | a_créé | Claude Code subagents | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Cat Wu | PERSONNE | fait_partie_de | équipe fondatrice Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | TypeScript | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Ink | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Bun | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | génère | 500M$ de revenus annuels | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | modèle Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | 90% du code Claude Code est écrit par Claude Code | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_observé | augmentation 67% des pull requests | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| product overhang | CONCEPT | explique | genèse de Claude Code | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| système de permissions | CONCEPT | protège | actions irréversibles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Gergely Orosz | PERSONNE | publie | article Claude Code | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Ingénieur fondateur Claude Code | AJOUT |
+| Sid Bidasaria | PERSONNE | rôle | Ingénieur #2 Claude Code, créateur subagents | AJOUT |
+| Cat Wu | PERSONNE | rôle | Cheffe de produit fondatrice Claude Code | AJOUT |
+| Gergely Orosz | PERSONNE | rôle | Auteur / journaliste tech, The Pragmatic Engineer | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI basé sur LLM | AJOUT |
+| Claude Code | TECHNOLOGIE | revenus | 500M$ annuels (run-rate) | AJOUT |
+| Claude Code | TECHNOLOGIE | auto-écriture | ~90% du code écrit par lui-même | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| TypeScript | TECHNOLOGIE | usage | Langage principal de Claude Code | AJOUT |
+| Ink | TECHNOLOGIE | usage | Framework React pour UI terminal | AJOUT |
+| Yoga | TECHNOLOGIE | usage | Système de layout pour terminal (Meta) | AJOUT |
+| Bun | TECHNOLOGIE | usage | Build et packaging de Claude Code | AJOUT |
+| product overhang | CONCEPT | définition | Capacité modèle existante sans produit pour l'exploiter | AJOUT |
+| système de permissions | CONCEPT | portée | Granulaire : projet, utilisateur, organisation | AJOUT |

@@ -78,3 +78,38 @@ Pouvoir stratégique ne réside pas dans liste composants mais **compréhension 
 **Application Universelle**
 
 Outil non réservé entreprises mais **instrument universel** pour quiconque veut avantage via conscience situationnelle supérieure : postuler universités, grandir abonnés TikTok, gagner concours robotique, planifier projet scolaire, monter équipe esports. Tous défis se déroulent **paysage concurrentiel** cartographiable. Message final : carte n'est pas diagramme, c'est **façon de penser** développant conscience situationnelle aiguë pour penser comme maître stratège.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Simon Wardley | PERSONNE | a_créé | Wardley Mapping | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | est_basé_sur | conscience situationnelle | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | utilise | chaîne de valeur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | utilise | évolution Genèse-Marchandise | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Sun Tzu | PERSONNE | a_inspiré | Wardley Mapping | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Simon Wardley | PERSONNE | a_développé | Wardley Mapping | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| évolution Genèse-Marchandise | CONCEPT | suit | mouvement gauche-droite prévisible | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| avantage concurrentiel | CONCEPT | provient_de | composants Genèse et Sur mesure | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| marchandisation | CONCEPT | permet | émergence d'innovations supérieures | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | améliore | alignement d'équipe | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | facilite | anticipation stratégique | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| YouTube | ORGANISATION | illustre | chaîne de valeur | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Spotify | TECHNOLOGIE | représente | stade Marchandise | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Simon Wardley | PERSONNE | rôle | Créateur du Wardley Mapping | AJOUT |
+| Wardley Mapping | METHODOLOGIE | catégorie | Outil de cartographie stratégique visuelle | AJOUT |
+| Sun Tzu | PERSONNE | rôle | Source d'inspiration historique (stratégie militaire) | AJOUT |
+| conscience situationnelle | CONCEPT | définition | Savoir où l'on est, où sont les ressources, à quoi ressemble le terrain | AJOUT |
+| chaîne de valeur | CONCEPT | axe | Axe Y de la carte (visible → invisible pour l'utilisateur) | AJOUT |
+| évolution Genèse-Marchandise | CONCEPT | étapes | Genèse → Sur mesure → Produit → Marchandise | AJOUT |
+| avantage concurrentiel | CONCEPT | localisation | Composants positionnés à gauche de la carte (Genèse / Sur mesure) | AJOUT |
+| anticipation stratégique | CONCEPT | mécanisme | Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain | AJOUT |
+| YouTube | ORGANISATION | exemple | Idée vidéo + Contenu = différenciation ; Caméra + Plateforme = marchandise | AJOUT |
+| Spotify | TECHNOLOGIE | exemple | Service de streaming musical au stade Marchandise | AJOUT |

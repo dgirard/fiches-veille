@@ -40,3 +40,36 @@ Graphite décompose l'AEO en trois piliers principaux :
 3.  **L'AEO Technique :** Assurer que le site est techniquement optimisé pour être crawlable et compréhensible par les systèmes RAG (Retrieval Augmented Generation) des moteurs de réponse.
 
 Ce basculement oblige les entreprises à repenser radicalement leur stratégie de contenu. Plutôt que de créer du contenu pour attirer l'attention humaine via les moteurs de recherche, il faut désormais produire un contenu d'une qualité et d'une précision extrêmes, conçu pour "éduquer" les modèles d'IA et devenir une brique de connaissance fiable pour l'écosystème agentique.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| AEO | CONCEPT | remplace | SEO | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Graphite.io | ORGANISATION | publie | guide AEO | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| LLM + RAG | METHODOLOGIE | est_basé_sur | recherche web temps réel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | converge_avec | moteur de recherche | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Perplexity | TECHNOLOGIE | est_basé_sur | LLM + RAG | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| AEO | CONCEPT | cible | Product Questions | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Citation Optimization | METHODOLOGIE | fait_partie_de | AEO | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| règle des 5% | CONCEPT | s_applique_à | AEO | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Technical AEO | CONCEPT | génère | peu d'impact | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| Share Of Answers | CONCEPT | remplace | SERP tracking | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Graphite.io | ORGANISATION | a_développé | outil de recherche de questions AEO | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| AEO | CONCEPT | nécessite | contenu factuellement précis | CONCEPT | 0.91 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| AEO | CONCEPT | définition | Optimisation pour être cité par les moteurs de réponse IA | AJOUT |
+| SEO | CONCEPT | statut | En déclin face à l'AEO | AJOUT |
+| Graphite.io | ORGANISATION | secteur | Marketing / Optimisation contenu IA | AJOUT |
+| LLM + RAG | METHODOLOGIE | avantage | Données fraîches (moins d'un jour vs. 1+ an) | AJOUT |
+| ChatGPT | TECHNOLOGIE | évolution | Ajout de liens cliquables et éléments de recherche traditionnels | AJOUT |
+| Perplexity | TECHNOLOGIE | catégorie | Moteur de recherche LLM natif | AJOUT |
+| règle des 5% | CONCEPT | principe | 5% des stratégies génèrent l'essentiel de l'impact | AJOUT |
+| Share Of Answers | CONCEPT | définition | Fréquence d'apparition d'un produit dans les réponses IA | AJOUT |
+| Product Questions | CONCEPT | définition | Questions pour lesquelles des produits sont suggérés dans la réponse | AJOUT |

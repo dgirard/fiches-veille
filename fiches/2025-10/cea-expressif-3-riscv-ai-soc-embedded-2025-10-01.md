@@ -74,3 +74,35 @@ ExpressIF 3 competes avec : Nvidia Jetson (high performance, higher power), Goog
 Transition depuis research prototype à commercial product requires : partnerships avec semiconductor foundries pour manufacturing, engagement avec system integrators et OEMs, certification processes pour automotive/medical applications, competitive pricing despite lower volumes than giants.
 
 Success will demonstrate viability de **European path** dans critical AI hardware domain.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| CEA | ORGANISATION | a_développé | ExpressIF 3 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | est_basé_sur | RISC-V | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | intègre | accélérateurs de réseaux de neurones | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | cible | edge computing | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | concurrence | Nvidia Jetson | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | concurrence | Google Coral | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| CEA | ORGANISATION | affirme_que | RISC-V garantit la souveraineté technologique | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| RISC-V | TECHNOLOGIE | évite | dépendances propriétaires | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | réduit | consommation énergétique à l'échelle du milliwatt | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| CEA | ORGANISATION | développe | écosystème logiciel RISC-V | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| France | LIEU | investit_dans | conception de puces domestiques | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| souveraineté technologique européenne | CONCEPT | guide | stratégie industrielle CEA | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| CEA | ORGANISATION | nom complet | Commissariat à l'énergie atomique et aux énergies alternatives | AJOUT |
+| CEA | ORGANISATION | secteur | Recherche technologique / Défense / Énergie | AJOUT |
+| ExpressIF 3 | TECHNOLOGIE | catégorie | System-on-Chip (SoC) IA sur architecture RISC-V | AJOUT |
+| ExpressIF 3 | TECHNOLOGIE | cible applicative | Automotive, IoT, Robotique, Médical | AJOUT |
+| RISC-V | TECHNOLOGIE | type | Architecture de jeu d'instructions ouverte | AJOUT |
+| Nvidia Jetson | TECHNOLOGIE | catégorie | Plateforme edge AI propriétaire | AJOUT |
+| Google Coral | TECHNOLOGIE | catégorie | Plateforme edge inference TPU | AJOUT |
+| souveraineté technologique européenne | CONCEPT | domaine | Politique industrielle et géopolitique des semi-conducteurs | AJOUT |

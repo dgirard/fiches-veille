@@ -48,3 +48,41 @@ Google DeepMind lance Project Genie, une application web permettant aux abonnés
 **Applications envisagées** : Au-delà du divertissement, l'équipe explore l'éducation (expositions thérapeutiques personnalisées, comme un enfant explorant une pièce pleine d'araignées virtuelles) et l'intelligence incarnée. Le projet Simmer utilise déjà Genie 3 pour entraîner des agents IA capables d'accomplir des objectifs dans des mondes 3D arbitraires - étape vers l'AGI incarnée.
 
 **Perspectives** : La roadmap inclut le multijoueur (complexe à cause de la latence), davantage de contrôles d'interaction, une API développeur, et l'expansion vers d'autres surfaces. L'équipe estime avoir atteint 50% de leur vision, avec un "headroom énorme" d'améliorations possibles. La vision ultime : une simulation indistinguable de la réalité, "une copie de l'univers où l'on peut faire ce qu'on veut".
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google DeepMind | ORGANISATION | a_développé | Genie 3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | a_lancé | Project Genie | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Project Genie | TECHNOLOGIE | est_basé_sur | Genie 3 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Project Genie | TECHNOLOGIE | utilise | Nano Banana Pro | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | améliore | Genie 2 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Genie 2 | TECHNOLOGIE | a_été_publié | 2024-12 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | est_basé_sur | modèles de monde interactifs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | diffère_de | modèles vidéo | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Simmer | TECHNOLOGIE | utilise | Genie 3 | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Simmer | TECHNOLOGIE | fait_partie_de | Google DeepMind | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Google Labs | ORGANISATION | collabore_avec | Google DeepMind | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | cible | intelligence incarnée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Logan Kilpatrick | PERSONNE | anime | Release Notes | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| modèles de monde interactifs | CONCEPT | permet | génération temps réel | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Genie 3 | TECHNOLOGIE | prédit | simulation indistinguable de la réalité | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Genie 3 | TECHNOLOGIE | catégorie | Modèle de monde interactif temps réel | AJOUT |
+| Genie 3 | TECHNOLOGIE | capacité | Génération frame par frame, 1 minute, qualité photoréaliste | AJOUT |
+| Project Genie | TECHNOLOGIE | audience | Abonnés Google US Ultra | AJOUT |
+| Google DeepMind | ORGANISATION | secteur | Intelligence artificielle / Recherche | AJOUT |
+| Google Labs | ORGANISATION | rôle | Partenaire produit et infrastructure | AJOUT |
+| Nano Banana Pro | TECHNOLOGIE | rôle | Génération du canvas image initial | AJOUT |
+| Simmer | TECHNOLOGIE | catégorie | Agent IA incarné dans mondes 3D (Gemini) | AJOUT |
+| Genie 2 | TECHNOLOGIE | capacité | 10 secondes, basse résolution, non temps réel | AJOUT |
+| Logan Kilpatrick | PERSONNE | rôle | Animateur Release Notes, Google DeepMind | AJOUT |
+| intelligence incarnée | CONCEPT | description | IA opérant dans environnements physiques ou simulés | AJOUT |
+| modèles de monde interactifs | CONCEPT | différence_clé | Cohérence temps réel sans modification des frames passées | AJOUT |

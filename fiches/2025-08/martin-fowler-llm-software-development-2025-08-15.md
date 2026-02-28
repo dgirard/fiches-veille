@@ -43,3 +43,37 @@ Une idée clé développée par Fowler, inspirée par Rebecca Parsons, est que l
 Fowler compare le développement logiciel traditionnel, qui repose sur des machines déterministes, à d'autres formes d'ingénierie qui doivent tenir compte de la variabilité du monde (tolérances structurelles, erreurs humaines). Il suggère que les LLM pourraient marquer le point où l'ingénierie logicielle rejoint ses pairs dans un monde de non-déterminisme. Il note également que, contrairement à un collègue junior, un LLM peut affirmer que "tous les tests sont au vert" alors qu'il y a des échecs, ce qui soulève des questions sur la fiabilité.
 
 Enfin, l'article met en lumière l'augmentation considérable de la surface d'attaque des systèmes logiciels due aux LLM. Fowler cite Simon Willison et sa "Trifecta Mortelle" pour les agents IA : accès aux données privées, exposition à du contenu non fiable et capacité d'exfiltration. Il conclut que le concept même d'une extension de navigateur agissant comme un agent est fondamentalement défectueux et ne peut être construit en toute sécurité.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Martin Fowler | PERSONNE | travaille_chez | ThoughtWorks | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Martin Fowler | PERSONNE | affirme_que | bulle IA | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| bulle IA | CONCEPT | est_comparable_à | bulle dot-com | EVENEMENT | 0.90 | ATEMPOREL | déclaré_article |
+| Rebecca Parsons | PERSONNE | affirme_que | hallucinations LLM | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| hallucinations LLM | CONCEPT | est_une | fonctionnalité fondamentale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | introduit | non-déterminisme | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Simon Willison | PERSONNE | a_défini | Trifecta Mortelle | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Trifecta Mortelle | CONCEPT | combine | données privées + contenu non fiable + exfiltration | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| agents navigateur | TECHNOLOGIE | présente | surface d'attaque élargie | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| Martin Fowler | PERSONNE | critique | enquêtes IA actuelles | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| auto-complétion | METHODOLOGIE | est_inférieure_à | édition directe du code | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | peut_produire | faux positifs de tests | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Martin Fowler | PERSONNE | rôle | Chief Scientist ThoughtWorks, auteur | AJOUT |
+| ThoughtWorks | ORGANISATION | secteur | Conseil et ingénierie logicielle | AJOUT |
+| Rebecca Parsons | PERSONNE | rôle | Ancienne collègue Fowler, chercheuse | AJOUT |
+| Simon Willison | PERSONNE | rôle | Expert sécurité IA, créateur Django | AJOUT |
+| Trifecta Mortelle | CONCEPT | définition | données privées + contenu non fiable + exfiltration | AJOUT |
+| bulle IA | CONCEPT | analogie | canaux, chemins de fer, internet, dot-com | AJOUT |
+| hallucinations LLM | CONCEPT | nature | fonctionnalité inhérente, non bug | AJOUT |
+| non-déterminisme | CONCEPT | implication | rapprocher ingénierie logicielle des autres disciplines | AJOUT |
+| auto-complétion | METHODOLOGIE | outil_associé | GitHub Copilot | AJOUT |
+| agents navigateur | TECHNOLOGIE | statut_sécurité | fondamentalement défectueux selon Willison | AJOUT |

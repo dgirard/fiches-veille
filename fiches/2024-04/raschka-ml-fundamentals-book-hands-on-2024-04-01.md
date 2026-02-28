@@ -81,3 +81,31 @@ ML educational materials abundant - what distinguishes this book? **Raschka's te
 **Impact on ML Education**
 
 Book positioned become **standard reference** for ML education, particularly dans university courses et self-study programs. Combination de accessibility, rigor, et practical focus addresses common weaknesses dans existing materials.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Sebastian Raschka | PERSONNE | a_publié | Build a Large Language Model (From Scratch) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Sebastian Raschka | PERSONNE | travaille_chez | Lightning AI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Sebastian Raschka | PERSONNE | a_enseigné_à | University of Wisconsin-Madison | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Sebastian Raschka | PERSONNE | est_spécialisé_en | LLM research | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Machine Learning Fundamentals | DOCUMENT | utilise | PyTorch | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Machine Learning Fundamentals | DOCUMENT | cible | étudiants et ingénieurs logiciel | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Sebastian Raschka | PERSONNE | maintient | site Ahead of AI | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| PyTorch | TECHNOLOGIE | est_utilisé_comme | framework principal pour ML pratique | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Lightning AI | ORGANISATION | développe | framework simplifiant PyTorch | TECHNOLOGIE | 0.88 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Sebastian Raschka | PERSONNE | diplôme | PhD en biologie computationnelle | AJOUT |
+| Sebastian Raschka | PERSONNE | rôle | LLM Research Engineer, auteur, éducateur ML | AJOUT |
+| Lightning AI | ORGANISATION | secteur | Outils IA / frameworks PyTorch | AJOUT |
+| Build a Large Language Model (From Scratch) | DOCUMENT | type | Livre technique sur LLMs | AJOUT |
+| PyTorch | TECHNOLOGIE | catégorie | Framework deep learning | AJOUT |
+| University of Wisconsin-Madison | ORGANISATION | type | Université américaine | AJOUT |
+| Ahead of AI | TECHNOLOGIE | type | Blog / newsletter ML de Raschka | AJOUT |

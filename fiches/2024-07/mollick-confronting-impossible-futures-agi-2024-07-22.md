@@ -50,3 +50,33 @@ Troisièmement, la nature fragmentaire des progrès IA—excellente dans certain
 L'auteur propose d'abandonner cette paralysie par l'incertitude. Plutôt que de choisir une vision unique du futur, les organisations devraient planifier plusieurs scénarios possibles : plateau technique, croissance linéaire, croissance exponentielle, ou AGI. Il recommande la planification de scénarios, processus qu'il démontre être facilitée par les outils d'IA modernes.
 
 En conclusion, Mollick plaide pour reconnaître le changement inévitable et prendre activement le contrôle de sa direction. L'incertitude concernant le chronogramme exact ne justifie pas l'inaction. Les organisations doivent commencer dès maintenant à envisager des futurs radicalement différents et adapter leurs stratégies en conséquence.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | enseigne_à | Wharton School | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | prédit | organisations doivent planifier plusieurs scénarios AGI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| organisations | CONCEPT | ignorent | amélioration continue de l'IA dans la planification | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| AGI | CONCEPT | représente | objectif des grands laboratoires IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| loi de Moore | CONCEPT | illustre | prophétie autoréalisatrice technologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | planification multi-scénarios | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Arvind Narayanan | PERSONNE | contredit | timelines AGI courtes | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| sondage informaticiens 2023 | EVENEMENT | situe | AGI en moyenne à 2047 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Claude 3.5 | TECHNOLOGIE | démontre | capacités IA actuelles impressionnantes | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| GPT-4o | TECHNOLOGIE | facilite | planification de scénarios | METHODOLOGIE | 0.83 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | a_publié | Co-Intelligence | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur Wharton School, auteur One Useful Thing | AJOUT |
+| AGI | CONCEPT | définition | IA surpassant humains dans toutes tâches | AJOUT |
+| Wharton School | ORGANISATION | type | École de commerce, Université de Pennsylvanie | AJOUT |
+| loi de Moore | CONCEPT | analogie | Attentes technologiques devenant objectifs motivateurs | AJOUT |
+| planification multi-scénarios | METHODOLOGIE | application | Plateau, croissance linéaire, exponentielle, AGI | AJOUT |
+| Co-Intelligence | DOCUMENT | type | Livre, nommé meilleur livre 2024 par Amazon et The Economist | AJOUT |
+| Arvind Narayanan | PERSONNE | affiliation | Chercheur indépendant, timelines AGI longues | AJOUT |

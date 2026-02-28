@@ -58,3 +58,40 @@ Le quatrième principe, "Goal-Driven Execution", convertit les tâches en critè
 **Indicateurs de succès** : Les diffs ne contiennent que les changements demandés, le code évite la complexité inutile dès la première tentative, des questions clarifiantes précèdent l'implémentation, les pull requests restent focalisées sans refactoring tangentiel.
 
 **Caveat** : Ces guidelines privilégient la précision sur la vitesse. Pour les changements triviaux (typos, modifications one-liner évidentes), appliquer du bon sens plutôt que la rigueur complète.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Andrej Karpathy | PERSONNE | a_inspiré | andrej-karpathy-skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| forrestchang | PERSONNE | a_créé | andrej-karpathy-skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | améliore | Claude Code | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | utilise | CLAUDE.md | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | souffre_de | hypothèses erronées sans vérification | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | souffre_de | sur-ingénierie | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Think Before Coding | METHODOLOGIE | réduit | hypothèses erronées sans vérification | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Simplicity First | METHODOLOGIE | réduit | sur-ingénierie | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Surgical Changes | METHODOLOGIE | préserve | code existant | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Goal-Driven Execution | METHODOLOGIE | transforme | instructions impératives | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Goal-Driven Execution | METHODOLOGIE | utilise | critères de succès vérifiables | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | a_obtenu | 3 456 étoiles GitHub | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | est_distribué_sous | licence MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Andrej Karpathy | PERSONNE | rôle | Chercheur IA, source d'inspiration des guidelines | AJOUT |
+| forrestchang | PERSONNE | rôle | Auteur du dépôt GitHub | AJOUT |
+| andrej-karpathy-skills | TECHNOLOGIE | catégorie | Plugin / fichier CLAUDE.md de guidelines | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI (Anthropic) | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | catégorie | Fichier de configuration des instructions Claude | AJOUT |
+| Think Before Coding | METHODOLOGIE | objectif | Expliciter hypothèses, poser des questions avant de coder | AJOUT |
+| Simplicity First | METHODOLOGIE | objectif | Code minimal, pas de features spéculatives | AJOUT |
+| Surgical Changes | METHODOLOGIE | objectif | Modifier uniquement le code lié à la demande | AJOUT |
+| Goal-Driven Execution | METHODOLOGIE | objectif | Convertir tâches en critères de succès vérifiables | AJOUT |
+| sur-ingénierie | CONCEPT | description | Tendance des LLMs à créer abstractions inutiles | AJOUT |
+| hypothèses erronées sans vérification | CONCEPT | description | Tendance des LLMs à assumer sans valider | AJOUT |
+| critères de succès vérifiables | CONCEPT | description | Objectifs mesurables remplaçant les instructions impératives | AJOUT |

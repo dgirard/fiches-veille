@@ -58,3 +58,41 @@ Ce document constitue un curriculum pédagogique complet pour maîtriser Claude 
 **Personnalisation avancée (A11-A12)** : Les commandes slash custom (.claude/commands/), les skills (SKILL.md détectées automatiquement), les subagents spécialisés et les hooks déterministes (11+ événements) permettent une automatisation poussée. Les cinq patterns professionnels (Explore→Plan→Code→Test→Review, Context priming, Iterative refinement, Model surfing, Session hygiene) constituent le socle de la maîtrise experte.
 
 Chaque leçon intègre un hook socratique provocateur, une exploration guidée, un dialogue tuteur-apprenant, un exercice pratique et une flashcard FSRS pour la mémorisation espacée.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Claude Code | TECHNOLOGIE | est_développé_par | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_un | agent terminal-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | donne_accès_à | Haiku 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | donne_accès_à | Sonnet 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | donne_accès_à | Opus 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | atteint | 1 milliard $ revenus annualisés | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | recommande | workflow Explore-Plan-Code | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | fait_partie_de | système de mémoire hiérarchique | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| système de mémoire hiérarchique | CONCEPT | contient | Enterprise Policy | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | permet | connexion à outils externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| mode headless | METHODOLOGIE | permet | intégration CI/CD | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| pédagogie socratique | METHODOLOGIE | structure | formation Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| hooks | TECHNOLOGIE | s_exécutent_sur | événements PreToolUse et PostToolUse | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| FSRS | METHODOLOGIE | est_utilisé_pour | mémorisation espacée des flashcards | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Claude Code | TECHNOLOGIE | interface | agent CLI terminal-first | AJOUT |
+| Claude Code | TECHNOLOGIE | revenus annualisés | ~1 milliard $ (novembre 2025) | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Haiku 4.5 | TECHNOLOGIE | usage | tâches simples, rapide et économique | AJOUT |
+| Sonnet 4.5 | TECHNOLOGIE | usage | modèle par défaut, équilibré | AJOUT |
+| Opus 4.5 | TECHNOLOGIE | usage | tâches complexes, planification multi-étapes | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | rôle | contexte permanent du projet, versionné Git | AJOUT |
+| MCP | TECHNOLOGIE | forme_longue | Model Context Protocol | AJOUT |
+| workflow Explore-Plan-Code | METHODOLOGIE | source | recommandation officielle Anthropic | AJOUT |
+| pédagogie socratique | METHODOLOGIE | structure | hook → exploration → dialogue → pratique → flashcard FSRS | AJOUT |
+| FSRS | METHODOLOGIE | catégorie | algorithme de répétition espacée pour flashcards | AJOUT |
+| mode headless | METHODOLOGIE | flag | -p (non-interactif, CI/CD) | AJOUT |

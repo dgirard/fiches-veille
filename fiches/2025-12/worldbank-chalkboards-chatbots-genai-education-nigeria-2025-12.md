@@ -86,3 +86,39 @@ La Banque Mondiale publie la première étude rigoureuse (RCT) évaluant l'impac
 **Scalabilité prometteuse** : L'utilisation de logiciels gratuits (pas d'abonnement), l'absence de besoin de banques de questions propriétaires, et le succès avec du personnel non-spécialisé suggèrent un fort potentiel de réplication. L'étude répond au "problème des deux sigmas" de Bloom : comment rendre les bénéfices du tutorat personnalisé accessibles à l'échelle de populations entières de manière économiquement viable.
 
 **Contexte critique** : L'étude s'inscrit dans la crise mondiale de l'apprentissage où 70% des enfants de dix ans dans les pays à revenu faible et moyen ne peuvent pas lire un texte adapté à leur niveau. Ces résultats positionnent le tutorat par IA générative comme une approche prometteuse pour les contextes à ressources limitées.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| World Bank Education Global Department | ORGANISATION | publie | Policy Research Working Paper 11125 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Martín De Simone | PERSONNE | a_rédigé | Policy Research Working Paper 11125 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Microsoft Copilot | TECHNOLOGIE | utilise | GPT-4 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Microsoft Copilot | TECHNOLOGIE | améliore | apprentissage de l'anglais | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | génère | 0.31 SD d'amélioration globale | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | bénéficie_davantage_à | élèves filles | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | coûte | $48 par élève sur 6 semaines | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | produit | 3.2 EYOS par $100 investis | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Bloom two-sigma problem | CONCEPT | motive | tutorat personnalisé à l'échelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Microsoft Copilot | TECHNOLOGIE | est_basé_sur | retrieval practice | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Benin City | LIEU | accueille | 9 écoles secondaires publiques participantes | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| crise mondiale de l'apprentissage | CONCEPT | affecte | 70% des enfants de 10 ans dans les PRFM | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| enseignants | PERSONNE | agit_comme | force multiplier | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| World Bank Education Global Department | ORGANISATION | rôle | Éditeur de la recherche sur l'IA en éducation | AJOUT |
+| Martín De Simone | PERSONNE | rôle | Auteur principal, chercheur Banque Mondiale | AJOUT |
+| Microsoft Copilot | TECHNOLOGIE | catégorie | Chatbot IA générative basé sur GPT-4 (usage gratuit) | AJOUT |
+| GPT-4 | TECHNOLOGIE | catégorie | Modèle de langage large sous-jacent à Microsoft Copilot | AJOUT |
+| Programme de tutorat IA | METHODOLOGIE | durée | 6 semaines, 12 sessions de 90 min, 2x/semaine | AJOUT |
+| Bloom two-sigma problem | CONCEPT | définition | Défi de rendre le tutorat personnalisé accessible à l'échelle | AJOUT |
+| retrieval practice | METHODOLOGIE | catégorie | Technique pédagogique basée sur la récupération active en mémoire | AJOUT |
+| EYOS | CONCEPT | définition | Equivalent Years of Schooling — métrique de comparaison internationale | AJOUT |
+| LAYS | CONCEPT | définition | Learning-Adjusted Years of Schooling — métrique d'efficacité éducative | AJOUT |
+| Benin City | LIEU | pays | Nigeria | AJOUT |
+| crise mondiale de l'apprentissage | CONCEPT | statistique | 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis | AJOUT |

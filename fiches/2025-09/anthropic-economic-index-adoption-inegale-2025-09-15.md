@@ -45,3 +45,39 @@ Concernant l'adoption en entreprise, l'analyse du trafic API de première partie
 Les capacités du modèle et la valeur économique de l'automatisation semblent stimuler l'adoption plus que le coût, car les tâches plus coûteuses ont souvent des taux d'utilisation plus élevés. Un goulot d'étranglement clé identifié pour un déploiement sophistiqué en entreprise est l'accès à des informations contextuelles appropriées. Les tâches complexes nécessitent des entrées longues, impliquant un besoin de modernisation des données et d'investissements organisationnels significatifs.
 
 Le rapport conclut que les schémas inégaux d'adoption de l'IA risquent d'exacerber les inégalités économiques existantes si les gains de productivité se concentrent dans des régions déjà prospères et des secteurs prêts pour l'automatisation. La publication en open source des données vise à encourager la recherche indépendante sur les impacts économiques de l'IA et à éclairer les réponses politiques pour garantir des avantages plus larges. Les auteurs soulignent que si les capacités techniques progressent rapidement, ce sont les choix politiques de la société qui façonneront en fin de compte les futurs effets économiques de l'IA.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_publié | Anthropic Economic Index | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Ruth Appel | PERSONNE | a_coécrit | Anthropic Economic Index | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic Economic Index | EVENEMENT | mesure | adoption géographique et entreprise de l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| adoption IA au travail | CONCEPT | a_atteint | 40% des employés américains | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| usage directif (délégation totale) | CONCEPT | dépasse | usage augmentatif (collaboration) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Singapour | LIEU | est_leader_en | usage Claude par habitant | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Canada | LIEU | est_leader_en | usage Claude par habitant | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| Washington D.C. | LIEU | devance | Californie | LIEU | 0.90 | DYNAMIQUE | déclaré_article |
+| entreprises | CONCEPT | présentent | 77% d'usages automatisés via API | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| adoption inégale de l'IA | CONCEPT | risque_d_exacerber | inégalités économiques existantes | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | a_publié_en_open_source | données Anthropic Economic Index | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| accès aux données contextuelles | CONCEPT | constitue | goulot d'étranglement déploiement entreprise | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Indice d'Utilisation de l'IA (AUI) | TECHNOLOGIE | révèle | corrélation usage-revenu entre pays | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety / Research | AJOUT |
+| Anthropic Economic Index | EVENEMENT | date | 2025-09-15 | AJOUT |
+| Ruth Appel | PERSONNE | rôle | co-auteure rapport Anthropic Economic Index | AJOUT |
+| Peter McCrory | PERSONNE | rôle | co-auteur rapport Anthropic Economic Index | AJOUT |
+| Alex Tamkin | PERSONNE | rôle | co-auteur rapport Anthropic Economic Index | AJOUT |
+| Indice d'Utilisation de l'IA (AUI) | TECHNOLOGIE | usage | mesurer adoption comparative par pays | AJOUT |
+| O*NET | TECHNOLOGIE | usage | classification des tâches professionnelles pour analyse IA | AJOUT |
+| usage directif | CONCEPT | définition | tâche entièrement déléguée à Claude | AJOUT |
+| usage augmentatif | CONCEPT | définition | collaboration homme-IA | AJOUT |
+| Singapour | LIEU | région | Asie du Sud-Est, pays à revenu élevé | AJOUT |
+| Washington D.C. | LIEU | pays | États-Unis | AJOUT |

@@ -61,3 +61,40 @@ Claude fait également inroads dans secteur éducation, Notability et StudyFetch
 **Philosophie Ecosystem**
 
 Le "Powered by Claude" initiative met en valeur real-world applications et tangible benefits que businesses réalisent en intégrant technologie IA d'Anthropic. Elle démontre l'adaptabilité de Claude comme foundational AI model, enabling businesses à augmenter human capabilities, automatiser tasks, et délivrer more intelligent et efficient services à leurs users. Cet ecosystem représente concrétisation de la vision d'Anthropic : IA qui augmente plutôt que remplace, dans contextes professionnels diversifiés.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | publie | Powered by Claude | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | alimente | Cursor | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | alimente | Devin | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | alimente | Replit | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | alimente | Harvey | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | alimente | CodeRabbit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Vanta | TECHNOLOGIE | intègre | Model Context Protocol | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | positionne | Claude | TECHNOLOGIE | 0.95 | ATEMPOREL | inféré |
+| Claude | TECHNOLOGIE | transforme | développement logiciel | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Cursor | TECHNOLOGIE | fait_partie_de | outils de codage IA | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Harvey | TECHNOLOGIE | cible | services juridiques | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Parcha | TECHNOLOGIE | automatise | conformité financière | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Snowflake | TECHNOLOGIE | collabore_avec | Claude | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle de langage fondationnel | AJOUT |
+| Powered by Claude | EVENEMENT | nature | Vitrine partenaires ecosystem | AJOUT |
+| Cursor | TECHNOLOGIE | secteur | Outils de codage IA | AJOUT |
+| Devin | TECHNOLOGIE | catégorie | Agent logiciel autonome | AJOUT |
+| Replit | TECHNOLOGIE | secteur | Développement web sans installation | AJOUT |
+| Harvey | TECHNOLOGIE | secteur | IA juridique et services professionnels | AJOUT |
+| CodeRabbit | TECHNOLOGIE | catégorie | Revue de code automatisée IA | AJOUT |
+| Vanta | TECHNOLOGIE | catégorie | Conformité et gestion de confiance | AJOUT |
+| Model Context Protocol | TECHNOLOGIE | usage | Interface langage naturel pour données de conformité | AJOUT |
+| Parcha | TECHNOLOGIE | secteur | Conformité financière / fintechs | AJOUT |
+| Snowflake | TECHNOLOGIE | secteur | Données et analytique cloud | AJOUT |

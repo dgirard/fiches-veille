@@ -59,3 +59,39 @@ Finally, "Leading in International Diplomacy and Security" pillar outlines strat
 **Key Officials' Statements**
 
 Statements depuis key administration officials highlight urgency et profound significance du plan. **Michael Kratsios** (OSTP Director) affirmed que plan "charts decisive course to cement U.S. dominance in artificial intelligence", underscoring AI's role comme cornerstone de American innovation et global influence. **David Sacks** (AI and Crypto Czar) reiterated que **"to remain leading economic and military power, United States must win the AI race"**, emphasizing necessity de leadership dans innovation, infrastructure, et global partnerships tout en cautioning contre "Orwellian uses of AI". **Secretary of State et Acting NSA Marco Rubio** asserted que **"Winning the AI Race is non-negotiable"**, stressing que America must maintain dominant position pour ensure prosperity et protect national security. Pour more information, administration directs interested parties à **AI.Gov**.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Trump Administration | ORGANISATION | publie | America's AI Action Plan | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| America's AI Action Plan | EVENEMENT | est_basé_sur | executive order "Removing Barriers to American Leadership in AI" | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| America's AI Action Plan | EVENEMENT | contient | 90 actions fédérales | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| America's AI Action Plan | EVENEMENT | s_articule_autour | trois piliers stratégiques | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Michael Kratsios | PERSONNE | dirige | Office of Science and Technology Policy | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| David Sacks | PERSONNE | occupe | rôle AI and Crypto Czar | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Marco Rubio | PERSONNE | est | Secrétaire d'État et Conseiller national à la sécurité par intérim | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Commerce Department | ORGANISATION | collabore_avec | State Department | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Commerce Department | ORGANISATION | livre | packages d'exportation IA sécurisés | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| America's AI Action Plan | EVENEMENT | vise | domination américaine en IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| America's AI Action Plan | EVENEMENT | prédit | nouvel âge d'or de prospérité humaine | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| États-Unis | LIEU | s_oppose_à | biais idéologique dans les modèles frontières | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| America's AI Action Plan | EVENEMENT | cible | nations alliées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| America's AI Action Plan | EVENEMENT | date de publication | 2025-07-23 | AJOUT |
+| America's AI Action Plan | EVENEMENT | nombre d'actions fédérales | 90+ | AJOUT |
+| America's AI Action Plan | EVENEMENT | nombre de piliers | 3 | AJOUT |
+| Trump Administration | ORGANISATION | secteur | Gouvernement fédéral américain | AJOUT |
+| Michael Kratsios | PERSONNE | rôle | Directeur OSTP (Office of Science and Technology Policy) | AJOUT |
+| David Sacks | PERSONNE | rôle | AI and Crypto Czar | AJOUT |
+| Marco Rubio | PERSONNE | rôle | Secrétaire d'État et Conseiller national à la sécurité par intérim | AJOUT |
+| Office of Science and Technology Policy | ORGANISATION | secteur | Science et technologie — exécutif américain | AJOUT |
+| Commerce Department | ORGANISATION | secteur | Commerce international américain | AJOUT |
+| State Department | ORGANISATION | secteur | Diplomatie américaine | AJOUT |
+| AI.Gov | TECHNOLOGIE | catégorie | Portail gouvernemental IA | AJOUT |

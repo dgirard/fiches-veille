@@ -63,3 +63,45 @@ Le rapport identifies **14 "All-Star" companies** ayant consistently appeared su
 **Market Maturation Indicators**
 
 La stabilization de l'ecosystem, avec fewer new entrants sur web mais proliferation sur mobile (post-cleanup de copycats), indicates market maturation. L'émergence de vibe coding platforms comme sustainable business model, Google's aggressive multi-product push, et persistence de All-Star companies demonstrate que Gen AI consumer market **moving beyond initial hype** vers more stable, differentiated competitive landscape où quality, integration, et specific use-case excellence déterminent success plutôt que first-mover advantage alone.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Olivia Moore | PERSONNE | a_publié | Top 100 Gen AI Consumer Apps 5th Edition | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Daisy Zhao | PERSONNE | a_publié | Top 100 Gen AI Consumer Apps 5th Edition | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | domine | marché des assistants LLM grand public | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Gemini | TECHNOLOGIE | se_classe | deuxième position web et mobile | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | possède | Gemini | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_lancé | AI Studio | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_lancé | NotebookLM | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Grok | TECHNOLOGIE | a_augmenté | 40% d'utilisateurs mobiles en juillet 2025 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Lovable | TECHNOLOGIE | fait_partie_de | vibe coding stack | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Replit | TECHNOLOGIE | fait_partie_de | vibe coding stack | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| DeepSeek | TECHNOLOGIE | a_décliné | 40% depuis pic février 2025 sur web | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | publie | Top 100 Gen AI Consumer Apps | EVENEMENT | 0.99 | DYNAMIQUE | déclaré_article |
+| Bytedance | ORGANISATION | a_développé | Doubao | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Meitu | ORGANISATION | a_développé | cinq applications mobiles dans le top 50 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| vibe coding | CONCEPT | génère | rétention de revenus supérieure à 100% | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Olivia Moore | PERSONNE | rôle | Partner, Andreessen Horowitz (AI) | AJOUT |
+| Daisy Zhao | PERSONNE | rôle | Investor, Andreessen Horowitz (AI applications) | AJOUT |
+| Andreessen Horowitz | ORGANISATION | secteur | Capital-risque / VC technologie | AJOUT |
+| ChatGPT | TECHNOLOGIE | catégorie | Assistant LLM grand public | AJOUT |
+| Gemini | TECHNOLOGIE | catégorie | Assistant LLM grand public (Google) | AJOUT |
+| Grok | TECHNOLOGIE | catégorie | Assistant LLM (X / anciennement Twitter) | AJOUT |
+| NotebookLM | TECHNOLOGIE | catégorie | Outil de productivité IA (Google) | AJOUT |
+| AI Studio | TECHNOLOGIE | catégorie | Sandbox développeurs Gemini (Google) | AJOUT |
+| Lovable | TECHNOLOGIE | catégorie | Plateforme vibe coding / génération d'apps | AJOUT |
+| Replit | TECHNOLOGIE | catégorie | Plateforme vibe coding / IDE en ligne | AJOUT |
+| DeepSeek | TECHNOLOGIE | catégorie | Assistant LLM (développé en Chine) | AJOUT |
+| Doubao | TECHNOLOGIE | catégorie | Assistant LLM grand public (Bytedance) | AJOUT |
+| Bytedance | ORGANISATION | secteur | Technologie / IA (Chine) | AJOUT |
+| Meitu | ORGANISATION | secteur | Applications photo/vidéo IA (Chine) | AJOUT |
+| vibe coding | CONCEPT | description | Création d'apps via prompts langage naturel sans compétences techniques | AJOUT |

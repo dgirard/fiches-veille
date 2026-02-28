@@ -79,3 +79,37 @@ Appointment signals **serious corporate commitment** à BCI-AI future : validate
 Deeper issues emerging : **what constitutes "human" when cognition AI-augmented?**, **how preserve agency when AI reads/influences thoughts?**, **who owns thoughts decoded by AI?**, **what consent means pour permanent cognitive modification?** These questions **transcend technology**, touching human nature, consciousness, free will.
 
 Altman's board appointment represents **inflection point** signaling serious pursuit de AI-neural integration, requiring society grapple avec profound implications.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Sam Altman | PERSONNE | rejoint_conseil | Neuralink | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Sam Altman | PERSONNE | dirige | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Elon Musk | PERSONNE | a_fondé | Neuralink | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Elon Musk | PERSONNE | a_cofondé | OpenAI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Elon Musk | PERSONNE | a_quitté | OpenAI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | approuve | nomination Sam Altman au conseil Neuralink | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
+| Neuralink | ORGANISATION | développe | interface cerveau-ordinateur | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | converge_avec | Neuralink | ORGANISATION | 0.85 | DYNAMIQUE | inféré |
+| FDA | ORGANISATION | réglemente | Neuralink | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| FTC | ORGANISATION | surveille | coordination OpenAI-Neuralink | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| interface cerveau-ordinateur | TECHNOLOGIE | génère | données neurales | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| données neurales | CONCEPT | soulève | questions de vie privée cognitive | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| nomination Sam Altman au conseil Neuralink | EVENEMENT | crée | conflit d'intérêts | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Sam Altman | PERSONNE | rôle | CEO de OpenAI, membre du conseil de Neuralink | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA / modèles de frontier | AJOUT |
+| Neuralink | ORGANISATION | secteur | Interface cerveau-ordinateur (BCI) | AJOUT |
+| Elon Musk | PERSONNE | rôle | Fondateur et CEO de Neuralink, cofondateur d'OpenAI | AJOUT |
+| interface cerveau-ordinateur | TECHNOLOGIE | stade | Technologie en phase précoce | AJOUT |
+| données neurales | CONCEPT | enjeu | Vie privée cognitive, propriété intellectuelle | AJOUT |
+| conflit d'intérêts | CONCEPT | dimension | Gouvernance d'entreprise, chevauchement concurrentiel | AJOUT |
+| FDA | ORGANISATION | rôle | Régulateur des dispositifs médicaux aux États-Unis | AJOUT |
+| FTC | ORGANISATION | rôle | Régulateur de la concurrence aux États-Unis | AJOUT |

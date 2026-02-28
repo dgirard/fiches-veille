@@ -65,3 +65,40 @@ Crucially, cette approche a été démontrée en environnement brownfield par Lo
 **Positionnement pragmatique**
 
 Keli positionne explicitement cette méthode comme combinaison pragmatique de bonnes pratiques disponibles publiquement, non comme innovation radicale. Cette modestie stratégique renforce sa crédibilité : l'approche n'exige pas de révolution culturelle, seulement une orchestration disciplinée de techniques connues adaptées au contexte IA-générative.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Soufiane Keli | PERSONNE | travaille_pour | OCTO Technology | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Soufiane Keli | PERSONNE | a_publié | approche spec-driven IA | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | produit | 100% code généré par IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | requiert | onboarding quotidien LLM | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | requiert | tâches atomiques | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | requiert | capitalisation continue | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Loïc Lefloch | PERSONNE | a_validé | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Simon Belbeoch | PERSONNE | a_validé | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | s'applique_à | environnement brownfield | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| tâches atomiques | CONCEPT | améliore | vélocité et qualité | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| prompt structuré | CONCEPT | inclut | Definition of Done | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Yves Caseau | PERSONNE | confirme | applicabilité approche spec-driven IA | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | travaille_pour | Michelin | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Soufiane Keli | PERSONNE | rôle | Consultant OCTO Technology | AJOUT |
+| OCTO Technology | ORGANISATION | secteur | Conseil IT / Software Craftsmanship | AJOUT |
+| approche spec-driven IA | METHODOLOGIE | étapes | Onboarding, Planification atomique, Développement itératif, Capitalisation | AJOUT |
+| Loïc Lefloch | PERSONNE | rôle | Développeur senior OCTO Technology | AJOUT |
+| Simon Belbeoch | PERSONNE | rôle | Développeur senior OCTO Technology | AJOUT |
+| tâches atomiques | CONCEPT | principe | Décomposition fine des user stories pour réduire l'ambiguïté LLM | AJOUT |
+| onboarding quotidien LLM | CONCEPT | principe | Rappeler le contexte global au LLM à chaque session | AJOUT |
+| capitalisation continue | CONCEPT | principe | Enrichissement progressif de la base de bonnes pratiques après chaque cycle | AJOUT |
+| prompt structuré | CONCEPT | composants | Spécification, exemples de code, standards, checklist DoD | AJOUT |
+| environnement brownfield | CONCEPT | description | Projet avec legacy code, contraintes architecturales et dette technique existantes | AJOUT |
+| Yves Caseau | PERSONNE | rôle | Group Chief Digital & Information Officer, Michelin | AJOUT |
+| Michelin | ORGANISATION | secteur | Industrie / Transformation numérique | AJOUT |

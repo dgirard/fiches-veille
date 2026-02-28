@@ -79,3 +79,34 @@ Study acknowledges limitations : **testing necessarily incomplete** (impossible 
 METR identifies critical research needs : refining ARA metrics, developing intervention techniques reducing ARA risk, understanding capability emergence patterns, creating more comprehensive test suites, studying multi-agent ARA scenarios.
 
 Study represents **landmark contribution** à empirical AI safety research, moving field depuis theoretical concerns towards measurable risk assessment.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| METR | ORGANISATION | évalue | capacités autonomes des agents IA | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| METR | ORGANISATION | était_connu_sous | ARC Evals | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| METR | ORGANISATION | collabore_avec | Anthropic | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| METR | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| ARA | CONCEPT | représente | seuil critique de capacité IA dangereuse | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| GPT-4 | TECHNOLOGIE | surpasse | GPT-3.5 | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| METR | ORGANISATION | recommande | tests ARA obligatoires avant déploiement frontier | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| capacités IA autonomes | CONCEPT | doublent | tous les 7 mois | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| METR | ORGANISATION | est_partenaire_de | NIST AI Safety Institute Consortium | ORGANISATION | 0.91 | DYNAMIQUE | déclaré_article |
+| METR | ORGANISATION | est_partenaire_de | AI Security Institute | ORGANISATION | 0.91 | DYNAMIQUE | déclaré_article |
+| agents IA actuels | CONCEPT | ne_peuvent_pas | répliquer de manière autonome fiablement | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| GPT-5 | TECHNOLOGIE | a_été_évalué_par | METR | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| METR | ORGANISATION | nom complet | Model Evaluation & Threat Research | AJOUT |
+| METR | ORGANISATION | statut | Organisation de recherche à but non lucratif | AJOUT |
+| ARA | CONCEPT | définition | Autonomous Replication and Adaptation — capacité d'un agent IA à se répliquer sans assistance humaine | AJOUT |
+| ARC Evals | ORGANISATION | relation | Ancien nom de METR | AJOUT |
+| GPT-5 | TECHNOLOGIE | évaluation | METR conclut à risque catastrophique faible mais tendances préoccupantes | AJOUT |
+| NIST AI Safety Institute Consortium | ORGANISATION | type | Consortium de sécurité IA américain | AJOUT |
+| red teaming | METHODOLOGIE | description | Tests adversariaux pour identifier capacités dangereuses des modèles IA | AJOUT |

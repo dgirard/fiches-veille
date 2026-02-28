@@ -94,3 +94,40 @@ Leaders doivent partir principe : **(1) information ne voyage pas**, **(2) équi
 **Leçon Systémique**
 
 Problème n'est pas défaillance courage individuel mais design système récompensant surengagement/punissant transparence. Solution nécessite leaders redesigner incentives/structures pour que escalation devienne path of least resistance vs acte courage politique.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| John Cutler | PERSONNE | a_publié | Why Teams Don't Escalate | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| John Cutler | PERSONNE | travaille_chez | Dotwork | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| équipes | CONCEPT | n_escaladent_pas | problèmes blocants | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| pression surengagement | CONCEPT | récompense | dire oui | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| risque carrière | CONCEPT | freine | escalation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| compression 3 minutes | CONCEPT | distorte | problèmes complexes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| enjeux politiques | CONCEPT | bloquent | résolution collective | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| cascade hiérarchique | CONCEPT | amplifie | dysfonctionnements | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+| trip-wires automatiques | METHODOLOGIE | remplace | courage politique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| leaders | CONCEPT | doivent_démontrer | réduction de scope | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| WIP limits | METHODOLOGIE | réduit | pression d'escalation | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| contexte 2023-2025 | EVENEMENT | invalide | règles idéalisées d'escalation | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| John Cutler | PERSONNE | recommande | forums légers récurrents | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| surengagement | CONCEPT | transfère | coûts vers équipes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| célébration du refus | METHODOLOGIE | normalise | protection de capacité | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| John Cutler | PERSONNE | rôle | Head of Product chez Dotwork | AJOUT |
+| Dotwork | ORGANISATION | secteur | Product management / Operating systems | AJOUT |
+| escalation | CONCEPT | définition | remontée volontaire d'un problème bloquant vers les leaders | AJOUT |
+| pression surengagement | CONCEPT | mécanisme | dire oui = aucun coût immédiat ; dire non = risque politique immédiat | AJOUT |
+| risque carrière | CONCEPT | origine | demander aide perçu comme signe d'échec personnel | AJOUT |
+| trip-wires automatiques | METHODOLOGIE | exemples | >N team-weeks, >N jours en cours, >N équipes impliquées, complexité >N | AJOUT |
+| WIP limits | METHODOLOGIE | objectif | contraindre le travail en cours pour limiter surengagement | AJOUT |
+| forums légers récurrents | METHODOLOGIE | format | weekly sync permettant de remonter nuances sans jugement | AJOUT |
+| cascade hiérarchique | CONCEPT | direction | VP → Directors → Managers, chaque niveau amplifiant les problèmes | AJOUT |
+| contexte 2023-2025 | EVENEMENT | facteurs | layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation | AJOUT |

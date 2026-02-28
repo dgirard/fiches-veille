@@ -47,3 +47,35 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage sa vision de l'évo
 **Multiplication de la productivité** : Les programmeurs ne disparaissent pas - ils deviennent 10x, 100x, voire 1000x plus productifs. Les tâches changent, le métier change, mais les humains continuent de superviser le processus, d'évaluer les résultats, de corriger les erreurs et de prendre les décisions de jugement. L'IA change la façon dont nous codons, pas qui est responsable.
 
 **La vraie révolution** : Le programmeur du futur n'est pas remplacé par l'IA - il est augmenté par elle. Il reste nécessaire d'apprendre à écrire et comprendre le code, car quand l'IA se trompe, ce sont les humains qui doivent savoir pourquoi. Cette élévation des capacités ("up-leveling") constitue la véritable révolution, non pas la disparition du métier mais sa transformation vers un rôle d'orchestration et de supervision à haut niveau.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Marc Andreessen | PERSONNE | affirme_que | l'IA redéfinit les programmeurs sans les supprimer | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | les fondamentaux du code restent indispensables | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | prédit | une productivité 10x à 1000x pour les programmeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | fait_partie_de | Andreessen Horowitz | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
+| programmeur | CONCEPT | orchestre | bots de codage | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| programmeur | CONCEPT | supervise | IA de codage | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| bots de codage | TECHNOLOGIE | remplace | écriture ligne par ligne | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| compréhension du code | CONCEPT | permet | évaluation de l'output IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| IA de codage | TECHNOLOGIE | augmente | productivité du programmeur | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA de codage | TECHNOLOGIE | abstrait | travail de programmation | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| responsabilité humaine | CONCEPT | est_maintenue_par | supervision et jugement | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| orchestration de bots | METHODOLOGIE | requiert | fondamentaux de programmation | CONCEPT | 0.95 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Marc Andreessen | PERSONNE | rôle | Co-fondateur Andreessen Horowitz, figure d'autorité tech | AJOUT |
+| Andreessen Horowitz | ORGANISATION | secteur | Capital-risque / technologie | AJOUT |
+| bots de codage | TECHNOLOGIE | usage | Génération de code supervisée par humain | AJOUT |
+| IA de codage | TECHNOLOGIE | effet | Augmentation de productivité, transformation du métier | AJOUT |
+| orchestration de bots | METHODOLOGIE | description | Gérer 10 bots en parallèle, débugger, affiner les specs | AJOUT |
+| fondamentaux de programmation | CONCEPT | statut | Toujours indispensables malgré l'IA | AJOUT |
+| programmeur | CONCEPT | évolution | De codeur ligne par ligne à orchestrateur/superviseur IA | AJOUT |
+| productivité 10x-1000x | CONCEPT | nature | Multiplication capacité individuelle par levier IA | AJOUT |

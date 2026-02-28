@@ -64,3 +64,32 @@ Plusieurs membres développent des outils complémentaires : `gemini-mcp-tool`, 
 **Considérations Futures**
 
 Les discussions mentionnent des préoccupations concernant l'usage potentiel des données pour entraînement IA et la pérennité de la gratuité de Gemini CLI. Néanmoins, la méthode démontre qu'une orchestration intelligente de modèles IA spécialisés peut surpasser l'utilisation isolée d'un seul outil, menant à une expérience de codage "much better" selon le consensus communautaire.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Gemini CLI | TECHNOLOGIE | possède | grande fenêtre de contexte | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | surpasse | Gemini CLI | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| u/H9ejFGzpN2 | PERSONNE | recommande | workflow hybride Gemini+Claude | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Gemini CLI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Gemini CLI | TECHNOLOGIE | est_gratuit | accès grand public | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| workflow hybride Gemini+Claude | METHODOLOGIE | économise | fenêtre de contexte Claude | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| CLAUDE.md | TECHNOLOGIE | configure | comportement Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| u/casce | PERSONNE | a_développé | bash functions automatisation Gemini→Claude | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | intégration Gemini CLI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| philosophie Unix | CONCEPT | guide | orchestration multi-agents IA | CONCEPT | 0.87 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Gemini CLI | TECHNOLOGIE | atout | Fenêtre de contexte massive, gratuit en 2025 | AJOUT |
+| Claude Code | TECHNOLOGIE | atout | Suivi d'instructions, génération de code, utilisation d'outils | AJOUT |
+| u/H9ejFGzpN2 | PERSONNE | rôle | Auteur du post Reddit, praticien du workflow hybride | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | fonction | Fichier de configuration des instructions Claude Code | AJOUT |
+| workflow hybride Gemini+Claude | METHODOLOGIE | principe | Gemini pour ingestion massive, Claude pour raisonnement et génération | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Model Context Protocol - protocole d'intégration d'outils IA | AJOUT |
+| philosophie Unix | CONCEPT | nature | Combiner outils spécialisés pour workflows puissants | AJOUT |

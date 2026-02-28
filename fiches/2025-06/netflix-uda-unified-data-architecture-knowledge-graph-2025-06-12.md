@@ -70,3 +70,38 @@ Sphere : système reporting opérationnel self-service UDA-powered. Discovery vi
 **Impact transformationnel**
 
 UDA transforme modèles conceptuels en control plane actif : non seulement documente concepts, mais génère schémas, provisionne services, orchestre data movement, et enforce consistency automatiquement. Futurs développements : support Protobuf/gRPC, matérialisation knowledge graph instance data, résolution challenges Graph Search initiaux ayant inspiré ce travail.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Netflix | ORGANISATION | a_développé | UDA | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | est_basé_sur | RDF | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | est_basé_sur | SHACL | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | est_composant_de | UDA | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | génère | GraphQL | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | génère | Avro | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | permet | PDM | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | permet | Sphere | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| PDM | TECHNOLOGIE | utilise | SKOS | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Sphere | TECHNOLOGIE | génère | requêtes SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | résout | duplication_modèles | CONCEPT | 0.97 | ATEMPOREL | inféré |
+| UDA | TECHNOLOGIE | connecte | domain models | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Netflix | ORGANISATION | applique | principe "Model Once Represent Everywhere" | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Netflix | ORGANISATION | secteur | Streaming / Content Engineering | AJOUT |
+| UDA | TECHNOLOGIE | catégorie | Architecture données unifiée basée sur knowledge graph | AJOUT |
+| Upper | TECHNOLOGIE | rôle | Métamodèle auto-référentiel pour modélisation domaine | AJOUT |
+| PDM | TECHNOLOGIE | fonction | Gestion vocabulaires contrôlés et taxonomies | AJOUT |
+| Sphere | TECHNOLOGIE | fonction | Reporting opérationnel self-service UDA-powered | AJOUT |
+| RDF | TECHNOLOGIE | rôle | Fondation technique knowledge graph UDA | AJOUT |
+| SHACL | TECHNOLOGIE | rôle | Validation et contraintes du knowledge graph UDA | AJOUT |
+| Data Mesh | TECHNOLOGIE | rôle | Plateforme de mouvement de données dans l'écosystème Netflix | AJOUT |
+| SKOS | TECHNOLOGIE | standard | W3C - modélisation de connaissances pour PDM | AJOUT |
+| principe "Model Once Represent Everywhere" | CONCEPT | nature | Principe architectural central d'UDA | AJOUT |

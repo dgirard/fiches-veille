@@ -68,3 +68,35 @@ Choice to position comme **"semi-automatisée"** rather than fully autonomous re
 **Future Trajectory**
 
 ChatGPT Agent represents significant milestone dans OpenAI's product evolution, moving depuis pure language models vers action-capable agents. Success will depend on reliability, safety mechanisms, et ability integrate seamlessly dans existing workflows. Launch positions OpenAI à forefront de agentic AI revolution, potentially transforming how knowledge workers interact avec digital tools.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| OpenAI | ORGANISATION | a_lancé | ChatGPT Agent | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | est_basé_sur | Runner H | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | remplace | Operator | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | utilise | machine virtuelle semi-automatisée | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | permet | interaction directe avec UI | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | fait_partie_de | marché des agents autonomes | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | s_oppose_à | Anthropic | ORGANISATION | 0.82 | DYNAMIQUE | inféré |
+| Anthropic | ORGANISATION | développe | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| ChatGPT Agent | TECHNOLOGIE | préserve | supervision humaine | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | affirme_que | ChatGPT Agent transforme les workflows des travailleurs du savoir | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Runner H | TECHNOLOGIE | a_évolué_vers | ChatGPT Agent | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| OpenAI | ORGANISATION | secteur | IA générative / Produits grand public | AJOUT |
+| ChatGPT Agent | TECHNOLOGIE | catégorie | Agent autonome CLI/interface | AJOUT |
+| ChatGPT Agent | TECHNOLOGIE | date de lancement | 2025-07-17 | AJOUT |
+| Runner H | TECHNOLOGIE | statut | Prédécesseur de ChatGPT Agent | AJOUT |
+| Operator | TECHNOLOGIE | statut | Rebrandé en ChatGPT Agent | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Agent de codage / Assistant IA | AJOUT |
+| machine virtuelle semi-automatisée | CONCEPT | description | Exécution de tâches semi-autonomes avec supervision humaine | AJOUT |
+| supervision humaine | CONCEPT | rôle | Garde-fou dans le déploiement responsable de l'IA agentique | AJOUT |

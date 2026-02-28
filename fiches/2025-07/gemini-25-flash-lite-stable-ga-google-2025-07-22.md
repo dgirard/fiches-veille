@@ -55,3 +55,42 @@ Practical applications de Gemini 2.5 Flash-Lite sont already evident à travers 
 **Accessibilité et Déploiement**
 
 Developers peuvent begin using **stable version** de Gemini 2.5 Flash-Lite en specifying **"gemini-2.5-flash-lite"** dans code, avec preview alias slated pour removal on **August 25th**. Model est readily available dans **Google AI Studio et Vertex AI**, inviting developers explorer capabilities pour building innovative AI solutions. Cette strategic positioning de Flash-Lite comme go-to choice pour cost-conscious, latency-sensitive applications demonstrates Google's commitment à providing tiered model offerings addressing diverse developer needs, depuis ultra-fast inference à deep reasoning capabilities, tout en maintaining competitive pricing pour democratize access à advanced AI.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | publie | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Logan Kilpatrick | PERSONNE | annonce | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Zach Gleicher | PERSONNE | annonce | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | fait_partie_de | Gemini 2.5 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | coûte | $0.10 / 1M tokens input, $0.40 / 1M tokens output | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | surpasse | Gemini 2.0 Flash-Lite | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | supporte | Grounding with Google Search | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | est_disponible_sur | Google AI Studio | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | est_disponible_sur | Vertex AI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Satlyt | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Satlyt | ORGANISATION | réduit | latence diagnostics onboard de 45% | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| HeyGen | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| DocsHound | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Evertune | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | possède | fenêtre contexte 1 million tokens | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Google | ORGANISATION | secteur | IA / Cloud / Plateforme développeurs | AJOUT |
+| Logan Kilpatrick | PERSONNE | rôle | Group Product Manager, Google | AJOUT |
+| Zach Gleicher | PERSONNE | rôle | Product Manager, Google DeepMind | AJOUT |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | catégorie | LLM léger, cost-efficient, faible latence | AJOUT |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | prix input | $0.10 / 1M tokens | AJOUT |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | prix output | $0.40 / 1M tokens | AJOUT |
+| Google AI Studio | TECHNOLOGIE | catégorie | Plateforme développement IA Google | AJOUT |
+| Vertex AI | TECHNOLOGIE | catégorie | Plateforme MLOps Google Cloud | AJOUT |
+| Satlyt | ORGANISATION | secteur | Informatique spatiale décentralisée | AJOUT |
+| HeyGen | ORGANISATION | secteur | Création avatars vidéo IA | AJOUT |
+| DocsHound | ORGANISATION | secteur | Documentation automatisée depuis démos produit | AJOUT |
+| Evertune | ORGANISATION | secteur | Analyse représentation marques dans LLMs | AJOUT |

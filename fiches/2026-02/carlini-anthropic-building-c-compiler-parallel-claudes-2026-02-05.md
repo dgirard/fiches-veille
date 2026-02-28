@@ -55,3 +55,42 @@ Nicholas Carlini, chercheur de l'équipe Safeguards d'Anthropic, a dirigé une e
 **Progression des modèles** : L'article sert aussi de benchmark des capacités. Opus 4 produisait à peine un compilateur fonctionnel, Opus 4.5 a permis le premier compilateur passant des suites de tests, et Opus 4.6 repousse les limites en compilant de vrais projets à grande échelle.
 
 **Enjeux de sécurité** : L'auteur, fort de son background en tests de pénétration, rappelle que passer les tests ne garantit pas la correction du logiciel. Le déploiement autonome de code non vérifié par des humains représente un risque réel nécessitant de nouvelles stratégies de sécurité. Le code source est disponible sur GitHub (anthropics/claudes-c-compiler).
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Nicholas Carlini | PERSONNE | emploie | agents parallèles | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Nicholas Carlini | PERSONNE | travaille_pour | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Nicholas Carlini | PERSONNE | a_créé | compilateur C en Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Opus 4.6 | TECHNOLOGIE | a_produit | compilateur C en Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| compilateur C en Rust | TECHNOLOGIE | compile | Linux 6.9 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| compilateur C en Rust | TECHNOLOGIE | atteint | 99% de réussite sur suites de tests | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| agents parallèles | METHODOLOGIE | utilise | Docker | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| agents parallèles | METHODOLOGIE | utilise | synchronisation par fichiers verrou | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| GCC | TECHNOLOGIE | sert_d_oracle_pour | agents parallèles | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| spécialisation par rôle | CONCEPT | améliore | agents parallèles | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| sécurité agents autonomes | CONCEPT | nécessite | vérification humaine | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Nicholas Carlini | PERSONNE | affirme_que | qualité des tests est critique pour agents autonomes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Claude Opus 4.6 | TECHNOLOGIE | surpasse | Claude Opus 4.5 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Nicholas Carlini | PERSONNE | rôle | Chercheur équipe Safeguards, Anthropic | AJOUT |
+| Nicholas Carlini | PERSONNE | spécialité | Tests de pénétration (pentest) | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Opus 4.6 | TECHNOLOGIE | catégorie | Modèle de langage frontier Anthropic | AJOUT |
+| Claude Opus 4.6 | TECHNOLOGIE | consommation | 2 milliards tokens entrée, 140 millions tokens sortie | AJOUT |
+| compilateur C en Rust | TECHNOLOGIE | taille | 100 000 lignes de code | AJOUT |
+| compilateur C en Rust | TECHNOLOGIE | coût_production | ~20 000 dollars API | AJOUT |
+| compilateur C en Rust | TECHNOLOGIE | architectures_cibles | x86, ARM, RISC-V | AJOUT |
+| agents parallèles | METHODOLOGIE | nombre_instances | 16 agents simultanés | AJOUT |
+| agents parallèles | METHODOLOGIE | sessions_total | ~2 000 sessions Claude Code | AJOUT |
+| GCC | TECHNOLOGIE | rôle | Oracle de référence pour répartition des tâches | AJOUT |
+| Linux 6.9 | TECHNOLOGIE | type | Noyau Linux | AJOUT |
+| sécurité agents autonomes | CONCEPT | risque | Déploiement de code non vérifié par humains | AJOUT |
+| spécialisation par rôle | CONCEPT | exemples | Déduplication, optimisation, critique design, documentation | AJOUT |

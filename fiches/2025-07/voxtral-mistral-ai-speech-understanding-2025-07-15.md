@@ -56,3 +56,40 @@ Benchmarking results highlight Voxtral's superior performance. Il comprehensivel
 **Roadmap et Vision**
 
 Looking ahead, Mistral AI plans introduce **speaker segmentation, audio markups (age and emotion), word-level timestamps, et non-speech audio recognition**. Company actively expanding audio team, seeking talented research scientists et engineers pour contribute à mission de democratizing AI et building natural, delightful near-human-like voice interfaces. Mistral AI encourage developers integrate Voxtral via local downloads sur Hugging Face, via API, ou trying it sur Le Chat's voice mode, avec advanced enterprise features incluant private deployment, domain-specific fine-tuning, et dedicated integration support.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Mistral AI | ORGANISATION | publie | Voxtral | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | est_basé_sur | Mistral Small 3.1 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | est_disponible_sous | licence Apache 2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Voxtral Small | TECHNOLOGIE | surpasse | Whisper large-v3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Voxtral Small | TECHNOLOGIE | surpasse | GPT-4o mini Transcribe | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Voxtral Small | TECHNOLOGIE | surpasse | Gemini 2.5 Flash | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Voxtral Small | TECHNOLOGIE | égale | ElevenLabs Scribe | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Voxtral Mini Transcribe | TECHNOLOGIE | coûte_moins_que | OpenAI Whisper | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | supporte | function-calling depuis la voix | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | intègre | Q&A et summarisation audio | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | est_disponible_sur | Hugging Face | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Le Chat | TECHNOLOGIE | intègre | Voxtral | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | Inworld | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Voxtral | TECHNOLOGIE | catégorie | Modèle de compréhension vocale open source | AJOUT |
+| Voxtral | TECHNOLOGIE | variantes | Small (24B) et Mini (3B) | AJOUT |
+| Voxtral | TECHNOLOGIE | licence | Apache 2.0 | AJOUT |
+| Voxtral | TECHNOLOGIE | contexte audio maximal | 30 min (transcription), 40 min (compréhension) | AJOUT |
+| Voxtral | TECHNOLOGIE | langues supportées | Anglais, espagnol, français, portugais, hindi, allemand, néerlandais, italien | AJOUT |
+| Mistral Small 3.1 | TECHNOLOGIE | catégorie | Modèle de langage backbone | AJOUT |
+| Mistral AI | ORGANISATION | secteur | IA / Open source | AJOUT |
+| Le Chat | TECHNOLOGIE | catégorie | Assistant IA Mistral AI | AJOUT |
+| Hugging Face | TECHNOLOGIE | catégorie | Plateforme de distribution de modèles | AJOUT |
+| Whisper large-v3 | TECHNOLOGIE | catégorie | Modèle ASR open source (OpenAI) | AJOUT |
+| ElevenLabs Scribe | TECHNOLOGIE | catégorie | Modèle de transcription propriétaire | AJOUT |
+| Inworld | ORGANISATION | secteur | IA vocale / TTS | AJOUT |

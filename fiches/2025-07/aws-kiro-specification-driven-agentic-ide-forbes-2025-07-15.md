@@ -54,3 +54,35 @@ Strategiquement, Kiro represents notable shift pour AWS. Unlike Amazon Q Develop
 **Défis et Différenciation**
 
 Despite innovative approach, Kiro faces several challenges pour widespread enterprise adoption. Ces include existing **"tool proliferation"** dans AI development space pouvant lead à choice paralysis, et general **lack de predefined workflows** pour AI-assisted development dans enterprises. **Security et compliance** remain paramount concerns pour organizations, et while Kiro incorporates security scanning, il will need démontrer robust governance frameworks pour AI-generated code. Platform's emphasis sur keeping specifications synchronized avec code changes est direct attempt pour solve persistent problem d'outdated documentation dans software development. Kiro's success will ultimately depend sur ability à prove advantages over existing tools et effectively address ces enterprise-level concerns about quality et governance.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| AWS | ORGANISATION | a_lancé | Kiro | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | concurrence | Cursor | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | concurrence | Windsurf | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | est_basé_sur | Code OSS | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | utilise | Claude Sonnet | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | implémente | spec coding | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| spec coding | METHODOLOGIE | s_oppose_à | vibe coding | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| spec coding | METHODOLOGIE | transforme | prompt en spécifications structurées | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Kiro | TECHNOLOGIE | s_oppose_à | Amazon Q Developer | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| Janakiram MSV | PERSONNE | publie_dans | Forbes | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Kiro | TECHNOLOGIE | propose | modèle tarifaire usage-based | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kiro | TECHNOLOGIE | catégorie | IDE agentique specification-driven | AJOUT |
+| AWS | ORGANISATION | secteur | Cloud / Outils développeurs IA | AJOUT |
+| spec coding | METHODOLOGIE | définition | Méthodologie transformant prompts en spécifications structurées, designs techniques et plans d'implémentation | AJOUT |
+| Code OSS | TECHNOLOGIE | rôle | Base open-source de Visual Studio Code, fondation technique de Kiro | AJOUT |
+| Claude Sonnet | TECHNOLOGIE | versions | 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | IDE agentique concurrent de Kiro | AJOUT |
+| Windsurf | TECHNOLOGIE | catégorie | IDE agentique concurrent de Kiro | AJOUT |
+| Amazon Q Developer | TECHNOLOGIE | distinction | Outil AWS fortement couplé aux services cloud, contrairement à Kiro (cloud-agnostic) | AJOUT |
+| Janakiram MSV | PERSONNE | rôle | Senior Contributor Forbes, analyste cloud et IA | AJOUT |

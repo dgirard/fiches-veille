@@ -49,3 +49,37 @@ La notion de "compétences en tant que super-pouvoirs" représente un changement
 Les implications pratiques sont considérables. Les professionnels travaillant régulièrement avec des documents peuvent désormais automatiser des tâches répétitives via des conversations en langage naturel avec Claude, sans nécessiter de compétences en programmation. Cette démocratisation de l'automatisation documentaire pourrait significativement améliorer la productivité dans de nombreux contextes professionnels.
 
 En conclusion, l'exploration de Willison révèle qu'Anthropic construit une infrastructure de compétences sophistiquée et découvrable, positionnant Claude non seulement comme un assistant conversationnel mais comme une plateforme d'automatisation documentaire robuste et extensible.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Simon Willison | PERSONNE | a_découvert | /mnt/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | fait_partie_de | Code Interpreter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | prend_en_charge | docx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | prend_en_charge | pdf | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | prend_en_charge | pptx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | prend_en_charge | xlsx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | pypdf | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | scripts Python | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | a_inspiré | Simon Willison | PERSONNE | 0.92 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | a_publié | simonw/claude-skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | Skills sont intentionnellement découvrables | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Code Interpreter | TECHNOLOGIE | est_disponible_sur | application iOS Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Simon Willison | PERSONNE | rôle | Auteur du blog simonwillison.net, ingénieur | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Skills | TECHNOLOGIE | catégorie | Système de compétences modulaires pour Claude | AJOUT |
+| Code Interpreter | TECHNOLOGIE | catégorie | Environnement d'exécution Python intégré à Claude | AJOUT |
+| /mnt/skills | TECHNOLOGIE | type | Répertoire système hébergeant les skills Claude | AJOUT |
+| Jesse Vincent | PERSONNE | rôle | Auteur du post "Claude Code Superpowers" | AJOUT |
+| pypdf | TECHNOLOGIE | catégorie | Bibliothèque Python de manipulation de PDF | AJOUT |
+| simonw/claude-skills | TECHNOLOGIE | catégorie | Dépôt GitHub public des skills Claude extraits | AJOUT |
+| Démocratisation automatisation documentaire | CONCEPT | description | Accès aux tâches d'automatisation sans compétences en programmation | AJOUT |

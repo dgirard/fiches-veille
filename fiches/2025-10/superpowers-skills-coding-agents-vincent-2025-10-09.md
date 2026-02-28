@@ -50,3 +50,38 @@ L'application de principes de persuasion psychologique aux prompts représente u
 Les perspectives futures incluent des mécanismes de partage de compétences entre développeurs, une gestion mémoire plus sophistiquée permettant aux agents de maintenir un contexte sur de longues périodes, et l'expansion continue des capacités des agents vers de nouveaux domaines d'expertise.
 
 En conclusion, le système Superpowers représente un changement de paradigme dans l'utilisation des agents de codage IA, passant d'outils ponctuels à des partenaires d'apprentissage continu dotés de compétences spécialisées et évolutives.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Jesse Vincent | PERSONNE | a_créé | Superpowers | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | skills | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| skills | CONCEPT | se_présentent_sous_forme_de | fichiers SKILL.md | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_publié | système de plugins Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | intègre | workflow Brainstorm-Plan-Implement | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | applique | RED/GREEN TDD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | automatise | création de git worktrees | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | utilise | principes de persuasion Cialdini | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| principes de persuasion Cialdini | CONCEPT | améliorent | fiabilité des agents IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Superpowers | TECHNOLOGIE | permet | dispatching vers sous-agents | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Microsoft Amplifier | TECHNOLOGIE | s_appuie_sur | auto-amélioration par fichiers markdown | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | collabore_avec | Sam Schillace | PERSONNE | 0.75 | DYNAMIQUE | inféré |
+| Dan Shapiro | PERSONNE | a_coécrit | étude sur Cialdini et LLMs | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| skills | CONCEPT | peuvent_être_extraites_de | livres techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Jesse Vincent | PERSONNE | rôle | Développeur et auteur du blog fsck.com | AJOUT |
+| Superpowers | TECHNOLOGIE | catégorie | Système de compétences pour agents IA (plugin Claude Code) | AJOUT |
+| skills | CONCEPT | format | Fichiers markdown (SKILL.md) persistants, testables et partageables | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| RED/GREEN TDD | METHODOLOGIE | description | Test échouant d'abord, puis code minimal pour le faire passer | AJOUT |
+| workflow Brainstorm-Plan-Implement | METHODOLOGIE | étapes | Brainstorm, Plan, Implement — exécutées séquentiellement | AJOUT |
+| principes de persuasion Cialdini | CONCEPT | source | Robert Cialdini, ouvrage Influence | AJOUT |
+| Microsoft Amplifier | TECHNOLOGIE | auteurs | Sam Schillace, Brian Krabach | AJOUT |
+| git worktrees | TECHNOLOGIE | usage | Isolation des tâches parallèles au sein d'un même dépôt | AJOUT |
+| Dan Shapiro | PERSONNE | contribution | Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs | AJOUT |

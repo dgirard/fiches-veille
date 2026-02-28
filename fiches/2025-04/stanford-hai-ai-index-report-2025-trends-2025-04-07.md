@@ -77,3 +77,37 @@ Many established AI benchmarks **approaching saturation** - models achieving nea
 **Future Outlook Implications**
 
 Report's data suggests AI development entering **new phase** : post-scaling era requiring innovation beyond model size, increased regulatory scrutiny shaping development practices, consolidation risk from compute cost barriers, enterprise adoption driving practical versus purely capability-focused research.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Stanford HAI | ORGANISATION | publie | AI Index Report 2025 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Ray Perrault | PERSONNE | co-préside | AI Index Steering Committee | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Jack Clark | PERSONNE | est_cofondateur_de | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Jack Clark | PERSONNE | fait_partie_de | AI Index Steering Committee | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Erik Brynjolfsson | PERSONNE | est_chercheur_à | Stanford HAI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| industrie IA | CONCEPT | domine | recherche académique IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| modèles frontier | CONCEPT | nécessitent | budget entraînement supérieur à 100M$ | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| lois IA | CONCEPT | adoptées_par | 37 pays en 2024 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| EU AI Act | EVENEMENT | régule | déploiement IA en Europe | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| États-Unis | LIEU | rivalise_avec | Chine | LIEU | 0.95 | DYNAMIQUE | déclaré_article |
+| femmes | CONCEPT | représentent | 18% des chercheurs IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| performances benchmarks IA | CONCEPT | atteignent | saturation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Vanessa Parli | PERSONNE | est_membre_de | AI Index Steering Committee | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Stanford HAI | ORGANISATION | catégorie | Institut de recherche IA centré sur l'humain | AJOUT |
+| AI Index Report 2025 | EVENEMENT | catégorie | Rapport annuel global sur l'IA | AJOUT |
+| Ray Perrault | PERSONNE | rôle | Co-chair AI Index Steering Committee, SRI International | AJOUT |
+| Jack Clark | PERSONNE | rôle | Co-fondateur Anthropic, membre AI Index Steering Committee | AJOUT |
+| Erik Brynjolfsson | PERSONNE | rôle | Professeur senior, Stanford HAI | AJOUT |
+| Vanessa Parli | PERSONNE | rôle | Directrice de recherche Stanford HAI | AJOUT |
+| EU AI Act | EVENEMENT | catégorie | Réglementation européenne sur l'IA | AJOUT |
+| Anthropic | ORGANISATION | secteur | Recherche et sécurité IA | AJOUT |
+| AI Index Steering Committee | ORGANISATION | catégorie | Comité de direction interdisciplinaire | AJOUT |

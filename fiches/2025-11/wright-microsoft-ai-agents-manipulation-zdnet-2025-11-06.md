@@ -75,3 +75,44 @@ Convergence recherches récentes : agents long way from quality freelance work, 
 **Conclusion Microsoft explicite** : "Agents should assist, not replace, human decision-making."
 
 Recherche fournit blueprint AI companies address flaws car agents failed consistently—predictably.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Microsoft | ORGANISATION | a_créé | Magentic Marketplace | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Magentic Marketplace | TECHNOLOGIE | simule | transactions marketplace agents IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Claude Sonnet 4 | TECHNOLOGIE | résiste_à | tentatives de manipulation | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| GPT-5 | TECHNOLOGIE | souffre_de | paradox of choice | CONCEPT | 0.75 | STATIQUE | inféré |
+| Qwen2.5-14b-2507 | TECHNOLOGIE | présente | last business bias | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| agents IA | CONCEPT | souffrent_de | proposal bias | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| proposal bias | CONCEPT | réduit | consumer welfare | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Microsoft | ORGANISATION | publie | Magentic Marketplace | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Magentic Marketplace | TECHNOLOGIE | est_disponible_sur | GitHub | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Webb Wright | PERSONNE | a_rédigé | article ZDNet manipulation agents | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| OpenAI Operator | TECHNOLOGIE | automatise | transactions utilisateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Meta Business AI | TECHNOLOGIE | automatise | interactions clients | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | affirme_que | les agents doivent assister et non remplacer la décision humaine | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| agents IA | CONCEPT | menacent | équité des marchés | CONCEPT | 0.85 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Microsoft | ORGANISATION | secteur | Technologie / Recherche IA | AJOUT |
+| Magentic Marketplace | TECHNOLOGIE | catégorie | Environnement open-source simulation agents | AJOUT |
+| Magentic Marketplace | TECHNOLOGIE | disponibilité | GitHub (open-source) | AJOUT |
+| Claude Sonnet 4 | TECHNOLOGIE | éditeur | Anthropic | AJOUT |
+| Claude Sonnet 4 | TECHNOLOGIE | particularité | Seul modèle résistant à toutes manipulations | AJOUT |
+| GPT-5 | TECHNOLOGIE | éditeur | OpenAI | AJOUT |
+| Gemini 2.5 Flash | TECHNOLOGIE | éditeur | Google | AJOUT |
+| Qwen2.5-14b-2507 | TECHNOLOGIE | catégorie | Modèle open-source | AJOUT |
+| OSS-20b | TECHNOLOGIE | catégorie | Modèle open-source | AJOUT |
+| Webb Wright | PERSONNE | rôle | Contributing Writer, ZDNet | AJOUT |
+| OpenAI Operator | TECHNOLOGIE | éditeur | OpenAI | AJOUT |
+| Meta Business AI | TECHNOLOGIE | éditeur | Meta | AJOUT |
+| proposal bias | CONCEPT | définition | Préférence vitesse sur exhaustivité dans sélection de vendeur | AJOUT |
+| paradox of choice | CONCEPT | effet | Consumer welfare décroît quand options vendor augmentent | AJOUT |
+| consumer welfare | CONCEPT | métrique | Somme valuations internes - prix final agrégé | AJOUT |

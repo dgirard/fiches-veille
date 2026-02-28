@@ -75,3 +75,38 @@ Il souligne également l'importance d'adresser les structures d'incitation qui e
 **Vision stratégique**
 
 L'insight critique de Mollick : l'avantage compétitif appartient aux organisations qui apprennent le plus rapidement, pas à celles qui attendent une clarté parfaite. "Le moment de commencer n'est pas quand tout devient clair—c'est maintenant, pendant que tout est encore désordonné et incertain."
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | propose | framework Leadership-Lab-Crowd | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie_sur | One Useful Thing | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Manus | TECHNOLOGIE | est_basé_sur | Claude | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | a_évalué | Manus | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_établi | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Duolingo | ORGANISATION | a_établi | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Andrew Carton | PERSONNE | a_montré | importance vision concrète leadership | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| gains individuels IA | CONCEPT | ne_se_traduit_pas_en | gains organisationnels | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| travailleurs américains | CONCEPT | utilisent | IA au travail | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Secret Cyborgs | CONCEPT | résulte_de | incitations organisationnelles inadaptées | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Lab | CONCEPT | pratique | innovation ambidextre | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Wharton | ORGANISATION | a_produit | simulation business complexe | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Google Veo 3 | TECHNOLOGIE | génère | vidéos à partir de texte | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Chercheur et auteur, professeur Wharton | AJOUT |
+| framework Leadership-Lab-Crowd | METHODOLOGIE | catégorie | Modèle de transformation IA organisationnelle | AJOUT |
+| Manus | TECHNOLOGIE | nature | Agent IA basé sur Claude | AJOUT |
+| One Useful Thing | ORGANISATION | catégorie | Newsletter Substack | AJOUT |
+| Shopify | ORGANISATION | secteur | Commerce en ligne | AJOUT |
+| Duolingo | ORGANISATION | secteur | Apprentissage des langues | AJOUT |
+| Secret Cyborgs | CONCEPT | définition | Travailleurs cachant leur usage de l'IA | AJOUT |
+| Andrew Carton | PERSONNE | rôle | Collègue chercheur de Mollick | AJOUT |
+| Wharton | ORGANISATION | catégorie | École de commerce universitaire | AJOUT |
+| Google Veo 3 | TECHNOLOGIE | catégorie | Outil de génération vidéo IA | AJOUT |

@@ -54,3 +54,39 @@ Willison prédit une "explosion cambrienne" de Skills, évoquant la période d'�
 L'article met l'accent sur l'élégance de la simplicité des Skills. Dans un écosystème technologique souvent enclin à la complexité excessive, les Skills représentent un retour rafraîchissant aux principes fondamentaux : des instructions claires, un contexte pertinent, et une exécution directe. Cette approche minimaliste pourrait paradoxalement s'avérer plus transformative que des solutions plus sophistiquées mais plus complexes comme le MCP.
 
 En conclusion, Willison suggère que nous sous-estimons peut-être l'importance des Skills. Leur combinaison de simplicité, d'efficacité et de puissance en fait un mécanisme idéal pour la spécialisation des tâches d'IA sans infrastructure complexe, ouvrant la porte à une ère d'innovation décentralisée et accessible dans le développement d'agents IA spécialisés.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_annoncé | Claude Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | prédit | explosion cambrienne des Skills | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Simon Willison | PERSONNE | affirme_que | Claude Skills surpasseront MCP | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_oppose_à | MCP | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Skills | TECHNOLOGIE | est_basé_sur | fichiers Markdown | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | réduit | consommation de tokens | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | souffre_de | overhead de tokens excessif | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | agent général d'automatisation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Skills | TECHNOLOGIE | est_compatible_avec | Codex CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | est_compatible_avec | Gemini CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_publié | anthropics/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | a_préempté | annonce officielle Anthropic des Skills | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | nécessite | environnement de codage avec accès filesystem | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Simon Willison | PERSONNE | rôle | Auteur du blog simonwillison.net, ingénieur | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Skills | TECHNOLOGIE | catégorie | Dossiers d'instructions Markdown + scripts pour spécialisation de Claude | AJOUT |
+| MCP | TECHNOLOGIE | forme_longue | Model Context Protocol | AJOUT |
+| MCP | TECHNOLOGIE | date_lancement | Novembre 2024 | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent général d'automatisation par CLI | AJOUT |
+| anthropics/skills | TECHNOLOGIE | catégorie | Dépôt GitHub officiel Anthropic des skills | AJOUT |
+| Codex CLI | TECHNOLOGIE | catégorie | Outil agent de codage compatible Skills | AJOUT |
+| Gemini CLI | TECHNOLOGIE | catégorie | Outil agent de codage compatible Skills | AJOUT |
+| Explosion cambrienne des Skills | CONCEPT | description | Prédiction d'adoption massive et diversifiée des Claude Skills | AJOUT |
+| Efficacité tokens | CONCEPT | description | Chargement contextuel des skills pour minimiser la consommation de tokens | AJOUT |

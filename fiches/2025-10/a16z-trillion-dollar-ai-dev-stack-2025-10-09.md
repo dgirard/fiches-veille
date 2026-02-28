@@ -45,3 +45,39 @@ L'article décrit l'émergence d'une nouvelle "stack" technologique entièrement
 Loin de remplacer les développeurs, l'IA redéfinit leur rôle. Ils deviennent des "chefs d'orchestre" qui guident des équipes d'agents IA, se concentrant davantage sur la conception de systèmes, la résolution de problèmes complexes et la supervision, plutôt que sur l'écriture de code ligne par ligne.
 
 En conclusion, a16z anticipe que cette transformation créera d'immenses opportunités pour de nouvelles entreprises qui construiront les briques de cette future stack de développement IA, redéfinissant ainsi la manière dont les logiciels sont créés.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Guido Appenzeller | PERSONNE | publie | The Trillion Dollar AI Software Development Stack | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Yoko Li | PERSONNE | publie | The Trillion Dollar AI Software Development Stack | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | emploie | Guido Appenzeller | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | emploie | Yoko Li | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Cursor | TECHNOLOGIE | atteint | 500M$ ARR | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | acquiert | Windsurf | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | transforme | marché des outils de développement IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | augmente | productivité développeur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| développement logiciel IA | CONCEPT | représente | marché de 3 billions de dollars | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| GitHub Copilot | TECHNOLOGIE | fait_partie_de | stack de développement IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| vibe coding | METHODOLOGIE | utilise | AI App Builders | TECHNOLOGIE | 0.82 | DYNAMIQUE | déclaré_article |
+| Devin | TECHNOLOGIE | est_un | agent de codage autonome | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Guido Appenzeller | PERSONNE | rôle | Investisseur a16z, infrastructure IA | AJOUT |
+| Yoko Li | PERSONNE | rôle | Partner a16z, entreprise et infrastructure | AJOUT |
+| Andreessen Horowitz | ORGANISATION | sigle | a16z | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | IDE assisté par IA | AJOUT |
+| Cursor | TECHNOLOGIE | valorisation | ~10 milliards de dollars | AJOUT |
+| Windsurf | TECHNOLOGIE | catégorie | IDE assisté par IA | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage autonome | AJOUT |
+| GitHub Copilot | TECHNOLOGIE | éditeur | Microsoft | AJOUT |
+| Devin | TECHNOLOGIE | catégorie | Agent de codage autonome | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Développement logiciel par langage naturel sans coder | AJOUT |
+| développement logiciel IA | CONCEPT | marché estimé | 3 billions de dollars (valeur économique) | AJOUT |
+| stack de développement IA | CONCEPT | phases | Planification, Code, Revue, QA, Documentation | AJOUT |

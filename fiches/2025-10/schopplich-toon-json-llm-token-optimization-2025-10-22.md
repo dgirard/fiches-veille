@@ -48,3 +48,38 @@ Les cas d'usage s'étendent des exports de données analytiques aux listes de r�
 Le projet, créé le 22 octobre 2025 par Johann Schopplich, représente une réponse pragmatique à un problème économique concret : chaque jeton consommé dans une interaction LLM a un coût financier direct. En réduisant de moitié la verbosité de JSON tout en maintenant—voire améliorant—la compréhension par le modèle, TOON offre un avantage compétitif immédiat pour les applications intensives en IA.
 
 L'innovation réside dans l'équilibre entre optimisation technique et lisibilité humaine. Contrairement aux formats de compression binaire qui deviennent opaques, TOON reste interprétable, facilitant le débogage et la maintenance. Cette caractéristique s'avère cruciale dans les environnements de production où la transparence des données échangées avec les LLM devient un enjeu de gouvernance et de conformité.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Johann Schopplich | PERSONNE | a_créé | TOON | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| TOON | TECHNOLOGIE | réduit | consommation de jetons | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| TOON | TECHNOLOGIE | améliore | précision de récupération | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| TOON | TECHNOLOGIE | est_basé_sur | YAML | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| TOON | TECHNOLOGIE | est_basé_sur | CSV | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| TOON | TECHNOLOGIE | remplace | JSON | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
+| TOON | TECHNOLOGIE | optimise | coût API LLM | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Johann Schopplich | PERSONNE | publie | toon-format/toon | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| toon-format/toon | TECHNOLOGIE | utilise | TypeScript | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| TOON | TECHNOLOGIE | s_oppose_à | compression binaire | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| organisations LLM | CONCEPT | bénéficient_de | TOON | TECHNOLOGIE | 0.87 | DYNAMIQUE | inféré |
+| TOON | TECHNOLOGIE | améliore | lisibilité humaine | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Johann Schopplich | PERSONNE | rôle | Développeur indépendant, créateur de TOON | AJOUT |
+| TOON | TECHNOLOGIE | nom complet | Token-Oriented Object Notation | AJOUT |
+| TOON | TECHNOLOGIE | réduction de jetons | 30-60% (jusqu'à 65%) vs JSON | AJOUT |
+| TOON | TECHNOLOGIE | précision de récupération | 86,6% vs 83,2% pour JSON | AJOUT |
+| TOON | TECHNOLOGIE | licence | MIT | AJOUT |
+| TOON | TECHNOLOGIE | date de création | 2025-10-22 | AJOUT |
+| toon-format/toon | TECHNOLOGIE | plateforme | GitHub | AJOUT |
+| toon-format/toon | TECHNOLOGIE | étoiles GitHub | 10 600 | AJOUT |
+| JSON | TECHNOLOGIE | catégorie | Format de sérialisation de données | AJOUT |
+| TypeScript | TECHNOLOGIE | rôle | Langage d'implémentation de TOON | AJOUT |
+| coût API LLM | CONCEPT | nature | Coût financier direct par jeton consommé | AJOUT |

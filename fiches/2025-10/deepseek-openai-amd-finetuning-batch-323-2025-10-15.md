@@ -52,3 +52,44 @@ Thinking Machines présente des outils visant à simplifier le processus de fine
 Ce numéro de The Batch reflète les tendances actuelles de l'industrie IA : optimisation des coûts, diversification des infrastructures hardware, et démocratisation des outils de développement. Ces trois axes sont complémentaires et essentiels pour passer d'une IA expérimentale à une IA véritablement déployée à grande échelle. L'accent mis sur l'efficacité opérationnelle et l'accessibilité suggère une maturation du secteur, avec un focus croissant sur la viabilité économique et la praticité des solutions IA.
 
 La newsletter aborde également d'autres sujets ("and more..."), témoignant de la richesse et de la diversité des innovations dans le domaine de l'intelligence artificielle en cette période d'octobre 2025.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| OpenAI | ORGANISATION | conclut_partenariat_avec | AMD | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | achète | AMD Instinct MI450 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AMD | ORGANISATION | émet_warrant_pour | OpenAI | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | détient_jusqu'à | 10% AMD | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| DeepSeek | ORGANISATION | publie | DeepSeek-V3.2-Exp | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | réduit | coûts_inférence | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | utilise | attention_sparse_dynamique | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | est_basé_sur | DeepSeek-V3.1-Terminus | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Thinking Machines Lab | ORGANISATION | lance | Tinker | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Mira Murati | PERSONNE | a_fondé | Thinking Machines Lab | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Tinker | TECHNOLOGIE | simplifie | fine-tuning_multi-GPU | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Tinker | TECHNOLOGIE | utilise | LoRA | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | recommande | analyse_d_erreurs | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | supporte | puces_Huawei | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | s_allie_avec | Samsung | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| OpenAI | ORGANISATION | secteur | IA / Infrastructure | AJOUT |
+| AMD | ORGANISATION | secteur | Semi-conducteurs / GPU IA | AJOUT |
+| AMD Instinct MI450 | TECHNOLOGIE | catégorie | GPU inférence data center | AJOUT |
+| DeepSeek | ORGANISATION | origine | Chine | AJOUT |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | architecture | Mixture-of-experts, 685B paramètres, ~37B actifs | AJOUT |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | licence | MIT (commercial et non-commercial) | AJOUT |
+| DeepSeek-V3.1-Terminus | TECHNOLOGIE | catégorie | Grand modèle de langage (prédécesseur) | AJOUT |
+| attention_sparse_dynamique | CONCEPT | effet | réduction coûts inférence 6-7x sur contextes longs | AJOUT |
+| Thinking Machines Lab | ORGANISATION | fondatrice | Mira Murati (ex-CTO OpenAI) | AJOUT |
+| Mira Murati | PERSONNE | rôle_précédent | CTO d'OpenAI | AJOUT |
+| Tinker | TECHNOLOGIE | catégorie | API fine-tuning multi-GPU | AJOUT |
+| LoRA | TECHNOLOGIE | catégorie | Adaptateur d'optimisation de modèle | AJOUT |
+| Andrew Ng | PERSONNE | affiliation | DeepLearning.AI | AJOUT |
+| analyse_d_erreurs | METHODOLOGIE | domaine | Développement systèmes IA agentiques | AJOUT |

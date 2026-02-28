@@ -59,3 +59,41 @@ La clé réside dans le recadrage du dialogue avec les directions financières. 
 Les marques réussissant le passage au demand-led partagent des traits communs : budgets flexibles, audiences bien définies, et systèmes de mesure robustes qui alimentent leur "flywheel IA". Ces entreprises prouvent leur valeur aux équipes financières en temps réel, transformant le marketing de gestion des coûts en déblocage de croissance.
 
 Le message central : le succès marketing en 2026 dépend de l'adoption de ce modèle d'investissement piloté par ROI et demande, plutôt que de la défense d'allocations budgétaires fixes.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Guillaume Roques | PERSONNE | publie | Fixed marketing budgets are holding you back | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Guillaume Roques | PERSONNE | travaille_pour | Google Cloud EMEA | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Budget marketing fixe | CONCEPT | empêche | capture de la demande disponible | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Demand-led marketing | METHODOLOGIE | remplace | budget marketing fixe | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Annonceurs britanniques | ORGANISATION | gagneraient | 20% de conversions supplémentaires | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Sophie Neary | PERSONNE | illustre | manque à gagner budgétaire après 19h | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Scott Sinclair | PERSONNE | affirme_que | dépenser pour capturer la demande est rationnel si ROI maîtrisé | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| CMO | CONCEPT | doit_adopter | KPI financièrement pertinents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Meridian | TECHNOLOGIE | est_utilisé_pour | Marketing Mix Modeling | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Performance Max | TECHNOLOGIE | optimise | campagnes publicitaires en temps réel | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | constitue | moteur stratégique du demand-led marketing | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| First-party data | CONCEPT | alimente | flywheel IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| CMO | CONCEPT | collabore_avec | CFO | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Google Analytics | TECHNOLOGIE | permet | suivi complet du parcours client | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Guillaume Roques | PERSONNE | rôle | Senior Director of Marketing, Google Cloud EMEA | AJOUT |
+| Sophie Neary | PERSONNE | rôle | Managing Director, Google | AJOUT |
+| Scott Sinclair | PERSONNE | rôle | Expert cité sur dialogue CMO-CFO | AJOUT |
+| Google Cloud EMEA | ORGANISATION | secteur | Cloud / Marketing B2B | AJOUT |
+| Demand-led marketing | METHODOLOGIE | description | Budget piloté par ROI et demande en temps réel | AJOUT |
+| Performance Max | TECHNOLOGIE | éditeur | Google | AJOUT |
+| AI Max for Search | TECHNOLOGIE | éditeur | Google | AJOUT |
+| Demand Gen | TECHNOLOGIE | éditeur | Google | AJOUT |
+| Meridian | TECHNOLOGIE | usage | Marketing Mix Modeling (MMM) | AJOUT |
+| Customer Lifetime Value | CONCEPT | catégorie | KPI financier marketing | AJOUT |
+| First-party data | CONCEPT | rôle | Alimentation du flywheel IA | AJOUT |
+| Budget marketing fixe | CONCEPT | problème | Plafonnement des campagnes performantes | AJOUT |

@@ -73,3 +73,35 @@ HubSpot competes avec Salesforce (adding AI to mature platform), Microsoft (Dyna
 **Future Vision**
 
 Rangan envisions CRM evolution towards : **autonomous agents** handling routine interactions, **predictive relationship management** (anticipating customer needs), **immersive experiences** (AR/VR integration), **voice-first interfaces**, **real-time collaboration** (customer + company working together transparently). HubSpot positioning pour this **AI-driven CRM future**.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Yamini Rangan | PERSONNE | dirige | HubSpot | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| HubSpot | ORGANISATION | a_développé | Breeze | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Breeze | TECHNOLOGIE | alimente | HubSpot Customer Platform | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Yamini Rangan | PERSONNE | affirme_que | AI democratize sophisticated marketing capabilities | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| HubSpot | ORGANISATION | adopte | approche AI-native | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| HubSpot | ORGANISATION | concurrence | Salesforce | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| HubSpot | ORGANISATION | concurrence | Microsoft Dynamics | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Yamini Rangan | PERSONNE | prédit | agents autonomes gérant interactions courantes | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| qualité des données | CONCEPT | conditionne | efficacité de l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| collaboration humain-IA | CONCEPT | repose_sur | augmentation plutôt que remplacement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| adoption enterprise IA | CONCEPT | requiert | change management | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Smart CRM | TECHNOLOGIE | fait_partie_de | HubSpot Customer Platform | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Yamini Rangan | PERSONNE | rôle | CEO de HubSpot | AJOUT |
+| HubSpot | ORGANISATION | secteur | SaaS / CRM / Marketing Automation | AJOUT |
+| Breeze | TECHNOLOGIE | catégorie | Couche IA transversale de la plateforme HubSpot | AJOUT |
+| HubSpot Customer Platform | TECHNOLOGIE | catégorie | Plateforme unifiée CRM, marketing, vente, service | AJOUT |
+| Smart CRM | TECHNOLOGIE | catégorie | CRM IA de HubSpot | AJOUT |
+| approche AI-native | METHODOLOGIE | description | IA intégrée aux workflows cœur, non ajoutée superficiellement | AJOUT |
+| collaboration humain-IA | CONCEPT | description | IA pour tâches répétitives, humain pour créativité et jugement | AJOUT |
+| Salesforce | ORGANISATION | secteur | CRM / SaaS entreprise | AJOUT |

@@ -75,3 +75,36 @@ While full details proprietary, research papers suggest : **transformer-based sp
 Genie 3 signals trajectory towards : **general-purpose world simulators** (AI understanding physics, causality broadly), **interactive AI experiences** beyond games (virtual training environments, creative tools), **automated content creation** (reducing production costs), **personalized experiences** (generating content tailored à individual preferences). Long-term vision : **AI-generated virtual worlds** indistinguishable depuis hand-crafted, responsive à user agency.
 
 Success demonstrates **AI approaching world modeling** - understanding not just patterns mais underlying causal structure de environments.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google DeepMind | ORGANISATION | a_publié | Genie 3 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | est_basé_sur | world model latent | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | utilise | 11 milliards de paramètres | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | permet | génération vidéo interactive contrôlable | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | a_été_entraîné_sur | vidéos de jeux vidéo platformer | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | développe | compréhension émergente de la physique | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | améliore | cohérence temporelle | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | concurrence | OpenAI Sora | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | concurrence | Runway Gen-3 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | permet | prototypage rapide de jeux | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| world model | CONCEPT | transforme | développement de jeux vidéo | CONCEPT | 0.82 | ATEMPOREL | inféré |
+| Google DeepMind | ORGANISATION | fait_partie_de | Google | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
+| contrôle par actions | CONCEPT | différencie | Genie 3 des modèles concurrents | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Genie 3 | TECHNOLOGIE | catégorie | Modèle de génération vidéo interactive | AJOUT |
+| Genie 3 | TECHNOLOGIE | paramètres | 11 milliards | AJOUT |
+| Google DeepMind | ORGANISATION | secteur | Recherche en IA | AJOUT |
+| world model latent | CONCEPT | rôle | Représentation compressée de la physique d'un environnement | AJOUT |
+| OpenAI Sora | TECHNOLOGIE | catégorie | Modèle de génération vidéo concurrent | AJOUT |
+| Runway Gen-3 | TECHNOLOGIE | catégorie | Modèle de génération vidéo concurrent | AJOUT |
+| cohérence temporelle | CONCEPT | rôle | Défi central des modèles vidéo génératifs | AJOUT |
+| contrôle par actions | CONCEPT | rôle | Différenciateur clé de Genie 3 | AJOUT |

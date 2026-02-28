@@ -41,3 +41,34 @@ Un point crucial du rapport est que l'IA ne répare pas les équipes dysfonction
 Le rapport recommande aux leaders de traiter l'adoption de l'IA comme une transformation organisationnelle, pas simplement comme un déploiement d'outils. Cela implique de clarifier les politiques d'utilisation de l'IA, de connecter l'IA au contexte interne de l'entreprise, et d'investir dans les pratiques fondamentales de développement logiciel.
 
 En conclusion, le rapport DORA 2025 fournit une feuille de route stratégique pour que les organisations passent de la simple adoption de l'IA à la véritable libération de son potentiel transformateur, en mettant l'accent sur les capacités organisationnelles plutôt que sur les outils technologiques.
+## GrapheDeConnaissance
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Nathen Harvey | PERSONNE | a_publié | Rapport DORA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Derek DeBellis | PERSONNE | a_publié | Rapport DORA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Google Cloud | ORGANISATION | publie | Rapport DORA 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | EVENEMENT | affirme_que | IA amplifie dynamiques existantes | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | améliore | livraison logicielle (throughput) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | dégrade | stabilité livraison logicielle | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Platform Engineering | METHODOLOGIE | est_prérequis_de | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| DORA AI Capabilities Model | METHODOLOGIE | identifie | sept archétypes d'équipes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | EVENEMENT | est_basé_sur | 5000 enquêtes professionnels | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | EVENEMENT | recommande | transformation organisationnelle | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Centrage utilisateur | CONCEPT | amplifie | impact positif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Architecture faiblement couplée | CONCEPT | favorise | gains liés à l'IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Nathen Harvey | PERSONNE | rôle | DORA Lead, Google Cloud | AJOUT |
+| Derek DeBellis | PERSONNE | rôle | Chercheur DORA, Google Cloud | AJOUT |
+| Google Cloud | ORGANISATION | secteur | Cloud / DevOps Research | AJOUT |
+| Rapport DORA 2025 | EVENEMENT | date | 2025-09-23 | AJOUT |
+| Rapport DORA 2025 | EVENEMENT | portée | 5 000 répondants, 100h qualitatif | AJOUT |
+| DORA AI Capabilities Model | METHODOLOGIE | composantes | 7 capacités critiques | AJOUT |
+| Platform Engineering | METHODOLOGIE | rôle | fondation pour débloquer valeur IA | AJOUT |
+| IA (amplificateur) | CONCEPT | principe | amplifie forces et faiblesses existantes | AJOUT |
+| Archétypes d'équipes | CONCEPT | nombre | 7 profils distincts | AJOUT |

@@ -57,3 +57,37 @@ Tandis que specific technical details de Mistral AI CLI require deeper explorati
 **Future Development Critical Path**
 
 Based on community feedback, **integration avec professional Mistral subscriptions** appears être critical next step pour Mistral AI CLI. Cette integration would enable advanced features, potentially including access à more powerful models, higher rate limits, et enhanced context capabilities. Success will depend on balancing open-source accessibility avec premium feature differentiation, ensuring free tier remains compelling tout en providing clear value proposition pour professional subscribers.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Mathias Garcia | PERSONNE | a_créé | Mistral AI CLI | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | est_alternative_à | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | est_basé_sur | Mistral AI | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_contribué_à | croissance revenus Anthropic | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_généré | 4 milliards de dollars de revenus | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | est_publié_sur | GitHub | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | s_oppose_à | Cursor | TECHNOLOGIE | 0.80 | DYNAMIQUE | inféré |
+| Claude Code | TECHNOLOGIE | intègre | abonnement Claude Pro/Max | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | manque | intégration abonnement professionnel Mistral | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Baudouin Arbarétier | PERSONNE | critique | absence intégration abonnement Mistral | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Mistral AI CLI | TECHNOLOGIE | représente | souveraineté technologique européenne | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Mathias Garcia | PERSONNE | est_affilié_à | HEC Paris | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Mathias Garcia | PERSONNE | rôle | Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI | AJOUT |
+| Mistral AI CLI | TECHNOLOGIE | catégorie | Agent de codage CLI open source | AJOUT |
+| Mistral AI CLI | TECHNOLOGIE | dépôt | github.com/garciamathias/mistral-cli | AJOUT |
+| Mistral AI | ORGANISATION | secteur | IA / LLM européen | AJOUT |
+| Claude Code | TECHNOLOGIE | modèle économique | Propriétaire, intégré à Claude Pro/Max | AJOUT |
+| Anthropic | ORGANISATION | revenus | $1B → $4B en quelques mois (2025) | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | Fork VSCode boosté à l'IA | AJOUT |
+| HEC Paris | ORGANISATION | secteur | Grande école de commerce française | AJOUT |
+| Baudouin Arbarétier | PERSONNE | rôle | Co-fondateur Ordalie | AJOUT |
+| souveraineté technologique européenne | CONCEPT | description | Réduction de la dépendance aux outils IA américains | AJOUT |

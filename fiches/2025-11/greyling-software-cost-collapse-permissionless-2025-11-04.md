@@ -78,3 +78,37 @@ Le graphique ADP Research montre déclin constant emploi développeurs logiciels
 **Moment Gutenberg**
 
 L'article positionne cet effondrement comme "Software's Gutenberg Moment"—révolution comparable invention imprimerie, démocratisant création logicielle de manière sans précédent. La dette technique sociétale accumulée pendant décennies pourrait enfin se résorber grâce à cette accessibilité nouvelle, bien que transition crée disruption majeure pour professionnels traditionnels.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Cobus Greyling | PERSONNE | affirme_que | coût logiciel s'effondre | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | bulle IA inexistante | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | a_publié | "Software is eating the world" | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | augmente | productivité développeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| développement permissionless | CONCEPT | transforme | production logicielle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| dette technique sociétale | CONCEPT | résulte_de | coûts logiciel élevés | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Work Slop | CONCEPT | émerge_de | surconsommation IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Kore.ai | ORGANISATION | emploie | Cobus Greyling | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| pilotes IA entreprise | CONCEPT | échouent_à | passage en production | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| emploi développeurs | CONCEPT | décline_depuis | 2018 | EVENEMENT | 0.91 | STATIQUE | déclaré_article |
+| moment Gutenberg logiciel | CONCEPT | est_comparable_à | invention imprimerie | EVENEMENT | 0.85 | ATEMPOREL | inféré |
+| IA générative | TECHNOLOGIE | démocratise | création logicielle | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Cobus Greyling | PERSONNE | rôle | Chief Evangelist @ Kore.ai, auteur Medium | AJOUT |
+| Marc Andreessen | PERSONNE | affiliation | Andreessen Horowitz (a16z) | AJOUT |
+| Kore.ai | ORGANISATION | secteur | IA conversationnelle / agents | AJOUT |
+| IA générative | TECHNOLOGIE | impact productivité | +55% pour les développeurs | AJOUT |
+| développement permissionless | CONCEPT | analogie | comme YouTube/blogs pour le contenu | AJOUT |
+| Work Slop | CONCEPT | définition | sorties IA faible valeur inondant workflows | AJOUT |
+| AI Slop | CONCEPT | définition | contenu IA faible valeur inondant le web | AJOUT |
+| dette technique sociétale | CONCEPT | cause | décennies de coûts logiciels élevés | AJOUT |
+| moment Gutenberg logiciel | CONCEPT | signification | démocratisation comparable à l'imprimerie | AJOUT |
+| pilotes IA entreprise | CONCEPT | taux d'échec | 95% échouent le passage en production | AJOUT |

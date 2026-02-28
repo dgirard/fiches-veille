@@ -71,3 +71,31 @@ Research documents common **resistance sources** : **Fear** (job displacement an
 Mollick's synthesis suggests : **Start small** (pilot programs rather than organization-wide rollouts), **Measure rigorously** (track both adoption et outcomes), **Share successes** (internal case studies demonstrating value), **Invest training** (not just tool access), **Build communities** (CoPs sharing AI practices), **Set realistic expectations** (acknowledge limitations), **Iterate based on feedback** (continuous improvement versus one-time deployment).
 
 Research provides **evidence-based roadmap** navigating AI organizational transformation's human dynamics, often more challenging than technical implementation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | enseigne_à | Wharton School | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | One Useful Thing | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| adoption IA organisationnelle | CONCEPT | révèle | écart 70% expérimentent / 20% utilisent régulièrement | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| adoption bottom-up | METHODOLOGIE | surpasse | adoption par mandat top-down | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| adoption bottom-up | METHODOLOGIE | atteint | 40% d'adoption soutenue | CONCEPT | 0.82 | STATIQUE | déclaré_article |
+| adoption par mandat | METHODOLOGIE | génère | 15% d'adoption avec comportements de contournement | CONCEPT | 0.82 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | pilotes avant déploiement global | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| leadership visible | CONCEPT | améliore | adoption IA organisationnelle | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| sécurité psychologique | CONCEPT | favorise | adoption IA durable | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | a_publié | Co-Intelligence | DOCUMENT | 0.95 | STATIQUE | généré_assistant |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur Wharton, auteur One Useful Thing | AJOUT |
+| One Useful Thing | TECHNOLOGIE | type | Newsletter Substack sur l'IA au travail | AJOUT |
+| Wharton School | ORGANISATION | type | École de commerce, Université de Pennsylvanie | AJOUT |
+| adoption bottom-up | METHODOLOGIE | taux | ~40% d'adoption soutenue vs 15% pour mandats | AJOUT |
+| écart adoption IA | CONCEPT | chiffre | 70% expérimentent, seulement 20% deviennent utilisateurs réguliers | AJOUT |
+| sécurité psychologique | CONCEPT | rôle | Facteur clé d'adoption IA réussie | AJOUT |

@@ -60,3 +60,38 @@ Cette ressource transforme fondamentalement l'approche du développement d'agent
 **Cas d'Usage Typiques**
 
 Les workflows couvrent des scenarios variés : automatisation de réponses email, traitement de documents, enrichissement de données, monitoring et alerting, orchestration de tâches complexes multi-étapes, intégration avec LLMs pour traitement de langage naturel, et bien plus. Cette diversité permet de couvrir la majorité des besoins d'automatisation en entreprise et contextes personnels.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Zie619 | PERSONNE | a_créé | n8n-workflows | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | contient | 4343 workflows prêts à l'emploi | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | est_hébergé_sur | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | utilise | SQLite FTS5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | utilise | FastAPI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | couvre | 365 intégrations | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | est_sous_licence | MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| n8n | TECHNOLOGIE | permet | automatisation d'agents IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | démocratise | développement d'agents automatisés | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| n8n-workflows | TECHNOLOGIE | s_appuie_sur | Docker | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| communauté open source | CONCEPT | contribue_à | n8n-workflows | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | réduit | barrière à l'entrée no-code/low-code | CONCEPT | 0.85 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Zie619 | PERSONNE | rôle | Créateur et mainteneur du repository | AJOUT |
+| n8n-workflows | TECHNOLOGIE | nombre de workflows | 4 343 | AJOUT |
+| n8n-workflows | TECHNOLOGIE | nombre d'étoiles GitHub | 38 700 | AJOUT |
+| n8n-workflows | TECHNOLOGIE | licence | MIT | AJOUT |
+| n8n-workflows | TECHNOLOGIE | langages principaux | Python 56.6%, HTML 29.7%, JavaScript 7.5% | AJOUT |
+| n8n | TECHNOLOGIE | catégorie | Plateforme d'automatisation workflow-based | AJOUT |
+| SQLite FTS5 | TECHNOLOGIE | usage | Recherche plein texte dans les workflows | AJOUT |
+| FastAPI | TECHNOLOGIE | usage | Serveur backend de l'application | AJOUT |
+| Docker | TECHNOLOGIE | usage | Déploiement multi-plateforme (amd64, arm64) | AJOUT |
+| GitHub Pages | TECHNOLOGIE | usage | Interface web de recherche en ligne | AJOUT |
+| automatisation d'agents IA | CONCEPT | bénéfice | Réduction du temps de développement | AJOUT |

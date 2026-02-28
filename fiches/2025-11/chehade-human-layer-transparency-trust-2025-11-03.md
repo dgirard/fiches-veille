@@ -67,3 +67,41 @@ Son approche architecturale priorise clarté, portabilité et simplicité au-des
 **Vision centrale**
 
 Ultimement, la vision de Chehade se concentre sur la construction de systèmes que les gens peuvent comprendre et vérifier, reconnaissant que la confiance émerge par la transparence plutôt que par les affirmations marketing—un principe animant tant la conception de Plakar que sa philosophie plus large d'innovation responsable. Dans un monde où l'IA accélère le développement, maintenir la littératie fondamentale en programmation devient critique pour éviter des vulnérabilités futures nécessitant une recalibration culturelle vers les fondamentaux.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Gilles Chehade | PERSONNE | a_créé | OpenSMTPD | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Julien Mangeard | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| OpenSMTPD | TECHNOLOGIE | fait_partie_de | OpenBSD | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | vise_à | transparence des sauvegardes | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Plakar | ORGANISATION | est_basé_sur | immutabilité | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | est_basé_sur | déduplication | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | affirme_que | IA transforme le développement logiciel comme Internet | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Gilles Chehade | PERSONNE | prédit | déconnexion des compétences fondamentales en programmation | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| open-source marketing | CONCEPT | contredit | philosophie open-source authentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| artisanat logiciel | CONCEPT | requiert | clarté, portabilité et simplicité | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| confiance logicielle | CONCEPT | émerge_de | transparence | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Gilles Chehade | PERSONNE | a_obtenu | master en informatique | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Kevin Kuipers | PERSONNE | a_interviewé | Gilles Chehade | PERSONNE | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Gilles Chehade | PERSONNE | rôle | Co-fondateur Plakar, créateur OpenSMTPD, architecte systèmes | AJOUT |
+| Julien Mangeard | PERSONNE | rôle | Co-fondateur Plakar | AJOUT |
+| Kevin Kuipers | PERSONNE | rôle | Intervieweur, investisseur | AJOUT |
+| Plakar | ORGANISATION | catégorie | Startup open-source, outil de sauvegarde de données | AJOUT |
+| OpenSMTPD | TECHNOLOGIE | catégorie | Serveur mail open-source pour Unix/OpenBSD | AJOUT |
+| OpenBSD | TECHNOLOGIE | catégorie | Système d'exploitation Unix sécurisé | AJOUT |
+| artisanat logiciel | CONCEPT | description | Approche équilibrant logique, élégance et compréhension humaine | AJOUT |
+| transparence des sauvegardes | CONCEPT | description | Rendre les sauvegardes vérifiables et dignes de confiance | AJOUT |
+| immutabilité | CONCEPT | domaine | Architecture logicielle, sauvegarde de données | AJOUT |
+| déduplication | CONCEPT | domaine | Sauvegarde de données, optimisation stockage | AJOUT |
+| confiance logicielle | CONCEPT | description | Confiance construite par transparence, non par marketing | AJOUT |
+| Epitech Paris | ORGANISATION | catégorie | École d'informatique, France | AJOUT |

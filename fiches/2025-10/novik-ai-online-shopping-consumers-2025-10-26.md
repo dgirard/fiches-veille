@@ -68,3 +68,34 @@ Les appréhensions consommateurs se concentrent sur des problématiques légitim
 L'émergence de l'Agentic Commerce Protocol—permettant achats facilités par IA via interactions système-à-système—signale que cette transformation va s'accélérer, nécessitant que marchands et entreprises technologiques embrassent simultanément l'innovation tout en implémentant des cadres de sécurité exhaustifs maintenant la protection et confiance des consommateurs tout au long des transactions activées par IA.
 
 Cette enquête marque un tournant dans le commerce : l'IA n'est plus expérimentation marginale mais composant central du comportement d'achat moderne, exigeant adaptation rapide de l'industrie retail tout en préservant sécurité et transparence.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Riskified | ORGANISATION | a_publié | enquête shopping IA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| enquête shopping IA 2025 | EVENEMENT | mesure | 5000 répondants mondiaux | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| consommateurs | CONCEPT | utilisent | IA pour achats en ligne | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | est_utilisé_pour | recommandations produits | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | est_utilisé_pour | comparaison de prix | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| consommateurs | CONCEPT | font_confiance_à | assistants IA | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Jeff Otto | PERSONNE | souligne | ambiguïté responsabilité transactions IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Riskified | ORGANISATION | emploie | Jeff Otto | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Agentic Commerce Protocol | METHODOLOGIE | facilite | achats système-à-système | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| commerce agentique | CONCEPT | transforme | comportement d'achat | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| sécurité paiement | CONCEPT | constitue | préoccupation principale consommateurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| novembre 2025 | EVENEMENT | représente | premier mois shopping dominé par IA | CONCEPT | 0.80 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Riskified | ORGANISATION | secteur | Prévention fraude / e-commerce | AJOUT |
+| Lior Novik | PERSONNE | affiliation | Maariv / Jerusalem Post | AJOUT |
+| Jeff Otto | PERSONNE | rôle | CMO, Riskified | AJOUT |
+| ChatGPT | TECHNOLOGIE | usage | Recommandations, résumés avis, comparaisons prix | AJOUT |
+| Agentic Commerce Protocol | METHODOLOGIE | fonction | Achats IA via interactions système-à-système | AJOUT |
+| enquête shopping IA 2025 | EVENEMENT | taille_échantillon | 5000+ répondants mondiaux | AJOUT |
+| commerce agentique | CONCEPT | statut | Émergent, en accélération | AJOUT |

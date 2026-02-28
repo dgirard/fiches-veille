@@ -54,3 +54,40 @@ La recherche positionne l'ingénierie de contexte comme une alternative viable a
 Les implications théoriques sont profondes. ACE démontre qu'un contexte riche et évolutif peut servir de "mémoire externe" pour les LLMs, compensant certaines limitations de leur architecture sous-jacente. Les trois composants agentiques créent une boucle d'amélioration continue qui mime, d'une certaine manière, les processus d'apprentissage humains : faire, réfléchir, intégrer.
 
 Cette recherche ouvre la voie à des systèmes IA qui s'améliorent continuellement par l'expérience, s'adaptant aux nouveaux domaines et tâches sans intervention humaine constante. Le framework ACE représente une contribution méthodologique significative à la poursuite de l'intelligence artificielle générale, en montrant comment structurer l'apprentissage contextuel pour éviter les pièges de la compression excessive et de la dégradation itérative.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Qizheng Zhang | PERSONNE | a_créé | ACE | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | est_basé_sur | Dynamic Cheatsheet | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | résout | brevity bias | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | résout | context collapse | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | améliore | AppWorld benchmark | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Stanford University | ORGANISATION | collabore_avec | SambaNova Systems | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Stanford University | ORGANISATION | collabore_avec | UC Berkeley | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | utilise | Generator-Reflector-Curator | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Generator-Reflector-Curator | CONCEPT | fait_partie_de | ACE | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | réduit | latence d'adaptation | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | surpasse | IBM-CUGA | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| context adaptation | CONCEPT | remplace | fine-tuning | METHODOLOGIE | 0.82 | ATEMPOREL | inféré |
+| DeepSeek-V3.1 | TECHNOLOGIE | est_utilisé_par | ACE | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| ACE | METHODOLOGIE | signification | Agentic Context Engineering | AJOUT |
+| ACE | METHODOLOGIE | amélioration agents | +10,6% | AJOUT |
+| ACE | METHODOLOGIE | amélioration finance | +8,6% | AJOUT |
+| ACE | METHODOLOGIE | réduction latence | 86,9% | AJOUT |
+| Qizheng Zhang | PERSONNE | affiliation | Stanford University | AJOUT |
+| Changran Hu | PERSONNE | affiliation | SambaNova Systems | AJOUT |
+| Stanford University | ORGANISATION | secteur | Recherche IA | AJOUT |
+| SambaNova Systems | ORGANISATION | secteur | Infrastructure IA | AJOUT |
+| Dynamic Cheatsheet | METHODOLOGIE | rôle | précurseur de ACE | AJOUT |
+| brevity bias | CONCEPT | définition | compression excessive du contexte | AJOUT |
+| context collapse | CONCEPT | définition | dégradation du contexte sur itérations | AJOUT |
+| AppWorld | EVENEMENT | type | benchmark agent multi-tâches | AJOUT |
+| Generator-Reflector-Curator | CONCEPT | rôle | architecture agentique à 3 composants | AJOUT |

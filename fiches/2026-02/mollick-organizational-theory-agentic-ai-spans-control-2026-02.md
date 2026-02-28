@@ -56,3 +56,37 @@ Ethan Mollick, professeur à Wharton et observateur influent de l'IA, propose d'
 **La rationalité limitée** : Concept fondamental des sciences organisationnelles, la bounded rationality décrit comment les décideurs opèrent avec des informations incomplètes et des capacités cognitives finies. Ce cadre s'applique probablement aux agents IA confrontés à des contextes larges et des décisions complexes.
 
 **Critique des labs** : Mollick observe que tout le monde se précipite vers les "agent swarms" (terme qu'il qualifie de "terriblement nommé") sans réaliser que le succès ne dépendra pas uniquement de la qualité des modèles, mais des choix de design organisationnel. Il doute que les laboratoires d'IA perçoivent cette dimension et appelle à davantage d'expérimentations menées par des personnes comprenant les vrais problèmes de coordination humaine.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | recommande | théorie organisationnelle | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | critique | systèmes agentiques actuels | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | labs d'IA | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| spans of control | CONCEPT | s_applique_à | agents orchestrateurs | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| agent orchestrateur | TECHNOLOGIE | est_limité_par | capacité de gestion des sous-agents | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| boundary objects | CONCEPT | améliore | coordination multi-agents | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| boundary objects | CONCEPT | réduit | consommation de tokens | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| couplage organisationnel | CONCEPT | s_applique_à | architectures d'agents IA | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| rationalité limitée | CONCEPT | s_applique_à | agents IA | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
+| middle management agents | CONCEPT | résout | dépassement du span of control | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| agent swarms | TECHNOLOGIE | nécessite | design organisationnel | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | est_affilié_à | Wharton | ORGANISATION | 0.97 | DYNAMIQUE | généré_assistant |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur à Wharton, observateur IA influent | AJOUT |
+| théorie organisationnelle | CONCEPT | domaine | Sciences des organisations, management | AJOUT |
+| spans of control | CONCEPT | définition | Nombre de subordonnés qu'un manager peut superviser efficacement | AJOUT |
+| boundary objects | CONCEPT | définition | Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières | AJOUT |
+| couplage organisationnel | CONCEPT | définition | Degré de liaison entre unités à l'intérieur d'une organisation | AJOUT |
+| rationalité limitée | CONCEPT | définition | Décideurs opèrent avec informations incomplètes et capacités cognitives finies | AJOUT |
+| middle management agents | CONCEPT | rôle | Agents intermédiaires entre orchestrateur principal et agents d'exécution | AJOUT |
+| agent swarms | TECHNOLOGIE | statut | Terme critiqué par Mollick comme "terriblement nommé" | AJOUT |
+| Wharton | ORGANISATION | secteur | École de commerce, Université de Pennsylvanie | AJOUT |
+| labs d'IA | ORGANISATION | critique | N'auraient pas perçu la dimension organisationnelle des agents | AJOUT |

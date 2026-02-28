@@ -77,3 +77,43 @@ Pendant son travail, Claude scanne automatiquement les skills disponibles pour i
 **Philosophie de Conception**
 
 Anthropic conceptualise les Skills comme "matériaux d'onboarding personnalisés" permettant d'empaqueter l'expertise et transformer Claude en spécialiste des domaines importants pour l'utilisateur. Cette approche démocratise la customisation tout en maintenant portabilité et composabilité, évitant la fragmentation des écosystèmes d'extensions propriétaires.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_lancé | Agent Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | étend_les_capacités_de | Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | est_compatible_avec | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | nécessite | Code Execution Tool | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | utilise | SKILL.md | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | /v1/skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| skill-creator | TECHNOLOGIE | génère | Agent Skills | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| anthropics/skills | TECHNOLOGIE | distribue | Agent Skills | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Rakuten | ORGANISATION | affirme_que | Agent Skills réduit une journée de travail à une heure | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Box | ORGANISATION | affirme_que | Agent Skills transforme fichiers en présentations et documents | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Notion | ORGANISATION | affirme_que | Agent Skills accélère passage de questions à actions | CONCEPT | 0.89 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | s_installe_dans | ~/.claude/skills | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Agent Skills | CONCEPT | est_basé_sur | chargement minimal à la demande | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Agent Skills | TECHNOLOGIE | catégorie | Système de compétences modulaires pour agents IA | AJOUT |
+| Agent Skills | TECHNOLOGIE | caractéristiques | Composable, Portable, Efficient, Powerful | AJOUT |
+| Claude | TECHNOLOGIE | famille de produits | Claude.ai, Claude Code, API | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Code Execution Tool | TECHNOLOGIE | statut | Beta, requis pour Skills via API | AJOUT |
+| skill-creator | TECHNOLOGIE | fonction | Skill méta pour créer d'autres skills interactivement | AJOUT |
+| SKILL.md | TECHNOLOGIE | rôle | Fichier de configuration d'un skill | AJOUT |
+| /v1/skills | TECHNOLOGIE | type | Endpoint API pour gestion programmatique des skills | AJOUT |
+| anthropics/skills | TECHNOLOGIE | type | Marketplace de skills pour Claude Code | AJOUT |
+| ~/.claude/skills | TECHNOLOGIE | type | Répertoire d'installation locale des skills | AJOUT |
+| Rakuten | ORGANISATION | secteur | Commerce / IA | AJOUT |
+| Box | ORGANISATION | secteur | Stockage cloud / IA | AJOUT |
+| Notion | ORGANISATION | secteur | Productivité / IA | AJOUT |
+| Canva | ORGANISATION | secteur | Design / IA | AJOUT |

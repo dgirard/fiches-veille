@@ -60,3 +60,40 @@ Sept modes comportementaux permettent l'adaptation contextuelle : Brainstorming 
 **Installation et Accessibilité**
 
 L'installation flexible supporte trois écosystèmes : pipx (recommandé pour Linux/macOS), pip pour environnements Python traditionnels et npm pour utilisateurs Node.js multi-plateforme. La migration depuis SuperClaude V3 nécessite une désinstallation préalable, bien que les commandes slash personnalisées et fichiers de configuration Claude Code soient préservés. Le support multilingue (anglais, chinois, japonais, coréen) élargit l'accessibilité internationale. La communauté active encourage les contributions dans documentation, intégration MCP, création de workflows et testing, avec possibilité de support financier pour couvrir les coûts de maintenance et abonnements Claude Max pour testing.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| SuperClaude | TECHNOLOGIE | transforme | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | est_basé_sur | meta-programming | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | intègre | MCP servers | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | fournit | 16 agents spécialisés | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | fournit | 7 modes comportementaux | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | réduit | consommation de tokens | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| SuperClaude | TECHNOLOGIE | améliore | vitesse d'exécution | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| SuperClaude-Org | ORGANISATION | publie | SuperClaude | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| NomenAK | PERSONNE | maintient | SuperClaude | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | s_oppose_à | affiliation Anthropic | ORGANISATION | 0.92 | STATIQUE | déclaré_article |
+| Tavily | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Context7 | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| SuperClaude v2.0 | EVENEMENT | remplace | slash commands V1.x | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| SuperClaude | TECHNOLOGIE | catégorie | Framework de configuration meta-programming | AJOUT |
+| SuperClaude | TECHNOLOGIE | licence | MIT open source | AJOUT |
+| SuperClaude | TECHNOLOGIE | popularité | 17.7k étoiles GitHub | AJOUT |
+| SuperClaude | TECHNOLOGIE | version | v4.2 (Deep Research) / v2.0 (plugins TypeScript) | AJOUT |
+| SuperClaude-Org | ORGANISATION | type | Communauté open source | AJOUT |
+| NomenAK | PERSONNE | rôle | Sponsor et mainteneur principal | AJOUT |
+| Claude Code | TECHNOLOGIE | éditeur | Anthropic | AJOUT |
+| MCP servers | TECHNOLOGIE | nombre | 8 serveurs intégrés | AJOUT |
+| Tavily | TECHNOLOGIE | usage | Recherche web primaire (Deep Research) | AJOUT |
+| Context7 | TECHNOLOGIE | usage | Consultation documentation officielle | AJOUT |
+| meta-programming | CONCEPT | définition | Injection d'instructions comportementales dans un LLM | AJOUT |
+| Deep Research | METHODOLOGIE | capacité | Jusqu'à 5 recherches itératives autonomes | AJOUT |

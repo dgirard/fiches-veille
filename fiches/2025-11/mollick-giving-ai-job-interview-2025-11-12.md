@@ -111,3 +111,42 @@ Mollick pitch dubious idea "guacamole delivery drones", demande AI models rate v
 Vibes suffisent individuals. Organizations deploying at scale need systematic testing : AI on actual work + actual judgments, realistic scenarios, run multiple times, experts assess, compare head-to-head tasks matter. "Difference between 'model scored 85% MMLU' and 'model more accurate financial analysis but more conservative risk assessments.'" Multiple evaluations yearly as new models released.
 
 Analogie finale : "You wouldn't hire VP based solely SAT scores. Shouldn't pick AI advising thousands decisions based whether knows mean cranial capacity Homo erectus just under 1,000 cubic centimeters."
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | publie | Giving your AI a Job Interview | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | interviewer modèles IA sur tâches réelles | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| benchmarks standards | CONCEPT | échouent_à | mesurer performance tâche-spécifique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| MMLU-Pro | TECHNOLOGIE | contient | questions de valeur incertaine | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_publié | GDPval paper | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| GDPval | METHODOLOGIE | révèle | Jagged Frontier des capacités IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Claude 4.5 Sonnet | TECHNOLOGIE | surpasse | autres modèles en écriture | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | est_meilleur_que | ChatGPT en conseil financier | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| Grok | TECHNOLOGIE | affiche | biais pro-risque dans évaluation idées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Simon Willison | PERSONNE | utilise | test pelican sur vélo | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | utilise | test loutre sur avion | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| vibes-based testing | METHODOLOGIE | est_insuffisant_pour | organisations déployant IA à grande échelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| GDPval | METHODOLOGIE | démontre | différences significatives entre modèles par tâche | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | affiliation | Wharton School / One Useful Thing | AJOUT |
+| Ethan Mollick | PERSONNE | rôle | Professeur-Blogueur, éducateur IA | AJOUT |
+| GDPval | METHODOLOGIE | méthode | Experts 14 ans d'expérience, évaluation en aveugle | AJOUT |
+| GDPval | METHODOLOGIE | portée | Finance, droit, retail, développement logiciel | AJOUT |
+| benchmarks standards | CONCEPT | exemples | MMLU-Pro, AIME, GPQA, SWE-bench, ARC-AGI, METR | AJOUT |
+| Jagged Frontier | CONCEPT | définition | Carte irrégulière des forces/faiblesses des IA par domaine | AJOUT |
+| vibes-based testing | METHODOLOGIE | usage | Individus practioners, évaluation subjective modèles | AJOUT |
+| Claude 4.5 Sonnet | TECHNOLOGIE | point fort | Qualité d'écriture créative | AJOUT |
+| Gemini 2.5 Pro | TECHNOLOGIE | point faible | Suivi de compte de mots (nov. 2025) | AJOUT |
+| GPT-5 Thinking | TECHNOLOGIE | style | Styliste exubérant, métaphores complexes, parfois incohérent | AJOUT |
+| Grok | TECHNOLOGIE | biais | Sur-évaluation des idées risquées (biais pro-risque) | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA / Recherche | AJOUT |
+| Simon Willison | PERSONNE | rôle | Practitioner IA, développeur, blogger | AJOUT |
+| GuacaDrone | CONCEPT | rôle | Cas test révélateur de biais d'évaluation des modèles | AJOUT |

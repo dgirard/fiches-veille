@@ -57,3 +57,38 @@ Key takeaways depuis post et supporting comments reinforce message : **always st
 **Redefined Technical Autonomy**
 
 Ultimately, post advocates pour **balanced, informed approach** à AI dans software development, où human expertise et established engineering practices remain paramount, leveraging AI enhance productivity within structured, responsible framework. True **technical autonomy now involves understanding *when*, *what*, et *why* to code**, avec human element d'organizational et human architecture remaining paramount, plutôt que just *how* to code.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Addy Osmani | PERSONNE | affirme_que | vibe coding ≠ AI-assisted engineering | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | travaille_pour | Google Chrome | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Vibe Coding | METHODOLOGIE | convient_à | prototypes et MVPs | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| AI-Assisted Engineering | METHODOLOGIE | requiert | contrôle humain de l'architecture | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| AI-Assisted Engineering | METHODOLOGIE | augmente | vitesse de développement | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| équipe FAANG | ORGANISATION | rapporte | 30% d'augmentation de vitesse | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Vibe Coding | METHODOLOGIE | génère | dette technique | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| AI-Assisted Engineering | METHODOLOGIE | utilise | IA comme multiplicateur de force | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Addy Osmani | PERSONNE | critique | conflation vibe coding / engineering | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| ingénieur humain | CONCEPT | conserve | responsabilité architecture | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| IA générative | TECHNOLOGIE | est_comparable_à | développeur junior non supervisé | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Vibe Coding | METHODOLOGIE | s_oppose_à | AI-Assisted Engineering | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| autonomie technique | CONCEPT | implique | comprendre quand et pourquoi coder | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Addy Osmani | PERSONNE | rôle | Engineering Leader, Google Chrome | AJOUT |
+| Addy Osmani | PERSONNE | medium | LinkedIn post | AJOUT |
+| Vibe Coding | METHODOLOGIE | caractéristique | prompting haut niveau, flux créatif, expérimentation rapide | AJOUT |
+| Vibe Coding | METHODOLOGIE | cas_usage | prototypes, MVPs, apprentissage, projets jetables | AJOUT |
+| AI-Assisted Engineering | METHODOLOGIE | caractéristique | intégration méthodique de l'IA dans un SDLC mature | AJOUT |
+| AI-Assisted Engineering | METHODOLOGIE | résultat | code sécurisé, scalable, maintenable | AJOUT |
+| équipe FAANG | ORGANISATION | résultat_mesuré | +30% vitesse de développement | AJOUT |
+| IA générative | TECHNOLOGIE | rôle | multiplicateur de force pour l'ingénieur | AJOUT |
+| dette technique | CONCEPT | risque_associé | supervision insuffisante du code IA | AJOUT |
+| autonomie technique | CONCEPT | redéfinition | savoir quand, quoi et pourquoi coder | AJOUT |

@@ -77,3 +77,32 @@ Workflow démontre **pragmatic AI augmentation** : ni fully automated strategy (
 **Transferability Beyond Wardley Mapping**
 
 Bien que focalisé Wardley Maps, techniques généralisables : capability decomposition, proximity categorization, relationship identification, clustering analysis applicables autres frameworks stratégiques nécessitant structured thinking about value chains, dependencies, abstractions layers. Stack Obsidian+NetworkX+LLM API particulièrement puissante pour knowledge workers explorant complex domains.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| workflow IA Wardley | METHODOLOGIE | utilise | OpenAI API | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| workflow IA Wardley | METHODOLOGIE | utilise | Obsidian | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| workflow IA Wardley | METHODOLOGIE | utilise | NetworkX | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| NetworkX | TECHNOLOGIE | permet | clustering de graphe de capacités | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Obsidian | TECHNOLOGIE | visualise | relations parent-enfant de capacités | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Wardley Map | METHODOLOGIE | utilise | axe Y basé sur proximité client | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | accélère | bootstrapping de cartographie stratégique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| décomposition de capacités | METHODOLOGIE | produit | hierarchie parent-enfant en JSON | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| rationale de prompt | CONCEPT | améliore | qualité des outputs LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| workflow IA Wardley | METHODOLOGIE | s_applique_à | product managers ERP/BI | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| workflow IA Wardley | METHODOLOGIE | catégorie | Workflow d'automatisation de cartographie stratégique | AJOUT |
+| Wardley Map | METHODOLOGIE | catégorie | Framework de cartographie de chaîne de valeur stratégique | AJOUT |
+| OpenAI API | TECHNOLOGIE | usage | Génération de capacités et relations via prompts | AJOUT |
+| Obsidian | TECHNOLOGIE | catégorie | Outil de gestion des connaissances avec graphe natif | AJOUT |
+| NetworkX | TECHNOLOGIE | catégorie | Bibliothèque Python d'analyse de graphes et réseaux sociaux | AJOUT |
+| décomposition de capacités | METHODOLOGIE | format_sortie | JSON hiérarchique parent-enfant | AJOUT |
+| axe Y Wardley | CONCEPT | définition | Proximité client : haut = visible, bas = infrastructure | AJOUT |

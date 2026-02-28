@@ -55,3 +55,44 @@ Boris Cherny, créateur de Claude Code, partage dix conseils d'utilisation direc
 **Subagents et analytics** : Ajouter "use subagents" aux requêtes complexes pour déléguer du calcul. L'équipe utilise Claude avec le CLI BigQuery (bq) pour toutes ses requêtes analytics, sans écrire de SQL depuis plus de six mois.
 
 **Apprentissage continu** : Activer le style "Explanatory" ou "Learning" dans /config, générer des présentations HTML ou diagrammes ASCII pour comprendre le code, et créer une skill de répétition espacée pour consolider les apprentissages.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | publie | conseils équipe Claude Code | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | développe | Claude Code | TECHNOLOGIE | 0.99 | DYNAMIQUE | inféré |
+| Claude Code | TECHNOLOGIE | supporte | git worktrees | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| amorriscode | PERSONNE | a_intégré | git worktrees | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Desktop app | TECHNOLOGIE | intègre | git worktrees | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | Plan mode | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Plan mode | METHODOLOGIE | améliore | qualité implémentation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | sert_de | mémoire évolutive agent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | supporte | slash commands | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | s_intègre_avec | Slack MCP | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | s_intègre_avec | BigQuery | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | supporte | subagents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Ghostty | TECHNOLOGIE | est_recommandé_par | équipe Claude Code | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Opus 4.5 | TECHNOLOGIE | est_utilisé_pour | validation permissions subagents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Créateur de Claude Code, Anthropic | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| amorriscode | PERSONNE | rôle | Membre équipe Claude Code, auteur du support natif worktrees | AJOUT |
+| Claude Desktop app | TECHNOLOGIE | catégorie | Application bureau Claude, support natif git worktrees | AJOUT |
+| git worktrees | TECHNOLOGIE | usage | Parallélisme de sessions Claude, gain de productivité majeur | AJOUT |
+| Plan mode | METHODOLOGIE | usage | Planification préalable avant implémentation complexe | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | usage | Fichier de règles évolutif, mémoire persistante de l'agent | AJOUT |
+| slash commands | TECHNOLOGIE | usage | Automatisation de tâches récurrentes dans Claude Code | AJOUT |
+| Slack MCP | TECHNOLOGIE | catégorie | Intégration MCP pour correction de bugs depuis threads Slack | AJOUT |
+| BigQuery | TECHNOLOGIE | usage | Requêtes analytics via CLI bq, remplace SQL manuel | AJOUT |
+| subagents | CONCEPT | usage | Délégation de calcul intensif, maintien de la fenêtre de contexte principale | AJOUT |
+| Ghostty | TECHNOLOGIE | catégorie | Emulateur de terminal, rendering synchronisé, 24-bit couleur | AJOUT |
+| Opus 4.5 | TECHNOLOGIE | usage | Modèle Claude dédié à la validation des permissions via hook | AJOUT |

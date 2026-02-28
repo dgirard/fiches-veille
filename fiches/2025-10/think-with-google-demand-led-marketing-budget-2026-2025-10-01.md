@@ -75,3 +75,38 @@ Recommendations include **competitive demand analysis** : where competitors gain
 Guide emphasizes **CMO-CFO alignment** : speak CFO language (ROI, payback periods, contribution margin), demonstrate causal impact (incrementality not just correlation), model different scenarios (best/worst/likely cases), tie marketing à business outcomes (revenue, profit, not vanity metrics), commit à measurement rigor (accountability builds trust).
 
 Think with Google's framework provides **practical, data-grounded approach** helping marketers navigate 2026's challenges whilst building sustainable competitive advantage through smarter budget allocation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | publie | Think with Google | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Think with Google | TECHNOLOGIE | recommande | marketing demand-led | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| marketing demand-led | METHODOLOGIE | s_oppose_à | budgétisation par inertie | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Google | ORGANISATION | prédit | ratio 60/40 marque-performance | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| marketing demand-led | METHODOLOGIE | utilise | signaux de demande client | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| CMO | PERSONNE | doit_aligner | CFO | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
+| Marketing Mix Modeling | METHODOLOGIE | mesure | impact causal des canaux | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | optimise | allocation budgétaire | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| incertitude macroéconomique | CONCEPT | contraint | budgets marketing 2026 | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| construction de marque | CONCEPT | crée | demande capturée par performance | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| YouTube | TECHNOLOGIE | fait_partie_de | mix canal vidéo recommandé | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| test d'incrémentalité | METHODOLOGIE | distingue | corrélation et causalité | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+| Google | ORGANISATION | exploite | milliards de requêtes de recherche | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Think with Google | TECHNOLOGIE | catégorie | Plateforme thought leadership marketing | AJOUT |
+| Google | ORGANISATION | secteur | Technologie / Publicité numérique | AJOUT |
+| marketing demand-led | METHODOLOGIE | principe | Budget aligné sur les signaux réels de demande client | AJOUT |
+| Marketing Mix Modeling | METHODOLOGIE | abréviation | MMM | AJOUT |
+| CMO | PERSONNE | rôle | Directeur marketing, audience cible principale | AJOUT |
+| CFO | PERSONNE | rôle | Directeur financier, interlocuteur clé du CMO | AJOUT |
+| ratio 60/40 marque-performance | CONCEPT | source | Recherche Google sur l'optimisation long terme | AJOUT |
+| YouTube | TECHNOLOGIE | catégorie | Plateforme vidéo recommandée pour 2026 | AJOUT |
+| incertitude macroéconomique | CONCEPT | contexte | Environnement 2026 : inflation, récession potentielle | AJOUT |
+| IA | TECHNOLOGIE | usage | Optimisation des enchères, analytique prédictive, segmentation audience | AJOUT |

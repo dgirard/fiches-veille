@@ -42,3 +42,36 @@ Pour les développeurs, en particulier les ingénieurs frontend, l'essor du MCP 
 La sécurité évolue également, passant de modèles centrés sur l'humain à des interactions médiatisées par l'IA, nécessitant une réflexion sur les permissions, les limites de confiance, les pistes d'audit et la limitation de débit. Les API MCP doivent être conçues en priorité pour la compréhension machine, avec des contrats plus stricts, une gestion explicite des erreurs et des métadonnées plus riches.
 
 Pour se préparer, les développeurs doivent se familiariser avec le fonctionnement des serveurs MCP, concevoir des endpoints avec une intention claire, s'habituer aux modèles d'UX axés sur l'IA, s'attendre à une collaboration plus interfonctionnelle et s'impliquer tôt pour façonner l'avenir. Le MCP offre des opportunités pour des expériences utilisateur fluides et de nouveaux paradigmes UX, mais présente aussi des défis en matière de débogage du comportement de l'IA, de garantie de fiabilité et de construction de la confiance.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| MCP | TECHNOLOGIE | remplace | navigateur web | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | est_basé_sur | protocole ouvert | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet_à | agents IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| agents IA | CONCEPT | interagissent_avec | outils externes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| serveurs MCP | TECHNOLOGIE | exposent | schémas structurés | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| schémas structurés | CONCEPT | remplace | interfaces HTML/CSS | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | élimine | parsing HTML | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| développeurs frontend | CONCEPT | doivent_adopter | conception AI-first | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | exige | sécurité renforcée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| API MCP | TECHNOLOGIE | priorise | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Peter Aideloje | PERSONNE | publie_sur | LogRocket Blog | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Peter Aideloje | PERSONNE | recommande | adoption précoce MCP | METHODOLOGIE | 0.87 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| MCP | TECHNOLOGIE | nom complet | Model Context Protocol | AJOUT |
+| MCP | TECHNOLOGIE | nature | protocole ouvert | AJOUT |
+| MCP | TECHNOLOGIE | objectif | accès structuré aux outils/données/API pour agents IA | AJOUT |
+| serveurs MCP | TECHNOLOGIE | composants | outils, ressources, prompts | AJOUT |
+| navigateur web | TECHNOLOGIE | statut | remplacé progressivement par MCP | AJOUT |
+| agents IA | CONCEPT | rôle | consommateur principal des interfaces MCP | AJOUT |
+| développeurs frontend | CONCEPT | impact | transition vers conception AI-first | AJOUT |
+| Peter Aideloje | PERSONNE | rôle | développeur et rédacteur technique | AJOUT |
+| LogRocket Blog | ORGANISATION | type | blog technique pour développeurs | AJOUT |
+| schémas MCP | CONCEPT | fonction | définir outils, ressources, prompts pour agents | AJOUT |

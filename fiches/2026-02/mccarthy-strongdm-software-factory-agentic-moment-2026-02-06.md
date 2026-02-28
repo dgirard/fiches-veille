@@ -60,3 +60,45 @@ Justin McCarthy, co-fondateur et CTO de StrongDM, présente le concept de Softwa
 **Le Digital Twin Universe** : Pour valider à grande échelle, l'équipe a créé des clones comportementaux des services tiers (Okta, Jira, Slack, Google Docs/Drive/Sheets). Cette approche permet de tester des modes de défaillance dangereux, d'exécuter des milliers de scenarios par heure sans rate limits ni coûts API. Construire ces clones était toujours possible mais jamais économiquement faisable - les ingénieurs s'auto-censuraient. McCarthy appelle à pratiquer une "naïveté délibérée" : identifier et supprimer les contraintes du Software 1.0.
 
 **L'économie non-conventionnelle** : Ce qui était impensable il y a six mois est maintenant routine. Le DTU prouve que les calculs économiques traditionnels du développement logiciel doivent être réévalués à l'ère agentique. McCarthy rejoint d'autres pionniers (Sam Schillace, Dan Shapiro, Jesse Vincent) dans la conviction que les Software Factories représentent l'avenir du développement.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Justin McCarthy | PERSONNE | a_fondé | StrongDM AI | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Justin McCarthy | PERSONNE | a_créé | Software Factory | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| StrongDM AI | ORGANISATION | utilise | Software Factory | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude 3.5 | TECHNOLOGIE | a_rendu_possible | compounding correctness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Software Factory | METHODOLOGIE | remplace | développement humain interactif | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Digital Twin Universe | TECHNOLOGIE | permet | validation à grande échelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Scenario | CONCEPT | remplace | test traditionnel | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| satisfaction probabiliste | CONCEPT | remplace | succès booléen | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Cursor YOLO mode | TECHNOLOGIE | a_révélé | performance long-horizon | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Justin McCarthy | PERSONNE | recommande | naïveté délibérée | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Digital Twin Universe | TECHNOLOGIE | contient | Okta twin | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Jay Taylor | PERSONNE | a_cofondé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Navan Chauhan | PERSONNE | a_cofondé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Software Factory | METHODOLOGIE | est_basé_sur | specs et scenarios | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| naïveté délibérée | CONCEPT | transforme | conventions Software 1.0 | CONCEPT | 0.85 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Justin McCarthy | PERSONNE | rôle | Co-fondateur et CTO de StrongDM | AJOUT |
+| StrongDM AI | ORGANISATION | date_fondation | 14 juillet 2025 | AJOUT |
+| StrongDM AI | ORGANISATION | secteur | Développement logiciel agentique | AJOUT |
+| Jay Taylor | PERSONNE | rôle | Co-fondateur StrongDM AI | AJOUT |
+| Navan Chauhan | PERSONNE | rôle | Co-fondateur StrongDM AI | AJOUT |
+| Software Factory | METHODOLOGIE | définition | Développement non-interactif piloté par specs et scenarios sans intervention humaine | AJOUT |
+| Software Factory | METHODOLOGIE | métrique | $1 000 en tokens par ingénieur humain par jour | AJOUT |
+| Claude 3.5 | TECHNOLOGIE | version_clé | Révision octobre 2024 | AJOUT |
+| compounding correctness | CONCEPT | opposé | compounding error | AJOUT |
+| Digital Twin Universe | TECHNOLOGIE | composants | Okta, Jira, Slack, Google Docs, Google Drive, Google Sheets | AJOUT |
+| Scenario | CONCEPT | stockage | Hors du codebase (holdout set) | AJOUT |
+| satisfaction probabiliste | CONCEPT | mesure | Fraction de trajectoires satisfaisant l'utilisateur | AJOUT |
+| Cursor YOLO mode | TECHNOLOGIE | rôle | Révélateur de la capacité long-horizon des modèles | AJOUT |
+| naïveté délibérée | CONCEPT | objectif | Supprimer les contraintes du Software 1.0 | AJOUT |
+| grown software | CONCEPT | synonyme | Développement non-interactif | AJOUT |

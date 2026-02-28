@@ -77,3 +77,38 @@ Cinq principes émergent : (1) SLMs orchestrés tâches spécifiques workflows a
 Spark représente entrée Nvidia dans consumer hardware, donnant accès individus pour prototyper librement, fine-tuner, inférence production grade, construire edge applications. Ce qui retient industrie : compute. Spark élimine cette barrière.
 
 L'analyse Greyling révèle stratégie verticale intégrée sophistiquée : open source attire développeurs, hardware optimisé lock-in, méthodologies capturées via tooling, feedback loop renforce moat.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| NVIDIA | ORGANISATION | publie | Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | lance | DGX Spark | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | construit | écosystème software | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | crée | hardware moat | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | est_optimisé_pour | workflows agentiques | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| SLMs | CONCEPT | remplace | modèles monolithiques | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| SLMs | CONCEPT | s_exécute_sur | edge computing | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| DGX Spark | TECHNOLOGIE | utilise | architecture ARM64 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| DGX Spark | TECHNOLOGIE | démocratise | prototypage agents IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| data flywheel | CONCEPT | améliore | fine-tuning continu | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| NVIDIA | ORGANISATION | s_oppose_à | AMD | ORGANISATION | 0.88 | DYNAMIQUE | inféré |
+| Cobus Greyling | PERSONNE | affirme_que | NVIDIA domine orchestration modèles | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | permet | vision-RAG | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| NVIDIA | ORGANISATION | secteur | Semi-conducteurs / IA | AJOUT |
+| Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | catégorie | Small Language Model multimodal open source | AJOUT |
+| DGX Spark | TECHNOLOGIE | catégorie | Workstation IA personnelle ARM64 | AJOUT |
+| SLMs | CONCEPT | rôle | Backbone des systèmes agentiques scalables | AJOUT |
+| data flywheel | CONCEPT | rôle | Boucle feedback temps réel pour fine-tuning | AJOUT |
+| hardware moat | CONCEPT | nature | Barrière stratégique vendor lock-in matériel | AJOUT |
+| vision-RAG | METHODOLOGIE | usage | Extraction données visuelles (factures, images) | AJOUT |
+| Cobus Greyling | PERSONNE | rôle | Chief Evangelist @ Kore.ai, analyste IA | AJOUT |
+| AMD | ORGANISATION | secteur | Semi-conducteurs (concurrent NVIDIA) | AJOUT |
+| edge computing | CONCEPT | nature | Exécution locale sans dépendance cloud | AJOUT |

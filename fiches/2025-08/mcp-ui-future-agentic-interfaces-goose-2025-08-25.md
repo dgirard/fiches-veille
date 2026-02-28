@@ -67,3 +67,41 @@ MCP-UI pointe vers une **révolution accessibilité** où agents construisent in
 L'écosystème de stakeholders implique quatre groupes : développeurs agents implémentant support MCP-UI, développeurs serveurs MCP construisant composants UI, fournisseurs services créant interfaces riches, et utilisateurs finaux bénéficiant d'interactions intuitives. Démarrer nécessite code minimal - développeurs peuvent commencer avec ressources HTML basiques comme `createUIResource({ type: 'html', content: '<h1>Hello World</h1>' })` et étendre depuis là. La technologie est déjà supportée dans Goose et disponible via documentation complète et communauté Discord active.
 
 MCP-UI représente un shift fondamental des interactions IA text-heavy vers expériences riches, visuelles et intuitives qui font le pont entre le web tel qu'on le connaît et le futur agentique en construction.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| MCP-UI | TECHNOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Ido Salomon | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Ido Salomon | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | utilise | sandboxed iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | remplace | interfaces textuelles | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Goose | TECHNOLOGIE | supporte | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | implémente | MCP-UI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | préserve | identité de marque | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Andrew Harvard | PERSONNE | contribue_à | MCP-UI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | permet | générative UI | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| Block | ORGANISATION | développe | Goose | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | améliore | accessibilité agents IA | CONCEPT | 0.87 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| MCP-UI | TECHNOLOGIE | catégorie | Protocole + SDK pour composants web interactifs dans agents IA | AJOUT |
+| Model Context Protocol | TECHNOLOGIE | catégorie | Standard de communication entre LLM et outils | AJOUT |
+| Goose | TECHNOLOGIE | catégorie | Agent IA open source de Block | AJOUT |
+| Block | ORGANISATION | secteur | Fintech / IA / Open Source | AJOUT |
+| Monday.com | ORGANISATION | secteur | Gestion de projet / SaaS | AJOUT |
+| Shopify | ORGANISATION | secteur | E-commerce / SaaS | AJOUT |
+| Ido Salomon | PERSONNE | rôle | Co-créateur MCP-UI, Monday.com | AJOUT |
+| Liad Yosef | PERSONNE | rôle | Co-créateur MCP-UI, Monday.com | AJOUT |
+| Andrew Harvard | PERSONNE | rôle | Ingénieur Block, contributeur MCP-UI | AJOUT |
+| Ebony Louis | PERSONNE | rôle | Developer Advocate, Block/Goose | AJOUT |
+| sandboxed iframes | CONCEPT | catégorie | Mécanisme de sécurité pour isolation code tiers | AJOUT |
+| générative UI | CONCEPT | catégorie | Interfaces générées dynamiquement par IA selon préférences utilisateur | AJOUT |

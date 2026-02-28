@@ -76,3 +76,45 @@ Deepnote Cloud est gratuit pour étudiants et enseignants avec accès illimité 
 **Héritage Jupyter**
 
 Les acknowledgements rendent hommage à la communauté Jupyter et son impact depuis 2013, positionnant Deepnote comme extension naturelle de cet héritage vers le futur AI-native et collaboratif, tout en contribuant activement au même écosystème open.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Deepnote | TECHNOLOGIE | remplace | Jupyter | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | utilise | format .deepnote | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| format .deepnote | TECHNOLOGIE | remplace | format .ipynb | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | est_basé_sur | Jupyter kernel | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | intègre | AI agent natif | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Deepnote | ORGANISATION | compte | 500 000 utilisateurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | fournit_extension_pour | VS Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | fournit_extension_pour | Cursor | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | fournit_extension_pour | Windsurf | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| @deepnote/blocks | TECHNOLOGIE | définit | types de blocs notebooks | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| @deepnote/convert | TECHNOLOGIE | convertit | notebooks Jupyter en format Deepnote | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | implémente | exécution réactive | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Johnny Carrot | PERSONNE | contribue_à | Deepnote | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Deepnote Cloud | TECHNOLOGIE | offre | collaboration temps réel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | est_sous_licence | Apache-2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Deepnote | TECHNOLOGIE | catégorie | Notebook data science AI-first | AJOUT |
+| Deepnote | TECHNOLOGIE | utilisateurs | 500 000+ data professionals | AJOUT |
+| Deepnote | TECHNOLOGIE | stars GitHub | 1 500 | AJOUT |
+| Deepnote | TECHNOLOGIE | licence | Apache-2.0 | AJOUT |
+| Jupyter | TECHNOLOGIE | catégorie | Notebook data science (référence historique) | AJOUT |
+| Jupyter | TECHNOLOGIE | année_lancement | 2013 | AJOUT |
+| format .deepnote | TECHNOLOGIE | type | YAML human-readable | AJOUT |
+| format .ipynb | TECHNOLOGIE | type | JSON (format Jupyter historique) | AJOUT |
+| @deepnote/blocks | TECHNOLOGIE | langage | TypeScript | AJOUT |
+| @deepnote/convert | TECHNOLOGIE | type | CLI tool + API Node.js | AJOUT |
+| Deepnote Cloud | TECHNOLOGIE | catégorie | Plateforme cloud collaborative | AJOUT |
+| Johnny Carrot | PERSONNE | rôle | Auteur académique cité (Deepnote) | AJOUT |
+| VS Code | TECHNOLOGIE | catégorie | Éditeur de code Microsoft | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | Éditeur AI-native | AJOUT |
+| Windsurf | TECHNOLOGIE | catégorie | Éditeur AI-native collaboratif | AJOUT |

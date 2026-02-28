@@ -50,3 +50,38 @@ Le workflow technique repose sur une exécution constante du code et des tests d
 Schillace suggère que cette transformation s'étendra probablement au-delà du développement logiciel pour toucher le travail intellectuel en général. La capacité de créer des systèmes qui s'améliorent et se développent de manière autonome représente un changement fondamental dans la façon dont le travail créatif et technique est accompli.
 
 L'auteur conclut avec conviction que "la nouvelle et meilleure façon de faire les choses est maintenant très claire", signalant que nous sommes à un point d'inflexion où ces approches passeront de l'expérimentation à l'adoption généralisée. Les organisations qui ne s'adaptent pas à cette nouvelle réalité risquent d'être distancées par celles qui embrassent pleinement le potentiel des équipes à effet multiplicateur pilotées par l'IA.
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Sam Schillace | PERSONNE | affirme_que | compounding teams existent | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| compounding teams | CONCEPT | s_oppose_à | vibe coding | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| compounding teams | CONCEPT | s_oppose_à | GitHub Copilot | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| compounding teams | CONCEPT | utilise | Amplifier framework | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Amplifier framework | TECHNOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| compounding teams | CONCEPT | utilise | git | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| compounding teams | CONCEPT | utilise | Kubernetes | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| compounding teams | CONCEPT | applique | Recursive Tool Building | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Recursive Tool Building | METHODOLOGIE | transforme | productivité équipe | CONCEPT | 0.91 | ATEMPOREL | inféré |
+| Sam Schillace | PERSONNE | prédit | extension au travail intellectuel général | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| attention humaine | CONCEPT | est | nouveau goulot d'étranglement | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| coordination | CONCEPT | remplace | écriture de code | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Sam Schillace | PERSONNE | compare | compounding teams | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| compounding teams | CONCEPT | requiert | frontières modulaires | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Sam Schillace | PERSONNE | rôle | Auteur, technologiste, observateur industrie IA | AJOUT |
+| compounding teams | CONCEPT | définition | Équipes IA n'écrivant plus de code, construisant des frameworks récursifs autour de modèles | AJOUT |
+| Amplifier framework | TECHNOLOGIE | catégorie | Framework d'orchestration IA pour agents de codage | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Plomberie de base pour agents de codage (callback hooks, tool calling) | AJOUT |
+| GitHub Copilot | TECHNOLOGIE | catégorie | Outil de codage assisté IA, boost court terme non-composable | AJOUT |
+| Recursive Tool Building | METHODOLOGIE | principe | Construire un outil pour créer un outil — approche méta-cognitive | AJOUT |
+| git | TECHNOLOGIE | rôle | Infrastructure de versioning utilisée par systèmes IA autonomes | AJOUT |
+| Kubernetes | TECHNOLOGIE | rôle | Outil bas niveau utilisé par compounding teams | AJOUT |
+| attention humaine | CONCEPT | statut | Nouveau goulot d'étranglement remplaçant l'écriture de code | AJOUT |
+| coordination | CONCEPT | statut | Défi principal des compounding teams | AJOUT |

@@ -75,3 +75,39 @@ Agents evolve through iterations. Platform provides : **Version control** (track
 Wenvision targets : **Customer service automation** (routing, resolution agents), **Internal operations** (HR, IT support agents), **Data processing** (analysis, reporting agents), **Software development** (code review, testing agents), **Business intelligence** (insight generation agents). Focus on **high-value, production-critical** applications justifying platform investment.
 
 Platform positions Wenvision **bridging experimentation-production gap**, enabling enterprises deploy agents confidently at scale avec proper governance, security, observability.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Wenvision | ORGANISATION | propose | plateforme déploiement agents IA enterprise | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Wenvision | ORGANISATION | cible | déploiement production agents IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Wenvision | ORGANISATION | adresse | écart expérimentation-production | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Wenvision | ORGANISATION | intègre | gouvernance et sécurité | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Wenvision | ORGANISATION | supporte | déploiement cloud, on-premise et hybride | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Wenvision | ORGANISATION | fournit | orchestration multi-agents | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| orchestration multi-agents | METHODOLOGIE | gère | workflows agents complexes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| gouvernance agents IA | CONCEPT | nécessite | RBAC, audit trails, gestion secrets | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| monitoring observabilité | CONCEPT | permet | détection anomalies comportement agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| gestion des coûts LLM | CONCEPT | inclut | budget controls et optimisation modèles | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| entreprises | ORGANISATION | requièrent | scalabilité, conformité et intégration | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| écart expérimentation-production | CONCEPT | freine | adoption agents IA en enterprise | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| LangChain | TECHNOLOGIE | permet | prototypage agents IA | METHODOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| Autogen | TECHNOLOGIE | permet | prototypage agents IA | METHODOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Wenvision | ORGANISATION | catégorie | Plateforme enterprise de déploiement agents IA | AJOUT |
+| Wenvision | ORGANISATION | positionnement | Comble le fossé expérimentation-production | AJOUT |
+| plateforme déploiement agents IA enterprise | TECHNOLOGIE | capacités | Orchestration, gouvernance, monitoring, gestion coûts | AJOUT |
+| orchestration multi-agents | METHODOLOGIE | fonctions | Routage tâches, gestion état, récupération erreurs, exécution parallèle | AJOUT |
+| gouvernance agents IA | CONCEPT | composants | RBAC, politiques accès données, audit logging, gestion secrets, isolation réseau | AJOUT |
+| monitoring observabilité | CONCEPT | métriques | Latence, débit, taux succès, coûts LLM, comportement agents | AJOUT |
+| gestion des coûts LLM | CONCEPT | outils | Suivi usage, contrôles budget, optimisation modèles, mise en cache | AJOUT |
+| écart expérimentation-production | CONCEPT | nature | Problème structurel du déploiement enterprise des agents IA | AJOUT |
+| LangChain | TECHNOLOGIE | usage | Framework prototypage agents IA | AJOUT |
+| Autogen | TECHNOLOGIE | usage | Framework prototypage agents IA | AJOUT |

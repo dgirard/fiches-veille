@@ -116,3 +116,41 @@ Puisque competitors access identical tools, avantage flows à ceux déployant ge
 Combinaison vitesse + données propriétaires + culture unique seule protection durable. Outil accessible tous ne crée pas avantage—comment déployé, quelles données exclusives, quelle culture organisationnelle différencient.
 
 Article HBR classique transposant strategic management frameworks (Porter, resource-based view) à disruption IA générative, formalisant best practices émergentes pour executives navigating transformation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Bharat N. Anand | PERSONNE | a_publié | The Gen AI Playbook for Organizations | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Andy Wu | PERSONNE | a_publié | The Gen AI Playbook for Organizations | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Bharat N. Anand | PERSONNE | dirige | NYU Stern School of Business | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Andy Wu | PERSONNE | enseigne_à | Harvard Business School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Harvard Business Review | ORGANISATION | a_publié | The Gen AI Playbook for Organizations | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Framework 4 quadrants | METHODOLOGIE | utilise | coût d'erreur × type de connaissance | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| No Regrets Zone | CONCEPT | recommande | déploiement immédiat IA générative | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Human-First Zone | CONCEPT | préserve | autorité décisionnelle humaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Quality Control Zone | CONCEPT | requiert | human-in-the-loop | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Paradoxe d'Accès | CONCEPT | affirme_que | avantage concurrentiel vient du déploiement différencié | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| données propriétaires | CONCEPT | constitue | avantage concurrentiel durable | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| cabinets juridiques post-1990s | ORGANISATION | illustre | risque de désintermédiation par l'IA | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | transforme | structures organisationnelles | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Bharat N. Anand | PERSONNE | rôle | Doyen, NYU Stern School of Business | AJOUT |
+| Andy Wu | PERSONNE | rôle | Professeur, Harvard Business School | AJOUT |
+| Harvard Business Review | ORGANISATION | secteur | Presse économique académique | AJOUT |
+| NYU Stern School of Business | ORGANISATION | secteur | École de commerce universitaire | AJOUT |
+| Harvard Business School | ORGANISATION | secteur | École de commerce universitaire | AJOUT |
+| Framework 4 quadrants | METHODOLOGIE | dimensions | coût d'erreur × type de connaissance (explicite/tacite) | AJOUT |
+| No Regrets Zone | CONCEPT | caractéristiques | faible coût d'erreur + connaissance explicite | AJOUT |
+| Creative Catalyst Zone | CONCEPT | caractéristiques | faible coût d'erreur + connaissance tacite | AJOUT |
+| Human-First Zone | CONCEPT | caractéristiques | coût d'erreur élevé + connaissance tacite | AJOUT |
+| Quality Control Zone | CONCEPT | caractéristiques | coût d'erreur élevé + connaissance explicite | AJOUT |
+| Paradoxe d'Accès | CONCEPT | insight_clé | l'avantage vient du déploiement différencié, non de la vitesse | AJOUT |
+| données propriétaires | CONCEPT | rôle_stratégique | moat concurrentiel face à des outils identiques | AJOUT |
+| IA générative | TECHNOLOGIE | catégorie | Technologie IA de génération de contenu | AJOUT |

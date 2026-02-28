@@ -73,3 +73,35 @@ Detractors argue : **Definition disputes** (Julia uses narrow intelligence defin
 **Ongoing Debate Value**
 
 Regardless de agreement avec Julia's specific positions, **discourse value significant** : challenges uncritical AI enthusiasm, forces precision dans terminology, encourages realistic capability assessment, stimulates philosophical examination de intelligence, provides counterweight à hype cycles. Healthy scientific et industry discourse requires voices like Julia's providing contrarian perspectives, even when provocatively expressed.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Luc Julia | PERSONNE | a_co-créé | Siri | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Luc Julia | PERSONNE | a_publié | L'IA n'existe pas | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Luc Julia | PERSONNE | affirme_que | IA terme trompeur | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Luc Julia | PERSONNE | travaille_chez | Samsung | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Luc Julia | PERSONNE | s_oppose_à | hype IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| L'IA n'existe pas | EVENEMENT | contredit | capacités IA actuelles | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Siri | TECHNOLOGIE | a_été_vendu_à | Apple | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| hype IA | CONCEPT | est_influencé_par | intérêts commerciaux | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| perspective européenne IA | CONCEPT | s_oppose_à | narratives Silicon Valley | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| EU AI Act | EVENEMENT | est_aligné_avec | scepticisme Julia | CONCEPT | 0.78 | DYNAMIQUE | inféré |
+| Luc Julia | PERSONNE | prédit | AGI non réalisable | CONCEPT | 0.91 | STATIQUE | déclaré_article |
+| médias français | ORGANISATION | amplifie | positions Julia | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Luc Julia | PERSONNE | rôle | Co-créateur Siri, VP Innovation Samsung, PhD Stanford | AJOUT |
+| Siri | TECHNOLOGIE | catégorie | Assistant vocal IA mobile, Apple | AJOUT |
+| Samsung | ORGANISATION | secteur | Électronique grand public, technologie | AJOUT |
+| L'IA n'existe pas | EVENEMENT | catégorie | Livre, thèse sceptique sur IA | AJOUT |
+| hype IA | CONCEPT | nature | Enthousiasme excessif alimenté par intérêts commerciaux | AJOUT |
+| perspective européenne IA | CONCEPT | caractéristiques | Réalisme technologique, rigueur philosophique, souveraineté | AJOUT |
+| AGI | CONCEPT | statut_selon_Julia | Non réalisable avec approches actuelles | AJOUT |
+| EU AI Act | EVENEMENT | nature | Réglementation européenne de l'IA, approche prudente | AJOUT |

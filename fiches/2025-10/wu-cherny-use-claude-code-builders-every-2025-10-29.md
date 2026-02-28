@@ -90,3 +90,45 @@ Cat Wu et Boris Cherny, founding engineers de Claude Code chez Anthropic, partag
 **Non-technical users** : data scientists, researchers, analysts, PMs adoptent. VS Code extension offre point-and-click interface vs terminal. Every lance Claude Code for Beginners camp (Nov 19) : hands-on workshop, install, give tasks, build app end-to-end, no programming experience required.
 
 L'article illustre comment Every transformed via Claude Code : chaque feature rend suivante easier, CEO ships unknown codebases, non-technical people soudain dans terminals.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_cofondé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Cat Wu | PERSONNE | a_cofondé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | emploie | Boris Cherny | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | emploie | Cat Wu | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | antfooding | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | plan mode | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | settings.json | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | utilise | subagents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | s_appuie_sur | Bash | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Cat Wu | PERSONNE | recommande | Puppeteer | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Cat Wu | PERSONNE | recommande | Playwright | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Cherny | PERSONNE | prédit | dangerous mode | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | cible | utilisateurs non-techniques | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | demande latente | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Every | ORGANISATION | a_été_transformé_par | Claude Code | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Ingénieur fondateur de Claude Code | AJOUT |
+| Cat Wu | PERSONNE | rôle | Ingénieure fondatrice de Claude Code | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI / IA | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| antfooding | METHODOLOGIE | définition | Dogfooding interne chez Anthropic ("ants" = employés) | AJOUT |
+| plan mode | CONCEPT | effet | Double ou triple le taux de succès sur tâches complexes | AJOUT |
+| settings.json | TECHNOLOGIE | usage | Fichier partagé pour pré-approuver commandes et bloquer fichiers risqués | AJOUT |
+| stop hooks | CONCEPT | usage | Actions automatisées déclenchées quand Claude finit une tâche | AJOUT |
+| subagents | CONCEPT | usage | Instances Claude parallèles se challengeant mutuellement pour code review | AJOUT |
+| dangerous mode | CONCEPT | durée | Modèles actuels capables de tourner 30h en continu | AJOUT |
+| Every | ORGANISATION | secteur | Médias / Outils IA | AJOUT |
+| Bash | TECHNOLOGIE | rôle | Interface universelle entre Claude Code et le système | AJOUT |
+| Puppeteer | TECHNOLOGIE | catégorie | MCP pour automatisation de navigateur | AJOUT |
+| Playwright | TECHNOLOGIE | catégorie | MCP pour tests d'applications web | AJOUT |
+| demande latente | CONCEPT | source | Observation des usages imprévus ("abuse") par les utilisateurs avancés | AJOUT |

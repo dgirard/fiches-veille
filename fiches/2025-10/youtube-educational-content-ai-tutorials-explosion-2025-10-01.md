@@ -79,3 +79,38 @@ Creator burnout et platform dependency risks : **Algorithm dependency** (visibil
 Learners developing coping strategies : **Curated playlists** (community-maintained learning paths), **Creator recommendations** (trusted channels suggesting peers), **Discord/Reddit communities** (discussing best resources), **GitHub awesome lists** (organized tutorial collections), **Timestamp sharing** (highlighting best explanations within long videos).
 
 YouTube's AI education explosion represents **unprecedented knowledge democratization** whilst surfacing urgent questions about quality assurance, creator sustainability, et educational transformation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| YouTube | ORGANISATION | héberge | tutoriels IA | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| YouTube | ORGANISATION | démocratise | éducation technique | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| YouTube | ORGANISATION | concurrence | éducation traditionnelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | publie_sur | YouTube | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| 3Blue1Brown | PERSONNE | publie_sur | YouTube | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| StatQuest | PERSONNE | publie_sur | YouTube | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| créateurs de contenu | PERSONNE | monétisent | expertise pédagogique | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| tutoriels IA YouTube | CONCEPT | atteint | 2,5 milliards de vues annuelles | EVENEMENT | 0.88 | STATIQUE | déclaré_article |
+| économie des créateurs | CONCEPT | génère | risque d'épuisement professionnel | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| contenu de mauvaise qualité | CONCEPT | nuit_à | apprentissage autodidacte | METHODOLOGIE | 0.82 | ATEMPOREL | inféré |
+| YouTube | ORGANISATION | dépasse | output académique traditionnel | ORGANISATION | 0.87 | DYNAMIQUE | déclaré_article |
+| apprentissage autodidacte | METHODOLOGIE | s_appuie_sur | YouTube | ORGANISATION | 0.93 | DYNAMIQUE | inféré |
+| communautés Discord/Reddit | ORGANISATION | organisent | parcours d'apprentissage curatés | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| YouTube | ORGANISATION | secteur | Plateforme vidéo / Éducation en ligne | AJOUT |
+| Andrej Karpathy | PERSONNE | rôle | Créateur de contenu IA sur YouTube | AJOUT |
+| 3Blue1Brown | PERSONNE | rôle | Créateur de contenu IA / mathématiques sur YouTube | AJOUT |
+| StatQuest | PERSONNE | rôle | Créateur de contenu machine learning sur YouTube | AJOUT |
+| Sentdex | PERSONNE | rôle | Créateur de contenu Python/IA sur YouTube | AJOUT |
+| tutoriels IA YouTube | CONCEPT | volume | 500k+ vidéos publiées 2024-2025 | AJOUT |
+| économie des créateurs | CONCEPT | modèles | publicité, sponsoring, cours, Patreon | AJOUT |
+| apprentissage autodidacte | METHODOLOGIE | avantage | rythme libre, accessibilité mondiale, gratuité | AJOUT |
+| démocratisation de l'éducation | CONCEPT | impact | accès mondial sans barrières géographiques ou financières | AJOUT |
+| communautés Discord/Reddit | ORGANISATION | rôle | Curation et organisation de ressources d'apprentissage | AJOUT |

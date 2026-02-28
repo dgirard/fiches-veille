@@ -69,3 +69,41 @@ L'article souligne l'importance de la maturité data governance : transférer l'
 **Conclusion pratique**
 
 Van den Heuvel insiste qu'aucun design unique ne convient universellement. Chaque organisation doit évaluer ses propres scénarios en utilisant ces principes pour dériver la structure Data & AI optimale pour son contexte spécifique, sa taille et sa maturité AI.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Arjan van den Heuvel | PERSONNE | publie | Data & AI team structure: Case studies | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Arjan van den Heuvel | PERSONNE | travaille_pour | Xebia | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Team Topologies | METHODOLOGIE | définit | stream-aligned team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Team Topologies | METHODOLOGIE | définit | platform team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Team Topologies | METHODOLOGIE | définit | enabling team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Team Topologies | METHODOLOGIE | définit | complicated subsystem team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Conway's Law | CONCEPT | prédit | architecture système reflète structure communication | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Scenario 1.1 | METHODOLOGIE | produit | patchwork technologique | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Scenario 1.3 | METHODOLOGIE | recommande | analytics translator | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| analytics translator | CONCEPT | réduit | charge cognitive équipes data | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| maturité AI | CONCEPT | détermine | structure organisationnelle optimale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| AI solution life cycle | CONCEPT | guide | évolution topologie équipe | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| data engineering platform team | CONCEPT | fournit | data-as-a-service | CONCEPT | 0.89 | DYNAMIQUE | déclaré_article |
+| ML engineering enabling team | CONCEPT | améliore | déploiement modèles en production | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Community of Practice | CONCEPT | remplace | équipe physique développement connaissances | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Arjan van den Heuvel | PERSONNE | rôle | Consultant Data & AI, auteur Xebia | AJOUT |
+| Xebia | ORGANISATION | secteur | Consulting tech / Data & AI | AJOUT |
+| Team Topologies | METHODOLOGIE | auteurs | Matthew Skelton, Manuel Pais | AJOUT |
+| Conway's Law | CONCEPT | domaine | Design organisationnel / architecture système | AJOUT |
+| analytics translator | CONCEPT | rôle | Liaison business/tech, gestionnaire allocation data experts | AJOUT |
+| stream-aligned team | CONCEPT | catégorie | Topologie Team Topologies | AJOUT |
+| platform team | CONCEPT | catégorie | Topologie Team Topologies | AJOUT |
+| enabling team | CONCEPT | catégorie | Topologie Team Topologies | AJOUT |
+| complicated subsystem team | CONCEPT | catégorie | Topologie Team Topologies | AJOUT |
+| AI solution life cycle | CONCEPT | usage | Indicateur d'évolution des topologies d'équipe | AJOUT |
+| Community of Practice | CONCEPT | usage | Développement connaissance pour data experts distribués | AJOUT |

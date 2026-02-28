@@ -53,3 +53,38 @@ Ces options présentent toutefois des limites. Les synergies d'une fusion seraie
 Aucune de ces stratégies n'empêchera les clients d'exiger des prix drastiquement réduits. Kodak a survécu à sa faillite de 2012, réémergeant comme entreprise diminuée valorisée à 500 millions $—loin des 30 milliards de son apogée des années 1990. Les consultants risquent une dévaluation similaire de leur industrie.
 
 Accenture a dévoilé le 25 septembre 2025 une restructuration de 865 millions $ sur six mois pour réaligner sa main-d'œuvre vers la demande croissante en services digitaux et IA—signe que l'adaptation est déjà en cours, mais sous pression extrême.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Aimee Donnellan | PERSONNE | publie | AI sets up Kodak moment for global consultants | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | menace | industrie du conseil en management | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Accenture | ORGANISATION | a_supprimé | 11 000 postes | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Accenture | ORGANISATION | a_lancé | restructuration de 865 millions $ | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | a_ciblé | Accenture | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | a_ciblé | Deloitte | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | a_ciblé | IBM | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| machine learning | TECHNOLOGIE | réduit | coûts de conseil | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | a_licencié | 4 000 employés support client | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Microsoft | ORGANISATION | a_gelé | embauches division consulting | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Kodak | ORGANISATION | illustre | disruption technologique fatale | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| industrie du conseil en management | CONCEPT | est_valorisée_à | 1 000 milliards de dollars | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| EXL | ORGANISATION | représente | cible d'acquisition stratégique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Aimee Donnellan | PERSONNE | affiliation | Reuters Breakingviews | AJOUT |
+| Accenture | ORGANISATION | valorisation boursière | 155 milliards de dollars | AJOUT |
+| Accenture | ORGANISATION | baisse actions sur 2 ans | -30 % | AJOUT |
+| Kodak | ORGANISATION | valorisation actuelle | 500 millions de dollars | AJOUT |
+| Kodak | ORGANISATION | valorisation apogée (années 1990) | 30 milliards de dollars | AJOUT |
+| Department of Government Efficiency | ORGANISATION | secteur | Gouvernement américain | AJOUT |
+| EXL | ORGANISATION | valorisation | 6 milliards de dollars | AJOUT |
+| machine learning | TECHNOLOGIE | impact coût | réduction de 200 000 $ à 10 000 $ par projet | AJOUT |
+| industrie du conseil en management | CONCEPT | valorisation globale | 1 000 milliards de dollars | AJOUT |
+| moment Kodak | CONCEPT | signification | disruption technologique irréversible | AJOUT |
