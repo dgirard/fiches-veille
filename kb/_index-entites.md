@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 997 entités
+> 1004 entités
 
 ## #
 
@@ -287,6 +287,7 @@
 - [[kb/_entites-mineures#Data-Mesh\|Data Mesh]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#data-warehouse\|data warehouse]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Databricks\|Databricks]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#David-Kiron\|David Kiron]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#David-Perrin\|David Perrin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (METHODOLOGIE, 1 fiches)
@@ -321,6 +322,7 @@
 - [[kb/_entites-mineures#DORA-AI-Capabilities-Model\|DORA AI Capabilities Model]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Doubao\|Doubao]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#DPROD\|DPROD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dropbox\|Dropbox]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] (ORGANISATION, 1 fiches)
@@ -619,6 +621,7 @@
 - [[kb/METR\|METR]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mexican-standoff\|Mexican standoff]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] (ORGANISATION, 2 fiches)
@@ -633,6 +636,7 @@
 - [[kb/_entites-mineures#Mistral-AI\|Mistral AI]] (ORGANISATION, 2 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] (METHODOLOGIE, 1 fiches)
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#modèle-Centaur\|modèle Centaur]] (METHODOLOGIE, 1 fiches)
@@ -674,6 +678,7 @@
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] (CONCEPT, 1 fiches)
 - [[kb/Nvidia\|Nvidia]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Nvidia-Jetson\|Nvidia Jetson]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NYU-Stern-School-of-Business\|NYU Stern School of Business]] (ORGANISATION, 1 fiches)
@@ -837,6 +842,7 @@
 - [[kb/Sebastian-Raschka\|Sebastian Raschka]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Secret-Cyborgs\|Secret Cyborgs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SemiAnalysis\|SemiAnalysis]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Sentdex\|Sentdex]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sentry\|Sentry]] (TECHNOLOGIE, 1 fiches)
@@ -947,6 +953,7 @@
 - [[kb/_entites-mineures#Tidy-First\|Tidy First]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#tldraw\|tldraw]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Tony-Seale\|Tony Seale]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tool-search\|Tool search]] (METHODOLOGIE, 1 fiches)
 - [[kb/TOON\|TOON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] (TECHNOLOGIE, 1 fiches)

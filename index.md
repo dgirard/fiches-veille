@@ -192,6 +192,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mai 2025
 
+- **[2025-05-30]** [Philosophy Eats AI: Why Your Business Needs an Ontological Core](fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30.md) - Noyau ontologique, sémantique métier, knowledge graph, semantic data products - Knowledge Graph Guys
 - **[2025-05-22]** [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Framework adoption IA organisationnelle - One Useful Thing
 - **[2025-05-01]** [Linear: AI-First Issue Tracking](fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01.md) - Project management - Linear
 
@@ -398,6 +399,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
 
 ### Philosophie & Société
+- [Philosophy Eats AI: Ontological Core](fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30.md) - Tony Seale (Knowledge Graph Guys)
 - [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Matthew Connelly (NYT)
 - [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Lenny Rachitsky & Marc Andreessen
 - [Andreessen : l'IA redéfinit les programmeurs, pas les remplace](fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02.md) - Marc Andreessen
@@ -460,7 +462,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 186
+- **Total d'articles** : 187
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys.

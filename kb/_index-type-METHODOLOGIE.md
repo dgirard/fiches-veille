@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 99 entités de type METHODOLOGIE
+> 100 entités de type METHODOLOGIE
 
 - [[kb/ACE\|ACE]] — signification: Agentic Context Engineering (4 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
@@ -37,6 +37,7 @@
 - [[kb/_entites-mineures#RED-GREEN-TDD\|RED/GREEN TDD]] — description: Test échouant d'abord, puis code minimal pour le faire passer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] — principe: Construire un outil pour créer un outil — approche méta-cognitive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] — catégorie: Approche données comme actif valorisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] — objectif: Modifier uniquement le code lié à la demande (1 occ., 1 fiches)

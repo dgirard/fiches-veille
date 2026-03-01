@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 157 entités de type PERSONNE
+> 160 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -40,6 +40,7 @@
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] — rôle: Investor, Andreessen Horowitz (AI applications) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] — contribution: Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#David-Kiron\|David Kiron]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Perrin\|David Perrin]] — rôle: Dominicain, auteur à la Revue thomiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] — rôle: AI and Crypto Czar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] — rôle: Chercheur DORA, Google Cloud (1 occ., 1 fiches)
@@ -102,6 +103,7 @@
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] — rôle: Directeur OSTP (Office of Science and Technology Policy) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] — rôle: CEO de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] — dates: 1930-2019, philosophe français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] — rôle_précédent: CTO d'OpenAI (1 occ., 1 fiches)
@@ -147,6 +149,7 @@
 - [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] — rôle: Source d'inspiration historique (stratégie militaire) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tariq-KRIM\|Tariq KRIM]] — rôle: Analyste, auteur Cybernetica (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tony-Seale\|Tony Seale]] — rôle: Consultant knowledge graph, auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] — rôle: Directrice de recherche Stanford HAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webb-Wright\|Webb Wright]] — rôle: Contributing Writer, ZDNet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Wei-Zhou\|Wei Zhou]] — rôle: Head of AI utility research, SemiAnalysis (1 occ., 1 fiches)

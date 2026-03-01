@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 292 entités de type TECHNOLOGIE
+> 293 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] — type: Répertoire système hébergeant les skills Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] — type: Endpoint API pour gestion programmatique des skills (1 occ., 1 fiches)
@@ -69,6 +69,7 @@
 - [[kb/Cursor\|Cursor]] — catégorie: Éditeur AI-native (10 occ., 9 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] — catégorie: Workstation IA personnelle ARM64 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DPROD\|DPROD]] — catégorie: Spécification ouverte pour data products sémantiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Data-Mesh\|Data Mesh]] — rôle: Plateforme de mouvement de données dans l'écosystème Netflix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] — fonctionnement: Recherche web extensive de 10-15 minutes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepSeek\|DeepSeek]] — catégorie: Assistant LLM (développé en Chine) (1 occ., 1 fiches)

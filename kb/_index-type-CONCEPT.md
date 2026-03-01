@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 270 entités de type CONCEPT
+> 271 entités de type CONCEPT
 
 - [[kb/AEO\|AEO]] — définition: Optimisation pour être cité par les moteurs de réponse IA (1 occ., 1 fiches)
 - [[kb/AGI\|AGI]] — définition: Système capable de recherche PhD ou d'auto-amélioration (4 occ., 4 fiches)
@@ -198,6 +198,7 @@
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#naïveté-délibérée\|naïveté délibérée]] — objectif: Supprimer les contraintes du Software 1.0 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] — implication: rapprocher ingénierie logicielle des autres disciplines (1 occ., 1 fiches)
+- [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)

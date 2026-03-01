@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 16 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 4 fiches sources
 
 ## Attributs
 
@@ -10,6 +10,11 @@
 - **usage** : Optimisation des enchères, analytique prédictive, segmentation audience
 
 ## Relations (comme sujet)
+
+### aide_à_définir
+
+- [[kb/_entites-mineures#ontologie-organisationnelle\|ontologie organisationnelle]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
 ### amplifie
 

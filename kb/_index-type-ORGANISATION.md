@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 149 entités de type ORGANISATION
+> 150 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] — catégorie: Comité de direction interdisciplinaire (1 occ., 1 fiches)
@@ -75,6 +75,7 @@
 - [[kb/_entites-mineures#Lightning-AI\|Lightning AI]] — secteur: Outils IA / frameworks PyTorch (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LogRocket-Blog\|LogRocket Blog]] — type: blog technique pour développeurs (1 occ., 1 fiches)
 - [[kb/METR\|METR]] — nom complet: Model Evaluation & Threat Research (2 occ., 1 fiches)
+- [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] — secteur: Recherche management et technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Manus\|Manus]] — secteur: Agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meitu\|Meitu]] — secteur: Applications photo/vidéo IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)

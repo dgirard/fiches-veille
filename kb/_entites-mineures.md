@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 851 entités avec moins de 3 triples/fiches
+> 858 entités avec moins de 3 triples/fiches
 
-## PERSONNE (126)
+## PERSONNE (129)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -315,6 +315,16 @@
 - **rôle** : Designer Every (Figma designs Cora)
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]]
+
+### David Kiron {#David-Kiron}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **affiliation** : MIT Sloan
+
+- **a_publié** → [[kb/_entites-mineures#question-philosophie-mange-IA\|question philosophie mange IA]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
 ### David Perrin {#David-Perrin}
 
@@ -810,6 +820,16 @@
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security]]
 
+### Michael Schrage {#Michael-Schrage}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **affiliation** : MIT Sloan
+
+- **a_publié** → [[kb/_entites-mineures#question-philosophie-mange-IA\|question philosophie mange IA]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
+
 ### Michael Truell {#Michael-Truell}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1186,6 +1206,16 @@
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
 
+### Tony Seale {#Tony-Seale}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Consultant knowledge graph, auteur
+
+- **affirme_que** → [[kb/_entites-mineures#philosophie-mange-l'IA\|philosophie mange l'IA]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
+
 ### Vanessa Parli {#Vanessa-Parli}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1289,7 +1319,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (122)
+## ORGANISATION (123)
 
 ### 11 Labs {#11-Labs}
 
@@ -1896,6 +1926,16 @@
 - [[kb/_entites-mineures#Peter-Aideloje\|Peter Aideloje]] **publie_sur** → LogRocket Blog — 0.98
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur - Interactions agents IA - Développeurs frontend - LogRocket Blog]]
+
+### MIT Sloan {#MIT-Sloan}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Recherche management et technologie
+
+- **publie** → [[kb/_entites-mineures#réflexion-philosophie-et-IA\|réflexion philosophie et IA]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
 ### Manus {#Manus}
 
@@ -2564,7 +2604,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (240)
+## TECHNOLOGIE (241)
 
 ### /mnt/skills {#mnt-skills}
 
@@ -3149,6 +3189,16 @@
 - [[kb/Nvidia\|NVIDIA]] **lance** → DGX Spark — 0.99
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|Nvidia stratégie software, SLMs workflows agentiques, Nemotron Nano, DGX Spark workstation, data flywheel fine-tuning, hardware moat, vision-RAG - Cobus Greyling - Medium]]
+
+### DPROD {#DPROD}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Spécification ouverte pour data products sémantiques
+
+- [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] **est_basé_sur** → DPROD — 0.94
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
 ### Data Mesh {#Data-Mesh}
 
@@ -5120,7 +5170,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (252)
+## CONCEPT (253)
 
 ### AI Orchestrator {#AI-Orchestrator}
 
@@ -6983,6 +7033,17 @@
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
 
+### noyau ontologique {#noyau-ontologique}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **catégorie** : Structure conceptuelle fondamentale d'entreprise
+
+- **définit** → [[kb/_entites-mineures#identité-entreprise\|identité entreprise]] (CONCEPT) — 0.96
+- **améliore** → [[kb/_entites-mineures#pertinence-modèles-IA\|pertinence modèles IA]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
+
 ### onboarding quotidien LLM {#onboarding-quotidien-LLM}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -7676,7 +7737,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (85)
+## METHODOLOGIE (86)
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -7992,6 +8053,17 @@
 - **préconise** → [[kb/_entites-mineures#70%-humain-dans-la-transformation-IA\|70% humain dans la transformation IA]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
+
+### Semantic Data Products {#Semantic-Data-Products}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Approche données comme actif valorisé
+
+- **est_basé_sur** → [[kb/_entites-mineures#DPROD\|DPROD]] (TECHNOLOGIE) — 0.94
+- **crée** → [[kb/_entites-mineures#knowledge-graph-distribué-prêt-pour-IA\|knowledge graph distribué prêt pour IA]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
 ### Simplicity First {#Simplicity-First}
 
