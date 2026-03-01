@@ -106,3 +106,5 @@ https://x.com/trq212/status/2024574133011673516?s=20
 https://x.com/i/status/2024573404888911886
 
 https://www.knowledge-graph-guys.com/blog/philosophy-eats-ai
+
+https://fr.custplace.com/business/lagentic-commerce-optimization-acp/
