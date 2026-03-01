@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 21 relations | 9 fiches sources
+> **Type** : ORGANISATION | 23 relations | 9 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,13 @@
 - **trésorerie** : 100 milliards de dollars
 
 ## Relations (comme sujet)
+
+### a_créé
+
+- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
 
 ### a_lancé
 

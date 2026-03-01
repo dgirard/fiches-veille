@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 289 entités de type TECHNOLOGIE
+> 292 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] — type: Répertoire système hébergeant les skills Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] — type: Endpoint API pour gestion programmatique des skills (1 occ., 1 fiches)
@@ -24,7 +24,7 @@
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] — acronyme: ADK (1 occ., 1 fiches)
 - [[kb/Agent-Skills\|Agent Skills]] — catégorie: Système de compétences modulaires pour agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent\|Agent2Agent]] — statut: Protocole potentiellement exploitable pour dialogue inter-agents (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — usage: Achat direct via agent IA (Instant Checkout) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — usage: Achat direct via agent IA (Instant Checkout) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Agents-SDK\|Agents SDK]] — rôle: Orchestration LLM pour génération de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahead-of-AI\|Ahead of AI]] — type: Blog / newsletter ML de Raschka (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] — distinction: Outil AWS fortement couplé aux services cloud, contrairement à Kiro (cloud-agnostic) (1 occ., 1 fiches)
@@ -155,6 +155,7 @@
 - [[kb/MCP-UI\|MCP-UI]] — catégorie: Protocole ouvert UI via MCP (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] — catégorie: Environnement open-source simulation agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Manus\|Manus]] — nature: Agent IA basé sur Claude (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] — catégorie: Plateforme de gestion de catalogue Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meridian\|Meridian]] — usage: Marketing Mix Modeling (MMM) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Business-AI\|Meta Business AI]] — éditeur: Meta (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] — auteurs: Sam Schillace, Brian Krabach (1 occ., 1 fiches)
@@ -234,6 +235,7 @@
 - [[kb/_entites-mineures#Tinker\|Tinker]] — catégorie: API fine-tuning multi-GPU (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TypeScript\|TypeScript]] — usage: Langage principal de Claude Code (2 occ., 2 fiches)
 - [[kb/UDA\|UDA]] — catégorie: Architecture données unifiée basée sur knowledge graph (1 occ., 1 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — catégorie: Protocole commerce agentique Google (2 occ., 1 fiches)
 - [[kb/Upper\|Upper]] — rôle: Métamodèle auto-référentiel pour modélisation domaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#VS-Code\|VS Code]] — catégorie: Éditeur de code Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vanta\|Vanta]] — catégorie: Conformité et gestion de confiance (1 occ., 1 fiches)
@@ -246,6 +248,7 @@
 - [[kb/Voxtral\|Voxtral]] — catégorie: Modèle de compréhension vocale open source (5 occ., 1 fiches)
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)
 - [[kb/Windsurf\|Windsurf]] — catégorie: Éditeur AI-native collaboratif (5 occ., 5 fiches)
+- [[kb/_entites-mineures#WordLift\|WordLift]] — catégorie: Outil SEO sémantique et diffusion visuelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] — catégorie: Déploiement Workers à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] — usage: Système de layout pour terminal (Meta) (1 occ., 1 fiches)
 - [[kb/YouTube\|YouTube]] — catégorie: Plateforme vidéo recommandée pour 2026 (1 occ., 1 fiches)

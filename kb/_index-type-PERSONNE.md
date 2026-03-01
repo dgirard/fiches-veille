@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 156 entités de type PERSONNE
+> 157 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -109,6 +109,7 @@
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] — rôle: Chercheur équipe Safeguards, Anthropic (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur / Blogger tech francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] — rôle: Sponsor et mainteneur principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Olivia-Moore\|Olivia Moore]] — rôle: Partner, Andreessen Horowitz (AI) (1 occ., 1 fiches)

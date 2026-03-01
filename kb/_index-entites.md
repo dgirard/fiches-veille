@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 990 entités
+> 997 entités
 
 ## #
 
@@ -32,7 +32,7 @@
 - [[kb/_entites-mineures#Agentic-AI\|Agentic AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] (CONCEPT, 1 fiches)
 - [[kb/Agentique-adaptative\|Agentique adaptative]] (CONCEPT, 1 fiches)
 - [[kb/agents-IA\|agents IA]] (CONCEPT, 1 fiches)
@@ -276,6 +276,7 @@
 - [[kb/Cursor\|Cursor]] (TECHNOLOGIE, 9 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Customer-Lifetime-Value\|Customer Lifetime Value]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Custplace\|Custplace]] (ORGANISATION, 1 fiches)
 ## D
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
@@ -356,6 +357,7 @@
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] (CONCEPT, 1 fiches)
 - [[kb/Ethan-Mollick\|Ethan Mollick]] (PERSONNE, 8 fiches)
+- [[kb/_entites-mineures#Etsy\|Etsy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] (EVENEMENT, 2 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] (ORGANISATION, 1 fiches)
 - [[kb/Every\|Every]] (ORGANISATION, 3 fiches)
@@ -609,6 +611,7 @@
 - [[kb/MCP-UI\|MCP-UI]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#mcpui.dev\|mcpui.dev]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Meitu\|Meitu]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mere-ceremony\|mere ceremony]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Meridian\|Meridian]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Meta-Business-AI\|Meta Business AI]] (TECHNOLOGIE, 1 fiches)
@@ -662,6 +665,7 @@
 - [[kb/Next.js-16\|Next.js 16]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Martignole\|Nicolas Martignole]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#NIST-AI-Safety-Institute-Consortium\|NIST AI Safety Institute Consortium]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#No-Regrets-Zone\|No Regrets Zone]] (CONCEPT, 1 fiches)
@@ -960,6 +964,7 @@
 
 - [[kb/_entites-mineures#u-H9ejFGzpN2\|u/H9ejFGzpN2]] (PERSONNE, 1 fiches)
 - [[kb/UDA\|UDA]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] (ORGANISATION, 1 fiches)
 - [[kb/Upper\|Upper]] (TECHNOLOGIE, 1 fiches)
@@ -994,6 +999,7 @@
 - [[kb/_entites-mineures#Wardley-Map\|Wardley Map]] (METHODOLOGIE, 1 fiches)
 - [[kb/Wardley-Mapping\|Wardley Mapping]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Washington-D.C.\|Washington D.C.]] (LIEU, 1 fiches)
+- [[kb/_entites-mineures#Wayfair\|Wayfair]] (ORGANISATION, 1 fiches)
 - [[kb/Weave\|Weave]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Weave-Hour\|Weave Hour]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] (CONCEPT, 1 fiches)
@@ -1008,6 +1014,7 @@
 - [[kb/_entites-mineures#window.openai\|window.openai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Windsurf\|Windsurf]] (TECHNOLOGIE, 5 fiches)
 - [[kb/_entites-mineures#WIP-limits\|WIP limits]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#WordLift\|WordLift]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Work-Slop\|Work Slop]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#workflow-Brainstorm-Plan-Implement\|workflow Brainstorm-Plan-Implement]] (METHODOLOGIE, 1 fiches)

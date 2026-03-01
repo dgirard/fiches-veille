@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 845 entités avec moins de 3 triples/fiches
+> 851 entités avec moins de 3 triples/fiches
 
-## PERSONNE (125)
+## PERSONNE (126)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -871,6 +871,17 @@
 
 **Fiches** : [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
 
+### Nicolas Marette {#Nicolas-Marette}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur guide Agentic Commerce Optimization
+
+- **affirme_que** → [[kb/_entites-mineures#marques-attentistes-seront-en-retard\|marques attentistes seront en retard]] (CONCEPT) — 0.92
+- **recommande** → [[kb/_entites-mineures#préparation-UCP-en-5-étapes\|préparation UCP en 5 étapes]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+
 ### Nicolas Martignole {#Nicolas-Martignole}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1278,7 +1289,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (119)
+## ORGANISATION (122)
 
 ### 11 Labs {#11-Labs}
 
@@ -1474,6 +1485,14 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 
+### Custplace {#Custplace}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Plateforme d'avis et preuve sociale
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+
 ### DSI {#DSI}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -1587,6 +1606,17 @@
 - **catégorie** : École d'informatique, France
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+
+### Etsy {#Etsy}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : E-commerce / Marketplace artisanale
+
+- **utilise** → [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.98
+- **implémente** → [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
 
 ### Evertune {#Evertune}
 
@@ -2379,6 +2409,16 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js]], [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]
 
+### Wayfair {#Wayfair}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : E-commerce / Ameublement
+
+- **utilise** → [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.98
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+
 ### Wharton {#Wharton}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -2524,7 +2564,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (238)
+## TECHNOLOGIE (240)
 
 ### /mnt/skills {#mnt-skills}
 
@@ -2727,17 +2767,19 @@
 
 ### Agentic Commerce Protocol {#Agentic-Commerce-Protocol}
 
-**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+**Type** : TECHNOLOGIE | 5 relations | 2 fiches
 
+- **catégorie** : Protocole commerce agentique Google
 - **usage** : Achat direct via agent IA (Instant Checkout)
 
 - **permet** → [[kb/_entites-mineures#Instant-Checkout-via-ChatGPT\|Instant Checkout via ChatGPT]] (CONCEPT) — 0.95
 - **facilite** → [[kb/_entites-mineures#achats-système-à-système\|achats système-à-système]] (CONCEPT) — 0.90
 
+- [[kb/Google\|Google]] **a_créé** → Agentic Commerce Protocol — 0.99
 - [[kb/_entites-mineures#Etsy\|Etsy]] **implémente** → Agentic Commerce Protocol — 0.93
 - [[kb/_entites-mineures#Walmart\|Walmart]] **implémente** → Agentic Commerce Protocol — 0.93
 
-**Fiches** : [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]], [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 
 ### Agents SDK {#Agents-SDK}
 
@@ -3842,6 +3884,16 @@
 
 **Fiches** : [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
 
+### Merchant Center {#Merchant-Center}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme de gestion de catalogue Google
+
+- **fait_partie_de** → [[kb/_entites-mineures#écosystème-commerce-Google\|écosystème commerce Google]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+
 ### Meridian {#Meridian}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -4633,6 +4685,16 @@
 - [[kb/_entites-mineures#Voxtral-Small\|Voxtral Small]] **surpasse** → Whisper large-v3 — 0.96
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0]]
+
+### WordLift {#WordLift}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil SEO sémantique et diffusion visuelle
+
+- **permet** → [[kb/_entites-mineures#simulation-diffusion-visuelle-produits\|simulation diffusion visuelle produits]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
 
 ### Workers for Platforms {#Workers-for-Platforms}
 
@@ -7641,13 +7703,14 @@
 
 ### Agentic Commerce Protocol {#Agentic-Commerce-Protocol}
 
-**Type** : METHODOLOGIE | 4 relations | 1 fiches
+**Type** : METHODOLOGIE | 5 relations | 1 fiches
 
 - **fonction** : Achats IA via interactions système-à-système
 
 - **permet** → [[kb/_entites-mineures#Instant-Checkout-via-ChatGPT\|Instant Checkout via ChatGPT]] (CONCEPT) — 0.95
 - **facilite** → [[kb/_entites-mineures#achats-système-à-système\|achats système-à-système]] (CONCEPT) — 0.90
 
+- [[kb/Google\|Google]] **a_créé** → Agentic Commerce Protocol — 0.99
 - [[kb/_entites-mineures#Etsy\|Etsy]] **implémente** → Agentic Commerce Protocol — 0.93
 - [[kb/_entites-mineures#Walmart\|Walmart]] **implémente** → Agentic Commerce Protocol — 0.93
 

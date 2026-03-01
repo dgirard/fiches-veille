@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 15 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 3 fiches sources
 
 ## Attributs
 
@@ -64,6 +64,8 @@
 
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
+- [[kb/_entites-mineures#parcours-achat-e-commerce\|parcours achat e-commerce]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
 
 ## Relations (comme objet)
 

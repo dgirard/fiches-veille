@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 146 entités de type ORGANISATION
+> 149 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] — catégorie: Comité de direction interdisciplinaire (1 occ., 1 fiches)
@@ -26,6 +26,7 @@
 - [[kb/_entites-mineures#Columbia-University\|Columbia University]] — secteur: Enseignement supérieur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Commerce-Department\|Commerce Department]] — secteur: Commerce international américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] — rôle: acteur du réseau circulaire d'investissements IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Custplace\|Custplace]] — secteur: Plateforme d'avis et preuve sociale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — contexte: grande entreprise, intégrateur de BMAD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DX\|DX]] — secteur: Mesure productivité ingénierie et expérience développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Databricks\|Databricks]] — secteur: Data lakehouse / plateforme IA (1 occ., 1 fiches)
@@ -38,6 +39,7 @@
 - [[kb/_entites-mineures#EXL\|EXL]] — valorisation: 6 milliards de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Embabel\|Embabel]] — secteur: Plateforme IA agentic basée sur JVM, démontre l'approche DICE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] — catégorie: École d'informatique, France (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Etsy\|Etsy]] — secteur: E-commerce / Marketplace artisanale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] — secteur: Analyse représentation marques dans LLMs (1 occ., 1 fiches)
 - [[kb/Every\|Every]] — secteur: Media / Outils IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#FDA\|FDA]] — rôle: Régulateur des dispositifs médicaux aux États-Unis (1 occ., 1 fiches)
@@ -131,6 +133,7 @@
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] — acte: Condamnation de l'averroïsme en 1270 et 1277 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vercel\|Vercel]] — secteur: Hébergement / Infrastructure web (2 occ., 2 fiches)
 - [[kb/WEnvision\|WEnvision]] — secteur: IA générative, conseil (4 occ., 3 fiches)
+- [[kb/_entites-mineures#Wayfair\|Wayfair]] — secteur: E-commerce / Ameublement (1 occ., 1 fiches)
 - [[kb/Weave\|Weave]] — batch YC: Winter 2025 (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Wharton\|Wharton]] — catégorie: École de commerce universitaire (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Wharton-GAIL\|Wharton GAIL]] — type: Generative AI Lab, Université de Pennsylvanie (1 occ., 1 fiches)
