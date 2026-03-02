@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 271 entités de type CONCEPT
+> 274 entités de type CONCEPT
 
 - [[kb/AEO\|AEO]] — définition: Optimisation pour être cité par les moteurs de réponse IA (1 occ., 1 fiches)
 - [[kb/AGI\|AGI]] — définition: Système capable de recherche PhD ou d'auto-amélioration (4 occ., 4 fiches)
@@ -69,6 +69,9 @@
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] — rôle: Formalisation du comportement attendu de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] — catégorie: Métaphore d'accès trivial à l'IA générative (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tier-1-Constitution\|Tier 1 Constitution]] — catégorie: Hot memory — fichier Markdown 660 lignes toujours chargé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] — catégorie: Domain experts — 19 specs, 9300 lignes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tier-3-Knowledge-Base\|Tier 3 Knowledge Base]] — catégorie: Cold memory — 34 docs, 16250 lignes via MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Transparence-du-raisonnement\|Transparence du raisonnement]] — pilier: Pilier 1 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trifecta-Mortelle\|Trifecta Mortelle]] — définition: données privées + contenu non fiable + exfiltration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Usage-Statistics\|Usage Statistics]] — définition: Contrôle unique opt-out de collecte de données (1 occ., 1 fiches)

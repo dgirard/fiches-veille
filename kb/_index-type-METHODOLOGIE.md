@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 100 entités de type METHODOLOGIE
+> 101 entités de type METHODOLOGIE
 
 - [[kb/ACE\|ACE]] — signification: Agentic Context Engineering (4 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
@@ -72,6 +72,7 @@
 - [[kb/framework-6-étapes\|framework 6 étapes]] — étapes: Définir, Concevoir SOP, MVP, Connecter, Tester, Déployer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#framework-Leadership-Lab-Crowd\|framework Leadership-Lab-Crowd]] — catégorie: Modèle de transformation IA organisationnelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#git-worktrees\|git worktrees]] — usage: Isolation de tâches parallèles sur une même base de code (1 occ., 1 fiches)
+- [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] — technique: Fragmentation de tâches + fausse identité cybersécurité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] — principe: Budget aligné sur les signaux réels de demande client (1 occ., 1 fiches)

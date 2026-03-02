@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 59 relations | 22 fiches sources
+> **Type** : TECHNOLOGIE | 60 relations | 22 fiches sources
 
 ## Attributs
 
@@ -193,6 +193,7 @@
 - [[kb/SuperClaude\|SuperClaude]] **transforme** → Claude Code — 0.98
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Code — 0.97
 - [[kb/Anthropic\|Anthropic]] **a_publié** → Claude Code — 0.97
+- [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] **est_utilisé_par** → Claude Code — 0.96
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **a_manipulé** → Claude Code — 0.95

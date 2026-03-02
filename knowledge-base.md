@@ -1,25 +1,25 @@
 # Knowledge Base — Veille Technologique
 
-> 130 fiches | 1004 entités | 1670 triples | Généré le 2026-03-01
+> 131 fiches | 1009 entités | 1682 triples | Généré le 2026-03-02
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (160)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (161)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (150)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (293)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (271)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (100)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (274)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (101)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (24)
 - [[kb/_index-type-LIEU\|LIEU]] (3)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (3)
-- [[kb/_entites-mineures\|Entités mineures]] (867)
+- [[kb/_entites-mineures\|Entités mineures]] (871)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 59 | 22 |
+| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 60 | 22 |
 | [[kb/Anthropic\|Anthropic]] | ORGANISATION | 46 | 23 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 26 | 11 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 25 | 6 |
@@ -44,34 +44,34 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 91
-- **affirme_que** : 59
+- **utilise** : 94
+- **affirme_que** : 60
 - **publie** : 53
-- **est_basé_sur** : 51
-- **améliore** : 45
+- **est_basé_sur** : 52
+- **améliore** : 46
 - **recommande** : 38
 - **a_publié** : 37
 - **permet** : 36
 - **remplace** : 34
-- **a_créé** : 33
-- **réduit** : 30
-- **transforme** : 30
+- **a_créé** : 34
+- **réduit** : 31
+- **transforme** : 31
 - **s_oppose_à** : 29
-- **fait_partie_de** : 27
+- **fait_partie_de** : 28
 - **intègre** : 26
 
 ### Distribution par type
 
-- **PERSONNE** : 160 (15.9%)
+- **PERSONNE** : 161 (16.0%)
 - **ORGANISATION** : 150 (14.9%)
-- **TECHNOLOGIE** : 293 (29.2%)
-- **CONCEPT** : 271 (27.0%)
-- **METHODOLOGIE** : 100 (10.0%)
+- **TECHNOLOGIE** : 293 (29.0%)
+- **CONCEPT** : 274 (27.2%)
+- **METHODOLOGIE** : 101 (10.0%)
 - **EVENEMENT** : 24 (2.4%)
 - **LIEU** : 3 (0.3%)
 - **DOCUMENT** : 3 (0.3%)
 
 ### Déduplication
 
-- **Triples** : 1687 → 1670 (17 doublons)
-- **Entités** : 1353 → 1004 (349 doublons)
+- **Triples** : 1699 → 1682 (17 doublons)
+- **Entités** : 1359 → 1009 (350 doublons)

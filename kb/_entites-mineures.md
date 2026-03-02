@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 858 entités avec moins de 3 triples/fiches
+> 862 entités avec moins de 3 triples/fiches
 
-## PERSONNE (129)
+## PERSONNE (130)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -146,6 +146,17 @@
 - **collabore_avec** → [[kb/_entites-mineures#Wharton-GAIL\|Wharton GAIL]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research]]
+
+### Aristidis Vasilopoulos {#Aristidis-Vasilopoulos}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Chercheur indépendant, développeur C#
+
+- **a_créé** → [[kb/_entites-mineures#infrastructure-contexte-codifié-3-tiers\|infrastructure contexte codifié 3 tiers]] (METHODOLOGIE) — 0.98
+- **affirme_que** → [[kb/_entites-mineures#constitution-basique-améliore-output-dès-jour-1\|constitution basique améliore output dès jour 1]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
 
 ### Arjan van den Heuvel {#Arjan-van-den-Heuvel}
 
@@ -5170,7 +5181,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (253)
+## CONCEPT (256)
 
 ### AI Orchestrator {#AI-Orchestrator}
 
@@ -5765,6 +5776,36 @@
 - **provoque** → [[kb/_entites-mineures#crise-de-sens\|crise de sens]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+
+### Tier 1 Constitution {#Tier-1-Constitution}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Hot memory — fichier Markdown 660 lignes toujours chargé
+
+- **contient** → [[kb/_entites-mineures#conventions,-patterns,-tables-routage\|conventions, patterns, tables routage]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+
+### Tier 2 Agents spécialisés {#Tier-2-Agents-spécialisés}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Domain experts — 19 specs, 9300 lignes
+
+- **contient** → [[kb/_entites-mineures#19-spécifications-domain-experts\|19 spécifications domain experts]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+
+### Tier 3 Knowledge Base {#Tier-3-Knowledge-Base}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Cold memory — 34 docs, 16250 lignes via MCP
+
+- **utilise** → [[kb/_entites-mineures#serveur-MCP\|serveur MCP]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
 
 ### Transparence du raisonnement {#Transparence-du-raisonnement}
 

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 1004 entités
+> 1009 entités
 
 ## #
 
@@ -108,6 +108,7 @@
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#architectures-AI-native\|architectures AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Archétypes-d'équipes\|Archétypes d'équipes]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Aristidis-Vasilopoulos\|Aristidis Vasilopoulos]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Arjan-van-den-Heuvel\|Arjan van den Heuvel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ARR\|ARR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] (CONCEPT, 1 fiches)
@@ -499,6 +500,7 @@
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Indice-d'Utilisation-de-l'IA-(AUI)\|Indice d'Utilisation de l'IA (AUI)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#industrie-du-conseil-en-management\|industrie du conseil en management]] (CONCEPT, 1 fiches)
+- [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#intellect-séparé\|intellect séparé]] (CONCEPT, 1 fiches)
@@ -951,6 +953,9 @@
 - [[kb/_entites-mineures#Three-Fidelities\|Three Fidelities]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tidy-First\|Tidy First]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Tier-1-Constitution\|Tier 1 Constitution]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Tier-3-Knowledge-Base\|Tier 3 Knowledge Base]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#tldraw\|tldraw]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tony-Seale\|Tony Seale]] (PERSONNE, 1 fiches)

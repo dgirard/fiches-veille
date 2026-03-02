@@ -9,6 +9,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Février 2026
 
 - **[2026-02-26]** [The Context Flywheel : avantage compétitif par le contexte](fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) - CDLC, volant d'inertie contextuel, moat connaissance produit, ownership contexte - Tessl
+- **[2026-02-24]** [Codified Context: Infrastructure for AI Agents in a Complex Codebase](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Architecture 3 tiers contexte codifié, 283 sessions, MCP, agents spécialisés - arXiv
 - **[2026-02-23]** [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - UCP déployé, schema.org, Merchant Center, attributs conversationnels - Custplace
 - **[2026-02-19]** [Context Development Lifecycle : ingénierie du contexte pour agents IA](fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) - CDLC 4 phases, TDD pour contexte, parallèle DevOps, gouvernance - Tessl
 - **[2026-02]** [Prompt auto-caching avec Claude](fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02.md) - Tokens cachés 10% du prix, auto-caching API, hash cryptographique, prefill/decode - Anthropic (X/Twitter)
@@ -239,6 +240,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Codified Context: Infrastructure for AI Agents](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Aristidis Vasilopoulos (arXiv)
 - [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Ethan Mollick
 - [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Justin McCarthy
 - [The Year the IDE Died & Vibe Coding](fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23.md) - Steve Yegge & Gene Kim
@@ -462,7 +464,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 187
+- **Total d'articles** : 188
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.

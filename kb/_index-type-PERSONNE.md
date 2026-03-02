@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 160 entités de type PERSONNE
+> 161 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -20,6 +20,7 @@
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] — rôle: Professeur, Harvard Business School (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] — domaine: Sciences comportementales (1 occ., 1 fiches)
 - [[kb/Antoine-Habert\|Antoine Habert]] — rôle: Practitioner IA agentique, auteur WEnvision (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Aristidis-Vasilopoulos\|Aristidis Vasilopoulos]] — rôle: Chercheur indépendant, développeur C# (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arjan-van-den-Heuvel\|Arjan van den Heuvel]] — rôle: Consultant Data & AI, auteur Xebia (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] — rôle: Analyste Gartner, auteur Hype Cycle GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arvind-Narayanan\|Arvind Narayanan]] — affiliation: Chercheur indépendant, timelines AGI longues (1 occ., 1 fiches)
