@@ -108,3 +108,6 @@ https://x.com/i/status/2024573404888911886
 https://www.knowledge-graph-guys.com/blog/philosophy-eats-ai
 
 https://fr.custplace.com/business/lagentic-commerce-optimization-acp/
+
+https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
