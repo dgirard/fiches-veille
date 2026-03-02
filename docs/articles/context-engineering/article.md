@@ -4,13 +4,13 @@
 
 ## Le paradoxe du prompt vide
 
-Aristidis Vasilopoulos a mené [l'une des études quantitatives les plus détaillées du développement assisté par agents IA](../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) : 283 sessions sur 70 jours, 2 801 prompts humains, 16 522 tours autonomes. Au terme de cette immersion, un chiffre contre-intuitif : **80 % des prompts font moins de 100 mots**.
+Aristidis Vasilopoulos a mené [l'une des études quantitatives les plus détaillées du développement assisté par agents IA](../../../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) : 283 sessions sur 70 jours, 2 801 prompts humains, 16 522 tours autonomes. Au terme de cette immersion, un chiffre contre-intuitif : **80 % des prompts font moins de 100 mots**.
 
 Pas parce que le développeur est paresseux. Parce que tout le travail a été fait en amont. Le contexte est déjà là — chargé, structuré, prêt à être consommé par l'agent. L'infrastructure contextuelle représente 24,2 % de la documentation totale du projet.
 
 La plupart des développeurs font l'inverse. Ils rédigent de longs prompts ad-hoc, répètent les mêmes instructions, décrivent à chaque session l'architecture de leur projet. Ils font du prompt engineering artisanal quand le vrai levier se trouve ailleurs : dans tout ce qui arrive *avant* le prompt.
 
-Patrick Debois, inventeur du terme DevOps, formule le même constat différemment : [le goulot d'étranglement du développement logiciel n'est plus la vitesse d'écriture du code, mais la qualité du contexte fourni aux agents](../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md). Pendant des décennies, l'industrie a optimisé la façon dont les humains écrivent du code — waterfall, agile, DevOps, platform engineering. Mais les agents écrivent désormais le code. Le nouveau goulot, c'est le contexte.
+Patrick Debois, inventeur du terme DevOps, formule le même constat différemment : [le goulot d'étranglement du développement logiciel n'est plus la vitesse d'écriture du code, mais la qualité du contexte fourni aux agents](../../../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md). Pendant des décennies, l'industrie a optimisé la façon dont les humains écrivent du code — waterfall, agile, DevOps, platform engineering. Mais les agents écrivent désormais le code. Le nouveau goulot, c'est le contexte.
 
 ## Chaque session est un nouvel employé
 
@@ -20,7 +20,7 @@ C'est ce problème que le context engineering adresse. Non pas en formulant de m
 
 ## L'architecture en trois tiers
 
-Vasilopoulos n'a pas seulement posé le problème — il a construit et documenté la solution. Son [infrastructure de contexte codifié](../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) s'organise en trois tiers, chacun correspondant à un type de mémoire et une fréquence d'accès.
+Vasilopoulos n'a pas seulement posé le problème — il a construit et documenté la solution. Son [infrastructure de contexte codifié](../../../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) s'organise en trois tiers, chacun correspondant à un type de mémoire et une fréquence d'accès.
 
 ### Tier 1 — Constitution (Hot Memory)
 
@@ -42,7 +42,7 @@ L'impact mesuré par Vasilopoulos est significatif : des spécifications bien ma
 
 ## Le CDLC — un DevOps pour le contexte
 
-Si Vasilopoulos fournit l'architecture et les données empiriques, Debois fournit le cadre méthodologique. Son [Context Development Lifecycle (CDLC)](../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) propose quatre phases qui traitent le contexte comme un artefact d'ingénierie à part entière — et non comme un simple fichier oublié dans un coin du projet.
+Si Vasilopoulos fournit l'architecture et les données empiriques, Debois fournit le cadre méthodologique. Son [Context Development Lifecycle (CDLC)](../../../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) propose quatre phases qui traitent le contexte comme un artefact d'ingénierie à part entière — et non comme un simple fichier oublié dans un coin du projet.
 
 ### Phase 1 — Générer : rendre l'implicite explicite
 
@@ -70,7 +70,7 @@ Debois note que des fenêtres de contexte infinies ne résoudront pas le problè
 
 ## Compound Engineering — l'inversion de la complexité
 
-Si Debois pose le cadre théorique du cycle, Dan Shipper et Kieran Klaassen démontrent ce que ça donne en pratique. Leur [Compound Engineering](../fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) repose sur un renversement fondamental : en ingénierie traditionnelle, chaque feature rend la suivante **plus difficile** (dette technique, complexité croissante) ; en compound engineering, chaque feature rend la suivante **plus facile** grâce à une boucle d'apprentissage documentée.
+Si Debois pose le cadre théorique du cycle, Dan Shipper et Kieran Klaassen démontrent ce que ça donne en pratique. Leur [Compound Engineering](../../../fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) repose sur un renversement fondamental : en ingénierie traditionnelle, chaque feature rend la suivante **plus difficile** (dette technique, complexité croissante) ; en compound engineering, chaque feature rend la suivante **plus facile** grâce à une boucle d'apprentissage documentée.
 
 Le processus se décompose en quatre étapes avec une répartition du temps qui brise les idées reçues :
 
@@ -94,7 +94,7 @@ L'étape Compound rend cette dynamique systématique. Avant chaque nouveau cycle
 
 Ce qui frappe dans ces trois travaux, c'est leur convergence indépendante vers les mêmes conclusions.
 
-**Le contexte documenté compose.** Vasilopoulos le mesure empiriquement : chaque sous-système documenté accélère ses propres modifications futures et toutes les features adjacentes. Debois le théorise avec le [Context Flywheel](../fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) — le volant d'inertie contextuel : documenter le contexte → meilleur output → l'output enrichit le contexte → le contexte compose et accélère. Shipper et Klaassen le démontrent opérationnellement : l'étape Compound transforme chaque cycle en investissement pour les suivants.
+**Le contexte documenté compose.** Vasilopoulos le mesure empiriquement : chaque sous-système documenté accélère ses propres modifications futures et toutes les features adjacentes. Debois le théorise avec le [Context Flywheel](../../../fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) — le volant d'inertie contextuel : documenter le contexte → meilleur output → l'output enrichit le contexte → le contexte compose et accélère. Shipper et Klaassen le démontrent opérationnellement : l'étape Compound transforme chaque cycle en investissement pour les suivants.
 
 **Le problème n'est jamais l'agent, c'est le contexte.** Vasilopoulos : « les explications répétées signalent le besoin de créer une spec ». Debois : « un échec d'évaluation est une spécification non écrite ». Klaassen : « planifier enseigne au système ». Trois formulations du même principe — le diagnostic fondamental du context engineering.
 
@@ -120,6 +120,6 @@ Et le coût d'entrée est modeste : Vasilopoulos l'estime à 1-2 heures de maint
 
 *Article basé sur l'analyse de 34 fiches de veille couvrant la période mai 2025 — février 2026. Trois sources principales structurent l'argumentation :*
 
-- *[Vasilopoulos — Codified Context Infrastructure (2026-02)](../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) — l'architecture et les données empiriques*
-- *[Debois — Context Development Lifecycle (2026-02)](../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) — le cadre méthodologique*
-- *[Shipper & Klaassen — Compound Engineering (2025-12)](../fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) — la mise en pratique*
+- *[Vasilopoulos — Codified Context Infrastructure (2026-02)](../../../fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) — l'architecture et les données empiriques*
+- *[Debois — Context Development Lifecycle (2026-02)](../../../fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) — le cadre méthodologique*
+- *[Shipper & Klaassen — Compound Engineering (2025-12)](../../../fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) — la mise en pratique*
