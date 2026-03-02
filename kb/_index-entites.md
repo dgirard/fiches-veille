@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 1009 entités
+> 1012 entités
 
 ## #
 
@@ -234,6 +234,7 @@
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#comportement-parahuman\|comportement parahuman]] (CONCEPT, 1 fiches)
+- [[kb/compound-engineering\|compound engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#compounding-engineering\|compounding engineering]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Compounding-Engineering\|Compounding Engineering]] (METHODOLOGIE, 1 fiches)
@@ -258,7 +259,7 @@
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Conway's-Law\|Conway's Law]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#Cora\|Cora]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Cora\|Cora]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#CORS\|CORS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] (CONCEPT, 1 fiches)
@@ -282,6 +283,7 @@
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] (PERSONNE, 1 fiches)
+- [[kb/Dan-Shipper\|Dan Shipper]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#data-flywheel\|data flywheel]] (CONCEPT, 1 fiches)
@@ -363,7 +365,7 @@
 - [[kb/_entites-mineures#Etsy\|Etsy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] (EVENEMENT, 2 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] (ORGANISATION, 1 fiches)
-- [[kb/Every\|Every]] (ORGANISATION, 3 fiches)
+- [[kb/Every\|Every]] (ORGANISATION, 4 fiches)
 - [[kb/_entites-mineures#EXL\|EXL]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|Explosion cambrienne des Skills]] (CONCEPT, 1 fiches)
 - [[kb/ExpressIF-3\|ExpressIF 3]] (TECHNOLOGIE, 1 fiches)
@@ -538,7 +540,7 @@
 - [[kb/_entites-mineures#Kate-Holterhoff\|Kate Holterhoff]] (PERSONNE, 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] (PERSONNE, 1 fiches)
-- [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 2 fiches)
+- [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 3 fiches)
 - [[kb/Kiro\|Kiro]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] (ORGANISATION, 1 fiches)
@@ -751,6 +753,7 @@
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Playwright\|Playwright]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound engineering]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Postman\|Postman]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] (EVENEMENT, 1 fiches)

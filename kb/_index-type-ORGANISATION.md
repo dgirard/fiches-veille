@@ -41,7 +41,7 @@
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] — catégorie: École d'informatique, France (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] — secteur: E-commerce / Marketplace artisanale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] — secteur: Analyse représentation marques dans LLMs (1 occ., 1 fiches)
-- [[kb/Every\|Every]] — secteur: Media / Outils IA (3 occ., 3 fiches)
+- [[kb/Every\|Every]] — secteur: Media / Outils IA (4 occ., 4 fiches)
 - [[kb/_entites-mineures#FDA\|FDA]] — rôle: Régulateur des dispositifs médicaux aux États-Unis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FTC\|FTC]] — rôle: Régulateur de la concurrence aux États-Unis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fintool\|Fintool]] — secteur: Recherche financière augmentée par IA (1 occ., 1 fiches)

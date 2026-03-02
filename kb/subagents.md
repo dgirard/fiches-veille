@@ -1,6 +1,6 @@
 # subagents
 
-> **Type** : CONCEPT | 10 relations | 3 fiches sources
+> **Type** : CONCEPT | 11 relations | 3 fiches sources
 
 ## Attributs
 
@@ -44,6 +44,7 @@
 - [[kb/Claude-Code\|Claude Code]] **supporte** → subagents — 0.99
 - [[kb/Claude-Code\|Claude Code]] **délègue_tâches_à** → subagents — 0.98
 - [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → subagents — 0.95
+- [[kb/compound-engineering\|compound engineering]] **utilise** → subagents — 0.95
 - [[kb/_entites-mineures#MCP-Tools\|MCP Tools]] **accessibles_par** → subagents — 0.93
 
 ## Fiches sources

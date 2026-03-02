@@ -53,6 +53,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-12-18]** [Making Google Sans Flex](fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18.md) - Évolution typographie Google, 6 axes variables, open source - Google Design
 - **[2025-12-17]** [Conductor: Context-driven development for Gemini CLI](fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17.md) - Extension Gemini CLI, specs Markdown, workflow brownfield - Google
 - **[2025-12-12]** [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Systèmes de record, truth registries, agents IA - Jamin Ball
+- **[2025-12-11]** [Compound Engineering: How Every Codes With Agents](fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) - Boucle Plan-Work-Assess-Compound, 12 subagents review, 1 dev = 5, plugin Claude Code - Every
 - **[2025-12-11]** [Interactions API: A unified foundation for models and agents](fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11.md) - API unifiée Gemini, MCP, état serveur, Deep Research - Google DeepMind
 - **[2025-12-11]** [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - Context data platform, agent self-learning, cloud-native architecture - memodb-io
 - **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
@@ -240,6 +241,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Compound Engineering: How Every Codes With Agents](fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) - Dan Shipper & Kieran Klaassen (Every)
 - [Codified Context: Infrastructure for AI Agents](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Aristidis Vasilopoulos (arXiv)
 - [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Ethan Mollick
 - [StrongDM AI : Software Factory et le moment agentique](fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06.md) - Justin McCarthy
@@ -464,7 +466,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 188
+- **Total d'articles** : 189
 - **Période couverte** : Juin 2023 - Février 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.

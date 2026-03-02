@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 293 entités de type TECHNOLOGIE
+> 294 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] — type: Répertoire système hébergeant les skills Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] — type: Endpoint API pour gestion programmatique des skills (1 occ., 1 fiches)
@@ -64,7 +64,7 @@
 - [[kb/_entites-mineures#CodeRabbit\|CodeRabbit]] — catégorie: Outil de revue de code automatisée par IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Context7\|Context7]] — usage: Consultation documentation officielle (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Cora\|Cora]] — catégorie: Produit email géré par Every (2 occ., 2 fiches)
+- [[kb/Cora\|Cora]] — catégorie: Assistant email IA, produit Every (3 occ., 3 fiches)
 - [[kb/_entites-mineures#CrewAI\|CrewAI]] — catégorie: Framework agentique (orchestration) (1 occ., 1 fiches)
 - [[kb/Cursor\|Cursor]] — catégorie: Éditeur AI-native (10 occ., 9 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
@@ -280,6 +280,7 @@
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-déploiement-agents-IA-enterprise\|plateforme déploiement agents IA enterprise]] — capacités: Orchestration, gouvernance, monitoring, gestion coûts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound engineering]] — catégorie: Plugin Claude Code open source, workflow Every (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] — catégorie: Bibliothèque Python de manipulation de PDF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#remote-DOM\|remote DOM]] — rôle: Séparation structure/rendering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 1 fiches)

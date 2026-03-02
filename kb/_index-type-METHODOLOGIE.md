@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 101 entités de type METHODOLOGIE
+> 102 entités de type METHODOLOGIE
 
 - [[kb/ACE\|ACE]] — signification: Agentic Context Engineering (4 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
@@ -65,6 +65,7 @@
 - [[kb/_entites-mineures#architectures-AI-native\|architectures AI-native]] — composants: bases vectorielles, RAG, orchestration d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] — outil_associé: GitHub Copilot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
+- [[kb/compound-engineering\|compound engineering]] — catégorie: Processus ingénierie 4 étapes pour développement agentique (2 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)

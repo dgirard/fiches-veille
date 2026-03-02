@@ -3153,21 +3153,6 @@
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
 
-### Cora {#Cora}
-
-**Type** : TECHNOLOGIE | 5 relations | 2 fiches
-
-- **catégorie** : Produit email géré par Every
-
-- **a_implémenté** → [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] (CONCEPT) — 0.97
-- **utilise** → [[kb/_entites-mineures#Gmail-API\|Gmail API]] (TECHNOLOGIE) — 0.92
-
-- [[kb/Kieran-Klaassen\|Kieran Klaassen]] **dirige** → Cora — 0.98
-- [[kb/Kieran-Klaassen\|Kieran Klaassen]] **gère** → Cora — 0.98
-- [[kb/_entites-mineures#RubyLLM\|RubyLLM]] **est_utilisé_par** → Cora — 0.88
-
-**Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]], [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
-
 ### CrewAI {#CrewAI}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -3527,7 +3512,7 @@
 - **impose** → [[kb/_entites-mineures#limite-de-débit-à-2000-emails\|limite de débit à 2000 emails]] (CONCEPT) — 0.95
 - **impose** → [[kb/_entites-mineures#quotas-sur-opérations-bulk\|quotas sur opérations bulk]] (CONCEPT) — 0.93
 
-- [[kb/_entites-mineures#Cora\|Cora]] **utilise** → Gmail API — 0.92
+- [[kb/Cora\|Cora]] **utilise** → Gmail API — 0.92
 - [[kb/email-agent\|email agent]] **intègre** → Gmail API — 0.90
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]], [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
@@ -4397,7 +4382,7 @@
 
 - **catégorie** : Gem Ruby pour appels API LLM
 
-- **est_utilisé_par** → [[kb/_entites-mineures#Cora\|Cora]] (TECHNOLOGIE) — 0.88
+- **est_utilisé_par** → [[kb/Cora\|Cora]] (TECHNOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 
@@ -5035,6 +5020,16 @@
 - [[kb/WEnvision\|Wenvision]] **propose** → plateforme déploiement agents IA enterprise — 0.98
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision - AI agents - Enterprise deployment - Platform - Agent orchestration - Enterprise AI - Production systems]]
+
+### plugin compound engineering {#plugin-compound-engineering}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plugin Claude Code open source, workflow Every
+
+- **utilise** → [[kb/_entites-mineures#12-subagents-parallèles-pour-review\|12 subagents parallèles pour review]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
 
 ### pypdf {#pypdf}
 
@@ -6599,7 +6594,7 @@
 
 - **périmètre** : Traitement bulk de 53 000 emails via cache + queue
 
-- [[kb/_entites-mineures#Cora\|Cora]] **a_implémenté** → email bankruptcy feature — 0.97
+- [[kb/Cora\|Cora]] **a_implémenté** → email bankruptcy feature — 0.97
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]]
 

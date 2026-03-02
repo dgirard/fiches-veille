@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 161 entités de type PERSONNE
+> 162 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -40,6 +40,7 @@
 - [[kb/_entites-mineures#Cobus-Greyling\|Cobus Greyling]] — rôle: Chief Evangelist @ Kore.ai, auteur Medium (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] — rôle: Investor, Andreessen Horowitz (AI applications) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] — contribution: Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs (1 occ., 1 fiches)
+- [[kb/Dan-Shipper\|Dan Shipper]] — rôle: Co-fondateur et CEO, Every (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Kiron\|David Kiron]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Perrin\|David Perrin]] — rôle: Dominicain, auteur à la Revue thomiste (1 occ., 1 fiches)
@@ -82,7 +83,7 @@
 - [[kb/_entites-mineures#Kate-Holterhoff\|Kate Holterhoff]] — affiliation: RedMonk, analyste (1 occ., 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] — rôle: Créateur de TDD, auteur Augmented Coding (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)
-- [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: General Manager de Cora (2 occ., 2 fiches)
+- [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: General Manager Cora, Every (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] — rôle: Developer advocate, Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Laura-Tacho\|Laura Tacho]] — rôle: CTO chez DX, co-auteure AI Measurement Framework (1 occ., 1 fiches)
 - [[kb/Lee-Robinson\|Lee Robinson]] — rôle: VP Product, Vercel (1 occ., 1 fiches)
