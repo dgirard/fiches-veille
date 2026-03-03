@@ -1,6 +1,6 @@
 # Knowledge Base — Context Engineering
 
-> 34 fiches | Période : Mai 2025 — Février 2026 | Généré le 2026-03-02
+> 35 fiches | Période : Mai 2025 — Mars 2026 | Généré le 2026-03-02
 
 ## Vue d'ensemble
 
@@ -39,6 +39,10 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 - **Fév. 2026** — Patrick Debois théorise le CDLC et le Context Flywheel
 - **Fév. 2026** — Vasilopoulos publie l'évaluation empirique la plus détaillée : architecture 3 tiers, 283 sessions
 
+### 2026 — Outillage mémoire
+
+- **Mars 2026** — Artem Zhutov démontre QMD (Tobias Lütke) + skill /recall : moteur de recherche local BM25/sémantique/hybride remplace grep pour mémoire persistante agents
+
 ## Fiches sources
 
 ### Core Context Engineering
@@ -59,6 +63,10 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|Context Graphs Foundation Capital - nouvelle génération systèmes de record pour agents IA]]
 - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor Google - extension Gemini CLI développement piloté par le contexte]]
 - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
+
+### Mémoire & Recherche locale
+
+- [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD + skill /recall : moteur recherche local BM25/sémantique, mémoire persistante agents, remplacement grep]]
 
 ### Specs & Plans pour agents IA
 
@@ -128,6 +136,7 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 - [[kb/_entites-mineures#DPROD\|DPROD]] — Spécification ouverte pour data products sémantiques
 - [[kb/_entites-mineures#Conductor\|Conductor]] — Context-driven development pour Gemini CLI
 - [[kb/Kiro\|Kiro]] — IDE agentique spec-driven (AWS)
+- [[kb/_entites-mineures#QMD\|QMD]] — Moteur de recherche local markdown BM25/sémantique/hybride (Tobias Lütke)
 
 ### Personnes clés
 
@@ -143,6 +152,8 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 - [[kb/_entites-mineures#Sam-Schillace\|Sam Schillace]] — Compounding teams
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] — Auto-caching, developer advocacy Anthropic
 - [[kb/_entites-mineures#@trq212\|@trq212]] — Prompt caching lessons, équipe Claude Code
+- [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — CEO Shopify, créateur QMD
+- [[kb/_entites-mineures#Artem-Zhutov\|Artem Zhutov]] — Créateur skill /recall, lab Claude Code × Obsidian
 
 ### Organisations
 
@@ -151,6 +162,7 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 - [[kb/_entites-mineures#Stanford-University\|Stanford]] — ACE framework
 - [[kb/_entites-mineures#Tessl\|Tessl]] — CDLC, Context Flywheel (Patrick Debois)
 - [[kb/_entites-mineures#Every\|Every]] — Compounding engineering (Klaassen)
+- [[kb/_entites-mineures#Shopify\|Shopify]] — QMD, moteur de recherche local (Tobias Lütke)
 
 ## Architecture conceptuelle
 
@@ -162,7 +174,7 @@ Cette KB thématique couvre le **Context Engineering** : l'ensemble des pratique
 │  Specs à la demande, knowledge graphs,          │
 │  documentation subsystèmes (via MCP)            │
 │  → Vasilopoulos Tier 3, Context Graphs,         │
-│    Netflix UDA, Acontext                         │
+│    Netflix UDA, Acontext, QMD                    │
 ├─────────────────────────────────────────────────┤
 │  LAYER 2 — Agents spécialisés (Warm Memory)     │
 │  Skills, subagents, agents domain experts       │
@@ -204,3 +216,5 @@ Documenter le contexte
 6. **Plans teach systems** — planifier enseigne au système, pas seulement au développeur (Klaassen)
 7. **Le cache hit rate est la métrique la plus importante** pour un agent en production (@peakji/Manus)
 8. **80% des prompts < 100 mots** quand le contexte est pré-chargé (Vasilopoulos)
+9. **Grep ne passe pas à l'échelle** pour les agents IA — la recherche sémantique transforme un vault passif en mémoire active (Zhutov/QMD)
+10. **"Tools change. Your context stays."** — le contexte survit aux changements d'outils (Zhutov)

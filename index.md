@@ -6,11 +6,16 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Articles par date de publication
 
+### Mars 2026
+
+- **[2026-03-01]** [Grep Is Dead: How I Made Claude Code Actually Remember Things](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - QMD moteur de recherche local, skill /recall, BM25 + sémantique vs grep - GitHub (Tobias Lütke)
+
 ### Février 2026
 
 - **[2026-02-26]** [The Context Flywheel : avantage compétitif par le contexte](fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) - CDLC, volant d'inertie contextuel, moat connaissance produit, ownership contexte - Tessl
 - **[2026-02-24]** [Codified Context: Infrastructure for AI Agents in a Complex Codebase](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Architecture 3 tiers contexte codifié, 283 sessions, MCP, agents spécialisés - arXiv
 - **[2026-02-23]** [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - UCP déployé, schema.org, Merchant Center, attributs conversationnels - Custplace
+- **[2026-02-10]** [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - ACP vs UCP, Amazon absent, attribution agentique, feed produit IA - Opascope
 - **[2026-02-19]** [Context Development Lifecycle : ingénierie du contexte pour agents IA](fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) - CDLC 4 phases, TDD pour contexte, parallèle DevOps, gouvernance - Tessl
 - **[2026-02]** [Prompt auto-caching avec Claude](fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02.md) - Tokens cachés 10% du prix, auto-caching API, hash cryptographique, prefill/decode - Anthropic (X/Twitter)
 - **[2026-02]** [Prompt caching : leçons de Claude Code](fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02.md) - Cache prefix, plan mode, compaction cache-safe, defer loading, monitoring SEVs - Anthropic (X/Twitter)
@@ -301,6 +306,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Prompt auto-caching avec Claude](fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02.md) - Lance Martin (Anthropic)
 - [The Context Flywheel : avantage compétitif par le contexte](fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) - Patrick Debois (Tessl)
 - [Context Development Lifecycle : ingénierie du contexte pour agents IA](fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) - Patrick Debois (Tessl)
+- [Grep Is Dead: QMD + skill /recall pour mémoire persistante Claude Code](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - Artem Zhutov / Tobias Lütke
 
 ### Architecture & Construction
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
@@ -379,6 +385,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Économie & Marché
 - [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - Nicolas Marette (Custplace)
+- [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - Max Thilén (Opascope)
 - [NRF 2026 : Commerce Agentique et Universal Commerce Protocol](fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13.md) - Deep Research Veille Interne
 - [The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders](fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01.md) - Julia Ahrens (Medium/WSJ)
 - [Paying Engineers like Salespeople](fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23.md) - Arman Hezarkhani (10x)
@@ -466,7 +473,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 189
-- **Période couverte** : Juin 2023 - Février 2026
+- **Total d'articles** : 191
+- **Période couverte** : Juin 2023 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.

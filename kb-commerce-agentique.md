@@ -1,6 +1,6 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 8 fiches | Période : Février 2025 — Février 2026 | Généré le 2026-03-02
+> 9 fiches | Période : Février 2025 — Février 2026 | Généré le 2026-03-03
 
 ## Vue d'ensemble
 
@@ -21,11 +21,13 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 
 - **Jan. 2026** — Google annonce le Universal Commerce Protocol (UCP) au NRF 2026, Carrefour premier européen
 - **Fév. 2026** — Wayfair et Etsy utilisent UCP en production. Nicolas Marette publie le guide technique ACP/UCP
+- **Fév. 2026** — Max Thilén (Opascope) publie le guide de référence ACP vs UCP : 900M utilisateurs ChatGPT Instant Checkout, absence stratégique Amazon, crise attribution, triptyque Amazon/Google/OpenAI
 
 ## Fiches sources
 
-### Protocoles Google (ACP / AP2 / UCP)
+### Protocoles et guides ACP / UCP
 
+- [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026 : ACP vs UCP, Amazon absent, attribution agentique, feed produit IA]]
 - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]
 - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments]]
@@ -46,7 +48,10 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 ### Protocoles et technologies
 
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol (UCP)]] — Protocole commerce agentique Google (annoncé jan. 2026)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol (ACP)]] — Protocole commerce agentique Google
+- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol (ACP)]] — Protocole commerce agentique OpenAI/Stripe, live sept. 2025, 4% commission
+- [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — Checkout agentique sans visite site, 900M utilisateurs hebdomadaires
+- [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] — Assistant IA shopping in-app Amazon, 300M utilisateurs, +60% conversion
+- [[kb/_entites-mineures#Alexa+\|Alexa+]] — Commerce vocal automatisé Amazon
 - [[kb/_entites-mineures#AP2\|AP2]] — Agent Payments Protocol, prédécesseur
 - [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] — Plateforme catalogue Google
 - [[kb/_entites-mineures#schema.org\|schema.org]] — Données structurées, socle des ontologies commerce
@@ -58,7 +63,9 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 
 - [[kb/Google\|Google]] — Créateur UCP/ACP/AP2
 - [[kb/Shopify\|Shopify]] — Trafic IA ×7, commandes ×11
-- [[kb/OpenAI\|OpenAI]] — ChatGPT Atlas, commerce conversationnel
+- [[kb/OpenAI\|OpenAI]] — ChatGPT Atlas, Instant Checkout, ACP co-créateur
+- [[kb/_entites-mineures#Amazon\|Amazon]] — Rufus AI, Alexa+, Buy for Me, absent des protocoles ouverts
+- [[kb/_entites-mineures#Opascope\|Opascope]] — Cabinet conseil e-commerce agentique
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — Premier utilisateur UCP
 - [[kb/_entites-mineures#Etsy\|Etsy]] — Premier utilisateur UCP
 - [[kb/_entites-mineures#Carrefour\|Carrefour]] — Premier européen UCP (NRF 2026)
@@ -70,6 +77,7 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — Guide technique ACP/UCP
 - [[kb/_entites-mineures#Barron-Ernst\|Barron Ernst]] — Commerce sur ChatGPT
 - [[kb/_entites-mineures#Olivier-Rafal\|Olivier Rafal]] — Web conversationnel
+- [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] — Guide référence ACP vs UCP (Opascope)
 
 ## Concepts structurants
 
@@ -94,8 +102,15 @@ Visibilité (AEO/schema.org)
 
 ### Signaux clés
 
+- **900M utilisateurs hebdomadaires** ChatGPT Instant Checkout (déc. 2025)
 - **73%** des consommateurs utilisent déjà l'IA pour acheter (oct. 2025)
 - **×7 trafic IA** et **×11 commandes** chez Shopify (nov. 2025)
 - **Schema.org reste le ciment** de toutes les ontologies commerce
 - **Attributs conversationnels** : nouveau paradigme (FAQ, substituts, accessoires, couleurs enrichies)
 - **Preuve sociale tierce** (Trustpilot, G2, Custplace) fréquemment citée par les LLMs
+- **ACP : 4% commission** + ~2.9% Stripe = ~7% total par transaction
+- **Amazon absent des protocoles ouverts** : stratégie propriétaire (Rufus, Alexa+, Buy for Me), 40% du e-commerce US
+- **Triptyque écosystème** : Amazon propriétaire / Google UCP / OpenAI ACP
+- **Attribution agentique invisible** : 70-90% des parcours déjà invisibles, premier signal = webhook commande
+- **McKinsey : $3-5T global** de revenus commerce agentique d'ici 2030
+- **Descriptions produit pour IA ≠ SEO** : cas d'usage et matériaux plutôt que mots-clés
