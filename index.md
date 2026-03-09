@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
+- **[2026-03-07]** [Building for trillions of agents](fiches/2026-03/levie-building-trillions-agents-software-2026-03-07.md) - Logiciel API-first pour agents, infrastructure agentique, modeles economiques - X (Aaron Levie)
+- **[2026-03-05]** [Blocage IA en entreprise par IT/juridique : une question de leadership](fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05.md) - Fossé adoption IA, aversion au risque, courage managérial - LinkedIn
 - **[2026-03-01]** [Grep Is Dead: How I Made Claude Code Actually Remember Things](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - QMD moteur de recherche local, skill /recall, BM25 + sémantique vs grep - GitHub (Tobias Lütke)
 
 ### Février 2026
@@ -309,6 +311,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Grep Is Dead: QMD + skill /recall pour mémoire persistante Claude Code](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - Artem Zhutov / Tobias Lütke
 
 ### Architecture & Construction
+- [Building for trillions of agents](fiches/2026-03/levie-building-trillions-agents-software-2026-03-07.md) - Aaron Levie (Box)
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
 - [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - Harry (Gadget)
 - [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - memodb-io
@@ -347,6 +350,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Addy Osmani
 - [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Arjan van den Heuvel
 - [Making AI Work: Leadership, Lab, and Crowd](fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22.md) - Ethan Mollick
+- [Blocage IA en entreprise : une question de leadership](fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05.md) - Ethan Mollick
 - [Real AI Agents and Real Work](fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29.md) - Ethan Mollick
 - [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Ethan Mollick
 - [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Ethan Mollick
@@ -473,7 +477,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 191
+- **Total d'articles** : 193
 - **Période couverte** : Juin 2023 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.
