@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
+- **[2026-03-11]** [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Moment kilowatt-heure, fin heure-cerveau, equation valeur computation - LinkedIn (Philippe Ensarguet)
+- **[2026-03-09]** [CLI vs IDE : l'environnement de developpement s'effondre](fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09.md) - Trois couches stack dev effondrees, IDE optionnel, specification verbale - X (Cobus Greyling)
 - **[2026-03-07]** [Building for trillions of agents](fiches/2026-03/levie-building-trillions-agents-software-2026-03-07.md) - Logiciel API-first pour agents, infrastructure agentique, modeles economiques - X (Aaron Levie)
 - **[2026-03-05]** [Blocage IA en entreprise par IT/juridique : une question de leadership](fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05.md) - Fossé adoption IA, aversion au risque, courage managérial - LinkedIn
 - **[2026-03-01]** [Grep Is Dead: How I Made Claude Code Actually Remember Things](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - QMD moteur de recherche local, skill /recall, BM25 + sémantique vs grep - GitHub (Tobias Lütke)
@@ -248,6 +250,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [CLI vs IDE : l'environnement de developpement s'effondre](fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09.md) - Cobus Greyling
 - [Compound Engineering: How Every Codes With Agents](fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) - Dan Shipper & Kieran Klaassen (Every)
 - [Codified Context: Infrastructure for AI Agents](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Aristidis Vasilopoulos (arXiv)
 - [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Ethan Mollick
@@ -388,6 +391,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Philippe Ensarguet
 - [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - Nicolas Marette (Custplace)
 - [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - Max Thilén (Opascope)
 - [NRF 2026 : Commerce Agentique et Universal Commerce Protocol](fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13.md) - Deep Research Veille Interne
@@ -477,7 +481,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 193
+- **Total d'articles** : 195
 - **Période couverte** : Juin 2023 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.
