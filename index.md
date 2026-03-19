@@ -8,6 +8,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
+- **[2026-03-17]** [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Réfutation historique introspection, Socrate à Bezos, rumination vs introspection - X (Riley Ralmuto)
+- **[2026-03-14]** [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Expérience BMAD 1 jour, rôle développeur, problème des 70%, Agent Supervisor - Blog Mornati
 - **[2026-03-11]** [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Moment kilowatt-heure, fin heure-cerveau, equation valeur computation - LinkedIn (Philippe Ensarguet)
 - **[2026-03-09]** [CLI vs IDE : l'environnement de developpement s'effondre](fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09.md) - Trois couches stack dev effondrees, IDE optionnel, specification verbale - X (Cobus Greyling)
 - **[2026-03-07]** [Building for trillions of agents](fiches/2026-03/levie-building-trillions-agents-software-2026-03-07.md) - Logiciel API-first pour agents, infrastructure agentique, modeles economiques - X (Aaron Levie)
@@ -19,12 +21,16 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2026-02-26]** [The Context Flywheel : avantage compétitif par le contexte](fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) - CDLC, volant d'inertie contextuel, moat connaissance produit, ownership contexte - Tessl
 - **[2026-02-24]** [Codified Context: Infrastructure for AI Agents in a Complex Codebase](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Architecture 3 tiers contexte codifié, 283 sessions, MCP, agents spécialisés - arXiv
 - **[2026-02-23]** [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - UCP déployé, schema.org, Merchant Center, attributs conversationnels - Custplace
-- **[2026-02-10]** [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - ACP vs UCP, Amazon absent, attribution agentique, feed produit IA - Opascope
+- **[2026-02-19]** [Minions: Stripe's coding agents -- Part 2](fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19.md) - Blueprints, devboxes, Toolshed ~500 MCP tools, 1300+ PRs/semaine - Stripe Engineering
 - **[2026-02-19]** [Context Development Lifecycle : ingénierie du contexte pour agents IA](fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) - CDLC 4 phases, TDD pour contexte, parallèle DevOps, gouvernance - Tessl
+- **[2026-02-13]** [Fragments: February 13 — Thoughtworks Retreat](fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md) - Dette cognitive, DX=AX, programmation supervisée, intensification travail IA - Martin Fowler
+- **[2026-02-10]** [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - ACP vs UCP, Amazon absent, attribution agentique, feed produit IA - Opascope
 - **[2026-02]** [Prompt auto-caching avec Claude](fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02.md) - Tokens cachés 10% du prix, auto-caching API, hash cryptographique, prefill/decode - Anthropic (X/Twitter)
 - **[2026-02]** [Prompt caching : leçons de Claude Code](fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02.md) - Cache prefix, plan mode, compaction cache-safe, defer loading, monitoring SEVs - Anthropic (X/Twitter)
 - **[2026-02]** [Boris Cherny raconte la genèse de Claude Code](fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02.md) - Demande latente, bitter lesson, scaffolding, productivité +150%, agents swarm - Y Combinator (YouTube)
 - **[2026-02]** [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - 8 tendances codage agentique, multi-agents, supervision humaine, démocratisation - Anthropic
+- **[2026-02-12]** [Introducing Markdown for Agents](fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12.md) - Conversion HTML→Markdown en edge pour agents IA, réduction 80% tokens - Cloudflare Blog
+- **[2026-02-09]** [Minions: Stripe's coding agents](fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09.md) - 1000+ PRs/semaine autonomes, Toolshed 400+ MCP tools, devboxes isolés - Stripe Engineering
 - **[2026-02-12]** [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Dépendance étudiante, campus ambassadors, détecteur supprimé, conflits d'intérêts - New York Times
 - **[2026-02]** [Maîtriser Claude Code : 12 modules pédagogiques](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) - Formation complète coding agentique, pédagogie socratique, 60 leçons - Deep Research
 - **[2026-02]** [Mollick : Théorie organisationnelle pour l'IA agentique](fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02.md) - Spans of control, boundary objects, middle management agents, couplage - Ethan Mollick (LinkedIn)
@@ -43,6 +49,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2026-01-27]** [AGENTS.md surpasse les skills dans les évaluations agents](fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27.md) - Contexte passif 100% vs skills 53%, Next.js 16, compression 8Ko - Vercel
 - **[2026-01-27]** [Andrej Karpathy Skills pour Claude Code](fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27.md) - 4 principes anti-bloat, simplicité, modifications chirurgicales - GitHub (3.4k stars)
+- **[2026-01-26]** [Logiciels et cloud : l'ère des prédateurs pour vos budgets IT](fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md) - Hausse 12-14% coûts SaaS, IA embarquée, FinOps, 30% licences inutilisées - CIO Online
 - **[2026-01-15]** [SoGPT vs Copilot : le faux débat qui nous fait perdre la vraie bataille](fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15.md) - Société Générale, capital IA, souveraineté européenne - Erwan Simon
 - **[2026-01-13]** [How to write a good spec for AI agents](fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13.md) - 5 principes specs, Plan Mode, PRD structuré, modularité - Addy Osmani
 - **[2026-01-13]** [NRF 2026 : Commerce Agentique et Universal Commerce Protocol](fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13.md) - UCP Google, Carrefour premier européen, Stripe ACS concurrent - Deep Research
@@ -312,8 +319,12 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [The Context Flywheel : avantage compétitif par le contexte](fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26.md) - Patrick Debois (Tessl)
 - [Context Development Lifecycle : ingénierie du contexte pour agents IA](fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19.md) - Patrick Debois (Tessl)
 - [Grep Is Dead: QMD + skill /recall pour mémoire persistante Claude Code](fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01.md) - Artem Zhutov / Tobias Lütke
+- [Minions: Stripe's coding agents](fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09.md) - Alistair Gray (Stripe)
+- [Minions: Stripe's coding agents -- Part 2](fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19.md) - Alistair Gray (Stripe)
+- [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Marco Mornati
 
 ### Architecture & Construction
+- [Introducing Markdown for Agents](fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12.md) - Celso Martinho & Will Allen (Cloudflare)
 - [Building for trillions of agents](fiches/2026-03/levie-building-trillions-agents-software-2026-03-07.md) - Aaron Levie (Box)
 - [Clouded Judgement 12.12.25 - Long Live Systems of Record](fiches/2025-12/clouded-judgement-121225-long-live.md) - Jamin Ball (Clouded Judgement)
 - [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - Harry (Gadget)
@@ -338,6 +349,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [Fragments: Thoughtworks Retreat — LLMs et développement logiciel](fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md) - Martin Fowler
 - [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
 - [From Chalkboards to Chatbots : IA générative et éducation au Nigeria](fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12.md) - World Bank
 - [SoGPT vs Copilot : le faux débat qui nous fait perdre la vraie bataille](fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15.md) - Erwan Simon (GENIAL)
@@ -391,6 +403,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [Logiciels et cloud : prédateurs budgets IT](fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md) - Guillaume Geudin (CIO Online)
 - [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Philippe Ensarguet
 - [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - Nicolas Marette (Custplace)
 - [AI Shopping Assistant Guide 2026: Agentic Commerce Protocols](fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10.md) - Max Thilén (Opascope)
@@ -418,6 +431,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
 
 ### Philosophie & Société
+- [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Riley Ralmuto
 - [Philosophy Eats AI: Ontological Core](fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30.md) - Tony Seale (Knowledge Graph Guys)
 - [Les entreprises IA dévorent l'enseignement supérieur](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) - Matthew Connelly (NYT)
 - [Lenny Podcast : Andreessen sur IA, emplois, AGI et avenir](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) - Lenny Rachitsky & Marc Andreessen
@@ -481,7 +495,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 195
+- **Total d'articles** : 202
 - **Période couverte** : Juin 2023 - Mars 2026
-- **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv.
+- **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), Martin Fowler (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter).

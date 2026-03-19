@@ -96,22 +96,17 @@ URLs non accessibles:
 - https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals (fiche créée: gao-vercel-agents-md-outperforms-skills-evals-2026-01-27.md)
 -->
 
-https://martinphilippe.wixsite.com/tech-away/post/bmad-le-plan-d-urbanisme-qui-apprivoise-l-ia-agentique-dans-votre-sdlc
-
-https://blog.cloudflare.com/markdown-for-agents/
-
-https://martinfowler.com/fragments/2026-02-13.html
-
-https://x.com/trq212/status/2024574133011673516?s=20
-https://x.com/i/status/2024573404888911886
-
-https://www.knowledge-graph-guys.com/blog/philosophy-eats-ai
-
-https://fr.custplace.com/business/lagentic-commerce-optimization-acp/
-
-https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
-https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
-
-https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fblog%2Emornati%2Enet%2Fwhat-is-a-developer-when-we-use-coding-agents-my-1-day-bmad-experiment&urlhash=1UwG&mt=GEZ3ieG7U0_Rivs7F-EX51hE8msj8_oCJqekWLjlnXLEomKzDDov5UyxW6I9IAv130VFAPSM7N0-N-ONhlS6iSTV5XuR2Rinf6EqsptNWnOAZzaL-kWbeg&isSdui=true
-https://www.cio-online.com/actualites/lire-logiciels-et-cloud-l-ere-des-predateurs-pour-vos-budgets-it-16799.html
-https://x.com/RileyRalmuto/status/2033745634113581369
+<!-- URLs traitées le 2026-03-19:
+- https://martinphilippe.wixsite.com/tech-away/post/bmad-le-plan-d-urbanisme-qui-apprivoise-l-ia-agentique-dans-votre-sdlc (doublon de fiche existante: martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04.md)
+- https://blog.cloudflare.com/markdown-for-agents/ (fiche créée: martinho-allen-cloudflare-markdown-for-agents-2026-02-12.md)
+- https://martinfowler.com/fragments/2026-02-13.html (fiche créée: fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md)
+- https://x.com/trq212/status/2024574133011673516?s=20 (doublon de fiche existante: trq212-anthropic-claude-code-prompt-caching-lessons-2026-02.md)
+- https://x.com/i/status/2024573404888911886 (doublon de fiche existante: lancemartin-anthropic-prompt-auto-caching-claude-2026-02.md)
+- https://www.knowledge-graph-guys.com/blog/philosophy-eats-ai (doublon de fiche existante: seale-philosophy-eats-ai-ontological-core-2025-05-30.md)
+- https://fr.custplace.com/business/lagentic-commerce-optimization-acp/ (doublon de fiche existante: marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md)
+- https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents (fiche créée: gray-stripe-minions-coding-agents-part1-2026-02-09.md)
+- https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2 (fiche créée: gray-stripe-minions-coding-agents-part2-2026-02-19.md)
+- https://blog.mornati.net/what-is-a-developer-when-we-use-coding-agents-my-1-day-bmad-experiment (fiche créée: mornati-developer-coding-agents-bmad-experiment-2026-03-14.md)
+- https://www.cio-online.com/actualites/lire-logiciels-et-cloud-l-ere-des-predateurs-pour-vos-budgets-it-16799.html (fiche créée: geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md)
+- https://x.com/RileyRalmuto/status/2033745634113581369 (fiche créée: ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md)
+-->
