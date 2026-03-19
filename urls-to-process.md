@@ -111,3 +111,7 @@ https://fr.custplace.com/business/lagentic-commerce-optimization-acp/
 
 https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
 https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
+
+https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fblog%2Emornati%2Enet%2Fwhat-is-a-developer-when-we-use-coding-agents-my-1-day-bmad-experiment&urlhash=1UwG&mt=GEZ3ieG7U0_Rivs7F-EX51hE8msj8_oCJqekWLjlnXLEomKzDDov5UyxW6I9IAv130VFAPSM7N0-N-ONhlS6iSTV5XuR2Rinf6EqsptNWnOAZzaL-kWbeg&isSdui=true
+https://www.cio-online.com/actualites/lire-logiciels-et-cloud-l-ere-des-predateurs-pour-vos-budgets-it-16799.html
+https://x.com/RileyRalmuto/status/2033745634113581369
