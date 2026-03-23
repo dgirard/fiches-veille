@@ -110,3 +110,5 @@ URLs non accessibles:
 - https://www.cio-online.com/actualites/lire-logiciels-et-cloud-l-ere-des-predateurs-pour-vos-budgets-it-16799.html (fiche créée: geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md)
 - https://x.com/RileyRalmuto/status/2033745634113581369 (fiche créée: ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md)
 -->
+
+https://github.com/obra/superpowers
