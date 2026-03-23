@@ -111,6 +111,7 @@ URLs non accessibles:
 - https://x.com/RileyRalmuto/status/2033745634113581369 (fiche créée: ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md)
 -->
 
-<!-- URLs traitées le 2026-03-23:
-- https://github.com/obra/superpowers (doublon de fiche existante: superpowers-skills-coding-agents-vincent-2025-10-09.md)
+<!-- URLs traitées le 2026-03-24:
+- https://github.com/obra/superpowers (fiche créée: vincent-superpowers-agentic-skills-framework-github-2026-03-24.md)
+  Note: fiche connexe existante pour le blog post: superpowers-skills-coding-agents-vincent-2025-10-09.md
 -->
