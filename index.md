@@ -9,6 +9,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Mars 2026
 
 - **[2026-03-24]** [Superpowers: framework agentique skills 94k stars](fiches/2026-03/vincent-superpowers-agentic-skills-framework-github-2026-03-24.md) - Framework compétences agentiques, TDD, sous-agents, multi-plateformes - GitHub (Jesse Vincent)
+- **[2026-03]** [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - 7000 utilisateurs, 4 piliers, cloud souverain S3NS, Champions IA - Deep Research
 - **[2026-03-17]** [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Réfutation historique introspection, Socrate à Bezos, rumination vs introspection - X (Riley Ralmuto)
 - **[2026-03-14]** [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Expérience BMAD 1 jour, rôle développeur, problème des 70%, Agent Supervisor - Blog Mornati
 - **[2026-03-11]** [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Moment kilowatt-heure, fin heure-cerveau, equation valeur computation - LinkedIn (Philippe Ensarguet)
@@ -351,6 +352,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - Deep Research
 - [Fragments: Thoughtworks Retreat — LLMs et développement logiciel](fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md) - Martin Fowler
 - [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
 - [From Chalkboards to Chatbots : IA générative et éducation au Nigeria](fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12.md) - World Bank
