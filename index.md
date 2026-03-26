@@ -8,7 +8,6 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
-- **[2026-03-24]** [Superpowers: framework agentique skills 94k stars](fiches/2026-03/vincent-superpowers-agentic-skills-framework-github-2026-03-24.md) - Framework compétences agentiques, TDD, sous-agents, multi-plateformes - GitHub (Jesse Vincent)
 - **[2026-03]** [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - 7000 utilisateurs, 4 piliers, cloud souverain S3NS, Champions IA - Deep Research
 - **[2026-03-17]** [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Réfutation historique introspection, Socrate à Bezos, rumination vs introspection - X (Riley Ralmuto)
 - **[2026-03-14]** [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Expérience BMAD 1 jour, rôle développeur, problème des 70%, Agent Supervisor - Blog Mornati
