@@ -1,6 +1,6 @@
 # ChatGPT
 
-> **Type** : TECHNOLOGIE | 10 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 8 fiches sources
 
 ## Attributs
 
@@ -10,6 +10,11 @@
 - **évolution** : Ajout de liens cliquables et éléments de recherche traditionnels
 
 ## Relations (comme sujet)
+
+### 
+
+- [[kb/_entites-mineures#IA-generative-enterprise\|IA generative enterprise]] (AJOUT) — 0.00, ATEMPOREL
+  - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 
 ### compte
 
@@ -45,14 +50,26 @@
 - [[kb/_entites-mineures#trafic-vers-boutiques-Shopify\|trafic vers boutiques Shopify]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify - Croissance IA - Traffic 7x - Commandes 11x - Commerce agentique - TechCrunch - E-commerce]]
 
+### permet
+
+- [[kb/_entites-mineures#achat-conversationnel\|achat conversationnel]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|barron-ernst-rise-of-commerce-chatgpt-2025-11-08]]
+
+### évolue_vers
+
+- [[kb/_entites-mineures#plateforme-commerce\|plateforme commerce]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|barron-ernst-rise-of-commerce-chatgpt-2025-11-08]]
+
 ## Relations (comme objet)
 
+- [[kb/OpenAI\|OpenAI]] **a_créé** → ChatGPT — 0.98
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] **connecte** → ChatGPT — 0.95
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → ChatGPT — 0.95
 
 ## Fiches sources
 
 - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z - Top 100 Gen AI Consumer Apps - 5th Edition - Market analysis - ChatGPT - Gemini - Grok]]
+- [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|barron-ernst-rise-of-commerce-chatgpt-2025-11-08]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
 - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
 - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]

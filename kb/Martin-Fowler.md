@@ -1,10 +1,10 @@
 # Martin Fowler
 
-> **Type** : PERSONNE | 4 relations | 1 fiches sources
+> **Type** : PERSONNE | 5 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : Chief Scientist ThoughtWorks, auteur
+- **rôle** : Auteur, Chief Scientist Thoughtworks
 
 ## Relations (comme sujet)
 
@@ -12,6 +12,11 @@
 
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
+
+### a_participé_à
+
+- [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] (EVENEMENT) — 0.98, STATIQUE
+  - [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
 
 ### affirme_que
 
@@ -30,4 +35,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
 - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]

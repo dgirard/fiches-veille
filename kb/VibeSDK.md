@@ -31,7 +31,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Cloudflare\|Cloudflare]] **a_publié** → VibeSDK — 0.99
+- [[kb/Cloudflare\|Cloudflare]] **a_publié** → VibeSDK — 0.99
 
 ## Fiches sources
 

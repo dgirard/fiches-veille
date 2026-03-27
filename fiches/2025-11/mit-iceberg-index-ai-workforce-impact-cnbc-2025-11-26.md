@@ -142,3 +142,33 @@ Cette étude marque un tournant dans la manière dont nous abordons la transform
 - Tennessee AI Workforce Action Plan : https://www.tn.gov/ai
 - Utah AI Initiative : https://innovate.utah.gov/ai
 - Project Iceberg Report : https://iceberg.mit.edu/report
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| MIT | ORGANISATION | a_créé | Iceberg Index | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Iceberg Index | TECHNOLOGIE | modélise | 151 millions de travailleurs américains | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | peut_remplacer | 11.7% de la main-d'œuvre américaine | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Oak Ridge National Laboratory | ORGANISATION | fournit | puissance calcul supercalculateur Frontier | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| MIT | ORGANISATION | collabore_avec | Oak Ridge National Laboratory | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Tennessee | LIEU | adopte | Iceberg Index dans plan IA | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Iceberg Index | TECHNOLOGIE | cartographie | 32 000 compétences dans 923 professions | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| partie cachée impact IA | CONCEPT | représente | 9.5% main-d'œuvre (fonctions routinières) | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| régions rurales | LIEU | sont_impactées_par | automatisation IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| 1.2 trillion dollars | CONCEPT | représente | salaires exposés à l'IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Utah | LIEU | prépare | rapport basé sur Iceberg Index | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| MIT | ORGANISATION | secteur | Recherche universitaire | AJOUT |
+| Iceberg Index | TECHNOLOGIE | catégorie | Outil simulation jumeau numérique marché du travail | AJOUT |
+| Oak Ridge National Laboratory | ORGANISATION | ressource | Supercalculateur Frontier | AJOUT |
+| MacKenzie Sigalos | PERSONNE | rôle | Journaliste CNBC | AJOUT |
+| Tennessee | LIEU | initiative | AI Workforce Action Plan | AJOUT |
+| Utah | LIEU | initiative | Rapport IA en préparation | AJOUT |
+| CNBC | ORGANISATION | secteur | Média financier | AJOUT |

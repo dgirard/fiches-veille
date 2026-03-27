@@ -54,3 +54,34 @@ Ce traité exhaustif analyse l'écosystème des prises de parole en public à tr
 **Structures interculturelles** : Le Kishōtenketsu (Japon/Chine/Corée) génère l'intérêt non par le conflit mais par un changement de perspective en quatre parties. Le Jo-ha-kyū module le tempo avec une accélération progressive. Les récits circulaires autochtones reviennent au point de départ avec une compréhension approfondie. Les Dilemma Tales africains terminent sur une question ouverte, transformant l'auditoire en co-créateur de sens.
 
 **Matrice de recommandation** : Pour une Keynote, utiliser la Sparkline. Pour un TED Talk, le Golden Circle. Pour un Lightning Talk, AIDA. Pour un Pecha Kucha, le Kishōtenketsu. Pour un Pitch, PAS. Pour un Panel, le Dilemma Tale. Pour un Ignite, le Jo-ha-kyū. Cette adéquation format-framework est la clé d'une influence durable dans un monde saturé de messages.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Nancy Duarte | PERSONNE | a_créé | Sparkline | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Nancy Duarte | PERSONNE | a_créé | Slidology | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Garr Reynolds | PERSONNE | a_créé | Presentation Zen | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Simon Sinek | PERSONNE | a_créé | Golden Circle | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Sparkline | METHODOLOGIE | recommandée_pour | Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Golden Circle | METHODOLOGIE | recommandée_pour | TED Talk | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | recommandée_pour | Pecha Kucha | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| AIDA | METHODOLOGIE | recommandée_pour | Lightning Talk | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| PAS | METHODOLOGIE | recommandée_pour | Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Presentation Zen | METHODOLOGIE | s_inspire_de | esthétique japonaise (Ma) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | génère_intérêt_sans | conflit | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| formats conférence | CONCEPT | distingués_par | durée, contrainte, contrat psychologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Nancy Duarte | PERSONNE | spécialité | Design présentations, Slidology | AJOUT |
+| Garr Reynolds | PERSONNE | spécialité | Presentation Zen, simplicité visuelle | AJOUT |
+| Simon Sinek | PERSONNE | spécialité | Golden Circle, leadership | AJOUT |
+| Sparkline | METHODOLOGIE | principe | Oscillation "Ce qui est" vs "Ce qui pourrait être" | AJOUT |
+| Kishōtenketsu | METHODOLOGIE | origine | Japon/Chine/Corée | AJOUT |
+| Pecha Kucha | CONCEPT | format | 20 slides x 20 secondes = 6m40 | AJOUT |
+| Jo-ha-kyū | METHODOLOGIE | principe | Accélération progressive du tempo | AJOUT |

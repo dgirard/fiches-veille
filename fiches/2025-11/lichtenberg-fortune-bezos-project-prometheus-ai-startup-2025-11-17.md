@@ -48,3 +48,32 @@ Un aspect particulièrement intéressant concerne l'intégration de la robotique
 Malgré sa reconnaissance d'une "bulle industrielle" dans les investissements IA, Bezos reste résolument optimiste sur l'impact transformationnel de la technologie. Il affirme que "les bénéfices pour la société seront gigantesques", positionnant l'IA comme moteur d'"abondance civilisationnelle". Cette perspective nuancée - reconnaissant les excès d'investissement tout en maintenant la conviction sur la valeur long-terme - reflète son approche historique d'investissement patient.
 
 Le timing de cette annonce, alors que l'industrie IA connaît une consolidation après une période d'investissement frénétique, suggère que Bezos voit une opportunité dans la maturation du secteur. Project Prometheus pourrait représenter une nouvelle génération de startups IA, focalisées sur des applications industrielles concrètes plutôt que sur des promesses spéculatives.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Jeff Bezos | PERSONNE | est_co-CEO_de | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Vik Bajaj | PERSONNE | est_co-CEO_de | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Project Prometheus | ORGANISATION | a_levé | 6.2 milliards de dollars | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Project Prometheus | ORGANISATION | applique_IA_à | ingénierie et manufacturing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Project Prometheus | ORGANISATION | collabore_avec | Blue Origin | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | a_quitté | Amazon (CEO) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | prédit | millions de personnes dans l'espace | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Project Prometheus | ORGANISATION | développe | robotique lunaire | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| Vik Bajaj | PERSONNE | a_travaillé_chez | Google X | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | affirme_que | bénéfices IA gigantesques malgré bulle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Jeff Bezos | PERSONNE | rôle | Co-CEO Project Prometheus | AJOUT |
+| Vik Bajaj | PERSONNE | rôle | Co-CEO Project Prometheus, ex-directeur Google X | AJOUT |
+| Project Prometheus | ORGANISATION | valorisation | 6.2 milliards de dollars | AJOUT |
+| Project Prometheus | ORGANISATION | statut | Mode stealth | AJOUT |
+| Blue Origin | ORGANISATION | secteur | Aérospatiale commerciale | AJOUT |
+| Google X | ORGANISATION | secteur | Laboratoire d'innovation | AJOUT |
+| Amazon | ORGANISATION | secteur | Commerce et technologie | AJOUT |

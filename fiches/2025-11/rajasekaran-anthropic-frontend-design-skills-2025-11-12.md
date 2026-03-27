@@ -47,3 +47,30 @@ Le **Web Artifacts Builder Skill** représente une avancée technique majeure, p
 L'article démontre par des exemples concrets comment ces techniques transforment des interfaces fade en designs mémorables. Un générateur de cartes de recettes passe d'un layout Bootstrap générique à une expérience visuelle distinctive avec typographie custom, animations orchestrées et théming cohérent.
 
 L'insight stratégique central : "Les modèles ont souvent la capacité de faire plus qu'ils n'expriment par défaut." Les Skills ne sont pas de simples prompts mais des interventions architecturales qui débloquent des capacités latentes. Cette approche suggère un futur où l'IA apporte non seulement l'automatisation mais aussi une créativité dirigée, transformant la collaboration humain-IA dans le design d'interfaces.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_développé | Skills Claude | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Skills Claude | TECHNOLOGIE | résout | convergence distributionnelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| convergence distributionnelle | CONCEPT | produit | designs génériques et prévisibles | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Skills Claude | TECHNOLOGIE | fournit | contexte dynamique à la demande | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Web Artifacts Builder | TECHNOLOGIE | débloque | React, Tailwind CSS, shadcn/ui | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Prithvi Rajasekaran | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| direction thématique | METHODOLOGIE | remplace | spécifications pixel par pixel | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| typographie distinctive | CONCEPT | améliore | qualité designs générés | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude | TECHNOLOGIE | tend_vers | choix sûrs sans guidance | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Skills | TECHNOLOGIE | débloque | capacités latentes des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Prithvi Rajasekaran | PERSONNE | rôle | Équipe Applied AI, Anthropic | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Skills Claude | TECHNOLOGIE | catégorie | Système de contexte dynamique activé à la demande | AJOUT |
+| Web Artifacts Builder | TECHNOLOGIE | catégorie | Skill permettant React/Tailwind/shadcn dans Claude | AJOUT |
+| convergence distributionnelle | CONCEPT | définition | Tendance des modèles vers des choix surreprésentés dans les données | AJOUT |

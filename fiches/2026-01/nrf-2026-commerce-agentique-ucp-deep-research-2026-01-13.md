@@ -58,3 +58,34 @@ Les métriques confirment l'accélération : +693% de trafic via IA générative
 Le retail media in-store émerge comme opportunité majeure (65-78 milliards USD en 2025), tandis que la supply chain évolue du "Just-in-Time" vers le "Just-in-Case" avec les Digital Product Passports anticipant les régulations UE.
 
 Le document conclut que l'enjeu n'est plus de digitaliser mais d'"agentifier" le commerce. Les retailers sans transformation agentique risquent une désintermédiation structurelle, les agents IA orientant les consommateurs vers les enseignes techniquement intégrées.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Sundar Pichai | PERSONNE | a_annoncé | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_co-développé | UCP | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_co-développé | UCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Walmart | ORGANISATION | a_co-développé | UCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Stripe | ORGANISATION | a_lancé | Agentic Commerce Suite | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Carrefour | ORGANISATION | a_adopté | UCP | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| UCP | TECHNOLOGIE | est_concurrent_de | ACS | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| UCP | TECHNOLOGIE | utilise | MCP, Agent2Agent, REST API | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| commerce agentique | CONCEPT | transforme | SEO en AIO | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Amazon | ORGANISATION | a_développé | Buy for Me (système propriétaire) | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| NRF 2026 | EVENEMENT | a_rassemblé | 40 000 visiteurs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| JD Sports | ORGANISATION | a_adopté | ACS | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Universal Commerce Protocol | TECHNOLOGIE | licence | Apache 2.0 open-source | AJOUT |
+| Agentic Commerce Suite | TECHNOLOGIE | créateurs | Stripe + commercetools | AJOUT |
+| NRF 2026 | EVENEMENT | lieu | Javits Center, New York | AJOUT |
+| Sundar Pichai | PERSONNE | rôle | CEO Google | AJOUT |
+| Carrefour | ORGANISATION | rôle | Premier distributeur alimentaire européen UCP | AJOUT |
+| Google | ORGANISATION | secteur | Technologie / IA | AJOUT |
+| Stripe | ORGANISATION | secteur | Paiements / Infrastructure commerce | AJOUT |

@@ -51,3 +51,31 @@ Sur le plan sociétal, antirez recommande de voter pour des gouvernements souten
 Son message principal aux développeurs : explorer ces outils "sérieusement" plutôt que de les rejeter après des tests superficiels. Il critique implicitement ceux qui forment leur opinion sur l'IA de programmation sans expérimentation approfondie.
 
 L'article conclut par une métaphore invitant les lecteurs à redécouvrir "le feu" de la construction logicielle. L'IA n'est pas là pour remplacer cette passion mais pour l'augmenter. Venant d'une figure aussi respectée de la communauté open source, cet appel au pragmatisme plutôt qu'au rejet idéologique résonne particulièrement dans les débats actuels sur l'avenir du métier de développeur.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Salvatore Sanfilippo | PERSONNE | a_créé | Redis | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | affirme_que | IA va changer programmation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_généré | bibliothèque BERT en C | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_modifié | Linenoise | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_débugué | Redis (défaillances TCP) | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | recommande | exploration sérieuse outils IA | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | s_inquiète_de | centralisation technologique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| IA programmation | CONCEPT | augmente | productivité développeur | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Salvatore Sanfilippo | PERSONNE | recommande | voter pour gouvernements sociaux | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Salvatore Sanfilippo | PERSONNE | pseudonyme | antirez | AJOUT |
+| Salvatore Sanfilippo | PERSONNE | rôle | Créateur Redis, développeur open source | AJOUT |
+| Redis | TECHNOLOGIE | catégorie | Base de données en mémoire | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage IA CLI | AJOUT |
+| Linenoise | TECHNOLOGIE | catégorie | Bibliothèque édition ligne de commande | AJOUT |
+| BERT en C | TECHNOLOGIE | catégorie | Implémentation BERT 700 lignes | AJOUT |

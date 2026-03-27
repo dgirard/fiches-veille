@@ -47,3 +47,29 @@ Le workflow est le suivant :
 4.  La rémunération comprend une base fixe et un variable important indexé sur le volume de points livrés.
 
 Hezarkhani répond aux critiques évidentes (risque de baisse de qualité, inflation des points) par la structure des rôles : le Stratège agit comme contre-pouvoir à l'Ingénieur pour le scoping et la validation. Selon lui, ce modèle attire les "10x engineers" (anciens fondateurs, chercheurs d'élite) qui savent qu'ils peuvent produire énormément grâce à l'IA et veulent capturer une part de cette valeur créée, plutôt que d'attendre une hypothétique sortie via des stock-options. Il conclut que l'IA donne des super-pouvoirs, mais que sans un système de compensation aligné, les employés n'ont aucune raison de les utiliser à leur plein potentiel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Arman Hezarkhani | PERSONNE | a_cofondé | 10x | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| 10x | ORGANISATION | rémunère_par | Story Points | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| modèle 10x | METHODOLOGIE | s_inspire_de | rémunération commerciale | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | amplifie | écart de productivité ingénieurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Stratège | CONCEPT | contrôle_qualité | travail ingénieur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| salaire fixe | CONCEPT | ne_capture_pas | productivité augmentée par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| modèle 10x | METHODOLOGIE | attire | talents élite | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Arman Hezarkhani | PERSONNE | affirme_que | incitations traditionnelles sont obsolètes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Stratège | CONCEPT | empêche | inflation des Story Points | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| 10x engineers | CONCEPT | orchestrent | agents IA multiples | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Arman Hezarkhani | PERSONNE | rôle | Co-fondateur, 10x | AJOUT |
+| 10x | ORGANISATION | secteur | Services d'ingénierie logicielle | AJOUT |
+| Story Points | METHODOLOGIE | catégorie | Système de rémunération à la performance | AJOUT |
+| Stratège | CONCEPT | rôle | PM technique validant qualité et scoping | AJOUT |

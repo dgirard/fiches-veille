@@ -124,3 +124,32 @@ Evolution represents fundamental shift from retrieval-focused systems to compreh
 Citation clé : "Agent memory represents paradigm shift from retrieval-focused systems to comprehensive data management."
 
 Framework progression : static augmentation → dynamic retrieval → persistent learning. Each stage builds previous capabilities tout adding autonomy layer. Agent Memory enables agents learning from interactions, building knowledge bases, personalizing responses based accumulated experience. Transformation retrieval tool vers data management platform fundamentally redefines LLM agent architecture.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Leonie Monigatti | PERSONNE | analyse | évolution RAG vers Agent Memory | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| RAG | TECHNOLOGIE | a_évolué_vers | Agentic RAG | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Agentic RAG | TECHNOLOGIE | a_évolué_vers | Agent Memory | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Agent Memory | TECHNOLOGIE | utilise | opérations lecture-écriture | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| RAG | TECHNOLOGIE | utilise | vector databases | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Agentic RAG | TECHNOLOGIE | introduit | tool calls dynamiques | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Agent Memory | TECHNOLOGIE | permet | apprentissage persistant | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Agent Memory | TECHNOLOGIE | gère | mémoire procédurale | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Agent Memory | TECHNOLOGIE | gère | mémoire épisodique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Agent Memory | TECHNOLOGIE | gère | mémoire sémantique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Agent Memory | TECHNOLOGIE | introduit | corruption mémoire | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Agent Memory | TECHNOLOGIE | transforme | récupération en gestion de données | CONCEPT | 0.92 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Leonie Monigatti | PERSONNE | rôle | Praticienne ML, auteure technique | AJOUT |
+| RAG | TECHNOLOGIE | catégorie | Architecture d'augmentation LLM (2020) | AJOUT |
+| Agentic RAG | TECHNOLOGIE | catégorie | RAG avec récupération dynamique par agents | AJOUT |
+| Agent Memory | TECHNOLOGIE | catégorie | Gestion bidirectionnelle de données pour agents | AJOUT |
+| Vector Databases | TECHNOLOGIE | catégorie | Base de données vectorielle pour recherche sémantique | AJOUT |

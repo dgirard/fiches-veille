@@ -15,7 +15,7 @@
 
 ### s_oppose_à
 
-- [[kb/vibe-coding\|Vibe Coding]] (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/Vibe-Coding\|Vibe Coding]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]
 
 ### utilise

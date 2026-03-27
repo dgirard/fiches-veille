@@ -38,3 +38,32 @@ Les implications sont profondes. Après **NoOps** (2011), voici **NoDev** : supp
 Kim partage son expérience personnelle : dépenser des centaines de dollars par jour en tokens, observer les patterns émergents. Eric Meijer prédit : "Nous sommes probablement la dernière génération à écrire du code à la main." L'industrie bascule de la photographie en chambre noire vers le numérique instantané.
 
 La présentation se termine sur le backlash réel : 60% des organisations résistent activement, illustré par des réponses hostiles aux conseils de Jordan Hubbard (NVIDIA) sur l'utilisation des agents. Cette résistance culturelle, plus que technique, constitue le véritable obstacle à la transformation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Steve Yegge | PERSONNE | prédit | mort de l'IDE traditionnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Gene Kim | PERSONNE | analyse | vibe coding | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| vibe coding | CONCEPT | est_défini_comme | conversation itérative produisant du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Dario Amodei | PERSONNE | a_enrichi | définition du vibe coding | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| écart productivité 10x | CONCEPT | crée | alarmes RH | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| 60% des organisations | CONCEPT | résistent_à | adoption agents IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| NoDev | CONCEPT | succède_à | NoOps | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| support, designers, UX | CONCEPT | livrent_désormais | du code | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Eric Meijer | PERSONNE | prédit | dernière génération à écrire du code à la main | CONCEPT | 0.82 | STATIQUE | déclaré_article |
+| seniors et staff engineers | CONCEPT | résistent_à | vibe coding | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Steve Yegge | PERSONNE | travaille_chez | Sourcegraph | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Steve Yegge | PERSONNE | rôle | Leader d'opinion technologique, auteur | AJOUT |
+| Gene Kim | PERSONNE | rôle | Auteur, chercheur DevOps | AJOUT |
+| Dario Amodei | PERSONNE | rôle | CEO d'Anthropic | AJOUT |
+| Eric Meijer | PERSONNE | rôle | Chercheur informatique | AJOUT |
+| Sourcegraph | ORGANISATION | secteur | Outils développement / Recherche code | AJOUT |
+| vibe coding | CONCEPT | définition | Programmation par conversation itérative avec IA | AJOUT |

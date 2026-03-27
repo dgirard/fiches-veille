@@ -49,3 +49,33 @@ Pour gérer cette échelle, Bloomberg applique le principe du **"Paved Path" (la
 Sur le plan humain, Zhang note que l'adoption est plus forte chez les contributeurs individuels que chez les managers. Pour pallier cela, Bloomberg a intégré l'IA dans le cursus de formation des nouveaux arrivants. Ces "juniors" deviennent alors des vecteurs de changement, challengeant les seniors avec de nouvelles méthodes.
 
 Zhang conclut en soulignant que l'IA change la **"fonction de coût"** de l'ingénierie : certaines tâches autrefois coûteuses (migrations, docs) deviennent bon marché, invitant à repenser les compromis habituels du développement logiciel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lei Zhang | PERSONNE | travaille_chez | Bloomberg | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | emploie | 9000 ingénieurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | applique | Paved Path | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | a_construit | AI Gateway | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | a_construit | MCP Hub | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Uplift Agents | TECHNOLOGIE | réalisent | migrations et correctifs de masse | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Incident Response Agents | TECHNOLOGIE | scannent | logs, télémétrie et configurations | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| juniors formés à l'IA | CONCEPT | deviennent | vecteurs de changement | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| contributeurs individuels | CONCEPT | adoptent_plus_vite | IA que les managers | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | change | fonction de coût de l'ingénierie | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Paved Path | METHODOLOGIE | rend | bonne méthode facile, mauvaise difficile | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lei Zhang | PERSONNE | rôle | Head of Technology Infrastructure Engineering, Bloomberg | AJOUT |
+| Bloomberg | ORGANISATION | secteur | Finance / Données de marché | AJOUT |
+| Bloomberg | ORGANISATION | attribut | 9000 ingénieurs, codebase massive | AJOUT |
+| Uplift Agents | TECHNOLOGIE | catégorie | Agents de migration et maintenance automatisée | AJOUT |
+| Incident Response Agents | TECHNOLOGIE | catégorie | Agents de diagnostic incidents | AJOUT |
+| AI Gateway | TECHNOLOGIE | catégorie | Passerelle unifiée d'accès aux modèles IA | AJOUT |
+| MCP Hub | TECHNOLOGIE | catégorie | Annuaire de serveurs MCP pour éviter duplication | AJOUT |

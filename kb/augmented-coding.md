@@ -20,7 +20,7 @@
 
 ### s_oppose_à
 
-- [[kb/vibe-coding\|vibe coding]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
 ## Relations (comme objet)

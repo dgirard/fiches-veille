@@ -140,3 +140,33 @@ Cette vision représente un changement fondamental dans notre relation avec la t
 - Amazon Astro : https://www.amazon.com/astro
 - Étude sur Paro : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6134750/
 - NextGenU : https://www.nextgenu.org/
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Werner Vogels | PERSONNE | prédit | tendances technologiques 2026 | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Werner Vogels | PERSONNE | travaille_chez | Amazon | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Werner Vogels | PERSONNE | affirme_que | IA doit être dans la boucle humaine | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| robots compagnons | TECHNOLOGIE | combattent | épidémie de solitude | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Paro | TECHNOLOGIE | réduit | agitation et dépression chez patients démence | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Amazon Astro | TECHNOLOGIE | crée | liens émotionnels via mobilité | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| tuteurs IA personnalisés | TECHNOLOGIE | transforment | éducation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| tuteurs IA | TECHNOLOGIE | augmentent | volonté de tenter tâches difficiles de 65% | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| NextGenU | ORGANISATION | crée | manuels adaptés à 1/100e du coût | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| agents IA santé | TECHNOLOGIE | reconstruisent | confiance dans systèmes de santé | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| solitude | CONCEPT | augmente | risque de démence de 31% | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| OMS | ORGANISATION | désigne | solitude comme crise de santé publique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Werner Vogels | PERSONNE | rôle | CTO et Vice-Président d'Amazon | AJOUT |
+| Amazon | ORGANISATION | secteur | Technologie / Commerce / Cloud | AJOUT |
+| Amazon Astro | TECHNOLOGIE | catégorie | Robot compagnon domestique | AJOUT |
+| Paro | TECHNOLOGIE | catégorie | Robot thérapeutique phoque pour soins longue durée | AJOUT |
+| NextGenU | ORGANISATION | catégorie | Organisation éducative IA | AJOUT |
+| OMS | ORGANISATION | catégorie | Organisation Mondiale de la Santé | AJOUT |

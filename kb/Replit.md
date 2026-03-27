@@ -1,6 +1,6 @@
 # Replit
 
-> **Type** : TECHNOLOGIE | 8 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 3 fiches sources
 
 ## Attributs
 
@@ -19,6 +19,16 @@
 - [[kb/_entites-mineures#guardrails-et-sauvegardes\|guardrails et sauvegardes]] (METHODOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
 
+### développe
+
+- [[kb/_entites-mineures#codage-autonome-complet\|codage autonome complet]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Futur du codage autonome - Vision et implémentation chez Replit - VP IA développement automatisé]]
+
+### emploie
+
+- [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] (PERSONNE) — 0.95, DYNAMIQUE
+  - [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Futur du codage autonome - Vision et implémentation chez Replit - VP IA développement automatisé]]
+
 ### est_utilisé_par
 
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] (ORGANISATION) — 0.93, DYNAMIQUE
@@ -30,6 +40,11 @@
 
 - [[kb/_entites-mineures#vibe-coding-stack\|vibe coding stack]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z - Top 100 Gen AI Consumer Apps - 5th Edition - Market analysis - ChatGPT - Gemini - Grok]]
+
+### vise
+
+- [[kb/_entites-mineures#autonomie-type-Waymo\|autonomie type Waymo]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Futur du codage autonome - Vision et implémentation chez Replit - VP IA développement automatisé]]
 
 ## Relations (comme objet)
 

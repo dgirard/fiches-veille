@@ -47,3 +47,38 @@ Ces performances ouvrent des avantages pratiques considérables par rapport aux 
 Le modèle est distribué sous licence MIT, permettant une utilisation libre dans des contextes commerciaux et de recherche. Cette approche open source positionne NuExtract comme une alternative crédible aux API d'extraction propriétaires, particulièrement pour les organisations soucieuses de maîtriser leurs coûts et leurs données.
 
 L'article illustre une tendance importante : les modèles spécialisés de taille modeste peuvent rivaliser avec les géants généralistes sur des tâches ciblées, ouvrant la voie à des déploiements plus économiques et souverains.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| NuMind | ORGANISATION | a_créé | NuExtract | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | effectue | extraction structurée JSON | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| NuExtract-tiny | TECHNOLOGIE | surpasse | GPT-3.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| NuExtract-large | TECHNOLOGIE | atteint_équivalence | GPT-4o | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | est_basé_sur | Llama 3 70B | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | utilise | dataset C4 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | distribué_sous | licence MIT | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Alexandre Constantin | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Liam Cripwell | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Etienne Bernard | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | réduit | coûts d'inférence | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| modèles spécialisés compacts | CONCEPT | rivalise_avec | LLM généralistes | CONCEPT | 0.88 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| NuMind | ORGANISATION | secteur | NLP / extraction structurée | AJOUT |
+| NuExtract | TECHNOLOGIE | catégorie | modèle de langage spécialisé extraction JSON | AJOUT |
+| NuExtract | TECHNOLOGIE | taille | 0.5B à 7B paramètres | AJOUT |
+| NuExtract-tiny | TECHNOLOGIE | catégorie | version compacte NuExtract | AJOUT |
+| NuExtract-large | TECHNOLOGIE | catégorie | version large NuExtract | AJOUT |
+| GPT-3.5 | TECHNOLOGIE | catégorie | LLM généraliste | AJOUT |
+| GPT-4o | TECHNOLOGIE | catégorie | LLM généraliste | AJOUT |
+| Llama 3 70B | TECHNOLOGIE | rôle | génération dataset entraînement | AJOUT |
+| Alexandre Constantin | PERSONNE | rôle | auteur NuExtract | AJOUT |
+| Liam Cripwell | PERSONNE | rôle | auteur NuExtract | AJOUT |
+| Etienne Bernard | PERSONNE | rôle | auteur NuExtract | AJOUT |

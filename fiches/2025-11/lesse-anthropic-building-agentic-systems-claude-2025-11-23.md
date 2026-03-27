@@ -36,3 +36,33 @@ Le troisième pilier, le plus audacieux, préconise de **"donner un ordinateur �
 Les **Agent Skills** enrichissent cette autonomie en fournissant de l'expertise domaine. Ce sont des dossiers de scripts et instructions que Claude peut invoquer selon le contexte, comme appliquer automatiquement un design system lors de la création de landing pages. Cette combinaison de Skills avec MCP crée un système où Claude accède aux outils, au contexte, et possède l'expertise pour les utiliser efficacement.
 
 La vision future d'Anthropic continue d'évoluer autour de ces trois axes : exposer les nouvelles capacités de Claude via l'API, améliorer la gestion contextuelle avec des outils plus sophistiqués, et résoudre les défis d'infrastructure pour permettre une véritable autonomie agentique sécurisée à grande échelle.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Katelyn Lesse | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | développe | Claude | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | utilise | thinking API | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | standardise | interaction systèmes externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Context Editing | TECHNOLOGIE | améliore | performance de 39% | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Memory tool | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | fournit | Code Execution Tool sandboxé | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Agent Skills | CONCEPT | enrichit | autonomie agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Agent Skills | CONCEPT | combine_avec | MCP | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | améliore_performance_avec | temps de raisonnement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Katelyn Lesse | PERSONNE | présente | trois piliers systèmes agentiques | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Katelyn Lesse | PERSONNE | rôle | Responsable ingénierie plateforme développeurs Claude | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle de langage et plateforme agentique | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Model Context Protocol - standard interaction externe | AJOUT |
+| Context Editing | TECHNOLOGIE | impact | +39% performance benchmarks | AJOUT |
+| Agent Skills | CONCEPT | catégorie | Dossiers scripts et instructions expertise domaine | AJOUT |

@@ -1,6 +1,6 @@
 # Microsoft Copilot
 
-> **Type** : TECHNOLOGIE | 3 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
 
 ## Attributs
 
@@ -22,6 +22,10 @@
 
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#Société-Générale\|Société Générale]] **a_adopté** → Microsoft Copilot — 0.97
 
 ## Fiches sources
 

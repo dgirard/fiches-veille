@@ -50,3 +50,31 @@ Robinson formule une observation centrale : "le coût des abstractions avec l'IA
 Cette expérience illustre un changement de paradigme dans l'évaluation des architectures logicielles. Avec des agents de codage capables d'effectuer des migrations massives rapidement, le calcul coût-bénéfice de la dette technique évolue. Supprimer des abstractions devient économiquement viable quand l'alternative est de maintenir une complexité qui freine à la fois les humains et les IA.
 
 Le cas démontre également que les agents performent mieux sur des bases de code épurées, créant un cercle vertueux entre simplification et productivité assistée par IA.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lee Robinson | PERSONNE | a_migré | cursor.com du CMS vers Markdown | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | a_coûté | 260,32$ en tokens | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | a_duré | 3 jours | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | a_généré | 67 commits (+43K/-322K lignes) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| CMS headless | TECHNOLOGIE | introduit | 5 sources de complexité cachée | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| migration | EVENEMENT | a_économisé | 56 848$ en coûts CDN | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | affirme_que | coût des abstractions avec IA est très élevé | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| agents de codage | CONCEPT | performent_mieux_sur | bases de code épurées | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| élimination complexité | CONCEPT | s_autofinance_par | économies opérationnelles | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| build cursor.com | CONCEPT | est_devenu | 2x plus rapide après migration | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lee Robinson | PERSONNE | rôle | Développeur / Tech lead | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | Éditeur de code IA | AJOUT |
+| cursor.com | TECHNOLOGIE | catégorie | Site web Cursor | AJOUT |
+| migration cursor.com | EVENEMENT | date | décembre 2025 | AJOUT |
+| migration cursor.com | EVENEMENT | coût_tokens | 260,32$ (297,4M tokens) | AJOUT |
+| migration cursor.com | EVENEMENT | requêtes_agent | 344 | AJOUT |

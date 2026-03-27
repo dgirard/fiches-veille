@@ -114,3 +114,34 @@ Insights transferable :
 Skills activent on-demand vs loading permanent context. Token efficiency maximized. Reusable across projects. Systematic coverage dimensions pertinentes vs ad-hoc prompting.
 
 Article developer advocacy content typique positioning Skills comme solution élégante problème réel développeurs frontend utilisant AI code generation. Démonstration before/after convaincante valeur ajoutée concrète. Pattern généralisable suggère Skills applicables tout domain expertise spécialisée améliore outputs LLM au-delà generic defaults.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_développé | Claude Skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | résout | convergence distributionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| convergence distributionnelle | CONCEPT | produit | designs frontend génériques | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | chargement contexte dynamique | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| frontend aesthetics skill | TECHNOLOGIE | améliore | qualité output design | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| frontend aesthetics skill | TECHNOLOGIE | consomme | environ 400 tokens | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | React | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | Tailwind CSS | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | shadcn/ui | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | GSAP | TECHNOLOGIE | 0.82 | DYNAMIQUE | déclaré_article |
+| chargement contexte dynamique | METHODOLOGIE | remplace | prompt engineering statique | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Skills | TECHNOLOGIE | catégorie | Instructions spécialisées à chargement dynamique | AJOUT |
+| convergence distributionnelle | CONCEPT | catégorie | Biais vers choix design génériques (Inter, dégradés violets) | AJOUT |
+| frontend aesthetics skill | TECHNOLOGIE | taille | ~400 tokens | AJOUT |
+| React | TECHNOLOGIE | catégorie | Bibliothèque UI JavaScript | AJOUT |
+| Tailwind CSS | TECHNOLOGIE | catégorie | Framework CSS utilitaire | AJOUT |
+| shadcn/ui | TECHNOLOGIE | catégorie | Bibliothèque composants UI | AJOUT |
+| GSAP | TECHNOLOGIE | catégorie | Bibliothèque animation | AJOUT |

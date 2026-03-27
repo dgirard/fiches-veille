@@ -52,3 +52,29 @@ L'article détaille les impacts sur chaque pratique de développement. Le debugg
 Le monitoring évolue de la surveillance de l'uptime vers l'évaluation de la qualité, mesurant le succès des tâches et l'efficacité du raisonnement. Les plateformes d'observabilité deviennent les espaces de collaboration principaux où les équipes discutent des décisions des agents. L'analytics produit s'intègre à l'analyse comportementale des agents.
 
 Chase conclut avec un avertissement : "Construire des agents sans observabilité robuste signifie opérer sans accès à la documentation de la logique centrale."
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Harrison Chase | PERSONNE | dirige | LangChain | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Harrison Chase | PERSONNE | affirme_que | traces documentent agents IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| traces | CONCEPT | remplace | code comme documentation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| agents IA | CONCEPT | prend_décisions_au | runtime | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| code orchestration | CONCEPT | est_réduit_à | échafaudage | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| debugging agents | METHODOLOGIE | repose_sur | inspection des traces | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| testing agents | METHODOLOGIE | nécessite | approches eval-driven | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| monitoring agents | CONCEPT | évolue_vers | évaluation qualité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| observabilité | CONCEPT | devient | espace collaboration équipes | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| non-déterminisme | CONCEPT | impose | comparaison traces | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Harrison Chase | PERSONNE | rôle | CEO LangChain | AJOUT |
+| LangChain | ORGANISATION | secteur | Outils développement agents IA | AJOUT |
+| traces | CONCEPT | définition | Enregistrement séquence étapes agents au runtime | AJOUT |
+| observabilité | CONCEPT | définition | Capacité inspecter décisions et raisonnement agents | AJOUT |

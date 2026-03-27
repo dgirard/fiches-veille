@@ -224,3 +224,37 @@ US-centric (not international contexts), single-turn only (not conversations), g
 **Open-source industry collaboration**
 
 Full evaluation GitHub: https://github.com/anthropics/political-neutrality-eval (implementation details, dataset, grader prompts). "Shared standard measuring political bias benefit entire AI industry customers. Look forward working colleagues across industry create one." API users flexibility configure Claude reflect own values (complying Usage Policy).
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_développé | Paired Prompts method | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | biais politique Claude | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Opus 4.1 | TECHNOLOGIE | atteint | 95% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Claude Sonnet 4.5 | TECHNOLOGIE | atteint | 94% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Gemini 2.5 Pro | TECHNOLOGIE | atteint | 97% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Grok 4 | TECHNOLOGIE | atteint | 96% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| GPT-5 | TECHNOLOGIE | atteint | 89% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Llama 4 | TECHNOLOGIE | atteint | 66% even-handedness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | code évaluation open-source | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| character training | METHODOLOGIE | réduit | biais politique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | recommande | standards industrie biais politique | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Sonnet 4.5 | TECHNOLOGIE | évalue | réponses autres modèles | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Opus 4.1 | TECHNOLOGIE | score even-handedness | 95% | AJOUT |
+| Claude Sonnet 4.5 | TECHNOLOGIE | score even-handedness | 94% | AJOUT |
+| Gemini 2.5 Pro | TECHNOLOGIE | score even-handedness | 97% | AJOUT |
+| Grok 4 | TECHNOLOGIE | score even-handedness | 96% | AJOUT |
+| GPT-5 | TECHNOLOGIE | score even-handedness | 89% | AJOUT |
+| Llama 4 Maverick | TECHNOLOGIE | score even-handedness | 66% | AJOUT |
+| Paired Prompts method | METHODOLOGIE | catégorie | Évaluation biais politique IA | AJOUT |
+| character training | METHODOLOGIE | catégorie | Entraînement par renforcement traits personnalité | AJOUT |
+| political-neutrality-eval | TECHNOLOGIE | url | https://github.com/anthropics/political-neutrality-eval | AJOUT |

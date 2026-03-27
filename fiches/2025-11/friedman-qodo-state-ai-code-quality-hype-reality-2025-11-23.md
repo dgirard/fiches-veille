@@ -42,3 +42,31 @@ Les points clés de son approche :
 3.  **Workflow Agentique** : L'avenir est à une chaîne où des agents parallèles génèrent des specs, du code, et *surtout* des tests (specs exécutables) pour valider ce code.
 
 En somme, Friedman plaide pour passer de la "génération naïve" à une **ingénierie assistée par IA rigoureuse**, où l'investissement se déplace vers la validation, le contexte et les "Quality Gates" automatisées. C'est à cette condition que l'IA deviendra un atout compétitif durable plutôt qu'une source de chaos technique.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Itamar Friedman | PERSONNE | dirige | QodoAI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| QodoAI | ORGANISATION | développe | agents revue code IA | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| QodoAI | ORGANISATION | anciennement_nommée | CodiumAI | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Vibe Coding | CONCEPT | génère | crise qualité code | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| génération code IA | CONCEPT | atteint | plafond productivité | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Context Engine | TECHNOLOGIE | améliore | qualité output IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| code review IA | METHODOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Itamar Friedman | PERSONNE | affirme_que | qualité IA dépend 80% du contexte | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| augmentation PRs | CONCEPT | masque | baisse qualité et hausse rework | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Itamar Friedman | PERSONNE | recommande | Quality Gates automatisées | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Itamar Friedman | PERSONNE | rôle | CEO, QodoAI | AJOUT |
+| QodoAI | ORGANISATION | secteur | Qualité code IA | AJOUT |
+| QodoAI | ORGANISATION | ancien_nom | CodiumAI | AJOUT |
+| Context Engine | TECHNOLOGIE | catégorie | Moteur contexte pour agents IA | AJOUT |
+| Quality Gates | METHODOLOGIE | catégorie | Validation automatisée qualité code | AJOUT |
+| plafond productivité | CONCEPT | catégorie | Limite gains génération code sans qualité | AJOUT |

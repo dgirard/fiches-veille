@@ -41,7 +41,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] **est_partenaire_de** → Weave — 0.88
+- [[kb/Jared-Friedman\|Jared Friedman]] **est_partenaire_de** → Weave — 0.88
 
 ## Fiches sources
 

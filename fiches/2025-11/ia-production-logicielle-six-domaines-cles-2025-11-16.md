@@ -35,3 +35,39 @@ AI4Data emphasizes that robust data governance is a prerequisite for trustworthy
 Finally, AI4Cloud addresses the economic foundation, highlighting the "FinOps for AI" crisis due to the volatile costs of AI workloads (GPUs, tokens). It advocates for "frugal architecture" and "cost per result" metrics, with "GenAI Landing Zones" emerging as the reference architecture for secure, governed, and scalable AI deployment.
 
 The document concludes with strategic recommendations for technology leaders: prioritize governance (AI4Data, AI4Cloud) before speed (AI4Dev), address the FinOps for AI crisis, prepare the organization for an agentic workforce, and centralize platforms for AI governance and deployment.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| AI4* | CONCEPT | transforme | cycle de vie production logicielle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Vibe Coding | METHODOLOGIE | provoque | Vibe Coding Hangover | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Vibe Check | METHODOLOGIE | corrige | problèmes qualité Vibe Coding | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| AI4Dev | CONCEPT | transforme | développeurs en Guide Engineers | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| AI4Data | CONCEPT | est_prérequis_de | IA de confiance | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| AI4Cloud | CONCEPT | adresse | crise FinOps pour IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AI4Ops | CONCEPT | permet | systèmes auto-réparants | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| GenAI Landing Zones | CONCEPT | fournit | architecture de référence déploiement IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Copilots | TECHNOLOGIE | évolue_vers | workforce agentique | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| NIST AI RMF | METHODOLOGIE | guide | gestion risques IA projets | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| Cielo | ORGANISATION | utilise | workforce agentique en production | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+| Zup | ORGANISATION | utilise | workforce agentique en production | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+| gouvernance données | CONCEPT | doit_précéder | vitesse développement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| AI4* | CONCEPT | catégorie | Cadre stratégique transformation logicielle par IA | AJOUT |
+| AI4Dev | CONCEPT | pilier | Développement logiciel augmenté par IA | AJOUT |
+| AI4Data | CONCEPT | pilier | Gouvernance des données pour IA | AJOUT |
+| AI4Cloud | CONCEPT | pilier | Cloud et FinOps pour IA | AJOUT |
+| AI4Ops | CONCEPT | pilier | Opérations IT autonomes | AJOUT |
+| AI4Project | CONCEPT | pilier | Gestion de projet augmentée par IA | AJOUT |
+| AI4UX | CONCEPT | pilier | Expérience utilisateur générative | AJOUT |
+| Vibe Coding | METHODOLOGIE | catégorie | Prototypage rapide assisté par IA | AJOUT |
+| GenAI Landing Zones | CONCEPT | catégorie | Architecture de référence déploiement IA | AJOUT |
+| Cielo | ORGANISATION | secteur | Services financiers | AJOUT |
+| Zup | ORGANISATION | secteur | Technologie | AJOUT |

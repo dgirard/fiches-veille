@@ -38,7 +38,7 @@
 
 ### définit
 
-- [[kb/vibe-coding\|vibe coding]] (CONCEPT) — 0.97, STATIQUE
+- [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
 
 ### prédit

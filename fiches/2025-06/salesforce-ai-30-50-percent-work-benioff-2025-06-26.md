@@ -76,3 +76,28 @@ Announcement likely accelerate AI adoption discussions dans other enterprises. I
 **Future Trajectory**
 
 30-50% range suggests still room pour growth dans automation. Question becomes : what's ceiling pour AI automation dans knowledge work? Et how quickly will other enterprises reach similar levels? Salesforce's example provides roadmap et potentially realistic expectations pour large-scale AI deployment.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Marc Benioff | PERSONNE | dirige | Salesforce | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Marc Benioff | PERSONNE | affirme_que | IA effectue 30-50% du travail chez Salesforce | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | utilise | IA interne à grande échelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA interne | TECHNOLOGIE | automatise | 30-50% du travail | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | redéfinit | rôles des employés | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| automatisation IA | CONCEPT | augmente | productivité entreprise | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Salesforce | ORGANISATION | sert_de_modèle | adoption IA enterprise | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| automatisation IA | CONCEPT | transforme | nature du travail | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Salesforce | ORGANISATION | démontre | preuve de concept IA enterprise | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Marc Benioff | PERSONNE | rôle | CEO Salesforce | AJOUT |
+| Salesforce | ORGANISATION | secteur | CRM / Cloud / IA enterprise | AJOUT |
+| Salesforce | ORGANISATION | niveau_automatisation | 30-50% du travail | AJOUT |
+| Yahoo Finance | ORGANISATION | rôle | source média financier | AJOUT |

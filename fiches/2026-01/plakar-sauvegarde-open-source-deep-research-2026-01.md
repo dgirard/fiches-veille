@@ -56,3 +56,36 @@ Les benchmarks revendiquent une amélioration de 60x sur S3 (14 minutes à 13 se
 La licence ISC (style OpenBSD) garantit un engagement permanent open source. La couverture médiatique française est enthousiaste (Korben : "atomise Restic et Borg"), mais l'absence de couverture internationale (Allemagne, Pays-Bas, Japon) reflète le caractère récent du projet.
 
 Pour les organisations orientées S3/AWS et les équipes DevOps recherchant une solution française souveraine, Plakar mérite une évaluation sérieuse, avec une période de test recommandée sur des workloads non-critiques en attendant la maturation de l'écosystème.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Julien Mangeard | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | a_créé | OpenSMTPD | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | a_rejoint | Linux Foundation et CNCF | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | a_levé | 3 millions USD | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Olivier Pomel | PERSONNE | a_investi_dans | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Solomon Hykes | PERSONNE | a_investi_dans | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | utilise | FastCDC | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| FastCDC | TECHNOLOGIE | surpasse | Rabin (Restic) 13x | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| Jean-Philippe Aumasson | PERSONNE | a_audité | cryptographie Plakar | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Plakar | ORGANISATION | améliore_performances_S3_de | 60x | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Kloset | TECHNOLOGIE | fait_partie_de | Plakar | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| format .ptar | TECHNOLOGIE | remplace | tar (1979) | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Plakar | ORGANISATION | fondation | Paris, septembre 2024 | AJOUT |
+| Julien Mangeard | PERSONNE | rôle | Cofondateur, ex-CTO Veepee | AJOUT |
+| Gilles Chehade | PERSONNE | rôle | Cofondateur, contributeur OpenBSD | AJOUT |
+| Kloset | TECHNOLOGIE | catégorie | Moteur stockage immuable | AJOUT |
+| FastCDC | TECHNOLOGIE | performance | 8 149 MB/s | AJOUT |
+| Olivier Pomel | PERSONNE | rôle | Fondateur Datadog, investisseur | AJOUT |
+| Solomon Hykes | PERSONNE | rôle | Fondateur Docker, investisseur | AJOUT |
+| Jean-Philippe Aumasson | PERSONNE | rôle | Cryptographe auditeur | AJOUT |

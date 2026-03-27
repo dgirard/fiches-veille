@@ -1,6 +1,6 @@
 # LangChain
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -24,6 +24,10 @@
 
 - [[kb/_entites-mineures#How-to-Build-an-Agent\|How to Build an Agent]] (EVENEMENT) — 0.98, STATIQUE
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] **dirige** → LangChain — 0.98
 
 ## Fiches sources
 

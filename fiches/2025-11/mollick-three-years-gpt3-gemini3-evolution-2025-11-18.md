@@ -47,3 +47,31 @@ Mollick tempère cet enthousiasme avec des observations critiques sur les **limi
 L'évolution du rôle humain constitue l'insight central : de "correcteur d'erreurs" à "manager de recherche". Cette transition reflète une réorganisation fondamentale du travail intellectuel où l'humain définit les objectifs et valide les approches tandis que l'IA exécute avec une autonomie croissante.
 
 Mollick conclut que ces trois années représentent non pas une amélioration incrémentale mais une transformation qualitative. L'écart entre GPT-3 générant du texte plausible et Gemini 3 conduisant des recherches autonomes marque l'émergence d'une nouvelle catégorie d'outils intellectuels, redéfinissant les frontières du possible en augmentation cognitive.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | analyse | évolution IA 3 ans | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| GPT-3 | TECHNOLOGIE | a_précédé | Gemini 3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | permet | code comme interface universelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Antigravity | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Antigravity | TECHNOLOGIE | implémente | human-in-the-loop | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | a_conduit | recherche académique autonome | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | démontre | intelligence niveau PhD | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| rôle humain | CONCEPT | évolue_de | correcteur d'erreurs vers manager de recherche | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| agents autonomes | CONCEPT | remplace | chatbots conversationnels | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Ethan Mollick | PERSONNE | est_affilié_à | Wharton School | ORGANISATION | 0.97 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur Wharton, expert IA | AJOUT |
+| GPT-3 | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
+| Gemini 3 | TECHNOLOGIE | catégorie | Modèle IA multimodal agentique | AJOUT |
+| Antigravity | TECHNOLOGIE | catégorie | Plateforme human-in-the-loop Google | AJOUT |
+| Google | ORGANISATION | secteur | Technologie / IA | AJOUT |
+| Wharton School | ORGANISATION | catégorie | École de commerce / Université | AJOUT |

@@ -46,3 +46,29 @@ C'est ici qu'intervient Vercel Sandbox, présenté comme "la couche de calcul in
 Le message clé est que les agents de codage ne sont pas une feature d'éditeur mais une nouvelle classe de logiciels d'automatisation système. Ils requièrent un accès OS profond et une infrastructure cloud élastique pour réaliser leur potentiel de parallélisation massive. Cette perspective transforme le débat sur les coding agents d'une discussion sur l'expérience développeur vers une question d'architecture systèmes et d'infrastructure cloud.
 
 Rauch positionne ainsi Vercel non seulement comme plateforme de déploiement web mais comme infrastructure computing pour l'ère des agents autonomes.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Guillermo Rauch | PERSONNE | dirige | Vercel | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Guillermo Rauch | PERSONNE | affirme_que | CLI est abstraction fondamentale agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| agents de codage | CONCEPT | nécessitent | accès OS | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| agents de codage | CONCEPT | redéfinis_comme | computer-use agents | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_décrit_comme | IA pour votre OS | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| CLI | TECHNOLOGIE | transcende | frontières local/cloud | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Vercel Sandbox | TECHNOLOGIE | fournit | calcul infini pour agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Guillermo Rauch | PERSONNE | prédit | millions agents concurrents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Vercel | ORGANISATION | se_repositionne_comme | infrastructure agents autonomes | CONCEPT | 0.83 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Guillermo Rauch | PERSONNE | rôle | CEO Vercel | AJOUT |
+| Vercel | ORGANISATION | secteur | Infrastructure cloud / déploiement web | AJOUT |
+| Vercel Sandbox | TECHNOLOGIE | catégorie | Couche calcul pour agents | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage IA CLI | AJOUT |
+| CLI | TECHNOLOGIE | rôle | Abstraction fondamentale agents codage | AJOUT |

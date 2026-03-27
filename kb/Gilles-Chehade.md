@@ -1,10 +1,10 @@
 # Gilles Chehade
 
-> **Type** : PERSONNE | 6 relations | 1 fiches sources
+> **Type** : PERSONNE | 6 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : Co-fondateur Plakar, créateur OpenSMTPD, architecte systèmes
+- **rôle** : Cofondateur, contributeur OpenBSD
 
 ## Relations (comme sujet)
 
@@ -12,11 +12,13 @@
 
 - [[kb/Plakar\|Plakar]] (ORGANISATION) — 0.99, STATIQUE
   - [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+  - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar - sauvegarde open source française, Kloset stockage immuable, Linux Foundation CNCF, 60x performances S3]]
 
 ### a_créé
 
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+  - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar - sauvegarde open source française, Kloset stockage immuable, Linux Foundation CNCF, 60x performances S3]]
 
 ### a_obtenu
 
@@ -40,3 +42,4 @@
 ## Fiches sources
 
 - [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+- [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar - sauvegarde open source française, Kloset stockage immuable, Linux Foundation CNCF, 60x performances S3]]

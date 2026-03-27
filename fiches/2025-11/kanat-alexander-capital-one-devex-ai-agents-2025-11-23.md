@@ -44,3 +44,30 @@ Les agents, comme les nouveaux développeurs, ont besoin d'un environnement sain
 4.  **Documentation de l'Intention** : L'agent ne peut pas deviner le contexte métier ou les décisions prises en réunion. La documentation doit se concentrer sur le "Pourquoi" et les contraintes externes (ex: format d'une API tierce) que le code seul ne révèle pas.
 
 Il aborde ensuite le défi majeur : la **Revue de Code**. Avec l'IA, la production de code explose, transformant chaque développeur en relecteur à temps plein. Le risque est de noyer les reviewers et de laisser passer du code médiocre ("rubber stamping"), créant un cercle vicieux de dette technique. Il insiste sur la nécessité de maintenir une barre de qualité élevée, de distribuer la charge de revue et de former les juniors à la lecture critique de code, car c'est là que se jouera la qualité logicielle future.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Max Kanat-Alexander | PERSONNE | travaille_chez | Capital One | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Max Kanat-Alexander | PERSONNE | recommande | investissements sans regrets | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| standardisation | CONCEPT | améliore | efficacité agents IA | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| CLIs rapides | TECHNOLOGIE | accélèrent | boucle de feedback agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| validation déterministe | CONCEPT | est_prérequis_de | efficacité agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| refactoring lisibilité | METHODOLOGIE | est_prérequis_de | utilisation efficace IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| revue de code | CONCEPT | devient_goulot_étranglement | développement assisté IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| documentation intention | CONCEPT | complète | lecture code par agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | ont_besoin_de | environnement sain | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Max Kanat-Alexander | PERSONNE | affirme_que | ce qui est bon pour humains est bon pour IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| legacy codebases | CONCEPT | réduit | efficacité agents IA | TECHNOLOGIE | 0.85 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Max Kanat-Alexander | PERSONNE | rôle | Executive Distinguished Engineer, Capital One | AJOUT |
+| Max Kanat-Alexander | PERSONNE | expérience | 20+ ans | AJOUT |
+| Capital One | ORGANISATION | secteur | Services financiers / Banque | AJOUT |
+| investissements sans regrets | CONCEPT | catégorie | Stratégie DevX bénéficiant humains et agents | AJOUT |

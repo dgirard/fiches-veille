@@ -1,11 +1,11 @@
 # Marc Andreessen
 
-> **Type** : PERSONNE | 13 relations | 3 fiches sources
+> **Type** : PERSONNE | 16 relations | 4 fiches sources
 
 ## Attributs
 
 - **affiliation** : Andreessen Horowitz (a16z)
-- **rôle** : Co-fondateur Andreessen Horowitz, investisseur tech
+- **rôle** : Cofondateur a16z, sujet de la réfutation
 
 ## Relations (comme sujet)
 
@@ -18,6 +18,8 @@
 
 - [[kb/_entites-mineures#l'IA-redéfinit-les-programmeurs-sans-les-supprimer\|l'IA redéfinit les programmeurs sans les supprimer]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage]]
+- [[kb/_entites-mineures#introspection-est-invention-moderne-(1910-1920)\|introspection est invention moderne (1910-1920)]] (CONCEPT) — 0.98, STATIQUE
+  - [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 - [[kb/_entites-mineures#les-fondamentaux-du-code-restent-indispensables\|les fondamentaux du code restent indispensables]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage]]
 - [[kb/_entites-mineures#bulle-IA-inexistante\|bulle IA inexistante]] (CONCEPT) — 0.97, STATIQUE
@@ -28,6 +30,11 @@
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs]]
 - [[kb/_entites-mineures#l'IA-arrive-au-bon-moment-face-au-déclin-démographique\|l'IA arrive au bon moment face au déclin démographique]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs]]
+
+### confond
+
+- [[kb/_entites-mineures#introspection-et-rumination\|introspection et rumination]] (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 
 ### définit
 
@@ -53,9 +60,11 @@
 
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] **est_cofondé_par** → Marc Andreessen — 0.99
 - [[kb/_entites-mineures#Lenny-Rachitsky\|Lenny Rachitsky]] **interviewe** → Marc Andreessen — 0.99
+- [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] **contredit** → Marc Andreessen — 0.98
 
 ## Fiches sources
 
 - [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage]]
 - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs]]
 - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
+- [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]

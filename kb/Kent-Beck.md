@@ -38,14 +38,14 @@
 
 ### critique
 
-- [[kb/vibe-coding\|Vibe Coding]] (METHODOLOGIE) — 0.97, STATIQUE
+- [[kb/Vibe-Coding\|Vibe Coding]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 
 ### distingue
 
 - [[kb/augmented-coding\|augmented coding]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
-- [[kb/vibe-coding\|vibe coding]] (CONCEPT) — 0.99, STATIQUE
+- [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
 ### publie

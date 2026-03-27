@@ -53,3 +53,30 @@ Sur le plan technique, les cyberattaques constituent "la menace la plus tangible
 En réponse aux questions fréquentes, Strubel précise que les offres hybrides satisfont exactement les mêmes exigences que les autres offres qualifiées. Il utilise une métaphore éclairante : avoir uniquement des critères capitalistiques ou uniquement des critères techniques reviendrait à avoir une maison "avec des volets blindés et des barreaux aux fenêtres, mais dont la porte serait fermée par un rideau."
 
 SecNumCloud répond à deux des trois enjeux de souveraineté numérique (ne pas être victime facile, appliquer ses propres règles) mais ne crée pas de solutions technologiques alternatives. C'est un outil de cybersécurité formalisé, pas une politique industrielle.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Vincent Strubel | PERSONNE | dirige | ANSSI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| ANSSI | ORGANISATION | délivre | qualification SecNumCloud | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| SecNumCloud | CONCEPT | vérifie | plus de 1200 exigences | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | protège_contre | CLOUD Act et FISA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | exige | siège social et capitalisation européens | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | impose | localisation données UE | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Vincent Strubel | PERSONNE | affirme_que | SecNumCloud ne supprime pas dépendance | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| offres hybrides | CONCEPT | satisfont | mêmes exigences que offres qualifiées | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | répond_à | 2 sur 3 enjeux souveraineté | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| CERT-FR | ORGANISATION | peut_intervenir_grâce_à | localisation UE | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Vincent Strubel | PERSONNE | rôle | Directeur général ANSSI | AJOUT |
+| ANSSI | ORGANISATION | rôle | Autorité nationale sécurité systèmes information | AJOUT |
+| SecNumCloud | CONCEPT | définition | Qualification haut niveau sécurité cloud | AJOUT |
+| CLOUD Act | CONCEPT | catégorie | Loi extraterritoriale américaine | AJOUT |
+| CERT-FR | ORGANISATION | rôle | Centre réponse incidents cybersécurité France | AJOUT |

@@ -32,8 +32,8 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Simon-Wardley\|Simon Wardley]] **a_créé** → Wardley Mapping — 0.98
-- [[kb/_entites-mineures#Simon-Wardley\|Simon Wardley]] **a_développé** → Wardley Mapping — 0.98
+- [[kb/Simon-Wardley\|Simon Wardley]] **a_créé** → Wardley Mapping — 0.98
+- [[kb/Simon-Wardley\|Simon Wardley]] **a_développé** → Wardley Mapping — 0.98
 - [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] **a_inspiré** → Wardley Mapping — 0.92
 
 ## Fiches sources

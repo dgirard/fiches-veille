@@ -45,3 +45,32 @@ Les perdants sont nombreux : citoyens dont les droits deviennent contestables, P
 Selon Max Schrems et d'autres experts en protection des données, cette révision représente "une mort par mille coupes" : chaque modification isolée semble technique et mineure, mais cumulativement, elles érodent l'esprit protecteur du RGPD sans bruit médiatique ni débat public.
 
 La question politique dépasse le texte lui-même : l'Europe choisit-elle de maintenir sa position de protectrice des droits fondamentaux numériques ou de s'aligner sur le modèle américain d'exploitation maximale des données ? Pour AI4Data et la gouvernance IA, ces changements sont critiques : ils affaiblissent le cadre européen qui était justement le différenciateur et l'avantage concurrentiel de confiance.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Digital Omnibus | EVENEMENT | réécrit | fondations RGPD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | redéfinit | données sensibles (Art. 9) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | élargit | intérêt légitime (Art. 6) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | restreint | droits individuels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| ENISA | ORGANISATION | hérite_de | compétences autorités nationales | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Max Schrems | PERSONNE | critique | révision RGPD | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Max Schrems | PERSONNE | affirme_que | mort par mille coupes | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| grandes plateformes tech | ORGANISATION | bénéficient_de | révision RGPD | EVENEMENT | 0.88 | DYNAMIQUE | inféré |
+| Thierry Derouet | PERSONNE | publie | enquête révision RGPD | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| signaux faibles | CONCEPT | alimentent | profilage prédictif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| révision RGPD | EVENEMENT | affaiblit | protection données européenne | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Thierry Derouet | PERSONNE | rôle | Journaliste IT for Business | AJOUT |
+| Digital Omnibus | EVENEMENT | catégorie | Projet révision RGPD (156 pages) | AJOUT |
+| RGPD | CONCEPT | catégorie | Règlement européen protection données | AJOUT |
+| ENISA | ORGANISATION | catégorie | Agence européenne cybersécurité | AJOUT |
+| Max Schrems | PERSONNE | rôle | Expert protection données / Activiste | AJOUT |
+| IT for Business | ORGANISATION | catégorie | Média technologique français | AJOUT |

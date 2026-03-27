@@ -1,6 +1,6 @@
 # Google DeepMind
 
-> **Type** : ORGANISATION | 7 relations | 3 fiches sources
+> **Type** : ORGANISATION | 8 relations | 4 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,8 @@
 
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+- [[kb/Interactions-API\|Interactions API]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
 
 ### a_publié
 
@@ -40,6 +42,7 @@
 
 ## Fiches sources
 
+- [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
 - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
 - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google Genie 3 - DeepMind - Video generation - Generative AI - World models - Interactive video - Game generation]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]

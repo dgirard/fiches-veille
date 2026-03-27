@@ -46,3 +46,31 @@ Pour mesurer correctement le ROI, Stanford propose un framework :
 2.  **Mesurer les "Engineering Outcomes"** : Utiliser une métrique primaire d'**"Engineering Output"** (basée sur un modèle ML entraîné pour reproduire l'évaluation d'experts humains, et non sur le volume de lignes) couplée à des **métriques "Guardrails"** (qualité, taux de reprise, santé de l'équipe) qu'il faut maintenir à un niveau sain.
 
 La conclusion est que l'IA est un amplificateur : elle accélère les bonnes pratiques comme les mauvaises. Les leaders doivent mesurer précisément l'impact pour corriger le tir et investir dans l'hygiène du code pour débloquer le potentiel de l'IA.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Yegor Denisov-Blanch | PERSONNE | a_réalisé | étude ROI IA développement | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Stanford | ORGANISATION | emploie | Yegor Denisov-Blanch | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| étude Stanford | EVENEMENT | analyse | 120 000 développeurs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| hygiène du code | CONCEPT | amplifie | gains IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| code sale | CONCEPT | accélère | dette technique avec IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| métriques simplistes | CONCEPT | masque | baisse qualité réelle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Engineering Output | CONCEPT | remplace | métriques volume (lignes, PRs) | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| IA développement | CONCEPT | creuse | écart équipes performantes/faibles | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| quantité tokens | CONCEPT | corrèle_faiblement_avec | productivité développeur | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Yegor Denisov-Blanch | PERSONNE | recommande | framework métriques guardrails | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Yegor Denisov-Blanch | PERSONNE | rôle | Chercheur, Stanford | AJOUT |
+| Stanford | ORGANISATION | secteur | Recherche universitaire | AJOUT |
+| Engineering Output | CONCEPT | catégorie | Métrique primaire productivité (modèle ML) | AJOUT |
+| hygiène du code | CONCEPT | catégorie | Propreté, modularité, couverture tests | AJOUT |
+| framework métriques guardrails | METHODOLOGIE | catégorie | Output primaire + qualité + rework + santé équipe | AJOUT |
+| Widening Gap | CONCEPT | catégorie | Écart croissant équipes performantes vs en difficulté | AJOUT |

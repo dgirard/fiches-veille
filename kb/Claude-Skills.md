@@ -1,10 +1,10 @@
 # Claude Skills
 
-> **Type** : TECHNOLOGIE | 15 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 3 fiches sources
 
 ## Attributs
 
-- **catégorie** : Système de compétences modulaires pour Claude
+- **catégorie** : Instructions spécialisées à chargement dynamique
 
 ## Relations (comme sujet)
 
@@ -46,6 +46,11 @@
 - [[kb/_entites-mineures#consommation-de-tokens\|consommation de tokens]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### résout
+
+- [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+
 ### s_oppose_à
 
 - [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.90, ATEMPOREL
@@ -57,13 +62,25 @@
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 - [[kb/_entites-mineures#pypdf\|pypdf]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
+- [[kb/_entites-mineures#chargement-contexte-dynamique\|chargement contexte dynamique]] (METHODOLOGIE) — 0.92, ATEMPOREL
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+- [[kb/_entites-mineures#React\|React]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+- [[kb/_entites-mineures#shadcn-ui\|shadcn/ui]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+- [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+- [[kb/_entites-mineures#GSAP\|GSAP]] (TECHNOLOGIE) — 0.82, DYNAMIQUE
+  - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
 
 ## Relations (comme objet)
 
 - [[kb/Anthropic\|Anthropic]] **a_annoncé** → Claude Skills — 0.99
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Skills — 0.99
+- [[kb/Anthropic\|Anthropic]] **a_développé** → Claude Skills — 0.97
 
 ## Fiches sources
 
+- [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]

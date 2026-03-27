@@ -127,3 +127,34 @@ The findings suggest that the widespread industry practice of persona prompting 
 
 ## Hashtags
 #AIPrompting #Personas #LLMAccuracy #AIResearch #PromptEngineering #AIBenchmarking #GenerativeAI #AIPerformance #WhartonAI #AIEvaluation
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Generative AI Labs (Wharton) | ORGANISATION | a_mené | étude personas et précision IA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | a_co-écrit | étude personas prompting | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Lilach Mollick | PERSONNE | a_co-écrit | étude personas prompting | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| personas experts | CONCEPT | n_améliorent_pas | précision factuelle des LLM | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| personas faible connaissance | CONCEPT | dégradent | performance des LLM | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Gemini 2.0 Flash | TECHNOLOGIE | montre | amélioration modeste avec personas experts | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| persona Toddler | CONCEPT | réduit | performance dans 4/6 modèles | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| étude | EVENEMENT | a_testé | 6 modèles sur GPQA Diamond et MMLU-Pro | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| correspondance domaine-persona | CONCEPT | n_améliore_pas | performance de manière consistante | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| modèles Gemini Flash | TECHNOLOGIE | refusent_de_répondre | avec personas hors domaine | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Generative AI Labs | ORGANISATION | affiliation | The Wharton School, University of Pennsylvania | AJOUT |
+| Ethan Mollick | PERSONNE | rôle | Co-auteur, chercheur Wharton | AJOUT |
+| Lilach Mollick | PERSONNE | rôle | Co-auteur, chercheur Wharton | AJOUT |
+| Savir Basil | PERSONNE | rôle | Co-auteur, chercheur Wharton | AJOUT |
+| GPQA Diamond | TECHNOLOGIE | catégorie | Benchmark questions PhD | AJOUT |
+| MMLU-Pro | TECHNOLOGIE | catégorie | Benchmark questions professionnelles | AJOUT |
+| GPT-4o | TECHNOLOGIE | catégorie | Modèle de langage (OpenAI) | AJOUT |
+| Gemini 2.0 Flash | TECHNOLOGIE | catégorie | Modèle de langage (Google) | AJOUT |
+| Gemini 2.5 Flash | TECHNOLOGIE | catégorie | Modèle de langage (Google) | AJOUT |

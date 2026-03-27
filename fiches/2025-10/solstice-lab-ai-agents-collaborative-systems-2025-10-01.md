@@ -79,3 +79,34 @@ Measuring multi-agent system performance **requires new metrics** : task complet
 Solstice roadmap includes : **learning coordination** (agents improving collaboration through experience), **human-in-loop multi-agent** (seamlessly integrating humans into agent teams), **security** (preventing adversarial agents), **large-scale orchestration** (100+ agent systems).
 
 Lab represents cutting edge de **practical multi-agent AI research**, bridging academic rigor avec enterprise deployment reality.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Solstice Lab | ORGANISATION | développe | systèmes multi-agents collaboratifs | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Solstice Lab | ORGANISATION | recherche | patterns de coordination agents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Solstice Lab | ORGANISATION | développe | protocoles communication inter-agents | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Solstice Lab | ORGANISATION | construit | frameworks open source orchestration | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| systèmes multi-agents | TECHNOLOGIE | surpasse | agents individuels | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| approche multi-agents | METHODOLOGIE | résout | limites fenêtre contexte | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| pattern Manager-Worker | METHODOLOGIE | fait_partie_de | architectures coordination | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| pattern Peer-to-Peer | METHODOLOGIE | fait_partie_de | architectures coordination | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| collaboration multi-agents | CONCEPT | génère | comportements émergents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| systèmes multi-agents | TECHNOLOGIE | présente_risque | coûts élevés appels LLM | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Solstice Lab | ORGANISATION | cible | automatisation workflows enterprise | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Solstice Lab | ORGANISATION | développe | métriques évaluation multi-agents | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Solstice Lab | ORGANISATION | secteur | recherche appliquée systèmes multi-agents IA | AJOUT |
+| Solstice Lab | ORGANISATION | approche | recherche académique rigoureuse + applications enterprise | AJOUT |
+| pattern Manager-Worker | METHODOLOGIE | catégorie | architecture coordination agents | AJOUT |
+| pattern Peer-to-Peer | METHODOLOGIE | catégorie | architecture coordination agents | AJOUT |
+| pattern Hierarchical | METHODOLOGIE | catégorie | architecture coordination agents | AJOUT |
+| pattern Pipeline | METHODOLOGIE | catégorie | architecture coordination agents | AJOUT |
+| pattern Committee | METHODOLOGIE | catégorie | architecture coordination agents (vote/consensus) | AJOUT |

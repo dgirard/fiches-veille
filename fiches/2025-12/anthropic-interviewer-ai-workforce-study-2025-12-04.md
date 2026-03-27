@@ -289,3 +289,31 @@ Cette recherche souligne l'importance de comprendre les perspectives humaines da
 - Données d'entretien publiées : https://www.anthropic.com/research/interviewer-data
 - Anthropic Interviewer Tool : https://www.anthropic.com/interviewer
 - Recherches précédentes d'Anthropic : https://www.anthropic.com/research
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_créé | Anthropic Interviewer | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic Interviewer | TECHNOLOGIE | a_interrogé | 1 250 professionnels | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic Interviewer | TECHNOLOGIE | utilise | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| professionnels créatifs | CONCEPT | expriment | anxiété sur déplacement économique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| scientifiques | CONCEPT | expriment | méfiance envers fiabilité IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| main-d'œuvre générale | CONCEPT | adopte | attitude optimiste envers IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Anthropic Interviewer | TECHNOLOGIE | sera_intégré_dans | Claude.ai | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | provoque | questionnement identitaire chez créatifs | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| scientifiques | CONCEPT | limitent_usage_IA_à | tâches périphériques | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | est_perçue_comme | outil d'augmentation | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| hallucinations IA | CONCEPT | freine | adoption scientifique | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Anthropic Interviewer | TECHNOLOGIE | catégorie | Outil d'entretien automatisé par IA | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
+| Claude.ai | TECHNOLOGIE | catégorie | Interface utilisateur Claude | AJOUT |
+| The Wharton School | ORGANISATION | domaine | Recherche et éducation | AJOUT |

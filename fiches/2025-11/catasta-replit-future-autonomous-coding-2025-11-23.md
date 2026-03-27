@@ -38,3 +38,31 @@ Le spectre de vérification du code a évolué de l'analyse statique (LSP) vers 
 La présentation révèle que l'autonomie ne signifie pas nécessairement lenteur. Un agent peut être rapide ET autonome si le scope de la tâche est étroit. Les utilisateurs gardent le contrôle sur ce qu'ils construisent, pas comment c'est construit. Cette séparation des préoccupations permet aux knowledge workers de créer des logiciels sans expertise technique.
 
 Catasta conclut que cette transformation représente un changement fondamental : passer de l'assistance au codage vers la délégation complète de l'implémentation technique, ouvrant la création logicielle à des millions de nouveaux créateurs potentiels.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Michele Catasta | PERSONNE | dirige | IA chez Replit | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Replit | ORGANISATION | emploie | Michele Catasta | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| Replit | ORGANISATION | développe | codage autonome complet | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Replit | ORGANISATION | vise | autonomie type Waymo | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Painted Doors Problem | CONCEPT | affecte | agents codage autonome | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| testing autonome | METHODOLOGIE | résout | Painted Doors Problem | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| agents troisième génération | TECHNOLOGIE | dépasse | une heure autonomie | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Swyx | PERSONNE | a_créé | graphique latence-autonomie | CONCEPT | 0.80 | STATIQUE | déclaré_article |
+| Michele Catasta | PERSONNE | ajoute | troisième dimension accessibilité | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| codage autonome | CONCEPT | démocratise | création logicielle | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Michele Catasta | PERSONNE | rôle | VP IA, Replit | AJOUT |
+| Replit | ORGANISATION | secteur | IDE / Plateforme développement | AJOUT |
+| Painted Doors Problem | CONCEPT | catégorie | 30% features cassées au premier essai | AJOUT |
+| testing autonome | METHODOLOGIE | catégorie | Vérification automatique par agents | AJOUT |
+| Swyx | PERSONNE | rôle | Auteur graphique latence-autonomie agents | AJOUT |
+| agents troisième génération (B3) | TECHNOLOGIE | catégorie | Agent autonome longue durée | AJOUT |
