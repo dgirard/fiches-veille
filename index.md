@@ -254,6 +254,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2023-06-03]** [Setting time on fire and the temptation of The Button](fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03.md) - Crise de sens au travail, Help me write, signaux d'effort - One Useful Thing
 
+### Janvier 2019
+
+- **[2019-01-04]** [How To Speak](fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04.md) - Formule K×P×t, empowerment promise, étoile de Winston, props et tableau noir - MIT (Patrick Winston)
+
 ---
 
 ## Thématiques
@@ -444,6 +448,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Luc Julia: AI Controversy](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) - French tech debate
 - [Sam Altman Neuralink Board](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) - Conflict of interest
 - [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Career paths
+- [How To Speak](fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04.md) - Patrick Winston (MIT)
 
 ### Stratégie & Frameworks
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
@@ -499,7 +504,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 204
-- **Période couverte** : Juin 2023 - Mars 2026
+- **Total d'articles** : 205
+- **Période couverte** : Janvier 2019 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), Martin Fowler (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter).
