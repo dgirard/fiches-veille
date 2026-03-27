@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
+- **[2026-03-27]** [Does LLMs / Vibe coding mean more or fewer developers?](fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27.md) - Paradoxe Jevons, effet Reine Rouge, sysadmin→DevOps, Human-AI integrator - LinkedIn (Simon Wardley)
 - **[2026-03]** [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - 7000 utilisateurs, 4 piliers, cloud souverain S3NS, Champions IA - Deep Research
 - **[2026-03-17]** [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Réfutation historique introspection, Socrate à Bezos, rumination vs introspection - X (Riley Ralmuto)
 - **[2026-03-14]** [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Expérience BMAD 1 jour, rôle développeur, problème des 70%, Agent Supervisor - Blog Mornati
@@ -351,6 +352,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 
 ### Transformation & Adoption
+- [Does LLMs / Vibe coding mean more or fewer developers?](fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27.md) - Simon Wardley
 - [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - Deep Research
 - [Fragments: Thoughtworks Retreat — LLMs et développement logiciel](fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md) - Martin Fowler
 - [2026 Agentic Coding Trends Report](fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02.md) - Anthropic
@@ -498,7 +500,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 203
+- **Total d'articles** : 204
 - **Période couverte** : Juin 2023 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), Martin Fowler (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter).
