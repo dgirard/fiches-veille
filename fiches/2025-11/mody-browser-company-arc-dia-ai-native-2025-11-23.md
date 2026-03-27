@@ -40,3 +40,32 @@ Mody partage trois leçons clés de cette aventure :
 3.  **La sécurité est une propriété émergente du produit** : Le navigateur est exposé à un risque majeur : l'**injection de prompt** (un site web malveillant détournant l'IA du navigateur). Mody explique que les protections techniques seules (délimiteurs, instructions système) sont insuffisantes. La sécurité doit être intégrée dans l'UX. Par exemple, pour l'outil de remplissage de formulaire (Autofill), Dia impose une étape de confirmation où l'utilisateur voit exactement quelles données vont être insérées, empêchant l'IA d'exfiltrer des données secrètement à cause d'une instruction cachée dans la page web.
 
 Il conclut en affirmant que construire un produit IA n'est pas juste une évolution technique, mais une transformation complète de la culture d'entreprise, du recrutement à la manière de collaborer.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Samir Mody | PERSONNE | travaille_chez | The Browser Company | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| The Browser Company | ORGANISATION | développe | Dia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Dia | TECHNOLOGIE | remplace | Arc | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Dia | TECHNOLOGIE | est_conçu_comme | AI Native | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| The Browser Company | ORGANISATION | utilise | Jipa | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Jipa | TECHNOLOGIE | optimise | prompts automatiquement | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Model Behavior | CONCEPT | est_une | discipline émergente | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| injection de prompt | CONCEPT | menace | navigateur IA | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| design UX | CONCEPT | pallie | failles sécurité techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| équipe Model Behavior | CONCEPT | inclut | non-ingénieurs | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Dia | TECHNOLOGIE | impose | confirmation explicite utilisateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Samir Mody | PERSONNE | rôle | Head of AI Engineering, The Browser Company | AJOUT |
+| The Browser Company | ORGANISATION | secteur | Navigateur web / IA | AJOUT |
+| Dia | TECHNOLOGIE | catégorie | Navigateur AI Native | AJOUT |
+| Arc | TECHNOLOGIE | catégorie | Navigateur web (prédécesseur de Dia) | AJOUT |
+| Jipa | TECHNOLOGIE | catégorie | Technique optimisation automatique de prompts | AJOUT |
+| Model Behavior | CONCEPT | catégorie | Discipline de conception comportement IA | AJOUT |

@@ -1,10 +1,10 @@
 # GitHub Copilot
 
-> **Type** : TECHNOLOGIE | 4 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 5 fiches sources
 
 ## Attributs
 
-- **catégorie** : Outil de codage assisté par IA
+- **catégorie** : Outil de codage IA
 - **éditeur** : Microsoft
 
 ## Relations (comme sujet)
@@ -23,6 +23,7 @@
 
 - [[kb/Linear\|Linear]] **intègre** → GitHub Copilot — 0.97
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → GitHub Copilot — 0.90
+- [[kb/Cursor\|Cursor]] **concurrence** → GitHub Copilot — 0.88
 
 ## Fiches sources
 
@@ -30,3 +31,4 @@
 - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
+- [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|menlovc-state-generative-ai-enterprise-2025-12-09]]

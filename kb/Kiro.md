@@ -43,8 +43,8 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#AWS\|AWS]] **a_lancé** → Kiro — 0.99
-- [[kb/_entites-mineures#AWS\|AWS]] **a_créé** → Kiro — 0.98
+- [[kb/AWS\|AWS]] **a_lancé** → Kiro — 0.99
+- [[kb/AWS\|AWS]] **a_créé** → Kiro — 0.98
 - [[kb/Cursor\|Cursor]] **harmonise_prix_avec** → Kiro — 0.95
 
 ## Fiches sources

@@ -68,3 +68,32 @@ Ce document de synthèse fusionne les données sur l'ingénierie narrative et la
 **Dictionnaire des frameworks** : Les frameworks occidentaux (Sparkline, Voyage du Héros, Golden Circle, AIDA, PAS, STAR) reposent sur le conflit et la logique linéaire. Les frameworks interculturels (Kishōtenketsu, récits circulaires, Dilemma Tale) privilégient l'harmonie, le cycle ou la participation communautaire.
 
 **Principes pour la conception de prompts IA** : Quatre règles d'or émergent. Premièrement, positionner l'audience comme héros et l'orateur comme guide (relation Yoda/Luke). Deuxièmement, laisser le temps dicter la structure - jamais de Voyage du Héros complet pour un pitch de 3 minutes. Troisièmement, adapter culturellement : utiliser le Kishōtenketsu pour les audiences asiatiques ou internationales sensibles au conflit direct. Quatrièmement, appliquer le design cognitif pour les slides : une image par idée, interdiction des bullet points selon la philosophie Presentation Zen.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| histoires | CONCEPT | sont_22x_plus_mémorables_que | faits seuls | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Sparkline | METHODOLOGIE | recommandée_pour | TED Talk et Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Voyage du Héros | METHODOLOGIE | recommandée_pour | Keynote longue | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| AIDA | METHODOLOGIE | recommandée_pour | Lightning Talk et Elevator Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| PAS | METHODOLOGIE | recommandée_pour | Startup Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | recommandée_pour | Pecha Kucha et audiences asiatiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| PREP | METHODOLOGIE | recommandée_pour | réponses Panel | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| audience | CONCEPT | positionnée_comme | héros (relation Yoda/Luke) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| temps | CONCEPT | dicte | structure narrative | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| design cognitif | METHODOLOGIE | impose | 1 image = 1 idée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Sparkline | METHODOLOGIE | usage | TED Talk, Keynote | AJOUT |
+| Voyage du Héros | METHODOLOGIE | usage | Keynote longue, Masterclass | AJOUT |
+| AIDA | METHODOLOGIE | structure | Attention, Intérêt, Désir, Action | AJOUT |
+| PAS | METHODOLOGIE | structure | Problem, Agitate, Solve | AJOUT |
+| PREP | METHODOLOGIE | structure | Point, Reason, Example, Point | AJOUT |
+| STAR | METHODOLOGIE | structure | Situation, Task, Action, Result | AJOUT |
+| Dilemma Tale | METHODOLOGIE | origine | Afrique, question ouverte finale | AJOUT |

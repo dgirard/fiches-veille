@@ -49,3 +49,32 @@ Il cite des exemples d'entreprises ayant ciblé les bons goulots :
 - **Spotify** accélère la résolution d'incidents en poussant le contexte automatiquement aux SRE.
 
 Enfin, il donne des conseils tactiques pour les leaders : établir des boucles de feedback sur les "System Prompts" (pour que les règles de l'IA soient maintenues comme du code), comprendre les paramètres comme la "température" (créativité vs déterminisme), et surtout, fournir des espaces sécurisés (sandboxes) pour que les équipes puissent expérimenter sans peur.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Justin Reock | PERSONNE | travaille_chez | DX | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Justin Reock | PERSONNE | affirme_que | moyennes cachent volatilité extrême | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| sécurité psychologique | CONCEPT | est_essentielle_pour | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Projet Aristotle | EVENEMENT | a_démontré | importance sécurité psychologique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_conduit | Projet Aristotle | EVENEMENT | 0.95 | STATIQUE | inféré |
+| théorie des contraintes | CONCEPT | prédit | inutilité gains hors goulot d'étranglement | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Morgan Stanley | ORGANISATION | utilise | IA pour rétro-ingénierie code legacy | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Zapier | ORGANISATION | utilise | IA pour onboarding accéléré | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Spotify | ORGANISATION | utilise | IA pour résolution incidents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| mandats top-down | METHODOLOGIE | sont_contre-productifs_pour | adoption IA | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Change Failure Rate | CONCEPT | augmente | chez certaines entreprises avec IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Justin Reock | PERSONNE | rôle | Deputy CTO chez DX | AJOUT |
+| DX | ORGANISATION | secteur | Plateforme Developer Experience / Métriques | AJOUT |
+| Morgan Stanley | ORGANISATION | secteur | Finance / Banque d'investissement | AJOUT |
+| Zapier | ORGANISATION | secteur | Automatisation / Intégrations | AJOUT |
+| Spotify | ORGANISATION | secteur | Streaming musical / Technologie | AJOUT |
+| Projet Aristotle | EVENEMENT | catégorie | Recherche Google sur efficacité des équipes | AJOUT |

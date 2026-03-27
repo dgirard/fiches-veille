@@ -49,3 +49,34 @@ L'innovation majeure arrive avec Google Sans Flex, introduisant six axes variabl
 Enfin, Google franchit une étape stratégique en 2025 en passant Google Sans et Google Sans Flex en open source. Cette décision vise à réduire la fragmentation de l'écosystème : la police propriétaire ne pouvait apparaître que dans les produits Google, créant des incohérences visuelles pour les utilisateurs naviguant entre applications.
 
 L'article se conclut en qualifiant cette évolution de "masterclass en design piloté par les besoins", soulignant que chaque itération répondait à des retours concrets d'utilisateurs et de designers plutôt qu'à un plan prédéfini.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google | ORGANISATION | a_créé | Google Sans Flex | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Product Sans | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Product Sans | TECHNOLOGIE | a_évolué_vers | Google Sans | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Google Sans | TECHNOLOGIE | a_évolué_vers | Google Sans Text | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Google Sans Flex | TECHNOLOGIE | offre | 6 axes variables | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Google Sans Mono | TECHNOLOGIE | a_échoué_pour | usage en programmation | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Google Sans Code | TECHNOLOGIE | remplace | Google Sans Mono pour le code | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_rendu_open_source | Google Sans Flex | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google Sans | TECHNOLOGIE | supporte | 20+ systèmes d'écriture | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| design piloté par les besoins | METHODOLOGIE | guide | évolution Google Sans | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Google | ORGANISATION | secteur | Technologie | AJOUT |
+| Google Sans Flex | TECHNOLOGIE | catégorie | Police variable | AJOUT |
+| Google Sans Flex | TECHNOLOGIE | date_open_source | 2025 | AJOUT |
+| Product Sans | TECHNOLOGIE | date_création | 2015 | AJOUT |
+| Google Sans | TECHNOLOGIE | date_création | 2018 | AJOUT |
+| Google Sans Text | TECHNOLOGIE | date_création | 2020 | AJOUT |
+| Google Sans Code | TECHNOLOGIE | date_création | 2025 | AJOUT |
+| Barbara Eldredge | PERSONNE | rôle | Co-auteur article | AJOUT |
+| Dave Crossland | PERSONNE | rôle | Co-auteur article | AJOUT |

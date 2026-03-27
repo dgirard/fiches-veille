@@ -1,6 +1,6 @@
 # Philippe Ensarguet
 
-> **Type** : PERSONNE | 8 relations | 4 fiches sources
+> **Type** : PERSONNE | 10 relations | 4 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,13 @@
 - **rôle** : Analyste et auteur LinkedIn
 
 ## Relations (comme sujet)
+
+### 
+
+- [[kb/_entites-mineures#heure-cerveau-n'est-plus-unite-de-valeur\|heure-cerveau n'est plus unite de valeur]] (CONCEPT) — 0.97, ATEMPOREL
+  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
+- [[kb/_entites-mineures#Leader-technique-Stratege\|Leader technique / Stratege]] (MISE_A_JOUR) — 0.00, ATEMPOREL
+  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
 
 ### affirme_que
 

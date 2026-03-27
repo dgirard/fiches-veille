@@ -44,3 +44,29 @@ L'enquête ROI de NLW révèle que **82% des répondants observent déjà un ret
 Cependant, une analyse plus fine montre que les **dirigeants (C-Suite) et les très petites entreprises** (1-50 employés) visent et obtiennent des résultats plus "transformationnels" (nouvelles capacités, augmentation de l'output) que les cadres intermédiaires, souvent cantonnés à l'efficacité. Un insight surprenant : bien que la "réduction de risque" soit rarement l'objectif principal cité (3,4%), c'est la catégorie qui génère le plus souvent un impact transformationnel (25% des cas), notamment dans les fonctions de conformité et de back-office écrasées par le volume de données.
 
 En conclusion, loin de la bulle, le marché entre dans une phase de concrétisation où l'automatisation agentique commence à surperformer les simples assistants, validant l'optimisme des investisseurs pour l'année à venir.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| NLW | PERSONNE | contredit | narrative bulle IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| enquête NLW | EVENEMENT | révèle | 82% ROI positif | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| entreprises leaders | CONCEPT | visent | croissance de revenus | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| entreprises retardataires | CONCEPT | se_limitent_à | réduction de coûts | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | passent_de | 11% à 42% en production | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| KPMG | ORGANISATION | publie | données adoption agents | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| réduction de risque | CONCEPT | génère | impact transformationnel le plus fort | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| 90% des entreprises | CONCEPT | augmentent | budget IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| dirigeants C-Suite | CONCEPT | obtiennent | résultats plus transformationnels | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| adoption IA | CONCEPT | crée | bifurcation leaders/retardataires | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| NLW | PERSONNE | rôle | Animateur AI Daily Brief | AJOUT |
+| KPMG | ORGANISATION | secteur | Conseil / Audit | AJOUT |
+| Deloitte | ORGANISATION | secteur | Conseil / Audit | AJOUT |
+| AI Daily Brief | TECHNOLOGIE | catégorie | Podcast IA | AJOUT |

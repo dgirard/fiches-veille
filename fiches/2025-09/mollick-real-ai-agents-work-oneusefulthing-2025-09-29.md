@@ -221,3 +221,35 @@ L'avenir du travail avec les agents IA dépendra de notre capacité à imaginer 
 - Recherche METR sur les capacités des agents : https://metr.org/agent-research
 - Claude Sonnet 4.5 : https://www.anthropic.com/claude-sonnet
 - GPT-5 Pro : https://openai.com/gpt-5
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Ethan Mollick | PERSONNE | publie | Real AI Agents and Real Work | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | est_affilié_à | Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_réalisé | étude capacités agents IA | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | franchissent | seuil travail économiquement pertinent | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | utilise | Claude Sonnet 4.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Sonnet 4.5 | TECHNOLOGIE | réplique | articles recherche scientifique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| GPT-5 Pro | TECHNOLOGIE | valide | réplication par Claude | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| METR | ORGANISATION | mesure | longueur tâches accomplies par IA | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | améliore | capacités exponentiellement | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | remplace | tâches (pas emplois entiers) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| réplication automatique | METHODOLOGIE | résout | crise de réplication scientifique | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Ethan Mollick | PERSONNE | recommande | augmentation capacités humaines par IA | CONCEPT | 0.87 | ATEMPOREL | inféré |
+| agents IA | TECHNOLOGIE | présente_risque | surproduction contenu faible valeur | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Ethan Mollick | PERSONNE | rôle | Professeur Wharton School, University of Pennsylvania | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA / Recherche | AJOUT |
+| Claude Sonnet 4.5 | TECHNOLOGIE | catégorie | LLM Anthropic | AJOUT |
+| GPT-5 Pro | TECHNOLOGIE | catégorie | LLM OpenAI | AJOUT |
+| METR | ORGANISATION | rôle | mesure capacités agents IA | AJOUT |
+| Wharton School | ORGANISATION | catégorie | école de commerce, University of Pennsylvania | AJOUT |
+| One Useful Thing | TECHNOLOGIE | catégorie | blog/newsletter Ethan Mollick | AJOUT |

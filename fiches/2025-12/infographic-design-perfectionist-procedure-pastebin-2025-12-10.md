@@ -222,3 +222,31 @@ Bien que cette approche ne soit pas réaliste pour la plupart des projets commer
 - Théorie des couleurs CIE L*a*b* : https://en.wikipedia.org/wiki/CIELAB_color_space
 - Nombre d'or en design : https://en.wikipedia.org/wiki/Golden_ratio
 - Test de Lilliefors : https://en.wikipedia.org/wiki/Lilliefors_test
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| procédure infographique | METHODOLOGIE | impose | réductionnisme impitoyable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| procédure infographique | METHODOLOGIE | interdit | pie charts | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| procédure infographique | METHODOLOGIE | se_conforme_à | principes de Tufte | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| système de grille | CONCEPT | utilise | proportion √2 et nombre d'or | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| palette de couleurs | CONCEPT | limite_à | maximum cinq teintes | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| typographie | CONCEPT | restreint_à | famille néo-grotesque uniquement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| validation finale | METHODOLOGIE | requiert | contemplation 72 heures | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| procédure infographique | METHODOLOGIE | interdit | export PNG | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Edward Tufte | PERSONNE | inspire | principes zéro chartjunk | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| entropie visuelle | CONCEPT | doit_rester_sous | seuil 0.18 Shannon | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| procédure infographique | METHODOLOGIE | inspiration | Steve Jobs, obsession de la perfection | AJOUT |
+| Edward Tufte | PERSONNE | domaine | Visualisation de données | AJOUT |
+| Akzidenz-Grotesk Next Pro | TECHNOLOGIE | catégorie | Police typographique recommandée | AJOUT |
+| Inter | TECHNOLOGIE | catégorie | Police typographique recommandée | AJOUT |
+| Figma | TECHNOLOGIE | catégorie | Logiciel de design | AJOUT |
+| Sketch | TECHNOLOGIE | catégorie | Logiciel de design | AJOUT |

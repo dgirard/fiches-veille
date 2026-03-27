@@ -81,3 +81,36 @@ Program faces **tension between scale et quality**. Demand vastly exceeds capaci
 **Impact Measurement**
 
 Success metrics include : alumni research publications, placement dans safety positions, influence on field (citations, adoption de techniques), community building (network effects). Early indicators positive - Apollo alumni contributing measurably à alignment research progress.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Apollo Academy | ORGANISATION | forme | chercheurs en sûreté IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | adresse | pénurie talent sûreté IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | propose | programmes intensifs 12-16 semaines | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | finance | bourses pour participants | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | collabore_avec | Anthropic | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | collabore_avec | DeepMind | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
+| alumni Apollo | PERSONNE | publie | recherches NeurIPS et ICML | EVENEMENT | 0.88 | STATIQUE | déclaré_article |
+| recherche alignement IA | CONCEPT | nécessite | formation accélérée chercheurs | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
+| interprétabilité | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| scalable oversight | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | maintient | taux admission 5-15% | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Apollo Academy | ORGANISATION | secteur | formation recherche sûreté IA | AJOUT |
+| Apollo Academy | ORGANISATION | durée_programme | 12-16 semaines | AJOUT |
+| Apollo Academy | ORGANISATION | taux_admission | 5-15% | AJOUT |
+| Anthropic | ORGANISATION | rôle | partenaire mentorat | AJOUT |
+| OpenAI | ORGANISATION | rôle | partenaire mentorat | AJOUT |
+| DeepMind | ORGANISATION | rôle | partenaire mentorat | AJOUT |
+| MIRI | ORGANISATION | rôle | organisation recherche partenaire | AJOUT |
+| ARC | ORGANISATION | rôle | organisation recherche partenaire | AJOUT |
+| Redwood Research | ORGANISATION | rôle | organisation recherche partenaire | AJOUT |

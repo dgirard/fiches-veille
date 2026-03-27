@@ -60,3 +60,31 @@ Le cinquième principe traite les specs comme documents vivants versionnés avec
 Osmani met en garde contre les pièges fréquents : specs trop vagues (échec dominant selon l'étude GitHub), skip de la review humaine parce que les tests passent, et confusion entre "vibe coding" rapide et ingénierie de production. Il identifie une "triade létale" : vitesse (difficile à reviewer), non-déterminisme (outputs inconsistants), et coût (encourage les raccourcis).
 
 La métaphore centrale compare les agents IA à des "stagiaires compétents" nécessitant instructions claires, contexte pertinent et feedback actionnable. Le succès dépend de l'équilibre entre specs complètes et fenêtres de contexte focalisées.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Addy Osmani | PERSONNE | a_publié | guide specs agents IA | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | travaille_chez | Google Chrome | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
+| specs massives | CONCEPT | causent | surcharge contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Plan Mode | TECHNOLOGIE | permet | exploration read-only avant code | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| SPEC.md | TECHNOLOGIE | assure | cohérence cross-sessions | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| malédiction des instructions | CONCEPT | réduit | adhérence modèle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| modularité specs | METHODOLOGIE | résout | surcharge contexte | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| LLM-as-a-Judge | METHODOLOGIE | vérifie | adhérence style et architecture | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| triade létale | CONCEPT | combine | vitesse, non-déterminisme, coût | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | s_oppose_à | ingénierie production | METHODOLOGIE | 0.83 | ATEMPOREL | déclaré_article |
+| agents IA | CONCEPT | comparés_à | stagiaires compétents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Addy Osmani | PERSONNE | rôle | Engineering Leader Google Chrome | AJOUT |
+| Plan Mode | TECHNOLOGIE | activation | Shift+Tab dans Claude Code | AJOUT |
+| SPEC.md | TECHNOLOGIE | catégorie | Fichier spécification persistant | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage IA CLI | AJOUT |
+| LLM-as-a-Judge | METHODOLOGIE | définition | Second agent review style/architecture | AJOUT |

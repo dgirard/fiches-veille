@@ -50,3 +50,30 @@ Cherny utilise des slash commands - raccourcis personnalisés versionnés dans l
 La boucle de vérification constitue l'innovation clé. Claude teste chaque modification via l'extension Chrome, ouvre un navigateur, teste l'interface et itère jusqu'à ce que le code fonctionne et l'UX soit satisfaisante. Cette vérification automatique améliore la qualité finale de 2-3x.
 
 L'article conclut sur un changement de paradigme : l'IA n'est plus un assistant d'autocomplétion mais un "système d'exploitation pour le travail lui-même". Les développeurs qui adoptent cette vision ne seront pas juste plus productifs - ils joueront à un jeu entièrement différent.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | utilise | 5 agents parallèles | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | utilise_exclusivement | Opus 4.5 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | corrige | erreurs récurrentes IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | aurait_atteint | 1 milliard USD ARR | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+| slash commands | METHODOLOGIE | automatise | tâches répétitives développeur | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| boucle vérification | METHODOLOGIE | améliore_qualité_de | 2-3x | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| subagents | TECHNOLOGIE | spécialisent | code-simplifier, verify-app | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Opus 4.5 | TECHNOLOGIE | nécessite_moins_de | corrections | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Boris Cherny | PERSONNE | rôle | Créateur et head of Claude Code | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage IA CLI | AJOUT |
+| Opus 4.5 | TECHNOLOGIE | catégorie | Modèle LLM lourd Anthropic | AJOUT |
+| CLAUDE.md | TECHNOLOGIE | catégorie | Fichier mémoire persistante agent | AJOUT |

@@ -84,3 +84,29 @@ Avec son approche open-source, sa communauté active et son architecture cloud-n
 - npm Package: https://www.npmjs.com/package/@acontext/acontext
 - Discord Community: https://discord.acontext.io
 - Twitter: https://x.com/acontext_io
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| memodb-io | ORGANISATION | a_créé | Acontext | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | fournit | plateforme de données contextuelles | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | permet | auto-apprentissage des agents | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | utilise | distillation de compétences | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | supporte | Python et JavaScript/TypeScript | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | est | open source | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | offre | observabilité des agents | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Acontext | TECHNOLOGIE | a_obtenu | 1 721 étoiles GitHub | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| ingénierie contextuelle | CONCEPT | est_au_cœur_de | Acontext | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| memodb-io | ORGANISATION | domaine | Infrastructure agents IA | AJOUT |
+| Acontext | TECHNOLOGIE | catégorie | Plateforme de données contextuelles cloud-native | AJOUT |
+| Acontext | TECHNOLOGIE | étoiles_github | 1 721 | AJOUT |
+| Acontext | TECHNOLOGIE | forks | 137 | AJOUT |
+| distillation de compétences | METHODOLOGIE | définition | Apprentissage automatique à partir des tâches complétées | AJOUT |

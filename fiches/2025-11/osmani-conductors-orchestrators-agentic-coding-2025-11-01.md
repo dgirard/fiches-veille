@@ -51,3 +51,33 @@ Osmani souligne que cette évolution **n'élimine pas les humains mais les repos
 L'article projette un avenir où des **agents spécialisés** (conception, implémentation, test, monitoring) collaborent sous supervision humaine, transformant le développement logiciel en supervision d'une "usine automatisée". Les workflows deviennent asynchrones : l'orchestrateur lance des tâches le matin et examine les résultats l'après-midi, maximisant la productivité par la parallélisation.
 
 **Les ingénieurs maîtrisant les deux modes** — sachant quand conduire directement et quand orchestrer à distance — seront les plus efficaces dans ce nouveau paradigme. La compétence technique évolue : comprendre *quand*, *quoi* et *pourquoi* coder devient plus critique que savoir *comment* coder ligne par ligne.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Addy Osmani | PERSONNE | distingue | mode conducteur vs orchestrateur | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | travaille_chez | Google | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| mode conducteur | CONCEPT | utilise | interaction synchrone agent unique | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| mode orchestrateur | CONCEPT | utilise | gestion asynchrone multi-agents | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | illustre | mode conducteur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| GitHub Copilot Agent | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Google Jules | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| OpenAI Codex | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| rôle développeur | CONCEPT | évolue_vers | planification stratégique et orchestration | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| agents spécialisés | CONCEPT | collaborent_sous | supervision humaine | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| codage agentique | CONCEPT | repositionne | humains dans rôles stratégiques | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Addy Osmani | PERSONNE | rôle | Leader d'ingénierie chez Google, auteur | AJOUT |
+| Google | ORGANISATION | secteur | Technologie / IA | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI (mode conducteur) | AJOUT |
+| GitHub Copilot Agent | TECHNOLOGIE | catégorie | Agent de codage autonome (mode orchestrateur) | AJOUT |
+| Google Jules | TECHNOLOGIE | catégorie | Agent de codage autonome Google | AJOUT |
+| OpenAI Codex | TECHNOLOGIE | catégorie | Agent de codage autonome OpenAI | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | IDE augmenté IA (mode conducteur) | AJOUT |

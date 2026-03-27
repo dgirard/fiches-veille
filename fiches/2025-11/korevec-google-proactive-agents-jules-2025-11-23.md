@@ -41,3 +41,31 @@ La solution réside dans des agents proactifs capables de "faire la vaisselle sa
 3.  **L'Intelligence Collective (Niveau visé)** : Jules collabore avec d'autres agents spécialisés (comme "Stitch" pour le design et "Insights" pour la data) pour comprendre les conséquences des changements. Par exemple, identifier qu'une baisse de conversion est due à une régression de performance et proposer un correctif global (code + design).
 
 Techniquement, cela se traduit par des fonctionnalités comme la **mémoire persistante** (que l'utilisateur peut éditer), un **agent "critique"** qui challenge le code généré, et la capacité de **vérification autonome** (ex: écrire et exécuter un script Playwright pour prouver que le code marche). Korevec annonce des mises à jour pour décembre, incluant la détection proactive de "TODOs" dans le code pour les transformer en tâches exécutées automatiquement. L'objectif final est de libérer les développeurs des tâches de maintenance (friction) pour qu'ils se concentrent sur la création pure.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Kath Korevec | PERSONNE | travaille_chez | Google Labs | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Google Labs | ORGANISATION | développe | Project Jules | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | est_un | agent de codage proactif | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| agents actuels | TECHNOLOGIE | nécessitent | supervision constante | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | évolue_vers | collaboration multi-agents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | utilise | mémoire persistante éditable | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | utilise | agent critique adversarial | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Stitch | TECHNOLOGIE | collabore_avec | Project Jules | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| Insights | TECHNOLOGIE | collabore_avec | Project Jules | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| proactivité agents | CONCEPT | réduit | charge mentale développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Kath Korevec | PERSONNE | prédit | agents proactifs anticipant besoins | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Kath Korevec | PERSONNE | rôle | Director of Product, Google Labs | AJOUT |
+| Google Labs | ORGANISATION | secteur | Recherche et développement IA | AJOUT |
+| Project Jules | TECHNOLOGIE | catégorie | Agent de codage proactif autonome | AJOUT |
+| Stitch | TECHNOLOGIE | catégorie | Agent spécialisé design | AJOUT |
+| Insights | TECHNOLOGIE | catégorie | Agent spécialisé données | AJOUT |

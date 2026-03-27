@@ -137,3 +137,31 @@ Meesho (HR Help Desk Travel), Accenture (YouTube Shorts Media), AirAsia (Content
 Six Super Agents spécialisés (Diane HR, Jeff Support, Skott Marketing, Jazon Sales, Amadeo Banking, Benjie Insurance) suggest pre-configured domain experts. Agent Studio emphasizes no-code build, Responsible AI guardrails, Hallucination management, Knowledge graph orchestration.
 
 Catalog demonstrates Lyzr positioning : enterprise-ready AI agents production-proven spanning functions/industries, rapid deployment (<1 month), proven scale (1M+ agents, 100+ customers).
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lyzr AI | ORGANISATION | propose | 34 agents IA en production | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | revendique | 1M+ agents en production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | déploie_en | moins d'un mois | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Meesho | ORGANISATION | utilise | HR Help Desk agent | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Accenture | ORGANISATION | utilise | YouTube to Shorts Generator | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| AirAsia | ORGANISATION | utilise | Content Workflow Assistant | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| agents haute complexité | CONCEPT | se_concentrent_dans | industries réglementées | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Banking/BFSI | CONCEPT | est | verticale dominante catalogue | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Agent Studio | TECHNOLOGIE | permet | construction agents sans code | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | sert | 100+ clients enterprise | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lyzr AI | ORGANISATION | secteur | Plateforme agents IA enterprise | AJOUT |
+| Lyzr AI | ORGANISATION | scale | 1M+ agents, 100+ clients | AJOUT |
+| Meesho | ORGANISATION | secteur | Travel / E-commerce | AJOUT |
+| Accenture | ORGANISATION | secteur | Conseil et services IT | AJOUT |
+| AirAsia | ORGANISATION | secteur | Transport aérien | AJOUT |
+| Agent Studio | TECHNOLOGIE | catégorie | Plateforme no-code construction agents | AJOUT |

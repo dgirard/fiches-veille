@@ -10,7 +10,7 @@
 
 ### a_construit
 
-- [[kb/_entites-mineures#AI4Ops\|AI4Ops]] (TECHNOLOGIE) — 0.98, STATIQUE
+- [[kb/AI4Ops\|AI4Ops]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
 
 ### a_rejoint

@@ -213,3 +213,34 @@ Cette étude souligne l'importance de préparer activement la transition vers un
 - Blog Anthropic sur les politiques économiques : https://www.anthropic.com/blog/ai-economic-policy
 - Claude Code : https://www.anthropic.com/claude-code
 - Recherches précédentes d'Anthropic sur les impacts économiques : https://www.anthropic.com/research/economic-impacts
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Anthropic | ORGANISATION | a_mené | étude transformation travail par IA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | augmente | productivité ingénieurs logiciels | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_enquêté | 132 ingénieurs et chercheurs | PERSONNE | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_utilisé_pour | 60% du travail des employés | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | génère | 50% de gain de productivité | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | permet | travail supplémentaire (27%) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | réduit | interactions de mentorat | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| IA | CONCEPT | transforme | ingénieurs en gestionnaires de systèmes IA | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| Claude Code | TECHNOLOGIE | utilise | Claude Sonnet 4 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Claude Opus 4 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| IA | CONCEPT | risque_de_causer | atrophie des compétences profondes | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | favorise | développeurs full-stack | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| actions autonomes Claude Code | CONCEPT | augmente | de 10 à 20 actions | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| Claude Sonnet 4 | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
+| Claude Opus 4 | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
+| étude transformation travail par IA | EVENEMENT | date | août 2025 | AJOUT |
+| étude transformation travail par IA | EVENEMENT | participants | 132 enquêtés, 53 entretiens | AJOUT |

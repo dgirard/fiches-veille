@@ -55,3 +55,36 @@ Le deal reste sous surveillance du CFIUS (Committee on Foreign Investment in the
 Pour Meta, cette acquisition concrétise la vision de Mark Zuckerberg sur l'IA agentique comme prochain paradigme. L'intégration est prévue dans WhatsApp, Messenger, Instagram, Facebook et Meta AI, transformant ces plateformes d'assistants conversationnels en véritables "employés digitaux" capables d'agir de manière autonome pour les 3 milliards d'utilisateurs quotidiens de Meta.
 
 Xiao Hong rejoint Meta comme Vice-Président avec son équipe, apportant une expertise immédiate dans un domaine hautement concurrentiel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Meta | ORGANISATION | a_acquis | Manus | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Manus | ORGANISATION | valorisée_à | 2 milliards USD | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Xiao Hong | PERSONNE | a_fondé | Manus | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Xiao Hong | PERSONNE | est_devenu_VP_chez | Meta | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Manus | ORGANISATION | relocalisée_de | Chine vers Singapour | LIEU | 0.95 | STATIQUE | déclaré_article |
+| Manus | ORGANISATION | utilise | architecture multi-agents | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Manus | ORGANISATION | a_surpassé | OpenAI Deep Research | TECHNOLOGIE | 0.80 | STATIQUE | déclaré_article |
+| Meta | ORGANISATION | prévoit_intégration_dans | WhatsApp, Messenger, Instagram | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Benchmark | ORGANISATION | a_investi_dans | Manus | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| CFIUS | ORGANISATION | surveille | acquisition Meta-Manus | EVENEMENT | 0.90 | DYNAMIQUE | déclaré_article |
+| Tencent | ORGANISATION | a_investi_dans | Manus | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
+| Meta | ORGANISATION | s_engage_à_couper | liens opérationnels avec Chine | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Mark Zuckerberg | PERSONNE | porte_vision | IA agentique | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Meta | ORGANISATION | secteur | Réseaux sociaux / IA | AJOUT |
+| Manus | ORGANISATION | spécialité | Agents IA autonomes | AJOUT |
+| Xiao Hong | PERSONNE | rôle | Fondateur Manus, VP Meta | AJOUT |
+| Benchmark | ORGANISATION | secteur | Capital-risque | AJOUT |
+| CFIUS | ORGANISATION | rôle | Comité investissements étrangers US | AJOUT |
+| Tencent | ORGANISATION | secteur | Technologie / Investissement | AJOUT |
+| Singapour | LIEU | rôle | Hub neutre pour relocalisation | AJOUT |
+| Mark Zuckerberg | PERSONNE | rôle | CEO Meta | AJOUT |

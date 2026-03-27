@@ -115,3 +115,33 @@ The report positions generative AI as a transformative force comparable to previ
 
 ## Hashtags
 #GenerativeAI #EnterpriseAI #AIAdoption #AIMarket #AIApplications #AIInfrastructure #PLG #AIStartups #AIImpact #AIProductivity
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Menlo Ventures | ORGANISATION | a_publié | rapport State of Generative AI 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| marché IA entreprise | CONCEPT | a_atteint | 37 milliards de dollars en 2025 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| marché IA entreprise | CONCEPT | a_crû_de | 3,2x par rapport à 2024 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| startups IA | CONCEPT | capturent | 63% du marché applicatif IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| codage IA | CONCEPT | représente | 4 milliards de dollars (55% IA départementale) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| entreprises | CONCEPT | préfèrent_acheter | 76% des cas d'usage IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| adoption PLG | METHODOLOGIE | représente | 27% des dépenses applicatives IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| santé | CONCEPT | domine | IA verticale avec 1,5 milliard dollars | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Cursor | TECHNOLOGIE | concurrence | GitHub Copilot | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Shadow AI | CONCEPT | représente | 40% des dépenses applicatives IA | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Menlo Ventures | ORGANISATION | secteur | Capital-risque | AJOUT |
+| Tim Tully | PERSONNE | rôle | Co-auteur rapport, Menlo Ventures | AJOUT |
+| Joff Redfern | PERSONNE | rôle | Co-auteur rapport, Menlo Ventures | AJOUT |
+| Deedy Das | PERSONNE | rôle | Co-auteur rapport, Menlo Ventures | AJOUT |
+| Derek Xiao | PERSONNE | rôle | Co-auteur rapport, Menlo Ventures | AJOUT |
+| Cursor | TECHNOLOGIE | catégorie | Outil de codage IA | AJOUT |
+| GitHub Copilot | TECHNOLOGIE | catégorie | Outil de codage IA | AJOUT |
+| marché IA entreprise | CONCEPT | taille_2025 | 37 milliards de dollars | AJOUT |

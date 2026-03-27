@@ -48,3 +48,33 @@ L'architecture technique reflète cette prudence. Plutôt que de laisser l'IA g�
 Un point clé de leur succès a été l'utilisation de **données réelles et "sales"** dès le début, impliquant les utilisateurs métier dans le processus de recherche. Cela a permis de valider la faisabilité réelle et de créer des alliés ("champions") dans l'entreprise. De plus, le projet a été découpé en sprints de 6 semaines, chaque étape livrant une valeur autonome (ex: l'amélioration des métadonnées pour l'IA a servi à toute l'entreprise), permettant au management de garder le contrôle sur l'investissement.
 
 Bord conclut sur une réflexion économique : l'IA remet en cause le modèle de facturation "par siège" (seat-based) des logiciels SaaS, car un seul utilisateur peut désormais produire la valeur de dix.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Asaf Bord | PERSONNE | a_créé | GenBI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Northwestern Mutual | ORGANISATION | déploie | GenBI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Northwestern Mutual | ORGANISATION | emploie | Asaf Bord | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| GenBI | TECHNOLOGIE | utilise | pipeline agents spécialisés | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Metadata Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| RAG Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| SQL Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| approche Crawl Walk Run | METHODOLOGIE | guide | déploiement GenBI | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| IA | CONCEPT | remet_en_cause | modèle pricing par siège | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| RAG Agent | TECHNOLOGIE | résout | 80% demandes BI | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Asaf Bord | PERSONNE | rôle | Engineering Leader, Northwestern Mutual | AJOUT |
+| Northwestern Mutual | ORGANISATION | secteur | Services financiers / Assurance | AJOUT |
+| Northwestern Mutual | ORGANISATION | ancienneté | 160 ans | AJOUT |
+| GenBI | TECHNOLOGIE | catégorie | Generative Business Intelligence | AJOUT |
+| Metadata Agent | TECHNOLOGIE | catégorie | Agent compréhension contexte | AJOUT |
+| RAG Agent | TECHNOLOGIE | catégorie | Agent recherche rapports certifiés | AJOUT |
+| SQL Agent | TECHNOLOGIE | catégorie | Agent génération requêtes SQL | AJOUT |
+| approche Crawl Walk Run | METHODOLOGIE | catégorie | Déploiement incrémental entreprise | AJOUT |

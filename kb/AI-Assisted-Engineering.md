@@ -26,7 +26,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/vibe-coding\|Vibe Coding]] **s_oppose_à** → AI-Assisted Engineering — 0.97
+- [[kb/Vibe-Coding\|Vibe Coding]] **s_oppose_à** → AI-Assisted Engineering — 0.97
 
 ## Fiches sources
 

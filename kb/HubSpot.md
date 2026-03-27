@@ -20,7 +20,7 @@
 
 ### concurrence
 
-- [[kb/_entites-mineures#Salesforce\|Salesforce]] (ORGANISATION) — 0.90, DYNAMIQUE
+- [[kb/Salesforce\|Salesforce]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
 - [[kb/_entites-mineures#Microsoft-Dynamics\|Microsoft Dynamics]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]

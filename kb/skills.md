@@ -1,6 +1,6 @@
 # skills
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,6 +12,11 @@
 
 - [[kb/_entites-mineures#taux-de-réussite-79%\|taux de réussite 79%]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js]]
+
+### débloque
+
+- [[kb/_entites-mineures#capacités-latentes-des-modèles\|capacités latentes des modèles]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Anthropic - Design frontend avec Skills - Convergence distributionnelle - Typographie distinctive - React/Tailwind artifacts - Contexte dynamique à la demande - Patterns RPG/editorial]]
 
 ### n'est_pas_invoqué
 
@@ -35,7 +40,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#AGENTS.md\|AGENTS.md]] **surpasse** → skills — 0.99
+- [[kb/AGENTS.md\|AGENTS.md]] **surpasse** → skills — 0.99
 - [[kb/Superpowers\|Superpowers]] **utilise** → skills — 0.97
 
 ## Fiches sources

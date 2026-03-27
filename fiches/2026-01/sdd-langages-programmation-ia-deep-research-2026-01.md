@@ -55,3 +55,33 @@ Rust présente une friction élevée pour le SDD. Son Borrow Checker, bien que g
 Java et C# souffrent d'un désavantage structurel : leur verbosité (getters, setters, imports massifs) sature la fenêtre de contexte, diluant l'attention du modèle. Les données d'entraînement contiennent de nombreux patterns "entreprise" obsolètes que les modèles reproduisent.
 
 Le rapport conclut que le choix du langage influence directement l'efficacité du SDD. TypeScript domine par sa capacité à structurer les hallucinations via un typage flexible tout en bénéficiant d'un corpus d'entraînement moderne. La rigueur de Rust et la verbosité de Java/C# imposent des contraintes ralentissant le flux assisté par agent en 2025-2026.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Andrej Karpathy | PERSONNE | a_popularisé | Spec Drive Development | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| TypeScript | TECHNOLOGIE | domine | classement Agent-Language Fit | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| TypeScript | TECHNOLOGIE | offre | typage graduel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Rust | TECHNOLOGIE | présente | friction élevée pour SDD | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Borrow Checker | TECHNOLOGIE | entre_en_conflit_avec | nature probabiliste LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Python | TECHNOLOGIE | est_le_mieux_compris_par | modèles LLM | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Go | TECHNOLOGIE | offre | faible entropie syntaxique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Java | TECHNOLOGIE | souffre_de | verbosité saturant contexte | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Dart | TECHNOLOGIE | excelle_pour | génération UI multiplateforme | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| erreurs compilation LLM | CONCEPT | sont_à_94% | échecs vérification type | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| SDD | METHODOLOGIE | positionne_développeur_comme | producteur exécutif | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Spec Drive Development | METHODOLOGIE | alias | SDD, Software 3.0 | AJOUT |
+| TypeScript | TECHNOLOGIE | avantage_SDD | Typage graduel, corpus entraînement moderne | AJOUT |
+| Rust | TECHNOLOGIE | inconvénient_SDD | Borrow Checker vs nature probabiliste LLM | AJOUT |
+| Python | TECHNOLOGIE | avantage_SDD | Vélocité maximale, meilleure compréhension modèles | AJOUT |
+| Go | TECHNOLOGIE | avantage_SDD | Compilation instantanée, syntaxe unique | AJOUT |
+| Andrej Karpathy | PERSONNE | rôle | Ex-Tesla/OpenAI, popularisateur SDD | AJOUT |
+| Agent-Language Fit | CONCEPT | définition | Capacité langage à servir collaboration humain-LLM | AJOUT |

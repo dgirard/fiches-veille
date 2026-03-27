@@ -1,10 +1,10 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 12 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 12 fiches sources
 
 ## Attributs
 
-- **catégorie** : Éditeur AI-native
+- **catégorie** : Éditeur de code IA
 - **secteur** : Outils de codage IA
 - **valorisation** : ~10 milliards de dollars
 
@@ -19,6 +19,11 @@
 
 - [[kb/_entites-mineures#500M$-ARR\|500M$ ARR]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
+
+### concurrence
+
+- [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|menlovc-state-generative-ai-enterprise-2025-12-09]]
 
 ### fait_partie_de
 
@@ -49,7 +54,10 @@
 - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote - Successeur Jupyter avec AI agent natif - Format .deepnote YAML - Extensions VS Code/Cursor/Windsurf - Open Source - GitHub 1.5k stars]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
+- [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|menlovc-state-generative-ai-enterprise-2025-12-09]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
+- [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Agents IA autonomes, évolution rôle développeurs, workflows asynchrones, orchestration multi-agents - Addy Osmani - Substack]]
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude - Partenaires Anthropic - AI integrations - Ecosystem Claude - Applications]]
+- [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Lee Robinson - migration cursor.com CMS vers code agents IA budgets complexité]]
 - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]

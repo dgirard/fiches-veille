@@ -51,3 +51,32 @@ L'auteur cite AllianzGPT comme modèle alternatif réussi. Allianz a construit u
 Simon définit le concept de "capital IA" comme l'ensemble des connaissances métier encodables : processus documentés, règles de gestion, décisions historiques, expertise tacite rendue explicite. C'est cet actif qui crée un avantage compétitif durable.
 
 L'article se conclut par un avertissement sur la souveraineté européenne. L'Europe a perdu la souveraineté cloud dans les années 2010 en migrant vers AWS, Azure et Google. Répéter cette erreur avec l'IA signifie externaliser la capacité à générer de la valeur pilotée par l'IA vers des concurrents américains. L'enjeu fondamental : les entreprises européennes accumuleront-elles des compétences IA indigènes ou deviendront-elles des consommateurs permanents de systèmes d'intelligence contrôlés par les États-Unis ?
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Société Générale | ORGANISATION | a_abandonné | SoGPT | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Société Générale | ORGANISATION | a_adopté | Microsoft Copilot | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Erwan Simon | PERSONNE | affirme_que | build vs buy est faux débat | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Erwan Simon | PERSONNE | dirige | GENIAL | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| SoGPT | TECHNOLOGIE | a_échoué_par | exécution déconnectée métier | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Copilot | TECHNOLOGIE | peine_sur | processus métier spécifiques | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Allianz | ORGANISATION | a_construit | AllianzGPT | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| AllianzGPT | TECHNOLOGIE | orchestre | Azure OpenAI et Claude | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| capital IA | CONCEPT | constitue | avantage compétitif durable | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Europe | LIEU | risque_de_perdre | souveraineté IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Erwan Simon | PERSONNE | rôle | CEO GENIAL | AJOUT |
+| GENIAL | ORGANISATION | secteur | Startup IA française | AJOUT |
+| SoGPT | TECHNOLOGIE | catégorie | Outil IA interne Société Générale | AJOUT |
+| AllianzGPT | TECHNOLOGIE | catégorie | Plateforme IA orchestrant modèles multiples | AJOUT |
+| Société Générale | ORGANISATION | secteur | Banque | AJOUT |
+| Allianz | ORGANISATION | secteur | Assurance | AJOUT |
+| capital IA | CONCEPT | définition | Connaissance métier encodable créant avantage durable | AJOUT |

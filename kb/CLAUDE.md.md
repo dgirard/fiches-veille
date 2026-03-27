@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-> **Type** : TECHNOLOGIE | 7 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 9 fiches sources
 
 ## Attributs
 
@@ -10,6 +10,13 @@
 - **usage** : Fichier de règles évolutif, mémoire persistante de l'agent
 
 ## Relations (comme sujet)
+
+### 
+
+- [[kb/_entites-mineures#LangGraph-et-CrewAI\|LangGraph et CrewAI]] (TECHNOLOGIE) — 0.85, ATEMPOREL
+  - [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|Effondrement de l'IDE face au CLI agentique, trois couches d'abstraction developpeur qui s'effondrent successivement - X/Twitter]]
+- [[kb/_entites-mineures#Fichier-de-configuration-agent-orchestration\|Fichier de configuration agent / orchestration]] (AJOUT) — 0.00, ATEMPOREL
+  - [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|Effondrement de l'IDE face au CLI agentique, trois couches d'abstraction developpeur qui s'effondrent successivement - X/Twitter]]
 
 ### codifie
 
@@ -21,9 +28,14 @@
 - [[kb/_entites-mineures#comportement-Claude-Code\|comportement Claude Code]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
+### corrige
+
+- [[kb/_entites-mineures#erreurs-récurrentes-IA\|erreurs récurrentes IA]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|Boris Cherny créateur Claude Code - workflow 5 agents parallèles, Opus 4.5, CLAUDE.md]]
+
 ### est_équivalent_à
 
-- [[kb/_entites-mineures#AGENTS.md\|AGENTS.md]] (TECHNOLOGIE) — 0.96, STATIQUE
+- [[kb/AGENTS.md\|AGENTS.md]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js]]
 
 ### fait_partie_de
@@ -55,3 +67,4 @@
 - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
+- [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|Boris Cherny créateur Claude Code - workflow 5 agents parallèles, Opus 4.5, CLAUDE.md]]

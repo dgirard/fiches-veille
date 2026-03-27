@@ -1,6 +1,6 @@
 # Agent Skills
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,16 @@
 - **catégorie** : Système de compétences modulaires pour agents IA
 
 ## Relations (comme sujet)
+
+### combine_avec
+
+- [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
+
+### enrichit
+
+- [[kb/_entites-mineures#autonomie-agents\|autonomie agents]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
 
 ### est_basé_sur
 

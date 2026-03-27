@@ -1,10 +1,11 @@
 # METR
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 9 relations | 2 fiches sources
 
 ## Attributs
 
 - **nom complet** : Model Evaluation & Threat Research
+- **rôle** : mesure capacités agents IA
 - **statut** : Organisation de recherche à but non lucratif
 
 ## Relations (comme sujet)
@@ -23,6 +24,11 @@
 - [[kb/_entites-mineures#NIST-AI-Safety-Institute-Consortium\|NIST AI Safety Institute Consortium]] (ORGANISATION) — 0.91, DYNAMIQUE
   - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR - AI Safety - Autonomous replication - AI agents - Risk assessment - Existential risk - Alignment]]
 
+### mesure
+
+- [[kb/_entites-mineures#longueur-tâches-accomplies-par-IA\|longueur tâches accomplies par IA]] (CONCEPT) — 0.90, STATIQUE
+  - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
+
 ### recommande
 
 - [[kb/_entites-mineures#tests-ARA-obligatoires-avant-déploiement-frontier\|tests ARA obligatoires avant déploiement frontier]] (METHODOLOGIE) — 0.92, STATIQUE
@@ -40,8 +46,9 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#GPT-5\|GPT-5]] **a_été_évalué_par** → METR — 0.95
+- [[kb/GPT-5\|GPT-5]] **a_été_évalué_par** → METR — 0.95
 
 ## Fiches sources
 
 - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR - AI Safety - Autonomous replication - AI agents - Risk assessment - Existential risk - Alignment]]
+- [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]

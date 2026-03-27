@@ -74,3 +74,39 @@ L'AAIF opère comme fonds dirigé sous la Linux Foundation, organisation à but 
 La contribution d'AGENTS.md à l'AAIF assure que les développeurs et entreprises disposent d'un moyen portable de fournir du contexte aux agents, que le format puisse évoluer de manière ouverte avec l'input de nombreux outils et communautés, et qu'aucune entreprise ne contrôle sa direction à mesure que l'adoption croît.
 
 Cette initiative marque une étape significative dans la maturation de l'écosystème d'agents IA, privilégiant la collaboration industrielle sur la fragmentation propriétaire.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| OpenAI | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| AAIF | ORGANISATION | opère_sous | Linux Foundation | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_contribué | AGENTS.md | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_contribué | Model Context Protocol (MCP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | a_contribué | goose | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| AGENTS.md | TECHNOLOGIE | a_été_adopté_par | 60 000+ projets open source | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | a_fusionné | 2M+ pull requests sur GitHub | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AAIF | ORGANISATION | vise | interopérabilité et standards ouverts agents IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| AWS | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Agentic AI Foundation (AAIF) | ORGANISATION | date_création | 9 décembre 2025 | AJOUT |
+| Agentic AI Foundation (AAIF) | ORGANISATION | structure | Directed fund sous Linux Foundation | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA | AJOUT |
+| Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| Block | ORGANISATION | secteur | Fintech | AJOUT |
+| Linux Foundation | ORGANISATION | secteur | Gouvernance open source | AJOUT |
+| AGENTS.md | TECHNOLOGIE | catégorie | Format Markdown pour instructions agents | AJOUT |
+| AGENTS.md | TECHNOLOGIE | adoption | 60 000+ projets | AJOUT |
+| Model Context Protocol (MCP) | TECHNOLOGIE | catégorie | Protocole d'intégration données/contexte | AJOUT |
+| goose | TECHNOLOGIE | catégorie | Framework agent IA local-first | AJOUT |
+| Codex | TECHNOLOGIE | catégorie | Agent de codage IA | AJOUT |

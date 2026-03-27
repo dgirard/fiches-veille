@@ -50,3 +50,33 @@ Ils identifient des patterns émergents pour les développeurs d'agents :
 3.  **Création d'outils dynamique** : La capacité des agents à écrire leurs propres connecteurs (MCP) pour s'interfacer avec des API ou des systèmes sans intégration préalable.
 
 En conclusion, ils invitent les développeurs à ne pas "réinventer la roue" du harnais à chaque fois, mais à s'appuyer sur des infrastructures existantes pour construire des expériences utilisateur plus riches et plus stables.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Bill Chen | PERSONNE | présente | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Brian Fioca | PERSONNE | présente | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | emploie | Bill Chen | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | emploie | Brian Fioca | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | Codex | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | intègre | Harness | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Harness | CONCEPT | gère | complexité intégration modèles | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Codex | TECHNOLOGIE | utilise | Computer Use terminal | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| agents IA | CONCEPT | créent | outils dynamiquement (MCP) | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| SDK Codex | TECHNOLOGIE | permet | intégration sous-agent | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Harness | CONCEPT | abstrait | cycles évolution modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Bill Chen | PERSONNE | rôle | Product Manager, OpenAI | AJOUT |
+| Brian Fioca | PERSONNE | rôle | Engineering, OpenAI | AJOUT |
+| OpenAI | ORGANISATION | secteur | IA générative | AJOUT |
+| Codex | TECHNOLOGIE | catégorie | Agent codage + Harness intégré | AJOUT |
+| Harness | CONCEPT | catégorie | Couche abstraction agent (outils, prompts, mémoire, sécurité) | AJOUT |
+| SDK Codex | TECHNOLOGIE | catégorie | SDK intégration agent dans produits tiers | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Protocole connecteurs dynamiques | AJOUT |

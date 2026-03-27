@@ -49,3 +49,37 @@ Les incumbents ne peuvent pas construire ce context graph. Les systèmes opérat
 Les auteurs identifient trois chemins pour les startups : remplacer des systèmes de record existants (comme Regie pour les plateformes de sales engagement), remplacer des modules spécifiques (comme Maximor pour la finance), ou créer de nouveaux systèmes de record pour des catégories de vérité jamais capturées (comme PlayerZero pour le production engineering).
 
 Les signaux pour identifier ces opportunités incluent un headcount élevé sur des workflows manuels, des décisions riches en exceptions, et l'existence d'organisations "glue" (RevOps, DevOps, SecOps) qui existent précisément parce qu'aucun système ne capture le workflow cross-fonctionnel.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Jaya Gupta | PERSONNE | a_co-écrit | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Ashu Garg | PERSONNE | a_co-écrit | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Foundation Capital | ORGANISATION | emploie | Jaya Gupta | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
+| Foundation Capital | ORGANISATION | emploie | Ashu Garg | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
+| context graph | CONCEPT | capture | traces de décision | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| context graph | CONCEPT | remplace | systèmes de record traditionnels | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| startups systems of agents | CONCEPT | disposent_d_avantage_sur | incumbents (Salesforce, Workday) | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | stocke | état actuel pas état décisionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Snowflake | ORGANISATION | reçoit_données | après les décisions via ETL | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Regie | ORGANISATION | remplace | plateformes sales engagement | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| traces de décision | CONCEPT | inclut | exceptions, précédents, contexte cross-système | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| agents IA | CONCEPT | élève | exigences des systèmes de record | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Jaya Gupta | PERSONNE | rôle | Investisseur VC, Foundation Capital | AJOUT |
+| Ashu Garg | PERSONNE | rôle | Investisseur VC, Foundation Capital | AJOUT |
+| Foundation Capital | ORGANISATION | secteur | Capital-risque | AJOUT |
+| context graph | CONCEPT | définition | Enregistrement structuré des traces de décision reliées entre entités | AJOUT |
+| Salesforce | ORGANISATION | catégorie | Système de record clients | AJOUT |
+| Workday | ORGANISATION | catégorie | Système de record employés | AJOUT |
+| Snowflake | ORGANISATION | catégorie | Data warehouse | AJOUT |
+| Regie | ORGANISATION | catégorie | AI SDR startup | AJOUT |
+| Maximor | ORGANISATION | catégorie | Startup finance IA | AJOUT |
+| PlayerZero | ORGANISATION | catégorie | Startup production engineering | AJOUT |

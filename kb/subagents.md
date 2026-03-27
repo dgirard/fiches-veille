@@ -1,6 +1,6 @@
 # subagents
 
-> **Type** : CONCEPT | 11 relations | 3 fiches sources
+> **Type** : CONCEPT | 12 relations | 3 fiches sources
 
 ## Attributs
 
@@ -33,6 +33,11 @@
 
 - [[kb/_entites-mineures#fichiers-Markdown-YAML-frontmatter\|fichiers Markdown YAML frontmatter]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents Claude Code - AI assistants spécialisés - Context management - Task delegation - Documentation Anthropic]]
+
+### spécialisent
+
+- [[kb/_entites-mineures#code-simplifier,-verify-app\|code-simplifier, verify-app]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|Boris Cherny créateur Claude Code - workflow 5 agents parallèles, Opus 4.5, CLAUDE.md]]
 
 ### stockés_dans
 

@@ -84,3 +84,29 @@ Le Compounding Engineering Plugin incarne une nouvelle philosophie de développe
 - Every Marketplace : https://github.com/EveryInc/every-marketplace
 - Documentation Claude Plugins : https://claude-plugins.dev
 - Organisation EveryInc : https://github.com/EveryInc
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| EveryInc | ORGANISATION | a_créé | Compounding Engineering Plugin | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | s_intègre_avec | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| ingénierie composable | METHODOLOGIE | inverse | accumulation dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | suit | cycle Planifier-Déléguer-Évaluer-Codifier | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | génère | issues GitHub complètes | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | effectue | revues de code multi-agents | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | est_compatible_avec | Droid/Factory | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| ingénierie composable | METHODOLOGIE | codifie | connaissances et motifs | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| EveryInc | ORGANISATION | domaine | Plateforme ingénierie IA | AJOUT |
+| Compounding Engineering Plugin | TECHNOLOGIE | catégorie | Plugin Claude Code | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
+| ingénierie composable | METHODOLOGIE | principe | Chaque unité de travail facilite la suivante | AJOUT |
+| Droid/Factory | TECHNOLOGIE | catégorie | Framework d'agents | AJOUT |

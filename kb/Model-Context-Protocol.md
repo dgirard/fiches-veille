@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 7 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
 
 ## Attributs
 
@@ -29,6 +29,7 @@
 
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] **enseigne** → Model Context Protocol — 0.98
 - [[kb/MCP-UI\|MCP-UI]] **est_basé_sur** → Model Context Protocol — 0.98
+- [[kb/QMD\|QMD]] **s_intègre_à** → Model Context Protocol — 0.97
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Model Context Protocol — 0.97
 - [[kb/_entites-mineures#Vanta\|Vanta]] **intègre** → Model Context Protocol — 0.95
 

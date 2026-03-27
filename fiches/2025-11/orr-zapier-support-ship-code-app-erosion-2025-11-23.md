@@ -41,3 +41,34 @@ L'architecture de Scout comprend trois composants principaux :
 Les résultats sont remarquables. Le **taux de succès des merge requests atteint 97%**, avec seulement 3% nécessitant des modifications mineures. Le temps de résolution passe de **72 heures à quelques minutes**. L'impact culturel est profond : le support se sent valorisé, l'ingénierie est libérée pour l'innovation, et la frontière entre les rôles s'estompe.
 
 Orr souligne que cette transformation n'est pas qu'une optimisation technique mais une nécessité stratégique. Dans un écosystème où les intégrations sont centrales et l'érosion inévitable, la capacité de maintenance agile devient un avantage concurrentiel. L'autonomisation du support via l'IA représente une évolution organisationnelle fondamentale pour survivre dans un monde d'APIs en perpétuelle mutation.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Lisa Orr | PERSONNE | travaille_chez | Zapier | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Zapier | ORGANISATION | gère | 8000+ intégrations | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Zapier | ORGANISATION | souffre_de | érosion applicative | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| érosion applicative | CONCEPT | est_causée_par | changements constants APIs tierces | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Scout | TECHNOLOGIE | résout | érosion applicative | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | comprend | Context Analyzer | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | comprend | Diff Generator | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | comprend | Test Generator | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | atteint | 97% taux de réussite MR | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | réduit | temps de résolution de 72h à minutes | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| équipe support | CONCEPT | évolue_vers | livraison de code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| 50% du temps | CONCEPT | est_consacré_à | rassemblement du contexte | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Lisa Orr | PERSONNE | rôle | Leader ingénierie chez Zapier | AJOUT |
+| Zapier | ORGANISATION | secteur | Automatisation / Intégrations | AJOUT |
+| Zapier | ORGANISATION | attribut | 14 ans d'existence, 8000+ intégrations | AJOUT |
+| Scout | TECHNOLOGIE | catégorie | Outil codegen pour résolution érosion applicative | AJOUT |
+| Context Analyzer | TECHNOLOGIE | catégorie | Composant Scout - agrégation contexte | AJOUT |
+| Diff Generator | TECHNOLOGIE | catégorie | Composant Scout - génération corrections | AJOUT |
+| Test Generator | TECHNOLOGIE | catégorie | Composant Scout - génération tests | AJOUT |

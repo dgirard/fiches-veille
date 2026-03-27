@@ -1,11 +1,12 @@
 # WEnvision
 
-> **Type** : ORGANISATION | 10 relations | 3 fiches sources
+> **Type** : ORGANISATION | 11 relations | 4 fiches sources
 
 ## Attributs
 
 - **catégorie** : Plateforme enterprise de déploiement agents IA
 - **positionnement** : Comble le fossé expérimentation-production
+- **rôle** : Cabinet conseil stratégie IA
 - **secteur** : IA générative, conseil
 - **type** : Cabinet de conseil en transformation digitale
 
@@ -15,6 +16,11 @@
 
 - [[kb/_entites-mineures#RAISE\|RAISE]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
+
+### accompagne
+
+- [[kb/_entites-mineures#déploiement-Almia\|déploiement Almia]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
 ### adresse
 
@@ -62,6 +68,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision - AI agents - Enterprise deployment - Platform - Agent orchestration - Enterprise AI - Production systems]]

@@ -20,7 +20,7 @@
 
 ### s_oppose_à
 
-- [[kb/vibe-coding\|vibe coding]] (METHODOLOGIE) — 0.92, ATEMPOREL
+- [[kb/Vibe-Coding\|vibe coding]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 - [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]

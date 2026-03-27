@@ -218,3 +218,38 @@ Generates code/fixes bugs/deploys software. Without governance: liability (datab
 Prepares analytical reports/recommendations. With Decision Layer: seconds do what team analysts days, aggregate data silos/apply business rules/produce report, **justify each insight traceable data**. Example: "Sales dipped 5% inventory stock-out Region X (ERP/CRM facts) → recommend shifting supply: Policy 14 mitigation plans." vs black-box chart: get explanation. Reasoning **auditable regulators/internal auditors** (critical finance/healthcare).
 
 **Vision**: AI agents move fragile prototypes → **trustworthy co-workers** handling core business operations consistency/accuracy/compliance seasoned professional.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Patrick Joubert | PERSONNE | dirige | Rippletide | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Rippletide | ORGANISATION | a_créé | Hypergraph Database | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Hypergraph Database | TECHNOLOGIE | réduit | taux hallucination à moins de 1% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Gartner | ORGANISATION | prédit | 40% projets IA agentique annulés d'ici 2027 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Gartner | ORGANISATION | affirme_que | 64% dirigeants veulent déployer IA agentique sous 24 mois | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| hyperscalers | CONCEPT | manquent | gouvernance décisionnelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Azure AI Agent Service | TECHNOLOGIE | manque | orchestration décisionnelle et traçabilité audit | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Google Vertex AI Agent Builder | TECHNOLOGIE | délègue | application politiques et guardrails à l'utilisateur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| AWS Bedrock | TECHNOLOGIE | s'appuie_sur | LLM comme décideur de facto | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| LLM | TECHNOLOGIE | manque | raisonnement déterministe | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Decision Layer | CONCEPT | sépare | raisonnement et exécution | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Rippletide | ORGANISATION | propose | compliance by design | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Rippletide | ORGANISATION | propose | governance by design | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| confiance entreprise | CONCEPT | bloque | déploiement agents IA en production | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Patrick Joubert | PERSONNE | rôle | CEO Rippletide | AJOUT |
+| Rippletide | ORGANISATION | secteur | infrastructure IA enterprise / gouvernance agents | AJOUT |
+| Hypergraph Database | TECHNOLOGIE | catégorie | base de données hypergraphe pour raisonnement agents | AJOUT |
+| Hypergraph Database | TECHNOLOGIE | taux_hallucination | moins de 1% | AJOUT |
+| Gartner | ORGANISATION | rôle | cabinet analyse marché IT | AJOUT |
+| Azure AI Agent Service | TECHNOLOGIE | éditeur | Microsoft | AJOUT |
+| Google Vertex AI Agent Builder | TECHNOLOGIE | éditeur | Google | AJOUT |
+| AWS Bedrock | TECHNOLOGIE | éditeur | Amazon | AJOUT |
+| Decision Layer | CONCEPT | catégorie | couche raisonnement séparée de l'orchestration LLM | AJOUT |

@@ -70,7 +70,7 @@
 ## Relations (comme objet)
 
 - [[kb/Shopify\|Shopify]] **adopte** → MCP-UI — 0.97
-- [[kb/_entites-mineures#Goose\|Goose]] **supporte** → MCP-UI — 0.97
+- [[kb/goose\|Goose]] **supporte** → MCP-UI — 0.97
 - [[kb/Ido-Salomon\|Ido Salomon]] **a_créé** → MCP-UI — 0.95
 - [[kb/Liad-Yosef\|Liad Yosef]] **a_créé** → MCP-UI — 0.95
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] **adopte** → MCP-UI — 0.95

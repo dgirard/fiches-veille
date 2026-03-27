@@ -45,3 +45,31 @@ Les effets de second ordre observés chez Every sont fascinants :
 4.  **Culture de la Démo** : Le coût de prototypage tendant vers zéro, on ne demande plus la permission via des slides. On construit le prototype pour prouver l'idée ("Show, don't tell").
 
 Shipper décrit une organisation fluide, où les barrières techniques s'effondrent, permettant une créativité et une vitesse d'exécution inédites.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Dan Shipper | PERSONNE | a_fondé | Every | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | a_inventé | Compounding Engineering | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Compounding Engineering | CONCEPT | s_oppose_à | développement traditionnel | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Compounding Engineering | CONCEPT | suit_la_boucle | Plan-Delegate-Assess-Codify | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Every | ORGANISATION | produit | Koala, Spiral, Monologue | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| produits Every | CONCEPT | sont_maintenus_par | un seul développeur | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| adoption 100% IA | CONCEPT | est_10x_supérieure_à | adoption 90% IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | permet | codage avec attention fracturée | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | permet | partage connaissance tacite | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| culture de la démo | CONCEPT | remplace | culture du mémo/slide | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | affirme_que | managers peuvent commiter du code de prod | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Dan Shipper | PERSONNE | rôle | Fondateur et CEO d'Every | AJOUT |
+| Every | ORGANISATION | secteur | Médias / Logiciels IA | AJOUT |
+| Every | ORGANISATION | attribut | 15 personnes, 4 produits, 6 business units | AJOUT |
+| Compounding Engineering | CONCEPT | définition | Ingénierie où chaque feature rend la suivante plus facile | AJOUT |
+| Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI utilisé chez Every | AJOUT |

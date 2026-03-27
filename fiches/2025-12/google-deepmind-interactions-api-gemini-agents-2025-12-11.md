@@ -48,3 +48,35 @@ L'annonce inclut également la disponibilité de Gemini Deep Research en préver
 Les développeurs soulignent que cette version n'est qu'un début, avec des plans d'expansion des agents intégrés et le support du développement d'agents personnalisés. L'API est positionnée comme complémentaire au endpoint generateContent existant, qui reste recommandé pour les charges de production standard nécessitant des réponses directes.
 
 L'intégration est déjà disponible via l'Agent Development Kit (ADK) et le protocole Agent2Agent (A2A), avec une adoption plus large de l'écosystème attendue prochainement. Cette annonce s'inscrit dans la tendance plus large de l'industrie vers des interfaces standardisées pour agents, rejoignant les efforts d'autres acteurs autour du protocole MCP.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| Google DeepMind | ORGANISATION | a_lancé | Interactions API | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | unifie | modèles et agents Gemini | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | supporte | protocole MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | permet | gestion d'état côté serveur | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | permet | exécution en arrière-plan | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Gemini Deep Research | TECHNOLOGIE | est_accessible_via | Interactions API | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Ali Çevik | PERSONNE | a_co-présenté | Interactions API | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Philipp Schmid | PERSONNE | a_co-présenté | Interactions API | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | s_intègre_avec | Agent Development Kit (ADK) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | s_intègre_avec | protocole Agent2Agent (A2A) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | complète | endpoint generateContent | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Google DeepMind | ORGANISATION | secteur | IA / Recherche | AJOUT |
+| Interactions API | TECHNOLOGIE | catégorie | API unifiée modèles et agents | AJOUT |
+| Interactions API | TECHNOLOGIE | statut | Bêta publique | AJOUT |
+| Gemini Deep Research | TECHNOLOGIE | catégorie | Agent de recherche intégré | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Protocole de contexte pour modèles | AJOUT |
+| Agent Development Kit (ADK) | TECHNOLOGIE | catégorie | Kit de développement d'agents | AJOUT |
+| Agent2Agent (A2A) | TECHNOLOGIE | catégorie | Protocole inter-agents | AJOUT |
+| Ali Çevik | PERSONNE | rôle | Co-auteur article | AJOUT |
+| Philipp Schmid | PERSONNE | rôle | Co-auteur article | AJOUT |

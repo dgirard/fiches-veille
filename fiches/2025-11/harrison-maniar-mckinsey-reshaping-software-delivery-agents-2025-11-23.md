@@ -46,3 +46,34 @@ Pour débloquer la valeur, McKinsey identifie chez les "Top Performers" une tran
 Ils présentent une étude de cas d'une banque internationale ayant réorganisé ses équipes autour de workflows spécifiques (bug fixing vs greenfield) et utilisé des agents pour l'assignation des tâches et la vérification de conformité, résultant en une augmentation de 51% des fusions de code (merges).
 
 L'intervention insiste lourdement sur la **gestion du changement**. La technologie seule ne suffit pas ; 70% des entreprises n'ont pas encore adapté leurs fiches de poste. Le succès dépend d'une approche holistique incluant la formation ("upskilling"), la redéfinition des incitations (certifications, carrières) et une mesure rigoureuse de l'impact (au-delà de la simple adoption, en regardant la vitesse de livraison, la qualité et les résultats économiques). L'avenir appartient aux organisations capables de "recâbler" leur modèle opérationnel pour une collaboration homme-agent symbiotique.
+
+## GrapheDeConnaissance
+
+### Triples
+
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
+|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
+| McKinsey | ORGANISATION | affirme_que | modèle Agile | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| modèle Agile | METHODOLOGIE | atteint_ses_limites | agents IA | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Martin Harrison | PERSONNE | est_partenaire_de | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Natasha Maniar | PERSONNE | est_partenaire_de | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Spec-driven development | METHODOLOGIE | remplace | Story-driven development | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | génère | dette technique | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| One pizza pods | CONCEPT | remplace | Two pizza teams | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+| revue de code manuelle | CONCEPT | devient_goulot_étranglement | développement IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AI Native Workflows | METHODOLOGIE | augmente | fusions de code | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| gestion du changement | CONCEPT | conditionne | succès transformation IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Product Managers | CONCEPT | prototypent_en_code | grâce aux agents IA | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| entreprises top performers | CONCEPT | adoptent | workflows AI Native | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+
+### Entités
+
+| Entité | Type | Attribut | Valeur | Action |
+|--------|------|----------|--------|--------|
+| Martin Harrison | PERSONNE | rôle | Partner, McKinsey | AJOUT |
+| Natasha Maniar | PERSONNE | rôle | Partner, McKinsey | AJOUT |
+| McKinsey | ORGANISATION | secteur | Conseil en management | AJOUT |
+| Spec-driven development | METHODOLOGIE | catégorie | Workflow de développement AI Native | AJOUT |
+| AI Native Workflows | METHODOLOGIE | catégorie | Processus de développement logiciel augmenté par IA | AJOUT |
+| One pizza pods | CONCEPT | taille | 3-5 personnes | AJOUT |
+| Two pizza teams | CONCEPT | taille | 8-10 personnes | AJOUT |
