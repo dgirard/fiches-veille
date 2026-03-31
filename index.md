@@ -8,8 +8,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Mars 2026
 
+- **[2026-03-31]** [Compound Engineering: 3/31/2026](fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31.md) - Review obligatoire, scoring confiance -49% faux positifs, ce:work prompts bruts - X (Trevin Chow)
 - **[2026-03-27]** [Does LLMs / Vibe coding mean more or fewer developers?](fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27.md) - Paradoxe Jevons, effet Reine Rouge, sysadmin→DevOps, Human-AI integrator - LinkedIn (Simon Wardley)
 - **[2026-03]** [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - 7000 utilisateurs, 4 piliers, cloud souverain S3NS, Champions IA - Deep Research
+- **[2026-03-19]** [The Age of Open Agentic Commerce](fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19.md) - Protocoles x402/mpp, micropaiements stablecoins, fin pub, AOL vs HTTP - Merit Systems (Sam Ragsdale)
 - **[2026-03-17]** [Rebuttal to Marc Andreessen on Introspection](fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17.md) - Réfutation historique introspection, Socrate à Bezos, rumination vs introspection - X (Riley Ralmuto)
 - **[2026-03-14]** [What is a Developer When We Use Coding Agents?](fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14.md) - Expérience BMAD 1 jour, rôle développeur, problème des 70%, Agent Supervisor - Blog Mornati
 - **[2026-03-11]** [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Moment kilowatt-heure, fin heure-cerveau, equation valeur computation - LinkedIn (Philippe Ensarguet)
@@ -263,6 +265,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ## Thématiques
 
 ### Agents de codage IA & Skills
+- [Compound Engineering: 3/31/2026](fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31.md) - Trevin Chow
 - [CLI vs IDE : l'environnement de developpement s'effondre](fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09.md) - Cobus Greyling
 - [Compound Engineering: How Every Codes With Agents](fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11.md) - Dan Shipper & Kieran Klaassen (Every)
 - [Codified Context: Infrastructure for AI Agents](fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24.md) - Aristidis Vasilopoulos (arXiv)
@@ -411,6 +414,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [The Age of Open Agentic Commerce](fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19.md) - Sam Ragsdale (Merit Systems)
 - [Logiciels et cloud : prédateurs budgets IT](fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md) - Guillaume Geudin (CIO Online)
 - [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Philippe Ensarguet
 - [Agentic Commerce Optimization : guide technique ACP/UCP Google](fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23.md) - Nicolas Marette (Custplace)
@@ -504,7 +508,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 205
+- **Total d'articles** : 207
 - **Période couverte** : Janvier 2019 - Mars 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (3), Martin Fowler (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter).
