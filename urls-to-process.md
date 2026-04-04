@@ -115,4 +115,6 @@ URLs non accessibles:
 - https://github.com/obra/superpowers (fiche créée: vincent-superpowers-agentic-skills-framework-github-2026-04-02.md)
 -->
 
-https://tidyfirst.substack.com/p/starving-genies
+<!-- URLs traitées le 2026-04-04:
+- https://tidyfirst.substack.com/p/starving-genies (fiche créée: beck-starving-genies-usage-limits-ai-coding-2026-04-03.md)
+-->
