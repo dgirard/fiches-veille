@@ -118,3 +118,5 @@ URLs non accessibles:
 <!-- URLs traitées le 2026-04-04:
 - https://tidyfirst.substack.com/p/starving-genies (fiche créée: beck-starving-genies-usage-limits-ai-coding-2026-04-03.md)
 -->
+
+https://www.ou.edu/russell/UGcomp/Kerr.pdf
