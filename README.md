@@ -2,36 +2,42 @@
 
 Documentation personnelle de veille technologique sur l'intelligence artificielle, les agents de codage, et l'évolution du développement logiciel.
 
-## 📋 Vue d'ensemble
+## Vue d'ensemble
 
 Ce dépôt contient une collection de fiches d'analyse d'articles techniques, organisées par mois de publication et classées par thématiques. L'objectif est de suivre l'évolution rapide de l'écosystème IA et son impact sur l'ingénierie logicielle.
 
-**Période couverte** : Juin 2023 - Novembre 2025
-**Total d'articles** : 114 fiches
+**Période couverte** : Janvier 2019 - Avril 2026
+**Total d'articles** : 212 fiches
+**Knowledge Base** : 1431 entités, 2731 triples
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
-fiches-veille/
+veille/
 ├── index.md                    # Index principal avec liens vers toutes les fiches
 ├── fiches/                     # Fiches organisées par mois de publication
-│   ├── 2023-06/
-│   ├── 2024-04/
-│   ├── 2024-07/
-│   ├── 2024-10/
-│   ├── 2025-01/ à 2025-11/
+│   ├── 2019-01/
+│   ├── 2023-06/ à 2023-10/
+│   ├── 2024-04/ à 2024-10/
+│   ├── 2025-01/ à 2025-12/
+│   └── 2026-01/ à 2026-04/
+├── kb/                         # Knowledge base générée (entités, index par type)
+├── knowledge-base.md           # Dashboard KB (entités, triples, navigation)
 ├── docs/                       # Documentation et analyses complémentaires
 ├── raw-data/                   # Contenu brut des articles (ignoré par git)
-├── scripts/                    # Scripts d'extraction et conversion
-│   ├── fetch_urls.py          # Extraction des URLs
-│   └── download_raw_data.py   # Téléchargement contenu brut
-├── mobile-share/              # URLs collectées depuis mobile
-├── CLAUDE.md                  # Instructions pour Claude Code
-├── gemini.md                  # Instructions pour Gemini
-└── urls-to-process.md         # URLs en attente de traitement
+├── scripts/                    # Scripts d'extraction, conversion et KB
+│   ├── fetch_urls.py           # Extraction des URLs des fiches
+│   ├── download_raw_data.py    # Téléchargement et conversion en markdown
+│   ├── build_knowledge_base.py # Construction du knowledge graph
+│   ├── check_missing.py        # Vérification des fiches manquantes
+│   └── list_missing_kg.sh      # Détection des fiches sans GrapheDeConnaissance
+├── mobile-share/               # App Flutter pour capturer des URLs depuis mobile
+├── CLAUDE.md                   # Instructions pour Claude Code
+├── gemini.md                   # Instructions pour Gemini
+└── urls-to-process.md          # URLs en attente de traitement
 ```
 
-## 🎯 Thématiques principales
+## Thématiques principales
 
 ### Agents de codage IA & Skills
 Méthodologies, frameworks et retours d'expérience sur l'utilisation d'agents IA pour le développement logiciel.
@@ -57,7 +63,16 @@ Wardley Mapping, frameworks d'adoption, playbooks organisationnels.
 ### Outils & Plateformes
 Claude Code, Gemini CLI, Deepnote, Linear et autres outils AI-first.
 
-## 📝 Format des fiches
+### Recherche & Éducation
+Publications académiques, benchmarks et ressources éducatives.
+
+### Produits & Services
+Lancements de produits, plateformes et services IA.
+
+### Politique & Régulation
+Politiques publiques, régulation de l'IA et cadres légaux.
+
+## Format des fiches
 
 Chaque fiche suit un format standardisé :
 
@@ -72,42 +87,56 @@ Chaque fiche suit un format standardisé :
 ## Ton
 ## Pense-betes
 ## RésuméDe400mots
+## GrapheDeConnaissance
 ```
+
+Chaque fiche inclut un graphe de connaissance structuré (triples sujet-prédicat-objet et entités typées) qui alimente la knowledge base.
 
 **Langue** : Toutes les fiches sont rédigées en français (sauf titre original et noms d'auteurs).
 
-## 🔍 Principales sources
+## Principales sources
 
-- **Blogs techniques** : One Useful Thing (Ethan Mollick), Pragmatic Engineer, RedMonk
-- **Organisations** : Anthropic, Google, Stanford, a16z, DeepMind, OpenAI
-- **Plateformes** : LinkedIn, Medium, GitHub, YouTube
-- **Recherche** : Harvard Business Review, Wharton, METR, Apollo Academy
-- **Entreprises** : HubSpot, Block/Square, Netflix, Xebia
+- **Blogs techniques** : One Useful Thing (Ethan Mollick), Pragmatic Engineer, RedMonk, martinfowler.com
+- **Organisations** : Anthropic, Google, Stanford, a16z, DeepMind, OpenAI, Mistral AI
+- **Plateformes** : LinkedIn, Medium, GitHub, YouTube, Substack
+- **Recherche** : Harvard Business Review, Wharton, METR, Apollo Academy, arXiv
+- **Entreprises** : HubSpot, Block/Square, Netflix, Xebia, Stripe, Cloudflare, Replit
 
-## 👥 Auteurs principaux suivis
+## Auteurs principaux suivis
 
-- **Ethan Mollick** (6 articles) - Adoption IA, productivité, stratégie
-- **Google** (6 articles) - Infrastructure, outils, recherche
-- **Anthropic** (6 articles) - Claude, sécurité, mesure de biais
+- **Google** (10 articles) - Infrastructure, outils, recherche
+- **Anthropic** (9 articles) - Claude, sécurité, mesure de biais
+- **Ethan Mollick** (8 articles) - Adoption IA, productivité, stratégie
+- **OpenAI** (4 articles) - Modèles, recherche
+- **Martin Fowler** (2 articles) - Ingénierie logicielle, LLMs
+- **Tony Seale** (2 articles) - Knowledge graphs, ontologie, agent sémantique
+- **Stanford** (2 articles) - Recherche académique
+- **Alistair Gray** (2 articles) - Stripe Minions, agents de codage
+- **Lee Robinson** (2 articles) - Développement web, Vercel
 - **Kent Beck** (2 articles) - TDD, qualité, craftsmanship
 - **Jesse Vincent** (2 articles) - Méthodologie agents de codage
-- **Simon Willison** (2 articles) - Skills, MCP
-- **Kieran Klaassen** (2 articles) - Planning, engineering compounding
-- **Cobus Greyling** (2 articles) - Écosystème IA, coûts
 
-## 🚀 Workflow d'ajout d'article
+## Knowledge Base
 
-1. **Ajouter l'URL** dans `urls-to-process.md` ou `mobile-share/`
+Le dépôt intègre un knowledge graph construit automatiquement à partir des sections `GrapheDeConnaissance` de chaque fiche :
+
+- **1431 entités** typées (PERSONNE, ORGANISATION, TECHNOLOGIE, CONCEPT, METHODOLOGIE, EVENEMENT, LIEU, DOCUMENT)
+- **2731 triples** relationnels
+- Pages individuelles par entité avec backlinks dans `kb/`
+- Dashboard de navigation dans `knowledge-base.md`
+- Visualisation via le graph view d'Obsidian
+
+## Workflow d'ajout d'article
+
+1. **Ajouter l'URL** dans `urls-to-process.md` ou via l'app mobile (`mobile-share/`)
 2. **Créer la fiche** dans `fiches/YYYY-MM/identifiant.md`
 3. **Sauvegarder le contenu brut** dans `raw-data/identifiant.md`
-4. **Mettre à jour `index.md`** :
-   - Section "Articles par date de publication"
-   - Section "Thématiques" appropriée
-   - Statistiques (total, auteurs, sources)
+4. **Mettre à jour `index.md`** (chronologie, thématiques, statistiques)
+5. **Reconstruire la KB** avec `python3 scripts/build_knowledge_base.py`
 
 Voir [CLAUDE.md](CLAUDE.md) pour les instructions détaillées.
 
-## 🛠️ Scripts utiles
+## Scripts utiles
 
 ```bash
 # Extraire toutes les URLs des fiches
@@ -116,28 +145,40 @@ python3 scripts/fetch_urls.py
 # Télécharger et convertir le contenu brut
 python3 scripts/download_raw_data.py
 
+# Construire/reconstruire la knowledge base
+python3 scripts/build_knowledge_base.py
+
 # Vérifier les fiches manquantes
 python3 scripts/check_missing.py
+
+# Lister les fiches sans GrapheDeConnaissance
+bash scripts/list_missing_kg.sh
 ```
 
-## 📊 Statistiques actuelles
+## App mobile (mobile-share)
 
-- **114 articles** analysés
-- **Période** : Juin 2023 - Novembre 2025
-- **~40 auteurs** différents suivis
-- **~50 sources** documentées
-- **8 thématiques** principales
+Application Flutter/Dart pour capturer des URLs depuis le partage natif du téléphone et les synchroniser vers le dépôt GitHub. Architecture BLoC, stockage local SQLite.
 
-## 🔗 Liens utiles
+## Statistiques actuelles
+
+- **212 fiches** analysées
+- **Période** : Janvier 2019 - Avril 2026
+- **1431 entités** et **2731 triples** dans la knowledge base
+- **11 thématiques** principales
+- **60+ auteurs** suivis
+- **60+ sources** documentées
+
+## Liens utiles
 
 - [Index complet](index.md) - Toutes les fiches organisées
+- [Knowledge Base](knowledge-base.md) - Dashboard entités et triples
 - [CLAUDE.md](CLAUDE.md) - Instructions pour Claude Code
 - [Synthèse Juillet-Octobre 2025](SYNTHESE-JUILLET-OCTOBRE-2025.md)
 
-## 📜 Licence
+## Licence
 
 Documentation personnelle à usage interne.
 
 ---
 
-**Dernière mise à jour** : Novembre 2025
+**Dernière mise à jour** : Avril 2026
