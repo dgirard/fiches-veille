@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 82 relations | 32 fiches sources
+> **Type** : TECHNOLOGIE | 85 relations | 33 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,7 @@
 - **auto-écriture** : ~90% du code écrit par lui-même
 - **catégorie** : Agent de codage CLI
 - **date_création** : Septembre 2024
+- **fenêtre_contexte** : 1 million de tokens
 - **interface** : agent CLI terminal-first
 - **modèle économique** : Propriétaire, intégré à Claude Pro/Max
 - **revenus** : 500M$ annuels (run-rate)
@@ -136,6 +137,11 @@
 - [[kb/_entites-mineures#terminal-chat-CLI\|terminal chat CLI]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
 
+### est_post-entraîné_avec
+
+- [[kb/_entites-mineures#Harnais-dans-la-boucle\|Harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
 ### est_un
 
 - [[kb/_entites-mineures#agent-terminal-first\|agent terminal-first]] (CONCEPT) — 0.99, STATIQUE
@@ -168,6 +174,11 @@
 - [[kb/_entites-mineures#mode-conducteur\|mode conducteur]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Agents IA autonomes, évolution rôle développeurs, workflows asynchrones, orchestration multi-agents - Addy Osmani - Substack]]
 
+### incarne
+
+- [[kb/_entites-mineures#Pattern-modèle+harnais\|Pattern modèle+harnais]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### intègre
 
 - [[kb/_entites-mineures#abonnement-Claude-Pro-Max\|abonnement Claude Pro/Max]] (CONCEPT) — 0.93, DYNAMIQUE
@@ -177,6 +188,11 @@
 
 - [[kb/_entites-mineures#travail-supplémentaire-(27%)\|travail supplémentaire (27%)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
+
+### possède
+
+- [[kb/_entites-mineures#Fenêtre-de-contexte-de-1-million-de-tokens\|Fenêtre de contexte de 1 million de tokens]] (CONCEPT) — 0.98, DYNAMIQUE
+  - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 
 ### remplace
 
@@ -266,7 +282,7 @@
 - [[kb/SuperClaude\|SuperClaude]] **transforme** → Claude Code — 0.98
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Code — 0.97
 - [[kb/Anthropic\|Anthropic]] **a_publié** → Claude Code — 0.97
-- [[kb/compound-engineering\|compound engineering]] **utilise** → Claude Code — 0.97
+- [[kb/Compound-Engineering\|compound engineering]] **utilise** → Claude Code — 0.97
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] **est_utilisé_par** → Claude Code — 0.96
@@ -311,5 +327,6 @@
 - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|Guillermo Rauch - CLI comme abstraction fondamentale des agents de codage - Claude Code comme IA pour l'OS]]
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
 - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+- [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]

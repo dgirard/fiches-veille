@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 217 entités de type ORGANISATION
+> 219 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -97,7 +97,7 @@
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] — valorisation actuelle: 500 millions de dollars (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle / agents (1 occ., 1 fiches)
-- [[kb/LangChain\|LangChain]] — secteur: Outils développement agents IA (2 occ., 2 fiches)
+- [[kb/LangChain\|LangChain]] — secteur: Framework IA / Agents (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] — catégorie: Blog tech francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Legora\|Legora]] — secteur: Technologie juridique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lightning-AI\|Lightning AI]] — secteur: Outils IA / frameworks PyTorch (1 occ., 1 fiches)
@@ -107,6 +107,7 @@
 - [[kb/METR\|METR]] — nom complet: Model Evaluation & Threat Research (3 occ., 2 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] — rôle: organisation recherche partenaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] — secteur: Recherche universitaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#MIT-OpenCourseWare\|MIT OpenCourseWare]] — rôle: Diffusion cours MIT en accès libre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] — secteur: Recherche management et technologie (1 occ., 1 fiches)
 - [[kb/Manus\|Manus]] — spécialité: Agents IA autonomes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Maximor\|Maximor]] — catégorie: Startup finance IA (1 occ., 1 fiches)
@@ -114,6 +115,7 @@
 - [[kb/_entites-mineures#Meesho\|Meesho]] — secteur: Travel / E-commerce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meitu\|Meitu]] — secteur: Applications photo/vidéo IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Menlo-Ventures\|Menlo Ventures]] — secteur: Capital-risque (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
 - [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
 - [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (6 occ., 5 fiches)
@@ -140,7 +142,7 @@
 - [[kb/_entites-mineures#Office-of-Science-and-Technology-Policy\|Office of Science and Technology Policy]] — secteur: Science et technologie — exécutif américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
-- [[kb/OpenAI\|OpenAI]] — secteur: IA générative (16 occ., 16 fiches)
+- [[kb/OpenAI\|OpenAI]] — secteur: IA / Recherche (18 occ., 18 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/Perplexity\|Perplexity]] — secteur: IA / Moteur de recherche (4 occ., 4 fiches)
@@ -179,7 +181,7 @@
 - [[kb/Stanford-University\|Stanford University]] — secteur: Recherche IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Startups-AI-native\|Startups AI-native]] — caractéristique: Petite équipe générant des revenus massifs grâce au découplage taille/échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-Department\|State Department]] — secteur: Diplomatie américaine (1 occ., 1 fiches)
-- [[kb/Stripe\|Stripe]] — secteur: Paiements en ligne / Infrastructure financière (3 occ., 3 fiches)
+- [[kb/Stripe\|Stripe]] — secteur: Paiements / Fintech (4 occ., 4 fiches)
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] — date_fondation: 14 juillet 2025 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#SuperClaude-Org\|SuperClaude-Org]] — type: Communauté open source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TELUS\|TELUS]] — secteur: Télécommunications (1 occ., 1 fiches)
@@ -191,7 +193,7 @@
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] — secteur: Analyse / Conseil IT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Wharton-School\|The Wharton School]] — domaine: Recherche et éducation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#ThoughtWorks\|ThoughtWorks]] — secteur: Conseil en technologies / Développement logiciel (2 occ., 2 fiches)
+- [[kb/Thoughtworks\|Thoughtworks]] — secteur: Conseil en ingénierie logicielle (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] — type: Université américaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] — acte: Condamnation de l'averroïsme en 1270 et 1277 (1 occ., 1 fiches)

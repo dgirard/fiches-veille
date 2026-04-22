@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 61 relations | 32 fiches sources
+> **Type** : ORGANISATION | 63 relations | 32 fiches sources
 
 ## Attributs
 
@@ -111,6 +111,8 @@
 
 - [[kb/_entites-mineures#90%-du-code-Claude-Code-est-écrit-par-Claude-Code\|90% du code Claude Code est écrit par Claude Code]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
+- [[kb/_entites-mineures#Les-composants-du-harnais-encodent-des-hypothèses-qui-vieillissent\|Les composants du harnais encodent des hypothèses qui vieillissent]] (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 - [[kb/_entites-mineures#Skills-sont-intentionnellement-découvrables\|Skills sont intentionnellement découvrables]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 
@@ -208,6 +210,7 @@
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] **recommandée_par** → Anthropic — 0.92
+- [[kb/_entites-mineures#Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/OpenAI\|OpenAI]] **s_oppose_à** → Anthropic — 0.82
 

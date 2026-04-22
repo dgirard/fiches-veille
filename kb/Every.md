@@ -22,7 +22,7 @@
 
 ### pratique
 
-- [[kb/compound-engineering\|compound engineering]] (METHODOLOGIE) — 0.98, DYNAMIQUE
+- [[kb/Compound-Engineering\|compound engineering]] (METHODOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
 
 ### produit

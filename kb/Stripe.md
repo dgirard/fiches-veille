@@ -1,10 +1,10 @@
 # Stripe
 
-> **Type** : ORGANISATION | 10 relations | 3 fiches sources
+> **Type** : ORGANISATION | 11 relations | 4 fiches sources
 
 ## Attributs
 
-- **secteur** : Paiements en ligne / Infrastructure financière
+- **secteur** : Paiements / Fintech
 
 ## Relations (comme sujet)
 
@@ -51,9 +51,12 @@
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]]
 - [[kb/_entites-mineures#Ruby-avec-Sorbet\|Ruby avec Sorbet]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]]
+- [[kb/_entites-mineures#Pre-push-hooks-et-blueprints\|Pre-push hooks et blueprints]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
 ## Fiches sources
 
+- [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]

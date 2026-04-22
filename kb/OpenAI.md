@@ -1,12 +1,12 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 35 relations | 16 fiches sources
+> **Type** : ORGANISATION | 38 relations | 18 fiches sources
 
 ## Attributs
 
 - **produit** : ChatGPT
 - **rôle** : partenaire mentorat
-- **secteur** : IA générative
+- **secteur** : IA / Recherche
 - **statut financier** : non cash-flow positif avant fin de décennie
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
 
@@ -40,8 +40,15 @@
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 
+### a_produit
+
+- [[kb/_entites-mineures#1-million-de-lignes-de-code-sans-écriture-manuelle\|1 million de lignes de code sans écriture manuelle]] (EVENEMENT) — 0.95, STATIQUE
+  - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+
 ### a_publié
 
+- [[kb/_entites-mineures#Harness-engineering-leveraging-Codex-in-an-agent-first-world\|Harness engineering: leveraging Codex in an agent-first world]] (CONCEPT) — 0.99, STATIQUE
+  - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 - [[kb/_entites-mineures#GDPval-paper\|GDPval paper]] (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 
@@ -126,6 +133,11 @@
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.82, DYNAMIQUE
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|ChatGPT Agent - OpenAI - Agent autonome - Automatisation - VM semi-automatisée - Rebrand Operator]]
 
+### utilise
+
+- [[kb/_entites-mineures#Linters-custom-et-tests-structurels\|Linters custom et tests structurels]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ## Relations (comme objet)
 
 - [[kb/Shopify\|Shopify]] **collabore_avec** → OpenAI — 0.98
@@ -142,6 +154,7 @@
 - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 - [[fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01\|Apollo Academy - AI Safety - Research training - Alignment - Educational program - Technical safety]]
 - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|barron-ernst-rise-of-commerce-chatgpt-2025-11-08]]
+- [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
 - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
@@ -151,6 +164,7 @@
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|ChatGPT Agent - OpenAI - Agent autonome - Automatisation - VM semi-automatisée - Rebrand Operator]]
+- [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman - Neuralink - Board appointment - Conflict of interest - OpenAI - Brain-computer interface - Ethics]]

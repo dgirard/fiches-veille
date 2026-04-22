@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 30 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 3 fiches sources
 
 ## Attributs
 
@@ -105,6 +105,11 @@
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
 - [[kb/_entites-mineures#tâches-(pas-emplois-entiers)\|tâches (pas emplois entiers)]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
+
+### rendent_obsolète
+
+- [[kb/_entites-mineures#modèle-publicitaire-internet\|modèle publicitaire internet]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
 
 ### souffrent_de
 

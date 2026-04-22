@@ -1,10 +1,10 @@
 # subagents
 
-> **Type** : CONCEPT | 12 relations | 3 fiches sources
+> **Type** : CONCEPT | 13 relations | 4 fiches sources
 
 ## Attributs
 
-- **définition** : Assistants IA spécialisés avec context window séparé
+- **définition** : Agents délégués avec leur propre fenêtre de contexte propre
 - **usage** : Délégation de calcul intensif, maintien de la fenêtre de contexte principale
 
 ## Relations (comme sujet)
@@ -13,6 +13,11 @@
 
 - [[kb/_entites-mineures#préservation-du-contexte\|préservation du contexte]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents Claude Code - AI assistants spécialisés - Context management - Task delegation - Documentation Anthropic]]
+
+### offre
+
+- [[kb/_entites-mineures#Contexte-propre-isolé\|Contexte propre isolé]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 
 ### permettent
 
@@ -49,11 +54,12 @@
 - [[kb/Claude-Code\|Claude Code]] **supporte** → subagents — 0.99
 - [[kb/Claude-Code\|Claude Code]] **délègue_tâches_à** → subagents — 0.98
 - [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → subagents — 0.95
-- [[kb/compound-engineering\|compound engineering]] **utilise** → subagents — 0.95
+- [[kb/Compound-Engineering\|compound engineering]] **utilise** → subagents — 0.95
 - [[kb/_entites-mineures#MCP-Tools\|MCP Tools]] **accessibles_par** → subagents — 0.93
 
 ## Fiches sources
 
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
 - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents Claude Code - AI assistants spécialisés - Context management - Task delegation - Documentation Anthropic]]
+- [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]

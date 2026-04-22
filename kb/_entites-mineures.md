@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 1149 entités avec moins de 3 triples/fiches
+> 1192 entités avec moins de 3 triples/fiches
 
-## PERSONNE (210)
+## PERSONNE (217)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -364,6 +364,18 @@
 - [[kb/OpenAI\|OpenAI]] **emploie** → Bill Chen — 0.95
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+
+### Birgitta Böckeler {#Birgitta-Böckeler}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **expérience** : 20+ ans en développement logiciel, architecture et leadership technique
+- **rôle** : Distinguished Engineer, experte IA-assisted delivery chez Thoughtworks
+
+- **a_écrit** → [[kb/_entites-mineures#Harness-engineering-for-coding-agent-users\|Harness engineering for coding agent users]] (CONCEPT) — 0.99
+- **travaille_chez** → [[kb/Thoughtworks\|Thoughtworks]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
 ### Bouddha {#Bouddha}
 
@@ -1025,6 +1037,14 @@
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
 
+### Kief Morris {#Kief-Morris}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Collègue Thoughtworks, a proposé le lien avec la cybernétique
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ### Lance Martin {#Lance-Martin}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1429,6 +1449,16 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
 
+### Ned Letcher {#Ned-Letcher}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Collègue de Böckeler chez Thoughtworks
+
+- **a_créé** → [[kb/_entites-mineures#Ambient-affordances\|Ambient affordances]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ### Nicolas Bustamante {#Nicolas-Bustamante}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1704,6 +1734,16 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
+### Sam Ragsdale {#Sam-Ragsdale}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur, Merit Systems
+
+- **affirme_que** → [[kb/_entites-mineures#commerce-agentique-ouvert-supérieur-aux-plateformes-fermées\|commerce agentique ouvert supérieur aux plateformes fermées]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
 ### Samir Mody {#Samir-Mody}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1739,6 +1779,16 @@
 - **rôle** : Créateur de contenu Python/IA sur YouTube
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube - Educational content - AI tutorials - Online learning - Video education - Knowledge democratization - Creator economy]]
+
+### Seymour Papert {#Seymour-Papert}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Professeur MIT, pionnier constructionnisme
+
+- **a_démontré** → [[kb/_entites-mineures#usage-efficace-des-props-et-du-tableau\|usage efficace des props et du tableau]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
 
 ### Shawn Wang {#Shawn-Wang}
 
@@ -1931,6 +1981,17 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
 
+### Thariq {#Thariq}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Ingénieur Anthropic, expert Claude Code
+
+- **a_écrit** → [[kb/_entites-mineures#Guide-gestion-sessions-Claude-Code-1M\|Guide gestion sessions Claude Code 1M]] (CONCEPT) — 0.99
+- **travaille_chez** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
+
 ### Thierry Derouet {#Thierry-Derouet}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1971,15 +2032,15 @@
 
 **Fiches** : [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
 
-### Tony Seale {#Tony-Seale}
+### Trevin Chow {#Trevin-Chow}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
 
-- **rôle** : Consultant knowledge graph, auteur
+- **rôle** : Mainteneur Compound Engineering
 
-- **affirme_que** → [[kb/_entites-mineures#philosophie-mange-l'IA\|philosophie mange l'IA]] (CONCEPT) — 0.97
+- **maintient** → [[kb/Compound-Engineering\|Compound Engineering]] (TECHNOLOGIE) — 0.95
 
-**Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
 
 ### Vanessa Parli {#Vanessa-Parli}
 
@@ -2012,6 +2073,17 @@
 - **affirme_que** → [[kb/_entites-mineures#SecNumCloud-ne-supprime-pas-dépendance\|SecNumCloud ne supprime pas dépendance]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
+
+### Vivek Trivedy {#Vivek-Trivedy}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur chez LangChain
+
+- **a_écrit** → [[kb/_entites-mineures#The-Anatomy-of-an-Agent-Harness\|The Anatomy of an Agent Harness]] (CONCEPT) — 0.99
+- **travaille_chez** → [[kb/LangChain\|LangChain]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### Webb Wright {#Webb-Wright}
 
@@ -2140,7 +2212,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (167)
+## ORGANISATION (168)
 
 ### 10x {#10x}
 
@@ -2951,6 +3023,14 @@
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
 
+### MIT OpenCourseWare {#MIT-OpenCourseWare}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **rôle** : Diffusion cours MIT en accès libre
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
+
 ### MIT Sloan {#MIT-Sloan}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3012,6 +3092,14 @@
 - **a_publié** → [[kb/_entites-mineures#rapport-State-of-Generative-AI-2025\|rapport State of Generative AI 2025]] (EVENEMENT) — 0.98
 
 **Fiches** : [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|menlovc-state-generative-ai-enterprise-2025-12-09]]
+
+### Merit Systems {#Merit-Systems}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Infrastructure commerce agentique
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
 
 ### Michelin {#Michelin}
 
@@ -3646,18 +3734,6 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
-### ThoughtWorks {#ThoughtWorks}
-
-**Type** : ORGANISATION | 2 relations | 2 fiches
-
-- **secteur** : Conseil en technologies / Développement logiciel
-
-- **a_organisé** → [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] (EVENEMENT) — 0.95
-
-- [[kb/Martin-Fowler\|Martin Fowler]] **travaille_chez** → ThoughtWorks — 0.97
-
-**Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
-
 ### Trump Administration {#Trump-Administration}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3869,7 +3945,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (327)
+## TECHNOLOGIE (344)
 
 ### /mnt/skills {#mnt-skills}
 
@@ -4008,7 +4084,7 @@
 
 - **catégorie** : API messages pour LLM Claude
 
-- [[kb/_entites-mineures#Compaction\|Compaction]] **a_été_intégrée_dans** → API Anthropic — 0.92
+- [[kb/Compaction\|Compaction]] **a_été_intégrée_dans** → API Anthropic — 0.92
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
 
@@ -4024,13 +4100,14 @@
 
 ### AWS Bedrock {#AWS-Bedrock}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
+- **catégorie** : Plateforme IA/agents AWS
 - **éditeur** : Amazon
 
 - **s'appuie_sur** → [[kb/_entites-mineures#LLM-comme-décideur-de-facto\|LLM comme décideur de facto]] (CONCEPT) — 0.88
 
-**Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
+**Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### Adobe Photoshop {#Adobe-Photoshop}
 
@@ -4090,6 +4167,17 @@
 - **catégorie** : Protocole inter-agents
 
 **Fiches** : [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+
+### AgentCash {#AgentCash}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **agents** : 2000+ (10 jours post-lancement)
+- **description** : Balance unique + découverte marchands pour agents IA
+
+- **fournit** → [[kb/_entites-mineures#balance-unique-+-découverte-marchands\|balance unique + découverte marchands]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
 
 ### Agentic Commerce Protocol {#Agentic-Commerce-Protocol}
 
@@ -4276,18 +4364,6 @@
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **présente** → Auto-caching — 0.97
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens, design cache-friendly]]
-
-### AutoGen {#AutoGen}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **catégorie** : Framework agentique (orchestration)
-- **usage** : Framework prototypage agents IA
-
-- **manque** → [[kb/_entites-mineures#fondations-production\|fondations production]] (CONCEPT) — 0.85
-- **permet** → [[kb/_entites-mineures#prototypage-agents-IA\|prototypage agents IA]] (METHODOLOGIE) — 0.80
-
-**Fiches** : [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]], [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision - AI agents - Enterprise deployment - Platform - Agent orchestration - Enterprise AI - Production systems]]
 
 ### Azure AI Agent Service {#Azure-AI-Agent-Service}
 
@@ -4618,13 +4694,14 @@
 
 ### Context7 {#Context7}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
+- **catégorie** : Outil MCP pour accès aux connaissances à jour
 - **usage** : Consultation documentation officielle
 
 - **fait_partie_de** → [[kb/_entites-mineures#SuperClaude-MCP-integration\|SuperClaude MCP integration]] (TECHNOLOGIE) — 0.93
 
-**Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+**Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### Copilot AI {#Copilot-AI}
 
@@ -4633,17 +4710,6 @@
 - **catégorie** : Assistant IA Microsoft
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
-
-### CrewAI {#CrewAI}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Framework agentique (orchestration)
-
-- **manque** → [[kb/_entites-mineures#fondations-production\|fondations production]] (CONCEPT) — 0.85
-- **** → [[kb/_entites-mineures#Framework-orchestration-agents\|Framework orchestration agents]] (AJOUT) — 0.00
-
-**Fiches** : [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
 
 ### Cursor YOLO mode {#Cursor-YOLO-mode}
 
@@ -4828,6 +4894,20 @@
 - [[kb/Linear\|Linear]] **intègre** → Figma — 0.93
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]], [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
+
+### Frameworks d'agents {#Frameworks-d'agents}
+
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+
+- **catégorie** : Plateformes d'orchestration d'agents (état machine, routage, graphes)
+
+- **sont** → [[kb/_entites-mineures#Phase-transitoire\|Phase transitoire]] (CONCEPT) — 0.90
+
+- [[kb/AutoGen\|AutoGen]] **fait_partie_de** → Frameworks d'agents — 0.95
+- [[kb/CrewAI\|CrewAI]] **fait_partie_de** → Frameworks d'agents — 0.95
+- [[kb/LangGraph\|LangGraph]] **fait_partie_de** → Frameworks d'agents — 0.95
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### GCC {#GCC}
 
@@ -5127,6 +5207,14 @@
 
 **Fiches** : [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 
+### Google ADK {#Google-ADK}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Agent Development Kit Google
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### Google AI Studio {#Google-AI-Studio}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5290,6 +5378,14 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
 
+### HTTP 402 {#HTTP-402}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Code statut Payment Required créé en 1997, jamais implémenté
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
 ### Haiku 4.5 {#Haiku-4.5}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5323,6 +5419,14 @@
 - [[kb/Google\|Google]] **intègre** → Help me write — 0.99
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+
+### Hermes {#Hermes}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Harnais d'agent de pointe
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### HubSpot Customer Platform {#HubSpot-Customer-Platform}
 
@@ -5516,17 +5620,6 @@
 - **est_basé_sur** → [[kb/_entites-mineures#GenAI-models\|GenAI models]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
-
-### LangGraph {#LangGraph}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Framework agentique (orchestration)
-
-- **manque** → [[kb/_entites-mineures#fondations-production\|fondations production]] (CONCEPT) — 0.85
-- **** → [[kb/_entites-mineures#Framework-orchestration-agents\|Framework orchestration agents]] (AJOUT) — 0.00
-
-**Fiches** : [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
 
 ### LangGraph Platform {#LangGraph-Platform}
 
@@ -5968,6 +6061,14 @@
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo]]
 
+### OpenAI Agents SDK {#OpenAI-Agents-SDK}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : SDK d'agents OpenAI
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### OpenAI Codex {#OpenAI-Codex}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6008,6 +6109,17 @@
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
 
+### OpenClaw {#OpenClaw}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Harnais d'agent de pointe
+
+- **** → [[kb/_entites-mineures#24-7-en-environnement-persistant\|24/7 en environnement persistant]] (CONCEPT) — 0.92
+- **** → [[kb/_entites-mineures#Agent-IA-persistant-24-7\|Agent IA persistant 24/7]] (AJOUT) — 0.00
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### OpenSMTPD {#OpenSMTPD}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -6039,6 +6151,16 @@
 - [[kb/ChatGPT-Agent\|ChatGPT Agent]] **remplace** → Operator — 0.97
 
 **Fiches** : [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|ChatGPT Agent - OpenAI - Agent autonome - Automatisation - VM semi-automatisée - Rebrand Operator]]
+
+### Opus 4.6 {#Opus-4.6}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle de langage Anthropic
+
+- **score_différemment_dans** → [[kb/_entites-mineures#Différents-harnais\|Différents harnais]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### PDM {#PDM}
 
@@ -6428,6 +6550,14 @@
 
 **Fiches** : [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
+### Semantic Kernel {#Semantic-Kernel}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Framework d'agents Microsoft
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### Sentry {#Sentry}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6566,6 +6696,16 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
+### Stablecoins {#Stablecoins}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **avantage** : Coûts de transaction sub-cent
+
+- **résolvent** → [[kb/_entites-mineures#problème-micropaiements-1997\|problème micropaiements 1997]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
 ### StackSpot {#StackSpot}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -6641,6 +6781,14 @@
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
 
+### Terminal Bench 2.0 {#Terminal-Bench-2.0}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Benchmark pour agents de codage
+
+**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
 ### Tesla Optimus {#Tesla-Optimus}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -6658,6 +6806,14 @@
 - [[kb/Scout\|Scout]] **comprend** → Test Generator — 0.90
 
 **Fiches** : [[fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23\|Support technique autonome livrant du code - Résolution de l'érosion applicative - Zapier ingénierie]]
+
+### Tests structurels {#Tests-structurels}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Tests de type ArchUnit validant les contraintes architecturales
+
+**Fiches** : [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 
 ### Think with Google {#Think-with-Google}
 
@@ -6932,6 +7088,47 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens, design cache-friendly]]
 
+### ce:brainstorm {#ce-brainstorm}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Skill de brainstorming avec vérification état technique
+
+- **corrige** → [[kb/_entites-mineures#bug-vérification-fichiers-techniques-Phase-1.1\|bug vérification fichiers techniques Phase 1.1]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
+
+### ce:compound {#ce-compound}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Skill de documentation de solutions avec schema par track
+
+- **adopte** → [[kb/_entites-mineures#schema-track-based-bug-vs-knowledge\|schema track-based bug vs knowledge]] (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
+
+### ce:plan {#ce-plan}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Skill de planification avec deepening interactif
+
+- **ajoute** → [[kb/_entites-mineures#mode-deepening-interactif\|mode deepening interactif]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
+
+### ce:work {#ce-work}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **description** : Skill d'exécution de plans avec découverte de tests
+
+- **accepte** → [[kb/_entites-mineures#prompts-bruts-sans-plan\|prompts bruts sans plan]] (METHODOLOGIE) — 0.95
+- **intègre** → [[kb/_entites-mineures#découverte-universelle-de-tests\|découverte universelle de tests]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
+
 ### chunking {#chunking}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -6995,6 +7192,16 @@
 - **évolue_vers** → [[kb/_entites-mineures#truth-registry\|truth registry]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
+
+### deepagents {#deepagents}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Bibliothèque de construction de harnais LangChain
+
+- [[kb/LangChain\|LangChain]] **développe** → deepagents — 0.95
+
+**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### format .deepnote {#format-.deepnote}
 
@@ -7094,6 +7301,16 @@
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com]]
 
+### mpp {#mpp}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Protocole micropaiement par Tempo + Stripe
+
+- **a_été_créé_par** → [[kb/_entites-mineures#Tempo-et-Stripe\|Tempo et Stripe]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
 ### n8n {#n8n}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7173,6 +7390,16 @@
 - [[kb/MCP-UI\|MCP-UI]] **utilise** → remote DOM — 0.93
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com]]
+
+### resolve-pr-feedback {#resolve-pr-feedback}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Skill de résolution feedback PR avec clustering
+
+- **clusterise** → [[kb/_entites-mineures#commentaires-PR-similaires\|commentaires PR similaires]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
 
 ### sandboxed iframes {#sandboxed-iframes}
 
@@ -7313,6 +7540,16 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
 
+### x402 {#x402}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Protocole paiement agentique par Coinbase, basé sur HTTP 402
+
+- **a_été_créé_par** → [[kb/_entites-mineures#Coinbase\|Coinbase]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
 ### ~/.claude/skills {#~-.claude-skills}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7323,7 +7560,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (295)
+## CONCEPT (310)
 
 ### AI Orchestrator {#AI-Orchestrator}
 
@@ -7482,6 +7719,16 @@
 
 **Fiches** : [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Paradoxe de Jevons appliqué aux développeurs, effet Reine Rouge, évolution sysadmin→DevOps comme analogie]]
 
+### Ambient affordances {#Ambient-affordances}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Propriétés structurelles rendant un environnement lisible et navigable par les agents
+
+- [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] **a_créé** → Ambient affordances — 0.90
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ### Archétypes d'équipes {#Archétypes-d'équipes}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -7560,6 +7807,18 @@
 - **bloque** → [[kb/_entites-mineures#développement-ChatGPT-Apps\|développement ChatGPT Apps]] (METHODOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
+
+### Capteurs feedback {#Capteurs-feedback}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Contrôles observationnels permettant l'auto-correction après action
+
+- **permet** → [[kb/_entites-mineures#Auto-correction-de-l'agent\|Auto-correction de l'agent]] (CONCEPT) — 0.90
+
+- [[kb/Harness-engineering\|Harness engineering]] **utilise** → Capteurs feedback — 0.98
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
 ### Citizen Developers {#Citizen-Developers}
 
@@ -7791,6 +8050,24 @@
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
 
+### Formule K×P×t {#Formule-K×P×t}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **description** : Qualité communication = Knowledge × Practice × talent (t petit)
+
+- [[kb/Patrick-Winston\|Patrick Winston]] **a_créé** → Formule K×P×t — 0.95
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
+
+### Garbage collection (code) {#Garbage-collection-(code)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Tâches récurrentes de scan et correction automatique de déviations
+
+**Fiches** : [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+
 ### GenAI Landing Zone {#GenAI-Landing-Zone}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -7830,6 +8107,47 @@
 - **rôle** : Cas test révélateur de biais d'évaluation des modèles
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
+
+### Guides feedforward {#Guides-feedforward}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Contrôles anticipatifs qui dirigent l'agent avant qu'il n'agisse
+
+- **augmente** → [[kb/_entites-mineures#Probabilité-de-bons-résultats\|Probabilité de bons résultats]] (CONCEPT) — 0.90
+
+- [[kb/Harness-engineering\|Harness engineering]] **utilise** → Guides feedforward — 0.98
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### Hapax legomenon {#Hapax-legomenon}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Slide volontairement illisible, autorisé une seule fois par présentation
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
+
+### Harnachabilité {#Harnachabilité}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Degré auquel une codebase est apte au harnachage par des agents
+
+- **dépend_de** → [[kb/_entites-mineures#Typage-fort-et-modularité\|Typage fort et modularité]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### Harnais d'agent {#Harnais-d'agent}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Tout ce qui n'est pas le modèle dans un agent, incluant outils et logique d'exécution
+
+- **se_définit_comme** → [[kb/_entites-mineures#Tout-sauf-le-modèle-dans-un-agent\|Tout sauf le modèle dans un agent]] (CONCEPT) — 0.98
+- **est_symétrique_à** → [[kb/_entites-mineures#Ontologie\|Ontologie]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### Harness {#Harness}
 
@@ -7929,6 +8247,16 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
 
+### Loi d'Ashby {#Loi-d'Ashby}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **domaine** : Cybernétique - loi de la variété requise
+
+- **justifie** → [[kb/_entites-mineures#Templates-de-harnais\|Templates de harnais]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ### Mexican standoff {#Mexican-standoff}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -7938,6 +8266,14 @@
 - **bloque** → [[kb/_entites-mineures#développement-produit\|développement produit]] (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs]]
+
+### Moat ontologique {#Moat-ontologique}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Avantage compétitif durable par la connaissance structurée propre à l'organisation
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### Model Behavior {#Model-Behavior}
 
@@ -7978,6 +8314,19 @@
 - **remplace** → [[kb/_entites-mineures#Two-pizza-teams\|Two pizza teams]] (CONCEPT) — 0.80
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
+
+### Ontologie {#Ontologie}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Interface de compréhension de la donnée définissant entités, propriétés et relations
+
+- **définit** → [[kb/_entites-mineures#Ce-qui-existe,-ses-propriétés-et-relations\|Ce qui existe, ses propriétés et relations]] (CONCEPT) — 0.95
+- **permet** → [[kb/_entites-mineures#raisonnement-machine-sur-sémantique-métier\|raisonnement machine sur sémantique métier]] (CONCEPT) — 0.95
+
+- [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] **est_symétrique_à** → Ontologie — 0.92
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### Organisation AI-First {#Organisation-AI-First}
 
@@ -8092,6 +8441,16 @@
 
 **Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Révision RGPD via Digital Omnibus : redéfinition données sensibles, élargissement intérêt légitime, affaiblissement droits individuels. Enjeux gouvernance données et IA. IT for Business, enquête réglementaire européenne.]]
 
+### Rewind {#Rewind}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Retour à un message précédent en supprimant les messages suivants du contexte (double Esc)
+
+- **est_recommandé_comme** → [[kb/_entites-mineures#Meilleur-réflexe-de-gestion-de-contexte\|Meilleur réflexe de gestion de contexte]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
+
 ### Rumination {#Rumination}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8125,6 +8484,16 @@
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|Nvidia stratégie software, SLMs workflows agentiques, Nemotron Nano, DGX Spark workstation, data flywheel fine-tuning, hardware moat, vision-RAG - Cobus Greyling - Medium]]
 
+### Scaffolding {#Scaffolding}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Structures de support transitoires autour des modèles qui doivent diminuer à mesure que l'intelligence augmente
+
+- **doit_diminuer_avec** → [[kb/_entites-mineures#Amélioration-des-modèles\|Amélioration des modèles]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
 ### Scenario {#Scenario}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8144,6 +8513,16 @@
 - **résulte_de** → [[kb/_entites-mineures#incitations-organisationnelles-inadaptées\|incitations organisationnelles inadaptées]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
+
+### Semantic Agent {#Semantic-Agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Agent combinant (modèle + harnais) et (ontologie + données) pour passer de la génération à la compréhension
+
+- **se_compose_de** → [[kb/_entites-mineures#Model-+-Harness-+-Ontology-+-Data\|Model + Harness + Ontology + Data]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### Share Of Answers {#Share-Of-Answers}
 
@@ -8751,7 +9130,7 @@
 
 ### context engineering {#context-engineering}
 
-**Type** : CONCEPT | 4 relations | 1 fiches
+**Type** : CONCEPT | 5 relations | 1 fiches
 
 - **définition** : Art et science de remplir la fenêtre de contexte LLM avec les bonnes informations (définition Karpathy)
 
@@ -8760,6 +9139,7 @@
 - [[kb/DICE\|DICE]] **est_basé_sur** → context engineering — 0.98
 - [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_défini** → context engineering — 0.97
 - [[kb/DICE\|DICE]] **améliore** → context engineering — 0.97
+- [[kb/Harness-engineering\|Harness engineering]] **est_une_forme_de** → context engineering — 0.95
 
 **Fiches** : [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
 
@@ -10261,6 +10641,14 @@
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### Étoile de Winston {#Étoile-de-Winston}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : 5 S : Symbol, Slogan, Surprise, Salient idea, Story
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
+
 ### écart adoption IA {#écart-adoption-IA}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -10313,7 +10701,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (118)
+## METHODOLOGIE (121)
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -10374,6 +10762,14 @@
 
 **Fiches** : [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains, commerce agentique émergent - Riskified - e-commerce - IA shopping]]
 
+### Approved fixtures {#Approved-fixtures}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Pattern de test pour harnais comportemental
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
 ### Blueprints {#Blueprints}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -10418,16 +10814,20 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
 
-### Compaction {#Compaction}
+### Context engineering {#Context-engineering}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 5 relations | 1 fiches
 
-- **description** : Résumé cache-safe réutilisant le même préfixe que la conversation parente
+- **catégorie** : Ingénierie du contexte fourni aux agents IA
 
-- **doit_réutiliser** → [[kb/_entites-mineures#même-system-prompt-et-outils\|même system prompt et outils]] (CONCEPT) — 0.96
-- **a_été_intégrée_dans** → [[kb/_entites-mineures#API-Anthropic\|API Anthropic]] (TECHNOLOGIE) — 0.92
+- **améliore** → [[kb/_entites-mineures#prompt-engineering\|prompt engineering]] (CONCEPT) — 0.95
 
-**Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
+- [[kb/DICE\|DICE]] **est_basé_sur** → Context engineering — 0.98
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_défini** → Context engineering — 0.97
+- [[kb/DICE\|DICE]] **améliore** → Context engineering — 0.97
+- [[kb/Harness-engineering\|Harness engineering]] **est_une_forme_de** → Context engineering — 0.95
+
+**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
 ### Contribution Stack {#Contribution-Stack}
 
@@ -10498,6 +10898,14 @@
 - [[kb/ACE\|ACE]] **est_basé_sur** → Dynamic Cheatsheet — 0.95
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
+
+### Empowerment promise {#Empowerment-promise}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Déclarer ce que l'audience saura à la fin
+
+**Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
 
 ### FSRS {#FSRS}
 
@@ -10726,6 +11134,16 @@
 - [[kb/Superpowers\|Superpowers]] **applique** → RED/GREEN TDD — 0.95
 
 **Fiches** : [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+
+### Ralph Loop {#Ralph-Loop}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Pattern de harnais réinjectant le prompt dans un contexte propre pour forcer la continuation
+
+- **intercepte** → [[kb/_entites-mineures#Tentative-de-sortie-du-modèle\|Tentative de sortie du modèle]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### Recursive Tool Building {#Recursive-Tool-Building}
 
@@ -11727,7 +12145,7 @@
 - **date** : 2026-02
 
 - [[kb/Martin-Fowler\|Martin Fowler]] **a_participé_à** → Thoughtworks Future of Software Development Retreat — 0.98
-- [[kb/_entites-mineures#Thoughtworks\|Thoughtworks]] **a_organisé** → Thoughtworks Future of Software Development Retreat — 0.95
+- [[kb/Thoughtworks\|Thoughtworks]] **a_organisé** → Thoughtworks Future of Software Development Retreat — 0.95
 
 **Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
 
