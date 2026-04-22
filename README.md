@@ -6,8 +6,8 @@ Documentation personnelle de veille technologique sur l'intelligence artificiell
 
 Ce dépôt contient une collection de fiches d'analyse d'articles techniques, organisées par mois de publication et classées par thématiques. L'objectif est de suivre l'évolution rapide de l'écosystème IA et son impact sur l'ingénierie logicielle.
 
-**Période couverte** : Janvier 2019 - Avril 2026
-**Total d'articles** : 212 fiches
+**Période couverte** : Décembre 1975 - Avril 2026
+**Total d'articles** : 215 fiches
 **Knowledge Base** : 1431 entités, 2731 triples
 
 ## Structure du projet
@@ -161,8 +161,8 @@ Application Flutter/Dart pour capturer des URLs depuis le partage natif du tél�
 
 ## Statistiques actuelles
 
-- **212 fiches** analysées
-- **Période** : Janvier 2019 - Avril 2026
+- **215 fiches** analysées
+- **Période** : Décembre 1975 - Avril 2026
 - **1431 entités** et **2731 triples** dans la knowledge base
 - **11 thématiques** principales
 - **60+ auteurs** suivis
