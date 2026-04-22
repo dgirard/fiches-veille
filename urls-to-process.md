@@ -123,4 +123,6 @@ URLs non accessibles:
 - https://www.ou.edu/russell/UGcomp/Kerr.pdf (fiche créée: kerr-folly-rewarding-a-hoping-b-academy-management-1975-12.md — PDF inaccessible, fiche basée sur sources secondaires)
 -->
 
-https://strategizeyourcareer.com/p/developer-taste-ai-slop
+<!-- URLs traitées le 2026-04-22:
+- https://strategizeyourcareer.com/p/developer-taste-ai-slop (fiche créée: soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md — site bloqué 403, fiche basée sur sources secondaires)
+-->
