@@ -127,4 +127,6 @@ URLs non accessibles:
 - https://strategizeyourcareer.com/p/developer-taste-ai-slop (fiche créée: soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md — site bloqué 403, fiche basée sur sources secondaires)
 -->
 
-https://sierra.ai/blog/the-ai-native-interview
+<!-- URLs traitées le 2026-04-23:
+- https://sierra.ai/blog/the-ai-native-interview (fiche créée: taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20.md — site bloqué 403, fiche basée sur sources secondaires)
+-->
