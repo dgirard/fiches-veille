@@ -130,3 +130,5 @@ URLs non accessibles:
 <!-- URLs traitées le 2026-04-23:
 - https://sierra.ai/blog/the-ai-native-interview (fiche créée: taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20.md — site bloqué 403, fiche basée sur sources secondaires)
 -->
+
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdmyJWgXP&urlhash=aUNE&mt=PMpFTh_rllDVrLevzo7E8MUupBVjuia6L3hNNO-REJpdxfe7xf43HU6lqp9KoSsU2rnIxA11xgROLY03qtMdnoENZAVF3Oz61REHZ7mlRsEXjov8MPx43g&isSdui=true
