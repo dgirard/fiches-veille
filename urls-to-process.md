@@ -135,3 +135,5 @@ URLs non accessibles:
 https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdmyJWgXP&urlhash=aUNE&mt=PMpFTh_rllDVrLevzo7E8MUupBVjuia6L3hNNO-REJpdxfe7xf43HU6lqp9KoSsU2rnIxA11xgROLY03qtMdnoENZAVF3Oz61REHZ7mlRsEXjov8MPx43g&isSdui=true
 Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scraping (403). URL réelle de destination inconnue — en attente de l'URL directe.
 -->
+
+https://www.anthropic.com/engineering/april-23-postmortem
