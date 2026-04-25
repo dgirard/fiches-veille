@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Avril 2026
 
+- **[2026-04-23]** [Post-mortem qualité Claude Code mars-avril 2026](fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23.md) - Trois incidents reasoning/caching/prompt, bug clear_thinking cascade, -3% intelligence verbosité - Anthropic Engineering
 - **[2026-04-20]** [The AI-native interview : refonte recrutement ingénieurs](fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20.md) - Abandon LeetCode, onsite Plan/Build/Review 2h avec IA, recrutement par les forces - Sierra Blog (Bret Taylor)
 - **[2026-04-17]** [Semantic Agent : (Model+Harness) + (Ontology+Data)](fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17.md) - Effondrement frameworks d'agents, symétrie modèle+harnais / ontologie+données, ontologie comme seul moat - LinkedIn (Tony Seale)
 - **[2026-04-14]** [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) - Rewind, compact, subagents, context rot ~300-400k tokens, bonnes pratiques - X (Thariq/Anthropic)
@@ -416,6 +417,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
 
 ### Qualité & Sécurité
+- [Post-mortem qualité Claude Code mars-avril 2026](fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23.md) - Anthropic Engineering
 - [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) - Fran Soto (Strategize Your Career)
 - [Signal over noise : repenser la contribution open source face à l'AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) - Philippe Ensarguet
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI Labs
@@ -533,7 +535,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 216
+- **Total d'articles** : 217
 - **Période couverte** : Décembre 1975 - Avril 2026
 - **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (4), Martin Fowler (2), Tony Seale (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Bret Taylor (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog.

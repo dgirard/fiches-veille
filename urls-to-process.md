@@ -136,4 +136,6 @@ https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdmyJWgXP&urlha
 Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scraping (403). URL réelle de destination inconnue — en attente de l'URL directe.
 -->
 
-https://www.anthropic.com/engineering/april-23-postmortem
+<!-- URLs traitées le 2026-04-25:
+- https://www.anthropic.com/engineering/april-23-postmortem (fiche créée: anthropic-claude-code-quality-postmortem-2026-04-23.md)
+-->
