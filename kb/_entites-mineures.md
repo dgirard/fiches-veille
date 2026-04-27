@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 1192 entités avec moins de 3 triples/fiches
+> 1272 entités avec moins de 3 triples/fiches
 
-## PERSONNE (217)
+## PERSONNE (236)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -64,6 +64,14 @@
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
 
+### Alex McMurray {#Alex-McMurray}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Cofounder et VP of Sales chez Valence
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### Alex Tamkin {#Alex-Tamkin}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -101,6 +109,14 @@
 - **affirme_que** → [[kb/_entites-mineures#investissements-productivité-humaine-profitent-aux-agents\|investissements productivité humaine profitent aux agents]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]], [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]
+
+### Allie Nawrat {#Allie-Nawrat}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Chief Reporter UNLEASH
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
 ### Amjad Masad {#Amjad-Masad}
 
@@ -177,6 +193,16 @@
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research]]
 
+### Angie Wang {#Angie-Wang}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur article Sierra blog
+
+- [[kb/Sierra\|Sierra]] **emploie** → Angie Wang — 0.95
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
 ### Aristidis Vasilopoulos {#Aristidis-Vasilopoulos}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -241,6 +267,16 @@
 - **contredit** → [[kb/_entites-mineures#timelines-AGI-courtes\|timelines AGI courtes]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
+
+### Arya Asemanfar {#Arya-Asemanfar}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur article Sierra blog
+
+- [[kb/Sierra\|Sierra]] **emploie** → Arya Asemanfar — 0.95
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### Asaf Bord {#Asaf-Bord}
 
@@ -387,6 +423,17 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 
+### Brad Miller {#Brad-Miller}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Chief Information Officer de Moderna
+
+- **est_CIO_de** → [[kb/Moderna\|Moderna]] (ORGANISATION) — 0.97
+- **affirme_que** → [[kb/_entites-mineures#90%-des-entreprises-veulent-la-GenAI-mais-seulement-10%-réussissent\|90% des entreprises veulent la GenAI mais seulement 10% réussissent]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Bradley Shimmin {#Bradley-Shimmin}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -408,6 +455,16 @@
 - [[kb/OpenAI\|OpenAI]] **emploie** → Brian Fioca — 0.95
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+
+### Brice Challamel {#Brice-Challamel}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Head of AI Products and Platforms chez Moderna
+
+- **dirige** → [[kb/_entites-mineures#AI-Products-and-Platforms-chez-Moderna\|AI Products and Platforms chez Moderna]] (METHODOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### CFO {#CFO}
 
@@ -818,6 +875,16 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
 
+### Helen Russell {#Helen-Russell}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CHRO HubSpot (ex-CHRO Rivian)
+
+- **est_CHRO_de** → [[kb/HubSpot\|HubSpot]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Jack Clark {#Jack-Clark}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -828,6 +895,16 @@
 - **fait_partie_de** → [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI - AI Index - Annual report - Industry trends - Research metrics - Global AI development]]
+
+### Jacqui Canney {#Jacqui-Canney}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chief People and AI Transformation Officer ServiceNow
+
+- **est_Chief_People_and_AI_Transformation_Officer_de** → [[kb/_entites-mineures#ServiceNow\|ServiceNow]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Jamin Ball {#Jamin-Ball}
 
@@ -926,6 +1003,16 @@
 
 **Fiches** : [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains, commerce agentique émergent - Riskified - e-commerce - IA shopping]]
 
+### Jin Montesano {#Jin-Montesano}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CHRO Lixil
+
+- **est_CHRO_de** → [[kb/_entites-mineures#Lixil\|Lixil]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Joff Redfern {#Joff-Redfern}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -987,6 +1074,16 @@
 
 **Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|DX Platform - Engineering Leadership - Productivity Metrics - Psychological Safety - SDLC Constraints]]
 
+### Kate Cronin {#Kate-Cronin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chief Brand Officer de Moderna
+
+- **est_Chief_Brand_Officer_de** → [[kb/Moderna\|Moderna]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Kate Holterhoff {#Kate-Holterhoff}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -1016,6 +1113,16 @@
 - **prédit** → [[kb/_entites-mineures#agents-proactifs-anticipant-besoins\|agents proactifs anticipant besoins]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Google Labs - Proactive Agents - Project Jules - Developer Experience - Async Agents]]
+
+### Kathleen Hogan {#Kathleen-Hogan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ex-Chief People Officer Microsoft, désormais en charge AI transformation interne
+
+- **dirige** → [[kb/_entites-mineures#transformation-IA-chez-Microsoft\|transformation IA chez Microsoft]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Keith Ballinger {#Keith-Ballinger}
 
@@ -1325,6 +1432,14 @@
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique]]
 
+### Meklit Workneh {#Meklit-Workneh}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Director of Clinical Development chez Moderna
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Michael Kratsios {#Michael-Kratsios}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1541,6 +1656,16 @@
 
 **Fiches** : [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 
+### Parker Mitchell {#Parker-Mitchell}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : CEO de Valence
+
+- **dirige** → [[kb/_entites-mineures#Valence\|Valence]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### Pascal Martinez {#Pascal-Martinez}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1552,6 +1677,17 @@
 
 **Fiches** : [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
+### Patricia Frost {#Patricia-Frost}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CHRO de Seagate, ex-militaire, slogan "Leave No One Behind"
+
+- **est_CHRO_de** → [[kb/_entites-mineures#Seagate\|Seagate]] (ORGANISATION) — 0.97
+- **recommande** → [[kb/_entites-mineures#Leave-No-One-Behind\|Leave No One Behind]] (METHODOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Patrick Joubert {#Patrick-Joubert}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1561,6 +1697,17 @@
 - **dirige** → [[kb/Rippletide\|Rippletide]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
+
+### Paul Buchheit {#Paul-Buchheit}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Créateur de Gmail
+
+- **a_créé** → [[kb/_entites-mineures#Gmail\|Gmail]] (TECHNOLOGIE) — 0.98
+- **affirme_que** → [[kb/_entites-mineures#si-c'est-génial-il-n'a-pas-à-être-bon\|si c'est génial il n'a pas à être bon]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### Pedro Rodriguez {#Pedro-Rodriguez}
 
@@ -1790,6 +1937,16 @@
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
 
+### Shannon Klinger {#Shannon-Klinger}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chief Legal Officer de Moderna
+
+- **est_Chief_Legal_Officer_de** → [[kb/Moderna\|Moderna]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Shawn Wang {#Shawn-Wang}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1933,6 +2090,17 @@
 
 **Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
 
+### Stéphane Bancel {#Stéphane-Bancel}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CEO de Moderna
+
+- **affirme_que** → [[kb/_entites-mineures#Moderna-peut-faire-le-travail-de-100-000-employés-avec-quelques-milliers\|Moderna peut faire le travail de 100 000 employés avec quelques milliers]] (CONCEPT) — 0.98
+- **dirige** → [[kb/Moderna\|Moderna]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Sun Tzu {#Sun-Tzu}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1970,6 +2138,16 @@
 - **période** : 4 av. J.-C. - 65 ap. J.-C.
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
+
+### Tanuj Kapilashrami {#Tanuj-Kapilashrami}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chief Strategy and Talent Officer Standard Chartered
+
+- **est_Chief_Strategy_and_Talent_Officer_de** → [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Tariq KRIM {#Tariq-KRIM}
 
@@ -2051,6 +2229,16 @@
 - **est_membre_de** → [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI - AI Index - Annual report - Industry trends - Research metrics - Global AI development]]
+
+### Vijay Iyengar {#Vijay-Iyengar}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur article Sierra blog
+
+- [[kb/Sierra\|Sierra]] **emploie** → Vijay Iyengar — 0.95
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### Vik Bajaj {#Vik-Bajaj}
 
@@ -2212,7 +2400,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (168)
+## ORGANISATION (176)
 
 ### 10x {#10x}
 
@@ -2960,6 +3148,14 @@
 
 **Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 
+### Legal.io {#Legal.io}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Plateforme legal talent / média B2B juridique
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### Legora {#Legora}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -2991,6 +3187,16 @@
 - [[kb/_entites-mineures#AAIF\|AAIF]] **opère_sous** → Linux Foundation — 0.97
 
 **Fiches** : [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
+
+### Lixil {#Lixil}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Construction / sanitaires (Japon)
+
+- [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] **est_CHRO_de** → Lixil — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### LogRocket Blog {#LogRocket-Blog}
 
@@ -3375,6 +3581,16 @@
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com]]
 
+### Prime Radiant {#Prime-Radiant}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Outils de développement IA agentique
+
+- **développe** → [[kb/Superpowers\|Superpowers]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
+
 ### QodoAI {#QodoAI}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -3443,11 +3659,12 @@
 
 ### SAP {#SAP}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : Éditeur ERP / Cloud
 
 - **augmente_tarifs** → [[kb/_entites-mineures#3.3-5%\|3.3-5%]] (CONCEPT) — 0.92
+- **redessine** → [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 
@@ -3492,6 +3709,16 @@
 - **réduit** → [[kb/_entites-mineures#latence-diagnostics-onboard-de-45%\|latence diagnostics onboard de 45%]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+
+### Seagate {#Seagate}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Stockage de données / Hardware
+
+- [[kb/_entites-mineures#Patricia-Frost\|Patricia Frost]] **est_CHRO_de** → Seagate — 0.97
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Sears Home Services {#Sears-Home-Services}
 
@@ -3576,6 +3803,16 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
 
+### Standard Chartered {#Standard-Chartered}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Banque internationale
+
+- [[kb/_entites-mineures#Tanuj-Kapilashrami\|Tanuj Kapilashrami]] **est_Chief_Strategy_and_Talent_Officer_de** → Standard Chartered — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Stanford {#Stanford}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3617,6 +3854,14 @@
 - [[kb/_entites-mineures#Commerce-Department\|Commerce Department]] **collabore_avec** → State Department — 0.95
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security]]
+
+### Strategize Your Career {#Strategize-Your-Career}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **type** : Newsletter Substack pour ingénieurs logiciels
+
+**Fiches** : [[fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04\|Goût du développeur face au code IA médiocre — Jugement et discipline — Embauche pour le goût — Qualité logicielle — Substack]]
 
 ### StrongDM AI {#StrongDM-AI}
 
@@ -3716,9 +3961,11 @@
 
 ### The Wharton School {#The-Wharton-School}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **domaine** : Recherche et éducation
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **enseigne_à** → The Wharton School — 0.98
 
 **Fiches** : [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
 
@@ -3744,6 +3991,14 @@
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security]]
 
+### UNLEASH {#UNLEASH}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Média HR-tech / futur du travail
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
 ### University of Wisconsin-Madison {#University-of-Wisconsin-Madison}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3763,6 +4018,18 @@
 - **a_condamné** → [[kb/_entites-mineures#averroïsme\|averroïsme]] (CONCEPT) — 0.99
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+
+### Valence {#Valence}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : AI coaching pour entreprises Fortune 500
+
+- **a_organisé** → [[kb/_entites-mineures#sommet-AI-&-the-Workforce-The-Adoption-Gap\|sommet AI & the Workforce: The Adoption Gap]] (EVENEMENT) — 0.95
+
+- [[kb/_entites-mineures#Parker-Mitchell\|Parker Mitchell]] **dirige** → Valence — 0.95
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### Wayfair {#Wayfair}
 
@@ -3945,7 +4212,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (344)
+## TECHNOLOGIE (358)
 
 ### /mnt/skills {#mnt-skills}
 
@@ -4341,6 +4608,14 @@
 
 **Fiches** : [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
 
+### Ask HR {#Ask-HR}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : GPT centralisé Moderna routant les questions HR vers GPTs spécialisés
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
 ### Augment Remote Agent {#Augment-Remote-Agent}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -4459,6 +4734,18 @@
 - [[kb/OpenAI\|OpenAI]] **publie** → ChatGPT Apps SDK — 0.98
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
+
+### ChatGPT Enterprise {#ChatGPT-Enterprise}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Plateforme GenAI entreprise (OpenAI)
+
+- [[kb/Moderna\|Moderna]] **a_déployé** → ChatGPT Enterprise — 0.98
+- [[kb/_entites-mineures#Dose-ID\|Dose ID]] **est_basé_sur** → ChatGPT Enterprise — 0.95
+- [[kb/_entites-mineures#Entreprises-regulees\|Entreprises regulees]] **** → ChatGPT Enterprise — 0.95
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### ChatGPT Instant Checkout {#ChatGPT-Instant-Checkout}
 
@@ -4703,6 +4990,14 @@
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
+### Contract Companion {#Contract-Companion}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : GPT custom Moderna pour résumer les contrats
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### Copilot AI {#Copilot-AI}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -4822,6 +5117,14 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
 
+### Distillation de modèles {#Distillation-de-modèles}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Technique réduisant les coûts d'inférence en transférant les connaissances d'un grand modèle vers un plus petit
+
+**Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### Docker {#Docker}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -4832,6 +5135,18 @@
 - [[kb/n8n-workflows\|n8n-workflows]] **s_appuie_sur** → Docker — 0.93
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+
+### Dose ID {#Dose-ID}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : GPT custom d'analyse de données cliniques (sélection de dose vaccinale)
+
+- **est_basé_sur** → [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] (TECHNOLOGIE) — 0.95
+
+- [[kb/Moderna\|Moderna]] **a_créé** → Dose ID — 0.95
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### Doubao {#Doubao}
 
@@ -5157,6 +5472,17 @@
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]], [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
 
+### Ghostwriter {#Ghostwriter}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Agent qui crée et optimise d'autres agents
+
+- **est_utilisé_par** → [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.90
+- **crée_et_optimise** → [[kb/_entites-mineures#autres-agents\|autres agents]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
 ### GitHub Copilot Agent {#GitHub-Copilot-Agent}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5335,6 +5661,16 @@
 - [[kb/Perplexity\|Perplexity]] **concurrence** → Google Search — 0.97
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity - Chrome integration - Browser AI - Search - Google competition - Native integration - AI-powered search]]
+
+### Google TPU {#Google-TPU}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Puces custom Google pour IA, avantage structurel vs concurrents dépendants Nvidia
+
+- [[kb/Nvidia\|Nvidia]] **concurrence** → Google TPU — 0.95
+
+**Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
 ### Google Veo 3 {#Google-Veo-3}
 
@@ -5580,6 +5916,16 @@
 - [[kb/Deepnote\|Deepnote]] **remplace** → Jupyter — 0.95
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote - Successeur Jupyter avec AI agent natif - Format .deepnote YAML - Extensions VS Code/Cursor/Windsurf - Open Source - GitHub 1.5k stars]]
+
+### K-9 Mail {#K-9-Mail}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Client email Android devenu Thunderbird for Android
+
+- [[kb/Jesse-Vincent\|Jesse Vincent]] **a_créé** → K-9 Mail — 0.92
+
+**Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
 
 ### KVCache {#KVCache}
 
@@ -5914,6 +6260,16 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
 
+### NANDA {#NANDA}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT
+
+- **est_un** → [[kb/_entites-mineures#protocole-d'Agentic-Web\|protocole d'Agentic Web]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### Nano Banana Pro {#Nano-Banana-Pro}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5991,6 +6347,16 @@
 
 **Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
 
+### Nvidia H100 {#Nvidia-H100}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : GPU haute performance pour inférence IA, ressource rare et disputée
+
+- **est** → [[kb/_entites-mineures#ressource-rare-disputée\|ressource rare disputée]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### Nvidia Jetson {#Nvidia-Jetson}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6053,11 +6419,12 @@
 
 ### OpenAI API {#OpenAI-API}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **usage** : Génération de capacités et relations via prompts
 
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] **utilise** → OpenAI API — 0.97
+- [[kb/_entites-mineures#mChat\|mChat]] **est_basé_sur** → OpenAI API — 0.95
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo]]
 
@@ -6224,6 +6591,14 @@
 - [[kb/Cat-Wu\|Cat Wu]] **recommande** → Playwright — 0.88
 
 **Fiches** : [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+
+### Policy Bot {#Policy-Bot}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : GPT custom Moderna pour répondre sur les policies internes
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### Product Sans {#Product-Sans}
 
@@ -6740,6 +7115,22 @@
 - [[kb/Gadget\|Gadget]] **recommande** → StreamableHTTPServerTransport — 0.95
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
+
+### Superpowers Lab {#Superpowers-Lab}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Dépôt de skills expérimentaux en cours de test
+
+**Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
+
+### Superpowers Marketplace {#Superpowers-Marketplace}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Marketplace curatée de plugins Claude Code
+
+**Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
 
 ### System-reminder {#System-reminder}
 
@@ -7281,6 +7672,18 @@
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|Évolution métier développeur avec IA générative, transformation rôles informatiques, ingénierie système, orchestration agentique - Yves Caseau - Michelin - LinkedIn]]
 
+### mChat {#mChat}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Chatbot interne Moderna construit sur OpenAI API
+
+- **est_basé_sur** → [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE) — 0.95
+
+- [[kb/Moderna\|Moderna]] **a_créé** → mChat — 0.95
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
 ### machine learning {#machine-learning}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7560,7 +7963,15 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (310)
+## CONCEPT (330)
+
+### 0→1 vs 1→N {#0→1-vs-1→N}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **distinction** : Construction greenfield vs évolution de codebase existant
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### AI Orchestrator {#AI-Orchestrator}
 
@@ -7572,17 +7983,6 @@
 - **utilise** → [[kb/_entites-mineures#prompt-engineering\|prompt engineering]] (METHODOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
-
-### AI Slop {#AI-Slop}
-
-**Type** : CONCEPT | 2 relations | 2 fiches
-
-- **définition** : Contributions générées par IA sans compréhension ni effort réel
-
-- **transforme** → [[kb/_entites-mineures#modèle-contributif-open-source\|modèle contributif open source]] (CONCEPT) — 0.95
-- **provoque** → [[kb/_entites-mineures#burnout-des-mainteneurs\|burnout des mainteneurs]] (CONCEPT) — 0.92
-
-**Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]], [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
 
 ### AI TRiSM {#AI-TRiSM}
 
@@ -7693,6 +8093,14 @@
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
 
+### Adaptive organization {#Adaptive-organization}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Organisation où people, technology et work sont continuellement réalignés
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
 ### Agent-Language Fit {#Agent-Language-Fit}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -7703,13 +8111,22 @@
 
 ### Agentic AI {#Agentic-AI}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **description** : IA autonome ou semi-autonome percevant, décidant et agissant
 
+- **définit** → [[kb/_entites-mineures#phase-suivante-de-l'IA-enterprise\|phase suivante de l'IA enterprise]] (CONCEPT) — 0.93
 - **remplace** → [[kb/_entites-mineures#chatbots-passifs\|chatbots passifs]] (TECHNOLOGIE) — 0.91
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
+
+### Agentic Web {#Agentic-Web}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Vision où des agents IA coordonnent à travers organisations et plateformes, remplaçant les SaaS statiques
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
 
 ### Alice {#Alice}
 
@@ -7728,6 +8145,25 @@
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] **a_créé** → Ambient affordances — 0.90
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### Apprenticeship model collapse {#Apprenticeship-model-collapse}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Effondrement du pipeline implicite de formation par les tâches juniors automatisées
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### Architect the flow of work {#Architect-the-flow-of-work}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Concevoir comment tâches, information et décisions s'exécutent dans l'organisation
+
+- [[kb/_entites-mineures#HR+IT-merger\|HR+IT merger]] **vise** → Architect the flow of work — 0.95
+- [[kb/Tracey-Franklin\|Tracey Franklin]] **recommande** → Architect the flow of work — 0.95
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
 ### Archétypes d'équipes {#Archétypes-d'équipes}
 
@@ -7767,6 +8203,14 @@
 - **influence** → [[kb/_entites-mineures#architecture-Claude-Code\|architecture Claude Code]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
+
+### Blended future {#Blended-future}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Futur du travail mêlant humains et agents IA travaillant côte à côte
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
 ### Bloom two-sigma problem {#Bloom-two-sigma-problem}
 
@@ -8012,6 +8456,14 @@
 
 **Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|Stanford Research - AI ROI Measurement - Developer Productivity - Metrics Framework - AI Adoption Gap]]
 
+### Enterprise paradox {#Enterprise-paradox}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Les grandes entreprises mènent en volume de pilotes mais échouent en déploiement
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### Entreprise bionique {#Entreprise-bionique}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8068,6 +8520,16 @@
 
 **Fiches** : [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 
+### GenAI Divide {#GenAI-Divide}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Fossé empirique entre adoption massive (80%) et transformation business mesurable (5%)
+
+- **définit** → [[kb/_entites-mineures#fossé-entre-adoption-et-transformation-IA\|fossé entre adoption et transformation IA]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### GenAI Landing Zone {#GenAI-Landing-Zone}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8120,6 +8582,16 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
+### HR is R&D now {#HR-is-R&D-now}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Formule de Mollick : la fonction RH devient l'unité de R&D organisationnelle de l'IA
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **affirme_que** → HR is R&D now — 0.98
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### Hapax legomenon {#Hapax-legomenon}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8162,6 +8634,14 @@
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
 
+### Hiring for strengths {#Hiring-for-strengths}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Évaluer les spikes du candidat plutôt que l'absence de faiblesses
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
 ### Human-AI system integrator {#Human-AI-system-integrator}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8198,6 +8678,14 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
 
+### Implementation advantage {#Implementation-advantage}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Les outils vendors externes réussissent 2x plus souvent que les builds internes
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### Instant Checkout {#Instant-Checkout}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8229,6 +8717,14 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 
+### Investment bias {#Investment-bias}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Budgets IA orientés sales/marketing alors qu'operations/finance offrent un meilleur ROI
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### LAYS {#LAYS}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8246,6 +8742,16 @@
 - **s_oppose_à** → [[kb/_entites-mineures#mesure-pertinente-productivité\|mesure pertinente productivité]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
+
+### Limites d'usage IA {#Limites-d'usage-IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **description** : Plafonds imposés par fournisseurs IA segmentant utilisateurs en gratuit/premium/API
+
+- **segmentent** → [[kb/_entites-mineures#base-utilisateurs-en-trois-tiers\|base utilisateurs en trois tiers]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
 ### Loi d'Ashby {#Loi-d'Ashby}
 
@@ -8380,6 +8886,16 @@
 
 **Fiches** : [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité architectures narratives et formats de conférence - Guide global]]
 
+### Phase Expand {#Phase-Expand}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **description** : Phase de croissance en escalier où l'on bute sur des ressources limitantes successives (modèle Explore/Expand/Extract)
+
+- **caractérise** → [[kb/_entites-mineures#croissance-en-escalier-avec-ressources-limitantes\|croissance en escalier avec ressources limitantes]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### Product Questions {#Product-Questions}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8473,6 +8989,16 @@
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Google AI Mode - Search transformation - Personalized sites - Generative search - Web génératif]], [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
 
+### SKILL.md {#SKILL.md}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **description** : Fichiers markdown servant d'instructions structurées pour agents
+
+- [[kb/Agent-Skills\|Agent Skills]] **utilise** → SKILL.md — 0.95
+
+**Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
+
 ### SLMs {#SLMs}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -8524,6 +9050,27 @@
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
+### Shadow AI {#Shadow-AI}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Usage massif de l'IA par les employés sans déclaration au management
+
+- **caractérise** → [[kb/_entites-mineures#usage-IA-caché-par-les-employés\|usage IA caché par les employés]] (CONCEPT) — 0.95
+- **représente** → [[kb/_entites-mineures#40%-des-dépenses-applicatives-IA\|40% des dépenses applicatives IA]] (CONCEPT) — 0.82
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### Shadow AI economy {#Shadow-AI-economy}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Usage massif (90% des employés) d'outils IA personnels non sanctionnés par l'employeur
+
+- **caractérise** → [[kb/_entites-mineures#90%-des-employés-utilisent-IA-personnelle-quotidiennement\|90% des employés utilisent IA personnelle quotidiennement]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
 ### Share Of Answers {#Share-Of-Answers}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8533,6 +9080,16 @@
 - **remplace** → [[kb/_entites-mineures#SERP-tracking\|SERP tracking]] (METHODOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+
+### Single pane of glass {#Single-pane-of-glass}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : "Front door to work" — AI tech stack centré employee experience, remplace les portails type Teams
+
+- **définit** → [[kb/_entites-mineures#front-door-to-work-centré-employee-experience\|front door to work centré employee experience]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Solutions Engineers {#Solutions-Engineers}
 
@@ -8565,6 +9122,16 @@
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Engineering Compensation - Story Points - Outcome-based Pay - 10x Engineers - Incentive Alignment]]
 
+### Supermanager {#Supermanager}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Concept Bersin : nouveau modèle de leadership pour l'ère IA
+
+- **définit** → [[kb/_entites-mineures#nouveau-modèle-de-leadership-pour-l'ère-IA\|nouveau modèle de leadership pour l'ère IA]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Supervision adaptative {#Supervision-adaptative}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8574,6 +9141,24 @@
 - [[kb/Agentique-adaptative\|Agentique adaptative]] **repose_sur** → Supervision adaptative — 0.96
 
 **Fiches** : [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
+
+### Superworker {#Superworker}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Concept Bersin : employé augmenté par l'IA, mode bottom-up
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### Talent Density {#Talent-Density}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Concept Bersin : nouveau process de talent management combinant pay, titles, redeployment
+
+- **est_créé_par** → [[kb/_entites-mineures#The-Josh-Bersin-Company\|The Josh Bersin Company]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### The Button {#The-Button}
 
@@ -10701,7 +11286,15 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (121)
+## METHODOLOGIE (134)
+
+### 4 stratégies AI transformation CHRO {#4-stratégies-AI-transformation-CHRO}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **structure** : (1) AI Readiness, (2) Technology Platforms, (3) Hiring/Redeployment, (4) Supermanagers
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -10726,6 +11319,24 @@
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
 
+### AI-Annotated Deliverables {#AI-Annotated-Deliverables}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Tout livrable interne accompagné d'une note d'usage IA et de valeur ajoutée
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### AI-First Role Design {#AI-First-Role-Design}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Avant d'écrire une fiche de poste, l'équipe RH passe 2h à augmenter le rôle avec l'IA
+
+- **exige** → [[kb/_entites-mineures#2h-d'augmentation-IA-avant-fiche-de-poste\|2h d'augmentation IA avant fiche de poste]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### AI-Powered Engineering Playbook {#AI-Powered-Engineering-Playbook}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -10735,6 +11346,16 @@
 - **structure** → [[kb/_entites-mineures#adoption-IA-en-4-phases\|adoption IA en 4 phases]] (CONCEPT) — 0.98
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]]
+
+### AI-native onsite {#AI-native-onsite}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **structure** : Plan (ideation) → Build (2h solo avec AI) → Review (démo + revue)
+
+- **se_compose_de** → [[kb/_entites-mineures#Plan-Build-Review\|Plan Build Review]] (CONCEPT) — 0.98
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### AIDA {#AIDA}
 
@@ -10851,6 +11472,17 @@
 
 **Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
 
+### Debugging interview {#Debugging-interview}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **objectif** : Capter compétence 1→N sur codebase existant
+- **statut** : En pilote chez Sierra
+
+- [[kb/Sierra\|Sierra]] **pilote** → Debugging interview — 0.92
+
+**Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
 ### Deep Research {#Deep-Research}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -10899,6 +11531,16 @@
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
 
+### Dynamic org design {#Dynamic-org-design}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Redéploiement interne, redesign des rôles, plutôt que remplissage de slots
+
+- **redéploie** → [[kb/_entites-mineures#ressources-internes-plutôt-que-remplir-des-slots\|ressources internes plutôt que remplir des slots]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
 ### Empowerment promise {#Empowerment-promise}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -10937,6 +11579,18 @@
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
 
+### Framework Leader-Lab-Crowd {#Framework-Leader-Lab-Crowd}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **structure** : Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés
+
+- **guide** → [[kb/_entites-mineures#écriture-du-AI-HR-playbook\|écriture du AI-HR playbook]] (METHODOLOGIE) — 0.95
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → Framework Leader-Lab-Crowd — 0.97
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### GDPval {#GDPval}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -10948,6 +11602,16 @@
 - **révèle** → [[kb/_entites-mineures#Jagged-Frontier-des-capacités-IA\|Jagged Frontier des capacités IA]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
+
+### Generative AI Champions {#Generative-AI-Champions}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **structure** : Cohorte des 100 power users IA chez Moderna
+
+- **identifie** → [[kb/_entites-mineures#top-100-power-users-IA\|top 100 power users IA]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### Goal-Driven Execution {#Goal-Driven-Execution}
 
@@ -10999,6 +11663,16 @@
 - **vérifie** → [[kb/_entites-mineures#adhérence-style-et-architecture\|adhérence style et architecture]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|Addy Osmani - écrire specs pour agents IA, 5 principes, Plan Mode, PRD structuré, modularité]]
+
+### Leave No One Behind {#Leave-No-One-Behind}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Approche AI transformation Patricia Frost : mêmes outils et formations pour tous, choix individuel
+
+- [[kb/_entites-mineures#Patricia-Frost\|Patricia Frost]] **recommande** → Leave No One Behind — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### Marketing Mix Modeling {#Marketing-Mix-Modeling}
 
@@ -11053,6 +11727,24 @@
 - [[kb/Anthropic\|Anthropic]] **a_développé** → Paired Prompts method — 0.95
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
+
+### People and Digital Technology {#People-and-Digital-Technology}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **structure** : Département fusionné HR+IT chez Moderna (créé en 2025)
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
+### Performance Review Redesign {#Performance-Review-Redesign}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Refonte des reviews pour exploiter le feedback continu IA, pas juste l'écriture
+
+- **exploite** → [[kb/_entites-mineures#feedback-continu-IA\|feedback continu IA]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### Phase 1 Fondation des Champions {#Phase-1-Fondation-des-Champions}
 
@@ -11346,6 +12038,24 @@
 - **utilise** → [[kb/_entites-mineures#axe-Y-basé-sur-proximité-client\|axe Y basé sur proximité client]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo]]
+
+### Weekly How Are You Using AI Ritual {#Weekly-How-Are-You-Using-AI-Ritual}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : 5 minutes hebdomadaires en réunion de direction pour partager les nouveaux usages IA
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### Work planning {#Work-planning}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **distinction** : Unité de planification holistique remplaçant workforce planning et technology planning
+
+- **remplace** → [[kb/_entites-mineures#workforce-planning-et-technology-planning\|workforce planning et technology planning]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
 ### adoption bottom-up {#adoption-bottom-up}
 
@@ -11974,7 +12684,15 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## EVENEMENT (24)
+## EVENEMENT (29)
+
+### 100% adoption juridique {#100%-adoption-juridique}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **contexte** : Département legal Moderna sous Shannon Klinger
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
 
 ### 2026 Agentic Coding Trends Report {#2026-Agentic-Coding-Trends-Report}
 
@@ -11985,6 +12703,40 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → 2026 Agentic Coding Trends Report — 0.99
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
+
+### 3000+ GPTs Moderna {#3000+-GPTs-Moderna}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **contexte** : Métrique adoption GenAI Moderna en juin 2025 (×4 vs avril 2024)
+
+**Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
+### 750 GPTs en 2 mois {#750-GPTs-en-2-mois}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **contexte** : Métrique-phare adoption ChatGPT Enterprise chez Moderna
+
+- [[kb/Moderna\|Moderna]] **a_atteint** → 750 GPTs en 2 mois — 0.97
+
+**Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
+### 95% AI pilots fail {#95%-AI-pilots-fail}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **contexte** : Statistique-pivot 2025 sur l'échec ROI des pilotes IA en entreprise (MIT NANDA)
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
+### AI & the Workforce: The Adoption Gap {#AI-&-the-Workforce-The-Adoption-Gap}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Sommet virtuel Valence avec keynote Mollick (juillet 2025)
+
+**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### AI Index Report 2025 {#AI-Index-Report-2025}
 
@@ -12284,7 +13036,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (3)
+## DOCUMENT (4)
 
 ### Agile Manifesto {#Agile-Manifesto}
 
@@ -12308,11 +13060,22 @@
 
 ### Co-Intelligence {#Co-Intelligence}
 
-**Type** : DOCUMENT | 2 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **type** : Livre, nommé meilleur livre 2024 par Amazon et The Economist
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **** → Co-Intelligence — 0.99
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **a_écrit** → Co-Intelligence — 0.97
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **a_publié** → Co-Intelligence — 0.95
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
+
+### The GenAI Divide State of AI in Business 2025 {#The-GenAI-Divide-State-of-AI-in-Business-2025}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **méthodologie** : 52 interviews exécutives + 153 sondages + 300 déploiements analysés
+
+- [[kb/MIT-NANDA\|MIT NANDA]] **a_publié** → The GenAI Divide State of AI in Business 2025 — 0.98
+
+**Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]

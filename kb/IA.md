@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 30 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 4 fiches sources
 
 ## Attributs
 
@@ -39,6 +39,11 @@
 
 - [[kb/_entites-mineures#productivité-développeur\|productivité développeur]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
+
+### brise
+
+- [[kb/_entites-mineures#modèle-d'apprentissage-par-tâches-juniors\|modèle d'apprentissage par tâches juniors]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### change
 

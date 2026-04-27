@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Avril 2026
 
+- **[2026-04-22]** [The AI-native interview](fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22.md) - Plan/Build/Review onsite, suppression coding algo, phone screen → system design, debugging interview pilote - Sierra (Iyengar, Asemanfar, Wang)
 - **[2026-04-17]** [Semantic Agent : (Model+Harness) + (Ontology+Data)](fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17.md) - Effondrement frameworks d'agents, symétrie modèle+harnais / ontologie+données, ontologie comme seul moat - LinkedIn (Tony Seale)
 - **[2026-04-14]** [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) - Rewind, compact, subagents, context rot ~300-400k tokens, bonnes pratiques - X (Thariq/Anthropic)
 - **[2026-04]** [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) - Goût développeur, jugement vs AI slop, embauche pour le goût - Substack (Fran Soto)
@@ -155,6 +156,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-10-15]** [DeepSeek Cuts Inference Costs, OpenAI-AMD, Fine-Tuning](fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md) - Optimisation coûts et infrastructure IA - The Batch
 - **[2025-10-15]** [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Redéfinition du logiciel - Architecture AI-native - LinkedIn
 - **[2025-10-11]** [Intelligence Artificielle et monopsychisme](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) - Philosophie médiévale/moderne - Revue Thomiste
+- **[2025-10-10]** [The Pivotal Role Of CHRO in AI Transformation](fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10.md) - Patricia Frost Seagate, Canney/ServiceNow, Franklin/Moderna, Russell/HubSpot, 4 stratégies CHRO - Josh Bersin
 - **[2025-10-10]** [Everything you need to know about building ChatGPT apps](fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10.md) - MCP, OAuth 2.1, Widgets, CORS - Gadget
 - **[2025-10-10]** [Claude Skills: Document Manipulation](fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10.md) - Découverte /mnt/skills - Simon Willison
 - **[2025-10-09]** [The Trillion Dollar AI Software Development Stack](fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09.md) - Marché 1T$, productivité développeur - a16z
@@ -188,6 +190,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Août 2025
 
 - **[2025-08-27]** [a16z Top 100 Gen AI Apps - 5th Edition](fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md) - Market stabilization, Google Gemini #2 - a16z
+- **[2025-08-23]** [MIT NANDA: 95% of AI Pilots Fail to Deliver ROI](fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23.md) - GenAI Divide, shadow AI economy, $30-40 Mds investis, build vs buy, agentic AI - Legal.io
 - **[2025-08-25]** [Block Goose: MCP-UI Future](fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25.md) - Agentic interfaces - Block/Square
 - **[2025-08-25]** [MCP-UI: The Future of Agentic Interfaces](fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md) - Interfaces riches et interactives pour agents - Goose/Block
 - **[2025-08-22]** [Luc Julia: AI Controversy](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) - French tech debate - Media
@@ -203,6 +206,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-07-29]** [Data & AI team structure: Case studies](fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29.md) - Team Topologies framework, Conway's Law, design organisationnel - Xebia
 - **[2025-07-29]** [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - 4 innovations critiques - Gartner
 - **[2025-07-28]** [MCP pour débutants](fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28.md) - 12 vidéos, 43k+ vues - Microsoft Developer
+- **[2025-07-23]** [Writing the AI-HR Playbook with Ethan Mollick](fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23.md) - HR is R&D now, framework Leader-Lab-Crowd, 5 expérimentations actionnables - Valence
 - **[2025-07-23]** [White House: America's AI Action Plan](fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23.md) - National AI strategy - White House
 - **[2025-07-23]** [Context Engineering: Domain Understanding](fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23.md) - DICE concept - David Johnson
 - **[2025-07-22]** [Gemini 2.5 Flash Lite Stable GA](fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22.md) - Production release - Google
@@ -216,6 +220,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Juin 2025
 
+- **[2025-06-27]** [Why Moderna merged HR and IT to better 'architect the flow of work'](fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27.md) - Tracey Franklin, Chief People and Digital Technology Officer, work planning, 3000+ GPTs custom - UNLEASH
 - **[2025-06-25]** [Augmented Coding Beyond Vibes](fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25.md) - Kent Beck on TDD with AI - Kent Beck
 - **[2025-06-23]** [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Three career paths in AI era - LinkedIn
 - **[2025-06-23]** [Gemini CLI et Claude Code: Hybrid Workflow](fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23.md) - Approche hybride multi-modèles - Reddit
@@ -260,6 +265,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Avril 2024
 
+- **[2024-04-19]** [Moderna × OpenAI: ChatGPT Enterprise case study](fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19.md) - 750 GPTs en 2 mois, 100% adoption juridique, Dose ID, Bancel "100 000 employés", framework change management - OpenAI
 - **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
 
 ### Juin 2023
@@ -378,6 +384,12 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Semantic Agent : (Model+Harness) + (Ontology+Data)](fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17.md) - Tony Seale (The Knowledge Graph Guy)
 
 ### Transformation & Adoption
+- [The AI-native interview](fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22.md) - Sierra (Iyengar, Asemanfar, Wang)
+- [Moderna × OpenAI: ChatGPT Enterprise case study](fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19.md) - OpenAI (étude de cas Moderna)
+- [Why Moderna merged HR and IT to better 'architect the flow of work'](fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27.md) - Tracey Franklin (Moderna) / UNLEASH
+- [Writing the AI-HR Playbook with Ethan Mollick](fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23.md) - Ethan Mollick (Wharton) / Valence
+- [MIT NANDA: 95% of AI Pilots Fail to Deliver ROI](fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23.md) - MIT NANDA / Legal.io
+- [The Pivotal Role Of CHRO in AI Transformation](fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10.md) - Josh Bersin
 - [Does LLMs / Vibe coding mean more or fewer developers?](fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27.md) - Simon Wardley
 - [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - Deep Research
 - [Fragments: Thoughtworks Retreat — LLMs et développement logiciel](fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13.md) - Martin Fowler
@@ -531,7 +543,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 215
+- **Total d'articles** : 221
 - **Période couverte** : Décembre 1975 - Avril 2026
-- **Principaux auteurs** : Ethan Mollick (8), Google (10), Anthropic (9), OpenAI (4), Martin Fowler (2), Tony Seale (2), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career.
+- **Principaux auteurs** : Ethan Mollick (9), Google (10), Anthropic (9), OpenAI (5), Martin Fowler (2), Tony Seale (2), Josh Bersin (1), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Vijay Iyengar & Arya Asemanfar & Angie Wang (1), Tracey Franklin (1), Allie Nawrat / UNLEASH (1), Alex McMurray / Valence (1), MIT NANDA (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog, UNLEASH, Valence, Legal.io, Josh Bersin Company.

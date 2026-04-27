@@ -1,6 +1,6 @@
 # Vibe Coding
 
-> **Type** : METHODOLOGIE | 33 relations | 8 fiches sources
+> **Type** : METHODOLOGIE | 34 relations | 8 fiches sources
 
 ## Attributs
 
@@ -31,6 +31,11 @@
 
 - [[kb/_entites-mineures#conversation-itérative-produisant-du-code\|conversation itérative produisant du code]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+
+### est_facile
+
+- [[kb/_entites-mineures#mise-en-production-scalable\|mise en production scalable]] (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### génère
 

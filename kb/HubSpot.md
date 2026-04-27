@@ -1,6 +1,6 @@
 # HubSpot
 
-> **Type** : ORGANISATION | 5 relations | 1 fiches sources
+> **Type** : ORGANISATION | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -28,6 +28,7 @@
 ## Relations (comme objet)
 
 - [[kb/Yamini-Rangan\|Yamini Rangan]] **dirige** → HubSpot — 0.98
+- [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] **est_CHRO_de** → HubSpot — 0.95
 
 ## Fiches sources
 

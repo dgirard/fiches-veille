@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 36 relations | 11 fiches sources
+> **Type** : PERSONNE | 42 relations | 11 fiches sources
 
 ## Attributs
 
@@ -29,11 +29,21 @@
 - [[kb/_entites-mineures#étude-personas-prompting\|étude personas prompting]] (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|ssrn-persona-prompting-ai-accuracy-2025-12-07]]
 
+### a_créé
+
+- [[kb/_entites-mineures#framework-Leader-Lab-Crowd\|framework Leader-Lab-Crowd]] (METHODOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
 ### a_publié
 
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick - AI adoption - Organizational change - One Useful Thing - Wharton - Academic research - Management]]
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
+
+### a_écrit
+
+- [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### a_évalué
 
@@ -42,6 +52,10 @@
 
 ### affirme_que
 
+- [[kb/_entites-mineures#HR-is-R&D-now\|HR is R&D now]] (CONCEPT) — 0.98, ATEMPOREL
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+- [[kb/_entites-mineures#la-fonction-HR-est-le-levier-principal-de-la-transformation-IA\|la fonction HR est le levier principal de la transformation IA]] (CONCEPT) — 0.98, ATEMPOREL
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 - [[kb/_entites-mineures#labs-d'IA\|labs d'IA]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 
@@ -68,6 +82,8 @@
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick - AI adoption - Organizational change - One Useful Thing - Wharton - Academic research - Management]]
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
+- [[kb/_entites-mineures#The-Wharton-School\|The Wharton School]] (ORGANISATION) — 0.98, DYNAMIQUE
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### est_affilié_à
 
@@ -118,6 +134,8 @@
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
+- [[kb/_entites-mineures#5-expérimentations-RH-IA\|5 expérimentations RH-IA]] (METHODOLOGIE) — 0.95, ATEMPOREL
+  - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 - [[kb/ChatGPT\|ChatGPT]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 - [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.95, DYNAMIQUE

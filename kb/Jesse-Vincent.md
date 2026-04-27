@@ -1,11 +1,11 @@
 # Jesse Vincent
 
-> **Type** : PERSONNE | 8 relations | 3 fiches sources
+> **Type** : PERSONNE | 9 relations | 4 fiches sources
 
 ## Attributs
 
 - **contact** : jesse@fsck.com
-- **rôle** : Développeur et auteur du blog fsck.com
+- **rôle** : Créateur Superpowers, CEO Prime Radiant
 
 ## Relations (comme sujet)
 
@@ -15,6 +15,9 @@
   - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
 - [[kb/Superpowers\|Superpowers]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+  - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
+- [[kb/_entites-mineures#K-9-Mail\|K-9 Mail]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
 
 ### a_inspiré
 
@@ -48,3 +51,4 @@
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+- [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]

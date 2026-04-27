@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 11 relations | 5 fiches sources
+> **Type** : ORGANISATION | 12 relations | 5 fiches sources
 
 ## Attributs
 
@@ -56,6 +56,11 @@
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+
+### redessine
+
+- [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
 ### utilise
 

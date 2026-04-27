@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 4 relations | 2 fiches sources
+> **Type** : ORGANISATION | 5 relations | 2 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,7 @@
 ## Relations (comme objet)
 
 - [[kb/Werner-Vogels\|Werner Vogels]] **travaille_chez** → Amazon — 0.99
+- [[kb/Fran-Soto\|Fran Soto]] **travaille_chez** → Amazon — 0.95
 
 ## Fiches sources
 

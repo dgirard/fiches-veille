@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 10 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 4 fiches sources
 
 ## Attributs
 
@@ -30,6 +30,11 @@
 
 - [[kb/_entites-mineures#développeur-junior-non-supervisé\|développeur junior non supervisé]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+
+### produit
+
+- [[kb/_entites-mineures#AI-slop-sans-direction-humaine\|AI slop sans direction humaine]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04\|Goût du développeur face au code IA médiocre — Jugement et discipline — Embauche pour le goût — Qualité logicielle — Substack]]
 
 ### remplace
 

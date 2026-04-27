@@ -127,4 +127,15 @@ URLs non accessibles:
 - https://strategizeyourcareer.com/p/developer-taste-ai-slop (fiche créée: soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md — site bloqué 403, fiche basée sur sources secondaires)
 -->
 
-https://sierra.ai/blog/the-ai-native-interview
+<!-- URLs traitées le 2026-04-23:
+- https://sierra.ai/blog/the-ai-native-interview (fiche créée: sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22.md)
+-->
+
+<!-- URLs traitées le 2026-04-27 (dossier RH-organisationnel HR is R&D now):
+- https://openai.com/index/moderna/ (fiche créée: openai-moderna-chatgpt-enterprise-case-study-2024-04-19.md)
+- https://www.unleash.ai/artificial-intelligence/why-moderna-merged-hr-and-it-to-better-architect-the-flow-of-work/ (fiche créée: unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27.md)
+- https://www.valence.co/blog/writing-the-ai-hr-playbook-with-ethan-mollick (fiche créée: mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23.md)
+- https://www.legal.io/articles/5719519/MIT-Report-Finds-95-of-AI-Pilots-Fail-to-Deliver-ROI-Exposing-GenAI-Divide (fiche créée: mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23.md)
+- https://joshbersin.com/2025/10/the-pivotal-role-of-chief-hr-officer-in-ai-transformation/ (fiche créée: bersin-chro-pivotal-role-ai-transformation-2025-10-10.md)
+-->
+

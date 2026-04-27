@@ -1,10 +1,10 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 8 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 4 fiches sources
 
 ## Attributs
 
-- **catégorie** : Agent de codage autonome OpenAI
+- **catégorie** : Agent de codage (OpenAI)
 
 ## Relations (comme sujet)
 
@@ -22,6 +22,11 @@
 
 - [[kb/_entites-mineures#Harnais-dans-la-boucle\|Harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
+### fait_partie_de
+
+- [[kb/_entites-mineures#Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
+  - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
 ### incarne
 
@@ -49,3 +54,4 @@
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+- [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]

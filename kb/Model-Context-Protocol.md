@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 4 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,11 @@
 
 - [[kb/_entites-mineures#accès-outils-cyberattaque\|accès outils cyberattaque]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
+
+### est_un
+
+- [[kb/_entites-mineures#protocole-d'Agentic-Web\|protocole d'Agentic Web]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
 
 ### intègre
 

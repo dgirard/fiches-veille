@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 38 relations | 18 fiches sources
+> **Type** : ORGANISATION | 40 relations | 18 fiches sources
 
 ## Attributs
 
@@ -140,8 +140,10 @@
 
 ## Relations (comme objet)
 
+- [[kb/Moderna\|Moderna]] **a_partenarié_avec** → OpenAI — 0.98
 - [[kb/Shopify\|Shopify]] **collabore_avec** → OpenAI — 0.98
 - [[kb/Sam-Altman\|Sam Altman]] **dirige** → OpenAI — 0.98
+- [[kb/Moderna\|Moderna]] **partenarié_avec** → OpenAI — 0.98
 - [[kb/Elon-Musk\|Elon Musk]] **a_cofondé** → OpenAI — 0.97
 - [[kb/Elon-Musk\|Elon Musk]] **a_quitté** → OpenAI — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96

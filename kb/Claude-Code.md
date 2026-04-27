@@ -1,13 +1,13 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 85 relations | 33 fiches sources
+> **Type** : TECHNOLOGIE | 87 relations | 34 fiches sources
 
 ## Attributs
 
 - **approche** : Recherche directe via grep/glob sans indexation
 - **atout** : Suivi d'instructions, génération de code, utilisation d'outils
 - **auto-écriture** : ~90% du code écrit par lui-même
-- **catégorie** : Agent de codage CLI
+- **catégorie** : Agent de codage CLI (Anthropic)
 - **date_création** : Septembre 2024
 - **fenêtre_contexte** : 1 million de tokens
 - **interface** : agent CLI terminal-first
@@ -157,6 +157,11 @@
 - [[kb/_entites-mineures#60%-du-travail-des-employés\|60% du travail des employés]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
 
+### fait_partie_de
+
+- [[kb/_entites-mineures#Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
+  - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
 ### favorise
 
 - [[kb/_entites-mineures#développeurs-full-stack\|développeurs full-stack]] (CONCEPT) — 0.88, DYNAMIQUE
@@ -278,6 +283,7 @@
 - [[kb/Boris-Cherny\|Boris Cherny]] **a_cofondé** → Claude Code — 0.98
 - [[kb/Cat-Wu\|Cat Wu]] **a_cofondé** → Claude Code — 0.98
 - [[kb/Agent-Skills\|Agent Skills]] **est_compatible_avec** → Claude Code — 0.98
+- [[kb/Superpowers\|Superpowers]] **est_compatible_avec** → Claude Code — 0.98
 - [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] **s_intègre_avec** → Claude Code — 0.98
 - [[kb/SuperClaude\|SuperClaude]] **transforme** → Claude Code — 0.98
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Code — 0.97
@@ -326,6 +332,7 @@
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
 - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|Guillermo Rauch - CLI comme abstraction fondamentale des agents de codage - Claude Code comme IA pour l'OS]]
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
+- [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]

@@ -1,10 +1,11 @@
 # Kent Beck
 
-> **Type** : PERSONNE | 13 relations | 3 fiches sources
+> **Type** : PERSONNE | 15 relations | 4 fiches sources
 
 ## Attributs
 
-- **rôle** : Créateur de TDD, auteur Augmented Coding
+- **newsletter** : Tidy First? (Substack)
+- **rôle** : Co-auteur Manifeste Agile, créateur XP, analyste codage augmenté
 
 ## Relations (comme sujet)
 
@@ -29,6 +30,11 @@
 - [[kb/_entites-mineures#yak-shaving-éliminé-avec-IA\|"yak shaving éliminé avec IA"]] (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### analyse
+
+- [[kb/_entites-mineures#limites-d'usage-services-IA\|limites d'usage services IA]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### applique
 
 - [[kb/_entites-mineures#TDD\|TDD]] (METHODOLOGIE) — 0.98, STATIQUE
@@ -48,6 +54,11 @@
 - [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### pratique
+
+- [[kb/_entites-mineures#codage-augmenté-quotidien\|codage augmenté quotidien]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### publie
 
 - [[kb/_entites-mineures#Augmented-Coding-Beyond-the-Vibes\|Augmented Coding: Beyond the Vibes]] (EVENEMENT) — 0.90, STATIQUE
@@ -61,5 +72,6 @@
 ## Fiches sources
 
 - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
+- [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]

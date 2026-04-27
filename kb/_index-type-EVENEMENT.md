@@ -1,8 +1,13 @@
 # Index — EVENEMENT
 
-> 30 entités de type EVENEMENT
+> 35 entités de type EVENEMENT
 
+- [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#3000+-GPTs-Moderna\|3000+ GPTs Moderna]] — contexte: Métrique adoption GenAI Moderna en juin 2025 (×4 vs avril 2024) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#750-GPTs-en-2-mois\|750 GPTs en 2 mois]] — contexte: Métrique-phare adoption ChatGPT Enterprise chez Moderna (1 occ., 1 fiches)
+- [[kb/_entites-mineures#95%-AI-pilots-fail\|95% AI pilots fail]] — contexte: Statistique-pivot 2025 sur l'échec ROI des pilotes IA en entreprise (MIT NANDA) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-&-the-Workforce-The-Adoption-Gap\|AI & the Workforce: The Adoption Gap]] — description: Sommet virtuel Valence avec keynote Mollick (juillet 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (3 occ., 1 fiches)

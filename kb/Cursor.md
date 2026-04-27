@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 13 relations | 12 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 12 fiches sources
 
 ## Attributs
 
@@ -44,6 +44,7 @@
 - [[kb/Kiro\|Kiro]] **concurrence** → Cursor — 0.97
 - [[kb/Linear\|Linear]] **intègre** → Cursor — 0.97
 - [[kb/Weave\|Weave]] **intègre** → Cursor — 0.92
+- [[kb/Superpowers\|Superpowers]] **est_compatible_avec** → Cursor — 0.90
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] **utilise** → Cursor — 0.87
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **s_oppose_à** → Cursor — 0.80
 

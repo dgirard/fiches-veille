@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 63 relations | 32 fiches sources
+> **Type** : ORGANISATION | 64 relations | 32 fiches sources
 
 ## Attributs
 
@@ -63,6 +63,11 @@
 
 - [[kb/_entites-mineures#4-milliards-de-dollars-de-revenus\|4 milliards de dollars de revenus]] (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
+
+### a_implémenté
+
+- [[kb/_entites-mineures#limites-d'usage-simultanées\|limites d'usage simultanées]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
 ### a_lancé
 

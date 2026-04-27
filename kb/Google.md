@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 34 relations | 15 fiches sources
+> **Type** : ORGANISATION | 36 relations | 15 fiches sources
 
 ## Attributs
 
@@ -68,6 +68,11 @@
 - [[kb/_entites-mineures#Gemini-20-45%\|Gemini 20-45%]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 
+### dispose_avantage_sur
+
+- [[kb/_entites-mineures#allocation-GPU-vs-concurrents\|allocation GPU vs concurrents]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
+
 ### développe
 
 - [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
@@ -82,6 +87,11 @@
 
 - [[kb/_entites-mineures#milliards-de-requêtes-de-recherche\|milliards de requêtes de recherche]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google - Demand-led marketing - Budget 2026 - Marketing strategy - Data-driven - Google insights - CMO guidance]]
+
+### fabrique
+
+- [[kb/_entites-mineures#TPU-(puces-custom)\|TPU (puces custom)]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
 ### fait_face_à
 
