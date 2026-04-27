@@ -129,6 +129,16 @@ URLs non accessibles:
 
 <!-- URLs traitées le 2026-04-23:
 - https://sierra.ai/blog/the-ai-native-interview (fiche créée: sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22.md)
+- https://sierra.ai/blog/the-ai-native-interview (fiche créée: taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20.md — site bloqué 403, fiche basée sur sources secondaires)
+-->
+
+<!-- URL en attente - 2026-04-24:
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdmyJWgXP&urlhash=aUNE&mt=PMpFTh_rllDVrLevzo7E8MUupBVjuia6L3hNNO-REJpdxfe7xf43HU6lqp9KoSsU2rnIxA11xgROLY03qtMdnoENZAVF3Oz61REHZ7mlRsEXjov8MPx43g&isSdui=true
+Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scraping (403). URL réelle de destination inconnue — en attente de l'URL directe.
+-->
+
+<!-- URLs traitées le 2026-04-25:
+- https://www.anthropic.com/engineering/april-23-postmortem (fiche créée: anthropic-claude-code-quality-postmortem-2026-04-23.md)
 -->
 
 <!-- URLs traitées le 2026-04-27 (dossier RH-organisationnel HR is R&D now):
@@ -138,4 +148,3 @@ URLs non accessibles:
 - https://www.legal.io/articles/5719519/MIT-Report-Finds-95-of-AI-Pilots-Fail-to-Deliver-ROI-Exposing-GenAI-Divide (fiche créée: mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23.md)
 - https://joshbersin.com/2025/10/the-pivotal-role-of-chief-hr-officer-in-ai-transformation/ (fiche créée: bersin-chro-pivotal-role-ai-transformation-2025-10-10.md)
 -->
-
