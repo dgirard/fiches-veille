@@ -148,3 +148,12 @@ Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scr
 - https://www.legal.io/articles/5719519/MIT-Report-Finds-95-of-AI-Pilots-Fail-to-Deliver-ROI-Exposing-GenAI-Divide (fiche créée: mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23.md)
 - https://joshbersin.com/2025/10/the-pivotal-role-of-chief-hr-officer-in-ai-transformation/ (fiche créée: bersin-chro-pivotal-role-ai-transformation-2025-10-10.md)
 -->
+
+<!-- URLs traitées le 2026-04-27 (dossier harness engineering):
+- https://addyosmani.com/blog/agent-harness-engineering/ (fiche créée: osmani-agent-harness-engineering-2026-04-19.md)
+-->
+
+<!-- URLs traitées le 2026-04-28:
+- https://www.lesechos.fr/travailler-mieux/vie-au-travail/on-est-dans-une-boite-de-petri-la-silicon-valley-ce-pays-ou-les-agents-ia-sont-deja-des-collegues-2227863 (fiche créée: debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22.md)
+- https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry (fiche créée: bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05.md)
+-->
