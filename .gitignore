@@ -19,3 +19,9 @@ temp/
 # Répertoires de travail
 copywriting/
 docs/deep research/
+
+# Python build artifacts (post-review pass 2 — ajout des tests scripts/tests/)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/

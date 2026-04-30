@@ -345,3 +345,46 @@ Le fichier `index.md` est l'index principal qui référence toutes les fiches. I
 **Sources** : Nom court reconnaissable (ex: "LinkedIn", "Pragmatic Engineer", "Revue Thomiste")
 
 **Thématiques** : Utiliser les catégories existantes en priorité, ne créer une nouvelle catégorie que si vraiment nécessaire
+
+---
+
+## Frontmatter de promotion vers le référentiel transverse cabinet (v3, 2026-04-30)
+
+> Section ajoutée par le plan ATransverse v3 — Unit 4. Voir
+> `ATransverse/docs/plans/2026-04-29-001-feat-pipeline-capitalisation-v3.1-plan.md`
+> et `ATransverse/docs/architecture/2026-04-29-architecture-pipeline-capitalisation-v3.1.md` § 8.
+
+Une fiche peut être marquée comme **candidate à promotion** vers le référentiel transverse cabinet (ATransverse) via l'ajout d'un bloc YAML frontmatter en tête de fichier :
+
+```yaml
+---
+cabinet_promotion_candidate: true
+proposed_class: Concept            # Concept | Pattern | Framework | BenchmarkDatapoint
+proposed_capability: capability/software-factory
+notes: "Aligne avec ce qu'on observe chez 3 clients"
+---
+# <Identifiant Technique>
+
+## Veille
+…
+```
+
+Le frontmatter est **optionnel** : seules les fiches candidates en sont enrichies. Une fiche sans frontmatter reste une fiche valide.
+
+### Compatibilité — patch obligatoire de `extract_fiche_veille()`
+
+`scripts/build_knowledge_base.py` :: `extract_fiche_veille()` a été patché pour ignorer un éventuel bloc YAML frontmatter en tête. **Ne pas régresser ce patch** — sans skip, la première ligne non-`#` retournée serait `---`, ce qui produirait un alias incorrect pour toutes les fiches portant un frontmatter.
+
+Test de régression : `scripts/tests/test_frontmatter_compat.py` (7 tests, à conserver verts).
+
+### Workflow Pont V
+
+1. À l'ajout d'une fiche jugée candidate à promotion, enrichir le frontmatter avec les 4 champs ci-dessus (cf. `ATransverse/docs/templates-drafts/atransverse/concept.md` ou autre template selon `proposed_class`).
+2. Optionnellement, ajouter une entrée détaillée dans `_capitalization/to-transverse.md` à la racine de ce dépôt.
+3. Le Lab transverse parcourt le `_capitalization/to-transverse.md` en revue mensuelle (cf. `ATransverse/docs/governance-drafts/lab-charter.md`) et tranche promote / clarification_needed / reject.
+4. Si `promote` : un asset transverse est créé dans `ATransverse/00-raw/from-pont-v/` avec `references_external` pointant vers le `fiche_id` ici.
+
+### Anti-patterns
+
+- **Modifier l'identifiant de la fiche après marquage** : casse la traçabilité du `fiche_id` côté transverse.
+- **Réutiliser le frontmatter pour autre chose que la promotion cabinet** : si le besoin émerge, ajouter une nouvelle convention sans casser celle-ci (cf. `ontology/ontology.yaml` côté ATransverse pour le schéma autoritaire).

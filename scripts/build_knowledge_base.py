@@ -212,17 +212,34 @@ def entity_to_filename(name: str) -> str:
 
 
 def extract_fiche_veille(filepath: str) -> str:
-    """Extrait la ligne ## Veille d'une fiche pour l'utiliser comme alias."""
+    """Extrait la ligne ## Veille d'une fiche pour l'utiliser comme alias.
+
+    Compatibilité v3 (post-review pass 2 du plan ATransverse) :
+    Si le fichier débute par un bloc YAML frontmatter (`---` … `---`),
+    il est ignoré avant d'appliquer la logique d'extraction. Sans ce skip,
+    la première ligne non-`#` rencontrée serait `---` lui-même, qui
+    deviendrait l'alias de la fiche — régression silencieuse de la KB.
+    """
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line.startswith("## Veille"):
-                    continue
-                if line.startswith("## "):
+            lines = f.readlines()
+
+        # Skip optional YAML frontmatter (--- … ---) at the top
+        start_idx = 0
+        if lines and lines[0].strip() == "---":
+            for i in range(1, len(lines)):
+                if lines[i].strip() == "---":
+                    start_idx = i + 1
                     break
-                if line and not line.startswith("#"):
-                    return line
+
+        for line in lines[start_idx:]:
+            line = line.strip()
+            if line.startswith("## Veille"):
+                continue
+            if line.startswith("## "):
+                break
+            if line and not line.startswith("#"):
+                return line
     except (OSError, UnicodeDecodeError):
         pass
     return ""
