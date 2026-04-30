@@ -1,3 +1,9 @@
+---
+cabinet_promotion_candidate: true
+proposed_class: Concept
+proposed_capability: capability/software-factory
+notes: "Pièce de consolidation doctrinale du harness engineering — applicable à l'adoption d'agents IA dans les missions cabinet."
+---
 # osmani-agent-harness-engineering-2026-04-19
 
 ## Veille
