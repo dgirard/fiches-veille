@@ -158,6 +158,12 @@ Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scr
 - https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry (fiche créée: bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05.md)
 -->
 
-https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fegfhni_H&urlhash=uhUJ&mt=iMgukLGm20argNzRbwSkTigGLla5eoewe1qGrm0d2KOX_Pz5ogwpjbFMtmLjYiq5-fhBsvdUhB0gDfbCXrKxcnjHPLg8Q9CZZrTkqhM3lpdNhF_MgDyveA&isSdui=true
+<!-- URLs traitées le 2026-05-02:
+- https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html (fiche créée: sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md — contenu fourni par utilisateur, fetch direct bloqué par NYT)
+-->
 
-https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html
+<!-- URL en attente - 2026-05-02:
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fegfhni_H&urlhash=uhUJ&mt=iMgukLGm20argNzRbwSkTigGLla5eoewe1qGrm0d2KOX_Pz5ogwpjbFMtmLjYiq5-fhBsvdUhB0gDfbCXrKxcnjHPLg8Q9CZZrTkqhM3lpdNhF_MgDyveA&isSdui=true
+Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par utilisateur (2026-05-02).
+-->
+

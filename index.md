@@ -8,6 +8,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Avril 2026
 
+- **[2026-04-30]** [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) - San Francisco consensus, Amodei white-collar blood bath 50% jobs 2030, OpenAI white paper Industrial Policy Intelligence Age, Anthropic Institute Jack Clark, GDPVal 80% win rate, Block -50% Dorsey, Shor jobs guarantee, firebomb Altman, "the short run can be a lifetime" - NYT Opinion (Jasmine Sun)
 - **[2026-04-29]** [Andrej Karpathy: From Vibe Coding to Agentic Engineering](fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29.md) - Bascule December 2025, Software 1.0/2.0/3.0, MenuGen vs Nanobanana, verifiability, jagged intelligence, animals vs ghosts, hiring par projets adversariels, "outsource thinking not understanding" - YouTube AI Startup School (Andrej Karpathy)
 - **[2026-04-29]** [The 2026 AI engineer roadmap (5 projets portfolio)](fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04.md) - Gap 150k$ prompt engineer vs systems architect, 5 projets niveau (mobile SLM → self-improving agent → video editor multimodal → personal life OS → enterprise workflow), replaceable vs unfireable - X (Rohit @rohit4verse)
 - **[2026-04-23]** [Post-mortem qualité Claude Code mars-avril 2026](fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23.md) - Trois incidents reasoning/caching/prompt, bug clear_thinking cascade, -3% intelligence verbosité - Anthropic Engineering
@@ -461,6 +462,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
+- [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) - Jasmine Sun (NYT Opinion)
 - [The Age of Open Agentic Commerce](fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19.md) - Sam Ragsdale (Merit Systems)
 - [Logiciels et cloud : prédateurs budgets IT](fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md) - Guillaume Geudin (CIO Online)
 - [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Philippe Ensarguet
@@ -557,7 +559,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 228
+- **Total d'articles** : 229
 - **Période couverte** : Décembre 1975 - Avril 2026
 - **Principaux auteurs** : Ethan Mollick (9), Google (10), Anthropic (10), OpenAI (5), Andrej Karpathy (2), Martin Fowler (2), Tony Seale (2), Josh Bersin (1), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Vijay Iyengar & Arya Asemanfar & Angie Wang (1), Bret Taylor (1), Tracey Franklin (1), Allie Nawrat / UNLEASH (1), Alex McMurray / Valence (1), MIT NANDA (1), Addy Osmani (1), Florian Dèbes (1), BCG / Julie Bedard et al. (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog, UNLEASH, Valence, Legal.io, Josh Bersin Company.
