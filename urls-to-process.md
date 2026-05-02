@@ -157,3 +157,7 @@ Note: lien raccourci LinkedIn (lnkd.in/dmyJWgXP) bloqué par protection anti-scr
 - https://www.lesechos.fr/travailler-mieux/vie-au-travail/on-est-dans-une-boite-de-petri-la-silicon-valley-ce-pays-ou-les-agents-ia-sont-deja-des-collegues-2227863 (fiche créée: debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22.md)
 - https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry (fiche créée: bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05.md)
 -->
+
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fegfhni_H&urlhash=uhUJ&mt=iMgukLGm20argNzRbwSkTigGLla5eoewe1qGrm0d2KOX_Pz5ogwpjbFMtmLjYiq5-fhBsvdUhB0gDfbCXrKxcnjHPLg8Q9CZZrTkqhM3lpdNhF_MgDyveA&isSdui=true
+
+https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html
