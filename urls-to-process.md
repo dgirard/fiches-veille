@@ -174,3 +174,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://ideas.fin.ai/p/2x-nine-months-later (fiche créée: curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16.md)
 - https://www.wenvision.com/fr/articles/un-repo-un-agent-un-ide-pourquoi-proj-ai/ (fiche créée: habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05.md)
 -->
+
+https://github.com/techygarg/lattice
