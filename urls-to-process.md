@@ -173,6 +173,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://thestrategystack.substack.com/p/ai-market-research-tension-map (fiche créée: pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30.md)
 - https://ideas.fin.ai/p/2x-nine-months-later (fiche créée: curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16.md)
 - https://www.wenvision.com/fr/articles/un-repo-un-agent-un-ide-pourquoi-proj-ai/ (fiche créée: habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05.md)
+- https://github.com/techygarg/lattice (fiche créée: techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05.md)
 -->
-
-https://github.com/techygarg/lattice
