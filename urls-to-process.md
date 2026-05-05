@@ -175,4 +175,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://www.wenvision.com/fr/articles/un-repo-un-agent-un-ide-pourquoi-proj-ai/ (fiche créée: habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05.md)
 - https://github.com/techygarg/lattice (fiche créée: techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05.md)
 - https://www.youtube.com/watch?v=SlGRN8jh2RI (fiche créée: cherny-sequoia-coding-is-solved-loops-printing-press-2026-05.md — interview Sequoia, transcript fourni par utilisateur)
+- https://www.linkedin.com/pulse/year-claude-code-my-output-doubled-attention-span-didnt-frizzo-atmoe/ (fiche créée: frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05.md)
 -->
