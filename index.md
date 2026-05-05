@@ -22,6 +22,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2026-04-20]** [The AI-native interview : refonte recrutement ingénieurs](fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20.md) - Abandon LeetCode, onsite Plan/Build/Review 2h avec IA, recrutement par les forces - Sierra Blog (Bret Taylor)
 - **[2026-04-19]** [Agent Harness Engineering](fiches/2026-04/osmani-agent-harness-engineering-2026-04-19.md) - Synthèse doctrinale, équation agent=model+harness, ratchet principle, Top 30→Top 5 Terminal Bench, HaaS - addyosmani.com (Addy Osmani / Google)
 - **[2026-04-17]** [Semantic Agent : (Model+Harness) + (Ontology+Data)](fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17.md) - Effondrement frameworks d'agents, symétrie modèle+harnais / ontologie+données, ontologie comme seul moat - LinkedIn (Tony Seale)
+- **[2026-04-16]** [2× nine months later: We did it (3× productivité R&D Intercom)](fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16.md) - Engagement public 2× tenu et dépassé (3× sur 16 mois), 93.6% PRs agent-driven, 19.2% AI-approved (cible >50%), cost/PR -50%, top 5% à 6× median, Skills-Based Plugin Architecture (153 contributeurs, 267 skills), 1100 utilisateurs Claude Code Intercom-wide, agent-first principle décrété - Fin Ideas / Substack (Darragh Curran, Intercom)
 - **[2026-04-14]** [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) - Rewind, compact, subagents, context rot ~300-400k tokens, bonnes pratiques - X (Thariq/Anthropic)
 - **[2026-04]** [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) - Goût développeur, jugement vs AI slop, embauche pour le goût - Substack (Fran Soto)
 - **[2026-04-02]** [Superpowers: framework de skills agentiques](fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02.md) - Skills SKILL.md, TDD strict, brainstorming, mémoire conversationnelle, 130k+ étoiles - GitHub (Jesse Vincent / Prime Radiant)
@@ -30,6 +31,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 ### Mars 2026
 
 - **[2026-03-31]** [Compound Engineering: 3/31/2026](fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31.md) - Review obligatoire, scoring confiance -49% faux positifs, ce:work prompts bruts - X (Trevin Chow)
+- **[2026-03-30]** [How to Use AI for Market Research (Tension Map)](fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30.md) - Living decision surface, Tension Map vs parts de marché, 3 modes Discovery/Tension/Decision, 7-step workflow, stack Perplexity→Claude→ChatGPT→Multi-agent, Heuer ACH/CIA - The Strategy Stack (Alex Pawlowski)
 - **[2026-03-27]** [Does LLMs / Vibe coding mean more or fewer developers?](fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27.md) - Paradoxe Jevons, effet Reine Rouge, sysadmin→DevOps, Human-AI integrator - LinkedIn (Simon Wardley)
 - **[2026-03]** [Rapport d'analyse ALMIA — Plateforme IA générative AG2R LA MONDIALE](fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03.md) - 7000 utilisateurs, 4 piliers, cloud souverain S3NS, Champions IA - Deep Research
 - **[2026-03-19]** [The Age of Open Agentic Commerce](fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19.md) - Protocoles x402/mpp, micropaiements stablecoins, fin pub, AOL vs HTTP - Merit Systems (Sam Ragsdale)
@@ -299,6 +301,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Agents de codage IA & Skills
 - [Andrej Karpathy: From Vibe Coding to Agentic Engineering](fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29.md) - Andrej Karpathy (AI Startup School)
+- [2× nine months later: We did it (3× productivité R&D Intercom)](fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16.md) - Darragh Curran (Intercom / Fin Ideas)
 - [The 2026 AI engineer roadmap (5 projets portfolio)](fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04.md) - Rohit (@rohit4verse, X)
 - [Superpowers: framework de skills agentiques](fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02.md) - Jesse Vincent / Prime Radiant
 - [Compound Engineering: 3/31/2026](fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31.md) - Trevin Chow
@@ -470,6 +473,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ### Économie & Marché
 - [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) - Jasmine Sun (NYT Opinion)
+- [How to Use AI for Market Research (Tension Map)](fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30.md) - Alex Pawlowski (The Strategy Stack)
 - [The Age of Open Agentic Commerce](fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19.md) - Sam Ragsdale (Merit Systems)
 - [Logiciels et cloud : prédateurs budgets IT](fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26.md) - Guillaume Geudin (CIO Online)
 - [Beyond Brain Speed: The Economics of Computation](fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11.md) - Philippe Ensarguet
@@ -566,7 +570,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 ## Statistiques
 
-- **Total d'articles** : 231
+- **Total d'articles** : 233
 - **Période couverte** : Décembre 1975 - Mai 2026
 - **Principaux auteurs** : Ethan Mollick (9), Google (10), Anthropic (10), OpenAI (5), Andrej Karpathy (2), Martin Fowler (2), Tony Seale (2), Josh Bersin (1), McKinsey (1), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (1), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Vijay Iyengar & Arya Asemanfar & Angie Wang (1), Bret Taylor (1), Tracey Franklin (1), Allie Nawrat / UNLEASH (1), Alex McMurray / Valence (1), MIT NANDA (1), Addy Osmani (1), Florian Dèbes (1), BCG / Julie Bedard et al. (1), et al.
 - **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog, UNLEASH, Valence, Legal.io, Josh Bersin Company.
