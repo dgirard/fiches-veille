@@ -168,4 +168,6 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 -->
 
 
-https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities
+<!-- URLs traitées le 2026-05-05:
+- https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities (fiche créée: aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30.md — site bloqué 403, fiche basée sur sources secondaires multiples)
+-->
