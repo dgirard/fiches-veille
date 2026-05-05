@@ -167,3 +167,5 @@ https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fegfhni_H&urlha
 Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par utilisateur (2026-05-02).
 -->
 
+
+https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities
