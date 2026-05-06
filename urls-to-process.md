@@ -177,3 +177,7 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://www.youtube.com/watch?v=SlGRN8jh2RI (fiche créée: cherny-sequoia-coding-is-solved-loops-printing-press-2026-05.md — interview Sequoia, transcript fourni par utilisateur)
 - https://www.linkedin.com/pulse/year-claude-code-my-output-doubled-attention-span-didnt-frizzo-atmoe/ (fiche créée: frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05.md)
 -->
+
+<!-- URLs traitées le 2026-05-06:
+- https://addyosmani.com/blog/cognitive-surrender/ (fiche créée: osmani-cognitive-surrender-comprehension-debt-2026-05-05.md — 4ᵉ fiche Osmani du dossier)
+-->
