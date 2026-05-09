@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 1272 entités avec moins de 3 triples/fiches
+> 1580 entités avec moins de 3 triples/fiches
 
-## PERSONNE (236)
+## PERSONNE (276)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -36,6 +36,14 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens, design cache-friendly]], [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
 
+### Aaron Wanjala {#Aaron-Wanjala}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Abhishek Kankani {#Abhishek-Kankani}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -64,6 +72,16 @@
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
 
+### Alex Bores {#Alex-Bores}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Candidat NY congressional, propose safety regulation IA + paiements directs financés par taxe IA
+
+- [[kb/_entites-mineures#Leading-the-Future-PAC\|Leading the Future PAC]] **s_oppose_à** → Alex Bores — 0.96
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Alex McMurray {#Alex-McMurray}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -71,6 +89,17 @@
 - **rôle** : Cofounder et VP of Sales chez Valence
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### Alex Pawlowski {#Alex-Pawlowski}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur de The Strategy Stack (Substack), focus stratégie et IA opérationnelle
+
+- **a_créé** → [[kb/Tension-Map\|Tension Map]] (METHODOLOGIE) — 0.97
+- **publie** → [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### Alex Tamkin {#Alex-Tamkin}
 
@@ -129,6 +158,14 @@
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
 
+### Andre Ellis Jr. {#Andre-Ellis-Jr.}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Cloud Financial Operations Lead Google Cloud, Morehouse College + Wharton MBA, co-auteur DORA ROI 2026
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Andrew Carton {#Andrew-Carton}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -162,16 +199,6 @@
 
 **Fiches** : [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block - Goose - MCP - UI future - Agentic interfaces - Model Context Protocol - Square - Developer tools]], [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI révolutionne interfaces agents IA, composants web interactifs, sandboxed iframes, accessibilité, générative UI - Goose/Block]]
 
-### Andrew Ng {#Andrew-Ng}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **affiliation** : DeepLearning.AI
-
-- **recommande** → [[kb/_entites-mineures#analyse_d_erreurs\|analyse_d_erreurs]] (METHODOLOGIE) — 0.95
-
-**Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
-
 ### Andy Wu {#Andy-Wu}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -202,6 +229,16 @@
 - [[kb/Sierra\|Sierra]] **emploie** → Angie Wang — 0.95
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### Anton Korinek {#Anton-Korinek}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste UVA + Anthropic Institute, thèse "no human job is invulnerable long-run"
+
+- **affirme_que** → [[kb/_entites-mineures#aucun-job-humain-n'est-invulnérable-long-run\|aucun job humain n'est invulnérable long-run]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Aristidis Vasilopoulos {#Aristidis-Vasilopoulos}
 
@@ -340,6 +377,17 @@
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
 
+### Babak Hodjat {#Babak-Hodjat}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Directeur de l'IA chez Cognizant
+
+- **dirige_IA_chez** → [[kb/_entites-mineures#Cognizant\|Cognizant]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#la-fatigue-IA-vient-quand-le-résultat-délégué-est-passable-et-qu'il-faut-tout-reprendre\|la fatigue IA vient quand le résultat délégué est passable et qu'il faut tout reprendre]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Barbara Eldredge {#Barbara-Eldredge}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -389,6 +437,14 @@
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
 
+### Bharat Ramamurti {#Bharat-Ramamurti}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Ex-deputy director NEC Biden, "China shock could happen over two years"
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Bill Chen {#Bill-Chen}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -400,18 +456,6 @@
 - [[kb/OpenAI\|OpenAI]] **emploie** → Bill Chen — 0.95
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
-
-### Birgitta Böckeler {#Birgitta-Böckeler}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **expérience** : 20+ ans en développement logiciel, architecture et leadership technique
-- **rôle** : Distinguished Engineer, experte IA-assisted delivery chez Thoughtworks
-
-- **a_écrit** → [[kb/_entites-mineures#Harness-engineering-for-coding-agent-users\|Harness engineering for coding agent users]] (CONCEPT) — 0.99
-- **travaille_chez** → [[kb/Thoughtworks\|Thoughtworks]] (ORGANISATION) — 0.98
-
-**Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
 ### Bouddha {#Bouddha}
 
@@ -444,6 +488,17 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
 
+### Bret Taylor {#Bret-Taylor}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Co-fondateur et CEO de Sierra, président du conseil d'OpenAI
+
+- **est_cofondateur_de** → [[kb/Sierra\|Sierra]] (ORGANISATION) — 0.98
+- **a_publié** → [[kb/_entites-mineures#The-AI-native-interview\|The AI-native interview]] (EVENEMENT) — 0.95
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
 ### Brian Fioca {#Brian-Fioca}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -455,6 +510,16 @@
 - [[kb/OpenAI\|OpenAI]] **emploie** → Brian Fioca — 0.95
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+
+### Brian Scanlan {#Brian-Scanlan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Membre Intercom, auteur du thread viral sur plugin ecosystem agent-first
+
+- **a_publié** → [[kb/_entites-mineures#thread-viral-plugin-ecosystem\|thread viral plugin ecosystem]] (EVENEMENT) — 0.94
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### Brice Challamel {#Brice-Challamel}
 
@@ -486,6 +551,16 @@
 - **affirme_que** → [[kb/_entites-mineures#programmation-supervisée\|programmation supervisée]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
+
+### Carl Benedikt Frey {#Carl-Benedikt-Frey}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste Oxford, auteur citation "the short run can be a lifetime"
+
+- **affirme_que** → [[kb/_entites-mineures#the-short-run-can-be-a-lifetime\|"the short run can be a lifetime"]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Celso Martinho {#Celso-Martinho}
 
@@ -523,6 +598,16 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
 
+### Christina Lu {#Christina-Lu}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheuse MATS / Oxford, en collaboration Anthropic
+
+- **a_proposé** → [[kb/_entites-mineures#l'assistant-axis-et-l'activation-capping\|l'assistant axis et l'activation capping]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### Confucius {#Confucius}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -532,6 +617,16 @@
 - **a_enseigné** → [[kb/_entites-mineures#auto-examen-quotidien\|auto-examen quotidien]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
+
+### Cormac {#Cormac}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée)
+
+- **dirige** → [[kb/_entites-mineures#data-analytics-platform-Intercom-(Streamlit-Snowflake)\|data analytics platform Intercom (Streamlit-Snowflake)]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### Daisy Zhao {#Daisy-Zhao}
 
@@ -561,16 +656,6 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]]
 
-### Dario Amodei {#Dario-Amodei}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : CEO d'Anthropic
-
-- **a_enrichi** → [[kb/_entites-mineures#définition-du-vibe-coding\|définition du vibe coding]] (CONCEPT) — 0.85
-
-**Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
-
 ### Dave Crossland {#Dave-Crossland}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -578,6 +663,16 @@
 - **rôle** : Co-auteur article
 
 **Fiches** : [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Google Sans Flex - évolution typographie Google design piloté par besoins]]
+
+### David Autor {#David-Autor}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste MIT, thèse new industries will emerge (contrepoint underclass)
+
+- **s_oppose_à** → [[kb/_entites-mineures#thèse-permanent-underclass\|thèse permanent underclass]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### David Kiron {#David-Kiron}
 
@@ -610,6 +705,16 @@
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security]]
 
+### David Shor {#David-Shor}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Pollster Démocrate, stratégiste messaging IA pour 2028
+
+- **recommande** → [[kb/_entites-mineures#federal-jobs-guarantee-comme-messaging-gagnant\|federal jobs guarantee comme messaging gagnant]] (METHODOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Deedy Das {#Deedy-Das}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -635,6 +740,16 @@
 - **rôle** : Co-auteur rapport, Menlo Ventures
 
 **Fiches** : [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|menlovc-state-generative-ai-enterprise-2025-12-09]]
+
+### Dex Horthy {#Dex-Horthy}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Tracking pattern harness engineering, HumanLayer
+
+- **dirige** → [[kb/_entites-mineures#HumanLayer\|HumanLayer]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
 ### Dina Kozlov {#Dina-Kozlov}
 
@@ -688,6 +803,14 @@
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
 
+### Eric Maxwell {#Eric-Maxwell}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Lead 10X Technology consulting Google, ex-Chef Software, contributeur DORA team
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Eric Meijer {#Eric-Meijer}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -697,6 +820,17 @@
 - **prédit** → [[kb/_entites-mineures#dernière-génération-à-écrire-du-code-à-la-main\|dernière génération à écrire du code à la main]] (CONCEPT) — 0.82
 
 **Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+
+### Eric Pantera {#Eric-Pantera}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CTO de Swile (Montpellier)
+
+- **dirige_la_tech_de** → [[kb/_entites-mineures#Swile\|Swile]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#les-écarts-d'usage-IA-entre-Meta-et-Montpellier-ne-sont-pas-significatifs\|les écarts d'usage IA entre Meta et Montpellier ne sont pas significatifs]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Erik Brynjolfsson {#Erik-Brynjolfsson}
 
@@ -729,6 +863,16 @@
 
 **Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
 
+### Eva Dong {#Eva-Dong}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026
+
+- **est_AI_Value_Realization_Lead** → [[kb/_entites-mineures#Google-Cloud-Americas\|Google Cloud Americas]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Fabrice Heyries {#Fabrice-Heyries}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -738,6 +882,16 @@
 - **a_lancé** → [[kb/_entites-mineures#stratégie-Esprit-de-conquête\|stratégie Esprit de conquête]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+
+### Fareed Khan {#Fareed-Khan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur du breakdown architecture Claude Code en 7 couches
+
+- **a_documenté** → [[kb/_entites-mineures#architecture-Claude-Code-en-7-couches\|architecture Claude Code en 7 couches]] (DOCUMENT) — 0.92
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
 ### Fergus Hurley {#Fergus-Hurley}
 
@@ -749,6 +903,27 @@
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Google Code Wiki - Documentation code automatisée continuously updated - Gemini-powered chat - Architecture diagrams auto-générés - Public preview website - Gemini CLI extension waitlist - Google Cloud Developer Experiences]]
 
+### Florian Dèbes {#Florian-Dèbes}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Journaliste Les Echos, rubrique Travailler mieux / Vie au travail
+
+- **a_publié** → [[kb/_entites-mineures#reportage-Silicon-Valley-boîte-de-Petri-agents-IA-collègues\|reportage Silicon Valley boîte de Petri agents IA collègues]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### Francesco Bonacci {#Francesco-Bonacci}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Engineer, founder Cua AI, auteur du post X viral "Vibe Coding Paralysis: When Infinite Productivity Breaks Your Brain"
+
+- **a_publié** → [[kb/_entites-mineures#Vibe-Coding-Paralysis-post-X\|Vibe Coding Paralysis post X]] (DOCUMENT) — 0.95
+- **a_fondé** → [[kb/_entites-mineures#Cua-AI\|Cua AI]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Gabriel Vasquez {#Gabriel-Vasquez}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -758,6 +933,16 @@
 - **a_publié** → [[kb/_entites-mineures#One-Prompt-Zero-Engineers\|One Prompt Zero Engineers]] (EVENEMENT) — 0.98
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt Zero Engineers - a16z - No-code - Internal development - Gen AI - Democratization]]
+
+### Gabriella Rosen Kellerman {#Gabriella-Rosen-Kellerman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Expert Partner & Director BCG, psychiatre, co-auteure Tomorrowmind
+
+- **a_co-écrit** → [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Garr Reynolds {#Garr-Reynolds}
 
@@ -800,15 +985,37 @@
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]], [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
 
-### Greg Brockman {#Greg-Brockman}
+### Gideon Nave {#Gideon-Nave}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender
+
+- **a_co_publié** → [[kb/_entites-mineures#étude-1372-participants-Wharton-UPenn\|étude 1372 participants Wharton UPenn]] (EVENEMENT) — 0.96
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Greg Brockman {#Greg-Brockman}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : cofondateur OpenAI
 
 - **affirme_que** → [[kb/_entites-mineures#cycle-vertueux-de-collaboration-IA\|cycle vertueux de collaboration IA]] (CONCEPT) — 0.90
 
+- [[kb/_entites-mineures#Leading-the-Future-PAC\|Leading the Future PAC]] **est_financé_par** → Greg Brockman — 0.93
+
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
+
+### Greg Isenberg {#Greg-Isenberg}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Host podcast indie founders / AI startups, ideabrowser.com
+
+- **anime** → [[kb/_entites-mineures#The-Greg-Isenberg-Show-podcast-solo-founders\|The Greg Isenberg Show / podcast solo founders]] (EVENEMENT) — 0.97
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### Guido Appenzeller {#Guido-Appenzeller}
 
@@ -885,17 +1092,6 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
-### Jack Clark {#Jack-Clark}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **rôle** : Co-fondateur Anthropic, membre AI Index Steering Committee
-
-- **est_cofondateur_de** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.99
-- **fait_partie_de** → [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION) — 0.97
-
-**Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI - AI Index - Annual report - Industry trends - Research metrics - Global AI development]]
-
 ### Jacqui Canney {#Jacqui-Canney}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -926,6 +1122,24 @@
 - **publie_dans** → [[kb/_entites-mineures#Forbes\|Forbes]] (ORGANISATION) — 0.99
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
+
+### Jasmine Sun {#Jasmine-Sun}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Journaliste indépendante (Substack), couvre IA et Silicon Valley culture
+
+- **publie** → [[kb/_entites-mineures#Silicon-Valley-Is-Bracing-for-a-Permanent-Underclass\|Silicon Valley Is Bracing for a Permanent Underclass]] (EVENEMENT) — 0.99
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### Jason Hawes {#Jason-Hawes}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : PhD candidate UC Riverside, Research Assistant BCG
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Jason Lemkin {#Jason-Lemkin}
 
@@ -1053,6 +1267,17 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js]]
 
+### Julie Bedard {#Julie-Bedard}
+
+**Type** : PERSONNE | 2 relations | 2 fiches
+
+- **rôle** : Consultante BCG, auteure du sondage HBR mars 2026 sur l'usage IA
+
+- **a_co-publié** → [[kb/_entites-mineures#When-Using-AI-Leads-to-Brain-Fry\|When Using AI Leads to Brain Fry]] (DOCUMENT) — 0.98
+- **a_publié** → [[kb/_entites-mineures#sondage-BCG-dans-Harvard-Business-Review-mars-2026\|sondage BCG dans Harvard Business Review mars 2026]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]], [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Julien Mangeard {#Julien-Mangeard}
 
 **Type** : PERSONNE | 1 relations | 2 fiches
@@ -1062,6 +1287,17 @@
 - **a_cofondé** → [[kb/Plakar\|Plakar]] (ORGANISATION) — 0.99
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]], [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar - sauvegarde open source française, Kloset stockage immuable, Linux Foundation CNCF, 60x performances S3]]
+
+### Justin Bangay {#Justin-Bangay}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Commercial chez Airbyte (plateforme de flux de données)
+
+- **utilise** → [[kb/_entites-mineures#Claude-pour-préparer-fiches-de-rendez-vous-client\|Claude pour préparer fiches de rendez-vous client]] (METHODOLOGIE) — 0.95
+- **est_employé_par** → [[kb/_entites-mineures#Airbyte\|Airbyte]] (ORGANISATION) — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Justin Reock {#Justin-Reock}
 
@@ -1073,6 +1309,17 @@
 - **affirme_que** → [[kb/_entites-mineures#moyennes-cachent-volatilité-extrême\|moyennes cachent volatilité extrême]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|DX Platform - Engineering Leadership - Productivity Metrics - Psychological Safety - SDLC Constraints]]
+
+### Jérémy Chapeau {#Jérémy-Chapeau}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Ingénieur senior chez SubImage (cybersécurité, France→SF)
+
+- **est_ingénieur_senior_chez** → [[kb/_entites-mineures#SubImage\|SubImage]] (ORGANISATION) — 0.95
+- **a_créé** → [[kb/_entites-mineures#agent-Jarvis-personnel\|agent Jarvis personnel]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Kate Cronin {#Kate-Cronin}
 
@@ -1162,6 +1409,14 @@
 - **présente** → [[kb/_entites-mineures#auto-caching\|auto-caching]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens, design cache-friendly]]
+
+### Lauren Reader {#Lauren-Reader}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Interviewer Sequoia de l'événement Cherny
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### Lei Zhang {#Lei-Zhang}
 
@@ -1373,7 +1628,7 @@
 
 - **rôle** : Partner, McKinsey
 
-- **est_partenaire_de** → [[kb/_entites-mineures#McKinsey\|McKinsey]] (ORGANISATION) — 0.98
+- **est_partenaire_de** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
 
@@ -1411,6 +1666,14 @@
 
 **Fiches** : [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
 
+### Matthew Kropp {#Matthew-Kropp}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Max Schrems {#Max-Schrems}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -1431,6 +1694,14 @@
 - **recommande** → [[kb/_entites-mineures#implémentation-des-deux-protocoles-ACP-et-UCP\|implémentation des deux protocoles ACP et UCP]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique]]
+
+### Megan Hsu {#Megan-Hsu}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Project Leader BCG, BCG Henderson Institute Ambassador
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Meklit Workneh {#Meklit-Workneh}
 
@@ -1503,6 +1774,14 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
+### Molly Kinder {#Molly-Kinder}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Senior fellow Brookings, parallèle white-collar / blue-collar narratives
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Montaigne {#Montaigne}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1540,19 +1819,20 @@
 
 - **rôle** : Partner, McKinsey
 
-- **est_partenaire_de** → [[kb/_entites-mineures#McKinsey\|McKinsey]] (ORGANISATION) — 0.98
+- **est_partenaire_de** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
 
 ### Nathen Harvey {#Nathen-Harvey}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : DORA Lead, Google Cloud
+- **rôle** : Lead DORA team Google Cloud, co-auteur multiples DORA reports + 97 Things Every Cloud Engineer Should Know (O'Reilly 2020)
 
 - **a_publié** → [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (EVENEMENT) — 0.98
+- **dirige** → [[kb/_entites-mineures#DORA-team\|DORA team]] (ORGANISATION) — 0.96
 
-**Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]], [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
 
 ### Navan Chauhan {#Navan-Chauhan}
 
@@ -1636,6 +1916,14 @@
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z - Top 100 Gen AI Consumer Apps - 5th Edition - Market analysis - ChatGPT - Gemini - Grok]]
 
+### Olivia T. Karaman {#Olivia-T.-Karaman}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : PhD candidate UC Riverside, Research Assistant BCG
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Olivier Pomel {#Olivier-Pomel}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1690,13 +1978,14 @@
 
 ### Patrick Joubert {#Patrick-Joubert}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : CEO Rippletide
+- **rôle** : CEO de Rippletide (fiabilité agents IA enterprise)
 
 - **dirige** → [[kb/Rippletide\|Rippletide]] (ORGANISATION) — 0.98
+- **affirme_que** → [[kb/_entites-mineures#le-facteur-limitant-est-la-cognition-humaine\|le facteur limitant est la cognition humaine]] (CONCEPT) — 0.97
 
-**Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]], [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
 
 ### Paul Buchheit {#Paul-Buchheit}
 
@@ -1708,6 +1997,16 @@
 - **affirme_que** → [[kb/_entites-mineures#si-c'est-génial-il-n'a-pas-à-être-bon\|si c'est génial il n'a pas à être bon]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### Paul Sinaï {#Paul-Sinaï}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Fondateur de Blaxel AI (Silicon Valley)
+
+- **a_fondé** → [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Pedro Rodriguez {#Pedro-Rodriguez}
 
@@ -1829,6 +2128,16 @@
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
 
+### Richards Heuer {#Richards-Heuer}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Analyste CIA, auteur de la méthodologie ACH
+
+- **a_créé** → [[kb/_entites-mineures#Analysis-of-Competing-Hypotheses\|Analysis of Competing Hypotheses]] (METHODOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### Riley Ralmuto {#Riley-Ralmuto}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1860,6 +2169,14 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **collabore_avec** → Robert Cialdini — 0.98
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research]]
+
+### Rohit (@rohit4verse) {#Rohit-(@rohit4verse)}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
 ### Roy Lee {#Roy-Lee}
 
@@ -1900,6 +2217,17 @@
 - **travaille_chez** → [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
+
+### Sarah Allali {#Sarah-Allali}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Fondatrice de Lobby (agent IA qui agit en conséquence d'emails)
+
+- **a_fondé** → [[kb/_entites-mineures#Lobby\|Lobby]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#les-humains-ont-un-ego-et-n'aiment-pas-recevoir-des-emails-écrits-par-une-IA\|les humains ont un ego et n'aiment pas recevoir des emails écrits par une IA]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Savir Basil {#Savir-Basil}
 
@@ -1977,6 +2305,17 @@
 - **a_créé** → [[kb/_entites-mineures#Claude-Code-subagents\|Claude Code subagents]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
+
+### Siddhant Khare {#Siddhant-Khare}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Ingénieur indien installé en Allemagne, auteur d'un billet viral sur la fatigue IA
+
+- **affirme_que** → [[kb/_entites-mineures#l'IA-réduit-les-coûts-de-production-mais-augmente-ceux-de-coordination-et-vérification\|l'IA réduit les coûts de production mais augmente ceux de coordination et vérification]] (CONCEPT) — 0.95
+- **recommande** → [[kb/_entites-mineures#ne-pas-utiliser-l'IA-si-résultat-70%-correct-après-3-essais\|ne pas utiliser l'IA si résultat <70% correct après 3 essais]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Simon Belbeoch {#Simon-Belbeoch}
 
@@ -2079,16 +2418,15 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 
-### Steve Yegge {#Steve-Yegge}
+### Steven Shaw {#Steven-Shaw}
 
-**Type** : PERSONNE | 2 relations | 1 fiches
+**Type** : PERSONNE | 1 relations | 1 fiches
 
-- **rôle** : Leader d'opinion technologique, auteur
+- **rôle** : Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender
 
-- **prédit** → [[kb/_entites-mineures#mort-de-l'IDE-traditionnel\|mort de l'IDE traditionnel]] (CONCEPT) — 0.95
-- **travaille_chez** → [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] (ORGANISATION) — 0.90
+- **a_co_publié** → [[kb/_entites-mineures#étude-1372-participants-Wharton-UPenn\|étude 1372 participants Wharton UPenn]] (EVENEMENT) — 0.96
 
-**Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
 
 ### Stéphane Bancel {#Stéphane-Bancel}
 
@@ -2159,6 +2497,14 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
 
+### Tejal Patwardhan {#Tejal-Patwardhan}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Lead frontier evaluations OpenAI, responsable GDPVal
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Thariq {#Thariq}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2220,6 +2566,14 @@
 
 **Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
 
+### Ursula Lübbert-Passing PhD {#Ursula-Lübbert-Passing-PhD}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : AI Value Realization Lead EMEA Google Cloud, 20 ans benchmarking + value advisory, PhD effort estimation software projects
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Vanessa Parli {#Vanessa-Parli}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2262,6 +2616,17 @@
 
 **Fiches** : [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
 
+### Viv Trivedy {#Viv-Trivedy}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Créateur du terme harness engineering, post Anatomy of an Agent Harness
+
+- **a_créé** → [[kb/_entites-mineures#terme-harness-engineering\|terme harness engineering]] (CONCEPT) — 0.97
+- **a_formulé** → [[kb/_entites-mineures#équation-Agent-=-Model-+-Harness\|équation Agent = Model + Harness]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### Vivek Trivedy {#Vivek-Trivedy}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2272,6 +2637,14 @@
 - **travaille_chez** → [[kb/LangChain\|LangChain]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
+### Vivian Hu {#Vivian-Hu}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : 10X Technology Consultant Google Cloud, contributrice DORA 2025 State of AI-assisted Software Development et DORA AI Capabilities Model
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### Webb Wright {#Webb-Wright}
 
@@ -2390,6 +2763,17 @@
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
 
+### techygarg {#techygarg}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur GitHub du framework Lattice + série d'articles martinfowler.com sur cinq collaboration patterns
+
+- **a_créé** → [[kb/Lattice\|Lattice]] (TECHNOLOGIE) — 0.97
+- **publie** → [[kb/_entites-mineures#série-d'articles-sur-martinfowler.com\|série d'articles sur martinfowler.com]] (EVENEMENT) — 0.93
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
 ### u/H9ejFGzpN2 {#u-H9ejFGzpN2}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2400,7 +2784,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (176)
+## ORGANISATION (200)
 
 ### 10x {#10x}
 
@@ -2422,13 +2806,22 @@
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com]]
 
+### @ClaudeDevs {#@ClaudeDevs}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **description** : Compte officiel de communication produit Claude Code
+- **plateforme** : X (Twitter)
+
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
+
 ### AI Index Steering Committee {#AI-Index-Steering-Committee}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
 
 - **catégorie** : Comité de direction interdisciplinaire
 
-- [[kb/_entites-mineures#Jack-Clark\|Jack Clark]] **fait_partie_de** → AI Index Steering Committee — 0.97
+- [[kb/Jack-Clark\|Jack Clark]] **fait_partie_de** → AI Index Steering Committee — 0.97
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] **co-préside** → AI Index Steering Committee — 0.97
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] **est_membre_de** → AI Index Steering Committee — 0.93
 
@@ -2479,6 +2872,16 @@
 
 **Fiches** : [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 
+### Agility Robotics {#Agility-Robotics}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Robotique humanoïde industrielle
+
+- **déploie** → [[kb/_entites-mineures#Digit-chez-Schaeffler\|Digit chez Schaeffler]] (EVENEMENT) — 0.98
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### AirAsia {#AirAsia}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -2488,6 +2891,16 @@
 - **utilise** → [[kb/_entites-mineures#Content-Workflow-Assistant\|Content Workflow Assistant]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+
+### Airbyte {#Airbyte}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Plateforme open source de flux de données
+
+- [[kb/_entites-mineures#Justin-Bangay\|Justin Bangay]] **est_employé_par** → Airbyte — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Allianz {#Allianz}
 
@@ -2499,6 +2912,27 @@
 
 **Fiches** : [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT Société Générale abandonne pour Copilot - faux débat build vs buy, capital IA, souveraineté européenne]]
 
+### Anthropic Institute {#Anthropic-Institute}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **description** : Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety
+
+- [[kb/Anthropic\|Anthropic]] **a_lancé** → Anthropic Institute — 0.98
+- [[kb/Jack-Clark\|Jack Clark]] **dirige** → Anthropic Institute — 0.98
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### Anthropic Labs {#Anthropic-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
+
+- **a_créé** → [[kb/_entites-mineures#Claude-Code,-MCP,-app-desktop\|Claude Code, MCP, app desktop]] (EVENEMENT) — 0.97
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
 ### Anthropic Threat Intelligence {#Anthropic-Threat-Intelligence}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -2506,6 +2940,25 @@
 - **rôle** : Analyse des données d'investigation via Claude
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
+
+### BCG {#BCG}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Cabinet de conseil en stratégie
+
+- **recommande** → [[kb/_entites-mineures#70%-des-efforts-de-transformation-IA-dédiés-aux-people-et-processes\|70% des efforts de transformation IA dédiés aux people et processes]] (METHODOLOGIE) — 0.95
+- **recommande** → [[kb/_entites-mineures#développer-skills-problem-framing-analysis-planning-strategic-prioritization\|développer skills problem framing analysis planning strategic prioritization]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### BCG Henderson Institute {#BCG-Henderson-Institute}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Think tank de recherche BCG
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Benchmark {#Benchmark}
 
@@ -2516,6 +2969,16 @@
 - **a_investi_dans** → [[kb/Manus\|Manus]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|Meta acquiert Manus 2B$ - agents IA autonomes, géopolitique tech US-Chine]]
+
+### Blaxel AI {#Blaxel-AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Start-up IA Silicon Valley
+
+- [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] **a_fondé** → Blaxel AI — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Blue Origin {#Blue-Origin}
 
@@ -2529,9 +2992,11 @@
 
 ### Boston Consulting Group {#Boston-Consulting-Group}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : Conseil en stratégie
+
+- **a_conduit** → [[kb/_entites-mineures#étude-1488-salariés-US-sur-AI-brain-fry\|étude 1488 salariés US sur AI brain fry]] (EVENEMENT) — 0.98
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **collabore_avec** → Boston Consulting Group — 0.95
 
@@ -2656,6 +3121,16 @@
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
 
+### Cognizant {#Cognizant}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cabinet de conseil en transformation IT/IA
+
+- [[kb/_entites-mineures#Babak-Hodjat\|Babak Hodjat]] **dirige_IA_chez** → Cognizant — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Columbia University {#Columbia-University}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -2685,6 +3160,16 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 
+### Cua AI {#Cua-AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Start-up IA fondée par Francesco Bonacci
+
+- [[kb/_entites-mineures#Francesco-Bonacci\|Francesco Bonacci]] **a_fondé** → Cua AI — 0.93
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Custplace {#Custplace}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -2692,6 +3177,16 @@
 - **secteur** : Plateforme d'avis et preuve sociale
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+
+### DORA team {#DORA-team}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Recherche software delivery performance, Google Cloud, lignée 2020 ROI DevOps → 2025 State of AI-assisted Software Development → 2026 ROI of AI-assisted Software Development
+
+- [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] **dirige** → DORA team — 0.96
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### DSI {#DSI}
 
@@ -2727,6 +3222,16 @@
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
 
+### DeepLearning.AI {#DeepLearning.AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Éducation IA / médias techniques
+
+- [[kb/Andrew-Ng\|Andrew Ng]] **dirige** → DeepLearning.AI — 0.97
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### DeepMind {#DeepMind}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -2757,6 +3262,16 @@
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **a_ciblé** → Deloitte — 0.95
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption - ROI Survey - AI Bubble Narrative - Transformational Impact - Leadership vs Laggards]]
+
+### Design+Code {#Design+Code}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Plateforme éducation design Meng To (designcode.io) en refonte
+
+- [[kb/Meng-To\|Meng To]] **a_fondé** → Design+Code — 0.97
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### DocsHound {#DocsHound}
 
@@ -2898,6 +3413,14 @@
 
 **Fiches** : [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman - Neuralink - Board appointment - Conflict of interest - OpenAI - Brain-computer interface - Ethics]]
 
+### Fin Ideas {#Fin-Ideas}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **catégorie** : Plateforme média Substack d'Intercom — diffuse les essais des dirigeants R&D
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### Fintool {#Fintool}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -2969,13 +3492,24 @@
 
 ### Google Cloud EMEA {#Google-Cloud-EMEA}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : Cloud / Marketing B2B
 
 - [[kb/_entites-mineures#Guillaume-Roques\|Guillaume Roques]] **travaille_pour** → Google Cloud EMEA — 0.99
+- [[kb/_entites-mineures#Ursula-Lübbert-Passing\|Ursula Lübbert-Passing]] **est_AI_Value_Realization_Lead** → Google Cloud EMEA — 0.95
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
+
+### Google Cloud delta team {#Google-Cloud-delta-team}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Premier innovation practice Google Cloud Professional Services, agentic transformation end-to-end, value-driven model
+
+- **co-rédige** → [[kb/_entites-mineures#The-ROI-of-AI-assisted-Software-Development\|The ROI of AI-assisted Software Development]] (EVENEMENT) — 0.97
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### Google Labs {#Google-Labs}
 
@@ -3034,16 +3568,6 @@
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|LightRAG - RAG simple et rapide - Knowledge graphs - Dual-level retrieval - EMNLP2025 - GitHub]]
 
-### Harvard Business Review {#Harvard-Business-Review}
-
-**Type** : ORGANISATION | 1 relations | 2 fiches
-
-- **secteur** : Publication académique / Management
-
-- **a_publié** → [[kb/_entites-mineures#The-Gen-AI-Playbook-for-Organizations\|The Gen AI Playbook for Organizations]] (EVENEMENT) — 0.99
-
-**Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]], [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
-
 ### Harvard Business School {#Harvard-Business-School}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3075,6 +3599,18 @@
 - [[kb/Voxtral\|Voxtral]] **est_disponible_sur** → Hugging Face — 0.96
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI conférence détaillée, islands architecture, remote DOM, theming, état distribué, authentification, clients natifs - Monday.com]]
+
+### HumanLayer {#HumanLayer}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Outillage agents IA / harness engineering
+
+- **recommande** → [[kb/_entites-mineures#reframe-skill-issue-pour-échecs-d'agent\|reframe skill issue pour échecs d'agent]] (METHODOLOGIE) — 0.95
+
+- [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] **dirige** → HumanLayer — 0.92
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
 ### IT for Business {#IT-for-Business}
 
@@ -3148,6 +3684,17 @@
 
 **Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 
+### Leading the Future PAC {#Leading-the-Future-PAC}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **description** : Super PAC pro-IA financé en partie par Greg Brockman, 2M$+ contre Alex Bores
+
+- **s_oppose_à** → [[kb/_entites-mineures#Alex-Bores\|Alex Bores]] (PERSONNE) — 0.96
+- **est_financé_par** → [[kb/_entites-mineures#Greg-Brockman\|Greg Brockman]] (PERSONNE) — 0.93
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Legal.io {#Legal.io}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -3165,6 +3712,14 @@
 - **utilise** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
+
+### Les Echos {#Les-Echos}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Quotidien économique français, rubrique "Travailler mieux"
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### Lightning AI {#Lightning-AI}
 
@@ -3197,6 +3752,16 @@
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] **est_CHRO_de** → Lixil — 0.95
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### Lobby {#Lobby}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Agent IA qui exécute des actions à partir d'emails (vs en rédiger)
+
+- [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] **a_fondé** → Lobby — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### LogRocket Blog {#LogRocket-Blog}
 
@@ -3255,19 +3820,15 @@
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|Context Graphs Foundation Capital - nouvelle génération systèmes de record pour agents IA]]
 
-### McKinsey {#McKinsey}
+### Mechanize {#Mechanize}
 
-**Type** : ORGANISATION | 4 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
-- **secteur** : Conseil en management
+- **mission** : Startup "to enable the full automation of the economy"
 
-- **affirme_que** → [[kb/_entites-mineures#modèle-Agile\|modèle Agile]] (METHODOLOGIE) — 0.95
-- **prédit** → [[kb/_entites-mineures#$3-5T-revenus-commerce-agentique-global-d'ici-2030\|$3-5T revenus commerce agentique global d'ici 2030]] (CONCEPT) — 0.93
+- **promeut** → [[kb/_entites-mineures#full-automation-of-the-economy\|full automation of the economy]] (CONCEPT) — 0.92
 
-- [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] **est_partenaire_de** → McKinsey — 0.98
-- [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] **est_partenaire_de** → McKinsey — 0.98
-
-**Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Meesho {#Meesho}
 
@@ -3605,6 +4166,14 @@
 
 **Fiches** : [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|QodoAI (Codium) - AI Code Quality - Code Review Agents - Context Engine - SDLC Automation]]
 
+### Raiffeisen Bank International (RBI) {#Raiffeisen-Bank-International-(RBI)}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Groupe bancaire autrichien, parent de Raiffeisen Bank Ukraine
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### Rakuten {#Rakuten}
 
 **Type** : ORGANISATION | 3 relations | 2 fiches
@@ -3710,6 +4279,14 @@
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
 
+### Schaeffler {#Schaeffler}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Pièces automobiles (Caroline du Sud, Allemagne)
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### Seagate {#Seagate}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3778,7 +4355,7 @@
 
 - **secteur** : Outils développement / Recherche code
 
-- [[kb/_entites-mineures#Steve-Yegge\|Steve Yegge]] **travaille_chez** → Sourcegraph — 0.90
+- [[kb/Steve-Yegge\|Steve Yegge]] **travaille_chez** → Sourcegraph — 0.90
 
 **Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
 
@@ -3878,6 +4455,16 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
 
+### SubImage {#SubImage}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cybersécurité (Silicon Valley)
+
+- [[kb/_entites-mineures#Jérémy-Chapeau\|Jérémy Chapeau]] **est_ingénieur_senior_chez** → SubImage — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### SuperClaude-Org {#SuperClaude-Org}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -3887,6 +4474,16 @@
 - **publie** → [[kb/SuperClaude\|SuperClaude]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+
+### Swile {#Swile}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Tech RH/avantages salariés, basée à Montpellier
+
+- [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] **dirige_la_tech_de** → Swile — 0.95
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### TELUS {#TELUS}
 
@@ -3958,6 +4555,16 @@
 - **emploie** → [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] (PERSONNE) — 0.99
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
+
+### The Strategy Stack {#The-Strategy-Stack}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Newsletter Substack stratégie / AI operating models / agentic workflows
+
+- [[kb/_entites-mineures#Alex-Pawlowski\|Alex Pawlowski]] **publie** → The Strategy Stack — 0.96
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### The Wharton School {#The-Wharton-School}
 
@@ -4113,6 +4720,16 @@
 
 **Fiches** : [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
 
+### Z.ai {#Z.ai}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Modèles de fondation chinois (open-weights)
+
+- **a_publié** → [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE) — 0.98
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### Zillow {#Zillow}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4212,7 +4829,26 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (358)
+## TECHNOLOGIE (395)
+
+### .lattice folder {#.lattice-folder}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **description** : Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles
+
+- **est** → [[kb/_entites-mineures#living-context-layer-projet\|living context layer projet]] (CONCEPT) — 0.96
+- **est_isomorphe_à** → [[kb/_entites-mineures#docs-plans-+-docs-solutions-+-docs-brainstorms-(CE)\|docs/plans + docs/solutions + docs/brainstorms (CE)]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### /loop slash command {#loop-slash-command}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### /mnt/skills {#mnt-skills}
 
@@ -4253,6 +4889,25 @@
 - **convertit** → [[kb/_entites-mineures#notebooks-Jupyter-en-format-Deepnote\|notebooks Jupyter en format Deepnote]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote - Successeur Jupyter avec AI agent natif - Format .deepnote YAML - Extensions VS Code/Cursor/Windsurf - Open Source - GitHub 1.5k stars]]
+
+### A.I. Productivity Index {#A.I.-Productivity-Index}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Benchmark mesurant 4 jobs : investment banking associate, management consultant, Big Law associate, primary care physician
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### AI Agent Portal {#AI-Agent-Portal}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — portail génération automatique d'agents MCP via specs OpenAPI ; 2 085 users / 649 MAU atteints en 87 jours
+
+- **atteint** → [[kb/_entites-mineures#2-085-users-649-MAU-en-87-jours\|2 085 users / 649 MAU en 87 jours]] (CONCEPT) — 0.94
+- **génère** → [[kb/_entites-mineures#agents-MCP-via-specs-OpenAPI\|agents MCP via specs OpenAPI]] (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
 ### AI Daily Brief {#AI-Daily-Brief}
 
@@ -4626,6 +5281,16 @@
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### Aura {#Aura}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme génération design agentique avec gallery design.md + remix
+
+- [[kb/Meng-To\|Meng To]] **a_créé** → Aura — 0.97
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### Auto-caching {#Auto-caching}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -4723,6 +5388,17 @@
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
 
+### Call Evaluation {#Call-Evaluation}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — analyse transcription audio >97% précision + redesign scripts data-driven ; élu meilleur produit du groupe RBI (passage filiale → groupe)
+
+- **a_été_élu** → [[kb/_entites-mineures#meilleur-produit-du-groupe-Raiffeisen\|meilleur produit du groupe Raiffeisen]] (EVENEMENT) — 0.94
+- **atteint** → [[kb/_entites-mineures#97%-précision-transcription\|>97% précision transcription]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### ChatGPT Apps SDK {#ChatGPT-Apps-SDK}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -4779,6 +5455,14 @@
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 
+### Claude Agent SDK {#Claude-Agent-SDK}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Harness-as-a-Service Anthropic
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### Claude Desktop app {#Claude-Desktop-app}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -4808,18 +5492,6 @@
 - **atteint** → [[kb/_entites-mineures#95%-even-handedness\|95% even-handedness]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
-
-### Claude Opus 4.6 {#Claude-Opus-4.6}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Modèle de langage frontier Anthropic
-- **consommation** : 2 milliards tokens entrée, 140 millions tokens sortie
-
-- **a_produit** → [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE) — 0.99
-- **surpasse** → [[kb/_entites-mineures#Claude-Opus-4.5\|Claude Opus 4.5]] (TECHNOLOGIE) — 0.96
-
-**Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
 
 ### Claude Sonnet {#Claude-Sonnet}
 
@@ -4937,6 +5609,14 @@
 
 **Fiches** : [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### Codex SDK {#Codex-SDK}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Harness-as-a-Service OpenAI
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### Content Signals {#Content-Signals}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -5039,6 +5719,16 @@
 
 **Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
 
+### DRAIF MCP {#DRAIF-MCP}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — text-to-SQL sur Data Lake 10 000 tables ; embedding fine-tuné ×2 modèles OpenAI
+
+- **adresse** → [[kb/_entites-mineures#Data-Lake-10-000-tables-en-text-to-SQL\|Data Lake 10 000 tables en text-to-SQL]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### Data Mesh {#Data-Mesh}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -5096,6 +5786,14 @@
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
 
+### DevPortal Raiffeisen {#DevPortal-Raiffeisen}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Backstage intégré + agents IA diagnostics Kubernetes ; −68% temps résolution incidents critiques
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### Diff Generator {#Diff-Generator}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5105,6 +5803,16 @@
 - [[kb/Scout\|Scout]] **comprend** → Diff Generator — 0.90
 
 **Fiches** : [[fiches/2025-11/orr-zapier-support-ship-code-app-erosion-2025-11-23\|Support technique autonome livrant du code - Résolution de l'érosion applicative - Zapier ingénierie]]
+
+### Digit {#Digit}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Robot humanoïde bipède 1m75 / 65kg
+
+- **coûte** → [[kb/_entites-mineures#10-25$-h-opérationnel\|10-25$/h opérationnel]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
 
 ### Digital Twin Universe {#Digital-Twin-Universe}
 
@@ -5157,6 +5865,14 @@
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] **a_développé** → Doubao — 0.97
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z - Top 100 Gen AI Consumer Apps - 5th Edition - Market analysis - ChatGPT - Gemini - Grok]]
+
+### Dream Cut {#Dream-Cut}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Mac app de Meng To en développement (révélation prochaine)
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### Droid/Factory {#Droid-Factory}
 
@@ -5327,6 +6043,14 @@
 - [[kb/Claude-Skills\|Claude Skills]] **utilise** → GSAP — 0.82
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
+
+### Gas Town {#Gas-Town}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Gemini 2.0 {#Gemini-2.0}
 
@@ -5662,6 +6386,16 @@
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity - Chrome integration - Browser AI - Search - Google competition - Native integration - AI-powered search]]
 
+### Google Stitch {#Google-Stitch}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil Google de génération design avec infinite canvas (version 3.1)
+
+- **concurrence** → [[kb/_entites-mineures#Aura-sur-la-génération-design-agentique\|Aura sur la génération design agentique]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### Google TPU {#Google-TPU}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -5787,6 +6521,14 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0]]
 
+### Hyperframes {#Hyperframes}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Outil motion design / framework
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### Hypergraph Database {#Hypergraph-Database}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -5884,6 +6626,14 @@
 
 **Fiches** : [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
 
+### Jarvis (agent perso) {#Jarvis-(agent-perso)}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man)
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Jipa {#Jipa}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -5956,6 +6706,16 @@
 - [[kb/compounding-teams\|compounding teams]] **utilise** → Kubernetes — 0.93
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+
+### LLM Knowledge Bases {#LLM-Knowledge-Bases}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil personnel Karpathy : wiki auto-construit à partir d'articles lus
+
+- **enrichit** → [[kb/_entites-mineures#understanding-humain\|understanding humain]] (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### LLMs {#LLMs}
 
@@ -6170,6 +6930,16 @@
 
 **Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
 
+### MenuGen {#MenuGen}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : App vibe-codée par Karpathy (photo menu → images plats), rendue obsolète par Nanobanana
+
+- **est_rendue_obsolète_par** → [[kb/_entites-mineures#Nanobanana\|Nanobanana]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ### Merchant Center {#Merchant-Center}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6240,6 +7010,14 @@
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0]]
 
+### Mobile Android workflow CI {#Mobile-Android-workflow-CI}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — pipeline auto plan / implementation / test pour mobile, redesign complet du SDLC mobile
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### Model Context Protocol (MCP) {#Model-Context-Protocol-(MCP)}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6280,6 +7058,18 @@
 
 **Fiches** : [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
 
+### Nanobanana {#Nanobanana}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Modèle d'image generation Google/Gemini capable d'overlay menu items dans pixels
+
+- **fait_partie_de** → [[kb/Gemini\|Gemini]] (TECHNOLOGIE) — 0.94
+
+- [[kb/_entites-mineures#MenuGen\|MenuGen]] **est_rendue_obsolète_par** → Nanobanana — 0.95
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ### Nemotron-Nano-12B-v2-VL-FP8 {#Nemotron-Nano-12B-v2-VL-FP8}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -6314,6 +7104,16 @@
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] **utilise** → NetworkX — 0.97
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo]]
+
+### New Form {#New-Form}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil créatif Meng To avec 63 skills design (lasers, skeuomorphic, 3D, copy)
+
+- [[kb/Meng-To\|Meng To]] **a_créé** → New Form — 0.97
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### NotebookLM {#NotebookLM}
 
@@ -6430,11 +7230,11 @@
 
 ### OpenAI Agents SDK {#OpenAI-Agents-SDK}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 0 relations | 2 fiches
 
 - **catégorie** : SDK d'agents OpenAI
 
-**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
 ### OpenAI Codex {#OpenAI-Codex}
 
@@ -6475,6 +7275,14 @@
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] **fait_partie_de** → OpenBSD — 0.95
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+
+### OpenClaude {#OpenClaude}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Variante open / locale de Claude Code mentionnée par Meng
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### OpenClaw {#OpenClaw}
 
@@ -6521,13 +7329,29 @@
 
 ### Opus 4.6 {#Opus-4.6}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **catégorie** : Modèle de langage Anthropic
+- **reasoning_effort_défaut** : high (après correction)
 
+- **n_a_pas_détecté** → [[kb/_entites-mineures#bug-de-cache\|bug de cache]] (EVENEMENT) — 0.90
 - **score_différemment_dans** → [[kb/_entites-mineures#Différents-harnais\|Différents harnais]] (CONCEPT) — 0.88
 
-**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
+### Opus 4.7 {#Opus-4.7}
+
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
+
+- **capabilité** : Refactor 100k lignes, find zero days — mais jagged sur questions simples
+- **reasoning_effort_défaut** : xhigh (après correction)
+
+- **échoue_sur** → [[kb/_entites-mineures#car-wash-50m-question\|car wash 50m question]] (CONCEPT) — 0.92
+- **** → [[kb/_entites-mineures#48,6%-(+-10,0%)\|48,6% (+-10,0%)]] (AJOUT) — 0.00
+
+- [[kb/_entites-mineures#GPT-5.5\|GPT-5.5]] **** → Opus 4.7 — 0.95
+
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### PDM {#PDM}
 
@@ -6540,6 +7364,14 @@
 - [[kb/UDA\|UDA]] **permet** → PDM — 0.96
 
 **Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Architecture données unifiée Netflix, knowledge graph RDF/SHACL, modélisation domaine, Upper metamodel, mappings sémantiques, projections automatiques GraphQL/Avro/Iceberg - Netflix Technology Blog]]
+
+### PROJ-AI Studio {#PROJ-AI-Studio}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026)
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
 ### Parcha {#Parcha}
 
@@ -6591,6 +7423,14 @@
 - [[kb/Cat-Wu\|Cat Wu]] **recommande** → Playwright — 0.88
 
 **Fiches** : [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+
+### Plugin marketplace Intercom {#Plugin-marketplace-Intercom}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **métriques** : 153 contributeurs, 267 skills en 3 mois, 31% R&D active
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### Policy Bot {#Policy-Bot}
 
@@ -6768,6 +7608,22 @@
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]
 
+### Remotion {#Remotion}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Framework React pour vidéos programmatiques
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
+### Replit slides {#Replit-slides}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Feature slides récente de Replit
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### Retool {#Retool}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6777,6 +7633,14 @@
 - **a_simplifié** → [[kb/_entites-mineures#développement-d'apps-internes-pour-engineers\|développement d'apps internes pour engineers]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt Zero Engineers - a16z - No-code - Internal development - Gen AI - Democratization]]
+
+### Routines (Anthropic) {#Routines-(Anthropic)}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### RubyLLM {#RubyLLM}
 
@@ -6915,6 +7779,16 @@
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
 
+### Sample ROI calculator {#Sample-ROI-calculator}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Outil interactif DORA sur dora.dev/ai/roi/calculator. Sample : 500 FTE / 176k$ salary / 12.5% time saved → 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement
+
+- **calcule** → [[kb/_entites-mineures#39%-ROI-8-mois-payback-11.6M$-valeur-8.4M$-investissement\|39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Secure GPT {#Secure-GPT}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6942,6 +7816,36 @@
 - [[kb/Linear\|Linear]] **intègre** → Sentry — 0.95
 
 **Fiches** : [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
+
+### Service Knowledge Hub {#Service-Knowledge-Hub}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — documentation auto-générée de 57 microservices via parsing Kubernetes, 83 releases/mois
+
+- **documente** → [[kb/_entites-mineures#57-microservices,-83-releases-mois\|57 microservices, 83 releases/mois]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Shift-left Security Plugin {#Shift-left-Security-Plugin}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Produit interne Raiffeisen — détection vulnérabilités dans IDE avant commit ; −82% secrets exposés
+
+- **réduit** → [[kb/_entites-mineures#secrets-exposés-de-82%\|secrets exposés de 82%]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Shotcut {#Shotcut}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Éditeur vidéo open-source recommandé comme fork pour le projet 3
+
+- **est_recommandé_pour** → [[kb/_entites-mineures#fork-éditeur-vidéo-open-source\|fork éditeur vidéo open-source]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
 ### Simmer {#Simmer}
 
@@ -6987,6 +7891,16 @@
 
 **Fiches** : [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Anthropic - Design frontend avec Skills - Convergence distributionnelle - Typographie distinctive - React/Tailwind artifacts - Contexte dynamique à la demande - Patterns RPG/editorial]]
 
+### Skills-Based Plugin Architecture {#Skills-Based-Plugin-Architecture}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Marketplace privé Intercom de configurations Claude Code spécialisées + auto-update plugins
+
+- **est_construite_par** → [[kb/Intercom\|Intercom]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### Slack MCP {#Slack-MCP}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6996,6 +7910,14 @@
 - [[kb/Claude-Code\|Claude Code]] **s_intègre_avec** → Slack MCP — 0.92
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
+
+### Slash-commands PROJ-AI {#Slash-commands-PROJ-AI}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **exemples** : /dr-create, /livrable-update — interface CLI/IDE pour utilisateurs tech
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
 ### Smart CRM {#Smart-CRM}
 
@@ -7029,6 +7951,16 @@
 - [[kb/_entites-mineures#Société-Générale\|Société Générale]] **a_abandonné** → SoGPT — 0.97
 
 **Fiches** : [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT Société Générale abandonne pour Copilot - faux débat build vs buy, capital IA, souveraineté européenne]]
+
+### Solario {#Solario}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme/produit Wescale, construite avec sa propre méthodologie ("Solario sur Solario")
+
+- **a_servi_à_construire** → [[kb/_entites-mineures#Solario-lui-même\|Solario lui-même]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### Sonnet 4.5 {#Sonnet-4.5}
 
@@ -7174,9 +8106,11 @@
 
 ### Terminal Bench 2.0 {#Terminal-Bench-2.0}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Benchmark pour agents de codage
+
+- **démontre** → [[kb/_entites-mineures#Top-30-→-Top-5-par-changement-de-harnais-seul\|Top 30 → Top 5 par changement de harnais seul]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
@@ -7271,6 +8205,14 @@
 - **intègre** → [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude - Partenaires Anthropic - AI integrations - Ecosystem Claude - Applications]]
+
+### Variant.com {#Variant.com}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Outil de remix créatif design en un clic
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### Vector Databases {#Vector-Databases}
 
@@ -7538,6 +8480,14 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
 
+### clear_thinking_20251015 {#clear_thinking_20251015}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : En-tête API de gestion du cache de raisonnement
+
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
+
 ### coderabbit-review-helper {#coderabbit-review-helper}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -7561,7 +8511,7 @@
 - **compile** → [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] (TECHNOLOGIE) — 0.98
 - **atteint** → [[kb/_entites-mineures#99%-de-réussite-sur-suites-de-tests\|99% de réussite sur suites de tests]] (CONCEPT) — 0.97
 
-- [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] **a_produit** → compilateur C en Rust — 0.99
+- [[kb/Claude-Opus-4.6\|Claude Opus 4.6]] **a_produit** → compilateur C en Rust — 0.99
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] **a_créé** → compilateur C en Rust — 0.99
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
@@ -7772,6 +8722,16 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
 
+### proj-ai-commons {#proj-ai-commons}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **description** : Bibliothèque partagée patterns anonymisés (templates DR, slash-commands, doctrine) — bootstrap 30 min vs 1 semaine
+
+- **permet** → [[kb/_entites-mineures#bootstrap-projet-en-30-min-vs-1-semaine\|bootstrap projet en 30 min vs 1 semaine]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
 ### pypdf {#pypdf}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7963,7 +8923,101 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (330)
+## CONCEPT (461)
+
+### "AI didn't make our engineers just faster. It made them different" {#AI-didn't-make-our-engineers-just-faster.-It-made-them-different}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Aphorisme-titre Tatsyi — symétrie vitesse/nature du travail
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### "AI expanded our production possibility frontier" {#AI-expanded-our-production-possibility-frontier}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Phrase-pivot stratégique Tatsyi — emprunt microéconomie, rend visible que l'IA déplace l'ensemble des choix possibles, pas seulement la vitesse
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### "AI is an amplifier" {#AI-is-an-amplifier}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Thèse-pivot DORA ROI 2026 — l'IA magnifie forces et dysfonctionnements préexistants ; achat de licences ne suffit pas
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### "Best accountant writes the best accounting software" {#Best-accountant-writes-the-best-accounting-software}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Cherny — corollaire de la démocratisation : la connaissance domaine prime sur la maîtrise technique
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### "Coding is solved" {#Coding-is-solved}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **source** : Déclaration Cherny lors de l'événement Sequoia, applicable à son contexte personnel (codebase TypeScript+React) avec limites assumées (gros legacy, langages exotiques)
+
+- [[kb/Boris-Cherny\|Boris Cherny]] **affirme_que** → "Coding is solved" — 0.98
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### "Le projet EST le livrable" {#Le-projet-EST-le-livrable}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **source** : Aphorisme central HABERT — inverse rapport projet/output au profit de la mémoire et transmissibilité
+
+- [[kb/Antoine-Habert\|Antoine HABERT]] **affirme_que** → "Le projet EST le livrable" — 0.97
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
+### "My output doubled. My attention span didn't" {#My-output-doubled.-My-attention-span-didn't}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Aphorisme-titre Frizzo — symétrie productivité/coût cognitif
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### "The new bottleneck is supervision" {#The-new-bottleneck-is-supervision}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **source** : Thèse pivot Frizzo — déplacement du goulot d'étranglement de la création vers la supervision
+
+- [[kb/Alexandre-Frizzo\|Alexandre Frizzo]] **affirme_que** → "The new bottleneck is supervision" — 0.97
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### "They work for the bots. We work for you." {#They-work-for-the-bots.-We-work-for-you.}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Slogan top-performing dans les tests pubs de la firme Shor
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### "We don't measure AI by the code it writes but by the bottlenecks it clears" {#We-don't-measure-AI-by-the-code-it-writes-but-by-the-bottlenecks-it-clears}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Formule éthique-déontologique DORA pour réorienter la mesure AI hors du volume de code
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### "What did your engineers build that didn't exist before" {#What-did-your-engineers-build-that-didn't-exist-before}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Question d'évaluation reformulée Tatsyi — bonne métrique stratégique IA
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
 ### 0→1 vs 1→N {#0→1-vs-1→N}
 
@@ -7972,6 +9026,88 @@
 - **distinction** : Construction greenfield vs évolution de codebase existant
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### 10×+ multiplier (tail élite) {#10×+-multiplier-(tail-élite)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **convergence** : Cherny (2026-05, 150 PRs/jour record), Curran/Intercom top 5% (6× median au sein d'une organisation déjà à 3× = 18× baseline), Karpathy (2026-04-29, "peaks much higher than 10×"). Mythe à dégonfler : "X10 automatique pour tous", pas le X10 lui-même
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### 14% salariés dépassés par le rythme IA {#14%-salariés-dépassés-par-le-rythme-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Sondage BCG dans Harvard Business Review (Julie Bedard, mars 2026)
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### 14,6 min median merge time {#14,6-min-median-merge-time}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Median merge time Claude Code auto-approved Intercom vs 75,8 min org median (5,2× plus rapide)
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
+### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$)
+
+- [[kb/_entites-mineures#Rohit\|Rohit]] **publie** → 2026 AI engineer roadmap — 0.97
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
+### 23 minutes context recovery (Gloria Mark) {#23-minutes-context-recovery-(Gloria-Mark)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Étude classique Mark UC Irvine, mobilisée par Frizzo pour étayer le coût des interruptions
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### 3-5× multiplier (médiane committée) {#3-5×-multiplier-(médiane-committée)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **convergence** : Frizzo (LinkedIn 2026-05-05), Wescale (2026-05-03), Curran/Intercom moyenne (2026-04-16), DORA Report 2025, Stanford Denisov-Blanch (2025-11-23) — productivité réaliste pour le praticien moyen committé
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### 500% productivité flow (McKinsey) {#500%-productivité-flow-(McKinsey)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Étude McKinsey senior executives sur le multiplicateur productivité en flow state
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### 70% people and processes {#70%-people-and-processes}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Recommandation BCG : 70% des efforts de transformation IA doivent porter sur l'humain et les process, pas la techno
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### 727% ROI 3 ans / 8 mois payback (Google Cloud) {#727%-ROI-3-ans-8-mois-payback-(Google-Cloud)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Google Cloud "How Businesses Achieve Strong ROI" — données customers Google Cloud AI. Biais sélection probable
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### 78% executives ROI gen AI / 88% early adopters agentic AI {#78%-executives-ROI-gen-AI-88%-early-adopters-agentic-AI}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Google Cloud, The ROI of AI 2025 — "positive perspective" du market divide DORA
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### AI Orchestrator {#AI-Orchestrator}
 
@@ -8005,6 +9141,32 @@
 - [[kb/_entites-mineures#Shawn-Wang\|Shawn Wang]] **recommande** → AI engineering — 0.92
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
+
+### AI lifts underperformers to baseline {#AI-lifts-underperformers-to-baseline}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Insight Tatsyi contre-intuitif — l'IA resserre la distribution par le bas, contre-poids à la lecture "tail élite 10×+" (Cherny/Karpathy/Curran top 5%)
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### AI note-taking tools (cas d'usage) {#AI-note-taking-tools-(cas-d'usage)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Cas d'application Tension Map : promesse automatisation appréciée vs accuracy post-meeting problématique, premium toléré teams vs résenti individuels
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### AI orphan tax {#AI-orphan-tax}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : +5% mental fatigue chez les salariés dont le manager attend qu'ils se débrouillent seuls avec l'IA
+
+- **définit** → [[kb/_entites-mineures#+5%-mental-fatigue-quand-manager-attend-autonomie-totale\|+5% mental fatigue quand manager attend autonomie totale]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### AI solution life cycle {#AI-solution-life-cycle}
 
@@ -8109,6 +9271,22 @@
 
 **Fiches** : [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 
+### Agent-agnostic (PROJ-AI) {#Agent-agnostic-(PROJ-AI)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Markdown + file conventions supportent Claude, Cursor et autres LLMs — pas de lock-in
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
+### Agent-first principle {#Agent-first-principle}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Décret Curran : "All technical work is becoming agent-first. This is the top priority for R&D."
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### Agentic AI {#Agentic-AI}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -8128,6 +9306,16 @@
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
 
+### Agentic loop {#Agentic-loop}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Plan → execute → test → reflect avec max iterations, state persisté, circuit breaker
+
+- [[kb/_entites-mineures#Plan-execute-test-reflect\|Plan-execute-test-reflect]] **structure** → Agentic loop — 0.96
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
 ### Alice {#Alice}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8145,6 +9333,38 @@
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] **a_créé** → Ambient affordances — 0.90
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### Analogie Gutenberg / Software {#Analogie-Gutenberg-Software}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : 1400s 10% littéracie → 70% en quelques siècles, livre 100× moins cher en 50 ans. Software suivra le même pattern, plus rapide que 50 ans
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### Animals vs Ghosts {#Animals-vs-Ghosts}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Métaphore Karpathy : LLMs sont des circuits de simulation statistique, pas des intelligences animales
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### Anthropic agents-to-agents Slack {#Anthropic-agents-to-agents-Slack}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Pratique interne Anthropic : Claude agents communiquent over Slack avec autres Claude agents pour résoudre des unknowns en runtime
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### Anthropic dogfood doctrine {#Anthropic-dogfood-doctrine}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : "We have no more manually written code anywhere at the company. All SQL written by models. Same models as everyone else." Avantage Anthropic = organisationnel, pas technologique
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### Apprenticeship model collapse {#Apprenticeship-model-collapse}
 
@@ -8165,6 +9385,14 @@
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
+### Architecture trois-tiers Lattice {#Architecture-trois-tiers-Lattice}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Atoms (guardrails mono-principe) → Molecules (workflows multi-étapes composant atoms) → Refiners (interviews guidées customisant atoms par projet)
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
 ### Archétypes d'équipes {#Archétypes-d'équipes}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8172,6 +9400,22 @@
 - **nombre** : 7 profils distincts
 
 **Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+
+### Assistant axis {#Assistant-axis}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Vecteur d'adhésion au persona assistant entraîné
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
+### Atoms (Lattice) {#Atoms-(Lattice)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **exemples** : Clean code, architecture, DDD, secure coding, test quality, design-first approach
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
 
 ### BM25 {#BM25}
 
@@ -8222,6 +9466,32 @@
 
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
 
+### Bottleneck shift coding → supervision {#Bottleneck-shift-coding-→-supervision}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Le goulot d'étranglement n'est plus la production de code mais la supervision de l'output agent ; protéger le deep work est devenu irrelevant
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### Boîte de Petri Silicon Valley {#Boîte-de-Petri-Silicon-Valley}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Métaphore Aaron Levie : SF comme expérience grandeur nature pour l'adoption IA
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### Brain fry {#Brain-fry}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Surchauffe cérébrale induite par l'usage intensif d'IA — symptômes : maux de tête, ralentissement de la prise de décision
+
+- **définit** → [[kb/_entites-mineures#surchauffe-cérébrale-liée-à-l'usage-intensif-d'IA\|surchauffe cérébrale liée à l'usage intensif d'IA]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Budget marketing fixe {#Budget-marketing-fixe}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -8233,6 +9503,14 @@
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] **remplace** → Budget marketing fixe — 0.95
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
+
+### Burnout vs Brain fry {#Burnout-vs-Brain-fry}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **distinction** : Burnout = émotionnel (allégé par IA sur tâches répétitives -15%) ; Brain fry = cognitif aigu (aggravé par oversight intensif)
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### CLOUD Act {#CLOUD-Act}
 
@@ -8264,6 +9542,48 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
+### Case study banque européenne régulée IA {#Case-study-banque-européenne-régulée-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Tatsyi/Raiffeisen Bank Ukraine 2026-05 — corpus encore rare en 2026 où dominent les retours Silicon Valley (Cherny, Curran, Stripe) ; complémentaire Frizzo (individuel) et Wescale (cabinet FR)
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Caveat 20/80 (HABERT) {#Caveat-20-80-(HABERT)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : "Technology is 20%, team discipline is 80%" — refus explicite solutionnisme technique
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
+### Cinq clés systémiques d'adoption {#Cinq-clés-systémiques-d'adoption}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Trust + Platform + Data + Users + Guardrails — capabilities organisationnelles qui transforment l'adoption en valeur financière
+
+- **comprennent** → [[kb/_entites-mineures#Trust,-Platform,-Data,-Users,-Guardrails\|Trust, Platform, Data, Users, Guardrails]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Cinq collaboration patterns (Lattice) {#Cinq-collaboration-patterns-(Lattice)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Série d'articles martinfowler.com par techygarg expliquant les patterns sous-jacents au framework
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### Cinq piliers de valeur (DORA) {#Cinq-piliers-de-valeur-(DORA)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Productivity → User Experience → Cost Efficiency → Developer Experience → Business Growth. Du plus direct (productivity) au plus indirect (business growth = cumulated business value)
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Citizen Developers {#Citizen-Developers}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8284,6 +9604,46 @@
 
 **Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 
+### Code is a liability {#Code-is-a-liability}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Citation DORA reprenant Software Engineering at Google (Winters/Manshreck/Wright, O'Reilly 2020) — coût opérationnel >> coût de build, donc volume ≠ valeur
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Code is good but isn't quite mine {#Code-is-good-but-isn't-quite-mine}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Frizzo — érosion du sens psychologique de la création quand l'agent génère
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### Cognitive Offloading {#Cognitive-Offloading}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Mode sain : déléguer le "comment" tout en gardant le jugement sur les résultats — capacité d'évaluation indépendante maintenue
+
+- **s_oppose_à** → [[kb/_entites-mineures#Cognitive-Surrender\|Cognitive Surrender]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Cognitive Surrender {#Cognitive-Surrender}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Mode toxique : accepter l'output IA en bloc sans former de raisonnement parallèle ; "borrowing the model's confidence as substitute for personal understanding"
+
+- **est_définie_par** → [[kb/_entites-mineures#borrowing-model's-confidence-as-substitute-for-personal-understanding\|"borrowing model's confidence as substitute for personal understanding"]] (CONCEPT) — 0.97
+- **est_le_mécanisme_de** → [[kb/_entites-mineures#accumulation-Comprehension-Debt\|accumulation Comprehension Debt]] (CONCEPT) — 0.95
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **publie** → Cognitive Surrender — 0.99
+- [[kb/_entites-mineures#Cognitive-Offloading\|Cognitive Offloading]] **s_oppose_à** → Cognitive Surrender — 0.97
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
 ### Community of Practice {#Community-of-Practice}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8293,6 +9653,26 @@
 - **remplace** → [[kb/_entites-mineures#équipe-physique-développement-connaissances\|équipe physique développement connaissances]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Structure équipes Data & AI - Études de cas Team Topologies - Design organisationnel - Xebia - Arjan van den Heuvel]]
+
+### Compositional Path Dependency {#Compositional-Path-Dependency}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Cause de surrender : chaque chunk surrender rend le prochain surrender plus probable, requiert reconstruction complète pour redevenir indépendant
+
+- **rend** → [[kb/_entites-mineures#chaque-surrender-plus-probable-que-le-précédent\|chaque surrender plus probable que le précédent]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Comprehension Debt {#Comprehension-Debt}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt"
+
+- **accumule** → [[kb/_entites-mineures#écart-entre-volume-code-et-compréhension-humaine\|écart entre volume code et compréhension humaine]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
 
 ### Computer System Engineers {#Computer-System-Engineers}
 
@@ -8314,6 +9694,16 @@
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|Qodo - State of AI code quality 2025 - Hallucinations - Context - Developer confidence - Survey report]]
 
+### Confidence Transfer {#Confidence-Transfer}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Cause de surrender : modèles parlent avec autorité, déclarations institutionnellement crédibles même quand inventées (ex. "debounce of 300ms")
+
+- **rend** → [[kb/_entites-mineures#déclarations-IA-institutionnellement-crédibles-même-si-inventées\|déclarations IA institutionnellement crédibles même si inventées]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
 ### Contrôle antitrust {#Contrôle-antitrust}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8323,6 +9713,14 @@
 - [[kb/Google\|Google]] **fait_face_à** → Contrôle antitrust — 0.90
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity - Chrome integration - Browser AI - Search - Google competition - Native integration - AI-powered search]]
+
+### Convergence Lattice ↔ Compound Engineering {#Convergence-Lattice-↔-Compound-Engineering}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (.lattice/ ↔ docs/plans+solutions+brainstorms), 3 principes Lattice ↔ 3 choix doctrinaux CE, design-first commun. Sans lignage déclaré dans aucun sens — convergence indépendante sur le vocabulaire stable 2026.
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
 
 ### Conway's Law {#Conway's-Law}
 
@@ -8344,6 +9742,14 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
 
+### Coûts coordination vérification décision à charge humaine {#Coûts-coordination-vérification-décision-à-charge-humaine}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Thèse Siddhant Khare : l'IA déplace la charge cognitive, ne la supprime pas
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Creative Catalyst Zone {#Creative-Catalyst-Zone}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8351,6 +9757,14 @@
 - **caractéristiques** : faible coût d'erreur + connaissance tacite
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
+
+### Critère offloading vs surrender {#Critère-offloading-vs-surrender}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : "Code that ships while understanding grows = offloading ; code that ships while understanding shrinks = surrender disguised as productivity"
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
 
 ### Customer Lifetime Value {#Customer-Lifetime-Value}
 
@@ -8382,6 +9796,24 @@
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
 
+### Design drift {#Design-drift}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Phénomène de dérive de cohérence design entre prompts successifs
+
+- [[kb/design.md\|design.md]] **résout** → Design drift — 0.94
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
+### Design memory {#Design-memory}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Mémoire design transférable entre plateformes via design.md
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### Dette cognitive {#Dette-cognitive}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -8402,6 +9834,14 @@
 
 **Fiches** : [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Paradoxe de Jevons appliqué aux développeurs, effet Reine Rouge, évolution sysadmin→DevOps comme analogie]]
 
+### Diagnostic Lattice {#Diagnostic-Lattice}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **citation** : "AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real standards."
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
 ### Distribution {#Distribution}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8411,6 +9851,27 @@
 - **détermine** → [[kb/_entites-mineures#succès-produit-technologique\|succès produit technologique]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity - Chrome integration - Browser AI - Search - Google competition - Native integration - AI-powered search]]
+
+### Distribution productivité IA {#Distribution-productivité-IA}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **description** : Hypothèse féconde : la distribution se resserre par le bas (Tatsyi : underperformers→baseline) ET s'élargit par le haut (Cherny 150 PRs/jour, Curran top 5% à 6× median, Karpathy "peaks much higher than 10×") — les deux phénomènes coexistent
+
+- **est** → [[kb/_entites-mineures#inégale-(médiane-3-5×,-tail-élite-10×+)\|inégale (médiane 3-5×, tail élite 10×+)]] (CONCEPT) — 0.95
+- **se_resserre_par_le_bas_et_s_élargit_par_le_haut** → [[kb/_entites-mineures#simultanément\|simultanément]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Drift {#Drift}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Hallucination causée par manque d'injection de contexte rigoureuse entre sollicitations agent
+
+- **est_causé_par** → [[kb/_entites-mineures#manque-d'injection-de-contexte\|manque d'injection de contexte]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### Démocratisation automatisation documentaire {#Démocratisation-automatisation-documentaire}
 
@@ -8482,6 +9943,32 @@
 
 **Fiches** : [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### FOMO d'agents 24/7 {#FOMO-d'agents-24-7}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Pression psychologique : "every hour I'm not at the keyboard is an hour an agent could be earning for me" — inversion de la logique deep work
+
+- **crée** → [[kb/_entites-mineures#pression-psychologique-permanente\|pression psychologique permanente]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### Failure modes market research IA {#Failure-modes-market-research-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **détail** : (1) questions vagues → outputs superficiels, (2) sur-reliance polished summaries, (3) validation sautée, (4) insights non convertis en décisions
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### Famille skills frameworks 2026 {#Famille-skills-frameworks-2026}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **composants** : Lattice (techygarg), Superpowers (Vincent), Skills (Anthropic), PROJ-AI (Habert WEnvision), Skills-Based Plugin Architecture (Curran/Intercom), Usine Logicielle Augmentée (Wescale), Compound Engineering (Every / Shipper / Klaassen)
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
 ### FinOps pour IA {#FinOps-pour-IA}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8511,6 +9998,14 @@
 - [[kb/Patrick-Winston\|Patrick Winston]] **a_créé** → Formule K×P×t — 0.95
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
+
+### Freed capacity allocation {#Freed-capacity-allocation}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Réallocation délibérée de la capacité libérée par IA vers (1) features, (2) stabilité, (3) remboursement dette technique
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
 ### Garbage collection (code) {#Garbage-collection-(code)}
 
@@ -8561,6 +10056,14 @@
 - [[kb/ACE\|ACE]] **utilise** → Generator-Reflector-Curator — 0.97
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
+
+### Generic wrappers (anti-pattern) {#Generic-wrappers-(anti-pattern)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Couches fines au-dessus de GPT, sans moat, vulnérables au sherlocking par big tech
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
 ### GuacaDrone {#GuacaDrone}
 
@@ -8634,6 +10137,32 @@
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
 
+### Harness-as-a-Service (HaaS) {#Harness-as-a-Service-(HaaS)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut.
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Harnesses don't shrink they move {#Harnesses-don't-shrink-they-move}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Aphorisme Anthropic : quand le modèle s'améliore, le scaffolding bouge plutôt qu'il ne disparaît
+
+- [[kb/Anthropic\|Anthropic]] **affirme_que** → Harnesses don't shrink they move — 0.97
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Headcount reinvestment capacity {#Headcount-reinvestment-capacity}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Capacité libérée par productivité IA = équivalent free headcount à réinvestir dans innovation. Calcul : Staff size × Salary × Net time saved per developer
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Hiring for strengths {#Hiring-for-strengths}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8641,6 +10170,14 @@
 - **principe** : Évaluer les spikes du candidat plutôt que l'absence de faiblesses
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### Hiérarchie d'accélération {#Hiérarchie-d'accélération}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Frontend > Backend > Infra > Recherche (Ng 2026)
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
 
 ### Human-AI system integrator {#Human-AI-system-integrator}
 
@@ -8678,6 +10215,22 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
 
+### IDP as product {#IDP-as-product}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Internal Developer Platform traité comme produit avec utilisateurs (devs ET agents IA), guardrails et UX réduisant cognitive load — primary connective tissue for AI value (DORA 2025 confirmé)
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Imperfect metrics doctrine {#Imperfect-metrics-doctrine}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Curran : "embrace potentially imperfect measures + monitor holistic outcomes" — anti-paralysie
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### Implementation advantage {#Implementation-advantage}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8685,6 +10238,14 @@
 - **définition** : Les outils vendors externes réussissent 2x plus souvent que les builds internes
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
+### Inference cost ÷280 (Nov 2022 → Oct 2024) {#Inference-cost-÷280-(Nov-2022-→-Oct-2024)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Stanford 2025 AI Index — chute massive du coût modèle. Implication DORA : "the true financial burden of adoption has shifted to governance cost"
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### Instant Checkout {#Instant-Checkout}
 
@@ -8725,6 +10286,52 @@
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
 
+### J-Curve of AI value realization {#J-Curve-of-AI-value-realization}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Trajectoire d'adoption IA : creux productivité temporaire (learning curve + verification tax + pipeline adaptation) avant croissance exponentielle. Métaphore "tuition cost of transformation" à budgéter explicitement
+
+- **décrit** → [[kb/_entites-mineures#creux-productivité-initial-puis-croissance-exponentielle\|creux productivité initial puis croissance exponentielle]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### JIT tool/context assembly {#JIT-tool-context-assembly}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Vision future : harnais qui assemble dynamiquement tools et contexte juste-à-temps, plus proche d'un compilateur que d'une config statique
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Jagged intelligence {#Jagged-intelligence}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **exemple** : Opus 4.7 refactorise 100k lignes mais conseille de marcher 50m au car wash
+
+- [[kb/_entites-mineures#Verifiability\|Verifiability]] **explique** → Jagged intelligence — 0.94
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### Judgment per minute {#Judgment-per-minute}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : KPI émergent du designer agentique : densité de micro-décisions
+
+- **remplace** → [[kb/_entites-mineures#pixel-pushing-dans-le-métier-de-designer-agentique\|pixel pushing dans le métier de designer agentique]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
+### Juge Stratégique {#Juge-Stratégique}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Nouveau rôle humain : intervient là où le jugement est irremplaçable, prime sur l'écriture de code
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
 ### LAYS {#LAYS}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8753,6 +10360,16 @@
 
 **Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
+### Living decision surface {#Living-decision-surface}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle évolutif des dynamiques de marché maintenu comme système opérationnel, pas comme rapport statique
+
+- **remplace** → [[kb/_entites-mineures#rapport-statique-de-market-research\|rapport statique de market research]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### Loi d'Ashby {#Loi-d'Ashby}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8762,6 +10379,30 @@
 - **justifie** → [[kb/_entites-mineures#Templates-de-harnais\|Templates de harnais]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### MIT NANDA shadow AI economy {#MIT-NANDA-shadow-AI-economy}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : MLQ.ai, "The GenAI Divide: State of AI in Business 2025" — explicitement cité par DORA comme "pessimistic perspective" : 95% pilotes fail, employés vers consumer apps non autorisées
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Manager d'Agents {#Manager-d'Agents}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Nouveau rôle développeur : orchestrer et calibrer des agents IA spécialisés
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### Marketing 26% brain fry {#Marketing-26%-brain-fry}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : BCG/HBR janv 2026 — fonction la plus exposée. Min : Legal/Compliance 6%
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
 
 ### Mexican standoff {#Mexican-standoff}
 
@@ -8791,6 +10432,44 @@
 
 **Fiches** : [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
 
+### Model-harness training loop {#Model-harness-training-loop}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Boucle de co-évolution : primitive harnais → produit → post-training modèle suivant → meilleur sur cette primitive. Crée du co-training et de l'overfitting.
+
+- **crée** → [[kb/_entites-mineures#co-training-et-overfitting\|co-training et overfitting]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Molecules (Lattice) {#Molecules-(Lattice)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **exemples** : Design, implement, refactor, fix, review — workflows multi-étapes
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### Mouvement anti-data-center {#Mouvement-anti-data-center}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Opposition citoyenne et législative US 2024-2025
+
+- **a_bloqué** → [[kb/_entites-mineures#~64-Md$-de-projets-entre-mai-2024-et-mars-2025\|~64 Md$ de projets entre mai 2024 et mars 2025]] (EVENEMENT) — 0.93
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
+### Mutual Amplification {#Mutual-Amplification}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Boucle coopérative où prompts utilisateur affinent l'output modèle, ce qui sharpens les prompts suivants ; opposé à delegation-based surrender
+
+- **est** → [[kb/_entites-mineures#boucle-coopérative-prompts↔output↔meilleurs-prompts\|boucle coopérative prompts↔output↔meilleurs prompts]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
 ### Mémoire organisationnelle intelligente {#Mémoire-organisationnelle-intelligente}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8810,6 +10489,14 @@
 - **recommande** → [[kb/_entites-mineures#déploiement-immédiat-IA-générative\|déploiement immédiat IA générative]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
+
+### Onboarding 60-90j → ~40j {#Onboarding-60-90j-→-~40j}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **convergence** : Tatsyi/Raiffeisen 2026-05-05 + Anthropic études internes (citées Sun NYT 2026-04-30) — convergence indépendante banque européenne / acteur IA Silicon Valley sur le même chiffre cible (~40 jours)
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
 ### One pizza pods {#One-pizza-pods}
 
@@ -8834,6 +10521,24 @@
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
+### Operator Posture (Osmani) {#Operator-Posture-(Osmani)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Thèse pivot : "the fundamental distinction isn't about the tools themselves but operator posture" — la responsabilité reste humaine
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Optionality framework {#Optionality-framework}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Chaque expérience est une option à faible coût ; AI réduit option premium ; experiment frequency = leading financial indicator. Emprunt finance dérivée appliqué au software development
+
+- **cadre** → [[kb/_entites-mineures#chaque-expérience-comme-option-à-faible-coût\|chaque expérience comme option à faible coût]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Organisation AI-First {#Organisation-AI-First}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8843,6 +10548,14 @@
 - **repose_sur** → [[kb/_entites-mineures#plateforme-technologique-décentralisée\|plateforme technologique décentralisée]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
+
+### Outsource thinking but not understanding {#Outsource-thinking-but-not-understanding}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Aphorisme cité par Karpathy comme phrase clé pour l'éducation à l'ère IA
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### Painted Doors Problem {#Painted-Doors-Problem}
 
@@ -8876,6 +10589,14 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
 
+### Peak productivité 3 outils IA {#Peak-productivité-3-outils-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **données** : Productivité auto-rapportée : 1 outil 3.3 / 2 outils 3.8 / 3 outils 4.1 / 4+ outils 3.7. Décroissance après 3.
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Pecha Kucha {#Pecha-Kucha}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8885,6 +10606,17 @@
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] **recommandée_pour** → Pecha Kucha — 0.90
 
 **Fiches** : [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité architectures narratives et formats de conférence - Guide global]]
+
+### Permanent underclass {#Permanent-underclass}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Théorie virale 2026 : fenêtre limitée pour bâtir richesse avant que IA/robotique remplacent intégralement le travail humain, figeant les positions de classe
+
+- **est_repopularisé_par** → [[kb/_entites-mineures#théorie-virale-2026-IA-labor\|théorie virale 2026 IA labor]] (CONCEPT) — 0.95
+- **est_un** → [[kb/_entites-mineures#policy-choice\|policy choice]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Phase Expand {#Phase-Expand}
 
@@ -8896,6 +10628,46 @@
 
 **Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Économie des limites d'usage IA pour le codage augmenté — Phase Expand — Ressources limitantes — Stratégie de monétisation — Substack]]
 
+### Plancher financier DORA vs plafond praticien {#Plancher-financier-DORA-vs-plafond-praticien}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Lecture juste : DORA 12.5% time saved = plancher défendable devant CFO (avoided hire), ratios praticiens 3-5× (Frizzo/Wescale/Curran) ou ×4.5 (Tatsyi Claude stack) = plafond organisationnel observé incluant nouveaux produits / new product space que le calculator ne capte pas
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Plateforme Gov+Prod+Audit {#Plateforme-Gov+Prod+Audit}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Vraie plateforme IA d'industrialisation, radicalement différente d'un usage ad hoc ou bibliothèque de prompts
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### Plausible Surface Signals {#Plausible-Surface-Signals}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cause de surrender : code généré qui compile, passe linters, semble cohérent stylistiquement — crée des faux filtres de confiance
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Position no-headcount-reduction (DORA) {#Position-no-headcount-reduction-(DORA)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Recommandation normative explicite DORA : ne pas réduire l'effectif, réinvestir la capacité libérée. Justifié par (a) impact moral, (b) institutional knowledge, (c) incentive structure préservée
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Position épistémique tierce (Frizzo) {#Position-épistémique-tierce-(Frizzo)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Refus simultané des narratifs "AI is bad" et "uncritical enthusiasm" ; tensions non résolues plutôt que conclusions ; gains réels + coûts réels
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
 ### Product Questions {#Product-Questions}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8905,6 +10677,22 @@
 - [[kb/AEO\|AEO]] **cible** → Product Questions — 0.88
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+
+### Production possibility frontier (IA) {#Production-possibility-frontier-(IA)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Métaphore microéconomique Tatsyi — l'IA ne fait pas mieux la même chose, elle agrandit l'ensemble des possibles ; capacité libérée à allouer délibérément
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Productivité 3-5× (médiane committée) {#Productivité-3-5×-(médiane-committée)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **convergence** : Tatsyi (story-points ×1.5-3, ×4.5 volume code Claude stack), Frizzo (LinkedIn 2026-05-05), Wescale (2026-05-03), Curran/Intercom (2026-04-16), DORA Report 2025, Stanford Denisov-Blanch (2025-11-23)
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
 ### Programmation supervisée {#Programmation-supervisée}
 
@@ -8929,6 +10717,14 @@
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
 
+### Public wealth fund {#Public-wealth-fund}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Fonds donnant à tous les citoyens une equity stake dans les A.I. companies (proposition OpenAI)
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Purgatoire des pilotes IA {#Purgatoire-des-pilotes-IA}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -8938,6 +10734,14 @@
 - [[kb/_entites-mineures#Entreprises-établies\|Entreprises établies]] **subissent** → Purgatoire des pilotes IA — 0.95
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
+
+### Purple gradient meme {#Purple-gradient-meme}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Signal négatif de design générique post-vibe-coding
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
 ### Quality Control Zone {#Quality-Control-Zone}
 
@@ -8949,6 +10753,14 @@
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
 
+### Question forte vs faible {#Question-forte-vs-faible}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **exemple** : Faible : "What are the trends?" / Forte : "Where does pricing feel tolerated rather than embraced?"
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### RGPD {#RGPD}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -8956,6 +10768,52 @@
 - **catégorie** : Règlement européen protection données
 
 **Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Révision RGPD via Digital Omnibus : redéfinition données sensibles, élargissement intérêt légitime, affaiblissement droits individuels. Enjeux gouvernance données et IA. IT for Business, enquête réglementaire européenne.]]
+
+### Ratchet principle {#Ratchet-principle}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé.
+
+- **exige** → [[kb/_entites-mineures#traçabilité-de-chaque-règle-AGENTS.md-à-un-échec-passé\|traçabilité de chaque règle AGENTS.md à un échec passé]] (METHODOLOGIE) — 0.95
+
+- [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → Ratchet principle — 0.95
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Raw signals {#Raw-signals}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Sources non polies (avis utilisateurs, documentation, transcripts) priorisées sur les rapports synthétisés
+
+- **sont_préférés_à** → [[kb/_entites-mineures#polished-summaries\|polished summaries]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### Refiners (Lattice) {#Refiners-(Lattice)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Interviews guidées produisant standards projet-spécifiques qui customisent le comportement des atoms
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### Replaceable vs Unfireable {#Replaceable-vs-Unfireable}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Slogan : building wrappers (replaceable) vs shipping autonomous systems (unfireable)
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
+### Review quality at scale {#Review-quality-at-scale}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Tension Frizzo : reviewer à 3-5× le volume risque le skimming, pratiques qualité historiques supposaient rythme humain
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
 
 ### Rewind {#Rewind}
 
@@ -8976,6 +10834,14 @@
 - [[kb/_entites-mineures#Introspection\|Introspection]] **diffère_de** → Rumination — 0.95
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
+
+### Réordonnancement 7 Powers à l'ère IA {#Réordonnancement-7-Powers-à-l'ère-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### SEO {#SEO}
 
@@ -9009,6 +10875,32 @@
 - **remplace** → [[kb/_entites-mineures#modèles-monolithiques\|modèles monolithiques]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|Nvidia stratégie software, SLMs workflows agentiques, Nemotron Nano, DGX Spark workstation, data flywheel fine-tuning, hardware moat, vision-RAG - Cobus Greyling - Medium]]
+
+### Sample 12.5% time saved {#Sample-12.5%-time-saved}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Estimation conservatrice DORA (~ 1h/8h jour) ; littérature range 40-150 min/jour. Choix de plancher défendable financièrement face à un CFO sceptique
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Sample 39% ROI 8 mois payback {#Sample-39%-ROI-8-mois-payback}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Calcul de référence DORA pour 1 an. Cohérent avec moyenne marché Google Cloud (8 mois payback) et avec ROI 727% sur 3 ans des clients Google Cloud AI
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### San Francisco consensus {#San-Francisco-consensus}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Consensus transversal (engineers/VCs/doomers/lefties) sur l'impact bleak de l'IA sur les workers
+
+- **prédit** → [[kb/_entites-mineures#déclassement-économique-massif-via-IA\|déclassement économique massif via IA]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Scaffolding {#Scaffolding}
 
@@ -9050,6 +10942,14 @@
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 
+### Senior architects return to active development {#Senior-architects-return-to-active-development}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Observation Tatsyi — convergence avec Cherny "best accountant writes accounting software" et Karpathy reduction friction to creation
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
 ### Shadow AI {#Shadow-AI}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -9081,6 +10981,14 @@
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
 
+### Sherlocking {#Sherlocking}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Pratique des grandes plateformes (orig. Apple) absorbant les fonctionnalités d'apps tierces
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
 ### Single pane of glass {#Single-pane-of-glass}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -9090,6 +10998,42 @@
 - **définit** → [[kb/_entites-mineures#front-door-to-work-centré-employee-experience\|front door to work centré employee experience]] (METHODOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### Six lignes de fabrication {#Six-lignes-de-fabrication}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **détail** : Intention (PRD/ADR) → Plan (User Stories) → Bon à Tirer → Production 24/7 → Vérification audit indépendant → Déploiement DevOps
+
+- [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] **est_structurée_en** → Six lignes de fabrication — 0.97
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### Six zones PROJ-AI {#Six-zones-PROJ-AI}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **détail** : DOCS/ (raw inputs), IDEAS/ (hypothèses), DR/ (Decision Records 7 dim), OUT/ (livrables), DOCTRINE/ (gouvernance), AGENT/ (slash-commands + traces)
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
+### Skill issue reframe {#Skill-issue-reframe}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Software 3.0 {#Software-3.0}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Programmation = prompting d'un LLM-interpréteur, contexte = levier
+
+- **redéfinit** → [[kb/_entites-mineures#programmation-comme-prompting\|programmation comme prompting]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### Solutions Engineers {#Solutions-Engineers}
 
@@ -9111,6 +11055,14 @@
 
 **Fiches** : [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
 
+### Stanford 35-40% greenfield vs ≤10% brownfield {#Stanford-35-40%-greenfield-vs-≤10%-brownfield}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Stanford Software Engineering Productivity Research, citée par DORA — distribution inégale par contexte technique : greenfield simple maximise gains, brownfield/legacy les limite
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
 ### Stratège {#Stratège}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -9121,6 +11073,14 @@
 - **empêche** → [[kb/_entites-mineures#inflation-des-Story-Points\|inflation des Story Points]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Engineering Compensation - Story Points - Outcome-based Pay - 10x Engineers - Incentive Alignment]]
+
+### Success is silent failures are verbose {#Success-is-silent-failures-are-verbose}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
 ### Supermanager {#Supermanager}
 
@@ -9159,6 +11119,30 @@
 - **est_créé_par** → [[kb/_entites-mineures#The-Josh-Bersin-Company\|The Josh Bersin Company]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### Taste as moat {#Taste-as-moat}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Thèse Meng To — la taste est le seul moat dans l'âge agentique
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
+### Tension DORA-prescriptif vs Tatsyi-descriptif {#Tension-DORA-prescriptif-vs-Tatsyi-descriptif}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : DORA recommande no-headcount-reduction (norme a priori) ; Tatsyi/Raiffeisen rapporte −75 personnes avec réallocation délibérée (descriptif a posteriori). Les deux positions ne sont pas inconciliables — à utiliser comme pivot de débat COMEX
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Tensions non résolues (Frizzo) {#Tensions-non-résolues-(Frizzo)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **détail** : (1) FOMO, (2) Review quality at scale, (3) Skill atrophy — questions ouvertes que l'auteur pose sans trancher
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
 
 ### The Button {#The-Button}
 
@@ -9200,6 +11184,34 @@
 
 **Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
 
+### Toil {#Toil}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Tâches routinières répétitives non plaisantes — cibles idéales de délégation à l'IA, source de réduction du burnout
+
+- **est_la_cible_idéale_de** → [[kb/_entites-mineures#délégation-à-l'IA\|délégation à l'IA]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Token Burning {#Token-Burning}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Consommation tokens inutile par agents mal gérés, peut annuler le ROI compute
+
+- **peut_annuler** → [[kb/_entites-mineures#ROI-projet-IA\|ROI projet IA]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### Tool economy {#Tool-economy}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : 10 outils focalisés battent 50 outils chevauchants — le modèle peut tenir le menu en tête
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### Transparence du raisonnement {#Transparence-du-raisonnement}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -9209,6 +11221,14 @@
 - [[kb/Agentique-adaptative\|Agentique adaptative]] **repose_sur** → Transparence du raisonnement — 0.97
 
 **Fiches** : [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
+
+### Triade PROJ-AI {#Triade-PROJ-AI}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **composants** : (1) Repository git versionné, (2) Agent IA lisant doctrine à chaque session, (3) Doctrine markdown gouvernance
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
 ### Trifecta Mortelle {#Trifecta-Mortelle}
 
@@ -9221,6 +11241,22 @@
 - [[kb/Simon-Willison\|Simon Willison]] **a_défini** → Trifecta Mortelle — 0.97
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
+
+### Trois archétypes ingénieurs IA {#Trois-archétypes-ingénieurs-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : (1) Copilot-only +10-25% PRs ; (2) Multi-outils story-points ×1.5-3, scope cross-repo +50-80% ; (3) Claude-on-corporate-stack volume code ×4.5, scope radicalement élargi
+
+**Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
+
+### Trois principes Lattice {#Trois-principes-Lattice}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **détail** : (1) Skills over prompts, (2) Composability over monoliths, (3) Living context over static config
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
 
 ### Two pizza teams {#Two-pizza-teams}
 
@@ -9242,6 +11278,34 @@
 
 **Fiches** : [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI - Terms of Service - Privacy - Google - Data collection - Model training - Authentication]]
 
+### Verifiability {#Verifiability}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Cadre expliquant pourquoi LLMs peakent en math/code (RL training) et stagnent ailleurs
+
+- **explique** → [[kb/_entites-mineures#jagged-intelligence\|jagged intelligence]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### Verification tax {#Verification-tax}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Coût caché de review/audit du code généré par IA — augmente avec volume généré, peut éroder les gains de productivité bruts
+
+- **augmente_avec** → [[kb/_entites-mineures#volume-de-code-généré-par-IA\|volume de code généré par IA]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Vibe Coding Paralysis {#Vibe-Coding-Paralysis}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Concept Bonacci : épuisement non par le travail mais par sa gestion. 6 worktrees, 4 features à moitié, 2 quick fixes en rabbit holes
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
 ### Weave Hour {#Weave-Hour}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -9251,6 +11315,14 @@
 - **mesure** → [[kb/_entites-mineures#temps-qu'un-ingénieur-expérimenté-prendrait\|temps qu'un ingénieur expérimenté prendrait]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
+
+### White-collar blood bath {#White-collar-blood-bath}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **source** : Dario Amodei — anticipation de licenciements massifs cols blancs
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Widening Gap {#Widening-Gap}
 
@@ -9269,6 +11341,24 @@
 - **émerge_de** → [[kb/_entites-mineures#surconsommation-IA\|surconsommation IA]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
+
+### Writing muscle atrophy {#Writing-muscle-atrophy}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents
+
+- **converge_avec** → [[kb/_entites-mineures#étude-Anthropic-junior-engineers-deskilling\|étude Anthropic junior engineers deskilling]] (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### X3-X4 (gains réalistes) {#X3-X4-(gains-réalistes)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### acceptance rate {#acceptance-rate}
 
@@ -10727,13 +12817,13 @@
 
 ### product overhang {#product-overhang}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
-- **définition** : Capacité modèle existante sans produit pour l'exploiter
+- **définition** : Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code
 
 - **explique** → [[kb/_entites-mineures#genèse-de-Claude-Code\|genèse de Claude Code]] (CONCEPT) — 0.88
 
-**Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]], [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
 
 ### productivité 10x-1000x {#productivité-10x-1000x}
 
@@ -11286,7 +13376,23 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (134)
+## METHODOLOGIE (183)
+
+### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Five-level progressive design approach — design-first comme convention non négociable
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### 2x Principles (Curran) {#2x-Principles-(Curran)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Modern work methodology Intercom — annoncée mais détails réservés à un post suivant
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### 4 stratégies AI transformation CHRO {#4-stratégies-AI-transformation-CHRO}
 
@@ -11295,6 +13401,38 @@
 - **structure** : (1) AI Readiness, (2) Technology Platforms, (3) Hiring/Redeployment, (4) Supermanagers
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### 5 heuristiques personnelles Osmani {#5-heuristiques-personnelles-Osmani}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **détail** : (1) pre-generate expectations, (2) rigorous diff review au standard junior, (3) adversarial prompting, (4) fatigue awareness, (5) confidence source verification
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### 6 garde-fous structurels Osmani {#6-garde-fous-structurels-Osmani}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **détail** : (1) verification exit criteria, (2) anti-rationalization tables, (3) PRs ~100 lignes max, (4) interrogative > generative, (5) scaffolded friction, (6) solo keyboard time
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### 7 Powers Helmer {#7-Powers-Helmer}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Framework stratégie d'entreprise de Hamilton Helmer : 7 modes de pouvoir (switching costs, process power, network effects, scale economies, cornered resources, branding, counter-positioning)
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### 7-step workflow market research IA {#7-step-workflow-market-research-IA}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **détail** : Question précise → raw signals → Tension Map → analyse IA → stress-test → décisions → updatable market model
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -11318,6 +13456,16 @@
 - **augmente** → [[kb/_entites-mineures#fusions-de-code\|fusions de code]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
+
+### AI mobile app SLM {#AI-mobile-app-SLM}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **niveau** : Beginner — edge AI + resource optimization (lazy loading, quantization, battery, offline-first)
+
+- **prouve** → [[kb/_entites-mineures#edge-AI-+-resource-optimization\|edge AI + resource optimization]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
 ### AI-Annotated Deliverables {#AI-Annotated-Deliverables}
 
@@ -11368,6 +13516,17 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse frameworks narratifs et prompts pour formats de talks]]
 
+### Activation capping {#Activation-capping}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Contrainte d'outputs à l'inférence pour stabiliser persona
+
+- **réduit** → [[kb/_entites-mineures#jailbreaks-Qwen3-32B-de-83%-à-41%\|jailbreaks Qwen3 32B de 83% à 41%]] (CONCEPT) — 0.96
+- **préserve** → [[kb/_entites-mineures#IFEval,-GSM8k,-MMLU-Pro,-EQ-Bench\|IFEval, GSM8k, MMLU-Pro, EQ-Bench]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### Agentic Commerce Protocol {#Agentic-Commerce-Protocol}
 
 **Type** : METHODOLOGIE | 5 relations | 1 fiches
@@ -11383,6 +13542,24 @@
 
 **Fiches** : [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains, commerce agentique émergent - Riskified - e-commerce - IA shopping]]
 
+### Agentic engineering {#Agentic-engineering}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **fonction** : Préserver le quality bar avec coordination d'agents stochastiques
+
+- **préserve** → [[kb/_entites-mineures#quality-bar-professionnelle\|quality bar professionnelle]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### Analysis of Competing Hypotheses (ACH) {#Analysis-of-Competing-Hypotheses-(ACH)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **source** : Richards Heuer (CIA) — méthodologie d'évaluation parallèle d'hypothèses concurrentes, ancêtre méthodologique de la Tension Map
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### Approved fixtures {#Approved-fixtures}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -11390,6 +13567,14 @@
 - **catégorie** : Pattern de test pour harnais comportemental
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
+
+### Autonomous enterprise workflow agent {#Autonomous-enterprise-workflow-agent}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **niveau** : Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
 ### Blueprints {#Blueprints}
 
@@ -11401,6 +13586,16 @@
 - **améliore** → [[kb/_entites-mineures#fiabilité-agents\|fiabilité agents]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]
+
+### Bon à Tirer {#Bon-à-Tirer}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Validation humaine sur 6 dimensions par architectes + Product Managers, seule porte humaine avant fabrication
+
+- **constitue** → [[kb/_entites-mineures#unique-porte-humaine-avant-fabrication\|unique porte humaine avant fabrication]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### CDLC {#CDLC}
 
@@ -11435,6 +13630,14 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
 
+### Cinq directives agent PROJ-AI {#Cinq-directives-agent-PROJ-AI}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **détail** : (1) ingest doctrine, (2) cite sources, (3) propose DR, (4) never override doctrine, (5) end-of-session summaries
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
 ### Context engineering {#Context-engineering}
 
 **Type** : METHODOLOGIE | 5 relations | 1 fiches
@@ -11462,6 +13665,44 @@
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
 
+### Corpus persistence {#Corpus-persistence}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Maintenir matériel source stable (Claude Projects) pour créer compounding analytical value
+
+- **crée** → [[kb/_entites-mineures#compounding-analytical-value\|compounding analytical value]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### Cursor for video editors {#Cursor-for-video-editors}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **niveau** : Advanced — multimodal AI (vision + audio), intent translation, scene detection, EDL, undo with reasoning
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
+### Cycle DPEV {#Cycle-DPEV}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Décider → Promettre → Exécuter → Vérifier — quatre étapes traçables idée → livrable défendable
+
+- **structure** → [[kb/_entites-mineures#Décider-→-Promettre-→-Exécuter-→-Vérifier\|Décider → Promettre → Exécuter → Vérifier]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
+### Cycle en V prédictible {#Cycle-en-V-prédictible}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **retour** : Restauration de l'engagement périmètre/coût/délai contre l'agilité Scrum jugée défaillante
+
+- [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] **restaure** → Cycle en V prédictible — 0.94
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
 ### DORA AI Capabilities Model {#DORA-AI-Capabilities-Model}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11482,6 +13723,24 @@
 - [[kb/Sierra\|Sierra]] **pilote** → Debugging interview — 0.92
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### Decision Mode {#Decision-Mode}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Phase 3 : convertir interprétation en action stratégique
+
+- **convertit** → [[kb/_entites-mineures#tensions-en-décisions-stratégiques\|tensions en décisions stratégiques]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### Decision Records 7 dimensions {#Decision-Records-7-dimensions}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Decision Records scorés sur 7 dimensions, traces tous choix structurants du projet
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
 ### Deep Research {#Deep-Research}
 
@@ -11521,6 +13780,14 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse frameworks narratifs et prompts pour formats de talks]]
 
+### Discovery Mode {#Discovery-Mode}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Phase 1 : baseline acteurs + patterns visibles
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### Dynamic Cheatsheet {#Dynamic-Cheatsheet}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11549,6 +13816,14 @@
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|Techniques de communication orale, présentation académique, heuristiques de parole efficace]]
 
+### Entretien de débogage {#Entretien-de-débogage}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Revue et amélioration d'une codebase avec PR brouillon en itérant avec des agents de codage (pilote)
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
 ### FSRS {#FSRS}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11558,6 +13833,14 @@
 - **est_utilisé_pour** → [[kb/_entites-mineures#mémorisation-espacée-des-flashcards\|mémorisation espacée des flashcards]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
+
+### Federal jobs guarantee {#Federal-jobs-guarantee}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### FinOps {#FinOps}
 
@@ -11591,18 +13874,6 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
-### GDPval {#GDPval}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **méthode** : Experts 14 ans d'expérience, évaluation en aveugle
-- **portée** : Finance, droit, retail, développement logiciel
-
-- **démontre** → [[kb/_entites-mineures#différences-significatives-entre-modèles-par-tâche\|différences significatives entre modèles par tâche]] (CONCEPT) — 0.96
-- **révèle** → [[kb/_entites-mineures#Jagged-Frontier-des-capacités-IA\|Jagged Frontier des capacités IA]] (CONCEPT) — 0.95
-
-**Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
-
 ### Generative AI Champions {#Generative-AI-Champions}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11633,6 +13904,25 @@
 - **inspire** → [[kb/_entites-mineures#culture-post-mortem-Anthropic\|culture post-mortem Anthropic]] (CONCEPT) — 0.75
 
 **Fiches** : [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
+
+### Gouvernance injectée {#Gouvernance-injectée}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée
+
+- **est** → [[kb/_entites-mineures#innovation-centrale\|innovation centrale]] (CONCEPT) — 0.97
+- **constitue** → [[kb/_entites-mineures#barrière-à-l'entrée-réelle\|barrière à l'entrée réelle]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### Hiring refactoring par projets adversariels {#Hiring-refactoring-par-projets-adversariels}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **exemple** : Twitter clone agent vs 10 codecs red team — corroboration Sierra
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### Jo-ha-kyū {#Jo-ha-kyū}
 
@@ -11686,6 +13976,24 @@
 
 **Fiches** : [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google - Demand-led marketing - Budget 2026 - Marketing strategy - Data-driven - Google insights - CMO guidance]]
 
+### Multitâches 5 onglets agents {#Multitâches-5-onglets-agents}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Pratique standard SF : 5 agents IA exécutant en parallèle, le développeur arbitre et corrige
+
+- **caractérise** → [[kb/_entites-mineures#quotidien-des-développeurs-Silicon-Valley\|quotidien des développeurs Silicon Valley]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### Métriques DORA {#Métriques-DORA}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Lead Time + fréquence de déploiement, remplacent la vélocité comme indicateurs de performance
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
 ### NIST AI RMF {#NIST-AI-RMF}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -11696,6 +14004,32 @@
 - **guide** → [[kb/_entites-mineures#gestion-risques-IA-projets\|gestion risques IA projets]] (CONCEPT) — 0.82
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]]
+
+### Observation-Tension-Decision {#Observation-Tension-Decision}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Framework de progression structurée signal → décision
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### Onsite AI-native {#Onsite-AI-native}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : Format d'entretien en 3 phases (Plan/Build/Review) remplaçant les entretiens de codage et algorithmes classiques
+
+- **comprend** → [[kb/_entites-mineures#trois-phases-Plan-Build-Review\|trois phases Plan/Build/Review]] (METHODOLOGIE) — 0.98
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### Outcome-based (modèle économique IA) {#Outcome-based-(modèle-économique-IA)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### PAS {#PAS}
 
@@ -11746,6 +14080,16 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
+### Personal life OS agent {#Personal-life-OS-agent}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **niveau** : Expert — deep context, knowledge graph personnel, proactive monitoring, value alignment, privacy architecture, transparent reasoning
+
+- **prouve** → [[kb/_entites-mineures#deep-context-+-privacy-first\|deep context + privacy-first]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
 ### Phase 1 Fondation des Champions {#Phase-1-Fondation-des-Champions}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11787,6 +14131,48 @@
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]]
 
+### Phase Build {#Phase-Build}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **description** : 2 heures de construction autonome avec outils IA et frameworks au choix du candidat
+
+- **dure** → [[kb/_entites-mineures#2-heures-avec-outils-IA-au-choix\|2 heures avec outils IA au choix]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### Phase Plan {#Phase-Plan}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Session d'idéation produit dirigée par le candidat dans son domaine d'expertise
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### Phase Review {#Phase-Review}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Démo du produit construit, revue de code, discussion du chemin vers la production et usage de l'IA
+
+**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### Pipeline Lattice {#Pipeline-Lattice}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **séquence** : lattice-init → design-blueprint → code-forge → review (+ refactor-safely, bug-fix en écarts)
+
+**Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### Planner-Evaluator split {#Planner-Evaluator-split}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail)
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### Platform Engineering {#Platform-Engineering}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11809,6 +14195,24 @@
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research]]
 
+### Problem framing / analysis planning / strategic prioritization {#Problem-framing-analysis-planning-strategic-prioritization}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Trois skills BCG-identifiées qui débloquent les top users d'IA et préviennent l'épuisement
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Productivity Tiering {#Productivity-Tiering}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **dimensions** : 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality
+
+- **évalue** → [[kb/_entites-mineures#progression-minimal-→-elite-agentic-tool-usage\|progression minimal → elite agentic tool usage]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### Quality Gates {#Quality-Gates}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -11829,13 +14233,14 @@
 
 ### Ralph Loop {#Ralph-Loop}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
 
-- **définition** : Pattern de harnais réinjectant le prompt dans un contexte propre pour forcer la continuation
+- **définition** : Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session
 
+- **utilise** → [[kb/_entites-mineures#hook-qui-ré-injecte-prompt-dans-fresh-context-window\|hook qui ré-injecte prompt dans fresh context window]] (CONCEPT) — 0.93
 - **intercepte** → [[kb/_entites-mineures#Tentative-de-sortie-du-modèle\|Tentative de sortie du modèle]] (CONCEPT) — 0.88
 
-**Fiches** : [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### Recursive Tool Building {#Recursive-Tool-Building}
 
@@ -11848,6 +14253,14 @@
 - [[kb/compounding-teams\|compounding teams]] **applique** → Recursive Tool Building — 0.96
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+
+### Roadmap CapEx → OpEx {#Roadmap-CapEx-→-OpEx}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency)
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### Règle 10/20/70 {#Règle-10-20-70}
 
@@ -11867,6 +14280,16 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse frameworks narratifs et prompts pour formats de talks]]
 
+### Self-improving coding agent {#Self-improving-coding-agent}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **niveau** : Intermediate — agentic loops + memory hierarchy + reflection mechanism + sandboxing
+
+- **prouve** → [[kb/_entites-mineures#agentic-loops-+-production-debugging\|agentic loops + production debugging]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
 ### Semantic Data Products {#Semantic-Data-Products}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -11877,6 +14300,22 @@
 - **crée** → [[kb/_entites-mineures#knowledge-graph-distribué-prêt-pour-IA\|knowledge graph distribué prêt pour IA]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products]]
+
+### Setup iOS-first Cherny {#Setup-iOS-first-Cherny}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Travail principal depuis iPhone via Claude app onglet code, 5-10 sessions, few hundred agents day / few thousand night, /loop primitive principale
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### Shift-Left {#Shift-Left}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **application** : Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe
+
+**Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### Simplicity First {#Simplicity-First}
 
@@ -11922,6 +14361,22 @@
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
 
+### Sprint contract {#Sprint-contract}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Generator et evaluator négocient la condition de "done" avant que le code soit écrit
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### Stack orchestré (Perplexity → Claude → ChatGPT → Multi-agent) {#Stack-orchestré-(Perplexity-→-Claude-→-ChatGPT-→-Multi-agent)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Séquence d'outils par phase : expansion → corpus → structuration → validation
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
 ### Story Points {#Story-Points}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -11931,6 +14386,14 @@
 - [[kb/_entites-mineures#10x\|10x]] **rémunère_par** → Story Points — 0.95
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Engineering Compensation - Story Points - Outcome-based Pay - 10x Engineers - Incentive Alignment]]
+
+### Stress-testing (Pawlowski) {#Stress-testing-(Pawlowski)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Questions adversariales systématiques : ce qui invalidirait, hypothèses faibles, ce que disputeraient des compétiteurs sceptiques
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### Surgical Changes {#Surgical-Changes}
 
@@ -11955,6 +14418,14 @@
 - [[kb/Kent-Beck\|Kent Beck]] **a_créé** → TDD — 0.97
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]], [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
+
+### Tension Mode {#Tension-Mode}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Phase 2 : localiser insatisfaction + segments mal servis
+
+**Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### Test-Driven Development {#Test-Driven-Development}
 
@@ -11999,6 +14470,24 @@
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### Token consumption performance metric {#Token-consumption-performance-metric}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **description** : Pratique d'entreprise (ex: Meta avec lines of AI code) qui incite à maximiser l'usage IA — source d'épuisement
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Token-max {#Token-max}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Classement interne d'entreprise valorisant les plus gros utilisateurs d'IA — source d'injonction et d'épuisement
+
+- **définit** → [[kb/_entites-mineures#classement-interne-valorisant-les-plus-gros-utilisateurs-d'IA-en-entreprise\|classement interne valorisant les plus gros utilisateurs d'IA en entreprise]] (METHODOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### Tool search {#Tool-search}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -12008,6 +14497,22 @@
 - **utilise** → [[kb/_entites-mineures#stubs-avec-defer_loading\|stubs avec defer_loading]] (TECHNOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
+
+### Triade ingrédients/recette/plat fini {#Triade-ingrédients-recette-plat-fini}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Cadre Meng To : skills/design.md/HTML
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
+### Trois scénarios (DORA) {#Trois-scénarios-(DORA)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Conservative (value × 0.8, cost × 1.5) / Realistic (1.0/1.0) / Optimistic (value × 1.2, cost × 0.8) — modélisation incertitude explicite pour CFO
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
 ### Voyage du Héros {#Voyage-du-Héros}
 
@@ -12057,6 +14562,14 @@
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
+### Workflow Reference→Iterate→Remix {#Workflow-Reference→Iterate→Remix}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : 9 étapes Meng To pour design agentique de qualité
+
+**Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
+
 ### adoption bottom-up {#adoption-bottom-up}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -12090,7 +14603,7 @@
 
 - **domaine** : Développement systèmes IA agentiques
 
-- [[kb/_entites-mineures#Andrew-Ng\|Andrew Ng]] **recommande** → analyse_d_erreurs — 0.95
+- [[kb/Andrew-Ng\|Andrew Ng]] **recommande** → analyse_d_erreurs — 0.95
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
@@ -12684,7 +15197,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## EVENEMENT (29)
+## EVENEMENT (53)
 
 ### 100% adoption juridique {#100%-adoption-juridique}
 
@@ -12693,6 +15206,22 @@
 - **contexte** : Département legal Moderna sous Shannon Klinger
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
+### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### 19,2% AI-approved PRs {#19,2%-AI-approved-PRs}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Pourcentage PRs auto-approuvés par IA chez Intercom (avril 2026), cible >50%
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### 2026 Agentic Coding Trends Report {#2026-Agentic-Coding-Trends-Report}
 
@@ -12712,6 +15241,14 @@
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
 
+### 3× productivité R&D Intercom {#3×-productivité-R&D-Intercom}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Multiplicateur atteint en 16 mois (vs goal initial 2× en 12 mois), no signs of plateauing
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
 ### 750 GPTs en 2 mois {#750-GPTs-en-2-mois}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -12721,6 +15258,14 @@
 - [[kb/Moderna\|Moderna]] **a_atteint** → 750 GPTs en 2 mois — 0.97
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Étude de cas officielle OpenAI sur le déploiement de ChatGPT Enterprise chez Moderna : 750 GPTs en 2 mois, 100% d'adoption juridique, GPT Dose ID pour les essais cliniques, citation de Stéphane Bancel "100 000 employés", framework de transformation organisationnelle (mChat, Generative AI Champions, forum interne 2 000 participants).]]
+
+### 93,6% agent-driven PRs {#93,6%-agent-driven-PRs}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Pourcentage PRs Intercom où agents IA ont contribué significativement
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### 95% AI pilots fail {#95%-AI-pilots-fail}
 
@@ -12748,6 +15293,24 @@
 
 **Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI - AI Index - Annual report - Industry trends - Research metrics - Global AI development]]
 
+### AI Startup School {#AI-Startup-School}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **catégorie** : Conférence où Sam Altman et Karpathy ont parlé (référence "AIN")
+
+- [[kb/Sam-Altman\|Sam Altman]] **a_parlé_à** → AI Startup School — 0.92
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### AI investments 39% croissance US {#AI-investments-39%-croissance-US}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : St. Louis Fed Q1-Q3 2025 : data centers + software AI = 39% du growth US
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### AI-Powered Engineering at Scale: The Adoption Playbook {#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -12757,6 +15320,14 @@
 - [[kb/Augment-Code\|Augment Code]] **a_publié** → AI-Powered Engineering at Scale: The Adoption Playbook — 0.99
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]]
+
+### Anthropic ARR 30B$ {#Anthropic-ARR-30B$}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Revenue annualisé Anthropic avril 2026, +233% vs 9B$ fin 2025
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### Anthropic Economic Index {#Anthropic-Economic-Index}
 
@@ -12771,6 +15342,16 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
+### Anthropic Skill-Formation Research {#Anthropic-Skill-Formation-Research}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **description** : Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau
+
+- **a_mesuré** → [[kb/_entites-mineures#17%-baisse-compréhension-chez-ingénieurs-IA-générant\|17% baisse compréhension chez ingénieurs IA-générant]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
 ### AppWorld {#AppWorld}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -12778,6 +15359,40 @@
 - **type** : benchmark agent multi-tâches
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
+
+### Block (layoffs mars 2026) {#Block-(layoffs-mars-2026)}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Jack Dorsey licencie ~50% effectifs, cite Opus 4.6 + Codex 5.3, +25% stock after-hours
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### Bug prompt caching {#Bug-prompt-caching}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **période** : 26 mars - 10 avril 2026
+
+- **a_causé** → [[kb/_entites-mineures#cache-misses-en-cascade-et-perte-de-contexte\|cache misses en cascade et perte de contexte]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
+
+### Contrainte verbosité {#Contrainte-verbosité}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **impact_mesuré** : -3% intelligence (Opus 4.6 et 4.7)
+
+**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
+
+### December 2025 transition {#December-2025-transition}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### EMNLP2025 {#EMNLP2025}
 
@@ -12801,6 +15416,14 @@
 
 **Fiches** : [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia - AI controversy - Siri creator - French tech - Provocative statements - AI hype - Media debate]], [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI - AI Index - Annual report - Industry trends - Research metrics - Global AI development]]
 
+### Firebombing Altman home avril 2026 {#Firebombing-Altman-home-avril-2026}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### Hype Cycle for Generative AI 2025 {#Hype-Cycle-for-Generative-AI-2025}
 
 **Type** : EVENEMENT | 3 relations | 1 fiches
@@ -12813,6 +15436,26 @@
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] **rédige** → Hype Cycle for Generative AI 2025 — 0.98
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
+
+### Industrial Policy for the Intelligence Age {#Industrial-Policy-for-the-Intelligence-Age}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **description** : White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale
+
+- **propose** → [[kb/_entites-mineures#semaine-de-32h-+-public-wealth-fund-+-right-to-AI\|semaine de 32h + public wealth fund + right to AI]] (CONCEPT) — 0.96
+
+- [[kb/OpenAI\|OpenAI]] **publie** → Industrial Policy for the Intelligence Age — 0.98
+
+**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### Inflection Opus 4 mai 2025 {#Inflection-Opus-4-mai-2025}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### Intégration Chrome Perplexity {#Intégration-Chrome-Perplexity}
 
@@ -12836,6 +15479,24 @@
 
 **Fiches** : [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia - AI controversy - Siri creator - French tech - Provocative statements - AI hype - Media debate]]
 
+### MIT Your Brain on ChatGPT {#MIT-Your-Brain-on-ChatGPT}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **description** : Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement
+
+- **a_mesuré** → [[kb/_entites-mineures#réduction-connectivité-neuronale-chez-rédacteurs-IA-assistés\|réduction connectivité neuronale chez rédacteurs IA-assistés]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
+### Métriques PROJ-AI {#Métriques-PROJ-AI}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable
+
+**Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
+
 ### NRF 2026 {#NRF-2026}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -12845,6 +15506,14 @@
 - **a_rassemblé** → [[kb/_entites-mineures#40-000-visiteurs\|40 000 visiteurs]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]
+
+### One-year retrospective Claude Code {#One-year-retrospective-Claude-Code}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×)
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
 
 ### Powered by Claude {#Powered-by-Claude}
 
@@ -12868,6 +15537,24 @@
 
 **Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|DX Platform - Engineering Leadership - Productivity Metrics - Psychological Safety - SDLC Constraints]]
 
+### Round 2 Anthropic Labs {#Round-2-Anthropic-Labs}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **description** : Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram)
+
+- [[kb/_entites-mineures#Mike-Krieger\|Mike Krieger]] **dirige** → Round 2 Anthropic Labs — 0.96
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### SWE-Bench Pro {#SWE-Bench-Pro}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **catégorie** : Benchmark agents codage, GLM-5.1 leader 58,4%
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
 **Type** : EVENEMENT | 2 relations | 1 fiches
@@ -12890,6 +15577,26 @@
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|Évolution métier développeur avec IA générative, transformation rôles informatiques, ingénierie système, orchestration agentique - Yves Caseau - Michelin - LinkedIn]]
 
+### Terminal Bench 2.0 {#Terminal-Bench-2.0}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **rôle** : Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5)
+
+- **démontre** → [[kb/_entites-mineures#Top-30-→-Top-5-par-changement-de-harnais-seul\|Top 30 → Top 5 par changement de harnais seul]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
+### The Batch {#The-Batch}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **type** : Newsletter hebdomadaire IA, numéro 350
+
+- **publie** → [[kb/_entites-mineures#numéro-350\|numéro 350]] (EVENEMENT) — 0.99
+
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
 ### Thoughtworks Future of Software Development Retreat {#Thoughtworks-Future-of-Software-Development-Retreat}
 
 **Type** : EVENEMENT | 2 relations | 1 fiches
@@ -12900,6 +15607,14 @@
 - [[kb/Thoughtworks\|Thoughtworks]] **a_organisé** → Thoughtworks Future of Software Development Retreat — 0.95
 
 **Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
+
+### Webinar 19 mai 2026 (Curran) {#Webinar-19-mai-2026-(Curran)}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT
+
+**Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### bulle Internet de 2000 {#bulle-Internet-de-2000}
 
@@ -12972,6 +15687,14 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|IA dans le cycle de vie logiciel - Qualité vs vitesse - Assurance qualité systématique - AI Journal]]
 
+### Étude Shaw & Nave {#Étude-Shaw-&-Nave}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
+
 ### étude transformation travail par IA {#étude-transformation-travail-par-IA}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -13036,7 +15759,17 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (4)
+## DOCUMENT (7)
+
+### Agent Harness Engineering {#Agent-Harness-Engineering}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **format** : Article de blog long format addyosmani.com
+
+- [[kb/Addy-Osmani\|Addy Osmani]] **a_publié** → Agent Harness Engineering — 0.98
+
+**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
 ### Agile Manifesto {#Agile-Manifesto}
 
@@ -13079,3 +15812,24 @@
 - [[kb/MIT-NANDA\|MIT NANDA]] **a_publié** → The GenAI Divide State of AI in Business 2025 — 0.98
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|Relais Legal.io de l'étude MIT NANDA "The GenAI Divide: State of AI in Business 2025" : 95% des pilotes IA en entreprise n'apportent aucun ROI mesurable malgré $30-40 Mds investis. Concept de "GenAI Divide", "shadow AI economy", quatre facteurs structurels d'échec, recommandation back-office et build-to-buy. Justification empirique du basculement RH-organisationnel.]]
+
+### Tomorrowmind {#Tomorrowmind}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **type** : Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail
+
+- [[kb/_entites-mineures#Gabriella-Rosen-Kellerman\|Gabriella Rosen Kellerman]] **a_co-écrit** → Tomorrowmind — 0.95
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Étude BCG HBR mars 2026 {#Étude-BCG-HBR-mars-2026}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **méthodologie** : 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming
+
+- **mesure** → [[kb/_entites-mineures#14%-des-AI-using-workers-expérimentent-du-brain-fry\|14% des AI-using workers expérimentent du brain fry]] (CONCEPT) — 0.98
+- **mesure** → [[kb/_entites-mineures#Marketing-26%-brain-fry-vs-Legal-6%\|Marketing 26% brain fry vs Legal 6%]] (CONCEPT) — 0.97
+
+**Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]

@@ -1,13 +1,13 @@
 # WEnvision
 
-> **Type** : ORGANISATION | 11 relations | 4 fiches sources
+> **Type** : ORGANISATION | 13 relations | 5 fiches sources
 
 ## Attributs
 
 - **catégorie** : Plateforme enterprise de déploiement agents IA
 - **positionnement** : Comble le fossé expérimentation-production
 - **rôle** : Cabinet conseil stratégie IA
-- **secteur** : IA générative, conseil
+- **secteur** : Cabinet français de conseil en stratégie et IA agentique, méthodologie accompagnée
 - **type** : Cabinet de conseil en transformation digitale
 
 ## Relations (comme sujet)
@@ -19,6 +19,8 @@
 
 ### accompagne
 
+- [[kb/_entites-mineures#3-missions-actives-PROJ-AI\|3 missions actives PROJ-AI]] (EVENEMENT) — 0.96, DYNAMIQUE
+  - [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 - [[kb/_entites-mineures#déploiement-Almia\|déploiement Almia]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
@@ -65,10 +67,12 @@
 ## Relations (comme objet)
 
 - [[kb/Antoine-Habert\|Antoine Habert]] **a_rejoint** → WEnvision — 0.97
+- [[kb/Antoine-Habert\|Antoine HABERT]] **travaille_chez** → WEnvision — 0.97
 
 ## Fiches sources
 
 - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
+- [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, OpenAI, transformation digitale, e-commerce conversationnel, agents IA, wenvision.com]]
 - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision - AI agents - Enterprise deployment - Platform - Agent orchestration - Enterprise AI - Production systems]]

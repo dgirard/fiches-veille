@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 64 relations | 32 fiches sources
+> **Type** : ORGANISATION | 75 relations | 32 fiches sources
 
 ## Attributs
 
@@ -21,6 +21,11 @@
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### a_atteint
+
+- [[kb/_entites-mineures#30B$-ARR-annualisé\|30B$ ARR annualisé]] (CONCEPT) — 0.97, DYNAMIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
 ### a_co-fondé
 
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] (ORGANISATION) — 0.98, STATIQUE
@@ -39,6 +44,8 @@
   - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
+- [[kb/_entites-mineures#compte-@ClaudeDevs-sur-X\|compte @ClaudeDevs sur X]] (EVENEMENT) — 0.90, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 
 ### a_détecté
 
@@ -73,11 +80,20 @@
 
 - [[kb/Agent-Skills\|Agent Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
+- [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] (EVENEMENT) — 0.98, STATIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+- [[kb/_entites-mineures#Routines-(server-side-loops)\|Routines (server-side loops)]] (EVENEMENT) — 0.95, STATIQUE
+  - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
 ### a_mené
 
 - [[kb/_entites-mineures#étude-transformation-travail-par-IA\|étude transformation travail par IA]] (EVENEMENT) — 0.98, STATIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
+
+### a_modifié
+
+- [[kb/_entites-mineures#niveau-de-raisonnement-par-défaut-de-high-à-medium\|niveau de raisonnement par défaut de high à medium]] (CONCEPT) — 0.97, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 
 ### a_observé
 
@@ -90,17 +106,26 @@
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 - [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
+- [[kb/_entites-mineures#post-mortem-qualité-Claude-Code-avril-2026\|post-mortem qualité Claude Code avril 2026]] (EVENEMENT) — 0.98, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
 - [[kb/_entites-mineures#système-de-plugins-Claude-Code\|système de plugins Claude Code]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+- [[kb/_entites-mineures#étude-junior-engineers-deskilling-AI-agents\|étude junior engineers deskilling AI agents]] (EVENEMENT) — 0.94, STATIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### a_publié_en_open_source
 
 - [[kb/_entites-mineures#données-Anthropic-Economic-Index\|données Anthropic Economic Index]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
+
+### a_réinitialisé
+
+- [[kb/_entites-mineures#limites-d'utilisation-tous-abonnés\|limites d'utilisation tous abonnés]] (EVENEMENT) — 0.95, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 
 ### a_subi
 
@@ -114,6 +139,8 @@
 
 ### affirme_que
 
+- [[kb/_entites-mineures#harnesses-don't-shrink-they-move\|harnesses don't shrink they move]] (CONCEPT) — 0.97, ATEMPOREL
+  - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 - [[kb/_entites-mineures#90%-du-code-Claude-Code-est-écrit-par-Claude-Code\|90% du code Claude Code est écrit par Claude Code]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
 - [[kb/_entites-mineures#Les-composants-du-harnais-encodent-des-hypothèses-qui-vieillissent\|Les composants du harnais encodent des hypothèses qui vieillissent]] (CONCEPT) — 0.95, STATIQUE
@@ -160,6 +187,11 @@
 - [[kb/_entites-mineures#+150%-productivité-par-ingénieur\|+150% productivité par ingénieur]] (EVENEMENT) — 0.92, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
 
+### n_a_plus
+
+- [[kb/_entites-mineures#code-manuellement-écrit\|code manuellement écrit]] (CONCEPT) — 0.96, DYNAMIQUE
+  - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
 ### paie
 
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] (CONCEPT) — 0.95, DYNAMIQUE
@@ -192,6 +224,8 @@
 
 - [[kb/_entites-mineures#workflow-Explore-Plan-Code\|workflow Explore-Plan-Code]] (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
+- [[kb/_entites-mineures#planner-generator-evaluator-split\|planner generator evaluator split]] (METHODOLOGIE) — 0.95, ATEMPOREL
+  - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 - [[kb/_entites-mineures#automatisation-SOC-et-défense-IA\|automatisation SOC et défense IA]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
 - [[kb/_entites-mineures#standards-industrie-biais-politique\|standards industrie biais politique]] (CONCEPT) — 0.85, DYNAMIQUE
@@ -205,7 +239,7 @@
 ## Relations (comme objet)
 
 - [[kb/Boris-Cherny\|Boris Cherny]] **a_rejoint** → Anthropic — 0.99
-- [[kb/_entites-mineures#Jack-Clark\|Jack Clark]] **est_cofondateur_de** → Anthropic — 0.99
+- [[kb/Jack-Clark\|Jack Clark]] **est_cofondateur_de** → Anthropic — 0.99
 - [[kb/Claude-Code\|Claude Code]] **est_développé_par** → Anthropic — 0.99
 - [[kb/Boris-Cherny\|Boris Cherny]] **travaille_chez** → Anthropic — 0.99
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] **travaille_pour** → Anthropic — 0.99

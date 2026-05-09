@@ -1,6 +1,6 @@
 # Gemini
 
-> **Type** : TECHNOLOGIE | 5 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 5 fiches sources
 
 ## Attributs
 
@@ -24,6 +24,7 @@
 - [[kb/Google\|Google]] **possède** → Gemini — 0.99
 - [[kb/Code-Wiki\|Code Wiki]] **utilise** → Gemini — 0.98
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → Gemini — 0.95
+- [[kb/_entites-mineures#Nanobanana\|Nanobanana]] **fait_partie_de** → Gemini — 0.94
 
 ## Fiches sources
 

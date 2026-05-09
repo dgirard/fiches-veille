@@ -1,6 +1,6 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 9 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 5 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,16 @@
 
 - [[kb/_entites-mineures#1500-pull-requests-en-5-mois\|1500 pull requests en 5 mois]] (EVENEMENT) — 0.93, STATIQUE
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+
+### est_cité_comme
+
+- [[kb/_entites-mineures#catalyseur-transformation-ingénierie\|catalyseur transformation ingénierie]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### est_devenu
+
+- [[kb/_entites-mineures#incontournable-pour-les-développeurs-de-la-Silicon-Valley\|incontournable pour les développeurs de la Silicon Valley]] (CONCEPT) — 0.93, DYNAMIQUE
+  - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### est_post-entraîné_avec
 
@@ -55,3 +65,4 @@
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+- [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]

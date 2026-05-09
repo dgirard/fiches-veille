@@ -1,6 +1,6 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 23 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 6 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,11 @@
 
 - [[kb/_entites-mineures#ChatGPT-en-conseil-financier\|ChatGPT en conseil financier]] (TECHNOLOGIE) — 0.87, DYNAMIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
+
+### est_recommandé_pour
+
+- [[kb/_entites-mineures#profondeur-continuité-corpus\|profondeur / continuité corpus]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
 
 ### manque
 

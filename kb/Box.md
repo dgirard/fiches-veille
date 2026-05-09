@@ -1,10 +1,10 @@
 # Box
 
-> **Type** : ORGANISATION | 4 relations | 1 fiches sources
+> **Type** : ORGANISATION | 5 relations | 2 fiches sources
 
 ## Attributs
 
-- **secteur** : Stockage cloud / IA
+- **secteur** : Cloud content management (San Francisco)
 
 ## Relations (comme sujet)
 
@@ -22,8 +22,10 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Aaron-Levie\|Aaron Levie]] **** → Box — 0.99
+- [[kb/Aaron-Levie\|Aaron Levie]] **** → Box — 0.99
+- [[kb/Aaron-Levie\|Aaron Levie]] **dirige** → Box — 0.97
 
 ## Fiches sources
 
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
+- [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]

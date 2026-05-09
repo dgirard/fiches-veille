@@ -1,6 +1,6 @@
 # Block
 
-> **Type** : ORGANISATION | 5 relations | 4 fiches sources
+> **Type** : ORGANISATION | 6 relations | 4 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,11 @@
 
 - [[kb/goose\|goose]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
+
+### a_licencié
+
+- [[kb/_entites-mineures#~50%-des-effectifs-en-mars-2026\|~50% des effectifs en mars 2026]] (EVENEMENT) — 0.97, STATIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 
 ### développe
 

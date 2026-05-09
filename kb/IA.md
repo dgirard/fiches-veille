@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 31 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 32 relations | 4 fiches sources
 
 ## Attributs
 
@@ -59,6 +59,11 @@
 
 - [[kb/_entites-mineures#stabilité-livraison-logicielle\|stabilité livraison logicielle]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+
+### est
+
+- [[kb/_entites-mineures#prochaine-étape-de-l'offshoring\|prochaine étape de l'offshoring]] (CONCEPT) — 0.91, DYNAMIQUE
+  - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
 ### est_perçue_comme
 

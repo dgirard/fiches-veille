@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 40 relations | 18 fiches sources
+> **Type** : ORGANISATION | 45 relations | 18 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,13 @@
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
 
 ## Relations (comme sujet)
+
+### 
+
+- [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+- [[kb/_entites-mineures#IA-Modeles-frontiere\|IA / Modeles frontiere]] (MISE_A_JOUR) — 0.00, ATEMPOREL
+  - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 
 ### a_co-fondé
 
@@ -120,6 +127,8 @@
 
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
+- [[kb/_entites-mineures#Industrial-Policy-for-the-Intelligence-Age\|Industrial Policy for the Intelligence Age]] (EVENEMENT) — 0.98, STATIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
 - [[kb/_entites-mineures#données-d'usage-ChatGPT\|données d'usage ChatGPT]] (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 
@@ -140,12 +149,14 @@
 
 ## Relations (comme objet)
 
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_co_fondé** → OpenAI — 0.99
 - [[kb/Moderna\|Moderna]] **a_partenarié_avec** → OpenAI — 0.98
 - [[kb/Shopify\|Shopify]] **collabore_avec** → OpenAI — 0.98
 - [[kb/Sam-Altman\|Sam Altman]] **dirige** → OpenAI — 0.98
 - [[kb/Moderna\|Moderna]] **partenarié_avec** → OpenAI — 0.98
 - [[kb/Elon-Musk\|Elon Musk]] **a_cofondé** → OpenAI — 0.97
 - [[kb/Elon-Musk\|Elon Musk]] **a_quitté** → OpenAI — 0.97
+- [[kb/_entites-mineures#Chris-Lehane\|Chris Lehane]] **a_rejoint** → OpenAI — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96
 - [[kb/AMD\|AMD]] **émet_warrant_pour** → OpenAI — 0.96
 - [[kb/Nvidia\|Nvidia]] **investit_dans** → OpenAI — 0.95

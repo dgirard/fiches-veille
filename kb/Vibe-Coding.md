@@ -1,6 +1,6 @@
 # Vibe Coding
 
-> **Type** : METHODOLOGIE | 34 relations | 8 fiches sources
+> **Type** : METHODOLOGIE | 36 relations | 9 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,7 @@
 - **catégorie** : Prototypage rapide assisté par IA
 - **description** : Développement logiciel assisté par LLM/IA
 - **définition** : Développement assisté par orchestration agentique
+- **fonction** : Raise the floor — démocratisation du software development
 - **usage** : Prototypage rapide jetable pour clarifier les exigences
 
 ## Relations (comme sujet)
@@ -66,6 +67,11 @@
 - [[kb/_entites-mineures#Vibe-Coding-Hangover\|Vibe Coding Hangover]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|AI4* - Production Logicielle - IA - Cycle de Vie]]
 
+### raise_the_floor_pour
+
+- [[kb/_entites-mineures#software-development\|software development]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ### s_oppose_à
 
 - [[kb/AI-Assisted-Engineering\|AI-Assisted Engineering]] (METHODOLOGIE) — 0.97, ATEMPOREL
@@ -94,6 +100,7 @@
 ## Relations (comme objet)
 
 - [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → Vibe Coding — 0.99
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé_terme** → Vibe Coding — 0.99
 - [[kb/Kent-Beck\|Kent Beck]] **distingue** → Vibe Coding — 0.99
 - [[kb/Kent-Beck\|Kent Beck]] **critique** → Vibe Coding — 0.97
 - [[kb/Simon-Willison\|Simon Willison]] **définit** → Vibe Coding — 0.97
@@ -111,6 +118,7 @@
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
 - [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|Évolution métier développeur avec IA générative, transformation rôles informatiques, ingénierie système, orchestration agentique - Yves Caseau - Michelin - LinkedIn]]
 - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|AI4* - Production Logicielle - IA - Cycle de Vie]]
+- [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]

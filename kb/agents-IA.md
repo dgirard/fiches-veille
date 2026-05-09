@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 31 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 33 relations | 3 fiches sources
 
 ## Attributs
 
@@ -111,6 +111,11 @@
 - [[kb/_entites-mineures#modèle-publicitaire-internet\|modèle publicitaire internet]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
 
+### sont_comparés_à
+
+- [[kb/_entites-mineures#interns-avec-recall\|interns avec recall]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ### souffrent_de
 
 - [[kb/_entites-mineures#proposal-bias\|proposal bias]] (CONCEPT) — 0.93, ATEMPOREL
@@ -132,6 +137,7 @@
 
 - [[kb/MCP\|MCP]] **permet_à** → agents IA — 0.98
 - [[kb/BMAD\|BMAD]] **assigne_des_rôles_à** → agents IA — 0.95
+- [[kb/_entites-mineures#Long-tail-besoins-métier\|Long-tail besoins métier]] **devient_adressable_avec** → agents IA — 0.94
 - [[kb/_entites-mineures#humain\|humain]] **reste_architecte_de** → agents IA — 0.93
 - [[kb/_entites-mineures#modèle-Agile\|modèle Agile]] **atteint_ses_limites** → agents IA — 0.90
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] **s_applique_à** → agents IA — 0.85

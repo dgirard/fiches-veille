@@ -15,7 +15,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Birgitta-Böckeler\|Birgitta Böckeler]] **travaille_chez** → Thoughtworks — 0.98
+- [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] **travaille_chez** → Thoughtworks — 0.98
 - [[kb/Martin-Fowler\|Martin Fowler]] **travaille_chez** → Thoughtworks — 0.97
 
 ## Fiches sources

@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 87 relations | 34 fiches sources
+> **Type** : TECHNOLOGIE | 93 relations | 36 fiches sources
 
 ## Attributs
 
@@ -12,10 +12,12 @@
 - **fenêtre_contexte** : 1 million de tokens
 - **interface** : agent CLI terminal-first
 - **modèle économique** : Propriétaire, intégré à Claude Pro/Max
+- **produits_affectés** : Claude Code, Claude Agent SDK, Claude Cowork
 - **revenus** : 500M$ annuels (run-rate)
 - **revenus annualisés** : ~1 milliard $ (novembre 2025)
 - **stack** : TypeScript, React terminal
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
+- **version_corrigée** : v2.1.116 (20 avril 2026)
 - **éditeur** : Anthropic
 
 ## Relations (comme sujet)
@@ -68,6 +70,11 @@
 
 - [[kb/_entites-mineures#documentation-et-fichiers-de-credentials-volés\|documentation et fichiers de credentials volés]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
+
+### a_subi
+
+- [[kb/_entites-mineures#trois-incidents-de-dégradation-qualité\|trois incidents de dégradation qualité]] (EVENEMENT) — 0.98, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 
 ### améliore
 
@@ -122,6 +129,21 @@
 - [[kb/_entites-mineures#agent-général-d'automatisation\|agent général d'automatisation]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### est_cité_comme
+
+- [[kb/_entites-mineures#catalyseur-transformation-ingénierie\|catalyseur transformation ingénierie]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
+
+### est_construit_en
+
+- [[kb/_entites-mineures#TypeScript-et-React\|TypeScript et React]] (CONCEPT) — 0.97, STATIQUE
+  - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
+
+### est_devenu
+
+- [[kb/_entites-mineures#incontournable-pour-les-développeurs-de-la-Silicon-Valley\|incontournable pour les développeurs de la Silicon Valley]] (CONCEPT) — 0.93, DYNAMIQUE
+  - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
 ### est_décrit_comme
 
 - [[kb/_entites-mineures#IA-pour-votre-OS\|IA pour votre OS]] (CONCEPT) — 0.90, ATEMPOREL
@@ -137,6 +159,11 @@
 - [[kb/_entites-mineures#terminal-chat-CLI\|terminal chat CLI]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
 
+### est_organisé_en
+
+- [[kb/_entites-mineures#7-couches-input-knowledge-integration-execution-output-observability-multi-agent\|7 couches input knowledge integration execution output observability multi-agent]] (METHODOLOGIE) — 0.93, STATIQUE
+  - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
+
 ### est_post-entraîné_avec
 
 - [[kb/_entites-mineures#Harnais-dans-la-boucle\|Harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
@@ -151,6 +178,8 @@
 
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE) — 0.97, DYNAMIQUE
   - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
+- [[kb/_entites-mineures#1100-employés-Intercom-(peak)\|1100 employés Intercom (peak)]] (CONCEPT) — 0.96, DYNAMIQUE
+  - [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
 
 ### est_utilisé_pour
 
@@ -307,6 +336,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
+- [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
 - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
@@ -334,6 +364,7 @@
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+- [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]

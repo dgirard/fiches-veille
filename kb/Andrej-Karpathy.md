@@ -1,18 +1,33 @@
 # Andrej Karpathy
 
-> **Type** : PERSONNE | 5 relations | 5 fiches sources
+> **Type** : PERSONNE | 12 relations | 6 fiches sources
 
 ## Attributs
 
-- **rôle** : Ex-Tesla/OpenAI, popularisateur SDD
+- **rôle** : Co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme vibe coding
 
 ## Relations (comme sujet)
+
+### a_co_fondé
+
+- [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.99, STATIQUE
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### a_construit
+
+- [[kb/_entites-mineures#Tesla-Autopilot\|Tesla Autopilot]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### a_créé
 
 - [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]]
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
+
+### a_créé_terme
+
+- [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.99, STATIQUE
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### a_défini
 
@@ -29,15 +44,33 @@
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] (METHODOLOGIE) — 0.93, STATIQUE
   - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 
+### affirme_que
+
+- [[kb/_entites-mineures#never-felt-more-behind-as-a-programmer\|"never felt more behind as a programmer"]] (CONCEPT) — 0.99, STATIQUE
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+- [[kb/_entites-mineures#outsource-thinking-but-not-understanding\|"outsource thinking but not understanding"]] (CONCEPT) — 0.99, ATEMPOREL
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
+### métaphorise
+
+- [[kb/_entites-mineures#LLMs-comme-fantômes-pas-animaux\|LLMs comme fantômes pas animaux]] (CONCEPT) — 0.94, ATEMPOREL
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ### publie_sur
 
 - [[kb/YouTube\|YouTube]] (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube - Educational content - AI tutorials - Online learning - Video education - Knowledge democratization - Creator economy]]
 
+### recommande
+
+- [[kb/_entites-mineures#refonte-du-hiring-par-gros-projets-adversariels\|refonte du hiring par gros projets adversariels]] (METHODOLOGIE) — 0.93, ATEMPOREL
+  - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+
 ## Fiches sources
 
 - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]]
 - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+- [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
 - [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube - Educational content - AI tutorials - Online learning - Video education - Knowledge democratization - Creator economy]]
