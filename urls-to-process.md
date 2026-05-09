@@ -190,3 +190,6 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://moderndata101.substack.com/p/the-ontology-pipeline-refresh (fiche créée: talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04.md)
 -->
 
+https://officechai.com/ai/mckinsey-now-has-60000-people-but-20000-of-them-are-ai-agents-mckinseys-bob-sternfels/?hl=fr-FR
+https://s3.amazonaws.com/media.mediapost.com/uploads/RedesigningTheAgencyValueModel.pdf
+https://www.mediapost.com/publications/article/413193/billable-hours-are-dead-ai-killed-them-heres-ho.html?hl=fr-FR
