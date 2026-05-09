@@ -1,10 +1,11 @@
 # Index — METHODOLOGIE
 
-> 213 entités de type METHODOLOGIE
+> 218 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#4-stratégies-AI-transformation-CHRO\|4 stratégies AI transformation CHRO]] — structure: (1) AI Readiness, (2) Technology Platforms, (3) Hiring/Redeployment, (4) Supermanagers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#4-shift-framework-Mandese\|4-shift framework Mandese]] — définition: (1) Define narrow expertise areas ; (2) Codify repeatable productized solutions ; (3) Build teams around outcomes not utilization ; (4) Replace rate cards with value-based models (fixed fees, subscriptions, performance-based) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#5-heuristiques-personnelles-Osmani\|5 heuristiques personnelles Osmani]] — détail: (1) pre-generate expectations, (2) rigorous diff review au standard junior, (3) adversarial prompting, (4) fatigue awareness, (5) confidence source verification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#6-garde-fous-structurels-Osmani\|6 garde-fous structurels Osmani]] — détail: (1) verification exit criteria, (2) anti-rationalization tables, (3) PRs ~100 lignes max, (4) interrogative > generative, (5) scaffolded friction, (6) solo keyboard time (1 occ., 1 fiches)
 - [[kb/_entites-mineures#7-Powers-Helmer\|7 Powers Helmer]] — définition: Framework stratégie d'entreprise de Hamilton Helmer : 7 modes de pouvoir (switching costs, process power, network effects, scale economies, cornered resources, branding, counter-positioning) (1 occ., 1 fiches)
@@ -27,6 +28,7 @@
 - [[kb/_entites-mineures#Autonomous-enterprise-workflow-agent\|Autonomous enterprise workflow agent]] — niveau: Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management (1 occ., 1 fiches)
 - [[kb/BMAD\|BMAD]] — nom complet: Breakthrough Method for Agile AI-Driven Development (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Blueprints\|Blueprints]] — catégorie: Orchestration hybride déterministe-agentique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bolt\|Bolt]] — définition: Unité de travail courte (1h à demi-journée) qui remplace le sprint Scrum de 14 jours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bon-à-Tirer\|Bon à Tirer]] — définition: Validation humaine sur 6 dimensions par architectes + Product Managers, seule porte humaine avant fabrication (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CDLC\|CDLC]] — alias: Context Development Lifecycle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Champions-IA\|Champions IA]] — description: ~100 pairs formateurs issus des métiers (1 occ., 1 fiches)
@@ -35,7 +37,7 @@
 - [[kb/Compaction\|Compaction]] — description: Résumé cache-safe réutilisant le même préfixe que la conversation parente (1 occ., 1 fiches)
 - [[kb/Compounding-Engineering\|Compounding Engineering]] — principe: Chaque feature améliore le système pour la suivante (1 occ., 1 fiches)
 - [[kb/Context-Development-Lifecycle\|Context Development Lifecycle]] — catégorie: Cycle de vie du contexte en 4 phases (2 occ., 2 fiches)
-- [[kb/_entites-mineures#Context-engineering\|Context engineering]] — catégorie: Ingénierie du contexte fourni aux agents IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Context-engineering\|Context engineering]] — catégorie: Ingénierie du contexte fourni aux agents IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Contribution-Stack\|Contribution Stack]] — structure: 5 couches : output brut, compréhension, investissement, relations, appartenance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Corpus-persistence\|Corpus persistence]] — description: Maintenir matériel source stable (Claude Projects) pour créer compounding analytical value (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cursor-for-video-editors\|Cursor for video editors]] — niveau: Advanced — multimodal AI (vision + audio), intent translation, scene detection, EDL, undo with reasoning (1 occ., 1 fiches)
@@ -65,7 +67,7 @@
 - [[kb/_entites-mineures#Goal-Driven-Execution\|Goal-Driven Execution]] — objectif: Convertir tâches en critères de succès vérifiables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-SRE\|Google SRE]] — domaine: gestion incidents et fiabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] — définition: Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée (1 occ., 1 fiches)
-- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (3 occ., 3 fiches)
+- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (5 occ., 4 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] — exemple: Twitter clone agent vs 10 codecs red team — corroboration Sierra (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jo-ha-kyū\|Jo-ha-kyū]] — principe: Accélération progressive du tempo (1 occ., 1 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] — origine: Japon/Chine/Corée (1 occ., 1 fiches)
@@ -95,6 +97,7 @@
 - [[kb/_entites-mineures#Phase-Plan\|Phase Plan]] — description: Session d'idéation produit dirigée par le candidat dans son domaine d'expertise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phase-Review\|Phase Review]] — description: Démo du produit construit, revue de code, discussion du chemin vers la production et usage de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] — séquence: lattice-init → design-blueprint → code-forge → review (+ refactor-safely, bug-fix en écarts) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Pizza-Team\|Pizza Team]] — statut_2026: Obsolète à l'ère agentique — il faut segmenter les équipes (1 occ., 1 fiches)
 - [[kb/Plan-Mode\|Plan mode]] — usage: Planification préalable avant implémentation complexe (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] — définition: Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] — rôle: fondation pour débloquer valeur IA (1 occ., 1 fiches)
@@ -103,6 +106,7 @@
 - [[kb/_entites-mineures#Problem-framing-analysis-planning-strategic-prioritization\|Problem framing / analysis planning / strategic prioritization]] — description: Trois skills BCG-identifiées qui débloquent les top users d'IA et préviennent l'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productivity-Tiering\|Productivity Tiering]] — dimensions: 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality (1 occ., 1 fiches)
 - [[kb/Programme-de-tutorat-IA\|Programme de tutorat IA]] — durée: 6 semaines, 12 sessions de 90 min, 2x/semaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Prompt-Engineering\|Prompt Engineering]] — période_dominante: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quality-Gates\|Quality Gates]] — catégorie: Validation automatisée qualité code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RED-GREEN-TDD\|RED/GREEN TDD]] — description: Test échouant d'abord, puis code minimal pour le faire passer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] — définition: Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session (2 occ., 2 fiches)
@@ -116,6 +120,7 @@
 - [[kb/_entites-mineures#Shift-Left\|Shift-Left]] — application: Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Software-Development-Lifecycle\|Software Development Lifecycle]] — statut_2026: En remise à plat complète (humain + organisationnel) (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)

@@ -190,6 +190,9 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://moderndata101.substack.com/p/the-ontology-pipeline-refresh (fiche créée: talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04.md)
 -->
 
-https://officechai.com/ai/mckinsey-now-has-60000-people-but-20000-of-them-are-ai-agents-mckinseys-bob-sternfels/?hl=fr-FR
-https://s3.amazonaws.com/media.mediapost.com/uploads/RedesigningTheAgencyValueModel.pdf
-https://www.mediapost.com/publications/article/413193/billable-hours-are-dead-ai-killed-them-heres-ho.html?hl=fr-FR
+<!-- URLs traitées le 2026-05-09:
+- https://officechai.com/ai/mckinsey-now-has-60000-people-but-20000-of-them-are-ai-agents-mckinseys-bob-sternfels/ (fiche créée: sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14.md — déclaration Bob Sternfels janvier 2026, 60k people = 40k humains + 20k agents IA)
+- https://s3.amazonaws.com/media.mediapost.com/uploads/RedesigningTheAgencyValueModel.pdf (fiche créée: voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03.md — rapport VoxComm 95 pages mars 2026, Brian Kessman + Tim Williams + Charley Stoney, consolidée avec article MediaPost)
+- https://www.mediapost.com/publications/article/413193/billable-hours-are-dead-ai-killed-them-heres-ho.html (fiche consolidée avec VoxComm rapport — Joe Mandese MediaPost 3 mars 2026, "billable hours are dead, AI killed them", marges 30%→10%, 4-shift framework)
+-->
+

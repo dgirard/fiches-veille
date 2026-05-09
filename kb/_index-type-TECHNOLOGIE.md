@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 491 entités de type TECHNOLOGIE
+> 492 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -114,7 +114,7 @@
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email IA, produit Every (3 occ., 3 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (2 occ., 2 fiches)
-- [[kb/Cursor\|Cursor]] — catégorie: Éditeur de code IA (13 occ., 12 fiches)
+- [[kb/Cursor\|Cursor]] — catégorie: Éditeur de code IA (14 occ., 13 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] — catégorie: Workstation IA personnelle ARM64 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DPROD\|DPROD]] — catégorie: Spécification ouverte pour data products sémantiques (1 occ., 1 fiches)
@@ -241,6 +241,7 @@
 - [[kb/Lattice\|Lattice]] — catégorie: Framework open-source MIT de skills composables pour coding agents Claude Code/Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] — catégorie: Assistant IA Mistral AI (1 occ., 1 fiches)
 - [[kb/LightRAG\|LightRAG]] — licence: MIT (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Lilli\|Lilli]] — description: Chatbot interne McKinsey utilisé par 70% des employés. Outil emblématique de la transformation IA interne (1 occ., 1 fiches)
 - [[kb/Linear\|Linear]] — catégorie: Outil de gestion de projet AI-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] — catégorie: Protocole de connexion aux outils IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)

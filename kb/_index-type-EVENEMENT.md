@@ -1,10 +1,11 @@
 # Index — EVENEMENT
 
-> 64 entités de type EVENEMENT
+> 67 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#19,2%-AI-approved-PRs\|19,2% AI-approved PRs]] — description: Pourcentage PRs auto-approuvés par IA chez Intercom (avril 2026), cible >50% (1 occ., 1 fiches)
+- [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#3000+-GPTs-Moderna\|3000+ GPTs Moderna]] — contexte: Métrique adoption GenAI Moderna en juin 2025 (×4 vs avril 2024) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#3×-productivité-R&D-Intercom\|3× productivité R&D Intercom]] — description: Multiplicateur atteint en 16 mois (vs goal initial 2× en 12 mois), no signs of plateauing (1 occ., 1 fiches)
@@ -41,6 +42,7 @@
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] — lieu: Javits Center, New York (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Offre-départ-9-mois-salaire-avril-2024\|Offre départ 9 mois salaire avril 2024]] — description: Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-year-retrospective-Claude-Code\|One-year retrospective Claude Code]] — description: Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires ecosystem (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] — catégorie: Recherche Google sur efficacité des équipes (1 occ., 1 fiches)
@@ -50,6 +52,7 @@
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — catégorie: Benchmark agents codage, GLM-5.1 leader 58,4% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tech-&-Co-Business\|Tech & Co Business]] — format: Émission BFM Business avec segment "Le débat" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — rôle: Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (1 occ., 1 fiches)
