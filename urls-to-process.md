@@ -181,3 +181,6 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 <!-- URLs traitées le 2026-05-06:
 - https://addyosmani.com/blog/cognitive-surrender/ (fiche créée: osmani-cognitive-surrender-comprehension-debt-2026-05-05.md — 4ᵉ fiche Osmani du dossier)
 -->
+
+https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor/
+https://www.bain.com/insights/ai-brings-headwinds-and-tailwinds-to-the-rule-of-40/
