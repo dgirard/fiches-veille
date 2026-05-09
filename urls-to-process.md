@@ -186,3 +186,7 @@ https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-syste
 https://www.bain.com/insights/ai-brings-headwinds-and-tailwinds-to-the-rule-of-40/
 
 https://moderndata101.substack.com/p/the-ontology-pipeline-refresh
+
+https://officechai.com/ai/mckinsey-now-has-60000-people-but-20000-of-them-are-ai-agents-mckinseys-bob-sternfels/?hl=fr-FR
+https://s3.amazonaws.com/media.mediapost.com/uploads/RedesigningTheAgencyValueModel.pdf
+https://www.mediapost.com/publications/article/413193/billable-hours-are-dead-ai-killed-them-heres-ho.html?hl=fr-FR
