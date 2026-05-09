@@ -184,3 +184,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 
 https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor/
 https://www.bain.com/insights/ai-brings-headwinds-and-tailwinds-to-the-rule-of-40/
+
+https://moderndata101.substack.com/p/the-ontology-pipeline-refresh
