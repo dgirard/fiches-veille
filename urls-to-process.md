@@ -182,7 +182,11 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://addyosmani.com/blog/cognitive-surrender/ (fiche créée: osmani-cognitive-surrender-comprehension-debt-2026-05-05.md — 4ᵉ fiche Osmani du dossier)
 -->
 
-https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor/
-https://www.bain.com/insights/ai-brings-headwinds-and-tailwinds-to-the-rule-of-40/
+<!-- URLs traitées le 2026-05-09:
+- https://lnkd.in/dmyJWgXP (LinkedIn shortlink) → https://www.mathieueveillard.com/blog/tdd-is-dead-long-live-testing (fiche créée: eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07.md — article craft 2022 hors-corpus IA mais résonne avec débats coding agents 2026)
+- https://lnkd.in/egfhni_H (LinkedIn shortlink) → https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html (fiche existait déjà: sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md)
+- https://www.bain.com/insights/100-billion-saas-opportunity-hiding-in-cross-system-labor/ (fiche créée: bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05.md — Bain série partie 2/5)
+- https://www.bain.com/insights/ai-brings-headwinds-and-tailwinds-to-the-rule-of-40/ (fiche créée: bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04.md — Bain série partie 1/5)
+- https://moderndata101.substack.com/p/the-ontology-pipeline-refresh (fiche créée: talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04.md)
+-->
 
-https://moderndata101.substack.com/p/the-ontology-pipeline-refresh

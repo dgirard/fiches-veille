@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 259 entités de type ORGANISATION
+> 263 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -28,6 +28,7 @@
 - [[kb/Augment-Code\|Augment Code]] — secteur: Outils IA pour ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BCG\|BCG]] — secteur: Cabinet de conseil en stratégie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BCG-Henderson-Institute\|BCG Henderson Institute]] — secteur: Think tank de recherche BCG (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bain-&-Company\|Bain & Company]] — secteur: Cabinet conseil top-tier mondial, série 5 volets software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
 - [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (4 occ., 4 fiches)
@@ -52,6 +53,7 @@
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] — secteur: Cabinet de conseil en transformation IT/IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Columbia-University\|Columbia University]] — secteur: Enseignement supérieur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Commerce-Department\|Commerce Department]] — secteur: Commerce international américain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Contextually-LLC\|Contextually LLC]] — secteur: Société fondée par Jessica Talisman, conseil semantic engineering / information architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] — rôle: acteur du réseau circulaire d'investissements IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] — secteur: Start-up IA fondée par Francesco Bonacci (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Custplace\|Custplace]] — secteur: Plateforme d'avis et preuve sociale (1 occ., 1 fiches)
@@ -89,6 +91,7 @@
 - [[kb/Gadget\|Gadget]] — secteur: Plateforme de développement full-stack (1 occ., 1 fiches)
 - [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil en technologie (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Generative-AI-Labs\|Generative AI Labs]] — affiliation: The Wharton School, University of Pennsylvania (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Glean\|Glean]] — description: Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context) (1 occ., 1 fiches)
 - [[kb/Google\|Google]] — secteur: IA / Big Tech (16 occ., 15 fiches)
 - [[kb/_entites-mineures#Google-Cloud\|Google Cloud]] — secteur: Cloud / DevOps Research (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Cloud-Developer-&-Experiences\|Google Cloud Developer & Experiences]] — rôle: Équipe produit Code Wiki (1 occ., 1 fiches)
@@ -147,6 +150,7 @@
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-AI\|Mistral AI]] — secteur: IA / Open source (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)
 - [[kb/Monday.com\|Monday.com]] — secteur: Gestion de projet / IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] — défi: Opacité des données vendeurs d'outils IA (1 occ., 1 fiches)

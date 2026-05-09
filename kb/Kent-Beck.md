@@ -15,7 +15,7 @@
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
-- [[kb/_entites-mineures#TDD\|TDD]] (METHODOLOGIE) — 0.97, STATIQUE
+- [[kb/TDD\|TDD]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 
 ### a_signé
@@ -37,7 +37,7 @@
 
 ### applique
 
-- [[kb/_entites-mineures#TDD\|TDD]] (METHODOLOGIE) — 0.98, STATIQUE
+- [[kb/TDD\|TDD]] (METHODOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 - [[kb/_entites-mineures#Tidy-First\|Tidy First]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]

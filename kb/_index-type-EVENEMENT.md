@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 59 entités de type EVENEMENT
+> 64 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
@@ -21,8 +21,11 @@
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] — date: 2025-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Skill-Formation-Research\|Anthropic Skill-Formation Research]] — description: Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AppWorld\|AppWorld]] — type: benchmark agent multi-tâches (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] — description: Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] — description: Jack Dorsey licencie ~50% effectifs, cite Opus 4.6 + Codex 5.3, +25% stock after-hours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bug-prompt-caching\|Bug prompt caching]] — période: 26 mars - 10 avril 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cas-marketing-tech-+349%-+38%\|Cas marketing tech +349%/+38%]] — source: Cas client Bain — AI costs +349% / revenue +38% sur un an. Illustre le risque coût AI non maîtrisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] — impact_mesuré: -3% intelligence (Opus 4.6 et 4.7) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] — description: Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin (1 occ., 1 fiches)
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
@@ -42,9 +45,11 @@
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires ecosystem (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] — catégorie: Recherche Google sur efficacité des équipes (1 occ., 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] — description: Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — catégorie: Benchmark agents codage, GLM-5.1 leader 58,4% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — rôle: Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (1 occ., 1 fiches)

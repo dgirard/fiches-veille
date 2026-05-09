@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 208 entités de type METHODOLOGIE
+> 213 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -57,6 +57,7 @@
 - [[kb/_entites-mineures#FSRS\|FSRS]] — catégorie: algorithme de répétition espacée pour flashcards (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] — description: Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps\|FinOps]] — catégorie: Optimisation financière cloud (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Financialize-vs-Invest-to-Grow\|Financialize vs Invest to Grow]] — définition: Deux paths forward Bain pour SaaS face à pression IA : (1) Financialize = minimize AI invest, optimize cash, durable generator ; (2) Invest to Grow = accept margin pressure short-term, reinvest aggressively AI product+ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-4-quadrants\|Framework 4 quadrants]] — dimensions: coût d'erreur × type de connaissance (explicite/tacite) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-Leader-Lab-Crowd\|Framework Leader-Lab-Crowd]] — structure: Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés (1 occ., 1 fiches)
 - [[kb/GDPVal\|GDPval]] — méthode: Experts 14 ans d'expérience, évaluation en aveugle (2 occ., 1 fiches)
@@ -77,6 +78,7 @@
 - [[kb/_entites-mineures#NIST-AI-RMF\|NIST AI RMF]] — catégorie: Cadre gestion risques IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Observation-Tension-Decision\|Observation-Tension-Decision]] — rôle: Framework de progression structurée signal → décision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Onsite-AI-native\|Onsite AI-native]] — description: Format d'entretien en 3 phases (Plan/Build/Review) remplaçant les entretiens de codage et algorithmes classiques (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ontology-Pipeline-Framework\|Ontology Pipeline Framework]] — définition: Framework Talisman 5 étapes (controlled vocabulary → metadata standards → taxonomy → thesaurus → ontology → knowledge graph) + Refresh 2026 ajoute Governance + AI Partnership. Validé sur 6 institutions / 10 ans. Principe : "the work cannot be skipped" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] — description: Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] — structure: Problem, Agitate, Solve (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PREP\|PREP]] — structure: Point, Reason, Example, Point (1 occ., 1 fiches)
@@ -96,6 +98,7 @@
 - [[kb/Plan-Mode\|Plan mode]] — usage: Planification préalable avant implémentation complexe (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] — définition: Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] — rôle: fondation pour débloquer valeur IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] — définition: (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Principes-d'Influence\|Principes d'Influence]] — contenu: 7 principes : autorité, engagement, attrait, réciprocité, rareté, preuve sociale, unité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Problem-framing-analysis-planning-strategic-prioritization\|Problem framing / analysis planning / strategic prioritization]] — description: Trois skills BCG-identifiées qui débloquent les top users d'IA et préviennent l'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productivity-Tiering\|Productivity Tiering]] — dimensions: 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality (1 occ., 1 fiches)
@@ -112,6 +115,7 @@
 - [[kb/_entites-mineures#Setup-iOS-first-Cherny\|Setup iOS-first Cherny]] — description: Travail principal depuis iPhone via Claude app onglet code, 5-10 sessions, few hundred agents day / few thousand night, /loop primitive principale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shift-Left\|Shift-Left]] — application: Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)
@@ -121,11 +125,12 @@
 - [[kb/_entites-mineures#Story-Points\|Story Points]] — catégorie: Système de rémunération à la performance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stress-testing-(Pawlowski)\|Stress-testing (Pawlowski)]] — description: Questions adversariales systématiques : ce qui invalidirait, hypothèses faibles, ce que disputeraient des compétiteurs sceptiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] — objectif: Modifier uniquement le code lié à la demande (1 occ., 1 fiches)
-- [[kb/_entites-mineures#TDD\|TDD]] — cycle: Red → Green → Refactor, un test à la fois (2 occ., 2 fiches)
+- [[kb/TDD\|TDD]] — cycle: Red → Green → Refactor, un test à la fois (2 occ., 2 fiches)
 - [[kb/Team-Topologies\|Team Topologies]] — auteurs: Matthew Skelton, Manuel Pais (1 occ., 1 fiches)
 - [[kb/Tension-Map\|Tension Map]] — définition: Cartographie des contradictions et points de pression marché (vs parts de marché) — révèle les opportunity spaces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tension-Mode\|Tension Mode]] — rôle: Phase 2 : localiser insatisfaction + segments mal servis (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] — abréviation: TDD (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] — définition: Méthodologie où les tests guident l'écriture du code — j'écris à chaque fois un peu de code "en réaction" à un nouveau test. À distinguer de Test-first (écriture tous tests avant code) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Test-first\|Test-first]] — définition: Pratique d'écriture de tous les tests avant la moindre ligne de code. Confondu avec TDD par DHH 2014, distinction levée par Eveillard 2022 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Think-Before-Coding\|Think Before Coding]] — objectif: Expliciter hypothèses, poser des questions avant de coder (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Three-Fidelities\|Three Fidelities]] — niveaux: Fidelity One / Two / Three selon complexité et clarté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tidy-First\|Tidy First]] — principe: Séparation stricte changements structurels / comportementaux (1 occ., 1 fiches)

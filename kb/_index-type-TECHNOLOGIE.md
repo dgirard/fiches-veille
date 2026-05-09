@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 490 entités de type TECHNOLOGIE
+> 491 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -356,6 +356,7 @@
 - [[kb/_entites-mineures#SHACL\|SHACL]] — rôle: Validation et contraintes du knowledge graph UDA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SKILL.md\|SKILL.md]] — rôle: Fichier de configuration d'un skill (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SKOS\|SKOS]] — standard: W3C - modélisation de connaissances pour PDM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SKOS-OWL-RDF-SPARQL\|SKOS OWL RDF SPARQL]] — description: Standards W3C référencés Talisman pour valider taxonomies/ontologies. Connaissance de ces standards = baseline méthodologique semantic engineer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SPEC.md\|SPEC.md]] — catégorie: Fichier spécification persistant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SQL-Agent\|SQL Agent]] — catégorie: Agent génération requêtes SQL (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SQLite-FTS5\|SQLite FTS5]] — usage: Recherche plein texte dans les workflows (1 occ., 1 fiches)

@@ -1,19 +1,19 @@
 # Knowledge Base — Veille Technologique
 
-> 250 fiches | 1852 entités | 3362 triples | Généré le 2026-05-09
+> 254 fiches | 1904 entités | 3432 triples | Généré le 2026-05-09
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (333)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (259)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (490)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (491)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (208)
-- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (59)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (343)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (263)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (491)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (518)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (213)
+- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (64)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (7)
-- [[kb/_entites-mineures\|Entités mineures]] (1599)
+- [[kb/_entites-mineures\|Entités mineures]] (1647)
 
 ## Entités les plus connectées
 
@@ -37,8 +37,8 @@
 | [[kb/MCP\|MCP]] | TECHNOLOGIE | 16 | 10 |
 | [[kb/Marc-Andreessen\|Marc Andreessen]] | PERSONNE | 16 | 4 |
 | [[kb/Shopify\|Shopify]] | ORGANISATION | 16 | 5 |
-| [[kb/ChatGPT\|ChatGPT]] | TECHNOLOGIE | 15 | 8 |
-| [[kb/Kent-Beck\|Kent Beck]] | PERSONNE | 15 | 4 |
+| [[kb/Cursor\|Cursor]] | TECHNOLOGIE | 15 | 12 |
+| [[kb/Sierra\|Sierra]] | ORGANISATION | 15 | 2 |
 
 ## Statistiques
 
@@ -46,10 +46,10 @@
 
 - **utilise** : 159
 - **** : 155
-- **affirme_que** : 129
+- **affirme_que** : 130
 - **a_créé** : 90
-- **publie** : 70
-- **recommande** : 68
+- **publie** : 74
+- **recommande** : 70
 - **est_basé_sur** : 61
 - **améliore** : 56
 - **remplace** : 55
@@ -62,16 +62,16 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 333 (18.0%)
-- **ORGANISATION** : 259 (14.0%)
-- **TECHNOLOGIE** : 490 (26.5%)
-- **CONCEPT** : 491 (26.5%)
-- **METHODOLOGIE** : 208 (11.2%)
-- **EVENEMENT** : 59 (3.2%)
+- **PERSONNE** : 343 (18.0%)
+- **ORGANISATION** : 263 (13.8%)
+- **TECHNOLOGIE** : 491 (25.8%)
+- **CONCEPT** : 518 (27.2%)
+- **METHODOLOGIE** : 213 (11.2%)
+- **EVENEMENT** : 64 (3.4%)
 - **LIEU** : 5 (0.3%)
 - **DOCUMENT** : 7 (0.4%)
 
 ### Déduplication
 
-- **Triples** : 3400 → 3362 (38 doublons)
-- **Entités** : 2443 → 1852 (591 doublons)
+- **Triples** : 3470 → 3432 (38 doublons)
+- **Entités** : 2496 → 1904 (592 doublons)
