@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 67 entités de type EVENEMENT
+> 73 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
@@ -27,12 +27,14 @@
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] — description: Jack Dorsey licencie ~50% effectifs, cite Opus 4.6 + Codex 5.3, +25% stock after-hours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bug-prompt-caching\|Bug prompt caching]] — période: 26 mars - 10 avril 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cas-marketing-tech-+349%-+38%\|Cas marketing tech +349%/+38%]] — source: Cas client Bain — AI costs +349% / revenue +38% sur un an. Illustre le risque coût AI non maîtrisé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cocktail-Molotov-+-tirs-Altman-avril-2026\|Cocktail Molotov + tirs Altman avril 2026]] — description: Avril 2026 — cocktail Molotov lancé sur propriété SF Sam Altman, puis quelques jours plus tard attaque par armes à feu sur sa maison. Événements documentés cités par Wallace-Wells comme "warning shots" du AI populism (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] — impact_mesuré: -3% intelligence (Opus 4.6 et 4.7) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] — description: Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin (1 occ., 1 fiches)
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hype-Cycle-for-Generative-AI-2025\|Hype Cycle for Generative AI 2025]] — date: 2025-07-29 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Industrial-Policy-for-the-Intelligence-Age\|Industrial Policy for the Intelligence Age]] — description: White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inflection-Opus-4-mai-2025\|Inflection Opus 4 mai 2025]] — description: Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF (1 occ., 1 fiches)
@@ -44,8 +46,10 @@
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] — lieu: Javits Center, New York (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Offre-départ-9-mois-salaire-avril-2024\|Offre départ 9 mois salaire avril 2024]] — description: Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-year-retrospective-Claude-Code\|One-year retrospective Claude Code]] — description: Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Pew-Research-2025-inquiétude-IA\|Pew Research 2025 inquiétude IA]] — description: Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires ecosystem (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] — catégorie: Recherche Google sur efficacité des équipes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] — description: Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram) (1 occ., 1 fiches)
@@ -57,7 +61,9 @@
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — rôle: Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] — date: 2026-02 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] — description: Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#White-House-U-turn-AI-policy-mai-2026\|White House U-turn AI policy mai 2026]] — description: Maison-Blanche signale virage majeur — proposition de forcer federal review de tous nouveaux modèles propriétaires avant release. Catalyseur : refus Anthropic Claude Mythos avril 2026. Articulation directe avec fiche AISI UK GPT-5.5/Mythos (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] — indicateur: 97% de la fibre optique inutilisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-dot-com\|bulle dot-com]] — période: fin des années 1990 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)

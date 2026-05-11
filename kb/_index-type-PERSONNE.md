@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 352 entités de type PERSONNE
+> 357 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -97,6 +97,8 @@
 - [[kb/_entites-mineures#David-Perrin\|David Perrin]] — rôle: Dominicain, auteur à la Revue thomiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] — rôle: AI and Crypto Czar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Shor\|David Shor]] — rôle: Pollster Démocrate, stratégiste messaging IA pour 2028 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#David-Wallace-Wells\|David Wallace-Wells]] — rôle: Staff writer NYT Magazine, journaliste américain reconnu pour climat (livre The Uninhabitable Earth 2019), ancien deputy editor New York Magazine. Auteur article-pivot AI Populism mai 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] — rôle: Policy wonk, architecte original de l'AI policy de l'administration Trump. Citation prophétique Palantir Foundation Yale "AI as governments" + "giant acid vat" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] — rôle: Chercheur DORA, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
@@ -161,6 +163,7 @@
 - [[kb/_entites-mineures#Jean-Philippe-Aumasson\|Jean-Philippe Aumasson]] — rôle: Cryptographe auditeur (1 occ., 1 fiches)
 - [[kb/Jeff-Bezos\|Jeff Bezos]] — rôle: Co-CEO Project Prometheus (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] — rôle: CMO, Riskified (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Créateur Superpowers, CEO Prime Radiant (5 occ., 4 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] — rôle: Semantic Engineer + Information Architect 25+ ans, MLS, ex-Adobe RDF knowledge graphs, ex-Amazon information architecture, fondatrice Ontology Pipeline Framework et Contextually LLC, auteure newsletter Intentional Arrangement et livre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] — rôle: CHRO Lixil (1 occ., 1 fiches)
@@ -220,6 +223,7 @@
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] — rôle: Auteur principal, chercheur Banque Mondiale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] — rôle: Développeur / coach craft / formateur français, blog personnel mathieueveillard.com, services Accompagnement et Office hours, newsletter hebdomadaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] — rôle: Auteur Thoughtworks blog, formalisateur du concept Service-as-Software (SaS) en décembre 2025. Profil public peu documenté hors Thoughtworks (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] — rôle: Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow (1 occ., 1 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)
@@ -320,6 +324,7 @@
 - [[kb/_entites-mineures#Sénèque\|Sénèque]] — période: 4 av. J.-C. - 65 ap. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tanuj-Kapilashrami\|Tanuj Kapilashrami]] — rôle: Chief Strategy and Talent Officer Standard Chartered (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tariq-KRIM\|Tariq KRIM]] — rôle: Analyste, auteur Cybernetica (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ted-Chiang\|Ted Chiang]] — rôle: Écrivain de science-fiction américain, auteur essai BuzzFeed News 2017 sur superintelligence comme no-holds-barred capitalism — citation canonique mobilisée par Wallace-Wells 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] — rôle: Lead frontier evaluations OpenAI, responsable GDPVal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thariq\|Thariq]] — rôle: Ingénieur Anthropic, expert Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)

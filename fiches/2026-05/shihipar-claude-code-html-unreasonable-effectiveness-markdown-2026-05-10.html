@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fiche — The Unreasonable Effectiveness of HTML (Shihipar, 2026-05-10)</title>
+<style>
+  :root {
+    --bg: #fdfcf8;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --accent: #b85c1f;
+    --accent-soft: #f4e8db;
+    --rule: #e6e1d6;
+    --code-bg: #f4f0e6;
+    --p0: #c0392b;
+    --p1: #d68910;
+    --p2: #2980b9;
+    --p3: #7d8c8d;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Charter, "Iowan Old Style", Georgia, serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  header {
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  h1 {
+    font-size: 2.2rem;
+    line-height: 1.2;
+    margin: 0.5rem 0 0.75rem;
+    font-weight: 700;
+  }
+  h1 .subtitle {
+    display: block;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: var(--muted);
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+  .meta-grid {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.4rem 1.5rem;
+    margin-top: 1rem;
+    font-size: 0.92rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .meta-grid dt {
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.72rem;
+    align-self: center;
+  }
+  .meta-grid dd { margin: 0; }
+  .meta-grid a { color: var(--accent); text-decoration: none; word-break: break-all; }
+  .meta-grid a:hover { text-decoration: underline; }
+
+  nav.toc {
+    background: var(--accent-soft);
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.25rem;
+    margin: 2rem 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 0.9rem;
+  }
+  nav.toc strong {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.7rem;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+  }
+  nav.toc ol {
+    margin: 0;
+    padding-left: 1.5rem;
+    columns: 2;
+    column-gap: 2rem;
+  }
+  nav.toc li { margin-bottom: 0.25rem; break-inside: avoid; }
+  nav.toc a { color: var(--ink); text-decoration: none; }
+  nav.toc a:hover { color: var(--accent); }
+
+  h2 {
+    font-size: 1.5rem;
+    margin: 2.5rem 0 1rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+    scroll-margin-top: 1rem;
+  }
+  h3 {
+    font-size: 1.15rem;
+    margin: 1.75rem 0 0.5rem;
+    color: var(--accent);
+  }
+  p { margin: 0.7rem 0; }
+  strong { color: #000; }
+  em { color: var(--ink); }
+  a { color: var(--accent); }
+
+  .pullquote {
+    border-left: 3px solid var(--accent);
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    color: var(--muted);
+    font-style: italic;
+    background: var(--accent-soft);
+  }
+
+  ul, ol { padding-left: 1.5rem; }
+  ul li, ol li { margin-bottom: 0.4rem; }
+  ul ul, ol ol { margin-top: 0.4rem; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.85rem;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  thead { background: var(--accent-soft); }
+  th, td {
+    padding: 0.5rem 0.6rem;
+    text-align: left;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  th {
+    font-weight: 600;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.72rem;
+  }
+  tbody tr:hover { background: var(--accent-soft); }
+  .type-tag {
+    display: inline-block;
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    background: var(--code-bg);
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .confidence {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+  }
+
+  /* Hex grid for the 6 reasons */
+  .reasons-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  .reason-card {
+    background: white;
+    border: 1px solid var(--rule);
+    border-top: 3px solid var(--accent);
+    padding: 1rem;
+    border-radius: 4px;
+  }
+  .reason-card .num {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.75rem;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .reason-card h4 {
+    margin: 0.25rem 0 0.5rem;
+    font-size: 1rem;
+  }
+  .reason-card p {
+    margin: 0;
+    font-size: 0.88rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  /* Use case cards */
+  .usecase {
+    background: white;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1rem 1.25rem;
+    margin: 1rem 0;
+  }
+  .usecase .uc-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+  .usecase .uc-num {
+    background: var(--accent);
+    color: white;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.8rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .usecase h4 {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+  .usecase .prompt {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    background: var(--code-bg);
+    padding: 0.6rem 0.8rem;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    margin: 0.5rem 0;
+    color: #333;
+    line-height: 1.5;
+    border-left: 2px solid var(--accent);
+  }
+
+  /* FAQ */
+  details {
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    margin: 0.5rem 0;
+    background: white;
+  }
+  details summary {
+    padding: 0.7rem 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    user-select: none;
+  }
+  details summary:hover { color: var(--accent); }
+  details[open] summary { border-bottom: 1px solid var(--rule); }
+  details > p {
+    padding: 0.5rem 1rem 1rem;
+    margin: 0;
+    color: var(--muted);
+  }
+
+  /* Articulations corpus */
+  .corpus-link {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.6rem 0;
+    border-bottom: 1px dashed var(--rule);
+  }
+  .corpus-link:last-child { border-bottom: none; }
+  .corpus-link .badge {
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+    height: max-content;
+    margin-top: 0.15rem;
+  }
+
+  /* Two-column comparison */
+  .compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  .compare > div {
+    padding: 1rem;
+    border-radius: 4px;
+  }
+  .compare .before {
+    background: #f8f5ed;
+    border: 1px solid var(--rule);
+  }
+  .compare .after {
+    background: var(--accent-soft);
+    border: 1px solid var(--accent);
+  }
+  .compare h5 {
+    margin: 0 0 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .compare .after h5 { color: var(--accent); }
+
+  /* SVG diagram container */
+  .diagram {
+    margin: 1.5rem 0;
+    background: white;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1rem;
+    overflow-x: auto;
+  }
+
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    color: var(--muted);
+    font-size: 0.85rem;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  .actions {
+    position: sticky;
+    top: 1rem;
+    z-index: 10;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-end;
+    margin-bottom: -2.5rem;
+  }
+  .actions button {
+    background: white;
+    border: 1px solid var(--rule);
+    padding: 0.4rem 0.75rem;
+    border-radius: 3px;
+    font-size: 0.78rem;
+    cursor: pointer;
+    font-family: inherit;
+    color: var(--ink);
+  }
+  .actions button:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  @media (max-width: 640px) {
+    .container { padding: 1rem; }
+    h1 { font-size: 1.6rem; }
+    nav.toc ol { columns: 1; }
+    .meta-grid { grid-template-columns: 1fr; gap: 0.2rem; }
+    .meta-grid dt { margin-top: 0.5rem; }
+    .compare { grid-template-columns: 1fr; }
+    table { font-size: 0.78rem; }
+    th, td { padding: 0.35rem 0.4rem; }
+  }
+
+  @media print {
+    .actions, nav.toc { display: none; }
+    body { font-size: 11pt; }
+    h2 { page-break-after: avoid; }
+    .usecase, .reason-card, table { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="actions">
+  <button onclick="window.print()">Imprimer</button>
+  <button onclick="navigator.clipboard.writeText(window.location.href).then(()=>{this.textContent='Copié !';setTimeout(()=>this.textContent='Copier lien',1500)})">Copier lien</button>
+</div>
+
+<header>
+  <div class="eyebrow">Veille technologique · Fiche · 2026-05-10</div>
+  <h1>
+    The Unreasonable Effectiveness of HTML
+    <span class="subtitle">Pourquoi l'équipe Claude Code bascule de Markdown à HTML comme format de sortie par défaut</span>
+  </h1>
+  <dl class="meta-grid">
+    <dt>Auteur</dt>
+    <dd><strong>Thariq Shihipar</strong> · Engineer & serial entrepreneur · équipe Claude Code chez Anthropic · <a href="https://x.com/trq212">@trq212</a></dd>
+    <dt>Source</dt>
+    <dd><a href="https://x.com/i/status/2052809885763747935">x.com/i/status/2052809885763747935</a></dd>
+    <dt>Gallery</dt>
+    <dd><a href="https://thariqs.github.io/html-effectiveness">thariqs.github.io/html-effectiveness</a></dd>
+    <dt>Identifiant</dt>
+    <dd><code>shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10</code></dd>
+    <dt>Ton</dt>
+    <dd>Article-manifeste praticien · pédagogique-démonstratif · ~1500 mots · insider Anthropic</dd>
+  </dl>
+</header>
+
+<nav class="toc">
+  <strong>Sommaire</strong>
+  <ol>
+    <li><a href="#veille">Veille (compression)</a></li>
+    <li><a href="#thesis">Thèse en une ligne</a></li>
+    <li><a href="#reasons">Les 6 raisons</a></li>
+    <li><a href="#usecases">5 use cases canoniques</a></li>
+    <li><a href="#anti">Anti-skill-ification</a></li>
+    <li><a href="#faq">FAQ honnête</a></li>
+    <li><a href="#resume">Résumé 400 mots</a></li>
+    <li><a href="#corpus">Articulation veille</a></li>
+    <li><a href="#kg">Graphe de connaissance</a></li>
+    <li><a href="#workflow">Workflow cabinet</a></li>
+  </ol>
+</nav>
+
+<section id="veille">
+<h2>Veille — compression synthétique</h2>
+<p>Article-manifeste de <strong>Thariq Shihipar</strong> (équipe Claude Code chez Anthropic) qui annonce un <strong>changement de format de sortie par défaut pour les agents</strong> : remplacer <strong>Markdown par HTML</strong>. Markdown, format dominant depuis l'arrivée des agents (simple, portable, éditable), est devenu <strong>un goulot d'étranglement</strong> à mesure que les artefacts générés deviennent plus longs et plus riches. Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : densité d'information, clarté visuelle, partage, interactivité bidirectionnelle, ingestion contextuelle native à Claude Code, et plaisir. Cinq usages canoniques détaillés (specs/plans, PR review, design, rapports, throwaway editors). Anti-pattern explicite : <em>"don't turn this into a /html skill"</em>. FAQ honnête sur les downsides (génération 2-4× plus lente, diffs HTML bruyants).</p>
+</section>
+
+<section id="thesis">
+<h2>Thèse en une ligne</h2>
+<div class="pullquote">
+  "I've started preferring HTML as an output format instead of Markdown and increasingly see this being used by others on the Claude Code team."
+</div>
+<p>Trois facteurs convergents motivent ce basculement :</p>
+<ol>
+  <li>Les agents produisent des specs/plans <strong>plus longs et plus riches</strong> qu'avant.</li>
+  <li>L'auteur (et son entourage) <strong>n'édite plus manuellement</strong> ces fichiers — il prompte Claude pour les éditer. L'avantage historique de Markdown ("éditable à la main") disparaît.</li>
+  <li><strong>Opus 4.7 + 1MM context window</strong> absorbe sans douleur les tokens supplémentaires du HTML.</li>
+</ol>
+
+<div class="compare">
+  <div class="before">
+    <h5>Markdown</h5>
+    <ul>
+      <li>Plat au-delà de 100 lignes</li>
+      <li>Diagrammes ASCII (pis-aller)</li>
+      <li>Couleurs "estimées" avec caractères Unicode</li>
+      <li>Difficile à partager (pas de rendu natif)</li>
+      <li>Unidirectionnel (lecture seule)</li>
+    </ul>
+  </div>
+  <div class="after">
+    <h5>HTML</h5>
+    <ul>
+      <li>Tables, SVG, CSS, canvas, scripts</li>
+      <li>Mise en page responsive</li>
+      <li>Lien S3 directement ouvrable</li>
+      <li>Sliders + "copy as prompt" pour reboucler</li>
+      <li>Joyful</li>
+    </ul>
+  </div>
+</div>
+</section>
+
+<section id="reasons">
+<h2>Les 6 raisons</h2>
+
+<div class="diagram">
+  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" style="max-width:100%; height:auto; font-family: -apple-system, sans-serif;">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#b85c1f" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#b85c1f" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="800" height="240" fill="url(#grad)" rx="4"/>
+
+    <!-- Center: HTML node -->
+    <circle cx="400" cy="120" r="50" fill="#b85c1f" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="400" y="115" text-anchor="middle" font-size="22" font-weight="700" fill="white">HTML</text>
+    <text x="400" y="135" text-anchor="middle" font-size="10" fill="white" opacity="0.9">output format</text>
+
+    <!-- 6 satellite nodes -->
+    <g font-size="11" fill="#1a1a1a">
+      <!-- top-left: density -->
+      <line x1="400" y1="120" x2="170" y2="50" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="50" y="25" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="135" y="45" text-anchor="middle" font-weight="600">1. Densité info</text>
+      <text x="135" y="62" text-anchor="middle" font-size="9" fill="#6b6b6b">tables · SVG · CSS · scripts</text>
+
+      <!-- top-center: clarity -->
+      <line x1="400" y1="120" x2="400" y2="50" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="315" y="25" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="400" y="45" text-anchor="middle" font-weight="600">2. Clarté visuelle</text>
+      <text x="400" y="62" text-anchor="middle" font-size="9" fill="#6b6b6b">tabs · responsive · images</text>
+
+      <!-- top-right: sharing -->
+      <line x1="400" y1="120" x2="630" y2="50" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="580" y="25" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="665" y="45" text-anchor="middle" font-weight="600">3. Partage</text>
+      <text x="665" y="62" text-anchor="middle" font-size="9" fill="#6b6b6b">lien S3 ouvrable directement</text>
+
+      <!-- bottom-left: interactivity -->
+      <line x1="400" y1="120" x2="170" y2="190" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="50" y="165" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="135" y="185" text-anchor="middle" font-weight="600">4. Interactivité</text>
+      <text x="135" y="202" text-anchor="middle" font-size="9" fill="#6b6b6b">sliders · copy as prompt</text>
+
+      <!-- bottom-center: ingestion -->
+      <line x1="400" y1="120" x2="400" y2="190" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="315" y="165" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="400" y="185" text-anchor="middle" font-weight="600">5. Ingestion contexte</text>
+      <text x="400" y="202" text-anchor="middle" font-size="9" fill="#6b6b6b">code · MCP · git · Chrome</text>
+
+      <!-- bottom-right: joy -->
+      <line x1="400" y1="120" x2="630" y2="190" stroke="#b85c1f" stroke-width="1.5" opacity="0.6"/>
+      <rect x="580" y="165" width="170" height="50" rx="4" fill="white" stroke="#b85c1f" stroke-width="1.5"/>
+      <text x="665" y="185" text-anchor="middle" font-weight="600">6. Joyful</text>
+      <text x="665" y="202" text-anchor="middle" font-size="9" fill="#6b6b6b">engagement praticien</text>
+    </g>
+  </svg>
+</div>
+
+<div class="reasons-grid">
+  <div class="reason-card">
+    <div class="num">01 / DENSITÉ D'INFORMATION</div>
+    <h4>Tables, CSS, SVG, scripts, canvas, images</h4>
+    <p>"Almost no set of information that Claude can read that you cannot fairly efficiently represent with HTML." Privé de cette expressivité, le modèle fait des diagrammes ASCII et estime même les couleurs avec des caractères Unicode.</p>
+  </div>
+  <div class="reason-card">
+    <div class="num">02 / CLARTÉ VISUELLE</div>
+    <h4>Mise en page navigable, responsive</h4>
+    <p>Au-delà de 100 lignes en Markdown, plus personne ne lit. HTML organise structurellement avec tabs, illustrations, liens. Lecture différenciée selon le form factor.</p>
+  </div>
+  <div class="reason-card">
+    <div class="num">03 / PARTAGE</div>
+    <h4>Upload S3 → lien direct</h4>
+    <p>Markdown se partage mal (pas de rendu navigateur). HTML s'ouvre partout. <em>"The chance of someone actually reading your spec is much much higher if it's in HTML."</em></p>
+  </div>
+  <div class="reason-card">
+    <div class="num">04 / INTERACTIVITÉ</div>
+    <h4>Bidirectionnelle, reboucle vers Claude</h4>
+    <p>Sliders pour régler une animation, knobs pour ajuster un algorithme, boutons "copy as JSON / copy as prompt" pour re-injecter les choix dans Claude Code.</p>
+  </div>
+  <div class="reason-card">
+    <div class="num">05 / INGESTION CONTEXTE</div>
+    <h4>Avantage natif Claude Code</h4>
+    <p>Différenciation vs ClaudeAI ou Claude Design : agrégation codebase + MCP (Slack, Linear) + git history + Chrome → contexte large pour générer un artefact riche.</p>
+  </div>
+  <div class="reason-card">
+    <div class="num">06 / JOYFUL</div>
+    <h4>L'argument émotionnel assumé</h4>
+    <p>"Making HTML documents with Claude is just more fun and makes me feel more involved and invested in the creation, and that by itself is enough."</p>
+  </div>
+</div>
+</section>
+
+<section id="usecases">
+<h2>5 use cases canoniques</h2>
+
+<div class="usecase">
+  <div class="uc-head">
+    <span class="uc-num">1</span>
+    <h4>Specs, planning & exploration</h4>
+  </div>
+  <p>Au lieu d'un plan Markdown linéaire, faire émerger <strong>un web de fichiers HTML</strong> : brainstorm de 6 directions en grille comparative, expansion d'une option, mockups, code snippets, puis plan d'implémentation final.</p>
+  <div class="prompt">"I'm not sure what direction to take the onboarding screen. Generate 6 distinctly different approaches — vary layout, tone, and density — and lay them out as a single HTML file in a grid so I can compare them side by side. Label each with the tradeoff it's making."</div>
+</div>
+
+<div class="usecase">
+  <div class="uc-head">
+    <span class="uc-num">2</span>
+    <h4>Code review & understanding</h4>
+  </div>
+  <p>HTML rend les diffs lisibles : annotations marginales inline, color-coding par sévérité, flowcharts. <em>"I find this often works better than the default GitHub diff view, and I attach a HTML code explainer to every PR I make now."</em></p>
+  <div class="prompt">"Help me review this PR by creating an HTML artifact that describes it. I'm not very familiar with the streaming/backpressure logic so focus on that. Render the actual diff with inline margin annotations, color-code findings by severity."</div>
+</div>
+
+<div class="usecase">
+  <div class="uc-head">
+    <span class="uc-num">3</span>
+    <h4>Design & prototypes</h4>
+  </div>
+  <p>Claude Design est déjà basé sur HTML. Prototyper animations avec sliders, exporter les paramètres réglés vers React/Swift/etc.</p>
+  <div class="prompt">"I want to prototype a new checkout button. When clicked it does a play animation and then turns purple quickly. Create a HTML file with several sliders and options to try different options on this animation, give me a copy button to copy the parameters that worked well."</div>
+</div>
+
+<div class="usecase">
+  <div class="uc-head">
+    <span class="uc-num">4</span>
+    <h4>Reports, research & learning</h4>
+  </div>
+  <p>Synthèse multi-sources (Slack, codebase, git history, web) en un document HTML lisible. Format long, explainer interactif, slideshow. L'auteur a fait générer son article sur prompt caching depuis l'historique git.</p>
+  <div class="prompt">"I don't understand how our rate limiter actually works. Read the relevant code and produce a single HTML explainer page: a diagram of the token-bucket flow, the 3-4 key code snippets annotated, and a 'gotchas' section at the bottom. Optimize it for someone reading it once."</div>
+</div>
+
+<div class="usecase">
+  <div class="uc-head">
+    <span class="uc-num">5</span>
+    <h4>Custom editing interfaces (throwaway editors)</h4>
+  </div>
+  <p>Éditeur jetable <strong>single-file</strong>, purpose-built pour une donnée précise. <em>"Not a product, or a reusable tool, but a single HTML file."</em> Finit <strong>toujours</strong> par un export "copy as JSON/markdown/prompt" re-injectable dans Claude Code.</p>
+  <p><strong>Patterns :</strong> drag-and-drop de tickets Linear en colonnes Now/Next/Later/Cut · éditeur de feature flags avec warnings de dépendances · prompt-tuner side-by-side avec compteur tokens · curation de datasets · pickers de couleurs/easing curves/cron schedules.</p>
+  <div class="prompt">"I need to reprioritize these 30 Linear tickets. Make me an HTML file with each ticket as a draggable card across Now / Next / Later / Cut columns. Pre-sort them by your best guess. Add a 'copy as markdown' button that exports the final ordering with a one-line rationale per bucket."</div>
+</div>
+</section>
+
+<section id="anti">
+<h2>Anti-skill-ification : un mouvement remarquable</h2>
+<div class="pullquote">
+  "I'm a little bit afraid that people will read this article and turn it into a /html skill or something. While there might be some value in that, I want to emphasize that you don't need to do much to get Claude to do this. You can just ask it to 'make a HTML file'."
+</div>
+<p>Mouvement notable venant d'<strong>un insider de l'écosystème qui pousse les Claude Skills</strong>. Shihipar refuse de canoniser sa pratique en skill : la pratique est <strong>trop contextuelle</strong> pour être figée. Le bon réflexe est de <em>"prompter from scratch"</em> jusqu'à trouver ses propres patterns.</p>
+<p><strong>Tension avec :</strong> Lattice (atoms/molecules/refiners), Vincent Superpowers, Karpathy skills-maxi. Position intermédiaire possible : skills pour les patterns stables (gem writing, design system), prompt nu pour les pratiques émergentes.</p>
+</section>
+
+<section id="faq">
+<h2>FAQ honnête (downsides assumés)</h2>
+<details>
+  <summary>Isn't it less token efficient?</summary>
+  <p>HTML utilise plus de tokens. Mais avec le <strong>1MM context d'Opus 4.7</strong>, l'augmentation devient peu sensible dans la fenêtre de contexte. <em>"The added expressiveness of HTML and the much higher likelihood of me reading it means I get overall better output."</em></p>
+</details>
+<details>
+  <summary>Doesn't this take longer to generate?</summary>
+  <p><strong>2-4× plus longtemps que Markdown.</strong> Assumé : <em>"the results are worth it."</em></p>
+</details>
+<details>
+  <summary>What about version control?</summary>
+  <p><strong>Downside non résolu.</strong> <em>"This is honestly one of the biggest downsides of HTML, HTML diffs are noisy and hard to review compared to Markdown."</em></p>
+</details>
+<details>
+  <summary>How do I view the HTML file?</summary>
+  <p>Ouvrir localement dans un navigateur (on peut demander à Claude de l'ouvrir) ou uploader à S3 pour un lien partageable.</p>
+</details>
+<details>
+  <summary>How do I get Claude to match my taste / not make it ugly?</summary>
+  <p>Utiliser le <strong>frontend design plugin</strong>. Pour matcher le style de votre boîte : créer un <strong>design system HTML unique</strong> en pointant Claude vers la codebase, puis le référencer comme blueprint pour les autres fichiers HTML générés.</p>
+</details>
+<details>
+  <summary>When do you use Markdown now?</summary>
+  <p><em>"I have honestly stopped using markdown altogether for almost everything, but I'm probably far on the HTML maximalist side of things."</em> Position assumée comme extrême par l'auteur lui-même.</p>
+</details>
+</section>
+
+<section id="resume">
+<h2>Résumé 400 mots</h2>
+<p><strong>Thariq Shihipar</strong> (équipe Claude Code chez Anthropic) publie un article-manifeste annonçant un changement de format de sortie par défaut pour les agents : remplacer <strong>Markdown par HTML</strong>. Le diagnostic : Markdown a régné comme format dominant entre humain et agent (simple, portable, éditable) mais est devenu <strong>restrictif</strong> à mesure que les agents produisent des artefacts plus longs et plus riches. Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown — et comme l'auteur n'édite plus manuellement ses specs (il prompte Claude pour les éditer), l'avantage historique de Markdown disparaît.</p>
+<p><strong>Six raisons</strong> justifient le basculement vers HTML : (1) <strong>densité d'information</strong> — tableaux, CSS, SVG, scripts, canvas, images ; <em>"almost no set of information that Claude can read that you cannot represent with HTML"</em> ; (2) <strong>clarté visuelle</strong> — tabs, illustrations, responsive mobile ; (3) <strong>partage</strong> — upload S3 → lien direct, taux de lecture multiplié ; (4) <strong>interactivité bidirectionnelle</strong> — sliders, knobs, boutons "copy as prompt" pour reboucler ; (5) <strong>ingestion contextuelle</strong> native à Claude Code (codebase + MCP + git + Chrome) ; (6) <strong>plaisir</strong> — <em>"it's joyful"</em>.</p>
+<p>L'auteur formalise <strong>cinq usages canoniques</strong> : (a) specs/plans/exploration en grille comparative ; (b) PR review avec diff annoté inline et code-coloring par sévérité ; (c) design & prototypes avec sliders d'animation ; (d) rapports/recherche (son explainer sur prompt caching généré depuis l'historique git) ; (e) éditeurs jetables custom — single-file HTML purpose-built pour une donnée (drag-and-drop de tickets Linear, éditeur de feature flags, prompt-tuner side-by-side) finissant toujours par un export "copy as JSON/markdown/prompt" re-injectable.</p>
+<p>Anti-pattern explicite : <strong>l'auteur refuse la skill-ification</strong> de sa pratique. <em>"I'm a little bit afraid that people will read this article and turn it into a /html skill. You don't need to do much — just ask it to 'make a HTML file'."</em> La pratique est trop contextuelle pour être figée.</p>
+<p>FAQ honnête : HTML coûte plus de tokens mais le 1MM context d'Opus 4.7 absorbe ; génération 2-4× plus lente ; <strong>diffs HTML bruyants</strong> = downside non résolu, assumé.</p>
+<p>Méta-thèse finale : HTML comme <strong>antidote au cognitive surrender</strong>. <em>"I had begun to fear that because I had stopped reading plans in depth I would simply have to leave Claude to make its choices. But I feel more in the loop than ever before when using HTML."</em></p>
+</section>
+
+<section id="corpus">
+<h2>Articulation avec la veille corpus</h2>
+
+<div class="corpus-link">
+  <span class="badge">Convergence</span>
+  <div><strong>Isenberg × Meng To — <code>design.md</code></strong> (2026-05-06). Meng dit explicitement <em>"HTML = finished dish, MD file = recipe, skills = ingredients"</em>. Shihipar valide la primauté HTML pour le <strong>plat fini livré à l'humain</strong>.</div>
+</div>
+
+<div class="corpus-link">
+  <span class="badge">Réponse à</span>
+  <div><strong>Addy Osmani — Cognitive Surrender / Comprehension Debt</strong> (2026-05-05). Shihipar nomme exactement le même problème (<em>"I had stopped reading plans in depth"</em>) et propose HTML comme solution pratique pour <strong>rester dans la boucle</strong>.</div>
+</div>
+
+<div class="corpus-link">
+  <span class="badge">Tension</span>
+  <div><strong>Lattice · Vincent Superpowers · Karpathy skills-maxi</strong>. Shihipar adopte la <strong>posture inverse</strong> sur la skill-ification (<em>"don't turn this into a /html skill"</em>). Compromis cabinet : skills pour patterns stables, prompt nu pour pratiques émergentes.</div>
+</div>
+
+<div class="corpus-link">
+  <span class="badge">Confirmation</span>
+  <div><strong>Opus 4.7 + 1MM context</strong> comme <strong>changement architectural</strong> qui rend économiquement supportables des formats plus verbeux (HTML, design system, brainstorms étendus, fiches knowledge graph riches).</div>
+</div>
+
+<div class="corpus-link">
+  <span class="badge">Lignée</span>
+  <div><strong>Compounding Engineering · Cherny · Curran</strong>. HTML comme nouvelle couche de l'<strong>output artefactuel</strong> entre l'agent et l'humain, au même titre que les PR descriptions, release notes, commit messages.</div>
+</div>
+</section>
+
+<section id="kg">
+<h2>Graphe de connaissance</h2>
+
+<h3>Triples</h3>
+<table>
+  <thead>
+    <tr><th>Sujet</th><th>Type</th><th>Prédicat</th><th>Objet</th><th>Type</th><th>Conf.</th><th>Temp.</th><th>Source</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td>travaille_chez</td><td>Anthropic</td><td><span class="type-tag">ORGANISATION</span></td><td class="confidence">0.97</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td>fait_partie_de</td><td>équipe Claude Code</td><td><span class="type-tag">ORGANISATION</span></td><td class="confidence">0.97</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td>recommande</td><td>HTML comme format de sortie par défaut</td><td><span class="type-tag">METHODOLOGIE</span></td><td class="confidence">0.98</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>HTML</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>remplace</td><td>Markdown pour artefacts agentiques longs</td><td><span class="type-tag">METHODOLOGIE</span></td><td class="confidence">0.95</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>Markdown</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>est_devenu</td><td>restrictif au-delà de 100 lignes</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.92</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>HTML</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>offre</td><td>densité d'information (tables, CSS, SVG, scripts, canvas)</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.97</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>HTML</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>permet</td><td>interactivité bidirectionnelle (sliders, copy as prompt)</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.96</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>HTML</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>améliore</td><td>taux de lecture des specs et rapports</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.93</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>HTML</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>est_antidote_à</td><td>cognitive surrender / comprehension debt</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.90</td><td>ATEMPOREL</td><td>inféré</td></tr>
+    <tr><td>Claude Code</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>ingère</td><td>codebase + MCP + git history + Chrome</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.95</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>Opus 4.7</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>dispose_de</td><td>1MM context window</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.97</td><td>STATIQUE</td><td>déclaré_article</td></tr>
+    <tr><td>1MM context Opus 4.7</td><td><span class="type-tag">CONCEPT</span></td><td>absorbe</td><td>coût tokens supplémentaire du HTML</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.93</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Throwaway HTML editor</td><td><span class="type-tag">METHODOLOGIE</span></td><td>termine_par</td><td>export copy as JSON / markdown / prompt</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.96</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td>s_oppose_à</td><td>skill-ification prématurée du pattern HTML</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.95</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>HTML diffs</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>sont</td><td>bruyants et difficiles à reviewer (downside assumé)</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.92</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Génération HTML</td><td><span class="type-tag">METHODOLOGIE</span></td><td>est</td><td>2-4× plus lente que Markdown</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.88</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Frontend design plugin</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>aide</td><td>Claude à produire du HTML stylé</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.85</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Design system HTML unique</td><td><span class="type-tag">METHODOLOGIE</span></td><td>sert_de</td><td>référence pour cohérence cross-fichiers</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.88</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Article HTML effectiveness</td><td><span class="type-tag">EVENEMENT</span></td><td>s_articule_avec</td><td>design.md de Meng To (HTML = finished dish)</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.93</td><td>ATEMPOREL</td><td>inféré</td></tr>
+    <tr><td>Article HTML effectiveness</td><td><span class="type-tag">EVENEMENT</span></td><td>répond_à</td><td>comprehension debt d'Osmani</td><td><span class="type-tag">CONCEPT</span></td><td class="confidence">0.90</td><td>ATEMPOREL</td><td>inféré</td></tr>
+    <tr><td>Claude Code</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>génère</td><td>artefacts HTML pour specs, PR, rapports, éditeurs jetables</td><td><span class="type-tag">METHODOLOGIE</span></td><td class="confidence">0.96</td><td>ATEMPOREL</td><td>déclaré_article</td></tr>
+    <tr><td>Anthropic</td><td><span class="type-tag">ORGANISATION</span></td><td>emploie</td><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td class="confidence">0.97</td><td>DYNAMIQUE</td><td>déclaré_article</td></tr>
+  </tbody>
+</table>
+
+<h3>Entités</h3>
+<table>
+  <thead>
+    <tr><th>Entité</th><th>Type</th><th>Attribut</th><th>Valeur</th><th>Action</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Thariq Shihipar</td><td><span class="type-tag">PERSONNE</span></td><td>rôle</td><td>Engineer & serial entrepreneur, équipe Claude Code chez Anthropic, X @trq212</td><td>AJOUT</td></tr>
+    <tr><td>HTML (format de sortie agent)</td><td><span class="type-tag">METHODOLOGIE</span></td><td>catégorie</td><td>Format préféré pour artefacts agentiques riches</td><td>AJOUT</td></tr>
+    <tr><td>Throwaway HTML editor</td><td><span class="type-tag">METHODOLOGIE</span></td><td>catégorie</td><td>Éditeur single-file purpose-built pour une donnée, finissant par export structuré</td><td>AJOUT</td></tr>
+    <tr><td>Anti-skill-ification</td><td><span class="type-tag">CONCEPT</span></td><td>catégorie</td><td>Refus de figer un pattern contextuel en skill prématurée</td><td>AJOUT</td></tr>
+    <tr><td>Cognitive surrender (réponse)</td><td><span class="type-tag">CONCEPT</span></td><td>catégorie</td><td>Pratique de rester dans la boucle décisionnelle via lisibilité HTML</td><td>AJOUT</td></tr>
+    <tr><td>html-effectiveness gallery</td><td><span class="type-tag">TECHNOLOGIE</span></td><td>catégorie</td><td>Site exemples de Shihipar (thariqs.github.io/html-effectiveness)</td><td>AJOUT</td></tr>
+    <tr><td>Diff HTML bruyant</td><td><span class="type-tag">CONCEPT</span></td><td>catégorie</td><td>Downside assumé du basculement Markdown → HTML</td><td>AJOUT</td></tr>
+    <tr><td>Design system HTML de référence</td><td><span class="type-tag">METHODOLOGIE</span></td><td>catégorie</td><td>Fichier HTML unique servant de blueprint stylistique inter-fichiers</td><td>AJOUT</td></tr>
+    <tr><td>Joyful artifact</td><td><span class="type-tag">CONCEPT</span></td><td>catégorie</td><td>Critère émotionnel-pragmatique de choix de format</td><td>AJOUT</td></tr>
+    <tr><td>Unreasonable effectiveness</td><td><span class="type-tag">CONCEPT</span></td><td>catégorie</td><td>Lignée rhétorique Wigner-Karpathy appliquée à HTML pour agents</td><td>AJOUT</td></tr>
+  </tbody>
+</table>
+</section>
+
+<section id="workflow">
+<h2>Workflow découlant pour la pratique cabinet</h2>
+<ul>
+  <li>Toute spec, plan ou rapport > 100 lignes → <strong>bascule HTML</strong>.</li>
+  <li>PR critiques → <strong>attacher un explainer HTML</strong> (diff annoté, modules, flowcharts).</li>
+  <li>Onboarding de fichiers, explorations de design, reorderings → <strong>throwaway HTML editor</strong> avec export structuré.</li>
+  <li>Garder Markdown pour : commits messages, fiches courtes, fichiers <code>.md</code> de config (<code>CLAUDE.md</code>, <code>agents.md</code>, etc.).</li>
+  <li>Construire <strong>un design system HTML unique du cabinet</strong> (typo, couleurs, spacing) servant de blueprint pour tous les artefacts HTML générés.</li>
+</ul>
+
+<div class="pullquote">
+  Méta-observation : cette fiche HTML est elle-même une démonstration du pattern qu'elle décrit. La version Markdown coexiste (<code>shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10.md</code>) — la version HTML est l'artefact de lecture, la Markdown reste l'artefact d'indexation et de knowledge graph.
+</div>
+</section>
+
+<footer>
+  <p>Fiche générée le 2026-05-11 · Veille Didier Girard · <a href="../../index.md">Index général</a> · <a href="shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10.md">Version Markdown</a></p>
+</footer>
+
+</div>
+</body>
+</html>
