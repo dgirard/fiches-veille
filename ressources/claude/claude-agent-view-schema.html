@@ -282,10 +282,11 @@
     <h1>Agent view</h1>
     <p class="subtitle">Piloter plusieurs sessions Claude Code en parallèle depuis un seul écran : architecture, cycle de vie, dispatch et isolation.</p>
     <div class="meta">
-      <span>Recherche preview</span>
+      <span>Research preview</span>
       <span>Mode terminal</span>
       <span>Sessions locales</span>
       <span>Supervisor process</span>
+      <span>Conformité doc ~95%</span>
     </div>
   </header>
 
@@ -311,9 +312,13 @@ graph TB
         S4["Session D · ✢ Loop"]
     end
 
-    subgraph Storage["💾 ~/.claude/"]
+    subgraph Storage["💾 ~/.claude/ (config dir)"]
         Daemon["daemon.log"]
+        RosterJson["daemon/roster.json"]
         Jobs["jobs/&lt;id&gt;/state.json"]
+    end
+
+    subgraph Project["📂 Projet (working dir)"]
         WT[".claude/worktrees/&lt;id&gt;"]
     end
 
@@ -334,6 +339,7 @@ graph TB
     S1 -.->|"isole"| WT
     SupProc -.-> Daemon
   </div>
+  <p style="color:var(--text-muted);font-size:14px;margin-top:8px"><strong>💡 <code>CLAUDE_CONFIG_DIR</code></strong> : si cette variable d'environnement est définie, le supervisor utilise ce répertoire au lieu de <code>~/.claude/</code> et tourne comme une instance séparée avec ses propres sessions.</p>
 
   <h2><span class="num">2</span> Cycle de vie d'une session</h2>
   <p>Une session passe par plusieurs états. Après ~1h d'inactivité, le superviseur arrête le process pour libérer des ressources — le transcript et l'état restent sur disque et un nouveau process est relancé au prochain accès.</p>
@@ -364,7 +370,7 @@ stateDiagram-v2
     <div class="indicator"><div class="glyph idle">✻</div><div><div class="label">Idle</div><div class="desc">Attend sans question précise</div></div></div>
     <div class="indicator"><div class="glyph completed">✻</div><div><div class="label">Completed</div><div class="desc">Tâche terminée avec succès</div></div></div>
     <div class="indicator"><div class="glyph failed">✻</div><div><div class="label">Failed</div><div class="desc">Tâche terminée en erreur</div></div></div>
-    <div class="indicator"><div class="glyph stopped">✻</div><div><div class="label">Stopped</div><div class="desc">Arrêtée via Ctrl+X ou claude stop</div></div></div>
+    <div class="indicator"><div class="glyph stopped">∙</div><div><div class="label">Stopped</div><div class="desc">Arrêtée via Ctrl+X ou claude stop (process exited)</div></div></div>
   </div>
 
   <h3>État du process (forme)</h3>
@@ -378,6 +384,7 @@ stateDiagram-v2
   </table>
 
   <h3>Aperçu d'une liste typique</h3>
+  <p style="color:var(--text-muted);font-size:14px">Quand une session ouvre une PR, elle apparaît dans le groupe <strong>Ready for review</strong> avec le lien de la PR et un indicateur de statut des CI checks — c'est généralement là que tu récupères le résultat (review + merge quand le CI passe).</p>
   <div class="terminal">
     <div class="group">Pinned</div>
     <div class="row"><span class="icon" style="color:var(--blue)">✽</span><span class="name">clawd walk cycle</span><span class="activity">Write assets/sprites/clawd-walk.png</span><span class="time">3m</span></div>
@@ -427,24 +434,49 @@ sequenceDiagram
     Sess->>Sup: continue en bg
   </div>
 
+  <h3>Peek panel — interagir sans attacher</h3>
+  <table>
+    <thead><tr><th>Action</th><th>Effet</th></tr></thead>
+    <tbody>
+      <tr><td><code>Space</code> sur une ligne</td><td>Ouvre le panneau peek (état, dernier output, PRs ouvertes)</td></tr>
+      <tr><td>Taper + <code>Enter</code></td><td>Envoie la réponse à la session sans la rejoindre</td></tr>
+      <tr><td>Préfixer par <code>!</code></td><td>Envoie une commande Bash à la place d'un message</td></tr>
+      <tr><td>Touches numériques</td><td>Quand la session pose une question multiple-choice, sélectionne l'option</td></tr>
+      <tr><td><code>Tab</code></td><td>Remplit l'input avec une réponse suggérée (modifiable avant envoi)</td></tr>
+      <tr><td><code>↑</code> / <code>↓</code></td><td>Peek les sessions adjacentes sans fermer le panneau</td></tr>
+      <tr><td><code>→</code></td><td>Attache à la session sélectionnée</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Détacher d'une session attachée</h3>
+  <p>Aucune de ces actions ne stoppe une session en arrière-plan — elles te font juste sortir du terminal :</p>
+  <ul style="color:var(--text-muted);font-size:14px;line-height:1.8">
+    <li><code>←</code> sur prompt vide — retour à Agent view (depuis n'importe quelle session, désactivable dans <code>/config</code>)</li>
+    <li><code>Ctrl+Z</code> — détach immédiat si un dialog bloque <code>←</code></li>
+    <li><code>Ctrl+C</code>, <code>Ctrl+D</code>, <code>/exit</code> — laissent aussi la session tourner en bg</li>
+    <li><strong style="color:var(--yellow)"><code>/stop</code></strong> — la seule commande qui <strong>termine</strong> définitivement la session depuis l'intérieur</li>
+  </ul>
+
   <h2><span class="num">5</span> Trois manières de dispatcher</h2>
   <div class="dispatch-grid">
     <div class="dispatch-card">
       <h4>A · Depuis Agent view</h4>
-      <p style="margin:0 0 12px;font-size:13px">Tape un prompt dans l'input du bas + <code>Enter</code>.</p>
+      <p style="margin:0 0 12px;font-size:13px">Tape un prompt dans l'input du bas + <code>Enter</code>. Session nommée automatiquement (renommer avec <code>Ctrl+R</code>). Tu peux <strong>coller une image</strong> (screenshot, diagramme) dans le prompt.</p>
       <ul>
+        <li><code>&lt;agent-name&gt; &lt;prompt&gt;</code> — si le 1er mot matche un subagent, il devient l'agent principal</li>
+        <li><code>@&lt;agent&gt;</code> — mentionne un subagent (équivalent explicite, prioritaire sur un repo de même nom)</li>
         <li><code>@&lt;repo&gt;</code> — cible un repo voisin</li>
-        <li><code>@&lt;agent&gt;</code> — utilise un subagent</li>
         <li><code>/&lt;skill&gt;</code> — lance une skill</li>
-        <li><code>#&lt;PR&gt;</code> — session existante sur ce PR</li>
+        <li><code>#&lt;PR&gt;</code> ou URL de PR — sélectionne la session existante sur ce PR</li>
         <li><code>Shift+Enter</code> — dispatch + attach immédiat</li>
       </ul>
     </div>
     <div class="dispatch-card">
       <h4>B · Depuis une session interactive</h4>
       <ul>
-        <li><code>/bg [prompt]</code> — backgroundise la session</li>
-        <li><code>←</code> (prompt vide) — bg + ouvre agent view</li>
+        <li><code>/background</code> (alias <code>/bg</code>) — backgroundise la session courante</li>
+        <li><code>/bg run the tests</code> — envoie une dernière instruction puis backgroundise</li>
+        <li><code>←</code> sur prompt vide — bg + ouvre agent view, session pré-sélectionnée</li>
       </ul>
     </div>
     <div class="dispatch-card">
@@ -482,16 +514,42 @@ sequenceDiagram
       <tr><td><code>Shift+Enter</code></td><td>Dispatch + attach immédiat</td></tr>
       <tr><td><code>→</code></td><td>Attach à la session sélectionnée</td></tr>
       <tr><td><code>Alt+1..9</code></td><td>Attach à la Nème session du groupe focalisé</td></tr>
+      <tr><td><code>Tab</code></td><td>Parcourir tous les subagents (input vide) ou appliquer la suggestion sélectionnée</td></tr>
       <tr><td><code>Ctrl+S</code></td><td>Bascule groupement état ↔ répertoire</td></tr>
       <tr><td><code>Ctrl+T</code></td><td>Pin/unpin la session</td></tr>
       <tr><td><code>Ctrl+R</code></td><td>Renommer la session</td></tr>
-      <tr><td><code>Ctrl+X</code></td><td>Stop (×2 en 2s pour delete)</td></tr>
+      <tr><td><code>Ctrl+G</code></td><td>Ouvrir le prompt de dispatch dans <code>$EDITOR</code></td></tr>
+      <tr><td><code>Ctrl+X</code></td><td>Stop (×2 en 2s pour delete ; sur en-tête de groupe : supprime tout le groupe après confirmation)</td></tr>
+      <tr><td><code>Shift+↑</code> / <code>Shift+↓</code></td><td>Réorganiser la session sélectionnée dans son groupe</td></tr>
       <tr><td><code>Esc</code></td><td>Fermer peek / vider input / quitter</td></tr>
+      <tr><td><code>Ctrl+C</code></td><td>Vider l'input ; appuyer 2× pour quitter</td></tr>
       <tr><td><code>?</code></td><td>Voir tous les raccourcis</td></tr>
     </tbody>
   </table>
 
-  <h2><span class="num">8</span> Isolation des écritures fichiers</h2>
+  <h3>Filtres dans l'input</h3>
+  <p>Au lieu de dispatcher, tape l'un de ces préfixes dans l'input du bas pour <strong>filtrer la liste</strong> :</p>
+  <table>
+    <thead><tr><th>Filtre</th><th>Affiche</th></tr></thead>
+    <tbody>
+      <tr><td><code>a:&lt;name&gt;</code></td><td>Sessions du subagent nommé</td></tr>
+      <tr><td><code>s:&lt;state&gt;</code></td><td>Sessions dans cet état (ex: <code>s:blocked</code> pour celles qui attendent ton input)</td></tr>
+      <tr><td><code>#&lt;number&gt;</code> ou URL de PR</td><td>La session qui travaille sur cette pull request</td></tr>
+    </tbody>
+  </table>
+
+  <h2><span class="num">8</span> Permission mode et settings</h2>
+  <p>Une session dispatchée hérite des settings et du <strong>permission mode</strong> du répertoire où elle s'exécute, comme si tu avais lancé <code>claude</code> à cet endroit.</p>
+  <table>
+    <thead><tr><th>Source du mode</th><th>Comportement</th></tr></thead>
+    <tbody>
+      <tr><td>Dispatch depuis Agent view</td><td>Aucun mode passé → utilise <code>defaultMode</code> des settings du répertoire, ou <code>permissionMode</code> du frontmatter du subagent</td></tr>
+      <tr><td><code>claude --bg --permission-mode &lt;mode&gt;</code></td><td>Force ce mode pour la session</td></tr>
+      <tr><td><code>bypassPermissions</code> ou <code>auto</code> via <code>--bg</code></td><td><strong style="color:var(--red)">Refusé</strong> tant que tu n'as pas accepté ce mode au moins une fois en interactif. Sécurité : empêche une session non supervisée d'agir sans approbation.</td></tr>
+    </tbody>
+  </table>
+
+  <h2><span class="num">9</span> Isolation des écritures fichiers</h2>
   <p>Toutes les sessions en arrière-plan lisent le code source partagé, mais leurs <strong>écritures sont automatiquement redirigées</strong> dans un git worktree isolé sous <code>.claude/worktrees/</code>.</p>
   <div class="mermaid">
 graph LR
@@ -517,7 +575,7 @@ graph LR
   </div>
   <p style="color:var(--yellow);font-size:14px;margin-top:12px">⚠ Le worktree est supprimé avec la session — penser à merger ou pusher avant <code>claude rm</code>.</p>
 
-  <h2><span class="num">9</span> Que se passe-t-il si 2 sessions modifient le même fichier ?</h2>
+  <h2><span class="num">10</span> Que se passe-t-il si 2 sessions modifient le même fichier ?</h2>
   <p>Claude Code <strong>anticipe le problème</strong> en bloquant les écritures directes dans le working directory pour toute session en arrière-plan. Dès qu'une session tente d'éditer un fichier, elle est automatiquement déplacée dans un <strong>git worktree isolé</strong> sous <code>.claude/worktrees/&lt;session-id&gt;/</code>. Chaque session travaille donc sur sa propre copie, sans se voir mutuellement.</p>
 
   <div class="mermaid">
@@ -585,6 +643,17 @@ graph TB
     <li><strong style="color:var(--accent)">💡 Forcer l'isolation pour un subagent</strong> : ajouter <code>isolation: worktree</code> dans son frontmatter pour qu'il s'isole toujours, quelle que soit la façon dont il est lancé.</li>
   </ul>
 
+  <h2><span class="num">11</span> Troubleshooting</h2>
+  <table>
+    <thead><tr><th>Symptôme</th><th>Cause + remède</th></tr></thead>
+    <tbody>
+      <tr><td>Agent view est vide à l'ouverture</td><td>Aucune session dispatchée. Tape un prompt + <code>Enter</code> dans l'input du bas.</td></tr>
+      <tr><td>Sessions en "stopped" après réveil de la machine</td><td>Les sessions ne survivent pas au sleep/shutdown. Attache/peek/reply pour relancer une session, ou <code>claude respawn --all</code> pour tout relancer en bloc.</td></tr>
+      <tr><td>Session lente à répondre après attach</td><td>Process arrêté après 1h inactif, le supervisor relance un process frais. Quelques secondes de latence normale. Sessions Working ou Needs input ne sont jamais arrêtées ainsi.</td></tr>
+      <tr><td><code>.claude/worktrees/</code> se remplit</td><td>Worktrees orphelins (session terminée sans cleanup). Lister : <code>git worktree list</code>. Nettoyer chaque entrée : <code>git worktree remove &lt;path&gt;</code>.</td></tr>
+    </tbody>
+  </table>
+
   <div class="key-points">
     <h3>🎯 Points clés à retenir</h3>
     <table>
@@ -594,14 +663,14 @@ graph TB
         <tr><td>Process</td><td>Arrêté après ~1h inactif, état préservé, relancé au prochain accès</td></tr>
         <tr><td>Quota</td><td>Chaque session consomme indépendamment (10 agents = 10× le quota)</td></tr>
         <tr><td>Localité</td><td>100% local, supervisor par utilisateur, aucun cloud</td></tr>
-        <tr><td>Résumés</td><td>Lignes générées par modèle Haiku, refresh max 1×/15s</td></tr>
+        <tr><td>Résumés</td><td>Lignes générées par modèle Haiku, refresh max 1×/15s + 1× à la fin de chaque turn</td></tr>
         <tr><td>Désactivation</td><td><code>disableAgentView=true</code> ou <code>CLAUDE_CODE_DISABLE_AGENT_VIEW</code></td></tr>
       </tbody>
     </table>
   </div>
 
   <footer>
-    Source : <a href="https://code.claude.com" style="color:var(--accent)">code.claude.com</a> · Schéma généré le 2026-05-12
+    Source : <a href="https://code.claude.com" style="color:var(--accent)">code.claude.com</a> · Schéma généré le 2026-05-12 · mis à jour 2026-05-12 (conformité doc Anthropic)
   </footer>
 </div>
 
