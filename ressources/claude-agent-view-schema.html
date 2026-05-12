@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claude Code — Agent view : schéma de fonctionnement</title>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<style>
+  :root {
+    --bg: #0f1115;
+    --surface: #161a22;
+    --surface-2: #1d222c;
+    --border: #2a3140;
+    --text: #e6e9ef;
+    --text-muted: #9aa3b2;
+    --accent: #d97757;
+    --accent-soft: #d9775720;
+    --green: #4ade80;
+    --yellow: #fbbf24;
+    --red: #f87171;
+    --grey: #6b7280;
+    --blue: #60a5fa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 32px 96px;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 32px;
+    margin-bottom: 48px;
+  }
+  header .eyebrow {
+    color: var(--accent);
+    font-size: 13px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  header h1 {
+    font-size: 42px;
+    margin: 12px 0 8px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 18px;
+    max-width: 720px;
+  }
+  header .meta {
+    margin-top: 20px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  header .meta span {
+    padding: 4px 10px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+  h2 {
+    font-size: 26px;
+    margin: 56px 0 16px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  h2 .num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  h3 {
+    font-size: 18px;
+    margin: 32px 0 12px;
+    color: var(--text);
+    font-weight: 600;
+  }
+  p { color: var(--text-muted); }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin: 16px 0;
+  }
+  .mermaid {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin: 16px 0;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  th, td {
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    font-size: 14px;
+  }
+  th {
+    background: var(--surface-2);
+    color: var(--text);
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  td { color: var(--text-muted); }
+  td:first-child { color: var(--text); font-weight: 500; }
+  tr:last-child td { border-bottom: none; }
+  code, pre {
+    font-family: "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 13px;
+  }
+  code {
+    background: var(--surface-2);
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: var(--accent);
+  }
+  pre {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    overflow-x: auto;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  pre code {
+    background: transparent;
+    padding: 0;
+    color: var(--text);
+  }
+  .indicator-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 12px;
+    margin: 16px 0;
+  }
+  .indicator {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .indicator .glyph {
+    font-size: 22px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background: var(--surface-2);
+    flex-shrink: 0;
+  }
+  .indicator .label { font-weight: 600; color: var(--text); font-size: 14px; }
+  .indicator .desc { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+  .glyph.working { color: var(--blue); animation: pulse 1.5s infinite; }
+  .glyph.needs { color: var(--yellow); }
+  .glyph.idle { color: var(--text-muted); opacity: 0.55; }
+  .glyph.completed { color: var(--green); }
+  .glyph.failed { color: var(--red); }
+  .glyph.stopped { color: var(--grey); }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+  .dispatch-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .dispatch-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .dispatch-card h4 {
+    margin: 0 0 12px;
+    font-size: 15px;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .dispatch-card ul {
+    margin: 0;
+    padding-left: 18px;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  .dispatch-card li { margin: 6px 0; }
+  .dispatch-card code { font-size: 12px; }
+  .terminal {
+    background: #0a0c10;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    font-family: "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--text);
+    overflow-x: auto;
+  }
+  .terminal .group {
+    color: var(--accent);
+    font-weight: 600;
+    margin-top: 12px;
+    margin-bottom: 4px;
+  }
+  .terminal .group:first-child { margin-top: 0; }
+  .terminal .row { display: flex; gap: 12px; align-items: center; padding-left: 16px; }
+  .terminal .icon { width: 16px; text-align: center; }
+  .terminal .name { flex: 0 0 200px; color: var(--text); }
+  .terminal .activity { flex: 1; color: var(--text-muted); }
+  .terminal .time { color: var(--text-muted); font-size: 12px; }
+  .key-points {
+    background: linear-gradient(135deg, var(--accent-soft), transparent);
+    border: 1px solid var(--accent);
+    border-radius: 12px;
+    padding: 24px;
+    margin-top: 32px;
+  }
+  .key-points h3 { margin-top: 0; color: var(--accent); }
+  .key-points table { background: transparent; border: none; margin-bottom: 0; }
+  .key-points th { background: var(--surface); }
+  footer {
+    margin-top: 80px;
+    padding-top: 32px;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 13px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="eyebrow">Claude Code · v2.1.139+</div>
+    <h1>Agent view</h1>
+    <p class="subtitle">Piloter plusieurs sessions Claude Code en parallèle depuis un seul écran : architecture, cycle de vie, dispatch et isolation.</p>
+    <div class="meta">
+      <span>Recherche preview</span>
+      <span>Mode terminal</span>
+      <span>Sessions locales</span>
+      <span>Supervisor process</span>
+    </div>
+  </header>
+
+  <h2><span class="num">1</span> Architecture globale</h2>
+  <p>L'Agent view s'appuie sur un <strong>processus superviseur</strong> par utilisateur qui héberge toutes les sessions en arrière-plan. Il démarre automatiquement au premier dispatch et reste indépendant du terminal.</p>
+  <div class="mermaid">
+graph TB
+    subgraph Terminal["🖥️ Terminal utilisateur"]
+        Shell["Shell (zsh/bash)"]
+        AgentView["claude agents<br/>(Agent view UI)"]
+        Interactive["Session interactive<br/>(claude)"]
+    end
+
+    subgraph Supervisor["🎛️ Superviseur (per-user)"]
+        SupProc["Supervisor process"]
+        Roster["roster.json"]
+    end
+
+    subgraph Sessions["🤖 Sessions en arrière-plan"]
+        S1["Session A · ✽ Working"]
+        S2["Session B · ✻ Needs input"]
+        S3["Session C · ∙ Idle"]
+        S4["Session D · ✢ Loop"]
+    end
+
+    subgraph Storage["💾 ~/.claude/"]
+        Daemon["daemon.log"]
+        Jobs["jobs/&lt;id&gt;/state.json"]
+        WT[".claude/worktrees/&lt;id&gt;"]
+    end
+
+    API["☁️ Anthropic Model API"]
+
+    Shell -->|"claude agents"| AgentView
+    Shell -->|"claude --bg"| SupProc
+    Interactive -->|"/bg ou fleche gauche"| SupProc
+    AgentView <-->|"dispatch / peek / attach"| SupProc
+    SupProc -->|"spawn / restart"| S1
+    SupProc -->|"spawn / restart"| S2
+    SupProc -->|"spawn / restart"| S3
+    SupProc -->|"spawn / restart"| S4
+    SupProc --- Roster
+    S1 --> API
+    S2 --> API
+    S1 -.->|"écrit"| Jobs
+    S1 -.->|"isole"| WT
+    SupProc -.-> Daemon
+  </div>
+
+  <h2><span class="num">2</span> Cycle de vie d'une session</h2>
+  <p>Une session passe par plusieurs états. Après ~1h d'inactivité, le superviseur arrête le process pour libérer des ressources — le transcript et l'état restent sur disque et un nouveau process est relancé au prochain accès.</p>
+  <div class="mermaid">
+stateDiagram-v2
+    [*] --> Working: dispatch
+    Working --> NeedsInput: permission ou question
+    NeedsInput --> Working: reply
+    Working --> Idle: pause
+    Idle --> Working: nouvelle instruction
+    Working --> Completed: result
+    Working --> Failed: erreur
+    Working --> Stopped: Ctrl+X ou claude stop
+    Completed --> ProcessExit: 1h sans attach
+    Failed --> ProcessExit: 1h sans attach
+    Stopped --> ProcessExit: immediat
+    ProcessExit --> Working: attach peek reply (respawn)
+    Stopped --> [*]: Ctrl+X x2 (delete)
+  </div>
+
+  <h2><span class="num">3</span> Indicateurs visuels</h2>
+  <p>L'<strong>indicateur</strong> (couleur, animation) signale l'état logique. L'<strong>icône</strong> (forme) indique si le process est encore vivant.</p>
+
+  <h3>États (couleur/animation)</h3>
+  <div class="indicator-grid">
+    <div class="indicator"><div class="glyph working">✽</div><div><div class="label">Working</div><div class="desc">Claude exécute des tools ou génère une réponse</div></div></div>
+    <div class="indicator"><div class="glyph needs">✻</div><div><div class="label">Needs input</div><div class="desc">Attend une décision (permission, question)</div></div></div>
+    <div class="indicator"><div class="glyph idle">✻</div><div><div class="label">Idle</div><div class="desc">Attend sans question précise</div></div></div>
+    <div class="indicator"><div class="glyph completed">✻</div><div><div class="label">Completed</div><div class="desc">Tâche terminée avec succès</div></div></div>
+    <div class="indicator"><div class="glyph failed">✻</div><div><div class="label">Failed</div><div class="desc">Tâche terminée en erreur</div></div></div>
+    <div class="indicator"><div class="glyph stopped">✻</div><div><div class="label">Stopped</div><div class="desc">Arrêtée via Ctrl+X ou claude stop</div></div></div>
+  </div>
+
+  <h3>État du process (forme)</h3>
+  <table>
+    <thead><tr><th>Icône</th><th>Signification</th></tr></thead>
+    <tbody>
+      <tr><td><code>✻</code> / <code>✽</code></td><td>Process vivant — réponse immédiate possible</td></tr>
+      <tr><td><code>∙</code></td><td>Process arrêté — relancé automatiquement au prochain accès, état préservé</td></tr>
+      <tr><td><code>✢</code></td><td>Session <code>/loop</code> endormie entre itérations (countdown affiché)</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Aperçu d'une liste typique</h3>
+  <div class="terminal">
+    <div class="group">Pinned</div>
+    <div class="row"><span class="icon" style="color:var(--blue)">✽</span><span class="name">clawd walk cycle</span><span class="activity">Write assets/sprites/clawd-walk.png</span><span class="time">3m</span></div>
+    <div class="group">Ready for review</div>
+    <div class="row"><span class="icon" style="opacity:.55">∙</span><span class="name">jump physics</span><span class="activity">github.com/anthropics/example/pull/2048</span><span class="time">2h</span></div>
+    <div class="group">Needs input</div>
+    <div class="row"><span class="icon" style="color:var(--yellow)">✻</span><span class="name">power-up design</span><span class="activity">needs input: double jump or wall climb?</span><span class="time">1m</span></div>
+    <div class="group">Working</div>
+    <div class="row"><span class="icon" style="color:var(--blue)">✽</span><span class="name">collision detection</span><span class="activity">Edit src/physics/CollisionSystem.ts</span><span class="time">2m</span></div>
+    <div class="row"><span class="icon">✢</span><span class="name">playtest level 3</span><span class="activity">run 12 · all checkpoints cleared</span><span class="time">in 4m</span></div>
+    <div class="group">Completed</div>
+    <div class="row"><span class="icon" style="color:var(--green)">✻</span><span class="name">title screen</span><span class="activity">result: menu, options, and credits done</span><span class="time">9m</span></div>
+    <div class="row"><span class="icon" style="opacity:.55">∙</span><span class="name">sound effects</span><span class="activity">result: 14 SFX exported to assets/audio</span><span class="time">4h</span></div>
+  </div>
+
+  <h2><span class="num">4</span> Flux d'interaction</h2>
+  <p>Trois interactions principales : dispatch (créer), peek/reply (interagir vite), attach (reprendre la main).</p>
+  <div class="mermaid">
+sequenceDiagram
+    actor User
+    participant AV as Agent View
+    participant Sup as Supervisor
+    participant Sess as Session
+    participant WT as Worktree
+    participant API as Model API
+
+    Note over User,API: 🚀 Dispatch
+    User->>AV: prompt + Enter
+    AV->>Sup: créer session
+    Sup->>Sess: spawn process
+    Sess->>API: requête
+    API-->>Sess: réponse
+    Sess->>WT: edits isolés
+
+    Note over User,API: 👀 Peek & Reply
+    User->>AV: Space sur ligne
+    AV->>Sess: lit état/output
+    AV-->>User: panneau peek
+    User->>AV: réponse + Enter
+    AV->>Sess: envoie message
+
+    Note over User,API: 🔗 Attach
+    User->>AV: Enter ou fleche droite
+    AV->>Sess: prend le terminal
+    Sess-->>User: recap + session interactive
+    User->>Sess: fleche gauche (detach)
+    Sess->>Sup: continue en bg
+  </div>
+
+  <h2><span class="num">5</span> Trois manières de dispatcher</h2>
+  <div class="dispatch-grid">
+    <div class="dispatch-card">
+      <h4>A · Depuis Agent view</h4>
+      <p style="margin:0 0 12px;font-size:13px">Tape un prompt dans l'input du bas + <code>Enter</code>.</p>
+      <ul>
+        <li><code>@&lt;repo&gt;</code> — cible un repo voisin</li>
+        <li><code>@&lt;agent&gt;</code> — utilise un subagent</li>
+        <li><code>/&lt;skill&gt;</code> — lance une skill</li>
+        <li><code>#&lt;PR&gt;</code> — session existante sur ce PR</li>
+        <li><code>Shift+Enter</code> — dispatch + attach immédiat</li>
+      </ul>
+    </div>
+    <div class="dispatch-card">
+      <h4>B · Depuis une session interactive</h4>
+      <ul>
+        <li><code>/bg [prompt]</code> — backgroundise la session</li>
+        <li><code>←</code> (prompt vide) — bg + ouvre agent view</li>
+      </ul>
+    </div>
+    <div class="dispatch-card">
+      <h4>C · Depuis le shell</h4>
+      <ul>
+        <li><code>claude --bg "&lt;prompt&gt;"</code></li>
+        <li><code>claude --agent code-reviewer --bg "..."</code></li>
+        <li>Retourne un ID court : <code>7c5dcf5d</code></li>
+      </ul>
+    </div>
+  </div>
+
+  <h2><span class="num">6</span> Commandes shell</h2>
+  <table>
+    <thead><tr><th>Commande</th><th>Effet</th></tr></thead>
+    <tbody>
+      <tr><td><code>claude agents</code></td><td>Ouvre l'interface Agent view</td></tr>
+      <tr><td><code>claude --bg "&lt;prompt&gt;"</code></td><td>Démarre une session en arrière-plan</td></tr>
+      <tr><td><code>claude attach &lt;id&gt;</code></td><td>S'attache à une session</td></tr>
+      <tr><td><code>claude logs &lt;id&gt;</code></td><td>Affiche les logs récents</td></tr>
+      <tr><td><code>claude stop &lt;id&gt;</code></td><td>Stoppe (alias : <code>claude kill</code>)</td></tr>
+      <tr><td><code>claude respawn &lt;id&gt;</code></td><td>Relance une session arrêtée</td></tr>
+      <tr><td><code>claude respawn --all</code></td><td>Relance toutes les sessions stoppées</td></tr>
+      <tr><td><code>claude rm &lt;id&gt;</code></td><td>Supprime de la liste</td></tr>
+    </tbody>
+  </table>
+
+  <h2><span class="num">7</span> Raccourcis clavier</h2>
+  <table>
+    <thead><tr><th>Touche</th><th>Action</th></tr></thead>
+    <tbody>
+      <tr><td><code>↑ / ↓</code></td><td>Naviguer entre les lignes</td></tr>
+      <tr><td><code>Enter</code></td><td>Attach à la session sélectionnée (ou dispatch si input rempli)</td></tr>
+      <tr><td><code>Space</code></td><td>Ouvrir/fermer le panneau peek</td></tr>
+      <tr><td><code>Shift+Enter</code></td><td>Dispatch + attach immédiat</td></tr>
+      <tr><td><code>→</code></td><td>Attach à la session sélectionnée</td></tr>
+      <tr><td><code>Alt+1..9</code></td><td>Attach à la Nème session du groupe focalisé</td></tr>
+      <tr><td><code>Ctrl+S</code></td><td>Bascule groupement état ↔ répertoire</td></tr>
+      <tr><td><code>Ctrl+T</code></td><td>Pin/unpin la session</td></tr>
+      <tr><td><code>Ctrl+R</code></td><td>Renommer la session</td></tr>
+      <tr><td><code>Ctrl+X</code></td><td>Stop (×2 en 2s pour delete)</td></tr>
+      <tr><td><code>Esc</code></td><td>Fermer peek / vider input / quitter</td></tr>
+      <tr><td><code>?</code></td><td>Voir tous les raccourcis</td></tr>
+    </tbody>
+  </table>
+
+  <h2><span class="num">8</span> Isolation des écritures fichiers</h2>
+  <p>Toutes les sessions en arrière-plan lisent le code source partagé, mais leurs <strong>écritures sont automatiquement redirigées</strong> dans un git worktree isolé sous <code>.claude/worktrees/</code>.</p>
+  <div class="mermaid">
+graph LR
+    Code["📂 Code source<br/>(working dir)"]
+    SA["Session A"]
+    SB["Session B"]
+    SC["Session C"]
+    WTA["📁 worktrees/A"]
+    WTB["📁 worktrees/B"]
+    WTC["📁 worktrees/C"]
+
+    Code -->|"READ"| SA
+    Code -->|"READ"| SB
+    Code -->|"READ"| SC
+    SA -.->|"WRITE isolé"| WTA
+    SB -.->|"WRITE isolé"| WTB
+    SC -.->|"WRITE isolé"| WTC
+
+    style Code fill:#1d222c,stroke:#d97757
+    style WTA fill:#161a22,stroke:#2a3140
+    style WTB fill:#161a22,stroke:#2a3140
+    style WTC fill:#161a22,stroke:#2a3140
+  </div>
+  <p style="color:var(--yellow);font-size:14px;margin-top:12px">⚠ Le worktree est supprimé avec la session — penser à merger ou pusher avant <code>claude rm</code>.</p>
+
+  <h2><span class="num">9</span> Que se passe-t-il si 2 sessions modifient le même fichier ?</h2>
+  <p>Claude Code <strong>anticipe le problème</strong> en bloquant les écritures directes dans le working directory pour toute session en arrière-plan. Dès qu'une session tente d'éditer un fichier, elle est automatiquement déplacée dans un <strong>git worktree isolé</strong> sous <code>.claude/worktrees/&lt;session-id&gt;/</code>. Chaque session travaille donc sur sa propre copie, sans se voir mutuellement.</p>
+
+  <div class="mermaid">
+graph TB
+    WD["📂 Working dir<br/>src/app.ts (version main)"]
+    SA["Session A<br/>worktree-A/<br/>✏️ src/app.ts<br/>(branche A)"]
+    SB["Session B<br/>worktree-B/<br/>✏️ src/app.ts<br/>(branche B)"]
+    Merge["🔀 Reconciliation au merge<br/>(conflit git classique si overlap)"]
+
+    WD -->|"READ partage (OK)"| SA
+    WD -->|"READ partage (OK)"| SB
+    SA -->|"commit branche A"| Merge
+    SB -->|"commit branche B"| Merge
+
+    style WD fill:#1d222c,stroke:#d97757,color:#e6e9ef
+    style SA fill:#161a22,stroke:#60a5fa,color:#e6e9ef
+    style SB fill:#161a22,stroke:#fbbf24,color:#e6e9ef
+    style Merge fill:#1d222c,stroke:#4ade80,color:#e6e9ef
+  </div>
+
+  <h3>Conséquences concrètes</h3>
+  <table>
+    <thead><tr><th>Situation</th><th>Que se passe-t-il</th></tr></thead>
+    <tbody>
+      <tr><td>Pendant l'édition</td><td>Aucun conflit. Chaque session voit sa propre copie du fichier dans son worktree. Elles ne se voient pas mutuellement.</td></tr>
+      <tr><td>A commit</td><td>Commit sur la branche du worktree A uniquement. Le working dir principal et la branche B sont intacts.</td></tr>
+      <tr><td>B commit</td><td>Idem côté B. Aucune interaction avec A.</td></tr>
+      <tr><td>Récupérer les 2 résultats</td><td>Tu merges/rebases manuellement les 2 branches → <strong>conflit git standard</strong> si les changements se chevauchent sur les mêmes lignes.</td></tr>
+      <tr><td>2 PR séparées</td><td>GitHub gère le conflit au moment du 2e merge sur <code>main</code>.</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Cas où l'isolation NE s'applique PAS</h3>
+  <p>D'après la doc, le blocage des écritures dans le working directory <strong>ne s'applique pas</strong> dans 3 cas :</p>
+  <div class="dispatch-grid">
+    <div class="dispatch-card" style="border-color:var(--yellow)">
+      <h4 style="color:var(--yellow)">⚠ Session déjà dans un worktree</h4>
+      <p style="margin:0;font-size:13px;color:var(--text-muted)">Si tu as lancé <code>claude</code> depuis <code>.claude/worktrees/X</code>, elle écrit dans ce worktree directement (pas de double isolation).</p>
+    </div>
+    <div class="dispatch-card" style="border-color:var(--red)">
+      <h4 style="color:var(--red)">⚠ Pas un repo git</h4>
+      <p style="margin:0;font-size:13px;color:var(--text-muted)">Écritures directes autorisées. <strong>Risque réel de race condition</strong> si 2 sessions modifient le même fichier (dernière écriture gagne, pas de garde-fou).</p>
+    </div>
+    <div class="dispatch-card" style="border-color:var(--red)">
+      <h4 style="color:var(--red)">⚠ Écritures hors du working dir</h4>
+      <p style="margin:0;font-size:13px;color:var(--text-muted)">Ex : <code>~/.config/</code>, <code>/tmp/</code>. Directes aussi → même risque de collision.</p>
+    </div>
+  </div>
+
+  <h3>Workflow recommandé</h3>
+  <pre><code>1. Dispatch session A : "refactor auth"           → worktree A cree auto
+2. Dispatch session B : "add logging to auth"     → worktree B cree auto
+3. Les 2 tournent en parallele, chacune commit dans sa branche
+4. Session A finit  → PR depuis branche A vers main
+5. Session B finit  → PR depuis branche B vers main
+6. Tu merges PR A   → main avance
+7. Tu rebases B sur main → resous conflits eventuels → merges
+8. claude rm &lt;id-A&gt; et &lt;id-B&gt;  ⚠ supprime les worktrees</code></pre>
+
+  <h3>Pièges à connaître</h3>
+  <ul style="color:var(--text-muted);font-size:14px;line-height:1.8">
+    <li><strong style="color:var(--yellow)">⚠ <code>claude rm</code> détruit le worktree</strong> : merger ou pusher la branche <strong>avant</strong> de supprimer la session, sinon le travail est perdu.</li>
+    <li><strong style="color:var(--yellow)">⚠ Worktrees orphelins</strong> : si une session se termine sans cleanup propre, <code>.claude/worktrees/</code> se remplit. Lister avec <code>git worktree list</code> et nettoyer avec <code>git worktree remove &lt;path&gt;</code>.</li>
+    <li><strong style="color:var(--yellow)">⚠ Lectures non synchronisées</strong> : la session B ne voit pas les modifs de A tant que A n'a pas mergé sur main puis que B n'a pas rebasé. Deux sessions "parallèles" sur le même fichier travaillent en réalité <strong>sur la version d'origine chacune</strong>.</li>
+    <li><strong style="color:var(--accent)">💡 Forcer l'isolation pour un subagent</strong> : ajouter <code>isolation: worktree</code> dans son frontmatter pour qu'il s'isole toujours, quelle que soit la façon dont il est lancé.</li>
+  </ul>
+
+  <div class="key-points">
+    <h3>🎯 Points clés à retenir</h3>
+    <table>
+      <thead><tr><th>Aspect</th><th>Comportement</th></tr></thead>
+      <tbody>
+        <tr><td>Persistance</td><td>Survit à la fermeture du terminal et aux auto-update — <strong>pas</strong> au sleep/shutdown</td></tr>
+        <tr><td>Process</td><td>Arrêté après ~1h inactif, état préservé, relancé au prochain accès</td></tr>
+        <tr><td>Quota</td><td>Chaque session consomme indépendamment (10 agents = 10× le quota)</td></tr>
+        <tr><td>Localité</td><td>100% local, supervisor par utilisateur, aucun cloud</td></tr>
+        <tr><td>Résumés</td><td>Lignes générées par modèle Haiku, refresh max 1×/15s</td></tr>
+        <tr><td>Désactivation</td><td><code>disableAgentView=true</code> ou <code>CLAUDE_CODE_DISABLE_AGENT_VIEW</code></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>
+    Source : <a href="https://code.claude.com" style="color:var(--accent)">code.claude.com</a> · Schéma généré le 2026-05-12
+  </footer>
+</div>
+
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark',
+    themeVariables: {
+      darkMode: true,
+      background: '#161a22',
+      primaryColor: '#1d222c',
+      primaryTextColor: '#e6e9ef',
+      primaryBorderColor: '#2a3140',
+      lineColor: '#d97757',
+      secondaryColor: '#1d222c',
+      tertiaryColor: '#0f1115',
+      fontFamily: '-apple-system, BlinkMacSystemFont, system-ui, sans-serif'
+    },
+    flowchart: { curve: 'basis', padding: 20 },
+    sequence: { actorMargin: 60, messageMargin: 40 }
+  });
+</script>
+</body>
+</html>
