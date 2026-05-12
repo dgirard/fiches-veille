@@ -20,6 +20,9 @@ temp/
 copywriting/
 docs/deep research/
 
+# Design system propriétaire — actif éditorial à ne pas publier sur GitHub public
+_design-system/
+
 # Python build artifacts (post-review pass 2 — ajout des tests scripts/tests/)
 __pycache__/
 *.py[cod]
