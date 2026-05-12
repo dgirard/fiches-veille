@@ -617,7 +617,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 Documents HTML interactifs et schemas explicatifs (hors fiches de veille).
 
-- [Claude Code — Agent view : schema de fonctionnement](ressources/claude-agent-view-schema.html) - Documentation visuelle de la fonctionnalité `claude agents` (v2.1.139+) : architecture supervisor, cycle de vie des sessions, indicateurs visuels, flux dispatch/peek/attach, isolation worktree, conflits multi-sessions. Rendu via [htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/dgirard/fiches-veille/blob/main/ressources/claude-agent-view-schema.html).
+- [Claude Code — Agent view : schema de fonctionnement](ressources/claude-agent-view-schema.html) - Documentation visuelle de la fonctionnalité `claude agents` (v2.1.139+) : architecture supervisor, cycle de vie des sessions, indicateurs visuels, flux dispatch/peek/attach, isolation worktree, conflits multi-sessions. Rendu via [raw.githack.com](https://raw.githack.com/dgirard/fiches-veille/main/ressources/claude-agent-view-schema.html).
 
 ---
 
