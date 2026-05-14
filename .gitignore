@@ -23,6 +23,14 @@ docs/deep research/
 # Design system propriétaire — actif éditorial à ne pas publier sur GitHub public
 _design-system/
 
+# Briefs et plans brainstorm — peuvent référencer des consultations confidentielles (NDA-sensitive)
+docs/brainstorms/
+docs/plans/
+docs/specs/
+
+# Configuration Claude Code locale (session settings, agent state)
+.claude/
+
 # Python build artifacts (post-review pass 2 — ajout des tests scripts/tests/)
 __pycache__/
 *.py[cod]
