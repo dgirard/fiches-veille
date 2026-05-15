@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 73 entités de type EVENEMENT
+> 74 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
@@ -60,6 +60,7 @@
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — rôle: Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] — date: 2026-02 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] — description: Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT (1 occ., 1 fiches)

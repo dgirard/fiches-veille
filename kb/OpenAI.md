@@ -1,12 +1,12 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 45 relations | 18 fiches sources
+> **Type** : ORGANISATION | 46 relations | 19 fiches sources
 
 ## Attributs
 
 - **produit** : ChatGPT
 - **rôle** : partenaire mentorat
-- **secteur** : IA / Recherche
+- **secteur** : Labo IA frontalier, San Francisco
 - **statut financier** : non cash-flow positif avant fin de décennie
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
 
@@ -160,6 +160,7 @@
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96
 - [[kb/AMD\|AMD]] **émet_warrant_pour** → OpenAI — 0.96
 - [[kb/Nvidia\|Nvidia]] **investit_dans** → OpenAI — 0.95
+- [[kb/roon\|roon]] **travaille_chez** → OpenAI — 0.95
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → OpenAI — 0.85
 
 ## Fiches sources
@@ -175,6 +176,7 @@
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
+- [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|ChatGPT Agent - OpenAI - Agent autonome - Automatisation - VM semi-automatisée - Rebrand Operator]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]

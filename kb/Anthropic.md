@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 76 relations | 32 fiches sources
+> **Type** : ORGANISATION | 78 relations | 32 fiches sources
 
 ## Attributs
 
@@ -162,6 +162,8 @@
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
 - [[kb/Cat-Wu\|Cat Wu]] (PERSONNE) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+- [[kb/Thariq-Shihipar\|Thariq Shihipar]] (PERSONNE) — 0.97, DYNAMIQUE
+  - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### fournit
 
@@ -251,6 +253,7 @@
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] **travaille_chez** → Anthropic — 0.98
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **travaille_chez** → Anthropic — 0.98
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] **travaille_chez** → Anthropic — 0.97
+- [[kb/Thariq-Shihipar\|Thariq Shihipar]] **travaille_chez** → Anthropic — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] **recommandée_par** → Anthropic — 0.92

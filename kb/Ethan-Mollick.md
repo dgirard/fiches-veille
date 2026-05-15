@@ -1,13 +1,13 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 42 relations | 11 fiches sources
+> **Type** : PERSONNE | 46 relations | 12 fiches sources
 
 ## Attributs
 
 - **affiliation** : Wharton School / One Useful Thing
 - **distinction** : TIME 100 Most Influential People in AI 2024
 - **indépendance** : N'accepte aucun financement des entreprises IA
-- **rôle** : Professeur à Wharton, observateur IA influent
+- **rôle** : Professeur Wharton (management), auteur *Co-Intelligence*, commentateur IA prolifique (LinkedIn + blog *One Useful Thing*)
 
 ## Relations (comme sujet)
 
@@ -76,6 +76,11 @@
 - [[kb/_entites-mineures#systèmes-agentiques-actuels\|systèmes agentiques actuels]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 
+### défend
+
+- [[kb/_entites-mineures#vision-East-Coast-(transformation-lente-fragmentée)\|vision East Coast (transformation lente fragmentée)]] (CONCEPT) — 0.94, STATIQUE
+  - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
 ### enseigne_à
 
 - [[kb/Wharton-School\|Wharton School]] (ORGANISATION) — 0.99, DYNAMIQUE
@@ -90,8 +95,13 @@
 - [[kb/Wharton-School\|Wharton School]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
   - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Ethan Mollick - Évolution IA 3 ans GPT-3 à Gemini 3 - Chatbots vers agents - Code interface universelle - PhD-level intelligence - Human-in-the-loop Antigravity]]
-- [[kb/_entites-mineures#Wharton\|Wharton]] (ORGANISATION) — 0.97, DYNAMIQUE
+- [[kb/Wharton\|Wharton]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
+
+### est_professeur_à
+
+- [[kb/Wharton\|Wharton]] (ORGANISATION) — 0.98, DYNAMIQUE
+  - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### introduit_concept
 
@@ -102,6 +112,11 @@
 
 - [[kb/_entites-mineures#framework-Leadership-Lab-Crowd\|framework Leadership-Lab-Crowd]] (METHODOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
+
+### propose_test
+
+- [[kb/_entites-mineures#dissoudre-les-FDE-comme-preuve-de-croyance-ASI\|dissoudre les FDE comme preuve de croyance ASI]] (CONCEPT) — 0.96, STATIQUE
+  - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### prédit
 
@@ -149,6 +164,11 @@
 - [[kb/_entites-mineures#augmentation-capacités-humaines-par-IA\|augmentation capacités humaines par IA]] (CONCEPT) — 0.87, ATEMPOREL
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
 
+### s_oppose_à
+
+- [[kb/_entites-mineures#vision-West-Coast-(automatisation-rapide)\|vision West Coast (automatisation rapide)]] (CONCEPT) — 0.92, STATIQUE
+  - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
 ### utilise
 
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -164,6 +184,7 @@
 - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
 - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - AI Agents - Real Work - Economic Impact - OpenAI Study - AI Capabilities - Work Transformation - Research Replication - Agentic AI - Future of Work - AI Adoption]]
+- [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
 - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Ethan Mollick - Évolution IA 3 ans GPT-3 à Gemini 3 - Chatbots vers agents - Code interface universelle - PhD-level intelligence - Human-in-the-loop Antigravity]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]

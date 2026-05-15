@@ -1,6 +1,6 @@
 # Vibe Coding
 
-> **Type** : METHODOLOGIE | 36 relations | 9 fiches sources
+> **Type** : METHODOLOGIE | 37 relations | 10 fiches sources
 
 ## Attributs
 
@@ -10,6 +10,7 @@
 - **description** : Développement logiciel assisté par LLM/IA
 - **définition** : Développement assisté par orchestration agentique
 - **fonction** : Raise the floor — démocratisation du software development
+- **type** : Anti-pattern selon Farley — spec vague + délégation IA sans pipeline
 - **usage** : Prototypage rapide jetable pour clarifier les exigences
 
 ## Relations (comme sujet)
@@ -80,6 +81,8 @@
   - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]]
 - [[kb/_entites-mineures#validation-systématique\|validation systématique]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
+- [[kb/_entites-mineures#Continuous-Delivery\|Continuous Delivery]] (METHODOLOGIE) — 0.88, ATEMPOREL
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 - [[kb/_entites-mineures#exigences-enterprise\|exigences enterprise]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 - [[kb/_entites-mineures#ingénierie-production\|ingénierie production]] (METHODOLOGIE) — 0.83, ATEMPOREL
@@ -117,6 +120,7 @@
 
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
 - [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|Évolution métier développeur avec IA générative, transformation rôles informatiques, ingénierie système, orchestration agentique - Yves Caseau - Michelin - LinkedIn]]
+- [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|AI4* - Production Logicielle - IA - Cycle de Vie]]
 - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]

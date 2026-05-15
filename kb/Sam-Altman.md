@@ -1,10 +1,10 @@
 # Sam Altman
 
-> **Type** : PERSONNE | 10 relations | 4 fiches sources
+> **Type** : PERSONNE | 11 relations | 5 fiches sources
 
 ## Attributs
 
-- **rôle** : CEO OpenAI, cible d'incident violent
+- **rôle** : CEO OpenAI, auteur essai *The Gentle Singularity* (juin 2025)
 
 ## Relations (comme sujet)
 
@@ -52,9 +52,15 @@
 - [[kb/_entites-mineures#Neuralink\|Neuralink]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman - Neuralink - Board appointment - Conflict of interest - OpenAI - Brain-computer interface - Ethics]]
 
+### reprend_le_terme
+
+- [[kb/_entites-mineures#Gentle-Singularity\|Gentle Singularity]] (CONCEPT) — 0.88, STATIQUE
+  - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
 ## Fiches sources
 
 - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
+- [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
 - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman - Neuralink - Board appointment - Conflict of interest - OpenAI - Brain-computer interface - Ethics]]

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 492 entités de type TECHNOLOGIE
+> 497 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -20,6 +20,7 @@
 - [[kb/_entites-mineures#AI-Toolkit\|AI Toolkit]] — usage: Extension VS Code pour agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-supercomputing\|AI supercomputing]] — catégorie: Infrastructure et techniques d'activation GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI.Gov\|AI.Gov]] — catégorie: Portail gouvernemental IA (1 occ., 1 fiches)
+- [[kb/AI-works™\|AI/works™]] — catégorie: Plateforme de développement agentique entreprise (Agentic Development Platform), sales-led, ACV élevé attendu (1 occ., 1 fiches)
 - [[kb/AI4Ops\|AI4Ops]] — résultat: 100% automatisation support N1, réduction >90% coûts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] — catégorie: GPU inférence data center (1 occ., 1 fiches)
 - [[kb/AP2\|AP2]] — nom complet: Agent Payments Protocol (5 occ., 1 fiches)
@@ -70,6 +71,7 @@
 - [[kb/CLAUDE.md\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (9 occ., 9 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Call-Evaluation\|Call Evaluation]] — description: Produit interne Raiffeisen — analyse transcription audio >97% précision + redesign scripts data-driven ; élu meilleur produit du groupe RBI (passage filiale → groupe) (1 occ., 1 fiches)
+- [[kb/Campus-IA\|Campus IA]] — catégorie: Méga-projet datacenter à Saint-Arnoult (Essonne), 35 Md€ investissement, 100 hectares, 1,4-1,6 GW, financé par MGX (Abu Dhabi) + Nvidia, vaisseau amiral du sommet IA français (1 occ., 1 fiches)
 - [[kb/ChatGPT\|ChatGPT]] — évolution: Ajout de liens cliquables et éléments de recherche traditionnels (8 occ., 8 fiches)
 - [[kb/ChatGPT-Agent\|ChatGPT Agent]] — catégorie: Agent autonome CLI/interface (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] — catégorie: SDK pour applications ChatGPT intégrées (1 occ., 1 fiches)
@@ -278,6 +280,7 @@
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] — catégorie: Standard de communication entre LLM et outils (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] — catégorie: Protocole d'intégration données/contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mythos\|Mythos]] — catégorie: Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NANDA\|NANDA]] — catégorie: Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nano-Banana-Pro\|Nano Banana Pro]] — rôle: Génération du canvas image initial (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nanobanana\|Nanobanana]] — catégorie: Modèle d'image generation Google/Gemini capable d'overlay menu items dans pixels (1 occ., 1 fiches)
@@ -310,7 +313,7 @@
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)
 - [[kb/Opus-4.5\|Opus 4.5]] — catégorie: Modèle LLM lourd Anthropic (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] — catégorie: Modèle de langage Anthropic (2 occ., 2 fiches)
-- [[kb/_entites-mineures#Opus-4.7\|Opus 4.7]] — reasoning_effort_défaut: xhigh (après correction) (2 occ., 2 fiches)
+- [[kb/Opus-4.7\|Opus 4.7]] — reasoning_effort_défaut: xhigh (après correction) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] — fonction: Gestion vocabulaires contrôlés et taxonomies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] — description: Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] — secteur: Conformité financière / fintechs (1 occ., 1 fiches)
@@ -450,6 +453,7 @@
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] — catégorie: En-tête API de gestion du cache de raisonnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] — auteur: Jesse Vincent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] — taille: 100 000 lignes de code (3 occ., 1 fiches)
+- [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] — catégorie: Agents IA coopérants utilisés par Spec to Code pour générer code depuis la Super Spec (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cursor.com\|cursor.com]] — catégorie: Site web Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#data-warehouse\|data warehouse]] — évolution: De miroir rétrospectif vers registre de vérité pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#deepagents\|deepagents]] — catégorie: Bibliothèque de construction de harnais LangChain (1 occ., 1 fiches)
@@ -461,6 +465,7 @@
 - [[kb/_entites-mineures#git\|git]] — rôle: Infrastructure de versioning utilisée par systèmes IA autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#git-worktrees\|git worktrees]] — usage: Parallélisme de sessions Claude, gain de productivité majeur (2 occ., 2 fiches)
 - [[kb/goose\|goose]] — éditeur: Block, Inc. (6 occ., 5 fiches)
+- [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy-systems\|legacy systems]] — caractéristique: Impact sous-estimé dans la transition agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] — catégorie: Chatbot interne Moderna construit sur OpenAI API (1 occ., 1 fiches)

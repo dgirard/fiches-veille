@@ -16,7 +16,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.96, STATIQUE
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.96, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
 
 ### est_publié_sur

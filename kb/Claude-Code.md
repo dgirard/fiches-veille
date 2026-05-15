@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 93 relations | 36 fiches sources
+> **Type** : TECHNOLOGIE | 95 relations | 36 fiches sources
 
 ## Attributs
 
@@ -200,6 +200,8 @@
 
 - [[kb/_entites-mineures#90-100%-du-code-chez-Cherny\|90-100% du code chez Cherny]] (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
+- [[kb/_entites-mineures#artefacts-HTML-pour-specs,-PR,-rapports,-éditeurs-jetables\|artefacts HTML pour specs, PR, rapports, éditeurs jetables]] (METHODOLOGIE) — 0.96, ATEMPOREL
+  - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 - [[kb/_entites-mineures#500M$-de-revenus-annuels\|500M$ de revenus annuels]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
 
@@ -212,6 +214,11 @@
 
 - [[kb/_entites-mineures#Pattern-modèle+harnais\|Pattern modèle+harnais]] (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+
+### ingère
+
+- [[kb/_entites-mineures#codebase-+-MCP-+-git-history-+-Chrome\|codebase + MCP + git history + Chrome]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### intègre
 

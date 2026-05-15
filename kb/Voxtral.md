@@ -39,7 +39,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Mistral-AI\|Mistral AI]] **publie** → Voxtral — 0.99
+- [[kb/Mistral-AI\|Mistral AI]] **publie** → Voxtral — 0.99
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] **intègre** → Voxtral — 0.95
 
 ## Fiches sources

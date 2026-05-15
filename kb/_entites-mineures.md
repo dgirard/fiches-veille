@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 1702 entités avec moins de 3 triples/fiches
+> 1773 entités avec moins de 3 triples/fiches
 
-## PERSONNE (291)
+## PERSONNE (298)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -251,6 +251,14 @@
 
 **Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
 
+### Aristote {#Aristote}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Cité pour « Quality is not an act, it's a habit » (citation populaire, attribution discutée)
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+
 ### Arjan van den Heuvel {#Arjan-van-den-Heuvel}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -272,6 +280,14 @@
 - **affirme_que** → [[kb/_entites-mineures#incitations-traditionnelles-sont-obsolètes\|incitations traditionnelles sont obsolètes]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Engineering Compensation - Story Points - Outcome-based Pay - 10x Engineers - Incentive Alignment]]
+
+### Arnaud Saint-Martin {#Arnaud-Saint-Martin}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Député LFI, circonscription Saint-Arnoult (Essonne) — accueille Campus IA, intervenant à l'audition
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### Artem Zhutov {#Artem-Zhutov}
 
@@ -346,6 +362,16 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] **emploie** → Ashu Garg — 0.90
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|Context Graphs Foundation Capital - nouvelle génération systèmes de record pour agents IA]]
+
+### Audry Herblin-Stoupe {#Audry-Herblin-Stoupe}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directrice des affaires publiques et de la communication, Mistral AI
+
+- **est_directrice_affaires_publiques_de** → [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.98
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### Augustin d'Hippone {#Augustin-d'Hippone}
 
@@ -456,6 +482,16 @@
 - [[kb/OpenAI\|OpenAI]] **emploie** → Bill Chen — 0.95
 
 **Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+
+### Bob Martin {#Bob-Martin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Évangéliste agile, auteur Clean Code
+
+- **a_affirmé** → [[kb/_entites-mineures#«-the-only-way-to-go-fast-is-to-go-well-»\|« the only way to go fast is to go well »]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Bouddha {#Bouddha}
 
@@ -1014,6 +1050,16 @@
 - **a_fondé** → [[kb/_entites-mineures#Cua-AI\|Cua AI]] (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Friedrich Hayek {#Friedrich-Hayek}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste autrichien (1899-1992), Nobel 1974, école autrichienne, théoricien de l'information distribuée
+
+- **a_inspiré** → [[kb/_entites-mineures#argument-flux-d'information-organisationnel\|argument flux d'information organisationnel]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### Gabriel Vasquez {#Gabriel-Vasquez}
 
@@ -1693,6 +1739,16 @@
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
 
+### Manuel Pais {#Manuel-Pais}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-créateur de Team Topologies, formateur fast flow / CD
+
+- **dispense** → [[kb/_entites-mineures#cours-CD-vers-fast-flow\|cours CD vers fast flow]] (EVENEMENT) — 0.92
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+
 ### Marc Aurèle {#Marc-Aurèle}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2188,6 +2244,14 @@
 - **a_co-présenté** → [[kb/Interactions-API\|Interactions API]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+
+### Philippe Latombe {#Philippe-Latombe}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### Philippe Martin {#Philippe-Martin}
 
@@ -2936,7 +3000,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (220)
+## ORGANISATION (229)
 
 ### 10x {#10x}
 
@@ -2976,6 +3040,16 @@
 - **plateforme** : X (Twitter)
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
+
+### ADEME {#ADEME}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Agence de la transition écologique française, partenaire de Mistral pour l'ACV des modèles
+
+- [[kb/Mistral-AI\|Mistral AI]] **a_réalisé_ACV_avec** → ADEME — 0.96
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### AI Index Steering Committee {#AI-Index-Steering-Committee}
 
@@ -3020,6 +3094,14 @@
 - [[kb/METR\|METR]] **était_connu_sous** → ARC Evals — 0.97
 
 **Fiches** : [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR - AI Safety - Autonomous replication - AI agents - Risk assessment - Existential risk - Alignment]]
+
+### ASML {#ASML}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Entreprise néerlandaise de lithographie semi-conducteur, mentionnée par Mensch comme exemple d'extrémité amont de la chaîne de valeur IA
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### Agentic AI Foundation (AAIF) {#Agentic-AI-Foundation-(AAIF)}
 
@@ -3142,6 +3224,14 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
 
+### BPI France {#BPI-France}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Banque publique d'investissement française, au board de Campus IA pour gouvernance
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### Bain & Company {#Bain-&-Company}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -3204,6 +3294,14 @@
 - **a_développé** → [[kb/_entites-mineures#Doubao\|Doubao]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z - Top 100 Gen AI Consumer Apps - 5th Edition - Market analysis - ChatGPT - Gemini - Grok]]
+
+### CAST {#CAST}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Partenaire d'analyse de code legacy — cohérent avec capacité Reverse Engineering
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### CERT-FR {#CERT-FR}
 
@@ -3366,6 +3464,17 @@
 - **livre** → [[kb/_entites-mineures#packages-d'exportation-IA-sécurisés\|packages d'exportation IA sécurisés]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security]]
+
+### Constellation Research {#Constellation-Research}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Firme d'analystes Silicon Valley dirigée par R. "Ray" Wang, focus CXO / future of business and technology
+
+- **recognized** → [[kb/AI-works™\|AI/works™]] (TECHNOLOGIE) — 0.97
+- **affirme_que** → [[kb/_entites-mineures#spec-driven-lifecycle-change-l'économie-du-software\|spec-driven lifecycle change l'économie du software]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Contextually LLC {#Contextually-LLC}
 
@@ -3607,6 +3716,14 @@
 - **catégorie** : École d'informatique, France
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+
+### Equal Experts {#Equal-Experts}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Consulting CD / engineering
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Etsy {#Etsy}
 
@@ -3910,7 +4027,7 @@
 
 - **secteur** : IA vocale / TTS
 
-- [[kb/_entites-mineures#Mistral-AI\|Mistral AI]] **collabore_avec** → Inworld — 0.88
+- [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Inworld — 0.88
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0]]
 
@@ -4067,6 +4184,14 @@
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur - Interactions agents IA - Développeurs frontend - LogRocket Blog]]
 
+### MGX {#MGX}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Fonds souverain d'Abu Dhabi, investisseur principal Campus IA
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### MIRI {#MIRI}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4123,6 +4248,14 @@
 - [[kb/Bob-Sternfels\|Bob Sternfels]] **est_Managing_Partner_Global_de** → McKinsey & Company — 0.97
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|**OfficeChai** rapporte le **14 janvier 2026** une déclaration majeure de **Bob Sternfels** (Managing Partner Global, **McKinsey & Company**) : ***"my latest answer to you would be 60,000, but it's 40,000 humans and 20,000 agents."*** Effectif McKinsey désormais comptabilisé **humains + agents** : **60 000 = 40 000 humains + 20 000 agents IA**. **Trajectoire d'accélération massive** : *"Little over a year and a half ago, that was 3 000 agents and I originally thought it was going to take us to 2030 to get to one agent per human."* La parité humains/agents projetée initialement pour **2030** est maintenant atteignable en **18 mois** — accélération **>5×** par rapport à la projection. **Bascule modèle économique explicite** : *"We're migrating pretty quickly away from, let's call it pure advisory work... moving to much more of an outcomes-based model."* — McKinsey **abandonne le modèle billable hours / advisory** au profit d'un **outcomes-based model** où la rémunération est alignée sur les résultats mesurables. **Contexte McKinsey 2024-2026** : Lilli (chatbot interne) utilisé par **70% des employés**, **200 postes technologiques supprimés en novembre 2024**, offre de départ **9 mois de salaire** (avril 2024). **Pertinence majeure pour le dossier 2026** : c'est le **premier acteur top-tier consulting** qui (a) déclare publiquement et (b) chiffre précisément l'intégration agents IA dans ses effectifs comptables. La phrase ***"60,000 people but 20,000 of them are agents"*** est destinée à **redéfinir** la conception même du headcount dans les services intellectuels — comparable au moment où les organisations ont commencé à compter contractors + employees. **Convergence avec corpus 2026** : Bain Rule of 40 (outcome-based pricing tailwind), Bain cross-system labor 100 Md$, MediaPost Mandese *"billable hours are dead, AI killed them"* (3 mars 2026), VoxComm *Redesigning the Agency Value Model* (Brian Kessman / Tim Williams, mars 2026), Tatsyi/Raiffeisen (−75 personnes), Cherny Sequoia *"7 Powers reordering"*. **Tension productive** avec position normative DORA *"do not adopt headcount-reduction strategy"* — McKinsey assume publiquement la **réduction d'effectifs humains** (200 postes 2024) tout en réinjectant la capacité dans agents IA + outcome-based revenue. À mobiliser pour COMEX cabinet, présentations stratégiques cabinets/SSII/agences, débats sur l'avenir du modèle services intellectuels.]]
+
+### Mechanical Orchard {#Mechanical-Orchard}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Partenaire de modernisation legacy mainframe — cohérent avec capacité Reverse Engineering
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Mechanize {#Mechanize}
 
@@ -4227,19 +4360,6 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
 
-### Mistral AI {#Mistral-AI}
-
-**Type** : ORGANISATION | 3 relations | 2 fiches
-
-- **secteur** : IA / Open source
-
-- **publie** → [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE) — 0.99
-- **collabore_avec** → [[kb/_entites-mineures#Inworld\|Inworld]] (ORGANISATION) — 0.88
-
-- [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **est_basé_sur** → Mistral AI — 0.96
-
-**Fiches** : [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]], [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0]]
-
 ### Modern Data 101 {#Modern-Data-101}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4249,6 +4369,17 @@
 - **héberge** → [[kb/_entites-mineures#publication-Talisman-2026-05-04\|publication Talisman 2026-05-04]] (EVENEMENT) — 0.96
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|**Jessica Talisman MLS** (Semantic Engineer + Information Architect, 25+ ans expérience, ex-Adobe RDF knowledge graphs + ex-Amazon information architecture, fondatrice **Ontology Pipeline Framework** + **Contextually LLC**) publie sur **Modern Data 101** (Substack, ~20 000 membres) le **4 mai 2026** une révision majeure de son framework **Ontology Pipeline™** initialement publié en janvier 2025. **Thèse-pivot** : depuis novembre 2022 (ChatGPT), la demande de *semantic infrastructure* a explosé mais a créé une **confusion massive** — *"vendors offering shortcuts that bypass essential foundational work, creating liabilities disguised as assets"*. Le pipeline initial en **5 étapes** (controlled vocabulary → metadata standards → taxonomy → thesaurus → ontology → knowledge graph) reste valide mais **doit être complété par 2 ajouts critiques** : **(1) Governance** comme ongoing engineering practice (pas post-project documentation) ; **(2) AI Partnership** avec distinction claire augment vs replace. **Diagnostic marché** : *"a structurally invalid taxonomy is not a taxonomy"*, *"lists are not knowledge infrastructure"*, AI-generated taxonomies vendues comme stratégie, vendors abusent du terme *"ontology"*, cookie-cutter solutions présentées comme méthodologie. **Crisis pédagogique** : la demande de semantic engineers dépasse massivement l'offre de praticiens formés ; le gap est comblé par des gens *"who know vocabulary without methodology"*. **Position normative explicite** : *"AI that generates a taxonomy wholesale is producing a liability disguised as asset; AI that assists trained engineers is just plain smart."* **Rôles AI acceptables** : entity extraction, gap analysis, drafting candidate vocabularies for review, population/validation support. **Rôles AI inacceptables** : *wholesale taxonomy generation without human validation against standards*. **Standards référencés** : SKOS, OWL, RDF, SPARQL. **Crédibilité** : framework validé sur **6 institutions sur 10 ans**. **Recommandations 3 publics** : (a) Organisations — invest formal education, treat knowledge infra as AI backbone, governance ongoing, AI as accélérateur pas remplacement ; (b) Practitioners — competency questions before modeling, validate against SKOS/OWL/RDF, definitional difficulty signals pause, maintenance continue ; (c) Leaders — workforce upskilling sans self-funding education, alloc resources knowledge infra strategic necessity, governance avant deployment. **Citations percutantes** : *"the work cannot be skipped"*, *"governance is the engineering practice that keeps an ontology coherent across change"*, *"teaching this is hard. Learning it is harder."* **Pertinence majeure** pour data leaders / CDO / architects qui construisent les bases sémantiques de leurs agents IA. À articuler avec : Seale Semantic Agent (2026-04-17) — *(Model+Harness)+(Ontology+Data) — l'ontologie comme seul moat* ; Foundation Capital Context Graphs (2025-12-22) ; Bain part 2/5 *redesign data foundations for agent readiness* (2026-05) ; DORA ROI 2026 *AI-accessible internal data + healthy data ecosystems* (2026-04-21) ; Habert PROJ-AI six zones doctrine (2026-05-05). Convergence avec corpus 2026 *"data foundations as moat"*.]]
+
+### Modern Software Engineering {#Modern-Software-Engineering}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Chaîne YouTube + coaching ingénierie logicielle
+
+- [[kb/Dave-Farley\|Dave Farley]] **dirige** → Modern Software Engineering — 0.98
+- [[kb/_entites-mineures#Equal-Experts,-Transfig,-Octopus-Deploy\|Equal Experts, Transfig, Octopus Deploy]] **sponsorise** → Modern Software Engineering — 0.93
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Monks {#Monks}
 
@@ -4409,6 +4540,14 @@
 - [[kb/_entites-mineures#MIT\|MIT]] **collabore_avec** → Oak Ridge National Laboratory — 0.92
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
+
+### Octopus Deploy {#Octopus-Deploy}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **secteur** : Outil de déploiement CD multi-cloud / on-prem / Kubernetes
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Office of Science and Technology Policy {#Office-of-Science-and-Technology-Policy}
 
@@ -5009,19 +5148,6 @@
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
 
-### Wharton {#Wharton}
-
-**Type** : ORGANISATION | 2 relations | 2 fiches
-
-- **catégorie** : École de commerce universitaire
-- **secteur** : École de commerce, Université de Pennsylvanie
-
-- **a_produit** → [[kb/_entites-mineures#simulation-business-complexe\|simulation business complexe]] (METHODOLOGIE) — 0.90
-
-- [[kb/Ethan-Mollick\|Ethan Mollick]] **est_affilié_à** → Wharton — 0.97
-
-**Fiches** : [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]], [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
-
 ### Wharton GAIL {#Wharton-GAIL}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -5112,6 +5238,14 @@
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]], [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|AI4* - Production Logicielle - IA - Cycle de Vie]]
 
+### commission d'enquête vulnérabilités numériques {#commission-d'enquête-vulnérabilités-numériques}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **catégorie** : Commission d'enquête de l'Assemblée nationale française, présidée par Philippe Latombe (MoDem, Vendée), examine les dépendances numériques de la France
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### communautés Discord/Reddit {#communautés-Discord-Reddit}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5190,7 +5324,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (397)
+## TECHNOLOGIE (399)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7410,6 +7544,16 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
 
+### Mythos {#Mythos}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation
+
+- **est_capable_de** → [[kb/_entites-mineures#découvrir-vulnérabilités-cyber\|découvrir vulnérabilités cyber]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### NANDA {#NANDA}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7710,20 +7854,6 @@
 - **score_différemment_dans** → [[kb/_entites-mineures#Différents-harnais\|Différents harnais]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
-
-### Opus 4.7 {#Opus-4.7}
-
-**Type** : TECHNOLOGIE | 3 relations | 2 fiches
-
-- **capabilité** : Refactor 100k lignes, find zero days — mais jagged sur questions simples
-- **reasoning_effort_défaut** : xhigh (après correction)
-
-- **échoue_sur** → [[kb/_entites-mineures#car-wash-50m-question\|car wash 50m question]] (CONCEPT) — 0.92
-- **** → [[kb/_entites-mineures#48,6%-(+-10,0%)\|48,6% (+-10,0%)]] (AJOUT) — 0.00
-
-- [[kb/_entites-mineures#GPT-5.5\|GPT-5.5]] **** → Opus 4.7 — 0.95
-
-**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### PDM {#PDM}
 
@@ -8896,6 +9026,16 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
 
+### coordinated agents {#coordinated-agents}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Agents IA coopérants utilisés par Spec to Code pour générer code depuis la Super Spec
+
+- [[kb/_entites-mineures#Spec-to-Code\|Spec to Code]] **utilise** → coordinated agents — 0.95
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### cursor.com {#cursor.com}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8981,6 +9121,14 @@
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] **intègre** → git worktrees — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]], [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+
+### html-effectiveness gallery {#html-effectiveness-gallery}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Site exemples de Shihipar (thariqs.github.io/html-effectiveness)
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### interface cerveau-ordinateur {#interface-cerveau-ordinateur}
 
@@ -9303,7 +9451,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (522)
+## CONCEPT (554)
 
 ### "60 000 people, 20 000 of them are AI agents" {#60-000-people,-20-000-of-them-are-AI-agents}
 
@@ -9601,6 +9749,14 @@
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33\% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
 
+### AI Act (UE) {#AI-Act-(UE)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Règlement européen sur l'IA, entrée en vigueur progressive avec une étape majeure en août (probablement 2026) — empilement avec RGPD et text-and-data mining, complexifiant le marché
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### AI Orchestrator {#AI-Orchestrator}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -9652,6 +9808,24 @@
 - [[kb/_entites-mineures#Shawn-Wang\|Shawn Wang]] **recommande** → AI engineering — 0.92
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
+
+### AI jobapalooza {#AI-jobapalooza}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Concept Ng — création de jobs IA et adjacents
+
+- **désigne** → [[kb/_entites-mineures#création-de-jobs-IA-et-adjacents\|création de jobs IA et adjacents]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
+### AI jobpocalypse {#AI-jobpocalypse}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Narration de chômage de masse IA (réfutée par Ng)
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
 
 ### AI lifts underperformers to baseline {#AI-lifts-underperformers-to-baseline}
 
@@ -9765,6 +9939,14 @@
 - **illustre** → [[kb/_entites-mineures#fragmentation-des-sources-de-vérité\|fragmentation des sources de vérité]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
+
+### ASI (Artificial Super Intelligence) {#ASI-(Artificial-Super-Intelligence)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Intelligence dépassant l'humain sur tous les domaines cognitifs
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### Accumulated execution data {#Accumulated-execution-data}
 
@@ -9907,6 +10089,14 @@
 - **définition** : Écrire du code soi-même est devenu un anti-pattern car l'IA produit du code de meilleure qualité que la plupart des ingénieurs
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
+
+### Anti-skill-ification {#Anti-skill-ification}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Refus de figer un pattern contextuel en skill prématurée
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### Apprenticeship model collapse {#Apprenticeship-model-collapse}
 
@@ -10116,6 +10306,14 @@
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
+### Chômage US 4,3% {#Chômage-US-4,3%}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Donnée macro mai 2026 invoquée par Ng
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
 ### Cinq clés systémiques d'adoption {#Cinq-clés-systémiques-d'adoption}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -10247,6 +10445,14 @@
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Article doctrinal d'Addy Osmani (Google) qui pose une distinction fondatrice pour le débat 2026 sur l'IA et la cognition : **Cognitive Offloading** (sain — déléguer le *comment* en gardant le jugement sur les résultats) vs **Cognitive Surrender** (toxique — accepter l'output IA en bloc sans former de raisonnement parallèle, *"borrowing the model's confidence as substitute for personal understanding"*). Étayage scientifique solide : étude **Shaw & Nave (Wharton/UPenn)** sur 1 372 participants — **73% acceptent des réponses IA démontrablement fausses**, confiance qui monte malgré un taux d'erreur de 50%. **MIT *Your Brain on ChatGPT*** — réduction de connectivité neuronale chez les rédacteurs assistés. **Anthropic Skill-Formation** — ingénieurs utilisant l'IA pour générer du code scorent **17% en dessous** sur la compréhension vs ceux qui l'utilisent pour l'enquête conceptuelle. Quatre exemples concrets de surrender (review de PR de 600 lignes sur signaux de surface, debug superficiel, décisions architecturales sans raisonnement, apprentissage dégradé). Cinq heuristiques personnelles (pré-générer ses attentes, review à la junior-engineer-standard, prompting adversarial, fatigue awareness, vérification de la source de confiance). Six garde-fous structurels (verification exit criteria, anti-rationalization tables, **PRs ~100 lignes max**, mode interrogatif > génératif, scaffolded friction, **solo keyboard time régulier**). Deux concepts neufs : ***Comprehension Debt*** (l'écart croissant entre volume total de code et compréhension humaine) et ***Mutual Amplification*** (boucle coopérative prompt-refine vs surrender-delegation). Thèse pivot : ***"the choice between thinking with AI versus not thinking at all remains entirely human"***. Contre-poids structurel et opérationnel à *"coding is solved"* (Cherny 2026-05) et complément analytique à Frizzo (2026-05-05).]]
 
+### Cognitive surrender (réponse) {#Cognitive-surrender-(réponse)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Pratique de rester dans la boucle décisionnelle via lisibilité HTML
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
+
 ### Community of Practice {#Community-of-Practice}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -10358,6 +10564,14 @@
 - **prédit** → [[kb/_entites-mineures#architecture-système-reflète-structure-communication\|architecture système reflète structure communication]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Structure équipes Data & AI - Études de cas Team Topologies - Design organisationnel - Xebia - Arjan van den Heuvel]]
+
+### Corporate messaging {#Corporate-messaging}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Troisième moteur, recadrage overhiring en efficience IA
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
 
 ### Couple journalistique NYT (Sun + Wallace-Wells) {#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)}
 
@@ -10503,6 +10717,14 @@
 - **citation** : "AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real standards."
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
+
+### Diff HTML bruyant {#Diff-HTML-bruyant}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Downside assumé du basculement Markdown → HTML
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### Diffusion marathon {#Diffusion-marathon}
 
@@ -10693,6 +10915,14 @@
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|Tribune Medium d'**Hryhorii Tatsyi** (CTO, **Raiffeisen Bank Ukraine**, ~900 ingénieurs IT) qui rapporte une **étude longitudinale 12 mois** (mai 2025 → avril 2026) sur l'impact réel de l'IA générative dans une grande banque européenne. Thèse-pivot : ***"AI didn't make our engineers just faster. It made them different."*** Contrairement aux retours individuels (Frizzo, Cherny) ou méta (Curran/Intercom), c'est un **bilan organisationnel chiffré côté banque traditionnelle régulée** — corpus encore rare en 2026. Résultats : **−75 personnes (−8% effectif, dont 64 ingénieurs)** sur 12 mois, mais **plus de code livré, moins d'incidents, sécurité améliorée** ; adoption IA **62% → 83%** ; **68% des ingénieurs reçoivent ≥50% de leur code via assistance IA** ; **onboarding nouveaux ingénieurs 60-90 jours → ~40 jours** (cohérent données Anthropic 82→40 jours). Trois archétypes émergents : (1) **Copilot-only** +10-25% sur PRs, même rayon ; (2) **Multi-outils** story-points ×1.5-3, scope cross-repo +50-80% ; (3) **Claude sur stack corporate** volume code ×4.5, scope radicalement élargi. **Sept produits IA construits** qui n'existaient pas avant : Service Knowledge Hub (57 microservices, 83 releases/mois), Mobile Android workflow CI plan/implem/test, AI Agent Portal (2 085 users / 649 MAU en 87 jours, génération MCP via specs OpenAPI), Shift-left Security Plugin (−82% secrets exposés), DevPortal Backstage + agents diagnostics K8s (−68% temps résolution incidents critiques), DRAIF MCP text-to-SQL Data Lake 10 000 tables (embedding fine-tuné 2× OpenAI), Call Evaluation (>97% précision transcription, élu meilleur produit du groupe Raiffeisen). Stabilité : **incidents bloquants −70%, résolution critique −68%, alertes sécurité haute sévérité résolues +155%**. Insight stratégique central : ***"AI expanded our production possibility frontier, and we deliberately allocated the freed capacity"*** — IA ne fait pas plus vite la même chose, elle déplace **ce que l'on peut décider de faire**. Question d'évaluation à reformuler : non pas *"de combien % les KPIs existants ont augmenté"* mais ***"what your engineers built that didn't exist before"***. AI lifte les sous-performants à la baseline plus qu'elle n'accélère les top performers ; les **architectes seniors reviennent au code** après des années d'éloignement. Pertinence majeure pour COMEX banque/assurance/secteurs régulés (Raiffeisen = banque, Ukraine = contexte de guerre + résilience opérationnelle).]]
 
+### GW (gigawatt) {#GW-(gigawatt)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Unité d'investissement infrastructure IA — 1 GW = 50 Md$ sur 5 ans = 20 Md$ tokens/an, ~100 hectares emprise, 50% marge brute fournisseur
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### Garbage collection (code) {#Garbage-collection-(code)}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -10750,6 +10980,17 @@
 - **définition** : Couches fines au-dessus de GPT, sans moat, vulnérables au sherlocking par big tech
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
+### Gentle Singularity {#Gentle-Singularity}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **origine** : Terme attribué à roon (OpenAI), repris par Sam Altman dans essai éponyme (juin 2025)
+
+- [[kb/roon\|roon]] **invente_le_terme** → Gentle Singularity — 0.92
+- [[kb/Sam-Altman\|Sam Altman]] **reprend_le_terme** → Gentle Singularity — 0.88
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### Giant acid vat {#Giant-acid-vat}
 
@@ -11024,6 +11265,22 @@
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
+### Jaggedness des capacités IA {#Jaggedness-des-capacités-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Concept popularisé par Mollick : les capacités IA progressent de manière inégale par domaine, créant des compétences fortes à côté de défaillances grossières
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
+### Joyful artifact {#Joyful-artifact}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Critère émotionnel-pragmatique de choix de format (engagement praticien)
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
+
 ### Judgment per minute {#Judgment-per-minute}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -11110,11 +11367,12 @@
 
 ### Manager d'agents {#Manager-d'agents}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **définition** : Nouveau rôle développeur : orchestrer et calibrer des agents IA spécialisés
 
 - [[kb/_entites-mineures#Développeur\|Développeur]] **devient** → Manager d'agents — 0.95
+- [[kb/_entites-mineures#développeur-logiciel\|développeur logiciel]] **devient** → Manager d'agents — 0.95
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]], [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
@@ -11313,6 +11571,14 @@
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
+### Overhiring pandémique 2020-2022 {#Overhiring-pandémique-2020-2022}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Phénomène recadré en "efficience IA" lors des layoffs
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
 ### Painted Doors Problem {#Painted-Doors-Problem}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -11431,6 +11697,22 @@
 - **description** : Refus simultané des narratifs "AI is bad" et "uncritical enthusiasm" ; tensions non résolues plutôt que conclusions ; gains réels + coûts réels
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|Tribune LinkedIn d'Alexandre Frizzo après un an d'utilisation quotidienne de Claude Code, qui pose un **bilan nuancé** rare dans le corpus 2026 — productivité **multipliée par 3-5×** dans son cas (cohérent Wescale, et conforme à la médiane des praticiens committés ; le tail élite va beaucoup plus haut, cf. Cherny *few dozen PRs/day + 150 PRs record* et Karpathy *"peaks much higher than 10×"*), mais **coûts cognitifs cachés** assumés. Thèse-pivot : ***"the new bottleneck is supervision"*** — le métier a changé de forme, on ne *écrit* plus du code, on *décide* à propos du code généré par les agents. Gains : 3-5× output, projets précédemment infaisables désormais réalisables (yak-shaving, boilerplate), coût quasi nul de l'expérimentation. Pertes assumées : ***"writing muscle"*** atrophié (le code manuel semble *effortful*), **flow state profond rare** (context-switching constant entre supervisions), **satisfaction d'ownership diminuée** (*"code is good, but isn't quite mine"*). Tensions non résolues : **FOMO** (*"every hour I'm not at the keyboard is an hour an agent could be earning for me"*), **review quality** à 3-5× volume, **skill atrophy**. Statistiques mobilisées : médiane 3-4h coding effective sur 8h jour, **23 min** récupération contexte par interruption (étude Gloria Mark), 15-25 min entrée en flow, 500% productivité en flow (McKinsey). Position épistémique exemplaire : refuse simultanément le narratif *"AI is bad"* et l'enthousiasme acritique. Contre-poids salutaire à Cherny *"coding is solved"* (2026-05).]]
+
+### Pricing power ancré salaires {#Pricing-power-ancré-salaires}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Deuxième moteur narratif jobpocalypse (Ng), $10 000+/an
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
+### Problème hayékien {#Problème-hayékien}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **origine** : Friedrich Hayek, *The Use of Knowledge in Society* (1945) — l'information utile dans une organisation est tacite et distribuée
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### Product Engineer {#Product-Engineer}
 
@@ -11787,6 +12069,14 @@
 
 **Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|**Matt Kamelman** publie sur le **blog Thoughtworks** le **3 décembre 2025** un article-pivot conceptuel qui formalise la bascule économique majeure des services intellectuels : ***"Service-as-Software" (SaS)*** comme **nouveau modèle économique** succédant au **SaaS**. **Distinction-pivot** : ***"Traditional SaaS is about tools: software that enables humans to solve problems. Service-as-Software (SaS), meanwhile, sells outcomes."*** SaS est *"a new class of tool that doesn't just enable work but instead automates the reasoning process itself"*. **Bascule pricing** : ***"Companies will no longer pay for an agent based on seats or features. Instead they'll pay based on its demonstrated alignment and impact."*** **Trois exemples-types d'agents SaS** : marketing agents (campagnes end-to-end), financial agents (modélisation des prévisions), operations agents (triage des demandes). **Trois capacités** des systèmes agentic SaS : (1) opérer dynamiquement sur des **goals**, pas des fixed workflows ; (2) retenir la **mémoire** à travers les interactions ; (3) coordonner autonomement à travers tools et APIs. **Le "Cognitive Contract" — trois principes** : (1) **Interpretable and auditable** — *"users need to be able to understand why the system made a decision"* ; (2) **Aligned with human goals** — *"the system's objectives must match human intent and ethical boundaries"* ; (3) **Trained and iterated in real time** — *"systems continuously refine behavior based on feedback"*. **Nouveau rôle organisationnel** : le ***"cognitive orchestrator"***, avec trois fonctions opérationnelles : (a) **feedback loop design** (examiner étape par étape) ; (b) **managing uncertainty with guardrails** (règles métier + circuit breakers) ; (c) **measuring alignment** (score d'alignement quantifiable). **Analogie historique structurante** : *"mainframes → client-server → web/cloud, where the cognitive contract remained the same: humans had to instruct the machine"* ; aujourd'hui ce contrat **évolue vers la collaboration** humain-machine. **Pertinence majeure** : c'est la **formalisation conceptuelle anglo-saxonne** la plus claire de la bascule **billable hours / per-seat → outcome-based** observée empiriquement chez **McKinsey/Sternfels** (60 000 = 40 000 humains + 20 000 agents, janvier 2026), **VoxComm/Mandese** (mars 2026, agences), **Bain Rule of 40** (avril 2026, SaaS), **Bain cross-system labor 100 Md$** (mai 2026). Le terme ***"Service-as-Software"*** est destiné à devenir **canonique** comme l'a été *"Software-as-a-Service"* dans les années 2000-2010. À mobiliser pour **vocabulaire stratégique 2026** dans présentations COMEX, business cases agentic, modèles de pricing.]]
 
+### Service-as-Software (version pricing) {#Service-as-Software-(version-pricing)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Glissement tarifaire — ancrage salaires plutôt que SaaS
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
 ### Shadow AI {#Shadow-AI}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -11919,6 +12209,19 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Synthèse par Addy Osmani (Google, Chrome/Cloud) du champ émergent du *harness engineering* : équation `agent = model + harness`, principe du *ratchet* ("chaque erreur devient une règle"), reframe HumanLayer "skill issue", preuves Terminal Bench (Top 30 → Top 5 par seul changement de harnais), architecture Claude Code en couches, vision Anthropic "harnesses don't shrink, they move" et Harness-as-a-Service (Claude Agent SDK, Codex SDK, OpenAI Agents SDK). Article-pivot qui consolide Trivedy, HumanLayer, Anthropic et Böckeler en doctrine.]]
 
+### Super Spec {#Super-Spec}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Spécification dynamique unifiée (architecture + workflows + sécurité + données + UX) servant de source of truth, mise à jour automatiquement en production
+
+- **unifie** → [[kb/_entites-mineures#architecture-+-workflows-+-sécurité-+-données-+-UX\|architecture + workflows + sécurité + données + UX]] (CONCEPT) — 0.97
+
+- [[kb/AI-works™\|AI/works™]] **utilise** → Super Spec — 0.98
+- [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] **met_à_jour** → Super Spec — 0.96
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### Supermanager {#Supermanager}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -11973,6 +12276,16 @@
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Podcast Greg Isenberg × Meng To (designer, fondateur Design+Code, créateur des produits Aura / New Form / Dream Cut) sur **`design.md`** — la convention open-source de Google, équivalente à `agents.md` / `skills.md` / `soul.md` mais **pour la design system** (typographie, couleurs, spacing, WebGL/Three.js animations, règles de reveal). Idée centrale : porter "l'**âme du design**" dans un fichier markdown qui se transmet à un agent (Claude Code, Codex, OpenClaude, Gemini, Stitch, Aura, V0, Lovable, Cursor) pour préserver la **cohérence cross-medium** (web, mobile, slides Replit, motion design Hyperframes/Remotion). Triade enseignée : **HTML = plat fini, design.md = recette, skills = ingrédients** (skills typo, lasers, skeuomorphic, 3D — 63 dans New Form). Diagnostic majeur : **design drift** sur les workflows one-shot (`v0`, Lovable, Framer) qui démarrent forts puis dérivent en générique. Méta-message : la *taste* est le seul **moat** restant — *"si une chose ressemble à une autre, sa valeur baisse de 10× à 100×"*. Workflow : **Reference → Design.md → Generate → Inspect → Systemize → Iterate (jusqu'à 1000+ prompts) → Remix → Expand → Export**. Critique des **purple gradients** ("you just run") = baseline générique post-vibe-coding. Meng To revendique avoir dépensé ~500 000 $ en tokens, fait 1000–10 000 itérations par produit, gère 4 produits en parallèle en solo.]]
 
+### Tech incentives {#Tech-incentives}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Premier moteur narratif jobpocalypse (Ng)
+
+- **drivent** → [[kb/_entites-mineures#narration-transformative-disruptive-des-labs\|narration transformative-disruptive des labs]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
+
 ### Tension DORA-prescriptif vs McKinsey-descriptif {#Tension-DORA-prescriptif-vs-McKinsey-descriptif}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -12006,6 +12319,14 @@
 - **provoque** → [[kb/_entites-mineures#crise-de-sens\|crise de sens]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+
+### Theory of Constraints {#Theory-of-Constraints}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **application** : L'IA accélère une étape qui n'était pas le bottleneck, donc déplace le problème ailleurs
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Tier 1 Constitution {#Tier-1-Constitution}
 
@@ -12131,6 +12452,14 @@
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development]]
 
+### Unreasonable effectiveness {#Unreasonable-effectiveness}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **catégorie** : Lignée rhétorique Wigner-Karpathy appliquée à HTML pour agents
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
+
 ### Usage Statistics {#Usage-Statistics}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -12184,6 +12513,22 @@
 - **définition** : Concept Bonacci : épuisement non par le travail mais par sa gestion. 6 worktrees, 4 features à moitié, 2 quick fixes en rabbit holes
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]]
+
+### Vision East Coast (IA) {#Vision-East-Coast-(IA)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Position épistémique : transformation lente, fragmentée, médiée par les humains, contrainte par la *jaggedness* des capacités et la complexité organisationnelle
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
+### Vision West Coast (IA) {#Vision-West-Coast-(IA)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : Position épistémique : automatisation massive et rapide dès que les capacités atteignent un seuil ; singularité plus ou moins abrupte
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
 
 ### Warning shots (AI populism) {#Warning-shots-(AI-populism)}
 
@@ -12589,6 +12934,14 @@
 - **repose_sur** → [[kb/_entites-mineures#augmentation-plutôt-que-remplacement\|augmentation plutôt que remplacement]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
+
+### commande publique 50% PIB EU {#commande-publique-50%-PIB-EU}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Levier stratégique sous-utilisé en Europe — utilisé massivement par US (depuis 1940) et Chine pour faire émerger leurs champions industriels
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### commerce conversationnel {#commerce-conversationnel}
 
@@ -13034,6 +13387,14 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Structure équipes Data & AI - Études de cas Team Topologies - Design organisationnel - Xebia - Arjan van den Heuvel]]
 
+### end-to-end lineage {#end-to-end-lineage}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Traçabilité complète des décisions et actions des agents IA pour audit et compliance
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### environnement brownfield {#environnement-brownfield}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -13083,6 +13444,14 @@
 - [[kb/_entites-mineures#orchestration-de-bots\|orchestration de bots]] **requiert** → fondamentaux de programmation — 0.95
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage]]
+
+### fonds de pension Europe (absence) {#fonds-de-pension-Europe-(absence)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### gestion des coûts LLM {#gestion-des-coûts-LLM}
 
@@ -13256,6 +13625,14 @@
 - **contraint** → [[kb/_entites-mineures#budgets-marketing-2026\|budgets marketing 2026]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google - Demand-led marketing - Budget 2026 - Marketing strategy - Data-driven - Google insights - CMO guidance]]
+
+### industrial-grade systems {#industrial-grade-systems}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Systèmes de qualité industrielle, slogan "grow up instead of grow old", livrés en 3 mois via 3-3-3
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### industrie du conseil en management {#industrie-du-conseil-en-management}
 
@@ -13516,6 +13893,14 @@
 - [[kb/Justin-McCarthy\|Justin McCarthy]] **recommande** → naïveté délibérée — 0.87
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
+
+### no consultant crowds {#no-consultant-crowds}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Anti-positioning explicite vs grands intégrateurs (Accenture, Capgemini, TCS, etc.) — modèle technologists + plateforme vs bodies-on-seats
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### non-déterminisme {#non-déterminisme}
 
@@ -13801,6 +14186,14 @@
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 
+### ressource naturelle (métaphore Mensch) {#ressource-naturelle-(métaphore-Mensch)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cadre conceptuel de Mensch : l'IA est une ressource naturelle (électricité → tokens), le datacenter est une mine, le token est une commodité — justifie politique industrielle lourde
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### risque carrière {#risque-carrière}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14085,6 +14478,27 @@
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 
+### token {#token}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Unité économique de l'IA générative — chiffre entre 0 et ~65000 représentant quelques lettres, pixels ou son. 1 token ≈ une syllabe. 100 tokens ≈ une ligne de code
+
+- **est** → [[kb/_entites-mineures#unité-économique-de-l'intelligence-artificielle\|unité économique de l'intelligence artificielle]] (CONCEPT) — 0.97
+- **** → [[kb/_entites-mineures#heure-comme-unite-de-facturation\|heure comme unite de facturation]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
+### token blowout {#token-blowout}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Explosion des coûts compute due à des appels LLM mal gérés — équivalent du Token Burning chez Wescale
+
+- [[kb/AI-works™\|AI/works™]] **évite** → token blowout — 0.93
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### traces {#traces}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14213,6 +14627,14 @@
 
 **Fiches** : [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding vs Vibe Coding - Kent Beck - B+ Tree - GenAI - TDD - Rust Python - Substack]]
 
+### État vassal (avertissement Mensch) {#État-vassal-(avertissement-Mensch)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : État dépendant à 100% des services numériques étrangers, sans levier de négociation, sans capacité de production souveraine — risque européen sur 2-5 ans selon Mensch
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### Étoile de Winston {#Étoile-de-Winston}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -14273,7 +14695,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (192)
+## METHODOLOGIE (212)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -14290,6 +14712,16 @@
 - **description** : Modern work methodology Intercom — annoncée mais détails réservés à un post suivant
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|Update public de Darragh Curran (R&D Intercom) neuf mois après son engagement de doubler la productivité R&D en 12 mois grâce à l'IA. Résultat : **3× atteint en 16 mois, sans signe de plateau**. Données quantifiées d'une R&D de 500 personnes / 8,5M lignes de code : **93,6% des PRs sont agent-driven**, **19,2% AI-approved** (cible >50%), coût/PR **-50%**, defect backlog **-54%**, time-to-shipping **-39%**, downtime des breaking changes **-35%**, top 5% des performers à **6× le median PR throughput**, **497 PRs autonomes** dans les 4 premières semaines, **153 contributeurs / 267 skills spécialisés** dans une *Skills-Based Plugin Architecture* privée. Curran décrète ***"All technical work is becoming agent-first. This is the top priority for R&D."*** Article-pivot du dossier *agent-first organization*, comparable seulement à Stripe Minions et StrongDM dans le corpus 2026.]]
+
+### 3-3-3 methodology {#3-3-3-methodology}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : 3 jours product concept → 3 semaines prototype (desirability/viability/feasibility) → 3 mois MVP en production
+
+- **livre** → [[kb/_entites-mineures#MVP-en-3-mois\|MVP en 3 mois]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### 4 stratégies AI transformation CHRO {#4-stratégies-AI-transformation-CHRO}
 
@@ -14338,6 +14770,14 @@
 - **détail** : Question précise → raw signals → Tension Map → analyse IA → stress-test → décisions → updatable market model
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|Article-méthode d'Alex Pawlowski (The Strategy Stack, #151, 30 mars 2026) qui propose un déplacement épistémique majeur de la *market research* : ne plus collecter des rapports statiques mais maintenir une ***living decision surface*** — un modèle évoluant en continu des dynamiques de marché. Contribution centrale : la **Tension Map**, qui cartographie *contradictions et points de pression* (écarts entre attente et délivrance, prix toléré sans être embrassé, incumbents sans résonance émotionnelle) plutôt que parts de marché. Outillage en trois modes (Discovery / Tension / Decision), workflow en 7 étapes, et stack outils orchestré (Perplexity pour expansion → Claude pour profondeur/continuité → ChatGPT pour itération → Multi-agent pour challenge). Référence implicite : la méthode *Analysis of Competing Hypotheses* de Richards Heuer (CIA).]]
+
+### ACV ADEME Mistral {#ACV-ADEME-Mistral}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Analyse du Cycle de Vie des modèles Mistral réalisée avec l'ADEME — première dans l'IA — refonte prévue sur nouveaux modèles, anti-compensation carbone
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -14421,6 +14861,14 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse frameworks narratifs et prompts pour formats de talks]]
 
+### ATDD (Acceptance Test-Driven Development) {#ATDD-(Acceptance-Test-Driven-Development)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Spécification exécutable au niveau acceptance, recommandée par Farley pour cadrer les agents IA
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+
 ### Activation capping {#Activation-capping}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -14480,6 +14928,14 @@
 - **niveau** : Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
+
+### BDD (Behavior-Driven Development) {#BDD-(Behavior-Driven-Development)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Spécification + critères d'évaluation co-définis — *self-verifying specification*
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Blueprints {#Blueprints}
 
@@ -14551,6 +15007,14 @@
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|Article méthode d'Antoine HABERT (WEnvision) qui formalise **PROJ-AI** : couche méthodologique légère pour que les projets collectifs deviennent transmissibles plutôt que de mourir avec leur livrable. Triade structurante : un **repo git versionné** (source unique), un **agent IA** (Claude Code, Cursor) qui lit la doctrine à chaque session, et une **doctrine en markdown** qui spécifie les protocoles de décision et les comportements d'agent. Six zones répertoires (DOCS/, IDEAS/, DR/, OUT/, DOCTRINE/, AGENT/), cycle opérationnel **DPEV** (Décider → Promettre → Exécuter → Vérifier), Decision Records scorés sur 7 dimensions, double interface (Studio métier + CLI/IDE tech), cinq directives agent, et bibliothèque partagée **proj-ai-commons** qui permet de bootstrap un projet en 30 minutes vs 1 semaine. Métriques sur 3 missions : onboarding **3 semaines → 2 jours**, décisions structurelles tracées **30% → 100%**, compilation archi **6 semaines → continu**. Aphorisme central : ***"Le projet n'est pas un sous-produit du livrable. Le projet EST le livrable."*** Posture explicite : technologie 20%, **discipline d'équipe 80%**.]]
 
+### Cloud Development Act + package Souveraineté {#Cloud-Development-Act-+-package-Souveraineté}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Projets réglementaires européens en cours visant à définir le cloud souverain et la préférence européenne dans la commande publique
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### Context engineering {#Context-engineering}
 
 **Type** : METHODOLOGIE | 7 relations | 2 fiches
@@ -14569,6 +15033,19 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]], [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]
 
+### Continuous Delivery {#Continuous-Delivery}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Working so that software is always in a releasable state
+
+- **est_définie_comme** → [[kb/_entites-mineures#«-working-so-that-software-is-always-in-a-releasable-state-»\|« working so that software is always in a releasable state »]] (CONCEPT) — 0.97
+- **est_condition_de** → [[kb/_entites-mineures#développement-assisté-par-IA-réussi\|développement assisté par IA réussi]] (CONCEPT) — 0.95
+
+- [[kb/Vibe-Coding\|Vibe coding]] **s_oppose_à** → Continuous Delivery — 0.88
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+
 ### Contribution Stack {#Contribution-Stack}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -14580,6 +15057,17 @@
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] **propose** → Contribution Stack — 0.98
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+
+### Control Plane {#Control-Plane}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Orchestration + gouvernance des agents IA — cost transparency, active guardrails, end-to-end lineage
+
+- **orchestre** → [[kb/_entites-mineures#AI-agents\|AI agents]] (TECHNOLOGIE) — 0.96
+- **fournit** → [[kb/_entites-mineures#cost-transparency-+-active-guardrails-+-end-to-end-lineage\|cost transparency + active guardrails + end-to-end lineage]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Corpus persistence {#Corpus-persistence}
 
@@ -14678,6 +15166,14 @@
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
 
+### Design system HTML de référence {#Design-system-HTML-de-référence}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Fichier HTML unique servant de blueprint stylistique inter-fichiers
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
+
 ### DevOps {#DevOps}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -14687,6 +15183,14 @@
 - [[kb/_entites-mineures#CDLC\|CDLC]] **s_inspire_de** → DevOps — 0.92
 
 **Fiches** : [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|Context Development Lifecycle (CDLC) — cycle d'ingénierie du contexte pour agents de codage IA]]
+
+### Developer Experience {#Developer-Experience}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Dilemma Tale {#Dilemma-Tale}
 
@@ -14713,6 +15217,14 @@
 - [[kb/ACE\|ACE]] **est_basé_sur** → Dynamic Cheatsheet — 0.95
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
+
+### Dynamic Spec Development {#Dynamic-Spec-Development}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Conversion raw requirements → Super Spec unifiée
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Dynamic org design {#Dynamic-org-design}
 
@@ -14778,6 +15290,14 @@
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|Brief Bain & Company **avril 2026** (David Lipman, Greg Callahan, Daniel Goetz, George Sunderland — partie 1/5 de la série *"software industry in the age of AI"*) qui analyse l'impact de l'IA sur la **Rule of 40** (métrique canonique SaaS : *growth rate + profit margin ≥ 40%*) et conclut à une **double pression** : **headwinds** (croissance marché qui ralentit + coûts AI infrastructure massifs) et **tailwinds** (productivité IA + transformation 10-25% EBITDA + outcome-based pricing). **Donnée centrale qui choque** : un cas client *marketing technology* — **coûts AI multipliés par 3,49 (+349%) tandis que revenue n'a augmenté que de 38%** sur un an. **Thèse-pivot** : les SaaS leaders pourraient devoir ***"settle for the Rule of 30"*** temporairement pour rester compétitifs face aux **AI-natives**, en acceptant une compression de marge court terme contre un positionnement long terme. **Deux paths forward explicites** : (1) ***Financialize*** — minimiser AI investment, optimiser cash, opérer comme *"durable generator"* mais limite future growth ; (2) ***Invest to Grow*** — accepter pression marge court terme, réinvestir agressivement dans capabilities AI sur produit et operations. **Tailwinds détaillés** : productivité sales/marketing/R&D, transformations réussies = **+10-25% EBITDA**, opportunité future *outcome-based pricing* (revenue déplacé du fixed seats vers labor/operations economics), incumbents peuvent leverager customer relationships et embedded workflows contre AI-native challengers. **Headwinds détaillés** : *"software penetration is topping out in some areas"* (saturation marché), AI infrastructure + inference + model access introduisent **variable costs significatifs dans des businesses historiquement à hautes marges**. **Signal CFO/board** : la Rule of 40 elle-même comme **norme stable** est en train de basculer ; certains acteurs vont temporairement sortir de cette norme et **c'est rationnel stratégiquement**. **Pertinence majeure** pour CFO/CEO/board SaaS B2B et investisseurs PE/VC software évaluant portefeuille — premier benchmarking institutionnel chiffré du dilemme *protect margins / invest aggressively* en 2026. À articuler avec : Bain **part 2/5 cross-system labor 100 Md$** (2026-05), DORA ROI 2026 (cadre financier), Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen (banque −75 personnes), Curran/Intercom (3× R&D 16 mois), Menlo Ventures *State of Generative AI Enterprise* (2025-12-09).]]
 
+### Forward Deployed Engineering (FDE) {#Forward-Deployed-Engineering-(FDE)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Équipes d'ingénieurs déployés chez le client pour intégrer / customiser les modèles IA. Originellement Palantir, adopté par OpenAI, Anthropic, autres labos frontaliers
+
+**Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|Test de cohérence d'Ethan Mollick (Wharton) : on saura que les labos d'IA croient vraiment à l'ASI le jour où ils dissoudront leurs équipes *Forward Deployed Engineering* (FDE). Débat public avec roon (OpenAI) sur LinkedIn : roon objecte que c'est un **problème hayékien** (l'intelligence ne résout pas automatiquement le flux d'information organisationnel) et reprend le terme « **Gentle singularity** ». Consensus dans les commentaires : la technologie est la partie facile, la politique interne / les workflows legacy / la responsabilité contractuelle sont le vrai blocage. Formule-marqueur : *"Curing cancer might be easier than replacing Accenture"*. Opposition épistémique **East Coast vs West Coast** sur la trajectoire d'adoption de l'IA.]]
+
 ### Framework 4 quadrants {#Framework-4-quadrants}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -14841,6 +15361,14 @@
 - **constitue** → [[kb/_entites-mineures#barrière-à-l'entrée-réelle\|barrière à l'entrée réelle]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
+
+### HTML (format de sortie agent) {#HTML-(format-de-sortie-agent)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs)
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
 
 ### Hiring refactoring par projets adversariels {#Hiring-refactoring-par-projets-adversariels}
 
@@ -15223,6 +15751,14 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 
+### Reverse Engineering with AI/works™ {#Reverse-Engineering-with-AI-works™}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Ingestion legacy codebases → reconstruction business logic → génération validated as-is specifications
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### Roadmap CapEx → OpEx {#Roadmap-CapEx-→-OpEx}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -15230,6 +15766,17 @@
 - **définition** : Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency)
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|Rapport conjoint **DORA × delta** (Google Cloud Professional Services), 60 pages, version **v. 2026.1** (citations février 2026, PDF créé 21 avril 2026), licence **CC BY-NC-SA 4.0** — premier framework officiel **DORA ROI** dédié à l'IA dans le SDLC, avec **calculateur interactif** sur dora.dev/ai/roi/calculator. Thèse-pivot : ***"AI is an amplifier"*** — l'IA **amplifie** simultanément les forces des organisations performantes et les dysfonctionnements des organisations en difficulté ; elle ne crée pas la performance, elle la **multiplie là où elle existe déjà**. Concept central nouveau : la ***J-Curve of AI value realization*** — toute adoption IA passe par un **creux de productivité temporaire** (learning curve + verification tax + pipeline adaptation) avant la **croissance exponentielle**, métaphore du *"tuition cost of transformation"* à **budgéter explicitement**. Calcul de référence : organisation 500 FTE / salaire chargé 176 k$ / 12,5% time saved per developer (≈ 1h/8h jour) → **valeur 11,6 M$ / investissement 8,4 M$ / ROI 39% / payback period 8 mois (0,7 année)**. Coûts modélisés : licences (250 $/user/an), API additionnels (80 $/user/an), training (9 600 $/user/an), infra (100 k$/an), J-Curve cost (3,3 M$ pour 15% drop sur 3 mois). Valeur modélisée : **headcount reinvestment capacity** (11 M$ — capacité libérée à réinvestir, **PAS réduction d'effectif**), revenue from extra feature deployments (990 k$, basé sur idea success rate 33\% Larsen 2023), **downtime impact négatif** (−344 k$, "instability tax"). **Stratégie reinvestissement explicite** : ***"we strongly recommend organizations do not adopt a headcount-reduction strategy"*** — réinvestir dans innovation, retenir les talents, capitaliser sur le knowledge institutionnel. Cinq piliers de valeur : Productivity / User Experience / Cost Efficiency / Developer Experience / Business Growth (du plus direct au plus indirect, *cumulated business value*). Cinq clés systémiques d'adoption : **Trust + Platform + Data + Users + Guardrails**. Roadmap 2 phases : (1) **Build context layer (CapEx)** — IDP qualité + healthy data ecosystems ; (2) **Empower human in loop (OpEx)** — context engineering + trust in AI. Indicateurs : leading = experiment frequency + deployment frequency ; stability gauge = change failure rate + rework. Trois scénarios à modéliser (Conservative 0.8 value × 1.5 cost / Realistic 1.0 / Optimistic 1.2 × 0.8). Données externes mobilisées : 78% executives ROI sur ≥ 1 use case gen AI (Google Cloud), 88% early adopters agentic AI ROI positif, **35-40% productivity greenfield vs ≤10% brownfield/legacy** (Stanford), inference cost ÷280 entre nov 2022 et oct 2024 (Stanford AI Index 2025), **727% ROI sur 3 ans** Google Cloud AI customers, payback moyen **8 mois** marché AI. Points faibles assumés : *"all models are wrong"* — modèle à contextualiser, calculatrice à ajuster ; risque de double-count value (time saved → both avoided hire AND extra revenue) ; user experience link "loose" donc exclu du calculator. **Insight déontologique** : ***"We don't measure AI by the code it writes but by the bottlenecks it clears"*** — mesure par bottlenecks levés, pas par volume de code. **Pertinence majeure** pour CIO/CTO devant construire un business case IA défendable face à un CFO/board ; pour la France/Europe, à articuler avec Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen Bank Ukraine (case study banque −75 personnes mais réinvestissement délibéré), Frizzo (3-5× médiane), Curran/Intercom (3× R&D 16 mois), DORA Report 2025 (sur lequel ce ROI s'appuie).]]
+
+### Runtime Ops {#Runtime-Ops}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté
+
+- **met_à_jour** → [[kb/_entites-mineures#Super-Spec\|Super Spec]] (CONCEPT) — 0.96
+- **régénère** → [[kb/_entites-mineures#code-impacté\|code impacté]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### Règle 10/20/70 {#Règle-10-20-70}
 
@@ -15338,6 +15885,17 @@
 
 **Fiches** : [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 
+### Spec to Code {#Spec-to-Code}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Génération high-fidelity testable code via coordinated agents depuis la Super Spec
+
+- **génère** → [[kb/_entites-mineures#code-testable\|code testable]] (CONCEPT) — 0.95
+- **utilise** → [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
+
 ### Spec-driven development {#Spec-driven-development}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -15445,6 +16003,16 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Planification vs Vibe Coding - Compounding Engineering - Three Fidelities - AI Agents - Cora Email Bankruptcy - Plans teach systems - Every Source Code]]
 
+### Throwaway HTML editor {#Throwaway-HTML-editor}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Éditeur single-file purpose-built pour une donnée, finissant par export structuré
+
+- **termine_par** → [[kb/_entites-mineures#export-copy-as-JSON-markdown-prompt\|export copy as JSON / markdown / prompt]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Article-manifeste de **Thariq Shihipar** (Engineer & serial entrepreneur, équipe Claude Code chez Anthropic) qui annonce un **changement de format de sortie par défaut pour les agents** : remplacer **Markdown par HTML**. Thèse : Markdown a été le format dominant entre humains et agents (simple, portable, éditable, lisible) mais est devenu **un goulot d'étranglement** à mesure que les agents produisent des artefacts plus longs et plus riches (specs, plans, rapports, code review). Au-delà de ~100 lignes, plus personne ne lit un fichier Markdown. HTML résout six limites simultanément : **densité d'information** (tableaux, CSS, SVG, scripts, canvas, images), **clarté visuelle** (mise en page navigable, responsive mobile), **facilité de partage** (lien S3 directement ouvrable dans un navigateur), **interactivité bidirectionnelle** (sliders, knobs, boutons "copy as JSON/prompt" pour reboucler vers Claude Code), **ingestion contextuelle native** (Claude Code lit codebase + MCP Slack/Linear + git history + Chrome) et **plaisir** (l'auteur revendique explicitement *"it's joyful"*). Cinq usages canoniques détaillés : (1) **specs/plans/exploration** en grille comparative, (2) **PR review** avec diff annoté inline, (3) **design & prototypes** avec sliders d'animation, (4) **rapports/recherche/learning** (l'auteur a fait générer un explainer prompt caching depuis l'historique git), (5) **éditeurs jetables custom** (drag-and-drop de tickets Linear, éditeurs de feature flags, prompt-tuner side-by-side) qui produisent un export "copy as markdown/diff/JSON" reréinjectable. Anti-pattern explicite : *"I'm a little bit afraid that people will read this article and turn it into a /html skill"* — l'auteur **refuse la skill-ification prématurée**, recommande de prompter from scratch ("make a HTML file"). FAQ pragmatique : coût tokens absorbé par les 1 MM context de **Opus 4.7**, génération 2-4× plus longue, diffs HTML bruyants (downside réel), style maîtrisé via design system HTML de référence.]]
+
 ### Tidy First {#Tidy-First}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -15518,6 +16086,14 @@
 - **réduit** → [[kb/_entites-mineures#pression-d'escalation\|pression d'escalation]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Pourquoi les équipes n'escaladent pas les problèmes, barrières organisationnelles, pression surengagement, risques carrière, actions leaders - John Cutler LinkedIn]]
+
+### Walking skeleton {#Walking-skeleton}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **usage** : Squelette déployable bâti avant les features pour avoir une cible de pipeline
+
+**Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
 
 ### Wardley Map {#Wardley-Map}
 
@@ -15718,6 +16294,14 @@
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]
 
+### distillation (Mensch) {#distillation-(Mensch)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### distillation de compétences {#distillation-de-compétences}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -15816,6 +16400,14 @@
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] **intègre** → git worktrees — 0.95
 
 **Fiches** : [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
+
+### governed golden paths {#governed-golden-paths}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP)
+
+**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|Lancement de **AI/works™**, **plateforme de développement agentique** revendiquée par **Thoughtworks** comme *"le nouveau standard pour construire et faire tourner des systèmes industriels à l'ère de l'IA"*. Le pitch fondamental est **économique** : *"le vieux modèle te faisait payer des millions pour construire, faire tourner, puis re-payer pour reconstruire — AI/works™ met fin à cette routine"*. La plateforme couvre **tout le SDLC** autour d'une notion centrale, la ***Super Spec*** (spécification dynamique unifiée couvrant architecture, workflows, sécurité, données, UX), avec **six capacités** : Reverse Engineering (legacy → specs as-is), Dynamic Spec Development (raw requirements → Super Spec), Spec to Code (agents coordonnés générant code testable), Developer Experience (golden paths gouvernés), Control Plane (orchestration agents avec cost transparency, guardrails actifs, end-to-end lineage), Runtime Ops (monitoring continu détectant les changements, mettant à jour la Super Spec, régénérant le code impacté). Méthodologie **3-3-3** : 3 jours pour aligner le concept produit, 3 semaines pour le prototype (desirability/viability/feasibility), 3 mois pour MVP en production. Reconnaissance **Constellation Research** : *"changing the economics of enterprise software delivery"* via une approche *"spec-driven, lifecycle"*. Slogan ouverture : ***"We are doing it again for the AI era"*** — invoquant l'héritage XP/CI-CD/microservices de Thoughtworks. Positionnement anti-hype : *"stands on an engineering foundation rather than enthusiasm"*, *"no consultant crowds"*, *"finance can open the bill without switching on emergency lighting"*. Partenaires affichés : AWS, GCP, Azure, Databricks, Snowflake + Claude, OpenAI, DeepSeek, Gemini, Grok + NVIDIA, Groq, Stripe, Spotify, CAST, Cyn DX, Mechanical Orchard.]]
 
 ### ingénierie composable {#ingénierie-composable}
 
@@ -16059,6 +16651,14 @@
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]]
 
+### souveraineté comme levier {#souveraineté-comme-levier}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Doctrine Mensch : ne pas penser souveraineté comme isolationnisme mais comme capacité d'avoir des cartes à jouer dans la négociation commerciale et géopolitique
+
+**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
 ### spec coding {#spec-coding}
 
 **Type** : METHODOLOGIE | 3 relations | 1 fiches
@@ -16182,7 +16782,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## EVENEMENT (67)
+## EVENEMENT (68)
 
 ### 100% adoption juridique {#100%-adoption-juridique}
 
@@ -16672,13 +17272,22 @@
 
 ### The Batch {#The-Batch}
 
-**Type** : EVENEMENT | 1 relations | 1 fiches
+**Type** : EVENEMENT | 2 relations | 1 fiches
 
 - **type** : Newsletter hebdomadaire IA, numéro 350
 
 - **publie** → [[kb/_entites-mineures#numéro-350\|numéro 350]] (EVENEMENT) — 0.99
+- **publie** → [[kb/_entites-mineures#numéro-352-le-8-mai-2026\|numéro 352 le 8 mai 2026]] (EVENEMENT) — 0.99
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
+### The Batch n°352 {#The-Batch-n°352}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **type** : Newsletter hebdomadaire IA, 8 mai 2026
+
+**Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
 
 ### Thoughtworks Future of Software Development Retreat {#Thoughtworks-Future-of-Software-Development-Retreat}
 
