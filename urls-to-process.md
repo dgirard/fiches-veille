@@ -196,3 +196,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://www.mediapost.com/publications/article/413193/billable-hours-are-dead-ai-killed-them-heres-ho.html (fiche consolidée avec VoxComm rapport — Joe Mandese MediaPost 3 mars 2026, "billable hours are dead, AI killed them", marges 30%→10%, 4-shift framework)
 -->
 
+
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM&urlhash=OJFA&mt=F73ZezkHbKWSWuwkrCx_SvxOyPAVqmiIfk6Y-opsv8OFsSruP9_z5GoLjTTBN2Be4Efi2Rx-BjXYljscKIjn5b_KmrTFtt-nLr9pLgc5J864ZEnX35Rzsw&isSdui=true
