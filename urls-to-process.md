@@ -198,3 +198,5 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 
 
 https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM&urlhash=OJFA&mt=F73ZezkHbKWSWuwkrCx_SvxOyPAVqmiIfk6Y-opsv8OFsSruP9_z5GoLjTTBN2Be4Efi2Rx-BjXYljscKIjn5b_KmrTFtt-nLr9pLgc5J864ZEnX35Rzsw&isSdui=true
+
+https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/
