@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comment fonctionne vraiment l'algorithme X en 2026 — slides</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      fontFamily: "'Space Grotesk', sans-serif",
+      primaryColor: '#f9f9f9',
+      primaryTextColor: '#111111',
+      primaryBorderColor: '#111111',
+      lineColor: '#805000',
+      mainBkg: '#f9f9f9',
+      nodeBorder: '#111111',
+      clusterBkg: '#ffffff',
+      clusterBorder: '#c08040',
+      fontSize: '22px'
+    },
+    flowchart: { curve: 'basis', padding: 22, nodeSpacing: 28, rankSpacing: 28, htmlLabels: true, useMaxWidth: true }
+  });
+</script>
+<style>
+  :root {
+    --color-noir-carbone:    #111111;
+    --color-noir-profond:    #0a0a0a;
+    --color-noir-elevation:  #1a1a1a;
+    --color-noir-elevation2: #222222;
+    --color-blanc-craie:     #f9f9f9;
+    --color-blanc-pur:       #ffffff;
+    --color-blanc-elevation: #f3f3f3;
+    --color-blanc-warm:      #e9e1d9;
+    --color-cuivre-poli:     #c08040;
+    --color-cuivre-clair:    #e0a040;
+    --color-cuivre-lumineux: #f0b050;
+    --color-cuivre-fonce:    #805000;
+    --text-on-dark-primary:    #ffffff;
+    --text-on-dark-secondary:  rgba(255, 255, 255, 0.72);
+    --text-on-dark-tertiary:   rgba(255, 255, 255, 0.50);
+    --text-on-light-primary:   #111111;
+    --text-on-light-secondary: #3a3a3a;
+    --text-on-light-tertiary:  #6b6b6b;
+    --font-display: 'Epilogue', 'Inter', system-ui, sans-serif;
+    --font-body:    'Space Grotesk', 'Inter', system-ui, sans-serif;
+    --font-mono:    'JetBrains Mono', ui-monospace, monospace;
+    --fs-cover:     128px;
+    --fs-h1:         60px;
+    --fs-h2:         48px;
+    --fs-h3:         36px;
+    --fs-lead:       32px;
+    --fs-body-lg:    22px;
+    --fs-body:       18px;
+    --fs-body-sm:    15px;
+    --fs-caption:    13px;
+    --fs-micro:      11px;
+    --fs-big-number-xl: 240px;
+    --fs-big-number-lg: 144px;
+    --fs-big-number-md: 96px;
+    --fw-regular:   400;
+    --fw-medium:    500;
+    --fw-semibold:  600;
+    --fw-bold:      700;
+    --fw-black:     900;
+    --lh-tight:     1.05;
+    --lh-snug:      1.15;
+    --lh-normal:    1.45;
+    --ls-tight:     -0.02em;
+    --ls-wide:      0.08em;
+    --ls-wider:     0.14em;
+    --space-1:   4px;  --space-2:   8px;  --space-3:   12px;
+    --space-4:   16px; --space-5:   24px; --space-6:   32px;
+    --space-7:   48px; --space-8:   64px; --space-9:   96px;
+    --slide-padding-x: 96px;
+    --slide-padding-y: 72px;
+    --radius-sm: 2px; --radius-md: 4px; --radius-lg: 6px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; overflow: hidden; background: #000; }
+  body {
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-normal);
+    color: var(--text-on-light-primary);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* ─── Scaling 16:9 ────────────────────────────────────────── */
+  .deck {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .slide-scaler {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1920px;
+    height: 1080px;
+    transform-origin: 0 0;
+  }
+
+  .slide {
+    position: absolute;
+    inset: 0;
+    width: 1920px;
+    height: 1080px;
+    padding: var(--slide-padding-y) var(--slide-padding-x);
+    overflow: hidden;
+    display: none;
+    flex-direction: column;
+  }
+  .slide.is-active { display: flex; }
+
+  .slide--dark  { background: var(--color-noir-carbone); color: var(--text-on-dark-primary); }
+  .slide--light { background: var(--color-blanc-craie);  color: var(--text-on-light-primary); }
+  .slide--cover { background: var(--color-noir-carbone); color: var(--text-on-dark-primary); }
+  .slide--transition {
+    background: var(--color-noir-carbone);
+    color: var(--text-on-dark-primary);
+    justify-content: center;
+  }
+
+  /* ─── Typography ──────────────────────────────────────────── */
+  h1, h2, h3, .t-cover, .t-h1, .t-h2, .t-h3 {
+    font-family: var(--font-display);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-tight);
+    letter-spacing: var(--ls-tight);
+    margin: 0;
+  }
+  .t-cover {
+    font-size: var(--fs-cover);
+    font-weight: var(--fw-black);
+    line-height: 0.95;
+  }
+  .t-h1 { font-size: var(--fs-h1); line-height: var(--lh-snug); }
+  .t-h2 { font-size: var(--fs-h2); }
+  .t-h3 { font-size: var(--fs-h3); font-weight: var(--fw-semibold); }
+  .t-lead {
+    font-family: var(--font-display);
+    font-size: var(--fs-lead);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .t-bignumber {
+    font-family: var(--font-display);
+    font-weight: var(--fw-black);
+    font-size: var(--fs-big-number-lg);
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    color: var(--color-cuivre-clair);
+  }
+  .slide--dark .t-bignumber { color: var(--color-cuivre-lumineux); }
+  .t-bignumber--xl { font-size: var(--fs-big-number-xl); }
+  .t-bignumber--md { font-size: var(--fs-big-number-md); }
+
+  p, .t-body {
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-normal);
+    margin: 0 0 var(--space-4) 0;
+  }
+  .t-body-lg { font-size: var(--fs-body-lg); line-height: 1.40; }
+  .t-body-sm { font-size: var(--fs-body-sm); line-height: 1.55; }
+
+  .t-eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin: 0;
+  }
+  .slide--dark .t-eyebrow,
+  .slide--cover .t-eyebrow,
+  .slide--transition .t-eyebrow { color: var(--color-cuivre-lumineux); }
+
+  .t-caption {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+  }
+  .slide--dark .t-caption { color: var(--color-cuivre-clair); }
+
+  strong, b { font-weight: var(--fw-bold); color: inherit; }
+  em { font-style: italic; }
+
+  .u-accent { color: var(--color-cuivre-clair); }
+  .slide--dark .u-accent { color: var(--color-cuivre-lumineux); }
+  .t-muted { color: var(--text-on-light-secondary); }
+  .slide--dark .t-muted { color: var(--text-on-dark-secondary); }
+  .t-tertiary { color: var(--text-on-light-tertiary); }
+  .slide--dark .t-tertiary { color: var(--text-on-dark-tertiary); }
+
+  /* ─── Slide header/footer ─────────────────────────────────── */
+  .slide-header {
+    position: absolute;
+    top: var(--slide-padding-y);
+    right: var(--slide-padding-x);
+  }
+  .slide-page-number {
+    position: absolute;
+    bottom: var(--slide-padding-y);
+    right: var(--slide-padding-x);
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-medium);
+    color: var(--color-cuivre-fonce);
+  }
+  .slide--dark .slide-page-number,
+  .slide--cover .slide-page-number,
+  .slide--transition .slide-page-number { color: var(--color-cuivre-clair); }
+
+  .slide-footer-mark {
+    position: absolute;
+    bottom: var(--slide-padding-y);
+    left: var(--slide-padding-x);
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-medium);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--text-on-light-tertiary);
+  }
+  .slide--dark .slide-footer-mark,
+  .slide--cover .slide-footer-mark,
+  .slide--transition .slide-footer-mark { color: var(--text-on-dark-tertiary); }
+
+  /* ─── Title ───────────────────────────────────────────────── */
+  .slide-title {
+    margin: 0 0 var(--space-7) 0;
+    padding-bottom: var(--space-5);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .slide--dark .slide-title { border-bottom: 1px solid rgba(255, 255, 255, 0.18); }
+  .slide-title--bar {
+    border-bottom: none;
+    padding-bottom: 0;
+    padding-left: var(--space-4);
+    border-left: 4px solid var(--color-cuivre-clair);
+  }
+
+  /* ─── Cards ───────────────────────────────────────────────── */
+  .card {
+    padding: var(--space-6);
+    background: var(--color-blanc-elevation);
+    border-radius: var(--radius-md);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  .slide--dark .card {
+    background: var(--color-noir-elevation);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .card--accent { border: 1px solid var(--color-cuivre-poli); }
+  .slide--dark .card--accent { border: 1px solid var(--color-cuivre-lumineux); }
+  .card--outline { background: transparent; }
+  .card--rule-top { border-top: 4px solid var(--color-cuivre-clair); padding-top: calc(var(--space-6) - 3px); }
+
+  .card-eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin: 0 0 var(--space-3) 0;
+  }
+  .slide--dark .card-eyebrow { color: var(--color-cuivre-clair); }
+
+  .card-title {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.01em;
+    margin: 0 0 var(--space-4) 0;
+  }
+
+  .card-body {
+    font-size: var(--fs-body);
+    line-height: var(--lh-normal);
+    color: var(--text-on-light-secondary);
+  }
+  .slide--dark .card-body { color: var(--text-on-dark-secondary); }
+
+  /* ─── Lists ───────────────────────────────────────────────── */
+  ul.list, ol.list { list-style: none; margin: 0; padding: 0; }
+  ul.list > li, ol.list > li {
+    position: relative;
+    padding: var(--space-3) 0 var(--space-3) var(--space-6);
+    font-size: var(--fs-body);
+    line-height: var(--lh-normal);
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  ul.list > li:first-child, ol.list > li:first-child { border-top: none; }
+  ul.list > li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    top: var(--space-3);
+    color: var(--color-cuivre-clair);
+    font-weight: var(--fw-bold);
+  }
+  ol.list { counter-reset: list-c; }
+  ol.list > li { counter-increment: list-c; }
+  ol.list > li::before {
+    content: counter(list-c, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: var(--space-3);
+    color: var(--color-cuivre-fonce);
+    font-weight: var(--fw-bold);
+    font-family: var(--font-mono);
+    font-size: var(--fs-body-sm);
+  }
+  .slide--dark ul.list > li,
+  .slide--dark ol.list > li { border-top: 1px solid rgba(255, 255, 255, 0.08); }
+  .slide--dark ul.list > li::before { color: var(--color-cuivre-lumineux); }
+  .slide--dark ol.list > li::before { color: var(--color-cuivre-clair); }
+  ul.list--compact > li { border-top: none; padding: var(--space-2) 0 var(--space-2) var(--space-6); }
+
+  /* ─── Quote ───────────────────────────────────────────────── */
+  .quote {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.01em;
+    padding-left: var(--space-5);
+    border-left: 4px solid var(--color-cuivre-clair);
+    margin: 0;
+  }
+  .slide--dark .quote { border-left-color: var(--color-cuivre-lumineux); }
+  .quote--xl { font-size: 64px; }
+  .quote--sm { font-size: var(--fs-lead); }
+
+  /* ─── Grids ───────────────────────────────────────────────── */
+  .grid { display: grid; gap: var(--space-5); }
+  .grid--2 { grid-template-columns: 1fr 1fr; }
+  .grid--3 { grid-template-columns: 1fr 1fr 1fr; }
+  .grid--4 { grid-template-columns: 1fr 1fr 1fr 1fr; }
+  .grid--2x2 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; }
+
+  .layout-2col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+    align-items: start;
+  }
+
+  /* ─── Tables ──────────────────────────────────────────────── */
+  table.t-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--font-body);
+  }
+  table.t-table thead th {
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    text-align: left;
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.18);
+  }
+  .slide--dark table.t-table thead th {
+    color: var(--color-cuivre-lumineux);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  table.t-table tbody td {
+    font-size: var(--fs-body-sm);
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    vertical-align: top;
+  }
+  .slide--dark table.t-table tbody td { border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
+  td .pos { color: #50b050; font-weight: var(--fw-bold); }
+  td .neg { color: #c06040; font-weight: var(--fw-bold); }
+
+  /* ─── Code & Pre ──────────────────────────────────────────── */
+  code {
+    font-family: var(--font-mono);
+    font-size: 0.88em;
+    background: rgba(192, 128, 64, 0.10);
+    padding: 1px 6px;
+    border-radius: 2px;
+    color: var(--color-cuivre-fonce);
+    font-weight: var(--fw-medium);
+  }
+  .slide--dark code {
+    background: rgba(240, 176, 80, 0.14);
+    color: var(--color-cuivre-lumineux);
+  }
+  pre {
+    font-family: var(--font-mono);
+    font-size: 17px;
+    line-height: 1.5;
+    background: var(--color-noir-carbone);
+    color: #f3f3f3;
+    padding: var(--space-5);
+    overflow-x: auto;
+    border-radius: var(--radius-md);
+    margin: 0;
+    border-left: 4px solid var(--color-cuivre-clair);
+  }
+  .slide--dark pre {
+    background: var(--color-noir-elevation);
+    border-left-color: var(--color-cuivre-lumineux);
+  }
+  pre code { background: transparent; color: inherit; padding: 0; }
+  pre.formula {
+    background: var(--color-blanc-warm);
+    color: var(--color-noir-carbone);
+    border-left: 4px solid var(--color-cuivre-poli);
+  }
+
+  /* ─── Fill (content area between header and footer) ───────── */
+  .fill {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  /* ─── Pillar (numbered row) ───────────────────────────────── */
+  .pillar {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: var(--space-5);
+    padding: var(--space-4) 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.10);
+    align-items: start;
+  }
+  .pillar:first-of-type { border-top: 2px solid var(--color-noir-carbone); }
+  .pillar:last-of-type { border-bottom: 2px solid var(--color-noir-carbone); }
+  .slide--dark .pillar { border-top: 1px solid rgba(255, 255, 255, 0.10); }
+  .slide--dark .pillar:first-of-type { border-top: 2px solid var(--color-cuivre-clair); }
+  .slide--dark .pillar:last-of-type { border-bottom: 2px solid var(--color-cuivre-clair); }
+
+  .pillar__num {
+    font-family: var(--font-display);
+    font-weight: var(--fw-black);
+    font-size: 64px;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    color: var(--color-cuivre-clair);
+  }
+
+  .pillar__body h4 {
+    margin: 0 0 var(--space-2) 0;
+    font-family: var(--font-display);
+    font-size: 26px;
+    font-weight: var(--fw-bold);
+    letter-spacing: -0.01em;
+  }
+  .pillar__body p {
+    margin: 0;
+    font-size: var(--fs-body);
+    color: var(--text-on-light-secondary);
+  }
+  .slide--dark .pillar__body p { color: var(--text-on-dark-secondary); }
+
+  /* ─── Mermaid ─────────────────────────────────────────────── */
+  .mermaid {
+    font-family: var(--font-body) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .mermaid svg { max-width: 100%; max-height: 100%; height: auto; }
+
+  /* ─── Navigation UI ───────────────────────────────────────── */
+  .nav {
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 16px;
+    background: rgba(17, 17, 17, 0.85);
+    color: #ffffff;
+    border-radius: 999px;
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    z-index: 100;
+    backdrop-filter: blur(8px);
+    user-select: none;
+  }
+  .nav button {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    width: 32px;
+    height: 32px;
+    border-radius: 999px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 120ms ease-out, border-color 120ms ease-out;
+  }
+  .nav button:hover { background: rgba(240, 176, 80, 0.2); border-color: var(--color-cuivre-lumineux); }
+  .nav .counter { font-family: var(--font-mono); color: var(--color-cuivre-lumineux); min-width: 60px; text-align: center; }
+  .nav .progress {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    height: 2px;
+    background: var(--color-cuivre-lumineux);
+    width: 0;
+    transition: width 220ms ease-out;
+    border-radius: 999px;
+  }
+
+  .hint {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    background: rgba(17, 17, 17, 0.65);
+    color: rgba(255, 255, 255, 0.7);
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-family: var(--font-body);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    z-index: 100;
+    transition: opacity 600ms ease-out;
+  }
+  .hint.is-hidden { opacity: 0; pointer-events: none; }
+
+  /* ─── Cover-specific ──────────────────────────────────────── */
+  .cover-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .cover-content .t-cover {
+    max-width: 1500px;
+    margin-bottom: var(--space-7);
+  }
+  .cover-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-7);
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    max-width: 1500px;
+  }
+  .cover-meta-item dt {
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-lumineux);
+    margin: 0 0 var(--space-1) 0;
+  }
+  .cover-meta-item dd {
+    font-size: var(--fs-body);
+    color: rgba(255, 255, 255, 0.85);
+    margin: 0;
+  }
+
+  /* ─── Centered big-number slide ───────────────────────────── */
+  .center-slide {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .center-slide .t-bignumber { margin-bottom: var(--space-5); }
+  .center-slide .t-caption { font-size: 18px; }
+
+  /* ─── Closing slide ───────────────────────────────────────── */
+  .closing-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+    margin-top: var(--space-6);
+  }
+  .closing-grid .card {
+    padding: var(--space-6);
+  }
+
+  /* ─── Print fallback ──────────────────────────────────────── */
+  @media print {
+    html, body, .deck { overflow: visible; height: auto; background: white; }
+    .slide-scaler { position: static; transform: none !important; width: 1920px; height: auto; }
+    .slide { display: flex !important; position: relative; page-break-after: always; page-break-inside: avoid; }
+    .nav, .hint { display: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hint" id="hint">← → · Espace · Home / End</div>
+
+<div class="deck">
+  <div class="slide-scaler" id="scaler">
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 01 · COVER
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--cover is-active">
+      <p class="t-eyebrow slide-header">Teardown · 16 mai 2026</p>
+      <div class="cover-content">
+        <p class="t-eyebrow" style="margin-bottom: var(--space-6);">L'algorithme For You de X (ex-Twitter)</p>
+        <h1 class="t-cover">Comment fonctionne<br>vraiment l'algorithme X<br>en 2026.</h1>
+        <p class="t-body-lg t-muted" style="max-width: 1300px; margin-top: var(--space-5);">Démontage du release open-source <code>xai-org/x-algorithm</code> publié le 15 mai 2026, et ce que le code montre vraiment du scoring.</p>
+        <dl class="cover-meta">
+          <div class="cover-meta-item"><dt>Source</dt><dd><code>xai-org/x-algorithm</code></dd></div>
+          <div class="cover-meta-item"><dt>Release</dt><dd>15 mai 2026</dd></div>
+          <div class="cover-meta-item"><dt>Discipline</dt><dd>Citations <code>fichier:ligne</code></dd></div>
+          <div class="cover-meta-item"><dt>Posture</dt><dd>Direction plutôt que magnitude</dd></div>
+        </dl>
+      </div>
+      <p class="slide-footer-mark">Sharp Artisan · X Teardown</p>
+      <p class="slide-page-number">01 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 02 · À LIRE D'ABORD
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">À lire d'abord</p>
+      <h2 class="t-h1 slide-title slide-title--bar">La table des poids de 2023 décrit un système qui n'existe plus.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="layout-2col">
+          <div>
+            <p class="t-body-lg t-muted">L'algorithme 2026 est un transformeur (Phoenix) qui <strong>apprend les poids depuis votre historique d'engagement</strong>, scoré contre une surface multi-actions, gatée par un service offline de compréhension de contenu (Grox).</p>
+            <p class="t-body-lg t-muted">La <strong>forme</strong> du scoring importe désormais beaucoup plus que les nombres.</p>
+            <p class="t-body-lg" style="color: var(--color-cuivre-fonce); margin-top: var(--space-6);"><strong>Et les nombres eux-mêmes ne sont pas dans le release public.</strong></p>
+          </div>
+          <div class="card card--accent">
+            <p class="card-eyebrow">Ce que ce deck fait</p>
+            <p class="card-body">Lit le code, en extrait l'<strong>architecture</strong>, la <strong>forme du scoring</strong>, les <strong>multiplicateurs structurels</strong>. Cite <code>fichier:ligne</code> à chaque affirmation. Refuse de fabriquer des magnitudes.</p>
+            <p class="card-body" style="margin-top: var(--space-4);">Et tire les conséquences growth — pour comptes personnels, marques et missions consulting.</p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Read this first</p>
+      <p class="slide-page-number">02 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 03 · TRANSITION PARTIE 1
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--transition">
+      <p class="t-eyebrow" style="margin-bottom: var(--space-6);">Partie 1 — sur 2</p>
+      <h2 class="t-cover" style="font-size: 144px;">Teardown.</h2>
+      <p class="t-lead t-muted" style="margin-top: var(--space-7); max-width: 1400px;">Architecture, formule de score, multiplicateurs cachés, gates d'éligibilité, et ce qui a vraiment changé depuis 2023.</p>
+      <p class="slide-footer-mark">Partie 1</p>
+      <p class="slide-page-number">03 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 04 · ARCHITECTURE GLOBALE (MERMAID)
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.1 · Architecture</p>
+      <h2 class="t-h2 slide-title slide-title--bar">Le pipeline For You en un schéma.</h2>
+      <div class="fill" style="justify-content: center; align-items: center;">
+        <div class="mermaid" style="width: 100%;">
+flowchart LR
+    REQ(["FOR YOU<br/>FEED REQUEST"]):::endpoint
+
+    subgraph HM["HOME MIXER  ·  Orchestration Layer"]
+        direction LR
+        QH["<b>QUERY<br/>HYDRATION</b>"]:::step
+        CS["<b>CANDIDATE<br/>SOURCES</b>"]:::step
+        HY["<b>HYDRATION</b>"]:::step
+        FI["<b>FILTERING</b><br/>(pre-scoring)"]:::step
+        SC["<b>SCORING</b><br/>Phoenix · Weighted<br/>Diversity · OON"]:::stepHighlight
+        SE["<b>SELECTION</b><br/>top K"]:::step
+        PF["<b>POST-SELECTION<br/>FILTERS</b>"]:::step
+        QH --> CS --> HY --> FI --> SC --> SE --> PF
+    end
+
+    RES(["RANKED FEED<br/>RESPONSE"]):::endpoint
+    REQ --> HM --> RES
+
+    classDef endpoint fill:#111111,stroke:#111111,stroke-width:2.5px,color:#ffffff,font-weight:700,font-size:24px
+    classDef step fill:#ffffff,stroke:#111111,stroke-width:2px,color:#111111,font-size:22px,padding:18px
+    classDef stepHighlight fill:#f7f3ee,stroke:#c08040,stroke-width:3px,color:#111111,font-size:22px,padding:18px
+        </div>
+        <div class="grid grid--3" style="margin-top: var(--space-7); width: 100%; gap: var(--space-5);">
+          <div style="border-left: 3px solid var(--color-cuivre-clair); padding-left: var(--space-4);">
+            <p class="t-caption" style="margin-bottom: var(--space-2);">Candidate sources</p>
+            <p class="t-body-sm t-muted" style="margin: 0;">Thunder (in-network) · Phoenix retrieval (OON) · ads · who-to-follow · topics · MoE · prompts</p>
+          </div>
+          <div style="border-left: 3px solid var(--color-cuivre-clair); padding-left: var(--space-4);">
+            <p class="t-caption" style="margin-bottom: var(--space-2);">Pre-scoring filters</p>
+            <p class="t-body-sm t-muted" style="margin: 0;">dedupe · age · self · blocks · mutes · paywall · already-seen · author socialgraph</p>
+          </div>
+          <div style="border-left: 3px solid var(--color-cuivre-poli); padding-left: var(--space-4);">
+            <p class="t-caption" style="margin-bottom: var(--space-2);">Scoring (4 étapes)</p>
+            <p class="t-body-sm t-muted" style="margin: 0;">Phoenix · 19 actions ➝ Weighted Σ ➝ Author Diversity decay ➝ OON penalty</p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Pipeline Home Mixer · hydrate → source → filter → score → select → filter</p>
+      <p class="slide-page-number">04 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 05 · LES 4 COMPOSANTS
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.1 · Composants</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Quatre composants font tout le travail.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--4">
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Composant · 01</p>
+            <h3 class="card-title">Home Mixer</h3>
+            <p class="card-body"><code>x-algorithm/home-mixer/</code></p>
+            <p class="card-body">Orchestrateur <strong>Rust</strong> request-time. Exécute le pipeline complet : hydrate → source → filter → score → select → filter.</p>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Composant · 02</p>
+            <h3 class="card-title">Thunder</h3>
+            <p class="card-body"><code>x-algorithm/thunder/</code></p>
+            <p class="card-body">Store <strong>Rust en mémoire</strong> alimenté par Kafka. Lookups <strong>sub-milliseconde</strong> des candidats in-network.</p>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Composant · 03</p>
+            <h3 class="card-title">Phoenix</h3>
+            <p class="card-body"><code>x-algorithm/phoenix/</code></p>
+            <p class="card-body">Service ML <strong>JAX</strong>, transformeur dérivé de <strong>Grok-1</strong>. Fait à la fois retrieval (two-tower) et ranking (19 actions).</p>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Composant · 04</p>
+            <h3 class="card-title">Grox</h3>
+            <p class="card-body"><code>x-algorithm/grox/</code></p>
+            <p class="card-body">Service <strong>offline</strong> de compréhension de contenu. Classifieurs (spam, safety, PTOS) + embedder multimodal. <strong>Hors du chemin chaud.</strong></p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Home Mixer · Thunder · Phoenix · Grox</p>
+      <p class="slide-page-number">05 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 06 · BIG NUMBER 19
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--dark">
+      <p class="t-eyebrow slide-header">1.2 · La surface d'actions</p>
+      <div class="center-slide">
+        <p class="t-caption" style="margin-bottom: var(--space-5);">Phoenix prédit, par candidat</p>
+        <p class="t-bignumber t-bignumber--xl">19</p>
+        <p class="t-h2 u-accent" style="margin-top: var(--space-5);">actions distinctes</p>
+        <p class="t-body-lg t-muted" style="max-width: 1100px; margin-top: var(--space-7);">Là où 2023 stitchait plusieurs prédicteurs séparés, <strong>un seul transformeur</strong> sort un vecteur de 19 probabilités en une seule forward pass — avec un masking <em>candidate-isolation</em> qui rend chaque score batch-independent et cacheable.</p>
+      </div>
+      <p class="slide-footer-mark">P(action) per-user</p>
+      <p class="slide-page-number">06 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 07 · TABLE DES 19 ACTIONS
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.2 · Les 19 actions</p>
+      <h2 class="t-h2 slide-title slide-title--bar">15 positifs · 4 négatifs.</h2>
+      <div class="fill">
+        <div class="grid grid--2" style="gap: var(--space-7);">
+          <table class="t-table">
+            <thead><tr><th>Idx</th><th>Action</th><th>Signe</th></tr></thead>
+            <tbody>
+              <tr><td><code>0</code></td><td><code>favorite</code> (like)</td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>1</code></td><td><code>reply</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>2</code></td><td><code>repost</code> (retweet)</td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>3</code></td><td><code>photo_expand</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>4</code></td><td><code>click</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>5</code></td><td><code>profile_click</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>6</code></td><td><code>vqv</code> (video quality view) <span style="color: var(--color-cuivre-fonce); font-size: 0.85em;">· gated</span></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>7</code></td><td><code>share</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>8</code></td><td><code>share_via_dm</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>9</code></td><td><code>share_via_copy_link</code></td><td><span class="pos">+</span></td></tr>
+            </tbody>
+          </table>
+          <table class="t-table">
+            <thead><tr><th>Idx</th><th>Action</th><th>Signe</th></tr></thead>
+            <tbody>
+              <tr><td><code>10</code></td><td><code>dwell</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>11</code></td><td><code>quote</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>12</code></td><td><code>quoted_click</code></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>13</code></td><td><code>follow_author</code> <span style="color: var(--color-cuivre-fonce); font-size: 0.85em;">· nouveau</span></td><td><span class="pos">+</span></td></tr>
+              <tr><td><code>14</code></td><td><code>not_interested</code></td><td><span class="neg">−</span></td></tr>
+              <tr><td><code>15</code></td><td><code>block_author</code></td><td><span class="neg">−</span></td></tr>
+              <tr><td><code>16</code></td><td><code>mute_author</code></td><td><span class="neg">−</span></td></tr>
+              <tr><td><code>17</code></td><td><code>report</code></td><td><span class="neg">−</span></td></tr>
+              <tr><td><code>18</code></td><td><code>dwell_time</code> (continu) <span style="color: var(--color-cuivre-fonce); font-size: 0.85em;">· nouveau</span></td><td><span class="pos">+</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <p class="slide-footer-mark"><code>phoenix/runners.py:233-252</code></p>
+      <p class="slide-page-number">07 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 08 · LA FORMULE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.3 · Formule de score</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Σ (weight × P(action)).</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="layout-2col">
+          <div>
+            <p class="t-body-lg t-muted">Pour chaque candidat, le <strong>Weighted Scorer</strong> calcule une somme pondérée des 19 probabilités prédites par Phoenix.</p>
+            <p class="t-body-lg t-muted">Les 4 poids négatifs <strong>soustraient</strong>. Une étape <code>offset_score()</code> maintient les agrégats négatifs bien ordonnés.</p>
+            <p class="t-body t-tertiary" style="margin-top: var(--space-6);"><code>home-mixer/scorers/weighted_scorer.rs:44-91</code></p>
+          </div>
+<pre class="formula" style="font-size: 14px;">favorite × FAVORITE_WEIGHT
++ reply × REPLY_WEIGHT
++ retweet × RETWEET_WEIGHT
++ photo_expand × PHOTO_EXPAND_WEIGHT
++ click × CLICK_WEIGHT
++ profile_click × PROFILE_CLICK_WEIGHT
++ vqv × (VQV_WEIGHT if duration > MIN_VIDEO_DURATION_MS else 0)
++ share × SHARE_WEIGHT
++ share_via_dm × SHARE_VIA_DM_WEIGHT
++ share_via_copy_link × SHARE_VIA_COPY_LINK_WEIGHT
++ dwell × DWELL_WEIGHT
++ quote × QUOTE_WEIGHT
++ quoted_click × QUOTED_CLICK_WEIGHT
++ dwell_time × CONT_DWELL_TIME_WEIGHT
++ follow_author × FOLLOW_AUTHOR_WEIGHT
++ not_interested × NOT_INTERESTED_WEIGHT
++ block_author × BLOCK_AUTHOR_WEIGHT
++ mute_author × MUTE_AUTHOR_WEIGHT
++ report × REPORT_WEIGHT</pre>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Weighted Scorer</p>
+      <p class="slide-page-number">08 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 09 · LE CAVEAT — DARK QUOTE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--dark">
+      <p class="t-eyebrow slide-header">1.3 · Caveat</p>
+      <div class="fill" style="justify-content: center;">
+        <p class="t-caption" style="margin-bottom: var(--space-7);">Le caveat le plus important du rapport</p>
+        <p class="quote quote--xl" style="max-width: 1500px;">Quiconque vous dit <span class="u-accent">« les replies valent N,N× plus que les likes en 2026 »</span> fabrique un chiffre qui n'est pas dérivable du release OSS.</p>
+        <p class="t-body-lg t-muted" style="max-width: 1300px; margin-top: var(--space-7);"><code>FAVORITE_WEIGHT</code>, <code>OON_WEIGHT_FACTOR</code>, <code>AUTHOR_DIVERSITY_DECAY</code>, <code>MIN_VIDEO_DURATION_MS</code>… toutes les constantes sont référencées comme <code>crate::params::*</code>. Aucun <code>params.rs</code> n'existe dans le repo (vérifié par <code>grep -rn</code>). Les valeurs vivent dans un <strong>feature-switch service interne X</strong>.</p>
+      </div>
+      <p class="slide-footer-mark">Le silence du params.rs</p>
+      <p class="slide-page-number">09 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 10 · LES 4 MULTIPLICATEURS CACHÉS
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.4 · Multiplicateurs cachés</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Le score est ensuite multiplié par 3 facteurs structurels.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--2x2" style="gap: var(--space-5);">
+          <div class="card card--accent">
+            <p class="card-eyebrow">Multiplicateur · 01</p>
+            <h3 class="card-title" style="font-size: 26px;">Pénalité Out-of-Network</h3>
+            <p class="card-body"><code>oon_scorer.rs:20-23</code></p>
+            <p class="card-body"><code>score × OON_WEIGHT_FACTOR &lt; 1</code> si OON. <strong>« Followers matter »</strong>, codifié.</p>
+          </div>
+          <div class="card card--accent">
+            <p class="card-eyebrow">Multiplicateur · 02</p>
+            <h3 class="card-title" style="font-size: 26px;">Exception nouveaux comptes</h3>
+            <p class="card-body"><code>ranking_scorer.rs:220-239</code></p>
+            <p class="card-body">Si compte jeune ET follows ≥ seuil → <code>NEW_USER_OON_WEIGHT_FACTOR</code> remplace la pénalité. <strong>Biais sur ce que voient les nouveaux comptes</strong>.</p>
+          </div>
+          <div class="card card--accent">
+            <p class="card-eyebrow">Multiplicateur · 03</p>
+            <h3 class="card-title" style="font-size: 26px;">Atténuation de diversité d'auteurs</h3>
+            <p class="card-body"><code>author_diversity_scorer.rs:29-31</code></p>
+            <p class="card-body"><code>(1 - floor) × decay^position + floor</code>. <strong>Le meilleur post garde son score, chaque suivant est atténué.</strong></p>
+          </div>
+          <div class="card card--accent">
+            <p class="card-eyebrow">Multiplicateur · 04</p>
+            <h3 class="card-title" style="font-size: 26px;">Gate de durée vidéo</h3>
+            <p class="card-body"><code>weighted_scorer.rs:72-81</code></p>
+            <p class="card-body"><code>vqv_score</code> n'entre que si <code>video_duration_ms > MIN_VIDEO_DURATION_MS</code>. <strong>Hard gate, pas soft penalty.</strong></p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">OON · New-user · Diversity · Video gate</p>
+      <p class="slide-page-number">10 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 11 · CE QUI N'ENTRE JAMAIS DANS LE RANKER
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.5 · Reach perdue invisible</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Trois couches éliminent les posts <em>avant</em> tout scoring.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--3">
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Filtres pre-scoring</p>
+            <h3 class="card-title" style="font-size: 22px;">Home Mixer · filters/</h3>
+            <ul class="list list--compact t-body-sm">
+              <li>Duplicates, Age, Self, Repost dedup</li>
+              <li>Paywall, Previously seen, Previously served</li>
+              <li>Muted keywords</li>
+              <li><strong>Author socialgraph</strong> · blocks <em>dans les deux sens</em>, y compris auteur cité du quote tweet</li>
+            </ul>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Filtres post-selection</p>
+            <h3 class="card-title" style="font-size: 22px;">Après ranking, avant servir</h3>
+            <ul class="list list--compact t-body-sm">
+              <li><code>VFFilter</code> · deleted, spam, violence, gore</li>
+              <li><code>DedupConversationFilter</code> · replie branches d'une même convo</li>
+            </ul>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Gates offline Grox</p>
+            <h3 class="card-title" style="font-size: 22px;">grox/ · feature store</h3>
+            <ul class="list list--compact t-body-sm">
+              <li><code>task_spam_detection</code></li>
+              <li><code>task_post_safety_screen_deluxe</code> · violence, NSFW, misinfo</li>
+              <li><code>task_safety_ptos_policy</code> · ToS</li>
+              <li><code>task_banger_screen</code> · positif, haute qualité</li>
+              <li><code>task_reply_ranking</code></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Eligibility · Reach perdue invisible</p>
+      <p class="slide-page-number">11 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 12 · SILENT KILLER — DARK QUOTE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--dark">
+      <p class="t-eyebrow slide-header">Le silent killer</p>
+      <div class="fill" style="justify-content: center;">
+        <p class="quote quote--xl" style="max-width: 1600px;">Le contenu borderline ne sous-performe pas en 2026.<br><span class="u-accent">Il disparaît.</span></p>
+        <p class="t-body-lg t-muted" style="max-width: 1300px; margin-top: var(--space-7);">Il n'y a <strong>aucun signal au créateur</strong> qu'un classifieur Grox a exclu son post des pools de candidats. Le seul diagnostic est l'analyse comparative de reach à distance variable des bords de la policy.</p>
+        <p class="t-body t-tertiary" style="margin-top: var(--space-5);">Changement matériel vs 2023 — qui rétrogradait via visibility-filtering, signal observable.</p>
+      </div>
+      <p class="slide-footer-mark">Eligibility-time silent exclusion</p>
+      <p class="slide-page-number">12 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 13 · CE QUE PHOENIX APPREND
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.6 · Apprentissage</p>
+      <h2 class="t-h1 slide-title slide-title--bar">L'input le plus conséquent : <em>votre séquence d'actions</em>.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="layout-2col" style="align-items: center;">
+          <div>
+            <p class="t-body-lg t-muted">Likes, replies, shares, dwell, blocks, mutes… passés comme <strong>séquence</strong> au transformeur en plus du candidat. <code>user_action_seq_query_hydrator.rs</code>.</p>
+            <p class="t-lead u-accent" style="margin-top: var(--space-6);">« We have eliminated every single hand-engineered feature and most heuristics from the system. »</p>
+            <p class="t-body t-tertiary"><code>README.md</code> ligne 55</p>
+          </div>
+          <ul class="list">
+            <li><strong>Per-user, per-post.</strong> Pas de chiffre global « ce post est bon ». Deux utilisateurs, deux probabilités différentes pour le même post.</li>
+            <li><strong>Candidate-isolation attention.</strong> Les candidats peuvent attendre votre contexte, mais pas s'attendre les uns les autres → scores cacheables.</li>
+            <li><strong>« Going viral »</strong> = outcome au niveau population de prédictions personnelles indépendantes, pas une métrique optimisée.</li>
+            <li><strong>Multimodal embedder v5</strong> · texte + images + transcription ASR vidéo en vecteur 1024-dim → récupération two-tower OON.</li>
+          </ul>
+        </div>
+      </div>
+      <p class="slide-footer-mark">User Action Sequence</p>
+      <p class="slide-page-number">13 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 14 · 5 CHANGEMENTS VS 2023
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">1.7 · Évolution vs 2023</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Cinq différences structurantes pour le growth.</h2>
+      <div class="fill" style="justify-content: center;">
+        <ol class="list" style="font-size: 20px;">
+          <li><strong>Aucune feature codée à la main.</strong> 2023 : verified status, paid subscribers, network distance explicites. 2026 : le transformeur apprend depuis les séquences d'actions.</li>
+          <li><strong>Un modèle pour 19 actions.</strong> 2023 : plusieurs prédicteurs séparés cousus ensemble. 2026 : Phoenix unifié, une seule forward pass.</li>
+          <li><strong>Grox sépare understanding et ranking.</strong> Spam / safety / PTOS / banger sur chemin offline (9 plans parallèles), Home Mixer lit les gates déjà décidés.</li>
+          <li><strong>Nouveaux signaux first-class.</strong> <code>dwell_time</code> continu, <code>vqv</code> gated, <code>follow_author</code>, 3 variantes de share — n'existaient pas comme poids discrets en 2023.</li>
+          <li><strong>Two-tower OON retrieval.</strong> Fini les SimClusters + heuristiques. Embeddings utilisateur et post, ANN search. La <em>clarté sémantique</em> compte plus que le keyword overlap.</li>
+        </ol>
+      </div>
+      <p class="slide-footer-mark">Changement load-bearing</p>
+      <p class="slide-page-number">14 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 15 · TRANSITION PARTIE 2
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--transition">
+      <p class="t-eyebrow" style="margin-bottom: var(--space-6);">Partie 2 — sur 2</p>
+      <h2 class="t-cover" style="font-size: 144px;">Recommandations.</h2>
+      <p class="t-lead t-muted" style="margin-top: var(--space-7); max-width: 1400px;">Trois couches, deux lois, sept piliers, quatre pistes audience. Et un livrable consulting prêt à expédier.</p>
+      <p class="slide-footer-mark">Partie 2</p>
+      <p class="slide-page-number">15 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 16 · LES 3 COUCHES DE REACH
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">2.C · Cadre généralisé</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Trois couches indépendantes. Un post doit passer les trois.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--3">
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Couche · 01</p>
+            <h3 class="card-title" style="font-size: 30px;">Éligibilité</h3>
+            <p class="card-body"><strong>Binaire.</strong> Filtres pre-scoring + classifieurs Grox.</p>
+            <p class="card-body"><em>Aucune optimisation possible — autre que ne pas se faire exclure.</em></p>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Couche · 02</p>
+            <h3 class="card-title" style="font-size: 30px;">Récupération</h3>
+            <p class="card-body"><strong>Probabiliste.</strong> Two-tower OON, proximité d'embedding.</p>
+            <p class="card-body"><em>Optimisé par CE QUE vous postez.</em> (topic, sémantique, multimodal)</p>
+          </div>
+          <div class="card card--rule-top">
+            <p class="card-eyebrow">Couche · 03</p>
+            <h3 class="card-title" style="font-size: 30px;">Ranking</h3>
+            <p class="card-body"><strong>Continu.</strong> Somme pondérée + multiplicateurs.</p>
+            <p class="card-body"><em>Optimisé par COMMENT vous postez.</em> (action ciblée, cadence)</p>
+          </div>
+        </div>
+        <p class="t-body-lg t-muted" style="text-align: center; margin-top: var(--space-7); max-width: 1400px; align-self: center;">La plupart des conseils growth confondent la couche 3 avec tout le système. <strong>C'est la plus visible mais c'est la dernière.</strong></p>
+      </div>
+      <p class="slide-footer-mark">Eligibility → Retrieval → Ranking</p>
+      <p class="slide-page-number">16 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 17 · 2 LOIS DE LA CROISSANCE MÉCANIQUE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">2.C · Lois</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Deux lois de la croissance mécanique.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--2" style="gap: var(--space-7);">
+          <div class="card card--accent" style="padding: var(--space-7);">
+            <p class="card-eyebrow">Loi · 01</p>
+            <h3 class="card-title" style="font-size: 32px;">L'in-network est multiplicatif. L'OON est additif.</h3>
+            <p class="card-body t-body-lg">Les followers transforment chaque post futur d'un événement probabiliste de récupération OON en un <strong>lookup Thunder déterministe</strong>.</p>
+            <p class="card-body t-body-lg" style="color: var(--color-cuivre-fonce);">Les retours sur l'acquisition de followers <strong>compoundent</strong> sur tous vos posts futurs.</p>
+          </div>
+          <div class="card card--accent" style="padding: var(--space-7);">
+            <p class="card-eyebrow">Loi · 02</p>
+            <h3 class="card-title" style="font-size: 32px;">Le job du modèle est de vous prédire, pas de vous récompenser.</h3>
+            <p class="card-body t-body-lg">Phoenix optimise pour la <strong>précision prédictive de l'action utilisateur</strong>, pas pour le succès créateur.</p>
+            <p class="card-body t-body-lg" style="color: var(--color-cuivre-fonce);">Mendier de l'engagement, fabriquer de la controverse → dégrade votre prédictabilité → déclasse vos posts futurs.</p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Two laws of mechanical growth</p>
+      <p class="slide-page-number">17 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 18 · VOIX PERSONNELLE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">2.A · Voix personnelle / fondateur</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Cinq règles pour vos 10 prochains posts.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="pillar">
+          <div class="pillar__num">01</div>
+          <div class="pillar__body">
+            <h4>Nommez l'action cible — une seule par post</h4>
+            <p>Reply, dwell, follow, share. Quand vous ne savez pas articuler l'action visée, le post n'est susceptible de bien scorer pour aucune.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">02</div>
+          <div class="pillar__body">
+            <h4>Au moins trois threads ou long-form</h4>
+            <p>Pour récolter directement du <code>dwell_time</code> continu (index 18) — pas accessible aux posts d'une ligne.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">03</div>
+          <div class="pillar__body">
+            <h4>Espacer · jamais à moins d'une heure d'écart</h4>
+            <p>Protection contre l'atténuation de diversité. <strong>Publiez votre meilleur post en premier</strong>, pas en dernier.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">04</div>
+          <div class="pillar__body">
+            <h4>Deux posts conçus pour earn des profile clicks</h4>
+            <p>Identity bait, revendication de domaine, ligne d'autorité. L'inconnu qui veut savoir qui vous êtes.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">05</div>
+          <div class="pillar__body">
+            <h4>Zéro prise négative réactive sur audience chaude</h4>
+            <p>Un mute = entrée négative permanente dans la séquence d'actions de l'utilisateur. <strong>Cumulatif sur tous vos posts futurs.</strong></p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Personal / Founder voice</p>
+      <p class="slide-page-number">18 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 19 · MARQUE / ENTREPRISE
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">2.B · Compte marque / entreprise</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Cinq règles pour le calendrier éditorial.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="pillar">
+          <div class="pillar__num">01</div>
+          <div class="pillar__body">
+            <h4><code>target_action</code> annoté en calendrier</h4>
+            <p>click | vqv | dm_share | follow | reply. Mesurer en <strong>distribution d'actions par post</strong>, pas en impressions totales.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">02</div>
+          <div class="pillar__body">
+            <h4>Vidéos &gt; <code>MIN_VIDEO_DURATION_MS</code> ET sous-titrées</h4>
+            <p>Pour alimenter à la fois <code>vqv</code> et le chemin ASR de l'embedder multimodal. <strong>Sous-titrez pour le modèle, pas seulement pour le viewer.</strong></p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">03</div>
+          <div class="pillar__body">
+            <h4>Distribution cross-author · jamais empilée</h4>
+            <p>Brand + au moins 2 employés sur la semaine. Le compte marque + le CEO sur la même annonce = 2 auteurs distincts ≫ 1 compte 2 fois.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">04</div>
+          <div class="pillar__body">
+            <h4>Cohérence topique sur la semaine</h4>
+            <p>Pas de saut aléatoire de sujet. L'embedding agrégé du compte détermine à quelles queries vos posts apparaissent.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar__num">05</div>
+          <div class="pillar__body">
+            <h4>Au moins un follow magnet par semaine</h4>
+            <p>Conçu pour l'audience du prochain lancement. Phoenix prédit <code>follow_author</code> comme probabilité discrète (index 13).</p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Brand / Company playbook</p>
+      <p class="slide-page-number">19 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 20 · LIVRABLE CONSULTING
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--light">
+      <p class="t-eyebrow slide-header">2.D · Mission consulting</p>
+      <h2 class="t-h1 slide-title slide-title--bar">Sept interventions, ordonnées par impact attendu.</h2>
+      <div class="fill" style="justify-content: center;">
+        <div class="grid grid--2" style="gap: var(--space-6);">
+          <ol class="list" style="font-size: 16px;">
+            <li><strong>Conception de contenu ciblée par action.</strong> Réorganiser le calendrier autour des 19 actions.</li>
+            <li><strong>Playbook de distribution d'auteurs.</strong> Multi-compte vs drumbeat empilé.</li>
+            <li><strong>Spécification vidéo.</strong> A/B test du seuil <code>MIN_VIDEO_DURATION_MS</code> empiriquement.</li>
+            <li><strong>Cohérence d'embedding topique.</strong> Split 70/30 entre core et exploratoire.</li>
+          </ol>
+          <ol class="list" style="font-size: 16px;" start="5">
+            <li><strong>Audit du gate d'éligibilité.</strong> Sampler les posts mystérieusement sous-performants.</li>
+            <li><strong>Hygiène des signaux négatifs.</strong> Quantifier le coût cumulatif des mutes.</li>
+            <li><strong>Recadrage de l'acquisition de followers.</strong> Reach <em>multiplicative</em> via conversion OON → Thunder.</li>
+          </ol>
+        </div>
+        <div class="grid grid--4" style="margin-top: var(--space-6); gap: var(--space-4);">
+          <div class="card card--rule-top" style="padding: var(--space-4);">
+            <p class="card-eyebrow">Mois · 01</p>
+            <p class="card-body t-body-sm">Calendrier action-targeted + playbook distribution + spec vidéo</p>
+          </div>
+          <div class="card card--rule-top" style="padding: var(--space-4);">
+            <p class="card-eyebrow">Mois · 02</p>
+            <p class="card-body t-body-sm">Audit cohérence topique + test follower-acquisition</p>
+          </div>
+          <div class="card card--rule-top" style="padding: var(--space-4);">
+            <p class="card-eyebrow">Mois · 03</p>
+            <p class="card-body t-body-sm">Mesure cohorte-sur-cohorte + recalibrage gate d'éligibilité</p>
+          </div>
+          <div class="card card--rule-top" style="padding: var(--space-4);">
+            <p class="card-eyebrow">Trimestriel</p>
+            <p class="card-body t-body-sm">Relire <code>xai-org/x-algorithm</code> pour upstream changes</p>
+          </div>
+        </div>
+      </div>
+      <p class="slide-footer-mark">Consulting deliverable · Cadence M1 · M2 · M3</p>
+      <p class="slide-page-number">20 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 21 · HONESTY BOUNDARY
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--dark">
+      <p class="t-eyebrow slide-header">Annexe A.3 · Frontière d'honnêteté</p>
+      <h2 class="t-h1 slide-title" style="color: var(--text-on-dark-primary); border-bottom-color: rgba(255,255,255,0.18);">Ce qu'on <em>ne peut pas</em> savoir depuis l'OSS.</h2>
+      <div class="fill" style="justify-content: center;">
+        <ul class="list" style="font-size: 19px;">
+          <li><strong>Valeurs numériques des poids.</strong> Toutes externes, gérées par feature-switch interne X. Pas de <code>params.rs</code> dans le repo.</li>
+          <li><strong>Comportement du modèle de production.</strong> Le checkpoint Phoenix publié est un mini : <strong>2 couches, 4 têtes, 256-dim</strong>, entraîné sur 537K posts sportifs. Le Phoenix de prod est plus gros et continuellement réentraîné.</li>
+          <li><strong>Intégrations stubbées.</strong> <code>panic!("Not implemented: to_thrift for ...")</code> dans <code>candidate_features.rs</code> et <code>user_features.rs</code>. Ne tourne pas end-to-end contre les services internes X.</li>
+          <li><strong>Données de policy.</strong> Brand-safety lists, topic ID mappings, language penalties, ad blending rules, muted-keyword corpora, classifier weights spam/safety/PTOS — absents.</li>
+          <li><strong>Cadence de réentraînement.</strong> Snapshot statique. La prod est continuellement mise à jour.</li>
+        </ul>
+        <p class="t-body-lg t-muted" style="margin-top: var(--space-7); text-align: center; max-width: 1300px; align-self: center; color: var(--color-cuivre-lumineux);"><strong>Traiter ce rapport comme un modèle structurel, pas comme un prédicteur quantitatif.</strong></p>
+      </div>
+      <p class="slide-footer-mark">Honesty boundary</p>
+      <p class="slide-page-number">21 / 22</p>
+    </section>
+
+    <!-- ════════════════════════════════════════════════════════
+         SLIDE 22 · CLOSING / TL;DR
+         ════════════════════════════════════════════════════════ -->
+    <section class="slide slide--cover">
+      <p class="t-eyebrow slide-header">À retenir</p>
+      <div class="fill" style="justify-content: center;">
+        <p class="t-caption" style="margin-bottom: var(--space-4); font-size: 16px;">Trois choses</p>
+        <h2 class="t-cover" style="font-size: 96px; max-width: 1600px;">La forme du scoring &gt; les nombres.</h2>
+        <div class="closing-grid">
+          <div class="card card--accent">
+            <p class="card-eyebrow">Architecture</p>
+            <h3 class="card-title" style="font-size: 26px;">Quatre composants, dix-neuf actions, trois multiplicateurs.</h3>
+            <p class="card-body t-body-lg">Home Mixer · Thunder · Phoenix · Grox. Σ (weight × P(action)) modifié par OON, diversity decay, video gate. <strong>Les poids ne sont pas dans le release.</strong></p>
+          </div>
+          <div class="card card--accent">
+            <p class="card-eyebrow">Growth</p>
+            <h3 class="card-title" style="font-size: 26px;">Cibler une action, espacer les posts, sous-titrer les vidéos.</h3>
+            <p class="card-body t-body-lg">L'in-network compound. L'eligibility-time silent exclusion tue invisiblement. <strong>Le modèle vous prédit, il ne vous récompense pas.</strong></p>
+          </div>
+        </div>
+        <p class="t-body-lg t-muted" style="margin-top: var(--space-7); max-width: 1500px;">Rapport complet et version HTML longue : <code>docs/report/x-algorithm-growth-report.html</code></p>
+      </div>
+      <p class="slide-footer-mark">Sharp Artisan · X Teardown · 16 mai 2026</p>
+      <p class="slide-page-number">22 / 22</p>
+    </section>
+
+  </div>
+</div>
+
+<nav class="nav" id="nav">
+  <span class="progress" id="progress"></span>
+  <button id="prev" title="Précédent (←)">‹</button>
+  <span class="counter" id="counter">01 / 22</span>
+  <button id="next" title="Suivant (→)">›</button>
+</nav>
+
+<script>
+  (function() {
+    const slides = Array.from(document.querySelectorAll('.slide'));
+    const total = slides.length;
+    const counter = document.getElementById('counter');
+    const progress = document.getElementById('progress');
+    const hint = document.getElementById('hint');
+    const scaler = document.getElementById('scaler');
+    let current = 0;
+
+    function pad(n) { return String(n).padStart(2, '0'); }
+
+    function show(idx) {
+      current = Math.max(0, Math.min(total - 1, idx));
+      slides.forEach((s, i) => s.classList.toggle('is-active', i === current));
+      counter.textContent = pad(current + 1) + ' / ' + pad(total);
+      progress.style.width = ((current + 1) / total * 100) + '%';
+      const newHash = '#' + (current + 1);
+      if (location.hash !== newHash) {
+        history.replaceState(null, '', newHash);
+      }
+    }
+
+    function fit() {
+      const ww = window.innerWidth;
+      const wh = window.innerHeight;
+      const sw = 1920, sh = 1080;
+      const scale = Math.min(ww / sw, wh / sh);
+      scaler.style.transform = 'translate(-50%, -50%) scale(' + scale + ')';
+    }
+
+    document.getElementById('prev').addEventListener('click', () => show(current - 1));
+    document.getElementById('next').addEventListener('click', () => show(current + 1));
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+        e.preventDefault();
+        show(current + 1);
+      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+        e.preventDefault();
+        show(current - 1);
+      } else if (e.key === 'Home') {
+        e.preventDefault();
+        show(0);
+      } else if (e.key === 'End') {
+        e.preventDefault();
+        show(total - 1);
+      }
+    });
+
+    // Click anywhere except nav to advance
+    document.querySelector('.deck').addEventListener('click', (e) => {
+      if (e.target.closest('.nav')) return;
+      const rect = window.innerWidth;
+      if (e.clientX < rect / 2) {
+        show(current - 1);
+      } else {
+        show(current + 1);
+      }
+    });
+
+    window.addEventListener('resize', fit);
+    fit();
+
+    // Honor URL hash on load
+    const hashIdx = parseInt((location.hash || '').slice(1), 10);
+    if (!Number.isNaN(hashIdx) && hashIdx >= 1 && hashIdx <= total) {
+      show(hashIdx - 1);
+    } else {
+      show(0);
+    }
+
+    // Auto-hide hint after 4s
+    setTimeout(() => hint.classList.add('is-hidden'), 4000);
+  })();
+</script>
+
+</body>
+</html>
