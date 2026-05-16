@@ -14,7 +14,10 @@ How the X Algorithm Actually Works in 2026 — and What That Means for Growth
 
 ## URL
 
-Rapport interne (`docs/report/x-algorithm-growth-report.md`) — teardown du release public https://github.com/xai-org/x-algorithm (release 15 mai 2026).
+- **Rapport long (HTML, Sharp Artisan, FR)** : https://raw.githack.com/dgirard/fiches-veille/main/docs/report/x-algorithm-growth-report.html
+- **Slides 16:9 (HTML, Sharp Artisan, FR, 22 slides)** : https://raw.githack.com/dgirard/fiches-veille/main/docs/report/x-algorithm-slides.html
+- **Source markdown** : `docs/report/x-algorithm-growth-report.md`
+- **Repo source analysé** : https://github.com/xai-org/x-algorithm (release 15 mai 2026)
 
 ## Keywords
 
