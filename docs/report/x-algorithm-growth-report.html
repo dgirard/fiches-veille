@@ -1,0 +1,1709 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comment fonctionne vraiment l'algorithme X en 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      fontFamily: "'Space Grotesk', 'Inter', system-ui, sans-serif",
+      primaryColor: '#f7f3ee',
+      primaryTextColor: '#111111',
+      primaryBorderColor: '#111111',
+      lineColor: '#805000',
+      secondaryColor: '#ffffff',
+      tertiaryColor: '#f3f3f3',
+      mainBkg: '#f7f3ee',
+      nodeBorder: '#111111',
+      clusterBkg: '#ffffff',
+      clusterBorder: '#c08040',
+      titleColor: '#805000',
+      edgeLabelBackground: '#ffffff',
+      fontSize: '13px'
+    },
+    flowchart: {
+      curve: 'basis',
+      padding: 20,
+      nodeSpacing: 32,
+      rankSpacing: 32,
+      htmlLabels: true,
+      useMaxWidth: true
+    }
+  });
+</script>
+<style>
+  :root {
+    --color-noir-carbone:    #111111;
+    --color-noir-profond:    #0a0a0a;
+    --color-blanc-craie:     #ffffff;
+    --color-blanc-pur:       #ffffff;
+    --color-blanc-elevation: #f3f3f3;
+    --color-blanc-warm:      #f7f3ee;
+    --color-cuivre-poli:     #c08040;
+    --color-cuivre-clair:    #e0a040;
+    --color-cuivre-lumineux: #f0b050;
+    --color-cuivre-fonce:    #805000;
+    --color-cuivre-burnt:    #906010;
+
+    --color-success:         #50b050;
+    --color-danger:          #c06040;
+
+    --text-primary:   #111111;
+    --text-secondary: #3a3a3a;
+    --text-tertiary:  #6b6b6b;
+    --text-accent:    var(--color-cuivre-fonce);
+
+    --font-display: 'Epilogue', 'Inter', system-ui, -apple-system, sans-serif;
+    --font-body:    'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+    --font-mono:    'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+
+    --fs-cover:      80px;
+    --fs-h1:         48px;
+    --fs-h2:         36px;
+    --fs-h3:         24px;
+    --fs-h4:         18px;
+    --fs-lead:       22px;
+    --fs-body-lg:    18px;
+    --fs-body:       16px;
+    --fs-body-sm:    14px;
+    --fs-caption:    12px;
+    --fs-micro:      11px;
+
+    --fs-big-number-xl: 144px;
+    --fs-big-number-lg: 96px;
+    --fs-big-number-md: 64px;
+
+    --fw-regular:   400;
+    --fw-medium:    500;
+    --fw-semibold:  600;
+    --fw-bold:      700;
+    --fw-black:     900;
+
+    --lh-tight:     1.05;
+    --lh-snug:      1.20;
+    --lh-normal:    1.55;
+    --lh-relaxed:   1.75;
+
+    --ls-tight:     -0.02em;
+    --ls-normal:    0;
+    --ls-wide:      0.08em;
+    --ls-wider:     0.14em;
+
+    --space-1:   4px;
+    --space-2:   8px;
+    --space-3:   12px;
+    --space-4:   16px;
+    --space-5:   24px;
+    --space-6:   32px;
+    --space-7:   48px;
+    --space-8:   64px;
+    --space-9:   96px;
+    --space-10: 128px;
+
+    --container-max: 920px;
+    --container-wide: 1200px;
+
+    --radius-none:  0;
+    --radius-sm:    2px;
+    --radius-md:    4px;
+    --radius-lg:    6px;
+
+    --border-thin:    1px solid rgba(0, 0, 0, 0.10);
+    --border-strong:  1px solid rgba(0, 0, 0, 0.18);
+    --border-accent:  1px solid var(--color-cuivre-poli);
+
+    --rule-title: 1px solid rgba(0, 0, 0, 0.12);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    font-weight: var(--fw-regular);
+    line-height: var(--lh-normal);
+    color: var(--text-primary);
+    background: var(--color-blanc-craie);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* ─── LAYOUT ───────────────────────────────────────────────── */
+
+  .page {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding: var(--space-9) var(--space-6);
+  }
+
+  .page--wide {
+    max-width: var(--container-wide);
+  }
+
+  section {
+    margin: var(--space-9) 0;
+    scroll-margin-top: var(--space-6);
+  }
+
+  section.subsection {
+    margin: var(--space-7) 0;
+  }
+
+  /* ─── COVER ────────────────────────────────────────────────── */
+
+  .cover {
+    padding: var(--space-9) 0 var(--space-8);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.18);
+    margin-bottom: var(--space-8);
+  }
+
+  .cover .eyebrow {
+    margin-bottom: var(--space-5);
+  }
+
+  .cover h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-cover);
+    font-weight: var(--fw-black);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    margin: 0 0 var(--space-6) 0;
+    color: var(--color-noir-carbone);
+  }
+
+  .cover .subtitle {
+    font-family: var(--font-display);
+    font-size: var(--fs-lead);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-snug);
+    color: var(--text-secondary);
+    max-width: 800px;
+    letter-spacing: -0.005em;
+  }
+
+  .cover .subtitle a {
+    color: var(--text-accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-cuivre-poli);
+  }
+
+  .cover-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-6);
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: var(--border-thin);
+  }
+
+  .cover-meta dt {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin-bottom: var(--space-1);
+  }
+
+  .cover-meta dd {
+    font-family: var(--font-body);
+    font-size: var(--fs-body-sm);
+    color: var(--text-primary);
+    margin: 0;
+  }
+
+  /* ─── TYPOGRAPHY ───────────────────────────────────────────── */
+
+  h1, h2, h3, h4, h5 {
+    font-family: var(--font-display);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: var(--ls-tight);
+    margin: 0 0 var(--space-5) 0;
+    color: var(--color-noir-carbone);
+  }
+
+  .part-title {
+    font-size: var(--fs-h1);
+    font-weight: var(--fw-black);
+    line-height: 1.0;
+    letter-spacing: -0.025em;
+    padding-bottom: var(--space-5);
+    border-bottom: 1px solid var(--color-noir-carbone);
+    margin-top: var(--space-9);
+    margin-bottom: var(--space-7);
+  }
+
+  .part-eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wider);
+    color: var(--color-cuivre-fonce);
+    margin: 0 0 var(--space-3) 0;
+  }
+
+  h2 {
+    font-size: var(--fs-h2);
+    margin-top: var(--space-8);
+    padding-bottom: var(--space-4);
+    border-bottom: var(--rule-title);
+  }
+
+  h3 {
+    font-size: var(--fs-h3);
+    margin-top: var(--space-7);
+    margin-bottom: var(--space-4);
+    padding-left: var(--space-3);
+    border-left: 3px solid var(--color-cuivre-clair);
+  }
+
+  h4 {
+    font-size: var(--fs-h4);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+    font-weight: var(--fw-bold);
+  }
+
+  p {
+    margin: 0 0 var(--space-4) 0;
+    font-size: var(--fs-body);
+    line-height: var(--lh-relaxed);
+    color: var(--text-secondary);
+  }
+
+  p strong, p b {
+    color: var(--text-primary);
+    font-weight: var(--fw-bold);
+  }
+
+  em, i {
+    font-style: italic;
+    color: var(--text-primary);
+  }
+
+  .eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin: 0 0 var(--space-3) 0;
+  }
+
+  .lead {
+    font-family: var(--font-display);
+    font-size: var(--fs-lead);
+    font-weight: var(--fw-semibold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.005em;
+    color: var(--text-primary);
+    margin: var(--space-5) 0;
+  }
+
+  /* ─── INLINE CODE & PRE ────────────────────────────────────── */
+
+  code {
+    font-family: var(--font-mono);
+    font-size: 0.88em;
+    background: var(--color-blanc-warm);
+    padding: 1px 6px;
+    border-radius: 2px;
+    color: var(--color-cuivre-fonce);
+    font-weight: var(--fw-medium);
+    border: 1px solid rgba(192, 128, 64, 0.18);
+  }
+
+  pre {
+    font-family: var(--font-mono);
+    font-size: var(--fs-body-sm);
+    line-height: 1.45;
+    background: var(--color-noir-carbone);
+    color: #f3f3f3;
+    padding: var(--space-5);
+    overflow-x: auto;
+    border-radius: var(--radius-md);
+    margin: var(--space-5) 0;
+    border-left: 4px solid var(--color-cuivre-clair);
+  }
+
+  pre code {
+    background: transparent;
+    border: none;
+    color: inherit;
+    font-weight: inherit;
+    padding: 0;
+  }
+
+  pre.formula {
+    background: var(--color-blanc-warm);
+    color: var(--color-noir-carbone);
+    border-left: 4px solid var(--color-cuivre-poli);
+  }
+
+  pre.diagram {
+    font-size: 11px;
+    line-height: 1.2;
+    background: var(--color-noir-carbone);
+    color: #e9e1d9;
+    border-left: none;
+    padding: var(--space-6);
+  }
+
+  /* ─── MERMAID DIAGRAM ──────────────────────────────────────── */
+
+  .mermaid-wrap {
+    background: var(--color-blanc-craie);
+    border: 1px solid var(--color-noir-carbone);
+    border-top: 4px solid var(--color-cuivre-poli);
+    padding: var(--space-6) var(--space-5);
+    margin: var(--space-6) 0;
+    border-radius: var(--radius-sm);
+    overflow-x: auto;
+  }
+
+  .mermaid-wrap .diagram-label {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin: 0 0 var(--space-4) 0;
+    text-align: center;
+  }
+
+  .mermaid {
+    font-family: var(--font-body) !important;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .mermaid svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .mermaid .nodeLabel,
+  .mermaid .edgeLabel {
+    font-family: var(--font-body) !important;
+  }
+
+  .mermaid .cluster rect {
+    stroke-width: 1.5px !important;
+    rx: 2 !important;
+    ry: 2 !important;
+  }
+
+  .mermaid .node rect,
+  .mermaid .node polygon {
+    stroke-width: 1.5px !important;
+  }
+
+  .mermaid .edgePath path {
+    stroke-width: 1.5px !important;
+  }
+
+  /* ─── QUOTES / CALLOUTS ────────────────────────────────────── */
+
+  .callout {
+    background: var(--color-blanc-warm);
+    border-left: 4px solid var(--color-cuivre-clair);
+    padding: var(--space-5) var(--space-6);
+    margin: var(--space-6) 0;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  }
+
+  .callout--warning {
+    background: #fdf4ec;
+    border-left-color: var(--color-cuivre-poli);
+  }
+
+  .callout--danger {
+    background: #fbeee9;
+    border-left-color: var(--color-danger);
+  }
+
+  .callout .eyebrow {
+    margin-bottom: var(--space-2);
+  }
+
+  .callout p:last-child { margin-bottom: 0; }
+
+  .quote {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.01em;
+    padding-left: var(--space-5);
+    border-left: 4px solid var(--color-cuivre-clair);
+    margin: var(--space-6) 0;
+    color: var(--text-primary);
+  }
+
+  .quote--sm {
+    font-size: var(--fs-lead);
+  }
+
+  /* ─── LISTS ────────────────────────────────────────────────── */
+
+  ul.list, ol.list {
+    list-style: none;
+    margin: var(--space-5) 0;
+    padding: 0;
+  }
+
+  ul.list > li, ol.list > li {
+    position: relative;
+    padding: var(--space-3) 0 var(--space-3) var(--space-6);
+    font-size: var(--fs-body);
+    line-height: var(--lh-relaxed);
+    color: var(--text-secondary);
+    border-top: var(--border-thin);
+  }
+
+  ul.list > li:first-child, ol.list > li:first-child { border-top: none; }
+
+  ul.list > li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    top: var(--space-3);
+    color: var(--color-cuivre-clair);
+    font-weight: var(--fw-bold);
+    font-family: var(--font-display);
+  }
+
+  ol.list {
+    counter-reset: list-counter;
+  }
+  ol.list > li {
+    counter-increment: list-counter;
+  }
+  ol.list > li::before {
+    content: counter(list-counter, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: var(--space-3);
+    color: var(--color-cuivre-fonce);
+    font-weight: var(--fw-bold);
+    font-family: var(--font-mono);
+    font-size: var(--fs-body-sm);
+  }
+
+  ul.list--compact > li {
+    border-top: none;
+    padding: var(--space-2) 0 var(--space-2) var(--space-6);
+  }
+
+  ul.list strong {
+    color: var(--text-primary);
+  }
+
+  /* ─── TABLES ───────────────────────────────────────────────── */
+
+  .table-wrap {
+    overflow-x: auto;
+    margin: var(--space-5) 0;
+    border-top: 2px solid var(--color-noir-carbone);
+    border-bottom: 2px solid var(--color-noir-carbone);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--font-body);
+    font-size: var(--fs-body-sm);
+  }
+
+  thead th {
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    text-align: left;
+    padding: var(--space-4);
+    border-bottom: 1px solid var(--color-noir-carbone);
+    background: var(--color-blanc-warm);
+    vertical-align: bottom;
+  }
+
+  tbody td {
+    font-size: var(--fs-body-sm);
+    line-height: 1.45;
+    padding: var(--space-3) var(--space-4);
+    border-bottom: var(--border-thin);
+    vertical-align: top;
+    color: var(--text-secondary);
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  tbody tr:hover td {
+    background: var(--color-blanc-elevation);
+  }
+
+  td code, th code {
+    font-size: 0.85em;
+  }
+
+  td .pos { color: var(--color-success); font-weight: var(--fw-bold); }
+  td .neg { color: var(--color-danger); font-weight: var(--fw-bold); }
+
+  /* ─── CARDS / GRIDS ────────────────────────────────────────── */
+
+  .grid {
+    display: grid;
+    gap: var(--space-5);
+    margin: var(--space-5) 0;
+  }
+  .grid--2 { grid-template-columns: repeat(2, 1fr); }
+  .grid--3 { grid-template-columns: repeat(3, 1fr); }
+  .grid--4 { grid-template-columns: repeat(4, 1fr); }
+
+  @media (max-width: 768px) {
+    .grid--2, .grid--3, .grid--4 { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    padding: var(--space-5);
+    background: var(--color-blanc-craie);
+    border: 1px solid var(--color-noir-carbone);
+    border-radius: var(--radius-sm);
+  }
+
+  .card--warm {
+    background: var(--color-blanc-warm);
+    border: 1px solid rgba(192, 128, 64, 0.3);
+  }
+
+  .card--accent {
+    border: 1px solid var(--color-cuivre-poli);
+    border-top: 4px solid var(--color-cuivre-poli);
+  }
+
+  .card--rule-top {
+    border-top: 3px solid var(--color-cuivre-clair);
+  }
+
+  .card .card-eyebrow {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+    margin: 0 0 var(--space-2) 0;
+  }
+
+  .card .card-title {
+    font-family: var(--font-display);
+    font-size: var(--fs-h4);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-snug);
+    letter-spacing: -0.005em;
+    margin: 0 0 var(--space-3) 0;
+    color: var(--color-noir-carbone);
+  }
+
+  .card p {
+    font-size: var(--fs-body-sm);
+    line-height: 1.6;
+    margin: 0 0 var(--space-3) 0;
+  }
+  .card p:last-child { margin-bottom: 0; }
+
+  .card code {
+    font-size: 0.85em;
+  }
+
+  /* ─── BIG NUMBERS ──────────────────────────────────────────── */
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .stat__num {
+    font-family: var(--font-display);
+    font-weight: var(--fw-black);
+    font-size: var(--fs-big-number-md);
+    line-height: 0.9;
+    letter-spacing: -0.04em;
+    color: var(--color-noir-carbone);
+  }
+
+  .stat__cap {
+    font-family: var(--font-body);
+    font-size: var(--fs-caption);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    color: var(--color-cuivre-fonce);
+  }
+
+  /* ─── PILLARS / FRAMEWORK ──────────────────────────────────── */
+
+  .pillar {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: var(--space-5);
+    padding: var(--space-5) 0;
+    border-top: var(--border-thin);
+    align-items: start;
+  }
+  .pillar:first-of-type { border-top: 2px solid var(--color-noir-carbone); }
+  .pillar:last-of-type  { border-bottom: 2px solid var(--color-noir-carbone); }
+
+  .pillar__num {
+    font-family: var(--font-display);
+    font-weight: var(--fw-black);
+    font-size: 48px;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    color: var(--color-cuivre-clair);
+  }
+
+  .pillar__body h4 {
+    margin-top: 0;
+    color: var(--color-noir-carbone);
+    text-transform: none;
+    letter-spacing: -0.01em;
+    font-family: var(--font-display);
+    font-size: var(--fs-h4);
+    font-weight: var(--fw-bold);
+    margin-bottom: var(--space-2);
+  }
+
+  .pillar__body p {
+    margin: 0;
+    font-size: var(--fs-body-sm);
+  }
+
+  /* ─── TOC ──────────────────────────────────────────────────── */
+
+  .toc {
+    background: var(--color-blanc-warm);
+    border: 1px solid rgba(192, 128, 64, 0.3);
+    padding: var(--space-6) var(--space-6);
+    margin: var(--space-7) 0;
+    border-radius: var(--radius-md);
+  }
+
+  .toc h4 {
+    margin-top: 0;
+    margin-bottom: var(--space-4);
+    color: var(--color-cuivre-fonce);
+  }
+
+  .toc ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: toc-counter;
+  }
+
+  .toc ol li {
+    counter-increment: toc-counter;
+    padding: var(--space-2) 0;
+    border-bottom: 1px solid rgba(192, 128, 64, 0.15);
+    position: relative;
+    padding-left: var(--space-7);
+    font-size: var(--fs-body-sm);
+  }
+  .toc ol li:last-child { border-bottom: none; }
+  .toc ol li::before {
+    content: counter(toc-counter, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: var(--space-2);
+    color: var(--color-cuivre-poli);
+    font-family: var(--font-mono);
+    font-weight: var(--fw-bold);
+    font-size: var(--fs-caption);
+  }
+  .toc a {
+    color: var(--text-primary);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 120ms ease-out;
+  }
+  .toc a:hover {
+    border-bottom-color: var(--color-cuivre-clair);
+  }
+
+  /* ─── CHECKLIST ────────────────────────────────────────────── */
+
+  .checklist {
+    background: var(--color-blanc-warm);
+    padding: var(--space-5) var(--space-6);
+    margin: var(--space-5) 0;
+    border-radius: var(--radius-sm);
+    border: 1px solid rgba(192, 128, 64, 0.3);
+  }
+
+  .checklist h4 {
+    color: var(--color-cuivre-fonce);
+    margin-top: 0;
+    margin-bottom: var(--space-3);
+  }
+
+  .checklist ol {
+    list-style: none;
+    counter-reset: check-counter;
+    padding: 0;
+    margin: 0;
+  }
+
+  .checklist ol li {
+    counter-increment: check-counter;
+    position: relative;
+    padding: var(--space-2) 0 var(--space-2) var(--space-7);
+    font-size: var(--fs-body-sm);
+    line-height: 1.55;
+    color: var(--text-primary);
+  }
+
+  .checklist ol li::before {
+    content: "☐";
+    position: absolute;
+    left: 0;
+    top: var(--space-2);
+    color: var(--color-cuivre-poli);
+    font-size: var(--fs-h4);
+    font-weight: var(--fw-bold);
+  }
+
+  /* ─── FOOTER ───────────────────────────────────────────────── */
+
+  footer {
+    margin-top: var(--space-10);
+    padding-top: var(--space-6);
+    border-top: 2px solid var(--color-noir-carbone);
+    text-align: center;
+    color: var(--text-tertiary);
+    font-size: var(--fs-caption);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+    font-weight: var(--fw-medium);
+  }
+
+  /* ─── HELPERS ──────────────────────────────────────────────── */
+
+  .u-accent      { color: var(--color-cuivre-clair); }
+  .u-accent-dark { color: var(--color-cuivre-fonce); }
+  .u-success     { color: var(--color-success); font-weight: var(--fw-bold); }
+  .u-danger      { color: var(--color-danger); font-weight: var(--fw-bold); }
+  .u-mono        { font-family: var(--font-mono); }
+  .u-small       { font-size: var(--fs-body-sm); }
+  .u-uppercase   { text-transform: uppercase; letter-spacing: var(--ls-wide); }
+
+  .file-ref {
+    font-family: var(--font-mono);
+    font-size: 0.88em;
+    color: var(--color-cuivre-fonce);
+    background: rgba(192, 128, 64, 0.08);
+    padding: 1px 4px;
+    border-radius: 2px;
+    font-weight: var(--fw-medium);
+  }
+
+  .file-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-3) 0;
+    columns: 2;
+    column-gap: var(--space-6);
+  }
+  .file-list li {
+    font-family: var(--font-mono);
+    font-size: var(--fs-body-sm);
+    padding: var(--space-1) 0;
+    color: var(--text-secondary);
+    break-inside: avoid;
+  }
+
+  @media (max-width: 700px) {
+    .file-list { columns: 1; }
+    .cover h1 { font-size: 48px; }
+    .part-title { font-size: 32px; }
+    h2 { font-size: 28px; }
+    h3 { font-size: 20px; }
+    .stat__num { font-size: 48px; }
+    .pillar { grid-template-columns: 50px 1fr; gap: var(--space-3); }
+    .pillar__num { font-size: 32px; }
+    .page { padding: var(--space-7) var(--space-4); }
+  }
+
+  a.anchor {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  p a, .lead a, li a {
+    color: var(--color-cuivre-fonce);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(192, 128, 64, 0.4);
+    transition: border-color 120ms ease-out;
+  }
+  p a:hover, li a:hover {
+    border-bottom-color: var(--color-cuivre-poli);
+  }
+
+  @media print {
+    body { background: white; }
+    .page { max-width: none; padding: 0; }
+    pre { page-break-inside: avoid; }
+    section, .card, .callout { page-break-inside: avoid; }
+    .toc { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- ─── COUVERTURE ────────────────────────────────────────── -->
+  <header class="cover">
+    <p class="eyebrow">Teardown + Recommandations Growth · 16 mai 2026</p>
+    <h1>Comment fonctionne vraiment l'algorithme X en 2026</h1>
+    <p class="subtitle">Démontage du release open-source <a href="https://github.com/xai-org/x-algorithm"><code>xai-org/x-algorithm</code></a> (15 mai 2026), avec quatre pistes de recommandations adaptées à des audiences distinctes.</p>
+
+    <dl class="cover-meta">
+      <div>
+        <dt>Source</dt>
+        <dd><code>xai-org/x-algorithm</code></dd>
+      </div>
+      <div>
+        <dt>Release</dt>
+        <dd>15 mai 2026</dd>
+      </div>
+      <div>
+        <dt>Format</dt>
+        <dd>Teardown + 4 pistes audience</dd>
+      </div>
+      <div>
+        <dt>Discipline</dt>
+        <dd>Citations <code>fichier:ligne</code> · Direction plutôt que magnitude</dd>
+      </div>
+    </dl>
+  </header>
+
+  <!-- ─── À LIRE D'ABORD ────────────────────────────────────── -->
+  <section>
+    <div class="callout callout--warning">
+      <p class="eyebrow">À lire d'abord</p>
+      <p>La fameuse table des poids de 2023 — <em>« replies count more than likes by a big multiplier »</em> — décrit un système qui <strong>n'existe plus sous cette forme</strong>. L'algorithme 2026 est un transformeur (Phoenix) qui apprend les poids depuis votre historique d'engagement, scoré contre une surface multi-actions, gatée par un service offline de compréhension de contenu (Grox). <strong>La forme du scoring importe désormais beaucoup plus que les nombres</strong>, et les nombres eux-mêmes ne sont pas dans le release public. Ce rapport s'en tient à ce que le code montre.</p>
+    </div>
+  </section>
+
+  <!-- ─── SOMMAIRE ──────────────────────────────────────────── -->
+  <section class="toc">
+    <h4>Sommaire</h4>
+    <ol>
+      <li><a href="#part1">Partie 1 — Teardown</a></li>
+      <li><a href="#feed-diagram">1.1 Le fil « For You » en un diagramme</a></li>
+      <li><a href="#19-actions">1.2 Les 19 choses que Phoenix prédit</a></li>
+      <li><a href="#scoring-formula">1.3 La formule de score — et le caveat sur les poids</a></li>
+      <li><a href="#hidden-multipliers">1.4 Les multiplicateurs cachés</a></li>
+      <li><a href="#never-enters">1.5 Ce qui n'entre jamais dans le ranker</a></li>
+      <li><a href="#phoenix-learns">1.6 Ce que Phoenix apprend réellement</a></li>
+      <li><a href="#changes-2023">1.7 Ce qui a changé depuis le release 2023</a></li>
+      <li><a href="#part2">Partie 2 — Recommandations</a></li>
+      <li><a href="#track-a">2.A Voix personnelle / fondateur</a></li>
+      <li><a href="#track-b">2.B Compte marque / entreprise</a></li>
+      <li><a href="#track-c">2.C Cadre généralisé</a></li>
+      <li><a href="#track-d">2.D Livrable client / consulting</a></li>
+      <li><a href="#appendix">Annexes</a></li>
+    </ol>
+  </section>
+
+  <!-- ─── PARTIE 1 ──────────────────────────────────────────── -->
+  <section id="part1">
+    <p class="part-eyebrow">Partie 1</p>
+    <h2 class="part-title">Teardown</h2>
+
+    <!-- ─── 1.1 ───────────────────────────────────────────── -->
+    <section id="feed-diagram" class="subsection">
+      <h3>1.1 Le fil « For You » en un diagramme</h3>
+      <p>Voici l'architecture telle qu'elle est citée directement dans le <code>README</code> amont (la représentation la plus claire du repo) :</p>
+
+      <div class="mermaid-wrap">
+        <p class="diagram-label">Pipeline For You feed · Architecture orchestrée par Home Mixer</p>
+        <div class="mermaid">
+flowchart TD
+    REQ(["FOR YOU FEED REQUEST"]):::endpoint
+
+    subgraph HM["HOME MIXER  ·  Orchestration Layer"]
+        direction TB
+        QH["<b>QUERY HYDRATION</b><br/>— User Action Sequence (historique d'engagement)<br/>— User Features (following list, mutes/blocks, …)"]:::step
+        CS["<b>CANDIDATE SOURCES</b><br/>— THUNDER · in-network : posts des comptes suivis<br/>— PHOENIX RETRIEVAL · out-of-network : two-tower ANN<br/>— + ads / who-to-follow / topics / MoE / prompts"]:::step
+        HY["<b>HYDRATION</b><br/>— core metadata, author info, media, engagement counts"]:::step
+        FI["<b>FILTERING (pre-scoring)</b><br/>— dedupe, age, self, blocks, mutes, paywall, already-seen"]:::step
+        SC["<b>SCORING</b><br/>— Phoenix Scorer · P(action) pour chacune des 19 actions<br/>— Weighted Scorer · Σ (weight × P(action))<br/>— Author Diversity · atténue les auteurs répétés<br/>— OON Scorer · pénalité multiplicative si OON"]:::stepHighlight
+        SE["<b>SELECTION</b><br/>— trier par score final, sélectionner top K"]:::step
+        PF["<b>POST-SELECTION FILTERS</b><br/>— VFFilter (deletes/spam/violence/gore), convo dedup"]:::step
+
+        QH --> CS --> HY --> FI --> SC --> SE --> PF
+    end
+
+    RES(["RANKED FEED RESPONSE"]):::endpoint
+
+    REQ --> HM
+    HM --> RES
+
+    classDef endpoint fill:#111111,stroke:#111111,stroke-width:2px,color:#ffffff,font-weight:700
+    classDef step fill:#ffffff,stroke:#111111,stroke-width:1.5px,color:#111111,text-align:left
+    classDef stepHighlight fill:#f7f3ee,stroke:#c08040,stroke-width:2px,color:#111111,text-align:left
+        </div>
+      </div>
+
+      <p>Trois composants font presque tout le travail :</p>
+      <div class="grid grid--3">
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Composant · 01</p>
+          <h4 class="card-title">Home Mixer</h4>
+          <p><span class="file-ref">x-algorithm/home-mixer/</span></p>
+          <p>Orchestrateur Rust qui exécute le pipeline ci-dessus à chaque requête.</p>
+        </div>
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Composant · 02</p>
+          <h4 class="card-title">Thunder</h4>
+          <p><span class="file-ref">x-algorithm/thunder/</span></p>
+          <p>Store Rust en mémoire des posts récents par utilisateur, alimenté par Kafka. Lookups sub-millisecondes des candidats in-network (<code>thunder/main.rs</code>, <code>thunder/post_store.rs</code>).</p>
+        </div>
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Composant · 03</p>
+          <h4 class="card-title">Phoenix</h4>
+          <p><span class="file-ref">x-algorithm/phoenix/</span></p>
+          <p>Service ML JAX qui fait à la fois la récupération de candidats (modèle two-tower) et le ranking (transformeur dérivé de Grok-1).</p>
+        </div>
+      </div>
+      <p>Un quatrième composant, <strong>Grox</strong> (<code>x-algorithm/grox/</code>), fonctionne <em>en offline</em> — il classifie et encode les posts sur un chemin séparé, écrit ces signaux dans le feature store, et Home Mixer les hydrate plus tard. Grox ne se trouve pas sur le chemin chaud des requêtes.</p>
+    </section>
+
+    <!-- ─── 1.2 ───────────────────────────────────────────── -->
+    <section id="19-actions" class="subsection">
+      <h3>1.2 Les 19 choses que Phoenix prédit (et pourquoi c'est le changement majeur)</h3>
+      <p>L'algorithme de 2023 scorait chaque candidat contre une combinaison linéaire d'étiquettes d'engagement faite à la main, avec des multiplicateurs largement fuités. L'algorithme 2026 score chaque candidat contre la sortie d'un transformeur appris qui prédit les probabilités de <strong>dix-neuf actions différentes</strong>. D'après <code>phoenix/runners.py:233-252</code> et confirmé dans <code>home-mixer/candidate_pipeline/candidate.rs:30-51</code> (struct <code>PhoenixScores</code>) :</p>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Index</th>
+              <th>Action</th>
+              <th>Signe</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td><code>0</code></td><td><code>favorite_score</code> (like)</td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>1</code></td><td><code>reply_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>2</code></td><td><code>repost_score</code> (retweet)</td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>3</code></td><td><code>photo_expand_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>4</code></td><td><code>click_score</code> (clic lien/post)</td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>5</code></td><td><code>profile_click_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>6</code></td><td><code>vqv_score</code> (video quality view)</td><td><span class="pos">positif</span> (gated par durée minimale)</td></tr>
+            <tr><td><code>7</code></td><td><code>share_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>8</code></td><td><code>share_via_dm_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>9</code></td><td><code>share_via_copy_link_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>10</code></td><td><code>dwell_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>11</code></td><td><code>quote_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>12</code></td><td><code>quoted_click_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>13</code></td><td><code>follow_author_score</code></td><td><span class="pos">positif</span></td></tr>
+            <tr><td><code>14</code></td><td><code>not_interested_score</code></td><td><span class="neg">négatif</span></td></tr>
+            <tr><td><code>15</code></td><td><code>block_author_score</code></td><td><span class="neg">négatif</span></td></tr>
+            <tr><td><code>16</code></td><td><code>mute_author_score</code></td><td><span class="neg">négatif</span></td></tr>
+            <tr><td><code>17</code></td><td><code>report_score</code></td><td><span class="neg">négatif</span></td></tr>
+            <tr><td><code>18</code></td><td><code>dwell_time</code> (durée continue)</td><td><span class="pos">positif</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p>Les quatre actions de feedback négatif sont explicitement énumérées comme <code>NEGATIVE_FEEDBACK_INDICES: List[int] = [14, 15, 16, 17]</code> dans <code>phoenix/runners.py</code>.</p>
+
+      <p>Le changement majeur par rapport à 2023 est <strong>la surface d'actions elle-même</strong>. Nouveaux signaux first-class : <code>dwell_time</code> continu (et plus seulement binaire dwelled / not-dwelled), <code>vqv_score</code> (un visionnage vidéo gated par un seuil de qualité, pas un visionnage brut), <code>follow_author_score</code> (le modèle apprend à prédire si un post fera gagner un nouveau follower à son auteur), et trois variantes distinctes de partage (in-app, via DM, via copy-link). Chacune est une prédiction séparée ; chacune peut être pondérée indépendamment dans la formule de score.</p>
+    </section>
+
+    <!-- ─── 1.3 ───────────────────────────────────────────── -->
+    <section id="scoring-formula" class="subsection">
+      <h3>1.3 La formule de score — et le caveat sur les poids</h3>
+      <p>Le Weighted Scorer combine les prédictions exactement comme le <code>README</code> l'écrit : <code>Σ (weight × P(action))</code>. Le câblage complet est dans <code>home-mixer/scorers/weighted_scorer.rs:44-91</code>. Concrètement, le score d'un candidat est :</p>
+
+<pre class="formula">favorite × FAVORITE_WEIGHT
++ reply × REPLY_WEIGHT
++ retweet × RETWEET_WEIGHT
++ photo_expand × PHOTO_EXPAND_WEIGHT
++ click × CLICK_WEIGHT
++ profile_click × PROFILE_CLICK_WEIGHT
++ vqv × (VQV_WEIGHT if video duration > MIN_VIDEO_DURATION_MS else 0)
++ share × SHARE_WEIGHT
++ share_via_dm × SHARE_VIA_DM_WEIGHT
++ share_via_copy_link × SHARE_VIA_COPY_LINK_WEIGHT
++ dwell × DWELL_WEIGHT
++ quote × QUOTE_WEIGHT
++ quoted_click × QUOTED_CLICK_WEIGHT
++ dwell_time × CONT_DWELL_TIME_WEIGHT
++ follow_author × FOLLOW_AUTHOR_WEIGHT
++ not_interested × NOT_INTERESTED_WEIGHT
++ block_author × BLOCK_AUTHOR_WEIGHT
++ mute_author × MUTE_AUTHOR_WEIGHT
++ report × REPORT_WEIGHT</pre>
+
+      <p>Les quatre poids négatifs sont des nombres négatifs, donc ils soustraient. Une petite étape <code>offset_score()</code> (<code>weighted_scorer.rs:83-91</code>) maintient les scores agrégés négatifs bien ordonnés par rapport aux positifs.</p>
+
+      <div class="callout callout--danger">
+        <p class="eyebrow">Le caveat — et c'est le caveat le plus important de ce rapport</p>
+        <p>Aucune de ces constantes <code>*_WEIGHT</code> n'est définie dans le release open-source. Elles sont toutes référencées comme <code>crate::params::FAVORITE_WEIGHT</code> etc., mais <strong>aucun module <code>params.rs</code> n'existe dans le code publié</strong> (vérifié par <code>grep -rn</code> sur tout le repo). Les poids sont gérés par un service feature-switch / paramètres que X opère en interne, qui leur permet de faire de l'A/B test et d'ajuster les poids sans changement de code.</p>
+        <p class="quote quote--sm" style="margin-top: 1rem;">Quiconque vous dit « les replies valent N,N× plus que les likes en 2026 » fabrique un chiffre qui n'est pas dérivable du release OSS.</p>
+        <p>Ce que ce rapport peut vous dire — et qui est réellement utile — c'est <strong>le signe et le rôle structurel</strong> de chaque poids : quelles actions sont positives, lesquelles sont négatives, lesquelles sont gatées par des propriétés de contenu, et à quelles surfaces elles s'appliquent.</p>
+      </div>
+    </section>
+
+    <!-- ─── 1.4 ───────────────────────────────────────────── -->
+    <section id="hidden-multipliers" class="subsection">
+      <h3>1.4 Les multiplicateurs cachés</h3>
+      <p>Trois multiplicateurs structurels agissent sur le score <em>après</em> la somme pondérée. Ils ne sont pas dans la grille « table de poids » parce qu'ils multiplient l'ensemble du score, pas des probabilités d'action individuelles — mais ils façonnent les résultats plus que n'importe quel poids individuel.</p>
+
+      <div class="grid grid--2">
+        <div class="card card--accent">
+          <p class="card-eyebrow">Multiplicateur · 01</p>
+          <h4 class="card-title">Pénalité Out-of-Network (OON)</h4>
+          <p><span class="file-ref">home-mixer/scorers/oon_scorer.rs:20-23</span></p>
+<pre class="formula" style="margin: 0.5rem 0; font-size: 12px;">score = base_score × OON_WEIGHT_FACTOR  si OON
+score = base_score                       sinon</pre>
+          <p>Le <code>README</code> indique <code>OON_WEIGHT_FACTOR &lt; 1</code>, et le commentaire de la ligne 7 confirme l'intention : <em>« Prioritize in-network candidates over out-of-network candidates. »</em> C'est la version codifiée de « les followers comptent » : un post d'un compte que vous suivez est noté contre un plafond plus élevé que le même post venant d'un compte que vous ne suivez pas.</p>
+        </div>
+
+        <div class="card card--accent">
+          <p class="card-eyebrow">Multiplicateur · 02</p>
+          <h4 class="card-title">Exception OON pour les nouveaux utilisateurs</h4>
+          <p><span class="file-ref">home-mixer/scorers/ranking_scorer.rs:220-239</span></p>
+          <p>Pour les utilisateurs dont l'âge du compte est inférieur à <code>NewUserAgeThresholdSecs</code> <em>et</em> qui suivent au moins <code>NEW_USER_MIN_FOLLOWING</code> comptes, la pénalité OON est remplacée par <code>NEW_USER_OON_WEIGHT_FACTOR</code>. Les nouveaux comptes qui ont fait un onboarding minimal (suivre suffisamment de gens) obtiennent un traitement différent du contenu out-of-network. Cela biaise ce que voient les nouveaux utilisateurs — et par extension, ce que les nouveaux comptes peuvent atteindre.</p>
+        </div>
+
+        <div class="card card--accent">
+          <p class="card-eyebrow">Multiplicateur · 03</p>
+          <h4 class="card-title">Atténuation de diversité d'auteurs</h4>
+          <p><span class="file-ref">home-mixer/scorers/author_diversity_scorer.rs:29-31</span></p>
+<pre class="formula" style="margin: 0.5rem 0; font-size: 12px;">multiplier(position) =
+  (1 - floor) × decay_factor^position + floor</pre>
+          <p>Où <code>position</code> est le nombre de posts de cet auteur déjà apparus plus haut dans la liste <em>triée</em> de candidats. Le meilleur post d'un auteur donné dans un render donné garde tout son score ; chaque post suivant du même auteur est atténué, et l'atténuation ne descend jamais sous <code>floor</code>. L'implication pour la cadence de publication est <strong>structurelle, pas heuristique</strong>.</p>
+        </div>
+
+        <div class="card card--accent">
+          <p class="card-eyebrow">Multiplicateur · 04</p>
+          <h4 class="card-title">Gate de durée vidéo</h4>
+          <p><span class="file-ref">home-mixer/scorers/weighted_scorer.rs:72-81</span></p>
+          <p>Le <code>vqv_score</code> (video quality view) n'entre dans la somme pondérée que si la durée de la vidéo dépasse <code>MIN_VIDEO_DURATION_MS</code>. Les clips plus courts ne reçoivent simplement pas du tout la contribution VQV (leur poids <code>vqv</code> est remplacé par zéro). <strong>C'est un gate dur, pas une pénalité douce.</strong></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── 1.5 ───────────────────────────────────────────── -->
+    <section id="never-enters" class="subsection">
+      <h3>1.5 Ce qui n'entre jamais dans le ranker</h3>
+      <p>Deux couches de filtres tiennent les posts complètement à l'écart du pipeline de scoring. La reach perdue ici est invisible — le post n'a jamais été scoré, il n'a donc jamais eu la chance de bien scorer.</p>
+
+      <h4>Filtres pre-scoring</h4>
+      <p><span class="file-ref">home-mixer/filters/</span>, exécutés séquentiellement avant tout scoring :</p>
+      <ul class="list">
+        <li><code>DropDuplicatesFilter</code> — IDs de posts exactement dupliqués.</li>
+        <li><code>CoreDataHydrationFilter</code> — posts qui ont échoué à s'hydrater.</li>
+        <li><code>AgeFilter</code> — plus anciens que l'âge max configuré.</li>
+        <li><code>SelfpostFilter</code> — vos propres posts.</li>
+        <li><code>RepostDeduplicationFilter</code> — multiples reposts du même contenu.</li>
+        <li><code>IneligibleSubscriptionFilter</code> — contenu payant pour les non-abonnés.</li>
+        <li><code>PreviouslySeenPostsFilter</code> — posts dans les <code>seen_ids</code> du viewer.</li>
+        <li><code>PreviouslyServedPostsFilter</code> — posts déjà servis dans la session courante.</li>
+        <li><code>MutedKeywordFilter</code> — posts matchant les muted keywords du viewer.</li>
+        <li><code>AuthorSocialgraphFilter</code> — posts d'auteurs que le viewer a bloqués ou mutés, <em>et</em> posts où l'auteur bloque le viewer (y compris l'auteur cité d'un quote tweet). <strong>La relation de block est vérifiée dans les deux sens.</strong></li>
+      </ul>
+
+      <h4>Filtres post-selection</h4>
+      <p>Après ranking, avant servir :</p>
+      <ul class="list">
+        <li><code>VFFilter</code> — visibility filtering : deleted, spam, violence, gore.</li>
+        <li><code>DedupConversationFilter</code> — replie les multiples branches d'une même conversation.</li>
+      </ul>
+
+      <h4>Gates offline Grox</h4>
+      <p><span class="file-ref">x-algorithm/grox/</span>, exécutés séparément et écrits au feature store avant qu'un post ne devienne candidat. Ce sont des <strong>classifieurs d'éligibilité, pas des modificateurs de score</strong> :</p>
+      <ul class="list">
+        <li><code>task_spam_detection.py</code> / <code>classifiers/content/spam.py</code> — écran spam Grok-based pour les replies à faible follower / faible qualité.</li>
+        <li><code>task_post_safety_screen_deluxe.py</code> — écran violence, NSFW, misinformation.</li>
+        <li><code>task_safety_ptos_policy.py</code> — violations des conditions d'utilisation.</li>
+        <li><code>task_banger_screen.py</code> — écran haute qualité / viral en amont (positif).</li>
+        <li><code>task_reply_ranking.py</code> — scoring qualité des replies, consommé pour le ranking de conversation.</li>
+      </ul>
+
+      <div class="callout">
+        <p class="eyebrow">Le point architectural</p>
+        <p>Le contenu borderline n'est pas « rétrogradé » dans le système 2026. Il est <strong>disqualifié au moment de l'hydratation</strong> et n'atteint jamais le scoring. C'est matériellement différent du modèle reduced-reach / visibility-filtering du système 2023.</p>
+      </div>
+    </section>
+
+    <!-- ─── 1.6 ───────────────────────────────────────────── -->
+    <section id="phoenix-learns" class="subsection">
+      <h3>1.6 Ce que Phoenix apprend réellement</h3>
+      <p>L'input le plus conséquent de Phoenix n'est pas le post candidat ; c'est <strong>votre séquence d'actions</strong>. <code>home-mixer/query_hydrators/user_action_seq_query_hydrator.rs</code> récupère l'historique d'engagement récent du viewer (likes, replies, shares, dwell, blocks, mutes, etc.) et le passe comme séquence au transformeur en plus de l'ensemble des candidats. D'après <code>phoenix/recsys_model.py</code> et le design de candidate-isolation décrit dans le <code>README</code> : les candidats peuvent attendre votre séquence d'actions, mais ils ne peuvent pas s'attendre les uns les autres.</p>
+
+      <p>Les implications :</p>
+      <ul class="list">
+        <li>Les scores sont <strong>per-user et per-post</strong>, pas globaux. Le même post prédit à gagner un like de l'utilisateur A à la probabilité p₁ est prédit à gagner un like de l'utilisateur B à la probabilité p₂ ; il n'y a pas de chiffre unique « ce post est bon ».</li>
+        <li>« Devenir viral » est un résultat <em>au niveau population</em> de nombreuses prédictions personnelles indépendantes qui franchissent le seuil, pas une métrique unique que Phoenix optimise.</li>
+        <li>Récence, affinité de sujet, proximité sociale, préférence linguistique et affinité historique d'auteur sont toutes implicites dans la séquence. Ce ne sont <em>plus</em> des features codées à la main — le <code>README</code>, ligne 55 : <em>« We have eliminated every single hand-engineered feature and most heuristics from the system. »</em> Le transformeur les apprend.</li>
+        <li>Deux signaux associés bénéficient d'une hydratation explicite même dans ce monde transformer-first : <code>mutual_follow_jaccard_hydrator.rs</code> calcule la similarité de Jaccard entre les followers du viewer et les followers de l'auteur candidat (proximité sociale), et <code>following_replied_users_hydrator.rs</code> signale quand un utilisateur que le viewer suit a répondu à un candidat. Ce sont des échafaudages que le transformeur peut utiliser.</li>
+      </ul>
+
+      <p>Pour la récupération OON (two-tower Phoenix), l'input est aussi la séquence d'actions : votre historique d'actions devient un embedding utilisateur, les posts candidats ont des embeddings post, et le système récupère les posts dont les embeddings sont proches du vôtre. Les embeddings viennent en partie de <code>grox/embedder/multimodal_post_embedder_v5.py</code>, qui encode texte + images + (optionnel) transcription ASR du vidéo en un vecteur normalisé de 1024 dimensions.</p>
+
+      <p class="lead">Votre découvrabilité par des inconnus est donc fonction de la proximité d'embedding entre vos posts et ceux que votre audience cible engage déjà.</p>
+    </section>
+
+    <!-- ─── 1.7 ───────────────────────────────────────────── -->
+    <section id="changes-2023" class="subsection">
+      <h3>1.7 Ce qui a changé depuis le release 2023</h3>
+      <p>Cinq différences sont suffisamment grandes pour être <strong>structurantes dans la réflexion growth</strong> :</p>
+
+      <ol class="list">
+        <li><strong>Pas de feature codée à la main.</strong> Le release 2023 avait des termes de boost / pénalité explicites pour le statut verified, les abonnés payants, la distance réseau, etc. Le release 2026 les a arrachés au profit de laisser le transformeur apprendre la pertinence depuis les séquences d'actions (<code>README</code> ligne 55, plus la section Key Design Decisions). Cela signifie que les conseils « règle du pouce » liés à des multiplicateurs spécifiques de 2023 ne sont pas seulement datés — ils pointent vers du code qui n'existe plus.</li>
+        <li><strong>Un modèle prédisant plusieurs actions, au lieu de plusieurs modèles prédisant chacun une action.</strong> Phoenix prédit le vecteur complet à dix-neuf actions en une seule forward pass avec un masking de candidate-isolation (les scores sont donc batch-independent et cacheables). Le système 2023 cousait des prédicteurs séparés ensemble ; Phoenix est unifié.</li>
+        <li><strong>Grox sépare la compréhension de contenu et le ranking.</strong> Spam, safety, PTOS et classification « banger » se passent toutes sur un chemin offline séparé (<code>grox/plan_master.py</code> orchestre neuf plans parallèles) et écrivent dans des feature stores. Home Mixer lit ces signaux comme des gates déjà décidés. Le chemin chaud ne fait pas de compréhension de contenu ; ce travail a été déplacé en amont.</li>
+        <li><strong>Nouveaux signaux d'engagement first-class.</strong> <code>dwell_time</code> continu, video quality view (<code>vqv_score</code>), <code>follow_author_score</code> et trois variantes de share (<code>share</code>, <code>share_via_dm</code>, <code>share_via_copy_link</code>) n'existaient pas comme poids discrets dans le release 2023. Chacun a un poids séparé, et plusieurs concernent des comportements que les créateurs peuvent directement influencer.</li>
+        <li><strong>Récupération OON two-tower.</strong> La découverte out-of-network n'est plus « SimClusters + heuristiques » ; c'est un modèle two-tower appris où à la fois les utilisateurs et les posts ont des embeddings, et la recherche ANN récupère les candidats proches (<code>phoenix_source.rs</code>, <code>phoenix/recsys_retrieval_model.py</code>). L'embedding d'un post vient d'un modèle multimodal qui traite texte, images et optionnellement une bande sonore transcrite de toute vidéo. Cela rend la <em>clarté sémantique</em> d'un post mesurablement plus importante que le simple chevauchement de mots-clés.</li>
+      </ol>
+    </section>
+  </section>
+
+  <!-- ─── PARTIE 2 ──────────────────────────────────────────── -->
+  <section id="part2">
+    <p class="part-eyebrow">Partie 2</p>
+    <h2 class="part-title">Recommandations</h2>
+
+    <p>Les quatre pistes audience partagent une <strong>colonne vertébrale à sept piliers</strong> pour être comparables. Les piliers dérivent directement de la Partie 1 ; si une recommandation n'est pas ancrée dans un de ces piliers (avec une citation), elle n'a pas sa place dans le rapport.</p>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Pilier</th>
+            <th>Ce que dit le code</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>1. Avantage in-network</strong></td><td><code>oon_scorer.rs:20-23</code> — Le contenu OON est multiplié par un facteur <code>&lt; 1</code>.</td></tr>
+          <tr><td><strong>2. Cadre P(action)</strong></td><td><code>phoenix/recsys_model.py</code> — Phoenix prédit des probabilités per-user, pas globales.</td></tr>
+          <tr><td><strong>3. Actions à fort poids</strong></td><td><code>weighted_scorer.rs:49-67</code> — 19 actions pondérées distinctes ; choisir lesquelles déclencher.</td></tr>
+          <tr><td><strong>4. Atténuation de diversité</strong></td><td><code>author_diversity_scorer.rs:29-31</code> — décroissance exponentielle par auteur répété par render.</td></tr>
+          <tr><td><strong>5. Signaux négatifs</strong></td><td><code>weighted_scorer.rs:64-67</code> + <code>AuthorSocialgraphFilter</code> + <code>MutedKeywordFilter</code> — soustractions directes et gates durs.</td></tr>
+          <tr><td><strong>6. Récupérabilité two-tower</strong></td><td><code>phoenix_source.rs</code> + <code>multimodal_post_embedder_v5.py</code> — votre reach vers les inconnus dépend de la proximité d'embedding.</td></tr>
+          <tr><td><strong>7. Éligibilité Grox / VF</strong></td><td><code>grox/plan_master.py</code> + <code>home-mixer/filters/vf_filter.rs</code> — le contenu borderline est exclu, pas rétrogradé.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout">
+      <p class="eyebrow">Une note sur la confiance</p>
+      <p>Les affirmations sur la <em>direction</em> (poids positif ou négatif, gate dur ou ajustement doux, existe ou pas) sont à haute confiance et citées. Les affirmations sur la <em>magnitude</em> (combien, à quelle fréquence, dans quel ratio) sont marquées <code>(directional)</code> parce qu'elles ne peuvent pas être dérivées de l'OSS.</p>
+    </div>
+
+    <!-- ─── 2.A ───────────────────────────────────────────── -->
+    <section id="track-a" class="subsection">
+      <h3>2.A · Voix personnelle / fondateur</h3>
+      <p>Vous êtes un seul humain qui poste depuis un seul compte. Votre objectif est une combinaison de croissance de followers, compounding de réseau et profondeur conversationnelle. Votre budget temps est petit. Choisissez les piliers qui font bouger l'aiguille.</p>
+
+      <div class="pillar">
+        <div class="pillar__num">01</div>
+        <div class="pillar__body">
+          <h4>Avantage in-network</h4>
+          <p>Tant que vous n'avez pas une vraie base de followers, chaque post que vous publiez lutte contre la pénalité OON (<code>oon_scorer.rs:21</code>). La seule action à plus fort levier que vous puissiez faire est de convertir vos relations réelles existantes en follows — DMs, cross-promo podcast, footers de newsletter, replies sur des comptes dont l'audience chevauche la vôtre. Chaque follower vous convertit de « en compétition dans le pool OON » à « servi par Thunder par défaut » pour cet utilisateur.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">02</div>
+        <div class="pillar__body">
+          <h4>Cadre P(action)</h4>
+          <p>Arrêtez d'optimiser pour les likes totaux ; les likes totaux sont un artefact de population. Optimisez pour <em>que la prochaine personne qui voit ce post soit susceptible de faire l'action que vous voulez qu'elle fasse</em>. Choisissez <strong>une seule</strong> action par post : un reply (vous posez une question), un follow (vous postez une ligne d'autorité qui leur donne envie d'en voir plus), un dwell (vous postez un thread qui tire l'œil vers le bas), un share (vous packagez un takeaway si proprement que quelqu'un va le coller dans son groupe). Quand vous ne savez pas articuler quelle action vous visez, le post est peu susceptible de bien scorer pour aucune d'elles.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">03</div>
+        <div class="pillar__body">
+          <h4>Déclencher délibérément les actions à fort poids</h4>
+          <p>Parmi les 19 actions, celles sur lesquelles un compte personnel a le plus d'influence :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li><em>Reply</em> — les questions ayant une réponse spécifique et défendable récoltent des replies ; les prompts vagues du style « what do you think? » n'en récoltent pas.</li>
+            <li><em>Dwell time</em> — les threads et posts plus longs récoltent directement du <code>dwell_time</code> ; les posts d'une ligne ne le peuvent pas. Il y a maintenant un signal de dwell <em>continu</em> (index 18), pas seulement binaire dwelled / not-dwelled, donc faire que le post mérite d'être lu lentement compte.</li>
+            <li><em>Profile click</em> — le post qui donne envie à un inconnu de savoir qui vous êtes. Signalisation alignée sur la bio, ligne d'identité forte, revendication de domaine.</li>
+            <li><em>Follow-author</em> — Phoenix a sa propre prédiction pour ça (index 13). Les posts qui se lisent comme « voici ma prémisse et je vais la défendre à travers de nombreux posts à venir » récoltent ça ; les observations one-off n'en récoltent pas.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">04</div>
+        <div class="pillar__body">
+          <h4>Survivre à l'atténuation de diversité</h4>
+          <p>L'author diversity scorer (<code>author_diversity_scorer.rs:29-31</code>) trie les candidats par score puis atténue chaque apparition répétée du même auteur dans <em>ce render unique</em>. Règles pratiques :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li>Le meilleur post unique que vous publiez dans une fenêtre donnée garde tout son score. Le second-meilleur est atténué. Donc <strong>publiez votre meilleur post en premier</strong>, pas en dernier.</li>
+            <li>N'empilez pas les posts dos à dos ; étalez-les sur les fenêtres où votre audience rafraîchit son fil. (Les paramètres réels de décroissance sont externes — mais le fait structurel que la cadence compte est dans le code.)</li>
+            <li>Les reposts et quotes d'<em>autres</em> auteurs ne déclenchent pas votre décroissance d'auteur ; ils contribuent au score de diversité sous l'ID de l'auteur original.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">05</div>
+        <div class="pillar__body">
+          <h4>Rester hors de la zone des signaux négatifs</h4>
+          <p>Quatre poids négatifs directs (<code>not_interested</code>, <code>block_author</code>, <code>mute_author</code>, <code>report</code>, indices 14-17). Un mute ou un block soustrait du score de votre contenu <em>futur</em> pour cet utilisateur (parce que le transformeur a maintenant vu l'action négative dans sa séquence). Tactiquement : évitez la voix contrarian-pour-le-plaisir-de-l'être qui récolte des mutes de gens qui sont d'accord avec vous la plupart du temps. Choisissez vos combats ; n'en fabriquez pas.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">06</div>
+        <div class="pillar__body">
+          <h4>Récupérabilité two-tower <span class="u-accent-dark u-small">(sidebar)</span></h4>
+          <p>Si vous voulez atteindre des inconnus, postez sur des sujets où l'historique d'engagement récent de quelqu'un inclut des posts comme les vôtres. L'unicité stylistique compte moins que la proximité topique d'embedding — l'embedder multimodal v5 (<code>grox/embedder/multimodal_post_embedder_v5.py</code>) encode le <em>contenu sémantique</em>, pas votre voix de prose. Cross-poster la même idée en trois variantes (texte, image, vidéo) crée trois tirs d'embedding pour être récupéré.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">07</div>
+        <div class="pillar__body">
+          <h4>Gates Grox / VF <span class="u-accent-dark u-small">(sidebar)</span></h4>
+          <p>Le contenu borderline ne sous-performe pas ; il n'entre pas du tout dans le ranker. Si un post est à la limite de la classification spam (trop de @mentions, patterns de link spam, replies à faible engagement répétées sur de gros comptes), il peut disparaître entièrement du pool de candidats pour <em>certains</em> utilisateurs. Citez <code>grox/classifiers/content/spam.py</code> si un créateur pousse en retour.</p>
+        </div>
+      </div>
+
+      <div class="checklist">
+        <h4>Checklist 5 items pour vos 10 prochains posts</h4>
+        <ol>
+          <li>Chaque post nomme l'action unique qu'il vise (reply / dwell / follow / share).</li>
+          <li>Au moins trois sont des threads ou du long-form (qui récoltent directement du <code>dwell_time</code>).</li>
+          <li>Aucun n'est posté dans l'heure suivant un autre de vos posts (protection contre l'atténuation de diversité).</li>
+          <li>Deux sont cadrés pour récolter des profile clicks (identity bait, revendication de domaine).</li>
+          <li>Zéro sont des prises de position négatives réactives qui risquent de récolter des mutes de votre audience chaude.</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ─── 2.B ───────────────────────────────────────────── -->
+    <section id="track-b" class="subsection">
+      <h3>2.B · Compte marque / entreprise</h3>
+      <p>Vous représentez une organisation. Les décisions passent par approbation. Vous livrez un calendrier éditorial. Votre objectif est un mix de reach, click-through vers une propriété que vous contrôlez et génération de leads. Vous avez moins de flexibilité de voix qu'un compte personnel mais plus de capacité de production et des KPIs plus clairs.</p>
+
+      <div class="pillar">
+        <div class="pillar__num">01</div>
+        <div class="pillar__body">
+          <h4>Avantage in-network</h4>
+          <p>Même pénalité (<code>oon_scorer.rs:21</code>), outils différents. Deux moves pratiques :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li><em>Amplification employés</em> — chaque employé qui poste pour le compte de la marque est une source Thunder additionnelle pour ses followers. La reach du compte marque est l'union de la distribution in-network de chaque employé.</li>
+            <li><em>Densité de mutual-follow</em> — <code>mutual_follow_jaccard_hydrator.rs</code> calcule la similarité de Jaccard entre les followers du viewer et les followers de l'auteur candidat. Les marques implantées dans les bonnes communautés (vos clients se suivent les uns les autres) bénéficient d'un boost de ce signal qu'un compte marque isolé n'a pas.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">02</div>
+        <div class="pillar__body">
+          <h4>Cadre P(action)</h4>
+          <p>Arrêtez de remonter les totaux d'impressions au management. Reportez la <em>distribution d'actions par post</em> : quelle action ce post a-t-il récoltée le plus, et était-ce l'action que vous visiez ? Si vous vouliez des clicks mais avez eu des likes, le post était hors-brief — les likes ne sont pas un KPI de marque et Phoenix sous-classera le post pour vos audiences futures en conséquence.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">03</div>
+        <div class="pillar__body">
+          <h4>Déclencher délibérément les actions à fort poids</h4>
+          <p>Actions pertinentes pour une marque à concevoir :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li><em>Click</em> (index 4) et <em>quoted click</em> (index 12) — les actions qui drivent du trafic site mesurable. Les posts qui promettent un payoff nécessitant de quitter X récoltent ça.</li>
+            <li><em>VQV</em> (index 6) — vues vidéo au-delà de <code>MIN_VIDEO_DURATION_MS</code>. Couper une vidéo trop court tue la contribution entièrement. Construisez des assets vidéo assez longs pour franchir le seuil <em>et</em> montés assez serrés pour tenir l'attention au-delà. Hook court, puis substance.</li>
+            <li><em>Share via DM</em> (index 8) et <em>share via copy-link</em> (index 9) — ce sont des actions distinctes des shares in-app (index 7). Les posts qui sont collés dans des conversations privées et des DMs Slack ont assez de valeur pour mériter leurs propres poids. Décortications de pricing, comparaisons de produits, démos « regarde ça », controverse que les gens forwardent en privé plutôt que de répondre publiquement.</li>
+            <li><em>Follow-author</em> (index 13) — concevez au moins un post par semaine comme un <em>follow magnet</em> : « On est l'équipe qui construit X. Ce thread est une visite de ce qu'on shippe le mois prochain. » Phoenix prédit follow-author comme une probabilité discrète et le pondère en conséquence.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">04</div>
+        <div class="pillar__body">
+          <h4>Survivre à l'atténuation de diversité</h4>
+          <p>Les marques violent souvent ça sans s'en rendre compte :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li>Un « drumbeat » de quatre posts espacés de 30 minutes sous-performe le meilleur d'entre eux, seul (<code>author_diversity_scorer.rs:29-31</code>).</li>
+            <li>Le compte marque <em>et</em> le CEO postant la même annonce comptent comme deux auteurs distincts — ça bat un seul compte postant deux fois. Coordonnez à travers les humains, n'empilez pas sur un seul handle.</li>
+            <li>Pour les lancements, postez l'annonce une fois ; laissez les employés et l'amplification faire la couverture multi-sources.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">05</div>
+        <div class="pillar__body">
+          <h4>Rester hors de la zone des signaux négatifs</h4>
+          <p>Poids négatifs directs (indices 14-17) plus les gates plus durs : <code>AuthorSocialgraphFilter</code> inclut le cas « l'auteur bloque le viewer » pour les retweets et quotes, donc interagir avec des comptes controversés qui bloquent votre audience peut supprimer votre reach dans des directions inattendues. Pour la brand safety spécifiquement : le release du 15 mai 2026 a ajouté un module <code>home-mixer/ads/</code> avec un tracking brand-safety qui respecte les frontières de contenu sensible — ce qui signifie que si vos posts organiques atterrissent à répétition près de sujets sensibles, vous risquez d'être adjacents à des filtres de brand-safety qui affectent à la fois votre reach et votre monétisation.</p>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">06</div>
+        <div class="pillar__body">
+          <h4>Récupérabilité two-tower</h4>
+          <p>C'est le levier le plus sous-utilisé pour les marques. Tactiques concrètes :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li><em>Cohérence topique sur les semaines.</em> L'embedding de votre compte, en agrégé, est ce qui détermine à quelles queries de récupération vos posts apparaissent. Poster sur trop de sujets dilue l'embedding.</li>
+            <li><em>Posts multimodaux.</em> <code>multimodal_post_embedder_v5.py</code> encode texte + image + (optionnel) transcription ASR vidéo. Un post avec une image forte et une caption claire obtient un embedding plus riche que du texte seul. Un post avec une vidéo de quelqu'un <em>parlant clairement les mots-clés</em> obtient la contribution ASR. <strong>Sous-titrez vos vidéos pour le modèle, pas seulement pour le viewer.</strong></li>
+            <li><em>Alignement topic-pack.</em> Les nouvelles sources de candidats incluent <code>phoenix_topics_source.rs</code> et <code>phoenix_moe_source.rs</code> — être identifiable à un topic aide vos posts à apparaître via ces sources, pas seulement via la récupération générique.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pillar">
+        <div class="pillar__num">07</div>
+        <div class="pillar__body">
+          <h4>Gates Grox / VF</h4>
+          <p>Pour les comptes marque c'est de la compliance, pas de la créativité :</p>
+          <ul class="list list--compact" style="margin-top: 0.5rem;">
+            <li><code>task_post_safety_screen_deluxe.py</code> et <code>task_safety_ptos_policy.py</code> ne sont pas ajustables. Votre post legal-cleared peut quand même se faire exclure silencieusement s'il déclenche le classifieur. Mettez en place une watchlist de posts qui sous-performent mystérieusement et auditez-les comme exclusions suspectées, pas comme mauvais posts.</li>
+            <li><code>task_spam_detection.py</code> keye sur des patterns de replies à faible follower / faible qualité. Les comptes marque dont la stratégie d'engagement implique beaucoup de replies sur de gros posts peuvent accidentellement se faire flagger. Répondez <em>substantiellement</em> (le modèle évalue le contexte) ou pas du tout.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="checklist">
+        <h4>Checklist 5 items pour vos 10 prochains posts</h4>
+        <ol>
+          <li>L'intention d'action est annotée dans le calendrier (<code>target_action: click | vqv | dm_share | follow | reply</code>).</li>
+          <li>Chaque vidéo franchit <code>MIN_VIDEO_DURATION_MS</code> <em>et</em> est sous-titrée (l'embedder bénéficie de la transcription ASR-readable).</li>
+          <li>Un plan de distribution cross-author existe pour la semaine (marque + au moins 2 employés, jamais empilés).</li>
+          <li>Les posts ont une thématique topique sur la semaine, pas du saut aléatoire de sujet (cohérence d'embedding).</li>
+          <li>Au moins un post est conçu spécifiquement comme un follow magnet pour l'audience du lancement du mois prochain.</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ─── 2.C ───────────────────────────────────────────── -->
+    <section id="track-c" class="subsection">
+      <h3>2.C · Cadre généralisé</h3>
+      <p>Pour les audiences qui veulent le modèle indépendamment du rôle. Cette section est l'abstraction durable ; 2.A et 2.B sont les tactiques spécifiques au rôle.</p>
+
+      <h4>Les trois couches de reach</h4>
+      <p>L'algorithme 2026 est une pile de trois gates indépendants. Un post doit passer <em>les trois</em> pour atteindre un utilisateur donné :</p>
+
+      <div class="grid grid--3">
+        <div class="card">
+          <p class="card-eyebrow">Couche · 01</p>
+          <h4 class="card-title">Éligibilité</h4>
+          <p>Filtres pre-scoring et classifieurs offline Grox (Partie 1.5). <strong>Binaire</strong> : dedans ou dehors. Aucune optimisation possible ici hors « ne pas se faire exclure ».</p>
+        </div>
+        <div class="card">
+          <p class="card-eyebrow">Couche · 02</p>
+          <h4 class="card-title">Récupération</h4>
+          <p>Pour l'OON, le modèle two-tower (Partie 1.6). <strong>Probabiliste</strong> : votre post est ou n'est pas près de l'embedding de l'utilisateur. Optimisé par <em>ce que</em> vous postez (sujet, contenu sémantique, complétude multimodale).</p>
+        </div>
+        <div class="card">
+          <p class="card-eyebrow">Couche · 03</p>
+          <h4 class="card-title">Ranking</h4>
+          <p>La somme pondérée de dix-neuf probabilités d'actions apprises, modifiée par les multiplicateurs OON / diversité / video-gate (Parties 1.3, 1.4). <strong>Continu</strong> : votre post score relativement aux autres candidats. Optimisé par <em>comment</em> vous postez (quelle action vous déclenchez, quand, à quelle cadence).</p>
+        </div>
+      </div>
+
+      <p>La plupart des conseils growth confondent la couche 3 avec tout le système. C'est la couche la plus visible mais c'est la <em>dernière</em> couche ; les couches 1 et 2 déterminent si vous êtes même arrivé à être scoré.</p>
+
+      <h4>La surface d'actions comme question produit</h4>
+      <p>Phoenix prédit dix-neuf actions parce que les utilisateurs font dix-neuf choses distinctes. Chaque action est une relation différente que l'utilisateur peut avoir avec un post : <em>je vais faire ça socialement</em> (like, reply, quote, share), <em>je vais faire ça en privé</em> (DM-share, copy-link-share, dwell, photo expand), <em>je déclare une identité</em> (follow author, profile click), <em>je rejette</em> (not-interested, block, mute, report). Un post qui ne choisit pas une relation cible est prédit près de zéro pour toutes et score en conséquence.</p>
+
+      <h4>Le transformeur comme mécanisme d'équité</h4>
+      <p>Parce que Phoenix prédit des probabilités per-user depuis des séquences d'actions per-user, le « bon contenu » n'est pas une propriété globale. Deux posts qui semblent identiques à un humain peuvent avoir des résultats de ranking radicalement différents pour le même utilisateur à cause de ce que <em>cet utilisateur</em> a historiquement engagé. C'est mécaniquement équitable (pas de biais global vers les comptes établis au-delà du facteur OON) et personnellement inscrutable (aucun créateur ne peut savoir exactement pourquoi un post a marché et pas un autre). La formulation honnête est <strong>ciblage probabiliste, pas qualité déterministe</strong>.</p>
+
+      <h4>L'atténuation de diversité d'auteurs comme feature structurelle</h4>
+      <p>C'est la réponse de l'algorithme à la monoculture : empêcher qu'un seul créateur ne domine le fil d'un utilisateur dans un seul render. L'implication pour les créateurs est contre-intuitive :</p>
+      <p class="lead">Publier plus de posts par jour au-delà d'un seuil réduit, n'augmente pas, la reach totale — chaque post marginal est atténué et entre en compétition avec vos posts précédents dans le même render.</p>
+      <p>La cadence optimale est donc <strong>non-monotone</strong> en nombre de posts ; il y a un plateau par jour fixé par le taux de rafraîchissement de l'audience, la position de l'auteur, et les paramètres de <code>(1 - floor) × decay^position + floor</code>.</p>
+
+      <h4>Les signaux négatifs comme veto one-shot</h4>
+      <p>Un mute ou un block ne coûte pas seulement le post qui l'a déclenché ; il apparaît comme une entrée négative dans la séquence d'actions de cet utilisateur pour toujours, ce que Phoenix utilise pour chaque décision de scoring future concernant votre contenu pour cet utilisateur. Le coût est donc <em>cumulatif sur tous vos posts futurs pour cet utilisateur</em>. <strong>Les mutes évitables d'audiences sympathiques sont extrêmement coûteux en valeur espérée.</strong></p>
+
+      <h4>L'exclusion au moment de l'éligibilité est le tueur silencieux</h4>
+      <p>Le contenu borderline en 2026 ne sous-performe pas ; <strong>il disparaît</strong>. Il n'y a aucun signal au créateur qu'un classifieur Grox a exclu son post des pools de candidats. Le seul diagnostic est l'analyse comparative de reach à travers des posts à distance variable des bords de la policy.</p>
+
+      <h4>Deux lois de la croissance mécanique</h4>
+      <div class="grid grid--2">
+        <div class="card card--accent">
+          <p class="card-eyebrow">Loi · 01</p>
+          <h4 class="card-title">L'in-network est multiplicatif, l'OON est additif</h4>
+          <p>Les followers transforment chaque post futur d'un évènement probabiliste de récupération OON en un lookup Thunder déterministe. Les retours sur l'acquisition de followers <strong>compoundent sur chaque post que vous publierez jamais</strong>.</p>
+        </div>
+        <div class="card card--accent">
+          <p class="card-eyebrow">Loi · 02</p>
+          <h4 class="card-title">Le job du modèle est de vous prédire, pas de vous récompenser</h4>
+          <p>Phoenix optimise pour la précision prédictive de l'action utilisateur, pas pour le succès créateur. Les stratégies de croissance qui combattent ce que les utilisateurs font prévisiblement (mendier de l'engagement, manipuler avec de la controverse) blessent la qualité de prédiction de votre compte aux yeux du modèle et déclassent vos posts futurs en conséquence.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── 2.D ───────────────────────────────────────────── -->
+    <section id="track-d" class="subsection">
+      <h3>2.D · Livrable client / consulting</h3>
+      <p>Pour usage externe. Chaque affirmation cite le fichier où vit la preuve. La formulation est « ce que nous observons dans le release source public, et ce que cela implique pour des interventions de croissance mesurables ».</p>
+
+      <h4>Résumé exécutif</h4>
+      <div class="callout">
+        <p>L'algorithme For You X 2026 est un système à trois étages : un service offline de compréhension de contenu (Grox) gate l'éligibilité, un modèle de récupération two-tower fait remonter les candidats out-of-network, et un transformeur dérivé de Grok-1 (Phoenix) classe les candidats en prédisant dix-neuf actions d'engagement distinctes par utilisateur. Le ranking est <code>Σ (weight × P(action))</code> modifié par une pénalité out-of-network multiplicative et une atténuation de diversité d'auteurs (citations ci-dessous). <strong>Les poids numériques ne sont pas dans le release ouvert.</strong> Les interventions de croissance devraient cibler les <em>leviers structurels</em> documentés dans le code : quelle action un post est conçu pour déclencher, si le contenu passe les classifieurs d'éligibilité, si l'embedding du post se trouve dans le bon voisinage pour l'audience cible, et si la cadence de publication respecte l'atténuation de diversité.</p>
+      </div>
+
+      <h4>Tableau de preuves</h4>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Affirmation</th>
+              <th>Preuve (fichier:ligne)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Les candidats For You viennent de Thunder (in-network) et Phoenix retrieval (OON), puis sont rankés ensemble.</td><td><code>x-algorithm/README.md</code> lignes 48-53 ; <code>home-mixer/sources/thunder_source.rs</code> ; <code>home-mixer/sources/phoenix_source.rs</code></td></tr>
+            <tr><td>Phoenix prédit 19 probabilités d'actions distinctes par candidat.</td><td><code>home-mixer/candidate_pipeline/candidate.rs:30-51</code> (struct <code>PhoenixScores</code>) ; <code>phoenix/runners.py:233-252</code> (liste des indices d'actions)</td></tr>
+            <tr><td>Le score final est <code>Σ (weight × P(action))</code> sur les 19 actions.</td><td><code>home-mixer/scorers/weighted_scorer.rs:44-91</code> ; <code>README</code> ligne 289</td></tr>
+            <tr><td>Les poids numériques (<code>FAVORITE_WEIGHT</code> etc.) sont référencés mais pas définis dans le release OSS.</td><td><code>grep -rn "FAVORITE_WEIGHT" x-algorithm/</code> ne renvoie que <code>weighted_scorer.rs:49</code> — la constante est référencée comme <code>crate::params::FAVORITE_WEIGHT</code> et aucun <code>params.rs</code> n'existe dans le repo.</td></tr>
+            <tr><td>Le contenu OON est multiplié par <code>OON_WEIGHT_FACTOR &lt; 1</code>.</td><td><code>home-mixer/scorers/oon_scorer.rs:20-23</code></td></tr>
+            <tr><td>Les nouveaux utilisateurs (sous le seuil d'âge, avec un minimum de following) obtiennent un facteur OON différent.</td><td><code>home-mixer/scorers/ranking_scorer.rs:220-239</code> (branche <code>NEW_USER_OON_WEIGHT_FACTOR</code>)</td></tr>
+            <tr><td>Les auteurs répétés dans un seul render de feed sont atténués par décroissance exponentielle.</td><td><code>home-mixer/scorers/author_diversity_scorer.rs:29-31</code>, formule <code>(1-floor)·decay_factor^position + floor</code></td></tr>
+            <tr><td>La vidéo gagne le poids <code>vqv_score</code> seulement si <code>video_duration_ms &gt; MIN_VIDEO_DURATION_MS</code>.</td><td><code>home-mixer/scorers/weighted_scorer.rs:72-81</code></td></tr>
+            <tr><td>Quatre actions de feedback négatif explicites réduisent le score.</td><td><code>home-mixer/scorers/weighted_scorer.rs:64-67</code> ; <code>phoenix/runners.py:266-270</code> (<code>NEGATIVE_FEEDBACK_INDICES = [14, 15, 16, 17]</code>)</td></tr>
+            <tr><td>Les auteurs bloqués et les auteurs qui bloquent le viewer sont filtrés avant scoring, y compris dans les relations de quote-tweet.</td><td><code>home-mixer/filters/author_socialgraph_filter.rs</code></td></tr>
+            <tr><td>La classification de contenu (spam, post-safety, PTOS) tourne offline dans Grox et gate l'éligibilité via le feature store.</td><td><code>x-algorithm/grox/plan_master.py</code> ; <code>x-algorithm/grox/classifiers/content/spam.py</code> ; <code>task_post_safety_screen_deluxe.py</code> ; <code>task_safety_ptos_policy.py</code></td></tr>
+            <tr><td>Phoenix utilise une attention de candidate-isolation : les candidats ne peuvent pas s'attendre les uns les autres.</td><td><code>x-algorithm/README.md</code> section « Key Design Decisions » ; <code>x-algorithm/phoenix/recsys_model.py</code></td></tr>
+            <tr><td>Les features codées à la main ont été retirées du système.</td><td><code>x-algorithm/README.md</code> ligne 55 : <em>« We have eliminated every single hand-engineered feature and most heuristics from the system. »</em></td></tr>
+            <tr><td>Les embeddings de posts sont multimodaux (texte + images + transcription ASR optionnelle du vidéo).</td><td><code>x-algorithm/grox/embedder/multimodal_post_embedder_v5.py</code></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h4>Interventions recommandées <span class="u-accent-dark u-small">(ordonnées par impact attendu, toutes directionnelles en attente de mesure client)</span></h4>
+
+      <ol class="list">
+        <li><strong>Conception de contenu ciblée par action.</strong> Réorganiser le calendrier éditorial du client de sorte que chaque post déclare une action cible parmi les dix-neuf. Mesurer le succès par <em>distribution d'actions par post</em>, pas par impressions brutes. Effet attendu : amélioration des scores prédictifs au niveau post pour le segment utilisateur cible parce que le contenu est congruent avec l'action contre laquelle il est scoré.</li>
+        <li><strong>Playbook de distribution d'auteurs.</strong> Auditer la cadence de publication du client par rapport à l'atténuation de diversité d'auteurs. Remplacer les drumbeats en mono-compte empilés par une amplification multi-compte distribuée à travers les employés, partenaires et le handle marque. Effet attendu : chaque post individuel entre dans le ranker à <code>position = 0</code> pour son auteur dans un render donné plutôt qu'à <code>position = 1, 2, ...</code>.</li>
+        <li><strong>Spécification vidéo.</strong> Établir une longueur de cut minimale au-dessus de <code>MIN_VIDEO_DURATION_MS</code> (la valeur exacte est externe — le client doit faire de l'A/B test de longueurs de cut pour identifier le seuil empiriquement pour son contenu). Toutes les vidéos shippées avec audio ASR-friendly et sous-titres incrustés pour alimenter à la fois <code>vqv</code> et le chemin transcription de l'embedder multimodal.</li>
+        <li><strong>Cohérence d'embedding topique.</strong> Auditer les 90 derniers jours du client pour la largeur topique. Recommander un split 70/30 entre un cœur topique cohérent (qui construit la densité de voisinage d'embedding avec l'audience cible) et du contenu exploratoire (qui fait remonter de nouvelles audiences mais dilue l'embedding).</li>
+        <li><strong>Audit du gate d'éligibilité.</strong> Échantillonner des posts de l'archive du client qui ont sous-performé par rapport à leur cohorte et les vérifier contre les types de gate publiquement documentés (patterns de spam, frontières de safety, surface PTOS). Traiter les exclusions silencieuses suspectées comme un mode de défaillance séparé de « mal classé ».</li>
+        <li><strong>Hygiène des signaux négatifs.</strong> Identifier les patterns antagonistes récurrents du client et quantifier leur coût attendu comme cumulatif sur les posts futurs vers l'audience mutée. Recommander de retirer les patterns dont le taux de mute de l'audience chaude dépasse un seuil interne.</li>
+        <li><strong>Recadrage de l'acquisition de followers.</strong> Recadrer la dépense d'acquisition de followers comme l'achat d'une reach future <em>multiplicative</em> (via la conversion OON-vers-Thunder) plutôt que comme l'achat d'une métrique d'audience unique. Le facteur OON est une taxe permanente jusqu'à ce que l'utilisateur suive ; un follow soulève chaque post futur pour cet utilisateur.</li>
+      </ol>
+
+      <h4>Limites et déclarations d'honnêteté <span class="u-accent-dark u-small">(obligatoires pour le livrable)</span></h4>
+      <div class="callout callout--danger">
+        <p>Les poids numériques ne sont pas dérivables du release OSS. Toutes les affirmations « X est plus important que Y » dans ce rapport décrivent <strong>la structure du code</strong> (signe, gate, présence d'un multiplicateur), pas la magnitude. Les artefacts modèle publiés sont un <strong>mini-checkpoint Phoenix</strong> (2 couches, 4 têtes d'attention, 256-dim selon le changelog du 15 mai 2026 et <code>phoenix/README.md</code>), pas les poids de production, donc l'inférence directe contre le code publié démontre la forme du comportement plutôt que les scores de production. Plusieurs intégrations sont stubbées : des marqueurs <code>panic!("Not implemented: to_thrift for ...")</code> existent dans <code>home-mixer/candidate_pipeline/candidate_features.rs</code> et <code>user_features.rs</code>, et les listes de marques brand-safety, mappings d'IDs de topics, pénalités linguistiques et règles de blending ads ne sont pas présents dans le release public. <strong>Le client doit traiter ce rapport comme un modèle structurel, pas comme un prédicteur quantitatif.</strong></p>
+      </div>
+
+      <h4>Cadence recommandée pour la mission client</h4>
+      <div class="grid grid--4">
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Mois · 01</p>
+          <p>Implémenter le calendrier action-targeted, le playbook de distribution d'auteurs, la spec vidéo.</p>
+        </div>
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Mois · 02</p>
+          <p>Embarquer l'audit de cohérence topique ; test échantillon du recadrage acquisition de followers.</p>
+        </div>
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Mois · 03</p>
+          <p>Mesurer le changement de reach relatif cohorte-sur-cohorte ; recalibrer contre l'audit du gate d'éligibilité.</p>
+        </div>
+        <div class="card card--rule-top">
+          <p class="card-eyebrow">Trimestriel</p>
+          <p>Relire <code>xai-org/x-algorithm</code> pour les changements upstream ; ce rapport suppose le release du 15 mai 2026.</p>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <!-- ─── ANNEXES ───────────────────────────────────────────── -->
+  <section id="appendix">
+    <p class="part-eyebrow">Annexes</p>
+    <h2 class="part-title">Références</h2>
+
+    <!-- ─── A.1 ───────────────────────────────────────────── -->
+    <section class="subsection">
+      <h3>A.1 · Index des fichiers source</h3>
+      <p>Groupé par sous-système, sans numéros de ligne (pour que l'index ne pourrisse pas si le repo est mis à jour ; les numéros de ligne porteurs sont gardés inline dans les Parties 1 et 2).</p>
+
+      <h4>Home Mixer — orchestration et scoring</h4>
+      <ul class="file-list">
+        <li>home-mixer/README.md</li>
+        <li>home-mixer/lib.rs</li>
+        <li>home-mixer/scorers/weighted_scorer.rs</li>
+        <li>home-mixer/scorers/ranking_scorer.rs</li>
+        <li>home-mixer/scorers/oon_scorer.rs</li>
+        <li>home-mixer/scorers/author_diversity_scorer.rs</li>
+        <li>home-mixer/scorers/phoenix_scorer.rs</li>
+        <li>home-mixer/candidate_pipeline/candidate.rs (PhoenixScores, PostCandidate)</li>
+      </ul>
+
+      <h4>Home Mixer — sources de candidats</h4>
+      <ul class="file-list">
+        <li>home-mixer/sources/thunder_source.rs</li>
+        <li>home-mixer/sources/phoenix_source.rs</li>
+        <li>home-mixer/sources/phoenix_moe_source.rs</li>
+        <li>home-mixer/sources/phoenix_topics_source.rs</li>
+        <li>home-mixer/sources/who_to_follow_source.rs</li>
+        <li>home-mixer/sources/ads_source.rs</li>
+        <li>home-mixer/sources/prompts_source.rs</li>
+        <li>home-mixer/sources/push_to_home_source.rs</li>
+        <li>home-mixer/sources/tweet_mixer_source.rs</li>
+      </ul>
+
+      <h4>Home Mixer — hydrators</h4>
+      <ul class="file-list">
+        <li>home-mixer/query_hydrators/user_action_seq_query_hydrator.rs</li>
+        <li>home-mixer/candidate_hydrators/mutual_follow_jaccard_hydrator.rs</li>
+        <li>home-mixer/candidate_hydrators/engagement_counts_hydrator.rs</li>
+        <li>home-mixer/candidate_hydrators/following_replied_users_hydrator.rs</li>
+        <li>home-mixer/candidate_hydrators/language_code_hydrator.rs</li>
+        <li>home-mixer/candidate_hydrators/has_media_hydrator.rs</li>
+      </ul>
+
+      <h4>Home Mixer — filtres</h4>
+      <ul class="file-list">
+        <li>home-mixer/filters/age_filter.rs</li>
+        <li>home-mixer/filters/muted_keyword_filter.rs</li>
+        <li>home-mixer/filters/author_socialgraph_filter.rs</li>
+        <li>home-mixer/filters/ineligible_subscription_filter.rs</li>
+        <li>home-mixer/filters/vf_filter.rs</li>
+        <li>+ DropDuplicatesFilter, CoreDataHydrationFilter, SelfpostFilter,</li>
+        <li>&nbsp;&nbsp;RepostDeduplicationFilter, PreviouslySeenPostsFilter,</li>
+        <li>&nbsp;&nbsp;PreviouslyServedPostsFilter, DedupConversationFilter</li>
+      </ul>
+
+      <h4>Phoenix — ranking et retrieval</h4>
+      <ul class="file-list">
+        <li>phoenix/README.md</li>
+        <li>phoenix/run_pipeline.py</li>
+        <li>phoenix/runners.py (indices d'actions, NEGATIVE_FEEDBACK_INDICES)</li>
+        <li>phoenix/recsys_model.py (transformer + masking candidate-isolation)</li>
+        <li>phoenix/recsys_retrieval_model.py (two-tower retrieval)</li>
+      </ul>
+
+      <h4>Thunder — store in-network temps réel</h4>
+      <ul class="file-list">
+        <li>thunder/main.rs</li>
+        <li>thunder/post_store.rs</li>
+        <li>thunder/thunder_service.rs</li>
+        <li>thunder/kafka_utils.rs</li>
+      </ul>
+
+      <h4>Grox — compréhension de contenu offline</h4>
+      <ul class="file-list">
+        <li>grox/engine.py</li>
+        <li>grox/plan_master.py</li>
+        <li>grox/embedder/multimodal_post_embedder_v5.py</li>
+        <li>grox/classifiers/content/spam.py</li>
+        <li>grox/task_spam_detection.py</li>
+        <li>grox/task_post_safety_screen_deluxe.py</li>
+        <li>grox/task_safety_ptos_policy.py</li>
+        <li>grox/task_banger_screen.py</li>
+        <li>grox/task_reply_ranking.py</li>
+      </ul>
+    </section>
+
+    <!-- ─── A.2 ───────────────────────────────────────────── -->
+    <section class="subsection">
+      <h3>A.2 · Glossaire</h3>
+      <div class="grid grid--2">
+        <div class="card card--warm">
+          <h4 class="card-title">Phoenix</h4>
+          <p>Le transformeur dérivé de Grok-1 qui fait à la fois le ranking et la récupération. Prédit 19 actions par candidat.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">Thunder</h4>
+          <p>Le service Rust en mémoire qui stocke les posts récents et sert les candidats in-network avec une latence sub-milliseconde.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">Grox</h4>
+          <p>Le service offline de compréhension de contenu. Exécute des classifieurs (spam, safety, PTOS) et des embedders (multimodal v5). Écrit les résultats au feature store pour que Home Mixer les lise.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">Home Mixer</h4>
+          <p>L'orchestrateur Rust qui exécute le pipeline au moment de la requête : hydrate → source → hydrate → filter → score → select → filter.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">OON</h4>
+          <p>Out-of-network. Un candidat venant d'un compte que le viewer ne suit pas. Soumis à une pénalité de score multiplicative.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">VQV</h4>
+          <p>Video quality view. Une vue vidéo qui franchit la durée minimale configurée. Le poids associé contribue uniquement quand <code>video_duration_ms &gt; MIN_VIDEO_DURATION_MS</code>.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">Two-tower</h4>
+          <p>Un pattern de récupération ML où utilisateurs et items sont encodés par des tours séparées dans un espace d'embedding partagé, puis matchés par recherche du plus proche voisin.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">Candidate isolation</h4>
+          <p>Le pattern de masking d'attention dans le ranking Phoenix où les candidats peuvent attendre le contexte de l'utilisateur mais pas l'un l'autre, rendant les scores batch-independent et cacheables.</p>
+        </div>
+        <div class="card card--warm">
+          <h4 class="card-title">VFFilter</h4>
+          <p>Le filtre de visibilité post-selection qui supprime le contenu deleted, spam, violence et gore.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── A.3 ───────────────────────────────────────────── -->
+    <section class="subsection">
+      <h3>A.3 · Frontière d'honnêteté <span class="u-accent-dark u-small">(ce qu'on ne peut pas savoir depuis l'OSS)</span></h3>
+      <p>Ce rapport évite délibérément plusieurs affirmations qui nécessiteraient des informations absentes du release public :</p>
+
+      <ul class="list">
+        <li><strong>Valeurs numériques des poids.</strong> <code>FAVORITE_WEIGHT</code>, <code>REPLY_WEIGHT</code>, <code>RETWEET_WEIGHT</code>, <code>OON_WEIGHT_FACTOR</code>, <code>NEW_USER_OON_WEIGHT_FACTOR</code>, <code>AUTHOR_DIVERSITY_DECAY</code>, <code>AUTHOR_DIVERSITY_FLOOR</code>, <code>MIN_VIDEO_DURATION_MS</code>, <code>NEGATIVE_SCORES_OFFSET</code>, <code>WEIGHTS_SUM</code>, <code>NEGATIVE_WEIGHTS_SUM</code>, et toute autre constante référencée comme <code>crate::params::*</code> sont de la configuration externe. Le repo ne contient aucun <code>params.rs</code> (vérifié). <strong>Tout rapport — y compris les versions futures de celui-ci — qui cite des multiplicateurs numériques spécifiques pour l'algorithme 2026 fabrique des données.</strong></li>
+        <li><strong>Comportement du modèle de production.</strong> Le checkpoint Phoenix publié est un mini-modèle (<strong>2 couches, 4 têtes, 256 dimensions</strong> selon <code>phoenix/README.md</code>) entraîné sur un <strong>corpus de 537 000 posts sportifs</strong>. Le Phoenix de production est plus gros et continuellement réentraîné sur le trafic d'engagement complet. L'inférence contre les artefacts publiés démontre <em>quels types de features le modèle utilise</em> et <em>comment les scores se comportent structurellement</em>, pas ce que le modèle de production renvoie.</li>
+        <li><strong>Intégrations stubbées.</strong> Plusieurs frontières de sérialisation Thrift panic avec <code>"Not implemented: to_thrift for ..."</code> (dans <code>candidate_features.rs</code> et <code>user_features.rs</code>). Le code public ne tourne pas end-to-end contre les services internes de X tel qu'expédié.</li>
+        <li><strong>Données de policy.</strong> Listes de marques brand-safety, mappings d'IDs de topics, tables de pénalités linguistiques, règles de blending d'ads, contenus des corpus de muted-keywords, et poids des classifieurs entraînés spam / safety / PTOS ne sont pas dans le release ouvert. Les chemins de code qui les consomment existent ; les données pas.</li>
+        <li><strong>Cadence de réentraînement continu.</strong> Le release OSS est un snapshot statique. Le modèle de production est continuellement mis à jour. Toute affirmation sur « ce que fait l'algorithme en ce moment » basée sur la lecture de ce code est au mieux une affirmation structurelle ; les prédictions spécifiques du modèle à tout moment dépendent des mises à jour d'entraînement qui ne sont pas publiques.</li>
+      </ul>
+
+      <div class="callout">
+        <p class="eyebrow">Ce que ce rapport affirme — confiance élevée</p>
+        <p>L'architecture (Thunder + Phoenix + Home Mixer + Grox), les sources de candidats, l'ensemble des filtres, la surface à 19 actions, la forme structurelle de la formule de score, l'existence et la direction de la pénalité OON et de l'atténuation de diversité d'auteurs, l'existence du gate de durée vidéo, le modèle de gate offline pour la classification de contenu, le rôle des séquences d'actions utilisateur comme input primaire de Phoenix, et la suppression des features codées à la main au profit de l'apprentissage par transformeur. <strong>Tous lus directement depuis le code et les READMEs publiés, cités inline.</strong></p>
+      </div>
+    </section>
+  </section>
+
+  <footer>
+    Teardown · <code>xai-org/x-algorithm</code> · Publié le 15 mai 2026 · Sharp Artisan
+  </footer>
+
+</div>
+
+</body>
+</html>
