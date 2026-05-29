@@ -11,7 +11,7 @@
 
 ### a_construit
 
-- [[kb/_entites-mineures#AI-Gateway\|AI Gateway]] (TECHNOLOGIE) — 0.93, STATIQUE
+- [[kb/AI-Gateway\|AI Gateway]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|Bloomberg - Enterprise AI Deployment - Platform Engineering - Paved Path - Uplift Agents]]
 - [[kb/_entites-mineures#MCP-Hub\|MCP Hub]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|Bloomberg - Enterprise AI Deployment - Platform Engineering - Paved Path - Uplift Agents]]

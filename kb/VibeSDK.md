@@ -24,7 +24,7 @@
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
-- [[kb/_entites-mineures#AI-Gateway\|AI Gateway]] (TECHNOLOGIE) — 0.96, STATIQUE
+- [[kb/AI-Gateway\|AI Gateway]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
 - [[kb/_entites-mineures#Gemini-models\|Gemini models]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
