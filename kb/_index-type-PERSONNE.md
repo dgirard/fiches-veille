@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 386 entités de type PERSONNE
+> 387 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -201,6 +201,7 @@
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] — rôle: Responsable ingénierie plateforme développeurs Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kath-Korevec\|Kath Korevec]] — rôle: Director of Product, Google Labs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kathleen-Hogan\|Kathleen Hogan]] — rôle: Ex-Chief People Officer Microsoft, désormais en charge AI transformation interne (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Kazuaki-Okumura\|Kazuaki Okumura]] — rôle: Auteur (Dropbox, rôle non précisé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] — rôle: Co-auteur Conductor (1 occ., 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] — rôle: Co-auteur Manifeste Agile, créateur XP, analyste codage augmenté (5 occ., 4 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)

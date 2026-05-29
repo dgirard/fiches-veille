@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 645 entités de type CONCEPT
+> 648 entités de type CONCEPT
 
 - [[kb/_entites-mineures#60-000-people,-20-000-of-them-are-AI-agents\|"60 000 people, 20 000 of them are AI agents"]] — source: Déclaration Sternfels janvier 2026 — phrase-pivot redéfinissant le headcount des services intellectuels par intégration humains + agents IA dans la même comptabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
@@ -438,6 +438,7 @@
 - [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] — contexte: Objectif final de l'adoption IA à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] — définition: Proximité client : haut = visible, bas = infrastructure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-standards\|benchmarks standards]] — exemples: MMLU-Pro, AIME, GPQA, SWE-bench, ARC-AGI, METR (1 occ., 1 fiches)
+- [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] — définition: L'IA ne supprime pas les goulots, elle les déplace en aval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] — définition: Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] — origine: Concept de Martin Fowler appliqué à la structuration des contextes LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#brevity-bias\|brevity bias]] — définition: compression excessive du contexte (1 occ., 1 fiches)
@@ -603,6 +604,7 @@
 - [[kb/_entites-mineures#setting-time-on-fire\|setting time on fire]] — catégorie: Signalement d'effort par le temps consacré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#share_via_dm-+-share_via_copy_link\|share_via_dm + share_via_copy_link]] — définition: Variantes share distinctes (indices 8, 9) qui mesurent le forward privé vs public, signaux haute valeur pour pricing teardowns / product comparisons / controversy forwarded privately (1 occ., 1 fiches)
+- [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] — exemples: code review turnaround, first-run test pass rate, defect ratio, rework rate (1 occ., 1 fiches)
 - [[kb/skills\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] — description: Réduction de la dépendance aux outils IA américains (2 occ., 2 fiches)
@@ -618,6 +620,7 @@
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] — description: Tendance des LLMs à créer abstractions inutiles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#surge-staffing\|surge staffing]] — définition: Déploiement dynamique d'ingénieurs sur demande grâce à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sycophancy\|sycophancy]] — risque: Biais d'acquiescement des modèles IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#systems-around-the-model\|systems around the model]] — définition: Avantage compétitif = contexte/outillage/contrôles/workflows, pas le modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#système-de-permissions\|système de permissions]] — portée: Granulaire : projet, utilisateur, organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] — définition: Source canonique de vérité, pas une catégorie produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)

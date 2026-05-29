@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 524 entités de type TECHNOLOGIE
+> 525 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -302,6 +302,7 @@
 - [[kb/_entites-mineures#New-Form\|New Form]] — catégorie: Outil créatif Meng To avec 63 skills design (lasers, skeuomorphic, 3D, copy) (1 occ., 1 fiches)
 - [[kb/Next.js-16\|Next.js 16]] — catégorie: Framework React — Vercel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] — catégorie: Outil de productivité IA (Google) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Nova\|Nova]] — catégorie: Plateforme d'agents de codage interne Dropbox (2 occ., 1 fiches)
 - [[kb/NuExtract\|NuExtract]] — catégorie: modèle de langage spécialisé extraction JSON (2 occ., 1 fiches)
 - [[kb/_entites-mineures#NuExtract-large\|NuExtract-large]] — catégorie: version large NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NuExtract-tiny\|NuExtract-tiny]] — catégorie: version compacte NuExtract (1 occ., 1 fiches)

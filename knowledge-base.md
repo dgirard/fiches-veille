@@ -1,19 +1,19 @@
 # Knowledge Base — Veille Technologique
 
-> 274 fiches | 2218 entités | 3982 triples | Généré le 2026-05-29
+> 275 fiches | 2225 entités | 3996 triples | Généré le 2026-05-29
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (386)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (387)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (293)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (524)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (645)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (269)
-- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (88)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (525)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (648)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (270)
+- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (89)
 - [[kb/_index-type-LIEU\|LIEU]] (6)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (7)
-- [[kb/_entites-mineures\|Entités mineures]] (1935)
+- [[kb/_entites-mineures\|Entités mineures]] (1941)
 
 ## Entités les plus connectées
 
@@ -38,7 +38,7 @@
 | [[kb/Sierra\|Sierra]] | ORGANISATION | 17 | 3 |
 | [[kb/Superpowers\|Superpowers]] | TECHNOLOGIE | 17 | 2 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 16 | 5 |
-| [[kb/MCP\|MCP]] | TECHNOLOGIE | 16 | 10 |
+| [[kb/IA-générative\|IA générative]] | TECHNOLOGIE | 16 | 4 |
 
 ## Statistiques
 
@@ -46,32 +46,32 @@
 
 - **utilise** : 165
 - **** : 155
-- **affirme_que** : 152
-- **a_créé** : 90
+- **affirme_que** : 153
+- **a_créé** : 91
 - **publie** : 83
 - **recommande** : 80
 - **est_basé_sur** : 62
+- **remplace** : 59
 - **améliore** : 58
-- **remplace** : 58
 - **permet** : 56
 - **a_publié** : 54
 - **réduit** : 53
 - **s_oppose_à** : 51
 - **est** : 46
-- **prédit** : 46
+- **transforme** : 46
 
 ### Distribution par type
 
-- **PERSONNE** : 386 (17.4%)
+- **PERSONNE** : 387 (17.4%)
 - **ORGANISATION** : 293 (13.2%)
-- **TECHNOLOGIE** : 524 (23.6%)
-- **CONCEPT** : 645 (29.1%)
-- **METHODOLOGIE** : 269 (12.1%)
-- **EVENEMENT** : 88 (4.0%)
+- **TECHNOLOGIE** : 525 (23.6%)
+- **CONCEPT** : 648 (29.1%)
+- **METHODOLOGIE** : 270 (12.1%)
+- **EVENEMENT** : 89 (4.0%)
 - **LIEU** : 6 (0.3%)
 - **DOCUMENT** : 7 (0.3%)
 
 ### Déduplication
 
-- **Triples** : 4022 → 3982 (40 doublons)
-- **Entités** : 2845 → 2218 (627 doublons)
+- **Triples** : 4036 → 3996 (40 doublons)
+- **Entités** : 2854 → 2225 (629 doublons)

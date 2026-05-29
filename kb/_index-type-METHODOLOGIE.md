@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 269 entités de type METHODOLOGIE
+> 270 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -88,6 +88,7 @@
 - [[kb/_entites-mineures#Forward-Deployed-Engineering-(FDE)\|Forward Deployed Engineering (FDE)]] — définition: Équipes d'ingénieurs déployés chez le client pour intégrer / customiser les modèles IA. Originellement Palantir, adopté par OpenAI, Anthropic, autres labos frontaliers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-4-quadrants\|Framework 4 quadrants]] — dimensions: coût d'erreur × type de connaissance (explicite/tacite) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-Leader-Lab-Crowd\|Framework Leader-Lab-Crowd]] — structure: Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Fuel-Adoption-Output-Impact\|Fuel-Adoption-Output-Impact]] — définition: Modèle de mesure de productivité en 4 étages (1 occ., 1 fiches)
 - [[kb/GDPVal\|GDPval]] — méthode: Experts 14 ans d'expérience, évaluation en aveugle (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Generative-AI-Champions\|Generative AI Champions]] — structure: Cohorte des 100 power users IA chez Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Goal-Driven-Execution\|Goal-Driven Execution]] — objectif: Convertir tâches en critères de succès vérifiables (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2218 entités
+> 2225 entités
 
 ## #
 
@@ -398,6 +398,7 @@
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#bots-de-codage\|bots de codage]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bottleneck-shift-coding-→-supervision\|Bottleneck shift coding → supervision]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] (CONCEPT, 1 fiches)
@@ -763,7 +764,7 @@
 - [[kb/_entites-mineures#DRH\|DRH]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Drift\|Drift]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Droid-Factory\|Droid/Factory]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Dropbox\|Dropbox]] (ORGANISATION, 1 fiches)
+- [[kb/Dropbox\|Dropbox]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] (CONCEPT, 1 fiches)
@@ -771,6 +772,7 @@
 - [[kb/_entites-mineures#Durable-generator\|Durable generator]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#DX\|DX]] (ORGANISATION, 2 fiches)
+- [[kb/_entites-mineures#DX-Annual-2026\|DX Annual 2026]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Dynamic-Cheatsheet\|Dynamic Cheatsheet]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dynamic-org-design\|Dynamic org design]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dynamic-Spec-Development\|Dynamic Spec Development]] (METHODOLOGIE, 1 fiches)
@@ -894,6 +896,7 @@
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FTC\|FTC]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Fuel-Adoption-Output-Impact\|Fuel-Adoption-Output-Impact]] (METHODOLOGIE, 1 fiches)
 ## G
 
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] (PERSONNE, 1 fiches)
@@ -1184,6 +1187,7 @@
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Kath-Korevec\|Kath Korevec]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Kathleen-Hogan\|Kathleen Hogan]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Kazuaki-Okumura\|Kazuaki Okumura]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] (PERSONNE, 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] (PERSONNE, 4 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] (PERSONNE, 1 fiches)
@@ -1462,6 +1466,7 @@
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Nouveaux-monopoles-de-l'IA\|Nouveaux monopoles de l'IA]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Nova\|Nova]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] (EVENEMENT, 1 fiches)
@@ -1862,6 +1867,7 @@
 - [[kb/_entites-mineures#Sid-Bidasaria\|Sid Bidasaria]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Siddhant-Khare\|Siddhant Khare]] (PERSONNE, 1 fiches)
 - [[kb/Sierra\|Sierra]] (ORGANISATION, 3 fiches)
+- [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Simmer\|Simmer]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Simon-Belbeoch\|Simon Belbeoch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Simon-Sinek\|Simon Sinek]] (PERSONNE, 1 fiches)
@@ -1993,6 +1999,7 @@
 - [[kb/_entites-mineures#sycophancy\|sycophancy]] (CONCEPT, 1 fiches)
 - [[kb/Sylvain-Duranton\|Sylvain Duranton]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#System-reminder\|System-reminder]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#systems-around-the-model\|systems around the model]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#système-de-permissions\|système de permissions]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] (CONCEPT, 1 fiches)

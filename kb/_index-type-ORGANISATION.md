@@ -80,7 +80,7 @@
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] — secteur: Plateforme éducation design Meng To (designcode.io) en refonte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] — secteur: Product management / Operating systems (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Dropbox\|Dropbox]] — résultat: 90% adoption IA, +20% PRs fusionnés (1 occ., 1 fiches)
+- [[kb/Dropbox\|Dropbox]] — résultat: 90% adoption IA, +20% PRs fusionnés (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Duolingo\|Duolingo]] — secteur: Apprentissage des langues (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EACA-(European-Association-of-Communication-Agencies)\|EACA (European Association of Communication Agencies)]] — secteur: Association européenne des agences de communication. Charley Stoney en est CEO. Endorsement institutionnel européen du rapport VoxComm (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ENISA\|ENISA]] — catégorie: Agence européenne cybersécurité (1 occ., 1 fiches)

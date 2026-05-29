@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 88 entités de type EVENEMENT
+> 89 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
@@ -32,6 +32,7 @@
 - [[kb/_entites-mineures#Cas-marketing-tech-+349%-+38%\|Cas marketing tech +349%/+38%]] — source: Cas client Bain — AI costs +349% / revenue +38% sur un an. Illustre le risque coût AI non maîtrisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cocktail-Molotov-+-tirs-Altman-avril-2026\|Cocktail Molotov + tirs Altman avril 2026]] — description: Avril 2026 — cocktail Molotov lancé sur propriété SF Sam Altman, puis quelques jours plus tard attaque par armes à feu sur sa maison. Événements documentés cités par Wallace-Wells comme "warning shots" du AI populism (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] — impact_mesuré: -3% intelligence (Opus 4.6 et 4.7) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DX-Annual-2026\|DX Annual 2026]] — catégorie: Conférence productivité développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] — description: Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin (1 occ., 1 fiches)
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
