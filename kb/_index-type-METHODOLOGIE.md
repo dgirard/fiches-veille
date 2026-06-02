@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 270 entités de type METHODOLOGIE
+> 274 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -215,6 +215,7 @@
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
 - [[kb/Compound-Engineering\|compound engineering]] — catégorie: Processus ingénierie 4 étapes pour développement agentique (2 occ., 1 fiches)
+- [[kb/_entites-mineures#content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-(Mensch)\|distillation (Mensch)]] — définition: Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] — définition: Apprentissage automatique à partir des tâches complétées (1 occ., 1 fiches)
@@ -232,6 +233,7 @@
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] — technique: Fragmentation de tâches + fausse identité cybersécurité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#loop-hebdomadaire\|loop hebdomadaire]] — résultat: +45 % productivité, draft 6-12 min (1 occ., 1 fiches)
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] — principe: Budget aligné sur les signaux réels de demande client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] — flag: -p (non-interactif, CI/CD) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-Centaur\|modèle Centaur]] — description: Division stratégique du travail humain/IA (1 occ., 1 fiches)
@@ -252,6 +254,7 @@
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] — applications: Conduite autonome, diagnostic médical (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] — objectif: Appliquer les règles de lint au plus tôt (IDE, git hooks, CI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#single-hop-short-lived-tokens\|single-hop short-lived tokens]] — définition: Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol (1 occ., 1 fiches)
@@ -271,4 +274,5 @@
 - [[kb/_entites-mineures#workflow-Brainstorm-Plan-Implement\|workflow Brainstorm-Plan-Implement]] — étapes: Brainstorm, Plan, Implement — exécutées séquentiellement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-Explore-Plan-Code\|workflow Explore-Plan-Code]] — source: recommandation officielle Anthropic (1 occ., 1 fiches)
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] — catégorie: Workflow d'automatisation de cartographie stratégique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#workflow-SEO-en-deux-phases\|workflow SEO en deux phases]] — définition: Stratégie one-off visuelle + production pipeline MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-hybride-Gemini+Claude\|workflow hybride Gemini+Claude]] — principe: Gemini pour ingestion massive, Claude pour raisonnement et génération (1 occ., 1 fiches)

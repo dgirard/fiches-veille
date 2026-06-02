@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 387 entités de type PERSONNE
+> 389 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -279,6 +279,7 @@
 - [[kb/_entites-mineures#Olivier-Rafal\|Olivier Rafal]] — affiliation: WEnvision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parker-Mitchell\|Parker Mitchell]] — rôle: CEO de Valence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] — rôle: Membre ComDir, SI et Digital (1 occ., 1 fiches)
+- [[kb/Pasquale-Pillitteri\|Pasquale Pillitteri]] — rôle: Ingénieur informatique, blogueur tech (Palerme) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Patricia-Frost\|Patricia Frost]] — rôle: CHRO de Seagate, ex-militaire, slogan "Leave No One Behind" (1 occ., 1 fiches)
 - [[kb/Patrick-Debois\|Patrick Debois]] — rôle: Fondateur Tessl, pionnier DevOps (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Patrick-Joubert\|Patrick Joubert]] — rôle: CEO de Rippletide (fiabilité agents IA enterprise) (2 occ., 2 fiches)
@@ -309,6 +310,7 @@
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] — rôle: Théologien et philosophe italo-allemand (1885-1968), auteur de *La fin des temps modernes* (1950) — cité par Léon XIV (n. 93) : *« L'homme moderne n'a pas reçu l'éducation nécessaire pour faire un bon usage de son pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] — rôle: Étudiant Columbia / co-fondateur Cluely (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)
+- [[kb/Ryan-Law\|Ryan Law]] — rôle: Director of Content Marketing, Ahrefs (1 occ., 1 fiches)
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] — rôle: DG Cast Software France (2 occ., 1 fiches)
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] — pseudonyme: antirez (2 occ., 1 fiches)
 - [[kb/Sam-Altman\|Sam Altman]] — rôle: CEO OpenAI, auteur essai *The Gentle Singularity* (juin 2025) (5 occ., 5 fiches)

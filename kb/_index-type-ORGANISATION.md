@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 293 entités de type ORGANISATION
+> 294 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -18,6 +18,7 @@
 - [[kb/Accenture\|Accenture]] — valorisation boursière: 155 milliards de dollars (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] — date_création: 9 décembre 2025 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Agility-Robotics\|Agility Robotics]] — secteur: Robotique humanoïde industrielle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ahrefs\|Ahrefs]] — secteur: SEO / content marketing (outil de référence) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AirAsia\|AirAsia]] — secteur: Transport aérien (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Airbyte\|Airbyte]] — secteur: Plateforme open source de flux de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allianz\|Allianz]] — secteur: Assurance (1 occ., 1 fiches)

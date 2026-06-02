@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 648 entités de type CONCEPT
+> 654 entités de type CONCEPT
 
 - [[kb/_entites-mineures#60-000-people,-20-000-of-them-are-AI-agents\|"60 000 people, 20 000 of them are AI agents"]] — source: Déclaration Sternfels janvier 2026 — phrase-pivot redéfinissant le headcount des services intellectuels par intégration humains + agents IA dans la même comptabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
@@ -437,6 +437,7 @@
 - [[kb/_entites-mineures#avantage-concurrentiel\|avantage concurrentiel]] — localisation: Composants positionnés à gauche de la carte (Genèse / Sur mesure) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] — contexte: Objectif final de l'adoption IA à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] — définition: Proximité client : haut = visible, bas = infrastructure (1 occ., 1 fiches)
+- [[kb/_entites-mineures#benchmarks-Opus-4.8\|benchmarks Opus 4.8]] — valeurs: SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-standards\|benchmarks standards]] — exemples: MMLU-Pro, AIME, GPQA, SWE-bench, ARC-AGI, METR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] — définition: L'IA ne supprime pas les goulots, elle les déplace en aval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] — définition: Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières (1 occ., 1 fiches)
@@ -448,6 +449,7 @@
 - [[kb/_entites-mineures#capital-IA\|capital IA]] — définition: Connaissance métier encodable créant avantage durable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capitalisation-continue\|capitalisation continue]] — principe: Enrichissement progressif de la base de bonnes pratiques après chaque cycle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cascade-hiérarchique\|cascade hiérarchique]] — direction: VP → Directors → Managers, chaque niveau amplifiant les problèmes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#caveats\|caveats]] — contenu: experience matters ; SEO informationnel ; pas de scale massif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#champions-IA\|champions IA]] — rôle: Ambassadeurs internes de l'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#charge-cognitive-de-validation\|charge cognitive de validation]] — description: Charge mentale liée à la vérification du code généré par IA (1 occ., 1 fiches)
@@ -468,6 +470,7 @@
 - [[kb/_entites-mineures#conflit-d'intérêts\|conflit d'intérêts]] — dimension: Gouvernance d'entreprise, chevauchement concurrentiel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#conscience-situationnelle\|conscience situationnelle]] — définition: Savoir où l'on est, où sont les ressources, à quoi ressemble le terrain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#consumer-welfare\|consumer welfare]] — métrique: Somme valuations internes - prix final agrégé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#content-gap-paid-organic\|content gap paid-organic]] — cas: 2 742 termes gaspillés / 351 opportunités en 90 s (1 occ., 1 fiches)
 - [[kb/_entites-mineures#context-collapse\|context collapse]] — définition: dégradation du contexte sur itérations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#context-engineering\|context engineering]] — définition: Art et science de remplir la fenêtre de contexte LLM avec les bonnes informations (définition Karpathy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#context-graph\|context graph]] — définition: Enregistrement structuré des traces de décision reliées entre entités (1 occ., 1 fiches)
@@ -493,12 +496,14 @@
 - [[kb/_entites-mineures#documentation-statique\|documentation statique]] — limite: Obsolescence, pas synchronisée au code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#données-neurales\|données neurales]] — enjeu: Vie privée cognitive, propriété intellectuelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#données-propriétaires\|données propriétaires]] — rôle_stratégique: moat concurrentiel face à des outils identiques (1 occ., 1 fiches)
+- [[kb/_entites-mineures#draft-prêt-à-publier\|draft prêt à publier]] — métrique: 6 à 12 minutes par article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] — description: Hybridation knowledge graphs + bases vectorielles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] — définition: Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] — portée: Mondial, permanent selon Andreessen (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déduplication\|déduplication]] — domaine: Sauvegarde de données, optimisation stockage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] — type: défaillance infrastructure critique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#démocratisation-de-l'éducation\|démocratisation de l'éducation]] — impact: accès mondial sans barrières géographiques ou financières (1 occ., 1 fiches)
+- [[kb/_entites-mineures#dérive-du-contexte\|dérive du contexte]] — définition: Mélange d'intentions → glissement vers best practices génériques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-logiciel-IA\|développement logiciel IA]] — marché estimé: 3 billions de dollars (valeur économique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-permissionless\|développement permissionless]] — analogie: comme YouTube/blogs pour le contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développeurs-frontend\|développeurs frontend]] — impact: transition vers conception AI-first (1 occ., 1 fiches)
@@ -638,6 +643,7 @@
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
 - [[kb/Vibe-Coding\|vibe coding]] — définition: coder au feeling avec l'IA sans cadre structuré (9 occ., 9 fiches)
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#volumétrie\|volumétrie]] — valeur: ~15 publiés + ~30 mis à jour (dev démarré fév. 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] — définition: Visionnage vidéo qui clear le seuil de durée minimal — signal positif first-class introduit en 2026, n'existait pas en 2023 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] — définition: Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] — contrainte: HTML statique, SPA obligatoire, mis en cache à l'installation (1 occ., 1 fiches)
