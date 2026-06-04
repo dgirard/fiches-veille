@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 34 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 35 relations | 3 fiches sources
 
 ## Attributs
 
@@ -142,6 +142,7 @@
 
 - [[kb/MCP\|MCP]] **permet_à** → agents IA — 0.98
 - [[kb/BMAD\|BMAD]] **assigne_des_rôles_à** → agents IA — 0.95
+- [[kb/_entites-mineures#FinOps-traditionnel\|FinOps traditionnel]] **échoue_pour** → agents IA — 0.95
 - [[kb/_entites-mineures#Long-tail-besoins-métier\|Long-tail besoins métier]] **devient_adressable_avec** → agents IA — 0.94
 - [[kb/_entites-mineures#humain\|humain]] **reste_architecte_de** → agents IA — 0.93
 - [[kb/_entites-mineures#modèle-Agile\|modèle Agile]] **atteint_ses_limites** → agents IA — 0.90

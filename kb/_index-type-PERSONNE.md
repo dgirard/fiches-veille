@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 389 entités de type PERSONNE
+> 393 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -163,6 +163,7 @@
 - [[kb/Ido-Salomon\|Ido Salomon]] — rôle: Co-créateur MCP-UI, Monday.com (2 occ., 2 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] — rôle: CEO, QodoAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Ivan-Chepurin\|Ivan Chepurin]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#J.R.-Storment\|J.R. Storment]] — rôle: Créateur / executive director de la FinOps Foundation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] — rôle: Écrivain catholique anglais (1892-1973), auteur du *Seigneur des Anneaux* — cité par Léon XIV (n. 213) via les paroles de Sam dans *Le Retour du Roi* sur la responsabilité de notre génération (1 occ., 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] — rôle: Co-fondateur Anthropic, membre AI Index Steering Committee (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
@@ -206,8 +207,9 @@
 - [[kb/Kent-Beck\|Kent Beck]] — rôle: Co-auteur Manifeste Agile, créateur XP, analyste codage augmenté (5 occ., 4 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] — rôle: Collègue Thoughtworks, a proposé le lien avec la cybernétique (1 occ., 1 fiches)
-- [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: General Manager Cora, Every (3 occ., 3 fiches)
+- [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: General Manager Cora, Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] — rôle: Developer advocate, Anthropic (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Laura-Entis\|Laura Entis]] — rôle: Co-autrice (Every), journaliste/éditrice (1 occ., 1 fiches)
 - [[kb/Laura-Tacho\|Laura Tacho]] — rôle: Experte en expérience développeur (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] — rôle: Interviewer Sequoia de l'événement Cherny (1 occ., 1 fiches)
 - [[kb/Lee-Robinson\|Lee Robinson]] — rôle: Développeur / Tech lead (2 occ., 2 fiches)
@@ -258,6 +260,7 @@
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] — rôle: CEO de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] — dates: 1930-2019, philosophe français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] — rôle: VP IA, Replit (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mike-Taylor\|Mike Taylor]] — rôle: Co-auteur (Every), auteur AI/prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] — rôle_précédent: CTO d'OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Molly-Kinder\|Molly Kinder]] — rôle: Senior fellow Brookings, parallèle white-collar / blue-collar narratives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] — période: 1533-1592 (1 occ., 1 fiches)
@@ -276,7 +279,7 @@
 - [[kb/_entites-mineures#Olivia-Moore\|Olivia Moore]] — rôle: Partner, Andreessen Horowitz (AI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Olivia-T.-Karaman\|Olivia T. Karaman]] — rôle: PhD candidate UC Riverside, Research Assistant BCG (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Olivier-Pomel\|Olivier Pomel]] — rôle: Fondateur Datadog, investisseur (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Olivier-Rafal\|Olivier Rafal]] — affiliation: WEnvision (1 occ., 1 fiches)
+- [[kb/Olivier-Rafal\|Olivier Rafal]] — rôle: Analyste/conseil, auteur (WeNvision) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Parker-Mitchell\|Parker Mitchell]] — rôle: CEO de Valence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] — rôle: Membre ComDir, SI et Digital (1 occ., 1 fiches)
 - [[kb/Pasquale-Pillitteri\|Pasquale Pillitteri]] — rôle: Ingénieur informatique, blogueur tech (Palerme) (1 occ., 1 fiches)
@@ -334,6 +337,7 @@
 - [[kb/Simon-Wardley\|Simon Wardley]] — rôle: Stratège, créateur Wardley Mapping (2 occ., 2 fiches)
 - [[kb/Simon-Willison\|Simon Willison]] — rôle: Practitioner IA, développeur, blogger (5 occ., 5 fiches)
 - [[kb/_entites-mineures#Socrate\|Socrate]] — période: 469-399 av. J.-C. (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sohrab-Hosseini\|Sohrab Hosseini]] — rôle: Co-fondateur Orq.ai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] — rôle: Fondateur Docker, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sophie-Neary\|Sophie Neary]] — rôle: Managing Director, Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Soufiane-Keli\|Soufiane Keli]] — rôle: Consultant OCTO Technology (1 occ., 1 fiches)
@@ -355,7 +359,7 @@
 - [[kb/_entites-mineures#Ted-Chiang\|Ted Chiang]] — rôle: Écrivain de science-fiction américain, auteur essai BuzzFeed News 2017 sur superintelligence comme no-holds-barred capitalism — citation canonique mobilisée par Wallace-Wells 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] — rôle: Lead frontier evaluations OpenAI, responsable GDPVal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thariq\|Thariq]] — rôle: Ingénieur Anthropic, expert Claude Code (1 occ., 1 fiches)
-- [[kb/Thariq-Shihipar\|Thariq Shihipar]] — rôle: Engineer & serial entrepreneur, équipe Claude Code chez Anthropic, X @trq212 (1 occ., 1 fiches)
+- [[kb/Thariq-Shihipar\|Thariq Shihipar]] — rôle: Member of Technical Staff, équipe Claude Code (Anthropic) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)

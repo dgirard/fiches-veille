@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 89 entités de type EVENEMENT
+> 90 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-adoption-juridique\|100% adoption juridique]] — contexte: Département legal Moderna sous Shannon Klinger (1 occ., 1 fiches)
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
@@ -37,6 +37,7 @@
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#FinOps-X-2026\|FinOps X 2026]] — date: 8-11 juin 2026, San Diego (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)

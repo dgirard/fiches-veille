@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 97 relations | 38 fiches sources
+> **Type** : TECHNOLOGIE | 98 relations | 39 fiches sources
 
 ## Attributs
 
@@ -15,6 +15,7 @@
 - **produits_affectés** : Claude Code, Claude Agent SDK, Claude Cowork
 - **revenus** : 500M$ annuels (run-rate)
 - **revenus annualisés** : ~1 milliard $ (novembre 2025)
+- **rôle** : Coding assistant générant de la dépense à allouer
 - **stack** : TypeScript, React terminal
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
 - **version_corrigée** : v2.1.116 (20 avril 2026)
@@ -190,6 +191,8 @@
 
 - [[kb/_entites-mineures#Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+- [[kb/_entites-mineures#coding-assistants-à-allouer\|coding assistants à allouer]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps pour agents IA : framework d'allocation en 4 étapes pour les coûts des coding assistants (Claude Code, Cursor, Copilot) et pourquoi le tagging cloud traditionnel échoue - Finout]]
 
 ### favorise
 
@@ -356,6 +359,7 @@
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Every Marketplace - Compounding Engineering Plugin - Claude Code - GitHub - AI Development Workflow - Code Quality - Technical Debt Reduction]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
+- [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps pour agents IA : framework d'allocation en 4 étapes pour les coûts des coding assistants (Claude Code, Cursor, Copilot) et pourquoi le tagging cloud traditionnel échoue - Finout]]
 - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
 - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]

@@ -1,32 +1,32 @@
 # Knowledge Base — Veille Technologique
 
-> 277 fiches | 2244 entités | 4027 triples | Généré le 2026-05-31
+> 288 fiches | 2331 entités | 4172 triples | Généré le 2026-06-04
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (389)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (294)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (531)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (654)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (274)
-- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (89)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (393)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (302)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (543)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (691)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (291)
+- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (90)
 - [[kb/_index-type-LIEU\|LIEU]] (6)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (7)
-- [[kb/_entites-mineures\|Entités mineures]] (1958)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (15)
+- [[kb/_entites-mineures\|Entités mineures]] (2040)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 97 | 38 |
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 78 | 32 |
+| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 98 | 39 |
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 81 | 33 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 46 | 19 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 46 | 12 |
 | [[kb/Google\|Google]] | ORGANISATION | 38 | 15 |
-| [[kb/Vibe-Coding\|Vibe Coding]] | METHODOLOGIE | 37 | 10 |
-| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 34 | 3 |
-| [[kb/IA\|IA]] | TECHNOLOGIE | 32 | 4 |
+| [[kb/Vibe-Coding\|Vibe Coding]] | METHODOLOGIE | 38 | 10 |
+| [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 35 | 3 |
+| [[kb/IA\|IA]] | TECHNOLOGIE | 33 | 4 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 30 | 1 |
 | [[kb/Claude\|Claude]] | TECHNOLOGIE | 25 | 6 |
 | [[kb/MCP-UI\|MCP-UI]] | TECHNOLOGIE | 22 | 3 |
@@ -35,43 +35,43 @@
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 20 | 6 |
 | [[kb/MCP\|MCP]] | TECHNOLOGIE | 18 | 10 |
 | [[kb/Genie-3\|Genie 3]] | TECHNOLOGIE | 18 | 2 |
+| [[kb/IA-générative\|IA générative]] | TECHNOLOGIE | 17 | 4 |
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 17 | 1 |
 | [[kb/Sierra\|Sierra]] | ORGANISATION | 17 | 3 |
 | [[kb/Superpowers\|Superpowers]] | TECHNOLOGIE | 17 | 2 |
-| [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 16 | 5 |
 
 ## Statistiques
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 166
-- **affirme_que** : 155
+- **utilise** : 168
+- **affirme_que** : 165
 - **** : 155
-- **a_créé** : 92
-- **publie** : 83
-- **recommande** : 81
-- **est_basé_sur** : 64
+- **a_créé** : 93
+- **publie** : 86
+- **recommande** : 85
+- **est_basé_sur** : 66
+- **remplace** : 60
+- **réduit** : 59
 - **améliore** : 59
-- **remplace** : 59
+- **a_publié** : 58
 - **permet** : 57
-- **a_publié** : 54
-- **réduit** : 53
+- **est** : 53
 - **s_oppose_à** : 51
-- **est** : 46
-- **transforme** : 46
+- **transforme** : 48
 
 ### Distribution par type
 
-- **PERSONNE** : 389 (17.3%)
-- **ORGANISATION** : 294 (13.1%)
-- **TECHNOLOGIE** : 531 (23.7%)
-- **CONCEPT** : 654 (29.1%)
-- **METHODOLOGIE** : 274 (12.2%)
-- **EVENEMENT** : 89 (4.0%)
+- **PERSONNE** : 393 (16.9%)
+- **ORGANISATION** : 302 (13.0%)
+- **TECHNOLOGIE** : 543 (23.3%)
+- **CONCEPT** : 691 (29.6%)
+- **METHODOLOGIE** : 291 (12.5%)
+- **EVENEMENT** : 90 (3.9%)
 - **LIEU** : 6 (0.3%)
-- **DOCUMENT** : 7 (0.3%)
+- **DOCUMENT** : 15 (0.6%)
 
 ### Déduplication
 
-- **Triples** : 4067 → 4027 (40 doublons)
-- **Entités** : 2875 → 2244 (631 doublons)
+- **Triples** : 4219 → 4172 (47 doublons)
+- **Entités** : 2986 → 2331 (655 doublons)

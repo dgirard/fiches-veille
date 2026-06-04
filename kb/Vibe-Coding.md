@@ -1,6 +1,6 @@
 # Vibe Coding
 
-> **Type** : METHODOLOGIE | 37 relations | 10 fiches sources
+> **Type** : METHODOLOGIE | 38 relations | 10 fiches sources
 
 ## Attributs
 
@@ -113,6 +113,7 @@
 - [[kb/_entites-mineures#spec-coding\|spec coding]] **s_oppose_à** → Vibe Coding — 0.95
 - [[kb/_entites-mineures#Gene-Kim\|Gene Kim]] **analyse** → Vibe Coding — 0.93
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → Vibe Coding — 0.92
+- [[kb/_entites-mineures#niveau-Autopilot\|niveau Autopilot]] **est_lié_à** → Vibe Coding — 0.90
 - [[kb/Vibe-Reviewing\|Vibe Reviewing]] **s_oppose_à** → Vibe Coding — 0.90
 - [[kb/_entites-mineures#seniors-et-staff-engineers\|seniors et staff engineers]] **résistent_à** → Vibe Coding — 0.87
 
