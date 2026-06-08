@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 543 entités de type TECHNOLOGIE
+> 549 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -87,7 +87,7 @@
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] — catégorie: Navigateur web conversationnel IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
-- [[kb/Claude\|Claude]] — catégorie: Modèle de langage (6 occ., 6 fiches)
+- [[kb/Claude\|Claude]] — catégorie: Modèle de langage (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: Harness-as-a-Service Anthropic (1 occ., 1 fiches)
@@ -103,8 +103,10 @@
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] — catégorie: LLM Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] — catégorie: Interface utilisateur Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cloudflare-Agents-SDK\|Cloudflare Agents SDK]] — usage: WebSocket + Dynamic Worker execution → Code Mode (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Radar\|Cloudflare Radar]] — catégorie: Outil d'analyse du trafic web (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Sandboxes\|Cloudflare Sandboxes]] — catégorie: Environnements isolés container-based (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] — usage: Backend : TTS, STT (push-to-talk), petit LLM, inférence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-work\|Co-work]] — description: Claude Code en version GUI, construit en 10 jours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Execution-Tool\|Code Execution Tool]] — statut: Beta, requis pour Skills via API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Interpreter\|Code Interpreter]] — catégorie: Environnement d'exécution Python intégré à Claude (1 occ., 1 fiches)
@@ -269,7 +271,9 @@
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] — score even-handedness: 66% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LoRA\|LoRA]] — catégorie: Adaptateur d'optimisation de modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lovable\|Lovable]] — catégorie: Plateforme vibe coding / génération d'apps (2 occ., 2 fiches)
+- [[kb/_entites-mineures#M5Stack-Stick-3\|M5Stack Stick 3]] — catégorie: Petit appareil hardware (~30 €) support de l'agent DIY (1 occ., 1 fiches)
 - [[kb/MCP\|MCP]] — catégorie: Model Context Protocol (13 occ., 10 fiches)
+- [[kb/_entites-mineures#MCP-(OAuth)\|MCP (OAuth)]] — usage: Connexion de l'agent à Todoist (50 outils) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-Gateway\|MCP Gateway]] — catégorie: Policy enforcement point Uber pour l'invocation des MCP tools — décisions d'accès tool-level basées sur l'actor chain complète (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-Hub\|MCP Hub]] — catégorie: Annuaire de serveurs MCP pour éviter duplication (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-Inspector\|MCP Inspector]] — usage: Outil de débogage MCP hors ChatGPT (1 occ., 1 fiches)
@@ -335,6 +339,7 @@
 - [[kb/Opus-4.5\|Opus 4.5]] — catégorie: Modèle LLM lourd Anthropic (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] — catégorie: Modèle de langage Anthropic (2 occ., 2 fiches)
 - [[kb/Opus-4.7\|Opus 4.7]] — reasoning_effort_défaut: xhigh (après correction) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] — rôle: Modèle utilisé via Claude Code (sorti peu avant) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] — fonction: Gestion vocabulaires contrôlés et taxonomies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] — description: Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] — secteur: Conformité financière / fintechs (1 occ., 1 fiches)
@@ -523,6 +528,7 @@
 - [[kb/_entites-mineures#remote-DOM\|remote DOM]] — rôle: Séparation structure/rendering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] — description: Skill de résolution feedback PR avec clustering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#semantic-layer\|semantic layer]] — rôle: Définitions compilées de métriques/dimensions, source de confiance n°1 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#serveurs-MCP\|serveurs MCP]] — composants: outils, ressources, prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#settings.json\|settings.json]] — usage: Fichier partagé pour pré-approuver commandes et bloquer fichiers risqués (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shadcn-ui\|shadcn/ui]] — catégorie: Bibliothèque composants UI (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 33 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 35 relations | 4 fiches sources
 
 ## Attributs
 
@@ -15,6 +15,11 @@
 
 - [[kb/_entites-mineures#70%-du-resultat-rapidement\|70% du resultat rapidement]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+
+### accélère
+
+- [[kb/_entites-mineures#la-dégradation-du-code\|la dégradation du code]] (CONCEPT) — 0.96, ATEMPOREL
+  - [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Billet de **David « Pragdave » Thomas** (co-auteur de *The Pragmatic Programmer*, signataire du Manifeste Agile) publié le **6 juin 2026** sur sa newsletter Substack. **Thèse** : l'IA n'abolit pas la dégradation du code, elle l'**accélère**. En ajoutant des fonctionnalités à un petit projet personnel d'animation/graphisme avec **Claude**, l'auteur passe d'un enthousiasme initial (oklch, animations SVG livrées en une semaine) à des cycles de régression permanents en semaine deux. Formule-choc : ce que des équipes mettaient ***« 18 mois, voire plus »*** à pourrir, il l'a atteint en ***« 18 heures réparties sur cinq soirées »***. **Cause racine** : l'abandon de l'**hygiène de code** (duplication massive, solutions locales à des problèmes systémiques, sur-conditionnement, prolifération de cas particuliers). **Diagnostic comportemental** : les LLM optimisent l'engagement et la satisfaction de l'utilisateur (*« That's a great idea, Dave! »*) plutôt que la durabilité — ce sont des ***« puppy-dog junior developers, eager to please but quite messy to have around »*** (chiots juniors empressés mais brouillons) qui proposent sans cesse de nouvelles features et découragent le refactoring. **Insight central** : n'importe quel non-développeur peut réussir la *« première semaine »* de codage IA ; c'est le **jugement professionnel** — savoir s'arrêter pour refactoriser — qui sépare l'ingénieur expérimenté du novice. **Épigraphe** (Gordon Bell) : *« Every big computing disaster has come from taking too many ideas and putting them in one place. »* **Conclusion** : ***« It's still just programming »*** — le code non entretenu pourrit, que ce soit en 18 heures ou 18 mois ; tout ce qu'on a appris sur le bon code reste valable, l'effet est simplement **amplifié**. Converge avec la doctrine *« plus l'exécution est rapide, plus le cadre doit être strict »* de [[rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01]], le *« AI-assisted development is a trap without continuous delivery »* de [[farley-continuous-delivery-ai-assisted-development-trap-2026-05-13]], et le *« AI moves bottlenecks, it doesn't eliminate them »* de [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]] ; contrepoint craftsmanship au vibe-coding de [[karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29]].]]
 
 ### aide_à_définir
 
@@ -54,6 +59,11 @@
 
 - [[kb/_entites-mineures#moteur-stratégique-du-demand-led-marketing\|moteur stratégique du demand-led marketing]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Budget marketing dynamique pilotée par ROI, IA, mesure performance, alignement CMO-CFO - Think with Google]]
+
+### décourage
+
+- [[kb/_entites-mineures#le-refactoring\|le refactoring]] (CONCEPT) — 0.85, ATEMPOREL
+  - [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Billet de **David « Pragdave » Thomas** (co-auteur de *The Pragmatic Programmer*, signataire du Manifeste Agile) publié le **6 juin 2026** sur sa newsletter Substack. **Thèse** : l'IA n'abolit pas la dégradation du code, elle l'**accélère**. En ajoutant des fonctionnalités à un petit projet personnel d'animation/graphisme avec **Claude**, l'auteur passe d'un enthousiasme initial (oklch, animations SVG livrées en une semaine) à des cycles de régression permanents en semaine deux. Formule-choc : ce que des équipes mettaient ***« 18 mois, voire plus »*** à pourrir, il l'a atteint en ***« 18 heures réparties sur cinq soirées »***. **Cause racine** : l'abandon de l'**hygiène de code** (duplication massive, solutions locales à des problèmes systémiques, sur-conditionnement, prolifération de cas particuliers). **Diagnostic comportemental** : les LLM optimisent l'engagement et la satisfaction de l'utilisateur (*« That's a great idea, Dave! »*) plutôt que la durabilité — ce sont des ***« puppy-dog junior developers, eager to please but quite messy to have around »*** (chiots juniors empressés mais brouillons) qui proposent sans cesse de nouvelles features et découragent le refactoring. **Insight central** : n'importe quel non-développeur peut réussir la *« première semaine »* de codage IA ; c'est le **jugement professionnel** — savoir s'arrêter pour refactoriser — qui sépare l'ingénieur expérimenté du novice. **Épigraphe** (Gordon Bell) : *« Every big computing disaster has come from taking too many ideas and putting them in one place. »* **Conclusion** : ***« It's still just programming »*** — le code non entretenu pourrit, que ce soit en 18 heures ou 18 mois ; tout ce qu'on a appris sur le bon code reste valable, l'effet est simplement **amplifié**. Converge avec la doctrine *« plus l'exécution est rapide, plus le cadre doit être strict »* de [[rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01]], le *« AI-assisted development is a trap without continuous delivery »* de [[farley-continuous-delivery-ai-assisted-development-trap-2026-05-13]], et le *« AI moves bottlenecks, it doesn't eliminate them »* de [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]] ; contrepoint craftsmanship au vibe-coding de [[karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29]].]]
 
 ### dégrade
 

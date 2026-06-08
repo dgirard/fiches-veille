@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 98 relations | 39 fiches sources
+> **Type** : TECHNOLOGIE | 99 relations | 39 fiches sources
 
 ## Attributs
 
@@ -335,6 +335,7 @@
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] **est_utilisé_par** → Claude Code — 0.96
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **a_manipulé** → Claude Code — 0.95
+- [[kb/Mark-Dembo\|Mark Dembo]] **a_utilisé** → Claude Code — 0.95
 - [[kb/Cursor\|Cursor]] **harmonise_prix_avec** → Claude Code — 0.95
 - [[kb/_entites-mineures#Co-work\|Co-work]] **est_basé_sur** → Claude Code — 0.94
 - [[kb/Every\|Every]] **a_été_transformé_par** → Claude Code — 0.92

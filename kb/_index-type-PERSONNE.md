@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 393 entités de type PERSONNE
+> 396 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -106,6 +106,7 @@
 - [[kb/_entites-mineures#David-Perrin\|David Perrin]] — rôle: Dominicain, auteur à la Revue thomiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Sacks\|David Sacks]] — rôle: AI and Crypto Czar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Shor\|David Shor]] — rôle: Pollster Démocrate, stratégiste messaging IA pour 2028 (1 occ., 1 fiches)
+- [[kb/David-Thomas\|David Thomas]] — rôle: Co-auteur The Pragmatic Programmer, signataire Manifeste Agile (« Pragdave ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Wallace-Wells\|David Wallace-Wells]] — rôle: Staff writer NYT Magazine, journaliste américain reconnu pour climat (livre The Uninhabitable Earth 2019), ancien deputy editor New York Magazine. Auteur article-pivot AI Populism mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] — rôle: Policy wonk, architecte original de l'AI policy de l'administration Trump. Citation prophétique Palantir Foundation Yale "AI as governments" + "giant acid vat" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
@@ -146,6 +147,7 @@
 - [[kb/_entites-mineures#Gideon-Nave\|Gideon Nave]] — rôle: Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender (1 occ., 1 fiches)
 - [[kb/Gilles-Chehade\|Gilles Chehade]] — rôle: Cofondateur, contributeur OpenBSD (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Giorgio-La-Pira\|Giorgio La Pira]] — rôle: Maire de Florence (1951-1965), figure du catholicisme social italien, artisan de paix — cité par Léon XIV (n. 221) sur la culture de la négociation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Gordon-Bell\|Gordon Bell]] — rôle: Auteur de l'épigraphe (too many ideas in one place) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Brockman\|Greg Brockman]] — rôle: cofondateur OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
@@ -237,6 +239,7 @@
 - [[kb/_entites-mineures#Marc-Benioff\|Marc Benioff]] — rôle: CEO Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marco-Rubio\|Marco Rubio]] — rôle: Secrétaire d'État et Conseiller national à la sécurité par intérim (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] — rôle: Chercheuse en génie logiciel (1 occ., 1 fiches)
+- [[kb/Mark-Dembo\|Mark Dembo]] — rôle: Head of Solutions – Developer Platform & AI chez Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] — rôle: Éditeur de news, Tom's Hardware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: CEO Meta (1 occ., 1 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)

@@ -1,6 +1,6 @@
 # Cloudflare
 
-> **Type** : ORGANISATION | 7 relations | 2 fiches sources
+> **Type** : ORGANISATION | 8 relations | 2 fiches sources
 
 ## Attributs
 
@@ -30,6 +30,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Celso-Martinho\|Celso Martinho]] **travaille_chez** → Cloudflare — 0.95
+- [[kb/Mark-Dembo\|Mark Dembo]] **travaille_chez** → Cloudflare — 0.95
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] **travaille_chez** → Cloudflare — 0.95
 
 ## Fiches sources

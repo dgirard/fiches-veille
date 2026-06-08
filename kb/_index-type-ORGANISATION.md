@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 302 entités de type ORGANISATION
+> 303 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -303,4 +303,5 @@
 - [[kb/_entites-mineures#sponsors-Tokenomics-Foundation\|sponsors Tokenomics Foundation]] — liste: Accenture, Booking.com, Google Cloud, Microsoft, IBM, Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#xAI\|xAI]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Éditions-Cybernetica\|Éditions Cybernetica]] — type: Newsletter stratégique tech française (1 occ., 1 fiches)
+- [[kb/_entites-mineures#équipe-Data-Science-&-Data-Engineering-Anthropic\|équipe Data Science & Data Engineering Anthropic]] — membres: Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry (1 occ., 1 fiches)
 - [[kb/_entites-mineures#équipe-FAANG\|équipe FAANG]] — résultat_mesuré: +30% vitesse de développement (1 occ., 1 fiches)
