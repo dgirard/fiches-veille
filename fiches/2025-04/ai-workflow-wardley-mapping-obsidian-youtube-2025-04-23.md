@@ -19,64 +19,64 @@ Wardley Mapping automation, LLM prompts, capability decomposition, OpenAI API, O
 Auteur vidéo (Product Manager ERP/Business Intelligence)
 
 ## Ton
-**Profil:** Tutorial-Practitioner | Première personne educator | Pédagogique-Démonstrative | Intermédiaire-Expert
+**Profil :** Tutoriel praticien | Première personne, pédagogue | Registre pédagogique-démonstratif | Niveau technique intermédiaire à expert
 
-PM/BI practitioner adopte YouTube tutorial voice combinant hands-on demonstration et conceptual explanation. Langage technical accessible (LLM prompts, Obsidian canvas, NetworkX clustering) guides viewers through workflow. Format vidéo allows visual demonstration complex automation process. Tone enthusiastic practitioner sharing discovered workflow rather than authoritative expert. Structure tutorial typical (problem→solution→implementation) facilitates learning. Typique practitioner YouTube channels partageant personal workflows et discoveries visant fellow practitioners curious automation strategic thinking tools.
+Le praticien PM/BI adopte une voix de tutoriel YouTube combinant démonstration pratique et explication conceptuelle. Langage technique accessible (prompts LLM, canvas Obsidian, clustering NetworkX) qui guide le spectateur à travers le workflow. Le format vidéo permet la démonstration visuelle d'un processus d'automatisation complexe. Ton de praticien enthousiaste partageant un workflow découvert, plutôt que d'expert faisant autorité. Structure de tutoriel classique (problème → solution → mise en œuvre) qui facilite l'apprentissage. Typique des chaînes YouTube de praticiens partageant workflows personnels et découvertes, visant des pairs curieux d'automatiser leurs outils de réflexion stratégique.
 
 ## Pense-betes
-- **Objectif** : utiliser IA pour bootstrapper Wardley Map, obtenir bon point départ rapidement
-- **Outil stack** : OpenAI API + Obsidian + Python NetworkX + custom frontend
-- **Prompt 1 - Capabilities** : "I'm product manager for [product]. Frame capabilities as 'the ability to [blank]'. Break down using 'is a function of the ability to'. Return JSON."
-- **Exemple capability** : "buy lunch for team" → décomposé en plan balanced meals, source quality ingredients, efficient meal preparation, adapt to preferences/allergies
-- **Obsidian integration** : capabilities dropped into Obsidian, relationships automatiquement linkées (parent→subcapabilities)
-- **Axe Y Wardley** : plus haut = closer to customer, plus bas = abstracted/invisible from customer
-- **Prompt 2 - Y-axis positioning** : categorize capabilities based on proximity to different roles (operational excellence leaders → COO → strategic program managers → coaches/designers → operations/IT engineers → platform/data engineers → infrastructure/utility layers)
-- **Toujours demander rationale** : "assign level + give rationale" permet tuning, "get into thinking of LLM"
-- **Prompt 3 - Relationships** : "identify meaningful relationships: functionally similar OR enabling capabilities. Return JSON with pair (two related IDs) + type (similar/enables) + clear explanation"
-- **Scanning aléatoire** : insert capabilities at random, strict analysis, comme "scanner board et tracer lignes entre similaires"
-- **Exemple relationship** : "analyze data insights" ↔ "trend analysis" = similar (both focus on analyzing data to derive insights)
-- **NetworkX clustering** : Python library pour social network graph analysis, identify clusters within each level
-- **Canvas final** : capabilities organisées par level (Y-axis) + cluster (X-axis approximation), grouping feature Obsidian
-- **Navigation value chain** : example "leader wants prioritization" → go down stack → find different things involved
-- **Bootstrap not endpoint** : "this is just the start, now spend time nerding out learning about space"
+- **Objectif** : utiliser l'IA pour amorcer (bootstrapper) une Wardley Map et obtenir rapidement un bon point de départ
+- **Stack d'outils** : OpenAI API + Obsidian + Python NetworkX + frontend maison
+- **Prompt 1 - Capacités** : « I'm product manager for [product]. Frame capabilities as 'the ability to [blank]'. Break down using 'is a function of the ability to'. Return JSON. »
+- **Exemple de capacité** : « buy lunch for team » → décomposé en planifier des repas équilibrés, sourcer des ingrédients de qualité, préparer efficacement les repas, s'adapter aux préférences/allergies
+- **Intégration Obsidian** : capacités déposées dans Obsidian, relations automatiquement liées (parent → sous-capacités)
+- **Axe Y Wardley** : plus haut = plus proche du client, plus bas = abstrait/invisible pour le client
+- **Prompt 2 - Positionnement sur l'axe Y** : catégoriser les capacités selon leur proximité avec différents rôles (leaders excellence opérationnelle → COO → program managers stratégiques → coachs/designers → ingénieurs opérations/IT → ingénieurs plateforme/data → couches infrastructure/utilitaires)
+- **Toujours demander la justification** : « assigner un niveau + donner la justification » permet le réglage fin et de « rentrer dans le raisonnement du LLM »
+- **Prompt 3 - Relations** : « identifier les relations significatives : capacités fonctionnellement similaires OU habilitantes. Retourner du JSON avec paire (deux IDs liés) + type (similar/enables) + explication claire »
+- **Balayage aléatoire** : insérer les capacités au hasard, analyse stricte, comme « scanner un tableau et tracer des lignes entre éléments similaires »
+- **Exemple de relation** : « analyze data insights » ↔ « trend analysis » = similaires (toutes deux centrées sur l'analyse de données pour en tirer des enseignements)
+- **Clustering NetworkX** : bibliothèque Python d'analyse de graphes sociaux, identifie les clusters au sein de chaque niveau
+- **Canvas final** : capacités organisées par niveau (axe Y) + cluster (approximation de l'axe X), avec la fonction de regroupement d'Obsidian
+- **Navigation dans la chaîne de valeur** : exemple « un leader veut de la priorisation » → descendre la pile → identifier les différents éléments impliqués
+- **Le bootstrap n'est pas la fin** : « ce n'est que le début, il faut maintenant passer du temps à apprendre le domaine en profondeur »
 
 ## RésuméDe400mots
 
-**Objectif et Contexte Méthodologique**
+**Objectif et contexte méthodologique**
 
-Tutoriel vidéo démontrant workflow pratique utilisant IA (LLMs) pour bootstrapper création Wardley Map. Auteur, product manager domaine ERP/Business Intelligence, cherche explorer espace product-agnostic et obtenir bon point départ rapidement plutôt que partir feuille blanche. Approche reconnaît que Wardley Mapping manuel long/complexe, propose automation partielle pour accélérer phase initiale exploration stratégique.
+Tutoriel vidéo démontrant un workflow pratique utilisant l'IA (LLM) pour amorcer la création d'une Wardley Map. L'auteur, product manager dans le domaine ERP/Business Intelligence, cherche à explorer un espace produit et à obtenir rapidement un bon point de départ plutôt que de partir d'une feuille blanche. L'approche reconnaît que le Wardley Mapping manuel est long et complexe, et propose une automatisation partielle pour accélérer la phase initiale d'exploration stratégique.
 
-**Architecture Technique : Stack et Outils**
+**Architecture technique : stack et outils**
 
-Workflow repose sur **quatre composants** : **(1) OpenAI API** pour génération capabilities/relationships via prompts structurés ; **(2) Obsidian** comme outil knowledge management exploitant graph relationships natives ; **(3) Python avec NetworkX** library pour clustering analysis type social network graph ; **(4) Custom frontend** (optionnel) pour faciliter entry prompts/capabilities. Integration fluide permet passer outputs JSON LLM directement dans Obsidian, puis exports vers Python pour analysis avancée, puis re-import enriched data dans Obsidian canvas.
+Le workflow repose sur **quatre composants** : **(1) l'API OpenAI** pour générer capacités et relations via des prompts structurés ; **(2) Obsidian** comme outil de gestion des connaissances exploitant son graphe de relations natif ; **(3) Python avec la bibliothèque NetworkX** pour l'analyse de clustering de type graphe social ; **(4) un frontend maison** (optionnel) pour faciliter la saisie des prompts et capacités. L'intégration fluide permet de passer les sorties JSON du LLM directement dans Obsidian, puis de les exporter vers Python pour analyse avancée, puis de réimporter les données enrichies dans le canvas Obsidian.
 
-**Trois Prompts Séquentiels Structurés**
+**Trois prompts séquentiels structurés**
 
-**Prompt 1 - Capability Decomposition** : Format strict "I'm product manager for [product] in [space]. Frame capabilities as 'the ability to [blank]'. Break down capabilities using 'insert starting capability is a function of the ability to...' Return results in JSON." Exemple concret : "buy lunch for team" (top-level capability) décomposé automatiquement en subcapabilities : plan balanced meals, source quality ingredients, efficient meal preparation, adapt to preferences/allergies. Décomposition crée **hierarchical parent→child relationships** automatiquement linkées dans Obsidian graph.
+**Prompt 1 - Décomposition des capacités** : format strict « I'm product manager for [product] in [space]. Frame capabilities as 'the ability to [blank]'. Break down capabilities using '... is a function of the ability to...' Return results in JSON. » Exemple concret : « buy lunch for team » (capacité de premier niveau) décomposée automatiquement en sous-capacités : planifier des repas équilibrés, sourcer des ingrédients de qualité, préparer efficacement les repas, s'adapter aux préférences/allergies. La décomposition crée des **relations hiérarchiques parent → enfant** automatiquement liées dans le graphe Obsidian.
 
-**Prompt 2 - Y-Axis Positioning** : Wardley Maps utilisent axe Y représentant proximité customer (haut = visible for customer, bas = abstracted/invisible infrastructure). Prompt catégorise capabilities based on proximity to different roles within value chain focused operational excellence : **(Level 1)** Operational excellence leaders, COO, strategic program managers ; **(Level 2)** Coaches, designers ; **(Level 3)** Operations/IT engineers ; **(Level 4)** Platform engineers, data engineers ; **(Level 5)** Infrastructure/utility layers. Cruciale : **toujours demander rationale** avec assignment level. Permet "get into thinking of LLM", facilite tuning iteratif. Auteur souligne ce prompt nécessita tuning behind scenes pour domain spécifique.
+**Prompt 2 - Positionnement sur l'axe Y** : les Wardley Maps utilisent un axe Y représentant la proximité au client (haut = visible pour le client, bas = infrastructure abstraite/invisible). Le prompt catégorise les capacités selon leur proximité avec différents rôles d'une chaîne de valeur orientée excellence opérationnelle : **(niveau 1)** leaders excellence opérationnelle, COO, program managers stratégiques ; **(niveau 2)** coachs, designers ; **(niveau 3)** ingénieurs opérations/IT ; **(niveau 4)** ingénieurs plateforme et data ; **(niveau 5)** couches infrastructure/utilitaires. Point crucial : **toujours demander la justification** avec l'assignation du niveau. Cela permet de « rentrer dans le raisonnement du LLM » et facilite un réglage itératif. L'auteur souligne que ce prompt a nécessité un réglage en coulisses pour son domaine spécifique.
 
-**Prompt 3 - Capability Relationships** : "Given list of capabilities (each with ID, name, description), identify meaningful relationships. Should be either functionally similar OR enabling capabilities. Be very precise. Return JSON with: pair (two related capability IDs), type (similar/enables), reason (clear explanation why related or how one enables other)." Stratégie : **insert capabilities at random**, strict analysis, comme scanner board et tracer lignes entre items similaires. Exemple output : "analyze data insights" ↔ "trend analysis" = similar (both focus analyzing data derive insights/trends) ; "analyze data insights" enables "actionable intelligence" (derives intelligence from data patterns). Augmente richness relationships au-delà simple hierarchie parent-child.
+**Prompt 3 - Relations entre capacités** : « Étant donné une liste de capacités (chacune avec ID, nom, description), identifier les relations significatives. Soit fonctionnellement similaires, SOIT habilitantes. Être très précis. Retourner du JSON avec : paire (deux IDs de capacités liées), type (similar/enables), raison (explication claire). » Stratégie : **insérer les capacités au hasard**, analyse stricte, comme scanner un tableau et tracer des lignes entre éléments similaires. Exemple de sortie : « analyze data insights » ↔ « trend analysis » = similaires (toutes deux centrées sur l'analyse de données) ; « analyze data insights » habilite « actionable intelligence » (dérive de l'intelligence des motifs de données). Cela enrichit les relations au-delà de la simple hiérarchie parent-enfant.
 
-**NetworkX Clustering et Canvas Final**
+**Clustering NetworkX et canvas final**
 
-Après création capabilities + hierarchical relationships + similarity/enabling relationships + Y-axis levels, workflow utilise **Python NetworkX library** (standard social network graph analysis) pour **identify clusters within each level**. Analyse connexions/relationships density comme social network, assigne cluster IDs. Résultat : chaque capability possède **(1) Y-axis level** (proximity customer), **(2) cluster ID** (regroupement logique within level), **(3) parent-child links**, **(4) similarity/enabling links avec rationales**.
+Après la création des capacités, des relations hiérarchiques, des relations de similarité/habilitation et des niveaux sur l'axe Y, le workflow utilise la **bibliothèque Python NetworkX** (standard de l'analyse de graphes sociaux) pour **identifier des clusters au sein de chaque niveau**. L'analyse de la densité des connexions, comme dans un réseau social, assigne des IDs de cluster. Résultat : chaque capacité possède **(1) un niveau sur l'axe Y** (proximité client), **(2) un ID de cluster** (regroupement logique au sein du niveau), **(3) des liens parent-enfant**, **(4) des liens de similarité/habilitation avec justifications**.
 
-Data enrichie importée **Obsidian canvas** où capabilities visualisées. Auteur utilise **grouping feature** Obsidian pour clarity. Clustering NetworkX parfois produit groupements sensés (exemple : "timestamped entries, audit trails for key actions, historical data preservation" clustered ensemble).
+Les données enrichies sont importées dans le **canvas Obsidian** où les capacités sont visualisées. L'auteur utilise la **fonction de regroupement** d'Obsidian pour la lisibilité. Le clustering NetworkX produit parfois des regroupements sensés (exemple : « entrées horodatées, pistes d'audit des actions clés, préservation des données historiques » regroupées ensemble).
 
-**Navigation Value Chain et Philosophie Bootstrap**
+**Navigation dans la chaîne de valeur et philosophie du bootstrap**
 
-Canvas permet **navigation value chain** : example "leader wants prioritization" (top map) → descendre stack level by level → identifier different things involved achieving prioritization. Démonstration concrète how high-level need décompose en capabilities progressivement abstraites/infrastructure.
+Le canvas permet la **navigation dans la chaîne de valeur** : exemple « un leader veut de la priorisation » (haut de la carte) → descendre la pile niveau par niveau → identifier les différents éléments impliqués dans la priorisation. Démonstration concrète de la façon dont un besoin de haut niveau se décompose en capacités progressivement plus abstraites/infrastructurelles.
 
-**Leçon Clé** : Auteur insiste **"this is just the start, just to bootstrap"**. Output IA n'est pas carte finale mais **accelerated starting point**. Intention : "now spend lot of time nerding out and learning about particular space". IA réduit friction initiale blank page, permet product manager commencer immédiatement iteration/refinement avec structure baseline solide plutôt que weeks manual mapping.
+**Leçon clé** : l'auteur insiste : « ce n'est que le début, juste pour amorcer ». La sortie de l'IA n'est pas la carte finale mais un **point de départ accéléré**. L'intention : « passer ensuite beaucoup de temps à apprendre le domaine en profondeur ». L'IA réduit la friction initiale de la page blanche et permet au product manager de commencer immédiatement l'itération et le raffinement avec une structure de base solide, plutôt que des semaines de cartographie manuelle.
 
-**Implications Méthodologiques**
+**Implications méthodologiques**
 
-Workflow démontre **pragmatic AI augmentation** : ni fully automated strategy (impossible given nuance/context) ni fully manual (trop lent). Hybrid approach exploite LLM strengths (pattern recognition, decomposition logique, relationship identification) tout en reconnaissant human expertise indispensable pour validation, tuning prompts (via rationales), et deep learning domain post-bootstrap. Rationales systematiques créent **feedback loop** permettant practitioner comprendre LLM reasoning, ajuster prompts iterativement, améliorer quality outputs.
+Le workflow démontre une **augmentation pragmatique par l'IA** : ni stratégie entièrement automatisée (impossible vu la nuance et le contexte), ni entièrement manuelle (trop lente). L'approche hybride exploite les forces du LLM (reconnaissance de motifs, décomposition logique, identification de relations) tout en reconnaissant que l'expertise humaine reste indispensable pour la validation, le réglage des prompts (via les justifications) et l'apprentissage approfondi du domaine après le bootstrap. Les justifications systématiques créent une **boucle de rétroaction** permettant au praticien de comprendre le raisonnement du LLM, d'ajuster les prompts itérativement et d'améliorer la qualité des sorties.
 
-**Transferability Beyond Wardley Mapping**
+**Transférabilité au-delà du Wardley Mapping**
 
-Bien que focalisé Wardley Maps, techniques généralisables : capability decomposition, proximity categorization, relationship identification, clustering analysis applicables autres frameworks stratégiques nécessitant structured thinking about value chains, dependencies, abstractions layers. Stack Obsidian+NetworkX+LLM API particulièrement puissante pour knowledge workers explorant complex domains.
+Bien que centrées sur les Wardley Maps, les techniques sont généralisables : décomposition de capacités, catégorisation par proximité, identification de relations et analyse de clustering s'appliquent à d'autres frameworks stratégiques nécessitant une pensée structurée sur les chaînes de valeur, les dépendances et les couches d'abstraction. La stack Obsidian + NetworkX + API LLM est particulièrement puissante pour les travailleurs du savoir explorant des domaines complexes.
 
 ## GrapheDeConnaissance
 
@@ -88,10 +88,10 @@ Bien que focalisé Wardley Maps, techniques généralisables : capability decomp
 | workflow IA Wardley | METHODOLOGIE | utilise | Obsidian | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | workflow IA Wardley | METHODOLOGIE | utilise | NetworkX | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | NetworkX | TECHNOLOGIE | permet | clustering de graphe de capacités | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Obsidian | TECHNOLOGIE | visualise | relations parent-enfant de capacités | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Obsidian | TECHNOLOGIE | permet | visualisation des relations parent-enfant de capacités | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Wardley Map | METHODOLOGIE | utilise | axe Y basé sur proximité client | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| LLM | TECHNOLOGIE | accélère | bootstrapping de cartographie stratégique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| décomposition de capacités | METHODOLOGIE | produit | hierarchie parent-enfant en JSON | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| LLM | TECHNOLOGIE | améliore | bootstrapping de cartographie stratégique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| décomposition de capacités | METHODOLOGIE | permet | hiérarchie parent-enfant en JSON | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | rationale de prompt | CONCEPT | améliore | qualité des outputs LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | workflow IA Wardley | METHODOLOGIE | s_applique_à | product managers ERP/BI | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 

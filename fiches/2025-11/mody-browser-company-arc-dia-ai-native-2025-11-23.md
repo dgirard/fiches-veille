@@ -48,16 +48,16 @@ Il conclut en affirmant que construire un produit IA n'est pas juste une évolut
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Samir Mody | PERSONNE | travaille_chez | The Browser Company | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| The Browser Company | ORGANISATION | développe | Dia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| The Browser Company | ORGANISATION | a_créé | Dia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Dia | TECHNOLOGIE | remplace | Arc | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Dia | TECHNOLOGIE | est_conçu_comme | AI Native | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Dia | TECHNOLOGIE | est_instance_de | navigateur AI Native | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | The Browser Company | ORGANISATION | utilise | Jipa | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Jipa | TECHNOLOGIE | optimise | prompts automatiquement | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
-| Model Behavior | CONCEPT | est_une | discipline émergente | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| injection de prompt | CONCEPT | menace | navigateur IA | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| design UX | CONCEPT | pallie | failles sécurité techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| équipe Model Behavior | CONCEPT | inclut | non-ingénieurs | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Dia | TECHNOLOGIE | impose | confirmation explicite utilisateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Jipa | TECHNOLOGIE | améliore | prompts automatiquement | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Model Behavior | CONCEPT | est_instance_de | discipline émergente | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| injection de prompt | CONCEPT | réduit | sécurité du navigateur IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| design UX | CONCEPT | résout | failles sécurité techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| non-ingénieurs | CONCEPT | fait_partie_de | équipe Model Behavior | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Dia | TECHNOLOGIE | utilise | confirmation explicite utilisateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

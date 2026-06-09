@@ -57,20 +57,20 @@ Debois trace un parallèle explicite avec DevOps, qu'il a cofondé en 2009. La d
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Patrick Debois | PERSONNE | a_créé | Context Development Lifecycle | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Patrick Debois | PERSONNE | a_fondé | Tessl | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
-| Patrick Debois | PERSONNE | a_inventé | DevOps (terme) | CONCEPT | 0.85 | STATIQUE | généré_assistant |
-| Context Development Lifecycle | METHODOLOGIE | comprend | phase Générer | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Context Development Lifecycle | METHODOLOGIE | comprend | phase Évaluer | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Context Development Lifecycle | METHODOLOGIE | comprend | phase Distribuer | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Context Development Lifecycle | METHODOLOGIE | comprend | phase Observer | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | a_créé | Tessl | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
+| Patrick Debois | PERSONNE | a_créé | DevOps (terme) | CONCEPT | 0.85 | STATIQUE | généré_assistant |
+| phase Générer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| phase Évaluer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| phase Distribuer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| phase Observer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | CDLC | METHODOLOGIE | s_inspire_de | DevOps | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Phase Évaluer | CONCEPT | est_basé_sur | Test-Driven Development | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Phase Distribuer | CONCEPT | traite_comme | package versionné | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Contexte | CONCEPT | est_le_nouveau | goulot d'étranglement | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Agents de codage | TECHNOLOGIE | nécessite | contexte structuré | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Fenêtres de contexte infinies | TECHNOLOGIE | ne_résout_pas | gouvernance du contexte | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Patrick Debois | PERSONNE | affirme_que | l'incitation au partage est naturellement alignée | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Contexte | CONCEPT | pourrit_et | entre en conflit | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Phase Distribuer | CONCEPT | utilise | contexte comme package versionné | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | le contexte est le nouveau goulot d'étranglement | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Agents de codage | TECHNOLOGIE | utilise | contexte structuré | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | les fenêtres de contexte infinies ne résolvent pas la gouvernance du contexte | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | l'incitation au partage est naturellement alignée | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | le contexte pourrit et entre en conflit | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

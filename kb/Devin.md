@@ -8,18 +8,22 @@
 
 ## Relations (comme sujet)
 
-### est_un
+### est_instance_de
 
 - [[kb/_entites-mineures#agent-de-codage-autonome\|agent de codage autonome]] (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
 
+### utilise
+
+- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
+  - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Vitrine « Powered by Claude » : écosystème de partenaires Anthropic — intégrations IA et applications construites sur Claude (anthropic.com)]]
+
 ## Relations (comme objet)
 
-- [[kb/Claude\|Claude]] **alimente** → Devin — 0.98
-- [[kb/Linear\|Linear]] **intègre** → Devin — 0.97
+- [[kb/Linear\|Linear]] **utilise** → Devin — 0.97
 
 ## Fiches sources
 
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
-- [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude - Partenaires Anthropic - AI integrations - Ecosystem Claude - Applications]]
+- [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Vitrine « Powered by Claude » : écosystème de partenaires Anthropic — intégrations IA et applications construites sur Claude (anthropic.com)]]

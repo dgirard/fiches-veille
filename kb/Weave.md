@@ -10,39 +10,27 @@
 
 ## Relations (comme sujet)
 
-### est_fondé_par
-
-- [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] (PERSONNE) — 0.98, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-- [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] (PERSONNE) — 0.98, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-
-### est_soutenu_par
-
-- [[kb/_entites-mineures#Y-Combinator\|Y Combinator]] (ORGANISATION) — 0.98, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-
-### génère
-
-- [[kb/_entites-mineures#16%-d'augmentation-de-livraisons\|16% d'augmentation de livraisons]] (CONCEPT) — 0.88, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-
-### intègre
-
-- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-- [[kb/Cursor\|Cursor]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
-
 ### mesure
 
 - [[kb/_entites-mineures#travail-d'ingénierie-par-IA\|travail d'ingénierie par IA]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+- « 16% d'augmentation de livraisons chez les clients après 2 mois » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+
+### utilise
+
+- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+- [[kb/Cursor\|Cursor]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
 
 ## Relations (comme objet)
 
-- [[kb/Jared-Friedman\|Jared Friedman]] **est_partenaire_de** → Weave — 0.88
+- [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] **a_créé** → Weave — 0.98
+- [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] **a_créé** → Weave — 0.98
+- [[kb/_entites-mineures#Y-Combinator\|Y Combinator]] **soutient** → Weave — 0.98
+- [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] **collabore_avec** → Weave — 0.88
 
 ## Fiches sources
 
-- [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging]]
+- [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]

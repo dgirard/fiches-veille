@@ -18,72 +18,35 @@ Compounding Engineering, Claude Code, AI Development, Software Engineering, Tech
 ## Authors
 EveryInc (Organization), Contributors from Every.to engineering community
 
-## Résumé
-Le dépôt GitHub "Compounding Engineering Plugin" présente un plugin officiel pour Claude Code qui transforme la manière dont les développeurs planifient, construisent et révisent le code. Ce plugin incarne la philosophie d'ingénierie composable où chaque unité de travail rend les travaux suivants plus faciles plutôt que plus difficiles.
+## Ton
+**Profil:** Documentation technique | README GitHub | Prescriptif-Fonctionnel | Développeurs utilisateurs de Claude Code
 
-## Points Clés
+Le ton est celui d'un README de dépôt GitHub : impersonnel, structuré par fonctionnalités et commandes (`/compound-engineering:plan`, `:work`, `:review`, `:generate`), orienté bénéfices concrets. La dimension philosophique (l'ingénierie composable comme inversion de l'accumulation de dette technique) sert de cadre marketing au produit. L'autorité vient de l'affiliation à Every et de son adoption de la méthodologie Compounding Engineering popularisée par l'équipe. Public cible : développeurs utilisant Claude Code et cherchant à systématiser leur workflow.
 
-### Philosophie de l'Ingénierie Composable
-- **Inversion du paradigme traditionnel** : Contrairement au développement traditionnel qui accumule de la dette technique, l'ingénierie composable fait en sorte que chaque fonctionnalité construite documente des motifs, crée des composants réutilisables, établit des conventions et codifie les connaissances.
+## Pense-betes
+- **Plugin officiel Claude Code** d'EveryInc qui incarne la philosophie du Compounding Engineering : chaque unité de travail rend les suivantes plus faciles
+- **Inversion du paradigme** : au lieu d'accumuler de la dette technique, chaque fonctionnalité documente des motifs, crée des composants réutilisables, établit des conventions et codifie les connaissances
+- **Cycle en 4 étapes** : Planifier → Déléguer → Évaluer → Codifier
+- **`/compound-engineering:plan`** : transforme une description de fonctionnalité en issue GitHub complète (recherche de motifs dans la codebase, analyse de la doc des frameworks, exemples de code)
+- **`/compound-engineering:work`** : exécute les plans dans des worktrees Git isolés, décompose en tâches traçables
+- **`/compound-engineering:review`** : revues de code multi-agents (sécurité, performance, architecture, cohérence)
+- **`/compound-engineering:generate`** : crée composants, tests, validations et documentation à partir de descriptions
+- **Avantages** : réduction de la dette technique, productivité, qualité avant fusion, documentation automatique, conventions partagées
+- **Écosystème** : intégration native Claude Code, GitHub (issues, worktrees), compatibilité Droid/Factory, orchestration multi-agents
+- **Cas d'usage** : équipes en croissance, projets legacy, développement rapide, onboarding
 
-- **Cycle vertueux** : Le plugin suit un cycle en 4 étapes (Planifier → Déléguer → Évaluer → Codifier) qui transforme les idées vagues en plans structurés et assure que chaque changement répond aux critères de qualité avant fusion.
+## RésuméDe400mots
+Le dépôt GitHub "Compounding Engineering Plugin" présente le plugin officiel d'EveryInc pour Claude Code, qui transforme la manière dont les développeurs planifient, construisent et révisent le code. Il incarne la philosophie de l'ingénierie composable (Compounding Engineering) : chaque unité de travail rend les travaux suivants plus faciles plutôt que plus difficiles.
 
-### Fonctionnalités Principales
+Contrairement au développement traditionnel qui accumule de la dette technique, l'approche fait en sorte que chaque fonctionnalité construite documente des motifs, crée des composants réutilisables, établisse des conventions et codifie les connaissances de l'équipe. Le plugin opérationnalise cette philosophie via un cycle en quatre étapes — Planifier, Déléguer, Évaluer, Codifier — qui transforme les idées vagues en plans structurés et garantit que chaque changement répond aux critères de qualité avant fusion.
 
-1. **Planification** (`/compound-engineering:plan`)
-   - Transforme les descriptions de fonctionnalités en issues GitHub complètes
-   - Recherche les motifs similaires dans la base de code
-   - Analyse la documentation des frameworks et les meilleures pratiques
-   - Génère des exemples de code suivant les motifs existants
+Quatre commandes structurent le workflow. La planification (`/compound-engineering:plan`) convertit une description de fonctionnalité en issue GitHub complète : recherche de motifs similaires dans la base de code, analyse de la documentation des frameworks et des bonnes pratiques, génération d'exemples de code suivant les conventions existantes. L'exécution (`/compound-engineering:work`) déroule les plans dans des worktrees Git isolés et les décompose en tâches traçables. La revue (`/compound-engineering:review`) orchestre des revues de code multi-agents couvrant sécurité, performance, architecture et cohérence. Enfin, la génération (`/compound-engineering:generate`) crée des composants à partir de descriptions, avec tests, validations et documentation.
 
-2. **Exécution** (`/compound-engineering:work`)
-   - Exécute les plans de travail avec des worktrees Git isolés
-   - Décompose les plans en tâches traçables
-   - Assure une exécution systématique des tâches
+Les bénéfices annoncés : réduction de la dette technique (chaque changement améliore la base de code), productivité accrue (automatisation de la recherche et de la planification), qualité systématiquement validée avant fusion, documentation automatique des connaissances et conventions partagées au sein de l'équipe.
 
-3. **Réexamen** (`/compound-engineering:review`)
-   - Effectue des revues de code multi-agents
-   - Identifie les problèmes de sécurité et de performance
-   - Vérifie l'architecture et la conception
-   - Assure la cohérence du code
+Côté écosystème, le plugin s'intègre nativement à Claude Code, pilote GitHub (création d'issues, gestion des worktrees) et revendique une compatibilité avec d'autres frameworks d'agents comme Droid/Factory, avec une capacité d'orchestration multi-agents pour les revues approfondies. Les cas d'usage cités vont des équipes en croissance (maintenir la qualité malgré la complexité) aux projets legacy (systématiser la réduction de dette), en passant par l'accélération des cycles de développement et l'onboarding (documentation automatique des conventions).
 
-4. **Génération de Code** (`/compound-engineering:generate`)
-   - Crée des composants à partir de descriptions
-   - Génère des tests et des validations
-   - Produit une documentation complète
-
-### Avantages Clés
-- **Réduction de la dette technique** : Chaque changement améliore la base de code
-- **Productivité accrue** : Automatisation de la recherche et de la planification
-- **Qualité améliorée** : Validations systématiques avant fusion
-- **Documentation automatique** : Capture des connaissances et des motifs
-- **Collaboration améliorée** : Conventions et motifs partagés à travers l'équipe
-
-## Analyse
-
-### Impact sur le Développement Logiciel
-Ce plugin représente une évolution significative dans la manière dont les équipes de développement peuvent utiliser l'IA pour améliorer systématiquement leur workflow. En automatisant les aspects répétitifs et en assurant une qualité constante, il permet aux développeurs de se concentrer sur la création de valeur plutôt que sur la gestion de la complexité.
-
-### Intégration avec l'Écosystème
-- **Claude Code** : Intégration native avec l'environnement Claude
-- **GitHub** : Création automatique d'issues et gestion des worktrees
-- **Droid/Factory** : Compatibilité avec d'autres frameworks d'agents
-- **Multi-agents** : Capacité à orchestrer plusieurs agents pour des revues approfondies
-
-### Cas d'Usage
-- **Équipes en croissance** : Pour maintenir la qualité malgré l'augmentation de la complexité
-- **Projets legacy** : Pour systématiser la réduction de la dette technique
-- **Développement rapide** : Pour accélérer les cycles de développement sans sacrifier la qualité
-- **Onboarding** : Pour documenter automatiquement les conventions et motifs
-
-## Conclusion
-Le Compounding Engineering Plugin incarne une nouvelle philosophie de développement où l'IA ne se contente pas d'assister les développeurs, mais transforme fondamentalement la manière dont le code est conçu, implémenté et maintenu. En créant un cycle vertueux d'amélioration continue, ce plugin a le potentiel de redéfinir les meilleures pratiques en ingénierie logicielle.
-
-## Références
-- Dépôt GitHub : https://github.com/EveryInc/compound-engineering-plugin
-- Every Marketplace : https://github.com/EveryInc/every-marketplace
-- Documentation Claude Plugins : https://claude-plugins.dev
-- Organisation EveryInc : https://github.com/EveryInc
+Ce plugin illustre une évolution notable : l'IA ne se contente plus d'assister les développeurs, elle structure fondamentalement la manière dont le code est conçu, implémenté et maintenu, en créant un cycle vertueux d'amélioration continue qui pourrait redéfinir les bonnes pratiques de l'ingénierie logicielle.
 
 ## GrapheDeConnaissance
 
@@ -92,14 +55,14 @@ Le Compounding Engineering Plugin incarne une nouvelle philosophie de développe
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | EveryInc | ORGANISATION | a_créé | Compounding Engineering Plugin | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | s_intègre_avec | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| ingénierie composable | METHODOLOGIE | inverse | accumulation dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | suit | cycle Planifier-Déléguer-Évaluer-Codifier | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | fait_partie_de | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| ingénierie composable | METHODOLOGIE | réduit | accumulation dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | est_basé_sur | cycle Planifier-Déléguer-Évaluer-Codifier | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Compounding Engineering Plugin | TECHNOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | génère | issues GitHub complètes | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | effectue | revues de code multi-agents | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | est_compatible_avec | Droid/Factory | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| ingénierie composable | METHODOLOGIE | codifie | connaissances et motifs | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | permet | génération d'issues GitHub complètes | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | permet | revues de code multi-agents | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Compounding Engineering Plugin | TECHNOLOGIE | s_applique_à | Droid/Factory | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| ingénierie composable | METHODOLOGIE | permet | codification des connaissances et motifs | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -118,28 +118,28 @@ Le cas Intercom complète Stripe Minions, StrongDM Software Factory et le compil
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Darragh Curran | PERSONNE | dirige | R&D Intercom | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Intercom | ORGANISATION | a_atteint | 3× productivité R&D en 16 mois | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Darragh Curran | PERSONNE | s_était_engagé_à | doubler productivité R&D en 12 mois | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Darragh Curran | PERSONNE | affirme_que | "All technical work is becoming agent-first" | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| PR mergé | CONCEPT | est | throughput metric R&D | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Intercom | ORGANISATION | a_atteint | 93,6% PRs agent-driven | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Intercom | ORGANISATION | a_atteint | 19,2% PRs AI-approved | EVENEMENT | 0.96 | DYNAMIQUE | déclaré_article |
-| Intercom | ORGANISATION | vise | >50% PRs AI-approved | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Intercom | ORGANISATION | a_réduit | cost per PR de 50% | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Intercom | ORGANISATION | a_réduit | defect backlog de 54% | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Top 5% performers | CONCEPT | génère | 6× le median PR throughput | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Token spending | CONCEPT | corrèle_avec | gains individuels productivité | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Skills-Based Plugin Architecture | TECHNOLOGIE | est_construite_par | Intercom | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Plugin marketplace privé | TECHNOLOGIE | distribue | 267 skills Claude Code spécialisés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| 153 contributeurs Intercom | PERSONNE | ont_créé | 267 skills en 3 mois | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Brian Scanlan | PERSONNE | a_publié | thread viral plugin ecosystem | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_utilisé_par | 1100 employés Intercom (peak) | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| R&D | CONCEPT | est_modélisée_comme | factory for producing high-quality increments | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Imperfect metrics | CONCEPT | sont_préférées_à | paralysis analytique | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Productivity Tiering | METHODOLOGIE | évalue | progression minimal → elite agentic tool usage | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Auto-approved Claude Code merge | CONCEPT | atteint | 14,6 min median | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Cormac | PERSONNE | dirige | data analytics platform Intercom (Streamlit-Snowflake) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Ramp | ORGANISATION | poursuit | outcomes similaires à Intercom | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Intercom | ORGANISATION | mesure | 3× productivité R&D en 16 mois | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Darragh Curran | PERSONNE | affirme_que | engagement public de doubler la productivité R&D en 12 mois | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| Darragh Curran | PERSONNE | affirme_que | "All technical work is becoming agent-first" | CITATION | 0.98 | DYNAMIQUE | déclaré_article |
+| PR mergé | CONCEPT | est_instance_de | throughput metric R&D | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Intercom | ORGANISATION | mesure | 93,6% PRs agent-driven | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Intercom | ORGANISATION | mesure | 19,2% PRs AI-approved | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
+| Intercom | ORGANISATION | prédit | >50% PRs AI-approved | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Intercom | ORGANISATION | mesure | cost per PR -50% | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Intercom | ORGANISATION | mesure | defect backlog -54% | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Top 5% performers | CONCEPT | surpasse | median PR throughput (6×) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Token spending | CONCEPT | améliore | gains individuels productivité | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Intercom | ORGANISATION | a_créé | Skills-Based Plugin Architecture | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Plugin marketplace privé | TECHNOLOGIE | permet | distribution de 267 skills Claude Code spécialisés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| 153 contributeurs Intercom | PERSONNE | a_créé | 267 skills en 3 mois | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Brian Scanlan | PERSONNE | publie | thread viral plugin ecosystem | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
+| Employés Intercom (1100 en pic) | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| R&D | CONCEPT | est_instance_de | factory for producing high-quality increments | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Darragh Curran | PERSONNE | recommande | embrasser les métriques imparfaites plutôt que la paralysie analytique | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Productivity Tiering | METHODOLOGIE | mesure | progression minimal → elite agentic tool usage | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Intercom | ORGANISATION | mesure | merge auto-approuvé Claude Code médian à 14,6 min | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Cormac | PERSONNE | a_créé | data analytics platform Intercom (Streamlit-Snowflake) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Ramp | ORGANISATION | converge_avec | Intercom | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -152,10 +152,6 @@ Le cas Intercom complète Stripe Minions, StrongDM Software Factory et le compil
 | Productivity Tiering | METHODOLOGIE | dimensions | 5 dimensions : AI usage intensity, output, usage depth, cost efficiency $/PR, prompt quality | AJOUT |
 | Skills-Based Plugin Architecture | TECHNOLOGIE | description | Marketplace privé Intercom de configurations Claude Code spécialisées + auto-update plugins | AJOUT |
 | Plugin marketplace Intercom | TECHNOLOGIE | métriques | 153 contributeurs, 267 skills en 3 mois, 31% R&D active | AJOUT |
-| 3× productivité R&D Intercom | EVENEMENT | description | Multiplicateur atteint en 16 mois (vs goal initial 2× en 12 mois), no signs of plateauing | AJOUT |
-| 19,2% AI-approved PRs | EVENEMENT | description | Pourcentage PRs auto-approuvés par IA chez Intercom (avril 2026), cible >50% | AJOUT |
-| 93,6% agent-driven PRs | EVENEMENT | description | Pourcentage PRs Intercom où agents IA ont contribué significativement | AJOUT |
-| 14,6 min median merge time | CONCEPT | description | Median merge time Claude Code auto-approved Intercom vs 75,8 min org median (5,2× plus rapide) | AJOUT |
 | Brian Scanlan | PERSONNE | rôle | Membre Intercom, auteur du thread viral sur plugin ecosystem agent-first | AJOUT |
 | Cormac | PERSONNE | rôle | Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée) | AJOUT |
 | Fin Ideas | ORGANISATION | catégorie | Plateforme média Substack d'Intercom — diffuse les essais des dirigeants R&D | AJOUT |

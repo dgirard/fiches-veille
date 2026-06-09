@@ -152,21 +152,21 @@ Bain & Company, Rule of 40, growth rate plus profit margin, AI headwinds tailwin
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Bain & Company | ORGANISATION | publie | AI Brings Headwinds and Tailwinds to the Rule of 40 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| David Lipman | PERSONNE | co-rédige | AI Brings Headwinds and Tailwinds | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Greg Callahan | PERSONNE | co-rédige | AI Brings Headwinds and Tailwinds | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Daniel Goetz | PERSONNE | co-rédige | AI Brings Headwinds and Tailwinds | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| George Sunderland | PERSONNE | co-rédige | AI Brings Headwinds and Tailwinds | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Rule of 40 | CONCEPT | est_sous_double_pression | headwinds + tailwinds 2026 | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| AI infrastructure costs | CONCEPT | introduisent | variable costs dans businesses high-margin SaaS | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Cas marketing tech | EVENEMENT | a_subi | +349% AI costs / +38% revenue sur un an | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Transformations IA réussies | CONCEPT | génèrent | +10-25% EBITDA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Outcome-based pricing | CONCEPT | déplace_revenue_de | fixed seats vers labor/operations economics | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| SaaS leaders | CONCEPT | doivent_choisir_entre | Financialize vs Invest to Grow | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Bain | ORGANISATION | propose | settle for Rule of 30 temporairement | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Software penetration | CONCEPT | atteint | saturation in some areas | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Incumbents SaaS | CONCEPT | peuvent_leverager | customer relationships + embedded workflows contre AI-natives | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Bain série | ORGANISATION | comprend_partie | 1/5 (Rule of 40) et 2/5 (cross-system labor 100 Md$) | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | publie | AI Brings Headwinds and Tailwinds to the Rule of 40 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| David Lipman | PERSONNE | a_créé | AI Brings Headwinds and Tailwinds | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Greg Callahan | PERSONNE | a_créé | AI Brings Headwinds and Tailwinds | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Daniel Goetz | PERSONNE | a_créé | AI Brings Headwinds and Tailwinds | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| George Sunderland | PERSONNE | a_créé | AI Brings Headwinds and Tailwinds | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Headwinds + tailwinds IA 2026 | CONCEPT | s_applique_à | Rule of 40 | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| AI infrastructure costs | CONCEPT | permet | variable costs dans businesses high-margin SaaS | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Cas marketing tech | EVENEMENT | mesure | +349% AI costs / +38% revenue sur un an | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Transformations IA réussies | CONCEPT | mesure | +10-25% EBITDA | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Outcome-based pricing | CONCEPT | remplace | modèle fixed seats (revenue déplacé vers labor/operations economics) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | affirme_que | les SaaS leaders doivent choisir entre Financialize et Invest to Grow | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Bain | ORGANISATION | recommande | settle for the Rule of 30 temporairement | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | affirme_que | software penetration is topping out in some areas | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Incumbents SaaS | CONCEPT | utilise | customer relationships + embedded workflows contre AI-natives | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| AI Brings Headwinds and Tailwinds to the Rule of 40 | DOCUMENT | fait_partie_de | série Bain software industry in the age of AI (5 volets) | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Bilan Bain Rule of 40 | CONCEPT | converge_avec | DORA ROI 2026 verification tax, Cherny 7 Powers reordering, Menlo Ventures State of Generative AI | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 
 ### Entités
@@ -186,4 +186,4 @@ Bain & Company, Rule of 40, growth rate plus profit margin, AI headwinds tailwin
 | Financialize vs Invest to Grow | METHODOLOGIE | définition | Deux paths forward Bain pour SaaS face à pression IA : (1) Financialize = minimize AI invest, optimize cash, durable generator ; (2) Invest to Grow = accept margin pressure short-term, reinvest aggressively AI product+ops | AJOUT |
 | Durable generator | CONCEPT | définition | Qualification financière SaaS Financialize Bain — entreprise qui produit du cash stable et limité, sans innover. Métaphore industrielle générateur électrique vs moteur de croissance | AJOUT |
 | Variable costs in high-margin SaaS | CONCEPT | description | Mutation économique majeure 2026 — businesses SaaS historiquement à coûts fixes hauts (compute amorti) absorbent variable costs AI infrastructure/inference imprévisibles, déformant la P&L | AJOUT |
-| Bain série 5 volets software age of AI | EVENEMENT | description | Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor | AJOUT |
+| Bain série 5 volets software age of AI | DOCUMENT | description | Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor | AJOUT |

@@ -65,27 +65,27 @@ Bersin signe ainsi la pièce qui transforme l'anecdote Moderna en **signal indus
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Josh Bersin | PERSONNE | affirme_que | AI transformation n'est pas technologique mais une question de people, work, jobs | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Josh Bersin | PERSONNE | affirme_que | les CHRO jouent un rôle pivot dans la transformation IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Patricia Frost | PERSONNE | est_CHRO_de | Seagate | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Josh Bersin | PERSONNE | affirme_que | AI transformation n'est pas technologique mais une question de people, work, jobs | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Josh Bersin | PERSONNE | affirme_que | les CHRO jouent un rôle pivot dans la transformation IA | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Patricia Frost | PERSONNE | travaille_chez | Seagate | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Patricia Frost | PERSONNE | recommande | Leave No One Behind | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Jacqui Canney | PERSONNE | est_Chief_People_and_AI_Transformation_Officer_de | ServiceNow | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Tracey Franklin | PERSONNE | a_pionnié | adoption IA chez Moderna | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Helen Russell | PERSONNE | est_CHRO_de | HubSpot | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Jacqui Canney | PERSONNE | travaille_chez | ServiceNow | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Tracey Franklin | PERSONNE | dirige | adoption IA chez Moderna | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Helen Russell | PERSONNE | travaille_chez | HubSpot | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Kathleen Hogan | PERSONNE | dirige | transformation IA chez Microsoft | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Tanuj Kapilashrami | PERSONNE | est_Chief_Strategy_and_Talent_Officer_de | Standard Chartered | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Jin Montesano | PERSONNE | est_CHRO_de | Lixil | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Josh Bersin | PERSONNE | identifie | 4 stratégies de transformation IA chez les CHRO | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| AI Readiness | METHODOLOGIE | est | bottom-up un employé à la fois | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Single pane of glass | CONCEPT | définit | front door to work centré employee experience | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Dynamic org design | METHODOLOGIE | redéploie | ressources internes plutôt que remplir des slots | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Talent Density | CONCEPT | est_créé_par | The Josh Bersin Company | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Supermanager | CONCEPT | définit | nouveau modèle de leadership pour l'ère IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Walmart | ORGANISATION | redessine | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| L'Oreal | ORGANISATION | redessine | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| SAP | ORGANISATION | redessine | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | redessine | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Josh Bersin | PERSONNE | a_rencontré | 40+ CHRO en Asie (Grab, DBS Singapore, Hitachi, TSMC, SAP, LinkedIn) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Tanuj Kapilashrami | PERSONNE | travaille_chez | Standard Chartered | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Jin Montesano | PERSONNE | travaille_chez | Lixil | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Josh Bersin | PERSONNE | a_créé | 4 stratégies de transformation IA chez les CHRO | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| AI Readiness | METHODOLOGIE | est_instance_de | approche bottom-up un employé à la fois | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Single pane of glass | CONCEPT | est_instance_de | front door to work centré employee experience | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Dynamic org design | METHODOLOGIE | permet | redéploiement interne plutôt que remplissage de slots | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| The Josh Bersin Company | ORGANISATION | a_créé | Talent Density | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Supermanager | CONCEPT | est_instance_de | nouveau modèle de leadership pour l'ère IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Walmart | ORGANISATION | améliore | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| L'Oreal | ORGANISATION | améliore | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| SAP | ORGANISATION | améliore | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | améliore | modèle de leadership pour l'IA | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Josh Bersin | PERSONNE | référence | 40+ CHRO en Asie (Grab, DBS Singapore, Hitachi, TSMC, SAP, LinkedIn) | PERSONNE | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 

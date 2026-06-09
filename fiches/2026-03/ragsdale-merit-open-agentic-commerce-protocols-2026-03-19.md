@@ -49,7 +49,7 @@ Sam Ragsdale
 
 ## RésuméDe400mots
 
-Sam Ragsdale défend dans cet essai la thèse que le véritable commerce agentique sera ouvert et permissionless, fondé sur des protocoles simples, et non sur les plateformes fermées comme ACP (Google) et UCP (OpenAI) qui représentent selon lui l'équivalent d'AOL dans les années 90 — un jardin clos avec une meilleure UX, mais un cul-de-sac pour l'innovation.
+Sam Ragsdale défend dans cet essai la thèse que le véritable commerce agentique sera ouvert et permissionless, fondé sur des protocoles simples, et non sur les plateformes fermées comme ACP (OpenAI/Stripe) et UCP (Google) qui représentent selon lui l'équivalent d'AOL dans les années 90 — un jardin clos avec une meilleure UX, mais un cul-de-sac pour l'innovation.
 
 L'article construit son argumentation sur un parallèle historique détaillé. Dans les années 90, deux visions d'internet s'affrontaient : AOL (contenu curé, prix unique) contre les protocoles ouverts (HTTP, DNS, HTML, Mosaic). AOL semblait victorieux avec sa fusion Time Warner à 350 milliards de dollars, mais les protocoles ouverts ont finalement permis l'émergence de Facebook, Google et Amazon — des innovations venues des marges, sans permission de gatekeepers.
 
@@ -67,18 +67,18 @@ La vision finale est celle de centaines de millions d'agents accédant à des ce
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Sam Ragsdale | PERSONNE | affirme_que | commerce agentique ouvert supérieur aux plateformes fermées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| ACP | TECHNOLOGIE | est_comparé_à | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| UCP | TECHNOLOGIE | est_comparé_à | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| x402 | TECHNOLOGIE | a_été_créé_par | Coinbase | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| mpp | TECHNOLOGIE | a_été_créé_par | Tempo et Stripe | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Stablecoins | TECHNOLOGIE | résolvent | problème micropaiements 1997 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Agents IA | CONCEPT | rendent_obsolète | modèle publicitaire internet | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| StackOverflow | ORGANISATION | a_perdu | 75% vues depuis GPT-4 | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| AgentCash | TECHNOLOGIE | fournit | balance unique + découverte marchands | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Sam Ragsdale | PERSONNE | affirme_que | le commerce agentique ouvert est supérieur aux plateformes fermées | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| ACP | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| UCP | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Coinbase | ORGANISATION | a_créé | x402 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Tempo et Stripe | ORGANISATION | a_créé | mpp | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Stablecoins | TECHNOLOGIE | résout | problème micropaiements 1997 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Agents IA | TECHNOLOGIE | remplace | modèle publicitaire internet | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| StackOverflow | ORGANISATION | mesure | -75% de vues depuis GPT-4 | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
+| AgentCash | TECHNOLOGIE | permet | balance unique + découverte marchands | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Tim Berners-Lee | PERSONNE | a_créé | code HTTP 402 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Agents computer-use | CONCEPT | percent | défenses jardins clos | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
-| Protocoles ouverts | CONCEPT | ont_permis | émergence Facebook Google Amazon | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Agents computer-use | TECHNOLOGIE | surpasse | défenses jardins clos | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Protocoles ouverts | CONCEPT | permet | émergence Facebook Google Amazon | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 

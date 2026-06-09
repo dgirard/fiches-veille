@@ -1,7 +1,7 @@
 # wu-cherny-use-claude-code-builders-every-2025-10-29
 
 ## Veille
-Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every
+Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every
 
 ## Titre Article
 How to Use Claude Code Like the People Who Built It
@@ -21,35 +21,35 @@ Rhea Purohit (interviewer: Dan Shipper), Cat Wu, Boris Cherny
 ## Ton
 **Profil:** Podcast-Interview-Technical | Troisième personne journalistique | Éducative-Insights | Intermédiaire-Expert
 
-Every (Rhea Purohit) adopte podcast summary voice capturing conversation between Dan Shipper et Claude Code founding engineers. Structure tips-and-themes format (practical recommendations → philosophy → future vision) facilitates actionable takeaways. Langage product insider (antfooding, dangerous mode, stop hooks, settings.json) reveals internal practices external users rarely see. Tone insider-access typical podcast interviews avec builders sharing hard-won lessons. Direct quotes from Wu/Cherny ("In the end, the result is awesome", "this stuff's just moving so fast") preserve authentic practitioner voice. Emphasis extensibility et hackability reflects product philosophy. Typique AI & I podcast format (Every, Latent Space, Acquired) capturing builder wisdom visant practitioner audience seeking competitive edge through insider knowledge.
+Every (Rhea Purohit) adopte une voix de synthèse de podcast capturant la conversation entre Dan Shipper et les ingénieurs fondateurs de Claude Code. La structure en conseils et thèmes (recommandations pratiques → philosophie → vision future) facilite les enseignements actionnables. Le langage d'initié produit (antfooding, dangerous mode, stop hooks, settings.json) révèle des pratiques internes rarement visibles des utilisateurs externes. Ton d'accès privilégié typique des interviews de podcast avec des bâtisseurs partageant des leçons durement acquises. Les citations directes de Wu/Cherny (« In the end, the result is awesome », « this stuff's just moving so fast ») préservent la voix authentique des praticiens. L'accent sur l'extensibilité et la « hackabilité » reflète la philosophie produit. Format typique des podcasts AI & I (Every, Latent Space, Acquired) capturant la sagesse des bâtisseurs pour un public de praticiens cherchant un avantage compétitif via la connaissance d'initié.
 
-## Pense-bêtes
-- **Antfooding** : Anthropic employees = "ants", dogfooding Claude Code internally, feedback every 5 minutes
-- **Plan mode crucial** : double/triple success rate on complex tasks vs one-shot attempts
-- **Settings.json shared file** : pre-approve common commands, block risky files, team-wide defaults
-- **Stop hooks** : automated actions when Claude finishes (ex: run test suite, fix failures, keep going)
-- **Subagents fighting** : code review spawns multiple subagents challenging each other's findings
-  - First pass: style, history, obvious bugs
-  - Second pass: 5 subagents poking holes in findings
-  - Result: finds real issues, eliminates false positives
-- **Code migrations** : engineers spending $1,000+/month, main agent creates to-do, subagents tackle parallel
-- **Diary entries** : Claude writes logs after tasks (what tried, worked, didn't), separate agents synthesize insights
-- **Tacit code sharing** : subagents look at how other apps handle features, no API needed
+## Pense-betes
+- **Antfooding** : employés Anthropic = « ants », dogfooding interne de Claude Code, feedback toutes les 5 minutes
+- **Plan mode crucial** : double/triple le taux de succès sur tâches complexes vs tentatives en one-shot
+- **Settings.json partagé** : pré-approuver les commandes courantes, bloquer les fichiers risqués, défauts pour toute l'équipe
+- **Stop hooks** : actions automatisées quand Claude termine (ex : lancer la suite de tests, corriger les échecs, continuer)
+- **Subagents qui s'affrontent** : la revue de code lance plusieurs subagents qui se contestent mutuellement
+  - Premier passage : style, historique, bugs évidents
+  - Deuxième passage : 5 subagents cherchent les failles des constats initiaux
+  - Résultat : trouve les vrais problèmes, élimine les faux positifs
+- **Migrations de code** : des ingénieurs dépensent 1 000 $+/mois, l'agent principal crée la to-do, les subagents traitent en parallèle
+- **Entrées de journal** : Claude écrit des logs après chaque tâche (essayé, réussi, raté), des agents séparés synthétisent les enseignements
+- **Partage de code tacite** : les subagents regardent comment d'autres apps gèrent une fonctionnalité, sans API
 - **Slash commands favorites** :
-  - `/commit` : automate commits/push without permission
-  - `/feature-dev` : structured development (spec → plan → to-do → step-by-step)
-  - `/code-review` : first pass on pull requests, human approves final merge
+  - `/commit` : automatise commits/push sans permission
+  - `/feature-dev` : développement structuré (spec → plan → to-do → pas à pas)
+  - `/code-review` : premier passage sur les pull requests, l'humain approuve le merge final
 - **Top MCPs** : Puppeteer, Playwright, Sentry, Asana
-- **Bash as universal interface** : replaces dozens of specialized tools, reduces context, "Swiss Army knife"
-- **Dangerous mode** : auto-accept all changes, current models run 30h straight, next likely days
-- **Form factors experimenting** : CLI, IDE extension, GUI, GitHub integration, web, mobile
-- **Challenge ahead** : Claudes monitoring Claudes, optimize Claude-to-Claude communication
-- **Non-technical users** : data scientists, researchers, analysts, product managers adopting
-- **VS Code extension** : point-and-click interface vs terminal commands
-- **Philosophy** : build for everyone, let experts push edges, observe "abuse" → build for that demand
-- **Pruning discipline** : unship features when simpler approach found, don't bloat
-- **Every transformation** : each feature makes next easier, CEO ships unknown codebases, non-technical in terminals
-- **Meta parallel** : Facebook Dating from observing 60% profile views opposite-gender non-friends
+- **Bash comme interface universelle** : remplace des dizaines d'outils spécialisés, réduit le contexte, « couteau suisse »
+- **Dangerous mode** : auto-acceptation de tous les changements, modèles actuels tournent 30 h d'affilée, prochains probablement des jours
+- **Form factors en expérimentation** : CLI, extension IDE, GUI, intégration GitHub, web, mobile
+- **Défi à venir** : des Claude surveillant des Claude, optimiser la communication Claude-à-Claude
+- **Utilisateurs non techniques** : data scientists, chercheurs, analystes, product managers adoptent l'outil
+- **Extension VS Code** : interface pointer-cliquer vs commandes terminal
+- **Philosophie** : construire pour tous, laisser les experts repousser les limites, observer les « abus » → construire pour cette demande
+- **Discipline d'élagage** : retirer des fonctionnalités quand une approche plus simple est trouvée, ne pas alourdir
+- **Transformation d'Every** : chaque fonctionnalité facilite la suivante, le CEO livre sur des codebases inconnues, des non-techniciens dans le terminal
+- **Parallèle Meta** : Facebook Dating né de l'observation de 60 % de vues de profils de genre opposé hors amis
 
 ## RésuméDe400mots
 
@@ -97,21 +97,21 @@ L'article illustre comment Every transformed via Claude Code : chaque feature re
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Boris Cherny | PERSONNE | a_cofondé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Cat Wu | PERSONNE | a_cofondé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Cat Wu | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | emploie | Boris Cherny | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | emploie | Cat Wu | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | antfooding | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | recommande | plan mode | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | plan mode | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Boris Cherny | PERSONNE | recommande | settings.json | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Boris Cherny | PERSONNE | utilise | subagents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | s_appuie_sur | Bash | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Bash | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Cat Wu | PERSONNE | recommande | Puppeteer | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Cat Wu | PERSONNE | recommande | Playwright | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Cherny | PERSONNE | prédit | dangerous mode | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | cible | utilisateurs non-techniques | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | affirme_que | demande latente | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Every | ORGANISATION | a_été_transformé_par | Claude Code | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | prédit | les prochains modèles tourneront plusieurs jours en autonomie | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | s_applique_à | utilisateurs non-techniques | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | l'observation des usages imprévus révèle la demande latente | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | Every | ORGANISATION | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -122,7 +122,7 @@ L'article illustre comment Every transformed via Claude Code : chaque feature re
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI / IA | AJOUT |
 | Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
 | antfooding | METHODOLOGIE | définition | Dogfooding interne chez Anthropic ("ants" = employés) | AJOUT |
-| plan mode | CONCEPT | effet | Double ou triple le taux de succès sur tâches complexes | AJOUT |
+| plan mode | METHODOLOGIE | effet | Double ou triple le taux de succès sur tâches complexes | AJOUT |
 | settings.json | TECHNOLOGIE | usage | Fichier partagé pour pré-approuver commandes et bloquer fichiers risqués | AJOUT |
 | stop hooks | CONCEPT | usage | Actions automatisées déclenchées quand Claude finit une tâche | AJOUT |
 | subagents | CONCEPT | usage | Instances Claude parallèles se challengeant mutuellement pour code review | AJOUT |

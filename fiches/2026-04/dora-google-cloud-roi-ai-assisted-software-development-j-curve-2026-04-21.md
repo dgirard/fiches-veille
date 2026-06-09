@@ -264,42 +264,42 @@ Le **DORA × delta team de Google Cloud** publie en avril 2026 (v. 2026.1, citat
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| DORA | ORGANISATION | publie | The ROI of AI-assisted Software Development | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Google Cloud delta team | ORGANISATION | co-rédige | The ROI of AI-assisted Software Development | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Eva Dong | PERSONNE | est_AI_Value_Realization_Lead | Google Cloud Americas | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| DORA | ORGANISATION | publie | The ROI of AI-assisted Software Development | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Google Cloud delta team | ORGANISATION | publie | The ROI of AI-assisted Software Development | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Eva Dong | PERSONNE | travaille_chez | Google Cloud Americas | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Nathen Harvey | PERSONNE | dirige | DORA team | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Ursula Lübbert-Passing | PERSONNE | est_AI_Value_Realization_Lead | Google Cloud EMEA | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| AI | TECHNOLOGIE | agit_comme | amplificateur du système organisationnel | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| AI | TECHNOLOGIE | magnifie | forces high-performing et dysfonctionnements struggling | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| J-Curve of AI value realization | CONCEPT | décrit | creux productivité initial puis croissance exponentielle | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| J-Curve | CONCEPT | comprend | learning curve + verification tax + pipeline adaptation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Tuition cost of transformation | CONCEPT | est_équivalent_de | J-Curve productivity drop | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Code | CONCEPT | est | liability not asset | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| AI ROI | CONCEPT | doit_être_mesuré_par | bottlenecks cleared not code generated | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Sample ROI calculator | TECHNOLOGIE | calcule | 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Sample calculator | TECHNOLOGIE | suppose | 500 FTE / 176k$ salary / 12.5% time saved / 15% J-Curve drop 3 mois | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| DORA | ORGANISATION | recommande | do not adopt headcount-reduction strategy | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Productivité libérée par IA | CONCEPT | doit_être_réinvestie_dans | innovation et value creation | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cinq piliers de valeur | CONCEPT | comprennent | Productivity, User Experience, Cost Efficiency, Developer Experience, Business Growth | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cinq clés systémiques d'adoption | CONCEPT | comprennent | Trust, Platform, Data, Users, Guardrails | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Internal Developer Platform | TECHNOLOGIE | doit_être_traité_comme | un produit | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Build context layer | METHODOLOGIE | est_phase | CapEx (Quality IDP + Healthy data ecosystem) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Empower human in loop | METHODOLOGIE | est_phase | OpEx (Trust in AI + context engineering) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Experiment frequency | CONCEPT | est | leading financial indicator | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Stanford AI Index 2025 | EVENEMENT | mesure | inference cost réduit ×280 entre nov 2022 et oct 2024 | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Stanford research | ORGANISATION | mesure | 35-40% productivité greenfield vs ≤10% brownfield | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Google Cloud customers | ORGANISATION | atteignent | 727% ROI moyen sur 3 ans Google Cloud AI | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| MIT NANDA | ORGANISATION | identifie | shadow AI economy et 95% pilots fail | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Idea success rate | CONCEPT | est_estimé_à | 33% (Larsen 2023) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Verification tax | CONCEPT | augmente_avec | volume de code généré par IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Ursula Lübbert-Passing | PERSONNE | travaille_chez | Google Cloud EMEA | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| AI | TECHNOLOGIE | est_instance_de | amplificateur du système organisationnel | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| DORA | ORGANISATION | affirme_que | l'IA magnifie les forces des organisations performantes et les dysfonctionnements des organisations en difficulté | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| J-Curve of AI value realization | CONCEPT | est_instance_de | trajectoire à creux de productivité initial puis croissance exponentielle | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Learning curve + verification tax + pipeline adaptation | CONCEPT | fait_partie_de | J-Curve of AI value realization | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Tuition cost of transformation | CONCEPT | est_variante_de | J-Curve productivity drop | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Code | CONCEPT | est_instance_de | liability not asset | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| DORA | ORGANISATION | recommande | mesurer l'IA par les bottlenecks levés et non par le volume de code généré | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Sample ROI calculator | TECHNOLOGIE | mesure | 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Sample ROI calculator | TECHNOLOGIE | est_basé_sur | hypothèses 500 FTE / 176k$ salary / 12.5% time saved / 15% J-Curve drop 3 mois | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| DORA | ORGANISATION | recommande | ne pas adopter de stratégie de réduction d'effectifs | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| DORA | ORGANISATION | recommande | réinvestir la productivité libérée par l'IA dans l'innovation et la création de valeur | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Productivity, User Experience, Cost Efficiency, Developer Experience, Business Growth | CONCEPT | fait_partie_de | Cinq piliers de valeur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Trust, Platform, Data, Users, Guardrails | CONCEPT | fait_partie_de | Cinq clés systémiques d'adoption | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| DORA | ORGANISATION | recommande | traiter l'Internal Developer Platform comme un produit | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Build context layer | METHODOLOGIE | est_instance_de | phase CapEx (Quality IDP + Healthy data ecosystem) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Empower human in loop | METHODOLOGIE | est_instance_de | phase OpEx (Trust in AI + context engineering) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Experiment frequency | CONCEPT | est_instance_de | leading financial indicator | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Stanford AI Index 2025 | DOCUMENT | mesure | inference cost réduit ×280 entre nov 2022 et oct 2024 | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Stanford research | ORGANISATION | mesure | 35-40% productivité greenfield vs ≤10% brownfield | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Google Cloud | ORGANISATION | mesure | 727% ROI moyen sur 3 ans des clients Google Cloud AI | MESURE | 0.92 | STATIQUE | déclaré_article |
+| MIT NANDA | ORGANISATION | affirme_que | une shadow AI economy existe et 95% des pilotes IA échouent à délivrer un ROI | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| Larsen et al. 2023 | DOCUMENT | mesure | idea success rate ~33% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Verification tax | CONCEPT | est_basé_sur | volume de code généré par IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Bilan DORA ROI | CONCEPT | converge_avec | Tatsyi production possibility frontier, Wescale gouvernance, Habert technology 20 / discipline 80 | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| DORA 12.5% time saved | CONCEPT | est_plus_conservateur_que | ratios praticiens 3-5× (Frizzo, Wescale, Curran, Tatsyi) | CONCEPT | 0.93 | ATEMPOREL | inféré |
-| Stratégie no-headcount-reduction DORA | CONCEPT | est_en_tension_avec | Tatsyi −75 personnes mais réallocation délibérée | CONCEPT | 0.91 | DYNAMIQUE | inféré |
-| Optionality framework | CONCEPT | cadre | chaque expérience comme option à faible coût | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| AI accelerates | TECHNOLOGIE | accumulation_dette_technique | si organisation en bottleneck | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Trois scénarios | METHODOLOGIE | comprennent | Conservative 0.8/1.5 + Realistic 1.0 + Optimistic 1.2/0.8 | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| 78% executives | PERSONNE | rapportent_ROI_sur | au moins 1 use case gen AI | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| 88% early adopters agentic AI | PERSONNE | voient | retours positifs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Ratios praticiens 3-5× (Frizzo, Wescale, Curran, Tatsyi) | CONCEPT | surpasse | DORA 12.5% time saved (estimation conservatrice) | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| Stratégie no-headcount-reduction DORA | CONCEPT | s_oppose_à | Tatsyi −75 personnes mais réallocation délibérée | CONCEPT | 0.91 | DYNAMIQUE | inféré |
+| Optionality framework | CONCEPT | permet | de traiter chaque expérience comme option à faible coût | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| DORA | ORGANISATION | affirme_que | l'IA accélère l'accumulation de dette technique si l'organisation est en bottleneck | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Scénarios Conservative 0.8/1.5, Realistic 1.0, Optimistic 1.2/0.8 | CONCEPT | fait_partie_de | Trois scénarios (DORA) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Google Cloud | ORGANISATION | mesure | 78% des executives rapportent un ROI sur au moins 1 use case gen AI | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Google Cloud | ORGANISATION | mesure | 88% des early adopters agentic AI voient des retours positifs | MESURE | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -318,10 +318,8 @@ Le **DORA × delta team de Google Cloud** publie en avril 2026 (v. 2026.1, citat
 | J-Curve of AI value realization                                              | CONCEPT      | définition  | Trajectoire d'adoption IA : creux productivité temporaire (learning curve + verification tax + pipeline adaptation) avant croissance exponentielle. Métaphore "tuition cost of transformation" à budgéter explicitement                                                             | AJOUT  |
 | Verification tax                                                             | CONCEPT      | définition  | Coût caché de review/audit du code généré par IA — augmente avec volume généré, peut éroder les gains de productivité bruts                                                                                                                                                         | AJOUT  |
 | Code is a liability                                                          | CONCEPT      | source      | Citation DORA reprenant Software Engineering at Google (Winters/Manshreck/Wright, O'Reilly 2020) — coût opérationnel >> coût de build, donc volume ≠ valeur                                                                                                                         | AJOUT  |
-| "We don't measure AI by the code it writes but by the bottlenecks it clears" | CONCEPT      | source      | Formule éthique-déontologique DORA pour réorienter la mesure AI hors du volume de code                                                                                                                                                                                              | AJOUT  |
 | Sample ROI calculator                                                        | TECHNOLOGIE  | description | Outil interactif DORA sur dora.dev/ai/roi/calculator. Sample : 500 FTE / 176k$ salary / 12.5% time saved → 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement                                                                                                          | AJOUT  |
 | Sample 12.5% time saved                                                      | CONCEPT      | description | Estimation conservatrice DORA (~ 1h/8h jour) ; littérature range 40-150 min/jour. Choix de plancher défendable financièrement face à un CFO sceptique                                                                                                                               | AJOUT  |
-| Sample 39% ROI 8 mois payback                                                | CONCEPT      | description | Calcul de référence DORA pour 1 an. Cohérent avec moyenne marché Google Cloud (8 mois payback) et avec ROI 727% sur 3 ans des clients Google Cloud AI                                                                                                                               | AJOUT  |
 | Headcount reinvestment capacity                                              | CONCEPT      | définition  | Capacité libérée par productivité IA = équivalent free headcount à réinvestir dans innovation. Calcul : Staff size × Salary × Net time saved per developer                                                                                                                          | AJOUT  |
 | Position no-headcount-reduction (DORA)                                       | CONCEPT      | source      | Recommandation normative explicite DORA : ne pas réduire l'effectif, réinvestir la capacité libérée. Justifié par (a) impact moral, (b) institutional knowledge, (c) incentive structure préservée                                                                                  | AJOUT  |
 | Cinq piliers de valeur (DORA)                                                | CONCEPT      | définition  | Productivity → User Experience → Cost Efficiency → Developer Experience → Business Growth. Du plus direct (productivity) au plus indirect (business growth = cumulated business value)                                                                                              | AJOUT  |
@@ -330,10 +328,5 @@ Le **DORA × delta team de Google Cloud** publie en avril 2026 (v. 2026.1, citat
 | Roadmap CapEx → OpEx                                                         | METHODOLOGIE | définition  | Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency)                        | AJOUT  |
 | Trois scénarios (DORA)                                                       | METHODOLOGIE | définition  | Conservative (value × 0.8, cost × 1.5) / Realistic (1.0/1.0) / Optimistic (value × 1.2, cost × 0.8) — modélisation incertitude explicite pour CFO                                                                                                                                   | AJOUT  |
 | Optionality framework                                                        | CONCEPT      | définition  | Chaque expérience est une option à faible coût ; AI réduit option premium ; experiment frequency = leading financial indicator. Emprunt finance dérivée appliqué au software development                                                                                            | AJOUT  |
-| Stanford 35-40% greenfield vs ≤10% brownfield                                | CONCEPT      | source      | Stanford Software Engineering Productivity Research, citée par DORA — distribution inégale par contexte technique : greenfield simple maximise gains, brownfield/legacy les limite                                                                                                  | AJOUT  |
-| Inference cost ÷280 (Nov 2022 → Oct 2024)                                    | CONCEPT      | source      | Stanford 2025 AI Index — chute massive du coût modèle. Implication DORA : "the true financial burden of adoption has shifted to governance cost"                                                                                                                                    | AJOUT  |
-| 727% ROI 3 ans / 8 mois payback (Google Cloud)                               | CONCEPT      | source      | Google Cloud "How Businesses Achieve Strong ROI" — données customers Google Cloud AI. Biais sélection probable                                                                                                                                                                      | AJOUT  |
-| MIT NANDA shadow AI economy                                                  | CONCEPT      | source      | MLQ.ai, "The GenAI Divide: State of AI in Business 2025" — explicitement cité par DORA comme "pessimistic perspective" : 95% pilotes fail, employés vers consumer apps non autorisées                                                                                               | AJOUT  |
-| 78% executives ROI gen AI / 88% early adopters agentic AI                    | CONCEPT      | source      | Google Cloud, The ROI of AI 2025 — "positive perspective" du market divide DORA                                                                                                                                                                                                     | AJOUT  |
 | Plancher financier DORA vs plafond praticien                                 | CONCEPT      | description | Lecture juste : DORA 12.5% time saved = plancher défendable devant CFO (avoided hire), ratios praticiens 3-5× (Frizzo/Wescale/Curran) ou ×4.5 (Tatsyi Claude stack) = plafond organisationnel observé incluant nouveaux produits / new product space que le calculator ne capte pas | AJOUT  |
 | Tension DORA-prescriptif vs Tatsyi-descriptif                                | CONCEPT      | description | DORA recommande cou (norme a priori) ; Tatsyi/Raiffeisen rapporte −75 personnes avec réallocation délibérée (descriptif a posteriori). Les deux positions ne sont pas inconciliables — à utiliser comme pivot de débat COMEX                                                        | AJOUT  |

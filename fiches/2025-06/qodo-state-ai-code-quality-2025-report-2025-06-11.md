@@ -19,52 +19,52 @@ AI code quality, AI coding, AI tools, software development, developer productivi
 Itamar Friedman (Co-founder & CEO, Qodo)
 
 ## Ton
-**Profil:** Industry-Research | Institutionnelle vendor | Analytique-Éducative | Intermédiaire
+**Profil :** Recherche industrielle | Voix institutionnelle d'éditeur | Registre analytique-éducatif | Niveau technique intermédiaire
 
-Qodo CEO/founder adopte industry research report voice balancing market insights et product positioning. Survey methodology (developer confidence, hallucinations, context challenges) grounds observations empirically. Langage developer-centric (code quality, SDLC, code generation, integrity) demonstrates domain expertise. Tone measured professional typical vendor-sponsored research (GitLab DevOps Report, Stack Overflow Survey style). Structure findings→implications positions Qodo solutions naturally. Vise engineering leaders, CTOs assessing AI coding tool landscape combining genuine insights avec vendor perspective.
+Le CEO/fondateur de Qodo adopte une voix de rapport de recherche industrielle équilibrant enseignements de marché et positionnement produit. La méthodologie d'enquête (confiance des développeurs, hallucinations, défis de contexte) ancre empiriquement les observations. Langage centré développeur (qualité de code, SDLC, génération de code, intégrité) qui démontre l'expertise du domaine. Ton mesuré et professionnel, typique de la recherche sponsorisée par un éditeur (style GitLab DevOps Report, Stack Overflow Survey). La structure constats → implications positionne naturellement les solutions Qodo. Vise les responsables d'ingénierie et CTO évaluant le paysage des outils de codage IA, combinant enseignements réels et perspective d'éditeur.
 
 ## Pense-betes
 - **609 développeurs** sondés en 2025
-- **82%** utilisent AI daily/weekly, **59%** utilisent 3+ outils
-- **65%** des commits shapés/générés par IA (>25% du code en production)
-- **78%** reportent gains productivité, **57%** jobs plus enjoyables
-- **25%** estiment **1 sur 5 suggestions IA** contient erreurs (hallucinations)
-- **76%** low confidence shipping AI code sans checks humains (même avec low hallucinations)
-- **70%** gros gains productivité voient aussi improved code quality
-- **81%** fast teams utilisant AI review voient quality improvements (vs 55% sans)
-- **Context = #1 driver** de qualité et trust perçus
-- **65%** devs disent AI miss relevant context pendant refactoring
-- **Confidence Flywheel** : context-rich → moins hallucinations → accurate code → trust → faster shipping → better examples → amélioration continue
-- Seulement **3.8%** expérimentent Confidence Flywheel idéal
-- **61% vs 27%** : devs utilisant AI pour testing ont 2x plus confiance dans test suites
+- **82 %** utilisent l'IA quotidiennement/hebdomadairement, **59 %** utilisent 3 outils ou plus
+- **65 %** des développeurs ont des commits façonnés/générés par IA (>25 % du code en production)
+- **78 %** rapportent des gains de productivité, **57 %** trouvent leur travail plus agréable
+- **25 %** estiment qu'**1 suggestion IA sur 5** contient des erreurs (hallucinations)
+- **76 %** ont une faible confiance pour livrer du code IA sans vérifications humaines (même avec peu d'hallucinations)
+- **70 %** de ceux avec gros gains de productivité constatent aussi une meilleure qualité de code
+- **81 %** des équipes rapides utilisant la revue IA constatent des améliorations de qualité (vs 55 % sans)
+- **Le contexte = facteur n°1** de la qualité et de la confiance perçues
+- **65 %** des développeurs disent que l'IA rate du contexte pertinent pendant le refactoring
+- **Confidence Flywheel** : contexte riche → moins d'hallucinations → code juste → confiance → livraison plus rapide → meilleurs exemples → amélioration continue
+- Seulement **3,8 %** expérimentent le Confidence Flywheel idéal
+- **61 % vs 27 %** : les développeurs utilisant l'IA pour les tests ont 2x plus confiance dans leurs suites de tests
 
 ## RésuméDe400mots
 
-Le rapport "State of AI Code Quality in 2025" de Qodo, basé sur survey de **609 développeurs**, explore l'évolution du rôle de l'IA dans développement logiciel, soulignant que bien que AI tools sont devenus mainstream (82% utilisation daily/weekly, 59% utilisent 3+ outils), deep trust dans leur output reste élusive. Les outils IA influencent significativement production code : 65% des développeurs déclarent qu'au moins 25% de leurs commits sont AI-generated ou shaped.
+Le rapport « State of AI Code Quality in 2025 » de Qodo, basé sur une enquête auprès de **609 développeurs**, explore l'évolution du rôle de l'IA dans le développement logiciel. Il souligne que si les outils IA sont devenus mainstream (82 % d'utilisation quotidienne/hebdomadaire, 59 % utilisent 3 outils ou plus), une confiance profonde dans leurs sorties reste insaisissable. Les outils IA influencent significativement le code de production : 65 % des développeurs déclarent qu'au moins 25 % de leurs commits sont générés ou façonnés par IA.
 
-**Productivité vs Confiance : Le Paradoxe**
+**Productivité vs confiance : le paradoxe**
 
-Bien que 78% reportent gains productivité et 57% trouvent jobs plus enjoyables, une barrière majeure persiste : hallucinations. **25% des développeurs** estiment qu'une sur cinq suggestions IA contient erreurs, impactant significativement confiance et adoption. Cette prevalence d'hallucinations créé low confidence : **76% des développeurs** experiencing frequent hallucinations ont low confidence shipping AI code sans human checks. Même parmi ceux avec low hallucination rates, la majorité (75%) hésitent merger sans verification manuelle.
+Bien que 78 % rapportent des gains de productivité et que 57 % trouvent leur travail plus agréable, une barrière majeure persiste : les hallucinations. **25 % des développeurs** estiment qu'une suggestion IA sur cinq contient des erreurs, ce qui pèse fortement sur la confiance et l'adoption. Cette prévalence d'hallucinations crée une confiance faible : **76 % des développeurs** confrontés à des hallucinations fréquentes hésitent à livrer du code IA sans vérifications humaines. Même parmi ceux avec de faibles taux d'hallucination, la majorité (75 %) hésite à merger sans vérification manuelle.
 
-**Code Quality & AI Review : Catalyseur Clé**
+**Qualité de code et revue IA : catalyseur clé**
 
-Contrairement aux craintes, increased productivity avec IA corrèle souvent avec improved code quality. **70% des développeurs** experiencing considerable productivity gains reportent aussi better code quality. AI-powered code review agit comme catalyseur : **81% des fast-moving teams** utilisant AI pour review voient quality improvements, comparé à 55% sans. Cette validation automatisée permet maintenir standards qualité tout en accelerant delivery.
+Contrairement aux craintes, la productivité accrue avec l'IA corrèle souvent avec une meilleure qualité de code. **70 % des développeurs** constatant des gains de productivité considérables rapportent aussi une meilleure qualité de code. La revue de code propulsée par l'IA agit comme catalyseur : **81 % des équipes rapides** utilisant l'IA pour la revue constatent des améliorations de qualité, contre 55 % sans. Cette validation automatisée permet de maintenir les standards de qualité tout en accélérant la livraison.
 
-**Context : Driver Fondamental**
+**Le contexte : facteur fondamental**
 
-Le rapport identifie **context comme #1 driver** de qualité perçue et trust. **65% des développeurs** reportent que AI miss relevant context pendant refactoring, problème plus fréquent que hallucinations elles-mêmes. Similar issues surgissent dans test generation et code review. Developers overwhelmingly request "improved contextual understanding" de leurs AI tools. Le rapport advocate pour persistent, automated context learning across entire repository, car manual context selection est inefficient et frustrante.
+Le rapport identifie le **contexte comme facteur n°1** de la qualité perçue et de la confiance. **65 % des développeurs** rapportent que l'IA rate du contexte pertinent pendant le refactoring, problème plus fréquent que les hallucinations elles-mêmes. Des problèmes similaires surgissent en génération de tests et en revue de code. Les développeurs réclament massivement une « meilleure compréhension contextuelle » de leurs outils IA. Le rapport plaide pour un apprentissage du contexte persistant et automatisé sur tout le dépôt, la sélection manuelle de contexte étant inefficace et frustrante.
 
 **Le Confidence Flywheel**
 
-Le rapport introduit "Confidence Flywheel" : cycle self-reinforcing où context-rich suggestions réduisent hallucinations, leading à accurate code, increased developer trust, faster shipping, et ultimately better examples feeding back dans model. Seulement **3.8%** des développeurs expérimentent actuellement ce scénario idéal, mais ceux qui le font reportent higher code quality gains et greater confidence.
+Le rapport introduit le « Confidence Flywheel » : un cycle auto-renforçant où des suggestions riches en contexte réduisent les hallucinations, menant à du code juste, une confiance accrue des développeurs, une livraison plus rapide et, in fine, de meilleurs exemples réinjectés dans le modèle. Seulement **3,8 %** des développeurs vivent actuellement ce scénario idéal, mais ceux-là rapportent des gains de qualité supérieurs et une plus grande confiance.
 
-**Testing & Confiance**
+**Tests et confiance**
 
-Developers utilisant AI pour testing sont **2x plus confiants** dans leurs test suites (**61% vs 27%** pour non-AI users), suggérant que comprehensive AI integration across development lifecycle améliore confiance overall.
+Les développeurs utilisant l'IA pour les tests sont **2x plus confiants** dans leurs suites de tests (**61 % vs 27 %** pour les non-utilisateurs), suggérant qu'une intégration complète de l'IA sur tout le cycle de développement améliore la confiance globale.
 
-**Conclusion Stratégique**
+**Conclusion stratégique**
 
-Qodo conclut qu'unlocking full business value de Generative AI requiert bridging gap entre LLM capabilities et proven existing systems, avec domain integration being critical. Le rapport advocate pour agentic code quality platform fournissant deep context awareness et integrating AI across development lifecycle pour enhance code quality et developer trust. Cette approach iterative, avec safeguards techniques et focus sur interactive documentation, est highly effective mais révèle aussi limitations : human technical expertise reste essentielle pour spot AI errors, et agents manquent business context.
+Qodo conclut que libérer toute la valeur business de l'IA générative exige de combler le fossé entre les capacités des LLM et les systèmes existants éprouvés, l'intégration au domaine étant critique. Le rapport plaide pour une plateforme agentique de qualité de code fournissant une conscience profonde du contexte et intégrant l'IA sur tout le cycle de développement pour renforcer la qualité du code et la confiance des développeurs. Cette approche itérative, avec garde-fous techniques, est très efficace mais révèle aussi des limites : l'expertise technique humaine reste essentielle pour repérer les erreurs de l'IA, et les agents manquent de contexte métier.
 
 ## GrapheDeConnaissance
 
@@ -73,18 +73,18 @@ Qodo conclut qu'unlocking full business value de Generative AI requiert bridging
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Itamar Friedman | PERSONNE | dirige | Qodo | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Qodo | ORGANISATION | publie | State of AI Code Quality 2025 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| State of AI Code Quality 2025 | EVENEMENT | est_basé_sur | sondage de 609 développeurs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Qodo | ORGANISATION | publie | State of AI Code Quality 2025 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| State of AI Code Quality 2025 | DOCUMENT | est_basé_sur | sondage de 609 développeurs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Confidence Flywheel | CONCEPT | est_basé_sur | contexte riche réduisant les hallucinations | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| contexte | CONCEPT | est | fondement de la confiance et de la qualité | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| State of AI Code Quality 2025 | DOCUMENT | affirme_que | le contexte est le facteur n°1 de la qualité et de la confiance | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | hallucinations IA | CONCEPT | réduit | confiance des développeurs | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | revue de code IA | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Qodo Merge | TECHNOLOGIE | automatise | revue de code | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Qodo Gen | TECHNOLOGIE | génère | tests automatisés | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| tests générés par IA | CONCEPT | augmente | confiance dans les suites de tests | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Qodo Merge | TECHNOLOGIE | permet | revue de code automatisée | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Qodo Gen | TECHNOLOGIE | permet | génération automatisée de tests | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| tests générés par IA | CONCEPT | améliore | confiance dans les suites de tests | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | sélection manuelle de contexte | METHODOLOGIE | s_oppose_à | apprentissage persistant du contexte | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| productivité IA | CONCEPT | corrèle_avec | amélioration de la qualité du code | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Qodo | ORGANISATION | se_nomme_anciennement | Codium | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| productivité IA | CONCEPT | converge_avec | amélioration de la qualité du code | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Qodo | ORGANISATION | remplace | Codium | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -92,7 +92,7 @@ Qodo conclut qu'unlocking full business value de Generative AI requiert bridging
 |--------|------|----------|--------|--------|
 | Itamar Friedman | PERSONNE | rôle | Co-founder & CEO, Qodo | AJOUT |
 | Qodo | ORGANISATION | secteur | Plateforme IA de qualité de code (anciennement Codium) | AJOUT |
-| State of AI Code Quality 2025 | EVENEMENT | catégorie | Rapport de recherche industrielle, 609 développeurs sondés | AJOUT |
+| State of AI Code Quality 2025 | DOCUMENT | catégorie | Rapport de recherche industrielle, 609 développeurs sondés | AJOUT |
 | Confidence Flywheel | CONCEPT | description | Cycle vertueux : contexte → moins d'hallucinations → confiance → vitesse de livraison | AJOUT |
 | Qodo Merge | TECHNOLOGIE | catégorie | Agent Git de revue de code automatisée | AJOUT |
 | Qodo Gen | TECHNOLOGIE | catégorie | Agent IDE de génération de code et de tests | AJOUT |

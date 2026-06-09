@@ -57,16 +57,16 @@ Enfin, il donne des conseils tactiques pour les leaders : établir des boucles d
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Justin Reock | PERSONNE | travaille_chez | DX | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Justin Reock | PERSONNE | affirme_que | moyennes cachent volatilité extrême | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| sécurité psychologique | CONCEPT | est_essentielle_pour | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Projet Aristotle | EVENEMENT | a_démontré | importance sécurité psychologique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | a_conduit | Projet Aristotle | EVENEMENT | 0.95 | STATIQUE | inféré |
-| théorie des contraintes | CONCEPT | prédit | inutilité gains hors goulot d'étranglement | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Morgan Stanley | ORGANISATION | utilise | IA pour rétro-ingénierie code legacy | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Zapier | ORGANISATION | utilise | IA pour onboarding accéléré | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Spotify | ORGANISATION | utilise | IA pour résolution incidents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| mandats top-down | METHODOLOGIE | sont_contre-productifs_pour | adoption IA | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Change Failure Rate | CONCEPT | augmente | chez certaines entreprises avec IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Justin Reock | PERSONNE | affirme_que | les moyennes cachent une volatilité extrême de l'impact IA | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| sécurité psychologique | CONCEPT | permet | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Projet Aristotle | EVENEMENT | soutient | importance sécurité psychologique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Projet Aristotle | EVENEMENT | 0.95 | STATIQUE | inféré |
+| théorie des contraintes | CONCEPT | prédit | les gains de temps hors goulot d'étranglement sont inutiles | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Morgan Stanley | ORGANISATION | utilise | IA pour rétro-ingénierie code legacy | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Zapier | ORGANISATION | utilise | IA pour onboarding accéléré | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Spotify | ORGANISATION | utilise | IA pour résolution incidents | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| mandats top-down | METHODOLOGIE | s_oppose_à | adoption IA | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| hausse du Change Failure Rate | CONCEPT | observé_dans | certaines entreprises adoptant l'IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

@@ -15,7 +15,7 @@ Anirban Ghoshal
 ## Ton
 **Profil:** Journalistique-Analytique | Troisième personne | Analytique-Éducative | Intermédiaire
 
-Ghoshal adopte ton tech journalism enterprise équilibrant reporting factuel et implications business. Structure problème économique → causes → reactions → solutions strategiques révèle analyse systématique. Multiple expert citations (Hinchcliffe, Zhou, Dai, Shimmin) construct multiperspective narrative évitant single-source bias. Data points précis (84% adoption, 97% usage) ground claims empiriquement. Langage accessible évite jargon technique while covering substantive topics (GPU tensions, KVCache). Framing pour CIO audience (budget implications, ROI considerations) signals practical business focus. Typique InfoWorld enterprise tech journalism combinant industry trends analysis avec actionable guidance pour IT leaders.
+Ghoshal adopte un ton de journalisme tech d'entreprise équilibrant reportage factuel et implications business. La structure problème économique → causes → réactions → solutions stratégiques révèle une analyse systématique. Les citations de multiples experts (Hinchcliffe, Zhou, Dai, Shimmin) construisent un récit multi-perspectives évitant le biais de source unique. Les points de données précis (84 % d'adoption, 97 % d'usage) ancrent empiriquement les affirmations. Le langage accessible évite le jargon technique tout en couvrant des sujets de fond (tensions GPU, KVCache). Le cadrage pour un public de DSI (implications budgétaires, considérations de ROI) signale une orientation business pratique. Typique du journalisme tech d'entreprise d'InfoWorld combinant analyse des tendances du secteur et conseils actionnables pour les responsables IT.
 
 ## Pense-betes
 - 84% d'adoption ou planification en 2025 (Stack Overflow), 97%+ utilisent (GitHub)
@@ -48,19 +48,19 @@ Bradley Shimmin de The Futurum Group avertit que les coûts pourraient augmenter
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Cursor | TECHNOLOGIE | harmonise_prix_avec | Claude Code | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Cursor | TECHNOLOGIE | harmonise_prix_avec | Kiro | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Dion Hinchcliffe | PERSONNE | affirme_que | pénurie GPU provoque hausse des prix | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Wei Zhou | PERSONNE | affirme_que | réduction des prix impossible sans innovation majeure | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Stack Overflow | ORGANISATION | publie | 2025 Developer Survey | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| 2025 Developer Survey | EVENEMENT | mesure | 84% d'adoption des outils IA | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| GitHub | ORGANISATION | publie | enquête adoption outils IA codage | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| enquête adoption outils IA codage | EVENEMENT | mesure | 97% d'utilisation des outils IA au travail | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Dion Hinchcliffe | PERSONNE | recommande | traiter vibe coding comme dépense de productivité | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Charlie Dai | PERSONNE | contredit | ROI toujours favorable pour projets complexes | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| vibe coding | CONCEPT | augmente | coût budgets DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Cursor | TECHNOLOGIE | converge_avec | Claude Code | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Cursor | TECHNOLOGIE | converge_avec | Kiro | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Dion Hinchcliffe | PERSONNE | affirme_que | la pénurie GPU provoque la hausse des prix | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Wei Zhou | PERSONNE | affirme_que | la réduction des prix est impossible sans innovation majeure | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Stack Overflow | ORGANISATION | publie | 2025 Developer Survey | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| 2025 Developer Survey | DOCUMENT | mesure | 84% d'adoption des outils IA | MESURE | 0.99 | STATIQUE | déclaré_article |
+| GitHub | ORGANISATION | publie | enquête adoption outils IA codage | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| enquête adoption outils IA codage | DOCUMENT | mesure | 97% d'utilisation des outils IA au travail | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Dion Hinchcliffe | PERSONNE | recommande | traiter le vibe coding comme une dépense de productivité essentielle | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Charlie Dai | PERSONNE | affirme_que | le coût cumulé peut égaler l'embauche d'un développeur pour les projets complexes | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| hausse des prix vibe coding | CONCEPT | s_applique_à | budgets DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | KVCache | TECHNOLOGIE | réduit | coût effectif par requête modèle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Bradley Shimmin | PERSONNE | prédit | coûts vibe coding croissants avec expansion codebase | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| Bradley Shimmin | PERSONNE | prédit | des coûts de vibe coding croissants avec l'expansion de la codebase | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
 | The Futurum Group | ORGANISATION | emploie | Dion Hinchcliffe | PERSONNE | 0.99 | DYNAMIQUE | déclaré_article |
 | SemiAnalysis | ORGANISATION | emploie | Wei Zhou | PERSONNE | 0.99 | DYNAMIQUE | déclaré_article |
 
@@ -79,6 +79,6 @@ Bradley Shimmin de The Futurum Group avertit que les coûts pourraient augmenter
 | SemiAnalysis | ORGANISATION | secteur | Recherche semiconducteurs et IA | AJOUT |
 | Forrester | ORGANISATION | secteur | Analyse / Conseil IT | AJOUT |
 | Stack Overflow | ORGANISATION | secteur | Communauté développeurs / enquêtes | AJOUT |
-| vibe coding | CONCEPT | définition | Approche de codage assisté par IA générative | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Approche de codage assisté par IA générative | AJOUT |
 | KVCache | TECHNOLOGIE | rôle | Mécanisme de cache pour réduire les coûts d'inférence LLM | AJOUT |
 | pénurie GPU | CONCEPT | impact | Maintien des prix des assistants IA à un niveau élevé | AJOUT |

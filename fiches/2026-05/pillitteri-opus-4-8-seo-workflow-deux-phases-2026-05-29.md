@@ -106,21 +106,21 @@ Quatre erreurs courantes ferment l'article : ne pas vérifier les chiffres (*tru
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Pasquale Pillitteri | PERSONNE | recommande | workflow SEO en deux phases | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| workflow SEO en deux phases | METHODOLOGIE | sépare | stratégie (tableau blanc) et production (chaîne de montage) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| conversation géante | CONCEPT | provoque | dérive du contexte | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| dérive du contexte | CONCEPT | dégrade | qualité du contenu SEO | CONCEPT | 0.9 | ATEMPOREL | inféré |
+| workflow SEO en deux phases | METHODOLOGIE | est_basé_sur | séparation stratégie (tableau blanc) / production (chaîne de montage) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| conversation géante | CONCEPT | permet | dérive du contexte | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| dérive du contexte | CONCEPT | réduit | qualité du contenu SEO | CONCEPT | 0.9 | ATEMPOREL | inféré |
 | Phase 2 production | METHODOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | connecte | Claude à GSC / Ahrefs / GA4 | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| stack MCP minimum | TECHNOLOGIE | se_compose_de | GSC MCP / Ahrefs MCP / GA4 MCP | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | est_une_couche_par_dessus | Semrush et Ahrefs | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| Pasquale Pillitteri | PERSONNE | cite | content engineering de Ryan Law (Ahrefs) | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| workflow MCP | METHODOLOGIE | produit | draft prêt à publier en 6-12 min | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| adoption du workflow MCP | CONCEPT | augmente | productivité de +45 % | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| Opus 4.8 | TECHNOLOGIE | obtient | 68,1 % F1 GraphWalks à 1M tokens | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | connexion de Claude à GSC / Ahrefs / GA4 | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| stack MCP minimum | TECHNOLOGIE | utilise | GSC MCP / Ahrefs MCP / GA4 MCP | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | s_applique_à | Semrush et Ahrefs (couche par-dessus, pas substitut) | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| Pasquale Pillitteri | PERSONNE | référence | content engineering de Ryan Law (Ahrefs) | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| workflow MCP | METHODOLOGIE | mesure | draft prêt à publier en 6-12 min | MESURE | 0.92 | STATIQUE | déclaré_article |
+| adoption du workflow MCP | CONCEPT | améliore | productivité de +45 % | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Opus 4.8 | TECHNOLOGIE | mesure | 68,1 % F1 GraphWalks à 1M tokens | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Opus 4.8 | TECHNOLOGIE | améliore | raisonnement long contexte vs Opus 4.7 | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| Haiku 4.5 | TECHNOLOGIE | suffit_pour | meta descriptions et alt text | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Sonnet 4.6 | TECHNOLOGIE | suffit_pour | production SEO récurrente | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Pasquale Pillitteri | PERSONNE | affirme_que | le modèle SEO le plus puissant ne marche que dans un système | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Haiku 4.5 | TECHNOLOGIE | s_applique_à | meta descriptions et alt text | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Sonnet 4.6 | TECHNOLOGIE | s_applique_à | production SEO récurrente | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Pasquale Pillitteri | PERSONNE | affirme_que | le modèle SEO le plus puissant ne fonctionne qu'à l'intérieur d'un système | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

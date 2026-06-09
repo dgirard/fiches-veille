@@ -19,30 +19,30 @@ VibeSDK, vibe coding, Cloudflare, Sandboxes, Workers for Platforms, AI Gateway, 
 Ashish Kumar Singh, Abhishek Kankani, Dina Kozlov
 
 ## Ton
-**Profil:** Product-Announcement-Technical | Première personne collective organisationnelle | Éducative-Promotionnelle | Expert-Accessible
+**Profil:** Annonce produit technique | Première personne collective organisationnelle | Éducatif-promotionnel | Expert accessible
 
-Cloudflare team adopte product launch voice combinant technical deep-dive avec accessibility. Structure step-by-step tutorial (Step 0-4 + deployment section) demonstrates developer-education approach typical Cloudflare blog. Langage infrastructure engineer (sandboxes, isolated environments, dispatch namespace, Workers for Platforms) mêlé à code examples concrets creates hands-on learning experience. Tone enthusiastic-pragmatic ("It's an exciting time to build applications") reflects developer-first culture. Emphasis open-source philosophy ("same reason Cloudflare open-sourced the Workers runtime") positions comme platform democratization. Typique infrastructure-as-service providers (Cloudflare, Vercel, Railway) produisant technical content visant developer audience cherchant turnkey solutions pour complex deployment scenarios.
+L'équipe Cloudflare adopte une voix de lancement produit combinant plongée technique approfondie et accessibilité. La structure en tutoriel pas-à-pas (étapes 0 à 4 + section déploiement) illustre l'approche d'éducation des développeurs typique du blog Cloudflare. Le langage d'ingénieur infrastructure (sandboxes, environnements isolés, dispatch namespace, Workers for Platforms), mêlé à des exemples de code concrets, crée une expérience d'apprentissage pratique. Le ton enthousiaste-pragmatique (« It's an exciting time to build applications ») reflète une culture orientée développeurs. L'accent sur la philosophie open source (même raison que l'open-sourcing du runtime Workers) positionne la démarche comme une démocratisation de plateforme. Typique des fournisseurs d'infrastructure (Cloudflare, Vercel, Railway) produisant du contenu technique pour des développeurs cherchant des solutions clés en main pour des scénarios de déploiement complexes.
 
-## Pense-bêtes
-- **VibeSDK** : plateforme open-source complète pour déployer propre vibe coding platform one-click
-- **Demo disponible** : platform utilisable + deploy button instant
-- **Cloudflare Sandboxes** : environnements isolés container-based pour exécuter code AI non sécurisé
-- **Session-based sandboxes** : chaque user obtient sandbox persistant entre sessions
-- **Code generation workflow** : AI génère → écrit fichiers → installe packages → démarre serveur
-- **Project templates** : R2 bucket storage pour démarrage rapide vs génération from scratch
-- **Public preview URLs** : Sandbox SDK expose ports pour preview instantané applications
-- **Auto-debugging** : logs/errors capturés et feedbackés au LLM pour fixes automatiques
-- **Workers for Platforms** : déploiement scalable milliers/millions Workers isolated dans dispatch namespace
-- **Unique URLs** : chaque app déployée reçoit URL isolée (my-app.vibe-build.example.com)
-- **Deployment sandbox** : sandbox spécialisé séparé run wrangler deploy
-- **Export capability** : users exportent vers propre Cloudflare account ou GitHub repo
-- **AI Gateway integration** : unified access point multi-providers (OpenAI, Anthropic, Google)
-- **Gemini models** : gemini-2.5-pro, gemini-2.5-flash-lite, gemini-2.5-flash par défaut
-- **Caching built-in** : popular responses cachées (ex: "build to-do list app")
-- **Observability** : requests, tokens used, response times, costs tracking cross-providers
-- **Use cases** : internal teams (marketing, product, support) + SaaS embedding pour user customizations
-- **Agents SDK** : powers LLM integration pour generate, build, debug, iterate real-time
-- **Reference architecture** : documentation complète vibe coding platform design
+## Pense-betes
+- **VibeSDK** : plateforme open source complète pour déployer sa propre plateforme de vibe coding en un clic
+- **Démo disponible** : plateforme utilisable + bouton de déploiement instantané
+- **Cloudflare Sandboxes** : environnements isolés à base de conteneurs pour exécuter du code IA non fiable
+- **Sandboxes par session** : chaque utilisateur obtient un sandbox persistant entre les sessions
+- **Workflow de génération de code** : l'IA génère → écrit les fichiers → installe les paquets → démarre le serveur
+- **Templates de projets** : stockage dans un bucket R2 pour un démarrage rapide plutôt qu'une génération de zéro
+- **URL de preview publiques** : le Sandbox SDK expose les ports pour une prévisualisation instantanée des applications
+- **Auto-débogage** : logs et erreurs capturés et renvoyés au LLM pour corrections automatiques
+- **Workers for Platforms** : déploiement scalable de milliers/millions de Workers isolés dans un dispatch namespace
+- **URL uniques** : chaque application déployée reçoit une URL isolée (my-app.vibe-build.example.com)
+- **Sandbox de déploiement** : sandbox spécialisé séparé exécutant wrangler deploy
+- **Capacité d'export** : les utilisateurs exportent vers leur propre compte Cloudflare ou un dépôt GitHub
+- **Intégration AI Gateway** : point d'accès unifié multi-fournisseurs (OpenAI, Anthropic, Google)
+- **Modèles Gemini** : gemini-2.5-pro, gemini-2.5-flash-lite, gemini-2.5-flash par défaut
+- **Cache intégré** : mise en cache des réponses populaires (ex. « build to-do list app »)
+- **Observabilité** : suivi des requêtes, tokens consommés, temps de réponse et coûts multi-fournisseurs
+- **Cas d'usage** : équipes internes (marketing, produit, support) + intégration SaaS pour personnalisations utilisateur
+- **Agents SDK** : motorise l'intégration LLM pour générer, construire, déboguer et itérer en temps réel
+- **Architecture de référence** : documentation complète de conception d'une plateforme de vibe coding
 
 ## RésuméDe400mots
 
@@ -80,16 +80,16 @@ Cloudflare open-source VibeSDK avec la même philosophie que le Workers runtime 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Cloudflare | ORGANISATION | a_publié | VibeSDK | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Cloudflare | ORGANISATION | publie | VibeSDK | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | VibeSDK | TECHNOLOGIE | est_basé_sur | Agents SDK | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | VibeSDK | TECHNOLOGIE | utilise | Cloudflare Sandboxes | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | VibeSDK | TECHNOLOGIE | utilise | Workers for Platforms | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | VibeSDK | TECHNOLOGIE | utilise | AI Gateway | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | VibeSDK | TECHNOLOGIE | utilise | Gemini models | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | AI Gateway | TECHNOLOGIE | permet | multi-model support | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Cloudflare Sandboxes | TECHNOLOGIE | isole | code généré par IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Workers for Platforms | TECHNOLOGIE | déploie_à_échelle | Cloudflare Workers | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| vibe coding | CONCEPT | transforme | développement logiciel | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| Cloudflare Sandboxes | TECHNOLOGIE | permet | isolation du code généré par IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Workers for Platforms | TECHNOLOGIE | permet | déploiement à grande échelle de Cloudflare Workers | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | améliore | développement logiciel | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | VibeSDK | TECHNOLOGIE | permet | déploiement one-click | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | AI Gateway | TECHNOLOGIE | réduit | coûts inference | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 
@@ -104,7 +104,7 @@ Cloudflare open-source VibeSDK avec la même philosophie que le Workers runtime 
 | Workers for Platforms | TECHNOLOGIE | catégorie | Déploiement Workers à grande échelle | AJOUT |
 | AI Gateway | TECHNOLOGIE | catégorie | Accès unifié multi-providers LLM | AJOUT |
 | Gemini models | TECHNOLOGIE | catégorie | Modèles LLM Google (2.5-pro, flash, flash-lite) | AJOUT |
-| vibe coding | CONCEPT | définition | Développement applicatif par description langage naturel | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Développement applicatif par description langage naturel | AJOUT |
 | Ashish Kumar Singh | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |
 | Abhishek Kankani | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |
 | Dina Kozlov | PERSONNE | rôle | Auteur de l'article Cloudflare Blog | AJOUT |

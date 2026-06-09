@@ -47,20 +47,20 @@ Le rapport insiste sur un paradoxe central : bien que les développeurs utilisen
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | publie | 2026 Agentic Coding Trends Report | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | prédit | transformation rôle ingénieur | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | utilisé_par | Rakuten | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Rakuten | ORGANISATION | a_réalisé | implémentation vLLM en 7 heures | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | 2026 Agentic Coding Trends Report | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | prédit | l'ingénieur logiciel devient orchestrateur d'agents | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Rakuten | ORGANISATION | utilise | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Rakuten | ORGANISATION | mesure | implémentation autonome de 7 heures sur vLLM (12,5M lignes, 99,9% précision) | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Fountain | ORGANISATION | utilise | orchestration multi-agents | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Fountain | ORGANISATION | a_obtenu | 50% screening plus rapide | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| TELUS | ORGANISATION | a_économisé | 500 000 heures grâce à l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Zapier | ORGANISATION | a_déployé | 800+ agents internes | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Fountain | ORGANISATION | mesure | screening 50% plus rapide | MESURE | 0.95 | STATIQUE | déclaré_article |
+| TELUS | ORGANISATION | mesure | 500 000 heures économisées grâce à l'IA | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Zapier | ORGANISATION | utilise | 800+ agents internes | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Augment Code | TECHNOLOGIE | est_basé_sur | Claude | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Augment Code | TECHNOLOGIE | a_réduit | délai projet de 4-8 mois à 2 semaines | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| codage agentique | CONCEPT | transforme | cycle de développement logiciel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Augment Code | TECHNOLOGIE | réduit | délai projet de 4-8 mois à 2 semaines | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| codage agentique | CONCEPT | améliore | cycle de développement logiciel (compression semaines → heures) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | agents IA | TECHNOLOGIE | remplace | tâches d'implémentation code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| ingénieur logiciel | CONCEPT | évolue_vers | rôle d'orchestrateur | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| architecture security-first | METHODOLOGIE | recommandée_par | Anthropic | ORGANISATION | 0.92 | ATEMPOREL | déclaré_article |
+| rôle d'orchestrateur | CONCEPT | remplace | rôle d'implémenteur (ingénieur logiciel) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | recommande | architecture security-first | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Legora | ORGANISATION | utilise | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 
 ### Entités
@@ -69,7 +69,7 @@ Le rapport insiste sur un paradoxe central : bien que les développeurs utilisen
 |--------|------|----------|--------|--------|
 | Anthropic | ORGANISATION | secteur | IA / Safety / Modèles de langage | AJOUT |
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
-| 2026 Agentic Coding Trends Report | EVENEMENT | date | Février 2026 | AJOUT |
+| 2026 Agentic Coding Trends Report | DOCUMENT | date | Février 2026 | AJOUT |
 | Rakuten | ORGANISATION | secteur | Commerce en ligne / Technologie | AJOUT |
 | Fountain | ORGANISATION | secteur | Gestion RH / Personnel de terrain | AJOUT |
 | TELUS | ORGANISATION | secteur | Télécommunications | AJOUT |

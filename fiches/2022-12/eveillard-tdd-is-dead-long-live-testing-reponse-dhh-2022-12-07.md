@@ -167,20 +167,20 @@ L'article est de **2022** (donc avant l'explosion coding agents) mais **résonne
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Mathieu Eveillard | PERSONNE | publie | TDD is dead. Long live testing. (réponse à DHH) | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Mathieu Eveillard | PERSONNE | réfute | David Heinemeier Hansson (DHH) | PERSONNE | 0.96 | DYNAMIQUE | déclaré_article |
-| DHH | PERSONNE | a_publié_2014 | TDD is dead. Long live testing. (article original) | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Test-first | METHODOLOGIE | est_distinct_de | Test-Driven Development | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Mathieu Eveillard | PERSONNE | affirme_que | DHH critique Test-first en l'appelant TDD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| TDD | METHODOLOGIE | est | outil pas religion | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| TDD | METHODOLOGIE | se_prête_à | code du domaine, bounded context, cœur hexagone | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Code domaine TDD-pertinent | CONCEPT | représente | 30% de la codebase au plus | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Tests unitaires | CONCEPT | offrent | feedback millisecondes + détection bug précoce | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Tests système | CONCEPT | ne_remplacent_pas | tests unitaires | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Pyramide de tests | CONCEPT | comprend | tests unitaires + intégration + acceptance + e2e | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Programmation fonctionnelle | METHODOLOGIE | évite | service objects + command patterns monstrosities | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Trop d'injection de dépendances | CONCEPT | conduit_à | couplage test implémentation | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Loi de l'Instrument | CONCEPT | s'applique_à | TDD utilisé inappropriément | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Mathieu Eveillard | PERSONNE | publie | TDD is dead. Long live testing. (réponse à DHH) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Mathieu Eveillard | PERSONNE | s_oppose_à | David Heinemeier Hansson (DHH) | PERSONNE | 0.96 | DYNAMIQUE | déclaré_article |
+| DHH | PERSONNE | publie | TDD is dead. Long live testing. (article original, 2014) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Test-first | METHODOLOGIE | est_variante_de | Test-Driven Development | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Mathieu Eveillard | PERSONNE | affirme_que | DHH critique Test-first en l'appelant TDD | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Mathieu Eveillard | PERSONNE | affirme_que | le TDD n'est pas une religion, c'est un outil | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| TDD | METHODOLOGIE | s_applique_à | code du domaine, bounded context, cœur hexagone | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Mathieu Eveillard | PERSONNE | affirme_que | le code domaine TDD-pertinent représente 30% de la codebase au plus | AFFIRMATION | 0.91 | ATEMPOREL | déclaré_article |
+| Tests unitaires | CONCEPT | permet | feedback millisecondes + détection bug précoce | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Mathieu Eveillard | PERSONNE | affirme_que | les tests système ne remplacent pas les tests unitaires | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Tests unitaires + intégration + acceptance + e2e | CONCEPT | fait_partie_de | Pyramide de tests | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Programmation fonctionnelle | METHODOLOGIE | réduit | service objects + command patterns monstrosities | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Trop d'injection de dépendances | CONCEPT | permet | couplage test implémentation | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Loi de l'Instrument | CONCEPT | s_applique_à | TDD utilisé inappropriément | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Bilan Eveillard | CONCEPT | converge_avec | Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle, Osmani Cognitive Surrender | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 | Position outil_pas_religion | CONCEPT | converge_avec | Karpathy jagged intelligence, DORA all models wrong, Talisman work cannot be skipped | CONCEPT | 0.89 | ATEMPOREL | inféré |
 
@@ -197,6 +197,6 @@ L'article est de **2022** (donc avant l'explosion coding agents) mais **résonne
 | Code domaine / bounded context / cœur hexagone | CONCEPT | définition | Référence DDD (Domain-Driven Design) + hexagonal architecture (Cockburn) — noyau fonctionnel d'une application. Eveillard estime ce code à 30% max de codebase et y voit le périmètre principal du TDD | AJOUT |
 | Loi de l'Instrument | CONCEPT | définition | Concept Maslow ("si l'on tient un marteau, tout ressemble à un clou") — Eveillard l'applique au TDD : si l'outil n'aide pas, on est tombé dans la Loi de l'Instrument | AJOUT |
 | 30% codebase max TDD | CONCEPT | source | Estimation Eveillard du périmètre code domaine où le TDD est pertinent. À adapter selon contexte (compilateur peut être 80% domaine) | AJOUT |
-| Article DHH 2014 "TDD is dead" | EVENEMENT | description | Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard | AJOUT |
+| Article DHH 2014 "TDD is dead" | DOCUMENT | description | Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard | AJOUT |
 | craft / artisanat logiciel | CONCEPT | description | Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR | AJOUT |
 | Articulation TDD / coding agents 2026 | CONCEPT | description | Pertinence indirecte article 2022 pour corpus IA 2025-2026 : Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender — TDD comme antidote méthodologique à l'atrophie pratique manuelle | AJOUT |

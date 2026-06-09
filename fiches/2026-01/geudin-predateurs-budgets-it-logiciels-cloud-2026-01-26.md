@@ -53,21 +53,21 @@ La conclusion de l'auteur est programmatique : le portefeuille logiciel doit êt
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Guillaume Geudin | PERSONNE | dirige | performance achats Elee | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Éditeurs logiciels | ORGANISATION | augmentent | budgets IT DSI | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | augmente_tarifs | 11-25% (2020-2024) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Microsoft | ORGANISATION | facture | Copilot AI (+85%) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | augmente_tarifs | Gemini 20-45% | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Salesforce | ORGANISATION | augmente_tarifs | 15% | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Oracle | ORGANISATION | augmente_tarifs | 8-12% | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| SAP | ORGANISATION | augmente_tarifs | 3.3-5% | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Éditeurs logiciels | ORGANISATION | embarquent | IA par défaut | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| IA embarquée | TECHNOLOGIE | augmente | ARPU 30-80% | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Transition SaaS | CONCEPT | transforme | Capex en Opex | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Guillaume Geudin | PERSONNE | travaille_chez | Elee | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Guillaume Geudin | PERSONNE | affirme_que | les factures DSI augmentent de 12-14% par an | AFFIRMATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | mesure | hausse tarifaire 11-25% (2020-2024) | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Microsoft | ORGANISATION | mesure | hausse Copilot AI +85% | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | mesure | hausse Gemini 20-45% | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Salesforce | ORGANISATION | mesure | hausse tarifaire 15% | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Oracle | ORGANISATION | mesure | hausse tarifaire 8-12% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| SAP | ORGANISATION | mesure | hausse tarifaire 3.3-5% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Éditeurs logiciels | ORGANISATION | utilise | IA embarquée par défaut | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| IA embarquée | TECHNOLOGIE | améliore | ARPU (+30-80%) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Transition SaaS | CONCEPT | permet | passage de Capex en Opex | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | FinOps | METHODOLOGIE | réduit | coûts cloud 20-30% | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Licences inutilisées | CONCEPT | représentent | 30% du parc logiciel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Guillaume Geudin | PERSONNE | prédit | hausse 50-60% dépenses IT 2028 | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| Open source | TECHNOLOGIE | constitue | alternative pression concurrentielle | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Licences inutilisées | CONCEPT | mesure | 30% du parc logiciel | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| Guillaume Geudin | PERSONNE | prédit | hausse 50-60% des dépenses IT d'ici 2028 | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
+| Open source | TECHNOLOGIE | est_instance_de | alternative de pression concurrentielle | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

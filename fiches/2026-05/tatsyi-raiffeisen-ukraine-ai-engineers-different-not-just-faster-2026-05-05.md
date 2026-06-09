@@ -186,37 +186,37 @@ Hryhorii Tatsyi, CTO de **Raiffeisen Bank Ukraine** (~900 ingénieurs IT), publi
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Hryhorii Tatsyi | PERSONNE | publie | AI didn't make our engineers just faster | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Hryhorii Tatsyi | PERSONNE | est_CTO_de | Raiffeisen Bank Ukraine | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Raiffeisen Bank Ukraine | ORGANISATION | emploie | ~900 ingénieurs IT | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Raiffeisen Bank Ukraine | ORGANISATION | a_réduit_de | 75 personnes (dont 64 ingénieurs) en 12 mois | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Raiffeisen Bank Ukraine | ORGANISATION | a_augmenté_adoption_IA_de | 62% à 83% | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Onboarding Raiffeisen | CONCEPT | est_passé_de | 60-90 jours à ~40 jours | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Hryhorii Tatsyi | PERSONNE | publie | AI didn't make our engineers just faster | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Hryhorii Tatsyi | PERSONNE | dirige | Raiffeisen Bank Ukraine (IT, en tant que CTO) | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Raiffeisen Bank Ukraine | ORGANISATION | mesure | ~900 ingénieurs IT | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
+| Raiffeisen Bank Ukraine | ORGANISATION | réduit | effectif de 75 personnes (dont 64 ingénieurs) en 12 mois | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Raiffeisen Bank Ukraine | ORGANISATION | mesure | adoption IA de 62% à 83% | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Onboarding Raiffeisen | CONCEPT | mesure | passage de 60-90 jours à ~40 jours | MESURE | 0.94 | STATIQUE | déclaré_article |
 | Onboarding ~40 jours | CONCEPT | converge_avec | données Anthropic 82→40 jours | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| Trois archétypes ingénieurs | CONCEPT | comprennent | Copilot-only, Multi-outils, Claude-on-corporate-stack | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Claude sur stack corporate | CONCEPT | augmente_volume_code | ×4.5 | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Multi-outils | CONCEPT | augmente_story_points | ×1.5-3 | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Copilot-only | CONCEPT | augmente_PRs_de | +10-25% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| AI | TECHNOLOGIE | lifte_à_baseline | sous-performants | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Architectes seniors | PERSONNE | reviennent_à | développement actif | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Raiffeisen Bank Ukraine | ORGANISATION | a_construit | sept produits IA inédits en 12 mois | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Service Knowledge Hub | TECHNOLOGIE | documente | 57 microservices, 83 releases/mois | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| AI Agent Portal | TECHNOLOGIE | atteint | 2 085 users / 649 MAU en 87 jours | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| AI Agent Portal | TECHNOLOGIE | génère | agents MCP via specs OpenAPI | TECHNOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Copilot-only, Multi-outils, Claude-on-corporate-stack | CONCEPT | fait_partie_de | Trois archétypes ingénieurs | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Claude sur stack corporate | CONCEPT | mesure | volume code ×4.5 | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Multi-outils | CONCEPT | mesure | story-points ×1.5-3 | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Copilot-only | CONCEPT | mesure | PRs +10-25% | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| AI | TECHNOLOGIE | améliore | sous-performants (rattrapage à la baseline) | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Retour des architectes seniors au développement actif | CONCEPT | observé_dans | Raiffeisen Bank Ukraine | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Raiffeisen Bank Ukraine | ORGANISATION | a_créé | sept produits IA inédits en 12 mois | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Service Knowledge Hub | TECHNOLOGIE | s_applique_à | 57 microservices, 83 releases/mois | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| AI Agent Portal | TECHNOLOGIE | mesure | 2 085 users / 649 MAU en 87 jours | MESURE | 0.94 | STATIQUE | déclaré_article |
+| AI Agent Portal | TECHNOLOGIE | permet | génération d'agents MCP via specs OpenAPI | TECHNOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Shift-left Security Plugin | TECHNOLOGIE | réduit | secrets exposés de 82% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | DevPortal Backstage | TECHNOLOGIE | réduit | temps résolution incidents critiques de 68% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| DRAIF MCP | TECHNOLOGIE | adresse | Data Lake 10 000 tables en text-to-SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| DRAIF MCP embedding fine-tuné | TECHNOLOGIE | surpasse | modèles OpenAI ×2 | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Call Evaluation | TECHNOLOGIE | atteint | >97% précision transcription | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Call Evaluation | TECHNOLOGIE | a_été_élu | meilleur produit du groupe Raiffeisen | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
-| Incidents bloquants Raiffeisen | CONCEPT | ont_diminué_de | 70% | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Alertes sécurité haute sévérité résolues | CONCEPT | ont_augmenté_de | 155% | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Hryhorii Tatsyi | PERSONNE | affirme_que | AI expanded production possibility frontier | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Capacité libérée par IA | CONCEPT | est_allouée_à | features + stabilité + dette technique | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Hryhorii Tatsyi | PERSONNE | recommande | mesurer ce que les ingénieurs construisent qui n'existait pas | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Bilan Tatsyi | CONCEPT | nuance | lecture "tail élite 10×" Cherny/Karpathy | CONCEPT | 0.90 | DYNAMIQUE | inféré |
-| Distribution productivité IA | CONCEPT | se_resserre_par_le_bas_et_s_élargit_par_le_haut | simultanément | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Case study Raiffeisen | CONCEPT | est_complémentaire_de | témoignage individuel Frizzo | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| DRAIF MCP | TECHNOLOGIE | s_applique_à | Data Lake 10 000 tables en text-to-SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| DRAIF MCP embedding fine-tuné | TECHNOLOGIE | surpasse | modèles OpenAI (×2) | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
+| Call Evaluation | TECHNOLOGIE | mesure | >97% précision transcription | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Groupe Raiffeisen (RBI) | ORGANISATION | recommande | Call Evaluation (élu meilleur produit du groupe) | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Incidents bloquants Raiffeisen | CONCEPT | mesure | −70% | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Alertes sécurité haute sévérité résolues | CONCEPT | mesure | +155% | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Hryhorii Tatsyi | PERSONNE | affirme_que | "AI expanded our production possibility frontier" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| Capacité libérée par IA | CONCEPT | s_applique_à | features + stabilité + dette technique (allocation délibérée) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Hryhorii Tatsyi | PERSONNE | recommande | mesurer ce que les ingénieurs construisent qui n'existait pas | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Bilan Tatsyi | CONCEPT | affine | lecture "tail élite 10×" Cherny/Karpathy | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| Bilan Tatsyi | CONCEPT | soutient | resserrement par le bas et élargissement par le haut simultanés de la distribution productivité | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Case study Raiffeisen | CONCEPT | converge_avec | témoignage individuel Frizzo (complémentarité) | CONCEPT | 0.93 | ATEMPOREL | inféré |
 | Bilan Tatsyi | CONCEPT | converge_avec | Wescale X3-X4, Curran 3×, DORA 2025 | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 
 ### Entités

@@ -15,7 +15,7 @@ Kate Holterhoff
 ## Ton
 **Profil:** Conversationnel-Professionnel | Journalistique narrative | Analytique-Opinion | Intermédiaire-Accessible
 
-Holterhoff adopte style tech journalism accessible mêlant reporting factuel et commentary culturel. Métaphore "Hot Vibe Code Summer" sets playful seasonal framing. Citations multiperspectives (Karpathy, Willison, Wang) construct narrative balanced. Langage direct évite jargon excessif ("vibe coding" lui-même terme colloquial) tout en couvrant technical substance (KVCache, MCP protocol). Structure chronological summer → problèmes émergents → perspectives futures révèle journaliste tracking story evolution. Admissions nuances (enthousiasme + préoccupations sécurité) shows balanced assessment. Typique RedMonk analysis combinant tech savvy et accessible storytelling visant broad developer audience.
+Holterhoff adopte un style de journalisme tech accessible mêlant reportage factuel et commentaire culturel. La métaphore « Hot Vibe Code Summer » installe un cadrage saisonnier ludique. Les citations multi-perspectives (Karpathy, Willison, Wang) construisent un récit équilibré. Le langage direct évite le jargon excessif (« vibe coding » est lui-même un terme familier) tout en couvrant la substance technique (KVCache, protocole MCP). La structure chronologique été → problèmes émergents → perspectives futures révèle une journaliste qui suit l'évolution du sujet. Les nuances assumées (enthousiasme + préoccupations de sécurité) témoignent d'une évaluation équilibrée. Typique des analyses RedMonk combinant expertise technique et narration accessible, visant un large public de développeurs.
 
 ## Pense-betes
 - "Vibe coding" : approche décontractée du dev assisté IA (terme d'Andrej Karpathy)
@@ -49,28 +49,28 @@ En conclusion, le "Hot Vibe Code Summer" a été une période d'expérimentation
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrej Karpathy | PERSONNE | a_créé | vibe coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Simon Willison | PERSONNE | définit | vibe coding | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Simon Willison | PERSONNE | affirme_que | vibe coding est une force démocratisatrice | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Shawn Wang | PERSONNE | critique | vibe coding | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | a_créé | vibe coding | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | référence | vibe coding | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | affirme_que | le vibe coding est une force démocratisatrice | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Shawn Wang | PERSONNE | s_oppose_à | vibe coding | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Shawn Wang | PERSONNE | recommande | AI Engineering | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Cursor | TECHNOLOGIE | a_modifié | politique tarifaire | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Michael Truell | PERSONNE | a_publié | excuse publique sur la tarification | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Replit | ORGANISATION | a_subi | perte base de données production | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | a_causé | fuites de données | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Cognition | ORGANISATION | a_acquis | Windsurf | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Google DeepMind | ORGANISATION | a_recruté | équipe dirigeante Windsurf | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Cursor | ORGANISATION | publie | nouvelle politique tarifaire | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Michael Truell | PERSONNE | publie | excuse publique sur la tarification | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| perte base de données production | EVENEMENT | observé_dans | Replit | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| fuites de données | EVENEMENT | observé_dans | MCP | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Windsurf | ORGANISATION | fait_partie_de | Cognition | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| équipe dirigeante Windsurf | PERSONNE | travaille_chez | Google DeepMind | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | AWS | ORGANISATION | a_créé | Kiro | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| GitHub | ORGANISATION | a_lancé | Spark | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| GitHub | ORGANISATION | publie | Spark | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Austin Parker | PERSONNE | recommande | observabilité du code généré par IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| vibe coding | CONCEPT | augmente | accessibilité du développement logiciel | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| vibe coding | METHODOLOGIE | améliore | accessibilité du développement logiciel | CONCEPT | 0.90 | ATEMPOREL | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Andrej Karpathy | PERSONNE | rôle | Créateur du terme "vibe coding" | AJOUT |
-| vibe coding | CONCEPT | définition | Développement logiciel guidé en langage naturel, sans révision manuelle du code | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Développement logiciel guidé en langage naturel, sans révision manuelle du code | AJOUT |
 | Simon Willison | PERSONNE | position | Défenseur du vibe coding comme force démocratisatrice | AJOUT |
 | Shawn Wang | PERSONNE | alias | swyx | AJOUT |
 | Cursor | TECHNOLOGIE | catégorie | IDE IA de référence pour le vibe coding | AJOUT |

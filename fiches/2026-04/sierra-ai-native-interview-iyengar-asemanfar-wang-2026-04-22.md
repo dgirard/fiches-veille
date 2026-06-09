@@ -52,23 +52,23 @@ Les apprentissages : on recrute pour les forces, pas pour l'absence de faiblesse
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Sierra | ORGANISATION | a_refondu | processus d'entretien ingénieur | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Sierra | ORGANISATION | améliore | processus d'entretien ingénieur | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Sierra | ORGANISATION | emploie | Vijay Iyengar | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
 | Sierra | ORGANISATION | emploie | Arya Asemanfar | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
 | Sierra | ORGANISATION | emploie | Angie Wang | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
-| AI-native onsite | METHODOLOGIE | se_compose_de | Plan Build Review | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Sierra | ORGANISATION | a_supprimé | coding interviews algorithmes | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Sierra | ORGANISATION | a_remplacé | phone screen coding par system design | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Sierra | ORGANISATION | pilote | debugging interview | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Agents de codage | TECHNOLOGIE | transforme | rôle ingénieur logiciel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI-native onsite | METHODOLOGIE | est_basé_sur | Plan Build Review | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| AI-native onsite | METHODOLOGIE | remplace | coding interviews algorithmiques | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Entretien de system design | METHODOLOGIE | remplace | phone screen coding | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Sierra | ORGANISATION | utilise | debugging interview (pilote) | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Iyengar Asemanfar Wang | PERSONNE | affirme_que | les agents de codage transforment le rôle d'ingénieur de "construire la machine" vers "designer et affiner la machine" | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | fait_partie_de | Agents de codage | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Codex | TECHNOLOGIE | fait_partie_de | Agents de codage | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Paul Buchheit | PERSONNE | a_créé | Gmail | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Paul Buchheit | PERSONNE | affirme_que | si c'est génial il n'a pas à être bon | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Iyengar Asemanfar Wang | PERSONNE | affirme_que | on recrute pour les forces pas l'absence de faiblesses | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Vibe coding | METHODOLOGIE | est_facile | mise en production scalable | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Ghostwriter | TECHNOLOGIE | est_utilisé_par | Sierra | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Ghostwriter | TECHNOLOGIE | crée_et_optimise | autres agents | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| Paul Buchheit | PERSONNE | affirme_que | "if it's great, it doesn't have to be good" | CITATION | 0.90 | ATEMPOREL | déclaré_article |
+| Iyengar Asemanfar Wang | PERSONNE | affirme_que | on recrute pour les forces pas l'absence de faiblesses | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Iyengar Asemanfar Wang | PERSONNE | affirme_que | le vibe coding est devenu trivial, la difficulté réelle est la mise en production scalable | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Sierra | ORGANISATION | utilise | Ghostwriter | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Ghostwriter | TECHNOLOGIE | permet | création et optimisation d'autres agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

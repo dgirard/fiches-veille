@@ -54,18 +54,18 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage sa vision de l'évo
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Marc Andreessen | PERSONNE | affirme_que | l'IA redéfinit les programmeurs sans les supprimer | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Marc Andreessen | PERSONNE | affirme_que | les fondamentaux du code restent indispensables | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | prédit | une productivité 10x à 1000x pour les programmeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Marc Andreessen | PERSONNE | fait_partie_de | Andreessen Horowitz | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
-| programmeur | CONCEPT | orchestre | bots de codage | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| programmeur | CONCEPT | supervise | IA de codage | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'IA redéfinit les programmeurs sans les supprimer | AFFIRMATION | 0.99 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | les fondamentaux du code restent indispensables | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | prédit | une productivité 10x à 1000x pour les programmeurs | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | a_créé | Andreessen Horowitz | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
+| programmeur | CONCEPT | utilise | bots de codage (orchestration en parallèle) | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| programmeur | CONCEPT | utilise | IA de codage (supervision) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | bots de codage | TECHNOLOGIE | remplace | écriture ligne par ligne | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | compréhension du code | CONCEPT | permet | évaluation de l'output IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| IA de codage | TECHNOLOGIE | augmente | productivité du programmeur | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| IA de codage | TECHNOLOGIE | abstrait | travail de programmation | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| responsabilité humaine | CONCEPT | est_maintenue_par | supervision et jugement | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| orchestration de bots | METHODOLOGIE | requiert | fondamentaux de programmation | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| IA de codage | TECHNOLOGIE | améliore | productivité du programmeur | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA de codage | TECHNOLOGIE | permet | abstraction du travail de programmation | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| supervision et jugement humains | CONCEPT | permet | maintien de la responsabilité humaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| orchestration de bots | METHODOLOGIE | utilise | fondamentaux de programmation | CONCEPT | 0.95 | ATEMPOREL | inféré |
 
 ### Entités
 

@@ -82,21 +82,21 @@ Résultats recherche suggèrent IA comme **grand équalisateur** : underperforme
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | publie | An Opinionated Guide to Using AI Right Now | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | enseigne_à | Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | An Opinionated Guide to Using AI Right Now | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | travaille_chez | Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | ChatGPT | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | Gemini | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | publie | données d'usage ChatGPT | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | introduit_concept | jagged frontier | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | données d'usage ChatGPT | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | a_créé | jagged frontier | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | collabore_avec | Boston Consulting Group | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| étude BCG | EVENEMENT | implique | 758 consultants | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| étude BCG | DOCUMENT | mesure | 758 consultants impliqués | MESURE | 0.96 | STATIQUE | déclaré_article |
 | IA | TECHNOLOGIE | améliore | underperformers (+43%) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| jagged frontier | CONCEPT | définit | limites invisibles des capacités IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| jagged frontier | CONCEPT | affirme_que | les capacités de l'IA ont des limites invisibles et imprévisibles | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | modèle Cyborg | METHODOLOGIE | s_oppose_à | modèle Centaur | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
-| Claude | TECHNOLOGIE | manque | génération d'images et vidéos | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | Claude manque de génération d'images et vidéos | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Deep Research | TECHNOLOGIE | améliore | qualité des réponses IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| sycophancy | CONCEPT | représente | risque d'adoption IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| sycophancy | CONCEPT | est_instance_de | risque d'adoption IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -237,57 +237,57 @@ Le 15 mai 2026, xAI publie en open-source `xai-org/x-algorithm`, l'algorithme **
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| xAI | ORGANISATION | a_publié_en_open_source | x-algorithm | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| x-algorithm | TECHNOLOGIE | a_été_publié_le | 15 mai 2026 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| x-algorithm | TECHNOLOGIE | est_composé_de | Home Mixer + Thunder + Phoenix + Grox | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Home Mixer | TECHNOLOGIE | est_implémenté_en | Rust | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Home Mixer | TECHNOLOGIE | orchestre | pipeline For You feed | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Thunder | TECHNOLOGIE | stocke | posts récents in-network | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Thunder | TECHNOLOGIE | est_alimenté_par | Kafka | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Phoenix | TECHNOLOGIE | est_dérivé_de | Grok-1 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Phoenix | TECHNOLOGIE | est_implémenté_en | JAX | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| xAI | ORGANISATION | publie | x-algorithm (release open-source) | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| xAI | ORGANISATION | publie | release x-algorithm du 15 mai 2026 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Home Mixer + Thunder + Phoenix + Grox | TECHNOLOGIE | fait_partie_de | x-algorithm | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Home Mixer | TECHNOLOGIE | utilise | Rust | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Home Mixer | TECHNOLOGIE | dirige | pipeline For You feed (orchestration) | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Thunder | TECHNOLOGIE | permet | lookups sub-ms des posts récents in-network | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Thunder | TECHNOLOGIE | utilise | Kafka | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Phoenix | TECHNOLOGIE | est_basé_sur | Grok-1 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Phoenix | TECHNOLOGIE | utilise | JAX | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Phoenix | TECHNOLOGIE | prédit | 19 actions par candidat | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | Phoenix | TECHNOLOGIE | utilise | candidate-isolation attention | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Phoenix retrieval | TECHNOLOGIE | utilise | two-tower model | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Grox | TECHNOLOGIE | fonctionne | offline (hors hot path) | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Grox | TECHNOLOGIE | écrit_vers | feature store | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| multimodal_post_embedder_v5 | TECHNOLOGIE | encode | text + images + ASR transcript video | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| multimodal_post_embedder_v5 | TECHNOLOGIE | produit | embedding normalisé 1024-dim | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Weighted Scorer | TECHNOLOGIE | calcule | Σ (weight × P(action)) sur 19 actions | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| OON Scorer | TECHNOLOGIE | applique | multiplicateur OON_WEIGHT_FACTOR < 1 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Author Diversity Scorer | TECHNOLOGIE | applique | (1-floor) × decay_factor^position + floor | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| vqv_score | CONCEPT | est_gated_par | MIN_VIDEO_DURATION_MS (hard gate) | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| NEGATIVE_FEEDBACK_INDICES | CONCEPT | contient | [14, 15, 16, 17] = not_interested block mute report | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| dwell_time (continuous) | CONCEPT | est_nouveau_first_class_signal_vs | 2023 algorithm | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| follow_author_score | CONCEPT | est_nouveau_first_class_signal_vs | 2023 algorithm | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| share_via_dm + share_via_copy_link | CONCEPT | sont_signaux_distincts_de | share standard | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| x-algorithm 2026 | TECHNOLOGIE | a_éliminé | toutes hand-engineered features | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Phoenix transformer | TECHNOLOGIE | apprend_à_partir_de | user action sequence | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Phoenix scores | CONCEPT | sont | per-user per-post (pas globaux) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| "going viral" | CONCEPT | est | population-level outcome de prédictions personnelles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| params.rs | TECHNOLOGIE | est_absent_de | release open-source x-algorithm | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| FAVORITE_WEIGHT, REPLY_WEIGHT etc. | CONCEPT | sont_gérés_par | feature-switch service interne X | CONCEPT | 0.95 | DYNAMIQUE | inféré |
-| rapport interne | CONCEPT | affirme_que | quiconque cite des magnitudes de poids 2026 fabrique des chiffres | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
-| AuthorSocialgraphFilter | TECHNOLOGIE | filtre | blocks dans les deux sens incluant auteur cité du quote tweet | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Grox classifiers | TECHNOLOGIE | excluent_eligibility | au lieu de démotion (changement vs 2023) | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| eligibility-time exclusion | CONCEPT | est_silencieuse_pour | le créateur (no signal) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | recommande | action-targeted content design (1 action cible par post) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | recommande | author distribution playbook (multi-account amplification) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | recommande | subtitler les vidéos pour l'ASR path (pas seulement le viewer) | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | recommande | 70/30 split topical core / exploratory | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | affirme_que | in-network is multiplicative OON is additive | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| rapport interne | CONCEPT | affirme_que | the model's job is to predict you not reward you | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Phoenix checkpoint released | TECHNOLOGIE | est | mini model (2 layers, 4 heads, 256-dim) | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Phoenix checkpoint released | TECHNOLOGIE | a_été_entraîné_sur | corpus 537K posts sports | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| candidate_features.rs / user_features.rs | TECHNOLOGIE | contiennent | panic!("Not implemented: to_thrift for ...") stubs | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| brand-safety lists + topic ID mappings + language penalties + ad blending | CONCEPT | sont_absentes_de | release open-source | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| home-mixer/ads/ module | TECHNOLOGIE | a_été_ajouté_le | 15 mai 2026 | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
-| home-mixer/ads/ module | TECHNOLOGIE | implémente | brand-safety tracking | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| author diversity decay | METHODOLOGIE | implique | cadence optimale non-monotone en post count | CONCEPT | 0.95 | ATEMPOREL | inféré |
-| mute ou block utilisateur | CONCEPT | impacte | tous posts futurs vers cet utilisateur (cumulatif) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| new users (jeune compte + min following) | PERSONNE | bénéficient_de | NEW_USER_OON_WEIGHT_FACTOR (différent de OON standard) | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| rapport x-algorithm 2026 | CONCEPT | converge_avec | démantèlement narratif jobpocalypse [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] | CONCEPT | 0.90 | DYNAMIQUE | inféré |
-| rapport x-algorithm 2026 | CONCEPT | documente_mécanique_de | AI populism + algorithmic information shaping [[wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08]] | CONCEPT | 0.89 | DYNAMIQUE | inféré |
+| Grox | TECHNOLOGIE | est_instance_de | service offline (hors hot path) | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Grox | TECHNOLOGIE | utilise | feature store (écriture) | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| multimodal_post_embedder_v5 | TECHNOLOGIE | utilise | text + images + ASR transcript video | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| multimodal_post_embedder_v5 | TECHNOLOGIE | permet | embedding normalisé 1024-dim | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Weighted Scorer | TECHNOLOGIE | utilise | formule Σ (weight × P(action)) sur 19 actions | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| OON Scorer | TECHNOLOGIE | utilise | multiplicateur OON_WEIGHT_FACTOR < 1 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Author Diversity Scorer | TECHNOLOGIE | utilise | (1-floor) × decay_factor^position + floor | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| vqv_score | CONCEPT | est_basé_sur | MIN_VIDEO_DURATION_MS (hard gate) | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| [14, 15, 16, 17] = not_interested block mute report | CONCEPT | fait_partie_de | NEGATIVE_FEEDBACK_INDICES | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| x-algorithm 2026 | TECHNOLOGIE | utilise | dwell_time continu comme signal first-class (nouveau vs 2023) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| x-algorithm 2026 | TECHNOLOGIE | utilise | follow_author_score comme signal first-class (nouveau vs 2023) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| share_via_dm + share_via_copy_link | CONCEPT | est_variante_de | share standard (signaux distincts) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| x-algorithm 2026 | TECHNOLOGIE | remplace | features hand-engineered (toutes éliminées) | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Phoenix transformer | TECHNOLOGIE | est_basé_sur | user action sequence (apprentissage) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Phoenix scores | CONCEPT | est_instance_de | scores per-user per-post (pas globaux) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| "going viral" | CONCEPT | est_instance_de | population-level outcome de prédictions personnelles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | affirme_que | params.rs (valeurs des poids) est absent du release open-source | AFFIRMATION | 0.99 | STATIQUE | déclaré_article |
+| X | ORGANISATION | utilise | feature-switch service interne pour gérer FAVORITE_WEIGHT, REPLY_WEIGHT etc. | TECHNOLOGIE | 0.95 | DYNAMIQUE | inféré |
+| rapport interne | DOCUMENT | affirme_que | quiconque cite des magnitudes de poids 2026 fabrique des chiffres | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| AuthorSocialgraphFilter | TECHNOLOGIE | s_applique_à | blocks dans les deux sens incluant auteur cité du quote tweet | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Grox classifiers | TECHNOLOGIE | remplace | démotion 2023 par exclusion eligibility-time | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| rapport interne | DOCUMENT | affirme_que | l'exclusion eligibility-time est silencieuse pour le créateur (no signal) | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | recommande | action-targeted content design (1 action cible par post) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | recommande | author distribution playbook (multi-account amplification) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | recommande | subtitler les vidéos pour l'ASR path (pas seulement le viewer) | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | recommande | 70/30 split topical core / exploratory | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | affirme_que | in-network is multiplicative, OON is additive | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| rapport interne | DOCUMENT | affirme_que | the model's job is to predict you, not reward you | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Phoenix checkpoint released | TECHNOLOGIE | est_instance_de | mini model (2 layers, 4 heads, 256-dim) | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Phoenix checkpoint released | TECHNOLOGIE | est_basé_sur | corpus 537K posts sports (entraînement) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| panic!("Not implemented: to_thrift for ...") stubs | CONCEPT | fait_partie_de | candidate_features.rs / user_features.rs | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| rapport interne | DOCUMENT | affirme_que | brand-safety lists, topic ID mappings, language penalties et ad blending sont absents du release | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| home-mixer/ads/ module | TECHNOLOGIE | fait_partie_de | release x-algorithm du 15 mai 2026 | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
+| home-mixer/ads/ module | TECHNOLOGIE | permet | brand-safety tracking | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| author diversity decay | METHODOLOGIE | soutient | cadence optimale non-monotone en post count | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| mute ou block utilisateur | CONCEPT | réduit | reach de tous les posts futurs vers cet utilisateur (cumulatif) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| NEW_USER_OON_WEIGHT_FACTOR | CONCEPT | s_applique_à | nouveaux comptes (jeune compte + min following) | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| rapport x-algorithm 2026 | DOCUMENT | converge_avec | démantèlement narratif jobpocalypse [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| rapport x-algorithm 2026 | DOCUMENT | converge_avec | AI populism + algorithmic information shaping [[wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08]] (documentation de la mécanique) | CONCEPT | 0.89 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -330,4 +330,4 @@ Le 15 mai 2026, xAI publie en open-source `xai-org/x-algorithm`, l'algorithme **
 | Author distribution playbook | METHODOLOGIE | définition | Recommandation : audit cadence vs author-diversity decay, remplacer stacked single-account drumbeats par multi-account amplification (brand + employés) — chaque post entre au position=0 pour son auteur | AJOUT |
 | 70/30 topical core / exploratory split | METHODOLOGIE | définition | Recommandation : 70% du contenu sur un core topical cohérent (densité d'embedding-neighborhood avec audience cible), 30% exploratoire pour découvrir nouvelles audiences sans diluer l'embedding | AJOUT |
 | OON-to-Thunder conversion | CONCEPT | définition | Reframing : acquérir un follower convertit le posting de probabilistic OON retrieval en deterministic Thunder lookup pour cet utilisateur — multiplicative future reach sur tous les posts futurs | AJOUT |
-| rapport interne x-algorithm growth | CONCEPT | rôle | Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques | AJOUT |
+| rapport interne x-algorithm growth | DOCUMENT | rôle | Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques | AJOUT |

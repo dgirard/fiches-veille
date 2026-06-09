@@ -9,51 +9,46 @@
 
 ## Relations (comme sujet)
 
-### a_découvert
-
-- [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
-
-### a_défini
+### a_créé
 
 - [[kb/_entites-mineures#Trifecta-Mortelle\|Trifecta Mortelle]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
 
-### a_préempté
+### affirme_que
+
+- « le vibe coding est une force démocratisatrice » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
+- « Claude Skills surpasseront MCP » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
+
+### prédit
 
 - [[kb/_entites-mineures#annonce-officielle-Anthropic-des-Skills\|annonce officielle Anthropic des Skills]] (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
+- [[kb/_entites-mineures#explosion-cambrienne-des-Skills\|explosion cambrienne des Skills]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
-### a_publié
+### publie
 
 - [[kb/_entites-mineures#simonw-claude-skills\|simonw/claude-skills]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 
-### affirme_que
+### référence
 
-- [[kb/_entites-mineures#vibe-coding-est-une-force-démocratisatrice\|vibe coding est une force démocratisatrice]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
-- [[kb/_entites-mineures#Claude-Skills-surpasseront-MCP\|Claude Skills surpasseront MCP]] (CONCEPT) — 0.92, ATEMPOREL
-  - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
-
-### définit
-
-- [[kb/Vibe-Coding\|vibe coding]] (CONCEPT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
+- [[kb/vibe-coding\|vibe coding]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
 
-### prédit
+### s_inspire_de
 
-- [[kb/_entites-mineures#explosion-cambrienne-des-Skills\|explosion cambrienne des Skills]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
+- [[kb/Jesse-Vincent\|Jesse Vincent]] (PERSONNE) — 0.92, STATIQUE
+  - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 
 ### utilise
 
 - [[kb/_entites-mineures#test-pelican-sur-vélo\|test pelican sur vélo]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
-
-## Relations (comme objet)
-
-- [[kb/Jesse-Vincent\|Jesse Vincent]] **a_inspiré** → Simon Willison — 0.92
 
 ## Fiches sources
 

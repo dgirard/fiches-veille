@@ -52,17 +52,17 @@ La conclusion dégage la vraie opportunité : créer un **cycle vertueux** où l
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Tony Seale | PERSONNE | affirme_que | philosophie mange l'IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| philosophie | CONCEPT | guide | raisonnement IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| noyau ontologique | CONCEPT | définit | identité entreprise | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Tony Seale | PERSONNE | affirme_que | la philosophie mange l'IA | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| philosophie | CONCEPT | s_applique_à | raisonnement IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| identité entreprise | CONCEPT | est_basé_sur | noyau ontologique | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | ontologie | CONCEPT | permet | raisonnement machine sur sémantique métier | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Semantic Data Products | METHODOLOGIE | est_basé_sur | DPROD | TECHNOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Semantic Data Products | METHODOLOGIE | crée | knowledge graph distribué prêt pour IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Michael Schrage | PERSONNE | a_publié | question philosophie mange IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| David Kiron | PERSONNE | a_publié | question philosophie mange IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Semantic Data Products | METHODOLOGIE | permet | knowledge graph distribué prêt pour IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Michael Schrage | PERSONNE | publie | question philosophie mange IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| David Kiron | PERSONNE | publie | question philosophie mange IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | MIT Sloan | ORGANISATION | publie | réflexion philosophie et IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | noyau ontologique | CONCEPT | améliore | pertinence modèles IA | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| IA | TECHNOLOGIE | aide_à_définir | ontologie organisationnelle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | permet | définition de l'ontologie organisationnelle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | absence ontologie | CONCEPT | réduit | qualité apprentissage IA | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 
 ### Entités

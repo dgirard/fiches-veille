@@ -19,11 +19,11 @@ AI agents catalog, use cases, production agents, HR agents, marketing agents, ba
 Lyzr AI
 
 ## Ton
-**Profil:** Product Showcase-Catalog | Troisième personne marketing | Demonstrative-Pragmatic | Business-Technical
+**Profil:** Vitrine produit-catalogue | Troisième personne marketing | Démonstratif-pragmatique | Business-technique
 
-Lyzr adopte product showcase voice mêlant marketing pragmatique et technical credibility. Structure catalog systematique (category → industry → complexity) révèle enterprise product thinking. Format uniform chaque agent (description concise + benefits bullet + complexity level + client logo) typique B2B SaaS showcases. Tone confidence-driven sans oversell : stats concrètes (1M+ agents production, 100+ enterprise customers, <1 month time-to-production) établissent track record. Blurred logos strategic : protège client confidentiality tout en signalant enterprise adoption. Agent names descriptifs functional (HR Help Desk, Exit Interview, Teller Assistant) vs branded évitent marketing fluff. Categories mapping business functions universelles (HR, Marketing, Finance) + industries verticales (Banking, Healthcare, Insurance) facilitate buyer persona navigation. Typique enterprise AI vendors (UiPath, Automation Anywhere, Microsoft Power Platform) démontrant breadth capabilities via use case galleries visant decision-makers seeking proof points.
+Lyzr adopte une voix de vitrine produit mêlant marketing pragmatique et crédibilité technique. La structure systématique du catalogue (catégorie → industrie → complexité) révèle une pensée produit orientée entreprise. Le format uniforme de chaque agent (description concise + bénéfices en puces + niveau de complexité + logo client) est typique des vitrines B2B SaaS. Le ton est assuré sans survente : des statistiques concrètes (1M+ agents en production, 100+ clients entreprise, moins d'un mois jusqu'à la production) établissent le bilan. Les logos floutés sont stratégiques : ils protègent la confidentialité des clients tout en signalant l'adoption entreprise. Les noms d'agents descriptifs et fonctionnels (HR Help Desk, Exit Interview, Teller Assistant) évitent le verbiage marketing. Les catégories couvrent des fonctions métier universelles (RH, Marketing, Finance) et des verticales sectorielles (Banque, Santé, Assurance) pour faciliter la navigation par persona d'acheteur. Démarche typique des éditeurs d'IA d'entreprise (UiPath, Automation Anywhere, Microsoft Power Platform) qui démontrent l'étendue de leurs capacités via des galeries de cas d'usage visant des décideurs en quête de preuves.
 
-## Pense-bêtes
+## Pense-betes
 
 **Statistiques Lyzr AI**
 - **Time-to-production** : <1 mois
@@ -51,44 +51,44 @@ Lyzr adopte product showcase voice mêlant marketing pragmatique et technical cr
 - **Others** : 6 agents (Research Assistant 4K+ assets, Deep Research, Resource Allocation, Legal x2, Ticket Booking)
 
 **Patterns agents haute complexité (High)**
-- Tous nécessitent multi-step reasoning ou domain expertise profonde
-- Examples : Full Diagnosis (medical specialties), Corporate Banking Insights (document analysis), Teller Assistant (banking operations), Legal Outcome Predictor, FDA Compliance, Pitch Deck Evaluator
-- Souvent regulated industries (Healthcare, Banking, Legal)
+- Tous nécessitent un raisonnement multi-étapes ou une expertise métier profonde
+- Exemples : Full Diagnosis (spécialités médicales), Corporate Banking Insights (analyse documentaire), Teller Assistant (opérations bancaires), Legal Outcome Predictor, FDA Compliance, Pitch Deck Evaluator
+- Souvent dans des industries réglementées (Santé, Banque, Juridique)
 
 **Patterns agents basse complexité (Low)**
-- Tâches bien définies, outputs structurés
-- Examples : Multi-Channel Support, AI Image Generator, Customer Reengagement (WhatsApp), Customer Refund, Ticket Booking
-- Automation straightforward workflows
+- Tâches bien définies, sorties structurées
+- Exemples : Multi-Channel Support, AI Image Generator, Customer Reengagement (WhatsApp), Customer Refund, Ticket Booking
+- Automatisation de workflows simples
 
-**Banking/BFSI dominant verticale**
-- 8 agents total spanning : Commercial Banking, Corporate Banking, Teller Operations, Customer Onboarding KYC, Pitch Deck Evaluation, Startup Applications, Investment Memos, Credit Analysis
-- Reflect high ROI automation regulated processes + document-heavy workflows
+**Banque/BFSI verticale dominante**
+- 8 agents au total couvrant : banque commerciale, banque d'entreprise, opérations de guichet, onboarding client KYC, évaluation de pitch decks, candidatures de startups, mémos d'investissement, analyse crédit
+- Reflète le fort ROI de l'automatisation des processus réglementés et des workflows riches en documents
 
-**Healthcare agents focus clinical support**
-- Full Diagnosis : patient symptoms → evidence-based recommendations multi-specialties
-- ER Cardiology : real-time complex report summarization physicians
-- FDA Compliance : draft document review, keyword insertion, compliance revision
-- Tous Medium-High complexity, accent reducing clinician time + improving accuracy
+**Agents santé centrés support clinique**
+- Full Diagnosis : symptômes patient → recommandations fondées sur les preuves, multi-spécialités
+- ER Cardiology : synthèse en temps réel de rapports complexes pour les médecins
+- FDA Compliance : revue de brouillons, insertion de mots-clés, révision de conformité
+- Tous de complexité Medium-High, accent mis sur la réduction du temps clinicien et l'amélioration de la précision
 
-**Marketing automation spectrum**
-- Content creation (YouTube Shorts, AI Image Generator) : Low-Medium
-- Workflow orchestration (Content Workflow Assistant AirAsia) : Medium - ideation → SEO → drafting → formatting → tagging
-- Specialized (OCR, Product Recommendations, Video Avatar) : Medium-High
+**Spectre de l'automatisation marketing**
+- Création de contenu (YouTube Shorts, AI Image Generator) : Low-Medium
+- Orchestration de workflow (Content Workflow Assistant AirAsia) : Medium - idéation → SEO → rédaction → mise en forme → étiquetage
+- Spécialisés (OCR, recommandations produits, avatar vidéo) : Medium-High
 
-**Customer engagement dual approach**
-- Reactive support (Multi-Channel, 24/7, Onboarding) : Low-Medium
-- Proactive re-engagement (Voice calls, WhatsApp notifications) : Medium-Low
-- Pattern : escalation to humans + knowledge base feedback loops
+**Engagement client : double approche**
+- Support réactif (Multi-Channel, 24/7, Onboarding) : Low-Medium
+- Ré-engagement proactif (appels vocaux, notifications WhatsApp) : Medium-Low
+- Pattern : escalade vers les humains + boucles de rétroaction vers la base de connaissances
 
-**Finance/VC workflow acceleration**
-- Deal flow (Pitch Deck Eval, Startup Applications) : High complexity standardizing subjective criteria
-- Documentation (Investment Memo, Credit Tear Sheet) : Medium complexity structured output generation
-- Research (Company Finder, Research Agent) : Medium complexity data synthesis
+**Accélération des workflows Finance/VC**
+- Flux d'affaires (Pitch Deck Eval, Startup Applications) : complexité High, standardisation de critères subjectifs
+- Documentation (Investment Memo, Credit Tear Sheet) : complexité Medium, génération de sorties structurées
+- Recherche (Company Finder, Research Agent) : complexité Medium, synthèse de données
 
-**Legal agents document-centric**
-- Document Extraction Litigation : Medium - key facts/clauses/references
-- Legal Outcome Predictor : High - ongoing case tracking, outcome insights
-- Both address time-intensive manual review bottlenecks
+**Agents juridiques centrés documents**
+- Document Extraction Litigation : Medium - faits clés/clauses/références
+- Legal Outcome Predictor : High - suivi de dossiers en cours, prévisions d'issue
+- Les deux répondent aux goulets d'étranglement de la revue manuelle chronophage
 
 **Super Agents mentionnés**
 - **Diane** : HR specialist
@@ -104,39 +104,39 @@ Lyzr adopte product showcase voice mêlant marketing pragmatique et technical cr
 
 ## RésuméDe400mots
 
-Lyzr AI présente via son Agent Tracker un catalogue vivant de 34 agents IA déployés en production chez clients enterprise, démontrant breadth capabilities plateforme tout en établissant proof points concrets time-to-production <1 mois et scale 1M+ agents production.
+Lyzr AI présente via son Agent Tracker un catalogue vivant de 34 agents IA déployés en production chez des clients entreprise, démontrant l'étendue des capacités de la plateforme tout en établissant des preuves concrètes : moins d'un mois jusqu'à la production et une échelle de plus d'un million d'agents en production.
 
-**Distribution stratégique complexité et use cases**
+**Distribution stratégique de la complexité et des cas d'usage**
 
-Catalogue révèle distribution thoughtful : 21% agents Low complexity (tâches bien définies : Multi-Channel Support, AI Image Generator, WhatsApp Re-engagement, Ticket Booking), 53% Medium complexity (workflows orchestrés : Content Workflow Assistant AirAsia, Research Assistant 4K+ assets, ER Cardiology Summarization), 26% High complexity (deep domain expertise : Full Diagnosis multi-specialties, Legal Outcome Predictor, FDA Compliance, Pitch Deck Evaluator). Pattern émergent : High complexity agents concentrés regulated industries (Healthcare, Banking, Legal) nécessitant multi-step reasoning et compliance rigor.
+Le catalogue révèle une distribution réfléchie : 21% d'agents de complexité Low (tâches bien définies : Multi-Channel Support, AI Image Generator, ré-engagement WhatsApp, Ticket Booking), 53% de complexité Medium (workflows orchestrés : Content Workflow Assistant d'AirAsia, Research Assistant sur 4 000+ actifs, synthèse ER Cardiology), 26% de complexité High (expertise métier profonde : Full Diagnosis multi-spécialités, Legal Outcome Predictor, FDA Compliance, Pitch Deck Evaluator). Pattern émergent : les agents de haute complexité se concentrent dans les industries réglementées (Santé, Banque, Juridique) qui exigent un raisonnement multi-étapes et une rigueur de conformité.
 
-**Verticales industry dominantes**
+**Verticales sectorielles dominantes**
 
-Banking/BFSI émerge verticale dominante avec 8 agents spanning commercial banking (POC evaluation, corporate insights extraction), retail operations (Teller Assistant routine deposits/withdrawals/inquiries), customer journey (Onboarding KYC automation), et financial services (Pitch Deck Evaluation, Startup Applications, Investment Memos, Credit Tear Sheets). Reflect high ROI automation document-heavy regulated processes.
+La banque/BFSI émerge comme verticale dominante avec 8 agents couvrant la banque commerciale (évaluation de POC, extraction d'insights d'entreprise), les opérations de détail (Teller Assistant pour dépôts/retraits/demandes courantes), le parcours client (automatisation de l'onboarding KYC) et les services financiers (évaluation de pitch decks, candidatures de startups, mémos d'investissement, fiches de crédit). Cela reflète le fort ROI de l'automatisation des processus réglementés riches en documents.
 
-Healthcare agents focus clinical support : Full Diagnosis (symptoms → evidence-based treatment recommendations multi-specialties), ER Cardiology (real-time complex report summarization physicians), FDA Compliance (draft review keyword insertion compliance revision). Tous Medium-High complexity, accent reducing clinician manual review time + improving diagnostic accuracy.
+Les agents santé se concentrent sur le support clinique : Full Diagnosis (symptômes → recommandations thérapeutiques fondées sur les preuves, multi-spécialités), ER Cardiology (synthèse en temps réel de rapports complexes pour médecins), FDA Compliance (revue de brouillons, insertion de mots-clés, révision de conformité). Tous de complexité Medium-High, avec l'accent sur la réduction du temps de revue manuelle des cliniciens et l'amélioration de la précision diagnostique.
 
-**Marketing automation spectrum large**
+**Large spectre d'automatisation marketing**
 
-Marketing agents span content creation basics (YouTube Shorts Accenture, AI Image Generator Low complexity) à workflow orchestration sophistiqué (Content Workflow Assistant AirAsia Medium : ideation → SEO research → drafting → formatting → image tagging, human input only where adds value). Specialized agents (OCR structured data extraction, Product Recommendations personalization, Video Avatar personalized quotes Insurance) Medium-High.
+Les agents marketing vont de la création de contenu de base (YouTube Shorts pour Accenture, AI Image Generator en complexité Low) à l'orchestration sophistiquée de workflows (Content Workflow Assistant d'AirAsia en Medium : idéation → recherche SEO → rédaction → mise en forme → étiquetage d'images, l'humain n'intervenant que là où il apporte de la valeur). Les agents spécialisés (extraction de données structurées par OCR, personnalisation de recommandations produits, avatar vidéo pour devis personnalisés en assurance) sont en Medium-High.
 
-**Customer engagement dual approach**
+**Engagement client en double approche**
 
-Customer Service split reactive support (Multi-Channel chat/voice/email/SMS, 24/7 Support escalation + knowledge base feedback, Onboarding KYC Banking) et proactive re-engagement (Voice calls drive enrollment, WhatsApp notifications drop-off recovery). Pattern consistent : intelligent escalation humans + continuous learning knowledge base.
+Le service client se partage entre support réactif (Multi-Channel chat/voix/email/SMS, support 24/7 avec escalade et retour vers la base de connaissances, onboarding KYC bancaire) et ré-engagement proactif (appels vocaux pour les inscriptions, notifications WhatsApp pour récupérer les abandons). Pattern constant : escalade intelligente vers les humains et apprentissage continu de la base de connaissances.
 
-**Finance/VC deal flow acceleration**
+**Accélération du flux d'affaires Finance/VC**
 
-Finance agents address VC/PE workflows : Deal flow standardization (Pitch Deck Eval, Startup Applications High complexity standardizing subjective investor-readiness criteria), Documentation generation (Investment Memo, Credit Tear Sheet Medium structured outputs), Research synthesis (Company Finder financial datasets, Research Agent trusted sources Medium).
+Les agents finance ciblent les workflows VC/PE : standardisation du flux d'affaires (Pitch Deck Eval, Startup Applications en High, standardisant des critères subjectifs de maturité), génération documentaire (Investment Memo, Credit Tear Sheet en Medium), synthèse de recherche (Company Finder sur jeux de données financiers, Research Agent sur sources fiables, en Medium).
 
-**Clients proof points**
+**Clients comme preuves**
 
-Meesho (HR Help Desk Travel), Accenture (YouTube Shorts Media), AirAsia (Content Workflow Travel) publicly named. Autres blurred logos strategic protecting confidentiality tout en signaling enterprise adoption breadth.
+Meesho (HR Help Desk, voyage), Accenture (YouTube Shorts, médias), AirAsia (Content Workflow, voyage) sont nommés publiquement. Les autres logos floutés protègent la confidentialité tout en signalant l'étendue de l'adoption entreprise.
 
-**Platform proposition Super Agents**
+**Proposition plateforme et Super Agents**
 
-Six Super Agents spécialisés (Diane HR, Jeff Support, Skott Marketing, Jazon Sales, Amadeo Banking, Benjie Insurance) suggest pre-configured domain experts. Agent Studio emphasizes no-code build, Responsible AI guardrails, Hallucination management, Knowledge graph orchestration.
+Six Super Agents spécialisés (Diane RH, Jeff Support, Skott Marketing, Jazon Ventes, Amadeo Banque, Benjie Assurance) suggèrent des experts métier préconfigurés. Agent Studio met en avant la construction sans code, les garde-fous Responsible AI, la gestion des hallucinations et l'orchestration par graphe de connaissances.
 
-Catalog demonstrates Lyzr positioning : enterprise-ready AI agents production-proven spanning functions/industries, rapid deployment (<1 month), proven scale (1M+ agents, 100+ customers).
+Le catalogue illustre le positionnement de Lyzr : des agents IA prêts pour l'entreprise, éprouvés en production à travers fonctions et industries, à déploiement rapide (<1 mois) et à l'échelle prouvée (1M+ agents, 100+ clients).
 
 ## GrapheDeConnaissance
 
@@ -144,16 +144,16 @@ Catalog demonstrates Lyzr positioning : enterprise-ready AI agents production-pr
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Lyzr AI | ORGANISATION | propose | 34 agents IA en production | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Lyzr AI | ORGANISATION | revendique | 1M+ agents en production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Lyzr AI | ORGANISATION | déploie_en | moins d'un mois | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | publie | catalogue de 34 agents IA en production | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | mesure | 1M+ agents en production | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | mesure | temps jusqu'à la production inférieur à un mois | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 | Meesho | ORGANISATION | utilise | HR Help Desk agent | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Accenture | ORGANISATION | utilise | YouTube to Shorts Generator | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | AirAsia | ORGANISATION | utilise | Content Workflow Assistant | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| agents haute complexité | CONCEPT | se_concentrent_dans | industries réglementées | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| Banking/BFSI | CONCEPT | est | verticale dominante catalogue | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| agents haute complexité | CONCEPT | observé_dans | industries réglementées | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Banking/BFSI | CONCEPT | est_instance_de | verticale dominante catalogue | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Agent Studio | TECHNOLOGIE | permet | construction agents sans code | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Lyzr AI | ORGANISATION | sert | 100+ clients enterprise | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Lyzr AI | ORGANISATION | mesure | 100+ clients enterprise | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

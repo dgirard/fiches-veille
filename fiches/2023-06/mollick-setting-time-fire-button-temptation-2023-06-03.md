@@ -19,11 +19,11 @@ The Button, Help me write, Google Docs, Bard, GPT-4, crise de sens, setting time
 Ethan Mollick
 
 ## Ton
-**Profil:** Academic-Thought-Leadership | Première personne réflexive | Analytique-Provocatrice | Intermédiaire-Accessible
+**Profil** : Thought leadership académique, première personne réflexive, registre analytique-provocateur, niveau intermédiaire accessible.
 
-Mollick (Wharton professor) adopte provocative thought leadership voice explorant implications philosophiques et organisationnelles de l'IA générative au travail. Structure narrative conceptuelle ("Setting time on fire", "The Button", "crisis of meaning") demonstrates academic storytelling accessible au grand public. Langage organizational behavior scholar (signaling, mere ceremony, job satisfaction research) mêlé à exemples concrets (recommendation letters, performance reviews) crée bridge entre théorie et pratique. Tone simultaneously alarmed et optimistic typical Mollick balancing real concerns avec empowering outcomes. Personal admission ("I am still doing all my letters the old-fashioned way, but I wonder whether that will ultimately do my students a disservice") reveals authentic grappling avec dilemmes éthiques. Typique One Useful Thing Substack thought leaders (Mollick, Casey Newton, Platformer) combinant academic rigor avec accessible prose visant broad professional audience cherchant sense-making autour transformations technologiques.
+**Description** : Mollick (professeur à Wharton) adopte une voix de leader d'opinion provocateur explorant les implications philosophiques et organisationnelles de l'IA générative au travail. La structure narrative conceptuelle (« Setting time on fire », « The Button », « crise de sens ») illustre un storytelling académique accessible au grand public. Le langage du chercheur en comportement organisationnel (signalement, « mere ceremony », recherche sur la satisfaction au travail) mêlé à des exemples concrets (lettres de recommandation, évaluations de performance) crée un pont entre théorie et pratique. Le ton, à la fois alarmé et optimiste, est typique de Mollick, qui équilibre des inquiétudes réelles avec des issues émancipatrices. L'aveu personnel (« I am still doing all my letters the old-fashioned way, but I wonder whether that will ultimately do my students a disservice ») révèle une confrontation authentique aux dilemmes éthiques. Format caractéristique des leaders d'opinion sur Substack (One Useful Thing) combinant rigueur académique et prose accessible, visant un large public professionnel en quête de sens face aux transformations technologiques.
 
-## Pense-bêtes
+## Pense-betes
 - **"The Button"** : Google Docs "Help me write" - tentation irrésistible de générer premiers drafts avec IA
 - **Microsoft Office intégrera bientôt** même capacité - adoption massive inévitable
 - **Setting time on fire** : travail chronophage by design comme signal d'effort et d'engagement
@@ -77,21 +77,21 @@ Cette transformation ne nécessite aucune IA plus avancée que celle existant en
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | publie | Setting time on fire and the temptation of The Button | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | intègre | Help me write | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | Setting time on fire and the temptation of The Button | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Help me write | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Help me write | TECHNOLOGIE | utilise | Bard | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Microsoft Office | TECHNOLOGIE | intègre | GPT-4 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| GPT-4 | TECHNOLOGIE | génère | lettre de recommandation | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| The Button | CONCEPT | provoque | crise de sens | CONCEPT | 0.95 | ATEMPOREL | inféré |
-| setting time on fire | CONCEPT | représente | signal d'effort | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Microsoft Office | TECHNOLOGIE | utilise | GPT-4 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| GPT-4 | TECHNOLOGIE | permet | génération de lettres de recommandation en secondes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| The Button | CONCEPT | permet | crise de sens | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| setting time on fire | CONCEPT | est_instance_de | signal d'effort | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | IA générative | TECHNOLOGIE | remplace | signal d'effort écrit | CONCEPT | 0.94 | DYNAMIQUE | inféré |
-| Noy and Zhang | ORGANISATION | publie | recherche satisfaction travail IA | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
-| utilisation IA au travail | METHODOLOGIE | augmente | satisfaction au travail | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Noy and Zhang | PERSONNE | publie | recherche satisfaction travail IA | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
+| utilisation IA au travail | METHODOLOGIE | améliore | satisfaction au travail | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | mere ceremony | CONCEPT | est_basé_sur | tâches organisationnelles sans utilité | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| IA générative | TECHNOLOGIE | transforme | documents comme signaux | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | réduit | valeur des documents comme signaux | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | prédit | crise de sens au travail | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Adobe Photoshop | TECHNOLOGIE | intègre | IA générative | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| leaders organisationnels | CONCEPT | doivent_redesigner | travail pour monde IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Adobe Photoshop | TECHNOLOGIE | utilise | IA générative | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | redesign du travail par les leaders pour le monde IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -107,5 +107,5 @@ Cette transformation ne nécessite aucune IA plus avancée que celle existant en
 | setting time on fire | CONCEPT | catégorie | Signalement d'effort par le temps consacré | AJOUT |
 | mere ceremony | CONCEPT | catégorie | Tâche organisationnelle sans utilité réelle | AJOUT |
 | crise de sens | CONCEPT | catégorie | Perte de sens du travail face à l'IA | AJOUT |
-| Noy and Zhang | ORGANISATION | catégorie | Chercheurs en économie du travail et IA | AJOUT |
+| Noy and Zhang | PERSONNE | catégorie | Chercheurs en économie du travail et IA | AJOUT |
 | lettre de recommandation | CONCEPT | catégorie | Document signal d'effort et de soutien | AJOUT |

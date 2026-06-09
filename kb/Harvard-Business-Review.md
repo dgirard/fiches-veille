@@ -8,9 +8,9 @@
 
 ## Relations (comme sujet)
 
-### a_publié
+### publie
 
-- [[kb/_entites-mineures#The-Gen-AI-Playbook-for-Organizations\|The Gen AI Playbook for Organizations]] (EVENEMENT) — 0.99, STATIQUE
+- [[kb/_entites-mineures#The-Gen-AI-Playbook-for-Organizations\|The Gen AI Playbook for Organizations]] (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
 
 ## Fiches sources

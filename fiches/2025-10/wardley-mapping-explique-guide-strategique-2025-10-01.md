@@ -89,15 +89,14 @@ Outil non réservé entreprises mais **instrument universel** pour quiconque veu
 | Wardley Mapping | METHODOLOGIE | est_basé_sur | conscience situationnelle | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Wardley Mapping | METHODOLOGIE | utilise | chaîne de valeur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Wardley Mapping | METHODOLOGIE | utilise | évolution Genèse-Marchandise | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Sun Tzu | PERSONNE | a_inspiré | Wardley Mapping | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Simon Wardley | PERSONNE | a_développé | Wardley Mapping | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| évolution Genèse-Marchandise | CONCEPT | suit | mouvement gauche-droite prévisible | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| avantage concurrentiel | CONCEPT | provient_de | composants Genèse et Sur mesure | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | s_inspire_de | Sun Tzu | PERSONNE | 0.92 | STATIQUE | déclaré_article |
+| évolution Genèse-Marchandise | CONCEPT | est_basé_sur | mouvement gauche-droite prévisible | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| avantage concurrentiel | CONCEPT | est_basé_sur | composants Genèse et Sur mesure | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | marchandisation | CONCEPT | permet | émergence d'innovations supérieures | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Wardley Mapping | METHODOLOGIE | améliore | alignement d'équipe | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Wardley Mapping | METHODOLOGIE | facilite | anticipation stratégique | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| YouTube | ORGANISATION | illustre | chaîne de valeur | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| Spotify | TECHNOLOGIE | représente | stade Marchandise | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Wardley Mapping | METHODOLOGIE | permet | anticipation stratégique | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| chaîne de valeur | CONCEPT | observé_dans | YouTube | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Spotify | TECHNOLOGIE | est_instance_de | stade Marchandise | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -111,5 +110,5 @@ Outil non réservé entreprises mais **instrument universel** pour quiconque veu
 | évolution Genèse-Marchandise | CONCEPT | étapes | Genèse → Sur mesure → Produit → Marchandise | AJOUT |
 | avantage concurrentiel | CONCEPT | localisation | Composants positionnés à gauche de la carte (Genèse / Sur mesure) | AJOUT |
 | anticipation stratégique | CONCEPT | mécanisme | Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain | AJOUT |
-| YouTube | ORGANISATION | exemple | Idée vidéo + Contenu = différenciation ; Caméra + Plateforme = marchandise | AJOUT |
+| YouTube | TECHNOLOGIE | exemple | Idée vidéo + Contenu = différenciation ; Caméra + Plateforme = marchandise | AJOUT |
 | Spotify | TECHNOLOGIE | exemple | Service de streaming musical au stade Marchandise | AJOUT |

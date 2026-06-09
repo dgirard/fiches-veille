@@ -1,7 +1,7 @@
 # claude-code-subagents-documentation-anthropic-2025-09-29
 
 ## Veille
-Subagents Claude Code - AI assistants spécialisés - Context management - Task delegation - Documentation Anthropic
+Subagents Claude Code - Assistants IA spécialisés - Gestion du contexte - Délégation de tâches - Documentation Anthropic
 
 ## Titre Article
 Subagents - Claude Docs
@@ -19,9 +19,9 @@ Claude Code, subagents, AI assistants, task-specific workflows, context manageme
 Anthropic (documentation officielle)
 
 ## Ton
-**Profil:** Professionnel-Pédagogique | Instructionnelle | Éducative | Intermédiaire
+**Profil:** Professionnel-pédagogique | Instructionnel | Éducatif | Intermédiaire
 
-Documentation adopte ton technical writing standard équilibrant completeness et accessibility. Structure systematic (Caractéristiques → Configuration → Exemples → Best Practices) guides progressive understanding. Terminologie technique précise (YAML frontmatter, context windows, tool permissions) assume developer audience. Code examples concrets (code reviewer, debugger, data scientist) ground abstract concepts. Langage prescriptif pour best practices ("should", "must", "avoid") provides clear guidance. Formatting soigné avec sections clairement délimitées facilite scanning. Pas de marketing fluff — pure instructional content. Typique developer documentation quality (Stripe, Anthropic docs style) priorisant clarity et practical utility.
+La documentation adopte un ton de rédaction technique standard, équilibrant exhaustivité et accessibilité. La structure systématique (Caractéristiques → Configuration → Exemples → Bonnes pratiques) guide une compréhension progressive. La terminologie technique précise (frontmatter YAML, fenêtres de contexte, permissions d'outils) suppose un public de développeurs. Les exemples de code concrets (relecteur de code, débogueur, data scientist) ancrent les concepts abstraits. Le langage prescriptif pour les bonnes pratiques fournit des consignes claires. La mise en forme soignée, avec des sections clairement délimitées, facilite la lecture en diagonale. Aucun discours marketing — contenu purement instructionnel. Qualité typique de la documentation développeur (style Stripe, docs Anthropic) privilégiant clarté et utilité pratique.
 
 ## Pense-betes
 - **Subagents = AI assistants spécialisés** avec purpose spécifique, context window séparé, outils configurables, system prompt custom
@@ -69,18 +69,18 @@ Les recommandations clés incluent : démarrer avec agents Claude-generated pour
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | publie | documentation subagents Claude Code | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | supporte | subagents | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| subagents | CONCEPT | possèdent | context window séparé | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| subagents | CONCEPT | sont_configurés_via | fichiers Markdown YAML frontmatter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | délègue_tâches_à | subagents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| subagents | CONCEPT | améliore | préservation du contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Plan subagent | TECHNOLOGIE | est_utilisé_par | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Plan subagent | TECHNOLOGIE | fonctionne_en | plan mode | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| subagents | CONCEPT | permettent | chaînage de workflows | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| subagents | CONCEPT | stockés_dans | .claude/agents/ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| MCP Tools | TECHNOLOGIE | accessibles_par | subagents | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| subagents | CONCEPT | peuvent_être_repris_via | agentId | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | documentation subagents Claude Code | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | subagents | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| subagents | TECHNOLOGIE | utilise | context window séparé | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| subagents | TECHNOLOGIE | utilise | fichiers Markdown YAML frontmatter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | permet | délégation de tâches aux subagents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| subagents | TECHNOLOGIE | améliore | préservation du contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Plan subagent | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Plan subagent | TECHNOLOGIE | s_applique_à | plan mode | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| subagents | TECHNOLOGIE | permet | chaînage de workflows | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| subagents | TECHNOLOGIE | observé_dans | répertoire .claude/agents/ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| subagents | TECHNOLOGIE | utilise | MCP Tools | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| subagents | TECHNOLOGIE | utilise | agentId | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -88,8 +88,8 @@ Les recommandations clés incluent : démarrer avec agents Claude-generated pour
 |--------|------|----------|--------|--------|
 | Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
-| subagents | CONCEPT | définition | Assistants IA spécialisés avec context window séparé | AJOUT |
+| subagents | TECHNOLOGIE | définition | Assistants IA spécialisés avec context window séparé | AJOUT |
 | Plan subagent | TECHNOLOGIE | rôle | Sous-agent natif Claude Code pour le plan mode | AJOUT |
-| plan mode | CONCEPT | définition | Mode non-exécution pour planification et recherche codebase | AJOUT |
+| plan mode | METHODOLOGIE | définition | Mode non-exécution pour planification et recherche codebase | AJOUT |
 | MCP Tools | TECHNOLOGIE | catégorie | Outils Model Context Protocol accessibles aux subagents | AJOUT |
 | agentId | CONCEPT | rôle | Identifiant unique permettant reprise de session subagent | AJOUT |

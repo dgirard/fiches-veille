@@ -8,21 +8,21 @@
 
 ## Relations (comme sujet)
 
-### a_migré
+### a_créé
 
-- [[kb/_entites-mineures#cursor.com-du-CMS-vers-Markdown\|cursor.com du CMS vers Markdown]] (EVENEMENT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#migration-cursor.com-du-CMS-vers-Markdown\|migration cursor.com du CMS vers Markdown]] (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Lee Robinson - migration cursor.com CMS vers code agents IA budgets complexité]]
 
 ### affirme_que
 
-- [[kb/_entites-mineures#non-développeurs-pourront-créer-des-logiciels\|non-développeurs pourront créer des logiciels]] (CONCEPT) — 0.96, DYNAMIQUE
+- « les non-développeurs pourront créer des logiciels » (AFFIRMATION) — 0.96, DYNAMIQUE
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]
-- [[kb/_entites-mineures#coût-des-abstractions-avec-IA-est-très-élevé\|coût des abstractions avec IA est très élevé]] (CONCEPT) — 0.92, ATEMPOREL
+- « le coût des abstractions avec l'IA est très élevé » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Lee Robinson - migration cursor.com CMS vers code agents IA budgets complexité]]
 
 ### publie
 
-- [[kb/personal-software\|Personal Software]] (EVENEMENT) — 0.98, STATIQUE
+- [[kb/personal-software\|Personal Software]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]
 
 ### travaille_chez

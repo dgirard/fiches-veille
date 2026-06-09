@@ -1,6 +1,6 @@
 # SecNumCloud
 
-> **Type** : CONCEPT | 5 relations | 1 fiches sources
+> **Type** : CONCEPT | 3 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,29 +8,16 @@
 
 ## Relations (comme sujet)
 
-### exige
+### mesure
 
-- [[kb/_entites-mineures#siège-social-et-capitalisation-européens\|siège social et capitalisation européens]] (CONCEPT) — 0.93, ATEMPOREL
+- « plus de 1 200 exigences vérifiées » (MESURE) — 0.95, ATEMPOREL
   - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
 
-### impose
+### résout
 
-- [[kb/_entites-mineures#localisation-données-UE\|localisation données UE]] (CONCEPT) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#risque-extraterritorial-(CLOUD-Act,-FISA)\|risque extraterritorial (CLOUD Act, FISA)]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
-
-### protège_contre
-
-- [[kb/_entites-mineures#CLOUD-Act-et-FISA\|CLOUD Act et FISA]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
-
-### répond_à
-
-- [[kb/_entites-mineures#2-sur-3-enjeux-souveraineté\|2 sur 3 enjeux souveraineté]] (CONCEPT) — 0.88, ATEMPOREL
-  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
-
-### vérifie
-
-- [[kb/_entites-mineures#plus-de-1200-exigences\|plus de 1200 exigences]] (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#2-des-3-enjeux-de-souveraineté-numérique\|2 des 3 enjeux de souveraineté numérique]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
 
 ## Fiches sources

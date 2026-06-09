@@ -64,19 +64,19 @@ Sur le recrutement, Cherny valorise l'humilité et la pensée first principles p
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_né_comme | terminal chat CLI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Demande latente | CONCEPT | guide | développement produit Claude Code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Bitter Lesson | CONCEPT | influence | architecture Claude Code | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | augmente | productivité ingénieur | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | mesure | +150% productivité par ingénieur | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | prédit | disparition du titre software engineer | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Plan mode | METHODOLOGIE | a_été_codé_en | 30 minutes | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Sonnet 3.5 | TECHNOLOGIE | a_provoqué | moment déclic feel the AGI | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | génère | 90-100% du code chez Cherny | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Essaim d'agents | METHODOLOGIE | a_construit | feature plugins | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | terminal chat CLI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Demande latente | CONCEPT | s_applique_à | développement produit Claude Code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| architecture Claude Code | TECHNOLOGIE | s_inspire_de | Bitter Lesson | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | productivité ingénieur | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | +150% productivité par ingénieur | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | prédit | disparition du titre software engineer | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | a_créé | Plan mode | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Sonnet 3.5 | TECHNOLOGIE | permet | moment déclic feel the AGI | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | mesure | 90-100% du code écrit chez Cherny | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
+| Essaim d'agents | METHODOLOGIE | a_créé | feature plugins | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Co-work | TECHNOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | recommande | construire pour le modèle de dans 6 mois | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | représente | 4% des commits publics mondiaux | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | recommande | construire pour le modèle de dans 6 mois | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | mesure | 4% des commits publics mondiaux | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

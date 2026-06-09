@@ -8,22 +8,22 @@
 
 ## Relations (comme sujet)
 
-### a_cofondé
+### a_créé
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every]]
 
 ### fait_partie_de
 
 - [[kb/_entites-mineures#équipe-fondatrice-Claude-Code\|équipe fondatrice Claude Code]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
+  - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer]]
 
 ### recommande
 
 - [[kb/_entites-mineures#Playwright\|Playwright]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
-  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every]]
 - [[kb/_entites-mineures#Puppeteer\|Puppeteer]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
-  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+  - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every]]
 
 ## Relations (comme objet)
 
@@ -31,5 +31,5 @@
 
 ## Fiches sources
 
-- [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
-- [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Claude Code - Cat Wu & Boris Cherny - Antfooding - Plan Mode - Subagents - Slash Commands - Stop Hooks - Settings.json - Dangerous Mode - AI & I Podcast - Every]]
+- [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer]]
+- [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every]]

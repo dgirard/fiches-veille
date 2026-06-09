@@ -19,9 +19,9 @@ knowledge-graph, gpt, rag, gpt-4, large-language-models, llm, genai, retrieval-a
 Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang (HKUDS - Hong Kong University Data Science)
 
 ## Ton
-**Profil:** Academic-Technical | Institutionnelle research | Descriptive-Technique | Expert
+**Profil** : Académique-technique, voix institutionnelle de recherche, registre descriptif-technique, niveau expert.
 
-HKUDS researchers adoptent ton GitHub repo académique combinant technical documentation et research paper positioning (EMNLP2025 accepted). Langage ML/AI specialized (dual-level retrieval, knowledge graphs, vector storage) vise researchers et practitioners. Structure typical open-source project (README, examples, benchmarks) facilitates adoption. Tone objective technical évitant marketing hype focusing capability demonstration. Typique academic code releases (HuggingFace, Papers with Code style) bridging research contributions avec practical implementation visant ML community.
+**Description** : Les chercheurs de HKUDS adoptent le ton d'un dépôt GitHub académique combinant documentation technique et positionnement de papier de recherche (accepté à EMNLP 2025). Le langage spécialisé ML/IA (dual-level retrieval, knowledge graphs, stockage vectoriel) vise chercheurs et praticiens. La structure typique de projet open source (README, exemples, benchmarks) facilite l'adoption. Le ton technique et objectif évite la hype marketing au profit de la démonstration de capacités. Typique des publications de code académiques (style HuggingFace, Papers with Code) reliant contributions de recherche et implémentation pratique, à destination de la communauté ML.
 
 ## Pense-betes
 - **22k étoiles** GitHub, **3.3k forks**, licence MIT
@@ -77,19 +77,19 @@ Installation flexible via PyPI (`pip install "lightrag-hku[api]"`), depuis sourc
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| LightRAG | TECHNOLOGIE | est_développé_par | HKUDS | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| LightRAG | TECHNOLOGIE | sera_présenté_à | EMNLP2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| HKUDS | ORGANISATION | a_créé | LightRAG | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | observé_dans | EMNLP2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
 | LightRAG | TECHNOLOGIE | utilise | dual-level retrieval | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| dual-level retrieval | CONCEPT | combine | knowledge graphs | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| dual-level retrieval | CONCEPT | combine | bases de données vectorielles | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| LightRAG | TECHNOLOGIE | intègre | RAG-Anything | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| dual-level retrieval | CONCEPT | utilise | knowledge graphs | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| dual-level retrieval | CONCEPT | utilise | bases de données vectorielles | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| LightRAG | TECHNOLOGIE | utilise | RAG-Anything | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | RAG-Anything | TECHNOLOGIE | permet | traitement multimodal | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| LightRAG | TECHNOLOGIE | supporte | Neo4j | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| LightRAG | TECHNOLOGIE | supporte | PostgreSQL | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | utilise | Neo4j | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | utilise | PostgreSQL | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | LightRAG | TECHNOLOGIE | recommande | modèles 32B paramètres minimum | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| LightRAG | TECHNOLOGIE | expose | 6 modes de requête | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| HKUDS | ORGANISATION | publie_sur | GitHub | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| LightRAG | TECHNOLOGIE | obtient | 22k étoiles GitHub | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | permet | 6 modes de requête | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| HKUDS | ORGANISATION | utilise | GitHub | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| LightRAG | TECHNOLOGIE | mesure | 22k étoiles GitHub | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

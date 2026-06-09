@@ -55,17 +55,17 @@ L'article illustre une tendance importante : les modèles spécialisés de taill
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | NuMind | ORGANISATION | a_créé | NuExtract | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| NuExtract | TECHNOLOGIE | effectue | extraction structurée JSON | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | permet | extraction structurée JSON | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | NuExtract-tiny | TECHNOLOGIE | surpasse | GPT-3.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| NuExtract-large | TECHNOLOGIE | atteint_équivalence | GPT-4o | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| NuExtract-large | TECHNOLOGIE | converge_avec | GPT-4o | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | NuExtract | TECHNOLOGIE | est_basé_sur | Llama 3 70B | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | NuExtract | TECHNOLOGIE | utilise | dataset C4 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| NuExtract | TECHNOLOGIE | distribué_sous | licence MIT | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| NuExtract | TECHNOLOGIE | utilise | licence MIT | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | Alexandre Constantin | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Liam Cripwell | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Etienne Bernard | PERSONNE | a_créé | NuExtract | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | NuExtract | TECHNOLOGIE | réduit | coûts d'inférence | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| modèles spécialisés compacts | CONCEPT | rivalise_avec | LLM généralistes | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| modèles spécialisés compacts | CONCEPT | concurrence | LLM généralistes | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

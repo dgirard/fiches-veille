@@ -64,18 +64,18 @@ L'article affirme un shift fondamental du rôle de l'ingénieur : celui-ci ne co
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| OpenAI | ORGANISATION | a_publié | Harness engineering: leveraging Codex in an agent-first world | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | a_produit | 1 million de lignes de code sans écriture manuelle | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | a_généré | 1500 pull requests en 5 mois | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Harness engineering | METHODOLOGIE | repose_sur | Ingénierie de contexte | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Harness engineering | METHODOLOGIE | repose_sur | Contraintes architecturales | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Harness engineering | METHODOLOGIE | repose_sur | Garbage collection | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Contraintes architecturales | CONCEPT | applique | Couches de dépendances Types→Config→Repo→Service→Runtime→UI | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Linters custom | TECHNOLOGIE | injecte | Instructions de correction dans contexte agent | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Garbage collection | CONCEPT | ouvre | PRs de refactoring auto-mergées | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Martin Fowler | PERSONNE | affirme_que | Harness engineering est un cadrage précieux | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | Harness engineering: leveraging Codex in an agent-first world | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | mesure | 1 million de lignes de code produites sans écriture manuelle en 5 mois | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | mesure | 1500 pull requests fusionnées en 5 mois | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Harness engineering | METHODOLOGIE | est_basé_sur | Ingénierie de contexte | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Harness engineering | METHODOLOGIE | est_basé_sur | Contraintes architecturales | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Harness engineering | METHODOLOGIE | est_basé_sur | Garbage collection | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Contraintes architecturales | CONCEPT | utilise | Couches de dépendances Types→Config→Repo→Service→Runtime→UI | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Linters custom | TECHNOLOGIE | permet | Instructions de correction dans contexte agent | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Garbage collection | CONCEPT | permet | PRs de refactoring auto-mergées | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Martin Fowler | PERSONNE | affirme_que | Harness engineering est un cadrage précieux | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Codex | TECHNOLOGIE | utilise | GPT-5 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Rôle de l'ingénieur | CONCEPT | se_transforme_en | Conception d'environnements pour agents | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Conception d'environnements pour agents | CONCEPT | remplace | écriture manuelle de code par l'ingénieur | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 
 ### Entités
 

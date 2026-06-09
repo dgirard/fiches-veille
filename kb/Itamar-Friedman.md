@@ -10,7 +10,7 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#qualité-IA-dépend-80%-du-contexte\|qualité IA dépend 80% du contexte]] (CONCEPT) — 0.85, STATIQUE
+- « la qualité IA dépend à 80% du contexte » (AFFIRMATION) — 0.85, STATIQUE
   - [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|QodoAI (Codium) - AI Code Quality - Code Review Agents - Context Engine - SDLC Automation]]
 
 ### dirige

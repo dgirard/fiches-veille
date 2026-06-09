@@ -225,29 +225,29 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | affirme_que | "coding is solved" | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | n_a_pas_écrit | une ligne de code en 2026 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | a_atteint | 150 PRs en une journée (record) | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Anthropic Labs | ORGANISATION | a_créé | Claude Code, MCP, app desktop | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | "coding is solved" | CITATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | il n'a pas écrit une seule ligne de code en 2026 | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | mesure | 150 PRs en une journée (record) | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic Labs | ORGANISATION | a_créé | Claude Code, MCP, app desktop | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Mike Krieger | PERSONNE | dirige | round 2 Anthropic Labs | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Opus 4 | TECHNOLOGIE | a_lancé | exponential growth Claude Code en mai 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Opus 4 | TECHNOLOGIE | permet | exponential growth Claude Code en mai 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 | /loop | TECHNOLOGIE | utilise | cron pour repeat jobs | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Boris Cherny | PERSONNE | affirme_que | "loops are the future" | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Routines | TECHNOLOGIE | est | équivalent serveur de /loop | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | "loops are the future" | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Routines | TECHNOLOGIE | est_variante_de | /loop (équivalent serveur) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Hamilton Helmer | PERSONNE | a_créé | framework 7 Powers | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | AI | TECHNOLOGIE | réduit | importance de switching costs et process power | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| AI | TECHNOLOGIE | n_affecte_pas | network effects, scale economies, cornered resources | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | prédit | 10× plus de startups disruptives dans 10 ans | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Presse de Gutenberg | EVENEMENT | a_démocratisé | littéracie en Europe (10% → 70%) | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Software | CONCEPT | va_être_démocratisé_comme | la littéracie post-Gutenberg | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | n_a_plus | code manuellement écrit | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Claude agents | TECHNOLOGIE | communiquent_via | Slack avec d'autres Claude agents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Avantage Anthropic | CONCEPT | est | organisationnel et processuel (pas technologique) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Modèle aligné | CONCEPT | rend_moins_important | le harness (prompt injection, permission modes, human-in-loop) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Boris Cherny | PERSONNE | affirme_que | "best person to write accounting software is an accountant" | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | a_lancé | Routines (server-side loops) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_construit_en | TypeScript et React | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Setup Cherny | METHODOLOGIE | est | iOS-first multi-session multi-agent | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | network effects, scale economies et cornered resources restent inchangés à l'ère IA | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | prédit | 10× plus de startups disruptives dans 10 ans | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Presse de Gutenberg | TECHNOLOGIE | améliore | littéracie en Europe (10% → 70%) | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | prédit | le software sera démocratisé comme la littéracie post-Gutenberg, plus vite que 50 ans | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | "We have no more manually written code anywhere at the company" | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Claude agents | TECHNOLOGIE | utilise | Slack pour communiquer avec d'autres Claude agents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | l'avantage d'Anthropic est organisationnel et processuel, pas technologique | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Modèle aligné | CONCEPT | réduit | importance du harness (prompt injection, permission modes, human-in-loop) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | affirme_que | "best person to write accounting software is an accountant" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | publie | Routines (server-side loops) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | TypeScript et React | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | utilise | setup iOS-first multi-session multi-agent | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -262,10 +262,8 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | 7 Powers Helmer | METHODOLOGIE | définition | Framework stratégie d'entreprise de Hamilton Helmer : 7 modes de pouvoir (switching costs, process power, network effects, scale economies, cornered resources, branding, counter-positioning) | AJOUT |
 | Réordonnancement 7 Powers à l'ère IA | CONCEPT | description | AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés | AJOUT |
 | Analogie Gutenberg / Software | CONCEPT | description | 1400s 10% littéracie → 70% en quelques siècles, livre 100× moins cher en 50 ans. Software suivra le même pattern, plus rapide que 50 ans | AJOUT |
-| "Best accountant writes the best accounting software" | CONCEPT | source | Cherny — corollaire de la démocratisation : la connaissance domaine prime sur la maîtrise technique | AJOUT |
 | Inflection Opus 4 mai 2025 | EVENEMENT | description | Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF | AJOUT |
 | 100% code généré (Cherny) | EVENEMENT | description | Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code | AJOUT |
-| "Coding is solved" | CONCEPT | source | Déclaration Cherny lors de l'événement Sequoia, applicable à son contexte personnel (codebase TypeScript+React) avec limites assumées (gros legacy, langages exotiques) | AJOUT |
 | Anthropic agents-to-agents Slack | CONCEPT | description | Pratique interne Anthropic : Claude agents communiquent over Slack avec autres Claude agents pour résoudre des unknowns en runtime | AJOUT |
 | Setup iOS-first Cherny | METHODOLOGIE | description | Travail principal depuis iPhone via Claude app onglet code, 5-10 sessions, few hundred agents day / few thousand night, /loop primitive principale | AJOUT |
 | Lauren Reader | PERSONNE | rôle | Interviewer Sequoia de l'événement Cherny | AJOUT |

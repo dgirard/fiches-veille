@@ -68,6 +68,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2026-04-16]** [2× nine months later: We did it (3× productivité R&D Intercom)](fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16.md) - Engagement public 2× tenu et dépassé (3× sur 16 mois), 93.6% PRs agent-driven, 19.2% AI-approved (cible >50%), cost/PR -50%, top 5% à 6× median, Skills-Based Plugin Architecture (153 contributeurs, 267 skills), 1100 utilisateurs Claude Code Intercom-wide, agent-first principle décrété - Fin Ideas / Substack (Darragh Curran, Intercom)
 - **[2026-04-14]** [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) - Rewind, compact, subagents, context rot ~300-400k tokens, bonnes pratiques - X (Thariq/Anthropic)
 - **[2026-04]** [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) - Goût développeur, jugement vs AI slop, embauche pour le goût - Substack (Fran Soto)
+- **[2026-04-03]** [Starving Genies : économie des limites d'usage IA](fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03.md) - Phase Expand, monétisation, ressources limitantes - Kent Beck
 - **[2026-04-02]** [Superpowers: framework de skills agentiques](fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02.md) - Skills SKILL.md, TDD strict, brainstorming, mémoire conversationnelle, 130k+ étoiles - GitHub (Jesse Vincent / Prime Radiant)
 - **[2026-04-02]** [Harness engineering for coding agent users](fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02.md) - Feedforward guides, feedback sensors, cybernétique, confiance agents - martinfowler.com (Birgitta Böckeler)
 
@@ -151,6 +152,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-12-11]** [Interactions API: A unified foundation for models and agents](fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11.md) - API unifiée Gemini, MCP, état serveur, Deep Research - Google DeepMind
 - **[2025-12-11]** [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - Context data platform, agent self-learning, cloud-native architecture - memodb-io
 - **[2025-12-10]** [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Technical design specifications, infographic creation process - Pastebin
+- **[2025-12-10]** [Compounding Engineering Plugin pour Claude Code](fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10.md) - Plugin officiel, workflow systématique - Every (GitHub)
 - **[2025-12-09]** [OpenAI co-fonde l'Agentic AI Foundation](fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09.md) - AAIF Linux Foundation, AGENTS.md, MCP, goose, standards ouverts agents IA - OpenAI
 - **[2025-12-09]** [2025: The State of Generative AI in the Enterprise](fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09.md) - $37B market analysis, enterprise adoption patterns, startup vs incumbent dynamics - Menlo Ventures
 - **[2025-12-07]** [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI study, persona prompting effectiveness, GPQA/MMLU-Pro benchmarks - SSRN
@@ -180,6 +182,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-11-23]** [How to Quantify AI ROI in Software Engineering](fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23.md) - Métriques, Hygiène du code - Stanford
 - **[2025-11-23]** [Reshaping Software Delivery with Agents](fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23.md) - AI Native Workflows, Spec-driven - McKinsey
 - **[2025-11-23]** [Future-Proof Coding Agents](fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23.md) - Codex Harness, Computer Use - OpenAI
+- **[2025-11-18]** [Three Years from GPT-3 to Gemini 3](fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18.md) - Chatbots vers agents, code interface universelle - Ethan Mollick
+- **[2025-11-17]** [Jeff Bezos co-CEO de Project Prometheus](fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17.md) - Startup IA 6,2 Mds$, engineering physique - Fortune
+- **[2025-11-16]** [IA et production logicielle : six domaines clés](fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16.md) - AI4*, cycle de vie production logicielle - Analyse interne
 - **[2025-11]** [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research 6 piliers (AI4Project/UX/Dev/Ops/Data/Cloud), Transition Copilotes→Agents, Paradoxe Vibe vs Check, Crise FinOps pour IA, GenAI Landing Zone - Deep Research Veille Interne
 - **[2025-11-13]** [Measuring political bias in Claude](fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13.md) - Even-handedness 94-95%, Paired Prompts method, open-source evaluation, character training, comparaison 6 modèles - Anthropic
 - **[2025-11-13]** [Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?](fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13.md) - Digital Omnibus, redéfinition données sensibles, élargissement intérêt légitime, affaiblissement droits individuels, centralisation ENISA - IT for Business
@@ -187,6 +192,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-11-13]** [Disrupting the first AI-orchestrated cyber espionage campaign](fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13.md) - Claude Code manipulé, État chinois, 30 cibles, 80-90% automatisé, jailbreaking - Anthropic
 - **[2025-11-12]** [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - 34 agents production, multi-index, HR/Marketing/Banking/Finance/Healthcare, Meesho/Accenture/AirAsia - Lyzr AI
 - **[2025-11-12]** [Giving your AI a Job Interview](fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12.md) - Benchmarking beyond tests, interview models for specific use cases, Jagged Frontier, GuacaDrone - Ethan Mollick
+- **[2025-11-12]** [Improving Frontend Design through Skills](fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12.md) - Convergence distributionnelle, qualité UI - Anthropic
+- **[2025-11-12]** [Frontend design avec Skills : typographie, couleur, motion](fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12.md) - Skills design, contexte à la demande - Anthropic (Rajasekaran et al.)
 - **[2025-11-08]** [L'essor du commerce sur ChatGPT](fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08.md) - Commerce conversationnel, changement de plateforme IA - Barron Ernst
 - **[2025-11-07]** [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Format .deepnote YAML, extensions VS Code/Cursor, open source 1.5k stars - GitHub
 - **[2025-11-07]** [Teach Your AI to Think Like a Senior Engineer](fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07.md) - 8 stratégies planification IA, research agents parallèles, compounding engineering - Every Source Code
@@ -199,9 +206,11 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-11-04]** [The Next Collapsing Tech Cost Is Software Itself](fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04.md) - Effondrement coût logiciel, permissionless dev - Cobus Greyling
 - **[2025-11-03]** [The Human Layer: Building Trust Through Transparency](fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03.md) - Artisanat logiciel, open-source, impact IA - Gilles Chehade
 - **[2025-11-03]** [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Playbook adoption IA - Augment Code
+- **[2025-11-03]** [The Evolution from RAG to Agent Memory](fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03.md) - Mémoire persistante agents, read-write - Leonie Monigatti
 - **[2025-11-02]** [FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems](fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02.md) - Multiplicateurs de tokens chiffrés (6× démo→prod, ~5× par agent, **5-10× coût réel**, 30-200× optim) ; 4 paliers LLM→RAG→agents→agentique ; concept **Cost Iceberg** (80%+ caché) ; leviers Limit-the-Loop, tiered reasoning, kill switches ; conseils coding agents - Finout
 - **[2025-11-02]** [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Réalignement industriel, capital infini - Cybernetica
 - **[2025-11-01]** [Conductors to Orchestrators: The Future of Agentic Coding](fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01.md) - Du mode Conductor au mode Orchestrator, workflows asynchrones - Addy Osmani
+- **[2025-11-01]** [Vibe Coding vs AI-Assisted Engineering](fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01.md) - Principes d'ingénierie, discipline - Addy Osmani
 - **[2025-11-25]** [Tech Predictions 2026 by Werner Vogels](fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md) - Companionship revolution, education transformation, healthcare innovation - Werner Vogels
 - **[2025-11-26]** [MIT Study on AI Workforce Impact](fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26.md) - Iceberg Index methodology, AI impact on workforce, MIT research - CNBC
 
@@ -215,7 +224,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-10-24]** [AI sets up Kodak moment for global consultants](fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24.md) - Disruption IA du conseil en management - Reuters Breakingviews
 - **[2025-10-22]** [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Format optimisation jetons - GitHub
 - **[2025-10-22]** [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Web conversationnel, navigateur IA, transformation digitale - WeVision
+- **[2025-10-22]** [Perplexity Chrome Integration](fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22.md) - Navigateur IA, concurrence Google - Perplexity
 - **[2025-10-19]** [An Opinionated Guide to Using AI Right Now](fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19.md) - Jagged frontier, Centaurs vs Cyborgs, guide pratique - Ethan Mollick
+- **[2025-10-18]** [MCP-UI : conférence Monday.com](fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18.md) - Islands architecture, remote DOM - Liad Yosef (Monday.com)
 - **[2025-10-16]** [Introducing Agent Skills](fiches/2025-10/agent-skills-anthropic-2025-10-16.md) - Annonce officielle Skills par Anthropic - Anthropic
 - **[2025-10-16]** [Claude Skills are awesome, maybe a bigger deal than MCP](fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16.md) - Simplicité vs complexité - Simon Willison
 - **[2025-10-15]** [DeepSeek Cuts Inference Costs, OpenAI-AMD, Fine-Tuning](fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15.md) - Optimisation coûts et infrastructure IA - The Batch
@@ -234,6 +245,11 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-10-02]** [Fixed marketing budgets are holding you back](fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02.md) - Budget marketing piloté par ROI et demande - Think with Google
 - **[2025-10-01]** [CEA ExpressIF 3](fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01.md) - RISC-V AI SoC - CEA
 - **[2025-10-01]** [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Research program - Apollo Academy
+- **[2025-10-01]** [Solstice Lab : systèmes multi-agents collaboratifs](fiches/2025-10/solstice-lab-ai-agents-collaborative-systems-2025-10-01.md) - Orchestration agents, recherche - Solstice Lab
+- **[2025-10-01]** [Think with Google : budget marketing 2026](fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01.md) - Demand-led marketing, CMO - Google
+- **[2025-10-01]** [Wardley Mapping expliqué](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01.md) - Guide stratégique, conscience situationnelle - Synthèse multi-sources
+- **[2025-10-01]** [Wenvision : déploiement d'agents IA en entreprise](fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01.md) - Orchestration, gouvernance, observabilité - Wenvision
+- **[2025-10-01]** [YouTube : explosion des tutoriels IA](fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01.md) - Démocratisation éducation technique - YouTube
 
 ### Septembre 2025
 
@@ -243,11 +259,12 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-09-23]** [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - IA amplifie performance équipes - Google Cloud
 - **[2025-09-18]** [Anthropic Outage Post-Mortem](fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18.md) - Service reliability - Anthropic
 - **[2025-09-16]** [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Payment protocol - Google
+- **[2025-09-16]** [Mesurer l'impact de l'IA sur les développeurs](fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16.md) - Métriques productivité, DX - Pragmatic Engineer
 - **[2025-09-15]** [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15.md) - Architecture AI-first - Pragmatic Engineer
 - **[2025-09-15]** [Transformation AI-First en 15 questions](fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15.md) - Jean-Christophe Laissy
 - **[2025-09-15]** [Index économique Anthropic](fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15.md) - Adoption inégale de l'IA
 - **[2025-09-15]** [MCP remplace le navigateur](fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15.md) - Model Context Protocol - LogRocket
-- **[2025-09-15]** [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-che-infoworld-2025-09-15.md) - Réalité économique - InfoWorld
+- **[2025-09-15]** [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md) - Réalité économique - InfoWorld
 - **[2025-09-15]** [IA dans le SDLC](fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15.md) - Qualité vs vitesse - AI Journal
 - **[2025-09-29]** [Real AI Agents and Real Work](fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29.md) - Economic impact of AI agents, OpenAI study, real-world applications - Ethan Mollick
 - **[2025-09-08]** [The Hot Vibe Code Summer](fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md) - Développement intuitif assisté IA - RedMonk
@@ -261,6 +278,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-08-22]** [Luc Julia: AI Controversy](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) - French tech debate - Media
 - **[2025-08-19]** [One Prompt Zero Engineers](fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19.md) - No-code revolution, internal dev - a16z
 - **[2025-08-15]** [Réflexions sur LLMs et développement](fiches/2025-08/martin-fowler-llm-software-development-2025-08-15.md) - Bulle IA, hallucinations, sécurité - Martin Fowler
+- **[2025-08-14]** [n8n : collection de 2000+ workflows agents IA](fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14.md) - Automatisation open source - GitHub
 - **[2025-08-12]** [Sam Altman Neuralink Board](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) - Conflict of interest - Neuralink
 - **[2025-08-05]** [Google Genie 3](fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05.md) - Video generation - DeepMind
 
@@ -281,14 +299,19 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - **[2025-07-15]** [Voxtral: Mistral AI Speech Understanding](fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15.md) - Speech recognition model - Mistral AI
 - **[2025-07-15]** [AWS Kiro: Specification-Driven Agentic IDE](fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15.md) - Agentic development - Forbes
 - **[2025-07-09]** [LangChain: How to Build an Agent](fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09.md) - 6-step framework - LangChain Blog
+- **[2025-07-09]** [Powered by Claude : partenaires Anthropic](fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09.md) - Vitrine écosystème, intégrations - Anthropic
 - **[2025-07-07]** [Exit Vibe Coding, Place Vibe Reviewing](fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07.md) - Cas Carrefour - Alexandre Mogère
+- **[2025-07-01]** [Mistral CLI : alternative européenne à Claude Code](fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01.md) - Open source, souveraineté - Mathias Garcia
+- **[2025-07-01]** [SuperClaude Framework](fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01.md) - Configuration Claude Code, agents spécialisés - GitHub
 
 ### Juin 2025
 
 - **[2025-06-27]** [Why Moderna merged HR and IT to better 'architect the flow of work'](fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27.md) - Tracey Franklin, Chief People and Digital Technology Officer, work planning, 3000+ GPTs custom - UNLEASH
+- **[2025-06-26]** [Salesforce : l'IA réalise 30-50 % du travail](fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26.md) - Marc Benioff, automatisation interne - Yahoo Finance
 - **[2025-06-25]** [Augmented Coding Beyond Vibes](fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25.md) - Kent Beck on TDD with AI - Kent Beck
 - **[2025-06-23]** [Touilleur Express: Ni Manager Ni Contributeur](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) - Three career paths in AI era - LinkedIn
 - **[2025-06-23]** [Gemini CLI et Claude Code: Hybrid Workflow](fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23.md) - Approche hybride multi-modèles - Reddit
+- **[2025-06-17]** [Yamini Rangan : transformation IA de HubSpot](fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17.md) - CEO, SaaS, enterprise AI - HubSpot
 - **[2025-06-12]** [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) - Knowledge graph RDF/SHACL, Upper metamodel, projections automatiques - Netflix
 - **[2025-06-11]** [Qodo: State of AI Code Quality 2025](fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11.md) - 609 developers survey - Qodo
 
@@ -302,6 +325,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2025-04-23]** [AI Workflow for Wardley Mapping](fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23.md) - LLM prompts, Obsidian, NetworkX clustering - Tutoriel vidéo
 - **[2025-04-17]** [Gemini CLI ToS Privacy](fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17.md) - Privacy policies - Google
+- **[2025-04-07]** [Stanford HAI : AI Index Report 2025](fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07.md) - Tendances mondiales IA, métriques - Stanford HAI
 
 ### Mars 2025
 
@@ -336,18 +360,27 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 
 - **[2024-04-19]** [Moderna × OpenAI: ChatGPT Enterprise case study](fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19.md) - 750 GPTs en 2 mois, 100% adoption juridique, Dose ID, Bancel "100 000 employés", framework change management - OpenAI
 - **[2024-04-02]** [Ethan Mollick: AI Adoption](fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02.md) - Organizational change - One Useful Thing
+- **[2024-04-01]** [Sebastian Raschka : ML Fundamentals](fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01.md) - Livre machine learning, PyTorch - Sebastian Raschka
 
 ### Février 2024
 
 - **[2024-02-23]** [L'IA générative est plus une affaire de produit technologique qu'un projet d'IA](fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23.md) - Olivier Rafal (WeNvision) — **texte fondateur** (≈2 ans avant la vague agentique) de la doctrine *produit > projet*. Thèse : ***« l'IA générative est plus une affaire de produit technologique qu'un projet d'IA »*** → pas besoin de data scientists. Créer un *foundation model* = *« plusieurs mois, des millions d'euros »* + données massives (ex. **Bloomberg → BloombergGPT**) ; les entreprises ont surtout besoin d'**ingénieurs d'intégration + cloud + DevOps**. **Plateforme = orchestrateurs + API** → *« changer de LLM sans retoucher aux applications »* (anti lock-in). **Produit, pas projet** : *« considérer la plate-forme elle-même comme un produit »* + **financement en flux mensuel**. **Gouvernance & shadow AI** : démocratisation inédite → attentes vis-à-vis de la DSI, priorisation par la valeur. Annonce le passage *« d'une programmation algorithmique classique à des agents Langchain »* - CIO-Online (Olivier Rafal)
 
-### Décembre 2022
+### Octobre 2023
 
-- **[2022-12-07]** [TDD is dead. Long live testing. (Une contre-argumentation point à point à DHH)](fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07.md) - Mathieu Eveillard contre DHH (RailsConf 2014). Distinction-pivot Test-first vs Test-Driven Development (souvent confondus). 3 réfutations point à point + conclusion équilibrée "Le TDD n'est pas une religion, c'est un outil". Pyramide de tests, code domaine = 30% codebase max où TDD pertinent (cœur hexagone, bounded context). Loi de l'Instrument. Article craft hors-corpus IA mais résonne avec Beck Vibe Coding/Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender - mathieueveillard.com (Mathieu Eveillard)
+- **[2023-10-01]** [Weave : mesurer le travail d'ingénierie par IA](fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01.md) - Startup YC, Weave Hour, attribution code IA - Y Combinator
+
+### Juillet 2023
+
+- **[2023-07-31]** [METR : risque de réplication autonome des agents IA](fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31.md) - AI safety, évaluation des risques - METR
 
 ### Juin 2023
 
 - **[2023-06-03]** [Setting time on fire and the temptation of The Button](fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03.md) - Crise de sens au travail, Help me write, signaux d'effort - One Useful Thing
+
+### Décembre 2022
+
+- **[2022-12-07]** [TDD is dead. Long live testing. (Une contre-argumentation point à point à DHH)](fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07.md) - Mathieu Eveillard contre DHH (RailsConf 2014). Distinction-pivot Test-first vs Test-Driven Development (souvent confondus). 3 réfutations point à point + conclusion équilibrée "Le TDD n'est pas une religion, c'est un outil". Pyramide de tests, code domaine = 30% codebase max où TDD pertinent (cœur hexagone, bounded context). Loi de l'Instrument. Article craft hors-corpus IA mais résonne avec Beck Vibe Coding/Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender - mathieueveillard.com (Mathieu Eveillard)
 
 ### Juin 2022
 
@@ -421,8 +454,8 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [The Hot Vibe Code Summer](fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08.md) - RedMonk
 - [ChatGPT Agent Launch](fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17.md) - OpenAI
 - [LangChain: How to Build an Agent](fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09.md) - LangChain
-- [Solstice Lab: Multi-Agent Systems](fiches/2025-10/solstice-lab-ai-agents-collaborative-systems-2025-10.md) - Solstice Lab
-- [n8n Workflows: 2000+ Collection](fiches/2025-10/n8n-workflows-2000-collection-agents-ia-2025-10.md) - n8n
+- [Solstice Lab: Multi-Agent Systems](fiches/2025-10/solstice-lab-ai-agents-collaborative-systems-2025-10-01.md) - Solstice Lab
+- [n8n Workflows: 2000+ Collection](fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14.md) - n8n
 - [Claude Code Subagents Documentation](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) - Anthropic
 - [AWS Kiro: Specification-Driven Agentic IDE](fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15.md) - Forbes
 - [IA agentique en production : leçons de deux ans](fiches/2025-10/habert-ia-agentique-production-2025-10-29.md) - Antoine Habert
@@ -458,6 +491,9 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Agent Harness Engineering](fiches/2026-04/osmani-agent-harness-engineering-2026-04-19.md) - Addy Osmani (Google)
 - [How Salesforce Engineering Became Truly Agentic](fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27.md) - Srinivas Tallapragada (Salesforce) — SDLC agentique à l'échelle : Claude Code org-wide + **suppression des token limits**, **skills**/subagents/agent teams, **Effective Output +151,3% YoY**, migration **18×** (33 endpoints en 13 j), incidents **−5%**, *« quality benefits from speed »* — proof-point FinOps agentique (token→outcome)
 - [Beyond code generation — engineering productivity in the age of AI agents](fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28.md) - Kazuaki Okumura (Dropbox) — *« AI doesn't eliminate bottlenecks, it moves them »* (downstream : review/CI/release), plateforme d'agents interne **Nova** (~1 PR sur 12), modèle de mesure **Fuel → Adoption → Output → Impact**, *« advantage comes from the systems built around the models »* — proof-point output→outcome (DX Annual 2026)
+- [Improving Frontend Design through Skills](fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12.md) - Anthropic
+- [Frontend design avec Skills : typographie, couleur, motion](fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12.md) - Prithvi Rajasekaran et al. (Anthropic)
+- [Compounding Engineering Plugin pour Claude Code](fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10.md) - EveryInc (GitHub)
 
 ### Architecture & Construction
 - [The Magic of Platforms — floating vs sinking platforms](fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06.md) - Gregor Hohpe (Enterprise Strategist AWS, auteur *Software Architect Elevator* + *Platform Strategy*) — keynote PlatformCon 2022. Standards boostent l'innovation (Baltimore 1904, HTTP, A4), trois propriétés (low friction, transparence, shared responsibility), **floating platforms vs sinking platforms** (la plateforme jette ce que la base absorbe et remonte innover), **fruit salad vs fruit basket** (assemblage proportionné > juxtaposition). Préfigure la doctrine *harness engineering* 2026
@@ -478,7 +514,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [TOON: JSON pour LLMs à moitié prix](fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22.md) - Johann Schopplich
 - [The AI Platform Shift](fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15.md) - Philippe Ensarguet
 - [Construction de Claude Code](fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15.md) - Pragmatic Engineer
-- [MCP-UI: Conference Talk](fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10.md) - Liad Yosef (Monday.com)
+- [MCP-UI: Conference Talk](fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18.md) - Liad Yosef (Monday.com)
 - [MCP-UI: The Future of Agentic Interfaces](fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md) - Goose/Block
 - [Block Goose: MCP-UI Future](fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25.md) - Block/Square
 - [MCP remplace le navigateur](fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15.md) - LogRocket
@@ -488,6 +524,7 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [NuExtract: A Foundation Model for Structured Extraction](fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24.md) - NuMind
 - [AI's trillion-dollar opportunity: Context graphs](fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22.md) - Foundation Capital
 - [Semantic Agent : (Model+Harness) + (Ontology+Data)](fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17.md) - Tony Seale (The Knowledge Graph Guy)
+- [The Evolution from RAG to Agent Memory](fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03.md) - Leonie Monigatti
 
 ### Transformation & Adoption
 - [L'IA générative est plus une affaire de produit technologique qu'un projet d'IA](fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23.md) - Olivier Rafal (WeNvision) — **texte fondateur** (fév. 2024) : *produit > projet*, pas besoin de data scientists (foundation model = millions €/données ; ex. Bloomberg→BloombergGPT), compétences d'**intégration + cloud + DevOps**, **plateforme = orchestrateurs + API** (changer de LLM sans retoucher les apps), **financement en flux**, gouvernance & **shadow AI**, passage aux **agents Langchain**
@@ -539,11 +576,13 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Rapport DORA 2025](fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23.md) - Google Cloud
 - [Why Teams Don't Escalate](fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03.md) - John Cutler
 - [ChatGPT Atlas démocratise le Web conversationnel](fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22.md) - Olivier Rafal
-- [Salesforce: AI 30-50% Work](fiches/2025-10/salesforce-ai-30-50-percent-work-benioff-2025-10.md) - Marc Benioff
+- [Salesforce: AI 30-50% Work](fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26.md) - Marc Benioff
 - [a16z: One Prompt Zero Engineers](fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19.md) - a16z
-- [Yamini Rangan: HubSpot AI](fiches/2025-10/yamini-rangan-hubspot-ceo-ai-transformation-2025-10.md) - HubSpot
+- [Yamini Rangan: HubSpot AI](fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17.md) - HubSpot
 - [Personal Software](fiches/2025-01/lee-robinson-personal-software-2025-01-01.md) - Lee Robinson
 - [AI-Powered Engineering at Scale: The Adoption Playbook](fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03.md) - Augment Code
+- [Three Years from GPT-3 to Gemini 3](fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18.md) - Ethan Mollick
+- [IA et production logicielle : six domaines clés](fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16.md) - Analyse interne
 
 ### Qualité & Sécurité
 - [Solving the Identity Crisis for AI Agents (Uber Engineering)](fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21.md) - Matt Mathew et al. (Uber Engineering) — architecture identity agent production : Agent Registry + AI Agent Mesh + STS + MCP Gateway + AI Gateway + SPIRE, single-hop short-lived JWT tokens, actor chain preservation, P99 <40ms, milliers d'agents internes
@@ -562,12 +601,12 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Kent Beck: Vibe Coding vs TDD](fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17.md) - Kent Beck
 - [Augmented Coding Beyond Vibes](fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25.md) - Kent Beck
 - [TDD is dead. Long live testing. (Une contre-argumentation point à point à DHH)](fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07.md) - Mathieu Eveillard (mathieueveillard.com)
-- [Vibe Coding vs AI-Assisted Engineering](fiches/2025-10/vibe-coding-vs-ai-assisted-engineering-osmani-2025-10.md) - Addy Osmani
+- [Vibe Coding vs AI-Assisted Engineering](fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01.md) - Addy Osmani
 - [Exit Vibe Coding, Place Vibe Reviewing](fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07.md) - Alexandre Mogère
 - [Qodo: State of AI Code Quality 2025](fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11.md) - Qodo
 - [Replit AI Deletes Database](fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18.md) - Replit
 - [Anthropic Outage Post-Mortem](fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18.md) - Anthropic
-- [METR Study: Autonomous Replication](fiches/2025-10/metr-study-ai-agents-autonomous-replication-risk-2025-10.md) - METR
+- [METR Study: Autonomous Replication](fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31.md) - METR
 - [Apollo Academy: AI Safety Training](fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01.md) - Apollo Academy
 
 ### Économie & Marché
@@ -610,13 +649,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Risque de bulle IA](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) - LinkedIn/Bloomberg
 - [Fin des assistants IA bon marché](fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md) - InfoWorld
 - [Fixed marketing budgets are holding you back](fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02.md) - Guillaume Roques
-- [Think with Google: 2026 Budget](fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10.md) - Google
+- [Think with Google: 2026 Budget](fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01.md) - Google
 - [a16z Top 100 Gen AI Apps - 5th Edition](fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md) - a16z
-- [Stanford HAI: AI Index 2025](fiches/2025-10/stanford-hai-ai-index-report-2025-trends-2025-10.md) - Stanford
+- [Stanford HAI: AI Index 2025](fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07.md) - Stanford
 - [Gartner Hype Cycle GenAI 2025](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) - Gartner
 - [The Trillion Dollar AI Software Development Stack](fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09.md) - a16z
 - [Le sentiment de bulle à l'épreuve du capital infini](fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02.md) - Tariq KRIM
 - [AEO is the new SEO](fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01.md) - Graphite.io
+- [Starving Genies : économie des limites d'usage IA](fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03.md) - Kent Beck
+- [Jeff Bezos co-CEO de Project Prometheus](fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17.md) - Nick Lichtenberg (Fortune)
 
 ### Philosophie & Société
 - [Léon XIV — Encyclique *Magnifica Humanitas* sur la personne humaine à l'ère de l'IA](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) - Pape Léon XIV (Robert Francis Prevost, premier pape américain) — première encyclique sociale (15 mai 2026, 135e anniversaire Rerum Novarum), 245 §, structurée par les icônes Babel vs Néhémie. *« IA cultivées non construites »*, critique radicale de l'alignement (*« une IA plus morale décidée par une poignée ne sert à rien »*), *« désarmer l'IA »*, colonialisme des données, travail invisible des microtravailleurs, refus des agents moraux artificiels (*« aucun algorithme moralement acceptable »*)
@@ -638,10 +679,10 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Teardown algorithme X 2026 + recommandations growth (Personal/Brand/Framework/Consulting)](fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16.md) - Rapport interne (7 piliers, three layers of reach, two laws of mechanical growth, evidence table file:line, honesty boundary explicite)
 - [La Révolution AI4* : Analyse Stratégique Impact IA Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) - Deep Research Veille Interne
 - [The Gen AI Playbook for Organizations](fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11.md) - Bharat N. Anand & Andy Wu
-- [Wardley Mapping Expliqué](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10.md) - Simon Wardley
+- [Wardley Mapping Expliqué](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01.md) - Simon Wardley
 - [AI Workflow for Wardley Mapping](fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23.md) - Tutoriel vidéo
 - [Context Engineering: Domain Understanding](fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23.md) - David Johnson
-- [Pragmatic Engineer: Measure AI Impact](fiches/2025-10/pragmatic-engineer-measure-ai-impact-dev-2025-10.md) - Pragmatic Engineer
+- [Pragmatic Engineer: Measure AI Impact](fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16.md) - Pragmatic Engineer
 
 ### Outils & Plateformes
 - [Claude Opus 4.8 pour le SEO : Workflow en Deux Phases (stratégie + production MCP)](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) - Pasquale Pillitteri (stack MCP GSC/Ahrefs/GA4)
@@ -650,14 +691,14 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Acontext: Context Data Platform for Cloud-Native AI Agents](fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11.md) - memodb-io
 - [Lyzr AI Agent Tracker - Use Cases Catalog](fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12.md) - Lyzr AI
 - [Deepnote: Successeur Jupyter avec AI agent natif](fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07.md) - Deepnote Team
-- [SuperClaude Framework](fiches/2025-10/superclaude-framework-config-claude-code-2025-10.md) - GitHub 17.2k stars
+- [SuperClaude Framework](fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01.md) - GitHub 17.2k stars
 - [Gemini CLI et Claude Code: Hybrid Workflow](fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23.md) - Reddit
 - [Gemini CLI ToS Privacy](fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17.md) - Google
-- [Powered by Claude](fiches/2025-10/powered-by-claude-anthropic-partners-2025-10.md) - Anthropic
-- [Mistral CLI: Alternative européenne](fiches/2025-10/mistral-cli-european-alternative-claude-code-garcia-2025-10.md) - Mathias Garcia
-- [Workweave: Loom of AI](fiches/2025-10/workweave-loom-ai-team-comms-y-combinator-2025-10.md) - Y Combinator
+- [Powered by Claude](fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09.md) - Anthropic
+- [Mistral CLI: Alternative européenne](fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01.md) - Mathias Garcia
+- [Weave : mesurer le travail d'ingénierie par IA](fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01.md) - Y Combinator
 - [Linear: AI-First Issue Tracking](fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01.md) - Linear
-- [Wenvision: Enterprise AI Agents](fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10.md) - Wenvision
+- [Wenvision: Enterprise AI Agents](fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01.md) - Wenvision
 - [Voxtral: Mistral AI Speech Understanding](fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15.md) - Mistral AI
 - [Gemini 2.5 Flash Lite Stable GA](fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22.md) - Google
 - [Infographic Design Perfectionist Procedure](fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10.md) - Pastebin
@@ -670,15 +711,15 @@ Index des fiches de veille. Les fiches sont organisées par mois de publication 
 - [Guide Comparatif Formats Conférence & Narrations](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) - Deep Research
 - [Synthèse Frameworks Narratifs et Prompts Talks](fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02.md) - Deep Research
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) - Wharton AI Labs
-- [Sebastian Raschka: ML Fundamentals](fiches/2025-10/raschka-ml-fundamentals-book-hands-on-2025-10.md) - Lightning AI
-- [YouTube: AI Tutorials Explosion](fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10.md) - YouTube
+- [Sebastian Raschka: ML Fundamentals](fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01.md) - Lightning AI
+- [YouTube: AI Tutorials Explosion](fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01.md) - YouTube
 - [MCP pour débutants](fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28.md) - Microsoft Developer
 
 ### Produits & Services
 - [Project Genie : World Models interactifs temps réel](fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02.md) - Google DeepMind
 - [Google AI Mode Search](fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05.md) - Google
 - [Google Genie 3](fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05.md) - DeepMind
-- [Perplexity Chrome Integration](fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10.md) - Perplexity
+- [Perplexity Chrome Integration](fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22.md) - Perplexity
 - [Google Agentic Commerce AP2](fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16.md) - Google
 - [Tech Predictions 2026 by Werner Vogels](fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md) - Werner Vogels
 
@@ -702,7 +743,7 @@ Documents HTML interactifs et schemas explicatifs (hors fiches de veille).
 
 ## Statistiques
 
-- **Total d'articles** : 284
-- **Période couverte** : Décembre 1975 - Juin 2026 (avec Juin 2022 — PlatformCon)
-- **Principaux auteurs** : Ethan Mollick (10), Google (11), Anthropic (10), OpenAI (5), Andrej Karpathy (2), Andrew Ng / DeepLearning.AI The Batch (2 — n°350 + n°352), Martin Fowler (2), Tony Seale (2), Bain & Company (2), Thoughtworks (2 — Kamelman + AI/works™ page produit), Josh Bersin (1), McKinsey (2), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (2 — *Building AI-native company* + *After Automation*), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Vijay Iyengar & Arya Asemanfar & Angie Wang (1), Bret Taylor (1), Tracey Franklin (1), Allie Nawrat / UNLEASH (1), Alex McMurray / Valence (1), MIT NANDA (1), Addy Osmani (1), Florian Dèbes (1), BCG / Julie Bedard et al. (1), Hryhorii Tatsyi (1), DORA × delta team (Eva Dong, Andre Ellis Jr., Nathen Harvey, Vivian Hu, Ursula Lübbert-Passing, Eric Maxwell, Aaron Wanjala) (1), Jessica Talisman MLS (1), Mathieu Eveillard (1), Bob Sternfels (McKinsey, via OfficeChai) (1), Brian Kessman & Tim Williams & Charley Stoney (VoxComm) + Joe Mandese (MediaPost) (1), Rémi Jacquet (Cast Software France) & Didier Girard (SFEIR) — débat BFM Business (1), Matt Kamelman (Thoughtworks) (1), David Wallace-Wells (NYT Magazine) (1), Thariq Shihipar (Anthropic / équipe Claude Code) (2), Arthur Mensch & Audry Herblin-Stoupe (Mistral AI — audition Assemblée nationale) (1), Dave Farley (Modern Software Engineering) (1), Rapport interne x-algorithm teardown (xAI release 15 mai 2026) (1), Matt Mathew & Prasad Borole & Meng Huang & Sergey Burykin & Gaurav Goel & Bayard Walsh (Uber Engineering) (1), Pape Léon XIV (Robert Francis Prevost — encyclique *Magnifica Humanitas*) (1), Gregor Hohpe (AWS Enterprise Strategist — keynote PlatformCon 2022 *The Magic of Platforms*) (1), Ivan Chepurin & Travis Turner (Evil Martians Chronicles — *AI-assisted engineers are burning out*) (1), Jaya Gupta (@JayaGup10 — *Token Budget Wars*, probablement Foundation Capital) (1), Elliot Greenwald (Sierra — *Outcome-based pricing for AI Agents*) (1), Srinivas Tallapragada (President & Chief Engineering Officer, Salesforce — *How Salesforce Engineering Became Truly Agentic*) (1), Kazuaki Okumura (Dropbox — *Beyond code generation*, DX Annual 2026) (1), Ryan Law (Ahrefs — *How I Do Content Engineering With Claude Code*) (1), Pasquale Pillitteri (ingénieur Palerme — *Opus 4.8 SEO workflow deux phases*) (1), Mike Taylor & Laura Entis & Claude (Every — *The Eight Levels of AI Adoption*) (1), David « Pragdave » Thomas (co-auteur *The Pragmatic Programmer* — *Failing Faster*) (1), Mark Dembo (Cloudflare — *BYO Agent with M5Stack Stick 3*) (1), équipe Data Science & Data Engineering Anthropic (Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry — *Self-service data analytics*) (1), et al.
-- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog, UNLEASH, Valence, Legal.io, Josh Bersin Company, Raiffeisen Bank Ukraine, Bain & Company, Modern Data 101, mathieueveillard.com, OfficeChai, MediaPost, VoxComm, EACA, Lodestar Agency Consulting, Ignition Consulting Group, BFM Business / Tech & Co Business, Thoughtworks, thariqs.github.io, Assemblée nationale (commission d'enquête vulnérabilités numériques), Modern Software Engineering (YouTube / Dave Farley), GitHub (xai-org/x-algorithm release 15 mai 2026), Uber Engineering (blog uber.com/blog), Saint-Siège (encyclique pontificale, via Bayard / La Croix), PlatformCon 2022 / platformengineering.org (keynote Gregor Hohpe), Evil Martians Chronicles (evilmartians.com/chronicles — Chepurin & Turner), Salesforce News (blog *Agentic Enterprise* — Srini Tallapragada), Dropbox Tech (dropbox.tech — DX Annual 2026), Ahrefs blog (ahrefs.com/blog — Ryan Law content engineering), pasqualepillitteri.it (blog tech FR/IT — Pasquale Pillitteri), claude.com (blog Anthropic — Thariq Shihipar, *How we use skills*), tokeneconomics.com (Tokenomics Foundation — projet Linux Foundation × FinOps Foundation), articles.pragdave.me (Substack — David « Pragdave » Thomas, *Failing Faster*), markpauldembo.com (blog perso — Mark Dembo, Cloudflare, *BYO Agent with M5Stack Stick 3*), SitePoint (sitepoint.com — *Local LLMs vs Cloud APIs: 2026 TCO Analysis*).
+- **Total d'articles** : 292
+- **Période couverte** : Décembre 1975 — Juin 2026
+- **Principaux auteurs** : Ethan Mollick (12), Google (11), Anthropic (12), OpenAI (5), Addy Osmani (5), Kent Beck (3), Andrej Karpathy (2), Andrew Ng / DeepLearning.AI The Batch (2 — n°350 + n°352), Martin Fowler (2), Tony Seale (2), Bain & Company (2), Thoughtworks (2 — Kamelman + AI/works™ page produit), Josh Bersin (1), McKinsey (2), Stanford (2), Qodo (2), Bloomberg (1), Dan Shipper (2 — *Building AI-native company* + *After Automation*), Justin Reock (1), Arman Hezarkhani (1), NLW (1), Max Kanat-Alexander (1), Samir Mody (1), Lei Zhang (1), Asaf Bord (1), Kath Korevec (1), Olive Song (1), Bill Chen & Brian Fioca (1), Steve Yegge & Gene Kim (1), Katelyn Lesse (1), Michele Catasta (1), Lisa Orr (1), Werner Vogels (1), CNBC (1), Pastebin (1), Menlo Ventures (1), Wharton AI Labs (1), memodb-io (1), Lee Robinson (2), NuMind (1), Nicolas Marette (1), Guillaume Geudin (1), Alistair Gray (2), Marco Mornati (1), Riley Ralmuto (1), Birgitta Böckeler (1), Vivek Trivedy (1), Steven Kerr (1), Fran Soto (1), Vijay Iyengar & Arya Asemanfar & Angie Wang (1), Bret Taylor (1), Tracey Franklin (1), Allie Nawrat / UNLEASH (1), Alex McMurray / Valence (1), MIT NANDA (1), Florian Dèbes (1), BCG / Julie Bedard et al. (1), Hryhorii Tatsyi (1), DORA × delta team (Eva Dong, Andre Ellis Jr., Nathen Harvey, Vivian Hu, Ursula Lübbert-Passing, Eric Maxwell, Aaron Wanjala) (1), Jessica Talisman MLS (1), Mathieu Eveillard (1), Bob Sternfels (McKinsey, via OfficeChai) (1), Brian Kessman & Tim Williams & Charley Stoney (VoxComm) + Joe Mandese (MediaPost) (1), Rémi Jacquet (Cast Software France) & Didier Girard (SFEIR) — débat BFM Business (1), Matt Kamelman (Thoughtworks) (1), David Wallace-Wells (NYT Magazine) (1), Thariq Shihipar (Anthropic / équipe Claude Code) (2), Arthur Mensch & Audry Herblin-Stoupe (Mistral AI — audition Assemblée nationale) (1), Dave Farley (Modern Software Engineering) (1), Rapport interne x-algorithm teardown (xAI release 15 mai 2026) (1), Matt Mathew & Prasad Borole & Meng Huang & Sergey Burykin & Gaurav Goel & Bayard Walsh (Uber Engineering) (1), Pape Léon XIV (Robert Francis Prevost — encyclique *Magnifica Humanitas*) (1), Gregor Hohpe (AWS Enterprise Strategist — keynote PlatformCon 2022 *The Magic of Platforms*) (1), Ivan Chepurin & Travis Turner (Evil Martians Chronicles — *AI-assisted engineers are burning out*) (1), Jaya Gupta (@JayaGup10 — *Token Budget Wars*, probablement Foundation Capital) (1), Elliot Greenwald (Sierra — *Outcome-based pricing for AI Agents*) (1), Srinivas Tallapragada (President & Chief Engineering Officer, Salesforce — *How Salesforce Engineering Became Truly Agentic*) (1), Kazuaki Okumura (Dropbox — *Beyond code generation*, DX Annual 2026) (1), Ryan Law (Ahrefs — *How I Do Content Engineering With Claude Code*) (1), Pasquale Pillitteri (ingénieur Palerme — *Opus 4.8 SEO workflow deux phases*) (1), Mike Taylor & Laura Entis & Claude (Every — *The Eight Levels of AI Adoption*) (1), David « Pragdave » Thomas (co-auteur *The Pragmatic Programmer* — *Failing Faster*) (1), Mark Dembo (Cloudflare — *BYO Agent with M5Stack Stick 3*) (1), équipe Data Science & Data Engineering Anthropic (Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry — *Self-service data analytics*) (1), Leonie Monigatti (1), Nick Lichtenberg / Fortune (1), et al.
+- **Sources principales** : LinkedIn, Blogs techniques, Anthropic, Google, Google Design, Google DeepMind, Foundation Capital, Stanford, Y Combinator, a16z, DeepMind, OpenAI, Mistral AI, HubSpot, Wharton, YouTube, Think with Google, Block/Square, LangChain, One Useful Thing, METR, CEA, Perplexity, Neuralink, Apollo Academy, Solstice Lab, WEnvision, Linear, Qodo, Forbes, White House, Reuters Breakingviews, GitHub, Lee Robinson's Blog, Graphite.io, Cybernetica, Augment Code, welovesota.com, Jerusalem Post, TechCrunch, Medium, OCTO Technology, Netflix TechBlog, Xebia, Deepnote, Cloudflare, Every, Barron Ernst's Newsletter, ZDNet, Harvard Business Review, Lyzr AI, Rippletide, Deep Research, Substack, IT for Business, MiniMax, Google Labs, Northwestern Mutual, Bloomberg, The Browser Company, Capital One, AI Daily Brief, 10x, DX, Replit, Zapier, Sourcegraph, IT Revolution, Gadget, All Things Distributed, CNBC, Pastebin, Menlo Ventures, SSRN, Linux Foundation, NuMind, ANSSI, Vercel, New York Times, Custplace, Knowledge Graph Guys, arXiv, CIO Online, Stripe Engineering, martinfowler.com, X (Twitter), Academy of Management Journal, Strategize Your Career, Sierra Blog, UNLEASH, Valence, Legal.io, Josh Bersin Company, Raiffeisen Bank Ukraine, Bain & Company, Modern Data 101, mathieueveillard.com, OfficeChai, MediaPost, VoxComm, EACA, Lodestar Agency Consulting, Ignition Consulting Group, BFM Business / Tech & Co Business, Thoughtworks, thariqs.github.io, Assemblée nationale (commission d'enquête vulnérabilités numériques), Modern Software Engineering (YouTube / Dave Farley), GitHub (xai-org/x-algorithm release 15 mai 2026), Uber Engineering (blog uber.com/blog), Saint-Siège (encyclique pontificale, via Bayard / La Croix), PlatformCon 2022 / platformengineering.org (keynote Gregor Hohpe), Evil Martians Chronicles (evilmartians.com/chronicles — Chepurin & Turner), Salesforce News (blog *Agentic Enterprise* — Srini Tallapragada), Dropbox Tech (dropbox.tech — DX Annual 2026), Ahrefs blog (ahrefs.com/blog — Ryan Law content engineering), pasqualepillitteri.it (blog tech FR/IT — Pasquale Pillitteri), claude.com (blog Anthropic — Thariq Shihipar, *How we use skills*), tokeneconomics.com (Tokenomics Foundation — projet Linux Foundation × FinOps Foundation), articles.pragdave.me (Substack — David « Pragdave » Thomas, *Failing Faster*), markpauldembo.com (blog perso — Mark Dembo, Cloudflare, *BYO Agent with M5Stack Stick 3*), SitePoint (sitepoint.com — *Local LLMs vs Cloud APIs: 2026 TCO Analysis*), Fortune, Yahoo Finance, Pragmatic Engineer.

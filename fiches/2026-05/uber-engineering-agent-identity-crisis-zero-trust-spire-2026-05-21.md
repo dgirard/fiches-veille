@@ -211,50 +211,50 @@ Six ingénieurs d'**Uber** (Matt Mathew et al.) publient le 21 mai 2026 sur le b
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Uber | ORGANISATION | a_déployé | architecture identité agent IA | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Matt Mathew | PERSONNE | est_Sr_Staff_Engineer_chez | Uber | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Prasad Borole | PERSONNE | est_Staff_Software_Engineer_chez | Uber | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Meng Huang | PERSONNE | est_Engineering_Manager_chez | Uber | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Uber | ORGANISATION | définit_agent_comme | entité autorisée à agir pour ou à la place d'un autre | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| modèle d'identité classique | CONCEPT | ne_décrit_pas | l'agency | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| workflows agentiques | CONCEPT | sont | compositionnels (agents appellent agents et tools) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| comportement agentique | CONCEPT | est | dynamique (plans évoluent selon résultats intermédiaires) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| contexte d'exécution | CONCEPT | est_perdu_à_travers | les hops d'agents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| perte de provenance | CONCEPT | empêche | application cohérente de politiques fine-grained | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| architecture Uber | TECHNOLOGIE | étend | Zero Trust Architecture | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Agent Registry | TECHNOLOGIE | est | source of truth pour mappings agent↔workload | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| AI Agent Mesh | TECHNOLOGIE | est | data plane pour communication inter-agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| STS (Security Token Service) | TECHNOLOGIE | émet | JWT short-lived scopés single-hop | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| MCP Gateway | TECHNOLOGIE | est | policy enforcement point pour invocation outils | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| AI Gateway | TECHNOLOGIE | médiation | appels LLM externes avec guardrails | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| AI Gateway | TECHNOLOGIE | inclut | AI Guard pour data redaction | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| SPIRE | TECHNOLOGIE | fournit | workload credentials signés | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| SPIFFE | TECHNOLOGIE | définit | Verifiable IDs (SVIDs) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| workloads Uber | TECHNOLOGIE | récupèrent | SVIDs depuis SPIRE | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| SDK Uber | TECHNOLOGIE | demande_JWT_à | STS | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| STS | TECHNOLOGIE | vérifie_autorisation_contre | Agent Registry | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| JWT Uber | TECHNOLOGIE | est_émis_pour | destination single-hop spécifique | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| JWT Uber | TECHNOLOGIE | a_TTL | minutes (short-lived) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| JWT Uber | TECHNOLOGIE | contient | actor chain vérifiable | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Uber | ORGANISATION | a_créé | architecture identité agent IA (déployée en production) | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Matt Mathew | PERSONNE | travaille_chez | Uber (Sr Staff Engineer) | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Prasad Borole | PERSONNE | travaille_chez | Uber (Staff Software Engineer) | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Meng Huang | PERSONNE | travaille_chez | Uber (Engineering Manager) | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Uber | ORGANISATION | affirme_que | un agent = entité autorisée à agir pour ou à la place d'un autre | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
+| Uber | ORGANISATION | affirme_que | le modèle d'identité classique ne décrit pas l'agency | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| workflows agentiques | CONCEPT | est_instance_de | processus compositionnels (agents appellent agents et tools) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| comportement agentique | CONCEPT | est_instance_de | comportement dynamique (plans évoluent selon résultats intermédiaires) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Uber | ORGANISATION | affirme_que | "Execution context (originating user, intermediate agents) is dropped across agent hops" | CITATION | 0.98 | ATEMPOREL | déclaré_article |
+| perte de provenance | CONCEPT | réduit | cohérence d'application des politiques fine-grained | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| architecture Uber | TECHNOLOGIE | est_basé_sur | Zero Trust Architecture (extension) | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Agent Registry | TECHNOLOGIE | est_instance_de | source of truth pour mappings agent↔workload | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| AI Agent Mesh | TECHNOLOGIE | est_instance_de | data plane pour communication inter-agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| STS (Security Token Service) | TECHNOLOGIE | permet | émission de JWT short-lived scopés single-hop | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| MCP Gateway | TECHNOLOGIE | est_instance_de | policy enforcement point pour invocation outils | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| AI Gateway | TECHNOLOGIE | permet | médiation des appels LLM externes avec guardrails | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| AI Gateway | TECHNOLOGIE | utilise | AI Guard pour data redaction | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| SPIRE | TECHNOLOGIE | permet | workload credentials signés cryptographiquement | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| SPIFFE Verifiable IDs (SVIDs) | TECHNOLOGIE | fait_partie_de | SPIFFE | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| workloads Uber | TECHNOLOGIE | utilise | SVIDs émis par SPIRE | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| SDK Uber | TECHNOLOGIE | utilise | STS (demande de JWT) | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| STS | TECHNOLOGIE | utilise | Agent Registry (vérification d'autorisation) | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| JWT Uber | TECHNOLOGIE | s_applique_à | destination single-hop spécifique (claim Audience) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| JWT Uber | TECHNOLOGIE | utilise | TTL court de l'ordre de minutes (short-lived) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| actor chain vérifiable | CONCEPT | fait_partie_de | JWT Uber | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | actor chain | CONCEPT | permet | décisions accès tool-level basées sur historique requête | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Standardized A2A Client | TECHNOLOGIE | automatise | échanges STS et propagation actor chain | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Standardized A2A Client | TECHNOLOGIE | implémente | A2A protocol | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Standardized A2A Client | TECHNOLOGIE | permet | automatisation des échanges STS et propagation actor chain | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Standardized A2A Client | TECHNOLOGIE | utilise | A2A protocol | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Uber | ORGANISATION | recommande | secure path = easiest path | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| architecture Uber | TECHNOLOGIE | est_basée_sur | OAuth 2.0 Token Exchange (RFC 8693) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Uber | ORGANISATION | aligne_sur | IETF WIMSE working group drafts | EVENEMENT | 0.96 | DYNAMIQUE | déclaré_article |
-| draft-klrc-aiagent-auth-01 | EVENEMENT | spécifie | AI Agent Authentication and Authorization | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| STS Token Exchange API | TECHNOLOGIE | a_P99_latency | <40 millisecondes | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Uber | ORGANISATION | exploite | milliers d'agents internes adoptés | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Uber | ORGANISATION | dispose_de | dashboard observabilité temps réel sessions multi-agents | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Uber | ORGANISATION | prédit | three-layer framework (identity, access, enforcement) | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Uber | ORGANISATION | migre | agents legacy via refactoring phasé | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| SPIFFE/SPIRE | TECHNOLOGIE | est_graduated_à | CNCF | ORGANISATION | 0.97 | STATIQUE | inféré |
-| article Uber | EVENEMENT | est | première publication référence hyperscaler non-AI-lab sur identity agent | CONCEPT | 0.93 | STATIQUE | inféré |
-| identity layer Uber | CONCEPT | comble | gap entre frameworks skills/harness et identity enterprise | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Uber on-call engineer | PERSONNE | initie_session_avec | Oncall Agent | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Oncall Agent | TECHNOLOGIE | appelle | Investigation Agent | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Investigation Agent | TECHNOLOGIE | appelle | MCP Gateway | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| MCP Gateway | TECHNOLOGIE | reçoit | actor chain [user1, oncall-agent, investigation-agent] | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| architecture Uber | TECHNOLOGIE | est_basé_sur | OAuth 2.0 Token Exchange (RFC 8693) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Uber | ORGANISATION | converge_avec | IETF WIMSE working group drafts | DOCUMENT | 0.96 | DYNAMIQUE | déclaré_article |
+| draft-klrc-aiagent-auth-01 | DOCUMENT | s_applique_à | authentification et autorisation des agents IA | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| STS Token Exchange API | TECHNOLOGIE | mesure | P99 latency <40 millisecondes | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
+| Uber | ORGANISATION | utilise | milliers d'agents internes adoptés | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Uber | ORGANISATION | utilise | dashboard observabilité temps réel sessions multi-agents | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Uber | ORGANISATION | recommande | three-layer framework (identity, access, enforcement) comme vision cible | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Uber | ORGANISATION | utilise | refactoring phasé pour migrer les agents legacy | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| SPIFFE/SPIRE | TECHNOLOGIE | fait_partie_de | CNCF (projet graduated) | ORGANISATION | 0.97 | STATIQUE | inféré |
+| article Uber | DOCUMENT | est_instance_de | première publication référence hyperscaler non-AI-lab sur identity agent | CONCEPT | 0.93 | STATIQUE | inféré |
+| identity layer Uber | CONCEPT | résout | gap entre frameworks skills/harness et identity enterprise | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Uber on-call engineer | PERSONNE | utilise | Oncall Agent (initiation de session) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Oncall Agent | TECHNOLOGIE | utilise | Investigation Agent | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Investigation Agent | TECHNOLOGIE | utilise | MCP Gateway | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| MCP Gateway | TECHNOLOGIE | utilise | actor chain [user1, oncall-agent, investigation-agent] | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -280,8 +280,8 @@ Six ingénieurs d'**Uber** (Matt Mathew et al.) publient le 21 mai 2026 sur le b
 | actor chain | CONCEPT | définition | Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet | AJOUT |
 | single-hop short-lived tokens | METHODOLOGIE | définition | Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol | AJOUT |
 | OAuth 2.0 Token Exchange (RFC 8693) | TECHNOLOGIE | catégorie | Standard IETF pour l'échange de tokens entre services — base conceptuelle du per-hop token exchange Uber | AJOUT |
-| IETF WIMSE working group | EVENEMENT | catégorie | Workload Identity in Multi-System Environments — groupe de travail IETF émergent sur l'identité workload et agent | AJOUT |
-| draft-klrc-aiagent-auth-01 | EVENEMENT | catégorie | Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber | AJOUT |
+| IETF WIMSE working group | ORGANISATION | catégorie | Workload Identity in Multi-System Environments — groupe de travail IETF émergent sur l'identité workload et agent | AJOUT |
+| draft-klrc-aiagent-auth-01 | DOCUMENT | catégorie | Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber | AJOUT |
 | three-layer framework (Uber) | METHODOLOGIE | définition | Vision long terme Uber : (1) Identity & Trust Foundation, (2) Dynamic Access Control, (3) Unified Enforcement Plane — architecture cible cohérente identity + risk + policy | AJOUT |
 | Zero Trust Architecture | METHODOLOGIE | catégorie | Doctrine sécurité Uber (et industrie) — chaque requête vérifiée indépendamment, pas de confiance implicite — étendue par l'architecture agent identity | AJOUT |
 | AI Guard | TECHNOLOGIE | catégorie | Composant Uber au sein de l'AI Gateway pour la redaction des données sensibles avant envoi aux LLM externes | AJOUT |

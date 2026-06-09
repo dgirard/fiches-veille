@@ -19,9 +19,9 @@ Gemini CLI, Terms of Service, Privacy Notice, Google, Google Cloud, Gemini Code 
 Google / Gemini team
 
 ## Ton
-**Profil:** Legal-Technical | Institutionnelle | Informative-Prescriptive | Expert
+**Profil :** Juridico-technique | Voix institutionnelle | Registre informatif-prescriptif | Niveau expert
 
-Google legal/product documentation adopte formal Terms of Service voice combinant legal precision et developer clarity. Langage structured (data collection policies, opt-out procedures, authentication requirements) establishes contractual framework. Tone neutral professional typical legal documentation avoiding ambiguity. Structure systematic (scope→data practices→user rights→opt-out) facilitates compliance understanding. Format GitHub markdown makes technical documentation accessible developers. Typique developer-facing legal docs (AWS ToS, Azure Privacy) balancing legal requirements avec developer usability concerns.
+La documentation juridique/produit de Google adopte une voix formelle de conditions d'utilisation combinant précision juridique et clarté pour les développeurs. Langage structuré (politiques de collecte de données, procédures d'opt-out, exigences d'authentification) qui établit un cadre contractuel. Ton neutre et professionnel, typique de la documentation juridique, évitant l'ambiguïté. Structure systématique (périmètre → pratiques de données → droits utilisateur → opt-out) qui facilite la compréhension de la conformité. Le format markdown sur GitHub rend cette documentation technique accessible aux développeurs. Typique des documents juridiques destinés aux développeurs (ToS AWS, Privacy Azure), équilibrant exigences légales et facilité d'usage pour les développeurs.
 
 ## Pense-betes
 - **ToS/Privacy varient** selon méthode authentication et type de compte
@@ -63,16 +63,16 @@ Cette structure documentaire met en évidence une stratégie de monétisation cl
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | publie | Gemini CLI | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Gemini CLI | TECHNOLOGIE | est_hébergé_sur | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Gemini Code Assist for Individuals | TECHNOLOGIE | collecte | prompts et code utilisateurs | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
-| Gemini Code Assist for Standard/Enterprise | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
-| Gemini Developer API non payant | TECHNOLOGIE | collecte | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Gemini Developer API payant | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Vertex AI GenAI API | TECHNOLOGIE | ne_collecte_pas | prompts et code utilisateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| services IA gratuits | CONCEPT | financent_via | collecte de données pour entraînement | CONCEPT | 0.95 | ATEMPOREL | inféré |
-| services IA payants | CONCEPT | garantissent | confidentialité des données | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| Gemini CLI | TECHNOLOGIE | utilise | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini Code Assist for Individuals | TECHNOLOGIE | utilise | prompts et code utilisateurs (collecte pour entraînement) | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs Standard/Enterprise ne sont pas collectés | AFFIRMATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Gemini Developer API non payant | TECHNOLOGIE | utilise | prompts et code utilisateurs (collecte pour entraînement) | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs de l'API Developer payante ne sont pas collectés | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs Vertex AI GenAI API ne sont pas collectés | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
+| services IA gratuits | CONCEPT | est_basé_sur | collecte de données pour entraînement | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| services IA payants | CONCEPT | permet | confidentialité des données | CONCEPT | 0.95 | ATEMPOREL | inféré |
 | Usage Statistics | CONCEPT | permet | opt-out collecte données | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Google Cloud Platform | TECHNOLOGIE | applique | termes de confidentialité enterprise | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| termes de confidentialité enterprise | CONCEPT | s_applique_à | Google Cloud Platform | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

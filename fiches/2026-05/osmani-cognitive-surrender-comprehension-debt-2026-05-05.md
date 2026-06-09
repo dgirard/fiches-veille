@@ -171,29 +171,29 @@ Osmani propose **deux concepts neufs** : ***Comprehension Debt*** (l'écart croi
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Addy Osmani | PERSONNE | publie | Cognitive Surrender | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | publie | Cognitive Surrender | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Cognitive Offloading | CONCEPT | s_oppose_à | Cognitive Surrender | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Cognitive Surrender | CONCEPT | est_définie_par | "borrowing model's confidence as substitute for personal understanding" | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Steven Shaw | PERSONNE | a_co_publié | étude 1372 participants Wharton UPenn | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Gideon Nave | PERSONNE | a_co_publié | étude 1372 participants Wharton UPenn | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Étude Shaw Nave | EVENEMENT | a_mesuré | 73% acceptation réponses IA fausses | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| MIT Your Brain on ChatGPT | EVENEMENT | a_mesuré | réduction connectivité neuronale chez rédacteurs IA-assistés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Anthropic Skill-Formation Research | EVENEMENT | a_mesuré | 17% baisse compréhension chez ingénieurs IA-générant | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Throughput metrics | CONCEPT | ne_distingue_pas | understood work vs rubber-stamped work | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Confidence transfer | CONCEPT | rend | déclarations IA institutionnellement crédibles même si inventées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Compositional path dependency | CONCEPT | rend | chaque surrender plus probable que le précédent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Comprehension Debt | CONCEPT | accumule | écart entre volume code et compréhension humaine | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cognitive Surrender | CONCEPT | est_le_mécanisme_de | accumulation Comprehension Debt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Mutual Amplification | CONCEPT | est | boucle coopérative prompts↔output↔meilleurs prompts | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Addy Osmani | PERSONNE | affirme_que | Cognitive Surrender = "borrowing model's confidence as substitute for personal understanding" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Steven Shaw | PERSONNE | publie | étude 1372 participants Wharton UPenn | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Gideon Nave | PERSONNE | publie | étude 1372 participants Wharton UPenn | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Étude Shaw Nave | DOCUMENT | mesure | 73% d'acceptation de réponses IA fausses | MESURE | 0.97 | STATIQUE | déclaré_article |
+| MIT Your Brain on ChatGPT | DOCUMENT | mesure | réduction connectivité neuronale chez rédacteurs IA-assistés | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Anthropic Skill-Formation Research | DOCUMENT | mesure | 17% de baisse de compréhension chez ingénieurs générant via IA | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | affirme_que | les throughput metrics ne distinguent pas understood work de rubber-stamped work | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Confidence transfer | CONCEPT | permet | déclarations IA institutionnellement crédibles même si inventées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Compositional path dependency | CONCEPT | permet | chaque surrender rend le suivant plus probable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Comprehension Debt | CONCEPT | est_instance_de | écart croissant entre volume code et compréhension humaine | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Cognitive Surrender | CONCEPT | permet | accumulation de la Comprehension Debt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Mutual Amplification | CONCEPT | est_instance_de | boucle coopérative prompts↔output↔meilleurs prompts | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | 5 heuristiques personnelles anti-surrender | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | 6 garde-fous structurels organisationnels | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | PRs ~100 lignes max | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | solo keyboard time régulier | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Addy Osmani | PERSONNE | affirme_que | "thinking with AI vs not thinking at all remains entirely human" | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Operator posture | CONCEPT | détermine | offloading vs surrender (pas l'outil lui-même) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cognitive Surrender (Osmani) | CONCEPT | opérationnalise | "outsource thinking but not understanding" (Karpathy) | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Cognitive Surrender (Osmani) | CONCEPT | mesure_individuel_de | Brain Fry (BCG) population | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Anthropic 17% comprehension | EVENEMENT | est_la_même_que | étude juniors deskilling citée Sun NYT | EVENEMENT | 0.91 | STATIQUE | inféré |
+| Addy Osmani | PERSONNE | affirme_que | "thinking with AI vs not thinking at all remains entirely human" | CITATION | 0.98 | ATEMPOREL | déclaré_article |
+| Addy Osmani | PERSONNE | affirme_que | la posture de l'opérateur (pas l'outil lui-même) détermine offloading vs surrender | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Cognitive Surrender (Osmani) | CONCEPT | affine | "outsource thinking but not understanding" (Karpathy) | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Cognitive Surrender (Osmani) | CONCEPT | est_variante_de | Brain Fry (BCG) à l'échelle individuelle | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Anthropic Skill-Formation Research | DOCUMENT | converge_avec | étude juniors deskilling citée par Sun NYT | DOCUMENT | 0.91 | STATIQUE | inféré |
 
 ### Entités
 
@@ -204,11 +204,11 @@ Osmani propose **deux concepts neufs** : ***Comprehension Debt*** (l'écart croi
 | Cognitive Surrender | CONCEPT | définition | Mode toxique : accepter l'output IA en bloc sans former de raisonnement parallèle ; "borrowing the model's confidence as substitute for personal understanding" | AJOUT |
 | Comprehension Debt | CONCEPT | définition | Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" | AJOUT |
 | Mutual Amplification | CONCEPT | définition | Boucle coopérative où prompts utilisateur affinent l'output modèle, ce qui sharpens les prompts suivants ; opposé à delegation-based surrender | AJOUT |
-| Étude Shaw & Nave | EVENEMENT | description | Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur | AJOUT |
+| Étude Shaw & Nave | DOCUMENT | description | Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur | AJOUT |
 | Steven Shaw | PERSONNE | rôle | Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender | AJOUT |
 | Gideon Nave | PERSONNE | rôle | Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender | AJOUT |
-| MIT Your Brain on ChatGPT | EVENEMENT | description | Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement | AJOUT |
-| Anthropic Skill-Formation Research | EVENEMENT | description | Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau | AJOUT |
+| MIT Your Brain on ChatGPT | DOCUMENT | description | Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement | AJOUT |
+| Anthropic Skill-Formation Research | DOCUMENT | description | Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau | AJOUT |
 | 5 heuristiques personnelles Osmani | METHODOLOGIE | détail | (1) pre-generate expectations, (2) rigorous diff review au standard junior, (3) adversarial prompting, (4) fatigue awareness, (5) confidence source verification | AJOUT |
 | 6 garde-fous structurels Osmani | METHODOLOGIE | détail | (1) verification exit criteria, (2) anti-rationalization tables, (3) PRs ~100 lignes max, (4) interrogative > generative, (5) scaffolded friction, (6) solo keyboard time | AJOUT |
 | Plausible Surface Signals | CONCEPT | définition | Cause de surrender : code généré qui compile, passe linters, semble cohérent stylistiquement — crée des faux filtres de confiance | AJOUT |

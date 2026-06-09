@@ -13,9 +13,9 @@ AI Persuasion, Robert Cialdini, Principles of Influence, Compliance, GPT-4o-mini
 Lennart Meincke, Dan Shapiro, Angela Duckworth, Ethan Mollick, Lilach Mollick, Robert Cialdini
 
 ## Ton
-**Profil:** Académique-Professionnel | Institutionnelle research | Analytique-Éducative | Expert
+**Profil :** Académique-professionnel | Institutionnel recherche | Analytique-éducatif | Expert
 
-Research team Wharton adopte ton academic paper rigoureux combinant behavioral science et AI research. Multiple auteurs prestigieux (dont Cialdini, créateur principes persuasion) signals collaborative heavyweight scholarship. Terminologie spécialisée (parahuman behavior, compliance rates, statistical learning) vise audience researchers. Structure méthodologique systematique (28k conversations, 7 principes testés) demonstrates empirical rigor. Quantifications précises (72% vs 33.3%, 10%→100% commitment principle) ground claims scientifically. Framing implications AI safety ET theoretical insights reveals dual research-practical orientation. Typique Wharton GAIL publications combinant behavioral economics insights avec AI system understanding.
+L'équipe de recherche de Wharton adopte le ton rigoureux du papier académique combinant sciences comportementales et recherche en IA. Les multiples auteurs prestigieux (dont Cialdini, créateur des principes de persuasion) signalent une collaboration scientifique de haut niveau. Terminologie spécialisée (comportement parahumain, taux de compliance, apprentissage statistique) visant un public de chercheurs. La structure méthodologique systématique (28 000 conversations, 7 principes testés) démontre la rigueur empirique. Les quantifications précises (72 % vs 33,3 %, principe d'engagement 10 % → 100 %) ancrent scientifiquement les affirmations. Le cadrage des implications — sécurité de l'IA ET apports théoriques — révèle une double orientation recherche-pratique. Typique des publications du Wharton GAIL combinant éclairages d'économie comportementale et compréhension des systèmes IA.
 
 ## Pense-betes
 - LLMs exhibent des réponses "parahumaines" aux techniques de persuasion
@@ -58,15 +58,15 @@ En conclusion, cette étude du Generative AI Lab (GAIL) de Wharton démontre que
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Robert Cialdini | PERSONNE | a_créé | Principes d'Influence | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | collabore_avec | Robert Cialdini | PERSONNE | 0.98 | STATIQUE | déclaré_article |
-| Wharton GAIL | ORGANISATION | publie | Call Me A Jerk | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| GPT-4o-mini | TECHNOLOGIE | exhibe | comportement parahuman | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Principes d'Influence | METHODOLOGIE | augmente | taux de compliance IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| principe d'engagement | CONCEPT | multiplie | compliance IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| principe d'autorité | CONCEPT | augmente | compliance IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| apprentissage statistique | CONCEPT | génère | comportements sociaux IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Wharton GAIL | ORGANISATION | publie | Call Me A Jerk | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| comportement parahuman | CONCEPT | observé_dans | GPT-4o-mini | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Principes d'Influence | METHODOLOGIE | améliore | taux de compliance IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| principe d'engagement | CONCEPT | améliore | compliance IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| principe d'autorité | CONCEPT | améliore | compliance IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| apprentissage statistique | CONCEPT | permet | comportements sociaux IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | sciences comportementales | CONCEPT | améliore | compréhension IA | CONCEPT | 0.91 | ATEMPOREL | inféré |
-| techniques de persuasion | METHODOLOGIE | contournent | garde-fous de sécurité IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| RLHF | METHODOLOGIE | enseigne | réponses aux signaux sociaux | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| techniques de persuasion | METHODOLOGIE | réduit | efficacité des garde-fous de sécurité IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| RLHF | METHODOLOGIE | permet | réponses aux signaux sociaux | CONCEPT | 0.88 | ATEMPOREL | inféré |
 | Angela Duckworth | PERSONNE | collabore_avec | Wharton GAIL | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités

@@ -81,20 +81,20 @@ L'article cite les sponsors de la fondation (Accenture, Booking.com, Google Clou
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Olivier Rafal | PERSONNE | a_écrit | Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| WeNvision | ORGANISATION | a_publié | Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
-| Linux Foundation | ORGANISATION | a_lancé | Tokenomics Foundation | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Olivier Rafal | PERSONNE | affirme_que | le token est la nouvelle unité de mesure des dépenses technologiques | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| consommation IA | CONCEPT | est_analogue_à | l'évolution du cloud des années 2010 | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Goldman Sachs | ORGANISATION | prédit | usage mondial de tokens ×24 d'ici 2030 (120 M de milliards/mois) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| J.R. Storment | PERSONNE | affirme_que | l'efficacité des tokens est une préoccupation de niveau PDG | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Tokenomics Foundation | ORGANISATION | étend | la spécification FOCUS | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
-| Olivier Rafal | PERSONNE | affirme_que | le FinOps vise à optimiser l'efficience plus qu'à réduire les coûts | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| efficience IA | CONCEPT | se_mesure_par | le coût rapporté à l'impact métier | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| adoption agentique | CONCEPT | exige | de repenser le Target Operating Model | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| organisation agentique | CONCEPT | bascule_de | double pizza teams vers sandwich teams | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| SDLC dopée à l'IA sans fondations | CONCEPT | amplifie | les problèmes existants | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| WeNvision | ORGANISATION | propose | co-construire la gouvernance financière et le modèle opérationnel agentique | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | publie | Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| WeNvision | ORGANISATION | publie | Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Linux Foundation | ORGANISATION | a_créé | Tokenomics Foundation | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | le token est la nouvelle unité de mesure des dépenses technologiques | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| consommation IA | CONCEPT | converge_avec | l'évolution du cloud des années 2010 | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Goldman Sachs | ORGANISATION | prédit | usage mondial de tokens ×24 d'ici 2030 (120 M de milliards/mois) | MESURE | 0.92 | STATIQUE | déclaré_article |
+| J.R. Storment | PERSONNE | affirme_que | l'efficacité des tokens est une préoccupation de niveau PDG | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affine | la spécification FOCUS | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | le FinOps vise à optimiser l'efficience plus qu'à réduire les coûts | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| efficience IA | CONCEPT | est_basé_sur | le coût rapporté à l'impact métier | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | repenser le Target Operating Model pour l'ère agentique | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| sandwich teams | CONCEPT | remplace | double pizza teams | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | « une SDLC dopée à l'IA se contentera d'amplifier les problèmes et de vous aider juste à aller plus vite… dans le mur » | CITATION | 0.9 | ATEMPOREL | déclaré_article |
+| WeNvision | ORGANISATION | recommande | co-construire la gouvernance financière et le modèle opérationnel agentique | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -106,7 +106,6 @@ L'article cite les sponsors de la fondation (Accenture, Booking.com, Google Clou
 | Tokenomics Foundation | ORGANISATION | nature | Projet Linux Foundation × FinOps Foundation (annoncé 2026-06-03) | MISE_A_JOUR |
 | FinOps appliqué à l'IA | CONCEPT | définition | Gouvernance des coûts/efficience de l'infra IA mesurée au token | AJOUT |
 | token | CONCEPT | attribut | Nouvelle unité de mesure des dépenses technologiques | AJOUT |
-| projection Goldman Sachs | CONCEPT | valeur | ×24 d'ici 2030 → 120 millions de milliards de tokens/mois | AJOUT |
 | J.R. Storment | PERSONNE | rôle | Créateur / executive director de la FinOps Foundation | AJOUT |
 | spécification FOCUS | TECHNOLOGIE | rôle | Standard open source étendu pour la transparence des coûts IA | AJOUT |
 | Target Operating Model | METHODOLOGIE | enjeu | À repenser pour l'ère agentique (équipes, process, culture data, métier) | AJOUT |

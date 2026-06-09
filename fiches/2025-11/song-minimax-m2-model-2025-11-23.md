@@ -49,12 +49,12 @@ Olive Song conclut en présentant la roadmap future (M2.5, M3) incluant une meil
 | Olive Song | PERSONNE | travaille_chez | MiniMax | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | MiniMax | ORGANISATION | a_créé | MiniMax M2 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | MiniMax M2 | TECHNOLOGIE | utilise | Interleaved Thinking | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Interleaved Thinking | CONCEPT | alterne | pensée et action | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| MiniMax M2 | TECHNOLOGIE | a_seulement | 10 milliards de paramètres actifs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Interleaved Thinking | CONCEPT | est_basé_sur | alternance pensée et action | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| MiniMax M2 | TECHNOLOGIE | mesure | 10 milliards de paramètres actifs | MESURE | 0.97 | STATIQUE | déclaré_article |
 | MiniMax M2 | TECHNOLOGIE | utilise | Reinforcement Learning avec experts humains | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | MiniMax M2 | TECHNOLOGIE | permet | scalabilité multi-agents à faible coût | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| MiniMax M2 | TECHNOLOGIE | résiste_à | perturbations d'environnement | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| MiniMax | ORGANISATION | prévoit | M2.5 et M3 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| MiniMax M2 | TECHNOLOGIE | résout | perturbations d'environnement | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| MiniMax | ORGANISATION | prédit | M2.5 et M3 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Interleaved Thinking | CONCEPT | améliore | Chain of Thought linéaire | CONCEPT | 0.87 | ATEMPOREL | inféré |
 
 ### Entités

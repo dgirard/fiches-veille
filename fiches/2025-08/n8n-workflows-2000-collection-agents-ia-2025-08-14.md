@@ -13,15 +13,15 @@ Collection de workflows N8n pour création d'agents IA
 https://github.com/Zie619/n8n-workflows
 
 ## Keywords
-N8n, Workflows, Automatisation, Agents IA, Open source, workflow automation, no-code, low-code, integration, community
+N8n, workflows, automatisation, agents IA, open source, automatisation de workflows, no-code, low-code, intégration, communauté
 
 ## Authors
 Zie619 (GitHub)
 
 ## Ton
-**Profil:** Community-Resource | Institutionnelle open-source | Catalogue-Pratique | Intermédiaire
+**Profil :** Ressource communautaire | Institutionnel open source | Catalogue-Pratique | Intermédiaire
 
-GitHub contributor adopte community resource voice curating extensive workflow collection. Repository structure (2000+ workflows) demonstrates systematic organization typical valuable open-source resources. Langage accessible practical (automation, no-code, agents IA) lowers barrier entry. Tone collaborative community-oriented encouraging sharing et reuse. Format workflow catalog facilitates discovery practical automation patterns. Typique GitHub community projects (awesome lists, template repositories style) aggregating practical resources visant practitioners seeking ready-made solutions accelerate development.
+Le contributeur GitHub adopte une voix de ressource communautaire, curant une vaste collection de workflows. La structure du dépôt (2000+ workflows) démontre une organisation systématique, typique des ressources open source de valeur. Le langage accessible et pratique (automatisation, no-code, agents IA) abaisse la barrière à l'entrée. Le ton collaboratif, orienté communauté, encourage le partage et la réutilisation. Le format catalogue facilite la découverte de patterns d'automatisation pratiques. Typique des projets communautaires GitHub (listes « awesome », dépôts de templates) agrégeant des ressources pratiques, visant les praticiens en quête de solutions prêtes à l'emploi pour accélérer le développement.
 
 ## Pense-betes
 - **2000+ workflows** disponibles sur GitHub
@@ -68,16 +68,16 @@ Les workflows couvrent des scenarios variés : automatisation de réponses email
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Zie619 | PERSONNE | a_créé | n8n-workflows | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| n8n-workflows | TECHNOLOGIE | contient | 4343 workflows prêts à l'emploi | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| n8n-workflows | TECHNOLOGIE | est_hébergé_sur | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | mesure | 4 343 workflows prêts à l'emploi | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | utilise | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | n8n-workflows | TECHNOLOGIE | utilise | SQLite FTS5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | n8n-workflows | TECHNOLOGIE | utilise | FastAPI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| n8n-workflows | TECHNOLOGIE | couvre | 365 intégrations | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| n8n-workflows | TECHNOLOGIE | est_sous_licence | MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | mesure | 365 intégrations couvertes | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | utilise | licence MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | n8n | TECHNOLOGIE | permet | automatisation d'agents IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| n8n-workflows | TECHNOLOGIE | démocratise | développement d'agents automatisés | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| n8n-workflows | TECHNOLOGIE | s_appuie_sur | Docker | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| communauté open source | CONCEPT | contribue_à | n8n-workflows | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| n8n-workflows | TECHNOLOGIE | permet | démocratisation du développement d'agents automatisés | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| n8n-workflows | TECHNOLOGIE | utilise | Docker | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| communauté open source | CONCEPT | améliore | n8n-workflows | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | n8n-workflows | TECHNOLOGIE | réduit | barrière à l'entrée no-code/low-code | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités

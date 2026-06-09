@@ -63,18 +63,18 @@ Pour les organisations orientées S3/AWS et les équipes DevOps recherchant une 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Julien Mangeard | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Gilles Chehade | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Julien Mangeard | PERSONNE | a_créé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | a_créé | Plakar | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Gilles Chehade | PERSONNE | a_créé | OpenSMTPD | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Plakar | ORGANISATION | a_rejoint | Linux Foundation et CNCF | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Plakar | ORGANISATION | a_levé | 3 millions USD | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Olivier Pomel | PERSONNE | a_investi_dans | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Solomon Hykes | PERSONNE | a_investi_dans | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Plakar | ORGANISATION | utilise | FastCDC | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Plakar | ORGANISATION | fait_partie_de | Linux Foundation et CNCF | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Plakar | ORGANISATION | mesure | levée de 3 millions USD (mai 2025) | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Olivier Pomel | PERSONNE | soutient | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Solomon Hykes | PERSONNE | soutient | Plakar | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Plakar | TECHNOLOGIE | utilise | FastCDC | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | FastCDC | TECHNOLOGIE | surpasse | Rabin (Restic) 13x | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| Jean-Philippe Aumasson | PERSONNE | a_audité | cryptographie Plakar | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Plakar | ORGANISATION | améliore_performances_S3_de | 60x | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| Kloset | TECHNOLOGIE | fait_partie_de | Plakar | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Jean-Philippe Aumasson | PERSONNE | affirme_que | « conception cryptographiquement saine » | CITATION | 0.95 | STATIQUE | déclaré_article |
+| Plakar | TECHNOLOGIE | améliore | performances S3 (60x, 14 min → 13 sec) | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Kloset | TECHNOLOGIE | fait_partie_de | Plakar | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | format .ptar | TECHNOLOGIE | remplace | tar (1979) | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
@@ -82,6 +82,7 @@ Pour les organisations orientées S3/AWS et les équipes DevOps recherchant une 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Plakar | ORGANISATION | fondation | Paris, septembre 2024 | AJOUT |
+| Plakar | TECHNOLOGIE | catégorie | Solution de sauvegarde open source | AJOUT |
 | Julien Mangeard | PERSONNE | rôle | Cofondateur, ex-CTO Veepee | AJOUT |
 | Gilles Chehade | PERSONNE | rôle | Cofondateur, contributeur OpenBSD | AJOUT |
 | Kloset | TECHNOLOGIE | catégorie | Moteur stockage immuable | AJOUT |

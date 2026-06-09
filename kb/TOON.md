@@ -26,11 +26,6 @@
 - [[kb/_entites-mineures#YAML\|YAML]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
 
-### optimise
-
-- [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] (CONCEPT) — 0.97, ATEMPOREL
-  - [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
-
 ### remplace
 
 - [[kb/_entites-mineures#JSON\|JSON]] (TECHNOLOGIE) — 0.88, ATEMPOREL
@@ -39,6 +34,8 @@
 ### réduit
 
 - [[kb/_entites-mineures#consommation-de-jetons\|consommation de jetons]] (CONCEPT) — 0.99, ATEMPOREL
+  - [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
+- [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
 
 ### s_oppose_à
@@ -49,7 +46,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] **a_créé** → TOON — 0.99
-- [[kb/_entites-mineures#organisations-LLM\|organisations LLM]] **bénéficient_de** → TOON — 0.87
+- [[kb/_entites-mineures#organisations-LLM\|organisations LLM]] **utilise** → TOON — 0.87
 
 ## Fiches sources
 

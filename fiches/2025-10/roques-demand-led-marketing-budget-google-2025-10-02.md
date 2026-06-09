@@ -66,18 +66,18 @@ Le message central : le succès marketing en 2026 dépend de l'adoption de ce mo
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Guillaume Roques | PERSONNE | publie | Fixed marketing budgets are holding you back | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Guillaume Roques | PERSONNE | travaille_pour | Google Cloud EMEA | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Budget marketing fixe | CONCEPT | empêche | capture de la demande disponible | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Guillaume Roques | PERSONNE | publie | Fixed marketing budgets are holding you back | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Guillaume Roques | PERSONNE | travaille_chez | Google Cloud EMEA | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Budget marketing fixe | CONCEPT | réduit | capture de la demande disponible | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Demand-led marketing | METHODOLOGIE | remplace | budget marketing fixe | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Annonceurs britanniques | ORGANISATION | gagneraient | 20% de conversions supplémentaires | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Sophie Neary | PERSONNE | illustre | manque à gagner budgétaire après 19h | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Scott Sinclair | PERSONNE | affirme_que | dépenser pour capturer la demande est rationnel si ROI maîtrisé | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| CMO | CONCEPT | doit_adopter | KPI financièrement pertinents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Meridian | TECHNOLOGIE | est_utilisé_pour | Marketing Mix Modeling | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Performance Max | TECHNOLOGIE | optimise | campagnes publicitaires en temps réel | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | constitue | moteur stratégique du demand-led marketing | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| First-party data | CONCEPT | alimente | flywheel IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Guillaume Roques | PERSONNE | affirme_que | les annonceurs britanniques gagneraient 20% de conversions supplémentaires avec l'agilité budgétaire | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Sophie Neary | PERSONNE | affirme_que | manquer 30% des ventes après 19h équivaut à fermer boutique un jour de soldes | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
+| Scott Sinclair | PERSONNE | affirme_que | dépenser pour capturer la demande est rationnel si ROI maîtrisé | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Guillaume Roques | PERSONNE | recommande | KPI financièrement pertinents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Meridian | TECHNOLOGIE | s_applique_à | Marketing Mix Modeling | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Performance Max | TECHNOLOGIE | améliore | campagnes publicitaires en temps réel | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | est_instance_de | moteur stratégique du demand-led marketing | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| First-party data | CONCEPT | permet | flywheel IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | CMO | CONCEPT | collabore_avec | CFO | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Google Analytics | TECHNOLOGIE | permet | suivi complet du parcours client | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 

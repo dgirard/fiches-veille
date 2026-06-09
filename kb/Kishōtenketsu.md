@@ -8,12 +8,12 @@
 
 ## Relations (comme sujet)
 
-### génère_intérêt_sans
+### permet
 
-- [[kb/_entites-mineures#conflit\|conflit]] (CONCEPT) — 0.88, ATEMPOREL
+- [[kb/_entites-mineures#intérêt-narratif-sans-conflit\|intérêt narratif sans conflit]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité architectures narratives et formats de conférence - Guide global]]
 
-### recommandée_pour
+### s_applique_à
 
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02\|Traité architectures narratives et formats de conférence - Guide global]]

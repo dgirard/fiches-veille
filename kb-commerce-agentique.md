@@ -1,10 +1,10 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 9 fiches | Période : Février 2025 — Février 2026 | Généré le 2026-03-03
+> 10 fiches | Période : Février 2025 — Mars 2026 | Généré le 2026-06-09
 
 ## Vue d'ensemble
 
-Cette KB thématique couvre l'émergence du **commerce agentique** : la transformation du e-commerce par les agents IA, depuis les premiers signaux d'adoption consommateur jusqu'aux protocoles techniques de Google (ACP, AP2, UCP) qui standardisent les interactions agent-marchand.
+Cette KB thématique couvre l'émergence du **commerce agentique** : la transformation du e-commerce par les agents IA, depuis les premiers signaux d'adoption consommateur jusqu'aux protocoles techniques de Google (ACP, AP2, UCP) qui standardisent les interactions agent-marchand. Elle intègre aussi le **contre-courant des protocoles ouverts** (x402, mpp) fondés sur les micropaiements en stablecoins, qui critique les plateformes fermées ACP/UCP comme des « jardins clos » et anticipe la fin du modèle publicitaire face à des agents non distractibles.
 
 ## Chronologie
 
@@ -22,11 +22,13 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 - **Jan. 2026** — Google annonce le Universal Commerce Protocol (UCP) au NRF 2026, Carrefour premier européen
 - **Fév. 2026** — Wayfair et Etsy utilisent UCP en production. Nicolas Marette publie le guide technique ACP/UCP
 - **Fév. 2026** — Max Thilén (Opascope) publie le guide de référence ACP vs UCP : 900M utilisateurs ChatGPT Instant Checkout, absence stratégique Amazon, crise attribution, triptyque Amazon/Google/OpenAI
+- **Mars 2026** — Sam Ragsdale (Merit Systems) qualifie ACP/UCP d'« AOL du commerce agentique » et défend les protocoles ouverts x402 (Coinbase) et mpp (Tempo + Stripe) : micropaiements stablecoins sub-cent, 2000+ agents sur AgentCash 10 jours après lancement
 
 ## Fiches sources
 
 ### Protocoles et guides ACP / UCP
 
+- [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert : protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
 - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026 : ACP vs UCP, Amazon absent, attribution agentique, feed produit IA]]
 - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]
@@ -48,36 +50,43 @@ Cette KB thématique couvre l'émergence du **commerce agentique** : la transfor
 ### Protocoles et technologies
 
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol (UCP)]] — Protocole commerce agentique Google (annoncé jan. 2026)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol\|Agentic Commerce Protocol (ACP)]] — Protocole commerce agentique OpenAI/Stripe, live sept. 2025, 4% commission
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol (ACP)]] — Protocole commerce agentique OpenAI/Stripe, live sept. 2025, 4% commission
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — Checkout agentique sans visite site, 900M utilisateurs hebdomadaires
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] — Assistant IA shopping in-app Amazon, 300M utilisateurs, +60% conversion
 - [[kb/_entites-mineures#Alexa+\|Alexa+]] — Commerce vocal automatisé Amazon
-- [[kb/_entites-mineures#AP2\|AP2]] — Agent Payments Protocol, prédécesseur
+- [[kb/AP2\|AP2]] — Agent Payments Protocol, prédécesseur
 - [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] — Plateforme catalogue Google
-- [[kb/_entites-mineures#schema.org\|schema.org]] — Données structurées, socle des ontologies commerce
-- [[kb/_entites-mineures#OAuth-2.0\|OAuth 2.0]] — Liaison identité agent-utilisateur
+- schema.org — Données structurées, socle des ontologies commerce
+- OAuth 2.0 — Liaison identité agent-utilisateur
 - [[kb/_entites-mineures#WordLift\|WordLift]] — Outil SEO sémantique et diffusion visuelle
 - [[kb/AEO\|AEO]] — Answer Engine Optimization
+- [[kb/_entites-mineures#x402\|x402]] — Protocole de paiement agentique ouvert (Coinbase), basé sur le code HTTP 402
+- [[kb/_entites-mineures#mpp\|mpp]] — Protocole de micropaiement ouvert (Tempo + Stripe)
+- [[kb/_entites-mineures#AgentCash\|AgentCash]] — Balance unique + découverte marchands pour agents (x402scan.com, mppscan.com)
+- [[kb/_entites-mineures#HTTP-402\|HTTP 402]] — Code « Payment Required » créé en 1997, jamais implémenté faute de micropaiements viables
+- [[kb/_entites-mineures#Stablecoins\|Stablecoins]] — Coûts de transaction sub-cent, socle des micropaiements agentiques
 
 ### Organisations
 
 - [[kb/Google\|Google]] — Créateur UCP/ACP/AP2
 - [[kb/Shopify\|Shopify]] — Trafic IA ×7, commandes ×11
 - [[kb/OpenAI\|OpenAI]] — ChatGPT Atlas, Instant Checkout, ACP co-créateur
-- [[kb/_entites-mineures#Amazon\|Amazon]] — Rufus AI, Alexa+, Buy for Me, absent des protocoles ouverts
+- [[kb/Amazon\|Amazon]] — Rufus AI, Alexa+, Buy for Me, absent des protocoles ouverts
 - [[kb/_entites-mineures#Opascope\|Opascope]] — Cabinet conseil e-commerce agentique
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — Premier utilisateur UCP
 - [[kb/_entites-mineures#Etsy\|Etsy]] — Premier utilisateur UCP
 - [[kb/_entites-mineures#Carrefour\|Carrefour]] — Premier européen UCP (NRF 2026)
-- [[kb/_entites-mineures#Stripe\|Stripe]] — Agent Commerce Service (ACS)
+- [[kb/Stripe\|Stripe]] — Agent Commerce Service (ACS), co-créateur du protocole mpp avec Tempo
 - [[kb/_entites-mineures#Custplace\|Custplace]] — Preuve sociale tierce pour LLMs
+- [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — Infrastructure commerce agentique ouvert (AgentCash)
 
 ### Personnes
 
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — Guide technique ACP/UCP
 - [[kb/_entites-mineures#Barron-Ernst\|Barron Ernst]] — Commerce sur ChatGPT
-- [[kb/_entites-mineures#Olivier-Rafal\|Olivier Rafal]] — Web conversationnel
+- [[kb/Olivier-Rafal\|Olivier Rafal]] — Web conversationnel
 - [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] — Guide référence ACP vs UCP (Opascope)
+- [[kb/_entites-mineures#Sam-Ragsdale\|Sam Ragsdale]] — Manifeste commerce agentique ouvert (Merit Systems)
 
 ## Concepts structurants
 
@@ -100,6 +109,14 @@ Visibilité (AEO/schema.org)
         → Post-achat (webhooks, fidélité, support)
 ```
 
+### Jardins clos vs protocoles ouverts (débat Ragsdale, mars 2026)
+
+- **Parallèle historique** : AOL (jardin clos, bundle curé) vs Mosaic/HTTP (protocoles ouverts) — AOL a semblé gagner (fusion Time Warner $350Md), puis les protocoles ouverts l'ont emporté
+- **« Checkout in ChatGPT is the AOL of agentic commerce »** : ACP/UCP vus comme des plateformes fermées, culs-de-sac pour l'innovation venue des marges
+- **La pub ne fonctionne plus** : les agents IA ne sont pas distractibles ; même les jardins clos (Facebook, TikTok) sont percés par les agents computer-use qui imitent le trafic humain
+- **x402 (Coinbase) et mpp (Tempo + Stripe)** : 28 ans après l'invention du code HTTP 402 (Berners-Lee, 1997), les stablecoins rendent enfin les micropaiements viables — paiement sans accord commercial préalable, sans whitelist
+- **Les skills comme artefact transitionnel** : les agents modernes découvrent une API inconnue, lisent son schéma et l'utilisent sans entraînement préalable
+
 ### Signaux clés
 
 - **900M utilisateurs hebdomadaires** ChatGPT Instant Checkout (déc. 2025)
@@ -114,3 +131,5 @@ Visibilité (AEO/schema.org)
 - **Attribution agentique invisible** : 70-90% des parcours déjà invisibles, premier signal = webhook commande
 - **McKinsey : $3-5T global** de revenus commerce agentique d'ici 2030
 - **Descriptions produit pour IA ≠ SEO** : cas d'usage et matériaux plutôt que mots-clés
+- **StackOverflow : -75% de vues depuis GPT-4**, trafic des sites tech news -60% — le modèle publicitaire s'effondre face aux agents
+- **AgentCash : 2000+ agents actifs** 10 jours après le lancement, registres marchands x402scan.com et mppscan.com

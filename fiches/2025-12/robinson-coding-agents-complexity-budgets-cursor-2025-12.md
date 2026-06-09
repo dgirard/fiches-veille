@@ -57,16 +57,16 @@ Le cas démontre également que les agents performent mieux sur des bases de cod
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Lee Robinson | PERSONNE | a_migré | cursor.com du CMS vers Markdown | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| migration cursor.com | EVENEMENT | a_coûté | 260,32$ en tokens | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| migration cursor.com | EVENEMENT | a_duré | 3 jours | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| migration cursor.com | EVENEMENT | a_généré | 67 commits (+43K/-322K lignes) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| CMS headless | TECHNOLOGIE | introduit | 5 sources de complexité cachée | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| migration | EVENEMENT | a_économisé | 56 848$ en coûts CDN | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Lee Robinson | PERSONNE | affirme_que | coût des abstractions avec IA est très élevé | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| agents de codage | CONCEPT | performent_mieux_sur | bases de code épurées | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| élimination complexité | CONCEPT | s_autofinance_par | économies opérationnelles | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| build cursor.com | CONCEPT | est_devenu | 2x plus rapide après migration | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | a_créé | migration cursor.com du CMS vers Markdown | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | mesure | coût de 260,32$ en tokens | MESURE | 0.95 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | mesure | durée de 3 jours | MESURE | 0.95 | STATIQUE | déclaré_article |
+| migration cursor.com | EVENEMENT | mesure | 67 commits (+43K/-322K lignes) | MESURE | 0.93 | STATIQUE | déclaré_article |
+| CMS headless | TECHNOLOGIE | permet | 5 sources de complexité cachée | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| migration cursor.com | EVENEMENT | mesure | 56 848$ économisés en coûts CDN | MESURE | 0.90 | STATIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | affirme_que | le coût des abstractions avec l'IA est très élevé | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| bases de code épurées | CONCEPT | améliore | agents de codage | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
+| élimination complexité | CONCEPT | permet | économies opérationnelles | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| build cursor.com | CONCEPT | mesure | 2x plus rapide après migration | MESURE | 0.90 | STATIQUE | déclaré_article |
 
 ### Entités
 

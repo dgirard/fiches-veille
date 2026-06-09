@@ -19,11 +19,11 @@ UDA, Unified Data Architecture, knowledge graph, domain modeling, RDF, SHACL, Up
 Alex Hutter, Alexandre Bertails, Claire Wang, Haoyuan He, Kishore Banala, Peter Royal, Shervin Afshar (Netflix Technology Blog)
 
 ## Ton
-**Profil:** Engineering-Deep-Dive | Institutionnelle tech | Descriptive-Technique | Expert
+**Profil :** Plongée technique d'ingénierie | Voix institutionnelle tech | Registre descriptif-technique | Niveau expert
 
-Netflix engineering team adopte deep technical exposition voice typical Netflix Tech Blog showcasing architectural innovations. Multi-author collaboration (7 engineers) signals cross-team effort. Langage highly specialized (RDF/SHACL, Upper metamodel, semantic mappings, SPARQL) vise senior data engineers. Structure systematic (problem→solution→implementation→results) demonstrates engineering rigor. Tone confident technical authority sharing lessons at scale. Typique big tech engineering blogs (Uber, Airbnb, LinkedIn style) documenting complex systems visant engineering community learning from scale challenges.
+L'équipe d'ingénierie Netflix adopte une voix d'exposé technique approfondi typique du Netflix Tech Blog présentant ses innovations architecturales. La collaboration multi-auteurs (7 ingénieurs) signale un effort transverse aux équipes. Langage hautement spécialisé (RDF/SHACL, métamodèle Upper, mappings sémantiques, SPARQL) visant des ingénieurs data seniors. Structure systématique (problème → solution → implémentation → résultats) qui démontre la rigueur d'ingénierie. Ton d'autorité technique confiante partageant des leçons à l'échelle. Typique des blogs d'ingénierie des big tech (style Uber, Airbnb, LinkedIn) documentant des systèmes complexes pour une communauté d'ingénieurs apprenant des défis de l'échelle.
 
-## Pense-bêtes
+## Pense-betes
 - **Principe fondamental** : "Model once, represent everywhere" - modéliser une fois, représenter partout
 - **Problème résolu** : modèles dupliqués/inconsistants, terminologie incohérente, qualité données, connectivité limitée
 - **UDA = knowledge graph** pour données connectées en Content Engineering
@@ -77,19 +77,19 @@ UDA transforme modèles conceptuels en control plane actif : non seulement docum
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Netflix | ORGANISATION | a_développé | UDA | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Netflix | ORGANISATION | a_créé | UDA | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | UDA | TECHNOLOGIE | est_basé_sur | RDF | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | UDA | TECHNOLOGIE | est_basé_sur | SHACL | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Upper | TECHNOLOGIE | est_composant_de | UDA | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Upper | TECHNOLOGIE | génère | GraphQL | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Upper | TECHNOLOGIE | génère | Avro | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | fait_partie_de | UDA | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | permet | génération de schémas GraphQL | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Upper | TECHNOLOGIE | permet | génération de schémas Avro | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | UDA | TECHNOLOGIE | permet | PDM | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | UDA | TECHNOLOGIE | permet | Sphere | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | PDM | TECHNOLOGIE | utilise | SKOS | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Sphere | TECHNOLOGIE | génère | requêtes SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| UDA | TECHNOLOGIE | résout | duplication_modèles | CONCEPT | 0.97 | ATEMPOREL | inféré |
-| UDA | TECHNOLOGIE | connecte | domain models | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Netflix | ORGANISATION | applique | principe "Model Once Represent Everywhere" | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Sphere | TECHNOLOGIE | permet | génération de requêtes SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| UDA | TECHNOLOGIE | résout | duplication des modèles | CONCEPT | 0.97 | ATEMPOREL | inféré |
+| UDA | TECHNOLOGIE | permet | connexion des domain models aux conteneurs de données | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Netflix | ORGANISATION | utilise | principe "Model Once Represent Everywhere" | CONCEPT | 0.94 | STATIQUE | déclaré_article |
 
 ### Entités
 

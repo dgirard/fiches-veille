@@ -66,11 +66,11 @@ La philosophie sous-jacente résonne avec le context engineering : les outils ch
 | QMD | TECHNOLOGIE | utilise | recherche sémantique par embeddings | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | QMD | TECHNOLOGIE | utilise | Reciprocal Rank Fusion | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | QMD | TECHNOLOGIE | remplace | grep pour recherche vault | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| QMD | TECHNOLOGIE | s_intègre_à | Model Context Protocol | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| QMD | TECHNOLOGIE | utilise | Model Context Protocol | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | skill /recall | TECHNOLOGIE | est_basé_sur | QMD | TECHNOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | skill /recall | TECHNOLOGIE | améliore | reconstruction contexte Claude Code | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Artem Zhutov | PERSONNE | affirme_que | grep ne passe pas à l'échelle pour agents IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| recherche sémantique | CONCEPT | transforme | vault passif en mémoire active | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Artem Zhutov | PERSONNE | affirme_que | grep ne passe pas à l'échelle pour agents IA | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| recherche sémantique | CONCEPT | permet | transformation du vault passif en mémoire active | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Tobias Lütke | PERSONNE | dirige | Shopify | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | QMD | TECHNOLOGIE | fait_partie_de | architecture mémoire agents IA | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 

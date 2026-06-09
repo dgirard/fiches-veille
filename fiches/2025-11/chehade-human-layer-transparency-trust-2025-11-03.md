@@ -23,7 +23,7 @@ Kevin Kuipers (interview de Gilles Chehade)
 
 Chehade adopte approche délibérée équilibrant précision technique et accessibilité via métaphores (musique, psychologie). Ton introspectif qualifiant statements avec nuance ("I don't really think in terms of legitimacy") plutôt que positions tranchées. Mouvement narratif personnel → principe → pratique ancré dans décennies Unix. Humilité intellectuelle ("At the time, it crushed me") et admission confortable de révision positions. Vise professionnels téchniquement lettrés valorisant craft comme impératif moral, pas commodity production.
 
-## Pense-bêtes
+## Pense-betes
 - **Gilles Chehade** : co-fondateur Plakar, créateur OpenSMTPD, architecte systèmes
 - **Qualité logicielle années 90** : objectivement pire mais progrès grâce au partage de connaissances
 - **Open-source authentique** : utiliser l'open-source uniquement comme stratégie marketing = échec garanti
@@ -75,19 +75,19 @@ Ultimement, la vision de Chehade se concentre sur la construction de systèmes q
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Gilles Chehade | PERSONNE | a_créé | OpenSMTPD | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Gilles Chehade | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Julien Mangeard | PERSONNE | a_cofondé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | a_créé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Julien Mangeard | PERSONNE | a_créé | Plakar | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
 | OpenSMTPD | TECHNOLOGIE | fait_partie_de | OpenBSD | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Plakar | ORGANISATION | vise_à | transparence des sauvegardes | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Plakar | ORGANISATION | permet | transparence des sauvegardes | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | Plakar | ORGANISATION | est_basé_sur | immutabilité | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Plakar | ORGANISATION | est_basé_sur | déduplication | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Gilles Chehade | PERSONNE | affirme_que | IA transforme le développement logiciel comme Internet | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Gilles Chehade | PERSONNE | prédit | déconnexion des compétences fondamentales en programmation | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| open-source marketing | CONCEPT | contredit | philosophie open-source authentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| artisanat logiciel | CONCEPT | requiert | clarté, portabilité et simplicité | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| confiance logicielle | CONCEPT | émerge_de | transparence | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Gilles Chehade | PERSONNE | a_obtenu | master en informatique | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Kevin Kuipers | PERSONNE | a_interviewé | Gilles Chehade | PERSONNE | 0.99 | STATIQUE | déclaré_article |
+| Gilles Chehade | PERSONNE | affirme_que | l'IA transforme le développement logiciel comme Internet | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Gilles Chehade | PERSONNE | prédit | l'IA accélère la déconnexion des compétences fondamentales en programmation | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
+| open-source marketing | CONCEPT | s_oppose_à | philosophie open-source authentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| artisanat logiciel | CONCEPT | utilise | clarté, portabilité et simplicité | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| confiance logicielle | CONCEPT | est_basé_sur | transparence | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Gilles Chehade | PERSONNE | est_instance_de | titulaire d'un master en informatique | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Kevin Kuipers | PERSONNE | collabore_avec | Gilles Chehade | PERSONNE | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

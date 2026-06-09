@@ -21,7 +21,7 @@ Antoine Habert
 ## Ton
 **Profil:** Practitioner-Lessons-Learned | Première personne practitioner | Réflexive-Prescriptive | Expert
 
-Habert (fintech practitioner) adopte experience-sharing voice documenting deux ans production AI agent deployment. French language adds European tech perspective to predominantly anglophone AI discourse. Langage production-oriented (observabilité, mémoire organisationnelle, supervision adaptative) demonstrates operational maturity beyond prototyping. Tone measured experienced practitioner sharing hard-won lessons. Structure lessons-learned format facilitates knowledge transfer practitioners facing similar challenges. Typique French tech practitioners blogging operational AI experiences visant francophone engineering community learning production deployment realities.
+Habert (praticien fintech) adopte une voix de partage d'expérience documentant deux ans de déploiement d'agents IA en production. La rédaction en français apporte une perspective tech européenne à un discours IA majoritairement anglophone. Le langage orienté production (observabilité, mémoire organisationnelle, supervision adaptative) démontre une maturité opérationnelle au-delà du prototypage. Ton mesuré de praticien expérimenté partageant des leçons durement acquises. La structure en format retour d'expérience facilite le transfert de connaissances vers les praticiens confrontés aux mêmes défis. Typique des praticiens tech français bloguant leurs expériences IA opérationnelles, visant la communauté d'ingénierie francophone qui découvre les réalités du déploiement en production.
 
 ## Pense-betes
 - Retour d'expérience de 2 ans (2023-2025) de déploiement d'agents IA fonctionnels en production dans une fintech européenne
@@ -72,21 +72,21 @@ Cette contribution éclaire le chemin vers des agents IA véritablement viables 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Antoine Habert | PERSONNE | a_rejoint | WEnvision | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Antoine Habert | PERSONNE | a_construit | AI4Ops | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | travaille_chez | WEnvision | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | a_créé | AI4Ops | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | WEnvision | ORGANISATION | fait_partie_de | SFEIR | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| WEnvision | ORGANISATION | a_développé | RAISE | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| AI4Ops | TECHNOLOGIE | a_automatisé | support IT niveau 1 | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| AI4Ops | TECHNOLOGIE | a_réduit | coûts opérationnels | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Agentique adaptative | CONCEPT | repose_sur | transparence du raisonnement | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Agentique adaptative | CONCEPT | repose_sur | mémoire organisationnelle intelligente | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Agentique adaptative | CONCEPT | repose_sur | collaboration cognitive des agents | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Agentique adaptative | CONCEPT | repose_sur | supervision adaptative | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| LangGraph | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| CrewAI | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| AutoGen | TECHNOLOGIE | manque | fondations production | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| RAISE | TECHNOLOGIE | incarne | agentique adaptative | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Antoine Habert | PERSONNE | prédit | agents IA viables en production nécessitent gouvernance cognitive | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| WEnvision | ORGANISATION | a_créé | RAISE | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| AI4Ops | TECHNOLOGIE | remplace | support IT niveau 1 | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| AI4Ops | TECHNOLOGIE | réduit | coûts opérationnels | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Agentique adaptative | METHODOLOGIE | est_basé_sur | transparence du raisonnement | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | METHODOLOGIE | est_basé_sur | mémoire organisationnelle intelligente | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | METHODOLOGIE | est_basé_sur | collaboration cognitive des agents | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agentique adaptative | METHODOLOGIE | est_basé_sur | supervision adaptative | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Antoine Habert | PERSONNE | affirme_que | LangGraph manque de fondations production | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | affirme_que | CrewAI manque de fondations production | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | affirme_que | AutoGen manque de fondations production | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| RAISE | TECHNOLOGIE | est_basé_sur | agentique adaptative | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Antoine Habert | PERSONNE | prédit | les agents IA viables en production nécessitent une gouvernance cognitive | AFFIRMATION | 0.92 | ATEMPOREL | inféré |
 
 ### Entités
 
@@ -100,7 +100,7 @@ Cette contribution éclaire le chemin vers des agents IA véritablement viables 
 | LangGraph | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
 | CrewAI | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
 | AutoGen | TECHNOLOGIE | catégorie | Framework agentique (orchestration) | AJOUT |
-| Agentique adaptative | CONCEPT | définition | Approche architecturale à 4 piliers pour IA agentique en production | AJOUT |
+| Agentique adaptative | METHODOLOGIE | définition | Approche architecturale à 4 piliers pour IA agentique en production | AJOUT |
 | Transparence du raisonnement | CONCEPT | pilier | Pilier 1 de l'agentique adaptative | AJOUT |
 | Mémoire organisationnelle intelligente | CONCEPT | pilier | Pilier 2 de l'agentique adaptative | AJOUT |
 | Supervision adaptative | CONCEPT | pilier | Pilier 4 de l'agentique adaptative | AJOUT |

@@ -117,33 +117,33 @@ Lue dans le corpus 2025-2026, AI/works™ est la **mise en produit** de la doctr
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Thoughtworks | ORGANISATION | a_lancé | AI/works™ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| AI/works™ | TECHNOLOGIE | est | plateforme de développement agentique | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| AI/works™ | TECHNOLOGIE | couvre | full software development lifecycle | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Thoughtworks | ORGANISATION | publie | AI/works™ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| AI/works™ | TECHNOLOGIE | est_instance_de | plateforme de développement agentique | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| AI/works™ | TECHNOLOGIE | s_applique_à | full software development lifecycle | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | utilise | Super Spec | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Super Spec | CONCEPT | unifie | architecture + workflows + sécurité + données + UX | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Runtime Ops | METHODOLOGIE | met_à_jour | Super Spec | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Runtime Ops | METHODOLOGIE | régénère | code impacté | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Spec to Code | METHODOLOGIE | génère | code testable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Super Spec | CONCEPT | s_applique_à | architecture + workflows + sécurité + données + UX (spécification unifiée) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Runtime Ops | METHODOLOGIE | affine | Super Spec (mise à jour continue) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Runtime Ops | METHODOLOGIE | permet | régénération du code impacté | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Spec to Code | METHODOLOGIE | permet | génération de code testable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Spec to Code | METHODOLOGIE | utilise | coordinated agents | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Reverse Engineering | METHODOLOGIE | transforme | legacy codebases en as-is specifications | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Control Plane | METHODOLOGIE | orchestre | AI agents | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Control Plane | METHODOLOGIE | fournit | cost transparency + active guardrails + end-to-end lineage | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Thoughtworks | ORGANISATION | affirme_que | économie est le breakthrough | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Reverse Engineering | METHODOLOGIE | permet | transformation des legacy codebases en as-is specifications | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Control Plane | METHODOLOGIE | utilise | AI agents (orchestration et gouvernance) | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Control Plane | METHODOLOGIE | permet | cost transparency + active guardrails + end-to-end lineage | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Thoughtworks | ORGANISATION | affirme_que | l'économie est le breakthrough d'AI/works™ | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | remplace | cycle build-run-rebuild | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| AI/works™ | TECHNOLOGIE | promet | systems stop aging | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| AI/works™ | TECHNOLOGIE | évite | token blowout | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| 3-3-3 methodology | METHODOLOGIE | livre | MVP en 3 mois | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Constellation Research | ORGANISATION | recognized | AI/works™ | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Constellation Research | ORGANISATION | affirme_que | spec-driven lifecycle change l'économie du software | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Thoughtworks | ORGANISATION | prédit | "systems finally stop aging" avec AI/works™ | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| AI/works™ | TECHNOLOGIE | réduit | token blowout | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| 3-3-3 methodology | METHODOLOGIE | permet | MVP en production en 3 mois | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Constellation Research | ORGANISATION | recommande | AI/works™ (reconnaissance analyste) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Constellation Research | ORGANISATION | affirme_que | l'approche spec-driven lifecycle change l'économie du software | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Thoughtworks | ORGANISATION | s_oppose_à | consultant crowds (grands intégrateurs) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Thoughtworks | ORGANISATION | revendique | engineering foundation rather than enthusiasm | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| AI/works™ | TECHNOLOGIE | interopère_avec | AWS + GCP + Azure + Databricks + Snowflake | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| AI/works™ | TECHNOLOGIE | interopère_avec | Claude + DeepSeek + Gemini + Grok + OpenAI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Thoughtworks | ORGANISATION | revendique_héritage | "defined how modern software is built" | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| AI/works™ | TECHNOLOGIE | est_implémentation_de | Service-as-Software (Kamelman 2025-12) | CONCEPT | 0.86 | DYNAMIQUE | inféré |
-| AI/works™ | TECHNOLOGIE | productise | harness engineering (Böckeler 2026-04) | CONCEPT | 0.82 | DYNAMIQUE | inféré |
-| AI/works™ | TECHNOLOGIE | est_équivalent_commercial_de | Usine Logicielle Augmentée (Wescale 2026-05) | CONCEPT | 0.84 | DYNAMIQUE | inféré |
+| Thoughtworks | ORGANISATION | affirme_que | "stands on an engineering foundation rather than enthusiasm" | CITATION | 0.94 | ATEMPOREL | déclaré_article |
+| AI/works™ | TECHNOLOGIE | utilise | AWS + GCP + Azure + Databricks + Snowflake | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AI/works™ | TECHNOLOGIE | utilise | Claude + DeepSeek + Gemini + Grok + OpenAI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Thoughtworks | ORGANISATION | affirme_que | "Thoughtworks defined how modern software is built" | CITATION | 0.95 | STATIQUE | déclaré_article |
+| AI/works™ | TECHNOLOGIE | est_basé_sur | Service-as-Software (Kamelman 2025-12) | CONCEPT | 0.86 | DYNAMIQUE | inféré |
+| AI/works™ | TECHNOLOGIE | est_basé_sur | harness engineering (Böckeler 2026-04), productisé | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| AI/works™ | TECHNOLOGIE | converge_avec | Usine Logicielle Augmentée (Wescale 2026-05), équivalent commercial | CONCEPT | 0.84 | DYNAMIQUE | inféré |
 
 ### Entités
 

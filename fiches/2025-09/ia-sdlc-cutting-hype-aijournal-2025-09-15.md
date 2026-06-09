@@ -15,7 +15,7 @@ Edgar Kussberg, AIJ Guest Post
 ## Ton
 **Profil:** Professionnel-Critique | Guest post analytique | Analytique-Prescriptive | Intermédiaire-Expert
 
-Kussberg adopte tone quality assurance advocate tempérant AI enthusiasm avec rigorous caution. Titre "Cutting Through the Hype" signals skeptical posture. Structure balanced promises → challenges → strategies reveals measured assessment. Citations research (Stanford study developers introducing vulnerabilities) ground warnings empirically. Langage technique (SDLC stages, technical debt, security vulnerabilities) vise engineering leaders. Prescriptions systematic (mandatory unit tests, separate QA tools) provide actionable mitigation. Tone serious professional évite both dismissive cynicism et naive cheerleading. Typique guest posts tech journals introducing contrarian quality-focused perspective contre prevailing AI optimism.
+Kussberg adopte le ton d'un défenseur de l'assurance qualité, tempérant l'enthousiasme pour l'IA par une prudence rigoureuse. Le titre « Cutting Through the Hype » signale une posture sceptique. La structure équilibrée promesses → défis → stratégies révèle une évaluation mesurée. Les citations de recherche (étude Stanford sur les développeurs introduisant des vulnérabilités) ancrent empiriquement les avertissements. Le langage technique (étapes du SDLC, dette technique, vulnérabilités de sécurité) vise les leaders d'ingénierie. Les prescriptions systématiques (tests unitaires obligatoires, outils de QA séparés) fournissent des mesures de mitigation actionnables. Le ton sérieux et professionnel évite à la fois le cynisme dédaigneux et l'enthousiasme naïf. Typique des tribunes invitées de revues tech introduisant une perspective à contre-courant, centrée sur la qualité, face à l'optimisme IA dominant.
 
 ## Pense-betes
 - IA transforme SDLC, mais vitesse court terme peut sacrifier valeur long terme
@@ -51,19 +51,19 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Edgar Kussberg | PERSONNE | a_publié | AI in the SDLC: Cutting Through the Hype | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Edgar Kussberg | PERSONNE | travaille_pour | Sonar | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| IA | CONCEPT | transforme | SDLC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| adoption IA | CONCEPT | corrèle_avec | diminution stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| rapport DORA 2024 | EVENEMENT | affirme_que | augmentation 25% adoption IA corrèle avec baisse 7,2% stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| assistants IA | TECHNOLOGIE | augmente | introduction vulnérabilités sécurité | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Stanford University | ORGANISATION | a_publié | étude sur assistants IA et vulnérabilités sécurité | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| dépendance excessive IA | CONCEPT | provoque | dégradation compétences développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| code inutilisé | CONCEPT | crée | vulnérabilités sécurité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Edgar Kussberg | PERSONNE | publie | AI in the SDLC: Cutting Through the Hype | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Edgar Kussberg | PERSONNE | travaille_chez | Sonar | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | s_applique_à | SDLC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| adoption IA | CONCEPT | réduit | stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| rapport DORA 2024 | DOCUMENT | affirme_que | une augmentation de 25% de l'adoption IA corrèle avec une baisse de 7,2% de la stabilité de livraison | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| assistants IA | TECHNOLOGIE | réduit | sécurité du code produit | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Stanford University | ORGANISATION | publie | étude sur assistants IA et vulnérabilités sécurité | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| dépendance excessive IA | CONCEPT | réduit | compétences développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| code inutilisé | CONCEPT | permet | vulnérabilités sécurité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | revue de code rigoureuse | METHODOLOGIE | réduit | dette technique | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| génération de code IA | CONCEPT | doit_être_séparé_de | assurance qualité IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| modèles IA | TECHNOLOGIE | sont_entraînés_sur | bases de code open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| modèles IA | TECHNOLOGIE | perpétuent | biais et vulnérabilités | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Edgar Kussberg | PERSONNE | recommande | séparer la génération de code IA de l'assurance qualité IA via des outils différents | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| modèles IA | TECHNOLOGIE | est_basé_sur | bases de code open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| biais et vulnérabilités | CONCEPT | observé_dans | modèles IA | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
 | tests unitaires obligatoires | METHODOLOGIE | améliore | qualité code IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
@@ -74,7 +74,7 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 | Sonar | ORGANISATION | secteur | Qualité et sécurité code | AJOUT |
 | The AI Journal | ORGANISATION | type | Publication spécialisée IA | AJOUT |
 | SDLC | CONCEPT | définition | Software Development Lifecycle | AJOUT |
-| rapport DORA 2024 | EVENEMENT | date | 2024 | AJOUT |
+| rapport DORA 2024 | DOCUMENT | date | 2024 | AJOUT |
 | Stanford University | ORGANISATION | secteur | Recherche académique | AJOUT |
 | dette technique | CONCEPT | description | Accumulation de code de faible qualité sur le long terme | AJOUT |
 | revue de code rigoureuse | METHODOLOGIE | objectif | Garantir qualité et sécurité du code généré par IA | AJOUT |

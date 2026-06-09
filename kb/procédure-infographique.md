@@ -1,6 +1,6 @@
 # procédure infographique
 
-> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,23 +8,25 @@
 
 ## Relations (comme sujet)
 
-### impose
-
-- [[kb/_entites-mineures#réductionnisme-impitoyable\|réductionnisme impitoyable]] (CONCEPT) — 0.92, ATEMPOREL
-  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
-
-### interdit
-
-- [[kb/_entites-mineures#export-PNG\|export PNG]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
-- [[kb/_entites-mineures#pie-charts\|pie charts]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
-
-### se_conforme_à
+### est_basé_sur
 
 - [[kb/_entites-mineures#principes-de-Tufte\|principes de Tufte]] (CONCEPT) — 0.93, ATEMPOREL
-  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
+  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]
+
+### recommande
+
+- [[kb/_entites-mineures#réductionnisme-impitoyable\|réductionnisme impitoyable]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]
+- « entropie visuelle ≤ 0.18 (Shannon, CIE L*a*b*) » (MESURE) — 0.88, ATEMPOREL
+  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]
+
+### s_oppose_à
+
+- [[kb/_entites-mineures#export-PNG\|export PNG]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]
+- [[kb/_entites-mineures#pie-charts\|pie charts]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]
 
 ## Fiches sources
 
-- [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design - Perfectionist Procedure - Visual Design - Data Visualization - Design Philosophy - Typographic Systems - Color Theory - Grid Systems - Export Protocols - Design Workflow]]
+- [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Procédure opérationnelle de design d'infographies perfectionniste (niveau "Steve Jobs") - visualisation de données, typographie, grilles, couleurs, export - Pastebin]]

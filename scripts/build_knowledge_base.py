@@ -13,6 +13,9 @@ import re
 import shutil
 import sys
 from collections import defaultdict
+
+# Types épistémiques (ontologie v2) : objets de triples, jamais des entités
+EPISTEMIC_TYPES = {"AFFIRMATION", "MESURE", "CITATION"}
 from datetime import date
 from pathlib import Path
 
@@ -204,10 +207,13 @@ def deduplicate_triples(all_triples: list[tuple[dict, str]]) -> list[dict]:
 def entity_to_filename(name: str) -> str:
     """Convertit un nom d'entité en nom de fichier. 'Claude Code' → 'Claude-Code'."""
     # Remplacer espaces et caractères spéciaux par des tirets
-    filename = re.sub(r"[/\\:*?\"<>|]", "-", name)
+    filename = re.sub(r"[/\\:*?\"<>|\u2122\u00ae\u00a9]", "-", name)
     filename = re.sub(r"\s+", "-", filename)
     # Supprimer les tirets en double et en début/fin
     filename = re.sub(r"-+", "-", filename).strip("-")
+    # Éviter les collisions « nom.md » → fichier « nom.md.md » illisible
+    if filename.lower().endswith(".md"):
+        filename = filename[:-3] + "-md"
     return filename
 
 
@@ -369,7 +375,10 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
             lines.append(f"### {pred}")
             lines.append("")
             for t in pred_triples:
-                obj_link = entity_wikilink(t["objet"], major_set, entity_filenames)
+                if t["type_objet"] in EPISTEMIC_TYPES:
+                    obj_link = f"« {t['objet']} »"
+                else:
+                    obj_link = entity_wikilink(t["objet"], major_set, entity_filenames)
                 conf = f"{t['confiance']:.2f}"
                 temp = t["temporalite"]
                 line = f"- {obj_link} ({t['type_objet']}) — {conf}, {temp}"

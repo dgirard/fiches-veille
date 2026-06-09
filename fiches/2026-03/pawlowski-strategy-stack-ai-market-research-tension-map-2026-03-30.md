@@ -118,24 +118,24 @@ Quatre failure modes guettent : questions vagues produisant des outputs polis ma
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Alex Pawlowski | PERSONNE | publie | The Strategy Stack | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Alex Pawlowski | PERSONNE | a_créé | Tension Map | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Tension Map | METHODOLOGIE | cartographie | contradictions et points de pression marché | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Tension Map | METHODOLOGIE | s_applique_à | contradictions et points de pression marché | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Tension Map | METHODOLOGIE | s_oppose_à | analyse parts de marché classique | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Living decision surface | CONCEPT | remplace | rapport statique de market research | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AI market research | METHODOLOGIE | est_structurée_en | 7 étapes / 3 modes | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Perplexity | TECHNOLOGIE | est_recommandé_pour | Discovery / expansion | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Claude | TECHNOLOGIE | est_recommandé_pour | profondeur / continuité corpus | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | est_recommandé_pour | itération / structuration | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Multi-agent setup | METHODOLOGIE | génère | productive disagreement | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Raw signals | CONCEPT | sont_préférés_à | polished summaries | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Question précise | CONCEPT | conditionne | qualité de l'analyse | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Stress-testing | METHODOLOGIE | challenge | interprétations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Corpus persistence | METHODOLOGIE | crée | compounding analytical value | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| AI market research | METHODOLOGIE | utilise | 7 étapes / 3 modes | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Perplexity | TECHNOLOGIE | s_applique_à | Discovery / expansion | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | s_applique_à | profondeur / continuité corpus | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | s_applique_à | itération / structuration | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Multi-agent setup | METHODOLOGIE | permet | productive disagreement | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Raw signals | CONCEPT | surpasse | polished summaries | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Question précise | CONCEPT | améliore | qualité de l'analyse | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Stress-testing | METHODOLOGIE | affine | interprétations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Corpus persistence | METHODOLOGIE | permet | compounding analytical value | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Tension Map | METHODOLOGIE | est_basé_sur | Analysis of Competing Hypotheses | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
 | Richards Heuer | PERSONNE | a_créé | Analysis of Competing Hypotheses | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Analysis of Competing Hypotheses | METHODOLOGIE | provient_de | CIA intelligence analysis | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
-| Vague initial questions | CONCEPT | produit | outputs polis mais superficiels | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Decision Mode | METHODOLOGIE | convertit | tensions en décisions stratégiques | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Marché | CONCEPT | est_modélisé_comme | dynamic strain-field | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Analysis of Competing Hypotheses | METHODOLOGIE | fait_partie_de | méthodologie d'analyse de la CIA | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Vague initial questions | CONCEPT | permet | outputs polis mais superficiels | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Decision Mode | METHODOLOGIE | permet | conversion des tensions en décisions stratégiques | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Marché | CONCEPT | est_instance_de | dynamic strain-field | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

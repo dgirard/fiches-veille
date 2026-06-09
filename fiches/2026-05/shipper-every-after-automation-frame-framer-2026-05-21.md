@@ -181,28 +181,28 @@ Shipper formalise le mécanisme par un **cycle de commodification en 5 temps** :
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Dan Shipper | PERSONNE | publie | After Automation | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | publie | After Automation | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | dirige | Every | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Every | ORGANISATION | utilise | Claudie, Andy, Viktor (agent employees) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Every | ORGANISATION | automatise | 95% emails CEO | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Every | ORGANISATION | mesure | 95% des emails CEO traités par l'IA | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
 | Fin (Intercom) | TECHNOLOGIE | résout | 65% conversations support | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| AI | TECHNOLOGIE | banalise | compétence humaine d'hier | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Commodification cycle | METHODOLOGIE | régénère | demande d'experts humains | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI | TECHNOLOGIE | réduit | valeur de la compétence humaine d'hier (commoditisation) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Commodification cycle | METHODOLOGIE | permet | régénération de la demande d'experts humains | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Frame | CONCEPT | s_oppose_à | Framer | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Modèles IA | TECHNOLOGIE | escaladent_dans | les frames | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Humains | CONCEPT | escaladent_au_dessus_de | les frames (changent de frame) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| GPT-5.5 | TECHNOLOGIE | obtient_score | 62/100 Senior Engineer benchmark | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| GDPval | METHODOLOGIE | mesure | 40-49% expert humain (avec extensive framing) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| OpenClaw | TECHNOLOGIE | a_généré | 44469 PRs (mai 2026) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Kubernetes | TECHNOLOGIE | a_généré | 5200 PRs (2022 entier) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Frame problem | CONCEPT | régénère_à | one level up | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Modèles IA | TECHNOLOGIE | améliore | performance à l'intérieur des frames | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Humains | CONCEPT | a_créé | nouveaux frames (changement de frame au-dessus des frames saturés) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | mesure | 62/100 au Senior Engineer benchmark | MESURE | 0.94 | STATIQUE | déclaré_article |
+| GDPval | METHODOLOGIE | mesure | 40-49% du niveau expert humain (avec extensive framing) | MESURE | 0.93 | STATIQUE | déclaré_article |
+| OpenClaw | TECHNOLOGIE | mesure | 44469 PRs (mai 2026) | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Kubernetes | TECHNOLOGIE | mesure | 5200 PRs (2022 entier) | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | affirme_que | "the frame problem regenerates one level up" | CITATION | 0.95 | ATEMPOREL | déclaré_article |
 | Agent employees | METHODOLOGIE | s_oppose_à | Human-AI collaboration | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Humains | CONCEPT | sont_alive_à | a specific moment | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Modèles IA | TECHNOLOGIE | opèrent_sur | historical training data | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Zeno paradox of AI | CONCEPT | explique | gap structurel modèle-humain | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Dan Shipper | PERSONNE | affirme_que | "humans are alive to a specific moment" | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| Modèles IA | TECHNOLOGIE | utilise | historical training data | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Zeno paradox of AI | CONCEPT | s_applique_à | gap structurel modèle-humain | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Dan Shipper | PERSONNE | s_oppose_à | narration AI white-collar bloodbath | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| After Automation | EVENEMENT | converge_avec | Ng No AI Jobpocalypse + Tatsyi Raiffeisen + Curran Intercom + Mollick FDE | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| After Automation | EVENEMENT | est_en_tension_avec | Sun NYT Permanent Underclass + Wallace-Wells AI Populism | CONCEPT | 0.91 | DYNAMIQUE | inféré |
+| After Automation | DOCUMENT | converge_avec | Ng No AI Jobpocalypse + Tatsyi Raiffeisen + Curran Intercom + Mollick FDE | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| After Automation | DOCUMENT | s_oppose_à | Sun NYT Permanent Underclass + Wallace-Wells AI Populism (tension productive) | CONCEPT | 0.91 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -210,7 +210,7 @@ Shipper formalise le mécanisme par un **cycle de commodification en 5 temps** :
 |--------|------|----------|--------|--------|
 | Dan Shipper | PERSONNE | rôle | CEO et co-fondateur Every (média/studio AI-native), auteur Compound Engineering | AJOUT |
 | Every | ORGANISATION | secteur | Média/studio AI-native, organisation 100% augmentée par l'IA, vitrine d'agent deployment | AJOUT |
-| After Automation | EVENEMENT | description | Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath | AJOUT |
+| After Automation | DOCUMENT | description | Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath | AJOUT |
 | Commodification cycle | METHODOLOGIE | définition | Boucle Shipper en 5 temps : (1) AI banalise compétence d'hier ; (2) adoption massive ; (3) slop/sameness ; (4) demande de différence ; (5) experts adressent problèmes d'aujourd'hui — relance la boucle | AJOUT |
 | Frame vs Framer | CONCEPT | définition | Distinction épistémique Shipper — les benchmarks mesurent la performance *dans* un frame (cadrage spécifique), les framers humains *changent* de frame quand le précédent est saturé. *« The frame is not the framer. »* | AJOUT |
 | Human Sandwich | METHODOLOGIE | définition | Structure Shipper : Human (frame) → AI (execute) → Human (judge + extend). Valeur humaine déplacée vers les extrémités | AJOUT |

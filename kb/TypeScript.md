@@ -10,14 +10,14 @@
 
 ## Relations (comme sujet)
 
-### domine
-
-- [[kb/_entites-mineures#classement-Agent-Language-Fit\|classement Agent-Language Fit]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
-
-### offre
+### permet
 
 - [[kb/_entites-mineures#typage-graduel\|typage graduel]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
+
+### surpasse
+
+- [[kb/_entites-mineures#autres-langages-au-classement-Agent-Language-Fit\|autres langages au classement Agent-Language Fit]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]
 
 ## Relations (comme objet)
@@ -27,6 +27,6 @@
 
 ## Fiches sources
 
-- [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer]]
+- [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer]]
 - [[fiches/2025-10/schopplich-toon-json-llm-token-optimization-2025-10-22\|Format de sérialisation TOON optimisé pour LLM réduisant les coûts de jetons de 30-60% - GitHub - Johann Schopplich]]
 - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Spec Drive Development - adéquation langages programmation pour génération code IA, TypeScript vs Python vs Go vs Rust]]

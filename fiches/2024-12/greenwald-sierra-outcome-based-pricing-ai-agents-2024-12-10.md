@@ -115,20 +115,20 @@ Le modèle est **granulaire** : distinction entre **résolutions simples** (une 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Elliot Greenwald | PERSONNE | publie | Outcome-based pricing for AI Agents | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Sierra | ORGANISATION | promeut | outcome-based pricing | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Agents IA | TECHNOLOGIE | rendent_possible | outcome-based pricing | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Outcome-based pricing | CONCEPT | facture | les business outcomes tangibles (resolved conversation, saved cancellation, upsell, cross-sell) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Conversation non résolue | CONCEPT | n_entraîne_pas | de facturation (in most cases) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Outcome-based pricing | CONCEPT | aligne | les incitations fournisseur et client | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Salesforce | ORGANISATION | a_inauguré | le modèle SaaS (seat-based) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Seat-based pricing | CONCEPT | génère | shelfware (sièges non utilisés payés) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| AWS et Snowflake | ORGANISATION | ont_introduit | consumption-based pricing | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Fournisseurs CX legacy | ORGANISATION | sont_en_conflit_avec | l'efficacité de leur propre IA (réduit les sièges) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Résolution complexe | CONCEPT | se_distingue_de | résolution simple (tarification différenciée) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Escalades | CONCEPT | n_entraînent_pas | de facturation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Sierra | ORGANISATION | s_engage_à | optimisation continue de la performance de l'agent | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Outcome-based pricing | CONCEPT | fonde | le cost of a completed outcome (Gupta) et le shift Bain | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| Elliot Greenwald | PERSONNE | publie | Outcome-based pricing for AI Agents | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Sierra | ORGANISATION | recommande | outcome-based pricing | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Agents IA | TECHNOLOGIE | permet | outcome-based pricing | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Outcome-based pricing | CONCEPT | s_applique_à | business outcomes tangibles (resolved conversation, saved cancellation, upsell, cross-sell) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Sierra | ORGANISATION | affirme_que | « If the conversation is unresolved, in most cases, there's no charge » | CITATION | 0.94 | ATEMPOREL | déclaré_article |
+| Outcome-based pricing | CONCEPT | permet | alignement des incitations fournisseur-client | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Salesforce | ORGANISATION | a_créé | modèle SaaS (seat-based) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Seat-based pricing | CONCEPT | permet | shelfware (sièges non utilisés payés) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| AWS et Snowflake | ORGANISATION | a_créé | consumption-based pricing | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Fournisseurs CX legacy | ORGANISATION | s_oppose_à | efficacité de leur propre IA (réduit les sièges) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Résolution complexe | CONCEPT | est_variante_de | résolution simple (tarification différenciée) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Sierra | ORGANISATION | affirme_que | les escalades n'entraînent en général aucune facturation | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Sierra | ORGANISATION | utilise | optimisation continue de la performance de l'agent | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Cost of a completed outcome (Gupta) | CONCEPT | est_basé_sur | outcome-based pricing | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 
 ### Entités
 

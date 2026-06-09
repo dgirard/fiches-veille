@@ -71,18 +71,18 @@ La clôture est cruciale : ne jamais dire « merci » (mouvement faible suggéra
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Patrick Winston | PERSONNE | enseigne | techniques de communication orale | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Patrick Winston | PERSONNE | recommande | techniques de communication orale | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Patrick Winston | PERSONNE | a_créé | formule K×P×t | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Patrick Winston | PERSONNE | recommande | empowerment promise au démarrage | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Patrick Winston | PERSONNE | a_créé | étoile de Winston (5 S) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Tableau noir | CONCEPT | est_supérieur_à | slides pour enseigner | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Neurones miroirs | CONCEPT | expliquent | efficacité tableau noir et props | CONCEPT | 0.80 | ATEMPOREL | déclaré_article |
-| Processeur linguistique unique | CONCEPT | limite | lecture et écoute simultanées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Job talk | METHODOLOGIE | requiert | vision + accomplissement en 5 minutes | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Patrick Winston | PERSONNE | déconseille | dire merci en fin de présentation | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Seymour Papert | PERSONNE | a_démontré | usage efficace des props et du tableau | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
-| Accessoires physiques | CONCEPT | sont_plus_mémorables_que | slides | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Passion | CONCEPT | est_clé_pour | inspirer une audience | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Tableau noir | TECHNOLOGIE | surpasse | slides pour enseigner | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Neurones miroirs | CONCEPT | permet | efficacité tableau noir et props | CONCEPT | 0.80 | ATEMPOREL | déclaré_article |
+| Processeur linguistique unique | CONCEPT | réduit | lecture et écoute simultanées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Job talk | METHODOLOGIE | utilise | vision + accomplissement en 5 minutes | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Patrick Winston | PERSONNE | s_oppose_à | dire merci en fin de présentation | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Seymour Papert | PERSONNE | utilise | accessoires physiques (props) | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| Accessoires physiques | TECHNOLOGIE | surpasse | slides | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| Passion | CONCEPT | permet | inspirer une audience | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

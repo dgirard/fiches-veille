@@ -52,19 +52,19 @@ Debois conclut en insistant sur la nécessité d'un ownership explicite du conte
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Patrick Debois | PERSONNE | a_créé | Context Development Lifecycle | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Patrick Debois | PERSONNE | a_fondé | Tessl | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
-| Context Development Lifecycle | METHODOLOGIE | comprend | Générer, Évaluer, Distribuer, Observer | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Context Flywheel | CONCEPT | produit | avantage compétitif cumulé | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | a_créé | Tessl | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
+| Générer, Évaluer, Distribuer, Observer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| Context Flywheel | CONCEPT | permet | avantage compétitif cumulé | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Contexte organisationnel | CONCEPT | remplace | outils et modèles | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| Agents de codage | TECHNOLOGIE | consomme | contexte versionné et testé | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Patrick Debois | PERSONNE | affirme_que | les modèles se commoditisent | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Patrick Debois | PERSONNE | affirme_que | le contexte ne se commoditise pas | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Ownership du contexte | CONCEPT | nécessite | maintenance, enablement, gouvernance | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Agents de codage | TECHNOLOGIE | utilise | contexte versionné et testé | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | les modèles se commoditisent | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Patrick Debois | PERSONNE | affirme_que | le contexte ne se commoditise pas | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Ownership du contexte | CONCEPT | est_basé_sur | maintenance, enablement, gouvernance | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Context Flywheel | CONCEPT | améliore | qualité des agents | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Context Flywheel | CONCEPT | améliore | expertise ingénieur | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Context Flywheel | CONCEPT | améliore | apprentissage d'équipe | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Context Flywheel | CONCEPT | améliore | alignement organisationnel | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Patrick Debois | PERSONNE | est_associé_à | mouvement DevOps | CONCEPT | 0.85 | STATIQUE | généré_assistant |
+| Patrick Debois | PERSONNE | fait_partie_de | mouvement DevOps | CONCEPT | 0.85 | STATIQUE | généré_assistant |
 
 ### Entités
 

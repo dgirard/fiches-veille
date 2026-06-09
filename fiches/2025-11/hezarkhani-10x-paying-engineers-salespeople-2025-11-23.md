@@ -54,16 +54,16 @@ Hezarkhani répond aux critiques évidentes (risque de baisse de qualité, infla
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Arman Hezarkhani | PERSONNE | a_cofondé | 10x | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| 10x | ORGANISATION | rémunère_par | Story Points | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Arman Hezarkhani | PERSONNE | a_créé | 10x | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| 10x | ORGANISATION | utilise | Story Points | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | modèle 10x | METHODOLOGIE | s_inspire_de | rémunération commerciale | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | amplifie | écart de productivité ingénieurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Stratège | CONCEPT | contrôle_qualité | travail ingénieur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| salaire fixe | CONCEPT | ne_capture_pas | productivité augmentée par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| modèle 10x | METHODOLOGIE | attire | talents élite | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Arman Hezarkhani | PERSONNE | affirme_que | incitations traditionnelles sont obsolètes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Stratège | CONCEPT | empêche | inflation des Story Points | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| 10x engineers | CONCEPT | orchestrent | agents IA multiples | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | permet | amplification écart de productivité ingénieurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Stratège | CONCEPT | mesure | travail ingénieur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| salaire fixe | CONCEPT | s_oppose_à | productivité augmentée par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| modèle 10x | METHODOLOGIE | permet | attraction de talents élite | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Arman Hezarkhani | PERSONNE | affirme_que | les incitations traditionnelles sont obsolètes | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Stratège | CONCEPT | réduit | inflation des Story Points | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| 10x engineers | CONCEPT | utilise | agents IA multiples | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

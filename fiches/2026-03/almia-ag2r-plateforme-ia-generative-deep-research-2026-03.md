@@ -69,21 +69,21 @@ Almia s'inscrit dans un programme de transformation SI de 629 M€ sur six ans. 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| AG2R LA MONDIALE | ORGANISATION | a_développé | Almia | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Almia | TECHNOLOGIE | est_hébergée_sur | S3NS | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| S3NS | ORGANISATION | est_coentreprise_de | Thales | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| S3NS | ORGANISATION | est_coentreprise_de | Google Cloud | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| S3NS | ORGANISATION | a_obtenu | SecNumCloud 3.2 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Pascal Martinez | PERSONNE | pilote | Almia | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Pascal Martinez | PERSONNE | a_reçu | Stratège IT 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| AG2R LA MONDIALE | ORGANISATION | a_créé | Almia | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Almia | TECHNOLOGIE | utilise | S3NS | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Thales | ORGANISATION | a_créé | S3NS | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Google Cloud | ORGANISATION | a_créé | S3NS | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| S3NS | ORGANISATION | mesure | qualification SecNumCloud 3.2 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Pascal Martinez | PERSONNE | dirige | Almia | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Pascal Martinez | PERSONNE | est_instance_de | Stratège IT 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
 | Ludovic Letort | PERSONNE | dirige | Data & IA Factory | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Almia | TECHNOLOGIE | utilise | RAG par vectorisation | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Almia | TECHNOLOGIE | adopte | approche multi-LLM agnostique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| AG2R LA MONDIALE | ORGANISATION | emploie_réseau | Champions IA | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| WEnvision | ORGANISATION | accompagne | déploiement Almia | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| AXA | ORGANISATION | a_lancé | Secure GPT | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Fabrice Heyries | PERSONNE | a_lancé | stratégie Esprit de conquête | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| AG2R LA MONDIALE | ORGANISATION | investit | 629 M€ transformation SI | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Almia | TECHNOLOGIE | utilise | approche multi-LLM agnostique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| AG2R LA MONDIALE | ORGANISATION | utilise | Champions IA | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| WEnvision | ORGANISATION | soutient | déploiement Almia | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| AXA | ORGANISATION | publie | Secure GPT | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Fabrice Heyries | PERSONNE | publie | stratégie Esprit de conquête | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AG2R LA MONDIALE | ORGANISATION | mesure | 629 M€ investis dans la transformation SI sur 6 ans | MESURE | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -71,19 +71,19 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| BMAD | METHODOLOGIE | résout | vibe coding | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| BMAD | METHODOLOGIE | structure | SDLC | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| BMAD | METHODOLOGIE | assigne_des_rôles_à | agents IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| vibe coding | CONCEPT | génère | dette technique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| humain | CONCEPT | reste_architecte_de | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| agents IA | TECHNOLOGIE | jouent_le_rôle_de | contremaîtres spécialisés | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| BMAD | METHODOLOGIE | s_intègre_dans | DSI | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| BMAD | METHODOLOGIE | traite | legacy | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Philippe Martin | PERSONNE | publie_sur | Tech Away | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | résout | vibe coding | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | s_applique_à | SDLC | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | utilise | agents IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | permet | dette technique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| humain | CONCEPT | dirige | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | est_instance_de | contremaîtres spécialisés | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | s_applique_à | DSI | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | s_applique_à | legacy | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Philippe Martin | PERSONNE | publie | Tech Away | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Philippe Martin | PERSONNE | recommande | BMAD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| BMAD | METHODOLOGIE | transforme | rôle_développeur | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| absence_de_cadre | CONCEPT | entraîne | architectures incohérentes | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Breakthrough Method for Agile AI-Driven Development | METHODOLOGIE | est_désigné_par | BMAD | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | améliore | rôle_développeur | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| absence_de_cadre | CONCEPT | permet | architectures incohérentes | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | est_variante_de | Breakthrough Method for Agile AI-Driven Development | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -93,7 +93,7 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 | BMAD | METHODOLOGIE | métaphore centrale | plan d'urbanisme pour l'IA agentique | AJOUT |
 | Philippe Martin | PERSONNE | rôle | auteur, chroniqueur IT francophone | AJOUT |
 | Tech Away | ORGANISATION | type | blog IT francophone (Wix) | AJOUT |
-| vibe coding | CONCEPT | définition | coder au feeling avec l'IA sans cadre structuré | AJOUT |
+| vibe coding | METHODOLOGIE | définition | coder au feeling avec l'IA sans cadre structuré | AJOUT |
 | dette technique | CONCEPT | cause principale | usage non encadré de l'IA agentique | AJOUT |
 | agents IA | TECHNOLOGIE | rôles BMAD | spécification, architecture, artisans, contrôleurs | AJOUT |
 | DSI | ORGANISATION | contexte | grande entreprise, intégrateur de BMAD | AJOUT |

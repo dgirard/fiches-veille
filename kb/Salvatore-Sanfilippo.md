@@ -16,17 +16,17 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#IA-va-changer-programmation\|IA va changer programmation]] (CONCEPT) — 0.95, ATEMPOREL
+- « l'IA va changer la programmation pour toujours » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]
 
 ### recommande
 
 - [[kb/_entites-mineures#exploration-sérieuse-outils-IA\|exploration sérieuse outils IA]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]
-- [[kb/_entites-mineures#voter-pour-gouvernements-sociaux\|voter pour gouvernements sociaux]] (CONCEPT) — 0.85, ATEMPOREL
+- « voter pour des gouvernements soutenant les personnes affectées par l'automatisation » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]
 
-### s_inquiète_de
+### s_oppose_à
 
 - [[kb/_entites-mineures#centralisation-technologique\|centralisation technologique]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Antirez (créateur Redis) - ne pas tomber dans l'anti-AI hype, Claude Code projets concrets]]

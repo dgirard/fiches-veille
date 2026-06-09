@@ -86,20 +86,20 @@ L'objectif final : aider les organisations à passer *« from experimental AI ad
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Linux Foundation | ORGANISATION | a_lancé | Tokenomics Foundation | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Linux Foundation | ORGANISATION | a_créé | Tokenomics Foundation | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
 | Tokenomics Foundation | ORGANISATION | collabore_avec | FinOps Foundation | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Tokenomics Foundation | ORGANISATION | vise_à_établir | standards ouverts, benchmarks et best practices | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| tokenomics | CONCEPT | recouvre | toute la couche économique de l'IA (production-consommation-monétisation) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| efficience IA | CONCEPT | est_façonnée_par | l'architecture plus que l'usage | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| meilleur système IA | CONCEPT | n_est_pas | celui qui utilise le modèle le plus cher | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| visibilité | CONCEPT | précède | l'optimisation | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| valeur | CONCEPT | prime_sur | le volume | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Tokenomics Foundation | ORGANISATION | étend | la spécification FOCUS | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Governing Board | ORGANISATION | définit | la direction industrielle et le déploiement des fonds | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Technical Committee | ORGANISATION | développe | spécifications ouvertes et benchmarks | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Tokenomics Foundation | ORGANISATION | vise_à_faire_passer | de l'adoption expérimentale aux opérations IA durables | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| partenariat FinOps | CONCEPT | étend | le variable technology spend à l'ère du token | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| adoption IA | CONCEPT | bascule_de | la capacité vers l'efficience et la valeur | CONCEPT | 0.87 | DYNAMIQUE | inféré |
+| Tokenomics Foundation | ORGANISATION | affirme_que | sa mission est d'établir standards ouverts, benchmarks et best practices pour l'économie de l'infrastructure IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| tokenomics | CONCEPT | s_applique_à | toute la couche économique de l'IA (production-consommation-monétisation) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| efficience IA | CONCEPT | est_basé_sur | l'architecture plus que l'usage | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affirme_que | le meilleur système IA n'est pas celui qui utilise le modèle le plus cher | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affirme_que | la visibilité précède l'optimisation | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affirme_que | la valeur prime sur le volume | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affine | la spécification FOCUS | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Governing Board | ORGANISATION | dirige | Tokenomics Foundation | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Technical Committee | ORGANISATION | a_créé | spécifications ouvertes et benchmarks | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | permet | le passage de l'adoption expérimentale aux opérations IA durables | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| partenariat FinOps | CONCEPT | affine | la discipline du variable technology spend pour l'ère du token | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| efficience et valeur | CONCEPT | remplace | la capacité comme priorité de l'adoption IA | CONCEPT | 0.87 | DYNAMIQUE | inféré |
 
 ### Entités
 

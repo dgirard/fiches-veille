@@ -61,18 +61,18 @@ Limite notable : les **agents IA** ne sont pas encore traités comme catégorie 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | FinOps Foundation | ORGANISATION | publie | FinOps for AI Overview | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| FinOps for AI Overview | DOCUMENT | étend | Framework FinOps aux services GenAI | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| token | CONCEPT | est | unité fondamentale de consommation LLM | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Cost Per Token | CONCEPT | est_défini_par | Coût total / tokens utilisés | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| FinOps for AI Overview | DOCUMENT | affine | Framework FinOps | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| token | CONCEPT | est_instance_de | unité fondamentale de consommation LLM | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Cost Per Token | CONCEPT | est_basé_sur | Coût total / tokens utilisés | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | sélection de modèle | CONCEPT | réduit | coûts inutiles | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| MMLU | CONCEPT | sert_à | aligner capacité modèle et besoin tâche | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| MMLU | CONCEPT | permet | alignement capacité modèle / besoin tâche | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | caching | METHODOLOGIE | réduit | consommation de tokens | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | prompt engineering concis | METHODOLOGIE | réduit | tokens (15-25%) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Framework FinOps | METHODOLOGIE | comporte | 14 capacités revisitées pour l'IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| modèle Crawl-Walk-Run | METHODOLOGIE | structure | maturité FinOps IA | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Allocation | CONCEPT | est_compliquée_par | multi-agent workloads | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| showback | METHODOLOGIE | favorise | prise de conscience des coûts | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| FinOps Foundation | ORGANISATION | propose | certification Certified FinOps for AI | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| 14 capacités revisitées pour l'IA | CONCEPT | fait_partie_de | Framework FinOps | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| modèle Crawl-Walk-Run | METHODOLOGIE | s_applique_à | maturité FinOps IA | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| FinOps for AI Overview | DOCUMENT | affirme_que | l'allocation est compliquée par les multi-agent workloads | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| showback | METHODOLOGIE | permet | prise de conscience des coûts | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| FinOps Foundation | ORGANISATION | a_créé | certification Certified FinOps for AI | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 

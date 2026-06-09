@@ -10,25 +10,19 @@
 
 ## Relations (comme sujet)
 
-### adopte
-
-- [[kb/_entites-mineures#approche-multi-LLM-agnostique\|approche multi-LLM agnostique]] (METHODOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
-
-### est_hébergée_sur
-
-- [[kb/S3NS\|S3NS]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
-  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
-
 ### utilise
 
+- [[kb/_entites-mineures#S3NS\|S3NS]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 - [[kb/_entites-mineures#RAG-par-vectorisation\|RAG par vectorisation]] (METHODOLOGIE) — 0.96, DYNAMIQUE
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+- [[kb/_entites-mineures#approche-multi-LLM-agnostique\|approche multi-LLM agnostique]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
 ## Relations (comme objet)
 
-- [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] **a_développé** → Almia — 0.99
-- [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] **pilote** → Almia — 0.97
+- [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] **a_créé** → Almia — 0.99
+- [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] **dirige** → Almia — 0.97
 
 ## Fiches sources
 

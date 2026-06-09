@@ -56,19 +56,19 @@ En conclusion, l'exploration de Willison révèle qu'Anthropic construit une inf
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Simon Willison | PERSONNE | a_découvert | /mnt/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | référence | /mnt/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | a_créé | Claude Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | fait_partie_de | Code Interpreter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | prend_en_charge | docx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | prend_en_charge | pdf | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | prend_en_charge | pptx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | prend_en_charge | xlsx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | docx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | pdf | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | pptx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | xlsx | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | pypdf | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | scripts Python | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Jesse Vincent | PERSONNE | a_inspiré | Simon Willison | PERSONNE | 0.92 | STATIQUE | déclaré_article |
-| Simon Willison | PERSONNE | a_publié | simonw/claude-skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | affirme_que | Skills sont intentionnellement découvrables | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| Code Interpreter | TECHNOLOGIE | est_disponible_sur | application iOS Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Simon Willison | PERSONNE | s_inspire_de | Jesse Vincent | PERSONNE | 0.92 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | publie | simonw/claude-skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | Skills sont intentionnellement découvrables | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
+| Code Interpreter | TECHNOLOGIE | observé_dans | application iOS Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

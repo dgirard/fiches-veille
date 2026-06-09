@@ -15,7 +15,7 @@ Jean-Christophe LAISSY
 ## Ton
 **Profil:** Professionnel-Stratégique | Première personne consulting | Prescriptive-Éducative | Intermédiaire-Expert
 
-Laissy adopte ton consultant senior français combinant rigueur intellectuelle et pragmatisme actionable. Structure 15 questions systematically decompose transformation complexity. Concepts percutants ("purgatoire des pilotes", "paradoxe de l'héritage", "entreprise bionique") crystallize abstract issues mémorablement. Règle 10/20/70 provides memorable framework. Citations data (70% échec transformations) ground recommendations empirically. Langage assumé technique-business (P&L, DSI, SUV, KPIs) vise C-suite/VP-level audience. Tone authoritative sans être academic, accessible sans oversimplification. Typique LinkedIn thought leadership executives français combinant strategic vision et change management expertise.
+Laissy adopte un ton de consultant senior français combinant rigueur intellectuelle et pragmatisme actionnable. La structure en 15 questions décompose systématiquement la complexité de la transformation. Les concepts percutants (« purgatoire des pilotes », « paradoxe de l'héritage », « entreprise bionique ») cristallisent de façon mémorable des enjeux abstraits. La règle 10/20/70 fournit un cadre mémorisable. Les données citées (70 % d'échec des transformations) ancrent empiriquement les recommandations. Le langage technico-business supposé acquis (P&L, DSI, KPI) vise un public de COMEX et de directeurs. Le ton fait autorité sans être académique, accessible sans simplification excessive. Typique du leadership d'opinion LinkedIn des dirigeants français combinant vision stratégique et expertise en conduite du changement.
 
 ## Pense-betes
 - 70% d'échec des transformations digitales
@@ -51,19 +51,19 @@ En 2030, l'entreprise sera "bionique", fusionnant humain et technologie, l'IA é
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jean-Christophe LAISSY | PERSONNE | publie | STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Entreprises établies | CONCEPT | subissent | purgatoire des pilotes IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Paradoxe de l'héritage | CONCEPT | transforme | données propriétaires en avantage concurrentiel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Règle 10/20/70 | METHODOLOGIE | préconise | 70% humain dans la transformation IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Organisation AI-First | CONCEPT | repose_sur | plateforme technologique décentralisée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| DSI | CONCEPT | évolue_vers | rôle de gouverneur de plateforme | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Startups AI-native | ORGANISATION | prouvent | découplage taille/échelle | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| IA Responsable | CONCEPT | constitue | avantage concurrentiel fondamental | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Transformations digitales | CONCEPT | échouent_à | 70% | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Coût de friction | CONCEPT | résulte_de | héritage organisationnel | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Agents IA | TECHNOLOGIE | remodèle | modèle opérationnel entreprise | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Jean-Christophe LAISSY | PERSONNE | prédit | entreprise bionique en 2030 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Gestion du changement | METHODOLOGIE | représente | 70% du succès de la transformation IA | CONCEPT | 0.94 | ATEMPOREL | inféré |
+| Jean-Christophe LAISSY | PERSONNE | publie | STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Purgatoire des pilotes IA | CONCEPT | observé_dans | entreprises établies | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Paradoxe de l'héritage | CONCEPT | permet | conversion des données propriétaires en avantage concurrentiel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Règle 10/20/70 | METHODOLOGIE | recommande | consacrer 70% de l'effort à l'humain dans la transformation IA | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Organisation AI-First | CONCEPT | est_basé_sur | plateforme technologique décentralisée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| rôle de gouverneur de plateforme (DSI) | CONCEPT | remplace | rôle de constructeur (DSI) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Startups AI-native | ORGANISATION | soutient | découplage taille/échelle | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| IA Responsable | CONCEPT | est_instance_de | avantage concurrentiel fondamental | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Transformations digitales | CONCEPT | mesure | taux d'échec de 70% | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Coût de friction | CONCEPT | est_basé_sur | héritage organisationnel | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Agents IA | TECHNOLOGIE | améliore | modèle opérationnel entreprise | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Jean-Christophe LAISSY | PERSONNE | prédit | l'entreprise sera bionique en 2030 | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
+| Gestion du changement | METHODOLOGIE | mesure | 70% du succès de la transformation IA | MESURE | 0.94 | ATEMPOREL | inféré |
 
 ### Entités
 

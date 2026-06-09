@@ -19,11 +19,11 @@ Team Topologies, structure équipe Data & AI, design organisationnel, Conway's L
 Arjan van den Heuvel
 
 ## Ton
-**Profil:** Consulting-Expertise | Première personne organisationnelle | Analytique-Prescriptive | Expert
+**Profil :** Conseil-expertise | Première personne organisationnelle | Analytique-prescriptif | Expert
 
-Xebia (Arjan van den Heuvel) adopte organizational design consulting voice appliquant Team Topologies framework à contexte Data & AI. Structure case studies format (3 scenarios mid-sized + 1 large company) demonstrates pragmatic advisory approach. Langage organizational design specialist (cognitive load, Conway's Law, interaction modes, team topologies) vise leadership tech et CIO/CTO navigant structure équipe AI. Tone prescriptive analytical typical consultancy thought leadership avec visual diagrams facilitant compréhension patterns organisationnels. Emphasis communication design principles et team autonomy reflects systems thinking approach. Typique enterprise consulting firms (Xebia, ThoughtWorks, McKinsey Digital) produisant expertise content visant enterprise decision-makers, CTOs et transformation leaders cherchant organizational architecture guidance scaling AI capabilities.
+Xebia (Arjan van den Heuvel) adopte une voix de conseil en design organisationnel appliquant le framework Team Topologies au contexte Data & AI. Le format études de cas (3 scénarios entreprise moyenne + 1 grande entreprise) témoigne d'une approche de conseil pragmatique. Langage de spécialiste du design organisationnel (charge cognitive, Loi de Conway, modes d'interaction, topologies d'équipe) visant le leadership tech et les CIO/CTO qui structurent leurs équipes IA. Ton prescriptif et analytique typique du thought leadership de cabinet de conseil, avec des diagrammes facilitant la compréhension des patterns organisationnels. L'accent sur les principes de design de communication et l'autonomie des équipes reflète une approche systémique. Typique des cabinets de conseil enterprise (Xebia, ThoughtWorks, McKinsey Digital) produisant du contenu d'expertise à destination des décideurs, CTOs et leaders de transformation cherchant des repères d'architecture organisationnelle pour passer les capacités IA à l'échelle.
 
-## Pense-bêtes
+## Pense-betes
 - **Team Topologies framework** appliqué spécifiquement à organisation Data & AI
 - **Conway's Law** : architecture systèmes reflète structure communication organisation
 - **4 team topologies** : stream-aligned, platform, enabling, complicated subsystem
@@ -76,19 +76,19 @@ Van den Heuvel insiste qu'aucun design unique ne convient universellement. Chaqu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Arjan van den Heuvel | PERSONNE | publie | Data & AI team structure: Case studies | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Arjan van den Heuvel | PERSONNE | travaille_pour | Xebia | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Team Topologies | METHODOLOGIE | définit | stream-aligned team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Team Topologies | METHODOLOGIE | définit | platform team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Team Topologies | METHODOLOGIE | définit | enabling team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Team Topologies | METHODOLOGIE | définit | complicated subsystem team | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Conway's Law | CONCEPT | prédit | architecture système reflète structure communication | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Scenario 1.1 | METHODOLOGIE | produit | patchwork technologique | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Arjan van den Heuvel | PERSONNE | publie | Data & AI team structure: Case studies | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Arjan van den Heuvel | PERSONNE | travaille_chez | Xebia | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| stream-aligned team | CONCEPT | fait_partie_de | Team Topologies | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| platform team | CONCEPT | fait_partie_de | Team Topologies | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| enabling team | CONCEPT | fait_partie_de | Team Topologies | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| complicated subsystem team | CONCEPT | fait_partie_de | Team Topologies | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| Conway's Law | CONCEPT | affirme_que | l'architecture système reflète la structure de communication | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Scenario 1.1 | METHODOLOGIE | permet | patchwork technologique | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | Scenario 1.3 | METHODOLOGIE | recommande | analytics translator | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | analytics translator | CONCEPT | réduit | charge cognitive équipes data | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| maturité AI | CONCEPT | détermine | structure organisationnelle optimale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| AI solution life cycle | CONCEPT | guide | évolution topologie équipe | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| data engineering platform team | CONCEPT | fournit | data-as-a-service | CONCEPT | 0.89 | DYNAMIQUE | déclaré_article |
+| maturité AI | CONCEPT | permet | structure organisationnelle optimale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| AI solution life cycle | CONCEPT | permet | évolution topologie équipe | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| data engineering platform team | CONCEPT | permet | data-as-a-service | CONCEPT | 0.89 | DYNAMIQUE | déclaré_article |
 | ML engineering enabling team | CONCEPT | améliore | déploiement modèles en production | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Community of Practice | CONCEPT | remplace | équipe physique développement connaissances | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 

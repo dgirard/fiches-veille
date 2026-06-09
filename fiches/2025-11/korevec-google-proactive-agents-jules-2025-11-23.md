@@ -49,16 +49,16 @@ Techniquement, cela se traduit par des fonctionnalités comme la **mémoire pers
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Kath Korevec | PERSONNE | travaille_chez | Google Labs | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Google Labs | ORGANISATION | développe | Project Jules | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Project Jules | TECHNOLOGIE | est_un | agent de codage proactif | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| agents actuels | TECHNOLOGIE | nécessitent | supervision constante | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Project Jules | TECHNOLOGIE | évolue_vers | collaboration multi-agents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Google Labs | ORGANISATION | a_créé | Project Jules | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | est_instance_de | agent de codage proactif | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| agents actuels | TECHNOLOGIE | utilise | supervision constante | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Project Jules | TECHNOLOGIE | converge_avec | collaboration multi-agents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Project Jules | TECHNOLOGIE | utilise | mémoire persistante éditable | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Project Jules | TECHNOLOGIE | utilise | agent critique adversarial | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Stitch | TECHNOLOGIE | collabore_avec | Project Jules | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
 | Insights | TECHNOLOGIE | collabore_avec | Project Jules | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
 | proactivité agents | CONCEPT | réduit | charge mentale développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Kath Korevec | PERSONNE | prédit | agents proactifs anticipant besoins | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Kath Korevec | PERSONNE | prédit | les agents proactifs anticiperont les besoins des développeurs | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

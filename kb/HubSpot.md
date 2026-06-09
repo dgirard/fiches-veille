@@ -8,14 +8,9 @@
 
 ## Relations (comme sujet)
 
-### a_développé
+### a_créé
 
 - [[kb/_entites-mineures#Breeze\|Breeze]] (TECHNOLOGIE) — 0.97, STATIQUE
-  - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
-
-### adopte
-
-- [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
 
 ### concurrence
@@ -25,10 +20,15 @@
 - [[kb/_entites-mineures#Microsoft-Dynamics\|Microsoft Dynamics]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
 
+### utilise
+
+- [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
+
 ## Relations (comme objet)
 
 - [[kb/Yamini-Rangan\|Yamini Rangan]] **dirige** → HubSpot — 0.98
-- [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] **est_CHRO_de** → HubSpot — 0.95
+- [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] **travaille_chez** → HubSpot — 0.95
 
 ## Fiches sources
 

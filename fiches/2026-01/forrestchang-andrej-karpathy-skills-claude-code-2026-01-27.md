@@ -65,19 +65,19 @@ Le quatrième principe, "Goal-Driven Execution", convertit les tâches en critè
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrej Karpathy | PERSONNE | a_inspiré | andrej-karpathy-skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | s_inspire_de | Andrej Karpathy | PERSONNE | 0.97 | STATIQUE | déclaré_article |
 | forrestchang | PERSONNE | a_créé | andrej-karpathy-skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | andrej-karpathy-skills | TECHNOLOGIE | améliore | Claude Code | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | andrej-karpathy-skills | TECHNOLOGIE | utilise | CLAUDE.md | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | souffre_de | hypothèses erronées sans vérification | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | souffre_de | sur-ingénierie | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| hypothèses erronées sans vérification | CONCEPT | observé_dans | Claude Code | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| sur-ingénierie | CONCEPT | observé_dans | Claude Code | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Think Before Coding | METHODOLOGIE | réduit | hypothèses erronées sans vérification | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Simplicity First | METHODOLOGIE | réduit | sur-ingénierie | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Surgical Changes | METHODOLOGIE | préserve | code existant | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Goal-Driven Execution | METHODOLOGIE | transforme | instructions impératives | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Surgical Changes | METHODOLOGIE | recommande | préservation du code existant | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Goal-Driven Execution | METHODOLOGIE | remplace | instructions impératives | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Goal-Driven Execution | METHODOLOGIE | utilise | critères de succès vérifiables | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| andrej-karpathy-skills | TECHNOLOGIE | a_obtenu | 3 456 étoiles GitHub | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| andrej-karpathy-skills | TECHNOLOGIE | est_distribué_sous | licence MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | mesure | 3 456 étoiles GitHub | MESURE | 0.95 | STATIQUE | déclaré_article |
+| andrej-karpathy-skills | TECHNOLOGIE | utilise | licence MIT | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

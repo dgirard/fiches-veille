@@ -14,12 +14,12 @@
 - [[kb/_entites-mineures#AWS-EC2\|AWS EC2]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]
 
-### est_prêt_en
+### mesure
 
-- [[kb/_entites-mineures#10-secondes\|10 secondes]] (CONCEPT) — 0.93, DYNAMIQUE
+- « disponibilité en 10 secondes » (MESURE) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]
 
-### fonctionne_en
+### observé_dans
 
 - [[kb/_entites-mineures#environnement-QA\|environnement QA]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions Stripe — agents de codage bout-en-bout, devboxes, blueprints et orchestration hybride à l'échelle]]

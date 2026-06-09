@@ -1,7 +1,7 @@
 # google-agentic-commerce-ap2-payment-protocol-2025-09-16
 
 ## Veille
-Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub
+Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub
 
 ## Titre Article
 google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments
@@ -21,7 +21,7 @@ payments, agents, a2a, generative-ai, gen-ai, agentic-ai, AP2, interoperability,
 ## Ton
 **Profil:** Professionnel-Technique | Institutionnelle collaborative | Éducative-Promotionnelle | Intermédiaire-Expert
 
-README GitHub adopte ton open-source project standard équilibrant technical documentation et community invitation. Multiple contributors signalent collaborative development approach. Langage technique direct (PyPI, ADK, Gemini 2.5, authentication methods, protocol objects) vise developer audience. Explicit statement flexibility ("AP2 not dependent on specific tools") encourages broad adoption. Structure README systematic (Introduction → Getting Started → Core Objects → Contributing) follows GitHub conventions. Apache-2.0 license prominence signals open collaborative philosophy. Tone measured professional évite corporate hype tout en communiquant protocol importance. Typique Google open-source initiatives (TensorFlow, Kubernetes style) inviting community participation.
+Le README GitHub adopte le ton standard d'un projet open source, équilibrant documentation technique et invitation communautaire. Les multiples contributeurs signalent une approche de développement collaborative. Le langage technique direct (PyPI, ADK, Gemini 2.5, méthodes d'authentification, objets de protocole) vise un public de développeurs. L'affirmation explicite de flexibilité (« AP2 ne dépend pas d'outils spécifiques ») encourage une adoption large. La structure systématique du README (Introduction → Prise en main → Objets cœur → Contribution) suit les conventions GitHub. La mise en avant de la licence Apache-2.0 signale une philosophie ouverte et collaborative. Le ton professionnel mesuré évite la surenchère corporate tout en communiquant l'importance du protocole. Typique des initiatives open source de Google (style TensorFlow, Kubernetes) invitant la communauté à participer.
 
 ## Pense-betes
 - **AP2 = Agent Payments Protocol** : sécurisé et interopérable pour AI-driven payments
@@ -37,27 +37,27 @@ README GitHub adopte ton open-source project standard équilibrant technical doc
 
 ## RésuméDe400mots
 
-Le repository GitHub `google-agentic-commerce/AP2` introduit **Agent Payments Protocol (AP2)**, initiative focalisée sur establishing secure et interoperable framework pour AI-driven payment systems. Core mission du projet est faciliter future où artificial intelligence peut seamlessly et safely handle payment transactions across diverses plateformes et agents.
+Le dépôt GitHub `google-agentic-commerce/AP2` introduit l'**Agent Payments Protocol (AP2)**, une initiative visant à établir un cadre sécurisé et interopérable pour les systèmes de paiement pilotés par IA. La mission centrale du projet est de faciliter un futur où l'intelligence artificielle peut gérer des transactions de paiement de manière fluide et sûre à travers des plateformes et agents divers.
 
-**Ressources Pratiques et Flexibilité**
+**Ressources pratiques et flexibilité**
 
-Repository serves comme practical resource, offrant collection de code samples et demonstrations illustrant key components et functionalities de AP2. Tandis que provided samples leverage specific technologies comme **Agent Development Kit (ADK) et Gemini 2.5 Flash**, documentation explicitly states que Agent Payments Protocol itself **n'est pas dependent** sur ces tools. Cette flexibility allows developers integrate AP2 avec preferred agent development kits et AI models, promoting broader adoption et customization.
+Le dépôt sert de ressource pratique, offrant une collection d'exemples de code et de démonstrations illustrant les composants et fonctionnalités clés d'AP2. Si les exemples fournis s'appuient sur des technologies spécifiques comme l'**Agent Development Kit (ADK) et Gemini 2.5 Flash**, la documentation indique explicitement que l'Agent Payments Protocol lui-même **ne dépend pas** de ces outils. Cette flexibilité permet aux développeurs d'intégrer AP2 avec leurs kits de développement d'agents et modèles d'IA préférés, favorisant une adoption large et la personnalisation.
 
-**Architecture et Scenarios Curés**
+**Architecture et scénarios sélectionnés**
 
-Repository est structured pour guide users à travers various curated scenarios, designed pour showcase different aspects du protocol en action. Ces scenarios sont organized dans `samples/android/scenarios` pour Android-based applications et `samples/python/scenarios` pour Python-based implementations. Chaque scenario within repository est self-contained, featuring `README.md` file fournissant detailed description de scenario, along avec clear instructions sur how to set up et run locally. Additionally, `run.sh` script included pour simplify execution process.
+Le dépôt est structuré pour guider les utilisateurs à travers divers scénarios sélectionnés, conçus pour montrer différents aspects du protocole en action. Ces scénarios sont organisés dans `samples/android/scenarios` pour les applications Android et `samples/python/scenarios` pour les implémentations Python. Chaque scénario est autonome, avec un fichier `README.md` fournissant une description détaillée ainsi que des instructions claires d'installation et d'exécution locale. Un script `run.sh` est inclus pour simplifier l'exécution.
 
-**Authentication et Configuration**
+**Authentification et configuration**
 
-Pour run scenarios, users need **Python 3.10 or higher**. Repository outlines deux primary authentication methods : using **Google API Key**, recommended pour development environments due à simplicity, ou configuring **Vertex AI**, advised pour production deployments offering more robust et scalable solutions. Instructions provided pour setting up environment variables ou using `.env` file pour credentials.
+L'exécution des scénarios nécessite **Python 3.10 ou supérieur**. Le dépôt décrit deux méthodes d'authentification principales : la **clé API Google**, recommandée pour les environnements de développement pour sa simplicité, ou la configuration de **Vertex AI**, conseillée pour les déploiements en production car plus robuste et scalable. Des instructions sont fournies pour configurer les variables d'environnement ou utiliser un fichier `.env` pour les identifiants.
 
-**Core Objects et Future Plans**
+**Objets cœur et plans futurs**
 
-Core objects et definitions de AP2 located dans `src/ap2/types` directory, avec **plans pour publish dedicated PyPI package** dans future pour streamline installation et dependency management. Demonstrations involve **multiple agents et servers**, avec majority de source code pour ces components residing dans `samples/python/src`. Scenarios incorporating Android application comme shopping assistant ont dedicated source code within `samples/android` directory.
+Les objets cœur et définitions d'AP2 se trouvent dans le répertoire `src/ap2/types`, avec un **projet de publication d'un package PyPI dédié** pour simplifier l'installation et la gestion des dépendances. Les démonstrations impliquent **plusieurs agents et serveurs**, la majorité du code source résidant dans `samples/python/src`. Les scénarios incluant une application Android (assistant shopping) ont leur code source dédié dans `samples/android`.
 
-**Open Collaborative Approach**
+**Approche ouverte et collaborative**
 
-Project licensed under **Apache-2.0 license**, indicating open et collaborative approach à development. Cette initiative représente Google's commitment à building infrastructure enabling safe, efficient AI-powered commerce transactions. L'architecture distribuée avec multiple agents et servers demonstrates scalability considerations et real-world applicability de protocol. Repository positions AP2 comme foundational technology pour emerging ecosystem de agentic commerce, où AI agents autonomously manage financial transactions avec proper security safeguards et interoperability standards.
+Le projet est sous **licence Apache-2.0**, témoignant d'une approche ouverte et collaborative. Cette initiative représente l'engagement de Google à construire l'infrastructure permettant des transactions commerciales sûres et efficaces pilotées par IA. L'architecture distribuée multi-agents/serveurs illustre les considérations de scalabilité et l'applicabilité réelle du protocole. Le dépôt positionne AP2 comme technologie fondatrice de l'écosystème émergent du commerce agentique, où des agents IA gèrent de manière autonome des transactions financières avec des garde-fous de sécurité et des standards d'interopérabilité appropriés.
 
 ## GrapheDeConnaissance
 
@@ -65,18 +65,18 @@ Project licensed under **Apache-2.0 license**, indicating open et collaborative 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| google-agentic-commerce | ORGANISATION | a_publié | AP2 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | vise_à | paiements IA sécurisés et interopérables | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | est_basé_sur | Apache-2.0 license | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | définit | protocol objects | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| google-agentic-commerce | ORGANISATION | publie | AP2 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | permet | paiements IA sécurisés et interopérables | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | licence Apache-2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| protocol objects | CONCEPT | fait_partie_de | AP2 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | samples AP2 | TECHNOLOGIE | utilise | Agent Development Kit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | samples AP2 | TECHNOLOGIE | utilise | Gemini 2.5 Flash | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | ne_dépend_pas_de | Agent Development Kit | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| AP2 | TECHNOLOGIE | prend_en_charge | Google API Key | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | prend_en_charge | Vertex AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| AP2 | TECHNOLOGIE | prévoit | publication package PyPI | EVENEMENT | 0.88 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | permet | intégration avec tout kit de développement d'agents | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | Google API Key | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | Vertex AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| google-agentic-commerce | ORGANISATION | prédit | la publication d'un package PyPI dédié | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | AP2 | TECHNOLOGIE | fait_partie_de | agentic commerce | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| google-agentic-commerce | ORGANISATION | représente | Google | ORGANISATION | 0.85 | STATIQUE | inféré |
+| google-agentic-commerce | ORGANISATION | fait_partie_de | Google | ORGANISATION | 0.85 | STATIQUE | inféré |
 
 ### Entités
 

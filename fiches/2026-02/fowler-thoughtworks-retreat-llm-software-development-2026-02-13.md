@@ -68,20 +68,19 @@ Camille Fournier résume cette tension par la formule « tout le monde devient m
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Martin Fowler | PERSONNE | a_participé_à | Thoughtworks Future of Software Development Retreat | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Thoughtworks | ORGANISATION | a_organisé | Thoughtworks Future of Software Development Retreat | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Margaret-Anne Storey | PERSONNE | a_introduit | dette cognitive | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Laura Tacho | PERSONNE | affirme_que | expérience développeur équivaut à expérience agent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Camille Fournier | PERSONNE | affirme_que | programmation supervisée | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Ranganathan & Ye | PERSONNE | a_publié | recherche intensification travail IA | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
-| LLM | TECHNOLOGIE | transforme | développement logiciel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Développeurs seniors | CONCEPT | comparent | agents LLM à développeurs juniors | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Développeurs intermédiaires | CONCEPT | sont_vulnérables_face_à | adoption des LLM | CONCEPT | 0.85 | DYNAMIQUE | inféré |
-| Adoption IA | CONCEPT | provoque | intensification du travail | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Adoption IA | CONCEPT | provoque | épuisement professionnel | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| IDE | TECHNOLOGIE | évolue_vers | modèle hybride déterministe/non-déterministe | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
-| Programmation supervisée | CONCEPT | engendre | fatigue de changement de contexte | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Dette cognitive | CONCEPT | empêche | évolution du code | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Martin Fowler | PERSONNE | fait_partie_de | Thoughtworks Future of Software Development Retreat | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Thoughtworks | ORGANISATION | a_créé | Thoughtworks Future of Software Development Retreat | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Margaret-Anne Storey | PERSONNE | a_créé | dette cognitive | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Laura Tacho | PERSONNE | affirme_que | expérience développeur équivaut à expérience agent | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Camille Fournier | PERSONNE | affirme_que | tout le monde devient manager | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Ranganathan & Ye | PERSONNE | publie | recherche intensification travail IA | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
+| LLM | TECHNOLOGIE | s_applique_à | développement logiciel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Développeurs seniors | CONCEPT | affirme_que | les agents LLM sont comparables à des développeurs juniors | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Martin Fowler | PERSONNE | affirme_que | les développeurs intermédiaires sont les plus vulnérables face aux LLM | AFFIRMATION | 0.85 | DYNAMIQUE | inféré |
+| Ranganathan & Ye | PERSONNE | affirme_que | l'adoption de l'IA provoque intensification du travail et épuisement professionnel | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| IDE | TECHNOLOGIE | converge_avec | modèle hybride déterministe/non-déterministe | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Programmation supervisée | CONCEPT | permet | fatigue de changement de contexte | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Dette cognitive | CONCEPT | réduit | capacité d'évolution du code | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -64,20 +64,20 @@ Jude Gao de Vercel présente les résultats d'une évaluation comparative entre 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jude Gao | PERSONNE | a_publié | AGENTS.md outperforms skills in our agent evals | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Jude Gao | PERSONNE | travaille_pour | Vercel | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| AGENTS.md | TECHNOLOGIE | atteint | taux de réussite 100% | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| skills | TECHNOLOGIE | atteint | taux de réussite 79% | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Jude Gao | PERSONNE | publie | AGENTS.md outperforms skills in our agent evals | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Jude Gao | PERSONNE | travaille_chez | Vercel | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| AGENTS.md | TECHNOLOGIE | mesure | taux de réussite 100% | MESURE | 0.99 | STATIQUE | déclaré_article |
+| skills | TECHNOLOGIE | mesure | taux de réussite 79% (avec instructions explicites) | MESURE | 0.99 | STATIQUE | déclaré_article |
 | skills | TECHNOLOGIE | surpasse | baseline sans documentation | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | AGENTS.md | TECHNOLOGIE | surpasse | skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| contexte passif | CONCEPT | élimine | point de décision agent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Next.js 16 | TECHNOLOGIE | introduit | use cache | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Next.js 16 | TECHNOLOGIE | introduit | connection() | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Next.js 16 | TECHNOLOGIE | introduit | forbidden() | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Vercel | ORGANISATION | a_développé | évaluations Next.js 16 | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| contexte passif | CONCEPT | réduit | point de décision agent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| use cache | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| connection() | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| forbidden() | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Vercel | ORGANISATION | a_créé | évaluations Next.js 16 | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | documentation compressée | CONCEPT | réduit | contexte de 40 Ko à 8 Ko | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| skills | TECHNOLOGIE | n'est_pas_invoqué | dans 56% des cas d'évaluation | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| CLAUDE.md | TECHNOLOGIE | est_équivalent_à | AGENTS.md | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| skills | TECHNOLOGIE | mesure | non-invocation dans 56% des cas d'évaluation | MESURE | 0.99 | STATIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | est_variante_de | AGENTS.md | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 
 ### Entités
 

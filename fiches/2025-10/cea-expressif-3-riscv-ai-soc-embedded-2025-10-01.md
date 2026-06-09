@@ -19,61 +19,61 @@ CEA, ExpressIF 3, RISC-V, AI SoC, edge computing, embedded AI, system-on-chip, o
 CEA (Commissariat à l'énergie atomique et aux énergies alternatives)
 
 ## Ton
-**Profil:** Professionnel-Technique | Institutionnelle descriptive | Analytique-Promotionnelle | Expert
+**Profil:** Professionnel-technique | Institutionnel descriptif | Analytique-promotionnel | Expert
 
-CEA adopte ton institutionnel français combinant rigueur scientifique et messaging souveraineté technologique. Terminologie hautement spécialisée (RISC-V ISA, neural network accelerators, milliwatt-scale power consumption, edge inference) vise audience ingénieurs systèmes et décideurs tech policy. Framing stratégique européen ("technological sovereignty", "avoiding proprietary dependencies") révèle positioning géopolitique. Balance technical depth avec strategic narrative. Pas d'accessibilité grand public — assume readers comprennent SoC architecture, AI workloads, semiconductor ecosystem. Typique communications research institutes nationaux européens combinant innovation showcase et strategic autonomy messaging.
+Le CEA adopte un ton institutionnel français combinant rigueur scientifique et message de souveraineté technologique. La terminologie hautement spécialisée (ISA RISC-V, accélérateurs de réseaux de neurones, consommation à l'échelle du milliwatt, inférence en edge) vise un public d'ingénieurs systèmes et de décideurs en politique technologique. Le cadrage stratégique européen (« souveraineté technologique », « éviter les dépendances propriétaires ») révèle un positionnement géopolitique. Équilibre entre profondeur technique et récit stratégique. Pas d'accessibilité grand public — le texte suppose que le lecteur comprend l'architecture SoC, les charges de travail IA et l'écosystème des semi-conducteurs. Typique des communications des instituts de recherche nationaux européens combinant vitrine d'innovation et message d'autonomie stratégique.
 
 ## Pense-betes
-- **ExpressIF 3** : CEA's latest RISC-V based AI system-on-chip
-- **Edge AI acceleration** : designed pour neural network inference at edge
-- **Open RISC-V architecture** : avoiding proprietary CPU dependencies
-- **European sovereignty** : French-developed alternative à US/Asian chips
-- **Low power consumption** : optimized pour embedded/IoT applications
-- **Neural network accelerators** : dedicated hardware pour AI workloads
-- **Sovereign tech stack** : from chip design à software frameworks
-- **Industrial applications** : automotive, IoT, robotics focus
+- **ExpressIF 3** : dernier system-on-chip IA du CEA basé sur RISC-V
+- **Accélération IA en edge** : conçu pour l'inférence de réseaux de neurones en périphérie
+- **Architecture RISC-V ouverte** : évite les dépendances CPU propriétaires
+- **Souveraineté européenne** : alternative française aux puces américaines/asiatiques
+- **Faible consommation** : optimisé pour les applications embarquées/IoT
+- **Accélérateurs de réseaux de neurones** : matériel dédié aux charges de travail IA
+- **Stack technologique souveraine** : de la conception de la puce aux frameworks logiciels
+- **Applications industrielles** : automobile, IoT, robotique
 
 ## RésuméDe400mots
 
-Le CEA (Commissariat à l'énergie atomique et aux énergies alternatives) a unveiled **ExpressIF 3**, latest generation de its **RISC-V based AI system-on-chip (SoC)** designed pour edge computing applications. Product represents significant milestone dans **European technological sovereignty**, offering alternative à dominant American et Asian chip architectures whilst providing specialized **AI acceleration capabilities** pour embedded systems.
+Le CEA (Commissariat à l'énergie atomique et aux énergies alternatives) dévoile **ExpressIF 3**, dernière génération de son **system-on-chip (SoC) IA basé sur RISC-V** conçu pour les applications d'edge computing. Le produit représente un jalon significatif pour la **souveraineté technologique européenne**, offrant une alternative aux architectures de puces américaines et asiatiques dominantes tout en fournissant des **capacités d'accélération IA** spécialisées pour les systèmes embarqués.
 
-**RISC-V Foundation: Strategic Choice**
+**Fondation RISC-V : un choix stratégique**
 
-CEA's decision build sur **open RISC-V instruction set architecture** rather than proprietary ARM ou x86 reflects strategic sovereignty considerations. RISC-V's open nature allows **complete control over chip design** sans licensing fees ou geopolitical dependencies. Cette approach particularly important pour European industries requiring guaranteed long-term access à chip technology regardless de international trade tensions.
+La décision du CEA de s'appuyer sur **l'architecture de jeu d'instructions ouverte RISC-V** plutôt que sur ARM ou x86 propriétaires reflète des considérations stratégiques de souveraineté. La nature ouverte de RISC-V permet un **contrôle complet de la conception de la puce** sans frais de licence ni dépendances géopolitiques. Cette approche est particulièrement importante pour les industries européennes exigeant un accès garanti de long terme à la technologie des puces, indépendamment des tensions commerciales internationales.
 
-**AI Acceleration Architecture**
+**Architecture d'accélération IA**
 
-ExpressIF 3 incorporates **dedicated neural network accelerators** optimized pour inference workloads typical dans edge deployments. Architecture designed pour efficient execution de convolutional neural networks (CNNs), transformers, et other common AI models whilst maintaining **low power consumption** critical pour battery-powered devices. Performance targets applications requiring **real-time inference** : autonomous vehicles, industrial robotics, smart cameras, IoT sensors.
+ExpressIF 3 intègre des **accélérateurs de réseaux de neurones dédiés** optimisés pour les charges d'inférence typiques des déploiements en edge. L'architecture est conçue pour l'exécution efficace de réseaux de neurones convolutifs (CNN), de transformers et d'autres modèles IA courants tout en maintenant une **faible consommation énergétique**, critique pour les appareils sur batterie. Les performances ciblent les applications nécessitant une **inférence en temps réel** : véhicules autonomes, robotique industrielle, caméras intelligentes, capteurs IoT.
 
-**Edge Computing Focus**
+**Focalisation edge computing**
 
-Design philosophy centers on **edge rather than cloud** deployment. Rather than sending data à distant servers pour processing, ExpressIF 3 enables **on-device AI inference**, reducing latency, improving privacy, et eliminating connectivity dependencies. Cette edge-first approach increasingly important pour applications requiring : immediate response times (autonomous vehicles), privacy preservation (medical devices), operation dans connectivity-constrained environments (industrial settings).
+La philosophie de conception privilégie le déploiement **en périphérie plutôt que dans le cloud**. Plutôt que d'envoyer les données vers des serveurs distants pour traitement, ExpressIF 3 permet **l'inférence IA sur l'appareil**, réduisant la latence, améliorant la confidentialité et éliminant les dépendances de connectivité. Cette approche edge-first est de plus en plus importante pour les applications exigeant : des temps de réponse immédiats (véhicules autonomes), la préservation de la vie privée (dispositifs médicaux), un fonctionnement dans des environnements à connectivité contrainte (contextes industriels).
 
-**Power Efficiency**
+**Efficacité énergétique**
 
-Critical metric pour embedded systems : **watts per inference**. ExpressIF 3 optimized pour **milliwatt-scale power consumption** whilst maintaining acceptable performance. Cette efficiency achieved through : specialized AI accelerators avoiding general-purpose CPU inefficiency, aggressive clock gating reducing idle power, memory hierarchy minimizing expensive DRAM access, voltage/frequency scaling matching workload intensity.
+Métrique critique pour les systèmes embarqués : les **watts par inférence**. ExpressIF 3 est optimisé pour une **consommation à l'échelle du milliwatt** tout en maintenant des performances acceptables. Cette efficacité est obtenue par : des accélérateurs IA spécialisés évitant l'inefficacité des CPU généralistes, un clock gating agressif réduisant la consommation au repos, une hiérarchie mémoire minimisant les accès DRAM coûteux, un ajustement tension/fréquence adapté à l'intensité de la charge.
 
-**Software Ecosystem**
+**Écosystème logiciel**
 
-Hardware alone insufficient - successful adoption requires **comprehensive software stack**. CEA developing : RISC-V toolchains et compilers, AI framework support (TensorFlow Lite, ONNX), driver stacks, development boards, reference designs, documentation et tutorials. Ecosystem building represents multi-year effort but essential pour commercial adoption.
+Le matériel seul ne suffit pas — une adoption réussie exige une **stack logicielle complète**. Le CEA développe : chaînes d'outils et compilateurs RISC-V, support des frameworks IA (TensorFlow Lite, ONNX), piles de drivers, cartes de développement, designs de référence, documentation et tutoriels. La construction de l'écosystème représente un effort pluriannuel mais essentiel pour l'adoption commerciale.
 
-**Target Applications**
+**Applications cibles**
 
-Primary markets : **automotive** (ADAS systems, in-cabin monitoring, autonomous driving), **industrial** (predictive maintenance, quality inspection, robotics), **IoT** (smart cameras, sensor networks, edge gateways), **medical devices** (portable diagnostics, monitoring equipment). Each domain prioritizes different tradeoffs entre performance, power, et cost.
+Marchés prioritaires : **automobile** (systèmes ADAS, surveillance d'habitacle, conduite autonome), **industrie** (maintenance prédictive, inspection qualité, robotique), **IoT** (caméras intelligentes, réseaux de capteurs, passerelles edge), **dispositifs médicaux** (diagnostics portables, équipements de monitoring). Chaque domaine priorise différents compromis entre performance, consommation et coût.
 
-**European Industrial Strategy**
+**Stratégie industrielle européenne**
 
-ExpressIF 3 fits within **broader European push** pour technological independence. Dependencies on American cloud platforms et Asian chip manufacturing identified comme strategic vulnerabilities. French et European investments dans domestic chip design et production aim **reduce these dependencies** whilst creating competitive domestic industries.
+ExpressIF 3 s'inscrit dans **l'effort européen plus large** d'indépendance technologique. Les dépendances aux plateformes cloud américaines et à la fabrication de puces asiatique sont identifiées comme des vulnérabilités stratégiques. Les investissements français et européens dans la conception et la production domestiques de puces visent à **réduire ces dépendances** tout en créant des industries domestiques compétitives.
 
-**Competitive Landscape**
+**Paysage concurrentiel**
 
-ExpressIF 3 competes avec : Nvidia Jetson (high performance, higher power), Google Coral (TPU-based edge inference), Intel Movidius (computer vision focus), ARM-based SoCs avec NPUs. **Differentiation comes depuis** : open RISC-V architecture, European origin offering sovereignty benefits, specific optimizations pour target applications, competitive pricing enabled par avoiding ARM licensing.
+ExpressIF 3 est en concurrence avec : Nvidia Jetson (haute performance, consommation plus élevée), Google Coral (inférence edge basée TPU), Intel Movidius (focalisation vision par ordinateur), SoCs ARM avec NPU. **La différenciation provient de** : l'architecture RISC-V ouverte, l'origine européenne offrant des bénéfices de souveraineté, des optimisations spécifiques pour les applications cibles, un prix compétitif rendu possible par l'absence de licence ARM.
 
-**Commercialization Path**
+**Voie de commercialisation**
 
-Transition depuis research prototype à commercial product requires : partnerships avec semiconductor foundries pour manufacturing, engagement avec system integrators et OEMs, certification processes pour automotive/medical applications, competitive pricing despite lower volumes than giants.
+La transition du prototype de recherche au produit commercial exige : des partenariats avec des fonderies de semi-conducteurs pour la fabrication, l'engagement avec les intégrateurs systèmes et OEMs, des processus de certification pour les applications automobiles/médicales, des prix compétitifs malgré des volumes inférieurs à ceux des géants.
 
-Success will demonstrate viability de **European path** dans critical AI hardware domain.
+Le succès démontrera la viabilité d'une **voie européenne** dans le domaine critique du matériel IA.
 
 ## GrapheDeConnaissance
 
@@ -81,18 +81,18 @@ Success will demonstrate viability de **European path** dans critical AI hardwar
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| CEA | ORGANISATION | a_développé | ExpressIF 3 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| CEA | ORGANISATION | a_créé | ExpressIF 3 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | ExpressIF 3 | TECHNOLOGIE | est_basé_sur | RISC-V | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ExpressIF 3 | TECHNOLOGIE | intègre | accélérateurs de réseaux de neurones | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| ExpressIF 3 | TECHNOLOGIE | cible | edge computing | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | utilise | accélérateurs de réseaux de neurones | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| ExpressIF 3 | TECHNOLOGIE | s_applique_à | edge computing | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | ExpressIF 3 | TECHNOLOGIE | concurrence | Nvidia Jetson | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | ExpressIF 3 | TECHNOLOGIE | concurrence | Google Coral | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| CEA | ORGANISATION | affirme_que | RISC-V garantit la souveraineté technologique | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| RISC-V | TECHNOLOGIE | évite | dépendances propriétaires | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| CEA | ORGANISATION | affirme_que | RISC-V garantit la souveraineté technologique | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| RISC-V | TECHNOLOGIE | réduit | dépendances propriétaires | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | ExpressIF 3 | TECHNOLOGIE | réduit | consommation énergétique à l'échelle du milliwatt | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| CEA | ORGANISATION | développe | écosystème logiciel RISC-V | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| France | LIEU | investit_dans | conception de puces domestiques | CONCEPT | 0.82 | DYNAMIQUE | inféré |
-| souveraineté technologique européenne | CONCEPT | guide | stratégie industrielle CEA | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| CEA | ORGANISATION | a_créé | écosystème logiciel RISC-V | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| France | LIEU | soutient | conception de puces domestiques | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| stratégie industrielle CEA | METHODOLOGIE | est_basé_sur | souveraineté technologique européenne | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

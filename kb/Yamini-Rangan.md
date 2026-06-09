@@ -10,7 +10,7 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#AI-democratize-sophisticated-marketing-capabilities\|AI democratize sophisticated marketing capabilities]] (CONCEPT) — 0.90, ATEMPOREL
+- « l'IA démocratise les capacités marketing sophistiquées » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
 
 ### dirige
@@ -20,7 +20,7 @@
 
 ### prédit
 
-- [[kb/_entites-mineures#agents-autonomes-gérant-interactions-courantes\|agents autonomes gérant interactions courantes]] (CONCEPT) — 0.85, DYNAMIQUE
+- « des agents autonomes gérant les interactions courantes » (AFFIRMATION) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|Yamini Rangan - HubSpot - CEO interview - AI transformation - SaaS - Customer relationship - Enterprise AI]]
 
 ## Fiches sources

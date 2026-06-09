@@ -19,9 +19,9 @@ Augmented Coding, Vibe Coding, GenAI, Software Development, Programming, B+ Tree
 Kent Beck
 
 ## Ton
-**Profil:** Practitioner-Reflective | Première personne craftsman | Narrative-Prescriptive | Expert
+**Profil :** Praticien réflexif | Première personne, artisan du logiciel | Registre narratif-prescriptif | Niveau expert
 
-Beck adopte personal journey voice documenting hands-on experimentation ("Augmented Coding") versus dismissing trends ("Vibe Coding"). Concrete example (B+ Tree implementation Rust→Python) demonstrates points rather than abstract theorizing. Langage craft-oriented (TDD, performance benchmarking, code quality) maintains engineering discipline focus. Tone measured practitioner enthusiasm grounded actual coding experience. Substack TidyFirst format allows nuanced exploration impossible Twitter threads. Typique software craftsmen (Michael Feathers, Sandi Metz style) sharing learned wisdom through concrete examples visant fellow practitioners valuing disciplined practice.
+Beck adopte une voix de parcours personnel documentant une expérimentation concrète (« Augmented Coding ») plutôt que de balayer les tendances (« Vibe Coding »). L'exemple concret (implémentation d'un B+ Tree Rust→Python) démontre les arguments au lieu de théoriser dans l'abstrait. Langage orienté artisanat (TDD, benchmarks de performance, qualité du code) qui maintient le cap sur la discipline d'ingénierie. Ton d'enthousiasme mesuré de praticien, ancré dans une expérience de codage réelle. Le format Substack (Tidy First) permet une exploration nuancée impossible dans des fils Twitter. Typique des artisans du logiciel (style Michael Feathers, Sandi Metz) partageant une sagesse acquise via des exemples concrets, visant des pairs praticiens attachés à la pratique disciplinée.
 
 ## Pense-betes
 - **Augmented Coding** : qualité code prioritaire, tests, couverture - valeurs similaires au hand coding
@@ -77,26 +77,26 @@ Malgré le succès fonctionnel et performantiel, Beck exprime insatisfaction qua
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Kent Beck | PERSONNE | a_créé | BPlusTree3 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Kent Beck | PERSONNE | distingue | augmented coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Kent Beck | PERSONNE | distingue | vibe coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| augmented coding | CONCEPT | s_oppose_à | vibe coding | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| augmented coding | CONCEPT | préserve | qualité du code | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| vibe coding | CONCEPT | ignore | qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Kent Beck | PERSONNE | applique | TDD | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Kent Beck | PERSONNE | applique | Tidy First | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| BPlusTree3 | TECHNOLOGIE | est_implémenté_en | Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| BPlusTree3 | TECHNOLOGIE | est_implémenté_en | Python | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Augment Remote Agent | TECHNOLOGIE | a_débloqué | translittération Python→Rust | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Kent Beck | PERSONNE | affirme_que | "yak shaving éliminé avec IA" | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| augmented coding | CONCEPT | augmente | décisions conséquentes par heure | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Kent Beck | PERSONNE | a_créé | augmented coding | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | affirme_que | l'augmented coding se distingue du vibe coding | AFFIRMATION | 0.99 | STATIQUE | déclaré_article |
+| augmented coding | METHODOLOGIE | s_oppose_à | vibe coding | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| augmented coding | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | réduit | priorité de la qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Kent Beck | PERSONNE | utilise | TDD | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | utilise | Tidy First | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| BPlusTree3 | TECHNOLOGIE | utilise | Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| BPlusTree3 | TECHNOLOGIE | utilise | Python | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Augment Remote Agent | TECHNOLOGIE | permet | translittération Python→Rust | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | affirme_que | « yak shaving éliminé avec IA » | CITATION | 0.93 | STATIQUE | déclaré_article |
+| augmented coding | METHODOLOGIE | améliore | nombre de décisions conséquentes par heure | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Kent Beck | PERSONNE | rôle | Créateur du TDD et Tidy First, praticien augmented coding | AJOUT |
-| augmented coding | CONCEPT | définition | Codage assisté IA avec priorité qualité, tests et couverture | AJOUT |
-| vibe coding | CONCEPT | définition | Codage assisté IA indifférent à la qualité, orienté seul comportement | AJOUT |
+| augmented coding | METHODOLOGIE | définition | Codage assisté IA avec priorité qualité, tests et couverture | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Codage assisté IA indifférent à la qualité, orienté seul comportement | AJOUT |
 | BPlusTree3 | TECHNOLOGIE | nature | Bibliothèque B+ Tree performance-compétitive en Rust et Python | AJOUT |
 | TDD | METHODOLOGIE | cycle | Red → Green → Refactor, un test à la fois | AJOUT |
 | Tidy First | METHODOLOGIE | principe | Séparation stricte changements structurels / comportementaux | AJOUT |

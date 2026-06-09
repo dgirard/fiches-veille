@@ -49,17 +49,17 @@ Orr souligne que cette transformation n'est pas qu'une optimisation technique ma
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Lisa Orr | PERSONNE | travaille_chez | Zapier | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Zapier | ORGANISATION | gère | 8000+ intégrations | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Zapier | ORGANISATION | souffre_de | érosion applicative | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| érosion applicative | CONCEPT | est_causée_par | changements constants APIs tierces | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Zapier | ORGANISATION | mesure | 8000+ intégrations gérées | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| érosion applicative | CONCEPT | observé_dans | Zapier | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| changements constants APIs tierces | CONCEPT | a_créé | érosion applicative | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Scout | TECHNOLOGIE | résout | érosion applicative | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | comprend | Context Analyzer | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | comprend | Diff Generator | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | comprend | Test Generator | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | atteint | 97% taux de réussite MR | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | réduit | temps de résolution de 72h à minutes | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| équipe support | CONCEPT | évolue_vers | livraison de code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| 50% du temps | CONCEPT | est_consacré_à | rassemblement du contexte | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Context Analyzer | TECHNOLOGIE | fait_partie_de | Scout | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Diff Generator | TECHNOLOGIE | fait_partie_de | Scout | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Test Generator | TECHNOLOGIE | fait_partie_de | Scout | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | mesure | 97% de taux de réussite des MR | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | réduit | temps de résolution de 72h à quelques minutes | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| équipe support | CONCEPT | converge_avec | livraison de code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Lisa Orr | PERSONNE | mesure | 50% du temps passé à rassembler le contexte | MESURE | 0.88 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -68,18 +68,18 @@ Les principes méthodologiques sous-jacents — TDD strict, YAGNI, DRY — tradu
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Jesse Vincent | PERSONNE | a_créé | Superpowers | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Prime Radiant | ORGANISATION | développe | Superpowers | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | impose | workflow brainstorming avant code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Superpowers | TECHNOLOGIE | applique | TDD rouge/vert strict | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Superpowers | TECHNOLOGIE | est_compatible_avec | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | est_compatible_avec | Cursor | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Prime Radiant | ORGANISATION | a_créé | Superpowers | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | workflow brainstorming avant code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | TDD rouge/vert strict | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Superpowers | TECHNOLOGIE | s_applique_à | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | s_applique_à | Cursor | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | utilise | fichiers SKILL.md | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Superpowers | TECHNOLOGIE | intègre | mémoire conversationnelle SQLite | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | consomme | moins de 2k tokens au démarrage | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | a_atteint | 130k+ étoiles GitHub | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | mémoire conversationnelle SQLite | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | mesure | moins de 2k tokens injectés au démarrage | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | mesure | 130k+ étoiles GitHub | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | a_créé | K-9 Mail | TECHNOLOGIE | 0.92 | STATIQUE | inféré |
-| Superpowers | TECHNOLOGIE | respecte | YAGNI et DRY | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Skills communautaires | CONCEPT | étendent | Superpowers | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | est_basé_sur | YAGNI et DRY | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Skills communautaires | CONCEPT | améliore | Superpowers | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

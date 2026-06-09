@@ -54,14 +54,14 @@ Rauch positionne ainsi Vercel non seulement comme plateforme de déploiement web
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Guillermo Rauch | PERSONNE | dirige | Vercel | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Guillermo Rauch | PERSONNE | affirme_que | CLI est abstraction fondamentale agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| agents de codage | CONCEPT | nécessitent | accès OS | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| agents de codage | CONCEPT | redéfinis_comme | computer-use agents | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_décrit_comme | IA pour votre OS | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| CLI | TECHNOLOGIE | transcende | frontières local/cloud | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Vercel Sandbox | TECHNOLOGIE | fournit | calcul infini pour agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Guillermo Rauch | PERSONNE | prédit | millions agents concurrents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Vercel | ORGANISATION | se_repositionne_comme | infrastructure agents autonomes | CONCEPT | 0.83 | DYNAMIQUE | inféré |
+| Guillermo Rauch | PERSONNE | affirme_que | le CLI est l'abstraction fondamentale des agents de codage | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| agents de codage | TECHNOLOGIE | utilise | accès OS | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| agents de codage | TECHNOLOGIE | est_instance_de | computer-use agents | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | IA pour votre OS | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| CLI | TECHNOLOGIE | s_applique_à | environnements locaux et cloud (ssh) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Vercel Sandbox | TECHNOLOGIE | permet | calcul infini pour agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Guillermo Rauch | PERSONNE | prédit | des millions d'agents concurrents s'exécuteront en parallèle | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
+| Vercel | ORGANISATION | est_instance_de | infrastructure pour agents autonomes | CONCEPT | 0.83 | DYNAMIQUE | inféré |
 
 ### Entités
 

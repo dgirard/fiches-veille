@@ -19,11 +19,11 @@ AGI, Intelligence Artificielle Générale, planification stratégique, LLM, adop
 Ethan Mollick, Professeur à la Wharton School, University of Pennsylvania
 
 ## Ton
-**Profil:** Académique-Prospectif | Première personne thought leader | Analytique-Provocatrice | Intermédiaire
+**Profil** : Académique-prospectif, première personne de thought leader, registre analytique-provocateur, niveau intermédiaire.
 
-Mollick adopte ton essayiste intellectuel combinant data empirique (sondages AGI 2047) et réflexion stratégique. Titre "Confronting Impossible Futures" signals willingness aborder uncomfortable scenarios. Langage accessible évite jargon technique excessif tout en covering complex AGI implications. Structure argument méthodique identifiant obstacles (discussions dystopiques, documentation manquante, fragmentation progrès) puis proposing frameworks action. Tone measured urgency évitant both dismissive skepticism et panicked alarmism. Typique Substack thoughtful essays (Stratechery, Margins style) challenging conventional wisdom et forcing readers confront difficult questions sur technological trajectory.
+**Description** : Mollick adopte un ton d'essayiste intellectuel combinant données empiriques (sondages AGI 2047) et réflexion stratégique. Le titre « Confronting Impossible Futures » signale la volonté d'aborder des scénarios inconfortables. Le langage accessible évite le jargon technique excessif tout en couvrant les implications complexes de l'AGI. La structure argumentative méthodique identifie les obstacles (discussions dystopiques, documentation manquante, fragmentation des progrès) puis propose des cadres d'action. Le ton d'urgence mesurée évite à la fois le scepticisme dédaigneux et l'alarmisme paniqué. Typique des essais réfléchis sur Substack (style Stratechery, Margins) qui bousculent les idées reçues et forcent les lecteurs à affronter des questions difficiles sur la trajectoire technologique.
 
-## Pense-bêtes
+## Pense-betes
 - Les organisations planifient sur 10 ans mais ignorent l'amélioration continue de l'IA dans leurs stratégies
 - Même sans nouvelles avancées, l'IA actuelle disruptera les organisations pendant des années
 - Sondage 2023 : AGI prévue en moyenne pour 2047, avec 10% de probabilité avant 2027
@@ -57,24 +57,24 @@ En conclusion, Mollick plaide pour reconnaître le changement inévitable et pre
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | enseigne_à | Wharton School | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | prédit | organisations doivent planifier plusieurs scénarios AGI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| organisations | CONCEPT | ignorent | amélioration continue de l'IA dans la planification | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| AGI | CONCEPT | représente | objectif des grands laboratoires IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| loi de Moore | CONCEPT | illustre | prophétie autoréalisatrice technologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | travaille_chez | Wharton School | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | les organisations doivent planifier plusieurs scénarios AGI | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | les organisations ignorent l'amélioration continue de l'IA dans leur planification | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| AGI | TECHNOLOGIE | est_instance_de | objectif des grands laboratoires IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| loi de Moore | CONCEPT | est_instance_de | prophétie autoréalisatrice technologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | planification multi-scénarios | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Arvind Narayanan | PERSONNE | contredit | timelines AGI courtes | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| sondage informaticiens 2023 | EVENEMENT | situe | AGI en moyenne à 2047 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Claude 3.5 | TECHNOLOGIE | démontre | capacités IA actuelles impressionnantes | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| GPT-4o | TECHNOLOGIE | facilite | planification de scénarios | METHODOLOGIE | 0.83 | DYNAMIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | a_publié | Co-Intelligence | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Arvind Narayanan | PERSONNE | s_oppose_à | timelines AGI courtes | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| sondage informaticiens 2023 | DOCUMENT | mesure | AGI prévue en moyenne pour 2047, 10% de probabilité avant 2027 | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Claude 3.5 | TECHNOLOGIE | soutient | capacités IA actuelles impressionnantes | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| GPT-4o | TECHNOLOGIE | permet | planification de scénarios | METHODOLOGIE | 0.83 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | Co-Intelligence | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Ethan Mollick | PERSONNE | rôle | Professeur Wharton School, auteur One Useful Thing | AJOUT |
-| AGI | CONCEPT | définition | IA surpassant humains dans toutes tâches | AJOUT |
+| AGI | TECHNOLOGIE | définition | IA surpassant humains dans toutes tâches | AJOUT |
 | Wharton School | ORGANISATION | type | École de commerce, Université de Pennsylvanie | AJOUT |
 | loi de Moore | CONCEPT | analogie | Attentes technologiques devenant objectifs motivateurs | AJOUT |
 | planification multi-scénarios | METHODOLOGIE | application | Plateau, croissance linéaire, exponentielle, AGI | AJOUT |

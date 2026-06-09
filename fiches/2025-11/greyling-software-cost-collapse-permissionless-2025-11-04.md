@@ -23,7 +23,7 @@ Cobus Greyling
 
 Greyling adopte style thought leadership Medium mêlant analyse économique/tech et thèse provocatrice. Citations stratégiques (Marc Andreessen, "moment Gutenberg") et concepts percutants ("Work Slop", "AI Slop", "permissionless development") révèlent analyste tech construisant narrative forte. Le ton alterne rigueur factuelle (+55% productivité) et formulations mémorables ("Software eating the world"). Typique des articles Medium positionnant auteur comme observateur critique des grandes tendances tech.
 
-## Pense-bêtes
+## Pense-betes
 - **Marc Andreessen** : "Pas de bulle IA" - contrairement dot-com (97% fibre "dark"), pas de "dark GPUs" aujourd'hui
 - **Principe vagues tech** : "Tech waves surge when the expensive turns cheap enough to squander"
 - **IA bon marché** : consommation explosive, gens "gaspillent" IA (meme generators, code tweaks)
@@ -85,18 +85,18 @@ L'article positionne cet effondrement comme "Software's Gutenberg Moment"—rév
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Cobus Greyling | PERSONNE | affirme_que | coût logiciel s'effondre | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Marc Andreessen | PERSONNE | affirme_que | bulle IA inexistante | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Marc Andreessen | PERSONNE | a_publié | "Software is eating the world" | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | augmente | productivité développeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| développement permissionless | CONCEPT | transforme | production logicielle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| dette technique sociétale | CONCEPT | résulte_de | coûts logiciel élevés | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Work Slop | CONCEPT | émerge_de | surconsommation IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Cobus Greyling | PERSONNE | affirme_que | le coût du logiciel s'effondre | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | il n'y a pas de bulle IA (pas de "dark GPUs") | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | publie | "Software is eating the world" | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | améliore | productivité développeurs | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| développement permissionless | CONCEPT | améliore | production logicielle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| dette technique sociétale | CONCEPT | est_basé_sur | coûts logiciel élevés | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Work Slop | CONCEPT | est_basé_sur | surconsommation IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Kore.ai | ORGANISATION | emploie | Cobus Greyling | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
-| pilotes IA entreprise | CONCEPT | échouent_à | passage en production | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| emploi développeurs | CONCEPT | décline_depuis | 2018 | EVENEMENT | 0.91 | STATIQUE | déclaré_article |
-| moment Gutenberg logiciel | CONCEPT | est_comparable_à | invention imprimerie | EVENEMENT | 0.85 | ATEMPOREL | inféré |
-| IA générative | TECHNOLOGIE | démocratise | création logicielle | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Cobus Greyling | PERSONNE | affirme_que | 95% des pilotes IA génératifs d'entreprise échouent le passage en production | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| emploi développeurs | CONCEPT | mesure | déclin de ~100% (2018) à ~82% (2024, ADP) | MESURE | 0.91 | STATIQUE | déclaré_article |
+| moment Gutenberg logiciel | CONCEPT | s_inspire_de | invention imprimerie | EVENEMENT | 0.85 | ATEMPOREL | inféré |
+| IA générative | TECHNOLOGIE | permet | démocratisation création logicielle | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

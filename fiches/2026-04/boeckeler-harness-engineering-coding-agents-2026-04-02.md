@@ -66,20 +66,20 @@ L'auteure conclut que l'expérience humaine reste un "harnais implicite" irrempl
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Birgitta Böckeler | PERSONNE | a_écrit | Harness engineering for coding agent users | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Birgitta Böckeler | PERSONNE | publie | Harness engineering for coding agent users | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Birgitta Böckeler | PERSONNE | travaille_chez | Thoughtworks | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Harness engineering | METHODOLOGIE | est_une_forme_de | Context engineering | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Harness engineering | METHODOLOGIE | est_variante_de | Context engineering | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Harness engineering | METHODOLOGIE | utilise | Guides feedforward | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Harness engineering | METHODOLOGIE | utilise | Capteurs feedback | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Guides feedforward | CONCEPT | augmente | Probabilité de bons résultats | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Guides feedforward | CONCEPT | améliore | Probabilité de bons résultats | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Capteurs feedback | CONCEPT | permet | Auto-correction de l'agent | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Harnais de comportement | CONCEPT | est_décrit_comme | Défi majeur non résolu | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Loi d'Ashby | CONCEPT | justifie | Templates de harnais | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Harnais de comportement | CONCEPT | est_instance_de | Défi majeur non résolu | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Loi d'Ashby | CONCEPT | soutient | Templates de harnais | CONCEPT | 0.88 | ATEMPOREL | inféré |
 | Ned Letcher | PERSONNE | a_créé | Ambient affordances | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | utilise | Linters custom et tests structurels | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Stripe | ORGANISATION | utilise | Pre-push hooks et blueprints | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Harnachabilité | CONCEPT | dépend_de | Typage fort et modularité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Expérience humaine | CONCEPT | constitue | Harnais implicite irremplaçable | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Harnachabilité | CONCEPT | est_basé_sur | Typage fort et modularité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Expérience humaine | CONCEPT | est_instance_de | Harnais implicite irremplaçable | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

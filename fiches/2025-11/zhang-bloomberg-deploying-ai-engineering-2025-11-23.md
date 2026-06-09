@@ -57,16 +57,16 @@ Zhang conclut en soulignant que l'IA change la **"fonction de coût"** de l'ing�
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Lei Zhang | PERSONNE | travaille_chez | Bloomberg | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Bloomberg | ORGANISATION | emploie | 9000 ingénieurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Bloomberg | ORGANISATION | applique | Paved Path | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Bloomberg | ORGANISATION | a_construit | AI Gateway | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Bloomberg | ORGANISATION | a_construit | MCP Hub | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Uplift Agents | TECHNOLOGIE | réalisent | migrations et correctifs de masse | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Incident Response Agents | TECHNOLOGIE | scannent | logs, télémétrie et configurations | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| juniors formés à l'IA | CONCEPT | deviennent | vecteurs de changement | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| contributeurs individuels | CONCEPT | adoptent_plus_vite | IA que les managers | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | change | fonction de coût de l'ingénierie | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Paved Path | METHODOLOGIE | rend | bonne méthode facile, mauvaise difficile | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Bloomberg | ORGANISATION | mesure | 9000 ingénieurs | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | utilise | Paved Path | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | a_créé | AI Gateway | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Bloomberg | ORGANISATION | a_créé | MCP Hub | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Uplift Agents | TECHNOLOGIE | permet | migrations et correctifs de masse | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Incident Response Agents | TECHNOLOGIE | utilise | logs, télémétrie et configurations | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Lei Zhang | PERSONNE | affirme_que | les juniors formés à l'IA deviennent des vecteurs de changement | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| contributeurs individuels | CONCEPT | surpasse | managers en vitesse d'adoption de l'IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | réduit | coût des tâches d'ingénierie (migrations, docs) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Paved Path | METHODOLOGIE | est_basé_sur | rendre la bonne méthode facile et la mauvaise difficile | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

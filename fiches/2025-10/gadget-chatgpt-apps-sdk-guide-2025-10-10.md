@@ -67,18 +67,18 @@ L'article conclut que l'écosystème est encore très jeune mais prometteur, ave
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Gadget | ORGANISATION | a_publié | guide ChatGPT Apps SDK | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Harry Brundage | PERSONNE | a_rédigé | guide ChatGPT Apps SDK | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| ChatGPT App | CONCEPT | est_basé_sur | MCP server | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ChatGPT App | CONCEPT | utilise | OAuth 2.1 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| ChatGPT App | CONCEPT | intègre | widgets iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Gadget | ORGANISATION | publie | guide ChatGPT Apps SDK | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Harry Brundage | PERSONNE | publie | guide ChatGPT Apps SDK | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| ChatGPT App | TECHNOLOGIE | est_basé_sur | MCP server | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT App | TECHNOLOGIE | utilise | OAuth 2.1 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT App | TECHNOLOGIE | utilise | widgets iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Gadget | ORGANISATION | recommande | StreamableHTTPServerTransport | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | OpenAI | ORGANISATION | publie | ChatGPT Apps SDK | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ChatGPT Apps SDK | TECHNOLOGIE | nécessite | OAuth 2.1 provider | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| ChatGPT Apps SDK | TECHNOLOGIE | utilise | OAuth 2.1 provider | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Vite | TECHNOLOGIE | améliore | développement widgets ChatGPT | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| window.openai | TECHNOLOGIE | fournit | authentification gratuite | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| CORS | CONCEPT | bloque | développement ChatGPT Apps | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| MCP Inspector | TECHNOLOGIE | facilite | débogage MCP | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| window.openai | TECHNOLOGIE | permet | authentification gratuite | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| CORS | CONCEPT | s_oppose_à | développement ChatGPT Apps | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| MCP Inspector | TECHNOLOGIE | améliore | débogage MCP | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Gadget | ORGANISATION | s_oppose_à | exemples officiels OpenAI | CONCEPT | 0.88 | STATIQUE | inféré |
 
 ### Entités

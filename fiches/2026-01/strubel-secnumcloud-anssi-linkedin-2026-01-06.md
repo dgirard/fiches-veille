@@ -61,15 +61,15 @@ SecNumCloud répond à deux des trois enjeux de souveraineté numérique (ne pas
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Vincent Strubel | PERSONNE | dirige | ANSSI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| ANSSI | ORGANISATION | délivre | qualification SecNumCloud | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| SecNumCloud | CONCEPT | vérifie | plus de 1200 exigences | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| SecNumCloud | CONCEPT | protège_contre | CLOUD Act et FISA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| SecNumCloud | CONCEPT | exige | siège social et capitalisation européens | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| SecNumCloud | CONCEPT | impose | localisation données UE | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Vincent Strubel | PERSONNE | affirme_que | SecNumCloud ne supprime pas dépendance | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| offres hybrides | CONCEPT | satisfont | mêmes exigences que offres qualifiées | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| SecNumCloud | CONCEPT | répond_à | 2 sur 3 enjeux souveraineté | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| CERT-FR | ORGANISATION | peut_intervenir_grâce_à | localisation UE | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| ANSSI | ORGANISATION | a_créé | qualification SecNumCloud | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| SecNumCloud | CONCEPT | mesure | plus de 1 200 exigences vérifiées | MESURE | 0.95 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | résout | risque extraterritorial (CLOUD Act, FISA) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| siège social et capitalisation européens | CONCEPT | fait_partie_de | exigences SecNumCloud | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| localisation des données en UE | CONCEPT | fait_partie_de | exigences SecNumCloud | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Vincent Strubel | PERSONNE | affirme_que | « SecNumCloud ne signifie pas l'absence de dépendance » | CITATION | 0.90 | ATEMPOREL | déclaré_article |
+| Vincent Strubel | PERSONNE | affirme_que | les offres hybrides satisfont exactement les mêmes exigences que les autres offres qualifiées | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| SecNumCloud | CONCEPT | résout | 2 des 3 enjeux de souveraineté numérique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| localisation des données en UE | CONCEPT | permet | intervention du CERT-FR | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

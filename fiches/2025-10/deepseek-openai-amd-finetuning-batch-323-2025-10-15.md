@@ -59,21 +59,21 @@ La newsletter aborde également d'autres sujets ("and more..."), témoignant de 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| OpenAI | ORGANISATION | conclut_partenariat_avec | AMD | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | achète | AMD Instinct MI450 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| AMD | ORGANISATION | émet_warrant_pour | OpenAI | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | détient_jusqu'à | 10% AMD | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | collabore_avec | AMD | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | utilise | AMD Instinct MI450 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AMD | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | mesure | participation jusqu'à 10% dans AMD | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | DeepSeek | ORGANISATION | publie | DeepSeek-V3.2-Exp | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | DeepSeek-V3.2-Exp | TECHNOLOGIE | réduit | coûts_inférence | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | DeepSeek-V3.2-Exp | TECHNOLOGIE | utilise | attention_sparse_dynamique | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | DeepSeek-V3.2-Exp | TECHNOLOGIE | est_basé_sur | DeepSeek-V3.1-Terminus | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Thinking Machines Lab | ORGANISATION | lance | Tinker | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Mira Murati | PERSONNE | a_fondé | Thinking Machines Lab | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Tinker | TECHNOLOGIE | simplifie | fine-tuning_multi-GPU | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Thinking Machines Lab | ORGANISATION | publie | Tinker | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Mira Murati | PERSONNE | a_créé | Thinking Machines Lab | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Tinker | TECHNOLOGIE | améliore | fine-tuning_multi-GPU | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Tinker | TECHNOLOGIE | utilise | LoRA | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | recommande | analyse_d_erreurs | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| DeepSeek-V3.2-Exp | TECHNOLOGIE | supporte | puces_Huawei | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | s_allie_avec | Samsung | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| DeepSeek-V3.2-Exp | TECHNOLOGIE | utilise | puces_Huawei | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | collabore_avec | Samsung | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

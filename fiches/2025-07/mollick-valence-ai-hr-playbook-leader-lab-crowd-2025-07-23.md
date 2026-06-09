@@ -66,20 +66,20 @@ C'est la **pièce conceptuelle** qui transforme l'anecdote Moderna en tendance d
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Ethan Mollick | PERSONNE | affirme_que | HR is R&D now | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Ethan Mollick | PERSONNE | a_créé | framework Leader-Lab-Crowd | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Framework Leader-Lab-Crowd | METHODOLOGIE | guide | écriture du AI-HR playbook | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Ethan Mollick | PERSONNE | enseigne_à | The Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | a_écrit | Co-Intelligence | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Shadow AI | CONCEPT | caractérise | usage IA caché par les employés | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | brise | modèle d'apprentissage par tâches juniors | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| CHRO | CONCEPT | doit_reconstruire | pipeline de formation | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| AI lab | METHODOLOGIE | doit_vivre_dans | HR et business | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Compétences IA | CONCEPT | sont | people skills (manager, enseigner) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Framework Leader-Lab-Crowd | METHODOLOGIE | permet | écriture du AI-HR playbook | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | travaille_chez | The Wharton School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | a_créé | Co-Intelligence | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Shadow AI | CONCEPT | est_instance_de | usage IA caché par les employés | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | réduit | modèle d'apprentissage par tâches juniors | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | reconstruction du pipeline de formation au niveau CHRO | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | ancrage du AI lab dans HR et le business | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | les compétences IA sont des people skills (manager, enseigner) | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | 5 expérimentations RH-IA | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| AI-First Role Design | METHODOLOGIE | exige | 2h d'augmentation IA avant fiche de poste | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Performance Review Redesign | METHODOLOGIE | exploite | feedback continu IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Valence | ORGANISATION | a_organisé | sommet AI & the Workforce: The Adoption Gap | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| AI-First Role Design | METHODOLOGIE | utilise | 2h d'augmentation IA avant fiche de poste | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Performance Review Redesign | METHODOLOGIE | utilise | feedback continu IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Valence | ORGANISATION | a_créé | sommet AI & the Workforce: The Adoption Gap | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Parker Mitchell | PERSONNE | dirige | Valence | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | affirme_que | la fonction HR est le levier principal de la transformation IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | la fonction HR est le levier principal de la transformation IA | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

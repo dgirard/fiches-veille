@@ -160,27 +160,27 @@ Alexandre Frizzo publie sur LinkedIn Pulse, le 5 mai 2026, une tribune *one-year
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Alexandre Frizzo | PERSONNE | publie | A Year With Claude Code | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Alexandre Frizzo | PERSONNE | utilise | Claude Code quotidiennement depuis 1 an | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Alexandre Frizzo | PERSONNE | affirme_que | "the new bottleneck is supervision" | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Alexandre Frizzo | PERSONNE | mesure | productivité 3-5× sur usage quotidien | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Métier de développeur | CONCEPT | a_changé_de | écriture vers supervision | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Writing muscle | CONCEPT | s_atrophie_avec | usage prolongé d'agents | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Deep flow state | CONCEPT | devient_rare_avec | context-switching multi-supervision | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Ownership satisfaction | CONCEPT | diminue_avec | code généré par agent | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Gloria Mark | PERSONNE | a_mesuré | 23 min de récupération contexte par interruption | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| McKinsey | ORGANISATION | a_mesuré | 500% productivité en flow state | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| FOMO d'agents 24/7 | CONCEPT | crée | pression psychologique permanente | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Review quality | CONCEPT | est_menacée_par | volume 3-5× | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Alexandre Frizzo | PERSONNE | rejette | narratif "AI is bad" et uncritical enthusiasm | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Bilan Frizzo | CONCEPT | nuance | déclaration "coding is solved" de Cherny | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Alexandre Frizzo | PERSONNE | publie | A Year With Claude Code | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Alexandre Frizzo | PERSONNE | utilise | Claude Code (quotidiennement depuis 1 an) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Alexandre Frizzo | PERSONNE | affirme_que | "the new bottleneck is supervision" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Alexandre Frizzo | PERSONNE | mesure | productivité 3-5× sur usage quotidien | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Alexandre Frizzo | PERSONNE | affirme_que | le métier de développeur a changé de forme, de l'écriture vers la supervision | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Usage prolongé d'agents | CONCEPT | réduit | writing muscle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Context-switching multi-supervision | CONCEPT | réduit | deep flow state | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Code généré par agent | CONCEPT | réduit | ownership satisfaction | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Gloria Mark | PERSONNE | mesure | 23 min de récupération contexte par interruption | MESURE | 0.97 | STATIQUE | déclaré_article |
+| McKinsey | ORGANISATION | mesure | 500% productivité en flow state | MESURE | 0.93 | STATIQUE | déclaré_article |
+| FOMO d'agents 24/7 | CONCEPT | permet | pression psychologique permanente | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Volume 3-5× | CONCEPT | réduit | review quality | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Alexandre Frizzo | PERSONNE | s_oppose_à | narratif "AI is bad" et uncritical enthusiasm | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Bilan Frizzo | DOCUMENT | affine | déclaration "coding is solved" de Cherny | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Productivité 3-5× | CONCEPT | converge_avec | Wescale X3-X4, Curran 3× (moyenne), DORA 2025 | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Distribution productivité IA | CONCEPT | est | inégale (médiane 3-5×, tail élite 10×+) | CONCEPT | 0.95 | ATEMPOREL | inféré |
-| Tail élite 10×+ | CONCEPT | inclut | Cherny (150 PRs/jour record), Curran top 5% (6× median = 18× baseline), Karpathy "peaks higher than 10×" | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Distribution productivité IA | CONCEPT | mesure | médiane committée 3-5×, tail élite 10×+ | MESURE | 0.95 | ATEMPOREL | inféré |
+| Cherny (150 PRs/jour record), Curran top 5% (6× median = 18× baseline), Karpathy "peaks higher than 10×" | PERSONNE | fait_partie_de | Tail élite 10×+ | CONCEPT | 0.93 | DYNAMIQUE | inféré |
 | Writing muscle atrophy | CONCEPT | converge_avec | étude Anthropic junior engineers deskilling | CONCEPT | 0.91 | DYNAMIQUE | inféré |
-| Long-tail besoins métier | CONCEPT | devient_adressable_avec | agents IA | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Quality control traditionnel | CONCEPT | suppose | rythme humain | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Cognitive costs | CONCEPT | sont_cachés_dans | productivité affichée | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Agents IA | TECHNOLOGIE | permet | adressage de la long-tail des besoins métier | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Quality control traditionnel | CONCEPT | est_basé_sur | rythme humain | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Alexandre Frizzo | PERSONNE | affirme_que | les coûts cognitifs sont cachés derrière la productivité affichée | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -188,7 +188,6 @@ Alexandre Frizzo publie sur LinkedIn Pulse, le 5 mai 2026, une tribune *one-year
 |--------|------|----------|--------|--------|
 | Alexandre Frizzo | PERSONNE | rôle | Auteur LinkedIn Pulse, praticien Claude Code 1 an d'usage quotidien, position épistémique tierce (refus AI is bad + refus uncritical enthusiasm) | AJOUT |
 | "My output doubled. My attention span didn't" | CONCEPT | source | Aphorisme-titre Frizzo — symétrie productivité/coût cognitif | AJOUT |
-| "The new bottleneck is supervision" | CONCEPT | source | Thèse pivot Frizzo — déplacement du goulot d'étranglement de la création vers la supervision | AJOUT |
 | Writing muscle atrophy | CONCEPT | définition | Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents | AJOUT |
 | FOMO d'agents 24/7 | CONCEPT | définition | Pression psychologique : "every hour I'm not at the keyboard is an hour an agent could be earning for me" — inversion de la logique deep work | AJOUT |
 | Review quality at scale | CONCEPT | définition | Tension Frizzo : reviewer à 3-5× le volume risque le skimming, pratiques qualité historiques supposaient rythme humain | AJOUT |

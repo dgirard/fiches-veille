@@ -58,15 +58,15 @@ Cette annonce s'inscrit dans la tendance plus large de structuration des interac
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | a_créé | Conductor | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Conductor | TECHNOLOGIE | est_une_extension_de | Gemini CLI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Conductor | TECHNOLOGIE | propose | développement piloté par le contexte | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Conductor | TECHNOLOGIE | stocke | spécifications en fichiers Markdown | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Conductor | TECHNOLOGIE | supporte | projets brownfield | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Keith Ballinger | PERSONNE | a_co-créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Jay Kornder | PERSONNE | a_co-créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Sherzat Aitbayev | PERSONNE | a_co-créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Conductor | TECHNOLOGIE | fait_partie_de | Gemini CLI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Conductor | TECHNOLOGIE | est_basé_sur | développement piloté par le contexte | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Conductor | TECHNOLOGIE | utilise | fichiers Markdown pour les spécifications | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Conductor | TECHNOLOGIE | s_applique_à | projets brownfield | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Keith Ballinger | PERSONNE | a_créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Jay Kornder | PERSONNE | a_créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Sherzat Aitbayev | PERSONNE | a_créé | Conductor | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | développement piloté par le contexte | METHODOLOGIE | remplace | logs de chat éphémères | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Conductor | TECHNOLOGIE | s_inscrit_dans_tendance | AGENTS.md et systèmes de skills | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| Conductor | TECHNOLOGIE | converge_avec | AGENTS.md et systèmes de skills | CONCEPT | 0.82 | DYNAMIQUE | inféré |
 
 ### Entités
 

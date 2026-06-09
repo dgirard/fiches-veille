@@ -1,6 +1,6 @@
 # Wardley Mapping
 
-> **Type** : METHODOLOGIE | 8 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -18,9 +18,14 @@
 - [[kb/_entites-mineures#conscience-situationnelle\|conscience situationnelle]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-### facilite
+### permet
 
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] (CONCEPT) — 0.94, ATEMPOREL
+  - [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
+
+### s_inspire_de
+
+- [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] (PERSONNE) — 0.92, STATIQUE
   - [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
 ### utilise
@@ -33,8 +38,6 @@
 ## Relations (comme objet)
 
 - [[kb/Simon-Wardley\|Simon Wardley]] **a_créé** → Wardley Mapping — 0.98
-- [[kb/Simon-Wardley\|Simon Wardley]] **a_développé** → Wardley Mapping — 0.98
-- [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] **a_inspiré** → Wardley Mapping — 0.92
 
 ## Fiches sources
 

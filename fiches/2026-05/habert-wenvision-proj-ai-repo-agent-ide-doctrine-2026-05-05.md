@@ -119,23 +119,23 @@ Cette pièce convergente avec **Wescale Usine Logicielle Augmentée** (2026-05-0
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Antoine HABERT | PERSONNE | a_créé | PROJ-AI | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Antoine HABERT | PERSONNE | travaille_chez | WEnvision | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| PROJ-AI | METHODOLOGIE | repose_sur | triade repo + agent + doctrine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| PROJ-AI | METHODOLOGIE | organise_en | six zones répertoires | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cycle DPEV | METHODOLOGIE | structure | Décider → Promettre → Exécuter → Vérifier | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Decision Records | METHODOLOGIE | sont_scorés_sur | 7 dimensions | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Agent IA | TECHNOLOGIE | doit_ingérer | doctrine avant chaque réponse | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| PROJ-AI | METHODOLOGIE | propose | double interface Studio + CLI/IDE | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | est_basé_sur | triade repo + agent + doctrine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | utilise | six zones répertoires | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Cycle DPEV | METHODOLOGIE | est_basé_sur | Décider → Promettre → Exécuter → Vérifier | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Decision Records | METHODOLOGIE | utilise | scoring sur 7 dimensions | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Agent IA | TECHNOLOGIE | utilise | doctrine avant chaque réponse | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | permet | double interface Studio + CLI/IDE | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | proj-ai-commons | TECHNOLOGIE | permet | bootstrap projet en 30 min vs 1 semaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| WEnvision | ORGANISATION | accompagne | 3 missions actives PROJ-AI | EVENEMENT | 0.96 | DYNAMIQUE | déclaré_article |
+| WEnvision | ORGANISATION | mesure | 3 missions actives PROJ-AI, 31 décisions enregistrées | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
 | PROJ-AI | METHODOLOGIE | réduit | onboarding de 3 semaines à 2 jours | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| PROJ-AI | METHODOLOGIE | augmente | traçabilité décisions de 30% à 100% | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Antoine HABERT | PERSONNE | affirme_que | "Le projet EST le livrable" | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Antoine HABERT | PERSONNE | affirme_que | technologie 20% / team discipline 80% | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| PROJ-AI | METHODOLOGIE | est | agent-agnostic (multi-LLM) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| PROJ-AI | METHODOLOGIE | est_positionné_comme | méthodologie accompagnée pas self-service | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| PROJ-AI | METHODOLOGIE | cible | équipes mixtes tech/métier sur 6-18 mois | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Doctrine markdown | TECHNOLOGIE | est_versionnée_dans | repository git | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| PROJ-AI | METHODOLOGIE | est_construite_sur | doctrine versionnée + slash-commands | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | améliore | traçabilité décisions de 30% à 100% | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Antoine HABERT | PERSONNE | affirme_que | "Le projet EST le livrable" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Antoine HABERT | PERSONNE | affirme_que | technologie 20% / team discipline 80% | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | s_applique_à | multiples plateformes LLM (agent-agnostic) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | est_instance_de | méthodologie accompagnée pas self-service | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| PROJ-AI | METHODOLOGIE | s_applique_à | équipes mixtes tech/métier sur 6-18 mois | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Doctrine markdown | TECHNOLOGIE | utilise | repository git (versionnement) | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| PROJ-AI | METHODOLOGIE | est_basé_sur | doctrine versionnée + slash-commands | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -152,7 +152,6 @@ Cette pièce convergente avec **Wescale Usine Logicielle Augmentée** (2026-05-0
 | Slash-commands PROJ-AI | TECHNOLOGIE | exemples | /dr-create, /livrable-update — interface CLI/IDE pour utilisateurs tech | AJOUT |
 | Cinq directives agent PROJ-AI | METHODOLOGIE | détail | (1) ingest doctrine, (2) cite sources, (3) propose DR, (4) never override doctrine, (5) end-of-session summaries | AJOUT |
 | proj-ai-commons | TECHNOLOGIE | description | Bibliothèque partagée patterns anonymisés (templates DR, slash-commands, doctrine) — bootstrap 30 min vs 1 semaine | AJOUT |
-| "Le projet EST le livrable" | CONCEPT | source | Aphorisme central HABERT — inverse rapport projet/output au profit de la mémoire et transmissibilité | AJOUT |
 | Métriques PROJ-AI | EVENEMENT | description | Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable | AJOUT |
 | Caveat 20/80 (HABERT) | CONCEPT | source | "Technology is 20%, team discipline is 80%" — refus explicite solutionnisme technique | AJOUT |
 | Agent-agnostic (PROJ-AI) | CONCEPT | description | Markdown + file conventions supportent Claude, Cursor et autres LLMs — pas de lock-in | AJOUT |

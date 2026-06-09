@@ -1,6 +1,6 @@
 # bord-northwestern-mutual-genbi-enterprise-2025-11-23
 ## Veille
-Northwestern Mutual - GenBI - Enterprise AI Adoption - Risk Aversion - Data Democratization
+Construire la GenBI dans une entreprise Fortune 100 averse au risque (Northwestern Mutual) : petits paris, déploiement incrémental, agents spécialisés et démocratisation des données
 
 ## Titre Article
 Small Bets, Big Impact: Building GenBI at a Fortune 100 (Northwestern Mutual)
@@ -56,14 +56,14 @@ Bord conclut sur une réflexion économique : l'IA remet en cause le modèle de 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Asaf Bord | PERSONNE | a_créé | GenBI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Northwestern Mutual | ORGANISATION | déploie | GenBI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Northwestern Mutual | ORGANISATION | utilise | GenBI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Northwestern Mutual | ORGANISATION | emploie | Asaf Bord | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
 | GenBI | TECHNOLOGIE | utilise | pipeline agents spécialisés | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Metadata Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | RAG Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | SQL Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| approche Crawl Walk Run | METHODOLOGIE | guide | déploiement GenBI | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| IA | CONCEPT | remet_en_cause | modèle pricing par siège | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| approche Crawl Walk Run | METHODOLOGIE | s_applique_à | déploiement GenBI | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | s_oppose_à | modèle pricing par siège | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | RAG Agent | TECHNOLOGIE | résout | 80% demandes BI | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités

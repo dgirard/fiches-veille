@@ -45,16 +45,16 @@ La présentation se termine sur le backlash réel : 60% des organisations résis
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Steve Yegge | PERSONNE | prédit | mort de l'IDE traditionnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Gene Kim | PERSONNE | analyse | vibe coding | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| vibe coding | CONCEPT | est_défini_comme | conversation itérative produisant du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Dario Amodei | PERSONNE | a_enrichi | définition du vibe coding | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| écart productivité 10x | CONCEPT | crée | alarmes RH | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| 60% des organisations | CONCEPT | résistent_à | adoption agents IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| NoDev | CONCEPT | succède_à | NoOps | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| support, designers, UX | CONCEPT | livrent_désormais | du code | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Eric Meijer | PERSONNE | prédit | dernière génération à écrire du code à la main | CONCEPT | 0.82 | STATIQUE | déclaré_article |
-| seniors et staff engineers | CONCEPT | résistent_à | vibe coding | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| Steve Yegge | PERSONNE | prédit | mort de l'IDE traditionnel | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Gene Kim | PERSONNE | utilise | vibe coding | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Dario Amodei | PERSONNE | affirme_que | le vibe coding est une conversation itérative qui résulte en IA écrivant votre code | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Dario Amodei | PERSONNE | affine | définition du vibe coding | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Steve Yegge | PERSONNE | affirme_que | l'écart de productivité 10x crée des alarmes RH | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| 60% des organisations | CONCEPT | s_oppose_à | adoption agents IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
+| NoDev | CONCEPT | remplace | NoOps | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Steve Yegge | PERSONNE | affirme_que | support, designers et UX livrent désormais du code | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Eric Meijer | PERSONNE | prédit | dernière génération à écrire du code à la main | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
+| seniors et staff engineers | CONCEPT | s_oppose_à | vibe coding | METHODOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
 | Steve Yegge | PERSONNE | travaille_chez | Sourcegraph | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
@@ -66,4 +66,4 @@ La présentation se termine sur le backlash réel : 60% des organisations résis
 | Dario Amodei | PERSONNE | rôle | CEO d'Anthropic | AJOUT |
 | Eric Meijer | PERSONNE | rôle | Chercheur informatique | AJOUT |
 | Sourcegraph | ORGANISATION | secteur | Outils développement / Recherche code | AJOUT |
-| vibe coding | CONCEPT | définition | Programmation par conversation itérative avec IA | AJOUT |
+| vibe coding | METHODOLOGIE | définition | Programmation par conversation itérative avec IA | AJOUT |

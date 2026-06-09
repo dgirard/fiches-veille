@@ -63,17 +63,17 @@ L'article se conclut sur une ironie douce : Beck dit « croire totalement » qu'
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Kent Beck | PERSONNE | analyse | limites d'usage services IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Kent Beck | PERSONNE | pratique | codage augmenté quotidien | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Limites d'usage IA | CONCEPT | segmentent | base utilisateurs en trois tiers | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Power users | CONCEPT | sont_poussés_vers | abonnements premium grand public | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Développeurs | CONCEPT | migrent_vers | API avec pricing au compteur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Inférence IA | CONCEPT | devient_moins_chère_via | distillation, caching, routage, silicon custom | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Google | ORGANISATION | fabrique | TPU (puces custom) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | dispose_avantage_sur | allocation GPU vs concurrents | CONCEPT | 0.85 | DYNAMIQUE | inféré |
-| Anthropic | ORGANISATION | a_implémenté | limites d'usage simultanées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Phase Expand | CONCEPT | caractérise | croissance en escalier avec ressources limitantes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Nvidia H100 | TECHNOLOGIE | est | ressource rare disputée | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Kent Beck | PERSONNE | publie | Starving Genies | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Kent Beck | PERSONNE | utilise | codage augmenté quotidien | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Limites d'usage IA | CONCEPT | permet | segmentation de la base utilisateurs en trois tiers | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Power users | CONCEPT | utilise | abonnements premium grand public (sous contrainte des plafonds) | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Développeurs | CONCEPT | utilise | API avec pricing au compteur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Distillation, caching, routage, silicon custom | TECHNOLOGIE | réduit | coût de l'inférence IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | TPU (puces custom) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | surpasse | concurrents dépendants des allocations GPU Nvidia | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Anthropic | ORGANISATION | utilise | limites d'usage simultanées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Phase Expand | CONCEPT | est_instance_de | croissance en escalier avec ressources limitantes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Nvidia H100 | TECHNOLOGIE | est_instance_de | ressource rare disputée | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Avantage coûts unitaires | CONCEPT | permet | ouvrir les vannes vs concurrents | CONCEPT | 0.85 | DYNAMIQUE | inféré |
 
 ### Entités

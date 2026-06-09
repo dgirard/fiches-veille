@@ -18,7 +18,7 @@
 - [[kb/IA\|IA]] (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]
 
-### favorise
+### permet
 
 - [[kb/_entites-mineures#innovation\|innovation]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]

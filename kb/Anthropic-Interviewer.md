@@ -8,14 +8,14 @@
 
 ## Relations (comme sujet)
 
-### a_interrogé
-
-- [[kb/_entites-mineures#1-250-professionnels\|1 250 professionnels]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
-
-### sera_intégré_dans
+### fait_partie_de
 
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
+
+### mesure
+
+- « 1 250 professionnels interrogés » (MESURE) — 0.97, STATIQUE
   - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
 
 ### utilise

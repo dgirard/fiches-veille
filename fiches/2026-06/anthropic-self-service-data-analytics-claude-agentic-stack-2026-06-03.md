@@ -96,21 +96,21 @@ Deux résultats négatifs structurent la doctrine : donner un **grep brut** sur 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| équipe Data Science Anthropic | ORGANISATION | a_publié | How Anthropic enables self-service data analytics with Claude | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | automatise | 95% de ses requêtes analytics métier via Claude | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| analytics agentique | CONCEPT | exige | une seule bonne réponse depuis une seule bonne source | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| skills | METHODOLOGIE | augmente | la précision de 21% à plus de 95% | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| agent analytics | TECHNOLOGIE | doit_utiliser | le semantic layer en premier (par instruction de skill) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| query corpus | CONCEPT | doit_être | distillé en docs structurées, pas retrouvé brut | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | publie | How Anthropic enables self-service data analytics with Claude | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | 95% des requêtes analytics métier automatisées via Claude | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| analytics agentique | CONCEPT | est_basé_sur | une seule bonne réponse depuis une seule bonne source | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| skills | METHODOLOGIE | améliore | la précision de 21% à plus de 95% | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| agent analytics | TECHNOLOGIE | utilise | le semantic layer en premier (obligation par instruction de skill) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | recommande | distiller le query corpus en docs structurées (pas de retrieval brut) | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | retrieval non structuré | METHODOLOGIE | améliore | la précision de moins d'un point | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| accès grep brut au SQL | METHODOLOGIE | ne_change_pas | la précision (goulot = structure, pas accès) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | mesure | accès grep brut au SQL : précision quasi inchangée (goulot = structure, pas accès) | MESURE | 0.92 | STATIQUE | déclaré_article |
 | revue adversariale | METHODOLOGIE | améliore | la précision de 6% (mais +32% tokens, +72% latence) | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| définitions de métriques générées par LLM | CONCEPT | sont | net-negative sur les evals | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| définitions de métriques | CONCEPT | doivent_être | détenues par des humains | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| hook de code-review | TECHNOLOGIE | impose | qu'un changement de modèle touche un fichier skill | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
-| 90% des PR data | CONCEPT | incluent | un changement de skill dans le même diff | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
-| échec silencieux | CONCEPT | produit | une réponse fausse, plausible, utilisée sans objection | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| domain owner | PERSONNE | ne_peut_lancer_agent_que_si | seuil d'eval (~90%) atteint | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | affirme_que | les définitions de métriques générées par LLM sont net-negative sur les evals | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | recommande | définitions de métriques détenues par des humains | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| hook de code-review | TECHNOLOGIE | permet | colocalisation modèle/skill (signale tout changement de modèle sans fichier skill) | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | mesure | ~90% des PR data incluent un changement de skill dans le même diff | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
+| échec silencieux | CONCEPT | permet | une réponse fausse, plausible, utilisée sans objection | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| équipe Data Science Anthropic | ORGANISATION | recommande | seuil d'eval (~90%) requis avant qu'un domain owner lance un agent | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

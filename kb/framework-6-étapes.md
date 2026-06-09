@@ -8,14 +8,14 @@
 
 ## Relations (comme sujet)
 
-### guide
+### observé_dans
 
-- [[kb/_entites-mineures#développement-agent-IA\|développement agent IA]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#email-agent\|email agent]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
 
-### inclut
+### permet
 
-- [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] (CONCEPT) — 0.92, ATEMPOREL
+- [[kb/_entites-mineures#développement-agent-IA\|développement agent IA]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
 
 ### recommande
@@ -23,10 +23,14 @@
 - [[kb/_entites-mineures#construction-MVP-focalisée\|construction MVP focalisée]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
 
+### utilise
+
+- [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|LangChain - How to Build an Agent - Framework 6 steps - MVP - Prompt engineering - LangSmith]]
+
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#How-to-Build-an-Agent\|How to Build an Agent]] **propose** → framework 6 étapes — 0.98
-- [[kb/email-agent\|email agent]] **illustre** → framework 6 étapes — 0.95
+- [[kb/_entites-mineures#How-to-Build-an-Agent\|How to Build an Agent]] **recommande** → framework 6 étapes — 0.98
 
 ## Fiches sources
 

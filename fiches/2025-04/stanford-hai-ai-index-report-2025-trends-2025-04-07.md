@@ -19,64 +19,64 @@ Stanford HAI, AI Index, AI trends, industry analysis, research metrics, AI inves
 Stanford Human-Centered AI Institute (HAI)
 
 ## Ton
-**Profil:** Academic-Institutional | Institutionnelle research | Analytique-Quantitative | Expert
+**Profil :** Académique-institutionnel | Voix institutionnelle de recherche | Registre analytique-quantitatif | Niveau expert
 
-Stanford HAI adopte authoritative research institution voice combinant comprehensive data collection et objective analysis. Annual report format (AI Index) signals systematic longitudinal tracking typical academic research centers. Langage metrics-oriented (investment trends, compute costs, model capabilities, regulatory developments) emphasizes quantitative rigor. Tone measured neutral évitant both tech boosterism et alarmism. Structure multi-dimensional (technical→economic→policy) facilitates holistic understanding. Typique prestigious academic institutions (MIT CSAIL, Berkeley AI Research) producing definitive annual reports serving policymakers, researchers, industry leaders comme authoritative reference.
+Stanford HAI adopte une voix d'institution de recherche faisant autorité, combinant collecte de données exhaustive et analyse objective. Le format de rapport annuel (AI Index) signale un suivi longitudinal systématique, typique des centres de recherche académiques. Langage orienté métriques (tendances d'investissement, coûts de calcul, capacités des modèles, évolutions réglementaires) qui souligne la rigueur quantitative. Ton mesuré et neutre, évitant aussi bien le triomphalisme technologique que l'alarmisme. Structure multidimensionnelle (technique → économique → politique) qui facilite une compréhension holistique. Typique des institutions académiques prestigieuses (MIT CSAIL, Berkeley AI Research) produisant des rapports annuels de référence pour décideurs politiques, chercheurs et dirigeants de l'industrie.
 
 ## Pense-betes
-- **Annual comprehensive report** tracking global AI development
-- **Industry increasingly dominates** research over academia
-- **Compute costs skyrocketing** : frontier models requiring $100M+ training
-- **Regulatory activity accelerating** : 37 countries enacted AI laws dans 2024
-- **Foundation models plateau** : diminishing returns from scale alone
-- **AI adoption accelerating** : 72% enterprises deployed AI dans production
-- **Gender/diversity gap persists** : 18% AI researchers are women
-- **Geopolitical competition** : US-China rivalry shaping development
-- **Responsible AI priorities** : fairness, transparency, accountability gaining investment
+- **Rapport annuel exhaustif** suivant le développement mondial de l'IA
+- **L'industrie domine de plus en plus** la recherche par rapport au monde académique
+- **Coûts de calcul en explosion** : les modèles frontière nécessitent plus de 100 M$ d'entraînement
+- **Activité réglementaire en accélération** : 37 pays ont adopté des lois IA en 2024
+- **Plateau des modèles de fondation** : rendements décroissants du seul passage à l'échelle
+- **Adoption de l'IA en accélération** : 72 % des entreprises ont déployé l'IA en production
+- **L'écart de genre/diversité persiste** : 18 % des chercheurs IA sont des femmes
+- **Compétition géopolitique** : la rivalité États-Unis–Chine façonne le développement
+- **Priorités d'IA responsable** : équité, transparence et redevabilité attirent les investissements
 
 ## RésuméDe400mots
 
-Stanford's Human-Centered AI Institute (HAI) released **AI Index Report 2025**, comprehensive annual analysis tracking **global trends dans AI development, deployment, et policy**. Report draws on data depuis academic publications, industry investments, government regulations, et capability benchmarks pour provide **authoritative snapshot** de AI landscape et trajectory.
+Le Human-Centered AI Institute de Stanford (HAI) publie l'**AI Index Report 2025**, analyse annuelle exhaustive suivant les **tendances mondiales du développement, du déploiement et des politiques de l'IA**. Le rapport s'appuie sur les publications académiques, les investissements industriels, les réglementations gouvernementales et les benchmarks de capacités pour fournir un **instantané de référence** du paysage et de la trajectoire de l'IA.
 
-**Industry Dominance Over Academia**
+**Domination de l'industrie sur le monde académique**
 
-Report documents **continued shift** de AI research depuis academia à industry. **Frontier model development now exclusively corporate** - no academic institution possesses resources pour training models requiring $100M+ compute budgets. Industry published **5.2x more AI papers** than academia dans 2024, up depuis 3.1x dans 2020. Top AI talent increasingly recruits à industry labs offering compensation packages universities cannot match. Cette trend raises concerns about **research agenda setting** - will profit motives overshadow fundamental research?
+Le rapport documente le **basculement continu** de la recherche IA du monde académique vers l'industrie. **Le développement des modèles frontière est désormais exclusivement corporate** — aucune institution académique ne possède les ressources pour entraîner des modèles nécessitant des budgets de calcul de plus de 100 M$. L'industrie a publié **5,2 fois plus d'articles IA** que le monde académique en 2024, contre 3,1 fois en 2020. Les meilleurs talents IA rejoignent de plus en plus les laboratoires industriels, dont les packages de rémunération sont hors de portée des universités. Cette tendance soulève des inquiétudes sur la **définition de l'agenda de recherche** : les motivations de profit éclipseront-elles la recherche fondamentale ?
 
-**Compute Costs Explosion**
+**Explosion des coûts de calcul**
 
-Training frontier models **cost escalation dramatic** : GPT-3 (2020) estimated $4.6M, PaLM (2022) ~$11M, GPT-4 (2023) ~$78M, rumored 2025 models exceeding $200M. Compute requirements growing faster than algorithmic efficiency improvements, creating **widening gap** between few organizations capable frontier model training versus rest de AI community. Report warns cette concentration **reduces diversity** dans AI development approaches.
+L'escalade du coût d'entraînement des modèles frontière est spectaculaire : GPT-3 (2020) estimé à 4,6 M$, PaLM (2022) ~11 M$, GPT-4 (2023) ~78 M$, et des modèles 2025 dépasseraient 200 M$. Les besoins en calcul croissent plus vite que les gains d'efficacité algorithmique, creusant un **écart grandissant** entre les rares organisations capables d'entraîner des modèles frontière et le reste de la communauté IA. Le rapport alerte : cette concentration **réduit la diversité** des approches de développement de l'IA.
 
-**Foundation Model Capability Plateau**
+**Plateau de capacités des modèles de fondation**
 
-While capabilities continue improving, **rate de improvement slowing** depuis pure scaling. Report notes **diminishing returns** : doubling model size ou compute no longer yields proportional capability gains. Cette suggests **architectural innovations, data quality, et training techniques** becoming more important than raw scale. Trend may democratize AI development si smaller, efficient models achieve competitive performance.
+Si les capacités continuent de progresser, le **rythme d'amélioration ralentit** pour le pur passage à l'échelle. Le rapport note des **rendements décroissants** : doubler la taille du modèle ou le calcul ne produit plus de gains de capacité proportionnels. Cela suggère que les **innovations architecturales, la qualité des données et les techniques d'entraînement** deviennent plus importantes que l'échelle brute. Cette tendance pourrait démocratiser le développement de l'IA si des modèles plus petits et efficaces atteignent des performances compétitives.
 
-**Enterprise AI Adoption Acceleration**
+**Accélération de l'adoption de l'IA en entreprise**
 
-Survey data shows **72% de enterprises deployed AI** dans production, up depuis 58% dans 2023. Adoption concentrated dans : customer service automation (64% de AI deployers), software development assistance (52%), data analysis et decision support (48%), content generation (37%), cybersecurity (31%). **ROI realization** improving - median time depuis deployment à measurable business impact decreased depuis 14 months à 8 months.
+Les données d'enquête montrent que **72 % des entreprises ont déployé l'IA** en production, contre 58 % en 2023. L'adoption se concentre sur : l'automatisation du service client (64 % des déployeurs d'IA), l'assistance au développement logiciel (52 %), l'analyse de données et l'aide à la décision (48 %), la génération de contenu (37 %), la cybersécurité (31 %). La **concrétisation du ROI** s'améliore : le délai médian entre déploiement et impact business mesurable est passé de 14 à 8 mois.
 
-**Regulatory Landscape Evolution**
+**Évolution du paysage réglementaire**
 
-**37 countries enacted AI-specific legislation** dans 2024, compared à 18 dans 2023. Major developments : EU AI Act implementation beginning, China's generative AI regulations enforcing, multiple US states passing AI governance laws, OECD AI Principles gaining broader adoption. Report notes **regulatory fragmentation** risks creating compliance challenges pour global AI deployment.
+**37 pays ont adopté une législation spécifique à l'IA** en 2024, contre 18 en 2023. Développements majeurs : début de la mise en œuvre de l'EU AI Act, application des réglementations chinoises sur l'IA générative, lois de gouvernance de l'IA dans plusieurs États américains, adoption élargie des principes IA de l'OCDE. Le rapport note que la **fragmentation réglementaire** risque de créer des défis de conformité pour le déploiement mondial de l'IA.
 
-**Geopolitical AI Competition**
+**Compétition géopolitique de l'IA**
 
-US-China rivalry **intensifying across metrics** : research output (China leads volume, US leads citations), talent concentration (US retains advantage attracting global talent), investment (US private sector leads, China government investment substantial), compute access (US export controls impacting Chinese capabilities). Report warns **technology decoupling** could fragment global AI ecosystem.
+La rivalité États-Unis–Chine **s'intensifie sur toutes les métriques** : production de recherche (la Chine mène en volume, les États-Unis en citations), concentration des talents (avantage américain pour attirer les talents mondiaux), investissement (secteur privé américain en tête, investissement public chinois substantiel), accès au calcul (les contrôles d'export américains pèsent sur les capacités chinoises). Le rapport avertit qu'un **découplage technologique** pourrait fragmenter l'écosystème mondial de l'IA.
 
-**Responsible AI Investment**
+**Investissement dans l'IA responsable**
 
-Corporate spending on **fairness, transparency, et accountability** increased 340% depuis 2022. However, report notes **gap between commitments et outcomes** - while investment growing, measurable improvements dans model fairness, explanation quality, et harm prevention less impressive. Suggests responsible AI requires more than funding - needs fundamental research breakthroughs.
+Les dépenses des entreprises en **équité, transparence et redevabilité** ont augmenté de 340 % depuis 2022. Le rapport note toutefois un **écart entre engagements et résultats** : si l'investissement croît, les améliorations mesurables en équité des modèles, qualité des explications et prévention des dommages sont moins impressionnantes. L'IA responsable exige plus que des financements : des percées de recherche fondamentale.
 
-**Diversity Challenge Persists**
+**Le défi de la diversité persiste**
 
-Women represent only **18% de AI researchers**, percentage barely changed depuis 2020 despite diversity initiatives. Underrepresentation worse dans leadership positions (12% de AI lab directors women) et certain specializations (14% dans reinforcement learning, 22% dans computer vision). Report calls diversity gap **systemic issue** requiring structural interventions beyond hiring initiatives.
+Les femmes ne représentent que **18 % des chercheurs IA**, pourcentage quasi inchangé depuis 2020 malgré les initiatives de diversité. La sous-représentation est pire aux postes de direction (12 % des directeurs de labos IA) et dans certaines spécialisations (14 % en apprentissage par renforcement, 22 % en vision par ordinateur). Le rapport qualifie cet écart de **problème systémique** exigeant des interventions structurelles au-delà des initiatives de recrutement.
 
-**Benchmark Saturation**
+**Saturation des benchmarks**
 
-Many established AI benchmarks **approaching saturation** - models achieving near-human ou superhuman performance on MMLU, HumanEval, et other standard tests. Report recommends **developing more challenging, nuanced benchmarks** measuring capabilities like long-horizon planning, multi-step reasoning, creative problem-solving, et robust generalization.
+De nombreux benchmarks IA établis **approchent la saturation** : les modèles atteignent des performances quasi humaines ou surhumaines sur MMLU, HumanEval et d'autres tests standards. Le rapport recommande de **développer des benchmarks plus exigeants et nuancés** mesurant la planification à long horizon, le raisonnement multi-étapes, la résolution créative de problèmes et la généralisation robuste.
 
-**Future Outlook Implications**
+**Implications pour l'avenir**
 
-Report's data suggests AI development entering **new phase** : post-scaling era requiring innovation beyond model size, increased regulatory scrutiny shaping development practices, consolidation risk from compute cost barriers, enterprise adoption driving practical versus purely capability-focused research.
+Les données du rapport suggèrent que le développement de l'IA entre dans une **nouvelle phase** : ère post-scaling exigeant de l'innovation au-delà de la taille des modèles, surveillance réglementaire accrue façonnant les pratiques de développement, risque de consolidation dû aux barrières de coût de calcul, adoption en entreprise orientant la recherche vers le pratique plutôt que les seules capacités.
 
 ## GrapheDeConnaissance
 
@@ -84,30 +84,30 @@ Report's data suggests AI development entering **new phase** : post-scaling era 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Stanford HAI | ORGANISATION | publie | AI Index Report 2025 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Ray Perrault | PERSONNE | co-préside | AI Index Steering Committee | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Jack Clark | PERSONNE | est_cofondateur_de | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Stanford HAI | ORGANISATION | publie | AI Index Report 2025 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Ray Perrault | PERSONNE | dirige | AI Index Steering Committee | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Jack Clark | PERSONNE | a_créé | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
 | Jack Clark | PERSONNE | fait_partie_de | AI Index Steering Committee | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Erik Brynjolfsson | PERSONNE | est_chercheur_à | Stanford HAI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| industrie IA | CONCEPT | domine | recherche académique IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| modèles frontier | CONCEPT | nécessitent | budget entraînement supérieur à 100M$ | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| lois IA | CONCEPT | adoptées_par | 37 pays en 2024 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| EU AI Act | EVENEMENT | régule | déploiement IA en Europe | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| États-Unis | LIEU | rivalise_avec | Chine | LIEU | 0.95 | DYNAMIQUE | déclaré_article |
-| femmes | CONCEPT | représentent | 18% des chercheurs IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| performances benchmarks IA | CONCEPT | atteignent | saturation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Vanessa Parli | PERSONNE | est_membre_de | AI Index Steering Committee | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Erik Brynjolfsson | PERSONNE | travaille_chez | Stanford HAI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| industrie IA | CONCEPT | surpasse | recherche académique IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| modèles frontière | TECHNOLOGIE | utilise | budget d'entraînement supérieur à 100M$ | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| AI Index Report 2025 | DOCUMENT | mesure | 37 pays ont adopté des lois IA en 2024 | MESURE | 0.95 | STATIQUE | déclaré_article |
+| EU AI Act | DOCUMENT | s_applique_à | déploiement IA en Europe | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| États-Unis | LIEU | concurrence | Chine | LIEU | 0.95 | DYNAMIQUE | déclaré_article |
+| AI Index Report 2025 | DOCUMENT | mesure | les femmes représentent 18% des chercheurs IA | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| AI Index Report 2025 | DOCUMENT | affirme_que | les benchmarks IA établis approchent la saturation | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Vanessa Parli | PERSONNE | fait_partie_de | AI Index Steering Committee | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Stanford HAI | ORGANISATION | catégorie | Institut de recherche IA centré sur l'humain | AJOUT |
-| AI Index Report 2025 | EVENEMENT | catégorie | Rapport annuel global sur l'IA | AJOUT |
+| AI Index Report 2025 | DOCUMENT | catégorie | Rapport annuel global sur l'IA | AJOUT |
 | Ray Perrault | PERSONNE | rôle | Co-chair AI Index Steering Committee, SRI International | AJOUT |
 | Jack Clark | PERSONNE | rôle | Co-fondateur Anthropic, membre AI Index Steering Committee | AJOUT |
 | Erik Brynjolfsson | PERSONNE | rôle | Professeur senior, Stanford HAI | AJOUT |
 | Vanessa Parli | PERSONNE | rôle | Directrice de recherche Stanford HAI | AJOUT |
-| EU AI Act | EVENEMENT | catégorie | Réglementation européenne sur l'IA | AJOUT |
+| EU AI Act | DOCUMENT | catégorie | Réglementation européenne sur l'IA | AJOUT |
 | Anthropic | ORGANISATION | secteur | Recherche et sécurité IA | AJOUT |
 | AI Index Steering Committee | ORGANISATION | catégorie | Comité de direction interdisciplinaire | AJOUT |

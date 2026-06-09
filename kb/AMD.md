@@ -9,15 +9,15 @@
 
 ## Relations (comme sujet)
 
-### émet_warrant_pour
+### collabore_avec
 
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.96, STATIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
 ## Relations (comme objet)
 
-- [[kb/OpenAI\|OpenAI]] **conclut_partenariat_avec** → AMD — 0.98
-- [[kb/Nvidia\|NVIDIA]] **s_oppose_à** → AMD — 0.88
+- [[kb/OpenAI\|OpenAI]] **collabore_avec** → AMD — 0.98
+- [[kb/Nvidia\|NVIDIA]] **concurrence** → AMD — 0.88
 
 ## Fiches sources
 

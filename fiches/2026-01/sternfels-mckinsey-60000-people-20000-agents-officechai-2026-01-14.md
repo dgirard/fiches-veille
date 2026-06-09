@@ -140,23 +140,23 @@ Article rapporté par **OfficeChai Team** (publication indienne tech/startup new
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Bob Sternfels | PERSONNE | est_Managing_Partner_Global_de | McKinsey & Company | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Bob Sternfels | PERSONNE | déclare | McKinsey 60 000 people 40 000 humains 20 000 agents | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| McKinsey | ORGANISATION | emploie | 40 000 humains + 20 000 agents IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Agents IA McKinsey | CONCEPT | est_passé_de | 3 000 à 20 000 en 18 mois | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Parité humains/agents McKinsey | CONCEPT | initialement_prévue_pour | 2030 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Parité humains/agents McKinsey | CONCEPT | atteinte_effectivement_en | 2026 (18 mois) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| McKinsey | ORGANISATION | migre_de | pure advisory work vers outcomes-based model | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Lilli | TECHNOLOGIE | est_chatbot_interne_de | McKinsey | ORGANISATION | 0.94 | DYNAMIQUE | déclaré_article |
-| Lilli | TECHNOLOGIE | est_utilisé_par | 70% employés McKinsey | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| McKinsey | ORGANISATION | a_supprimé | 200 postes technologiques en novembre 2024 | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| McKinsey | ORGANISATION | a_proposé | offre départ 9 mois salaire en avril 2024 | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Comptage hybride humains agents | CONCEPT | redéfinit | conception headcount services intellectuels | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Bob Sternfels | PERSONNE | dirige | McKinsey & Company | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Bob Sternfels | PERSONNE | affirme_que | « 60,000, but it's 40,000 humans and 20,000 agents » | CITATION | 0.97 | STATIQUE | déclaré_article |
+| McKinsey | ORGANISATION | mesure | effectif de 40 000 humains + 20 000 agents IA | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Agents IA McKinsey | TECHNOLOGIE | mesure | croissance de 3 000 à 20 000 en 18 mois | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Bob Sternfels | PERSONNE | prédit | parité humains/agents initialement prévue pour 2030 | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
+| Parité humains/agents McKinsey | CONCEPT | mesure | atteinte en 2026 (18 mois) | MESURE | 0.93 | STATIQUE | déclaré_article |
+| outcomes-based model | CONCEPT | remplace | pure advisory work (McKinsey) | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| McKinsey | ORGANISATION | a_créé | Lilli | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Lilli | TECHNOLOGIE | mesure | utilisation par 70% des employés McKinsey | MESURE | 0.92 | STATIQUE | déclaré_article |
+| McKinsey | ORGANISATION | réduit | effectif technologique (200 postes, novembre 2024) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| McKinsey | ORGANISATION | publie | offre de départ 9 mois de salaire (avril 2024) | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Comptage hybride humains agents | CONCEPT | remplace | comptage classique du headcount services intellectuels | CONCEPT | 0.92 | ATEMPOREL | inféré |
 | Bilan Sternfels | CONCEPT | converge_avec | MediaPost Mandese billable hours killed, VoxComm Redesigning Agency Value Model, Bain Rule of 40 outcome-based pricing | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| Bilan Sternfels | CONCEPT | est_en_tension_avec | DORA ROI 2026 do not adopt headcount-reduction strategy | CONCEPT | 0.91 | DYNAMIQUE | inféré |
-| Accélération 3000 vers 20000 agents | CONCEPT | dépasse | projections initiales 2030 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Bob Sternfels | PERSONNE | dirige | McKinsey depuis 2021 | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
-| McKinsey | ORGANISATION | célèbre | 100 ans en 2026 | EVENEMENT | 0.93 | STATIQUE | inféré |
+| Bilan Sternfels | CONCEPT | s_oppose_à | DORA ROI 2026 do not adopt headcount-reduction strategy | CONCEPT | 0.91 | DYNAMIQUE | inféré |
+| Accélération 3000 vers 20000 agents | CONCEPT | surpasse | projections initiales 2030 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Bob Sternfels | PERSONNE | dirige | McKinsey & Company (depuis 2021) | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
+| McKinsey | ORGANISATION | mesure | 100 ans d'existence en 2026 | MESURE | 0.93 | STATIQUE | inféré |
 
 ### Entités
 
@@ -165,7 +165,6 @@ Article rapporté par **OfficeChai Team** (publication indienne tech/startup new
 | Bob Sternfels | PERSONNE | rôle | Managing Partner Global McKinsey & Company depuis 2021, leader voix industrie consulting top-tier sur transformation IA | AJOUT |
 | McKinsey & Company | ORGANISATION | secteur | Cabinet conseil top-tier mondial fondé 1926, 100 ans en 2026, ~60 000 people (40 000 humains + 20 000 agents IA en janvier 2026) | MISE_A_JOUR |
 | Lilli | TECHNOLOGIE | description | Chatbot interne McKinsey utilisé par 70% des employés. Outil emblématique de la transformation IA interne | AJOUT |
-| "60 000 people, 20 000 of them are AI agents" | CONCEPT | source | Déclaration Sternfels janvier 2026 — phrase-pivot redéfinissant le headcount des services intellectuels par intégration humains + agents IA dans la même comptabilité | AJOUT |
 | Migration pure advisory vers outcomes-based | CONCEPT | source | Bascule modèle économique McKinsey déclarée par Sternfels janvier 2026. Convergence avec MediaPost Mandese billable hours killed, VoxComm Redesigning Agency Value Model, Bain Rule of 40 outcome-based pricing | AJOUT |
 | Accélération projection 2030 vers 2026 | CONCEPT | description | McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales | AJOUT |
 | Redéfinition headcount services intellectuels | CONCEPT | description | Question RH/finance majeure 2026 : comment compter l'effectif quand 1/3 sont des agents ? Comparable à la comptabilisation des contractors/consultants dans l'effectif. McKinsey premier top-tier à publier le chiffre | AJOUT |

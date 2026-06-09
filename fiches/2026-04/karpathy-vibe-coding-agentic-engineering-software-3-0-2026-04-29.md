@@ -83,27 +83,27 @@ Les agents sont des **interns** avec recall excellent mais sans *taste* — l'hu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrej Karpathy | PERSONNE | a_co_fondé | OpenAI | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Andrej Karpathy | PERSONNE | a_créé_terme | vibe coding | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Andrej Karpathy | PERSONNE | a_construit | Tesla Autopilot | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Andrej Karpathy | PERSONNE | affirme_que | "never felt more behind as a programmer" | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Décembre 2025 | EVENEMENT | marque_bascule | workflow agentique cohérent | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Software 3.0 | CONCEPT | redéfinit | programmation comme prompting | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| LLM | TECHNOLOGIE | est | programmable computer | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| MenuGen | TECHNOLOGIE | est_rendue_obsolète_par | Nanobanana | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | a_créé | OpenAI | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | a_créé | vibe coding | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | a_créé | Tesla Autopilot | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | "never felt more behind as a programmer" | CITATION | 0.99 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | décembre 2025 marque la bascule vers un workflow agentique cohérent | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Software 3.0 | CONCEPT | est_instance_de | programmation par prompting | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | est_instance_de | programmable computer | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Nanobanana | TECHNOLOGIE | remplace | MenuGen | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Nanobanana | TECHNOLOGIE | fait_partie_de | Gemini | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Verifiability | CONCEPT | explique | jagged intelligence | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Frontier labs | ORGANISATION | entraînent_en | RL environments | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Opus 4.7 | TECHNOLOGIE | échoue_sur | car wash 50m question | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Vibe coding | METHODOLOGIE | raise_the_floor_pour | software development | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Agentic engineering | METHODOLOGIE | préserve | quality bar professionnelle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Jagged intelligence | CONCEPT | est_basé_sur | verifiability (RL sur domaines vérifiables) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Frontier labs | ORGANISATION | utilise | RL environments | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | Opus 4.7 refactorise 100k lignes mais échoue sur la question du car wash à 50m | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
+| Vibe coding | METHODOLOGIE | permet | démocratisation du software development (raise the floor) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Agentic engineering | METHODOLOGIE | permet | préservation du quality bar professionnel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Andrej Karpathy | PERSONNE | recommande | refonte du hiring par gros projets adversariels | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Agents IA | TECHNOLOGIE | sont_comparés_à | interns avec recall | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Andrej Karpathy | PERSONNE | métaphorise | LLMs comme fantômes pas animaux | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Neural net | TECHNOLOGIE | pourrait_devenir | host process | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| LLM Knowledge Bases | TECHNOLOGIE | enrichit | understanding humain | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Andrej Karpathy | PERSONNE | affirme_que | "outsource thinking but not understanding" | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| Sam Altman | PERSONNE | a_parlé_à | AI Startup School | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | les agents IA sont des interns avec excellent recall mais sans taste | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | les LLMs sont des fantômes (circuits de simulation statistique), pas des animaux | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Andrej Karpathy | PERSONNE | prédit | le neural net pourrait devenir le host process avec CPU en co-processeur | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
+| LLM Knowledge Bases | TECHNOLOGIE | améliore | understanding humain | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Andrej Karpathy | PERSONNE | affirme_que | "You can outsource your thinking but you can't outsource your understanding" | CITATION | 0.99 | ATEMPOREL | déclaré_article |
+| Sam Altman | PERSONNE | observé_dans | AI Startup School | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -118,7 +118,6 @@ Les agents sont des **interns** avec recall excellent mais sans *taste* — l'hu
 | MenuGen | TECHNOLOGIE | catégorie | App vibe-codée par Karpathy (photo menu → images plats), rendue obsolète par Nanobanana | AJOUT |
 | Nanobanana | TECHNOLOGIE | catégorie | Modèle d'image generation Google/Gemini capable d'overlay menu items dans pixels | AJOUT |
 | Animals vs Ghosts | CONCEPT | définition | Métaphore Karpathy : LLMs sont des circuits de simulation statistique, pas des intelligences animales | AJOUT |
-| Outsource thinking but not understanding | CONCEPT | source | Aphorisme cité par Karpathy comme phrase clé pour l'éducation à l'ère IA | AJOUT |
 | Hiring refactoring par projets adversariels | METHODOLOGIE | exemple | Twitter clone agent vs 10 codecs red team — corroboration Sierra | AJOUT |
 | LLM Knowledge Bases | TECHNOLOGIE | catégorie | Outil personnel Karpathy : wiki auto-construit à partir d'articles lus | AJOUT |
 | Opus 4.7 | TECHNOLOGIE | capabilité | Refactor 100k lignes, find zero days — mais jagged sur questions simples | AJOUT |

@@ -13,9 +13,9 @@ Compounding Teams, AI-driven Development, Exponential Productivity, Recursive To
 Sam Schillace
 
 ## Ton
-**Profil:** Conversationnel-Visionnaire | Première personne testimoniale | Opinion-Éducative | Intermédiaire-Expert
+**Profil:** Conversationnel-visionnaire | Première personne testimoniale | Opinion-éducatif | Intermédiaire-expert
 
-Schillace adopte style Substack thought leader mêlant observation empirique et vision transformative. Ouverture déclarative ("I have seen the compounding teams") establishes testimonial authority. Citation clé upfront ("new, better way to do things is now very clear") signals strong conviction. Détails concrets (5-10 parallel processes, hundreds dollars daily API spend, haven't touched code in months) ground visionary claims. Comparaisons historical tech revolutions (PC, browsers, smartphones) frame significance. Langage technique assumed (git, Kubernetes, orchestration) vise audience technical leaders. Ton enthousiaste tempéré par pragmatic specifics évite hype excessif. Typique executive Substack newsletters (Altman, Brockman style) partageant insights depuis position privileged observation.
+Schillace adopte un style de leader d'opinion Substack mêlant observation empirique et vision transformatrice. L'ouverture déclarative (« I have seen the compounding teams ») établit une autorité testimoniale. La citation clé placée en tête (« new, better way to do things is now very clear ») signale une conviction forte. Les détails concrets (5 à 10 processus parallèles, centaines de dollars de dépense API quotidienne, équipes n'ayant pas touché au code depuis des mois) ancrent les affirmations visionnaires. Les comparaisons avec les révolutions technologiques historiques (PC, navigateurs, smartphones) en cadrent la portée. Le langage technique supposé acquis (git, Kubernetes, orchestration) vise un public de leaders techniques. Le ton enthousiaste, tempéré par des détails pragmatiques, évite la surenchère. Typique des newsletters Substack de dirigeants partageant des observations depuis une position privilégiée.
 
 ## Pense-betes
 - Citation clé : "The new, better way to do things is now very clear"
@@ -56,20 +56,20 @@ L'auteur conclut avec conviction que "la nouvelle et meilleure façon de faire l
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Sam Schillace | PERSONNE | affirme_que | compounding teams existent | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Sam Schillace | PERSONNE | affirme_que | les compounding teams existent et sont désormais observables | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | compounding teams | CONCEPT | s_oppose_à | vibe coding | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | compounding teams | CONCEPT | s_oppose_à | GitHub Copilot | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | compounding teams | CONCEPT | utilise | Amplifier framework | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Amplifier framework | TECHNOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | compounding teams | CONCEPT | utilise | git | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | compounding teams | CONCEPT | utilise | Kubernetes | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| compounding teams | CONCEPT | applique | Recursive Tool Building | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Recursive Tool Building | METHODOLOGIE | transforme | productivité équipe | CONCEPT | 0.91 | ATEMPOREL | inféré |
-| Sam Schillace | PERSONNE | prédit | extension au travail intellectuel général | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| attention humaine | CONCEPT | est | nouveau goulot d'étranglement | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| compounding teams | CONCEPT | utilise | Recursive Tool Building | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Recursive Tool Building | METHODOLOGIE | améliore | productivité équipe | CONCEPT | 0.91 | ATEMPOREL | inféré |
+| Sam Schillace | PERSONNE | prédit | l'extension de cette approche au travail intellectuel général | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| attention humaine | CONCEPT | est_instance_de | nouveau goulot d'étranglement | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | coordination | CONCEPT | remplace | écriture de code | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| Sam Schillace | PERSONNE | compare | compounding teams | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| compounding teams | CONCEPT | requiert | frontières modulaires | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+| Sam Schillace | PERSONNE | affirme_que | les compounding teams sont comparables aux révolutions PC, navigateurs et smartphones | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
+| compounding teams | CONCEPT | utilise | frontières modulaires | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

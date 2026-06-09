@@ -58,14 +58,14 @@ L'article se conclut en qualifiant cette évolution de "masterclass en design pi
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | a_créé | Google Sans Flex | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | a_créé | Product Sans | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Product Sans | TECHNOLOGIE | a_évolué_vers | Google Sans | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Google Sans | TECHNOLOGIE | a_évolué_vers | Google Sans Text | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Google Sans Flex | TECHNOLOGIE | offre | 6 axes variables | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Google Sans Mono | TECHNOLOGIE | a_échoué_pour | usage en programmation | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Google Sans | TECHNOLOGIE | est_variante_de | Product Sans | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Google Sans Text | TECHNOLOGIE | est_variante_de | Google Sans | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Google Sans Flex | TECHNOLOGIE | permet | 6 axes variables | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | affirme_que | Google Sans Mono a échoué pour l'usage en programmation | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Google Sans Code | TECHNOLOGIE | remplace | Google Sans Mono pour le code | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | a_rendu_open_source | Google Sans Flex | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Google Sans | TECHNOLOGIE | supporte | 20+ systèmes d'écriture | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| design piloté par les besoins | METHODOLOGIE | guide | évolution Google Sans | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
+| Google | ORGANISATION | publie | Google Sans Flex en open source | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google Sans | TECHNOLOGIE | s_applique_à | 20+ systèmes d'écriture | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| design piloté par les besoins | METHODOLOGIE | s_applique_à | évolution Google Sans | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

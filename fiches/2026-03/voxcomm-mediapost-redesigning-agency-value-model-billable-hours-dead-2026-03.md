@@ -196,28 +196,28 @@ VoxComm, Redesigning the Agency Value Model, Brian Kessman, Lodestar Agency Cons
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| VoxComm | ORGANISATION | publie | Redesigning the Agency Value Model | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Brian Kessman | PERSONNE | a_rédigé_pour_VoxComm | Redesigning the Agency Value Model | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Tim Williams | PERSONNE | a_rédigé_foreword | Redesigning the Agency Value Model | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Charley Stoney | PERSONNE | a_rédigé_intro | Redesigning the Agency Value Model | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Charley Stoney | PERSONNE | est_President_de | VoxComm | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Charley Stoney | PERSONNE | est_CEO_de | EACA (European Association of Communication Agencies) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Brian Kessman | PERSONNE | est_Founder_de | Lodestar Agency Consulting | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Tim Williams | PERSONNE | est_Founder_de | Ignition Consulting Group | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Joe Mandese | PERSONNE | est_Editor_in_Chief_de | MediaPost | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Joe Mandese | PERSONNE | publie | Billable Hours Are Dead AI Killed Them | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Modèle billable hours agences | CONCEPT | est_disqualifié_par | IA + outcomes-based pricing | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Marges agences | CONCEPT | sont_passées_de | 30% golden age à 10% current | CONCEPT | 0.91 | STATIQUE | déclaré_article |
-| Créatifs | PERSONNE | produisent | 5× output pour même rémunération qu'il y a 10 ans | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Tim Williams | PERSONNE | affirme_que | incentives matter, hourly rate model = structural misalignment | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Tim Williams | PERSONNE | affirme_que | agencies don't sell services but solutions to business problems | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Joe Mandese | PERSONNE | propose | 4-shift framework outcome-based | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| FIG | ORGANISATION | exemplifie | decoupled pricing from staffing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| 72andSunny | ORGANISATION | exemplifie | modular product menus | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Monks | ORGANISATION | exemplifie | single subscription combining talent + technology + improvement | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Charley Stoney | PERSONNE | recommande | decouple revenue and profit from staffing numbers | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| VoxComm | ORGANISATION | publie | Redesigning the Agency Value Model | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Brian Kessman | PERSONNE | a_créé | Redesigning the Agency Value Model | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Tim Williams | PERSONNE | soutient | Redesigning the Agency Value Model | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Charley Stoney | PERSONNE | soutient | Redesigning the Agency Value Model | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Charley Stoney | PERSONNE | dirige | VoxComm | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Charley Stoney | PERSONNE | dirige | EACA (European Association of Communication Agencies) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Brian Kessman | PERSONNE | a_créé | Lodestar Agency Consulting | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Tim Williams | PERSONNE | a_créé | Ignition Consulting Group | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Joe Mandese | PERSONNE | dirige | MediaPost (rédaction) | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Joe Mandese | PERSONNE | publie | Billable Hours Are Dead AI Killed Them | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Outcome-based pricing | CONCEPT | remplace | Modèle billable hours agences | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Marges agences | CONCEPT | mesure | 30% (golden age) → 10% (current average) | MESURE | 0.91 | STATIQUE | déclaré_article |
+| Créatifs | CONCEPT | mesure | ~5× output pour même rémunération qu'il y a 10 ans | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| Tim Williams | PERSONNE | affirme_que | incentives matter, hourly rate model = structural misalignment | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Tim Williams | PERSONNE | affirme_que | agencies don't sell services but solutions to business problems | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Joe Mandese | PERSONNE | recommande | 4-shift framework outcome-based | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| FIG | ORGANISATION | utilise | decoupled pricing from staffing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| 72andSunny | ORGANISATION | utilise | modular product menus | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Monks | ORGANISATION | utilise | single subscription combining talent + technology + improvement | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Charley Stoney | PERSONNE | recommande | découpler revenue et profit des staffing numbers | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Bilan VoxComm/MediaPost | CONCEPT | converge_avec | Sternfels McKinsey 60000 = 40000 humains + 20000 agents, Bain Rule of 40 outcome-based pricing, Bain cross-system labor 100 Md$ | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Services intellectuels (consulting + agences + SaaS) | CONCEPT | basculent_simultanément_de | time-and-materials vers outcome-based pricing | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Services intellectuels (consulting + agences + SaaS) | CONCEPT | converge_avec | bascule du time-and-materials vers l'outcome-based pricing | CONCEPT | 0.93 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -234,7 +234,6 @@ VoxComm, Redesigning the Agency Value Model, Brian Kessman, Lodestar Agency Cons
 | MediaPost | ORGANISATION | secteur | Publication trade industry advertising/marketing/media. Section Media 3.0 commentaire éditorial | AJOUT |
 | "Billable hours are dead. AI killed them." | CONCEPT | source | Aphorisme-titre Mandese MediaPost mars 2026 — formule canonique sur la disqualification du modèle horaire agences par l'IA | AJOUT |
 | "You are not in the service business" | CONCEPT | source | Aphorisme Tim Williams (Ignition Consulting) — agencies vendent solutions aux problèmes business, pas services et capabilities | AJOUT |
-| "Decouple revenue and profit from staffing numbers" | CONCEPT | source | Recommandation centrale Charley Stoney VoxComm — découpler la rémunération du nombre de collaborateurs comptés | AJOUT |
 | 4-shift framework Mandese | METHODOLOGIE | définition | (1) Define narrow expertise areas ; (2) Codify repeatable productized solutions ; (3) Build teams around outcomes not utilization ; (4) Replace rate cards with value-based models (fixed fees, subscriptions, performance-based) | AJOUT |
 | Marges agences 30% → 10% | CONCEPT | description | Donnée Mandese MediaPost — chute marges historiques agences. Critique méthodologique commenters : 30% historique probablement gonflé, réel 12-15%. À vérifier | AJOUT |
 | Race to the bottom | CONCEPT | définition | Métaphore Williams — la dynamique billable hours conduit à une course descendante zero-sum entre agence (rewarded for more hours) et client (incentivized to minimize) | AJOUT |

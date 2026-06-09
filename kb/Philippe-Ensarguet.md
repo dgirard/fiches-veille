@@ -1,55 +1,62 @@
 # Philippe Ensarguet
 
-> **Type** : PERSONNE | 10 relations | 4 fiches sources
+> **Type** : PERSONNE | 14 relations | 5 fiches sources
 
 ## Attributs
 
 - **posture** : Thought leader transformation numérique
+- **role** : Leader technique / Stratege
 - **rôle** : Analyste et auteur LinkedIn
 
 ## Relations (comme sujet)
 
-### 
-
-- [[kb/_entites-mineures#heure-cerveau-n'est-plus-unite-de-valeur\|heure-cerveau n'est plus unite de valeur]] (CONCEPT) — 0.97, ATEMPOREL
-  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
-- [[kb/_entites-mineures#Leader-technique-Stratege\|Leader technique / Stratege]] (MISE_A_JOUR) — 0.00, ATEMPOREL
-  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
-
-### affirme_que
-
-- [[kb/_entites-mineures#le-changement-de-plateforme-IA-est-inévitable\|le changement de plateforme IA est inévitable]] (CONCEPT) — 0.98, ATEMPOREL
-  - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
-
-### analyse
-
-- [[kb/_entites-mineures#bulle-IA\|bulle IA]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
-- [[kb/RAG\|RAG]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
-
-### propose
+### a_créé
 
 - [[kb/_entites-mineures#Contribution-Stack\|Contribution Stack]] (METHODOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
 
+### affirme_que
+
+- « le changement de plateforme IA est inévitable » (AFFIRMATION) — 0.98, ATEMPOREL
+  - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
+- « le RAG est en déclin structurel » (AFFIRMATION) — 0.98, STATIQUE
+  - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
+- « heure-cerveau n'est plus unite de valeur » (AFFIRMATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
+- « l'AI slop transforme le modèle contributif open source » (AFFIRMATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+- « les fondations open source négligent la qualité et le burnout des mainteneurs » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+
 ### prédit
 
-- [[kb/_entites-mineures#bifurcation-gouvernance-open-source\|bifurcation gouvernance open source]] (CONCEPT) — 0.90, DYNAMIQUE
+- « OpenAI non cash-flow positif avant 2030 » (AFFIRMATION) — 0.92, STATIQUE
+  - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
+- « bifurcation gouvernance open source » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
-- [[kb/_entites-mineures#dissolution-de-la-notion-d'application\|dissolution de la notion d'application]] (CONCEPT) — 0.87, DYNAMIQUE
+- « dissolution de la notion d'application » (AFFIRMATION) — 0.87, DYNAMIQUE
   - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
+- « l'expansion des contextes LLM rendra le RAG obsolète » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
 
 ### recommande
 
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
-- [[kb/_entites-mineures#construire-des-architectures-AI-native\|construire des architectures AI-native]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#architectures-AI-native\|architectures AI-native]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
+- « financement par les fondations d'outils de détection AI slop » (AFFIRMATION) — 0.87, DYNAMIQUE
+  - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+
+### référence
+
+- [[kb/_entites-mineures#bulle-IA\|bulle IA]] (CONCEPT) — 0.98, STATIQUE
+  - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 
 ## Fiches sources
 
 - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
+- [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn]]
 - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]

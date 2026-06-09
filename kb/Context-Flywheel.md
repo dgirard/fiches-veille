@@ -19,7 +19,7 @@
 - [[kb/_entites-mineures#alignement-organisationnel\|alignement organisationnel]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26\|Volant d'inertie contextuel — avantage compétitif des équipes IA par le contexte cumulé]]
 
-### produit
+### permet
 
 - [[kb/_entites-mineures#avantage-compétitif-cumulé\|avantage compétitif cumulé]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26\|Volant d'inertie contextuel — avantage compétitif des équipes IA par le contexte cumulé]]

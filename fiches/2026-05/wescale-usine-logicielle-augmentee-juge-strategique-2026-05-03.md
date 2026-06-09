@@ -133,27 +133,27 @@ Quatre conseils structurants ferment le deck : (1) l'outillage ne suffit pas, la
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Wescale | ORGANISATION | a_formalisé | Usine Logicielle Augmentée | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Usine Logicielle Augmentée | METHODOLOGIE | est_structurée_en | six lignes de fabrication | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Usine Logicielle Augmentée | METHODOLOGIE | restaure | cycle en V prédictible | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Wescale | ORGANISATION | a_créé | Usine Logicielle Augmentée | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Usine Logicielle Augmentée | METHODOLOGIE | est_basé_sur | six lignes de fabrication | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Usine Logicielle Augmentée | METHODOLOGIE | permet | retour du cycle en V prédictible | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Usine Logicielle Augmentée | METHODOLOGIE | remplace | Scrum / agilité | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Bon à Tirer | METHODOLOGIE | constitue | unique porte humaine avant fabrication | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Agent IA | TECHNOLOGIE | travaille | 24/7/365 | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Wescale | ORGANISATION | affirme_que | gains réels = X3-X4 | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Bon à Tirer | METHODOLOGIE | est_instance_de | unique porte humaine avant fabrication | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agent IA | TECHNOLOGIE | permet | production 24/7/365 | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Wescale | ORGANISATION | affirme_que | les gains réels sont de X3-X4 (pas X10) | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
 | Wescale | ORGANISATION | s_oppose_à | mythe X10 | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Développeur | PERSONNE | devient | Juge Stratégique + Manager d'Agents | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Vélocité | CONCEPT | est_remplacée_par | Prédictibilité + métriques DORA | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Gouvernance injectée | METHODOLOGIE | est | innovation centrale | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Gouvernance injectée | METHODOLOGIE | constitue | barrière à l'entrée réelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Juge Stratégique + Manager d'Agents | CONCEPT | remplace | rôle de producteur de code du développeur | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Prédictibilité + métriques DORA | CONCEPT | remplace | vélocité | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Gouvernance injectée | METHODOLOGIE | est_instance_de | innovation centrale de l'Usine Logicielle Augmentée | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Gouvernance injectée | METHODOLOGIE | est_instance_de | barrière à l'entrée réelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Wescale | ORGANISATION | recommande | dissocier principes (immuables) et implémentation (adaptable) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Drift | CONCEPT | est_causé_par | manque d'injection de contexte | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Token Burning | CONCEPT | peut_annuler | ROI projet IA | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| ROI maximal | CONCEPT | provient_de | modernisation legacy + remplacement SaaS coûteux | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | est | prochaine étape de l'offshoring | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Solario | TECHNOLOGIE | a_servi_à_construire | Solario lui-même | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Auto-certification | CONCEPT | est_interdite_par | agent d'audit indépendant | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Outcome-based | METHODOLOGIE | aligne | paiement sur KPIs métier | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Wescale | ORGANISATION | affirme_que | "très peu d'organisations y parviendront" | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Manque d'injection de contexte | CONCEPT | permet | Drift (hallucination) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Token Burning | CONCEPT | réduit | ROI projet IA (peut l'annuler) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| ROI maximal | CONCEPT | est_basé_sur | modernisation legacy + remplacement SaaS coûteux | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | est_instance_de | prochaine étape de l'offshoring | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| Wescale | ORGANISATION | a_créé | Solario en utilisant Solario (dogfooding) | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Agent d'audit indépendant | METHODOLOGIE | s_oppose_à | auto-certification | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Outcome-based | METHODOLOGIE | permet | alignement du paiement sur les KPIs métier | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Wescale | ORGANISATION | affirme_que | "très peu d'organisations y parviendront" | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

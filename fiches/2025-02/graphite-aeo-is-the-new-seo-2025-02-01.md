@@ -18,9 +18,9 @@ AEO (Answer Engine Optimization), SEO, IA, moteurs de réponse, IA générative,
 Graphite.io Team
 
 ## Ton
-**Profil:** Marketing-Thought-Leadership | Institutionnelle | Éducative-Promotionnelle | Intermédiaire
+**Profil :** Marketing / thought leadership | Voix institutionnelle | Registre éducatif-promotionnel | Niveau technique intermédiaire
 
-Graphite team adopte marketing content voice combinant trend analysis et strategic positioning. Framing "AEO is the new SEO" employs attention-grabbing paradigm shift messaging typical content marketing. Langage SEO/marketing professional (answer engines, optimization, content strategy) vise marketing practitioners. Tone authoritative educational balancing genuine insights avec subtle product positioning. Structure thought leadership article establishes expertise tout en driving awareness. Typique SaaS content marketing (HubSpot, Ahrefs style) educating target audience sur émergent trends relevant to product value proposition.
+L'équipe Graphite adopte une voix de contenu marketing combinant analyse de tendance et positionnement stratégique. Le cadrage « AEO is the new SEO » utilise un message de changement de paradigme accrocheur, typique du content marketing. Langage professionnel SEO/marketing (answer engines, optimisation, stratégie de contenu) visant les praticiens du marketing. Ton éducatif et faisant autorité, équilibrant des enseignements réels avec un positionnement produit discret. Structure d'article de thought leadership qui établit l'expertise tout en créant de la notoriété. Typique du content marketing SaaS (style HubSpot, Ahrefs) : éduquer l'audience cible sur des tendances émergentes liées à la proposition de valeur du produit.
 
 ## Pense-betes
 - **AEO (Answer Engine Optimization)** remplace le SEO traditionnel.
@@ -48,17 +48,17 @@ Ce basculement oblige les entreprises à repenser radicalement leur stratégie d
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | AEO | CONCEPT | remplace | SEO | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Graphite.io | ORGANISATION | publie | guide AEO | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| LLM + RAG | METHODOLOGIE | est_basé_sur | recherche web temps réel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Graphite.io | ORGANISATION | publie | guide AEO | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| LLM + RAG | TECHNOLOGIE | est_basé_sur | recherche web temps réel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | ChatGPT | TECHNOLOGIE | converge_avec | moteur de recherche | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Perplexity | TECHNOLOGIE | est_basé_sur | LLM + RAG | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| AEO | CONCEPT | cible | Product Questions | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Perplexity | TECHNOLOGIE | est_basé_sur | LLM + RAG | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| AEO | CONCEPT | s_applique_à | Product Questions | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Citation Optimization | METHODOLOGIE | fait_partie_de | AEO | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | règle des 5% | CONCEPT | s_applique_à | AEO | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Technical AEO | CONCEPT | génère | peu d'impact | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| Graphite.io | ORGANISATION | affirme_que | le Technical AEO génère peu d'impact | AFFIRMATION | 0.82 | ATEMPOREL | déclaré_article |
 | Share Of Answers | CONCEPT | remplace | SERP tracking | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Graphite.io | ORGANISATION | a_développé | outil de recherche de questions AEO | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| AEO | CONCEPT | nécessite | contenu factuellement précis | CONCEPT | 0.91 | ATEMPOREL | inféré |
+| Graphite.io | ORGANISATION | a_créé | outil de recherche de questions AEO | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| AEO | CONCEPT | utilise | contenu factuellement précis | CONCEPT | 0.91 | ATEMPOREL | inféré |
 
 ### Entités
 
@@ -67,7 +67,7 @@ Ce basculement oblige les entreprises à repenser radicalement leur stratégie d
 | AEO | CONCEPT | définition | Optimisation pour être cité par les moteurs de réponse IA | AJOUT |
 | SEO | CONCEPT | statut | En déclin face à l'AEO | AJOUT |
 | Graphite.io | ORGANISATION | secteur | Marketing / Optimisation contenu IA | AJOUT |
-| LLM + RAG | METHODOLOGIE | avantage | Données fraîches (moins d'un jour vs. 1+ an) | AJOUT |
+| LLM + RAG | TECHNOLOGIE | avantage | Données fraîches (moins d'un jour vs. 1+ an) | AJOUT |
 | ChatGPT | TECHNOLOGIE | évolution | Ajout de liens cliquables et éléments de recherche traditionnels | AJOUT |
 | Perplexity | TECHNOLOGIE | catégorie | Moteur de recherche LLM natif | AJOUT |
 | règle des 5% | CONCEPT | principe | 5% des stratégies génèrent l'essentiel de l'impact | AJOUT |

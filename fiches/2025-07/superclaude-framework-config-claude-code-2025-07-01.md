@@ -13,15 +13,15 @@ SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances C
 https://github.com/NomenAK/SuperClaude
 
 ## Keywords
-Claude Code, meta-programming, configuration framework, AI agents, commands, cognitive personas, development methodologies, workflow automation, Python, Node.js, CLI, LLM, prompt engineering, software development, DevSecOps, DevOps, CI/CD, SuperClaude, MCP servers, behavioral modes
+Claude Code, meta-programming, framework de configuration, agents IA, commandes, personas cognitifs, méthodologies de développement, automatisation de workflows, Python, Node.js, CLI, LLM, prompt engineering, développement logiciel, DevSecOps, DevOps, CI/CD, SuperClaude, serveurs MCP, modes comportementaux
 
 ## Authors
 SuperClaude-Org community, NomenAK (sponsor)
 
 ## Ton
-**Profil:** Professionnel-Technique | Communautaire collaborative | Éducative-Prescriptive | Intermédiaire-Expert
+**Profil :** Professionnel-Technique | Communautaire collaboratif | Éducatif-Prescriptif | Intermédiaire-Expert
 
-Community contributors adoptent open-source documentation voice combining technical precision et collaborative spirit. README structure systematic (Features → Installation → Configuration → Usage → Contributing) follows GitHub conventions. Code examples generous avec configuration snippets demonstrates practical implementation. Langage technique direct assume developer familiarity Claude Code. Tone pragmatic helpful évitant both marketing fluff et unnecessary complexity. Emphasis customization et extensibility appeals power users. Typique community-driven tooling projects (Awesome lists, framework extensions) prioritizing utility et developer autonomy avec clear contributing guidelines.
+Les contributeurs de la communauté adoptent une voix de documentation open source combinant précision technique et esprit collaboratif. La structure systématique du README (fonctionnalités → installation → configuration → usage → contribution) suit les conventions GitHub. Les exemples de code généreux, avec extraits de configuration, démontrent la mise en œuvre pratique. Le langage technique direct suppose une familiarité du développeur avec Claude Code. Le ton pragmatique et serviable évite à la fois le discours marketing et la complexité inutile. L'accent mis sur la personnalisation et l'extensibilité s'adresse aux utilisateurs avancés. Typique des projets d'outillage communautaires (listes « awesome », extensions de frameworks) privilégiant l'utilité et l'autonomie du développeur, avec des règles de contribution claires.
 
 ## Pense-betes
 - **17.2k stars** GitHub, framework open source sous licence MIT
@@ -67,19 +67,19 @@ L'installation flexible supporte trois écosystèmes : pipx (recommandé pour Li
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| SuperClaude | TECHNOLOGIE | transforme | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | améliore | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | SuperClaude | TECHNOLOGIE | est_basé_sur | meta-programming | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| SuperClaude | TECHNOLOGIE | intègre | MCP servers | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| SuperClaude | TECHNOLOGIE | fournit | 16 agents spécialisés | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| SuperClaude | TECHNOLOGIE | fournit | 7 modes comportementaux | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | utilise | MCP servers | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | permet | 16 agents spécialisés | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | permet | 7 modes comportementaux | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | SuperClaude | TECHNOLOGIE | réduit | consommation de tokens | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | SuperClaude | TECHNOLOGIE | améliore | vitesse d'exécution | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | SuperClaude-Org | ORGANISATION | publie | SuperClaude | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| NomenAK | PERSONNE | maintient | SuperClaude | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| SuperClaude | TECHNOLOGIE | s_oppose_à | affiliation Anthropic | ORGANISATION | 0.92 | STATIQUE | déclaré_article |
+| NomenAK | PERSONNE | dirige | SuperClaude | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| SuperClaude-Org | ORGANISATION | affirme_que | SuperClaude n'est pas affilié à Anthropic | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 | Tavily | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Context7 | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| SuperClaude v2.0 | EVENEMENT | remplace | slash commands V1.x | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| SuperClaude v2.0 | TECHNOLOGIE | remplace | slash commands V1.x | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 

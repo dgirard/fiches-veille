@@ -63,18 +63,18 @@ L'article se positionne explicitement non pas contre l'IA, mais comme une analys
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Philippe Ensarguet | PERSONNE | propose | Contribution Stack | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | découple | effort et compréhension | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Ghostty | TECHNOLOGIE | interdit | code généré par IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| tldraw | TECHNOLOGIE | ferme_automatiquement | PRs externes | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| cURL | TECHNOLOGIE | arrête | programme bug bounty | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| AI slop | CONCEPT | provoque | burnout des mainteneurs | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Philippe Ensarguet | PERSONNE | a_créé | Contribution Stack | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | permet | contributions plausibles sans effort ni compréhension | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Ghostty | ORGANISATION | s_oppose_à | code généré par IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| tldraw | ORGANISATION | s_oppose_à | PRs externes | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| cURL | ORGANISATION | publie | arrêt du programme bug bounty | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| AI slop | CONCEPT | permet | burnout des mainteneurs | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Philippe Ensarguet | PERSONNE | recommande | filtrage par le contexte | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| Contribution Stack | METHODOLOGIE | décompose | contributions open source | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| fondations open source | ORGANISATION | négligent | qualité et burnout mainteneurs | CONCEPT | 0.88 | DYNAMIQUE | inféré |
-| Philippe Ensarguet | PERSONNE | prédit | bifurcation gouvernance open source | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| AI slop | CONCEPT | transforme | modèle contributif open source | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| fondations open source | ORGANISATION | devrait_financer | outils de détection AI slop | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| Contribution Stack | METHODOLOGIE | s_applique_à | contributions open source | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Philippe Ensarguet | PERSONNE | affirme_que | les fondations open source négligent la qualité et le burnout des mainteneurs | AFFIRMATION | 0.88 | DYNAMIQUE | inféré |
+| Philippe Ensarguet | PERSONNE | prédit | bifurcation gouvernance open source | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Philippe Ensarguet | PERSONNE | affirme_que | l'AI slop transforme le modèle contributif open source | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Philippe Ensarguet | PERSONNE | recommande | financement par les fondations d'outils de détection AI slop | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -83,9 +83,9 @@ L'article se positionne explicitement non pas contre l'IA, mais comme une analys
 | Philippe Ensarguet | PERSONNE | rôle | Analyste et auteur LinkedIn | AJOUT |
 | AI slop | CONCEPT | définition | Contributions générées par IA sans compréhension ni effort réel | AJOUT |
 | Contribution Stack | METHODOLOGIE | structure | 5 couches : output brut, compréhension, investissement, relations, appartenance | AJOUT |
-| Ghostty | TECHNOLOGIE | réaction | Bans permanents pour code généré par IA | AJOUT |
-| tldraw | TECHNOLOGIE | réaction | Fermeture automatique des PRs externes | AJOUT |
-| cURL | TECHNOLOGIE | réaction | Arrêt du programme bug bounty | AJOUT |
+| Ghostty | ORGANISATION | réaction | Bans permanents pour code généré par IA | AJOUT |
+| tldraw | ORGANISATION | réaction | Fermeture automatique des PRs externes | AJOUT |
+| cURL | ORGANISATION | réaction | Arrêt du programme bug bounty | AJOUT |
 | IA générative | TECHNOLOGIE | impact | Découplage effort/compréhension dans l'open source | AJOUT |
 | fondations open source | ORGANISATION | focus actuel | Licences et propriété intellectuelle | AJOUT |
 | filtrage par le contexte | METHODOLOGIE | critères | Lien aux issues, démonstration de compréhension, tests complets | AJOUT |

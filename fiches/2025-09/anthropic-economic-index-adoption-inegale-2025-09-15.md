@@ -13,9 +13,9 @@ Adoption de l'IA, impact économique, distribution géographique, IA d'entrepris
 Ruth Appel, Peter McCrory, Alex Tamkin, Miles McCain, Tyler Neylon, Michael Stern
 
 ## Ton
-**Profil:** Académique-Professionnel | Institutionnelle research | Analytique-Éducative | Expert
+**Profil:** Académique-professionnel | Institutionnel de recherche | Analytique-éducatif | Expert
 
-Rapport adopte ton research institutionnel rigoureux combinant data science et policy analysis. Multiple auteurs reflètent équipe research collaborative. Terminologie spécialisée (AUI Index, O*NET tasks, directive vs augmentative usage) vise audience researchers, policymakers et business analysts. Structure méthodologique systématique révèle rigueur académique. Citations quantitatives précises (40% adoption, 77% automation, 90% rate Dropbox) ancrent claims empiriquement. Framing impact économique et policy implications signale double audience : research community ET décideurs. Open-sourcing data reflects commitment à reproducible research. Typique AI research reports combinant scientific rigor et practical relevance (style OpenAI/Google Research reports).
+Le rapport adopte un ton institutionnel de recherche rigoureux, combinant science des données et analyse de politiques publiques. La multiplicité des auteurs reflète une équipe de recherche collaborative. La terminologie spécialisée (indice AUI, tâches O*NET, usage directif vs augmentatif) vise un public de chercheurs, de décideurs publics et d'analystes métier. La structure méthodologique systématique témoigne d'une rigueur académique. Les citations quantitatives précises (40 % d'adoption, 77 % d'automatisation) ancrent empiriquement les affirmations. Le cadrage autour de l'impact économique et des implications politiques signale une double audience : communauté de recherche ET décideurs. La publication des données en open source traduit un engagement envers la recherche reproductible. Style typique des rapports de recherche en IA combinant rigueur scientifique et pertinence pratique.
 
 ## Pense-betes
 - 40% des employés américains utilisent l'IA au travail (vs 20% en 2023)
@@ -52,26 +52,26 @@ Le rapport conclut que les schémas inégaux d'adoption de l'IA risquent d'exace
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_publié | Anthropic Economic Index | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Ruth Appel | PERSONNE | a_coécrit | Anthropic Economic Index | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Anthropic Economic Index | EVENEMENT | mesure | adoption géographique et entreprise de l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| adoption IA au travail | CONCEPT | a_atteint | 40% des employés américains | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| usage directif (délégation totale) | CONCEPT | dépasse | usage augmentatif (collaboration) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Singapour | LIEU | est_leader_en | usage Claude par habitant | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Canada | LIEU | est_leader_en | usage Claude par habitant | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Washington D.C. | LIEU | devance | Californie | LIEU | 0.90 | DYNAMIQUE | déclaré_article |
-| entreprises | CONCEPT | présentent | 77% d'usages automatisés via API | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| adoption inégale de l'IA | CONCEPT | risque_d_exacerber | inégalités économiques existantes | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | a_publié_en_open_source | données Anthropic Economic Index | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| accès aux données contextuelles | CONCEPT | constitue | goulot d'étranglement déploiement entreprise | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Indice d'Utilisation de l'IA (AUI) | TECHNOLOGIE | révèle | corrélation usage-revenu entre pays | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Anthropic Economic Index | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Ruth Appel | PERSONNE | a_créé | Anthropic Economic Index | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic Economic Index | DOCUMENT | mesure | adoption géographique et entreprise de l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| adoption IA au travail | CONCEPT | mesure | 40% des employés américains | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| usage directif (délégation totale) | CONCEPT | surpasse | usage augmentatif (collaboration) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Singapour | LIEU | mesure | usage Claude par habitant parmi les plus élevés | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Canada | LIEU | mesure | usage Claude par habitant parmi les plus élevés | MESURE | 0.91 | DYNAMIQUE | déclaré_article |
+| Washington D.C. | LIEU | surpasse | Californie | LIEU | 0.90 | DYNAMIQUE | déclaré_article |
+| entreprises clientes API | CONCEPT | mesure | 77% d'usages automatisés via API | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic Economic Index | DOCUMENT | prédit | l'adoption inégale de l'IA risque d'exacerber les inégalités économiques existantes | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | publie | données Anthropic Economic Index | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
+| accès aux données contextuelles | CONCEPT | est_instance_de | goulot d'étranglement déploiement entreprise | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Indice d'Utilisation de l'IA (AUI) | TECHNOLOGIE | mesure | corrélation usage-revenu entre pays | MESURE | 0.90 | STATIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Anthropic | ORGANISATION | secteur | IA / Safety / Research | AJOUT |
-| Anthropic Economic Index | EVENEMENT | date | 2025-09-15 | AJOUT |
+| Anthropic Economic Index | DOCUMENT | date | 2025-09-15 | AJOUT |
 | Ruth Appel | PERSONNE | rôle | co-auteure rapport Anthropic Economic Index | AJOUT |
 | Peter McCrory | PERSONNE | rôle | co-auteur rapport Anthropic Economic Index | AJOUT |
 | Alex Tamkin | PERSONNE | rôle | co-auteur rapport Anthropic Economic Index | AJOUT |

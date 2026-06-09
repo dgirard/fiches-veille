@@ -23,7 +23,7 @@ Soufiane Keli (OCTO Technology)
 
 Keli, consultant OCTO, partage méthodologie concrète avec ton praticien expérimenté. Approche structurée en 4 étapes ("Onboarding IA", "tâches atomiques", "spec-driven", "capitalisation continue") révèle pédagogue combinant bonnes pratiques et retour d'expérience brownfield. Le langage alterne prescriptions méthodologiques et admissions pragmatiques ("Ne pas demander à l'IA de tout faire d'un coup"). Typique des consultants tech LinkedIn partageant expertise terrain avec soft promotion de leur société.
 
-## Pense-bêtes
+## Pense-betes
 - **IA génère presque 100% du code** via approche structurée
 - **Étape 0 : Onboarding IA** - traiter LLM comme "junior chaque jour", rappeler contexte global
 - **Étape 1 : Exploration & Planification** - décomposer user stories en tâches atomiques précises
@@ -72,19 +72,19 @@ Keli positionne explicitement cette méthode comme combinaison pragmatique de bo
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Soufiane Keli | PERSONNE | travaille_pour | OCTO Technology | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Soufiane Keli | PERSONNE | a_publié | approche spec-driven IA | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| approche spec-driven IA | METHODOLOGIE | produit | 100% code généré par IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| approche spec-driven IA | METHODOLOGIE | requiert | onboarding quotidien LLM | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| approche spec-driven IA | METHODOLOGIE | requiert | tâches atomiques | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| approche spec-driven IA | METHODOLOGIE | requiert | capitalisation continue | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Loïc Lefloch | PERSONNE | a_validé | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Simon Belbeoch | PERSONNE | a_validé | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| approche spec-driven IA | METHODOLOGIE | s'applique_à | environnement brownfield | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Soufiane Keli | PERSONNE | travaille_chez | OCTO Technology | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Soufiane Keli | PERSONNE | publie | approche spec-driven IA | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | permet | 100% code généré par IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | utilise | onboarding quotidien LLM | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | utilise | tâches atomiques | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | utilise | capitalisation continue | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Loïc Lefloch | PERSONNE | soutient | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Simon Belbeoch | PERSONNE | soutient | approche spec-driven IA | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| approche spec-driven IA | METHODOLOGIE | s_applique_à | environnement brownfield | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | tâches atomiques | CONCEPT | améliore | vélocité et qualité | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| prompt structuré | CONCEPT | inclut | Definition of Done | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Yves Caseau | PERSONNE | confirme | applicabilité approche spec-driven IA | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Yves Caseau | PERSONNE | travaille_pour | Michelin | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Definition of Done | CONCEPT | fait_partie_de | prompt structuré | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Yves Caseau | PERSONNE | soutient | approche spec-driven IA | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | travaille_chez | Michelin | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

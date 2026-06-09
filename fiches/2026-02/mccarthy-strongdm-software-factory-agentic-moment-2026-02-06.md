@@ -67,21 +67,21 @@ Justin McCarthy, co-fondateur et CTO de StrongDM, présente le concept de Softwa
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Justin McCarthy | PERSONNE | a_fondé | StrongDM AI | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Justin McCarthy | PERSONNE | a_créé | Software Factory | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Justin McCarthy | PERSONNE | a_créé | StrongDM AI | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Justin McCarthy | PERSONNE | a_créé | Software Factory | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | StrongDM AI | ORGANISATION | utilise | Software Factory | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Claude 3.5 | TECHNOLOGIE | a_rendu_possible | compounding correctness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Claude 3.5 | TECHNOLOGIE | permet | compounding correctness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Software Factory | METHODOLOGIE | remplace | développement humain interactif | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Digital Twin Universe | TECHNOLOGIE | permet | validation à grande échelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Scenario | CONCEPT | remplace | test traditionnel | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | satisfaction probabiliste | CONCEPT | remplace | succès booléen | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Cursor YOLO mode | TECHNOLOGIE | a_révélé | performance long-horizon | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| performance long-horizon | CONCEPT | observé_dans | Cursor YOLO mode | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
 | Justin McCarthy | PERSONNE | recommande | naïveté délibérée | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Digital Twin Universe | TECHNOLOGIE | contient | Okta twin | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Jay Taylor | PERSONNE | a_cofondé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Navan Chauhan | PERSONNE | a_cofondé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Okta twin | TECHNOLOGIE | fait_partie_de | Digital Twin Universe | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Jay Taylor | PERSONNE | a_créé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Navan Chauhan | PERSONNE | a_créé | StrongDM AI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
 | Software Factory | METHODOLOGIE | est_basé_sur | specs et scenarios | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| naïveté délibérée | CONCEPT | transforme | conventions Software 1.0 | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| naïveté délibérée | CONCEPT | réduit | conventions Software 1.0 | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités
 

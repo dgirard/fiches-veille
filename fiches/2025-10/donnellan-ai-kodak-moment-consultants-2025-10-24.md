@@ -19,11 +19,11 @@ IA, Intelligence Artificielle, conseil en management, Accenture, transformation 
 Aimee Donnellan, Reuters Breakingviews
 
 ## Ton
-**Profil:** Financial-Analysis-Opinion | Institutionnelle financial media | Analytique-Provocatrice | Expert
+**Profil:** Analyse financière-opinion | Institutionnel média financier | Analytique-provocateur | Expert
 
-Reuters Breakingviews adopte sharp financial commentary voice applying "Kodak moment" metaphor consulting industry. Historical analogy (Kodak disruption) frames AI impact dramatically. Langage business-analytical (valorisation, restructuration, automatisation) vise financial community. Tone critical analytical typical Breakingviews commentary challenging conventional wisdom. Structure thesis-driven argument positions consulting industry facing existential challenge. Typique financial opinion journalism (FT Lex, WSJ Heard style) offering contrarian perspectives grounded financial analysis visant investors, executives, et industry watching power shifts.
+Reuters Breakingviews adopte une voix de commentaire financier incisif appliquant la métaphore du « moment Kodak » à l'industrie du conseil. L'analogie historique (la disruption de Kodak) dramatise l'impact de l'IA. Le langage business-analytique (valorisation, restructuration, automatisation) vise la communauté financière. Ton analytique critique, typique des commentaires Breakingviews remettant en cause les idées reçues. La structure argumentative à thèse positionne l'industrie du conseil face à un défi existentiel. Typique du journalisme d'opinion financier (style FT Lex, WSJ Heard) offrant des perspectives à contre-courant ancrées dans l'analyse financière, visant investisseurs, dirigeants et observateurs des rapports de force sectoriels.
 
-## Pense-bêtes
+## Pense-betes
 - Industrie du conseil : 1 000 milliards de dollars menacée par l'IA
 - Accenture valorisée à 155 milliards de dollars, actions en baisse de 30% sur 2 ans
 - Accenture a supprimé 11 000 postes grâce à l'IA (septembre 2025)
@@ -60,19 +60,19 @@ Accenture a dévoilé le 25 septembre 2025 une restructuration de 865 millions $
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Aimee Donnellan | PERSONNE | publie | AI sets up Kodak moment for global consultants | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| IA | TECHNOLOGIE | menace | industrie du conseil en management | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Accenture | ORGANISATION | a_supprimé | 11 000 postes | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Accenture | ORGANISATION | a_lancé | restructuration de 865 millions $ | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Department of Government Efficiency | ORGANISATION | a_ciblé | Accenture | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Department of Government Efficiency | ORGANISATION | a_ciblé | Deloitte | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Department of Government Efficiency | ORGANISATION | a_ciblé | IBM | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Aimee Donnellan | PERSONNE | publie | AI sets up Kodak moment for global consultants | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | concurrence | industrie du conseil en management | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Accenture | ORGANISATION | mesure | 11 000 postes supprimés grâce à l'IA | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Accenture | ORGANISATION | publie | restructuration de 865 millions $ | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | s_oppose_à | Accenture | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | s_oppose_à | Deloitte | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Department of Government Efficiency | ORGANISATION | s_oppose_à | IBM | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
 | machine learning | TECHNOLOGIE | réduit | coûts de conseil | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Salesforce | ORGANISATION | a_licencié | 4 000 employés support client | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Microsoft | ORGANISATION | a_gelé | embauches division consulting | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Kodak | ORGANISATION | illustre | disruption technologique fatale | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| industrie du conseil en management | CONCEPT | est_valorisée_à | 1 000 milliards de dollars | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| EXL | ORGANISATION | représente | cible d'acquisition stratégique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | réduit | 4 000 postes de support client | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Microsoft | ORGANISATION | réduit | embauches division consulting | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Kodak | ORGANISATION | est_instance_de | disruption technologique fatale | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| industrie du conseil en management | CONCEPT | mesure | 1 000 milliards de dollars | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| EXL | ORGANISATION | est_instance_de | cible d'acquisition stratégique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

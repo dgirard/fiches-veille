@@ -13,7 +13,7 @@
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
 
-### propose
+### recommande
 
 - [[kb/_entites-mineures#compliance-by-design\|compliance by design]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Rippletide - Fiabilité agents IA enterprise - Gap déploiement 64% vs 17% - Decision governance manquante hyperscalers - Hypergraph Database - <1% hallucination - Compliance by design - Gartner 40% projects canceled 2027]]
@@ -22,7 +22,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Patrick-Joubert\|Patrick Joubert]] **dirige** → Rippletide — 0.98
+- [[kb/Patrick-Joubert\|Patrick Joubert]] **dirige** → Rippletide — 0.98
 
 ## Fiches sources
 

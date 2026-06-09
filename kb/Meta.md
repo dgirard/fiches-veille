@@ -8,17 +8,12 @@
 
 ## Relations (comme sujet)
 
-### a_acquis
+### prédit
 
-- [[kb/Manus\|Manus]] (ORGANISATION) — 0.99, STATIQUE
+- « intégration de Manus dans WhatsApp, Messenger, Instagram » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|Meta acquiert Manus 2B$ - agents IA autonomes, géopolitique tech US-Chine]]
 
-### prévoit_intégration_dans
-
-- [[kb/_entites-mineures#WhatsApp,-Messenger,-Instagram\|WhatsApp, Messenger, Instagram]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|Meta acquiert Manus 2B$ - agents IA autonomes, géopolitique tech US-Chine]]
-
-### s_engage_à_couper
+### réduit
 
 - [[kb/_entites-mineures#liens-opérationnels-avec-Chine\|liens opérationnels avec Chine]] (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|Meta acquiert Manus 2B$ - agents IA autonomes, géopolitique tech US-Chine]]
@@ -30,7 +25,8 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] **est_devenu_VP_chez** → Meta — 0.97
+- [[kb/Manus\|Manus]] **fait_partie_de** → Meta — 0.99
+- [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] **travaille_chez** → Meta — 0.97
 
 ## Fiches sources
 

@@ -56,23 +56,23 @@ Le document se conclut sur la citation de Stéphane Bancel devenue iconique : *"
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Moderna | ORGANISATION | a_partenarié_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Moderna | ORGANISATION | a_déployé | ChatGPT Enterprise | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Moderna | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Moderna | ORGANISATION | utilise | ChatGPT Enterprise | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Stéphane Bancel | PERSONNE | dirige | Moderna | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Stéphane Bancel | PERSONNE | affirme_que | Moderna peut faire le travail de 100 000 employés avec quelques milliers | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Brad Miller | PERSONNE | est_CIO_de | Moderna | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Brad Miller | PERSONNE | affirme_que | 90% des entreprises veulent la GenAI mais seulement 10% réussissent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Brice Challamel | PERSONNE | dirige | AI Products and Platforms chez Moderna | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Stéphane Bancel | PERSONNE | affirme_que | Moderna peut faire le travail de 100 000 employés avec quelques milliers | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Brad Miller | PERSONNE | travaille_chez | Moderna | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Brad Miller | PERSONNE | affirme_que | 90% des entreprises veulent la GenAI mais seulement 10% réussissent | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Brice Challamel | PERSONNE | dirige | AI Products and Platforms chez Moderna | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Moderna | ORGANISATION | a_créé | Dose ID | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Moderna | ORGANISATION | a_créé | mChat | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Dose ID | TECHNOLOGIE | est_basé_sur | ChatGPT Enterprise | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | mChat | TECHNOLOGIE | est_basé_sur | OpenAI API | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| équipe juridique Moderna | ORGANISATION | atteint | 100% d'adoption ChatGPT Enterprise | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Generative AI Champions | METHODOLOGIE | identifie | top 100 power users IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| change management Moderna | METHODOLOGIE | combine | initiatives individuelles, collectives, structurelles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Moderna | ORGANISATION | a_atteint | 750 GPTs en 2 mois | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Shannon Klinger | PERSONNE | est_Chief_Legal_Officer_de | Moderna | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Kate Cronin | PERSONNE | est_Chief_Brand_Officer_de | Moderna | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| équipe juridique Moderna | ORGANISATION | mesure | 100% d'adoption ChatGPT Enterprise | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Generative AI Champions | METHODOLOGIE | est_basé_sur | top 100 power users IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| change management Moderna | METHODOLOGIE | utilise | initiatives individuelles, collectives, structurelles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Moderna | ORGANISATION | mesure | 750 GPTs créés en 2 mois | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Shannon Klinger | PERSONNE | travaille_chez | Moderna | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Kate Cronin | PERSONNE | travaille_chez | Moderna | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -92,5 +92,3 @@ Le document se conclut sur la citation de Stéphane Bancel devenue iconique : *"
 | Contract Companion | TECHNOLOGIE | catégorie | GPT custom Moderna pour résumer les contrats | AJOUT |
 | Policy Bot | TECHNOLOGIE | catégorie | GPT custom Moderna pour répondre sur les policies internes | AJOUT |
 | Generative AI Champions | METHODOLOGIE | structure | Cohorte des 100 power users IA chez Moderna | AJOUT |
-| 750 GPTs en 2 mois | EVENEMENT | contexte | Métrique-phare adoption ChatGPT Enterprise chez Moderna | AJOUT |
-| 100% adoption juridique | EVENEMENT | contexte | Département legal Moderna sous Shannon Klinger | AJOUT |

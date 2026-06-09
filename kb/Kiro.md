@@ -21,16 +21,6 @@
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
 
-### implémente
-
-- [[kb/_entites-mineures#spec-coding\|spec coding]] (METHODOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
-
-### propose
-
-- [[kb/_entites-mineures#modèle-tarifaire-usage-based\|modèle tarifaire usage-based]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
-
 ### s_oppose_à
 
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] (TECHNOLOGIE) — 0.88, ATEMPOREL
@@ -40,12 +30,16 @@
 
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
+- [[kb/_entites-mineures#spec-coding\|spec coding]] (METHODOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
+- [[kb/_entites-mineures#modèle-tarifaire-usage-based\|modèle tarifaire usage-based]] (CONCEPT) — 0.97, DYNAMIQUE
+  - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
 
 ## Relations (comme objet)
 
-- [[kb/AWS\|AWS]] **a_lancé** → Kiro — 0.99
+- [[kb/AWS\|AWS]] **publie** → Kiro — 0.99
 - [[kb/AWS\|AWS]] **a_créé** → Kiro — 0.98
-- [[kb/Cursor\|Cursor]] **harmonise_prix_avec** → Kiro — 0.95
+- [[kb/Cursor\|Cursor]] **converge_avec** → Kiro — 0.95
 
 ## Fiches sources
 

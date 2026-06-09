@@ -56,19 +56,19 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage dans ce podcast ave
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Marc Andreessen | PERSONNE | affirme_que | la force de travail mondiale rétrécit indéfiniment | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Marc Andreessen | PERSONNE | affirme_que | l'IA arrive au bon moment face au déclin démographique | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| IA | TECHNOLOGIE | réalise | pierre philosophale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | transmute | sable en pensée | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | affirme_que | l'absence d'IA à l'école est un scandale | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| agents IA | TECHNOLOGIE | augmente | agence des enfants | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Mexican standoff | CONCEPT | bloque | développement produit | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | définit | AGI | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| AGI | CONCEPT | requiert | capacité auto-amélioration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | se_définit_comme | optimiste déterminé | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | la force de travail mondiale rétrécit indéfiniment | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'IA arrive au bon moment face au déclin démographique | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | est_instance_de | pierre philosophale réalisée | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | permet | transmutation du sable en pensée | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'absence d'IA à l'école est un scandale | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | améliore | agence des enfants | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Mexican standoff | CONCEPT | réduit | avancement du développement produit | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'AGI a trois définitions possibles (thèse PhD, auto-amélioration, évidence a posteriori) | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| AGI | CONCEPT | est_basé_sur | capacité auto-amélioration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Marc Andreessen | PERSONNE | est_instance_de | optimiste déterminé | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | optimisme déterminé | CONCEPT | s_oppose_à | optimisme indéterminé | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Lenny Rachitsky | PERSONNE | interviewe | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | déclaré_article |
-| Andreessen Horowitz | ORGANISATION | est_cofondé_par | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | généré_assistant |
+| Lenny Rachitsky | PERSONNE | collabore_avec | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | a_créé | Andreessen Horowitz | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
 
 ### Entités
 

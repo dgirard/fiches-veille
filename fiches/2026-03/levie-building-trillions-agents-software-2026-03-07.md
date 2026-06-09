@@ -36,7 +36,7 @@ Profil : perspective de CEO visionnaire, registre strategique-prospectif, niveau
 - Securite, conformite et gouvernance deviennent critiques quand les agents manipulent des donnees sensibles
 - Les agents auront besoin de leurs propres identites pour s'authentifier aux services
 
-## ResumeDe400mots
+## RésuméDe400mots
 Aaron Levie, CEO de Box, publie un essai strategique sur la transformation fondamentale du logiciel dans un monde ou les agents IA deviennent les principaux utilisateurs de toute application. Il observe que depuis fin 2025, les agents ont franchi un cap decisif : ils disposent de leur propre environnement compute sandboxe, peuvent ecrire et executer du code, interagir avec des API et CLI, gerer leurs propres fichiers et memoire a long terme.
 
 Cette architecture, initialement definie par les agents de codage (Claude Code, Devin, Codex, Cursor, Replit), s'est etendue a tout le travail intellectuel avec des agents comme Claude Cowork, Perplexity Computer, Manus et OpenClaw, ce dernier fonctionnant 24/7 dans un environnement persistant. Levie predit que chaque employe disposera de nombreux agents, avec 100 a 1000 fois plus d'agents que de personnes dans une entreprise, soit des trillions d'agents a l'echelle mondiale.
@@ -53,26 +53,26 @@ En conclusion, Levie affirme que nous entrons dans une nouvelle ere du logiciel 
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Aaron Levie | PERSONNE | affirme_que | agents deviennent principaux utilisateurs logiciels | CONCEPT | 0.98 | ATEMPOREL | declare_article |
-| Aaron Levie | PERSONNE | dirige | Box | ORGANISATION | 0.99 | DYNAMIQUE | declare_article |
-| Box | ORGANISATION | construit | systeme de fichiers pour agents | TECHNOLOGIE | 0.95 | DYNAMIQUE | declare_article |
-| Agents IA | CONCEPT | necessitent | infrastructure API-first | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Agents IA | CONCEPT | remplacent | utilisateurs humains comme premiers utilisateurs logiciels | CONCEPT | 0.90 | ATEMPOREL | infere |
-| OpenClaw | TECHNOLOGIE | fonctionne | 24/7 en environnement persistant | CONCEPT | 0.92 | DYNAMIQUE | declare_article |
-| Claude Code | TECHNOLOGIE | fait_partie_de | premiere vague agents de codage | CONCEPT | 0.95 | STATIQUE | declare_article |
-| Claude Cowork | TECHNOLOGIE | fait_partie_de | agents knowledge work | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| Jared Friedman | PERSONNE | recommande | inscription via API obligatoire | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| E2B | TECHNOLOGIE | fournit | infrastructure sandbox pour agents | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| Daytona | TECHNOLOGIE | fournit | infrastructure sandbox pour agents | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| MCP | TECHNOLOGIE | est_indispensable_pour | exposition services aux agents | CONCEPT | 0.88 | ATEMPOREL | declare_article |
-| Paul Graham | PERSONNE | a_inspire | paradigme "make something agents want" | CONCEPT | 0.92 | STATIQUE | declare_article |
-| Aravind Srinivas | PERSONNE | affirme_que | donner des ordinateurs aux ordinateurs est superieur | CONCEPT | 0.88 | ATEMPOREL | declare_article |
+| Aaron Levie | PERSONNE | affirme_que | agents deviennent principaux utilisateurs logiciels | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Aaron Levie | PERSONNE | dirige | Box | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Box | ORGANISATION | a_créé | systeme de fichiers pour agents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Agents IA | TECHNOLOGIE | utilise | infrastructure API-first | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Agents IA | TECHNOLOGIE | remplace | utilisateurs humains comme premiers utilisateurs logiciels | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| OpenClaw | TECHNOLOGIE | utilise | environnement persistant 24/7 | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | fait_partie_de | premiere vague agents de codage | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Claude Cowork | TECHNOLOGIE | fait_partie_de | agents knowledge work | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Jared Friedman | PERSONNE | recommande | inscription via API obligatoire | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| E2B | TECHNOLOGIE | permet | infrastructure sandbox pour agents | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Daytona | TECHNOLOGIE | permet | infrastructure sandbox pour agents | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | exposition services aux agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| paradigme "make something agents want" | CONCEPT | s_inspire_de | Paul Graham | PERSONNE | 0.92 | STATIQUE | déclaré_article |
+| Aravind Srinivas | PERSONNE | affirme_que | donner des ordinateurs aux ordinateurs est superieur | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
-### Entites
+### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Aaron Levie | PERSONNE | role | CEO de Box | AJOUT |
 | Box | ORGANISATION | secteur | Gestion de fichiers cloud / Infrastructure agentique | AJOUT |

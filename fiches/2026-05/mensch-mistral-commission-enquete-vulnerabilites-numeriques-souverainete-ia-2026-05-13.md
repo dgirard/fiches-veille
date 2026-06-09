@@ -255,72 +255,72 @@ Arthur Mensch, Mistral AI, Audry Herblin-Stoupe, commission d'enquête Assemblé
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Arthur Mensch | PERSONNE | est_DG_de | Mistral AI | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | a_cofondé | Mistral AI | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_été_fondée | 28 avril 2023 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Audry Herblin-Stoupe | PERSONNE | est_directrice_affaires_publiques_de | Mistral AI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | a_témoigné_devant | commission d'enquête vulnérabilités numériques Assemblée nationale | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | vise_revenu | 1 milliard € fin 2026 | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_valorisation | 12 milliards € | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | emploie | 1000 collaborateurs | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | investit_en_RD | 1 milliard € en 2026 | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_pour_client | ministère des Armées | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_pour_client | DINUM + Caisse des dépôts + France Travail | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_pour_client | Stellantis + TotalEnergies + BNP Paribas + MACGM | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_pour_client | Luxembourg (administration centrale) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | affirme_que | le cloud c'est l'intelligence artificielle | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Arthur Mensch | PERSONNE | affirme_que | l'IA transforme l'électricité en tokens | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| token | CONCEPT | est | unité économique de l'intelligence artificielle | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Mistral AI | ORGANISATION | facture | 1€ pour 1M tokens entrée, 3€ pour 1M tokens sortie | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| 1 GW datacenter | CONCEPT | nécessite | 50 milliards $ d'investissement sur 5 ans | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| 1 GW datacenter | CONCEPT | génère | 20 milliards $ de tokens par an | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| chaîne électron→token | CONCEPT | distribue_valeur | 10% électron / 90% reste | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Arthur Mensch | PERSONNE | prédit | 10% masse salariale Europe en IA d'ici 3-5 ans | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| importation IA non-européenne | CONCEPT | crée | 1 trilliard € déficit commercial supplémentaire | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| infrastructure IA Europe 400 GW | CONCEPT | nécessite | 20 trilliards $ d'investissement | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| États-Unis | LIEU | déploient | 1 trilliard $ en 2026 sur infrastructure IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | dirige | Mistral AI | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | a_créé | Mistral AI | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | collabore_avec | Guillaume Lample et Timothée Lacroix (cofondation 28 avril 2023) | PERSONNE | 0.99 | STATIQUE | déclaré_article |
+| Audry Herblin-Stoupe | PERSONNE | travaille_chez | Mistral AI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | collabore_avec | commission d'enquête vulnérabilités numériques Assemblée nationale (audition sous serment) | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | objectif 1 milliard € de revenus fin 2026 | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | valorisation 12 milliards € | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | 1000 collaborateurs | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | 1 milliard € investi en R&D en 2026 | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | ministère des Armées | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | DINUM + Caisse des dépôts + France Travail | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | Stellantis + TotalEnergies + BNP Paribas + MACGM | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | Luxembourg (administration centrale) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | le cloud c'est l'intelligence artificielle | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | « on transforme de l'électricité en intelligence, en génération de tokens » | CITATION | 0.98 | ATEMPOREL | déclaré_article |
+| token | CONCEPT | est_instance_de | unité économique de l'intelligence artificielle | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | tarification 1€ pour 1M tokens entrée, 3€ pour 1M tokens sortie | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| 1 GW datacenter | CONCEPT | mesure | 50 milliards $ d'investissement sur 5 ans | MESURE | 0.96 | ATEMPOREL | déclaré_article |
+| 1 GW datacenter | CONCEPT | mesure | 20 milliards $ de tokens générés par an | MESURE | 0.95 | ATEMPOREL | déclaré_article |
+| chaîne électron→token | CONCEPT | mesure | 10% de la valeur dans l'électron / 90% ailleurs | MESURE | 0.94 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | prédit | 10% de la masse salariale Europe en IA d'ici 3-5 ans | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | prédit | 1 trilliard € de déficit commercial supplémentaire si l'IA est importée hors Europe | AFFIRMATION | 0.93 | DYNAMIQUE | inféré |
+| infrastructure IA Europe 400 GW | CONCEPT | mesure | 20 trilliards $ d'investissement nécessaires | MESURE | 0.93 | ATEMPOREL | déclaré_article |
+| Hyperscalers américains | ORGANISATION | mesure | 1 trilliard $ déployé en 2026 sur infrastructure IA | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Arthur Mensch | PERSONNE | recommande | souveraineté comme levier pas isolationnisme | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
-| Arthur Mensch | PERSONNE | prédit | 2 ans avant monopolisation ressources énergétiques européennes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | travaille_avec | ministère des Armées français | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | s_oppose_à | droit de regard fournisseur IA sur usage militaire | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | prédit | 2 ans avant monopolisation des ressources énergétiques européennes | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | ministère des Armées français | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | s_oppose_à | droit de regard fournisseur IA sur usage militaire | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Arthur Mensch | PERSONNE | s_oppose_à | marketing de la peur de concurrent américain | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| modèles IA | TECHNOLOGIE | montrent | capacités cyber linéaires prédictibles | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Mythos | TECHNOLOGIE | est_capable_de | découvrir vulnérabilités cyber | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| modèles Mistral | TECHNOLOGIE | sont_capables_de | découvrir toutes vulnérabilités Mythos | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Campus IA | TECHNOLOGIE | est_financé_par | MGX (fonds souverain Abu Dhabi) + Nvidia | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Campus IA | TECHNOLOGIE | représente | 35 milliards € d'investissement | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Campus IA | TECHNOLOGIE | est_situé_à | Saint-Arnoult (Essonne) | LIEU | 0.97 | STATIQUE | déclaré_article |
-| Campus IA | TECHNOLOGIE | aura_puissance | 1,4 à 1,6 GW (= Flamanville) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | est_actionnaire_minoritaire_de | Campus IA | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_réalisé_ACV_avec | ADEME | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | s_oppose_à | compensation carbone | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| réglementation européenne | METHODOLOGIE | favorise | les grandes entreprises | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| 27 régulations européennes | CONCEPT | créent | fragmentation marché et coût compliance élevé | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| AI Act | CONCEPT | entre_en_vigueur | en août (probablement 2026) | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | dénonce | récit US dévaluant régulation EU internalisé par Européens | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| commande publique européenne | CONCEPT | représente | 50% du PIB Europe | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | les capacités cyber des modèles montent de manière linéaire et prédictible chez tous les acteurs | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Mythos | TECHNOLOGIE | permet | découverte de vulnérabilités cyber | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| modèles Mistral | TECHNOLOGIE | permet | découverte de toutes les vulnérabilités évoquées par Mythos | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| MGX (fonds souverain Abu Dhabi) + Nvidia | ORGANISATION | soutient | Campus IA | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Campus IA | TECHNOLOGIE | mesure | 35 milliards € d'investissement | MESURE | 0.96 | STATIQUE | déclaré_article |
+| Campus IA | TECHNOLOGIE | observé_dans | Saint-Arnoult (Essonne) | LIEU | 0.97 | STATIQUE | déclaré_article |
+| Campus IA | TECHNOLOGIE | mesure | 1,4 à 1,6 GW de puissance installée (= Flamanville) | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | fait_partie_de | Campus IA (actionnaire très minoritaire) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | collabore_avec | ADEME (ACV des modèles) | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | s_oppose_à | compensation carbone | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | la réglementation favorise les gros acteurs | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| 27 régulations européennes | CONCEPT | permet | fragmentation du marché et coût compliance élevé | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | l'AI Act entre en vigueur en août (probablement 2026) | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | s_oppose_à | récit US dévaluant la régulation EU internalisé par les Européens | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| commande publique européenne | CONCEPT | mesure | 50% du PIB Europe | MESURE | 0.96 | ATEMPOREL | déclaré_article |
 | Arthur Mensch | PERSONNE | recommande | utiliser commande publique comme levier stratégique | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | distillation | METHODOLOGIE | réduit | coûts de service en interne | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| distillation | METHODOLOGIE | ne_permet_pas | rattrapage technologique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Mistral AI | ORGANISATION | équipe_employés_en_IA | 10% de la masse salariale | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Mistral AI | ORGANISATION | a_gagné_productivité | facteur 2 en 6 mois | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| ingénieurs Mistral | PERSONNE | n_écrivent_plus | de ligne de code directement | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| développeur logiciel | PERSONNE | devient | manager d'agents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| service client | METHODOLOGIE | gagne_productivité | facteur 5 (20% du temps initial) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| gains de productivité | CONCEPT | dépendent_de | taille d'équipe (solo ×10-20, équipe 5 chute, grosse entreprise goulots org) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| témoignage Mensch | CONCEPT | confirme | obsolescence Pizza Team 8-10 (Girard SFEIR 2026-05-05) | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| Two-Pizza Team (Amazon 2002) | METHODOLOGIE | devient_obsolète_en_environnement | agentique IA | CONCEPT | 0.90 | DYNAMIQUE | inféré |
-| client | PERSONNE | achète_techno_si | techno prend ≤ 50% de la valeur créée | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| études macro productivité IA | CONCEPT | manquent_de | recul (6 mois de délégation agentique) | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| gains de productivité IA | CONCEPT | déplacent | valeur du travail vers le capital | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| 20% gain productivité | CONCEPT | n_équivaut_pas_à | 20% de croissance (mix croissance + destruction d'emplois) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Arthur Mensch | PERSONNE | prédit | absence de bulle IA côté demande | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| marché IA | CONCEPT | présente | goulot d'offre (chips, mémoire, électrons) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | affirme_que | racheté par américain = stratégie d'exit ratée | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Mistral AI | ORGANISATION | vise | cotation indépendante (IPO) | EVENEMENT | 0.93 | DYNAMIQUE | déclaré_article |
-| Arthur Mensch | PERSONNE | avertit_que | Europe risque devenir État vassal sans action | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| absence fonds de pension Europe | CONCEPT | force | recours aux investisseurs étrangers | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Arthur Mensch | PERSONNE | qualifie | récit colonialiste US sur régulation EU | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | la distillation ne permet pas le rattrapage technologique | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | budget IA interne ≈ 10% de la masse salariale | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
+| Mistral AI | ORGANISATION | mesure | productivité interne ×2 en 6 mois | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | les ingénieurs Mistral n'écrivent plus de ligne de code | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | le développeur devient un manager d'agents, donneur d'ordre | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | mesure | productivité service client ×5 chez un client (20% du temps initial) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | les gains de productivité dépendent de la taille d'équipe (solo ×10-20, équipe de 5 chute, grande entreprise goulots organisationnels) | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| témoignage Mensch | DOCUMENT | soutient | obsolescence Pizza Team 8-10 (Girard SFEIR 2026-05-05) | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Environnement agentique IA | TECHNOLOGIE | remplace | Two-Pizza Team (Amazon 2002) comme unité d'organisation | METHODOLOGIE | 0.90 | DYNAMIQUE | inféré |
+| Arthur Mensch | PERSONNE | affirme_que | un client achète une technologie si elle ne prend pas plus de 50% de la valeur créée | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | les études macro sur la productivité IA manquent de recul (6 mois de délégation agentique) | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | les gains de productivité déplacent la valeur du travail vers le capital, largement non européen | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | 20% de gain de productivité n'équivaut pas à 20% de croissance (mix croissance + destruction d'emplois) | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | prédit | absence de bulle IA côté demande | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | le marché IA présente un goulot d'offre (chips, mémoire, électrons) | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | se faire racheter par un acteur américain est une stratégie d'exit ratée | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Mistral AI | ORGANISATION | prédit | cotation indépendante (IPO) | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Arthur Mensch | PERSONNE | prédit | l'Europe risque de devenir un État vassal sans action rapide | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
+| absence fonds de pension Europe | CONCEPT | permet | recours aux investisseurs étrangers | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Arthur Mensch | PERSONNE | affirme_que | le récit US dévaluant la régulation européenne est une forme de colonialisme | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

@@ -1,6 +1,6 @@
 # chen-fioca-openai-future-proof-coding-agents-2025-11-23
 ## Veille
-OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use
+Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI
 
 ## Titre Article
 Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles
@@ -57,17 +57,17 @@ En conclusion, ils invitent les développeurs à ne pas "réinventer la roue" du
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Bill Chen | PERSONNE | présente | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Brian Fioca | PERSONNE | présente | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Bill Chen | PERSONNE | recommande | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Brian Fioca | PERSONNE | recommande | architecture agents codage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | emploie | Bill Chen | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
 | OpenAI | ORGANISATION | emploie | Brian Fioca | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
 | OpenAI | ORGANISATION | a_créé | Codex | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | intègre | Harness | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Harness | CONCEPT | gère | complexité intégration modèles | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Codex | TECHNOLOGIE | utilise | Harness | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Harness | CONCEPT | résout | complexité intégration modèles | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Codex | TECHNOLOGIE | utilise | Computer Use terminal | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| agents IA | CONCEPT | créent | outils dynamiquement (MCP) | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | a_créé | outils dynamiquement (MCP) | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | SDK Codex | TECHNOLOGIE | permet | intégration sous-agent | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Harness | CONCEPT | abstrait | cycles évolution modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Harness | CONCEPT | réduit | dépendance aux cycles d'évolution des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
 
 ### Entités
 

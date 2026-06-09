@@ -8,14 +8,14 @@ Some thoughts on LLMs and Software Development
 ## URL
 https://martinfowler.com/articles/202508-ai-thoughts.html
 ## Keywords
-LLM, AI, Software Development, Bubble, Hallucinations, Non-determinism, Security, Attack Surface, Martin Fowler
+LLM, IA, développement logiciel, bulle, hallucinations, non-déterminisme, sécurité, surface d'attaque, Martin Fowler
 ## Authors
 Martin Fowler
 
 ## Ton
-**Profil:** Elder-Statesman-Reflective | Première personne authority | Analytique-Balanced | Expert
+**Profil :** Sage de l'industrie, réflexif | Première personne, autorité | Analytique-Équilibré | Expert
 
-Fowler (ThoughtWorks Chief Scientist) adopte measured authority voice offering nuanced AI software development perspective. Characteristic intellectual honesty ("BIEN SÛR QUE C'EST UNE BULLE") demonstrates willingness state uncomfortable truths. Langage thoughtful balanced (hallucinations as features, non-determinism challenges, security implications) avoids both boosterism et dismissiveness. Tone experienced practitioner wisdom accumulated decades software evolution. Structure exploratory essay typical Fowler's writing encouraging reader critical thinking. Typique software industry thought leaders (Kent Beck, Robert Martin style) offering measured perspectives grounded deep experience visant practitioners seeking balanced guidance amidst hype.
+Fowler (Chief Scientist de ThoughtWorks) adopte une voix d'autorité mesurée offrant une perspective nuancée sur l'IA dans le développement logiciel. Son honnêteté intellectuelle caractéristique (« BIEN SÛR QUE C'EST UNE BULLE ») démontre sa volonté d'énoncer des vérités inconfortables. Le langage réfléchi et équilibré (hallucinations comme fonctionnalité, défis du non-déterminisme, implications de sécurité) évite à la fois le triomphalisme et le dédain. Le ton est celui de la sagesse du praticien expérimenté, accumulée sur des décennies d'évolution du logiciel. La structure d'essai exploratoire, typique de l'écriture de Fowler, encourage la pensée critique du lecteur. Typique des leaders d'opinion de l'industrie logicielle (style Kent Beck, Robert Martin), offrant des perspectives mesurées ancrées dans une expérience profonde, à destination des praticiens cherchant des repères équilibrés au milieu de la hype.
 
 ## Pense-betes
 - Enquêtes actuelles sur IA peu fiables : ne distinguent pas usages (auto-complétion vs édition directe code)
@@ -51,17 +51,17 @@ Enfin, l'article met en lumière l'augmentation considérable de la surface d'at
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Martin Fowler | PERSONNE | travaille_chez | ThoughtWorks | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Martin Fowler | PERSONNE | affirme_que | bulle IA | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| bulle IA | CONCEPT | est_comparable_à | bulle dot-com | EVENEMENT | 0.90 | ATEMPOREL | déclaré_article |
-| Rebecca Parsons | PERSONNE | affirme_que | hallucinations LLM | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| hallucinations LLM | CONCEPT | est_une | fonctionnalité fondamentale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| LLM | TECHNOLOGIE | introduit | non-déterminisme | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Simon Willison | PERSONNE | a_défini | Trifecta Mortelle | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Trifecta Mortelle | CONCEPT | combine | données privées + contenu non fiable + exfiltration | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| agents navigateur | TECHNOLOGIE | présente | surface d'attaque élargie | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Martin Fowler | PERSONNE | critique | enquêtes IA actuelles | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| auto-complétion | METHODOLOGIE | est_inférieure_à | édition directe du code | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| LLM | TECHNOLOGIE | peut_produire | faux positifs de tests | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Martin Fowler | PERSONNE | affirme_que | l'IA est une bulle économique | AFFIRMATION | 0.99 | STATIQUE | déclaré_article |
+| bulle IA | CONCEPT | est_variante_de | bulle dot-com | EVENEMENT | 0.90 | ATEMPOREL | déclaré_article |
+| Rebecca Parsons | PERSONNE | affirme_que | les hallucinations LLM sont une fonctionnalité, pas un bug | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| hallucinations LLM | CONCEPT | est_instance_de | fonctionnalité fondamentale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| non-déterminisme | CONCEPT | observé_dans | LLM | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Simon Willison | PERSONNE | a_créé | Trifecta Mortelle | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Trifecta Mortelle | CONCEPT | est_basé_sur | données privées + contenu non fiable + exfiltration | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| surface d'attaque élargie | CONCEPT | observé_dans | agents navigateur | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
+| Martin Fowler | PERSONNE | s_oppose_à | enquêtes IA actuelles | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| édition directe du code | METHODOLOGIE | surpasse | auto-complétion | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | permet | faux positifs de tests | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

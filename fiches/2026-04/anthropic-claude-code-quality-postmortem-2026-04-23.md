@@ -60,20 +60,20 @@ Tous les problèmes ont été résolus au 20 avril avec la version 2.1.116. Anth
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_publié | post-mortem qualité Claude Code avril 2026 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_subi | trois incidents de dégradation qualité | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_modifié | niveau de raisonnement par défaut de high à medium | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Changement reasoning effort | EVENEMENT | a_provoqué | perception de baisse d'intelligence | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Bug prompt caching | EVENEMENT | a_causé | cache misses en cascade et perte de contexte | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| En-tête clear_thinking_20251015 | TECHNOLOGIE | devait_s_exécuter | une seule fois sur sessions inactives | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| En-tête clear_thinking_20251015 | TECHNOLOGIE | s_exécutait | à chaque tour suivant (bug) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Opus 4.7 Code Review | TECHNOLOGIE | a_identifié | bug de cache rétrospectivement | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Opus 4.6 | TECHNOLOGIE | n_a_pas_détecté | bug de cache | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
-| Contrainte verbosité prompt système | CONCEPT | a_causé | baisse de 3% d'intelligence | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_réinitialisé | limites d'utilisation tous abonnés | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_créé | compte @ClaudeDevs sur X | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
-| Remontées utilisateurs /feedback | METHODOLOGIE | ont_été_critiques_pour | identification et résolution des bugs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| API Claude | TECHNOLOGIE | n_a_pas_été_affectée | par les trois incidents | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | post-mortem qualité Claude Code avril 2026 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Trois incidents de dégradation qualité | EVENEMENT | observé_dans | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Niveau de raisonnement medium par défaut | CONCEPT | remplace | niveau de raisonnement high par défaut | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Changement reasoning effort | EVENEMENT | réduit | intelligence perçue par les utilisateurs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Bug prompt caching | EVENEMENT | permet | cache misses en cascade et perte de contexte | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | l'en-tête clear_thinking_20251015 devait s'exécuter une seule fois sur les sessions inactives | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | l'en-tête clear_thinking_20251015 se déclenchait à chaque tour suivant (bug) | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Opus 4.7 Code Review | TECHNOLOGIE | résout | identification rétrospective du bug de cache | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Opus 4.7 Code Review | TECHNOLOGIE | surpasse | Opus 4.6 | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Contrainte verbosité prompt système | CONCEPT | mesure | baisse de 3% d'intelligence (tests d'ablation) | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | réinitialisation des limites d'utilisation de tous les abonnés (23 avril) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | compte @ClaudeDevs sur X | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
+| Remontées utilisateurs /feedback | METHODOLOGIE | permet | identification et résolution des bugs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | l'API Claude n'a jamais été affectée par les trois incidents | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 
 ### Entités
 

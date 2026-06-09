@@ -91,21 +91,21 @@ Conclusion : l'accélération rend les fondamentaux non négociables ; le défi 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Olivier Rafal | PERSONNE | a_écrit | L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | publie | L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | travaille_chez | WeNvision | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | WeNvision | ORGANISATION | fait_partie_de | SFEIR | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Olivier Rafal | PERSONNE | affirme_que | l'enjeu est le modèle opérationnel, pas l'outil | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| organisation agentique | CONCEPT | bascule_de | double pizza teams vers sandwich teams | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| sandwich team (binôme métier + tech lead) | CONCEPT | pilote | ~80% de la chaîne de production chez Sfeir | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
-| IA | CONCEPT | n_abolit_pas | les phases du SDLC | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| vitesse de l'IA | CONCEPT | transforme | les relâchements en défauts industriels | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | l'enjeu est le modèle opérationnel, pas l'outil | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| sandwich teams | CONCEPT | remplace | double pizza teams | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | mesure | le binôme métier + tech lead pilote ~80% de la chaîne de production chez Sfeir | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | l'IA n'abolit aucune phase du SDLC, elle les intensifie | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | « tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels » | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | recommande | trois gates inviolables (spécification, planification, revue) | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | capitalisation à chaque cycle | METHODOLOGIE | réduit | de 30% les itérations de correction après ~10 cycles | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| principe de cadrage | CONCEPT | affirme_que | plus l'exécution est rapide, plus le cadre doit être strict | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| vibe-coding | METHODOLOGIE | est | intenable en entreprise | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| coût IA par poste augmenté | CONCEPT | est_estimé_à | ~10 € par heure | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| FinOps appliqué à l'IA | CONCEPT | vise_à | optimiser l'efficience (coût/valeur) plus qu'à réduire les coûts | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| réussite de l'ingénierie IA | CONCEPT | dépend_de | un défi organisationnel et culturel | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | « plus l'exécution est rapide, plus le cadre doit être strict » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | le vibe-coding est intenable en entreprise | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | mesure | coût IA ~10 € par heure par poste augmenté | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
+| FinOps appliqué à l'IA | CONCEPT | améliore | l'efficience des outils (coût rapporté à la valeur), plus que la réduction des coûts | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| réussite de l'ingénierie IA | CONCEPT | est_basé_sur | un défi organisationnel et culturel | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

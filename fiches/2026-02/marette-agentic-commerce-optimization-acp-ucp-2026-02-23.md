@@ -68,10 +68,10 @@ La conclusion est un appel à l'action en cinq étapes : rejoindre la liste d'at
 | Merchant Center | TECHNOLOGIE | fait_partie_de | écosystème commerce Google | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Nicolas Marette | PERSONNE | recommande | préparation UCP en 5 étapes | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | WordLift | TECHNOLOGIE | permet | simulation diffusion visuelle produits | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| agents IA | TECHNOLOGIE | transforme | parcours achat e-commerce | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| agents IA | TECHNOLOGIE | s_applique_à | parcours achat e-commerce | CONCEPT | 0.93 | ATEMPOREL | inféré |
 | Universal Commerce Protocol | TECHNOLOGIE | remplace | discovery traditionnelle e-commerce | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | preuve sociale tierce | CONCEPT | améliore | intégrité données produits | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Nicolas Marette | PERSONNE | affirme_que | marques attentistes seront en retard | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Nicolas Marette | PERSONNE | affirme_que | marques attentistes seront en retard | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 

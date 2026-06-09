@@ -19,29 +19,29 @@ planification, vibe coding, compounding engineering, AI agents, three fidelities
 Kieran Klaassen (General Manager, Cora)
 
 ## Ton
-**Profil:** Practitioner-Tutorial | Première personne praticien | Éducative-Narrative | Expert-Accessible
+**Profil:** Tutoriel de praticien | Première personne praticien | Éducatif-narratif | Expert-accessible
 
-Klaassen (Cora GM) adopte experienced practitioner voice sharing hard-won lessons from building email product. Structure narrative-driven tutorial (problem→insight→solution→example) demonstrates storytelling-as-teaching approach. Langage engineering practitioner (rate limiting, cache layer, queue system, race conditions) grounded in concrete Cora email bankruptcy example creates credibility. Tone honest-reflective admitting own mistakes ("I did it, too") before prescribing solutions builds trust. Personal anecdotes (5 Figma screens, weekend deadline, prototypes thrown away) humanize technical concepts. Emphasis systems thinking ("teaching AI how you think") vs tactical execution typical senior engineer perspective. Typique Every.to Source Code columnists (Dan Shipper, Nathan Baschez) combining practical tutorials avec strategic frameworks visant builder audience cherchant sustainable AI workflows beyond hype.
+Klaassen (GM de Cora) adopte une voix de praticien expérimenté partageant des leçons durement acquises en construisant un produit email. La structure de tutoriel narratif (problème → insight → solution → exemple) illustre une pédagogie par le récit. Le langage d'ingénieur praticien (rate limiting, couche de cache, système de queue, race conditions), ancré dans l'exemple concret de l'email bankruptcy de Cora, crée la crédibilité. Le ton honnête et réflexif, admettant ses propres erreurs ("I did it, too") avant de prescrire des solutions, construit la confiance. Les anecdotes personnelles (5 écrans Figma, deadline d'un weekend, prototypes jetés) humanisent les concepts techniques. L'accent sur la pensée systémique ("enseigner à l'IA comment vous pensez") plutôt que l'exécution tactique reflète une perspective d'ingénieur senior. Typique des chroniqueurs de Source Code d'Every.to (Dan Shipper, Nathan Baschez) combinant tutoriels pratiques et cadres stratégiques pour une audience de builders cherchant des workflows IA durables au-delà de la hype.
 
-## Pense-bêtes
+## Pense-betes
 - **Thèse centrale** : "AI made us sloppy because it made us forget how to plan"
-- **Vibe coding** : "Make this feature work" → hope AI takes right route → 3h debugging vs 10min planning
-- **Planning with AI** : "Research codebase, check library, lookup best practices, create plan with 3 approaches + tradeoffs"
-- **Plans teach systems, code solves problems** : plans = institutional knowledge, code = single solution
+- **Vibe coding** : "Make this feature work" → espérer que l'IA prenne la bonne route → 3h de debugging vs 10 min de planification
+- **Planifier avec l'IA** : rechercher dans la codebase, vérifier la bibliothèque, consulter les bonnes pratiques, créer un plan avec 3 approches + compromis
+- **Les plans enseignent des systèmes, le code résout des problèmes** : plans = savoir institutionnel, code = solution unique
 - **Compounding engineering** : chaque unité de travail rend la suivante plus facile en enseignant l'IA
-- **Three Fidelities framework** :
-  - **Fidelity One (Quick fix)** : one-line change, typo, obvious bug. Lightweight planning. Claude Sonnet 4.5 expanded scope (pricing changes, email normalization, test fixes)
-  - **Fidelity Two (Sweet spot)** : multi-file, refactoring, clear scope, non-obvious implementation. Massive ROI planning. Example: archive by query tool
-  - **Fidelity Three (Big uncertain)** : major features, fuzzy scope, uncertain requirements. Vibe planning = rapid prototyping + rigorous planning. Example: email bankruptcy 53k emails
-- **Cas Cora email bankruptcy** : 5 Figma screens → pixel-perfect weekend avec planning agents
-- **Dual agent workflow** : Agent 1 (analyze Figma → plan), Agent 2 (Puppeteer compare → iterate until match)
-- **Knowledge accumulation** : 50+ plan reviews → system learns preferences, architectural thinking
-- **Research phase critical** : archive by query discovered existing search tool, Gmail API quotas
-- **Vibe planning** : disposable prototypes clarify requirements avant real implementation
-- **Breaking Fidelity Three** : prototype 3 solutions (real-time, simple cache, queue) → learn → break into Fidelity Two pieces
-- **View Components preference** : codified into agent instructions → automatic for all future designs
-- **Plans persist, prototypes thrown away** : knowledge extracted then discarded
-- **Next models benefit automatically** : GPT-5/Claude improve plans, but institutional knowledge compounds separately
+- **Framework des Three Fidelities** :
+  - **Fidelity One (correctif rapide)** : changement d'une ligne, typo, bug évident. Planification légère. Claude Sonnet 4.5 élargit ce périmètre (changements de pricing, normalisation d'emails, corrections de tests)
+  - **Fidelity Two (sweet spot)** : multi-fichiers, refactoring, périmètre clair, implémentation non évidente. ROI massif de la planification. Exemple : outil d'archivage par requête
+  - **Fidelity Three (gros et incertain)** : features majeures, périmètre flou, exigences incertaines. Vibe planning = prototypage rapide + planification rigoureuse. Exemple : email bankruptcy, 53 000 emails
+- **Cas Cora email bankruptcy** : 5 écrans Figma → pixel-perfect en un weekend avec des agents de planification
+- **Workflow à deux agents** : Agent 1 (analyse Figma → plan), Agent 2 (comparaison Puppeteer → itérer jusqu'à correspondance)
+- **Accumulation de connaissance** : 50+ revues de plans → le système apprend les préférences et la pensée architecturale
+- **Phase de recherche critique** : l'archivage par requête a révélé un outil de recherche existant et les quotas de l'API Gmail
+- **Vibe planning** : prototypes jetables pour clarifier les exigences avant l'implémentation réelle
+- **Découper Fidelity Three** : prototyper 3 solutions (temps réel, cache simple, queue) → apprendre → découper en morceaux Fidelity Two
+- **Préférence View Components** : codifiée dans les instructions d'agent → automatique pour tous les designs futurs
+- **Les plans persistent, les prototypes sont jetés** : la connaissance est extraite puis le prototype abandonné
+- **Les prochains modèles en bénéficient automatiquement** : GPT-5/Claude améliorent les plans, mais le savoir institutionnel se capitalise séparément
 
 ## RésuméDe400mots
 
@@ -79,19 +79,19 @@ Klaassen conclut : planning est highest-leverage activity en AI-assisted develop
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | publie_dans | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | préconise | planification avec IA | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | dirige | Cora | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | travaille_chez | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | recommande | planification avec IA | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | vibe coding | METHODOLOGIE | s_oppose_à | planification avec IA | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| compounding engineering | CONCEPT | repose_sur | plans enseignant le système | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Three Fidelities | METHODOLOGIE | catégorise | travail d'engineering | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Fidelity Two | CONCEPT | optimise | compounding engineering | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Fidelity Three | CONCEPT | requiert | vibe planning | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| compounding engineering | CONCEPT | est_basé_sur | plans enseignant le système | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Three Fidelities | METHODOLOGIE | s_applique_à | travail d'engineering | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Fidelity Two | CONCEPT | améliore | compounding engineering | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Fidelity Three | CONCEPT | utilise | vibe planning | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | agent de planification Figma | TECHNOLOGIE | utilise | Puppeteer | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | planification Fidelity One | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Cora | TECHNOLOGIE | a_implémenté | email bankruptcy feature | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Gmail API | TECHNOLOGIE | impose | quotas sur opérations bulk | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| plans | CONCEPT | transmettent | connaissance institutionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Cora | ORGANISATION | a_créé | email bankruptcy feature | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| quotas Gmail API | CONCEPT | s_applique_à | opérations bulk | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| plans | CONCEPT | permet | connaissance institutionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -60,14 +60,14 @@ L'article conclut par une métaphore invitant les lecteurs à redécouvrir "le f
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Salvatore Sanfilippo | PERSONNE | a_créé | Redis | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Salvatore Sanfilippo | PERSONNE | affirme_que | IA va changer programmation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_généré | bibliothèque BERT en C | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_modifié | Linenoise | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_débugué | Redis (défaillances TCP) | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | affirme_que | l'IA va changer la programmation pour toujours | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_créé | bibliothèque BERT en C | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | Linenoise | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | résout | défaillances timing TCP de Redis | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | recommande | exploration sérieuse outils IA | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| Salvatore Sanfilippo | PERSONNE | s_inquiète_de | centralisation technologique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| IA programmation | CONCEPT | augmente | productivité développeur | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Salvatore Sanfilippo | PERSONNE | recommande | voter pour gouvernements sociaux | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Salvatore Sanfilippo | PERSONNE | s_oppose_à | centralisation technologique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| IA programmation | TECHNOLOGIE | améliore | productivité développeur | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Salvatore Sanfilippo | PERSONNE | recommande | voter pour des gouvernements soutenant les personnes affectées par l'automatisation | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

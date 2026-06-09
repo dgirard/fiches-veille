@@ -68,18 +68,18 @@ En conclusion, même si certaines fonctions du harnais seront absorbées par les
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Vivek Trivedy | PERSONNE | a_écrit | The Anatomy of an Agent Harness | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Vivek Trivedy | PERSONNE | publie | The Anatomy of an Agent Harness | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Vivek Trivedy | PERSONNE | travaille_chez | LangChain | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
-| LangChain | ORGANISATION | développe | deepagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| LangChain | ORGANISATION | a_amélioré | Score Terminal Bench 2.0 de Top 30 à Top 5 | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Harnais d'agent | CONCEPT | se_définit_comme | Tout sauf le modèle dans un agent | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Système de fichiers | CONCEPT | est | Primitive la plus fondamentale du harnais | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Ralph Loop | METHODOLOGIE | intercepte | Tentative de sortie du modèle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Context Rot | CONCEPT | dégrade | Performance de l'agent | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Compaction | CONCEPT | combat | Context Rot | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_post-entraîné_avec | Harnais dans la boucle | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | est_post-entraîné_avec | Harnais dans la boucle | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Opus 4.6 | TECHNOLOGIE | score_différemment_dans | Différents harnais | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| LangChain | ORGANISATION | a_créé | deepagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| LangChain | ORGANISATION | mesure | passage du Top 30 au Top 5 sur Terminal Bench 2.0 en changeant uniquement le harnais | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Harnais d'agent | CONCEPT | est_instance_de | Tout ce qui n'est pas le modèle dans un agent | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Système de fichiers | CONCEPT | est_instance_de | Primitive la plus fondamentale du harnais | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Ralph Loop | METHODOLOGIE | utilise | Interception de la tentative de sortie du modèle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Context Rot | CONCEPT | réduit | Performance de l'agent | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Compaction | CONCEPT | résout | Context Rot | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | Post-entraînement avec harnais dans la boucle | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | est_basé_sur | Post-entraînement avec harnais dans la boucle | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Opus 4.6 | TECHNOLOGIE | mesure | scores très différents selon le harnais utilisé (Terminal Bench 2.0) | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

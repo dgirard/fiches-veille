@@ -107,19 +107,19 @@ Leçon finale : l'avantage *« will not come from access to the same foundation 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Kazuaki Okumura | PERSONNE | travaille_chez | Dropbox | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | déplace | goulots d'étranglement en aval | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| accélération de la génération de code | CONCEPT | augmente_la_pression_sur | review / CI / release / production | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Kazuaki Okumura | PERSONNE | affirme_que | « AI doesn't eliminate bottlenecks in software development, but it does move them » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| Kazuaki Okumura | PERSONNE | affirme_que | l'accélération de la génération de code déplace les goulots en aval vers review, CI, release et production | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Dropbox | ORGANISATION | a_créé | Nova | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Nova | TECHNOLOGIE | représente | ~1 PR sur 12 chez Dropbox | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| valeur de Nova | CONCEPT | provient_de | systèmes autour du modèle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Nova | TECHNOLOGIE | automatise | migrations / flaky tests / bug investigation / dependency updates | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
+| Nova | TECHNOLOGIE | mesure | ~1 PR sur 12 chez Dropbox | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| valeur de Nova | CONCEPT | est_basé_sur | systèmes autour du modèle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Nova | TECHNOLOGIE | s_applique_à | migrations / flaky tests / bug investigation / dependency updates | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
 | modèle de mesure Fuel-Adoption-Output-Impact | METHODOLOGIE | remplace | PR throughput comme signal unique | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | étage Impact | CONCEPT | mesure | temps idea → customer value | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Okumura | PERSONNE | affirme_que | l'avantage vient des systèmes, pas des modèles | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| agent de codage | TECHNOLOGIE | transforme | rôle de l'ingénieur vers intent / archi / revue | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| enablement | METHODOLOGIE | conditionne | adoption des workflows agentiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| ingénierie agentique | CONCEPT | déplace_la_pression_vers | produit et design en amont | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| billet Dropbox | DOCUMENT | a_été_présenté_à | DX Annual 2026 | EVENEMENT | 0.9 | STATIQUE | déclaré_article |
+| Kazuaki Okumura | PERSONNE | affirme_que | l'avantage vient des systèmes, pas des modèles | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| agent de codage | TECHNOLOGIE | permet | glissement du rôle de l'ingénieur vers intent / archi / revue | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| enablement | METHODOLOGIE | permet | adoption des workflows agentiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Kazuaki Okumura | PERSONNE | affirme_que | l'ingénierie agentique déplace aussi la pression en amont, vers le produit et le design | AFFIRMATION | 0.87 | ATEMPOREL | déclaré_article |
+| billet Dropbox | DOCUMENT | est_basé_sur | intervention à DX Annual 2026 | EVENEMENT | 0.9 | STATIQUE | déclaré_article |
 
 ### Entités
 

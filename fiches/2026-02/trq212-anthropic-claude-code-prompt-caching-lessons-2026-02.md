@@ -56,20 +56,20 @@ L'article conclut que le taux de cache hit doit être surveillé comme l'uptime,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Prompt caching | CONCEPT | est_le_fondement_de | architecture Claude Code | TECHNOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
-| Cache | CONCEPT | fonctionne_par | correspondance de préfixe | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| System prompt | CONCEPT | doit_suivre | ordre statique puis dynamique | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| Modification du system prompt | CONCEPT | invalide | cache de la conversation | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| architecture Claude Code | TECHNOLOGIE | est_basé_sur | Prompt caching | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Cache | CONCEPT | est_basé_sur | correspondance de préfixe | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| System prompt | CONCEPT | utilise | ordre statique puis dynamique | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| Modification du system prompt | CONCEPT | réduit | cache de la conversation | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | System-reminder | TECHNOLOGIE | remplace | modification du system prompt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Plan mode | METHODOLOGIE | préserve | stabilité du cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Plan mode | METHODOLOGIE | permet | stabilité du cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Plan mode | METHODOLOGIE | utilise | EnterPlanMode/ExitPlanMode comme outils | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Tool search | METHODOLOGIE | utilise | stubs avec defer_loading | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
-| Changement de modèle | CONCEPT | détruit | cache de la session | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Compaction | METHODOLOGIE | doit_réutiliser | même system prompt et outils | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Changement de modèle | CONCEPT | réduit | cache de la session | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Compaction | METHODOLOGIE | utilise | même system prompt et outils | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | @trq212 | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | surveille | cache hit rate comme l'uptime | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Compaction | METHODOLOGIE | a_été_intégrée_dans | API Anthropic | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Ajout/retrait d'outils | CONCEPT | invalide | cache de la conversation | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | mesure | cache hit rate | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Compaction | METHODOLOGIE | fait_partie_de | API Anthropic | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Ajout/retrait d'outils | CONCEPT | réduit | cache de la conversation | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

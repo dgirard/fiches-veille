@@ -21,9 +21,9 @@ Lior Novik/Maariv
 ## Ton
 **Profil:** Consumer-Research-Journalism | Institutionnelle media | Informative-Trend-Reporting | Intermédiaire
 
-Maariv/JPost journalist adopte consumer trend reporting voice covering AI shopping adoption survey data. Emphasis quantitative findings (73% consumer adoption) grounds observations empirically. Langage consumer-oriented (trust, confidence, payment security, data protection) addresses mainstream audience concerns. Tone informative accessible typical consumer tech journalism. Structure survey-findings format presents research-backed insights. Survey sponsor (Riskified) contextualizes fraud prevention industry perspective. Typique consumer tech media covering adoption trends visant general audience, retailers, et e-commerce industry tracking consumer behavior shifts.
+Le journaliste Maariv/JPost adopte une voix de reportage de tendances consommateurs couvrant les données d'enquête sur l'adoption de l'IA dans le shopping. L'accent mis sur les résultats quantitatifs (73% d'adoption consommateurs) ancre les observations empiriquement. Le langage orienté consommateur (confiance, sécurité des paiements, protection des données) répond aux préoccupations du grand public. Ton informatif et accessible, typique du journalisme tech grand public. La structure en restitution d'enquête présente des insights étayés par la recherche. Le commanditaire de l'enquête (Riskified) contextualise la perspective de l'industrie de la prévention de fraude. Typique des médias tech grand public couvrant les tendances d'adoption, visant le grand public, les distributeurs et l'industrie e-commerce qui suivent les évolutions du comportement consommateur.
 
-## Pense-bêtes
+## Pense-betes
 - **73% consommateurs** utilisent IA durant processus d'achat
 - **Enquête Riskified** : 5000+ répondants niveau mondial
 - **Seulement 13%** ont effectué achats basés directement sur recommandations IA
@@ -75,18 +75,18 @@ Cette enquête marque un tournant dans le commerce : l'IA n'est plus expériment
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Riskified | ORGANISATION | a_publié | enquête shopping IA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| enquête shopping IA 2025 | EVENEMENT | mesure | 5000 répondants mondiaux | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| consommateurs | CONCEPT | utilisent | IA pour achats en ligne | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | est_utilisé_pour | recommandations produits | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | est_utilisé_pour | comparaison de prix | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| consommateurs | CONCEPT | font_confiance_à | assistants IA | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Jeff Otto | PERSONNE | souligne | ambiguïté responsabilité transactions IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Riskified | ORGANISATION | publie | enquête shopping IA 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| enquête shopping IA 2025 | DOCUMENT | mesure | 5000+ répondants mondiaux | MESURE | 0.97 | STATIQUE | déclaré_article |
+| consommateurs | CONCEPT | utilise | IA pour achats en ligne | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | s_applique_à | recommandations produits | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | s_applique_à | comparaison de prix | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| enquête shopping IA 2025 | DOCUMENT | mesure | confiance dans l'IA à 36% vs 38% pour les vendeurs humains | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Jeff Otto | PERSONNE | affirme_que | la responsabilité des transactions via IA est ambiguë | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Riskified | ORGANISATION | emploie | Jeff Otto | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
-| Agentic Commerce Protocol | METHODOLOGIE | facilite | achats système-à-système | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| commerce agentique | CONCEPT | transforme | comportement d'achat | CONCEPT | 0.88 | DYNAMIQUE | inféré |
-| sécurité paiement | CONCEPT | constitue | préoccupation principale consommateurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| novembre 2025 | EVENEMENT | représente | premier mois shopping dominé par IA | CONCEPT | 0.80 | STATIQUE | déclaré_article |
+| Agentic Commerce Protocol | TECHNOLOGIE | permet | achats système-à-système | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| commerce agentique | CONCEPT | s_applique_à | comportement d'achat | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| sécurité paiement | CONCEPT | est_instance_de | préoccupation principale consommateurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Lior Novik | PERSONNE | prédit | novembre 2025 sera le premier mois de shopping dominé par l'IA | AFFIRMATION | 0.80 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -96,6 +96,6 @@ Cette enquête marque un tournant dans le commerce : l'IA n'est plus expériment
 | Lior Novik | PERSONNE | affiliation | Maariv / Jerusalem Post | AJOUT |
 | Jeff Otto | PERSONNE | rôle | CMO, Riskified | AJOUT |
 | ChatGPT | TECHNOLOGIE | usage | Recommandations, résumés avis, comparaisons prix | AJOUT |
-| Agentic Commerce Protocol | METHODOLOGIE | fonction | Achats IA via interactions système-à-système | AJOUT |
-| enquête shopping IA 2025 | EVENEMENT | taille_échantillon | 5000+ répondants mondiaux | AJOUT |
+| Agentic Commerce Protocol | TECHNOLOGIE | fonction | Achats IA via interactions système-à-système | AJOUT |
+| enquête shopping IA 2025 | DOCUMENT | taille_échantillon | 5000+ répondants mondiaux | AJOUT |
 | commerce agentique | CONCEPT | statut | Émergent, en accélération | AJOUT |

@@ -131,34 +131,34 @@ Le thread se conclut sur un slogan darwinien : *"the replaceable: building wrapp
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Rohit | PERSONNE | publie | 2026 AI engineer roadmap | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Rohit | PERSONNE | affirme_que | gap prompt engineer vs systems architect = 150k$ | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Generic wrappers | CONCEPT | sont_menacés_par | big tech sherlocking | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Agent | TECHNOLOGIE | est_défini_par | the loop | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AI mobile app SLM | METHODOLOGIE | prouve | edge AI + resource optimization | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Self-improving coding agent | METHODOLOGIE | prouve | agentic loops + production debugging | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Video editor agent | METHODOLOGIE | prouve | multimodal AI + tool integration | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Personal life OS agent | METHODOLOGIE | prouve | deep context + privacy-first | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Enterprise workflow agent | METHODOLOGIE | prouve | production-grade orchestration | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Shotcut | TECHNOLOGIE | est_recommandé_pour | fork éditeur vidéo open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Sliding window + semantic chunking | METHODOLOGIE | gère | context window mobile SLM | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Dynamic quantization | METHODOLOGIE | adapte | modèle au device (4-bit/8-bit) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Plan-execute-test-reflect | METHODOLOGIE | structure | agentic loop | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Memory hierarchy | METHODOLOGIE | combine | short-term + long-term + failure memory | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Personal knowledge graph | TECHNOLOGIE | structure | deep context personnel | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Event-driven architecture | METHODOLOGIE | déclenche | enterprise workflow | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Multi-agent delegation | METHODOLOGIE | décompose | orchestrator + spécialistes | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Audit trail immuable | METHODOLOGIE | garantit | compliance + debugging | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Rohit | PERSONNE | publie | 2026 AI engineer roadmap | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Rohit | PERSONNE | affirme_que | le gap salarial entre prompt engineer et systems architect atteint 150k$ en 2026 | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Rohit | PERSONNE | affirme_que | les generic wrappers seront sherlockés par les big tech | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Agent | TECHNOLOGIE | est_basé_sur | the loop (boucle autonome orientée but) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI mobile app SLM | METHODOLOGIE | permet | démonstration de edge AI + resource optimization | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Self-improving coding agent | METHODOLOGIE | permet | démonstration des agentic loops + production debugging | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Video editor agent | METHODOLOGIE | permet | démonstration du multimodal AI + tool integration | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Personal life OS agent | METHODOLOGIE | permet | démonstration du deep context + privacy-first | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Enterprise workflow agent | METHODOLOGIE | permet | démonstration d'orchestration production-grade | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Rohit | PERSONNE | recommande | Shotcut (fork d'éditeur vidéo open-source) | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Sliding window + semantic chunking | METHODOLOGIE | résout | gestion du context window mobile SLM | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Dynamic quantization | METHODOLOGIE | permet | adaptation du modèle au device (4-bit/8-bit) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Agentic loop | CONCEPT | est_basé_sur | plan-execute-test-reflect | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Memory hierarchy | METHODOLOGIE | utilise | short-term + long-term + failure memory | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Personal knowledge graph | TECHNOLOGIE | permet | deep context personnel | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Event-driven architecture | METHODOLOGIE | permet | déclenchement des enterprise workflows | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Multi-agent delegation | METHODOLOGIE | utilise | orchestrator + agents spécialistes | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Audit trail immuable | METHODOLOGIE | permet | compliance + debugging | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Rohit | PERSONNE | recommande | build in public + tag pour amplification | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Shipping autonomous systems | METHODOLOGIE | rend | engineer unfireable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Building wrappers | METHODOLOGIE | rend | engineer replaceable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Rohit | PERSONNE | affirme_que | shipper des systèmes autonomes rend l'ingénieur unfireable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Rohit | PERSONNE | affirme_que | construire des wrappers rend l'ingénieur replaceable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Rohit (@rohit4verse) | PERSONNE | rôle | Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap | AJOUT |
-| 2026 AI engineer roadmap | CONCEPT | définition | Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) | AJOUT |
+| 2026 AI engineer roadmap | DOCUMENT | définition | Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) | AJOUT |
 | Generic wrappers (anti-pattern) | CONCEPT | définition | Couches fines au-dessus de GPT, sans moat, vulnérables au sherlocking par big tech | AJOUT |
 | Agentic loop | CONCEPT | définition | Plan → execute → test → reflect avec max iterations, state persisté, circuit breaker | AJOUT |
 | AI mobile app SLM | METHODOLOGIE | niveau | Beginner — edge AI + resource optimization (lazy loading, quantization, battery, offline-first) | AJOUT |

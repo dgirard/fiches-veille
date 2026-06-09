@@ -19,9 +19,9 @@ Adoption IA, transformation organisationnelle, productivité, leadership, innova
 Ethan Mollick
 
 ## Ton
-**Profil:** Académique-Praticien | Première personne thought leader | Analytique-Prescriptive | Intermédiaire
+**Profil :** Académique-praticien | Première personne, thought leader | Registre analytique-prescriptif | Niveau technique intermédiaire
 
-Mollick adopte framework-building voice synthesizing research insights into actionable organizational strategies. Tripartite structure "Leadership, Lab, Crowd" reveals systematic thinking typical management frameworks. Langage balanced academic (organizational learning, ambidextrous innovation) et practical (experimentation, productivity gains). Tone encouraging pragmatic positioning AI transformation comme manageable rather than overwhelming. Substack format allows depth exploration impossible shorter formats. Typique academic-practitioners (Rita McGrath, Clayton Christensen style) translating research into executive guidance visant organizational leaders navigating technological change.
+Mollick adopte une voix de constructeur de framework, synthétisant les enseignements de la recherche en stratégies organisationnelles actionnables. La structure tripartite « Leadership, Lab, Crowd » révèle une pensée systématique typique des frameworks de management. Langage équilibré entre académique (apprentissage organisationnel, innovation ambidextre) et pratique (expérimentation, gains de productivité). Ton encourageant et pragmatique, positionnant la transformation IA comme gérable plutôt qu'écrasante. Le format Substack permet une exploration en profondeur impossible dans des formats plus courts. Typique des académiques-praticiens (style Rita McGrath, Clayton Christensen) traduisant la recherche en conseils exécutifs, visant les dirigeants d'organisations confrontés au changement technologique.
 
 ## Pense-betes
 
@@ -82,19 +82,19 @@ L'insight critique de Mollick : l'avantage compétitif appartient aux organisati
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | propose | framework Leadership-Lab-Crowd | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | publie_sur | One Useful Thing | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | recommande | framework Leadership-Lab-Crowd | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | One Useful Thing | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Manus | TECHNOLOGIE | est_basé_sur | Claude | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | a_évalué | Manus | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Shopify | ORGANISATION | a_établi | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Duolingo | ORGANISATION | a_établi | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Andrew Carton | PERSONNE | a_montré | importance vision concrète leadership | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| gains individuels IA | CONCEPT | ne_se_traduit_pas_en | gains organisationnels | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| travailleurs américains | CONCEPT | utilisent | IA au travail | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Secret Cyborgs | CONCEPT | résulte_de | incitations organisationnelles inadaptées | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Lab | CONCEPT | pratique | innovation ambidextre | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Wharton | ORGANISATION | a_produit | simulation business complexe | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Google Veo 3 | TECHNOLOGIE | génère | vidéos à partir de texte | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | utilise | Manus | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_créé | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Duolingo | ORGANISATION | a_créé | politique IA prioritaire | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Andrew Carton | PERSONNE | soutient | importance d'une vision concrète du leadership | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | les gains individuels IA ne se traduisent pas en gains organisationnels | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| travailleurs américains | CONCEPT | utilise | IA | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Secret Cyborgs | CONCEPT | est_basé_sur | incitations organisationnelles inadaptées | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Lab | CONCEPT | utilise | innovation ambidextre | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Wharton | ORGANISATION | a_créé | simulation business complexe | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Google Veo 3 | TECHNOLOGIE | permet | génération de vidéos à partir de texte | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

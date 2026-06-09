@@ -12,13 +12,10 @@
 
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique]]
-
-### a_développé
-
 - [[kb/_entites-mineures#Buy-for-Me-(système-propriétaire)\|Buy for Me (système propriétaire)]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]
 
-### refuse_de_participer_à
+### s_oppose_à
 
 - [[kb/_entites-mineures#ACP-et-UCP\|ACP et UCP]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique]]

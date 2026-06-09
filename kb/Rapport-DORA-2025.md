@@ -1,6 +1,6 @@
 # Rapport DORA 2025
 
-> **Type** : EVENEMENT | 6 relations | 1 fiches sources
+> **Type** : DOCUMENT | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -11,7 +11,7 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#IA-amplifie-dynamiques-existantes\|IA amplifie dynamiques existantes]] (CONCEPT) — 0.98, ATEMPOREL
+- « l'IA amplifie les dynamiques d'équipe existantes » (AFFIRMATION) — 0.98, ATEMPOREL
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
 
 ### est_basé_sur
@@ -26,9 +26,9 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] **a_publié** → Rapport DORA 2025 — 0.98
-- [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] **a_publié** → Rapport DORA 2025 — 0.98
-- [[kb/_entites-mineures#Google-Cloud\|Google Cloud]] **publie** → Rapport DORA 2025 — 0.97
+- [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] **publie** → Rapport DORA 2025 — 0.98
+- [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] **publie** → Rapport DORA 2025 — 0.98
+- [[kb/Google-Cloud\|Google Cloud]] **publie** → Rapport DORA 2025 — 0.97
 
 ## Fiches sources
 

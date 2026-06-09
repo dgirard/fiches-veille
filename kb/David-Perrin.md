@@ -1,0 +1,30 @@
+# David Perrin
+
+> **Type** : PERSONNE | 4 relations | 1 fiches sources
+
+## Attributs
+
+- **rôle** : Dominicain, auteur à la Revue thomiste
+
+## Relations (comme sujet)
+
+### affirme_que
+
+- « le monopsychisme averroïste préfigure les enjeux de l'IA » (AFFIRMATION) — 0.97, STATIQUE
+  - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+- « les entreprises technologiques exercent un pouvoir sur les processus cognitifs collectifs » (AFFIRMATION) — 0.91, DYNAMIQUE
+  - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+
+### publie
+
+- [[kb/_entites-mineures#L'Intelligence-Artificielle-et-le-monopsychisme\|L'Intelligence Artificielle et le monopsychisme]] (DOCUMENT) — 0.99, STATIQUE
+  - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+
+### utilise
+
+- [[kb/ChatGPT\|ChatGPT]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+
+## Fiches sources
+
+- [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]

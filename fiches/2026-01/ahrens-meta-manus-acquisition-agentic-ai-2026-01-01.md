@@ -62,19 +62,19 @@ Xiao Hong rejoint Meta comme Vice-Président avec son équipe, apportant une exp
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Meta | ORGANISATION | a_acquis | Manus | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Manus | ORGANISATION | valorisée_à | 2 milliards USD | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Xiao Hong | PERSONNE | a_fondé | Manus | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Xiao Hong | PERSONNE | est_devenu_VP_chez | Meta | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Manus | ORGANISATION | relocalisée_de | Chine vers Singapour | LIEU | 0.95 | STATIQUE | déclaré_article |
+| Manus | ORGANISATION | fait_partie_de | Meta | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Manus | ORGANISATION | mesure | valorisation de 2 milliards USD | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Xiao Hong | PERSONNE | a_créé | Manus | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Xiao Hong | PERSONNE | travaille_chez | Meta | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Manus | ORGANISATION | observé_dans | Singapour (relocalisée depuis la Chine mi-2025) | LIEU | 0.95 | STATIQUE | déclaré_article |
 | Manus | ORGANISATION | utilise | architecture multi-agents | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Manus | ORGANISATION | a_surpassé | OpenAI Deep Research | TECHNOLOGIE | 0.80 | STATIQUE | déclaré_article |
-| Meta | ORGANISATION | prévoit_intégration_dans | WhatsApp, Messenger, Instagram | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Benchmark | ORGANISATION | a_investi_dans | Manus | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| CFIUS | ORGANISATION | surveille | acquisition Meta-Manus | EVENEMENT | 0.90 | DYNAMIQUE | déclaré_article |
-| Tencent | ORGANISATION | a_investi_dans | Manus | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
-| Meta | ORGANISATION | s_engage_à_couper | liens opérationnels avec Chine | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Mark Zuckerberg | PERSONNE | porte_vision | IA agentique | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| Manus | ORGANISATION | surpasse | OpenAI Deep Research | TECHNOLOGIE | 0.80 | STATIQUE | déclaré_article |
+| Meta | ORGANISATION | prédit | intégration de Manus dans WhatsApp, Messenger, Instagram | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Benchmark | ORGANISATION | soutient | Manus | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| CFIUS | ORGANISATION | s_applique_à | acquisition Meta-Manus | EVENEMENT | 0.90 | DYNAMIQUE | déclaré_article |
+| Tencent | ORGANISATION | soutient | Manus | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
+| Meta | ORGANISATION | réduit | liens opérationnels avec Chine | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Mark Zuckerberg | PERSONNE | soutient | IA agentique | TECHNOLOGIE | 0.88 | DYNAMIQUE | inféré |
 
 ### Entités
 

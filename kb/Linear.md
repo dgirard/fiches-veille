@@ -8,9 +8,9 @@
 
 ## Relations (comme sujet)
 
-### a_capturé
+### a_créé
 
-- [[kb/_entites-mineures#parts-de-marché-de-Jira\|parts de marché de Jira]] (CONCEPT) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
 
 ### concurrence
@@ -18,12 +18,17 @@
 - [[kb/_entites-mineures#Jira\|Jira]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
 
-### est_un
+### est_instance_de
 
 - [[kb/_entites-mineures#outil-de-gestion-de-projet-AI-first\|outil de gestion de projet AI-first]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
 
-### intègre
+### surpasse
+
+- [[kb/_entites-mineures#Jira-(parts-de-marché-chez-les-startups)\|Jira (parts de marché chez les startups)]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
+
+### utilise
 
 - [[kb/Cursor\|Cursor]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
@@ -34,11 +39,6 @@
 - [[kb/_entites-mineures#Sentry\|Sentry]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
 - [[kb/_entites-mineures#Figma\|Figma]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
-
-### propose
-
-- [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear - AI-first - Issue tracking - Project management - Product development - Workflow automation]]
 
 ## Fiches sources

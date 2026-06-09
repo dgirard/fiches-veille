@@ -55,16 +55,16 @@ Le timing de cette annonce, alors que l'industrie IA connaît une consolidation 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jeff Bezos | PERSONNE | est_co-CEO_de | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Vik Bajaj | PERSONNE | est_co-CEO_de | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Project Prometheus | ORGANISATION | a_levé | 6.2 milliards de dollars | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Project Prometheus | ORGANISATION | applique_IA_à | ingénierie et manufacturing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | dirige | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Vik Bajaj | PERSONNE | dirige | Project Prometheus | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Project Prometheus | ORGANISATION | mesure | levée de fonds de 6.2 milliards de dollars | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Project Prometheus | ORGANISATION | s_applique_à | ingénierie et manufacturing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Project Prometheus | ORGANISATION | collabore_avec | Blue Origin | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
-| Jeff Bezos | PERSONNE | a_quitté | Amazon (CEO) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Jeff Bezos | PERSONNE | prédit | millions de personnes dans l'espace | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Project Prometheus | ORGANISATION | développe | robotique lunaire | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
-| Vik Bajaj | PERSONNE | a_travaillé_chez | Google X | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
-| Jeff Bezos | PERSONNE | affirme_que | bénéfices IA gigantesques malgré bulle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Nick Lichtenberg | PERSONNE | affirme_que | Jeff Bezos a quitté son rôle de CEO d'Amazon en 2021 | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | prédit | des millions de personnes vivront dans l'espace d'ici 20 ans | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
+| Project Prometheus | ORGANISATION | a_créé | robotique lunaire | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| Vik Bajaj | PERSONNE | travaille_chez | Google X | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
+| Jeff Bezos | PERSONNE | affirme_que | les bénéfices sociétaux de l'IA seront gigantesques malgré la bulle | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

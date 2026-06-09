@@ -45,16 +45,16 @@ Catasta conclut que cette transformation représente un changement fondamental :
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Michele Catasta | PERSONNE | dirige | IA chez Replit | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Michele Catasta | PERSONNE | dirige | équipe IA de Replit | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Replit | ORGANISATION | emploie | Michele Catasta | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
-| Replit | ORGANISATION | développe | codage autonome complet | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Replit | ORGANISATION | vise | autonomie type Waymo | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Painted Doors Problem | CONCEPT | affecte | agents codage autonome | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| Replit | ORGANISATION | a_créé | codage autonome complet | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Replit | ORGANISATION | converge_avec | autonomie type Waymo | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Painted Doors Problem | CONCEPT | observé_dans | agents codage autonome | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | testing autonome | METHODOLOGIE | résout | Painted Doors Problem | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| agents troisième génération | TECHNOLOGIE | dépasse | une heure autonomie | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| agents troisième génération | TECHNOLOGIE | mesure | plus d'une heure d'autonomie | MESURE | 0.85 | STATIQUE | déclaré_article |
 | Swyx | PERSONNE | a_créé | graphique latence-autonomie | CONCEPT | 0.80 | STATIQUE | déclaré_article |
-| Michele Catasta | PERSONNE | ajoute | troisième dimension accessibilité | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| codage autonome | CONCEPT | démocratise | création logicielle | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| Michele Catasta | PERSONNE | a_créé | troisième dimension accessibilité | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| codage autonome | CONCEPT | améliore | création logicielle | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

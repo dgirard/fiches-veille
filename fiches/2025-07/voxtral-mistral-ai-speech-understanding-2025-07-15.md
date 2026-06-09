@@ -1,7 +1,7 @@
 # voxtral-mistral-ai-speech-understanding-2025-07-15
 
 ## Veille
-Voxtral - Mistral AI - Speech understanding - Open source - Multilingual - Apache 2.0
+Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)
 
 ## Titre Article
 Voxtral | Mistral AI
@@ -13,49 +13,49 @@ Voxtral | Mistral AI
 https://mistral.ai/news/voxtral
 
 ## Keywords
-Voxtral, Mistral AI, speech understanding, open source, speech recognition, language models, transcription, multilingual, Q&A, summarization, function-calling, AI, voice interface, Apache 2.0, 24B model, 3B Mini
+Voxtral, Mistral AI, compréhension vocale, open source, reconnaissance vocale, modèles de langage, transcription, multilingue, Q&A, résumé automatique, function-calling, IA, interface vocale, Apache 2.0, modèle 24B, Mini 3B
 
 ## Authors
 Mistral AI
 
 ## Ton
-**Profil:** Product-Launch-Technical | Institutionnelle | Informative-Promotionnelle | Expert
+**Profil :** Lancement produit technique | Institutionnel | Informatif-Promotionnel | Expert
 
-Mistral AI adopte product announcement voice positioning Voxtral comme major open-source speech model release. Emphasis Apache 2.0 licensing et multilingual capabilities appeals open-source community. Langage technical precise (24B model, 3B Mini, function-calling, Q&A) demonstrates capability breadth. Tone confident professional typical European AI startup positioning competitive OpenAI/Google. Structure capability-focused avec availability details facilitates developer adoption. Typique AI lab product launches (Anthropic, Cohere style) targeting developer community valuing open-source avec commercial-grade capabilities.
+Mistral AI adopte une voix d'annonce produit positionnant Voxtral comme une sortie open source majeure dans les modèles vocaux. L'accent sur la licence Apache 2.0 et les capacités multilingues s'adresse à la communauté open source. Le langage technique précis (modèle 24B, Mini 3B, function-calling, Q&A) démontre l'étendue des capacités. Le ton confiant et professionnel est typique d'une startup IA européenne se positionnant face à OpenAI/Google. La structure centrée capacités, avec détails de disponibilité, facilite l'adoption par les développeurs. Typique des lancements produits des laboratoires d'IA (style Anthropic, Cohere) visant une communauté de développeurs attachée à l'open source avec des capacités de niveau commercial.
 
 ## Pense-betes
-- **2 tailles** : 24B variant (production), 3B Mini (local/edge), sous **licence Apache 2.0**
+- **2 tailles** : variante 24B (production), Mini 3B (local/edge), sous **licence Apache 2.0**
 - **API accessible** + téléchargement open source
-- **Gap bridging** : entre high-error ASR open source et expensive proprietary APIs
-- **State-of-the-art accuracy** + native semantic understanding à **moins de la moitié du prix** closed-source
-- **Long-form context** : jusqu'à **30-40 minutes audio** (30min transcription, 40min understanding)
-- **Q&A et summarization intégrés** : direct audio querying sans chaining ASR+LLM
-- **Multilingual natif** : auto language detection, **8+ langues** (anglais, espagnol, français, portugais, hindi, allemand, néerlandais, italien)
-- **Function-calling from voice** : spoken intents → actionable system commands
-- **Voxtral Mini Transcribe** : **moins de la moitié du prix OpenAI Whisper**, outperforms
-- **Voxtral Small matches ElevenLabs Scribe** performance pour **moins de la moitié du prix**
+- **Comble le fossé** entre ASR open source à fort taux d'erreur et APIs propriétaires coûteuses
+- **Précision état de l'art** + compréhension sémantique native à **moins de la moitié du prix** des solutions propriétaires
+- **Contexte long** : jusqu'à **30-40 minutes d'audio** (30 min transcription, 40 min compréhension)
+- **Q&A et résumé intégrés** : interrogation directe de l'audio sans chaîner ASR + LLM
+- **Multilingue natif** : détection automatique de langue, **8+ langues** (anglais, espagnol, français, portugais, hindi, allemand, néerlandais, italien)
+- **Function-calling depuis la voix** : intentions orales → commandes système actionnables
+- **Voxtral Mini Transcribe** : **moins de la moitié du prix d'OpenAI Whisper**, et le surpasse
+- **Voxtral Small égale ElevenLabs Scribe** pour **moins de la moitié du prix**
 - **Benchmarks** : surpasse Whisper large-v3, compétitif avec GPT-4o mini Transcribe et Gemini 2.5 Flash
-- **Roadmap** : speaker segmentation, audio markups (age, emotion), word-level timestamps, non-speech audio recognition
+- **Roadmap** : segmentation des locuteurs, annotations audio (âge, émotion), timestamps au mot, reconnaissance audio non vocale
 
 ## RésuméDe400mots
 
-Mistral AI a unveiled **Voxtral**, groundbreaking suite d'open-source speech understanding models designed pour revolutionize human-computer interaction via voice. Recognizing voice comme humanity's original interface, Voxtral aims overcome limitations de current unreliable et proprietary systems en offering robust, multilingual, et deeply intelligent speech tools. Models disponibles en **deux versions** : 24B variant tailored pour production-scale applications et more compact 3B variant, **Voxtral Mini**, suitable pour local et edge deployments. Both released under permissive **Apache 2.0 license** et accessible via Mistral AI's API, avec transcribe-optimized Voxtral Mini Transcribe offering unparalleled cost et latency efficiency.
+Mistral AI dévoile **Voxtral**, une suite novatrice de modèles open source de compréhension vocale conçue pour révolutionner l'interaction humain-machine par la voix. Considérant la voix comme l'interface originelle de l'humanité, Voxtral vise à dépasser les limites des systèmes actuels, peu fiables ou propriétaires, en offrant des outils vocaux robustes, multilingues et profondément intelligents. Les modèles sont disponibles en **deux versions** : une variante 24B taillée pour les applications à l'échelle de la production, et une variante plus compacte de 3B, **Voxtral Mini**, adaptée aux déploiements locaux et en périphérie (edge). Les deux sont publiées sous la **licence permissive Apache 2.0** et accessibles via l'API de Mistral AI, avec **Voxtral Mini Transcribe**, optimisé pour la transcription, offrant une efficacité coût/latence inégalée.
 
-**Dual-Level Architecture et Cost Advantage**
+**Architecture à deux niveaux et avantage de coût**
 
-Voxtral distinguishes itself en bridging gap entre high word error rate open-source ASR systems et expensive proprietary APIs. Il delivers **state-of-the-art accuracy et native semantic understanding** dans open framework, à **less than half the price** de comparable closed-source solutions. Cette cost-efficiency makes high-quality speech intelligence both accessible et controllable at scale pour wide range d'applications.
+Voxtral se distingue en comblant le fossé entre les systèmes ASR open source à fort taux d'erreur et les APIs propriétaires coûteuses. Il offre une **précision état de l'art et une compréhension sémantique native** dans un cadre ouvert, à **moins de la moitié du prix** des solutions propriétaires comparables. Cette efficacité de coût rend l'intelligence vocale de haute qualité accessible et contrôlable à grande échelle pour un large éventail d'applications.
 
-**Advanced Capabilities Beyond Transcription**
+**Capacités avancées au-delà de la transcription**
 
-Models boast several advanced capabilities extending beyond simple transcription. Ils supportent **long-form audio contexts**, handling up to **30 minutes pour transcription et 40 minutes pour understanding**, enabling comprehensive processing de extended conversations ou recordings. Standout feature est **built-in Q&A et summarization**, allowing users directly query audio content ou generate structured summaries **sans needing chain separate ASR et language models**. Voxtral est natively multilingual, featuring automatic language detection et state-of-the-art performance across numerous widely used languages, incluant **anglais, espagnol, français, portugais, hindi, allemand, néerlandais, italien**. Furthermore, enables **function-calling directly from voice**, translating spoken user intents dans actionable system commands, thereby streamlining voice interactions. Models retain robust text understanding capabilities de leur Mistral Small 3.1 language model backbone.
+Les modèles offrent plusieurs capacités avancées au-delà de la simple transcription. Ils supportent des **contextes audio longs**, jusqu'à **30 minutes pour la transcription et 40 minutes pour la compréhension**, permettant le traitement complet de conversations ou d'enregistrements étendus. Fonctionnalité marquante : le **Q&A et le résumé intégrés**, qui permettent d'interroger directement le contenu audio ou de générer des résumés structurés **sans chaîner des modèles ASR et de langage séparés**. Voxtral est nativement multilingue, avec détection automatique de langue et performances état de l'art sur de nombreuses langues largement utilisées : **anglais, espagnol, français, portugais, hindi, allemand, néerlandais, italien**. Il permet en outre le **function-calling directement depuis la voix**, traduisant les intentions orales de l'utilisateur en commandes système actionnables. Les modèles conservent les solides capacités de compréhension textuelle de leur socle, le modèle de langage Mistral Small 3.1.
 
-**Competitive Benchmarking**
+**Benchmarks compétitifs**
 
-Benchmarking results highlight Voxtral's superior performance. Il comprehensively **outperforms Whisper large-v3**, leading open-source speech transcription model, et surpasses GPT-4o mini Transcribe et Gemini 2.5 Flash across various tasks. **Voxtral Small achieves state-of-the-art results** sur English short-form et Mozilla Common Voice, demonstrating strong multilingual capabilities, et **matches performance d'ElevenLabs Scribe** pour premium use cases à significantly reduced cost. **Voxtral Mini Transcribe** offers cost-efficiency, **outperforming OpenAI Whisper at less than half the price**.
+Les résultats de benchmark soulignent la performance supérieure de Voxtral. Il **surpasse globalement Whisper large-v3**, le modèle de transcription open source de référence, et dépasse GPT-4o mini Transcribe et Gemini 2.5 Flash sur diverses tâches. **Voxtral Small atteint l'état de l'art** sur l'anglais court et Mozilla Common Voice, démontrant de fortes capacités multilingues, et **égale ElevenLabs Scribe** pour les cas d'usage premium à un coût nettement réduit. **Voxtral Mini Transcribe surpasse OpenAI Whisper à moins de la moitié du prix**.
 
-**Roadmap et Vision**
+**Roadmap et vision**
 
-Looking ahead, Mistral AI plans introduce **speaker segmentation, audio markups (age and emotion), word-level timestamps, et non-speech audio recognition**. Company actively expanding audio team, seeking talented research scientists et engineers pour contribute à mission de democratizing AI et building natural, delightful near-human-like voice interfaces. Mistral AI encourage developers integrate Voxtral via local downloads sur Hugging Face, via API, ou trying it sur Le Chat's voice mode, avec advanced enterprise features incluant private deployment, domain-specific fine-tuning, et dedicated integration support.
+Mistral AI prévoit d'introduire **segmentation des locuteurs, annotations audio (âge, émotion), timestamps au niveau du mot et reconnaissance d'audio non vocal**. L'entreprise étoffe son équipe audio et encourage les développeurs à intégrer Voxtral via téléchargement local sur Hugging Face, via l'API, ou en l'essayant dans le mode vocal de Le Chat, avec des fonctionnalités entreprise avancées : déploiement privé, fine-tuning spécifique au domaine et support d'intégration dédié.
 
 ## GrapheDeConnaissance
 
@@ -65,16 +65,16 @@ Looking ahead, Mistral AI plans introduce **speaker segmentation, audio markups 
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Mistral AI | ORGANISATION | publie | Voxtral | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Voxtral | TECHNOLOGIE | est_basé_sur | Mistral Small 3.1 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Voxtral | TECHNOLOGIE | est_disponible_sous | licence Apache 2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | utilise | licence Apache 2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | Voxtral Small | TECHNOLOGIE | surpasse | Whisper large-v3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Voxtral Small | TECHNOLOGIE | surpasse | GPT-4o mini Transcribe | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Voxtral Small | TECHNOLOGIE | surpasse | Gemini 2.5 Flash | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Voxtral Small | TECHNOLOGIE | égale | ElevenLabs Scribe | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Voxtral Mini Transcribe | TECHNOLOGIE | coûte_moins_que | OpenAI Whisper | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Voxtral | TECHNOLOGIE | supporte | function-calling depuis la voix | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Voxtral | TECHNOLOGIE | intègre | Q&A et summarisation audio | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Voxtral | TECHNOLOGIE | est_disponible_sur | Hugging Face | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Le Chat | TECHNOLOGIE | intègre | Voxtral | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Voxtral Small | TECHNOLOGIE | concurrence | ElevenLabs Scribe | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Voxtral Mini Transcribe | TECHNOLOGIE | surpasse | OpenAI Whisper | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | permet | function-calling depuis la voix | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | permet | Q&A et résumé audio intégrés | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Voxtral | TECHNOLOGIE | observé_dans | Hugging Face | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Le Chat | TECHNOLOGIE | utilise | Voxtral | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Mistral AI | ORGANISATION | collabore_avec | Inworld | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités

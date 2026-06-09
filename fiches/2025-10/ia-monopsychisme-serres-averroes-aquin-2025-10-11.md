@@ -45,21 +45,21 @@ En conclusion, David Perrin appelle à une vigilance critique face aux technolog
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| David Perrin | PERSONNE | a_publié | L'Intelligence Artificielle et le monopsychisme | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| David Perrin | PERSONNE | établit_parallèle_entre | monopsychisme averroïste et IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Averroès | PERSONNE | a_défendu | monopsychisme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| monopsychisme | CONCEPT | postule | intellect universel unique séparé | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| David Perrin | PERSONNE | publie | L'Intelligence Artificielle et le monopsychisme | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| David Perrin | PERSONNE | affirme_que | le monopsychisme averroïste préfigure les enjeux de l'IA | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Averroès | PERSONNE | soutient | monopsychisme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| monopsychisme | CONCEPT | affirme_que | il existe un intellect universel unique séparé | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Thomas d'Aquin | PERSONNE | s_oppose_à | averroïsme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Thomas d'Aquin | PERSONNE | affirme_que | l'homme est sujet et agent de sa propre pensée | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Michel Serres | PERSONNE | décrit | externalisation cognitive via technologies numériques | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| intelligence artificielle | TECHNOLOGIE | exploite | données cognitives des utilisateurs | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| entreprises technologiques | ORGANISATION | exercent | pouvoir sur les processus cognitifs collectifs | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| connexion numérique | CONCEPT | est_analogue_à | continuatio averroïste | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| externalisation cognitive | CONCEPT | menace | autonomie intellectuelle individuelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | est_interrogé_sur | parallèle averroïsme et IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Université de Paris | ORGANISATION | a_condamné | averroïsme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Georges Bernanos | PERSONNE | prédit | double asservissement par les machines | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Revue thomiste | ORGANISATION | publie | article de David Perrin | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Thomas d'Aquin | PERSONNE | affirme_que | l'homme est sujet et agent de sa propre pensée | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Michel Serres | PERSONNE | affirme_que | les technologies numériques externalisent des fonctions cognitives | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| intelligence artificielle | TECHNOLOGIE | utilise | données cognitives des utilisateurs | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| David Perrin | PERSONNE | affirme_que | les entreprises technologiques exercent un pouvoir sur les processus cognitifs collectifs | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
+| connexion numérique | CONCEPT | converge_avec | continuatio averroïste | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| externalisation cognitive | CONCEPT | réduit | autonomie intellectuelle individuelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| David Perrin | PERSONNE | utilise | ChatGPT | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Université de Paris | ORGANISATION | s_oppose_à | averroïsme | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Georges Bernanos | PERSONNE | prédit | un double asservissement par les machines | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
+| Revue thomiste | ORGANISATION | publie | article de David Perrin | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

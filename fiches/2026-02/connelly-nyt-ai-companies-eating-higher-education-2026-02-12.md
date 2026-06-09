@@ -62,21 +62,21 @@ Matthew Connelly, vice-doyen pour les initiatives IA à Columbia University, sig
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Matthew Connelly | PERSONNE | affirme_que | entreprises IA mènent une prise de contrôle hostile de l'enseignement supérieur | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | paie | campus ambassadors | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | impose | frais exorbitants pour comptes entreprise universitaires | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | a_supprimé | détecteur ChatGPT (précision 99,9%) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | prédit | intégration dans infrastructure centrale de l'enseignement supérieur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Matthew Connelly | PERSONNE | affirme_que | entreprises IA mènent une prise de contrôle hostile de l'enseignement supérieur | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | utilise | campus ambassadors | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Matthew Connelly | PERSONNE | affirme_que | Anthropic impose des frais exorbitants pour les comptes entreprise universitaires | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | détecteur ChatGPT (précision 99,9%) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | prédit | intégration dans infrastructure centrale de l'enseignement supérieur | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Roy Lee | PERSONNE | a_créé | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Andreessen Horowitz | ORGANISATION | a_financé | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Cluely | ORGANISATION | affirme_que | veut aider les utilisateurs à tricher sur tout | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Andreessen Horowitz | ORGANISATION | soutient | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Cluely | ORGANISATION | affirme_que | veut aider les utilisateurs à tricher sur tout | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | utilise | NotebookLM | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | usage passif de l'IA | CONCEPT | réduit | compétences de lecture critique et d'écriture | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| entreprises IA | ORGANISATION | cible | étudiants universitaires comme base client | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| entreprises IA | ORGANISATION | s_applique_à | étudiants universitaires comme base client | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Columbia University | ORGANISATION | emploie | Matthew Connelly | PERSONNE | 0.99 | DYNAMIQUE | déclaré_article |
-| Perplexity | ORGANISATION | a_organisé | compétition d'inscriptions sur campus (2024) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | affirme_que | les éducateurs devraient mener le prochain tournant avec l'IA | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Matthew Connelly | PERSONNE | recommande | résistance active des universités face aux entreprises IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Perplexity | ORGANISATION | a_créé | compétition d'inscriptions sur campus (2024) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Sam Altman | PERSONNE | affirme_que | les éducateurs devraient mener le prochain tournant avec l'IA | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
+| Matthew Connelly | PERSONNE | recommande | résistance active des universités face aux entreprises IA | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -63,17 +63,17 @@ L'article a eu un impact significatif dans la communauté développeur, « lanç
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Fran Soto | PERSONNE | définit | goût développeur | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Goût développeur | CONCEPT | est | jugement + discipline face au code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AI slop | CONCEPT | désigne | code compilable mais dégradant à long terme | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Goût développeur | CONCEPT | se_révèle_dans | décisions de refus | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Fran Soto | PERSONNE | recommande | évaluer ce que les ingénieurs ont refusé | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| Capacité de discernement | CONCEPT | différencie | ingénieurs médiocres et excellents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| IA générative | TECHNOLOGIE | produit | AI slop sans direction humaine | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Goût développeur | CONCEPT | devient | compétence différenciante à l'ère IA | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Fran Soto | PERSONNE | a_créé | goût développeur | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Goût développeur | CONCEPT | est_instance_de | jugement + discipline face au code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI slop | CONCEPT | est_instance_de | code compilable mais dégradant à long terme | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Goût développeur | CONCEPT | observé_dans | décisions de refus | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Fran Soto | PERSONNE | recommande | évaluer ce que les ingénieurs ont refusé | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Fran Soto | PERSONNE | affirme_que | l'écart entre médiocre et excellent est le goût, pas la productivité brute | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Fran Soto | PERSONNE | affirme_que | l'IA générative sans direction humaine produit de l'AI slop | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Goût développeur | CONCEPT | est_instance_de | compétence différenciante à l'ère IA | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Fran Soto | PERSONNE | travaille_chez | Amazon | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Article developer taste | EVENEMENT | a_lancé | conversation sur le goût dans la communauté dev | CONCEPT | 0.82 | STATIQUE | inféré |
-| Recrutement tech | CONCEPT | ne_sait_pas_évaluer | goût développeur | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Article developer taste | DOCUMENT | a_créé | conversation sur le goût dans la communauté dev | CONCEPT | 0.82 | STATIQUE | inféré |
+| Fran Soto | PERSONNE | affirme_que | personne ne sait recruter pour le goût développeur | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

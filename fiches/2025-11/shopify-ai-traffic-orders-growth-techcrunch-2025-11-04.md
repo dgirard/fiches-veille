@@ -57,19 +57,19 @@ La stratégie de Shopify vise à positionner favorablement ses marchands alors q
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Shopify | ORGANISATION | rapporte_croissance | trafic IA 7x depuis janvier 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Shopify | ORGANISATION | rapporte_croissance | commandes via IA 11x depuis janvier 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | mesure | trafic IA 7x depuis janvier 2025 | MESURE | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | mesure | commandes via IA 11x depuis janvier 2025 | MESURE | 0.99 | STATIQUE | déclaré_article |
 | Shopify | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Shopify | ORGANISATION | collabore_avec | Perplexity | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Shopify | ORGANISATION | collabore_avec | Microsoft | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Shopify | ORGANISATION | a_développé | Scout | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Scout | TECHNOLOGIE | analyse | feedback merchants | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Harley Finkelstein | PERSONNE | affirme_que | données millions marchands sont avantage compétitif | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Shopify | ORGANISATION | génère_revenu | 2,84 milliards USD Q3 2025 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Shopify | ORGANISATION | prédit | commerce agentique comme avenir du e-commerce | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| ChatGPT | TECHNOLOGIE | génère | trafic vers boutiques Shopify | CONCEPT | 0.88 | DYNAMIQUE | inféré |
-| commerce agentique | CONCEPT | transforme | parcours d'achat consommateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Shopify | ORGANISATION | affirme_que | IA est plus grand changement depuis Internet | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Shopify | ORGANISATION | a_créé | Scout | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Scout | TECHNOLOGIE | utilise | feedback merchants | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Harley Finkelstein | PERSONNE | affirme_que | données millions marchands sont avantage compétitif | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Shopify | ORGANISATION | mesure | revenu de 2,84 milliards USD au Q3 2025 | MESURE | 0.99 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | prédit | commerce agentique comme avenir du e-commerce | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| ChatGPT | TECHNOLOGIE | permet | trafic vers boutiques Shopify | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| commerce agentique | CONCEPT | améliore | parcours d'achat consommateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | affirme_que | IA est plus grand changement depuis Internet | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

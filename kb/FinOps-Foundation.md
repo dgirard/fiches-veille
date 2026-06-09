@@ -9,15 +9,15 @@
 
 ## Relations (comme sujet)
 
-### observe
+### a_créé
 
-- [[kb/_entites-mineures#variance-de-coût-30×-200×\|variance de coût 30×-200×]] (CONCEPT) — 0.90, STATIQUE
-  - [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|Guide CPO FinOps des architectures IA : multiplicateurs de tokens (6×, 5-10×) à travers LLM workflows, RAG, agents et systèmes agentiques, avec le concept de Cost Iceberg - Finout]]
-
-### propose
-
-- [[kb/_entites-mineures#certification-Certified-FinOps-for-AI\|certification Certified FinOps for AI]] (EVENEMENT) — 0.92, STATIQUE
+- [[kb/_entites-mineures#certification-Certified-FinOps-for-AI\|certification Certified FinOps for AI]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|Guide officiel FinOps Foundation pour l'IA : token economics, KPIs, caching, prompt optimization, sélection de modèle et extension des 14 capacités du Framework FinOps aux services GenAI - FinOps Foundation]]
+
+### mesure
+
+- « variance de coût 30×-200× » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|Guide CPO FinOps des architectures IA : multiplicateurs de tokens (6×, 5-10×) à travers LLM workflows, RAG, agents et systèmes agentiques, avec le concept de Cost Iceberg - Finout]]
 
 ### publie
 

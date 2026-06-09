@@ -101,21 +101,21 @@ Problème n'est pas défaillance courage individuel mais design système récomp
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| John Cutler | PERSONNE | a_publié | Why Teams Don't Escalate | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| John Cutler | PERSONNE | publie | Why Teams Don't Escalate | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | John Cutler | PERSONNE | travaille_chez | Dotwork | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| équipes | CONCEPT | n_escaladent_pas | problèmes blocants | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| pression surengagement | CONCEPT | récompense | dire oui | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| risque carrière | CONCEPT | freine | escalation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| compression 3 minutes | CONCEPT | distorte | problèmes complexes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| enjeux politiques | CONCEPT | bloquent | résolution collective | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| cascade hiérarchique | CONCEPT | amplifie | dysfonctionnements | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+| John Cutler | PERSONNE | affirme_que | les équipes n'escaladent pas les problèmes bloquants | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| pression surengagement | CONCEPT | soutient | dire oui | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| risque carrière | CONCEPT | réduit | escalation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| compression 3 minutes | CONCEPT | réduit | fidélité des problèmes complexes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| enjeux politiques | CONCEPT | s_oppose_à | résolution collective | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| cascade hiérarchique | CONCEPT | permet | amplification des dysfonctionnements | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
 | trip-wires automatiques | METHODOLOGIE | remplace | courage politique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| leaders | CONCEPT | doivent_démontrer | réduction de scope | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| John Cutler | PERSONNE | recommande | démonstration immédiate de réduction de scope | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | WIP limits | METHODOLOGIE | réduit | pression d'escalation | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| contexte 2023-2025 | EVENEMENT | invalide | règles idéalisées d'escalation | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| contexte 2023-2025 | EVENEMENT | s_oppose_à | règles idéalisées d'escalation | CONCEPT | 0.87 | STATIQUE | déclaré_article |
 | John Cutler | PERSONNE | recommande | forums légers récurrents | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| surengagement | CONCEPT | transfère | coûts vers équipes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| célébration du refus | METHODOLOGIE | normalise | protection de capacité | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
+| surengagement | CONCEPT | permet | coûts différés absorbés par les équipes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| célébration du refus | METHODOLOGIE | soutient | protection de capacité | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

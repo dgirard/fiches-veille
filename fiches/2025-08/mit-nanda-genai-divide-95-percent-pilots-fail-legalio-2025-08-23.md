@@ -66,21 +66,21 @@ Le rapport conclut : *"The GenAI Divide isn't inevitable. But bridging it requir
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| MIT NANDA | ORGANISATION | a_publié | The GenAI Divide State of AI in Business 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| GenAI Divide | CONCEPT | définit | fossé entre adoption et transformation IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| MIT NANDA | ORGANISATION | affirme_que | 95% des pilotes IA en entreprise n'ont aucun impact P&L | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Pilotes IA enterprise | CONCEPT | atteignent | 5% de succès | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Investissement IA enterprise | CONCEPT | atteint | 30-40 milliards de dollars | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Shadow AI economy | CONCEPT | caractérise | 90% des employés utilisent IA personnelle quotidiennement | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Vendors externes | ORGANISATION | réussissent_2x_plus_que | builds internes | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Tech et Media | CONCEPT | sont | seuls secteurs avec transformation IA matérielle | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Operations et Finance | CONCEPT | offrent | meilleur ROI IA que sales et marketing | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| MIT NANDA | ORGANISATION | recommande | shift from building to buying | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Back-office | CONCEPT | offre | meilleur ROI IA enterprise | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Agentic AI | TECHNOLOGIE | définit | phase suivante de l'IA enterprise | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| NANDA | TECHNOLOGIE | est_un | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Model Context Protocol | TECHNOLOGIE | est_un | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Adaptation organisationnelle | CONCEPT | est_le_bottleneck_de | adoption IA enterprise | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| MIT NANDA | ORGANISATION | publie | The GenAI Divide State of AI in Business 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| GenAI Divide | CONCEPT | est_instance_de | fossé entre adoption et transformation IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| MIT NANDA | ORGANISATION | affirme_que | 95% des pilotes IA en entreprise n'ont aucun impact P&L | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Pilotes IA enterprise | CONCEPT | mesure | 5% de succès | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Investissement IA enterprise | CONCEPT | mesure | 30-40 milliards de dollars | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Shadow AI economy | CONCEPT | mesure | 90% des employés utilisent une IA personnelle quotidiennement | MESURE | 0.95 | ATEMPOREL | déclaré_article |
+| Vendors externes | ORGANISATION | surpasse | builds internes | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Tech et Media | CONCEPT | est_instance_de | seuls secteurs avec transformation IA matérielle | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Operations et Finance | CONCEPT | surpasse | sales et marketing en ROI IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| MIT NANDA | ORGANISATION | recommande | passer du build à l'achat (from building to buying) | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Back-office | CONCEPT | permet | meilleur ROI IA enterprise | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Agentic AI | TECHNOLOGIE | est_instance_de | phase suivante de l'IA enterprise | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| NANDA | TECHNOLOGIE | est_instance_de | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Model Context Protocol | TECHNOLOGIE | est_instance_de | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| MIT NANDA | ORGANISATION | affirme_que | le bottleneck de l'adoption IA enterprise est organisationnel, pas technologique | AFFIRMATION | 0.95 | ATEMPOREL | inféré |
 
 ### Entités
 
@@ -96,4 +96,3 @@ Le rapport conclut : *"The GenAI Divide isn't inevitable. But bridging it requir
 | NANDA | TECHNOLOGIE | catégorie | Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT | AJOUT |
 | Agentic Web | CONCEPT | définition | Vision où des agents IA coordonnent à travers organisations et plateformes, remplaçant les SaaS statiques | AJOUT |
 | Legal.io | ORGANISATION | secteur | Plateforme legal talent / média B2B juridique | AJOUT |
-| 95% AI pilots fail | EVENEMENT | contexte | Statistique-pivot 2025 sur l'échec ROI des pilotes IA en entreprise (MIT NANDA) | AJOUT |

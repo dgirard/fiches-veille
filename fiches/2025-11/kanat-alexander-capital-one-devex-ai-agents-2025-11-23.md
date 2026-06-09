@@ -53,15 +53,15 @@ Il aborde ensuite le défi majeur : la **Revue de Code**. Avec l'IA, la producti
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Max Kanat-Alexander | PERSONNE | travaille_chez | Capital One | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Max Kanat-Alexander | PERSONNE | recommande | investissements sans regrets | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| standardisation | CONCEPT | améliore | efficacité agents IA | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| CLIs rapides | TECHNOLOGIE | accélèrent | boucle de feedback agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| validation déterministe | CONCEPT | est_prérequis_de | efficacité agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| refactoring lisibilité | METHODOLOGIE | est_prérequis_de | utilisation efficace IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| revue de code | CONCEPT | devient_goulot_étranglement | développement assisté IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| documentation intention | CONCEPT | complète | lecture code par agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| agents IA | TECHNOLOGIE | ont_besoin_de | environnement sain | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Max Kanat-Alexander | PERSONNE | affirme_que | ce qui est bon pour humains est bon pour IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| legacy codebases | CONCEPT | réduit | efficacité agents IA | TECHNOLOGIE | 0.85 | DYNAMIQUE | inféré |
+| standardisation | CONCEPT | améliore | efficacité agents IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| CLIs rapides | TECHNOLOGIE | améliore | boucle de feedback agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| validation déterministe | CONCEPT | permet | efficacité agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| refactoring lisibilité | METHODOLOGIE | permet | utilisation efficace IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| revue de code | CONCEPT | est_instance_de | goulot d'étranglement du développement assisté IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| documentation intention | CONCEPT | améliore | lecture code par agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | utilise | environnement sain | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Max Kanat-Alexander | PERSONNE | affirme_que | « ce qui est bon pour les humains est bon pour l'IA » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| legacy codebases | CONCEPT | réduit | efficacité agents IA | CONCEPT | 0.85 | DYNAMIQUE | inféré |
 
 ### Entités
 

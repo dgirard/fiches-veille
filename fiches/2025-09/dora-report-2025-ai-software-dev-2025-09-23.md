@@ -15,7 +15,7 @@ Nathen Harvey, Derek DeBellis
 ## Ton
 **Profil:** Professionnel-Éducatif | Institutionnelle avec adresse directe | Éducative-Prescriptive | Intermédiaire-Expert
 
-Harvey et DeBellis adoptent ton authoritative Google Cloud research combinant data-driven insights et actionable recommendations. Métaphore centrale "AI as amplifier" crystallizes core finding mémorably. Chiffres stratégiquement déployés (90% adoption, 80% productivity belief, 5000 surveys) ground claims empirically. Introduction DORA AI Capabilities Model avec 7 archétypes provides structured framework pour self-assessment. Langage prescriptif ("must", "critical", "essential") positions comme guide implementation. Framing organizational capabilities over tools signals maturity focus. Vise CTOs/VPs Engineering avec blend strategic vision et tactical guidance. Typique enterprise research reports (Google, McKinsey style) visant influence organizational strategy.
+Harvey et DeBellis adoptent le ton d'autorité de la recherche Google Cloud, combinant enseignements fondés sur les données et recommandations actionnables. La métaphore centrale « l'IA comme amplificateur » cristallise la conclusion principale de façon mémorable. Les chiffres sont déployés stratégiquement (90 % d'adoption, 80 % de croyance en gains de productivité, 5 000 enquêtes) pour ancrer empiriquement les affirmations. L'introduction du DORA AI Capabilities Model avec 7 archétypes fournit un cadre structuré d'auto-évaluation. Le langage prescriptif positionne le rapport comme guide d'implémentation. Le cadrage sur les capacités organisationnelles plutôt que les outils signale une orientation maturité. Le rapport vise les CTO/VP Engineering avec un mélange de vision stratégique et de conseils tactiques. Typique des rapports de recherche d'entreprise (style Google, McKinsey) visant à influencer la stratégie organisationnelle.
 
 ## Pense-betes
 - L'IA agit comme un "amplificateur" des dynamiques d'équipe existantes
@@ -46,18 +46,18 @@ En conclusion, le rapport DORA 2025 fournit une feuille de route stratégique po
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Nathen Harvey | PERSONNE | a_publié | Rapport DORA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Derek DeBellis | PERSONNE | a_publié | Rapport DORA 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Google Cloud | ORGANISATION | publie | Rapport DORA 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Rapport DORA 2025 | EVENEMENT | affirme_que | IA amplifie dynamiques existantes | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Nathen Harvey | PERSONNE | publie | Rapport DORA 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Derek DeBellis | PERSONNE | publie | Rapport DORA 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Google Cloud | ORGANISATION | publie | Rapport DORA 2025 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | DOCUMENT | affirme_que | l'IA amplifie les dynamiques d'équipe existantes | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 | IA | TECHNOLOGIE | améliore | livraison logicielle (throughput) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | dégrade | stabilité livraison logicielle | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Platform Engineering | METHODOLOGIE | est_prérequis_de | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| DORA AI Capabilities Model | METHODOLOGIE | identifie | sept archétypes d'équipes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Rapport DORA 2025 | EVENEMENT | est_basé_sur | 5000 enquêtes professionnels | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Rapport DORA 2025 | EVENEMENT | recommande | transformation organisationnelle | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Centrage utilisateur | CONCEPT | amplifie | impact positif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Architecture faiblement couplée | CONCEPT | favorise | gains liés à l'IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | réduit | stabilité livraison logicielle | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Platform Engineering | METHODOLOGIE | permet | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| DORA AI Capabilities Model | METHODOLOGIE | affirme_que | il existe sept archétypes d'équipes, des défis fondamentaux aux high achievers harmonieux | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | DOCUMENT | est_basé_sur | 5000 enquêtes professionnels | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Rapport DORA 2025 | DOCUMENT | recommande | transformation organisationnelle | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Centrage utilisateur | CONCEPT | améliore | impact positif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Architecture faiblement couplée | CONCEPT | améliore | gains liés à l'IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -66,8 +66,8 @@ En conclusion, le rapport DORA 2025 fournit une feuille de route stratégique po
 | Nathen Harvey | PERSONNE | rôle | DORA Lead, Google Cloud | AJOUT |
 | Derek DeBellis | PERSONNE | rôle | Chercheur DORA, Google Cloud | AJOUT |
 | Google Cloud | ORGANISATION | secteur | Cloud / DevOps Research | AJOUT |
-| Rapport DORA 2025 | EVENEMENT | date | 2025-09-23 | AJOUT |
-| Rapport DORA 2025 | EVENEMENT | portée | 5 000 répondants, 100h qualitatif | AJOUT |
+| Rapport DORA 2025 | DOCUMENT | date | 2025-09-23 | AJOUT |
+| Rapport DORA 2025 | DOCUMENT | portée | 5 000 répondants, 100h qualitatif | AJOUT |
 | DORA AI Capabilities Model | METHODOLOGIE | composantes | 7 capacités critiques | AJOUT |
 | Platform Engineering | METHODOLOGIE | rôle | fondation pour débloquer valeur IA | AJOUT |
 | IA (amplificateur) | CONCEPT | principe | amplifie forces et faiblesses existantes | AJOUT |

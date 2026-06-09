@@ -1,6 +1,6 @@
 # AP2
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,47 +12,32 @@
 
 ## Relations (comme sujet)
 
-### définit
-
-- [[kb/_entites-mineures#protocol-objects\|protocol objects]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-
-### est_basé_sur
-
-- [[kb/_entites-mineures#Apache-2.0-license\|Apache-2.0 license]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-
 ### fait_partie_de
 
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
 
-### ne_dépend_pas_de
-
-- [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] (TECHNOLOGIE) — 0.95, ATEMPOREL
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-
-### prend_en_charge
-
-- [[kb/_entites-mineures#Google-API-Key\|Google API Key]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-- [[kb/_entites-mineures#Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-
-### prévoit
-
-- [[kb/_entites-mineures#publication-package-PyPI\|publication package PyPI]] (EVENEMENT) — 0.88, DYNAMIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
-
-### vise_à
+### permet
 
 - [[kb/_entites-mineures#paiements-IA-sécurisés-et-interopérables\|paiements IA sécurisés et interopérables]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
+- [[kb/_entites-mineures#intégration-avec-tout-kit-de-développement-d'agents\|intégration avec tout kit de développement d'agents]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
+
+### utilise
+
+- [[kb/_entites-mineures#licence-Apache-2.0\|licence Apache-2.0]] (CONCEPT) — 0.99, STATIQUE
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
+- [[kb/_entites-mineures#Google-API-Key\|Google API Key]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
+- [[kb/_entites-mineures#Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#google-agentic-commerce\|google-agentic-commerce]] **a_publié** → AP2 — 0.99
+- [[kb/google-agentic-commerce\|google-agentic-commerce]] **publie** → AP2 — 0.99
+- [[kb/_entites-mineures#protocol-objects\|protocol objects]] **fait_partie_de** → AP2 — 0.95
 
 ## Fiches sources
 
-- [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Secure payments - AI-driven - GitHub]]
+- [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]

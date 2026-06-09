@@ -44,16 +44,16 @@ La vision future d'Anthropic continue d'évoluer autour de ces trois axes : expo
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Katelyn Lesse | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | développe | Claude | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Claude | TECHNOLOGIE | utilise | thinking API | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | standardise | interaction systèmes externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Context Editing | TECHNOLOGIE | améliore | performance de 39% | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | interaction standardisée avec systèmes externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Context Editing | TECHNOLOGIE | mesure | gain de performance de 39% | MESURE | 0.90 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Memory tool | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | fournit | Code Execution Tool sandboxé | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Agent Skills | CONCEPT | enrichit | autonomie agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Agent Skills | CONCEPT | combine_avec | MCP | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Claude | TECHNOLOGIE | améliore_performance_avec | temps de raisonnement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Katelyn Lesse | PERSONNE | présente | trois piliers systèmes agentiques | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | permet | Code Execution Tool sandboxé | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | améliore | autonomie agents | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | converge_avec | MCP | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| temps de raisonnement | CONCEPT | améliore | Claude | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Katelyn Lesse | PERSONNE | recommande | trois piliers systèmes agentiques | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -65,4 +65,4 @@ La vision future d'Anthropic continue d'évoluer autour de ces trois axes : expo
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
 | MCP | TECHNOLOGIE | catégorie | Model Context Protocol - standard interaction externe | AJOUT |
 | Context Editing | TECHNOLOGIE | impact | +39% performance benchmarks | AJOUT |
-| Agent Skills | CONCEPT | catégorie | Dossiers scripts et instructions expertise domaine | AJOUT |
+| Agent Skills | TECHNOLOGIE | catégorie | Dossiers scripts et instructions expertise domaine | AJOUT |

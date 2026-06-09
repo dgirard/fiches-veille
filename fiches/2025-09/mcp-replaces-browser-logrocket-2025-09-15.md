@@ -15,7 +15,7 @@ Peter Aideloje
 ## Ton
 **Profil:** Professionnel-Éducatif | Deuxième personne instructionnelle | Éducative-Analytique | Intermédiaire
 
-Aideloje adopte developer advocate voice combinant vision transformative et practical guidance. Titre provocateur "MCP remplace le navigateur" establishes bold thesis. Structure explication protocol → implications → preparation guides progressive understanding. Langage technique accessible (serveurs MCP, schémas, outils/ressources/prompts) vise frontend developers transitioning. Framing "AI-first experiences" vs traditional web UIs crystallizes paradigm shift. Tone encouraging sans être dismissive des défis (debugging AI behavior, reliability). Typique LogRocket technical content visant upskill developers sur emerging technologies avec blend strategic vision et tactical implementation advice.
+Aideloje adopte une voix de developer advocate combinant vision transformatrice et conseils pratiques. Le titre provocateur « MCP remplace le navigateur » établit une thèse audacieuse. La structure explication du protocole → implications → préparation guide une compréhension progressive. Le langage technique accessible (serveurs MCP, schémas, outils/ressources/prompts) vise les développeurs frontend en transition. Le cadrage « expériences AI-first » contre interfaces web traditionnelles cristallise le changement de paradigme. Le ton est encourageant sans minimiser les défis (débogage du comportement IA, fiabilité). Typique du contenu technique LogRocket visant à faire monter en compétence les développeurs sur les technologies émergentes, mêlant vision stratégique et conseils d'implémentation tactiques.
 
 ## Pense-betes
 - MCP = protocole ouvert pour connexion agents IA aux outils/données/API
@@ -49,17 +49,17 @@ Pour se préparer, les développeurs doivent se familiariser avec le fonctionnem
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | MCP | TECHNOLOGIE | remplace | navigateur web | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | est_basé_sur | protocole ouvert | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | permet_à | agents IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| agents IA | CONCEPT | interagissent_avec | outils externes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| serveurs MCP | TECHNOLOGIE | exposent | schémas structurés | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | est_instance_de | protocole ouvert | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | accès structuré des agents IA aux outils et données | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | utilise | outils externes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| schémas structurés | CONCEPT | fait_partie_de | serveurs MCP | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | schémas structurés | CONCEPT | remplace | interfaces HTML/CSS | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | élimine | parsing HTML | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| développeurs frontend | CONCEPT | doivent_adopter | conception AI-first | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | exige | sécurité renforcée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| API MCP | TECHNOLOGIE | priorise | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Peter Aideloje | PERSONNE | publie_sur | LogRocket Blog | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Peter Aideloje | PERSONNE | recommande | adoption précoce MCP | METHODOLOGIE | 0.87 | STATIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | réduit | besoin de parsing HTML | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Peter Aideloje | PERSONNE | recommande | conception AI-first | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | utilise | sécurité renforcée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| API MCP | TECHNOLOGIE | améliore | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Peter Aideloje | PERSONNE | publie | article MCP is replacing the browser | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Peter Aideloje | PERSONNE | recommande | adoption précoce de MCP | CONCEPT | 0.87 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -70,7 +70,7 @@ Pour se préparer, les développeurs doivent se familiariser avec le fonctionnem
 | MCP | TECHNOLOGIE | objectif | accès structuré aux outils/données/API pour agents IA | AJOUT |
 | serveurs MCP | TECHNOLOGIE | composants | outils, ressources, prompts | AJOUT |
 | navigateur web | TECHNOLOGIE | statut | remplacé progressivement par MCP | AJOUT |
-| agents IA | CONCEPT | rôle | consommateur principal des interfaces MCP | AJOUT |
+| agents IA | TECHNOLOGIE | rôle | consommateur principal des interfaces MCP | AJOUT |
 | développeurs frontend | CONCEPT | impact | transition vers conception AI-first | AJOUT |
 | Peter Aideloje | PERSONNE | rôle | développeur et rédacteur technique | AJOUT |
 | LogRocket Blog | ORGANISATION | type | blog technique pour développeurs | AJOUT |

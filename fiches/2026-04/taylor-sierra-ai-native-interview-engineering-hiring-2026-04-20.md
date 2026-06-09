@@ -62,19 +62,19 @@ Les critères d'évaluation sont agnostiques au produit construit, et les entret
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Sierra | ORGANISATION | a_refondu | processus de recrutement ingénieurs | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Bret Taylor | PERSONNE | a_publié | The AI-native interview | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Agents de codage | TECHNOLOGIE | transforment | rôle d'ingénieur logiciel | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Sierra | ORGANISATION | a_abandonné | entretiens codage et algorithmes classiques | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Onsite AI-native | METHODOLOGIE | comprend | trois phases Plan/Build/Review | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Phase Build | METHODOLOGIE | dure | 2 heures avec outils IA au choix | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Sierra | ORGANISATION | recrute_pour | forces (spikes) plutôt qu'absence de faiblesses | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Sierra | ORGANISATION | a_remplacé | phone screen codage par system design | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Sierra | ORGANISATION | pilote | entretien de débogage avec codebase et PR | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Pensée produit | CONCEPT | devient_plus_importante_que | résolution algorithmique | CONCEPT | 0.90 | DYNAMIQUE | inféré |
-| Codex | TECHNOLOGIE | est_cité_comme | catalyseur transformation ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_cité_comme | catalyseur transformation ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Bret Taylor | PERSONNE | est_cofondateur_de | Sierra | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Sierra | ORGANISATION | améliore | processus de recrutement ingénieurs | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Bret Taylor | PERSONNE | publie | The AI-native interview | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Bret Taylor | PERSONNE | affirme_que | les agents de codage transforment le rôle d'ingénieur de "construire la machine" à "concevoir et affiner la machine" | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Onsite AI-native | METHODOLOGIE | remplace | entretiens codage et algorithmes classiques | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Onsite AI-native | METHODOLOGIE | est_basé_sur | trois phases Plan/Build/Review | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Phase Build | METHODOLOGIE | est_instance_de | session de 2 heures avec outils IA au choix | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Sierra | ORGANISATION | utilise | recrutement pour les forces (spikes) plutôt qu'absence de faiblesses | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Entretien de system design | METHODOLOGIE | remplace | phone screen codage | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Sierra | ORGANISATION | utilise | entretien de débogage avec codebase et PR (pilote) | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Pensée produit | CONCEPT | surpasse | résolution algorithmique | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| Codex | TECHNOLOGIE | est_instance_de | catalyseur de la transformation de l'ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | catalyseur de la transformation de l'ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Bret Taylor | PERSONNE | a_créé | Sierra | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 
 ### Entités
 

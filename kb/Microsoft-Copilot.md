@@ -1,6 +1,6 @@
 # Microsoft Copilot
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -18,6 +18,11 @@
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] (METHODOLOGIE) — 0.90, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
 
+### remplace
+
+- [[kb/_entites-mineures#SoGPT\|SoGPT]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT Société Générale abandonne pour Copilot - faux débat build vs buy, capital IA, souveraineté européenne]]
+
 ### utilise
 
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE) — 0.99, STATIQUE
@@ -25,7 +30,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Société-Générale\|Société Générale]] **a_adopté** → Microsoft Copilot — 0.97
+- [[kb/_entites-mineures#Société-Générale\|Société Générale]] **utilise** → Microsoft Copilot — 0.97
 
 ## Fiches sources
 

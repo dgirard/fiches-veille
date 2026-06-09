@@ -74,17 +74,17 @@ Une fonctionnalité transversale génère automatiquement des diagrammes (mermai
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Compound Engineering | TECHNOLOGIE | publie | v2.60.0 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| ce:review | TECHNOLOGIE | rend_obligatoire | revue de code dans pipeline | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| revue de code obligatoire | METHODOLOGIE | fait_partie_de | pipeline Compound Engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | réduit | faux positifs de 49% | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | utilise | scoring confiance 6 niveaux | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| ce:work | TECHNOLOGIE | accepte | prompts bruts sans plan | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| ce:work | TECHNOLOGIE | intègre | découverte universelle de tests | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| ce:brainstorm | TECHNOLOGIE | corrige | bug vérification fichiers techniques Phase 1.1 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| ce:plan | TECHNOLOGIE | ajoute | mode deepening interactif | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Trevin Chow | PERSONNE | maintient | Compound Engineering | TECHNOLOGIE | 0.95 | DYNAMIQUE | inféré |
-| Compound Engineering | TECHNOLOGIE | génère_automatiquement | diagrammes mermaid conditionnels | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| resolve-pr-feedback | TECHNOLOGIE | clusterise | commentaires PR similaires | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| ce:compound | TECHNOLOGIE | adopte | schema track-based bug vs knowledge | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| ce:work | TECHNOLOGIE | permet | prompts bruts sans plan | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| ce:work | TECHNOLOGIE | utilise | découverte universelle de tests | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| ce:brainstorm | TECHNOLOGIE | résout | bug vérification fichiers techniques Phase 1.1 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| ce:plan | TECHNOLOGIE | utilise | mode deepening interactif | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Trevin Chow | PERSONNE | dirige | Compound Engineering | TECHNOLOGIE | 0.95 | DYNAMIQUE | inféré |
+| Compound Engineering | TECHNOLOGIE | permet | diagrammes mermaid conditionnels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| resolve-pr-feedback | TECHNOLOGIE | utilise | clustering des commentaires PR similaires | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| ce:compound | TECHNOLOGIE | utilise | schema track-based bug vs knowledge | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

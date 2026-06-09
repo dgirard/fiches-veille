@@ -58,17 +58,17 @@ L'article projette un avenir où des **agents spécialisés** (conception, impl�
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Addy Osmani | PERSONNE | distingue | mode conducteur vs orchestrateur | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | a_créé | distinction mode conducteur vs orchestrateur | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Addy Osmani | PERSONNE | travaille_chez | Google | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| mode conducteur | CONCEPT | utilise | interaction synchrone agent unique | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| mode orchestrateur | CONCEPT | utilise | gestion asynchrone multi-agents | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | illustre | mode conducteur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| GitHub Copilot Agent | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Google Jules | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| OpenAI Codex | TECHNOLOGIE | illustre | mode orchestrateur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| rôle développeur | CONCEPT | évolue_vers | planification stratégique et orchestration | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| agents spécialisés | CONCEPT | collaborent_sous | supervision humaine | CONCEPT | 0.88 | DYNAMIQUE | inféré |
-| codage agentique | CONCEPT | repositionne | humains dans rôles stratégiques | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| mode conducteur | METHODOLOGIE | utilise | interaction synchrone agent unique | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| mode orchestrateur | METHODOLOGIE | utilise | gestion asynchrone multi-agents | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | mode conducteur | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| GitHub Copilot Agent | TECHNOLOGIE | est_instance_de | mode orchestrateur | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Google Jules | TECHNOLOGIE | est_instance_de | mode orchestrateur | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| OpenAI Codex | TECHNOLOGIE | est_instance_de | mode orchestrateur | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| rôle développeur | CONCEPT | converge_avec | planification stratégique et orchestration | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| supervision humaine | CONCEPT | s_applique_à | agents spécialisés | TECHNOLOGIE | 0.88 | DYNAMIQUE | inféré |
+| codage agentique | METHODOLOGIE | permet | repositionnement des humains dans rôles stratégiques | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

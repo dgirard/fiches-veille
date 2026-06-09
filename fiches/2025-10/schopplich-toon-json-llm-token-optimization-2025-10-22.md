@@ -21,9 +21,9 @@ Johann Schopplich (@johannschopplich)
 ## Ton
 **Profil:** Developer-Innovation | Première personne creator | Technique-Pragmatique | Expert
 
-Schopplich (independent developer) adopte problem-solving voice presenting TOON format addressing practical LLM API cost challenges. GitHub project format emphasizes open-source sharing. Langage optimization-focused (token reduction 30-60%, serialization, compression) demonstrates cost-conscious engineering. Tone pragmatic creator offering useful tool rather than academic innovation. Structure clear problem→solution→benchmarks facilitates adoption decision. Typique indie developer open-source projects solving practical problems visant cost-conscious practitioners seeking efficiency improvements LLM workflows.
+Schopplich (développeur indépendant) adopte une voix de résolution de problème présentant le format TOON face aux défis pratiques de coût des API LLM. Le format projet GitHub met l'accent sur le partage open source. Le langage centré optimisation (réduction de jetons 30-60%, sérialisation, compression) démontre une ingénierie soucieuse des coûts. Ton de créateur pragmatique offrant un outil utile plutôt qu'une innovation académique. La structure claire problème → solution → benchmarks facilite la décision d'adoption. Typique des projets open source de développeurs indépendants résolvant des problèmes concrets, visant les praticiens attentifs aux coûts cherchant des gains d'efficacité dans leurs workflows LLM.
 
-## Pense-bêtes
+## Pense-betes
 - TOON réduit la consommation de jetons de 30-60% par rapport à JSON, jusqu'à 65% dans certains cas
 - Format hybride fusionnant YAML (indentation hiérarchique) et CSV (format tabulaire)
 - Précision de récupération : 86,6% (TOON) vs 83,2% (JSON) - meilleure compréhension par les LLM
@@ -61,11 +61,11 @@ L'innovation réside dans l'équilibre entre optimisation technique et lisibilit
 | TOON | TECHNOLOGIE | est_basé_sur | YAML | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | TOON | TECHNOLOGIE | est_basé_sur | CSV | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | TOON | TECHNOLOGIE | remplace | JSON | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
-| TOON | TECHNOLOGIE | optimise | coût API LLM | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| TOON | TECHNOLOGIE | réduit | coût API LLM | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Johann Schopplich | PERSONNE | publie | toon-format/toon | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | toon-format/toon | TECHNOLOGIE | utilise | TypeScript | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | TOON | TECHNOLOGIE | s_oppose_à | compression binaire | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| organisations LLM | CONCEPT | bénéficient_de | TOON | TECHNOLOGIE | 0.87 | DYNAMIQUE | inféré |
+| organisations LLM | CONCEPT | utilise | TOON | TECHNOLOGIE | 0.87 | DYNAMIQUE | inféré |
 | TOON | TECHNOLOGIE | améliore | lisibilité humaine | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités

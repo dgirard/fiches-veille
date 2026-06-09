@@ -67,23 +67,23 @@ Tony Seale, The Knowledge Graph Guy, identifie une déconnexion croissante dans 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Tony Seale | PERSONNE | a_publié | Semantic Agent post LinkedIn | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Tony Seale | PERSONNE | se_présente_comme | The Knowledge Graph Guy | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Semantic Agent | CONCEPT | se_compose_de | Model + Harness + Ontology + Data | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Harnais d'agent | CONCEPT | est_symétrique_à | Ontologie | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Frameworks d'agents | TECHNOLOGIE | sont | Phase transitoire | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Tony Seale | PERSONNE | publie | Semantic Agent post LinkedIn | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Tony Seale | PERSONNE | est_instance_de | The Knowledge Graph Guy (persona) | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Semantic Agent | CONCEPT | est_basé_sur | Model + Harness + Ontology + Data | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Harnais d'agent | CONCEPT | converge_avec | Ontologie (symétrie structurelle) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Frameworks d'agents | TECHNOLOGIE | est_instance_de | Phase transitoire | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | LangGraph | TECHNOLOGIE | fait_partie_de | Frameworks d'agents | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | CrewAI | TECHNOLOGIE | fait_partie_de | Frameworks d'agents | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | AutoGen | TECHNOLOGIE | fait_partie_de | Frameworks d'agents | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | incarne | Pattern modèle+harnais | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | incarne | Pattern modèle+harnais | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Ontologie | CONCEPT | définit | Ce qui existe, ses propriétés et relations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Modèles frontier | TECHNOLOGIE | sont | Commodité louée | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Ontologie organisationnelle | CONCEPT | constitue | Seul moat non-commoditisable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | affirme_que | Les composants du harnais encodent des hypothèses qui vieillissent | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Agents isolés | CONCEPT | produisent | Incohérence en combinaison | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Modèle de domaine partagé | CONCEPT | est_requis_pour | Agents à l'échelle entreprise | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Scaffolding | CONCEPT | doit_diminuer_avec | Amélioration des modèles | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | Pattern modèle+harnais | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | est_instance_de | Pattern modèle+harnais | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Ontologie | CONCEPT | permet | définition de ce qui existe, ses propriétés et relations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Modèles frontier | TECHNOLOGIE | est_instance_de | Commodité louée | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Ontologie organisationnelle | CONCEPT | est_instance_de | Seul moat non-commoditisable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | les composants du harnais encodent des hypothèses qui vieillissent vite quand les modèles s'améliorent | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Tony Seale | PERSONNE | affirme_que | des agents isolés sans modèle du monde partagé produisent de l'incohérence en combinaison | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Agents à l'échelle entreprise | CONCEPT | est_basé_sur | Modèle de domaine partagé | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Tony Seale | PERSONNE | recommande | faire diminuer le scaffolding à mesure que les modèles s'améliorent | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

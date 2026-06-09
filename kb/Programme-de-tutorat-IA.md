@@ -1,6 +1,6 @@
 # Programme de tutorat IA
 
-> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,24 +8,25 @@
 
 ## Relations (comme sujet)
 
-### bénéficie_davantage_à
+### mesure
 
-- [[kb/_entites-mineures#élèves-filles\|élèves filles]] (CONCEPT) — 0.95, STATIQUE
+- « 0.31 SD d'amélioration globale » (MESURE) — 0.98, STATIQUE
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+- « coût de $48 par élève sur 6 semaines » (MESURE) — 0.98, STATIQUE
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+- « 3.2 EYOS par $100 investis » (MESURE) — 0.97, STATIQUE
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+- « +0.42 SD d'effet supplémentaire pour les élèves filles » (MESURE) — 0.95, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
 
-### coûte
+### observé_dans
 
-- [[kb/_entites-mineures#$48-par-élève-sur-6-semaines\|$48 par élève sur 6 semaines]] (CONCEPT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#Benin-City-(9-écoles-secondaires-publiques)\|Benin City (9 écoles secondaires publiques)]] (LIEU) — 0.99, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
 
-### génère
+### résout
 
-- [[kb/_entites-mineures#0.31-SD-d'amélioration-globale\|0.31 SD d'amélioration globale]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
-
-### produit
-
-- [[kb/_entites-mineures#3.2-EYOS-par-$100-investis\|3.2 EYOS par $100 investis]] (CONCEPT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#Bloom-two-sigma-problem\|Bloom two-sigma problem]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
 
 ## Fiches sources

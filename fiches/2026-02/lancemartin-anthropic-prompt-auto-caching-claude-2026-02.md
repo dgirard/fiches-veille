@@ -53,19 +53,19 @@ Martin cite @peakji de Manus qui considère le cache hit rate comme "la métriqu
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Lance Martin | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Lance Martin | PERSONNE | présente | auto-caching | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| API Claude messages | TECHNOLOGIE | est | stateless | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| Tokens cachés | CONCEPT | coûtent | 10% du prix normal | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
-| cache_control | TECHNOLOGIE | crée | hash cryptographique du préfixe | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Auto-caching | TECHNOLOGIE | simplifie | gestion des breakpoints cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Auto-caching | TECHNOLOGIE | est_compatible_avec | caching bloc par bloc | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Inférence LLM | CONCEPT | comprend | prefill et decode | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Prompt caching | CONCEPT | évite | recalcul du prefill | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| @peakji | PERSONNE | affirme_que | cache hit rate est la métrique la plus importante | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Lance Martin | PERSONNE | publie | auto-caching | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| API Claude messages | TECHNOLOGIE | est_instance_de | API stateless | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| Tokens cachés | CONCEPT | mesure | 10% du prix des tokens non cachés | MESURE | 0.99 | DYNAMIQUE | déclaré_article |
+| cache_control | TECHNOLOGIE | permet | hash cryptographique du préfixe | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Auto-caching | TECHNOLOGIE | améliore | gestion des breakpoints cache | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Auto-caching | TECHNOLOGIE | converge_avec | caching bloc par bloc | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| prefill et decode | CONCEPT | fait_partie_de | Inférence LLM | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Prompt caching | CONCEPT | réduit | recalcul du prefill | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| @peakji | PERSONNE | affirme_que | le cache hit rate est la métrique la plus importante pour un agent en production | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | @peakji | PERSONNE | travaille_chez | Manus | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| @trq212 | PERSONNE | détaille | leçons pratiques cache Claude Code | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| vLLM | TECHNOLOGIE | implémente | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
-| SGLang | TECHNOLOGIE | implémente | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| @trq212 | PERSONNE | publie | leçons pratiques cache Claude Code | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
+| vLLM | TECHNOLOGIE | utilise | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| SGLang | TECHNOLOGIE | utilise | caching du prefill | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

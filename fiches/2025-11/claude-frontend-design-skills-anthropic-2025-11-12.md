@@ -19,19 +19,19 @@ Claude Skills, frontend design, distributional convergence, context engineering,
 Anthropic (author non spécifié)
 
 ## Ton
-**Profil:** Technical-Educational | Troisième personne démonstrative | Explanatory-Prescriptive | Intermediate-Advanced
+**Profil:** Technique-pédagogique | Troisième personne démonstrative | Explicatif-prescriptif | Intermédiaire-avancé
 
-Anthropic adopte voix tech company blog typique équilibrant explication conceptuelle ("distributional convergence") et guidance pratique. Tone pédagogique sans condescendance, reconnaissant problème réel (designs génériques) avant présenter solution (Skills). Structure avant/après avec exemples visuels illustre amélioration qualité. Technique writing accessible développeurs frontend sans jargon ML excessif. Citations code snippets et commandes concrètes. Typique developer advocacy content visant adoption produit via démonstration valeur tangible.
+Anthropic adopte la voix typique d'un blog d'entreprise tech, équilibrant explication conceptuelle ("distributional convergence") et conseils pratiques. Ton pédagogique sans condescendance, reconnaissant un problème réel (designs génériques) avant de présenter la solution (Skills). La structure avant/après avec exemples visuels illustre l'amélioration de qualité. Écriture technique accessible aux développeurs frontend sans jargon ML excessif. Extraits de code et commandes concrètes. Contenu typique de developer advocacy visant l'adoption produit via la démonstration d'une valeur tangible.
 
-## Pense-bêtes
-- **Problème** : Models exhibits "distributional convergence" - defaults to safe, generic design choices (Inter fonts, purple gradients) because dominate training data
-- **Solution** : Skills enable dynamic context loading - specialized instructions activate when needed without permanent overhead
-- **Mécanisme** : ~400-token frontend aesthetics skill dramatically improves output quality
-- **4 Dimensions design guidance** :
-  * Typography (move beyond Inter/system fonts)
-  * Color & Themes (distinctive palettes vs purple gradients)
-  * Motion (thoughtful animations vs static)
-  * Backgrounds (textures, gradients, patterns vs solid colors)
+## Pense-betes
+- **Problème** : les modèles présentent une "convergence distributionnelle" — choix de design sûrs et génériques par défaut (polices Inter, dégradés violets) car dominants dans les données d'entraînement
+- **Solution** : les Skills permettent le chargement dynamique de contexte — des instructions spécialisées s'activent au besoin sans surcoût permanent
+- **Mécanisme** : un skill d'esthétique frontend d'environ 400 tokens améliore drastiquement la qualité des sorties
+- **4 dimensions de guidance design** :
+  * Typographie (dépasser Inter/polices système)
+  * Couleurs & thèmes (palettes distinctives vs dégradés violets)
+  * Animation (animations réfléchies vs interfaces statiques)
+  * Arrière-plans (textures, dégradés, motifs vs couleurs unies)
 
 **Applications Démontrées**
 - SaaS landing pages plus distinctives
@@ -121,12 +121,12 @@ Article developer advocacy content typique positioning Skills comme solution él
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_développé | Claude Skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude Skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | résout | convergence distributionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| convergence distributionnelle | CONCEPT | produit | designs frontend génériques | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| convergence distributionnelle | CONCEPT | permet | designs frontend génériques | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | chargement contexte dynamique | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | frontend aesthetics skill | TECHNOLOGIE | améliore | qualité output design | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| frontend aesthetics skill | TECHNOLOGIE | consomme | environ 400 tokens | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| frontend aesthetics skill | TECHNOLOGIE | mesure | environ 400 tokens | MESURE | 0.88 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | React | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | Tailwind CSS | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | utilise | shadcn/ui | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |

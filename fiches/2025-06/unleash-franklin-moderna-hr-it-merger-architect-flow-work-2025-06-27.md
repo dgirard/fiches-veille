@@ -60,20 +60,20 @@ Cette pièce, en plaçant la fusion HR+IT au cœur d'une stratégie d'organisati
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Moderna | ORGANISATION | a_fusionné | HR et IT en People and Digital Technology | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Tracey Franklin | PERSONNE | dirige | People and Digital Technology chez Moderna | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Tracey Franklin | PERSONNE | a_pour_titre | Chief People and Digital Technology Officer | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Tracey Franklin | PERSONNE | affirme_que | le modèle séparant talent et technologie est obsolète | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Tracey Franklin | PERSONNE | recommande | architect the flow of work | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Moderna | ORGANISATION | a_créé | People and Digital Technology | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Tracey Franklin | PERSONNE | dirige | People and Digital Technology | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Tracey Franklin | PERSONNE | est_instance_de | Chief People and Digital Technology Officer | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Tracey Franklin | PERSONNE | affirme_que | le modèle séparant talent et technologie est obsolète | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Tracey Franklin | PERSONNE | recommande | Architect the flow of work | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Work planning | METHODOLOGIE | remplace | workforce planning et technology planning | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Moderna | ORGANISATION | a_développé | 3000+ GPTs custom | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Moderna | ORGANISATION | partenarié_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Ask HR GPT | TECHNOLOGIE | route | questions employés vers GPTs spécialisés | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Tracey Franklin | PERSONNE | prédit | organisation adaptative humains+agents en 2030 | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Moderna | ORGANISATION | emploie | 5000 personnes | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Moderna | ORGANISATION | a_pour_revenu | 3.2 milliards de dollars | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| HR+IT merger | METHODOLOGIE | vise | architect the flow of work | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Tracey Franklin | PERSONNE | affirme_que | systems view inclut humains et agents IA côte à côte | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Moderna | ORGANISATION | a_créé | 3000+ GPTs custom | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Moderna | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Ask HR GPT | TECHNOLOGIE | permet | routage des questions employés vers GPTs spécialisés | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Tracey Franklin | PERSONNE | prédit | une organisation adaptative humains+agents en 2030 | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Moderna | ORGANISATION | mesure | 5 000 employés | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
+| Moderna | ORGANISATION | mesure | 3,2 milliards de dollars de revenus | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| HR+IT merger | METHODOLOGIE | permet | Architect the flow of work | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Tracey Franklin | PERSONNE | affirme_que | la systems view inclut humains et agents IA côte à côte | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -81,12 +81,12 @@ Cette pièce, en plaçant la fusion HR+IT au cœur d'une stratégie d'organisati
 |--------|------|----------|--------|--------|
 | Tracey Franklin | PERSONNE | rôle | Chief People and Digital Technology Officer de Moderna | AJOUT |
 | Tracey Franklin | PERSONNE | parcours | CHRO Moderna depuis 2019 (800 employés à 5000 employés) | AJOUT |
-| Architect the flow of work | CONCEPT | définition | Concevoir comment tâches, information et décisions s'exécutent dans l'organisation | AJOUT |
+| Architect the flow of work | METHODOLOGIE | définition | Concevoir comment tâches, information et décisions s'exécutent dans l'organisation | AJOUT |
 | Work planning | METHODOLOGIE | distinction | Unité de planification holistique remplaçant workforce planning et technology planning | AJOUT |
-| People and Digital Technology | METHODOLOGIE | structure | Département fusionné HR+IT chez Moderna (créé en 2025) | AJOUT |
+| People and Digital Technology | ORGANISATION | structure | Département fusionné HR+IT chez Moderna (créé en 2025) | AJOUT |
 | Ask HR | TECHNOLOGIE | catégorie | GPT centralisé Moderna routant les questions HR vers GPTs spécialisés | AJOUT |
 | Allie Nawrat | PERSONNE | rôle | Chief Reporter UNLEASH | AJOUT |
 | UNLEASH | ORGANISATION | secteur | Média HR-tech / futur du travail | AJOUT |
-| 3000+ GPTs Moderna | EVENEMENT | contexte | Métrique adoption GenAI Moderna en juin 2025 (×4 vs avril 2024) | AJOUT |
+| 3000+ GPTs custom | TECHNOLOGIE | contexte | Parc de GPTs custom Moderna en juin 2025 (×4 vs avril 2024) | AJOUT |
 | Blended future | CONCEPT | définition | Futur du travail mêlant humains et agents IA travaillant côte à côte | AJOUT |
 | Adaptive organization | CONCEPT | définition | Organisation où people, technology et work sont continuellement réalignés | AJOUT |

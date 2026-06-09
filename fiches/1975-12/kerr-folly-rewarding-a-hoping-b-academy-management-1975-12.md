@@ -44,7 +44,7 @@ Steven Kerr
 - Article republie en 1995 dans l'Academy of Management Executive, confirmant que les patterns identifies 20 ans plus tot restaient omnipresents dans les organisations publiques et privees
 - Ce texte est un classique fondateur cite dans pratiquement tous les cours de comportement organisationnel et de management -- pertinent pour comprendre pourquoi les transformations organisationnelles (y compris l'adoption de l'IA) echouent quand les incitations ne suivent pas
 
-## ResumeDe400mots
+## RésuméDe400mots
 
 Dans « On the Folly of Rewarding A, While Hoping for B », Steven Kerr demontre que les organisations commettent systematiquement l'erreur de recompenser des comportements contraires a leurs objectifs declares. Sa these repose sur un principe fondamental : les individus cherchent a identifier ce qui est reellement recompense, puis s'efforcent d'accomplir ces activites, souvent a l'exclusion quasi-totale de ce qui ne l'est pas.
 
@@ -60,25 +60,23 @@ Republie en 1995 avec une mise a jour, l'article confirme la persistance de ces 
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Steven Kerr | PERSONNE | a_publie | On the Folly of Rewarding A, While Hoping for B | EVENEMENT | 0.98 | STATIQUE | declare_article |
-| Organisations | CONCEPT | recompensent | comportements contraires a leurs objectifs | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Individus | CONCEPT | cherchent_a_accomplir | activites recompensees | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Universites | ORGANISATION | recompensent | publications de recherche | CONCEPT | 0.92 | ATEMPOREL | declare_article |
-| Universites | ORGANISATION | negligent_de_recompenser | qualite de l'enseignement | CONCEPT | 0.92 | ATEMPOREL | declare_article |
-| Systeme medical | CONCEPT | punit_davantage | faux negatifs (diagnostics manques) | CONCEPT | 0.90 | ATEMPOREL | declare_article |
-| Guerre du Vietnam | EVENEMENT | illustre | desalignement incitations individuelles vs organisationnelles | CONCEPT | 0.90 | STATIQUE | declare_article |
-| Seconde Guerre mondiale | EVENEMENT | illustre | alignement incitations par retour conditionne a la victoire | CONCEPT | 0.88 | STATIQUE | declare_article |
-| Fascination criteres objectifs | CONCEPT | cause | desalignement systemes de recompenses | CONCEPT | 0.90 | ATEMPOREL | declare_article |
-| Hypocrisie organisationnelle | CONCEPT | cause | desalignement systemes de recompenses | CONCEPT | 0.85 | ATEMPOREL | declare_article |
-| Comportements visibles | CONCEPT | eclipsent | contributions moins observables | CONCEPT | 0.88 | ATEMPOREL | declare_article |
-| Entreprises | ORGANISATION | recompensent | profits trimestriels et conformisme | CONCEPT | 0.88 | ATEMPOREL | declare_article |
-| Entreprises | ORGANISATION | esperent | croissance long terme, innovation, travail d'equipe | CONCEPT | 0.88 | ATEMPOREL | declare_article |
+| Steven Kerr | PERSONNE | publie | On the Folly of Rewarding A, While Hoping for B | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | les organisations récompensent des comportements contraires à leurs objectifs déclarés | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | les individus accomplissent en priorité les activités réellement récompensées | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | les universités récompensent la publication mais pas la qualité de l'enseignement | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | le système médical punit davantage les faux négatifs que les faux positifs | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Désalignement incitatif | CONCEPT | observé_dans | Guerre du Vietnam | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
+| Alignement des incitations | CONCEPT | observé_dans | Seconde Guerre mondiale | EVENEMENT | 0.88 | STATIQUE | déclaré_article |
+| Fascination criteres objectifs | CONCEPT | permet | désalignement des systèmes de récompenses | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Hypocrisie organisationnelle | CONCEPT | permet | désalignement des systèmes de récompenses | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | les comportements très visibles éclipsent les contributions moins observables | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Steven Kerr | PERSONNE | affirme_que | les entreprises récompensent les profits trimestriels et le conformisme tout en espérant croissance long terme, innovation et travail d'équipe | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
-### Entites
+### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Steven Kerr | PERSONNE | role | Chercheur en comportement organisationnel, Ohio State University | AJOUT |
 | Steven Kerr | PERSONNE | publication_cle | On the Folly of Rewarding A, While Hoping for B (1975, 1995) | AJOUT |

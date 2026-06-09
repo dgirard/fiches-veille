@@ -58,18 +58,18 @@ En conclusion, le système Superpowers représente un changement de paradigme da
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Jesse Vincent | PERSONNE | a_créé | Superpowers | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | utilise | skills | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| skills | CONCEPT | se_présentent_sous_forme_de | fichiers SKILL.md | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_publié | système de plugins Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | intègre | workflow Brainstorm-Plan-Implement | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | applique | RED/GREEN TDD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | automatise | création de git worktrees | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| skills | CONCEPT | est_basé_sur | fichiers SKILL.md | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | système de plugins Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | workflow Brainstorm-Plan-Implement | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | RED/GREEN TDD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | permet | création automatique de git worktrees | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | utilise | principes de persuasion Cialdini | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| principes de persuasion Cialdini | CONCEPT | améliorent | fiabilité des agents IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| principes de persuasion Cialdini | CONCEPT | améliore | fiabilité des agents IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Superpowers | TECHNOLOGIE | permet | dispatching vers sous-agents | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Microsoft Amplifier | TECHNOLOGIE | s_appuie_sur | auto-amélioration par fichiers markdown | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Microsoft Amplifier | TECHNOLOGIE | est_basé_sur | auto-amélioration par fichiers markdown | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | collabore_avec | Sam Schillace | PERSONNE | 0.75 | DYNAMIQUE | inféré |
-| Dan Shapiro | PERSONNE | a_coécrit | étude sur Cialdini et LLMs | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| skills | CONCEPT | peuvent_être_extraites_de | livres techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Dan Shapiro | PERSONNE | publie | étude sur Cialdini et LLMs | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
+| skills | CONCEPT | s_inspire_de | livres techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

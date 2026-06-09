@@ -36,7 +36,7 @@ Profil : perspective de praticien-experimentateur, registre narratif-analytique,
 - Dilemme du developpeur junior : comment apprendre sans pratiquer le code manuellement ?
 - Le role de chef de produit est menace : les profils techniques peuvent assumer la phase de preparation produit
 
-## ResumeDe400mots
+## RésuméDe400mots
 Marco Mornati relate son experimentation d'une journee avec la methode BMAD (Breakthrough Method for Agile AI-Driven Development), un cadre methodologique qui applique la rigueur Agile au developpement assiste par IA. La methode repose sur des personas IA specialisees (analyste, chef de produit, architecte) et se deroule en cinq phases : recherche de marche, redaction d'un PRD (Product Requirements Document), decomposition en epics et stories, architecture technique, et conception UX.
 
 Mornati decrit comment l'idee initiale de son projet s'est progressivement renforcee et clarifiee au fil du processus guide par l'IA, notamment grace a la phase PRD. Pour la partie UX, il a utilise Stitch (outil Google AI) afin d'eviter l'esthetique generique typique des interfaces generees par IA. Pour la phase exploratoire, il a opte pour gemini-cli, reservant ses tokens plus couteux pour la phase de developpement effectif.
@@ -53,24 +53,24 @@ Mornati trace une evolution du metier : du developpeur (celui qui ecrit du code)
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Marco Mornati | PERSONNE | a_experimente | BMAD | METHODOLOGIE | 0.99 | STATIQUE | declare_article |
-| BMAD | METHODOLOGIE | applique | discipline Agile au codage IA | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| BMAD | METHODOLOGIE | utilise | personas IA specialisees | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Marco Mornati | PERSONNE | a_utilise | Stitch | TECHNOLOGIE | 0.98 | STATIQUE | declare_article |
-| Marco Mornati | PERSONNE | a_utilise | gemini-cli | TECHNOLOGIE | 0.98 | STATIQUE | declare_article |
-| Architecture logicielle | CONCEPT | necessite | expertise humaine | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Code IA non supervise | CONCEPT | introduit | 1.7x plus de defauts | CONCEPT | 0.90 | ATEMPOREL | declare_article |
-| Gartner | ORGANISATION | predit | role developpeur passe a orchestration en 2028 | CONCEPT | 0.88 | DYNAMIQUE | declare_article |
-| Role developpeur | CONCEPT | evolue_vers | superviseur d'agents | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| IA | CONCEPT | atteint | 70% du resultat rapidement | CONCEPT | 0.92 | ATEMPOREL | declare_article |
-| Marco Mornati | PERSONNE | affirme_que | architecture est le point critique humain | CONCEPT | 0.93 | ATEMPOREL | declare_article |
-| Role chef de produit | CONCEPT | est_menace_par | profils techniques avec outils IA | CONCEPT | 0.85 | DYNAMIQUE | infere |
-| Codage IA | CONCEPT | augmente | vitesse codage de 26% | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| Livraison logicielle | CONCEPT | n_augmente_que | de 8-10% malgre IA | CONCEPT | 0.88 | DYNAMIQUE | declare_article |
+| Marco Mornati | PERSONNE | utilise | BMAD | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| BMAD | METHODOLOGIE | est_basé_sur | discipline Agile | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | utilise | personas IA specialisees | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Marco Mornati | PERSONNE | utilise | Stitch | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Marco Mornati | PERSONNE | utilise | gemini-cli | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Architecture logicielle | CONCEPT | utilise | expertise humaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Code IA non supervise | CONCEPT | mesure | 1,7x plus de defauts | MESURE | 0.90 | ATEMPOREL | déclaré_article |
+| Gartner | ORGANISATION | prédit | le role du developpeur passera de l'implementation a l'orchestration d'ici 2028 | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Superviseur d'agents | CONCEPT | remplace | Role developpeur traditionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | mesure | 70% du resultat atteint rapidement, 30% restants exigeant expertise | MESURE | 0.92 | ATEMPOREL | déclaré_article |
+| Marco Mornati | PERSONNE | affirme_que | l'architecture est le point ou l'expertise humaine reste indispensable | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Profils techniques avec outils IA | CONCEPT | concurrence | Role chef de produit | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Codage IA | CONCEPT | mesure | vitesse de codage +26% | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| Livraison logicielle | CONCEPT | mesure | acceleration de seulement 8-10% malgre l'IA | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 
-### Entites
+### Entités
 
 | Entite | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|

@@ -57,19 +57,19 @@ Les projections sont considérables : McKinsey anticipe $3-5 trillions de revenu
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | OpenAI | ORGANISATION | a_créé | Agentic Commerce Protocol (ACP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Stripe | ORGANISATION | co-développe | Agentic Commerce Protocol (ACP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Stripe | ORGANISATION | a_créé | Agentic Commerce Protocol (ACP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | a_créé | Universal Commerce Protocol (UCP) | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ACP | TECHNOLOGIE | impose | commission 4% par transaction | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| UCP | TECHNOLOGIE | supporte | quatre transports (REST, MCP, A2A, Embedded) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Amazon | ORGANISATION | refuse_de_participer_à | ACP et UCP | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| ACP | TECHNOLOGIE | mesure | commission de 4% par transaction | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
+| UCP | TECHNOLOGIE | utilise | quatre transports (REST, MCP, A2A, Embedded) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Amazon | ORGANISATION | s_oppose_à | ACP et UCP | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Amazon | ORGANISATION | a_créé | Rufus AI | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Rufus AI | TECHNOLOGIE | augmente | taux de conversion de 60% | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| ChatGPT Instant Checkout | TECHNOLOGIE | sert | 900 millions d'utilisateurs hebdomadaires | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| commerce agentique | CONCEPT | rend_invisible | attribution marketing traditionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Rufus AI | TECHNOLOGIE | améliore | taux de conversion (+60%) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| ChatGPT Instant Checkout | TECHNOLOGIE | mesure | 900 millions d'utilisateurs hebdomadaires | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| commerce agentique | CONCEPT | réduit | attribution marketing traditionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | données produit structurées | CONCEPT | remplace | publicité payante comme levier compétitif | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Max Thilén | PERSONNE | recommande | implémentation des deux protocoles ACP et UCP | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Shopify | ORGANISATION | intègre_automatiquement | UCP via Agentic Storefronts | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| McKinsey | ORGANISATION | prédit | $3-5T revenus commerce agentique global d'ici 2030 | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Max Thilén | PERSONNE | recommande | implémentation des deux protocoles ACP et UCP | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Shopify | ORGANISATION | utilise | UCP via Agentic Storefronts | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| McKinsey | ORGANISATION | prédit | $3-5T revenus commerce agentique global d'ici 2030 | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

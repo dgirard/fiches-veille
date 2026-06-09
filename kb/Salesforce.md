@@ -10,45 +10,42 @@
 
 ## Relations (comme sujet)
 
-### a_inauguré
+### a_créé
 
-- [[kb/_entites-mineures#le-modèle-SaaS-(seat-based)\|le modèle SaaS (seat-based)]] (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#modèle-SaaS-(seat-based)\|modèle SaaS (seat-based)]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Billet de blog **Sierra** (10 décembre 2024, **Elliot Greenwald**) qui pose le **texte fondateur de l'*outcome-based pricing*** pour agents IA. **Thèse-pivot** : les agents IA qui exécutent des processus de façon autonome rendent possible un **modèle de tarification entièrement nouveau** — ***« you pay only when the software achieves specific, valuable outcomes: outcome-based pricing »***. L'article retrace une **généalogie de la tarification logicielle en quatre âges** : (1) **shrink-wrapped software** (années 1980-90, boîte de disquettes/CD-ROM chez Fry's Electronics — *« Whether you actually used it or not, you paid for it »*) → (2) **SaaS / seat-based** (pionnier **Salesforce**, suivi de Google/Microsoft/Adobe — Internet permet de vendre le logiciel *as a service*) → (3) **consumption-based** (**Amazon/AWS** et **Snowflake** — *« charged only for what you used »*) → (4) **outcome-based** (agents IA). **Définition canonique** : ***« outcome-based pricing is tied to tangible business impacts—such as a resolved support conversation, a saved cancellation, an upsell, a cross-sell, or any number of valuable outcomes. If the conversation is unresolved, in most cases, there's no charge »***. **Principe d'alignement des incitations** : ***« With outcome-based pricing, Sierra gets paid only when we complete a task for you. Our incentives are aligned »***. **Critique du seat-based & concept de *shelfware*** : *« Unused seats sit idly on a proverbial store shelf, hence the derisive moniker "shelfware" »* — on paie des milliers de dollars/an par licence, utilisée ou non. **Conflit structurel des fournisseurs CX legacy** : leur revenu dépend du seat-based, or *« the more effective their AI becomes, the fewer contact center seats their clients need—undermining the provider's own revenue model »* — un agent IA efficace **cannibalise** le modèle de revenu de l'éditeur dont la tarification repose sur les sièges. **Granularité de l'outcome** : distinction entre **résolutions simples** (répondre à une question) et **résolutions complexes** (gérer un cas nécessitant un appel L2 de 20 minutes) ; **les escalades n'entraînent en général aucune facturation** ; **tarification mixte (*blended*)** possible (ex. consumption-based pour les interactions de routage/accueil). **Engagement d'optimisation continue** côté fournisseur : *« we continue to deploy concerted, directed optimizations to refine the agent's performance over time »* — l'éditeur est aligné pour améliorer la performance puisqu'il n'est payé qu'au résultat. Importance : posé **fin 2024**, ce billet **précède et fonde** tout le débat 2026 sur l'économie agentique — il fournit le **vocabulaire de l'unité de facturation** (l'*outcome* complété plutôt que le siège, l'usage ou le token) que reprendront Gupta (*cost of a completed outcome*, *token-to-outcome attribution*), Bain (*outcome-based pricing déplace le revenue de fixed seats vers labor/operations economics*), Ng (*pricing power ancré sur le salaire de l'employé remplacé*). Sierra étant l'**exemple-référence** cité par Bain (*autonomous customer issue resolution*), ce texte donne la **vue côté fournisseur** de la mécanique que les autres analysent côté acheteur. Pertinence directe pour le positionnement **tarification de la delivery agentique / value-based** du cabinet et pour le slot **Optimisation des coûts** (le pendant *vendor* du *cost per outcome*).]]
 
-### a_licencié
+### est_instance_de
 
-- [[kb/_entites-mineures#4-000-employés-support-client\|4 000 employés support client]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+- [[kb/_entites-mineures#modèle-d'adoption-IA-enterprise\|modèle d'adoption IA enterprise]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
 
-### augmente_tarifs
+### mesure
 
-- [[kb/_entites-mineures#15%\|15%]] (CONCEPT) — 0.93, STATIQUE
+- « hausse tarifaire 15% » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 
-### démontre
+### permet
+
+- [[kb/_entites-mineures#redéfinition-des-rôles-des-employés\|redéfinition des rôles des employés]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
+
+### réduit
+
+- [[kb/_entites-mineures#4-000-postes-de-support-client\|4 000 postes de support client]] (CONCEPT) — 0.97, STATIQUE
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+
+### soutient
 
 - [[kb/_entites-mineures#preuve-de-concept-IA-enterprise\|preuve de concept IA enterprise]] (CONCEPT) — 0.87, STATIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
 
-### redéfinit
-
-- [[kb/_entites-mineures#rôles-des-employés\|rôles des employés]] (CONCEPT) — 0.85, DYNAMIQUE
-  - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
-
-### sert_de_modèle
-
-- [[kb/_entites-mineures#adoption-IA-enterprise\|adoption IA enterprise]] (CONCEPT) — 0.85, DYNAMIQUE
-  - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
-
-### stocke
-
-- [[kb/_entites-mineures#état-actuel-pas-état-décisionnel\|état actuel pas état décisionnel]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|Context Graphs Foundation Capital - nouvelle génération systèmes de record pour agents IA]]
-
 ### utilise
 
-- [[kb/_entites-mineures#IA-interne-à-grande-échelle\|IA interne à grande échelle]] (CONCEPT) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#IA-interne-à-grande-échelle\|IA interne à grande échelle]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
+- [[kb/_entites-mineures#état-actuel-pas-état-décisionnel\|état actuel pas état décisionnel]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|Context Graphs Foundation Capital - nouvelle génération systèmes de record pour agents IA]]
 
 ## Relations (comme objet)
 

@@ -1,4 +1,7 @@
-# Veille Technologique
+# ssrn-persona-prompting-ai-accuracy-2025-12-07
+
+## Veille
+Étude Wharton (Generative AI Labs) : les personas experts n'améliorent pas la précision factuelle des LLM - benchmarks GPQA Diamond et MMLU-Pro - SSRN
 
 ## Titre Article
 Playing Pretend: Expert Personas Don't Improve Factual Accuracy
@@ -10,123 +13,38 @@ Playing Pretend: Expert Personas Don't Improve Factual Accuracy
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5879722
 
 ## Keywords
-AI Prompting, Persona Prompts, LLM Accuracy, AI Benchmarking, GPQA Diamond, MMLU-Pro, AI Performance, Prompt Engineering, Expert Personas, AI Evaluation
+prompting IA, personas, précision des LLM, benchmarking IA, GPQA Diamond, MMLU-Pro, performance IA, prompt engineering, personas experts, évaluation IA
 
 ## Authors
 Savir Basil, Ina Shapiro, Dan Shapiro, Ethan Mollick, Lilach Mollick, Lennart Meincke (Generative AI Labs, The Wharton School, University of Pennsylvania)
 
-## Résumé
-This study from the Generative AI Labs at Wharton examines whether assigning expert personas to AI models improves their performance on difficult objective multiple-choice questions. The research tested six models (GPT-4o, GPT-4o-mini, o3-mini, o4-mini, Gemini 2.0 Flash, Gemini 2.5 Flash) on two challenging benchmarks: GPQA Diamond (graduate-level questions) and MMLU-Pro (professional-level questions). The findings show that persona prompts generally do not improve factual accuracy and can sometimes degrade performance, particularly with low-knowledge personas.
+## Ton
+Profil : papier de recherche académique (working paper SSRN, Generative AI Labs de Wharton), registre scientifique et empirique, niveau technique élevé (statistiques, benchmarks).
+Style : démarche expérimentale rigoureuse — protocole détaillé (25 réponses indépendantes par question et par paire modèle-prompt), intervalles de confiance à 95%, résultats rapportés par benchmark et par modèle. Ton mesuré et prudent, typique des "null results" : les auteurs réfutent une pratique répandue sans sur-généraliser et signalent leurs limites. Autorité fondée sur l'affiliation Wharton et la notoriété d'Ethan Mollick. Public cible : praticiens du prompt engineering, chercheurs, équipes IA en entreprise.
 
-## Points Clés
+## Pense-betes
+- Question testée : attribuer un persona expert à un LLM améliore-t-il sa précision sur des questions factuelles difficiles ? Réponse : non, en général
+- 6 modèles testés : GPT-4o, GPT-4o-mini, o3-mini, o4-mini, Gemini 2.0 Flash, Gemini 2.5 Flash
+- 2 benchmarks : GPQA Diamond (198 questions niveau doctorat) et MMLU-Pro (300 questions niveau professionnel)
+- Protocole : baseline (sans persona), personas experts (physique, maths, économie, biologie, chimie, ingénierie, droit, histoire), personas "faible connaissance" (Layperson, Young Child, Toddler) ; 25 réponses indépendantes par question et par paire modèle-prompt
+- Résultat principal : la plupart des conditions persona sont statistiquement indistinguables de la baseline
+- Les personas faible connaissance dégradent souvent la précision ; le persona "Toddler" est nocif dans 4/6 modèles
+- Exception : Gemini 2.0 Flash montre des améliorations modestes avec les 5 personas experts sur MMLU-Pro (notamment Engineering et Chemistry)
+- Aligner le persona expert sur le domaine de la question n'apporte pas d'amélioration consistante
+- Mode d'échec observé : les modèles Gemini Flash refusent parfois de répondre avec un persona expert hors domaine ; la sur-spécialisation conduit à sous-utiliser les connaissances réelles
+- Implication pratique : privilégier des instructions spécifiques à la tâche plutôt que des personas ; les personas restent utiles pour le ton/style, pas pour la précision
+- Limites : sous-ensemble de modèles, benchmarks académiques, nombre limité de personas, pas d'interaction avec d'autres techniques de prompting
 
-### Study Design
-- **Benchmarks Used**: GPQA Diamond (198 PhD-level questions) and MMLU-Pro (300 professional questions)
-- **Models Tested**: GPT-4o, GPT-4o-mini, o3-mini, o4-mini, Gemini 2.0 Flash, Gemini 2.5 Flash
-- **Prompt Variations**: Baseline (no persona), expert personas, low-knowledge personas
-- **Methodology**: 25 independent responses per question per model-prompt pair
+## RésuméDe400mots
+Cette étude du Generative AI Labs de Wharton examine si l'attribution de personas experts aux modèles d'IA améliore leurs performances sur des questions objectives difficiles à choix multiples. Les chercheurs ont testé six modèles (GPT-4o, GPT-4o-mini, o3-mini, o4-mini, Gemini 2.0 Flash, Gemini 2.5 Flash) sur deux benchmarks exigeants : GPQA Diamond (198 questions de niveau doctorat) et MMLU-Pro (300 questions de niveau professionnel).
 
-### Key Findings
+Le protocole compare trois conditions : baseline sans persona, personas experts (expert en physique, mathématiques, économie, biologie, chimie, ingénierie, droit, histoire) et personas "faible connaissance" (Layperson, Young Child, Toddler — "un enfant de 4 ans qui croit que la lune est en fromage"). Chaque paire modèle-prompt est évaluée sur 25 réponses indépendantes par question (4 950 runs par paire sur GPQA, 7 500 sur MMLU-Pro), avec intervalles de confiance à 95%.
 
-#### Overall Performance Impact
-- **No Significant Improvement**: Most persona conditions produced performance statistically indistinguishable from baseline
-- **Negative Effects**: Low-knowledge personas (Toddler, Young Child, Layperson) often reduced accuracy
-- **Model-Specific Results**: Gemini 2.0 Flash showed small improvements with expert personas
-- **Domain Matching**: Aligning expert personas with question domains did not consistently improve performance
+Les résultats sont essentiellement nuls : la plupart des conditions persona produisent des performances statistiquement indistinguables de la baseline. Sur GPQA Diamond, aucun persona expert ou faible connaissance n'améliore de façon fiable la performance ; la seule exception est un petit gain du prompt "Young Child" sur Gemini 2.5 Flash (RD = 0.098). Sur MMLU-Pro, aucun persona expert n'apporte d'amélioration statistiquement significative pour 5 des 6 modèles, et neuf différences négatives significatives sont observées. Les personas faible connaissance dégradent souvent la précision : le persona "Toddler" réduit la performance dans 4 modèles sur 6 et se révèle significativement pire que "Layperson" dans 5 modèles sur 6.
 
-#### Specific Results by Benchmark
+L'exception notable est Gemini 2.0 Flash, qui montre des différences positives modestes avec les cinq personas experts sur MMLU-Pro, notamment en ingénierie et en chimie. Par ailleurs, l'alignement du persona expert sur le domaine de la question n'apporte pas de bénéfice consistant. Les chercheurs identifient des modes d'échec : les modèles Gemini Flash refusent parfois de répondre lorsqu'on leur assigne un persona expert hors domaine, et des instructions de rôle trop étroites conduisent les modèles à sous-utiliser leurs connaissances réelles.
 
-**GPQA Diamond Results:**
-- No expert or low-knowledge persona reliably improved performance over baseline
-- Only exception: "Young Child" prompt on Gemini 2.5 Flash showed small gain (RD = 0.098)
-- Low-knowledge personas reduced accuracy on o4-mini and GPT-4o
-- Domain-tailored personas showed no positive significant differences
-
-**MMLU-Pro Results:**
-- No expert persona showed positive statistically significant improvement for 5/6 models
-- Nine statistically significant negative differences observed
-- Gemini 2.0 Flash exception: modest positive differences for all five expert personas
-- "Toddler" prompt reduced performance in 4/6 models
-- Domain analysis: Gemini 2.0 Flash improved in Engineering and Chemistry domains
-
-#### Persona Types Tested
-
-**Expert Personas:**
-- Physics Expert, Math Expert, Economics Expert, Biology Expert, Chemistry Expert
-- Engineering Expert, Law Expert, History Expert
-- Elaborate prompts designed to engage models with domain-specific frameworks
-
-**Low-Knowledge Personas:**
-- Layperson: "You are a layperson with no special training in this subject"
-- Young Child: "You are a young child who thinks they understand the world but sometimes mixes things up"
-- Toddler: "You are a 4-year-old toddler who thinks the moon is made of cheese"
-
-### Statistical Analysis
-- **Sample Size**: 4,950 runs per model-prompt pair (GPQA), 7,500 runs (MMLU-Pro)
-- **Primary Metric**: Average Rating (fraction of correct answers across 25 trials)
-- **Additional Metrics**: 100% correct (25/25), 90% correct (23/25), 51% correct (13/25)
-- **Confidence Intervals**: 95% confidence intervals reported for all results
-
-### Failure Modes Identified
-- **Refusal Behavior**: Gemini Flash models often declined to answer when given out-of-domain expert personas
-- **Over-Specialization**: Narrow role instructions caused models to under-utilize actual knowledge
-- **Performance Degradation**: Toddler persona was significantly worse than Layperson in 5/6 models
-
-## Analyse
-
-### Persona Prompting Effectiveness
-The study provides empirical evidence challenging the common practice of persona prompting:
-
-1. **Limited Benefits**: Expert personas do not reliably improve factual accuracy across models and benchmarks
-2. **Potential Harms**: Low-knowledge personas consistently reduce performance, especially "Toddler"
-3. **Model Variability**: Effects are model-specific, with Gemini 2.0 Flash showing some improvements
-4. **Domain Independence**: Matching personas to question domains does not provide consistent benefits
-
-### Industry Implications
-
-1. **Prompt Engineering Practices**: Current industry recommendations may need revision
-2. **Benchmark vs Real-World**: Academic benchmarks may not reflect real-world use cases
-3. **Alternative Strategies**: Organizations may get more value from task-specific instructions than personas
-4. **Testing Requirements**: Multiple prompt variations should be tested for specific problems
-
-### Methodological Contributions
-
-1. **Rigorous Testing**: Large sample sizes (25 trials per question) provide statistical power
-2. **Comprehensive Coverage**: Multiple models, benchmarks, and persona types tested
-3. **Real-World Alignment**: Zero-shot prompting mirrors actual user interactions
-4. **Transparency**: Detailed statistical reporting and supplementary materials provided
-
-### Limitations and Future Research
-
-1. **Model Coverage**: Only tested a subset of available models
-2. **Benchmark Focus**: Academic benchmarks may not represent all real-world scenarios
-3. **Persona Scope**: Limited number of domains and persona types tested
-4. **Context Factors**: Did not examine interaction with other prompting techniques
-
-## Conclusion
-
-This study from Wharton's Generative AI Labs provides definitive evidence that expert personas do not reliably improve AI model accuracy on difficult factual questions. The research demonstrates:
-
-1. **Null Results**: Across six models and two challenging benchmarks, persona prompts generally leave performance unchanged
-2. **Negative Effects**: Low-knowledge personas often reduce accuracy, with "Toddler" being particularly harmful
-3. **Model-Specific Exceptions**: Gemini 2.0 Flash shows some improvements, but these appear isolated
-4. **Practical Recommendations**: Organizations should focus on task-specific instructions rather than persona prompts
-5. **Research Direction**: Future work should explore alternative prompting strategies and real-world applications
-
-The findings suggest that the widespread industry practice of persona prompting may be ineffective for improving factual accuracy, though personas may still serve other purposes such as altering output tone or presentation style.
-
-## Références
-
-- SSRN Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5879722
-- PDF Download: https://download.ssrn.com/2025/12/7/5879722.pdf
-- GPQA Diamond Benchmark: Rein et al. (2024)
-- MMLU-Pro Benchmark: Wang et al. (2024)
-- Previous Prompting Science Reports: Meincke et al. (2025a, 2025b, 2025c)
-- Anthropic Prompt Engineering Guide: https://www.anthropic.com/news/prompt-engineering-for-business-performance
-- Google Vertex AI Prompt Design: https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/prompt-design-strategies
-
-## Hashtags
-#AIPrompting #Personas #LLMAccuracy #AIResearch #PromptEngineering #AIBenchmarking #GenerativeAI #AIPerformance #WhartonAI #AIEvaluation
+Les implications pratiques sont importantes : la pratique répandue du persona prompting est probablement inefficace pour améliorer la précision factuelle. Les organisations tireront davantage de valeur d'instructions spécifiques à la tâche, et devraient tester plusieurs variantes de prompts pour leurs problèmes concrets. Les personas peuvent toutefois conserver d'autres usages, comme moduler le ton ou le style de présentation. Les limites de l'étude (modèles et personas en nombre restreint, benchmarks académiques) ouvrent des pistes de recherche futures.
 
 ## GrapheDeConnaissance
 
@@ -134,16 +52,16 @@ The findings suggest that the widespread industry practice of persona prompting 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Generative AI Labs (Wharton) | ORGANISATION | a_mené | étude personas et précision IA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | a_co-écrit | étude personas prompting | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Lilach Mollick | PERSONNE | a_co-écrit | étude personas prompting | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| personas experts | CONCEPT | n_améliorent_pas | précision factuelle des LLM | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| personas faible connaissance | CONCEPT | dégradent | performance des LLM | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Gemini 2.0 Flash | TECHNOLOGIE | montre | amélioration modeste avec personas experts | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Generative AI Labs (Wharton) | ORGANISATION | publie | étude personas et précision IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | étude personas et précision IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Lilach Mollick | PERSONNE | publie | étude personas et précision IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| étude personas et précision IA | DOCUMENT | affirme_que | les personas experts n'améliorent pas la précision factuelle des LLM | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| personas faible connaissance | CONCEPT | réduit | performance des LLM | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Gemini 2.0 Flash | TECHNOLOGIE | mesure | amélioration modeste avec personas experts (MMLU-Pro) | MESURE | 0.85 | STATIQUE | déclaré_article |
 | persona Toddler | CONCEPT | réduit | performance dans 4/6 modèles | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| étude | EVENEMENT | a_testé | 6 modèles sur GPQA Diamond et MMLU-Pro | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| correspondance domaine-persona | CONCEPT | n_améliore_pas | performance de manière consistante | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| modèles Gemini Flash | TECHNOLOGIE | refusent_de_répondre | avec personas hors domaine | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| étude personas et précision IA | DOCUMENT | utilise | 6 modèles sur GPQA Diamond et MMLU-Pro | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| étude personas et précision IA | DOCUMENT | affirme_que | la correspondance domaine-persona n'améliore pas la performance de manière consistante | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| refus de répondre avec personas hors domaine | CONCEPT | observé_dans | modèles Gemini Flash | TECHNOLOGIE | 0.82 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

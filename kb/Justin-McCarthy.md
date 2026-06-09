@@ -10,12 +10,9 @@
 
 ### a_créé
 
-- [[kb/Software-Factory\|Software Factory]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
-
-### a_fondé
-
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] (ORGANISATION) — 0.98, STATIQUE
+  - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
+- [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|StrongDM AI : Software Factory et développement non-interactif - le moment agentique]]
 
 ### recommande

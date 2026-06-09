@@ -65,21 +65,21 @@ L'adoption suit une **échelle de cinq stades**, de l'écriture manuelle (0) à 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Kieran Klaassen | PERSONNE | a_rédigé | Compound Engineering: The Definitive Guide | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | affirme_que | chaque unité de travail rend la suivante plus facile | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Kieran Klaassen | PERSONNE | publie | Compound Engineering: The Definitive Guide | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| compound engineering | METHODOLOGIE | affirme_que | chaque unité de travail rend la suivante plus facile | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 | compound engineering | METHODOLOGIE | est_basé_sur | boucle 7 étapes Ideate-Brainstorm-Plan-Work-Review-Polish-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| étape Compound | CONCEPT | transforme | leçons apprises en docs/solutions réutilisables | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| étape Compound | CONCEPT | permet | capitalisation des leçons apprises en docs/solutions réutilisables | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | compound engineering | METHODOLOGIE | recommande | règle 50/50 (features / amélioration système) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | compound engineering | METHODOLOGIE | recommande | environnement agent-native | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Every | ORGANISATION | publie | plugin compound-engineering (40+ agents) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| plugin compound-engineering | TECHNOLOGIE | fournit | review multi-agents P1/P2/P3 | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| plugin compound-engineering | TECHNOLOGIE | s_installe_sur | Claude Code, Cursor, Codex | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Every | ORGANISATION | exploite | 5 produits avec équipes d'une personne | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | gère | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | affirme_que | Plans are the new code | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| adoption compound engineering | CONCEPT | commence_à | stade 3 (plan-first, review niveau PR) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Kieran Klaassen | PERSONNE | affirme_que | first attempts ont 95% de déchet | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| /lfg | TECHNOLOGIE | automatise | développement idée vers PR mergée | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| plugin compound-engineering | TECHNOLOGIE | permet | review multi-agents P1/P2/P3 | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| plugin compound-engineering | TECHNOLOGIE | s_applique_à | Claude Code, Cursor, Codex | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Every | ORGANISATION | mesure | 5 produits opérés par des équipes d'une personne | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| compound engineering | METHODOLOGIE | affirme_que | « Plans are the new code » | CITATION | 0.92 | ATEMPOREL | déclaré_article |
+| Kieran Klaassen | PERSONNE | affirme_que | l'adoption du compound engineering commence au stade 3 (plan-first, review niveau PR) | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Kieran Klaassen | PERSONNE | affirme_que | first attempts ont 95% de déchet | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| /lfg | TECHNOLOGIE | permet | développement idée vers PR mergée | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

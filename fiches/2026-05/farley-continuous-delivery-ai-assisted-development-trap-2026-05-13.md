@@ -70,20 +70,20 @@ Sa phrase de chute synthétise : *"AI doesn't replace the need for software engi
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Dave Farley | PERSONNE | dirige | Modern Software Engineering | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Continuous Delivery | METHODOLOGIE | est_définie_comme | « working so that software is always in a releasable state » | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Continuous Delivery | METHODOLOGIE | est_condition_de | développement assisté par IA réussi | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Dave Farley | PERSONNE | affirme_que | le code n'a jamais été le bottleneck du software | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Paradoxe de Jevons | CONCEPT | s_applique_à | code généré par IA | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| IA générative | TECHNOLOGIE | tend_à | grands sauts (giant leaps) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Bon engineering | CONCEPT | exige | petits pas réversibles avec feedback rapide | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Dave Farley | PERSONNE | affirme_que | la Continuous Delivery se définit comme « working so that software is always in a releasable state » | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Continuous Delivery | METHODOLOGIE | permet | développement assisté par IA réussi | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Dave Farley | PERSONNE | affirme_que | le code n'a jamais été le bottleneck du software | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Paradoxe de Jevons | CONCEPT | s_applique_à | code généré par IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Dave Farley | PERSONNE | affirme_que | l'IA tend aux grands sauts (giant leaps) | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Bon engineering | CONCEPT | est_basé_sur | petits pas réversibles avec feedback rapide | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Dave Farley | PERSONNE | recommande | ATDD comme spécification exécutable | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Deployment pipeline | METHODOLOGIE | sert_de | arbitre de qualité (humain ou IA) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Deployment pipeline | METHODOLOGIE | est_instance_de | arbitre de qualité (humain ou IA) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Vibe coding | METHODOLOGIE | s_oppose_à | Continuous Delivery | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
-| Bob Martin | PERSONNE | a_affirmé | « the only way to go fast is to go well » | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | peut_supprimer | tests trop couplés à l'implémentation précédente | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Test suite | TECHNOLOGIE | est_arbitre_de | qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Manuel Pais | PERSONNE | dispense | cours CD vers fast flow | EVENEMENT | 0.92 | DYNAMIQUE | déclaré_article |
-| Equal Experts, Transfig, Octopus Deploy | ORGANISATION | sponsorise | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Bob Martin | PERSONNE | affirme_que | « the only way to go fast is to go well » | CITATION | 0.95 | STATIQUE | déclaré_article |
+| Dave Farley | PERSONNE | affirme_que | l'IA peut supprimer des tests trop couplés à l'implémentation sans validation humaine | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Test suite | TECHNOLOGIE | est_instance_de | arbitre unique de la qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Manuel Pais | PERSONNE | publie | cours CD vers fast flow | DOCUMENT | 0.92 | DYNAMIQUE | déclaré_article |
+| Equal Experts, Transfig, Octopus Deploy | ORGANISATION | collabore_avec | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

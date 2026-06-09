@@ -198,30 +198,30 @@ Conclusion : architecture = série de décisions non-triviales ; les expliciter,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Gregor Hohpe | PERSONNE | est_employé_par | Amazon Web Services | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Gregor Hohpe | PERSONNE | a_écrit | The Software Architect Elevator | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Gregor Hohpe | PERSONNE | écrit | Platform Strategy (Leanpub) | EVENEMENT | 0.95 | DYNAMIQUE | déclaré_article |
-| Gregor Hohpe | PERSONNE | donne_keynote | PlatformCon 2022 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Standards | CONCEPT | boostent | innovation et créativité | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Incendie Baltimore 1904 | EVENEMENT | démontre_nécessité_de | standards de coupling | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| HTTP | TECHNOLOGIE | a_boosté | innovation web | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | travaille_chez | Amazon Web Services | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | publie | The Software Architect Elevator | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | publie | Platform Strategy (Leanpub) | DOCUMENT | 0.95 | DYNAMIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | publie | The Magic of Platforms (keynote PlatformCon 2022) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Standards | CONCEPT | améliore | innovation et créativité | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Incendie Baltimore 1904 | EVENEMENT | soutient | nécessité des standards de coupling | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| HTTP | TECHNOLOGIE | améliore | innovation web | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Industrie automobile | CONCEPT | utilise | plateforme partagée multi-marques | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Volkswagen Group | ORGANISATION | construit | Audi A4 et Bentley Bentayga sur même plateforme | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Peter (Thoughtworks) | PERSONNE | affirme_que | platforms centralize expertise but not innovation | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Plateforme | CONCEPT | requiert | low friction | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Plateforme | CONCEPT | requiert | transparence (pas black box) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Plateforme | CONCEPT | requiert | shared responsibility | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| AWS Shared Responsibility Model | METHODOLOGIE | illustre | shared responsibility plateforme | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Volkswagen Group | ORGANISATION | a_créé | Audi A4 et Bentley Bentayga sur même plateforme | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Peter (Thoughtworks) | PERSONNE | affirme_que | « platforms centralize expertise but not innovation » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| Plateforme | CONCEPT | utilise | low friction | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Plateforme | CONCEPT | utilise | transparence (pas black box) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Plateforme | CONCEPT | utilise | shared responsibility | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Shared responsibility | CONCEPT | observé_dans | AWS Shared Responsibility Model | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | IT Service Management traditionnelle | CONCEPT | s_oppose_à | plateforme low-friction | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Plateforme évolutive | METHODOLOGIE | est_préférable_à | plateforme anticipative | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Floating platform | CONCEPT | jette | composants absorbés par base platform | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Sinking platform | CONCEPT | duplique | capacités de base platform qui montent | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Floating platform | CONCEPT | requiert | communication explicite stakeholders | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Fruit salad | CONCEPT | a_plus_de_valeur_que | fruit basket | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Plateforme | CONCEPT | doit_assembler | composants proportionnés bite-sized | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Architecture | CONCEPT | est_définie_comme | série de décisions non-triviales | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Floating platform | CONCEPT | préfigure | doctrine harness engineering 2026 | CONCEPT | 0.88 | DYNAMIQUE | inféré |
-| The Magic of Platforms | EVENEMENT | converge_avec | AI/works™ + Wescale Usine Logicielle + PROJ-AI + DORA AI ROI | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| Plateforme évolutive | METHODOLOGIE | surpasse | plateforme anticipative | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Floating platform | CONCEPT | réduit | composants absorbés par base platform | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Sinking platform | CONCEPT | converge_avec | capacités de base platform qui montent | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Floating platform | CONCEPT | utilise | communication explicite stakeholders | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Fruit salad | CONCEPT | surpasse | fruit basket | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Plateforme | CONCEPT | utilise | composants proportionnés bite-sized | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Gregor Hohpe | PERSONNE | affirme_que | l'architecture est une série de décisions non-triviales | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Floating platform | CONCEPT | converge_avec | doctrine harness engineering 2026 | METHODOLOGIE | 0.88 | DYNAMIQUE | inféré |
+| The Magic of Platforms | DOCUMENT | converge_avec | AI/works™ + Wescale Usine Logicielle + PROJ-AI + DORA AI ROI | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -230,8 +230,8 @@ Conclusion : architecture = série de décisions non-triviales ; les expliciter,
 | Gregor Hohpe | PERSONNE | rôle | Enterprise Strategist AWS, auteur Software Architect Elevator, écrit Platform Strategy (Leanpub) | AJOUT |
 | Amazon Web Services | ORGANISATION | secteur | Cloud public, plateforme de référence dans le talk | AJOUT |
 | PlatformCon 2022 | EVENEMENT | description | Conférence en ligne Platform Engineering organisée par platformengineering.org, juin 2022 | AJOUT |
-| The Software Architect Elevator | EVENEMENT | description | Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk | AJOUT |
-| Platform Strategy | EVENEMENT | description | Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse* | AJOUT |
+| The Software Architect Elevator | DOCUMENT | description | Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk | AJOUT |
+| Platform Strategy | DOCUMENT | description | Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse* | AJOUT |
 | Floating platform | CONCEPT | définition | Stratégie d'évolution plateforme — quand la base platform absorbe certaines capacités, on **jette** les morceaux devenus redondants et on **remonte au-dessus** pour innover plus haut. Métaphore : bateau qui flotte sur la marée. Requiert communication contractuelle explicite avec stakeholders | AJOUT |
 | Sinking platform | CONCEPT | définition | Anti-pattern d'évolution — on garde la plateforme identique malgré la croissance de la base platform, on duplique ce que la base offre nativement, on **coule** sous le poids de maintenance. Métaphore : sous-marin | AJOUT |
 | Fruit salad vs fruit basket | CONCEPT | définition | Métaphore Hohpe pour distinguer plateforme = collection juxtaposée de capacités (basket) vs assemblage proportionné bite-sized où les composants interagissent (salad). *« Per-kilo price for fruit salad is higher than for fruit basket. »* | AJOUT |

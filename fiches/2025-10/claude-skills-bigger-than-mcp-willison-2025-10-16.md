@@ -61,19 +61,19 @@ En conclusion, Willison suggère que nous sous-estimons peut-être l'importance 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_annoncé | Claude Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Claude Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Simon Willison | PERSONNE | prédit | explosion cambrienne des Skills | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Simon Willison | PERSONNE | affirme_que | Claude Skills surpasseront MCP | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Simon Willison | PERSONNE | affirme_que | Claude Skills surpasseront MCP | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Claude Skills | TECHNOLOGIE | s_oppose_à | MCP | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | Claude Skills | TECHNOLOGIE | est_basé_sur | fichiers Markdown | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Claude Skills | TECHNOLOGIE | réduit | consommation de tokens | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| MCP | TECHNOLOGIE | souffre_de | overhead de tokens excessif | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_basé_sur | agent général d'automatisation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude Skills | TECHNOLOGIE | est_compatible_avec | Codex CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | est_compatible_avec | Gemini CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_publié | anthropics/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Simon Willison | PERSONNE | a_préempté | annonce officielle Anthropic des Skills | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Claude Skills | TECHNOLOGIE | nécessite | environnement de codage avec accès filesystem | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| overhead de tokens excessif | CONCEPT | observé_dans | MCP | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | agent général d'automatisation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | Codex CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | s_applique_à | Gemini CLI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | anthropics/skills | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Simon Willison | PERSONNE | prédit | annonce officielle Anthropic des Skills | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Claude Skills | TECHNOLOGIE | utilise | environnement de codage avec accès filesystem | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

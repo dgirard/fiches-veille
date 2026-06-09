@@ -13,7 +13,7 @@ MCP-UI: The Future of Agentic Interfaces
 https://block.github.io/goose/blog/2025/08/25/mcp-ui-future-agentic-interfaces/
 
 ## Keywords
-MCP-UI, Model Context Protocol UI, agentic interfaces, rich interactive web components, visual AI interfaces, embedded UI resources, cross-platform AI integration, accessibility, generative UI, Shopify integration, Monday.com, Goose, sandboxed iframes, remote DOM, multi-modal experiences
+MCP-UI, Model Context Protocol UI, interfaces agentiques, composants web interactifs riches, interfaces IA visuelles, ressources UI embarquées, intégration IA cross-platform, accessibilité, générative UI, intégration Shopify, Monday.com, Goose, iframes sandboxées, remote DOM, expériences multimodales
 
 ## Authors
 Ebony Louis (Developer Advocate - Block/Goose)
@@ -77,16 +77,16 @@ MCP-UI représente un shift fondamental des interactions IA text-heavy vers exp�
 | MCP-UI | TECHNOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Ido Salomon | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Liad Yosef | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Ido Salomon | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Liad Yosef | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Ido Salomon | PERSONNE | travaille_chez | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | travaille_chez | Monday.com | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | utilise | sandboxed iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | remplace | interfaces textuelles | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Goose | TECHNOLOGIE | supporte | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Shopify | ORGANISATION | implémente | MCP-UI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| MCP-UI | TECHNOLOGIE | préserve | identité de marque | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Andrew Harvard | PERSONNE | contribue_à | MCP-UI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Goose | TECHNOLOGIE | utilise | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | utilise | MCP-UI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | permet | préservation de l'identité de marque | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Andrew Harvard | PERSONNE | améliore | MCP-UI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | permet | générative UI | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
-| Block | ORGANISATION | développe | Goose | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | a_créé | Goose | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | améliore | accessibilité agents IA | CONCEPT | 0.87 | ATEMPOREL | inféré |
 
 ### Entités

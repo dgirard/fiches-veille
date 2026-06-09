@@ -56,19 +56,19 @@ Gray conclut sur une philosophie transversale : les investissements consentis pa
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Stripe | ORGANISATION | a_développé | Minions | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Minions | TECHNOLOGIE | fusionne | 1300+ PRs par semaine | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Stripe | ORGANISATION | a_créé | Minions | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Minions | TECHNOLOGIE | mesure | 1300+ PRs fusionnées par semaine | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | devboxes | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Devboxes | TECHNOLOGIE | est_basé_sur | AWS EC2 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Devboxes | TECHNOLOGIE | est_prêt_en | 10 secondes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Devboxes | TECHNOLOGIE | mesure | disponibilité en 10 secondes | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | goose (fork) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| goose | TECHNOLOGIE | a_été_créé_par | Block | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
-| Blueprints | METHODOLOGIE | combine | nœuds déterministes et nœuds agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Stripe | ORGANISATION | a_standardisé_sur | format Cursor (règles) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Stripe | ORGANISATION | a_développé | Toolshed | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
-| Toolshed | TECHNOLOGIE | expose | ~500 outils MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Devboxes | TECHNOLOGIE | fonctionne_en | environnement QA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Alistair Gray | PERSONNE | affirme_que | investissements productivité humaine profitent aux agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Block | ORGANISATION | a_créé | goose | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Blueprints | METHODOLOGIE | utilise | nœuds déterministes et nœuds agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Stripe | ORGANISATION | utilise | format Cursor (règles) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Stripe | ORGANISATION | a_créé | Toolshed | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| ~500 outils MCP | TECHNOLOGIE | fait_partie_de | Toolshed | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Devboxes | TECHNOLOGIE | observé_dans | environnement QA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Alistair Gray | PERSONNE | affirme_que | investissements productivité humaine profitent aux agents | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Blueprints | METHODOLOGIE | améliore | fiabilité agents | CONCEPT | 0.92 | ATEMPOREL | inféré |
 
 ### Entités

@@ -18,7 +18,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#analyse-Jamin-Ball-sur-les-systèmes-de-record\|analyse Jamin Ball sur les systèmes de record]] (EVENEMENT) — 0.90, STATIQUE
+- [[kb/_entites-mineures#analyse-Jamin-Ball-sur-les-systèmes-de-record\|analyse Jamin Ball sur les systèmes de record]] (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
 
 ## Relations (comme objet)

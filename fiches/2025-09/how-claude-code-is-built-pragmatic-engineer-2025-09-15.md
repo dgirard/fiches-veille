@@ -1,6 +1,6 @@
 # how-claude-code-is-built-pragmatic-engineer-2025-09-15
 ## Veille
-Construction de Claude Code - Architecture AI-first - Product engineering - Pragmatic Engineer
+Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer
 ## Titre Article
 HOW CLAUDE CODE IS BUILT
 ## Date
@@ -15,7 +15,7 @@ Gergely Orosz (auteur de l'article), Boris Cherny, Sid Bidasaria, Cat Wu (équip
 ## Ton
 **Profil:** Conversationnel-Professionnel | Journalistique interview-based | Éducative-Analytique | Intermédiaire-Expert
 
-Orosz adopte style longform tech journalism combinant narrative storytelling et technical deep-dive. Structure chronologique genèse → architecture → impact révèle product development journey. Multiple voix (Cherny, Bidasaria, Wu) créent richesse perspective. Details revealing (90% self-written code, 50% adoption 5 days) ground ambitious claims. Langage technique assumed (TypeScript, React/Ink, Yoga, Bun) vise developer audience. Admissions franches (permission system challenges, dogfooding extreme) show authenticity. Typique Pragmatic Engineer feature stories combinant access insider avec critical analysis visant engineering leaders et practitioners.
+Orosz adopte un style de journalisme tech long format combinant narration et plongée technique approfondie. La structure chronologique genèse → architecture → impact retrace le parcours de développement du produit. Les voix multiples (Cherny, Bidasaria, Wu) créent une richesse de perspectives. Les détails révélateurs (90 % du code auto-écrit, 50 % d'adoption en 5 jours) ancrent les affirmations ambitieuses. Le langage technique supposé acquis (TypeScript, React/Ink, Yoga, Bun) vise un public de développeurs. Les aveux francs (défis du système de permissions, dogfooding extrême) témoignent d'authenticité. Typique des grands formats du Pragmatic Engineer combinant accès privilégié et analyse critique, visant leaders d'ingénierie et praticiens.
 
 ## Pense-betes
 - Claude Code génère 500M$ de revenus annuels
@@ -55,19 +55,19 @@ Cette itération rapide, rendue possible par les agents IA, accélère considér
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | a_rejoint | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
+| Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Sid Bidasaria | PERSONNE | a_créé | Claude Code subagents | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Cat Wu | PERSONNE | fait_partie_de | équipe fondatrice Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | TypeScript | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Ink | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Bun | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | génère | 500M$ de revenus annuels | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | mesure | 500M$ de revenus annuels | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | est_basé_sur | modèle Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | affirme_que | 90% du code Claude Code est écrit par Claude Code | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_observé | augmentation 67% des pull requests | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| product overhang | CONCEPT | explique | genèse de Claude Code | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| système de permissions | CONCEPT | protège | actions irréversibles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Gergely Orosz | PERSONNE | publie | article Claude Code | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | 90% du code Claude Code écrit par Claude Code | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | augmentation 67% des pull requests | MESURE | 0.93 | STATIQUE | déclaré_article |
+| genèse de Claude Code | CONCEPT | est_basé_sur | product overhang | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| système de permissions | CONCEPT | réduit | risque d'actions irréversibles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Gergely Orosz | PERSONNE | publie | article Claude Code | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

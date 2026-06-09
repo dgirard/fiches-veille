@@ -69,21 +69,21 @@ Ethan Mollick (Wharton) lance sur LinkedIn un test de cohérence à l'adresse de
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | propose_test | dissoudre les FDE comme preuve de croyance ASI | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | est_professeur_à | Wharton | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | la dissolution des équipes FDE serait la preuve d'une croyance réelle des labos en l'ASI | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | travaille_chez | Wharton | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | roon | PERSONNE | travaille_chez | OpenAI | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| roon | PERSONNE | rétorque_avec | problème hayékien sur flux d'information | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| roon | PERSONNE | invente_le_terme | Gentle Singularity | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| AI labs | ORGANISATION | embauchent | équipes Forward Deployed Engineering | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| AI labs | ORGANISATION | prédisent | remplacement majoritaire cols blancs d'ici 2035 | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Accenture | ORGANISATION | survit_par | responsabilité contractuelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| ASI | CONCEPT | est_bloquée_par | VP refusant de modifier workflow Salesforce | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Ethan Mollick | PERSONNE | défend | vision East Coast (transformation lente fragmentée) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| roon | PERSONNE | affirme_que | l'adoption de l'IA est un problème hayékien de flux d'information organisationnel | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| roon | PERSONNE | a_créé | Gentle Singularity | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| AI labs | ORGANISATION | utilise | équipes Forward Deployed Engineering | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AI labs | ORGANISATION | prédit | remplacement majoritaire des cols blancs d'ici 2035 | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
+| Accenture | ORGANISATION | est_basé_sur | responsabilité contractuelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | l'ASI peut être bloquée par un VP refusant de modifier son workflow Salesforce | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Ethan Mollick | PERSONNE | soutient | vision East Coast (transformation lente fragmentée) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | s_oppose_à | vision West Coast (automatisation rapide) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Friedrich Hayek | PERSONNE | a_inspiré | argument flux d'information organisationnel | CONCEPT | 0.90 | STATIQUE | inféré |
-| Forward Deployed Engineering | METHODOLOGIE | a_été_inventée_par | Palantir | ORGANISATION | 0.85 | STATIQUE | inféré |
-| Sam Altman | PERSONNE | reprend_le_terme | Gentle Singularity | CONCEPT | 0.88 | STATIQUE | inféré |
-| Praticiens et consultants | PERSONNE | convergent_sur | la technologie est la partie facile | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| argument flux d'information organisationnel | CONCEPT | s_inspire_de | Friedrich Hayek | PERSONNE | 0.90 | STATIQUE | inféré |
+| Palantir | ORGANISATION | a_créé | Forward Deployed Engineering | METHODOLOGIE | 0.85 | STATIQUE | inféré |
+| Sam Altman | PERSONNE | utilise | Gentle Singularity | CONCEPT | 0.88 | STATIQUE | inféré |
+| Praticiens et consultants | PERSONNE | affirme_que | la technologie est la partie facile | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -91,7 +91,7 @@ Ethan Mollick (Wharton) lance sur LinkedIn un test de cohérence à l'adresse de
 |--------|------|----------|--------|--------|
 | Ethan Mollick | PERSONNE | rôle | Professeur Wharton (management), auteur *Co-Intelligence*, commentateur IA prolifique (LinkedIn + blog *One Useful Thing*) | AJOUT |
 | roon | PERSONNE | rôle | Employé OpenAI, identité publique anonyme, voix influente du cercle *accel* sur X | AJOUT |
-| ASI (Artificial Super Intelligence) | CONCEPT | définition | Intelligence dépassant l'humain sur tous les domaines cognitifs | AJOUT |
+| ASI (Artificial Super Intelligence) | TECHNOLOGIE | définition | Intelligence dépassant l'humain sur tous les domaines cognitifs | AJOUT |
 | Forward Deployed Engineering (FDE) | METHODOLOGIE | définition | Équipes d'ingénieurs déployés chez le client pour intégrer / customiser les modèles IA. Originellement Palantir, adopté par OpenAI, Anthropic, autres labos frontaliers | AJOUT |
 | Gentle Singularity | CONCEPT | origine | Terme attribué à roon (OpenAI), repris par Sam Altman dans essai éponyme (juin 2025) | AJOUT |
 | Problème hayékien | CONCEPT | origine | Friedrich Hayek, *The Use of Knowledge in Society* (1945) — l'information utile dans une organisation est tacite et distribuée | AJOUT |

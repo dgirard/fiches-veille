@@ -60,15 +60,15 @@ Chase conclut avec un avertissement : "Construire des agents sans observabilité
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Harrison Chase | PERSONNE | dirige | LangChain | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Harrison Chase | PERSONNE | affirme_que | traces documentent agents IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Harrison Chase | PERSONNE | affirme_que | les traces documentent les agents IA | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | traces | CONCEPT | remplace | code comme documentation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| agents IA | CONCEPT | prend_décisions_au | runtime | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| code orchestration | CONCEPT | est_réduit_à | échafaudage | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| debugging agents | METHODOLOGIE | repose_sur | inspection des traces | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| testing agents | METHODOLOGIE | nécessite | approches eval-driven | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| monitoring agents | CONCEPT | évolue_vers | évaluation qualité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| observabilité | CONCEPT | devient | espace collaboration équipes | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| non-déterminisme | CONCEPT | impose | comparaison traces | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| décisions des agents IA | CONCEPT | observé_dans | modèle au runtime | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| code orchestration | CONCEPT | est_instance_de | échafaudage | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| debugging agents | METHODOLOGIE | est_basé_sur | inspection des traces | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| testing agents | METHODOLOGIE | utilise | approches eval-driven | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| évaluation qualité | CONCEPT | remplace | monitoring uptime | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| observabilité | CONCEPT | permet | collaboration des équipes sur les décisions agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| comparaison traces | METHODOLOGIE | résout | non-déterminisme des agents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

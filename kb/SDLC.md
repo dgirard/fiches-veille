@@ -6,18 +6,12 @@
 
 - **phases** : Définir → construire → vérifier → déployer → maintenir (invariant)
 
-## Relations (comme sujet)
-
-### est_enrichi_par
-
-- [[kb/IA\|IA]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]]
-
 ## Relations (comme objet)
 
-- [[kb/BMAD\|BMAD]] **structure** → SDLC — 0.97
-- [[kb/IA\|IA]] **transforme** → SDLC — 0.97
-- [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **intègre** → SDLC — 0.96
+- [[kb/BMAD\|BMAD]] **s_applique_à** → SDLC — 0.97
+- [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
+- [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
+- [[kb/IA\|IA]] **améliore** → SDLC — 0.95
 
 ## Fiches sources
 

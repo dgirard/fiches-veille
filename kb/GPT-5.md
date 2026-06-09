@@ -1,6 +1,6 @@
 # GPT-5
 
-> **Type** : TECHNOLOGIE | 4 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 3 relations | 4 fiches sources
 
 ## Attributs
 
@@ -11,23 +11,14 @@
 
 ## Relations (comme sujet)
 
-### a_été_évalué_par
+### mesure
 
-- [[kb/METR\|METR]] (ORGANISATION) — 0.95, STATIQUE
-  - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR - AI Safety - Autonomous replication - AI agents - Risk assessment - Existential risk - Alignment]]
-
-### atteint
-
-- [[kb/_entites-mineures#89%-even-handedness\|89% even-handedness]] (CONCEPT) — 0.95, STATIQUE
+- « 89 % even-handedness » (MESURE) — 0.95, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
-
-### souffre_de
-
-- [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT) — 0.75, STATIQUE
-  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
 ## Relations (comme objet)
 
+- [[kb/METR\|METR]] **mesure** → GPT-5 — 0.95
 - [[kb/Codex\|Codex]] **utilise** → GPT-5 — 0.85
 
 ## Fiches sources

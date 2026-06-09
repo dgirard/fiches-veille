@@ -69,14 +69,14 @@ Le coût de maintenance est estimé à 1-2 heures par semaine. L'article démont
 | Aristidis Vasilopoulos | PERSONNE | a_créé | infrastructure contexte codifié 3 tiers | METHODOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | infrastructure contexte codifié | METHODOLOGIE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | infrastructure contexte codifié | METHODOLOGIE | utilise | Model Context Protocol | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Tier 1 Constitution | CONCEPT | contient | conventions, patterns, tables routage | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Tier 2 Agents spécialisés | CONCEPT | contient | 19 spécifications domain experts | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| conventions, patterns, tables routage | CONCEPT | fait_partie_de | Tier 1 Constitution | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| 19 spécifications domain experts | CONCEPT | fait_partie_de | Tier 2 Agents spécialisés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Tier 3 Knowledge Base | CONCEPT | utilise | serveur MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | contexte codifié | CONCEPT | améliore | cohérence agents IA entre sessions | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | specs obsolètes | CONCEPT | réduit | qualité output agents IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| connaissance documentée | CONCEPT | transforme | productivité développement agentique | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| connaissance documentée | CONCEPT | améliore | productivité développement agentique | CONCEPT | 0.92 | ATEMPOREL | inféré |
 | infrastructure contexte codifié | METHODOLOGIE | est_basé_sur | architecture 3 tiers hot/warm/cold | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Aristidis Vasilopoulos | PERSONNE | affirme_que | constitution basique améliore output dès jour 1 | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Aristidis Vasilopoulos | PERSONNE | affirme_que | constitution basique améliore output dès jour 1 | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | agents spécialisés | TECHNOLOGIE | fait_partie_de | infrastructure contexte codifié | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 
 ### Entités

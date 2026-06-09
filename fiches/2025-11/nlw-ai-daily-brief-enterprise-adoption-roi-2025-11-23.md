@@ -51,16 +51,16 @@ En conclusion, loin de la bulle, le marché entre dans une phase de concrétisat
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| NLW | PERSONNE | contredit | narrative bulle IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| enquête NLW | EVENEMENT | révèle | 82% ROI positif | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| entreprises leaders | CONCEPT | visent | croissance de revenus | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| entreprises retardataires | CONCEPT | se_limitent_à | réduction de coûts | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| agents IA | TECHNOLOGIE | passent_de | 11% à 42% en production | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| KPMG | ORGANISATION | publie | données adoption agents | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| réduction de risque | CONCEPT | génère | impact transformationnel le plus fort | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| 90% des entreprises | CONCEPT | augmentent | budget IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| dirigeants C-Suite | CONCEPT | obtiennent | résultats plus transformationnels | CONCEPT | 0.87 | STATIQUE | déclaré_article |
-| adoption IA | CONCEPT | crée | bifurcation leaders/retardataires | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| NLW | PERSONNE | s_oppose_à | narrative bulle IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| enquête NLW | EVENEMENT | mesure | 82% de ROI positif | MESURE | 0.97 | STATIQUE | déclaré_article |
+| entreprises leaders | CONCEPT | utilise | IA pour la croissance de revenus | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| entreprises retardataires | CONCEPT | utilise | IA pour la réduction de coûts | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| KPMG | ORGANISATION | mesure | passage de 11% à 42% d'agents IA en production | MESURE | 0.93 | STATIQUE | déclaré_article |
+| KPMG | ORGANISATION | publie | données adoption agents | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
+| réduction de risque | CONCEPT | permet | impact transformationnel le plus fort | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| enquête NLW | EVENEMENT | mesure | 90% des entreprises augmentent leur budget IA | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| NLW | PERSONNE | affirme_que | les dirigeants C-Suite obtiennent des résultats plus transformationnels | AFFIRMATION | 0.87 | STATIQUE | déclaré_article |
+| adoption IA | CONCEPT | a_créé | bifurcation leaders/retardataires | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

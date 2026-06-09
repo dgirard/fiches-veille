@@ -53,15 +53,15 @@ La conclusion est que l'IA est un amplificateur : elle accélère les bonnes pra
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Yegor Denisov-Blanch | PERSONNE | a_réalisé | étude ROI IA développement | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Yegor Denisov-Blanch | PERSONNE | a_créé | étude ROI IA développement | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Stanford | ORGANISATION | emploie | Yegor Denisov-Blanch | PERSONNE | 0.95 | DYNAMIQUE | déclaré_article |
-| étude Stanford | EVENEMENT | analyse | 120 000 développeurs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| hygiène du code | CONCEPT | amplifie | gains IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| code sale | CONCEPT | accélère | dette technique avec IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| métriques simplistes | CONCEPT | masque | baisse qualité réelle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| étude Stanford | EVENEMENT | mesure | 120 000 développeurs analysés | MESURE | 0.95 | STATIQUE | déclaré_article |
+| hygiène du code | CONCEPT | améliore | gains IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| code sale | CONCEPT | permet | dette technique avec IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| métriques simplistes | CONCEPT | permet | masquage de la baisse qualité réelle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Engineering Output | CONCEPT | remplace | métriques volume (lignes, PRs) | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| IA développement | CONCEPT | creuse | écart équipes performantes/faibles | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| quantité tokens | CONCEPT | corrèle_faiblement_avec | productivité développeur | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| IA développement | TECHNOLOGIE | permet | creusement écart équipes performantes/faibles | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| étude Stanford | EVENEMENT | affirme_que | la quantité de tokens corrèle faiblement avec la productivité développeur | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Yegor Denisov-Blanch | PERSONNE | recommande | framework métriques guardrails | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
 
 ### Entités

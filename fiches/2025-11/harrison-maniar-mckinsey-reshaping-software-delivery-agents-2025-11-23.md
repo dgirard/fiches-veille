@@ -53,18 +53,17 @@ L'intervention insiste lourdement sur la **gestion du changement**. La technolog
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| McKinsey | ORGANISATION | affirme_que | modèle Agile | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| modèle Agile | METHODOLOGIE | atteint_ses_limites | agents IA | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Martin Harrison | PERSONNE | est_partenaire_de | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Natasha Maniar | PERSONNE | est_partenaire_de | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| McKinsey | ORGANISATION | affirme_que | le modèle Agile atteint ses limites avec les agents IA | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Martin Harrison | PERSONNE | travaille_chez | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Natasha Maniar | PERSONNE | travaille_chez | McKinsey | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Spec-driven development | METHODOLOGIE | remplace | Story-driven development | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| agents IA | TECHNOLOGIE | génère | dette technique | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| agents IA | TECHNOLOGIE | permet | dette technique | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | One pizza pods | CONCEPT | remplace | Two pizza teams | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
-| revue de code manuelle | CONCEPT | devient_goulot_étranglement | développement IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| AI Native Workflows | METHODOLOGIE | augmente | fusions de code | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| gestion du changement | CONCEPT | conditionne | succès transformation IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Product Managers | CONCEPT | prototypent_en_code | grâce aux agents IA | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
-| entreprises top performers | CONCEPT | adoptent | workflows AI Native | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| revue de code manuelle | CONCEPT | est_instance_de | goulot d'étranglement du développement IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| AI Native Workflows | METHODOLOGIE | améliore | fusions de code | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| gestion du changement | CONCEPT | permet | succès transformation IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Product Managers | CONCEPT | utilise | agents IA (prototypage en code) | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
+| entreprises top performers | CONCEPT | utilise | workflows AI Native | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

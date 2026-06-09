@@ -65,20 +65,20 @@ Chaque leçon intègre un hook socratique provocateur, une exploration guidée, 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Claude Code | TECHNOLOGIE | est_développé_par | Anthropic | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_un | agent terminal-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | donne_accès_à | Haiku 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | donne_accès_à | Sonnet 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | donne_accès_à | Opus 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | atteint | 1 milliard $ revenus annualisés | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_instance_de | agent terminal-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Haiku 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Sonnet 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Opus 4.5 | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | mesure | 1 milliard $ revenus annualisés | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | recommande | workflow Explore-Plan-Code | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | CLAUDE.md | TECHNOLOGIE | fait_partie_de | système de mémoire hiérarchique | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| système de mémoire hiérarchique | CONCEPT | contient | Enterprise Policy | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Enterprise Policy | CONCEPT | fait_partie_de | système de mémoire hiérarchique | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | MCP | TECHNOLOGIE | permet | connexion à outils externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | mode headless | METHODOLOGIE | permet | intégration CI/CD | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| pédagogie socratique | METHODOLOGIE | structure | formation Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| hooks | TECHNOLOGIE | s_exécutent_sur | événements PreToolUse et PostToolUse | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| FSRS | METHODOLOGIE | est_utilisé_pour | mémorisation espacée des flashcards | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| pédagogie socratique | METHODOLOGIE | s_applique_à | formation Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| hooks | TECHNOLOGIE | s_applique_à | événements PreToolUse et PostToolUse | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| FSRS | METHODOLOGIE | permet | mémorisation espacée des flashcards | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

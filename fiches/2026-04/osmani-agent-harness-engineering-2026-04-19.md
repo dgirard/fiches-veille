@@ -90,28 +90,28 @@ Pièce de consolidation qui stabilise le vocabulaire commun du champ et fait bas
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Addy Osmani | PERSONNE | a_publié | Agent Harness Engineering | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Addy Osmani | PERSONNE | est_employé_par | Google | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Addy Osmani | PERSONNE | affirme_que | un bon harnais bat un meilleur modèle dans un mauvais harnais | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Viv Trivedy | PERSONNE | a_créé | terme harness engineering | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Viv Trivedy | PERSONNE | a_formulé | équation Agent = Model + Harness | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | publie | Agent Harness Engineering | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | travaille_chez | Google | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | affirme_que | un modèle correct dans un excellent harnais bat un excellent modèle dans un mauvais harnais | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Viv Trivedy | PERSONNE | a_créé | harness engineering (terme) | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Viv Trivedy | PERSONNE | a_créé | équation Agent = Model + Harness | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Harness engineering | METHODOLOGIE | est_basé_sur | ratchet principle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Ratchet principle | CONCEPT | exige | traçabilité de chaque règle AGENTS.md à un échec passé | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| HumanLayer | ORGANISATION | recommande | reframe skill issue pour échecs d'agent | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Ratchet principle | CONCEPT | est_basé_sur | traçabilité de chaque règle AGENTS.md à un échec passé | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| HumanLayer | ORGANISATION | recommande | reframe skill issue pour échecs d'agent | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Dex Horthy | PERSONNE | dirige | HumanLayer | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Terminal Bench 2.0 | EVENEMENT | démontre | Top 30 → Top 5 par changement de harnais seul | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Claude Opus 4.6 | TECHNOLOGIE | score_inférieur_dans | Claude Code vs harnais custom | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | affirme_que | harnesses don't shrink they move | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Terminal Bench 2.0 | TECHNOLOGIE | mesure | passage Top 30 → Top 5 par changement de harnais seul | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Harnais custom (Trivedy) | TECHNOLOGIE | surpasse | Claude Code (même modèle Claude Opus 4.6, Terminal Bench 2.0) | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | affirme_que | "harnesses don't shrink, they move" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | recommande | planner generator evaluator split | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Ralph Loop | METHODOLOGIE | utilise | hook qui ré-injecte prompt dans fresh context window | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| AGENTS.md | TECHNOLOGIE | doit_rester | sous 60 lignes selon HumanLayer | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Hooks | CONCEPT | suivent | principe success is silent failures are verbose | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Fareed Khan | PERSONNE | a_documenté | architecture Claude Code en 7 couches | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_organisé_en | 7 couches input knowledge integration execution output observability multi-agent | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Model-harness training loop | CONCEPT | crée | co-training et overfitting | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Harness-as-a-Service | CONCEPT | inclut | Claude Agent SDK, Codex SDK, OpenAI Agents SDK | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Harness engineering | METHODOLOGIE | converge | entre Claude Code Cursor Codex Aider Cline | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Birgitta Böckeler | PERSONNE | documente | harness engineering côté utilisateur | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| HumanLayer | ORGANISATION | recommande | garder AGENTS.md sous 60 lignes | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Hooks | CONCEPT | est_basé_sur | principe success is silent failures are verbose | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Fareed Khan | PERSONNE | publie | architecture Claude Code en 7 couches | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | architecture en 7 couches (input, knowledge, integration, execution, output, observability, multi-agent) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Model-harness training loop | CONCEPT | permet | co-training et overfitting | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Agent SDK, Codex SDK, OpenAI Agents SDK | TECHNOLOGIE | fait_partie_de | Harness-as-a-Service | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | affirme_que | les patterns de harnais convergent entre Claude Code, Cursor, Codex, Aider et Cline | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Birgitta Böckeler | PERSONNE | publie | vue utilisateur du harness engineering | DOCUMENT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -125,14 +125,13 @@ Pièce de consolidation qui stabilise le vocabulaire commun du champ et fait bas
 | HumanLayer | ORGANISATION | secteur | Outillage agents IA / harness engineering | AJOUT |
 | Dex Horthy | PERSONNE | rôle | Tracking pattern harness engineering, HumanLayer | AJOUT |
 | Viv Trivedy | PERSONNE | rôle | Créateur du terme harness engineering, post Anatomy of an Agent Harness | MISE_A_JOUR |
-| Terminal Bench 2.0 | EVENEMENT | rôle | Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) | AJOUT |
+| Terminal Bench 2.0 | TECHNOLOGIE | rôle | Benchmark de référence — preuve empirique du gap harnais (Top 30 → Top 5) | AJOUT |
 | Ralph Loop | METHODOLOGIE | définition | Hook qui intercepte la sortie du modèle et ré-injecte le prompt original dans une fresh context window pour exécution multi-session | AJOUT |
 | Planner-Evaluator split | METHODOLOGIE | définition | Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail) | AJOUT |
 | Sprint contract | METHODOLOGIE | définition | Generator et evaluator négocient la condition de "done" avant que le code soit écrit | AJOUT |
 | Success is silent failures are verbose | CONCEPT | définition | Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue | AJOUT |
 | AGENTS.md | TECHNOLOGIE | guidelines | Pilot's checklist, pas style guide. <60 lignes (HumanLayer). Earn each line. | MISE_A_JOUR |
 | Tool economy | CONCEPT | définition | 10 outils focalisés battent 50 outils chevauchants — le modèle peut tenir le menu en tête | AJOUT |
-| Harnesses don't shrink they move | CONCEPT | définition | Aphorisme Anthropic : quand le modèle s'améliore, le scaffolding bouge plutôt qu'il ne disparaît | AJOUT |
 | Model-harness training loop | CONCEPT | définition | Boucle de co-évolution : primitive harnais → produit → post-training modèle suivant → meilleur sur cette primitive. Crée du co-training et de l'overfitting. | AJOUT |
 | Harness-as-a-Service (HaaS) | CONCEPT | définition | Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut. | AJOUT |
 | Claude Agent SDK | TECHNOLOGIE | catégorie | Harness-as-a-Service Anthropic | AJOUT |

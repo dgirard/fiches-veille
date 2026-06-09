@@ -57,19 +57,19 @@ Principe directeur : la plateforme doit permettre une **logique d'allocation éd
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Finout | ORGANISATION | propose | framework d'allocation FinOps en 4 étapes | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| FinOps agentique | METHODOLOGIE | alloue | coût des coding assistants | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| coût par appel LLM | CONCEPT | est | non-déterministe | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| développeur greenfield | CONCEPT | consomme | 5 à 10× tokens d'un dev en code review | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| tagging cloud traditionnel | CONCEPT | échoue_pour | dépense agents IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Finout | ORGANISATION | recommande | framework d'allocation FinOps en 4 étapes | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| FinOps agentique | METHODOLOGIE | s_applique_à | coût des coding assistants | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Finout | ORGANISATION | affirme_que | le coût par appel LLM est non-déterministe | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Finout | ORGANISATION | mesure | un développeur greenfield consomme 5 à 10× les tokens d'un dev en code review | MESURE | 0.93 | ATEMPOREL | déclaré_article |
+| Finout | ORGANISATION | affirme_que | le tagging cloud traditionnel échoue pour la dépense agents IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | allocation par règles | CONCEPT | remplace | tagging à la source | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| dépense agent-embarqué | CONCEPT | est_traitée_comme | COGS produit | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| activité agent | CONCEPT | est_reliée_à | identité (SSO, API key, seat) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| dépense agent-embarqué | CONCEPT | est_instance_de | COGS produit | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| allocation par développeur | CONCEPT | est_basé_sur | identité (SSO, API key, seat) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | fait_partie_de | coding assistants à allouer | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Finout | ORGANISATION | utilise | Virtual Tags | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Finout | ORGANISATION | utilise | MegaBill | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| logique d'allocation | CONCEPT | doit_être | éditable sans ingénierie | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| dépense IA | CONCEPT | est | ligne la plus volatile de la stack tech | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Finout | ORGANISATION | recommande | une logique d'allocation éditable par l'équipe FinOps sans intervention de l'ingénierie | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Finout | ORGANISATION | affirme_que | la dépense IA est parmi les lignes les plus volatiles de la stack tech | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

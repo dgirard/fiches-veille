@@ -64,16 +64,16 @@ Les **subagents** sont un outil de gestion de contexte pour les blocs de travail
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Thariq | PERSONNE | a_écrit | Guide gestion sessions Claude Code 1M | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Thariq | PERSONNE | publie | Guide gestion sessions Claude Code 1M | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Thariq | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
-| Claude Code | TECHNOLOGIE | possède | Fenêtre de contexte de 1 million de tokens | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Context rot | CONCEPT | dégrade | Performance du modèle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Context rot | CONCEPT | apparaît_vers | 300-400k tokens | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Compaction | CONCEPT | résume | Historique de conversation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Rewind | CONCEPT | est_recommandé_comme | Meilleur réflexe de gestion de contexte | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Subagents | CONCEPT | offre | Contexte propre isolé | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | Fenêtre de contexte de 1 million de tokens | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Context rot | CONCEPT | réduit | Performance du modèle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Thariq | PERSONNE | mesure | Apparition du context rot vers 300-400k tokens sur le modèle 1M | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
+| Compaction | CONCEPT | réduit | Historique de conversation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Thariq | PERSONNE | recommande | Rewind | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Subagents | CONCEPT | permet | Contexte propre isolé | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Compact | CONCEPT | s_oppose_à | Clear | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Mauvaise compaction | CONCEPT | est_causée_par | Imprévisibilité de la direction du travail | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Thariq | PERSONNE | affirme_que | Les mauvaises compactions surviennent quand le modèle ne peut pas prédire la direction du travail | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

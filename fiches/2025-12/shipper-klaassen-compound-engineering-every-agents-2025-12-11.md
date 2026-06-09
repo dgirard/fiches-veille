@@ -63,15 +63,15 @@ Les auteurs concluent que cette approche rend obsolètes de nombreuses pratiques
 | Kieran Klaassen | PERSONNE | a_créé | compound engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | compound engineering | METHODOLOGIE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | compound engineering | METHODOLOGIE | utilise | subagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Every | ORGANISATION | pratique | compound engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Every | ORGANISATION | utilise | compound engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Every | ORGANISATION | publie | plugin compound engineering Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | compound engineering | METHODOLOGIE | améliore | productivité développeur ×5 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Dan Shipper | PERSONNE | affirme_que | 1 développeur IA = 5 développeurs classiques | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | affirme_que | 1 développeur IA = 5 développeurs classiques | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Cora | TECHNOLOGIE | fait_partie_de | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | compound engineering | METHODOLOGIE | est_basé_sur | boucle Plan-Work-Assess-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| étape Compound | CONCEPT | transforme | leçons apprises en contexte réutilisable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| plugin compound engineering | TECHNOLOGIE | utilise | 12 subagents parallèles pour review | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | gère | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| étape Compound | CONCEPT | permet | transformation des leçons apprises en contexte réutilisable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| plugin compound engineering | TECHNOLOGIE | utilise | 12 subagents parallèles pour review | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | dirige | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 
 ### Entités

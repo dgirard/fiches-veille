@@ -8,9 +8,9 @@
 
 ## Relations (comme sujet)
 
-### a_publié
+### publie
 
-- [[kb/_entites-mineures#guide-ChatGPT-Apps-SDK\|guide ChatGPT Apps SDK]] (EVENEMENT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#guide-ChatGPT-Apps-SDK\|guide ChatGPT Apps SDK]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Guide développement ChatGPT Apps SDK OpenAI - MCP, OAuth 2.1, Widgets]]
 
 ### recommande

@@ -67,19 +67,19 @@ Cette démocratisation du web conversationnel représente un tournant stratégiq
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| OpenAI | ORGANISATION | a_lancé | ChatGPT Atlas | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| ChatGPT Atlas | TECHNOLOGIE | est_un | navigateur web conversationnel | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| ChatGPT Atlas | TECHNOLOGIE | inaugure | web conversationnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | compte | 700 millions d'utilisateurs hebdomadaires | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| ChatGPT | TECHNOLOGIE | génère | 2,5 milliards de requêtes par jour | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| ChatGPT Atlas | TECHNOLOGIE | recherche_sur | sites web | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | ChatGPT Atlas | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | est_instance_de | navigateur web conversationnel | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | permet | web conversationnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | mesure | 700 millions d'utilisateurs hebdomadaires | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | mesure | 2,5 milliards de requêtes par jour | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | utilise | sites web | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
 | Agentic Commerce Protocol | TECHNOLOGIE | permet | Instant Checkout via ChatGPT | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Etsy | ORGANISATION | implémente | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Walmart | ORGANISATION | implémente | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| ChatGPT Atlas | TECHNOLOGIE | préfigure | interfaces entreprise conversationnelles | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| web conversationnel | CONCEPT | nécessite | services headless | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| Olivier Rafal | PERSONNE | affirme_que | le futur arrive plus vite que prévu | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| WEnvision | ORGANISATION | publie | analyse ChatGPT Atlas | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Etsy | ORGANISATION | utilise | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Walmart | ORGANISATION | utilise | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | prédit | les interfaces d'entreprise deviendront conversationnelles | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
+| web conversationnel | CONCEPT | est_basé_sur | services headless | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | "Le futur arrive plus vite que prévu" | CITATION | 0.99 | ATEMPOREL | déclaré_article |
+| WEnvision | ORGANISATION | publie | analyse ChatGPT Atlas | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 
 ### Entités
 

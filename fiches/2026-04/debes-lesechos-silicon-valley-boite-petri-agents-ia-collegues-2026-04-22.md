@@ -75,31 +75,31 @@ Pièce-pivot 2026 sur la vie quotidienne avec les agents IA, qui acte simultané
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Florian Dèbes | PERSONNE | a_publié | reportage Silicon Valley boîte de Petri agents IA collègues | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Florian Dèbes | PERSONNE | publie | reportage Silicon Valley boîte de Petri agents IA collègues | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Aaron Levie | PERSONNE | dirige | Box | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Aaron Levie | PERSONNE | affirme_que | la Silicon Valley est une véritable boîte de Petri | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Paul Sinaï | PERSONNE | a_fondé | Blaxel AI | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Justin Bangay | PERSONNE | est_employé_par | Airbyte | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Aaron Levie | PERSONNE | affirme_que | la Silicon Valley est une véritable boîte de Petri | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Paul Sinaï | PERSONNE | a_créé | Blaxel AI | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Justin Bangay | PERSONNE | travaille_chez | Airbyte | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Justin Bangay | PERSONNE | utilise | Claude pour préparer fiches de rendez-vous client | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Sarah Allali | PERSONNE | a_fondé | Lobby | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Sarah Allali | PERSONNE | affirme_que | les humains ont un ego et n'aiment pas recevoir des emails écrits par une IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Babak Hodjat | PERSONNE | dirige_IA_chez | Cognizant | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Babak Hodjat | PERSONNE | affirme_que | la fatigue IA vient quand le résultat délégué est passable et qu'il faut tout reprendre | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Eric Pantera | PERSONNE | dirige_la_tech_de | Swile | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Eric Pantera | PERSONNE | affirme_que | les écarts d'usage IA entre Meta et Montpellier ne sont pas significatifs | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Jérémy Chapeau | PERSONNE | est_ingénieur_senior_chez | SubImage | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Sarah Allali | PERSONNE | a_créé | Lobby | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Sarah Allali | PERSONNE | affirme_que | les humains ont un ego et n'aiment pas recevoir des emails écrits par une IA | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Babak Hodjat | PERSONNE | travaille_chez | Cognizant | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Babak Hodjat | PERSONNE | affirme_que | la fatigue IA vient quand le résultat délégué est passable et qu'il faut tout reprendre | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Eric Pantera | PERSONNE | travaille_chez | Swile | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Eric Pantera | PERSONNE | affirme_que | les écarts d'usage IA entre Meta et Montpellier ne sont pas significatifs | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Jérémy Chapeau | PERSONNE | travaille_chez | SubImage | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Jérémy Chapeau | PERSONNE | a_créé | agent Jarvis personnel | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Patrick Joubert | PERSONNE | dirige | Rippletide | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Patrick Joubert | PERSONNE | affirme_que | le facteur limitant est la cognition humaine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Siddhant Khare | PERSONNE | affirme_que | l'IA réduit les coûts de production mais augmente ceux de coordination et vérification | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Siddhant Khare | PERSONNE | recommande | ne pas utiliser l'IA si résultat <70% correct après 3 essais | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Julie Bedard | PERSONNE | a_publié | sondage BCG dans Harvard Business Review mars 2026 | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
-| Sondage BCG HBR mars 2026 | DOCUMENT | démontre | 14% des salariés dépassés par le rythme imposé par l'IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Brain fry | CONCEPT | définit | surchauffe cérébrale liée à l'usage intensif d'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Token-max | CONCEPT | définit | classement interne valorisant les plus gros utilisateurs d'IA en entreprise | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_devenu | incontournable pour les développeurs de la Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | est_devenu | incontournable pour les développeurs de la Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Multitâches 5 onglets agents | METHODOLOGIE | caractérise | quotidien des développeurs Silicon Valley | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Patrick Joubert | PERSONNE | affirme_que | le facteur limitant est la cognition humaine | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| Siddhant Khare | PERSONNE | affirme_que | l'IA réduit les coûts de production mais augmente ceux de coordination et vérification | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Siddhant Khare | PERSONNE | recommande | ne pas utiliser l'IA si résultat <70% correct après 3 essais | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Julie Bedard | PERSONNE | publie | sondage BCG dans Harvard Business Review mars 2026 | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Sondage BCG HBR mars 2026 | DOCUMENT | mesure | 14% des salariés dépassés par le rythme imposé par l'IA | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Brain fry | CONCEPT | est_instance_de | surchauffe cérébrale liée à l'usage intensif d'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Token-max | CONCEPT | est_instance_de | classement interne valorisant les plus gros utilisateurs d'IA en entreprise | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Multitâches 5 onglets agents | METHODOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -129,6 +129,4 @@ Pièce-pivot 2026 sur la vie quotidienne avec les agents IA, qui acte simultané
 | Brain fry | CONCEPT | définition | Surchauffe cérébrale induite par l'usage intensif d'IA — symptômes : maux de tête, ralentissement de la prise de décision | AJOUT |
 | Token-max | METHODOLOGIE | définition | Classement interne d'entreprise valorisant les plus gros utilisateurs d'IA — source d'injonction et d'épuisement | AJOUT |
 | Multitâches 5 onglets agents | METHODOLOGIE | description | Pratique standard SF : 5 agents IA exécutant en parallèle, le développeur arbitre et corrige | AJOUT |
-| 14% salariés dépassés par le rythme IA | CONCEPT | source | Sondage BCG dans Harvard Business Review (Julie Bedard, mars 2026) | AJOUT |
-| Coûts coordination vérification décision à charge humaine | CONCEPT | définition | Thèse Siddhant Khare : l'IA déplace la charge cognitive, ne la supprime pas | AJOUT |
 | Les Echos | ORGANISATION | secteur | Quotidien économique français, rubrique "Travailler mieux" | AJOUT |

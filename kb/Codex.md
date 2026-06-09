@@ -8,50 +8,41 @@
 
 ## Relations (comme sujet)
 
-### a_fusionné
+### est_basé_sur
 
-- [[kb/_entites-mineures#2M+-pull-requests-sur-GitHub\|2M+ pull requests sur GitHub]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
-
-### a_généré
-
-- [[kb/_entites-mineures#1500-pull-requests-en-5-mois\|1500 pull requests en 5 mois]] (EVENEMENT) — 0.93, STATIQUE
-  - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
-
-### est_cité_comme
-
-- [[kb/_entites-mineures#catalyseur-transformation-ingénierie\|catalyseur transformation ingénierie]] (CONCEPT) — 0.88, DYNAMIQUE
-  - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
-
-### est_devenu
-
-- [[kb/_entites-mineures#incontournable-pour-les-développeurs-de-la-Silicon-Valley\|incontournable pour les développeurs de la Silicon Valley]] (CONCEPT) — 0.93, DYNAMIQUE
-  - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
-
-### est_post-entraîné_avec
-
-- [[kb/_entites-mineures#Harnais-dans-la-boucle\|Harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
+- [[kb/_entites-mineures#Post-entraînement-avec-harnais-dans-la-boucle\|Post-entraînement avec harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
+
+### est_instance_de
+
+- [[kb/_entites-mineures#Pattern-modèle+harnais\|Pattern modèle+harnais]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+- [[kb/_entites-mineures#catalyseur-de-la-transformation-de-l'ingénierie\|catalyseur de la transformation de l'ingénierie]] (CONCEPT) — 0.88, DYNAMIQUE
+  - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
 
 ### fait_partie_de
 
 - [[kb/_entites-mineures#Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
 
-### incarne
+### mesure
 
-- [[kb/_entites-mineures#Pattern-modèle+harnais\|Pattern modèle+harnais]] (CONCEPT) — 0.92, DYNAMIQUE
-  - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
+- « 1500 pull requests fusionnées en 5 mois » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+- « 2M+ pull requests fusionnées sur GitHub » (MESURE) — 0.90, DYNAMIQUE
+  - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 
-### intègre
+### observé_dans
 
-- [[kb/_entites-mineures#Harness\|Harness]] (CONCEPT) — 0.92, DYNAMIQUE
-  - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+- [[kb/_entites-mineures#quotidien-des-développeurs-Silicon-Valley\|quotidien des développeurs Silicon Valley]] (CONCEPT) — 0.93, DYNAMIQUE
+  - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
 
 ### utilise
 
+- [[kb/_entites-mineures#Harness\|Harness]] (CONCEPT) — 0.92, DYNAMIQUE
+  - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 - [[kb/_entites-mineures#Computer-Use-terminal\|Computer Use terminal]] (METHODOLOGIE) — 0.88, DYNAMIQUE
-  - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+  - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 - [[kb/GPT-5\|GPT-5]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 
@@ -61,7 +52,7 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|OpenAI - Coding Agents - Harness Architecture - Codex SDK - Computer Use]]
+- [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]

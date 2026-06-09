@@ -1,7 +1,7 @@
 # workweave-loom-ai-team-comms-y-combinator-2023-10-01
 
 ## Veille
-Workweave - Loom - AI team communication - Y Combinator - Asynchronous collaboration - Video messaging
+Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC
 
 ## Titre Article
 Workweave: The Loom of AI Team Communication
@@ -13,67 +13,55 @@ Workweave: The Loom of AI Team Communication
 https://www.ycombinator.com/companies/workweave
 
 ## Keywords
-Workweave, AI communication, asynchronous collaboration, team communication, Y Combinator, video messaging, AI-generated summaries, meeting alternatives, remote work, async-first
+Weave, Workweave, Y Combinator, mesure du travail d'ingénierie, productivité ingénierie, Weave Hour, attribution de code IA, analyse de pull requests, dashboards, LLM, Claude, Cursor, adoption IA, métriques d'ingénierie, B2B, analytics
 
 ## Authors
 Y Combinator
 
 ## Ton
-**Profil:** Startup-Directory | Institutionnelle | Informative-Promotionnelle | Intermédiaire
+**Profil** : Page d'annuaire de startups Y Combinator, registre institutionnel informatif-promotionnel, niveau intermédiaire.
 
-Format standardisé Y Combinator startup directory combinant facts structurés et pitch concis. Langage startup-optimized ("AI to understand engineering work") avec credentials founders (MIT, employee #1 Causal) building credibility. Tone factuel efficient typical YC directory pages visant investors et early adopters. Structure information-dense (batch, status, location, founders) facilitates quick assessment. Professional neutral évitant excessive marketing tout en highlighting key value props. Typique YC company pages designed rapid scanning avec essential signals (batch, team pedigree, product vision).
+**Description** : Format standardisé de l'annuaire Y Combinator combinant faits structurés (batch, statut, localisation, fondateurs) et pitch concis (« AI to understand engineering work »). Le langage optimisé startup met en avant les références des fondateurs (MIT, employé n°1 chez Causal) pour construire la crédibilité, et des preuves chiffrées (« ship 16% more ») pour convaincre. Le ton factuel et efficace, typique des pages YC, vise les investisseurs et les early adopters ; structure dense en information facilitant une évaluation rapide, neutre et professionnelle, évitant le marketing excessif tout en soulignant les propositions de valeur clés.
 
 ## Pense-betes
-- **"Loom of AI"** : positioned comme AI equivalent de Loom pour team communication
-- **Asynchronous-first** approach à team collaboration
-- **AI-generated summaries** de conversations et decisions
-- **Meeting replacement** : reduce synchronous meetings burden
-- **Y Combinator backed** : startup avec strong validation
-- **Video + AI synthesis** : combine visual communication avec intelligent summarization
-- **Remote work enabler** : particularly valuable pour distributed teams
-- **Context preservation** : maintains conversation history avec AI indexing
+- **Weave** (workweave.dev) : startup YC batch Winter 2025, San Francisco, ~5 personnes — « AI to understand engineering work »
+- **Problème** : historiquement impossible de mesurer le travail d'ingénierie — les leaders pilotent à l'aveugle avec des métriques approximatives ou l'intuition
+- **Solution** : LLMs + modèles propriétaires exécutés sur chaque PR et review, analysant production et qualité
+- **Attribution de code IA** au niveau PR : ce qui a été écrit par l'IA, ce qui ne l'a pas été, ce qui aurait dû l'être
+- **Intégrations** : tous les outils de coding IA (Claude, Cursor, etc.)
+- **Weave Hour** : métrique clé — « combien de temps un ingénieur expérimenté prendrait-il pour faire ce changement ? » (pas un compteur de lignes de code)
+- **Résultat client** : des équipes comme Reducto, Superpower et Laurel livrent 16 % de plus après 2 mois d'usage
+- **AI Usage** : identification des top performers IA, comparaison avec les concurrents, ROI réel des investissements IA
+- **Fondateurs** : Adam Cohen (co-fondateur & CEO), Andrew Churchill (co-fondateur & CTO, ex-employé #1 chez Causal, CS+Math MIT)
+- ⚠️ Le titre historique de la fiche (« The Loom of AI Team Communication ») ne correspond pas au contenu de la page YC archivée, qui décrit un produit de mesure du travail d'ingénierie
 
 ## RésuméDe400mots
 
-Workweave, **Y Combinator-backed startup**, positions itself comme **"Loom of AI"** pour team communication, combining video messaging capabilities avec AI-powered summarization et context management. Product addresses growing challenge de **asynchronous collaboration** dans increasingly distributed work environments, offering alternative à excessive synchronous meetings whilst maintaining team alignment.
+Weave (workweave.dev), startup soutenue par **Y Combinator** (batch Winter 2025, San Francisco, environ cinq personnes), se présente avec un pitch ramassé : **« AI to understand engineering work »**. La page de l'annuaire YC, complétée par le launch post officiel (« Weave: AI to quantify engineering work »), décrit une plateforme B2B d'analytics qui utilise l'IA pour **mesurer le travail d'ingénierie logicielle à l'ère de l'IA**.
 
-**Core Value Proposition**
+**Le problème**
 
-Platform enables teams **communicate asynchronously** through video messages, text, et other media, puis uses AI pour **automatically generate summaries, extract action items, et maintain searchable knowledge base**. Cette combination allows team members consume communications on their schedule whilst ensuring critical information doesn't get lost dans message threads. Vision resembles how Loom revolutionized screen recording et async video communication, mais augmented avec intelligence layer.
+Il a historiquement été quasi impossible de mesurer le travail d'ingénierie : les dirigeants pilotent à l'aveugle, et les équipes s'appuient sur l'intuition ou des métriques approximatives pour comprendre ce qui se passe et identifier où s'améliorer. C'est ce constat qui a motivé la création de Weave.
 
-**Solving Meeting Overload**
+**La solution**
 
-Primary problem addressed : **meeting proliferation** killing productivity. Many conversations requiring brief updates ou decisions unnecessarily become 30-60 minute synchronous meetings. Workweave allows team members **record explanations, share context, et make decisions asynchronously**, avec AI ensuring everyone stays informed without scheduling conflicts ou time zone juggling.
+Weave exécute des LLMs et des modèles propriétaires sur **chaque pull request et chaque revue de code**, en analysant à la fois la production et la qualité. La plateforme s'intègre avec tous les outils de coding IA (**Claude, Cursor**, etc.) et propose une **attribution du code au niveau de la PR** : déterminer ce qui a été écrit par l'IA, ce qui ne l'a pas été, et ce qui aurait dû l'être. Ces données et insights sont synthétisés dans des dashboards. Selon la page YC, des équipes comme **Reducto, Superpower et Laurel livrent 16 % de plus** seulement deux mois après l'adoption de Weave.
 
-**AI-Powered Context Management**
+**AI Usage et AI Insights**
 
-Key differentiator lies dans **intelligent context preservation**. Rather than conversations disappearing into chat history ou email threads, AI indexes discussions, extracts decisions, tracks action items, et surfaces relevant context when needed. Team members can ask **"what decisions were made about project X?"** et receive AI-synthesized summary depuis multiple conversations.
+Le volet « AI Usage » montre qui sont les meilleurs utilisateurs d'IA de l'équipe (afin qu'ils partagent leurs bonnes pratiques), comment l'équipe se situe face à ses concurrents, et le **retour financier réel des investissements IA**. Le volet « AI Insights » tient les équipes informées des meilleures pratiques et des outils utilisés par les équipes IA les plus avancées.
 
-**Workflow Integration**
+**La Weave Hour**
 
-Workweave likely integrates avec existing tools (Slack, project management platforms, calendars) pour **fit into existing workflows** rather than requiring complete replacement. This integration approach critical pour adoption - teams won't abandon entire toolchain pour new platform, mais will adopt tool that enhances existing processes.
+La métrique clé n'est pas un compteur de lignes de code mais la **« Weave Hour »** : une estimation du temps qu'un ingénieur expérimenté prendrait pour réaliser le changement. Weave peut aussi indiquer combien de temps chaque ingénieur consacre au code.
 
-**Remote Work Acceleration**
+**Les fondateurs**
 
-Platform particularly valuable pour **distributed teams across time zones**. Traditional synchronous collaboration requires someone work outside normal hours. Asynchronous approach avec AI summaries allows teams operate truly globally without productivity penalties. Team member dans Tokyo can respond à message depuis New York colleague without 3am video call.
+L'équipe fondatrice apporte un pedigree solide : **Adam Cohen** (co-fondateur et CEO) et **Andrew Churchill** (co-fondateur et CTO), ex-employé n°1 de Causal — où il a construit l'interface tableur, le système de contrôle d'accès et le moteur d'onboarding IA — après un cursus CS + mathématiques au MIT.
 
-**Challenges et Questions**
+**Note de cohérence**
 
-Several challenges facing platform : **adoption requires behavior change** (teams accustomed to synchronous meetings must learn async patterns), AI summary quality must be consistently high (low-quality summaries worse than no summaries), privacy concerns (AI analyzing potentially sensitive discussions), initial setup friction (training AI on team's communication patterns), network effects (value increases as more team members adopt).
-
-**Competitive Landscape**
-
-Workweave competes avec : traditional video messaging (Loom, Vidyard), async collaboration tools (Notion, Twist), AI meeting assistants (Otter.ai, Fireflies), general communication platforms (Slack, Microsoft Teams) adding AI features. **Differentiation must come depuis integration depth et AI quality**.
-
-**Market Timing**
-
-Launch timing opportune : remote/hybrid work now standard, AI capabilities reached practical utility threshold, meeting fatigue widely acknowledged problem, teams increasingly comfortable avec async communication patterns pioneered par Loom et others.
-
-**Y Combinator Backing Significance**
-
-Y Combinator support signals **validation de problem space et team potential**. YC portfolio gives access à early adopters (other YC companies), mentorship depuis communication tool veterans, potential customer pipeline through accelerator network. However, YC backing also raises expectations for rapid growth et clear differentiation.
-
-Success will depend on : AI summary quality consistently exceeding manual summarization, seamless workflow integration reducing adoption friction, clear ROI demonstration (time saved, decisions accelerated), privacy/security meeting enterprise requirements.
+Le titre historique de la fiche évoque un produit de communication d'équipe (« The Loom of AI Team Communication »), mais la page Y Combinator archivée en raw-data décrit sans ambiguïté un produit de **mesure du travail d'ingénierie** : le positionnement de la société a probablement pivoté, ou le titre initial de la fiche était erroné. Le résumé et le knowledge graph ci-dessous reflètent le contenu réellement présent sur la page YC archivée.
 
 ## GrapheDeConnaissance
 
@@ -81,16 +69,16 @@ Success will depend on : AI summary quality consistently exceeding manual summar
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Weave | ORGANISATION | est_soutenu_par | Y Combinator | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Weave | ORGANISATION | est_fondé_par | Adam Cohen | PERSONNE | 0.98 | STATIQUE | déclaré_article |
-| Weave | ORGANISATION | est_fondé_par | Andrew Churchill | PERSONNE | 0.98 | STATIQUE | déclaré_article |
+| Y Combinator | ORGANISATION | soutient | Weave | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Adam Cohen | PERSONNE | a_créé | Weave | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Andrew Churchill | PERSONNE | a_créé | Weave | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Weave | ORGANISATION | mesure | travail d'ingénierie par IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Weave | ORGANISATION | intègre | Claude | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Weave | ORGANISATION | intègre | Cursor | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Weave | ORGANISATION | génère | 16% d'augmentation de livraisons | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| Andrew Churchill | PERSONNE | a_travaillé_chez | Causal | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
+| Weave | TECHNOLOGIE | utilise | Claude | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Weave | TECHNOLOGIE | utilise | Cursor | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Weave | ORGANISATION | mesure | 16% d'augmentation de livraisons chez les clients après 2 mois | MESURE | 0.88 | STATIQUE | déclaré_article |
+| Andrew Churchill | PERSONNE | travaille_chez | Causal | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
 | Weave Hour | CONCEPT | mesure | temps qu'un ingénieur expérimenté prendrait | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Jared Friedman | PERSONNE | est_partenaire_de | Weave | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Jared Friedman | PERSONNE | collabore_avec | Weave | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

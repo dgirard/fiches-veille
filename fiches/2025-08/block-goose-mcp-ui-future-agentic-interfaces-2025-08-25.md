@@ -1,7 +1,7 @@
 # block-goose-mcp-ui-future-agentic-interfaces-2025-08-25
 
 ## Veille
-Block - Goose - MCP - UI future - Agentic interfaces - Model Context Protocol - Square - Developer tools
+Block/Goose — MCP-UI et le futur des interfaces agentiques : composants web interactifs dans les conversations d'agents IA via Model Context Protocol (block.github.io)
 
 ## Titre Article
 Block's Goose and the Future of Agentic Interfaces via Model Context Protocol
@@ -13,71 +13,52 @@ Block's Goose and the Future of Agentic Interfaces via Model Context Protocol
 https://block.github.io/goose/blog/2025/08/25/mcp-ui-future-agentic-interfaces/
 
 ## Keywords
-Block, Goose, MCP, Model Context Protocol, agentic interfaces, UI future, Square, developer tools, AI agents, interface evolution, tool integration, context management
+Block, Goose, MCP, Model Context Protocol, interfaces agentiques, futur des UI, Square, outils développeurs, agents IA, évolution des interfaces, intégration d'outils, gestion du contexte
 
 ## Authors
 Block (Square) Engineering team
 
 ## Ton
-**Profil:** Engineering-Thought-Leadership | Institutionnelle tech | Analytique-Prospective | Expert
+**Profil :** Developer advocacy | Institutionnel tech | Éducatif-Promotionnel | Intermédiaire
 
-Block engineering team adopte forward-looking technical exposition voice exploring UI future avec MCP. Goose project demonstrates Block's investment agentic interfaces. Langage architecture-oriented (Model Context Protocol, tool integration, context management) vise senior engineers thinking interface evolution. Tone visionary technical positioning Block comme innovator developer tools space. Structure conceptual exploration typical tech company research blogs sharing architectural thinking. Typique fintech engineering teams (Stripe, Plaid style) contributing open-source innovations visant developer community shaping future tooling paradigms.
+L'équipe Goose de Block (billet signé Ebony Louis, Developer Advocate) adopte une voix d'advocacy développeur enthousiaste, articulée autour d'un épisode du podcast « Wild Goose Case » avec les créateurs de MCP-UI (Ido Salomon et Liad Yosef, Monday.com) et Andrew Harvard (Block). L'ouverture par les irritants concrets (« murs de texte », copier-coller d'URLs) installe des points de douleur relatables. La structure problème → solution → architecture → démos → vision guide une compréhension progressive. Le langage technique reste accessible (iframes sandboxées, post messages, remote DOM) et les exemples concrets (Shopify, sièges d'avion, restaurants) ancrent le protocole abstrait. Le ton optimiste, sans hype naïf (le défi reconnu est l'adoption), est typique de l'advocacy open source de Block visant la communauté des développeurs d'agents.
 
 ## Pense-betes
-- **Goose** : Block's internal AI agent development platform
-- **MCP adoption** : implementing Model Context Protocol
-- **Agentic interface vision** : UI evolving beyond traditional patterns
-- **Context management** : standardized protocol pour AI tool access
-- **Developer productivity** : internal tooling accelerating development
-- **Open source commitment** : sharing learnings avec community
-- **Tool ecosystem** : building reusable MCP servers
-- **Future UI paradigms** : moving beyond chat interfaces
+- **Goose** : agent IA open source de Block, parmi les premières plateformes à supporter MCP-UI
+- **MCP-UI = protocole + SDK** : composants web riches et interactifs intégrés directement dans les conversations d'agents
+- **Créateurs** : Ido Salomon et Liad Yosef (Monday.com), avec Andrew Harvard (Block) ; présenté dans l'épisode « Wild Goose Case »
+- **Problème visé** : interfaces texte-seulement inadaptées au grand public — murs de texte, copier-coller, onglets multiples
+- **Philosophie** : ne pas jeter des décennies d'expertise web UI/UX, mais l'augmenter avec l'IA
+- **Sécurité** : composants rendus dans des iframes sandboxées, communication avec l'hôte uniquement par post messages
+- **Trois types de contenu** : URLs externes, HTML brut, remote DOM (workers séparés)
+- **Démos** : catalogue Shopify interactif, carte visuelle de sélection de sièges d'avion, découverte de restaurants avec commande
+- **Effet de réseau** : un composant MCP-UI implémenté une fois fonctionne sur tous les agents compatibles (Goose, extensions VS Code, futurs assistants mobiles)
+- **Vision** : révolution de l'accessibilité (l'agent construit l'UI selon les préférences), générative UI à terme
+- **Démarrage simple** : `createUIResource({ type: 'html', content: '<h1>Hello World</h1>' })`
 
 ## RésuméDe400mots
 
-Block (formerly Square) Engineering team published **detailed analysis de Goose**, their internal **AI agent development platform**, et how **Model Context Protocol (MCP)** enabling **future agentic interfaces** transcending current chat-based limitations. Article provides **rare insider perspective** on enterprise AI tooling evolution, architectural decisions, et vision pour how humans interact avec AI agents.
+Le blog Goose de Block publie une plongée dans **MCP-UI**, technologie qui, selon l'équipe, condamne « les murs de texte sans fin » des conversations d'agents IA. L'article s'appuie sur un épisode du podcast « Wild Goose Case » réunissant les créateurs de MCP-UI, **Ido Salomon et Liad Yosef de Monday.com**, et **Andrew Harvard de Block**, pour explorer comment cette technologie redessine le futur des interfaces agentiques.
 
-**Goose Platform Overview**
+**Le problème des interfaces texte-seulement**
 
-Goose serves as **Block's internal AI agent framework** enabling engineers : build custom AI agents pour specific tasks, integrate agents dans existing development workflows, share agent implementations across teams, standardize tool access through MCP, measure agent effectiveness quantitatively. Platform represents **significant internal investment** - Block recognized early that **general-purpose AI assistants insufficient** pour specialized developer workflows requiring deep tool integration.
+Demander à un agent de l'aide pour un achat aboutit aujourd'hui à un mur de texte : noms de produits, prix, descriptions, puis copier-coller d'URLs et onglets multiples — l'utilisateur refait tout le travail. Comme le résume Ido Salomon, tout le monde a connu ce moment de « rage quit » devant un assistant qui ne renvoie que du texte. Ces interfaces conviennent aux early adopters, pas au grand public.
 
-**Why MCP Adoption Critical**
+**MCP-UI : protocole et SDK**
 
-Before MCP, each AI agent required **custom integrations** avec every tool : Jira, GitHub, deployment systems, databases, monitoring tools, internal APIs. Cette approach **didn't scale** - N agents × M tools = N×M integration efforts. **MCP solves this** through standardized protocol : tools expose MCP servers once, any MCP-compatible agent can access, reduces integration burden dramatically, enables tool ecosystem emergence, separates tool development depuis agent development. Block's adoption **validates MCP architecture** for enterprise contexts.
+MCP-UI (Model Context Protocol User Interface) permet d'intégrer des **composants web riches et interactifs** directement dans les conversations d'agents. La philosophie est simple : pourquoi jeter des décennies d'expertise web UI/UX quand on peut l'augmenter avec l'IA ? Liad Yosef souligne que plus d'une décennie d'interfaces web perfectionnées pour les limites cognitives humaines ne doit pas disparaître avec les agents. Le système exploite les embedded resources de la spécification MCP : un serveur MCP peut retourner des composants UI au lieu de texte brut. Quatre apports clés : composants riches (catalogues, cartes de sièges, formulaires), **préservation de la marque** (Shopify garde son expérience), intégration sécurisée, et **compatibilité cross-platform**.
 
-**Beyond Chat Interfaces**
+**Fondations techniques**
 
-Key insight : **chat interfaces represent training wheels**, not final form de agentic UX. Current AI assistants force conversational paradigm even when inappropriate. Block exploring **agentic interface patterns** : **Ambient agents** (observing context, proactively suggesting actions sans explicit invocation), **Spatial agents** (appearing contextually within specific UI locations), **Workflow agents** (embedded dans multi-step processes), **Collaborative agents** (multiple agents coordinating visible à user), **Modal-less interaction** (AI capabilities woven throughout interface versus separate chat window).
+La sécurité prime : les composants sont rendus dans des **iframes sandboxées** qui ne communiquent avec l'hôte que par post messages, empêchant le code tiers de manipuler l'application parente. Trois types de contenu sont supportés : URLs externes, HTML brut, et remote DOM (rendu dans des workers séparés). Le démarrage est minimal : `createUIResource({ type: 'html', content: '<h1>Hello World</h1>' })`.
 
-**Goose Architecture Principles**
+**Démonstrations et écosystème**
 
-Platform designed around : **Modularity** (agents composed depuis reusable components), **Observability** (comprehensive logging, tracing de agent decisions), **Human-in-loop** (agents request confirmation for high-stakes actions), **Graceful degradation** (fallback behaviors when AI uncertain), **Context preservation** (maintaining state across sessions), **Multi-agent coordination** (agents collaborating on complex tasks). Architecture reflects **lessons depuis production deployment** at scale.
+Les démos montrent un shopping visuel (catalogue Shopify interactif avec ajout au panier), la planification de voyage (sélection de siège sur carte visuelle, météo de destination automatique) et la découverte de restaurants (cartes avec photos, notes, menus, commande directe) — le tout sans quitter la conversation. Le succès repose sur quatre parties prenantes : développeurs d'agents (comme l'équipe Goose), développeurs de serveurs MCP, fournisseurs de services (Shopify, Square) et utilisateurs finaux. L'approche crée un **effet de réseau** : un composant implémenté une fois fonctionne sur tous les agents compatibles.
 
-**Internal Adoption Metrics**
+**Vision**
 
-Block shares adoption data : **60% de engineering teams** using Goose-powered agents regularly, **average 25% productivity gain** on tasks amenable à agent assistance, **3,200+ custom agents** created internally, **40+ MCP servers** deployed providing tool access, **positive sentiment** dans internal surveys (4.2/5 average satisfaction). Metrics validate **business case** for substantial AI tooling investment.
-
-**Tool Ecosystem Development**
-
-Block building **reusable MCP server library** : **Code repository access** (GitHub, GitLab integration), **Issue tracking** (Jira, Linear connectivity), **Observability** (Datadog, Prometheus access), **Deployment systems** (CI/CD pipeline integration), **Database queries** (safe read-only database access), **Internal APIs** (authentication-aware API access). Open sourcing select MCP servers, **contributing à broader ecosystem**.
-
-**Agentic Interface Design Patterns**
-
-Article introduces emerging patterns : **Contextual triggers** (agents activating based on specific conditions), **Progressive disclosure** (agents revealing capabilities gradually versus overwhelming users), **Confidence visualization** (showing agent certainty levels), **Undo/rollback** (easily reverting agent actions), **Explanation on demand** (agents explaining reasoning when asked), **Learning from corrections** (improving based on user feedback). Patterns represent **evolving UX language** pour human-agent interaction.
-
-**Challenges et Lessons**
-
-Block candidly discusses obstacles : **Latency expectations** (users expect near-instant responses, LLM calls slow), **Cost management** (agent usage generating significant API costs), **Reliability requirements** (developers need consistent behavior), **Debugging complexity** (tracing failures across multi-agent systems), **Security/permissions** (ensuring agents respect access controls), **Version management** (agents depending on evolving tools). Transparency about challenges **valuable for community**.
-
-**Open Source Strategy**
-
-Block commitment sharing : **Core Goose framework** (open sourced components), **MCP servers** (contributed à ecosystem), **Design patterns** (documented best practices), **Measurement frameworks** (how evaluate agent effectiveness), **Lessons learned** (both successes et failures). Strategy balances **competitive advantage** (proprietary internal tools) avec **ecosystem benefit** (rising tide lifts all boats).
-
-**Future Vision**
-
-Article concludes avec forward-looking perspective : agents becoming **invisible infrastructure** rather than explicit tools, interfaces adapting dynamically based on agent capabilities available, **agent marketplace** où teams discover/deploy specialized agents, **agent composition** allowing non-technical users chain agents, **continuous learning** agents improving depuis usage patterns. Vision represents **agent-native computing paradigm** versus current AI-bolted-onto-traditional-UX.
-
-Block's transparency provides **invaluable roadmap** for organizations building enterprise AI agent platforms.
+Au-delà d'interfaces plus jolies : une **révolution de l'accessibilité** (« quoi de plus accessible qu'un agent qui vous connaît et construit l'UI selon vos préférences ? ») et, à terme, une **générative UI** produisant des interfaces adaptées aux besoins de chaque utilisateur.
 
 ## GrapheDeConnaissance
 
@@ -85,7 +66,7 @@ Block's transparency provides **invaluable roadmap** for organizations building 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ebony Louis | PERSONNE | a_rédigé | article MCP-UI agentic interfaces | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Ebony Louis | PERSONNE | publie | article MCP-UI agentic interfaces | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Ido Salomon | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Liad Yosef | PERSONNE | a_créé | MCP-UI | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
@@ -94,9 +75,9 @@ Block's transparency provides **invaluable roadmap** for organizations building 
 | Andrew Harvard | PERSONNE | travaille_chez | Block | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | utilise | iframes sandboxées | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | remplace | interfaces textuelles des agents IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Goose | TECHNOLOGIE | supporte | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Shopify | ORGANISATION | a_adopté | MCP | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| MCP-UI | TECHNOLOGIE | préserve | expérience de marque des entreprises | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Goose | TECHNOLOGIE | utilise | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | utilise | MCP | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| MCP-UI | TECHNOLOGIE | permet | préservation de l'expérience de marque | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | MCP-UI | TECHNOLOGIE | permet | interfaces UI génératives personnalisées | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités

@@ -19,98 +19,98 @@ AI benchmarking, MMLU-Pro, ARC-AGI, METR Long Tasks, benchmarks limitations, vib
 Ethan Mollick
 
 ## Ton
-**Profil:** Educator-Practitioner | Première personne pédagogue | Analytical-Prescriptive | Intermédiaire-Accessible
+**Profil:** Éducateur-praticien | Première personne pédagogue | Analytique-prescriptif | Intermédiaire-accessible
 
-Mollick adopte educator voice mêlant rigueur analytique et accessibilité pragmatique. Structure pédagogique progressive (problem benchmarks → vibes solution → real-world solution → prescriptive action) typique One Useful Thing. Exemples ludiques (otters on planes, GuacaDrone, pelican on bike) rendent concepts abstraits tangibles sans sacrifier profondeur. Tone équilibré acknowledge limitations ("some problems", "not easy") tout en offrant solutions actionnables ("you are going to need to interview your AI"). Citations données empiriques (Epoch AI graphs, GDPval paper) confèrent crédibilité. Analogies business (hiring VP, job interview) connectent AI adoption à pratiques management familières. Typique Mollick style (Wharton professor meets accessible blogger) démystifiant complexité technique pour audience practitioner.
+Mollick adopte une voix d'éducateur mêlant rigueur analytique et accessibilité pragmatique. La structure pédagogique progressive (problème des benchmarks → solution "vibes" → solution monde réel → action prescriptive) est typique de One Useful Thing. Les exemples ludiques (loutres en avion, GuacaDrone, pélican à vélo) rendent les concepts abstraits tangibles sans sacrifier la profondeur. Le ton équilibré reconnaît les limites ("some problems", "not easy") tout en offrant des solutions actionnables ("you are going to need to interview your AI"). Les citations de données empiriques (graphiques Epoch AI, papier GDPval) confèrent de la crédibilité. Les analogies business (recruter un VP, entretien d'embauche) connectent l'adoption de l'IA à des pratiques de management familières. Style typique de Mollick (professeur à Wharton et blogueur accessible) démystifiant la complexité technique pour un public de praticiens.
 
-## Pense-bêtes
-- **Paradoxe benchmarking** : "Surprisingly hard time measuring how 'smart' they are, exactly"
-- **Problèmes benchmarks standards** :
-  - Answer keys publics → incorporés training (accidentel ou score gaming)
-  - Don't know what tests really measure (MMLU-Pro: "mean cranial capacity Homo erectus?", "Cheap Trick 1979 live album?")
-  - Tests uncalibrated : 84%→85% aussi difficile que 40%→41%?
-  - Top score unachievable (errors in questions, unusual reporting)
-- **Valeur collective** : Tous benchmarks trending "up and to the right" (AIME, GPQA, MMLU, SWE-bench, LiveBench, Terminal-Bench, ARC-AGI, METR Long Tasks)
-- **Underlying ability factor** : Real-world impact medicine to finance
-- **Lacune benchmarks** : Focus math, science, reasoning, coding - pas writing, sociological analysis, business advice, empathy
+## Pense-betes
+- **Paradoxe du benchmarking** : il est "étonnamment difficile de mesurer à quel point ils sont 'intelligents', exactement"
+- **Problèmes des benchmarks standards** :
+  - Corrigés publics → incorporés dans l'entraînement (accidentellement ou pour gonfler les scores)
+  - On ignore ce que les tests mesurent vraiment (MMLU-Pro : "capacité crânienne moyenne d'Homo erectus ?", "album live de Cheap Trick en 1979 ?")
+  - Tests non calibrés : passer de 84% à 85% est-il aussi difficile que de 40% à 41% ?
+  - Score maximal inatteignable (erreurs dans les questions, reporting inhabituel)
+- **Valeur collective** : tous les benchmarks progressent "vers le haut et la droite" (AIME, GPQA, MMLU, SWE-bench, LiveBench, Terminal-Bench, ARC-AGI, METR Long Tasks)
+- **Facteur de capacité sous-jacent** : corrélé à l'impact réel, de la médecine à la finance
+- **Lacune des benchmarks** : focalisés sur maths, science, raisonnement, code — pas sur l'écriture, l'analyse sociologique, le conseil business, l'empathie
 - **Citation clé** : "What you actually care about is which model would be best for YOUR needs"
 
-**Benchmarking on Vibes**
-- **Simon Willison** : pelican on bike test
-- **Mollick tests** : otter on plane, JavaScript "starship control panel in distant future", challenging poem, build video games/shaders, analyze papers, time travel writing
-- **Insights** : Does it make errors? Answers similar to others? Themes/biases?
-- **Writing exercise** : "Someone doles out remaining words like wartime rations, told only 10,000 left lifetime. At 47 words, holding newborn."
-- **Results patterns** :
-  - Claude 4.5 Sonnet : strong writing model
-  - Gemini 2.5 Pro : doesn't accurately keep word count (currently weakest)
-  - GPT-5 Thinking : wild stylist, complex metaphor, sometimes incoherent
-  - Kimi K2 Thinking : interesting phrases, story doesn't make sense
-- **Limitation vibes** : Idiosyncratic, different answers every time, better prompts = better outcomes, relying on feelings vs real measures
+**Benchmarking "aux vibes"**
+- **Simon Willison** : test du pélican à vélo
+- **Tests de Mollick** : loutre en avion, panneau de contrôle de vaisseau spatial en JavaScript, poème difficile, jeux vidéo/shaders, analyse d'articles, écriture sur le voyage dans le temps
+- **Questions posées** : Fait-il des erreurs ? Réponses similaires aux autres ? Thèmes/biais récurrents ?
+- **Exercice d'écriture** : "Quelqu'un distribue les mots restants comme des rations de guerre, on vous annonce qu'il vous en reste 10 000 à vie. À 47 mots, vous tenez un nouveau-né."
+- **Patterns de résultats** :
+  - Claude 4.5 Sonnet : modèle d'écriture solide
+  - Gemini 2.5 Pro : ne tient pas le compte de mots (actuellement le plus faible)
+  - GPT-5 Thinking : styliste exubérant, métaphores complexes, parfois incohérent
+  - Kimi K2 Thinking : tournures intéressantes, mais l'histoire n'a pas de sens
+- **Limites des vibes** : idiosyncratiques, réponses différentes à chaque fois, meilleurs prompts = meilleurs résultats, on se fie à des impressions plutôt qu'à des mesures
 
-**Benchmarking on Real World : OpenAI GDPval**
-- **Step 1** : Experts avg 14 years experience (finance, law, retail) generate complex realistic projects 4-7 hours human time
-- **Step 2** : Multiple AI models + human experts (paid by hour) complete tasks
-- **Step 3** : Third expert group grade results blind (AI vs human unknown), over 1 hour per question
-- **Strong areas** : Best models beat humans software development, personal financial advisors
-- **Weak areas** : Pharmacists, industrial engineers, real estate agents easily beat AI
-- **Model differences** : ChatGPT better sales manager, Claude better financial advisor
-- **Reveals Jagged Frontier** shape + how changing over time
+**Benchmarking sur le monde réel : OpenAI GDPval**
+- **Étape 1** : des experts (14 ans d'expérience en moyenne : finance, droit, retail) créent des projets réalistes complexes de 4 à 7 heures de travail humain
+- **Étape 2** : plusieurs modèles IA + experts humains (payés à l'heure) réalisent les tâches
+- **Étape 3** : un troisième groupe d'experts note les résultats en aveugle (IA vs humain inconnu), plus d'une heure par question
+- **Points forts** : les meilleurs modèles battent les humains en développement logiciel et conseil financier personnel
+- **Points faibles** : pharmaciens, ingénieurs industriels et agents immobiliers battent facilement l'IA
+- **Différences entre modèles** : ChatGPT meilleur directeur commercial, Claude meilleur conseiller financier
+- **Révèle la forme de la Jagged Frontier** et son évolution dans le temps
 
-**GuacaDrone experiment**
-- **Pitch** : Dubious idea - guacamole delivery via drones
-- **Method** : Each AI model rate viability 1-10, ten times each (AI answers differ every time)
-- **Results** :
-  - Grok : great idea (enthusiastic)
-  - Microsoft Copilot : excited
-  - GPT-5 & Claude 4.5 : more skeptical
-  - Mollick personally : would rate 2 or less
-- **Implication** : "Consistently rating ideas 3-4 points higher or lower means consistently steering you in different direction"
-- **Business impact** : Some want AI embraces risk, others avoid - important understand how AI "thinks" critical issues
+**Expérience GuacaDrone**
+- **Pitch** : idée douteuse — livraison de guacamole par drones
+- **Méthode** : chaque modèle IA note la viabilité de 1 à 10, dix fois chacun (les réponses varient à chaque fois)
+- **Résultats** :
+  - Grok : excellente idée (enthousiaste)
+  - Microsoft Copilot : emballé
+  - GPT-5 et Claude 4.5 : plus sceptiques
+  - Mollick personnellement : noterait 2 ou moins
+- **Implication** : "Noter systématiquement les idées 3-4 points plus haut ou plus bas, c'est vous orienter systématiquement dans une direction différente"
+- **Impact business** : certains veulent une IA qui embrasse le risque, d'autres qui l'évite — comprendre comment l'IA "pense" les questions critiques est essentiel
 
-**Interview Your Model prescription**
-- **Individuals** : Vibes-based enough, run otter test (though now too easy - upgraded to "documentary footage 1960s famous last concert before incident with swarm of otters" in Sora 2)
-- **Organizations at scale** : Different challenge
-  - "Better" isn't enough thousands tasks, hundreds employees
-  - Need know specifically what YOUR AI good at, not average
-  - GDPval revealed : top models performance varies significantly by task
-  - GuacaDrone : judgment on ambiguous questions, consistently different advice
-  - Differences compound at scale
-- **Can't rely on** : Vibes OR general benchmarks
-- **Must do** :
-  - Systematically test AI on actual work it will do + actual judgments it will make
-  - Create realistic scenarios reflecting use cases
-  - Run multiple times see patterns
-  - Experts assess results
-  - Compare models head-to-head on tasks that matter
-  - "Difference between 'this model scored 85% MMLU' and 'this model more accurate our financial analysis tasks but more conservative risk assessments'"
-  - Multiple times per year as new models released
-- **Analogie finale** : "You wouldn't hire VP based solely on SAT scores. You shouldn't pick AI advising thousands decisions based on whether it knows mean cranial capacity Homo erectus is just under 1,000 cubic centimeters."
+**Prescription "interviewez votre modèle"**
+- **Individus** : les vibes suffisent, faites le test de la loutre (devenu trop facile — mis à niveau en "images documentaires des années 1960 du dernier concert célèbre avant l'incident avec un banc de loutres" dans Sora 2)
+- **Organisations à grande échelle** : défi différent
+  - "Meilleur" ne suffit pas pour des milliers de tâches et des centaines d'employés
+  - Il faut savoir spécifiquement en quoi VOTRE IA est bonne, pas en moyenne
+  - GDPval l'a révélé : la performance des meilleurs modèles varie significativement selon la tâche
+  - GuacaDrone : jugement sur questions ambiguës, conseils systématiquement différents
+  - Les différences se cumulent à l'échelle
+- **Ne pas se fier** : ni aux vibes, ni aux benchmarks généraux
+- **À faire** :
+  - Tester systématiquement l'IA sur le travail réel qu'elle fera et les jugements réels qu'elle rendra
+  - Créer des scénarios réalistes reflétant les cas d'usage
+  - Exécuter plusieurs fois pour voir les patterns
+  - Faire évaluer les résultats par des experts
+  - Comparer les modèles tête-à-tête sur les tâches qui comptent
+  - "La différence entre 'ce modèle a obtenu 85% au MMLU' et 'ce modèle est plus précis sur nos tâches d'analyse financière mais plus conservateur dans l'évaluation des risques'"
+  - Plusieurs fois par an, à mesure que de nouveaux modèles sortent
+- **Analogie finale** : "Vous n'embaucheriez pas un VP sur la seule base de ses scores au SAT. Vous ne devriez pas choisir une IA qui conseillera des milliers de décisions sur le fait qu'elle sache que la capacité crânienne moyenne d'Homo erectus est d'un peu moins de 1 000 centimètres cubes."
 
 ## RésuméDe400mots
 
-Ethan Mollick argumente que malgré progrès mesurables IA, benchmarks standards échouent capturer ce qui importe vraiment : performance sur VOS tâches spécifiques avec VOS critères jugement. Il prescrit "interviewer" modèles IA comme candidats emploi plutôt que se fier scores tests génériques.
+Ethan Mollick soutient que malgré les progrès mesurables de l'IA, les benchmarks standards échouent à capturer ce qui importe vraiment : la performance sur VOS tâches spécifiques avec VOS critères de jugement. Il prescrit d'"interviewer" les modèles IA comme des candidats à l'embauche plutôt que de se fier aux scores de tests génériques.
 
-**Problèmes benchmarks standards**
+**Problèmes des benchmarks standards**
 
-Benchmarks comme MMLU-Pro posent questions obscures ("mean cranial capacity Homo erectus?", "Cheap Trick 1979 live album title?") dont on ignore ce qu'elles mesurent vraiment. Tests sont uncalibrated (difficulté 84%→85% vs 40%→41% inconnue), contiennent erreurs, et top scores peuvent être inatteignables. Pire : answer keys publics permettent incorporation training (accidentel ou gaming). Collectivement tous benchmarks (AIME, GPQA, MMLU, SWE-bench, ARC-AGI, METR) trending "up and to right", mesurant underlying ability factor corrélé real-world impact. Mais focus math/science/reasoning/coding laisse lacunes writing, business advice, empathy. "What you actually care about is which model would be best for YOUR needs."
+Des benchmarks comme MMLU-Pro posent des questions obscures ("capacité crânienne moyenne d'Homo erectus ?", "titre de l'album live de Cheap Trick en 1979 ?") dont on ignore ce qu'elles mesurent vraiment. Les tests ne sont pas calibrés (la difficulté de passer de 84% à 85% versus de 40% à 41% est inconnue), contiennent des erreurs, et les meilleurs scores peuvent être inatteignables. Pire : les corrigés publics permettent leur incorporation dans l'entraînement (accidentelle ou délibérée). Collectivement, tous les benchmarks (AIME, GPQA, MMLU, SWE-bench, ARC-AGI, METR) progressent "vers le haut et la droite", mesurant un facteur de capacité sous-jacent corrélé à l'impact réel. Mais leur focalisation sur les maths, la science, le raisonnement et le code laisse des lacunes sur l'écriture, le conseil business et l'empathie. "What you actually care about is which model would be best for YOUR needs."
 
-**Benchmarking on vibes : approche individuelle**
+**Benchmarking "aux vibes" : approche individuelle**
 
-Practioners développent tests idiosyncratiques : Simon Willison demande pelican on bike, Mollick otter on plane, JavaScript "starship control panel distant future", challenging poems, video games. Writing exercise révèle patterns : Claude 4.5 Sonnet strong writing, Gemini 2.5 Pro (currently weakest) doesn't track word count, GPT-5 Thinking wild stylist parfois incohérent, Kimi K2 Thinking phrases intéressantes mais story nonsensical. Vibes donnent "feel for AI models" mais idiosyncratiques, AI answers differ every time, rely feelings vs measures.
+Les praticiens développent des tests idiosyncratiques : Simon Willison demande un pélican à vélo, Mollick une loutre en avion, un panneau de contrôle de vaisseau spatial en JavaScript, des poèmes difficiles, des jeux vidéo. Un exercice d'écriture révèle des patterns : Claude 4.5 Sonnet est solide en écriture, Gemini 2.5 Pro (actuellement le plus faible) ne tient pas le compte de mots, GPT-5 Thinking est un styliste exubérant parfois incohérent, Kimi K2 Thinking produit des tournures intéressantes mais une histoire sans queue ni tête. Les vibes donnent une "sensation" des modèles, mais restent idiosyncratiques : les réponses varient à chaque fois et on se fie à des impressions plutôt qu'à de vraies mesures.
 
-**Benchmarking real world : GDPval method**
+**Benchmarking sur le monde réel : la méthode GDPval**
 
-OpenAI GDPval paper démontre approche rigoureuse : (1) Experts 14 years experience génèrent complex realistic projects 4-7 hours human time, (2) Multiple AI models + human experts complete tasks, (3) Third expert group grade blind over 1 hour per question. Révèle AI strong areas (software development, financial advisors beat humans) vs weak (pharmacists, industrial engineers, real estate agents beat AI). Model differences émergent : ChatGPT better sales manager, Claude better financial advisor. Reveals "Jagged Frontier" shape.
+Le papier GDPval d'OpenAI démontre une approche rigoureuse : (1) des experts de 14 ans d'expérience en moyenne créent des projets réalistes complexes de 4 à 7 heures de travail humain, (2) plusieurs modèles IA et des experts humains réalisent les tâches, (3) un troisième groupe d'experts note en aveugle, plus d'une heure par question. L'étude révèle les points forts de l'IA (développement logiciel, conseil financier : elle bat les humains) et ses faiblesses (pharmaciens, ingénieurs industriels, agents immobiliers battent l'IA). Des différences entre modèles émergent : ChatGPT est meilleur directeur commercial, Claude meilleur conseiller financier. La forme de la "Jagged Frontier" se dessine.
 
-**GuacaDrone reveals model personality**
+**GuacaDrone révèle la personnalité des modèles**
 
-Mollick pitch dubious idea "guacamole delivery drones", demande AI models rate viability 1-10 ten times each. Grok enthusiastic, Copilot excited, GPT-5/Claude skeptical. Mollick personally rate 2 or less. "Consistently rating ideas 3-4 points higher or lower means consistently steering you in different direction." Companies may want risk-embracing vs risk-avoiding AI - must understand how AI "thinks" critical issues.
+Mollick pitche une idée douteuse, la "livraison de guacamole par drones", et demande aux modèles de noter sa viabilité de 1 à 10, dix fois chacun. Grok est enthousiaste, Copilot emballé, GPT-5 et Claude sceptiques. Mollick lui-même noterait 2 ou moins. "Noter systématiquement les idées 3-4 points plus haut ou plus bas, c'est vous orienter systématiquement dans une direction différente." Selon les entreprises, on voudra une IA qui embrasse ou évite le risque : il faut comprendre comment l'IA "pense" les questions critiques.
 
-**Prescription organizations**
+**Prescription pour les organisations**
 
-Vibes suffisent individuals. Organizations deploying at scale need systematic testing : AI on actual work + actual judgments, realistic scenarios, run multiple times, experts assess, compare head-to-head tasks matter. "Difference between 'model scored 85% MMLU' and 'model more accurate financial analysis but more conservative risk assessments.'" Multiple evaluations yearly as new models released.
+Les vibes suffisent aux individus. Les organisations qui déploient à grande échelle ont besoin de tests systématiques : l'IA sur le travail et les jugements réels, des scénarios réalistes, exécutés plusieurs fois, évalués par des experts, avec comparaison tête-à-tête sur les tâches qui comptent. "La différence entre 'le modèle a obtenu 85% au MMLU' et 'le modèle est plus précis en analyse financière mais plus conservateur sur les risques'." À refaire plusieurs fois par an au rythme des nouveaux modèles.
 
-Analogie finale : "You wouldn't hire VP based solely SAT scores. Shouldn't pick AI advising thousands decisions based whether knows mean cranial capacity Homo erectus just under 1,000 cubic centimeters."
+Analogie finale : "Vous n'embaucheriez pas un VP sur ses seuls scores au SAT. Ne choisissez pas l'IA qui conseillera des milliers de décisions sur sa connaissance de la capacité crânienne moyenne d'Homo erectus."
 
 ## GrapheDeConnaissance
 
@@ -118,19 +118,19 @@ Analogie finale : "You wouldn't hire VP based solely SAT scores. Shouldn't pick 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | publie | Giving your AI a Job Interview | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | Giving your AI a Job Interview | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | interviewer modèles IA sur tâches réelles | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
-| benchmarks standards | CONCEPT | échouent_à | mesurer performance tâche-spécifique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| MMLU-Pro | TECHNOLOGIE | contient | questions de valeur incertaine | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | a_publié | GDPval paper | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| GDPval | METHODOLOGIE | révèle | Jagged Frontier des capacités IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | les benchmarks standards échouent à mesurer la performance tâche-spécifique | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| questions de valeur incertaine | CONCEPT | fait_partie_de | MMLU-Pro | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | GDPval paper | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| GDPval | METHODOLOGIE | mesure | Jagged Frontier des capacités IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Claude 4.5 Sonnet | TECHNOLOGIE | surpasse | autres modèles en écriture | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Claude | TECHNOLOGIE | est_meilleur_que | ChatGPT en conseil financier | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
-| Grok | TECHNOLOGIE | affiche | biais pro-risque dans évaluation idées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | surpasse | ChatGPT en conseil financier | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| biais pro-risque dans évaluation idées | CONCEPT | observé_dans | Grok | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Simon Willison | PERSONNE | utilise | test pelican sur vélo | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | utilise | test loutre sur avion | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| vibes-based testing | METHODOLOGIE | est_insuffisant_pour | organisations déployant IA à grande échelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| GDPval | METHODOLOGIE | démontre | différences significatives entre modèles par tâche | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | affirme_que | le vibes-based testing est insuffisant pour les organisations déployant l'IA à grande échelle | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| GDPval | METHODOLOGIE | mesure | différences significatives de performance entre modèles par tâche | MESURE | 0.96 | STATIQUE | déclaré_article |
 
 ### Entités
 

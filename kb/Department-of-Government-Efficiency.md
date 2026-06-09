@@ -8,7 +8,7 @@
 
 ## Relations (comme sujet)
 
-### a_ciblé
+### s_oppose_à
 
 - [[kb/Accenture\|Accenture]] (ORGANISATION) — 0.95, STATIQUE
   - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]

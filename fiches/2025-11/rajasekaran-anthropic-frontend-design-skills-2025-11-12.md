@@ -54,16 +54,16 @@ L'insight stratégique central : "Les modèles ont souvent la capacité de faire
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_développé | Skills Claude | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Skills Claude | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Skills Claude | TECHNOLOGIE | résout | convergence distributionnelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| convergence distributionnelle | CONCEPT | produit | designs génériques et prévisibles | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Skills Claude | TECHNOLOGIE | fournit | contexte dynamique à la demande | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Web Artifacts Builder | TECHNOLOGIE | débloque | React, Tailwind CSS, shadcn/ui | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| convergence distributionnelle | CONCEPT | permet | designs génériques et prévisibles | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Skills Claude | TECHNOLOGIE | permet | contexte dynamique à la demande | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Web Artifacts Builder | TECHNOLOGIE | permet | React, Tailwind CSS, shadcn/ui | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Prithvi Rajasekaran | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | direction thématique | METHODOLOGIE | remplace | spécifications pixel par pixel | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | typographie distinctive | CONCEPT | améliore | qualité designs générés | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude | TECHNOLOGIE | tend_vers | choix sûrs sans guidance | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Skills | TECHNOLOGIE | débloque | capacités latentes des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| choix sûrs sans guidance | CONCEPT | observé_dans | Claude | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Skills | TECHNOLOGIE | permet | capacités latentes des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
 
 ### Entités
 

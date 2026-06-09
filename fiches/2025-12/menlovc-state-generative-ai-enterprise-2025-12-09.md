@@ -1,4 +1,7 @@
-# Veille Technologique
+# menlovc-state-generative-ai-enterprise-2025-12-09
+
+## Veille
+Rapport annuel Menlo Ventures 2025 sur l'IA générative en entreprise - marché à 37 Md$, adoption, startups vs incumbents, PLG - menlovc.com
 
 ## Titre Article
 2025: The State of Generative AI in the Enterprise
@@ -10,111 +13,39 @@
 https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/
 
 ## Keywords
-Generative AI, Enterprise AI, AI Adoption, AI Market, AI Applications, AI Infrastructure, Product-Led Growth, AI Startups, AI Investment, AI Productivity
+IA générative, IA en entreprise, adoption de l'IA, marché de l'IA, applications IA, infrastructure IA, product-led growth, startups IA, investissement IA, productivité IA
 
 ## Authors
 Tim Tully, Joff Redfern, Deedy Das, Derek Xiao (Menlo Ventures)
 
-## Résumé
-Menlo Ventures' third annual report on the state of generative AI in the enterprise reveals unprecedented growth and adoption patterns. The study shows that enterprise AI has surged from $1.7B to $37B since 2023, capturing 6% of the global SaaS market and growing faster than any software category in history. The report provides comprehensive insights into AI spending patterns, adoption strategies, and the competitive landscape between startups and incumbents.
+## Ton
+Profil : rapport de recherche annuel d'un fonds de capital-risque (Menlo Ventures), registre analytique et quantitatif, niveau technique moyen (business/marché plutôt qu'ingénierie).
+Style : argumentation data-driven appuyée sur une enquête auprès de plus de 500 décideurs entreprise, abondance de chiffres et de ratios (taille de marché, croissance YoY, parts startups vs incumbents), comparaisons sectorielles et départementales. Ton assertif d'investisseur qui défend la thèse "boom, pas bulle". Public cible : investisseurs, fondateurs, dirigeants enterprise tech et acheteurs IT.
 
-## Points Clés
+## Pense-betes
+- Troisième rapport annuel Menlo Ventures : dépenses IA entreprise passées de 1,7 Md$ (2023) à 37 Md$ (2025), soit 3,2x en un an (11,5 Md$ en 2024) — catégorie logicielle à la croissance la plus rapide de l'histoire
+- Répartition : applications 51% (19 Md$, soit plus de 6% du marché logiciel mondial), infrastructure 33%, API de modèles 16%
+- Maturité : au moins 10 produits IA dépassent 1 Md$ d'ARR, 50 produits dépassent 100 M$ d'ARR
+- Bascule buy vs build : 76% des cas d'usage IA sont achetés (vs 53% en 2024)
+- 47% des deals IA passent en production (vs 25% pour le SaaS traditionnel)
+- PLG : 27% des dépenses applicatives IA arrivent par des motions product-led (4x le taux du logiciel traditionnel) ; le "Shadow AI" (cartes bancaires personnelles) pèserait près de 40% des dépenses applicatives
+- Startups : 63% du marché applicatif IA (vs 37% incumbents) — Product & Engineering 71%, Sales 78%, Finance & Ops 91% ; mais incumbents à 56% sur l'infrastructure (Databricks, Snowflake, MongoDB)
+- IA départementale : 7,3 Md$ (4,1x YoY), dont codage 4 Md$ (55%) — 50% des développeurs utilisent quotidiennement des outils de codage IA, gains de vélocité 15%+
+- IA verticale : 3,5 Md$ (2,9x YoY), santé en tête à 1,5 Md$ (43%, triplé depuis 2024) ; legal 400 M$, finance 350 M$, éducation 300 M$
+- Exemple de duel startup/incumbent : Cursor vs GitHub Copilot
 
-### Market Growth and Spending
-- **Rapid Market Expansion**: Enterprise AI spending reached $37 billion in 2025, up from $11.5 billion in 2024 (3.2x year-over-year growth)
-- **Application Layer Dominance**: $19 billion (51%) went to AI applications, representing over 6% of the entire software market
-- **Market Maturity**: At least 10 products generate over $1 billion in ARR and 50 products generate over $100 million in ARR
-- **Category Distribution**: Applications (51%), Infrastructure (33%), Model APIs (16%)
+## RésuméDe400mots
+Le troisième rapport annuel de Menlo Ventures sur l'état de l'IA générative en entreprise documente une croissance sans précédent : les dépenses IA des entreprises sont passées de 1,7 Md$ en 2023 à 37 Md$ en 2025 (11,5 Md$ en 2024, soit 3,2x en un an), capturant 6% du marché SaaS mondial. C'est la catégorie logicielle à la croissance la plus rapide de l'histoire.
 
-### Adoption Patterns
-- **Buy vs Build Shift**: 76% of AI use cases are now purchased rather than built internally (vs 53% in 2024)
-- **High Conversion Rates**: 47% of AI deals go to production vs 25% for traditional SaaS
-- **Product-Led Growth**: 27% of AI application spend comes through PLG motions (4x traditional software rate)
-- **Shadow AI Adoption**: Employees using personal credit cards for AI tools may represent close to 40% of application AI spend
+La couche applicative domine avec 19 Md$ (51% des dépenses), devant l'infrastructure (33%) et les API de modèles (16%). Le marché gagne en maturité : au moins 10 produits dépassent le milliard de dollars d'ARR et 50 produits dépassent les 100 M$.
 
-### Competitive Landscape
-- **Startup Dominance**: Startups captured 63% of AI application market vs incumbents' 37%
-- **Departmental Breakdown**:
-  - Product & Engineering: 71% startup share (Cursor vs GitHub Copilot)
-  - Sales: 78% startup share (Clay, Actively vs Salesforce)
-  - Finance & Operations: 91% startup share (Rillet, Campfire vs Intuit)
-- **Infrastructure Layer**: Incumbents hold 56% market share (Databricks, Snowflake, MongoDB)
+Les patterns d'adoption évoluent nettement. Les entreprises achètent désormais 76% de leurs cas d'usage IA plutôt que de les construire en interne (contre 53% en 2024). Le taux de conversion en production atteint 47%, contre 25% pour le SaaS traditionnel, signe d'un ROI perçu clair. Le product-led growth pèse 27% des dépenses applicatives IA (quatre fois le taux du logiciel classique), et le "Shadow AI" — employés payant des outils IA avec leur carte personnelle — représenterait près de 40% des dépenses applicatives.
 
-### Departmental AI Spending
-- **Total Departmental AI**: $7.3 billion in 2025 (4.1x YoY growth)
-- **Coding Dominance**: $4.0 billion (55% of departmental AI), with 50% of developers using AI coding tools daily
-- **Other Departments**: IT ($700M), Marketing ($660M), Customer Success ($630M), Design ($490M), HR ($370M)
+Sur le plan concurrentiel, les startups IA-natives capturent 63% du marché applicatif contre 37% pour les incumbents. La domination est particulièrement marquée par département : 71% en Product & Engineering (Cursor face à GitHub Copilot), 78% en Sales (Clay, Actively face à Salesforce), 91% en Finance & Operations (Rillet, Campfire face à Intuit). Les incumbents conservent en revanche 56% de la couche infrastructure (Databricks, Snowflake, MongoDB).
 
-### Vertical AI Adoption
-- **Total Vertical AI**: $3.5 billion in 2025 (2.9x YoY growth)
-- **Healthcare Leadership**: $1.5 billion (43% of vertical AI), tripling from $450M in 2024
-- **Other Verticals**: Legal ($400M), Financial Services ($350M), Education ($300M), Retail ($250M)
+L'IA départementale totalise 7,3 Md$ (4,1x en un an), dominée par le codage : 4 Md$, soit 55% du total, avec 50% des développeurs utilisant quotidiennement des outils de codage IA et des gains de vélocité mesurés de 15% et plus. Suivent l'IT (700 M$), le marketing (660 M$), le customer success (630 M$), le design (490 M$) et les RH (370 M$). L'IA verticale atteint 3,5 Md$ (2,9x), tirée par la santé (1,5 Md$, 43%, triplement depuis 2024), devant le juridique, les services financiers, l'éducation et le retail.
 
-### Horizontal AI Applications
-- **Total Horizontal AI**: $8.4 billion in 2025
-- **Key Categories**: Productivity tools, collaboration platforms, knowledge management, workflow automation
-- **Notable Players**: Notion, Coda, Slack, Microsoft 365 Copilot
-
-## Analyse
-
-### AI Boom vs Bubble Debate
-The report presents compelling evidence that enterprise AI represents a genuine boom rather than a bubble:
-
-1. **Real Revenue Growth**: $37B market with 3.2x YoY growth demonstrates tangible economic impact
-2. **Broad Adoption**: 500+ enterprise decision-makers surveyed show widespread implementation
-3. **Productivity Gains**: Measurable improvements in developer productivity (15%+ velocity gains)
-4. **Market Maturity**: Multiple billion-dollar ARR products indicate sustainable business models
-
-### Enterprise Adoption Strategies
-The research reveals a significant shift in enterprise AI adoption strategies:
-
-1. **From Build to Buy**: Enterprises increasingly prefer purchasing ready-made AI solutions (76%) over internal development
-2. **PLG-Driven Adoption**: Bottom-up adoption through individual users is 4x more prevalent than in traditional software
-3. **High-Intent Purchasing**: 47% conversion rate to production indicates strong buyer commitment and clear ROI
-4. **Departmental Focus**: Coding has emerged as the "killer use case" with $4B spend and 55% developer adoption
-
-### Competitive Dynamics
-The report highlights the disruptive impact of AI-native startups:
-
-1. **Startup Advantage**: AI-native startups outperform incumbents in application layers due to faster iteration and better UX
-2. **Incumbents' Infrastructure Strength**: Traditional vendors maintain dominance in infrastructure (56% market share)
-3. **Vertical-Specific Patterns**: Startups thrive in agile departments (sales, marketing) while incumbents hold ground in IT and data science
-4. **Ecosystem Shift**: The rise of model-agnostic tools (Cursor, OpenRouter) enables faster adoption of frontier models
-
-### Economic Impact
-The study quantifies the economic transformation driven by generative AI:
-
-1. **Market Creation**: Enterprise AI is the fastest-scaling software category in history
-2. **Job Function Transformation**: Coding tools demonstrate 15%+ productivity improvements
-3. **Industry-Specific Adoption**: Healthcare's $1.5B spend reflects sector-specific pain points and regulatory compliance
-4. **Global Competitiveness**: The report notes international competition, particularly from Chinese AI providers
-
-## Conclusion
-
-Menlo Ventures' 2025 report provides definitive evidence that generative AI has moved beyond hype to become a fundamental driver of enterprise productivity and innovation. The data shows:
-
-1. **Sustainable Growth**: $37B market with 3.2x YoY growth indicates a mature, expanding ecosystem
-2. **Adoption Maturity**: Enterprises have moved from experimentation to production deployment at scale
-3. **Competitive Realignment**: AI-native startups are disrupting traditional software markets
-4. **Productivity Revolution**: Coding and other departmental applications demonstrate measurable ROI
-5. **New Adoption Paradigms**: PLG and bottom-up adoption are reshaping enterprise software procurement
-
-The report positions generative AI as a transformative force comparable to previous computing revolutions, with the potential to redefine enterprise software markets and create new categories of business value.
-
-## Références
-
-- Menlo Ventures: https://menlovc.com/
-- MIT Study on AI Initiative Failure Rates: https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf
-- Anthropic: https://www.anthropic.com/
-- OpenAI: https://openai.com/
-- Google Gemini: https://gemini.google.com/
-- Cursor: https://cursor.com/
-- n8n: https://n8n.io/
-- GitHub Copilot: https://github.com/features/copilot
-- Previous Menlo Reports: https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/
-
-## Hashtags
-#GenerativeAI #EnterpriseAI #AIAdoption #AIMarket #AIApplications #AIInfrastructure #PLG #AIStartups #AIImpact #AIProductivity
+Le rapport tranche le débat boom vs bulle en faveur du boom : revenus réels en forte croissance, adoption large (500+ décideurs interrogés), gains de productivité mesurables et modèles économiques durables. Il souligne aussi la montée des outils model-agnostic (Cursor, OpenRouter) qui accélèrent l'adoption des modèles frontière, et la concurrence internationale, notamment des fournisseurs chinois.
 
 ## GrapheDeConnaissance
 
@@ -122,16 +53,16 @@ The report positions generative AI as a transformative force comparable to previ
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Menlo Ventures | ORGANISATION | a_publié | rapport State of Generative AI 2025 | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| marché IA entreprise | CONCEPT | a_atteint | 37 milliards de dollars en 2025 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| marché IA entreprise | CONCEPT | a_crû_de | 3,2x par rapport à 2024 | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| startups IA | CONCEPT | capturent | 63% du marché applicatif IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| codage IA | CONCEPT | représente | 4 milliards de dollars (55% IA départementale) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| entreprises | CONCEPT | préfèrent_acheter | 76% des cas d'usage IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| adoption PLG | METHODOLOGIE | représente | 27% des dépenses applicatives IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| santé | CONCEPT | domine | IA verticale avec 1,5 milliard dollars | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Menlo Ventures | ORGANISATION | publie | rapport State of Generative AI 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| marché IA entreprise | CONCEPT | mesure | 37 milliards de dollars en 2025 | MESURE | 0.95 | STATIQUE | déclaré_article |
+| marché IA entreprise | CONCEPT | mesure | croissance 3,2x par rapport à 2024 | MESURE | 0.95 | STATIQUE | déclaré_article |
+| startups IA | CONCEPT | mesure | 63% du marché applicatif IA | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| codage IA | CONCEPT | mesure | 4 milliards de dollars (55% de l'IA départementale) | MESURE | 0.93 | STATIQUE | déclaré_article |
+| entreprises | CONCEPT | mesure | 76% des cas d'usage IA achetés plutôt que construits | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| adoption PLG | METHODOLOGIE | mesure | 27% des dépenses applicatives IA | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
+| santé | CONCEPT | mesure | 1,5 milliard de dollars d'IA verticale (43%) | MESURE | 0.90 | STATIQUE | déclaré_article |
 | Cursor | TECHNOLOGIE | concurrence | GitHub Copilot | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Shadow AI | CONCEPT | représente | 40% des dépenses applicatives IA | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Shadow AI | CONCEPT | mesure | environ 40% des dépenses applicatives IA | MESURE | 0.82 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

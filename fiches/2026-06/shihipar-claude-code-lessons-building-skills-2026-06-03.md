@@ -99,21 +99,21 @@ Côté **distribution**, Anthropic range ses skills dans `./.claude/skills` ; el
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Thariq Shihipar | PERSONNE | a_écrit | Lessons from building Claude Code: How we use skills | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_publié | Lessons from building Claude Code: How we use skills | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Thariq Shihipar | PERSONNE | publie | Lessons from building Claude Code: How we use skills | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Lessons from building Claude Code: How we use skills | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | fait_partie_de | équipe Claude Code | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Skill | CONCEPT | est | dossier d'instructions scripts et ressources | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| système de fichiers d'une skill | CONCEPT | est_une_forme_de | progressive disclosure | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | classe | les skills en 9 catégories | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| section Gotchas | CONCEPT | est | contenu le plus à fort signal d'une skill | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| champ description d'une skill | CONCEPT | sert_de | déclencheur pour le modèle | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| helper scripts | CONCEPT | libèrent | les turns du modèle pour la composition | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| variable CLAUDE_PLUGIN_DATA | TECHNOLOGIE | fournit | répertoire stable de mémoire persistante | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| hooks de skill | TECHNOLOGIE | sont_activés | seulement pendant l'invocation de la skill | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | distribue | les skills via un marketplace interne par PR | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Skill | CONCEPT | est_instance_de | dossier d'instructions scripts et ressources | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| système de fichiers d'une skill | CONCEPT | est_instance_de | progressive disclosure | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | utilise | une taxonomie de 9 catégories de skills | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Thariq Shihipar | PERSONNE | affirme_que | la section Gotchas est le contenu à plus fort signal d'une skill | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| champ description d'une skill | CONCEPT | permet | le déclenchement de la skill par le modèle | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| helper scripts | CONCEPT | permet | de consacrer les turns du modèle à la composition | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| variable CLAUDE_PLUGIN_DATA | TECHNOLOGIE | permet | un répertoire stable de mémoire persistante | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| hooks de skill | TECHNOLOGIE | s_applique_à | la seule durée d'invocation de la skill | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | utilise | un marketplace interne par PR pour distribuer les skills | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | hook PreToolUse | TECHNOLOGIE | mesure | l'usage des skills | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
-| auteur | PERSONNE | recommande | ne pas documenter ce que Claude sait déjà | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| AskUserQuestion | TECHNOLOGIE | sert_à | collecter la configuration manquante d'une skill | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Thariq Shihipar | PERSONNE | recommande | ne pas documenter ce que Claude sait déjà | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| AskUserQuestion | TECHNOLOGIE | permet | de collecter la configuration manquante d'une skill | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

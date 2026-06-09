@@ -229,27 +229,27 @@ Les devs choisis pour **coder** font désormais un travail **différent** sans t
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ivan Chepurin | PERSONNE | co-rédige | AI-assisted engineers are burning out | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Travis Turner | PERSONNE | co-rédige | AI-assisted engineers are burning out | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Evil Martians | ORGANISATION | publie | Chronicles AI-assisted engineers burning out | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| AI-assisted productivity | CONCEPT | crée | developer burnout | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Alice (case study) | CONCEPT | remplit | temps libéré par plus de tâches | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Cycle craft | CONCEPT | est_compressé_en | planning + review (sans crafting) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Phase craft | CONCEPT | est_remplacée_par | review code | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Ivan Chepurin | PERSONNE | publie | AI-assisted engineers are burning out | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Travis Turner | PERSONNE | publie | AI-assisted engineers are burning out | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Evil Martians | ORGANISATION | publie | Chronicles AI-assisted engineers burning out | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Ivan Chepurin | PERSONNE | affirme_que | la productivité accélérée par l'IA cache un coût caché : le burnout développeur | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Remplissage du temps libéré par plus de tâches | CONCEPT | observé_dans | Alice (case study) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Ivan Chepurin | PERSONNE | affirme_que | le cycle craft (planning → crafting → result) est compressé en planning + review sans crafting | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Review code | CONCEPT | remplace | Phase craft | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Production de sens | CONCEPT | s_oppose_à | consommation de sens | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Quiet career change | CONCEPT | affecte | développeurs IA-augmentés | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Modèle IA | TECHNOLOGIE | remplit | silence avant pensée humaine | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Plus de code généré | CONCEPT | requiert | plus de review | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Faible friction prompting | CONCEPT | encourage | pivots constants sans scoping | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| HBR study 2026 | EVENEMENT | confirme | cognitive exhaustion AI oversight | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| UC Berkeley research 2026 | EVENEMENT | observe | workers remplissent pauses par tâches IA | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Iteration max 3-4 | METHODOLOGIE | recommandée_par | Chepurin & Turner | PERSONNE | 0.94 | ATEMPOREL | déclaré_article |
-| Craft hours AI-free | METHODOLOGIE | protège | satisfaction professionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Mode ask | METHODOLOGIE | est_préférable_à | mode generation | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Agent fine-tuning + guardrails | CONCEPT | constitue | nouveau métier émergent | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| AI-assisted engineers burning out | EVENEMENT | converge_avec | Osmani Cognitive Surrender + Frizzo Year Claude Code + Bedard BCG Brain Fry | CONCEPT | 0.94 | DYNAMIQUE | inféré |
-| AI-assisted engineers burning out | EVENEMENT | converge_avec | Farley CD AI Trap (review bottleneck = Jevons paradox) | CONCEPT | 0.91 | DYNAMIQUE | inféré |
-| AI-assisted engineers burning out | EVENEMENT | est_face_sombre_de | Shipper After Automation (more work) | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| Quiet career change | CONCEPT | s_applique_à | développeurs IA-augmentés | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Ivan Chepurin | PERSONNE | affirme_que | « The model fills the silence before your own thinking has a chance to connect dots » | CITATION | 0.94 | ATEMPOREL | déclaré_article |
+| Ivan Chepurin | PERSONNE | affirme_que | « The more code is generated, the more code needs to be reviewed » | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Faible friction prompting | CONCEPT | permet | pivots constants sans scoping | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| HBR study 2026 | DOCUMENT | soutient | cognitive exhaustion AI oversight | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| UC Berkeley research 2026 | DOCUMENT | affirme_que | les workers remplissent leurs pauses naturelles par des tâches IA | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
+| Ivan Chepurin | PERSONNE | recommande | Iteration max 3-4 | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Craft hours AI-free | METHODOLOGIE | améliore | satisfaction professionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Mode ask | METHODOLOGIE | surpasse | mode generation | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Agent fine-tuning + guardrails | CONCEPT | est_instance_de | nouveau métier émergent | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| AI-assisted engineers burning out | DOCUMENT | converge_avec | Osmani Cognitive Surrender + Frizzo Year Claude Code + Bedard BCG Brain Fry | DOCUMENT | 0.94 | DYNAMIQUE | inféré |
+| AI-assisted engineers burning out | DOCUMENT | converge_avec | Farley CD AI Trap (review bottleneck = Jevons paradox) | DOCUMENT | 0.91 | DYNAMIQUE | inféré |
+| AI-assisted engineers burning out | DOCUMENT | affine | Shipper After Automation (more work) | DOCUMENT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -258,7 +258,7 @@ Les devs choisis pour **coder** font désormais un travail **différent** sans t
 | Ivan Chepurin | PERSONNE | rôle | Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) | AJOUT |
 | Travis Turner | PERSONNE | rôle | Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) | AJOUT |
 | Evil Martians | ORGANISATION | secteur | Cabinet conseil ingénierie ~150 ingénieurs, Berkeley/global, spécialiste Rails/React, blog Chronicles | AJOUT |
-| AI-assisted engineers are burning out | EVENEMENT | description | Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions | AJOUT |
+| AI-assisted engineers are burning out | DOCUMENT | description | Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions | AJOUT |
 | Ben vs Alice (case study) | METHODOLOGIE | définition | Cadre narratif Chepurin/Turner — Ben (4h traditional, satisfaction) vs Alice (2h AI-assisted, intensité cognitive concentrée + remplit temps libéré, pas de satisfaction). Outil pédagogique pour discuter charge cognitive cachée | AJOUT |
 | Compensate satisfaction with quantity | CONCEPT | définition | Formule-canonique Chepurin/Turner — *« We compensate for a lack of satisfaction with work quantity. »* Mécanisme central de l'escalade burnout | AJOUT |
 | Quiet career change | CONCEPT | définition | Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles | AJOUT |
@@ -268,4 +268,4 @@ Les devs choisis pour **coder** font désormais un travail **différent** sans t
 | Mode ask vs mode generation | METHODOLOGIE | définition | Recommandation Chepurin/Turner — préférer interroger le modèle (mode pédagogique) à le laisser générer (mode délégation), pour maintenir l'engagement cognitif | AJOUT |
 | Cycle craft compressé | CONCEPT | définition | Mécanisme structurel Chepurin/Turner — *(planning → crafting → result)* compressé en *(planning → result)*. Production de sens (craft) remplacée par consommation de sens (review) | AJOUT |
 | Model fills the silence | CONCEPT | définition | Métaphore cognitive Chepurin/Turner — *« The model fills the silence before your own thinking has a chance to connect dots. »* Élimine le problem-solving passif (douches, marches) | AJOUT |
-| HBR study 2026 cognitive exhaustion | EVENEMENT | description | Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner | AJOUT |
+| HBR study 2026 cognitive exhaustion | DOCUMENT | description | Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner | AJOUT |

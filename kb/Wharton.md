@@ -1,6 +1,6 @@
 # Wharton
 
-> **Type** : ORGANISATION | 3 relations | 3 fiches sources
+> **Type** : ORGANISATION | 2 relations | 3 fiches sources
 
 ## Attributs
 
@@ -9,15 +9,14 @@
 
 ## Relations (comme sujet)
 
-### a_produit
+### a_créé
 
 - [[kb/_entites-mineures#simulation-business-complexe\|simulation business complexe]] (METHODOLOGIE) — 0.90, STATIQUE
   - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
 
 ## Relations (comme objet)
 
-- [[kb/Ethan-Mollick\|Ethan Mollick]] **est_professeur_à** → Wharton — 0.98
-- [[kb/Ethan-Mollick\|Ethan Mollick]] **est_affilié_à** → Wharton — 0.97
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **travaille_chez** → Wharton — 0.98
 
 ## Fiches sources
 

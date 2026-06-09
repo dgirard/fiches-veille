@@ -167,25 +167,25 @@ Bain & Company, 100 billion SaaS opportunity, cross-system labor, agentic AI pri
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Bain & Company | ORGANISATION | publie | The $100-Billion SaaS Opportunity | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| David Crawford | PERSONNE | co-rédige | The $100-Billion SaaS Opportunity | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Chris McLaughlin | PERSONNE | co-rédige | The $100-Billion SaaS Opportunity | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Greg Fiore | PERSONNE | co-rédige | The $100-Billion SaaS Opportunity | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Cross-system labor | CONCEPT | représente_marché_de | ~100 Md$ US (~200 Md$ étendu) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Cross-system labor | CONCEPT | est_capturé_à | 10% (4-6 Md$) | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Agentic AI | TECHNOLOGIE | automatise | coordination cross-system labor | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Avantage concurrentiel SaaS | CONCEPT | se_déplace_de | system of record ownership vers cross-workflow decision context | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Six facteurs d'automatisation | METHODOLOGIE | comprennent | output verifiability + consequence of failure + digitized knowledge + integration complexity + process variability + physical world dependency | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Customer support | CONCEPT | a_potentiel_automatisation | 40-60% | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Legal | CONCEPT | a_potentiel_automatisation | 20-30% | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Sierra | ORGANISATION | exemplifie | autonomous customer issue resolution cross-system | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Glean | ORGANISATION | exemplifie | cross-function employee request coordination | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Cursor | ORGANISATION | a_doublé_ARR_en | un trimestre atteignant 2 Md$ | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Accumulated execution data | CONCEPT | constitue | moat durable agentic AI | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Bain | ORGANISATION | recommande | playbook 3 phases Assessment + Strategic Positioning + Execution | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Data foundations | CONCEPT | doivent_être_redesignées_pour | agent readiness | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Bain analyse | CONCEPT | converge_avec | DORA ROI 2026, Foundation Capital Context Graphs, Seale Semantic Agent, Talisman Ontology Pipeline | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Bain | ORGANISATION | publie_série | software industry in the age of AI (5 volets) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | publie | The $100-Billion SaaS Opportunity | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| David Crawford | PERSONNE | publie | The $100-Billion SaaS Opportunity | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Chris McLaughlin | PERSONNE | publie | The $100-Billion SaaS Opportunity | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Greg Fiore | PERSONNE | publie | The $100-Billion SaaS Opportunity | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | mesure | marché cross-system labor ~100 Md$ US (~200 Md$ étendu) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | mesure | capture actuelle du cross-system labor : 10% (4-6 Md$) | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
+| Agentic AI | TECHNOLOGIE | remplace | coordination cross-system labor | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | affirme_que | l'avantage concurrentiel se déplace du system of record ownership vers le cross-workflow decision context | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Output verifiability, consequence of failure, digitized knowledge, integration complexity, process variability, physical world dependency | CONCEPT | fait_partie_de | Six facteurs d'automatisation | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | mesure | potentiel d'automatisation customer support : 40-60% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Bain & Company | ORGANISATION | mesure | potentiel d'automatisation legal : 20-30% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Autonomous customer issue resolution cross-system | CONCEPT | observé_dans | Sierra | ORGANISATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Cross-function employee request coordination | CONCEPT | observé_dans | Glean | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Cursor | ORGANISATION | mesure | ARR doublé en un trimestre, atteignant 2 Md$ | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Accumulated execution data | CONCEPT | est_instance_de | moat durable agentic AI | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | recommande | playbook 3 phases Assessment + Strategic Positioning + Execution | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | recommande | redesign des data foundations pour l'agent readiness | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| The $100-Billion SaaS Opportunity | DOCUMENT | converge_avec | DORA ROI 2026, Foundation Capital Context Graphs, Seale Semantic Agent, Talisman Ontology Pipeline | DOCUMENT | 0.93 | DYNAMIQUE | inféré |
+| Bain & Company | ORGANISATION | publie | software industry in the age of AI (série 5 volets) | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -200,8 +200,7 @@ Bain & Company, 100 billion SaaS opportunity, cross-system labor, agentic AI pri
 | Six facteurs d'automatisation (Bain) | METHODOLOGIE | définition | Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency | AJOUT |
 | Accumulated execution data | CONCEPT | définition | Moat durable agentic AI Bain — base d'exécutions agent qui s'enrichit avec chaque action, plus dure à répliquer pour concurrents que data statique | AJOUT |
 | 100 milliards SaaS opportunity | CONCEPT | description | Marché US cross-system labor automatable par agents IA. ~200 Md$ étendu CAN/EU/AU/NZ. 4-6 Md$ capturés (10%), >90 Md$ à conquérir. Distribution : Sales 20 + COGS 26 + R&D 6-12 + support 6-12 + finance 6-12 Md$ | AJOUT |
-| Cursor 2 milliards ARR | CONCEPT | source | Cursor a doublé ARR en un trimestre atteignant 2 Md$ (cité par Bain comme exemple-référence agentic) | AJOUT |
 | Glean | ORGANISATION | description | Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context) | AJOUT |
 | Playbook 3 phases (Bain) | METHODOLOGIE | définition | (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness | AJOUT |
 | Agent readiness data foundations | CONCEPT | description | Chantier stratégique CDO 2026 — redesign des data foundations pour permettre exécution agentic. Convergence avec DORA AI-accessible internal data + healthy data ecosystems, Talisman Ontology Pipeline Refresh, Seale Semantic Agent | AJOUT |
-| Série Bain software industry age of AI | EVENEMENT | description | Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor | AJOUT |
+| Série Bain software industry age of AI | DOCUMENT | description | Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor | AJOUT |

@@ -60,13 +60,13 @@ L'article conclut sur un changement de paradigme : l'IA n'est plus un assistant 
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | utilise | 5 agents parallèles | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Boris Cherny | PERSONNE | utilise_exclusivement | Opus 4.5 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| CLAUDE.md | TECHNOLOGIE | corrige | erreurs récurrentes IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | aurait_atteint | 1 milliard USD ARR | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
-| slash commands | METHODOLOGIE | automatise | tâches répétitives développeur | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| boucle vérification | METHODOLOGIE | améliore_qualité_de | 2-3x | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| subagents | TECHNOLOGIE | spécialisent | code-simplifier, verify-app | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Opus 4.5 | TECHNOLOGIE | nécessite_moins_de | corrections | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | utilise | Opus 4.5 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | résout | erreurs récurrentes de l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | mesure | 1 milliard USD ARR | MESURE | 0.80 | DYNAMIQUE | déclaré_article |
+| slash commands | METHODOLOGIE | permet | automatisation des tâches répétitives développeur | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| boucle vérification | METHODOLOGIE | améliore | qualité finale du code (2-3x) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Boris Cherny | PERSONNE | utilise | subagents spécialisés (code-simplifier, verify-app) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Opus 4.5 | TECHNOLOGIE | réduit | corrections nécessaires | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

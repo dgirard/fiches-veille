@@ -96,19 +96,19 @@ La conclusion est un rappel à l'ordre intemporel : ***« It's still just progra
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| David Thomas | PERSONNE | a_écrit | Failing Faster | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| David Thomas | PERSONNE | a_co_écrit | The Pragmatic Programmer | DOCUMENT | 0.95 | STATIQUE | généré_assistant |
-| David Thomas | PERSONNE | a_utilisé | Claude | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| IA | CONCEPT | accélère | la dégradation du code | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| dégradation du code en équipe | CONCEPT | passe_de | 18 mois à 18 heures avec l'IA | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| code | CONCEPT | se_dégrade | naturellement sauf effort d'entretien | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| LLM | TECHNOLOGIE | optimise | l'engagement et la satisfaction utilisateur | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| David Thomas | PERSONNE | compare | les IA à des puppy-dog junior developers | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| IA | CONCEPT | décourage | le refactoring | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| jugement professionnel | CONCEPT | distingue | l'ingénieur expérimenté du novice | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| David Thomas | PERSONNE | affirme_que | it's still just programming | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| hygiène de code | CONCEPT | reste | nécessaire à l'ère de l'IA (effet amplifié) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Gordon Bell | PERSONNE | affirme_que | les désastres viennent de trop d'idées au même endroit | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| David Thomas | PERSONNE | publie | Failing Faster | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| David Thomas | PERSONNE | publie | The Pragmatic Programmer | DOCUMENT | 0.95 | STATIQUE | généré_assistant |
+| David Thomas | PERSONNE | utilise | Claude | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| David Thomas | PERSONNE | affirme_que | l'IA n'abolit pas la dégradation du code, elle l'accélère | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| David Thomas | PERSONNE | mesure | dégradation du code atteinte en 18 heures avec l'IA contre 18 mois en équipe | MESURE | 0.93 | STATIQUE | déclaré_article |
+| David Thomas | PERSONNE | affirme_que | « code naturally degrades; you have to invest effort to stop it happening » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| LLM | TECHNOLOGIE | améliore | l'engagement et la satisfaction utilisateur | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| David Thomas | PERSONNE | affirme_que | les IA sont des puppy-dog junior developers, empressés mais brouillons | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | réduit | le refactoring | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| jugement professionnel | CONCEPT | permet | de distinguer l'ingénieur expérimenté du novice | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| David Thomas | PERSONNE | affirme_que | « it's still just programming » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| David Thomas | PERSONNE | affirme_que | l'hygiène de code reste nécessaire à l'ère de l'IA (effet amplifié) | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Gordon Bell | PERSONNE | affirme_que | les désastres viennent de trop d'idées au même endroit | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -62,18 +62,18 @@ Nicholas Carlini, chercheur de l'équipe Safeguards d'Anthropic, a dirigé une e
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Nicholas Carlini | PERSONNE | emploie | agents parallèles | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Nicholas Carlini | PERSONNE | travaille_pour | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Nicholas Carlini | PERSONNE | utilise | agents parallèles | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Nicholas Carlini | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Nicholas Carlini | PERSONNE | a_créé | compilateur C en Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Claude Opus 4.6 | TECHNOLOGIE | a_produit | compilateur C en Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| compilateur C en Rust | TECHNOLOGIE | compile | Linux 6.9 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| compilateur C en Rust | TECHNOLOGIE | atteint | 99% de réussite sur suites de tests | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Claude Opus 4.6 | TECHNOLOGIE | a_créé | compilateur C en Rust | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| compilateur C en Rust | TECHNOLOGIE | s_applique_à | Linux 6.9 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| compilateur C en Rust | TECHNOLOGIE | mesure | 99% de réussite sur suites de tests | MESURE | 0.97 | STATIQUE | déclaré_article |
 | agents parallèles | METHODOLOGIE | utilise | Docker | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | agents parallèles | METHODOLOGIE | utilise | synchronisation par fichiers verrou | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| GCC | TECHNOLOGIE | sert_d_oracle_pour | agents parallèles | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| agents parallèles | METHODOLOGIE | utilise | GCC (oracle de référence) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | spécialisation par rôle | CONCEPT | améliore | agents parallèles | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| sécurité agents autonomes | CONCEPT | nécessite | vérification humaine | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Nicholas Carlini | PERSONNE | affirme_que | qualité des tests est critique pour agents autonomes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| sécurité agents autonomes | CONCEPT | est_basé_sur | vérification humaine | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Nicholas Carlini | PERSONNE | affirme_que | la qualité des tests est critique pour les agents autonomes | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Claude Opus 4.6 | TECHNOLOGIE | surpasse | Claude Opus 4.5 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 
 ### Entités

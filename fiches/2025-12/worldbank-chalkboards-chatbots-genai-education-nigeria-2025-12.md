@@ -93,19 +93,19 @@ La Banque Mondiale publie la première étude rigoureuse (RCT) évaluant l'impac
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| World Bank Education Global Department | ORGANISATION | publie | Policy Research Working Paper 11125 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Martín De Simone | PERSONNE | a_rédigé | Policy Research Working Paper 11125 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| World Bank Education Global Department | ORGANISATION | publie | Policy Research Working Paper 11125 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Martín De Simone | PERSONNE | publie | Policy Research Working Paper 11125 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Microsoft Copilot | TECHNOLOGIE | utilise | GPT-4 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Microsoft Copilot | TECHNOLOGIE | améliore | apprentissage de l'anglais | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Programme de tutorat IA | METHODOLOGIE | génère | 0.31 SD d'amélioration globale | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Programme de tutorat IA | METHODOLOGIE | bénéficie_davantage_à | élèves filles | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Programme de tutorat IA | METHODOLOGIE | coûte | $48 par élève sur 6 semaines | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Programme de tutorat IA | METHODOLOGIE | produit | 3.2 EYOS par $100 investis | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Bloom two-sigma problem | CONCEPT | motive | tutorat personnalisé à l'échelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | mesure | 0.31 SD d'amélioration globale | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | mesure | +0.42 SD d'effet supplémentaire pour les élèves filles | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | mesure | coût de $48 par élève sur 6 semaines | MESURE | 0.98 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | mesure | 3.2 EYOS par $100 investis | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | résout | Bloom two-sigma problem | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Microsoft Copilot | TECHNOLOGIE | est_basé_sur | retrieval practice | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Benin City | LIEU | accueille | 9 écoles secondaires publiques participantes | ORGANISATION | 0.99 | STATIQUE | déclaré_article |
-| crise mondiale de l'apprentissage | CONCEPT | affecte | 70% des enfants de 10 ans dans les PRFM | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| enseignants | PERSONNE | agit_comme | force multiplier | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | observé_dans | Benin City (9 écoles secondaires publiques) | LIEU | 0.99 | STATIQUE | déclaré_article |
+| crise mondiale de l'apprentissage | CONCEPT | mesure | 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| enseignants | PERSONNE | est_instance_de | force multiplier | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

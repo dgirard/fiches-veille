@@ -65,14 +65,14 @@ Ce traité exhaustif analyse l'écosystème des prises de parole en public à tr
 | Nancy Duarte | PERSONNE | a_créé | Slidology | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Garr Reynolds | PERSONNE | a_créé | Presentation Zen | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Simon Sinek | PERSONNE | a_créé | Golden Circle | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Sparkline | METHODOLOGIE | recommandée_pour | Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Golden Circle | METHODOLOGIE | recommandée_pour | TED Talk | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Kishōtenketsu | METHODOLOGIE | recommandée_pour | Pecha Kucha | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| AIDA | METHODOLOGIE | recommandée_pour | Lightning Talk | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| PAS | METHODOLOGIE | recommandée_pour | Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Sparkline | METHODOLOGIE | s_applique_à | Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Golden Circle | METHODOLOGIE | s_applique_à | TED Talk | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | s_applique_à | Pecha Kucha | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| AIDA | METHODOLOGIE | s_applique_à | Lightning Talk | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| PAS | METHODOLOGIE | s_applique_à | Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Presentation Zen | METHODOLOGIE | s_inspire_de | esthétique japonaise (Ma) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Kishōtenketsu | METHODOLOGIE | génère_intérêt_sans | conflit | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| formats conférence | CONCEPT | distingués_par | durée, contrainte, contrat psychologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | permet | intérêt narratif sans conflit | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| formats conférence | CONCEPT | est_basé_sur | durée, contrainte, contrat psychologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

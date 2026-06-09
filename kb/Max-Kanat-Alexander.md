@@ -11,7 +11,7 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#ce-qui-est-bon-pour-humains-est-bon-pour-IA\|ce qui est bon pour humains est bon pour IA]] (CONCEPT) — 0.95, ATEMPOREL
+- « « ce qui est bon pour les humains est bon pour l'IA » » (CITATION) — 0.95, ATEMPOREL
   - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments]]
 
 ### recommande

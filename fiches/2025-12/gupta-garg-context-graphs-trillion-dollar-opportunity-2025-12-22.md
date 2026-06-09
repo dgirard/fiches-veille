@@ -56,18 +56,18 @@ Les signaux pour identifier ces opportunités incluent un headcount élevé sur 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jaya Gupta | PERSONNE | a_co-écrit | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Ashu Garg | PERSONNE | a_co-écrit | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Jaya Gupta | PERSONNE | publie | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Ashu Garg | PERSONNE | publie | thèse context graphs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Foundation Capital | ORGANISATION | emploie | Jaya Gupta | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
 | Foundation Capital | ORGANISATION | emploie | Ashu Garg | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
-| context graph | CONCEPT | capture | traces de décision | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| context graph | CONCEPT | est_basé_sur | traces de décision | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | context graph | CONCEPT | remplace | systèmes de record traditionnels | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| startups systems of agents | CONCEPT | disposent_d_avantage_sur | incumbents (Salesforce, Workday) | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
-| Salesforce | ORGANISATION | stocke | état actuel pas état décisionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Snowflake | ORGANISATION | reçoit_données | après les décisions via ETL | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Regie | ORGANISATION | remplace | plateformes sales engagement | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
-| traces de décision | CONCEPT | inclut | exceptions, précédents, contexte cross-système | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| agents IA | CONCEPT | élève | exigences des systèmes de record | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| startups systems of agents | CONCEPT | surpasse | incumbents (Salesforce, Workday) | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Salesforce | ORGANISATION | utilise | état actuel pas état décisionnel | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Snowflake | ORGANISATION | utilise | données reçues après les décisions via ETL | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Regie | ORGANISATION | remplace | plateformes sales engagement | TECHNOLOGIE | 0.82 | DYNAMIQUE | déclaré_article |
+| exceptions, précédents, contexte cross-système | CONCEPT | fait_partie_de | traces de décision | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | améliore | exigences des systèmes de record | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

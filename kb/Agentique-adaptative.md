@@ -1,6 +1,6 @@
 # Agentique adaptative
 
-> **Type** : CONCEPT | 5 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,7 +8,7 @@
 
 ## Relations (comme sujet)
 
-### repose_sur
+### est_basé_sur
 
 - [[kb/_entites-mineures#mémoire-organisationnelle-intelligente\|mémoire organisationnelle intelligente]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique production, observabilité raisonnement agents, mémoire organisationnelle structurée, supervision adaptative, déploiement fintech]]
@@ -21,7 +21,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#RAISE\|RAISE]] **incarne** → Agentique adaptative — 0.95
+- [[kb/_entites-mineures#RAISE\|RAISE]] **est_basé_sur** → Agentique adaptative — 0.95
 
 ## Fiches sources
 

@@ -17,37 +17,31 @@
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
-### a_gelé
-
-- [[kb/_entites-mineures#embauches-division-consulting\|embauches division consulting]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
-
 ### affirme_que
 
-- [[kb/_entites-mineures#les-agents-doivent-assister-et-non-remplacer-la-décision-humaine\|les agents doivent assister et non remplacer la décision humaine]] (CONCEPT) — 0.98, ATEMPOREL
+- « les agents doivent assister et non remplacer la décision humaine » (AFFIRMATION) — 0.98, ATEMPOREL
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
-### augmente_tarifs
+### améliore
 
-- [[kb/_entites-mineures#11-25%-(2020-2024)\|11-25% (2020-2024)]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
+- [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
-### détient
-
-- [[kb/_entites-mineures#27%-du-capital-d'OpenAI-Group-PBC\|27% du capital d'OpenAI Group PBC]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
-
-### est_membre_platinum_de
+### fait_partie_de
 
 - [[kb/_entites-mineures#AAIF\|AAIF]] (ORGANISATION) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
 
-### facture
+### mesure
 
-- [[kb/_entites-mineures#Copilot-AI-(+85%)\|Copilot AI (+85%)]] (TECHNOLOGIE) — 0.95, STATIQUE
+- « 27% du capital d'OpenAI Group PBC détenus » (MESURE) — 0.97, DYNAMIQUE
+  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
+- « hausse tarifaire 11-25% (2020-2024) » (MESURE) — 0.97, STATIQUE
+  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
+- « hausse Copilot AI +85% » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 
-### fournit
+### permet
 
 - [[kb/_entites-mineures#infrastructure-de-calcul-via-Azure\|infrastructure de calcul via Azure]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
@@ -57,15 +51,15 @@
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
-### redessine
+### réduit
 
-- [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+- [[kb/_entites-mineures#embauches-division-consulting\|embauches division consulting]] (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Bad-Developer-Days\|Bad Developer Days]] (METHODOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
+  - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Mesurer l'impact de l'IA - Productivité développeur - Métriques - GitHub Copilot - DX - Efficacité d'ingénierie]]
 
 ## Relations (comme objet)
 
@@ -75,6 +69,6 @@
 
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
-- [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Measure AI impact - Developer productivity - Metrics - GitHub Copilot - DX - Engineering efficiency]]
+- [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Mesurer l'impact de l'IA - Productivité développeur - Métriques - GitHub Copilot - DX - Efficacité d'ingénierie]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify - Croissance IA - Traffic 7x - Commandes 11x - Commerce agentique - TechCrunch - E-commerce]]
 - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]

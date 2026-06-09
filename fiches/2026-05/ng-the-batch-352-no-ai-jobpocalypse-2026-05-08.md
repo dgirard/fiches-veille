@@ -119,37 +119,36 @@ L'enjeu pour Ng n'est pas seulement intellectuel : protéger les décideurs et l
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrew Ng | PERSONNE | affirme_que | il n'y aura pas de jobpocalypse IA | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | il n'y aura pas de jobpocalypse IA | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | dirige | DeepLearning.AI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| The Batch | EVENEMENT | publie | numéro 352 le 8 mai 2026 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Andrew Ng | PERSONNE | identifie | trois moteurs du narratif jobpocalypse | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Labs IA | ORGANISATION | bénéficient_de | la narration transformative-disruptive | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Editeurs IA enterprise | ORGANISATION | ancrent_pricing_sur | salaires des employés remplacés | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Editeurs IA enterprise | ORGANISATION | facturent | 10 000$+/an par client | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Entreprises | ORGANISATION | recadrent | overhiring pandémique en efficience IA | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Andrew Ng | PERSONNE | propose | concept "AI jobapalooza" | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Chômage US | CONCEPT | est_à | 4,3% en mai 2026 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| Andrew Ng | PERSONNE | reconnaît_que | AI disrupts work | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| AI jobapalooza | CONCEPT | désigne | création de jobs IA et adjacents | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Édito Ng | EVENEMENT | s_oppose_à | thèse Amodei "50% white-collar 2030" | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| DeepLearning.AI | ORGANISATION | publie | The Batch n°352 (8 mai 2026) | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | trois moteurs structurels alimentent le narratif jobpocalypse | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| Labs IA | ORGANISATION | utilise | la narration transformative-disruptive | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Editeurs IA enterprise | ORGANISATION | utilise | salaires des employés remplacés comme ancre tarifaire | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Editeurs IA enterprise | ORGANISATION | mesure | 10 000$+/an facturés par client | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| Entreprises | ORGANISATION | affirme_que | les layoffs relèvent de l'"efficience IA" plutôt que de l'overhiring pandémique | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | a_créé | concept "AI jobapalooza" | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Chômage US | CONCEPT | mesure | 4,3% en mai 2026 | MESURE | 0.99 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | « AI disrupts work » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | AI jobapalooza = création de jobs en IA et champs adjacents | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Édito Ng | DOCUMENT | s_oppose_à | thèse Amodei "50% white-collar 2030" | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | Pricing ancré sur salaires | CONCEPT | converge_avec | thèse Bain cross-system labor 100Md$ | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Édito Ng | EVENEMENT | est_publié_même_jour_que | NYT Magazine "AI Populism" Wallace-Wells | EVENEMENT | 0.95 | STATIQUE | inféré |
-| Édito Ng | EVENEMENT | converge_avec | case study Raiffeisen Bank Ukraine (Tatsyi) | CONCEPT | 0.88 | ATEMPOREL | inféré |
-| Édito Ng | EVENEMENT | converge_avec | thèse Karpathy Software 3.0 (nouveaux rôles) | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| Tech incentives | CONCEPT | drivent | narration transformative-disruptive des labs | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Overhiring 2020-2022 | CONCEPT | est_recadré_en | layoffs "efficience IA" | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Édito Ng | DOCUMENT | converge_avec | NYT Magazine "AI Populism" Wallace-Wells (publication le même jour) | DOCUMENT | 0.95 | STATIQUE | inféré |
+| Édito Ng | DOCUMENT | converge_avec | case study Raiffeisen Bank Ukraine (Tatsyi) | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Édito Ng | DOCUMENT | converge_avec | thèse Karpathy Software 3.0 (nouveaux rôles) | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Tech incentives | CONCEPT | soutient | narration transformative-disruptive des labs | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Récit "efficience IA" | CONCEPT | remplace | overhiring pandémique 2020-2022 comme explication des layoffs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Andrew Ng | PERSONNE | rôle | Fondateur DeepLearning.AI, auteur de l'édito | MISE_A_JOUR |
-| The Batch n°352 | EVENEMENT | type | Newsletter hebdomadaire IA, 8 mai 2026 | AJOUT |
+| The Batch n°352 | DOCUMENT | type | Newsletter hebdomadaire IA, 8 mai 2026 | AJOUT |
 | AI jobpocalypse | CONCEPT | catégorie | Narration de chômage de masse IA (réfutée par Ng) | AJOUT |
 | AI jobapalooza | CONCEPT | catégorie | Concept Ng — création de jobs IA et adjacents | AJOUT |
 | Tech incentives | CONCEPT | catégorie | Premier moteur narratif jobpocalypse (Ng) | AJOUT |
 | Pricing power ancré salaires | CONCEPT | catégorie | Deuxième moteur narratif jobpocalypse (Ng), $10 000+/an | AJOUT |
 | Corporate messaging | CONCEPT | catégorie | Troisième moteur, recadrage overhiring en efficience IA | AJOUT |
 | Overhiring pandémique 2020-2022 | CONCEPT | catégorie | Phénomène recadré en "efficience IA" lors des layoffs | AJOUT |
-| Chômage US 4,3% | CONCEPT | catégorie | Donnée macro mai 2026 invoquée par Ng | AJOUT |
 | Service-as-Software (version pricing) | CONCEPT | catégorie | Glissement tarifaire — ancrage salaires plutôt que SaaS | AJOUT |

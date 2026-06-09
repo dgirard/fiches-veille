@@ -35,7 +35,7 @@
 ## Relations (comme objet)
 
 - [[kb/Google\|Google]] **a_créé** → Universal Commerce Protocol — 0.99
-- [[kb/_entites-mineures#Sundar-Pichai\|Sundar Pichai]] **a_annoncé** → Universal Commerce Protocol — 0.98
+- [[kb/_entites-mineures#Sundar-Pichai\|Sundar Pichai]] **publie** → Universal Commerce Protocol — 0.98
 - [[kb/_entites-mineures#Etsy\|Etsy]] **utilise** → Universal Commerce Protocol — 0.98
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] **utilise** → Universal Commerce Protocol — 0.98
 

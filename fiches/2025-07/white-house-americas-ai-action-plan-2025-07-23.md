@@ -1,7 +1,7 @@
 # white-house-americas-ai-action-plan-2025-07-23
 
 ## Veille
-White House - Americas AI Action Plan - Trump Administration - AI policy - Export - National security
+Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)
 
 ## Titre Article
 White House Unveils Americas AI Action Plan – The White House
@@ -13,52 +13,52 @@ White House Unveils Americas AI Action Plan – The White House
 https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/
 
 ## Keywords
-Artificial Intelligence, AI, Americas AI Action Plan, White House, Trump Administration, innovation, infrastructure, national security, economic competitiveness, export, data centers, regulations, free speech, frontier models, Michael Kratsios, David Sacks, Marco Rubio
+intelligence artificielle, IA, America's AI Action Plan, Maison-Blanche, administration Trump, innovation, infrastructure, sécurité nationale, compétitivité économique, export, data centers, réglementation, liberté d'expression, modèles frontières, Michael Kratsios, David Sacks, Marco Rubio
 
 ## Authors
 The White House. Key officials: Michael Kratsios (OSTP Director), David Sacks (AI and Crypto Czar), Marco Rubio (Secretary of State & Acting NSA)
 
 ## Ton
-**Profil:** Gouvernemental-Policy | Institutionnelle | Déclarative-Stratégique | Expert
+**Profil :** Gouvernemental-Policy | Institutionnel | Déclaratif-Stratégique | Expert
 
-White House adopte official government policy voice combinant aspirational framing ("Winning the AI Race") et structured action plans (90+ Federal actions across 3 pillars). Langage policy-oriented (national security, economic competitiveness, human flourishing) signals broad stakeholder coalition building. Named officials (Kratsios, Sacks, Rubio) establish accountability. Tone measured ambitious typical administration policy rollouts balancing innovation encouragement avec regulatory guardrails. Structure systematic (objectives→pillars→actions) facilitates implementation tracking. Typique White House policy communications positioning technology leadership comme national priority visant domestic industry, international partners, et citizens.
+La Maison-Blanche adopte une voix officielle de politique publique combinant cadrage aspirationnel (« Winning the AI Race ») et plans d'action structurés (90+ actions fédérales en 3 piliers). Le langage orienté politique publique (sécurité nationale, compétitivité économique, épanouissement humain) signale la construction d'une large coalition de parties prenantes. Les responsables nommés (Kratsios, Sacks, Rubio) établissent la redevabilité. Le ton, mesuré et ambitieux, est typique des annonces de politique d'une administration équilibrant encouragement à l'innovation et garde-fous réglementaires. La structure systématique (objectifs → piliers → actions) facilite le suivi de mise en œuvre. Typique des communications de la Maison-Blanche positionnant le leadership technologique comme priorité nationale, visant l'industrie domestique, les partenaires internationaux et les citoyens.
 
 ## Pense-betes
-- **July 23, 2025** : White House released "Winning the AI Race: Americas AI Action Plan"
-- **Aligns avec Trump executive order** : "Removing Barriers to American Leadership in AI"
-- **3 objectifs** : human flourishing, economic competitiveness, national security via AI dominance
-- **90+ Federal policy actions** à travers 3 pillars
-- **Pillar 1 : Accelerating Innovation** - streamline regulations, remove Federal hindering, private sector input, free speech dans frontier AI models
-- **Pillar 2 : Building American AI Infrastructure** - rapid data center construction, semiconductor facilities, expedited permitting, workforce expansion (electricians, HVAC)
-- **Pillar 3 : Leading International Diplomacy & Security** - secure comprehensive AI export packages (hardware, models, software, standards) vers allied nations
-- **Michael Kratsios** : "charts decisive course to cement U.S. dominance in AI"
-- **David Sacks** : "to remain leading economic and military power, US must win AI race"
-- **Marco Rubio** : "Winning the AI Race is non-negotiable"
-- **Emphasis** : prevent "Orwellian uses of AI", ensure objectivity sans ideological bias
+- **23 juillet 2025** : la Maison-Blanche publie « Winning the AI Race: America's AI Action Plan »
+- **S'aligne sur l'executive order de Trump** : « Removing Barriers to American Leadership in AI »
+- **3 objectifs** : épanouissement humain, compétitivité économique, sécurité nationale via la domination en IA
+- **90+ actions de politique fédérale** réparties en 3 piliers
+- **Pilier 1 : Accélérer l'innovation** — alléger la réglementation, supprimer les freins fédéraux, contribution du secteur privé, liberté d'expression dans les modèles d'IA frontières
+- **Pilier 2 : Construire l'infrastructure IA américaine** — construction rapide de data centers et d'usines de semi-conducteurs, permis accélérés, expansion de la main-d'œuvre (électriciens, techniciens CVC)
+- **Pilier 3 : Mener la diplomatie et la sécurité internationales** — packages d'exportation IA complets et sécurisés (matériel, modèles, logiciels, standards) vers les nations alliées
+- **Michael Kratsios** : « charts decisive course to cement U.S. dominance in AI »
+- **David Sacks** : « to remain leading economic and military power, US must win AI race »
+- **Marco Rubio** : « Winning the AI Race is non-negotiable »
+- **Accent** : prévenir les « usages orwelliens de l'IA », garantir l'objectivité sans biais idéologique
 
 ## RésuméDe400mots
 
-Le **July 23, 2025**, White House a introduced "Winning the AI Race: Americas AI Action Plan", comprehensive strategy designed pour secure United States' preeminent position dans artificial intelligence. Cette initiative est direct response à President Trump's January executive order visant dismantle obstacles à American leadership dans AI, avec ultimate goals de promoting human prosperity, bolstering economic strength, et safeguarding national security.
+Le **23 juillet 2025**, la Maison-Blanche a présenté « Winning the AI Race: America's AI Action Plan », une stratégie globale conçue pour assurer la position prééminente des États-Unis en intelligence artificielle. Cette initiative répond directement à l'executive order de janvier du président Trump visant à démanteler les obstacles au leadership américain en IA, avec pour buts ultimes la prospérité humaine, le renforcement de la puissance économique et la protection de la sécurité nationale.
 
-**Three Foundational Pillars**
+**Trois piliers fondateurs**
 
-Action Plan details **more than 90 Federal policy actions**, slated pour implementation dans near future, organized around **three foundational pillars** : Accelerating Innovation, Building American AI Infrastructure, et Leading in International Diplomacy and Security.
+Le plan d'action détaille **plus de 90 actions de politique fédérale**, prévues pour une mise en œuvre prochaine, organisées autour de **trois piliers fondateurs** : accélérer l'innovation, construire l'infrastructure IA américaine, et mener la diplomatie et la sécurité internationales.
 
-**Pillar 1 : Accelerating Innovation**
+**Pilier 1 : Accélérer l'innovation**
 
-Under "Accelerating Innovation" pillar, plan prioritizes streamlining regulatory landscape en removing burdensome Federal regulations qui currently impede AI development et deployment. Il seeks active input depuis private sector pour identify et eliminate unnecessary rules, thereby cultivating environment plus conducive à technological advancement. Crucial aspect de ce pillar est commitment à upholding **free speech within frontier AI models**, avec updated Federal procurement guidelines mandating que government only contracts avec **large language model developers dont systems demonstrate objectivity et sont free from top-down ideological bias**.
+Sous ce pilier, le plan donne la priorité à la simplification du paysage réglementaire en supprimant les réglementations fédérales jugées pesantes qui freinent le développement et le déploiement de l'IA. Il sollicite activement l'avis du secteur privé pour identifier et éliminer les règles inutiles, cultivant ainsi un environnement plus propice au progrès technologique. Un aspect crucial de ce pilier est l'engagement à défendre la **liberté d'expression au sein des modèles d'IA frontières** : des règles de marchés publics fédéraux actualisées imposent que l'État ne contracte qu'avec des **développeurs de grands modèles de langage dont les systèmes démontrent leur objectivité et sont exempts de biais idéologique imposé d'en haut**.
 
-**Pillar 2 : Building American AI Infrastructure**
+**Pilier 2 : Construire l'infrastructure IA américaine**
 
-"Building American AI Infrastructure" pillar est dedicated à strengthening nation's core technological capabilities. Cela involves actively promoting rapid construction de **data centers et semiconductor fabrication facilities** à travers expedited et modernized permitting processes. Additionally, plan introduces new national initiatives aimed à expanding **workforce dans critical, high-demand occupations** essential pour cette infrastructure, tels que electricians et HVAC technicians.
+Ce pilier est dédié au renforcement des capacités technologiques fondamentales du pays. Cela passe par la promotion active de la construction rapide de **data centers et d'usines de fabrication de semi-conducteurs**, via des procédures de permis accélérées et modernisées. Le plan introduit aussi de nouvelles initiatives nationales pour développer **la main-d'œuvre dans les métiers critiques en forte demande** essentiels à cette infrastructure, comme les électriciens et les techniciens CVC.
 
-**Pillar 3 : Leading International Diplomacy & Security**
+**Pilier 3 : Mener la diplomatie et la sécurité internationales**
 
-Finally, "Leading in International Diplomacy and Security" pillar outlines strategy pour extend American AI influence globally. **Commerce et State Departments** collaboreront avec industry partners pour deliver **secure, comprehensive AI export packages**—incluant hardware, models, software, applications, et standards—à allied nations worldwide. Cette strategic move est intended pour reinforce American technological leadership et ensure que global technological progress continues être powered par U.S. innovation.
+Ce dernier pilier décrit la stratégie d'extension de l'influence américaine en IA à l'échelle mondiale. Les **départements du Commerce et d'État** collaboreront avec des partenaires industriels pour livrer des **packages d'exportation IA complets et sécurisés** — incluant matériel, modèles, logiciels, applications et standards — aux nations alliées. Ce mouvement stratégique vise à renforcer le leadership technologique américain et à garantir que le progrès technologique mondial continue d'être propulsé par l'innovation américaine.
 
-**Key Officials' Statements**
+**Déclarations des responsables clés**
 
-Statements depuis key administration officials highlight urgency et profound significance du plan. **Michael Kratsios** (OSTP Director) affirmed que plan "charts decisive course to cement U.S. dominance in artificial intelligence", underscoring AI's role comme cornerstone de American innovation et global influence. **David Sacks** (AI and Crypto Czar) reiterated que **"to remain leading economic and military power, United States must win the AI race"**, emphasizing necessity de leadership dans innovation, infrastructure, et global partnerships tout en cautioning contre "Orwellian uses of AI". **Secretary of State et Acting NSA Marco Rubio** asserted que **"Winning the AI Race is non-negotiable"**, stressing que America must maintain dominant position pour ensure prosperity et protect national security. Pour more information, administration directs interested parties à **AI.Gov**.
+Les déclarations des responsables soulignent l'urgence et la portée du plan. **Michael Kratsios** (directeur de l'OSTP) affirme que le plan « charts decisive course to cement U.S. dominance in artificial intelligence ». **David Sacks** (AI and Crypto Czar) réaffirme que « to remain leading economic and military power, United States must win the AI race », tout en mettant en garde contre les « usages orwelliens de l'IA ». **Le secrétaire d'État et conseiller à la sécurité nationale par intérim Marco Rubio** assène que « Winning the AI Race is non-negotiable ». Pour plus d'informations, l'administration renvoie vers **AI.Gov**.
 
 ## GrapheDeConnaissance
 
@@ -66,27 +66,27 @@ Statements depuis key administration officials highlight urgency et profound sig
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Trump Administration | ORGANISATION | publie | America's AI Action Plan | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| America's AI Action Plan | EVENEMENT | est_basé_sur | executive order "Removing Barriers to American Leadership in AI" | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| America's AI Action Plan | EVENEMENT | contient | 90 actions fédérales | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| America's AI Action Plan | EVENEMENT | s_articule_autour | trois piliers stratégiques | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Trump Administration | ORGANISATION | publie | America's AI Action Plan | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| America's AI Action Plan | DOCUMENT | est_basé_sur | executive order "Removing Barriers to American Leadership in AI" | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| 90 actions fédérales | CONCEPT | fait_partie_de | America's AI Action Plan | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| America's AI Action Plan | DOCUMENT | est_basé_sur | trois piliers stratégiques | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Michael Kratsios | PERSONNE | dirige | Office of Science and Technology Policy | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| David Sacks | PERSONNE | occupe | rôle AI and Crypto Czar | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Marco Rubio | PERSONNE | est | Secrétaire d'État et Conseiller national à la sécurité par intérim | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| David Sacks | PERSONNE | travaille_chez | Trump Administration | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Marco Rubio | PERSONNE | dirige | State Department | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Commerce Department | ORGANISATION | collabore_avec | State Department | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Commerce Department | ORGANISATION | livre | packages d'exportation IA sécurisés | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| America's AI Action Plan | EVENEMENT | vise | domination américaine en IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| America's AI Action Plan | EVENEMENT | prédit | nouvel âge d'or de prospérité humaine | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| États-Unis | LIEU | s_oppose_à | biais idéologique dans les modèles frontières | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| America's AI Action Plan | EVENEMENT | cible | nations alliées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Commerce Department | ORGANISATION | permet | packages d'exportation IA sécurisés | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| America's AI Action Plan | DOCUMENT | soutient | domination américaine en IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| America's AI Action Plan | DOCUMENT | prédit | un nouvel âge d'or de prospérité humaine | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
+| États-Unis | ORGANISATION | s_oppose_à | biais idéologique dans les modèles frontières | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| America's AI Action Plan | DOCUMENT | s_applique_à | nations alliées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| America's AI Action Plan | EVENEMENT | date de publication | 2025-07-23 | AJOUT |
-| America's AI Action Plan | EVENEMENT | nombre d'actions fédérales | 90+ | AJOUT |
-| America's AI Action Plan | EVENEMENT | nombre de piliers | 3 | AJOUT |
+| America's AI Action Plan | DOCUMENT | date de publication | 2025-07-23 | AJOUT |
+| America's AI Action Plan | DOCUMENT | nombre d'actions fédérales | 90+ | AJOUT |
+| America's AI Action Plan | DOCUMENT | nombre de piliers | 3 | AJOUT |
 | Trump Administration | ORGANISATION | secteur | Gouvernement fédéral américain | AJOUT |
 | Michael Kratsios | PERSONNE | rôle | Directeur OSTP (Office of Science and Technology Policy) | AJOUT |
 | David Sacks | PERSONNE | rôle | AI and Crypto Czar | AJOUT |

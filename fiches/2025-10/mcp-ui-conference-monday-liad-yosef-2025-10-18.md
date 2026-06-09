@@ -79,18 +79,18 @@ Trois défis majeurs : **(1) Auth/SSO** - actuellement état baked in context/UI
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Liad Yosef | PERSONNE | co_modère | UI work group MCP | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Liad Yosef | PERSONNE | travaille_pour | Monday.com | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | dirige | UI work group MCP | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Liad Yosef | PERSONNE | travaille_chez | Monday.com | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | résout | perte d'identité visuelle des fournisseurs | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | MCP-UI | TECHNOLOGIE | utilise | sandboxed iframes | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | utilise | islands architecture | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | MCP-UI | TECHNOLOGIE | utilise | remote DOM | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| MCP-UI | TECHNOLOGIE | définit | spectrum de communication | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Shopify | ORGANISATION | adopte | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Hugging Face | ORGANISATION | adopte | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| remote DOM | TECHNOLOGIE | sépare | structure UI et rendering | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| MCP-UI | TECHNOLOGIE | vise | web fragmenté recomposé en atomes | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| capabilities negotiation | CONCEPT | permet | clients natifs non-webview | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| spectrum de communication | CONCEPT | fait_partie_de | MCP-UI | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | utilise | MCP-UI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Hugging Face | ORGANISATION | utilise | MCP-UI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| remote DOM | TECHNOLOGIE | permet | séparation structure UI et rendering | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| MCP-UI | TECHNOLOGIE | permet | recomposition du web fragmenté en atomes d'UI | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| capabilities negotiation | CONCEPT | permet | clients natifs non-webview | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Monday.com | ORGANISATION | publie | mcpui.dev | TECHNOLOGIE | 0.80 | STATIQUE | inféré |
 
 ### Entités

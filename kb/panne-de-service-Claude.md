@@ -10,29 +10,23 @@
 
 ## Relations (comme sujet)
 
-### a_duré
+### mesure
 
-- [[kb/_entites-mineures#4-heures-27-minutes\|4 heures 27 minutes]] (CONCEPT) — 0.97, STATIQUE
+- « durée totale de 4 heures 27 minutes » (MESURE) — 0.97, STATIQUE
+  - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
+- « 3,2 millions de requêtes API échouées » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
+- « 47 000 utilisateurs actifs impactés » (MESURE) — 0.93, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
 
-### a_impacté
+### observé_dans
 
-- [[kb/_entites-mineures#47-000-utilisateurs-actifs\|47 000 utilisateurs actifs]] (CONCEPT) — 0.93, STATIQUE
-  - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
-
-### a_provoqué
-
-- [[kb/_entites-mineures#3,2-millions-de-requêtes-API-échouées\|3,2 millions de requêtes API échouées]] (CONCEPT) — 0.93, STATIQUE
-  - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
-
-### a_révélé
-
-- [[kb/_entites-mineures#lacunes-surveillance-monitoring\|lacunes surveillance monitoring]] (CONCEPT) — 0.92, STATIQUE
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic - Outage - Post-mortem - Incident response - Claude - Service reliability - Infrastructure - Technical analysis]]
 
 ## Relations (comme objet)
 
-- [[kb/Anthropic\|Anthropic]] **a_subi** → panne de service Claude — 0.98
+- [[kb/_entites-mineures#lacunes-surveillance-monitoring\|lacunes surveillance monitoring]] **observé_dans** → panne de service Claude — 0.92
 
 ## Fiches sources
 

@@ -19,9 +19,9 @@ Agent Skills, Claude, composable AI, portable skills, Code Execution Tool, skill
 Anthropic (équipe produit)
 
 ## Ton
-**Profil:** Professionnel | Institutionnelle avec adresse directe | Promotionnelle-Éducative | Intermédiaire
+**Profil:** Annonce produit | Institutionnel avec adresse directe | Promotionnel-éducatif | Intermédiaire
 
-Anthropic adopte voix institutionnelle accessible équilibrant précision technique et lisibilité grand public. Utilisation stratégique du "we" et "you" établit autorité tout en restant approchable ("Claude can now use Skills"). Mouvement narratif structuré introduction fonctionnalité → bénéfices → usage pratique → ressources getting-started drive readers vers engagement. Citation : "Skills are folders that include instructions, scripts, and resources that Claude can load when needed" — explique concept technique plainement. Typique product announcements tech combinant promotional showcase et educational guidance.
+Anthropic adopte une voix institutionnelle accessible équilibrant précision technique et lisibilité grand public. L'utilisation stratégique du « we » et du « you » établit l'autorité tout en restant abordable (« Claude can now use Skills »). Le mouvement narratif structuré — introduction de la fonctionnalité → bénéfices → usage pratique → ressources de démarrage — conduit le lecteur vers l'engagement. Citation : « Skills are folders that include instructions, scripts, and resources that Claude can load when needed » — le concept technique est expliqué simplement. Typique des annonces produit tech combinant vitrine promotionnelle et accompagnement pédagogique.
 
 ## Pense-betes
 - **Skills = dossiers** contenant instructions, scripts et ressources que Claude charge à la demande
@@ -84,19 +84,19 @@ Anthropic conceptualise les Skills comme "matériaux d'onboarding personnalisés
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | a_lancé | Agent Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Agent Skills | TECHNOLOGIE | étend_les_capacités_de | Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
-| Agent Skills | TECHNOLOGIE | est_compatible_avec | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Agent Skills | TECHNOLOGIE | nécessite | Code Execution Tool | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Agent Skills | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | améliore | Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | s_applique_à | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | utilise | Code Execution Tool | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Agent Skills | TECHNOLOGIE | utilise | SKILL.md | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | publie | /v1/skills | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| skill-creator | TECHNOLOGIE | génère | Agent Skills | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| anthropics/skills | TECHNOLOGIE | distribue | Agent Skills | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Rakuten | ORGANISATION | affirme_que | Agent Skills réduit une journée de travail à une heure | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Box | ORGANISATION | affirme_que | Agent Skills transforme fichiers en présentations et documents | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Notion | ORGANISATION | affirme_que | Agent Skills accélère passage de questions à actions | CONCEPT | 0.89 | STATIQUE | déclaré_article |
-| Agent Skills | TECHNOLOGIE | s_installe_dans | ~/.claude/skills | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Agent Skills | CONCEPT | est_basé_sur | chargement minimal à la demande | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| skill-creator | TECHNOLOGIE | permet | Agent Skills | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| anthropics/skills | TECHNOLOGIE | publie | Agent Skills | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Rakuten | ORGANISATION | affirme_que | Agent Skills réduit une journée de travail à une heure | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
+| Box | ORGANISATION | affirme_que | Agent Skills transforme fichiers en présentations et documents | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
+| Notion | ORGANISATION | affirme_que | Agent Skills accélère passage de questions à actions | AFFIRMATION | 0.89 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | utilise | ~/.claude/skills | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Agent Skills | TECHNOLOGIE | est_basé_sur | chargement minimal à la demande | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -138,35 +138,35 @@ Thèse politique de Sun : la création d'un underclass est un **policy choice**,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jasmine Sun | PERSONNE | publie | Silicon Valley Is Bracing for a Permanent Underclass | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| San Francisco consensus | CONCEPT | prédit | déclassement économique massif via IA | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Permanent underclass | CONCEPT | est_repopularisé_par | théorie virale 2026 IA labor | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Dario Amodei | PERSONNE | prédit | 50% emplois junior white-collar disparus d'ici 2030 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Dario Amodei | PERSONNE | affirme_que | "white-collar blood bath" | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | a_proposé | taxer aggressively assets pour adapter à AI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Chris Lehane | PERSONNE | a_rejoint | OpenAI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Chris Lehane | PERSONNE | a_deprioritized | études impacts négatifs IA OpenAI | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| OpenAI | ORGANISATION | publie | Industrial Policy for the Intelligence Age | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Industrial Policy for the Intelligence Age | EVENEMENT | propose | semaine de 32h + public wealth fund + right to AI | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Leading the Future PAC | ORGANISATION | est_financé_par | Greg Brockman | PERSONNE | 0.93 | STATIQUE | déclaré_article |
+| Jasmine Sun | PERSONNE | publie | Silicon Valley Is Bracing for a Permanent Underclass | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| San Francisco consensus | CONCEPT | prédit | déclassement économique massif via IA | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| Permanent underclass | CONCEPT | est_instance_de | théorie virale 2026 sur le déclassement par l'IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Dario Amodei | PERSONNE | prédit | 50% emplois junior white-collar disparus d'ici 2030 | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Dario Amodei | PERSONNE | affirme_que | "white-collar blood bath" | CITATION | 0.97 | STATIQUE | déclaré_article |
+| Sam Altman | PERSONNE | recommande | taxer agressivement les actifs (terres + actions IA) pour adapter à l'IA | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
+| Chris Lehane | PERSONNE | travaille_chez | OpenAI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Chris Lehane | PERSONNE | réduit | études sur les impacts négatifs de l'IA chez OpenAI | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | Industrial Policy for the Intelligence Age | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Industrial Policy for the Intelligence Age | DOCUMENT | recommande | semaine de 32h + public wealth fund + right to AI | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
+| Greg Brockman | PERSONNE | soutient | Leading the Future PAC | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
 | Leading the Future PAC | ORGANISATION | s_oppose_à | Alex Bores | PERSONNE | 0.96 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_lancé | Anthropic Institute | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Anthropic Institute | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Jack Clark | PERSONNE | dirige | Anthropic Institute | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_atteint | 30B$ ARR annualisé | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Block | ORGANISATION | a_licencié | ~50% des effectifs en mars 2026 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Jack Dorsey | PERSONNE | cite | Opus 4.6 + Codex 5.3 comme cause restructuration | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | mesure | 30B$ ARR annualisé (avril 2026, vs 9B$ fin 2025) | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Block | ORGANISATION | réduit | ~50% des effectifs en mars 2026 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Jack Dorsey | PERSONNE | référence | Opus 4.6 + Codex 5.3 comme cause de la restructuration Block | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | GDPVal | TECHNOLOGIE | mesure | 44 occupations humaines | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| GDPVal | TECHNOLOGIE | a_atteint | 80%+ win rate vs human professionals | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| AI investments | CONCEPT | représente | 39% croissance US Q1-Q3 2025 | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Mechanize | ORGANISATION | promeut | full automation of the economy | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| GDPVal | TECHNOLOGIE | mesure | 80%+ win rate vs human professionals | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| St. Louis Fed | ORGANISATION | mesure | AI investments = 39% de la croissance US Q1-Q3 2025 | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Mechanize | ORGANISATION | soutient | full automation of the economy | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | David Shor | PERSONNE | recommande | federal jobs guarantee comme messaging gagnant | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Carl Benedikt Frey | PERSONNE | affirme_que | "the short run can be a lifetime" | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Anton Korinek | PERSONNE | affirme_que | aucun job humain n'est invulnérable long-run | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Carl Benedikt Frey | PERSONNE | affirme_que | "the short run can be a lifetime" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
+| Anton Korinek | PERSONNE | affirme_que | aucun job humain n'est invulnérable long-run | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | David Autor | PERSONNE | s_oppose_à | thèse permanent underclass | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_publié | étude junior engineers deskilling AI agents | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
-| Sam Altman home | LIEU | a_subi | tentative firebombing avril 2026 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Alex Karp | PERSONNE | prévient | risque "country could blow up politically" | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Permanent underclass | CONCEPT | est_un | policy choice | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | publie | étude junior engineers deskilling AI agents | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
+| Silicon Valley Is Bracing for a Permanent Underclass | DOCUMENT | référence | tentative de firebombing du domicile de Sam Altman (avril 2026) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Alex Karp | PERSONNE | affirme_que | "the country could blow up politically" | CITATION | 0.93 | STATIQUE | déclaré_article |
+| Permanent underclass | CONCEPT | est_instance_de | policy choice | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -175,8 +175,7 @@ Thèse politique de Sun : la création d'un underclass est un **policy choice**,
 | Jasmine Sun | PERSONNE | rôle | Journaliste indépendante (Substack), couvre IA et Silicon Valley culture | AJOUT |
 | Permanent underclass | CONCEPT | définition | Théorie virale 2026 : fenêtre limitée pour bâtir richesse avant que IA/robotique remplacent intégralement le travail humain, figeant les positions de classe | AJOUT |
 | San Francisco consensus | CONCEPT | définition | Consensus transversal (engineers/VCs/doomers/lefties) sur l'impact bleak de l'IA sur les workers | AJOUT |
-| White-collar blood bath | CONCEPT | source | Dario Amodei — anticipation de licenciements massifs cols blancs | AJOUT |
-| Industrial Policy for the Intelligence Age | EVENEMENT | description | White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale | AJOUT |
+| Industrial Policy for the Intelligence Age | DOCUMENT | description | White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale | AJOUT |
 | Public wealth fund | CONCEPT | définition | Fonds donnant à tous les citoyens une equity stake dans les A.I. companies (proposition OpenAI) | AJOUT |
 | Anthropic Institute | ORGANISATION | description | Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety | AJOUT |
 | GDPVal | TECHNOLOGIE | définition | Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) | AJOUT |
@@ -194,6 +193,4 @@ Thèse politique de Sun : la création d'un underclass est un **policy choice**,
 | Bharat Ramamurti | PERSONNE | rôle | Ex-deputy director NEC Biden, "China shock could happen over two years" | AJOUT |
 | Molly Kinder | PERSONNE | rôle | Senior fellow Brookings, parallèle white-collar / blue-collar narratives | AJOUT |
 | Tejal Patwardhan | PERSONNE | rôle | Lead frontier evaluations OpenAI, responsable GDPVal | AJOUT |
-| Anthropic ARR 30B$ | EVENEMENT | description | Revenue annualisé Anthropic avril 2026, +233% vs 9B$ fin 2025 | AJOUT |
-| AI investments 39% croissance US | EVENEMENT | description | St. Louis Fed Q1-Q3 2025 : data centers + software AI = 39% du growth US | AJOUT |
 | Firebombing Altman home avril 2026 | EVENEMENT | description | Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente | AJOUT |

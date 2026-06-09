@@ -67,24 +67,24 @@ La métaphore centrale compare les agents IA à des "stagiaires compétents" né
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Addy Osmani | PERSONNE | a_publié | guide specs agents IA | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Addy Osmani | PERSONNE | travaille_chez | Google Chrome | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
-| specs massives | CONCEPT | causent | surcharge contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Plan Mode | TECHNOLOGIE | permet | exploration read-only avant code | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| SPEC.md | TECHNOLOGIE | assure | cohérence cross-sessions | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Addy Osmani | PERSONNE | publie | guide specs agents IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | travaille_chez | Google | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
+| specs massives | CONCEPT | réduit | performance du modèle (surcharge de contexte) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Plan Mode | METHODOLOGIE | permet | exploration read-only avant code | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| SPEC.md | TECHNOLOGIE | permet | cohérence cross-sessions | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | malédiction des instructions | CONCEPT | réduit | adhérence modèle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | modularité specs | METHODOLOGIE | résout | surcharge contexte | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| LLM-as-a-Judge | METHODOLOGIE | vérifie | adhérence style et architecture | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| triade létale | CONCEPT | combine | vitesse, non-déterminisme, coût | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| LLM-as-a-Judge | METHODOLOGIE | permet | vérification de l'adhérence style et architecture | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| vitesse, non-déterminisme et coût | CONCEPT | fait_partie_de | triade létale | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | vibe coding | METHODOLOGIE | s_oppose_à | ingénierie production | METHODOLOGIE | 0.83 | ATEMPOREL | déclaré_article |
-| agents IA | CONCEPT | comparés_à | stagiaires compétents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Addy Osmani | PERSONNE | recommande | traiter les agents IA comme des stagiaires compétents | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Addy Osmani | PERSONNE | rôle | Engineering Leader Google Chrome | AJOUT |
-| Plan Mode | TECHNOLOGIE | activation | Shift+Tab dans Claude Code | AJOUT |
+| Plan Mode | METHODOLOGIE | activation | Shift+Tab dans Claude Code | AJOUT |
 | SPEC.md | TECHNOLOGIE | catégorie | Fichier spécification persistant | AJOUT |
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage IA CLI | AJOUT |
 | LLM-as-a-Judge | METHODOLOGIE | définition | Second agent review style/architecture | AJOUT |

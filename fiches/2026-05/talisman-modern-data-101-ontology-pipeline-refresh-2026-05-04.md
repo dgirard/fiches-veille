@@ -188,22 +188,22 @@ Knowledge Graph
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jessica Talisman | PERSONNE | publie | Ontology Pipeline Refresh | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Jessica Talisman | PERSONNE | a_fondé | Ontology Pipeline Framework | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Jessica Talisman | PERSONNE | a_fondé | Contextually LLC | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Ontology Pipeline | METHODOLOGIE | comprend | controlled vocabulary + metadata standards + taxonomy + thesaurus + ontology + knowledge graph | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Refresh 2026 | EVENEMENT | ajoute | Governance + AI Partnership | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Governance ontology | CONCEPT | est | ongoing engineering practice not post-project documentation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AI wholesale taxonomy generation | TECHNOLOGIE | produit | liability disguised as asset | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| AI assisting trained engineers | TECHNOLOGIE | est | acceptable et utile | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Vendors | ORGANISATION | abusent_de | terminologie ontology + cookie-cutter solutions | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Demande semantic infrastructure | CONCEPT | a_explosé_depuis | ChatGPT novembre 2022 | EVENEMENT | 0.94 | STATIQUE | déclaré_article |
-| Demande semantic engineers | CONCEPT | dépasse | offre praticiens formés | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| Standards référencés | CONCEPT | comprennent | SKOS + OWL + RDF + SPARQL | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Ontology Pipeline Framework | METHODOLOGIE | a_été_validé_sur | 6 institutions sur 10 ans | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Modern Data 101 | ORGANISATION | héberge | publication Talisman 2026-05-04 | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Jessica Talisman | PERSONNE | a_travaillé_chez | Adobe (RDF knowledge graphs) et Amazon (information architecture) | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Jessica Talisman | PERSONNE | recommande | competency questions before modeling | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Jessica Talisman | PERSONNE | publie | Ontology Pipeline Refresh | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Jessica Talisman | PERSONNE | a_créé | Ontology Pipeline Framework | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Jessica Talisman | PERSONNE | a_créé | Contextually LLC | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Ontology Pipeline | METHODOLOGIE | est_basé_sur | controlled vocabulary + metadata standards + taxonomy + thesaurus + ontology + knowledge graph | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Refresh 2026 | DOCUMENT | affine | Ontology Pipeline (ajout Governance + AI Partnership) | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Governance ontology | CONCEPT | est_instance_de | ongoing engineering practice (pas post-project documentation) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI wholesale taxonomy generation | TECHNOLOGIE | permet | liability disguised as asset | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Jessica Talisman | PERSONNE | affirme_que | "AI that assists trained engineers is just plain smart" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| Jessica Talisman | PERSONNE | s_oppose_à | abus vendor de la terminologie ontology + cookie-cutter solutions | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| ChatGPT (novembre 2022) | EVENEMENT | améliore | demande de semantic infrastructure (explosion) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Demande semantic engineers | CONCEPT | surpasse | offre praticiens formés | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Ontology Pipeline | METHODOLOGIE | utilise | SKOS + OWL + RDF + SPARQL | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Ontology Pipeline Framework | METHODOLOGIE | observé_dans | 6 institutions sur 10 ans (validation) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Modern Data 101 | ORGANISATION | publie | article Talisman 2026-05-04 | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| Jessica Talisman | PERSONNE | travaille_chez | Adobe (RDF knowledge graphs) et Amazon (information architecture), rôles passés | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Jessica Talisman | PERSONNE | recommande | competency questions before modeling | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Bilan Talisman | CONCEPT | converge_avec | Seale Semantic Agent ontologie comme moat, Foundation Capital Context Graphs, Bain agent readiness data foundations, DORA AI-accessible internal data, Habert PROJ-AI doctrine | CONCEPT | 0.93 | DYNAMIQUE | inféré |
 | Position augment_not_replace | CONCEPT | converge_avec | Karpathy outsource thinking not understanding, Osmani Cognitive Surrender, Frizzo bottleneck supervision, Soto Developer Taste | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Crise pédagogique semantic | CONCEPT | converge_avec | DORA training cost 9600 dollars per user, Tatsyi Raiffeisen training continu | CONCEPT | 0.91 | DYNAMIQUE | inféré |
@@ -224,4 +224,4 @@ Knowledge Graph
 | Education crisis semantic engineering | CONCEPT | description | Diagnostic marché Talisman 2026 : demande post-ChatGPT explosée, offre praticiens formés insuffisante, gap comblé par "people who know vocabulary without methodology". Convergence DORA training cost et Tatsyi training continu | AJOUT |
 | Ontologie comme backbone IA | CONCEPT | convergence | Position transversale Talisman + Seale Semantic Agent (ontology only moat) + Foundation Capital Context Graphs + Bain agent readiness + DORA AI-accessible internal data + Habert PROJ-AI six zones doctrine | AJOUT |
 | Vendor confusion / shortcuts | CONCEPT | description | Diagnostic marché Talisman : AI-generated taxonomies sold as strategy, vendors misusing ontology terminology, cookie-cutter solutions presented as methodology. À reconnaître pour résister | AJOUT |
-| Refresh 2026 Ontology Pipeline | EVENEMENT | description | Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques | AJOUT |
+| Refresh 2026 Ontology Pipeline | DOCUMENT | description | Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques | AJOUT |

@@ -162,39 +162,39 @@ Concept canonique : ***marginal token utility*** = *« the business value create
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Jaya Gupta | PERSONNE | publie | Token Budget Wars | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Jaya Gupta | PERSONNE | publie | Token Budget Wars | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Jaya Gupta | PERSONNE | travaille_chez | Foundation Capital | ORGANISATION | 0.75 | DYNAMIQUE | inféré |
-| Enterprise AI | CONCEPT | est_passé_de | adoption à allocation | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Marginal token utility | CONCEPT | définit | valeur business par dollar marginal d'inférence | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Claude | TECHNOLOGIE | shippé_en | novembre 2025 après lock budgets 2026 | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Inférence | CONCEPT | est_devenue | coût opérationnel récurrent | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Même workflow même input | CONCEPT | varie_de | 5-10× en coût de tokens | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | affirme_que | « Enterprise AI has moved from adoption to allocation » | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Marginal token utility | CONCEPT | est_instance_de | valeur business créée par dollar marginal d'inférence | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | affirme_que | Claude a été shippé en novembre 2025, après le lock des budgets annuels 2026 | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
+| Inférence | CONCEPT | est_instance_de | coût opérationnel récurrent | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Jaya Gupta | PERSONNE | mesure | variance de 5-10× en coût de tokens entre deux exécutions du même workflow sur le même input | MESURE | 0.94 | ATEMPOREL | déclaré_article |
 | AI spend | CONCEPT | concurrence | le travail (labor) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Cost of completed outcome | CONCEPT | remplace | coût du token comme unité pertinente | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| BPO | ORGANISATION | sert_de | baseline benchmarkable (unités complétées) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Token | CONCEPT | partage_unité_avec | signal et noise | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Retry tails | CONCEPT | font_évoluer | coût par résolution en T/p (90→70% = +28%) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Context inflation | CONCEPT | scale_en | O(n²) longueur de contexte | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Model routing | METHODOLOGIE | détermine | manageable bill vs board-level problem | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Entreprises software | ORGANISATION | vivent_comme | problème de mesure de productivité | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Entreprises non-software | ORGANISATION | vivent_comme | problème de transformation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Token-to-outcome attribution | CONCEPT | constitue | la couche manquante | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Agents | TECHNOLOGIE | créent | decision traces | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Decision traces | CONCEPT | deviennent | context graph (plus précieux que le cost report) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Allocation layer | CONCEPT | est | le prix (the prize) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Token-to-outcome attribution | CONCEPT | sera_acheté_comme | une transformation (McKinsey + Palantir + top-down CEO) | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Charlie Munger | PERSONNE | affirme_que | show me the incentive and I will show you the outcome | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| @tuning_engines | PERSONNE | affirme_que | tokens will have to be managed like headcount | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Model hierarchies | CONCEPT | déterminent | quel utilisateur peut utiliser quel modèle (RBAC sur modèles) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Techniques de gestion FTE | METHODOLOGIE | s_appliqueront_à | la gestion des tokens | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| Token Budget Wars | EVENEMENT | converge_avec | Bain cross-system labor, Ng pricing power, DORA ROI, Foundation Capital Context Graphs | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| BPO | CONCEPT | est_instance_de | baseline benchmarkable (unités complétées) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | affirme_que | « the signal and the noise share the same unit » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | mesure | retry tails : coût par résolution ≈ T/p ; 90%→70% de complétion = +~28% de coût | MESURE | 0.92 | ATEMPOREL | déclaré_article |
+| Context inflation | CONCEPT | est_basé_sur | scaling O(n²) de l'attention en longueur de contexte | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Model routing | METHODOLOGIE | permet | facture gérable (vs board-level problem) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Problème de mesure de productivité | CONCEPT | s_applique_à | entreprises software | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Problème de transformation | CONCEPT | s_applique_à | entreprises non-software | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Token-to-outcome attribution | CONCEPT | est_instance_de | la couche manquante | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agents | TECHNOLOGIE | permet | decision traces | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | affirme_que | les decision traces deviennent un context graph plus précieux que le cost report | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Jaya Gupta | PERSONNE | affirme_que | « the allocation layer is the prize » | CITATION | 0.94 | ATEMPOREL | déclaré_article |
+| Jaya Gupta | PERSONNE | prédit | le token-to-outcome attribution sera acheté comme une transformation (McKinsey + Palantir + top-down CEO) | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
+| Charlie Munger | PERSONNE | affirme_que | « show me the incentive and I will show you the outcome » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
+| @tuning_engines | PERSONNE | affirme_que | « tokens will basically have to be managed like headcount » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
+| Model hierarchies | CONCEPT | permet | contrôle d'accès par rôle sur les modèles (quel utilisateur peut utiliser quel modèle) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Techniques de gestion FTE | METHODOLOGIE | s_applique_à | la gestion des tokens | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
+| Token Budget Wars | DOCUMENT | converge_avec | Bain cross-system labor, Ng pricing power, DORA ROI, Foundation Capital Context Graphs | DOCUMENT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Jaya Gupta | PERSONNE | rôle | Investisseuse / VC (probablement Foundation Capital), autrice du thread Token Budget Wars et du cadre Context Graphs | AJOUT |
-| Token Budget Wars | EVENEMENT | description | Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine | AJOUT |
+| Token Budget Wars | DOCUMENT | description | Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine | AJOUT |
 | Marginal token utility | CONCEPT | définition | Valeur business créée par chaque dollar marginal d'inférence — le nombre qui compte à l'échelle, invisible pour la plupart des entreprises | AJOUT |
 | Token-to-outcome attribution | CONCEPT | définition | Couche de conversion reliant dépense d'inférence → travail effectué → outcome business ; répond au coût réel (retries inclus), au signal vs thrashing, et au changement d'operating model | AJOUT |
 | Cost of completed outcome | CONCEPT | définition | Unité de coût pertinente à l'ère agentique : coût par ticket résolu / claim traité / contrat revu / facture complétée / embauche évitée / client retenu / dollar de revenu déplacé | AJOUT |

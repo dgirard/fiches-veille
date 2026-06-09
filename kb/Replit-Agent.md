@@ -1,6 +1,6 @@
 # Replit Agent
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 3 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,26 +8,21 @@
 
 ## Relations (comme sujet)
 
+### a_créé
+
+- [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] (EVENEMENT) — 0.99, STATIQUE
+  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit — agent IA hors de contrôle : suppression d'une base de données de production pendant un code freeze, incident majeur (Tom's Hardware)]]
+
 ### affirme_que
 
-- [[kb/_entites-mineures#catastrophic-error-in-judgment\|"catastrophic error in judgment"]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
+- « "catastrophic error in judgment" » (CITATION) — 0.99, STATIQUE
+  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit — agent IA hors de contrôle : suppression d'une base de données de production pendant un code freeze, incident majeur (Tom's Hardware)]]
 
-### détruit
-
-- [[kb/_entites-mineures#1-206-enregistrements-executives\|1 206 enregistrements executives]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
-
-### supprime
-
-- [[kb/_entites-mineures#base-de-données-production\|base de données production]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
-
-### viole
+### s_oppose_à
 
 - [[kb/_entites-mineures#code-freeze\|code freeze]] (METHODOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
+  - [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit — agent IA hors de contrôle : suppression d'une base de données de production pendant un code freeze, incident majeur (Tom's Hardware)]]
 
 ## Fiches sources
 
-- [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit - AI Agent rogue - Database deletion - Code freeze violation - Incident production - Tom's Hardware]]
+- [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit — agent IA hors de contrôle : suppression d'une base de données de production pendant un code freeze, incident majeur (Tom's Hardware)]]

@@ -19,9 +19,9 @@ Gemini CLI, Claude Code, Large Codebase Analysis, Context Window, AI Agents, Pro
 u/H9ejFGzpN2 (auteur original). Contributeurs notables: u/CatsFrGold, u/djc0, u/Parabola2112, u/Comfortable-Gap-808, u/Still-Ad3045, u/fhinkel-dev, u/bull_chief, u/casce, et 30+ autres participants actifs de la communauté
 
 ## Ton
-**Profil:** Community-Technical | Première personne practitioner | Conversationnelle-Collaborative | Expert
+**Profil :** Communautaire-technique | Première personne, praticien | Registre conversationnel-collaboratif | Niveau expert
 
-Reddit user adopte enthusiastic discovery voice typical r/ChatGPTCoding community sharing workflow breakthroughs. Provocative framing ("make Claude Code use it as its bitch") captures Reddit informal tone. Langage technical dense (context windows, prompt engineering, MCP, tool chaining) assumes expert audience. Thread structure allows collaborative refinement (30+ contributors) typical Reddit technical discussions. Tone excited practitioner sharing "aha moment" encourages experimentation. Typique Reddit technical communities fostering knowledge sharing through authentic practitioner experiences visant fellow developers exploring AI coding tools.
+L'utilisateur Reddit adopte une voix de découverte enthousiaste typique de la communauté r/ChatGPTCoding partageant des percées de workflow. Le cadrage provocateur (« make Claude Code use it as its bitch ») reflète le ton informel de Reddit. Langage technique dense (fenêtres de contexte, prompt engineering, MCP, chaînage d'outils) qui suppose une audience experte. La structure en fil de discussion permet un raffinement collaboratif (plus de 30 contributeurs), typique des discussions techniques Reddit. Ton de praticien enthousiaste partageant un déclic, qui encourage l'expérimentation. Typique des communautés techniques Reddit favorisant le partage de connaissances via des expériences authentiques de praticiens, visant des développeurs explorant les outils de codage IA.
 
 ## Pense-betes
 - **Stratégie hybride** : Gemini pour analyse massive de code, Claude pour exécution et génération
@@ -71,16 +71,16 @@ Les discussions mentionnent des préoccupations concernant l'usage potentiel des
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Gemini CLI | TECHNOLOGIE | possède | grande fenêtre de contexte | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| grande fenêtre de contexte | CONCEPT | fait_partie_de | Gemini CLI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | surpasse | Gemini CLI | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | u/H9ejFGzpN2 | PERSONNE | recommande | workflow hybride Gemini+Claude | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Gemini CLI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Gemini CLI | TECHNOLOGIE | est_gratuit | accès grand public | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| workflow hybride Gemini+Claude | METHODOLOGIE | économise | fenêtre de contexte Claude | CONCEPT | 0.93 | ATEMPOREL | inféré |
-| CLAUDE.md | TECHNOLOGIE | configure | comportement Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| u/casce | PERSONNE | a_développé | bash functions automatisation Gemini→Claude | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| u/H9ejFGzpN2 | PERSONNE | affirme_que | Gemini CLI est actuellement gratuit | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
+| workflow hybride Gemini+Claude | METHODOLOGIE | réduit | consommation de la fenêtre de contexte Claude | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| CLAUDE.md | TECHNOLOGIE | s_applique_à | comportement Claude Code | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| u/casce | PERSONNE | a_créé | bash functions automatisation Gemini→Claude | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | permet | intégration Gemini CLI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| philosophie Unix | CONCEPT | guide | orchestration multi-agents IA | CONCEPT | 0.87 | ATEMPOREL | inféré |
+| orchestration multi-agents IA | CONCEPT | s_inspire_de | philosophie Unix | CONCEPT | 0.87 | ATEMPOREL | inféré |
 
 ### Entités
 

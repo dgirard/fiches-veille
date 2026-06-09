@@ -93,17 +93,17 @@ La philosophie d'ensemble est de n'automatiser que *« the formulaic parts of wo
 | Ryan Law | PERSONNE | a_créé | pipeline de content engineering | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | pipeline de content engineering | METHODOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | pipeline de content engineering | METHODOLOGIE | utilise | ~23 skill files | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| blog-pipeline | TECHNOLOGIE | orchestre | les skill files éditoriaux | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
-| pipeline de content engineering | METHODOLOGIE | produit | draft prêt à publier en 6-12 min | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| pipeline de content engineering | METHODOLOGIE | interroge | Ahrefs MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Ahrefs MCP | TECHNOLOGIE | fournit | keyword data / parent topic / SERP overview | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Ryan Law | PERSONNE | affirme_que | l'IA ne produit pas du bon contenu par défaut | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| qualité du contenu IA | CONCEPT | provient_de | la reproduction du processus éditorial humain | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| blog-pipeline | TECHNOLOGIE | utilise | les skill files éditoriaux | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| pipeline de content engineering | METHODOLOGIE | permet | draft prêt à publier en 6-12 min | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| pipeline de content engineering | METHODOLOGIE | utilise | Ahrefs MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Ahrefs MCP | TECHNOLOGIE | permet | keyword data / parent topic / SERP overview | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Ryan Law | PERSONNE | affirme_que | l'IA ne produit pas du bon contenu par défaut | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| qualité du contenu IA | CONCEPT | est_basé_sur | la reproduction du processus éditorial humain | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | sauvegarde des outputs intermédiaires | METHODOLOGIE | permet | le troubleshooting du pipeline | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| skill-creator d'Anthropic | TECHNOLOGIE | génère | des cas de test pour les skills | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| pipeline de content engineering | METHODOLOGIE | a_produit | ~15 articles publiés + ~30 mis à jour | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Ahrefs | ORGANISATION | refuse | de scaler massivement le contenu | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
-| previews HTML | TECHNOLOGIE | servent | la revue humaine avant publication | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| skill-creator d'Anthropic | TECHNOLOGIE | permet | la création de cas de test pour les skills | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Ryan Law | PERSONNE | mesure | ~15 articles publiés + ~30 mis à jour via le pipeline | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Ahrefs | ORGANISATION | s_oppose_à | scale massif du contenu | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
+| previews HTML | TECHNOLOGIE | permet | la revue humaine avant publication | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -117,5 +117,4 @@ La philosophie d'ensemble est de n'automatiser que *« the formulaic parts of wo
 | Ahrefs MCP | TECHNOLOGIE | catégorie | Serveur MCP fournissant les données SEO live | AJOUT |
 | content engineering | METHODOLOGIE | définition | Industrialisation du process éditorial via skills + MCP | AJOUT |
 | draft prêt à publier | CONCEPT | métrique | 6 à 12 minutes par article | AJOUT |
-| volumétrie | CONCEPT | valeur | ~15 publiés + ~30 mis à jour (dev démarré fév. 2026) | AJOUT |
 | caveats | CONCEPT | contenu | experience matters ; SEO informationnel ; pas de scale massif | AJOUT |

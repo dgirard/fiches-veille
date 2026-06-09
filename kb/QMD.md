@@ -22,16 +22,13 @@
 - [[kb/_entites-mineures#grep-pour-recherche-vault\|grep pour recherche vault]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
 
-### s_intègre_à
-
-- [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
-
 ### utilise
 
 - [[kb/_entites-mineures#BM25\|BM25]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
 - [[kb/_entites-mineures#recherche-sémantique-par-embeddings\|recherche sémantique par embeddings]] (CONCEPT) — 0.98, ATEMPOREL
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
 - [[kb/_entites-mineures#Reciprocal-Rank-Fusion\|Reciprocal Rank Fusion]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]

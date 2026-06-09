@@ -13,7 +13,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#AppWorld-benchmark\|AppWorld benchmark]] (EVENEMENT) — 0.93, STATIQUE
+- [[kb/_entites-mineures#AppWorld-benchmark\|AppWorld benchmark]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
 
 ### est_basé_sur
@@ -42,12 +42,13 @@
 
 - [[kb/_entites-mineures#Generator-Reflector-Curator\|Generator-Reflector-Curator]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
+- [[kb/_entites-mineures#DeepSeek-V3.1\|DeepSeek-V3.1]] (TECHNOLOGIE) — 0.85, STATIQUE
+  - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - arXiv Stanford]]
 
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] **a_créé** → ACE — 0.97
 - [[kb/_entites-mineures#Generator-Reflector-Curator\|Generator-Reflector-Curator]] **fait_partie_de** → ACE — 0.97
-- [[kb/_entites-mineures#DeepSeek-V3.1\|DeepSeek-V3.1]] **est_utilisé_par** → ACE — 0.85
 
 ## Fiches sources
 

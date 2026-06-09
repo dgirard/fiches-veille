@@ -65,15 +65,15 @@ La fonctionnalité est disponible en version bêta pour les abonnés aux plans P
 | Cloudflare | ORGANISATION | a_créé | Markdown for Agents | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Markdown for Agents | TECHNOLOGIE | réduit | consommation de tokens | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Markdown for Agents | TECHNOLOGIE | utilise | négociation de contenu HTTP | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Cloudflare | ORGANISATION | propose | Content Signals | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Content Signals | TECHNOLOGIE | permet_contrôle_de | usage contenu par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | envoie | header Accept text/markdown | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Cloudflare | ORGANISATION | propose | Workers AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Workers AI | TECHNOLOGIE | fournit | AI.toMarkdown() | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Cloudflare | ORGANISATION | a_créé | Content Signals | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Content Signals | TECHNOLOGIE | permet | contrôle de l'usage du contenu par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | utilise | header Accept text/markdown | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Cloudflare | ORGANISATION | a_créé | Workers AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Workers AI | TECHNOLOGIE | permet | AI.toMarkdown() | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Cloudflare | ORGANISATION | a_créé | Toolshed | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Toolshed | TECHNOLOGIE | contient | 400+ outils MCP | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Cloudflare Radar | TECHNOLOGIE | surveille | utilisation markdown par crawlers IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| HTML | TECHNOLOGIE | consomme_plus_de_tokens_que | Markdown | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| 400+ outils MCP | TECHNOLOGIE | fait_partie_de | Toolshed | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Cloudflare Radar | TECHNOLOGIE | mesure | utilisation markdown par crawlers IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Markdown | TECHNOLOGIE | surpasse | HTML | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Celso Martinho | PERSONNE | travaille_chez | Cloudflare | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
 | Will Allen | PERSONNE | travaille_chez | Cloudflare | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
 

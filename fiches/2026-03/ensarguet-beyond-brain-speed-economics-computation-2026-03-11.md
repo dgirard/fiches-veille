@@ -40,7 +40,7 @@ Profil : perspective de leader technique et stratege, registre essayistique-anal
 - L'intelligence humaine incorpore valeurs, emotions, culture, experience vecue - aucun GPU ne replique cela
 - Recommandations : experimenter la tarification outcome-based, suivre le ratio depenses salaires/compute, organiser l'entreprise autour de l'orchestration
 
-## ResumeDe400mots
+## RésuméDe400mots
 Philippe Ensarguet developpe une these forte : nous vivons le "moment kilowatt-heure" de l'economie de la connaissance. Comme l'ampoule a mis fin a l'ere de la bougie, l'IA met fin a l'heure-cerveau comme unite de valeur economique. Il ouvre sur une anecdote saisissante : un consultant livre un travail de trois semaines que le client a replique en quatre minutes avec un agent, mille fois moins cher.
 
 Pendant des decennies, l'economie du savoir reposait sur un proxy : on payait le temps (jours-homme, heures facturables) en esperant que la valeur suive. Ce systeme creait une distorsion systemique ou la lenteur etait recompensee. Quand un agent IA produit en quelques minutes le code, l'audit ou le rapport qui justifiait hier plusieurs jours facturables, le fondement meme du modele s'effondre. C'est le choc de commoditisation de notre generation, comparable a ce que le cloud a fait a l'infrastructure.
@@ -57,25 +57,25 @@ En conclusion, il recommande trois actions : experimenter la tarification outcom
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Philippe Ensarguet | PERSONNE | affirme_que | heure-cerveau n'est plus unite de valeur | CONCEPT | 0.97 | ATEMPOREL | declare_article |
-| IA generative | TECHNOLOGIE | commoditise | execution cognitive | CONCEPT | 0.95 | DYNAMIQUE | declare_article |
-| IA agentique | TECHNOLOGIE | automatise | coordination et orchestration | CONCEPT | 0.92 | DYNAMIQUE | declare_article |
-| Economie connaissance | CONCEPT | traverse | moment kilowatt-heure | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| Modele jours-homme | CONCEPT | est_remplace_par | modele outcome-based | CONCEPT | 0.88 | DYNAMIQUE | declare_article |
-| Paradoxe de Jevons | CONCEPT | predit | demande infinie quand cout execution tend vers zero | CONCEPT | 0.90 | ATEMPOREL | declare_article |
-| Valeur computation | CONCEPT | est_fonction_de | qualite compute x contexte donnees x orchestration | CONCEPT | 0.92 | ATEMPOREL | declare_article |
-| IA agentique | TECHNOLOGIE | remet_en_cause | organigramme et middle management | CONCEPT | 0.88 | DYNAMIQUE | declare_article |
-| Budgets salariaux | CONCEPT | migrent_vers | budgets puissance de calcul | CONCEPT | 0.85 | DYNAMIQUE | declare_article |
-| Token | CONCEPT | remplace | heure comme unite de facturation | CONCEPT | 0.85 | DYNAMIQUE | infere |
-| Gardien de trajectoire | CONCEPT | assure | alignement strategique et ethique | CONCEPT | 0.88 | ATEMPOREL | declare_article |
-| Berger de contexte | CONCEPT | fournit | nuance sectorielle et historique client | CONCEPT | 0.88 | ATEMPOREL | declare_article |
-| Architecte de confiance | CONCEPT | concoit | guardrails et gouvernance systemes autonomes | CONCEPT | 0.88 | ATEMPOREL | declare_article |
+| Philippe Ensarguet | PERSONNE | affirme_que | heure-cerveau n'est plus unite de valeur | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
+| IA generative | TECHNOLOGIE | réduit | cout de l'execution cognitive | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA agentique | TECHNOLOGIE | s_applique_à | coordination et orchestration | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| moment kilowatt-heure | CONCEPT | observé_dans | economie de la connaissance | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| modele outcome-based | CONCEPT | remplace | Modele jours-homme | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Paradoxe de Jevons | CONCEPT | prédit | demande infinie quand cout execution tend vers zero | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Valeur computation | CONCEPT | est_basé_sur | qualite compute x contexte donnees x orchestration | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA agentique | TECHNOLOGIE | s_oppose_à | organigramme et middle management | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| budgets puissance de calcul | CONCEPT | remplace | Budgets salariaux | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Token | CONCEPT | remplace | heure comme unite de facturation | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Gardien de trajectoire | CONCEPT | permet | alignement strategique et ethique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Berger de contexte | CONCEPT | permet | nuance sectorielle et historique client | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Architecte de confiance | CONCEPT | a_créé | guardrails et gouvernance systemes autonomes | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
-### Entites
+### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Philippe Ensarguet | PERSONNE | role | Leader technique / Stratege | MISE_A_JOUR |
 | Economie de la computation | CONCEPT | categorie | Nouveau paradigme economique post heure-cerveau | AJOUT |

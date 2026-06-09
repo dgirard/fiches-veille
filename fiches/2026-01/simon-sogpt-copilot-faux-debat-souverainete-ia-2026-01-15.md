@@ -58,16 +58,16 @@ L'article se conclut par un avertissement sur la souveraineté européenne. L'Eu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Société Générale | ORGANISATION | a_abandonné | SoGPT | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Société Générale | ORGANISATION | a_adopté | Microsoft Copilot | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Erwan Simon | PERSONNE | affirme_que | build vs buy est faux débat | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Microsoft Copilot | TECHNOLOGIE | remplace | SoGPT | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Société Générale | ORGANISATION | utilise | Microsoft Copilot | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Erwan Simon | PERSONNE | affirme_que | le débat build vs buy est un faux débat | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Erwan Simon | PERSONNE | dirige | GENIAL | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| SoGPT | TECHNOLOGIE | a_échoué_par | exécution déconnectée métier | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Copilot | TECHNOLOGIE | peine_sur | processus métier spécifiques | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Allianz | ORGANISATION | a_construit | AllianzGPT | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| AllianzGPT | TECHNOLOGIE | orchestre | Azure OpenAI et Claude | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| capital IA | CONCEPT | constitue | avantage compétitif durable | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Europe | LIEU | risque_de_perdre | souveraineté IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Erwan Simon | PERSONNE | affirme_que | l'échec de SoGPT vient d'une exécution déconnectée du métier | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
+| Erwan Simon | PERSONNE | affirme_que | Copilot peine sur les processus métier spécifiques | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Allianz | ORGANISATION | a_créé | AllianzGPT | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| AllianzGPT | TECHNOLOGIE | utilise | Azure OpenAI et Claude | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| capital IA | CONCEPT | est_instance_de | avantage compétitif durable | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Erwan Simon | PERSONNE | prédit | l'Europe risque de perdre la souveraineté IA comme elle a perdu la souveraineté cloud | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

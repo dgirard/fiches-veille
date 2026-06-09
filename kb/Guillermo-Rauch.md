@@ -10,7 +10,7 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#CLI-est-abstraction-fondamentale-agents\|CLI est abstraction fondamentale agents]] (CONCEPT) — 0.97, ATEMPOREL
+- « le CLI est l'abstraction fondamentale des agents de codage » (AFFIRMATION) — 0.97, ATEMPOREL
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|Guillermo Rauch - CLI comme abstraction fondamentale des agents de codage - Claude Code comme IA pour l'OS]]
 
 ### dirige
@@ -20,7 +20,7 @@
 
 ### prédit
 
-- [[kb/_entites-mineures#millions-agents-concurrents\|millions agents concurrents]] (CONCEPT) — 0.85, ATEMPOREL
+- « des millions d'agents concurrents s'exécuteront en parallèle » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|Guillermo Rauch - CLI comme abstraction fondamentale des agents de codage - Claude Code comme IA pour l'OS]]
 
 ## Fiches sources

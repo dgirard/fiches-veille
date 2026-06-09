@@ -230,34 +230,34 @@ Articulation forte avec **Sun NYT** (couple journalistique), **Ng The Batch n°3
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| David Wallace-Wells | PERSONNE | publie | A.I. Populism Is Here. And No One Is Ready. | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| NYT Magazine | ORGANISATION | héberge | Wallace-Wells AI Populism 2026-05-08 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | a_subi | cocktail Molotov SF property avril 2026 | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | a_subi | attaque arme à feu maison avril 2026 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | a_confessé_en_2016 | prepper habit (guns, gold, Big Sur) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Jasmine Sun | PERSONNE | nomme | A.I. populism's warning shots | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| AI populism | CONCEPT | est_diagnostic_de | retour de bâton politique populaire contre oligarchie IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Cinq labs IA | CONCEPT | sont | new faces of American oligarchy | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Cinq oligarques IA | PERSONNE | comprennent | Sam Altman + Dario Amodei + Elon Musk + Mark Zuckerberg + Demis Hassabis | PERSONNE | 0.97 | STATIQUE | déclaré_article |
-| Pew Research 2025 | EVENEMENT | mesure | 50% Américains plus inquiets vs 10% plus enthousiastes IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Quinnipiac récent | EVENEMENT | mesure | seul bracket >200k$ vue optimiste IA | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Heatmap polling | EVENEMENT | mesure | data centers support +2 pts → -24 pts en 4 mois | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Northern Virginia voters | PERSONNE | ont_swingé | 69 points contre data centers 2023-2025 | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Loudon County | LIEU | dépend_de | data centers pour ~45% revenus fiscaux 2027 | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| États-Unis | LIEU | a_dépensé_2025 | plus en infrastructure IA qu'en single-family homes | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| États-Unis | LIEU | a_construit | 10× plus data centers que Allemagne | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| États-Unis | LIEU | a_investi | 20×+ plus en IA que Chine | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Crise logement US | CONCEPT | manque | 10 millions d'unités | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Ted Chiang | PERSONNE | a_publié_2017 | When Silicon Valley imagines superintelligence = no-holds-barred capitalism | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Dario Amodei | PERSONNE | a_admis_2024 | we don't understand how our AI creations work | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Dean Ball | PERSONNE | prédit | A.I. as governments not in governments | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Maison-Blanche | ORGANISATION | propose | federal review proprietary models before release | EVENEMENT | 0.94 | DYNAMIQUE | déclaré_article |
-| Anthropic | ORGANISATION | refuse_de_release | Claude Mythos avril 2026 | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| Claude Mythos | TECHNOLOGIE | peut_exploiter | security vulnerabilities every tested piece of software | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Jeffrey Ding | PERSONNE | propose_concept | diffusion marathon (vs winner-take-all race) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AI | TECHNOLOGIE | est | general-purpose technology comme steam electricity internet | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Jack Clark | PERSONNE | prédit | recursive self-improvement <2 ans | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Wallace-Wells | PERSONNE | mobilise | Sun warning shots, Chiang 2017, Amodei 2024, Dean Ball | PERSONNE | 0.96 | STATIQUE | déclaré_article |
+| David Wallace-Wells | PERSONNE | publie | A.I. Populism Is Here. And No One Is Ready. | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| NYT Magazine | ORGANISATION | publie | Wallace-Wells AI Populism 2026-05-08 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| cocktail Molotov SF avril 2026 | EVENEMENT | s_applique_à | Sam Altman (propriété SF) | PERSONNE | 0.96 | STATIQUE | déclaré_article |
+| attaque arme à feu avril 2026 | EVENEMENT | s_applique_à | Sam Altman (maison) | PERSONNE | 0.95 | STATIQUE | déclaré_article |
+| Sam Altman | PERSONNE | affirme_que | "I have guns, gold, potassium iodide… and a big patch of land in Big Sur" (confession prepper 2016) | CITATION | 0.95 | STATIQUE | déclaré_article |
+| Jasmine Sun | PERSONNE | a_créé | concept "A.I. populism's warning shots" | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| AI populism | CONCEPT | est_instance_de | diagnostic du retour de bâton politique populaire contre l'oligarchie IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| David Wallace-Wells | PERSONNE | affirme_que | les cinq labs IA sont les "new faces of American oligarchy" | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Sam Altman + Dario Amodei + Elon Musk + Mark Zuckerberg + Demis Hassabis | PERSONNE | fait_partie_de | cinq oligarques IA (cadrage Wallace-Wells) | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Pew Research 2025 | DOCUMENT | mesure | 50% Américains plus inquiets vs 10% plus enthousiastes IA | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Quinnipiac récent | DOCUMENT | mesure | seul bracket >200k$ avec vue optimiste IA | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Heatmap polling | DOCUMENT | mesure | data centers support +2 pts → -24 pts en 4 mois | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Northern Virginia | LIEU | mesure | swing de 69 points contre data centers (2023-2025) | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Loudon County | LIEU | mesure | ~45% des revenus fiscaux 2027 issus des data centers | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
+| États-Unis | LIEU | mesure | dépenses 2025 en infrastructure IA supérieures aux single-family homes | MESURE | 0.93 | STATIQUE | déclaré_article |
+| États-Unis | LIEU | mesure | 10× plus de data centers que l'Allemagne | MESURE | 0.93 | STATIQUE | déclaré_article |
+| États-Unis | LIEU | mesure | 20×+ plus d'investissement IA que la Chine | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Crise logement US | CONCEPT | mesure | 10 millions d'unités manquantes | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| Ted Chiang | PERSONNE | affirme_que | "When Silicon Valley tries to imagine superintelligence, what it comes up with is no-holds-barred capitalism" (2017) | CITATION | 0.97 | STATIQUE | déclaré_article |
+| Dario Amodei | PERSONNE | affirme_que | "this lack of understanding is essentially unprecedented in the history of technology" (2024) | CITATION | 0.96 | STATIQUE | déclaré_article |
+| Dean Ball | PERSONNE | prédit | "It will not be A.I. in government. It's going to be A.I. as governments." | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Maison-Blanche | ORGANISATION | recommande | federal review des nouveaux modèles propriétaires avant release | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | s_oppose_à | release de Claude Mythos (refus public avril 2026) | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
+| Claude Mythos | TECHNOLOGIE | permet | exploitation de vulnérabilités dans tout logiciel testé | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Jeffrey Ding | PERSONNE | a_créé | concept diffusion marathon (vs winner-take-all race) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI | TECHNOLOGIE | est_instance_de | general-purpose technology comme steam electricity internet | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Jack Clark | PERSONNE | prédit | recursive self-improvement en moins de 2 ans | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Wallace-Wells | PERSONNE | référence | Sun warning shots, Chiang 2017, Amodei 2024, Dean Ball | PERSONNE | 0.96 | STATIQUE | déclaré_article |
 | AI populism | CONCEPT | converge_avec | Sun Silicon Valley Permanent Underclass, Ng The Batch révolte data-centers, AISI UK Mythos, McKinsey/Sternfels, VoxComm/Mandese | CONCEPT | 0.93 | DYNAMIQUE | inféré |
 
 ### Entités
@@ -272,9 +272,9 @@ Articulation forte avec **Sun NYT** (couple journalistique), **Ng The Batch n°3
 | "A.I. as governments" | CONCEPT | source | Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" | AJOUT |
 | Giant acid vat | CONCEPT | source | Métaphore Dean Ball — l'IA dissolvant les institutions médiatrices (presse, syndicats, universités, partis) qui forment le tissu social américain | AJOUT |
 | Cinq oligarques IA américains | CONCEPT | description | Sam Altman (OpenAI), Dario Amodei (Anthropic), Elon Musk (xAI), Mark Zuckerberg (Meta), Demis Hassabis (Google DeepMind). Wallace-Wells les qualifie de "new faces of American oligarchy", "several widely described as sociopaths" | AJOUT |
-| Pew Research 2025 inquiétude IA | EVENEMENT | description | Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells | AJOUT |
-| Quinnipiac IA optimisme par revenu | EVENEMENT | description | Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception | AJOUT |
-| Heatmap data centers swing | EVENEMENT | description | Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) | AJOUT |
+| Pew Research 2025 inquiétude IA | DOCUMENT | description | Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells | AJOUT |
+| Quinnipiac IA optimisme par revenu | DOCUMENT | description | Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception | AJOUT |
+| Heatmap data centers swing | DOCUMENT | description | Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) | AJOUT |
 | Loudon County data centers | LIEU | description | Loudon County (Northern Virginia, ground zero data centers US) — data centers généreront $1,3 Md sur $2,9 Md revenus fiscaux 2027 (~45%). Tension dépendance fiscale vs opposition publique | AJOUT |
 | Asymétrie investissement IA US 2025 | CONCEPT | description | US a dépensé plus en infrastructure IA qu'en single-family homes 2025 ; 10× plus data centers qu'Allemagne (#2) ; 20×+ plus investissement IA que Chine (#2) ; pendant crise logement 10 millions d'unités manquantes | AJOUT |
 | Cocktail Molotov + tirs Altman avril 2026 | EVENEMENT | description | Avril 2026 — cocktail Molotov lancé sur propriété SF Sam Altman, puis quelques jours plus tard attaque par armes à feu sur sa maison. Événements documentés cités par Wallace-Wells comme "warning shots" du AI populism | AJOUT |

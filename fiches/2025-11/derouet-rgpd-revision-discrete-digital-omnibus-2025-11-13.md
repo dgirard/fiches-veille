@@ -18,6 +18,11 @@ RGPD, données sensibles, protection des données, intelligence artificielle, Di
 ## Authors
 Thierry Derouet
 
+## Ton
+**Profil:** Journalistique-enquête | Troisième personne analytique | Registre critique et engagé | Niveau intermédiaire (juridique/réglementaire)
+
+Article d'enquête de presse spécialisée IT, structuré autour d'une grille "qui y gagne, qui y perd". Le ton est critique et alertant : le projet Digital Omnibus est présenté comme une "révision discrète" aux conséquences majeures, en s'appuyant sur l'analyse des articles du RGPD modifiés et des citations d'experts (Max Schrems). Vocabulaire juridique vulgarisé pour un lectorat de décideurs IT, DPO et responsables conformité. L'auteur assume une lecture politique des enjeux (souveraineté européenne, lobbying tech) tout en restant factuel sur le contenu du texte.
+
 ## Pense-betes
 - **Redéfinition données sensibles (Art. 9)** : "révèle directement" exclut signaux faibles (sommeil, stress, mobilité) de la protection renforcée → déclassement stratégique pour IA
 - **Intérêt légitime élargi (Art. 6)** : optimisation, détection anomalies, amélioration modèles désormais permis sans consentement explicite
@@ -52,17 +57,17 @@ La question politique dépasse le texte lui-même : l'Europe choisit-elle de mai
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Digital Omnibus | EVENEMENT | réécrit | fondations RGPD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Digital Omnibus | EVENEMENT | redéfinit | données sensibles (Art. 9) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Digital Omnibus | EVENEMENT | élargit | intérêt légitime (Art. 6) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Digital Omnibus | EVENEMENT | restreint | droits individuels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| ENISA | ORGANISATION | hérite_de | compétences autorités nationales | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Max Schrems | PERSONNE | critique | révision RGPD | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Max Schrems | PERSONNE | affirme_que | mort par mille coupes | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| grandes plateformes tech | ORGANISATION | bénéficient_de | révision RGPD | EVENEMENT | 0.88 | DYNAMIQUE | inféré |
+| Digital Omnibus | EVENEMENT | remplace | fondations RGPD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | affine | données sensibles (Art. 9) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | affine | intérêt légitime (Art. 6) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | réduit | droits individuels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| ENISA | ORGANISATION | remplace | autorités nationales de protection des données | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Max Schrems | PERSONNE | s_oppose_à | révision RGPD | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Max Schrems | PERSONNE | affirme_que | « mort par mille coupes » | CITATION | 0.90 | STATIQUE | déclaré_article |
+| révision RGPD | EVENEMENT | améliore | position des grandes plateformes tech | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | Thierry Derouet | PERSONNE | publie | enquête révision RGPD | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| signaux faibles | CONCEPT | alimentent | profilage prédictif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| révision RGPD | EVENEMENT | affaiblit | protection données européenne | CONCEPT | 0.90 | DYNAMIQUE | inféré |
+| signaux faibles | CONCEPT | permet | profilage prédictif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| révision RGPD | EVENEMENT | réduit | protection données européenne | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

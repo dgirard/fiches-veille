@@ -1,22 +1,24 @@
 # Agent Skills
 
-> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 2 fiches sources
 
 ## Attributs
 
 - **caractéristiques** : Composable, Portable, Efficient, Powerful
-- **catégorie** : Système de compétences modulaires pour agents IA
+- **catégorie** : Dossiers scripts et instructions expertise domaine
 
 ## Relations (comme sujet)
 
-### combine_avec
+### améliore
 
-- [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
+  - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
+- [[kb/_entites-mineures#autonomie-agents\|autonomie agents]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
 
-### enrichit
+### converge_avec
 
-- [[kb/_entites-mineures#autonomie-agents\|autonomie agents]] (CONCEPT) — 0.88, DYNAMIQUE
+- [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
 
 ### est_basé_sur
@@ -24,37 +26,27 @@
 - [[kb/_entites-mineures#chargement-minimal-à-la-demande\|chargement minimal à la demande]] (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-### est_compatible_avec
+### s_applique_à
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-### nécessite
+### utilise
 
 - [[kb/_entites-mineures#Code-Execution-Tool\|Code Execution Tool]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
-
-### s_installe_dans
-
+- [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 - [[kb/_entites-mineures#~-.claude-skills\|~/.claude/skills]] (TECHNOLOGIE) — 0.90, STATIQUE
-  - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
-
-### utilise
-
-- [[kb/_entites-mineures#SKILL.md\|SKILL.md]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
-
-### étend_les_capacités_de
-
-- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
 ## Relations (comme objet)
 
-- [[kb/Anthropic\|Anthropic]] **a_lancé** → Agent Skills — 0.99
-- [[kb/_entites-mineures#skill-creator\|skill-creator]] **génère** → Agent Skills — 0.94
-- [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] **distribue** → Agent Skills — 0.93
+- [[kb/Anthropic\|Anthropic]] **publie** → Agent Skills — 0.99
+- [[kb/_entites-mineures#skill-creator\|skill-creator]] **permet** → Agent Skills — 0.94
+- [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] **publie** → Agent Skills — 0.93
 
 ## Fiches sources
 
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
+- [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]

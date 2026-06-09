@@ -57,20 +57,20 @@ Ralmuto conclut par une distinction essentielle : introspection et rumination so
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Marc Andreessen | PERSONNE | affirme_que | introspection est invention moderne (1910-1920) | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Riley Ralmuto | PERSONNE | contredit | Marc Andreessen | PERSONNE | 0.98 | STATIQUE | déclaré_article |
-| Socrate | PERSONNE | a_enseigné | examen de soi comme fondement philosophique | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Marc Aurèle | PERSONNE | a_écrit | Méditations | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| Augustin d'Hippone | PERSONNE | a_créé | première autobiographie introspective | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Bouddha | PERSONNE | a_développé | vipassana (vision claire) | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Confucius | PERSONNE | a_enseigné | auto-examen quotidien | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Montaigne | PERSONNE | a_inventé | forme essai pour auto-examen | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Benjamin Franklin | PERSONNE | a_pratiqué | suivi systématique de 13 vertus | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Steve Jobs | PERSONNE | a_pratiqué | méditation zen | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Ray Dalio | PERSONNE | prône | conscience de soi radicale | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | affirme_que | l'introspection est une invention moderne (1910-1920) | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Riley Ralmuto | PERSONNE | s_oppose_à | Marc Andreessen | PERSONNE | 0.98 | STATIQUE | déclaré_article |
+| Socrate | PERSONNE | recommande | examen de soi comme fondement philosophique | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Marc Aurèle | PERSONNE | a_créé | Méditations | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Augustin d'Hippone | PERSONNE | a_créé | première autobiographie introspective | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Bouddha | PERSONNE | a_créé | vipassana (vision claire) | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Confucius | PERSONNE | recommande | auto-examen quotidien | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Montaigne | PERSONNE | a_créé | forme essai pour auto-examen | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Benjamin Franklin | PERSONNE | utilise | suivi systématique de 13 vertus | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Steve Jobs | PERSONNE | utilise | méditation zen | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Ray Dalio | PERSONNE | recommande | conscience de soi radicale | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Jeff Bezos | PERSONNE | a_créé | cadre de minimisation des regrets | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Introspection | CONCEPT | diffère_de | rumination | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | confond | introspection et rumination | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Introspection | CONCEPT | s_oppose_à | rumination | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Riley Ralmuto | PERSONNE | affirme_que | Andreessen confond introspection et rumination | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

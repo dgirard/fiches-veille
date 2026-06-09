@@ -92,34 +92,35 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrew Ng | PERSONNE | affirme_que | les coding agents accélèrent le frontend plus que le backend, l'infra et la recherche | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | les coding agents accélèrent le frontend plus que le backend, l'infra et la recherche | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | dirige | DeepLearning.AI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| The Batch | EVENEMENT | publie | numéro 350 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| Frontend development | CONCEPT | est_accéléré_par | coding agents | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Coding agents | TECHNOLOGIE | maîtrise | TypeScript et JavaScript | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Infrastructure | CONCEPT | est_peu_accélérée_par | LLMs actuels | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Recherche scientifique | CONCEPT | reste | majoritairement humaine | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Z.ai | ORGANISATION | a_publié | GLM-5.1 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| DeepLearning.AI | ORGANISATION | publie | The Batch numéro 350 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Coding agents | TECHNOLOGIE | améliore | frontend development | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Coding agents | TECHNOLOGIE | utilise | TypeScript et JavaScript | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | l'infrastructure est peu accélérée par les LLMs actuels | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Andrew Ng | PERSONNE | affirme_que | le travail conceptuel de recherche reste majoritairement humain | AFFIRMATION | 0.90 | ATEMPOREL | inféré |
+| Z.ai | ORGANISATION | publie | GLM-5.1 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | GLM-5.1 | TECHNOLOGIE | utilise | architecture MoE 754B / 40B actifs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| GLM-5.1 | TECHNOLOGIE | tient_autonome | jusqu'à 8 heures par tâche | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| GLM-5.1 | TECHNOLOGIE | leader_de | SWE-Bench Pro à 58,4% | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Agility Robotics | ORGANISATION | déploie | Digit chez Schaeffler | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Digit | TECHNOLOGIE | coûte | 10-25$/h opérationnel | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Humanoïdes en usine | CONCEPT | passeront_de | ~200 (2026) à 5 millions (McKinsey 2040) | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Mouvement anti-data-center | CONCEPT | a_bloqué | ~64 Md$ de projets entre mai 2024 et mars 2025 | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Maine | LIEU | a_voté | moratoire data centers ≥20MW jusqu'en 2027 | EVENEMENT | 0.90 | STATIQUE | déclaré_article |
-| Sam Altman | PERSONNE | a_subi | cocktail molotov à son domicile (SF) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Christina Lu | PERSONNE | a_proposé | l'assistant axis et l'activation capping | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| GLM-5.1 | TECHNOLOGIE | permet | tâches autonomes jusqu'à 8 heures | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| GLM-5.1 | TECHNOLOGIE | mesure | 58,4% sur SWE-Bench Pro (leader) | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Agility Robotics | ORGANISATION | a_créé | Digit | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Schaeffler | ORGANISATION | utilise | Digit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Agility Robotics | ORGANISATION | mesure | coût opérationnel Digit 10-25$/h vs ~20$/h humain entry-level | MESURE | 0.90 | STATIQUE | déclaré_article |
+| McKinsey | ORGANISATION | prédit | 5 millions d'humanoïdes en usine en 2040 (vs ~200 en 2026) | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
+| Mouvement anti-data-center | CONCEPT | s_oppose_à | projets data-centers US (~64 Md$ bloqués mai 2024 – mars 2025) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| Maine | LIEU | publie | moratoire data centers ≥20MW jusqu'en 2027 | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
+| The Batch numéro 350 | DOCUMENT | référence | cocktail molotov au domicile de Sam Altman (SF) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Christina Lu | PERSONNE | a_créé | assistant axis et activation capping | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Activation capping | METHODOLOGIE | réduit | jailbreaks Qwen3 32B de 83% à 41% | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| Activation capping | METHODOLOGIE | préserve | IFEval, GSM8k, MMLU-Pro, EQ-Bench | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Hiérarchie d'accélération de Ng | CONCEPT | est_congruente_avec | verifiability framework de Karpathy | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Activation capping | METHODOLOGIE | permet | préservation des performances IFEval, GSM8k, MMLU-Pro, EQ-Bench | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Hiérarchie d'accélération de Ng | CONCEPT | converge_avec | verifiability framework de Karpathy | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Andrew Ng | PERSONNE | rôle | Fondateur DeepLearning.AI, auteur de l'édito | AJOUT |
-| The Batch | EVENEMENT | type | Newsletter hebdomadaire IA, numéro 350 | AJOUT |
+| The Batch | DOCUMENT | type | Newsletter hebdomadaire IA, numéro 350 | AJOUT |
 | DeepLearning.AI | ORGANISATION | secteur | Éducation IA / médias techniques | AJOUT |
 | Z.ai | ORGANISATION | secteur | Modèles de fondation chinois (open-weights) | AJOUT |
 | GLM-5.1 | TECHNOLOGIE | catégorie | Modèle MoE 754B/40B-actifs, licence MIT | AJOUT |
@@ -130,6 +131,6 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 | Christina Lu | PERSONNE | rôle | Chercheuse MATS / Oxford, en collaboration Anthropic | AJOUT |
 | Assistant axis | CONCEPT | catégorie | Vecteur d'adhésion au persona assistant entraîné | AJOUT |
 | Activation capping | METHODOLOGIE | catégorie | Contrainte d'outputs à l'inférence pour stabiliser persona | AJOUT |
-| SWE-Bench Pro | EVENEMENT | catégorie | Benchmark agents codage, GLM-5.1 leader 58,4% | MISE_A_JOUR |
+| SWE-Bench Pro | TECHNOLOGIE | catégorie | Benchmark agents codage, GLM-5.1 leader 58,4% | MISE_A_JOUR |
 | Hiérarchie d'accélération | CONCEPT | catégorie | Frontend > Backend > Infra > Recherche (Ng 2026) | AJOUT |
 | Mouvement anti-data-center | CONCEPT | catégorie | Opposition citoyenne et législative US 2024-2025 | AJOUT |

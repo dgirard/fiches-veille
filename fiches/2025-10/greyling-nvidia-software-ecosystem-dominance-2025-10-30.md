@@ -21,9 +21,9 @@ Cobus Greyling
 ## Ton
 **Profil:** Thought Leadership-Analytique | Observateur stratégique | Insights-Prospectif | Expert
 
-Greyling adopte perspective strategic observer identifiant tendances que "few are noticing". Structure "giving language to it" révèle analyste cherchant à nommer patterns émergents avant qu'ils deviennent évidents. Citations techniques précises (Nemotron-Nano-12B-v2-VL-FP8, ARM64, FP8) alternent avec insights stratégiques business ("hardware moat", "no easy AMD/Intel swaps, but that's the point right?"). Ton mêle admiration technique ("most advanced with their approach") et critique lucide du vendor lock-in. Exemples concrets visuels (invoices processing, PDF presentations Q&A) rendent abstractions tangibles. Typique thought leadership Medium tech analysant stratégies corporate sous surface marketing.
+Greyling adopte une perspective d'observateur stratégique identifiant des tendances que "few are noticing". La structure "donner un langage" au phénomène révèle un analyste cherchant à nommer les patterns émergents avant qu'ils ne deviennent évidents. Des références techniques précises (Nemotron-Nano-12B-v2-VL-FP8, ARM64, FP8) alternent avec des insights stratégiques business ("hardware moat", "no easy AMD/Intel swaps, but that's the point right?"). Le ton mêle admiration technique ("most advanced with their approach") et critique lucide du vendor lock-in. Des exemples concrets visuels (traitement de factures, Q&A sur présentations PDF) rendent les abstractions tangibles. Typique du thought leadership tech sur Medium analysant les stratégies corporate sous la surface marketing.
 
-## Pense-bêtes
+## Pense-betes
 - **Observation centrale** : "Few are noticing it, but NVIDIA is building comprehensive software ecosystem"
 - **Nemotron-Nano-12B-v2-VL-FP8** : dernier modèle open source Nvidia, multilingue, multi-modal, high throughput, toggle reasoning on/off
 - **SLMs backbone agentic systems** : composer multiple lightweight specialist models vs giant monolithic model
@@ -85,17 +85,17 @@ L'analyse Greyling révèle stratégie verticale intégrée sophistiquée : open
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | NVIDIA | ORGANISATION | publie | Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| NVIDIA | ORGANISATION | lance | DGX Spark | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| NVIDIA | ORGANISATION | construit | écosystème software | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| NVIDIA | ORGANISATION | crée | hardware moat | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | est_optimisé_pour | workflows agentiques | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| SLMs | CONCEPT | remplace | modèles monolithiques | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| SLMs | CONCEPT | s_exécute_sur | edge computing | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| NVIDIA | ORGANISATION | publie | DGX Spark | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | a_créé | écosystème software | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | a_créé | hardware moat | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | s_applique_à | workflows agentiques | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| SLMs | TECHNOLOGIE | remplace | modèles monolithiques | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| SLMs | TECHNOLOGIE | utilise | edge computing | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | DGX Spark | TECHNOLOGIE | utilise | architecture ARM64 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| DGX Spark | TECHNOLOGIE | démocratise | prototypage agents IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| DGX Spark | TECHNOLOGIE | permet | prototypage agents IA | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | data flywheel | CONCEPT | améliore | fine-tuning continu | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| NVIDIA | ORGANISATION | s_oppose_à | AMD | ORGANISATION | 0.88 | DYNAMIQUE | inféré |
-| Cobus Greyling | PERSONNE | affirme_que | NVIDIA domine orchestration modèles | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| NVIDIA | ORGANISATION | concurrence | AMD | ORGANISATION | 0.88 | DYNAMIQUE | inféré |
+| Cobus Greyling | PERSONNE | affirme_que | NVIDIA domine l'orchestration de modèles | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | permet | vision-RAG | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
@@ -105,10 +105,10 @@ L'analyse Greyling révèle stratégie verticale intégrée sophistiquée : open
 | NVIDIA | ORGANISATION | secteur | Semi-conducteurs / IA | AJOUT |
 | Nemotron-Nano-12B-v2-VL-FP8 | TECHNOLOGIE | catégorie | Small Language Model multimodal open source | AJOUT |
 | DGX Spark | TECHNOLOGIE | catégorie | Workstation IA personnelle ARM64 | AJOUT |
-| SLMs | CONCEPT | rôle | Backbone des systèmes agentiques scalables | AJOUT |
+| SLMs | TECHNOLOGIE | rôle | Backbone des systèmes agentiques scalables | AJOUT |
 | data flywheel | CONCEPT | rôle | Boucle feedback temps réel pour fine-tuning | AJOUT |
 | hardware moat | CONCEPT | nature | Barrière stratégique vendor lock-in matériel | AJOUT |
 | vision-RAG | METHODOLOGIE | usage | Extraction données visuelles (factures, images) | AJOUT |
 | Cobus Greyling | PERSONNE | rôle | Chief Evangelist @ Kore.ai, analyste IA | AJOUT |
 | AMD | ORGANISATION | secteur | Semi-conducteurs (concurrent NVIDIA) | AJOUT |
-| edge computing | CONCEPT | nature | Exécution locale sans dépendance cloud | AJOUT |
+| edge computing | TECHNOLOGIE | nature | Exécution locale sans dépendance cloud | AJOUT |

@@ -62,17 +62,17 @@ Le rapport conclut que le choix du langage influence directement l'efficacité d
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Andrej Karpathy | PERSONNE | a_popularisé | Spec Drive Development | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| TypeScript | TECHNOLOGIE | domine | classement Agent-Language Fit | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| TypeScript | TECHNOLOGIE | offre | typage graduel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Rust | TECHNOLOGIE | présente | friction élevée pour SDD | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Borrow Checker | TECHNOLOGIE | entre_en_conflit_avec | nature probabiliste LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Python | TECHNOLOGIE | est_le_mieux_compris_par | modèles LLM | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Go | TECHNOLOGIE | offre | faible entropie syntaxique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Java | TECHNOLOGIE | souffre_de | verbosité saturant contexte | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Dart | TECHNOLOGIE | excelle_pour | génération UI multiplateforme | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| erreurs compilation LLM | CONCEPT | sont_à_94% | échecs vérification type | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| SDD | METHODOLOGIE | positionne_développeur_comme | producteur exécutif | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Andrej Karpathy | PERSONNE | soutient | Spec Drive Development | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| TypeScript | TECHNOLOGIE | surpasse | autres langages au classement Agent-Language Fit | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| TypeScript | TECHNOLOGIE | permet | typage graduel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Rust | TECHNOLOGIE | réduit | efficacité du flux SDD (friction élevée) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Borrow Checker | TECHNOLOGIE | s_oppose_à | nature probabiliste LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Python | TECHNOLOGIE | surpasse | autres langages en compréhension par les LLM | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Go | TECHNOLOGIE | permet | faible entropie syntaxique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| verbosité de Java | CONCEPT | réduit | attention du modèle (saturation contexte) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Dart | TECHNOLOGIE | s_applique_à | génération UI multiplateforme | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| erreurs compilation LLM | CONCEPT | mesure | 94% d'échecs de vérification de type | MESURE | 0.90 | STATIQUE | déclaré_article |
+| SDD | METHODOLOGIE | permet | développeur comme producteur exécutif | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

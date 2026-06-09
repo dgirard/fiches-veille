@@ -55,17 +55,17 @@ L'intégration est déjà disponible via l'Agent Development Kit (ADK) et le pro
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Google DeepMind | ORGANISATION | a_lancé | Interactions API | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Interactions API | TECHNOLOGIE | unifie | modèles et agents Gemini | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Interactions API | TECHNOLOGIE | supporte | protocole MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | publie | Interactions API | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | permet | interface unifiée pour modèles et agents Gemini | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Interactions API | TECHNOLOGIE | utilise | protocole MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Interactions API | TECHNOLOGIE | permet | gestion d'état côté serveur | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Interactions API | TECHNOLOGIE | permet | exécution en arrière-plan | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Gemini Deep Research | TECHNOLOGIE | est_accessible_via | Interactions API | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Ali Çevik | PERSONNE | a_co-présenté | Interactions API | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Philipp Schmid | PERSONNE | a_co-présenté | Interactions API | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
-| Interactions API | TECHNOLOGIE | s_intègre_avec | Agent Development Kit (ADK) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Interactions API | TECHNOLOGIE | s_intègre_avec | protocole Agent2Agent (A2A) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Interactions API | TECHNOLOGIE | complète | endpoint generateContent | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Gemini Deep Research | TECHNOLOGIE | fait_partie_de | Interactions API | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Ali Çevik | PERSONNE | publie | annonce de l'Interactions API | DOCUMENT | 0.85 | STATIQUE | déclaré_article |
+| Philipp Schmid | PERSONNE | publie | annonce de l'Interactions API | DOCUMENT | 0.85 | STATIQUE | déclaré_article |
+| Agent Development Kit (ADK) | TECHNOLOGIE | utilise | Interactions API | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| protocole Agent2Agent (A2A) | TECHNOLOGIE | utilise | Interactions API | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | affirme_que | Interactions API est complémentaire de generateContent | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

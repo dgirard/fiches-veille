@@ -44,7 +44,7 @@ AI Safety Institute (AISI UK)
 - Conclusion structurante : les capacites cyber offensives emergent comme sous-produit des ameliorations generales en autonomie long-horizon, raisonnement et codage — impliquant des augmentations futures inevitables
 - OpenAI a publie GPT-5.5 avec ses "safeguards les plus robustes a ce jour", et a lance un produit GPT-5.5-Cyber a acces restreint pour les professionnels de la cybersecurite defensive
 
-## ResumeDe400mots
+## RésuméDe400mots
 
 Dans cette evaluation pre-deploiement, l'AI Safety Institute du Royaume-Uni (AISI) documente les capacites cyberoffensives de GPT-5.5 d'OpenAI, utilisant sa suite standardisee de 95 taches au format capture-the-flag (CTF) reparties en quatre niveaux de difficulte, ainsi que des simulations d'attaque de bout en bout appelees "cyber ranges".
 
@@ -60,24 +60,24 @@ L'AISI conclut que la progression rapide des capacites cyber fait partie d'une t
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| AISI UK | ORGANISATION | a_evalue | GPT-5.5 | TECHNOLOGIE | 0.99 | STATIQUE | declare_article |
-| GPT-5.5 | TECHNOLOGIE | atteint | 71,4% pass@1 expert | CONCEPT | 0.97 | STATIQUE | declare_article |
-| GPT-5.5 | TECHNOLOGIE | egale_statistiquement | Mythos Preview | TECHNOLOGIE | 0.92 | STATIQUE | declare_article |
-| GPT-5.5 | TECHNOLOGIE | surpasse | GPT-5.4 | TECHNOLOGIE | 0.97 | STATIQUE | declare_article |
-| GPT-5.5 | TECHNOLOGIE | surpasse | Opus 4.7 | TECHNOLOGIE | 0.95 | STATIQUE | declare_article |
-| GPT-5.5 | TECHNOLOGIE | a_complete | The Last Ones (TLO) | EVENEMENT | 0.95 | STATIQUE | declare_article |
-| SpecterOps | ORGANISATION | a_construit | The Last Ones (TLO) | EVENEMENT | 0.90 | STATIQUE | declare_article |
-| Crystal Peak Security | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | declare_article |
-| Irregular | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | declare_article |
-| AISI UK | ORGANISATION | a_identifie | jailbreak universel | CONCEPT | 0.97 | STATIQUE | declare_article |
-| jailbreak universel | CONCEPT | contourne | safeguards GPT-5.5 | TECHNOLOGIE | 0.95 | STATIQUE | declare_article |
-| OpenAI | ORGANISATION | a_deploye | GPT-5.5-Cyber | TECHNOLOGIE | 0.90 | STATIQUE | declare_article |
-| capacites cyber offensives | CONCEPT | emergent_de | ameliorations autonomie et raisonnement | CONCEPT | 0.85 | ATEMPOREL | infere |
-| AISI UK | ORGANISATION | affirme_que | capacites cyber vont continuer a croitre | CONCEPT | 0.88 | ATEMPOREL | declare_article |
+| AISI UK | ORGANISATION | publie | evaluation des capacites cyber de GPT-5.5 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | mesure | 71,4% pass@1 sur les taches expert | MESURE | 0.97 | STATIQUE | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | converge_avec | Mythos Preview | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | surpasse | GPT-5.4 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | surpasse | Opus 4.7 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| GPT-5.5 | TECHNOLOGIE | résout | The Last Ones (TLO) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| SpecterOps | ORGANISATION | a_créé | The Last Ones (TLO) | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Crystal Peak Security | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Irregular | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
+| AISI UK | ORGANISATION | a_créé | jailbreak universel | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| jailbreak universel | CONCEPT | surpasse | safeguards GPT-5.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | GPT-5.5-Cyber | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| capacites cyber offensives | CONCEPT | est_basé_sur | ameliorations autonomie et raisonnement | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| AISI UK | ORGANISATION | affirme_que | les capacites cyber offensives vont continuer a croitre avec les prochains modeles | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
-### Entites
+### Entités
 
 | Entite | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
@@ -87,7 +87,7 @@ L'AISI conclut que la progression rapide des capacites cyber fait partie d'une t
 | Mythos Preview | TECHNOLOGIE | score_expert_pass1 | 68,6% (+-8,7%) | AJOUT |
 | GPT-5.4 | TECHNOLOGIE | score_expert_pass1 | 52,4% (+-9,8%) | AJOUT |
 | Opus 4.7 | TECHNOLOGIE | score_expert_pass1 | 48,6% (+-10,0%) | AJOUT |
-| The Last Ones (TLO) | EVENEMENT | description | Cyber range 32 etapes, 4 sous-reseaux, ~20 hotes | AJOUT |
+| The Last Ones (TLO) | TECHNOLOGIE | description | Cyber range 32 etapes, 4 sous-reseaux, ~20 hotes | AJOUT |
 | SpecterOps | ORGANISATION | secteur | Cybersecurite offensive / Red team | AJOUT |
 | Crystal Peak Security | ORGANISATION | secteur | Cybersecurite | AJOUT |
 | Irregular | ORGANISATION | secteur | Cybersecurite | AJOUT |

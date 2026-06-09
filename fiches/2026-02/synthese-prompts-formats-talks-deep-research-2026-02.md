@@ -75,16 +75,16 @@ Ce document de synthèse fusionne les données sur l'ingénierie narrative et la
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| histoires | CONCEPT | sont_22x_plus_mémorables_que | faits seuls | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Sparkline | METHODOLOGIE | recommandée_pour | TED Talk et Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Voyage du Héros | METHODOLOGIE | recommandée_pour | Keynote longue | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| AIDA | METHODOLOGIE | recommandée_pour | Lightning Talk et Elevator Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| PAS | METHODOLOGIE | recommandée_pour | Startup Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Kishōtenketsu | METHODOLOGIE | recommandée_pour | Pecha Kucha et audiences asiatiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| PREP | METHODOLOGIE | recommandée_pour | réponses Panel | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| audience | CONCEPT | positionnée_comme | héros (relation Yoda/Luke) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| temps | CONCEPT | dicte | structure narrative | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| design cognitif | METHODOLOGIE | impose | 1 image = 1 idée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| histoires | CONCEPT | surpasse | faits seuls | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Sparkline | METHODOLOGIE | s_applique_à | TED Talk et Keynote | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Voyage du Héros | METHODOLOGIE | s_applique_à | Keynote longue | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| AIDA | METHODOLOGIE | s_applique_à | Lightning Talk et Elevator Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| PAS | METHODOLOGIE | s_applique_à | Startup Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Kishōtenketsu | METHODOLOGIE | s_applique_à | Pecha Kucha et audiences asiatiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| PREP | METHODOLOGIE | s_applique_à | réponses Panel | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| audience | CONCEPT | est_instance_de | héros (relation Yoda/Luke) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| structure narrative | CONCEPT | est_basé_sur | temps disponible | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| design cognitif | METHODOLOGIE | recommande | 1 image = 1 idée | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

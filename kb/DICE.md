@@ -1,6 +1,6 @@
 # DICE
 
-> **Type** : CONCEPT | 5 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -10,12 +10,12 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#context-engineering\|context engineering]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#context-engineering\|context engineering]] (CONCEPT) — 0.98, STATIQUE
+- [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
 
 ### utilise

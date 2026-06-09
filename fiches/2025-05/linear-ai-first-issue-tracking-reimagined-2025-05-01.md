@@ -19,58 +19,58 @@ Linear, AI-first, issue tracking, project management, product development, workf
 Linear team
 
 ## Ton
-**Profil:** Product-Minimalist | Institutionnelle | Démonstrative-Inspirationnelle | Intermédiaire
+**Profil :** Produit minimaliste | Voix institutionnelle | Registre démonstratif-inspirationnel | Niveau technique intermédiaire
 
-Linear team adopte product-first voice emphasizing design excellence et user experience. Website/marketing materials communicate product philosophy avant feature lists. Langage design-conscious (keyboard shortcuts, developer tools, workflow automation) signals craft approach. Tone refined minimalist typical design-led startups (Figma, Notion style). Emphasis "AI-first" positions product future-oriented sans overwhelming current capabilities. Structure show-don't-tell reveals product through interaction rather than verbose explanation. Vise product-minded developers et teams valuing thoughtful tooling over feature bloat.
+L'équipe Linear adopte une voix « produit d'abord » mettant l'accent sur l'excellence du design et l'expérience utilisateur. Le site et les supports marketing communiquent une philosophie produit avant les listes de fonctionnalités. Langage soucieux du design (raccourcis clavier, outils développeurs, automatisation des workflows) qui signale une approche artisanale. Ton raffiné et minimaliste, typique des startups menées par le design (style Figma, Notion). L'accent « AI-first » positionne le produit comme tourné vers l'avenir sans survendre les capacités actuelles. Structure « montrer plutôt que dire » qui révèle le produit par l'interaction plutôt que par l'explication verbeuse. Vise les développeurs orientés produit et les équipes qui valorisent un outillage réfléchi plutôt que l'inflation de fonctionnalités.
 
 ## Pense-betes
-- **AI-first approach** à issue tracking et project management
-- **Keyboard-first** interface : designed pour developer speed
-- **Intelligent automation** : issue triage, assignment, prioritization
-- **Cycle-based planning** : sprints without ceremony overhead
-- **Real-time collaboration** : no refresh needed
-- **Git integrations** : seamless dev workflow connection
-- **Sub-issues et relationships** : complex work breakdown
-- **Roadmaps** : automatic visualization depuis issue data
-- **Command palette** : everything accessible via keyboard
+- **Approche AI-first** du suivi de tickets et de la gestion de projet
+- **Interface clavier d'abord** : conçue pour la vitesse des développeurs
+- **Automatisation intelligente** : triage des tickets, assignation, priorisation
+- **Planification par cycles** : des sprints sans la lourdeur cérémonielle
+- **Collaboration temps réel** : aucun rafraîchissement nécessaire
+- **Intégrations Git** : connexion fluide au workflow de développement
+- **Sous-tickets et relations** : décomposition de travaux complexes
+- **Roadmaps** : visualisation automatique à partir des données de tickets
+- **Palette de commandes** : tout est accessible au clavier
 
 ## RésuméDe400mots
 
-Linear has emerged comme **leading example de AI-first approach** à issue tracking et project management, fundamentally reimagining how development teams organize work. Unlike traditional project management tools adding AI features as afterthought, **Linear designed depuis ground up avec AI-augmented workflows** central à product experience, delivering notably faster et more intuitive user experience than incumbents like Jira.
+Linear s'est imposé comme **l'exemple de référence de l'approche AI-first** du suivi de tickets et de la gestion de projet, en réinventant fondamentalement la façon dont les équipes de développement organisent leur travail. Contrairement aux outils traditionnels qui ajoutent des fonctions IA après coup, **Linear a été conçu dès l'origine avec des workflows augmentés par l'IA** au centre de l'expérience produit, offrant une expérience nettement plus rapide et intuitive que les acteurs en place comme Jira.
 
-**AI-Augmented Workflows**
+**Workflows augmentés par l'IA**
 
-Linear's AI capabilities permeate product : **intelligent issue assignment** suggests appropriate team members based on issue content, skills, et current workload. **Smart triage** automatically categorizes incoming issues, applies appropriate labels, et routes à correct teams. **Priority recommendations** analyze issue content, dependencies, et team goals pour suggest priority levels. **Duplicate detection** identifies similar issues preventing redundant work. These AI features operate transparently, providing suggestions rather than making unilateral decisions, maintaining human control whilst accelerating workflows.
+Les capacités IA de Linear imprègnent le produit : l'**assignation intelligente des tickets** suggère les bons membres d'équipe selon le contenu du ticket, les compétences et la charge de travail. Le **triage intelligent** catégorise automatiquement les tickets entrants, applique les bons labels et les route vers les bonnes équipes. Les **recommandations de priorité** analysent contenu, dépendances et objectifs d'équipe pour suggérer des niveaux de priorité. La **détection de doublons** identifie les tickets similaires et évite le travail redondant. Ces fonctions IA opèrent de manière transparente, en proposant des suggestions plutôt qu'en décidant unilatéralement, préservant le contrôle humain tout en accélérant les workflows.
 
-**Developer-Centric Design Philosophy**
+**Philosophie de design centrée développeur**
 
-Product philosophy centers on **developer velocity**. Interface designed around **keyboard shortcuts et command palette** allowing experienced users operate without mouse. Create issue, assign, update status, add labels - all achievable through rapid keyboard commands. Real-time sync means **no page refreshes**, changes appear instantly across all viewers. Cette attention à speed creates fundamentally different experience versus slower, click-heavy traditional tools.
+La philosophie produit est centrée sur la **vélocité du développeur**. L'interface est conçue autour des **raccourcis clavier et de la palette de commandes**, permettant aux utilisateurs expérimentés de travailler sans souris. Créer un ticket, assigner, changer le statut, ajouter des labels : tout se fait par commandes clavier rapides. La synchronisation temps réel signifie **aucun rafraîchissement de page** : les changements apparaissent instantanément chez tous les utilisateurs. Cette attention à la vitesse crée une expérience fondamentalement différente des outils traditionnels, lents et gourmands en clics.
 
-**Cycle-Based Planning**
+**Planification par cycles**
 
-Linear implements **lightweight cycle-based planning** replacing heavy sprint ceremony overhead. Teams define cycles (typically 1-2 weeks), plan work, execute, review, puis repeat. Built-in cycle analytics show velocity, completion rates, scope creep, enabling teams continuously refine estimation et planning processes. Approach maintains agile structure whilst removing Jira's complexity.
+Linear met en œuvre une **planification légère par cycles** qui remplace la lourdeur cérémonielle des sprints. Les équipes définissent des cycles (typiquement 1-2 semaines), planifient, exécutent, font le bilan, puis recommencent. Les analyses de cycle intégrées montrent vélocité, taux de complétion et dérive de périmètre, permettant d'affiner continuellement estimation et planification. L'approche conserve la structure agile en supprimant la complexité de Jira.
 
-**Powerful Work Breakdown**
+**Décomposition puissante du travail**
 
-**Sub-issues et issue relationships** enable complex work breakdown. Large features decompose into manageable pieces maintaining clear hierarchy. Relationships (blocks, blocked by, relates to, duplicates) create dependency graph helping teams understand work sequencing. Roadmap views automatically visualize this structure, providing stakeholder communication tool without manual roadmap maintenance overhead.
+Les **sous-tickets et relations entre tickets** permettent de décomposer des travaux complexes. Les grandes fonctionnalités se décomposent en morceaux gérables avec une hiérarchie claire. Les relations (bloque, bloqué par, lié à, duplique) créent un graphe de dépendances aidant à comprendre le séquencement. Les vues roadmap visualisent automatiquement cette structure, fournissant un outil de communication aux parties prenantes sans maintenance manuelle.
 
-**Integration Ecosystem**
+**Écosystème d'intégrations**
 
-Linear integrates deeply avec **developer workflow tools** : GitHub/GitLab PR linking, Slack notifications, Figma design file embedding, Notion documentation connections. Git integrations particularly powerful - commit messages automatically update issues, PR status visible within Linear, deployment tracking links issues à released code. Cette integration creates **unified workflow** reducing context switching.
+Linear s'intègre profondément aux **outils du workflow développeur** : liaison de PR GitHub/GitLab, notifications Slack, intégration de fichiers Figma, connexions à la documentation Notion. Les intégrations Git sont particulièrement puissantes : les messages de commit mettent automatiquement à jour les tickets, le statut des PR est visible dans Linear, le suivi de déploiement relie les tickets au code livré. Cette intégration crée un **workflow unifié** réduisant les changements de contexte.
 
-**Real-Time Collaboration**
+**Collaboration temps réel**
 
-All team members see changes **immediately without refresh**. When someone assigns issue, updates status, ou adds comment, change appears instantly pour all viewers. Cette real-time nature combined avec presence indicators (seeing who's viewing same issue) creates collaborative experience closer à Google Docs than traditional project management.
+Tous les membres de l'équipe voient les changements **immédiatement, sans rafraîchir**. Quand quelqu'un assigne un ticket, met à jour un statut ou ajoute un commentaire, le changement apparaît instantanément pour tous. Cette nature temps réel, combinée aux indicateurs de présence (voir qui consulte le même ticket), crée une expérience collaborative plus proche de Google Docs que de la gestion de projet traditionnelle.
 
-**Data-Driven Insights**
+**Analyses pilotées par les données**
 
-Linear provides **analytics without manual reporting** : cycle completion trends, velocity metrics, issue aging, component health. Teams identify bottlenecks, measure improvement, et make data-informed process adjustments without dedicated analytics effort. AI helps surface insights depuis this data, proactively highlighting potential issues like overloaded team members ou consistently delayed components.
+Linear fournit des **analyses sans reporting manuel** : tendances de complétion des cycles, métriques de vélocité, vieillissement des tickets, santé des composants. Les équipes identifient les goulets d'étranglement, mesurent les progrès et ajustent leurs processus sans effort analytique dédié. L'IA aide à faire émerger des enseignements de ces données, en signalant proactivement les problèmes potentiels comme des membres surchargés ou des composants régulièrement en retard.
 
-**Market Impact**
+**Impact marché**
 
-Linear's success demonstrates market appetite pour **AI-native tools** built around modern UX principles rather than legacy architecture avec AI bolted on. Product has **captured significant market share from Jira**, particularly among high-velocity startups et engineering-focused companies. Pricing model (per-seat) aligns avec usage whilst remaining cost-effective pour growing teams.
+Le succès de Linear démontre l'appétit du marché pour des **outils AI-native** construits sur des principes UX modernes plutôt que sur une architecture legacy avec de l'IA greffée. Le produit a **pris des parts de marché significatives à Jira**, particulièrement auprès des startups à haute vélocité et des entreprises centrées ingénierie. Le modèle tarifaire (par siège) s'aligne sur l'usage tout en restant abordable pour les équipes en croissance.
 
-Success signals broader trend : next generation de enterprise tools will be **AI-first depuis inception**, using intelligence layer pour eliminate manual overhead whilst maintaining human agency in decision-making.
+Ce succès signale une tendance plus large : la prochaine génération d'outils d'entreprise sera **AI-first dès la conception**, utilisant la couche d'intelligence pour éliminer la charge manuelle tout en maintenant l'agentivité humaine dans la décision.
 
 ## GrapheDeConnaissance
 
@@ -78,18 +78,18 @@ Success signals broader trend : next generation de enterprise tools will be **AI
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Linear | TECHNOLOGIE | est_un | outil de gestion de projet AI-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | est_instance_de | outil de gestion de projet AI-first | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | Linear | TECHNOLOGIE | concurrence | Jira | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | intègre | Cursor | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | intègre | GitHub Copilot | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | intègre | Devin | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | intègre | Sentry | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | propose | Linear MCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Linear MCP | TECHNOLOGIE | connecte | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Linear MCP | TECHNOLOGIE | connecte | ChatGPT | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | intègre | Figma | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | a_capturé | parts de marché de Jira | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| outils AI-native | CONCEPT | remplacent | outils legacy avec IA ajoutée | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Linear | TECHNOLOGIE | utilise | Cursor | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | utilise | GitHub Copilot | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | utilise | Devin | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | utilise | Sentry | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | a_créé | Linear MCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | utilise | Linear MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| ChatGPT | TECHNOLOGIE | utilise | Linear MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | utilise | Figma | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | surpasse | Jira (parts de marché chez les startups) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| outils AI-native | CONCEPT | remplace | outils legacy avec IA ajoutée | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

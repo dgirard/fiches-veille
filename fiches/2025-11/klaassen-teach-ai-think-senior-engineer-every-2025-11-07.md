@@ -19,108 +19,108 @@ planning strategies, research agents, parallel operations, Cora email bankruptcy
 Kieran Klaassen (General Manager, Cora)
 
 ## Ton
-**Profil:** Practitioner-Tutorial-Advanced | Première personne praticien | Prescriptive-Systematic | Expert
+**Profil:** Tutoriel de praticien avancé | Première personne praticien | Prescriptif-systématique | Expert
 
-Klaassen adopte experienced practitioner voice sharing concrete tactical playbook suite article précédent philosophical. Structure 8-strategy framework (reproduce → best practices → codebase → libraries → git → vibe → synthesize → review) demonstrates systematic thinking typical senior engineer. Langage hands-on engineer (AppSignal logs, RubyLLM gem, helper methods, denormalizing, pull requests) grounded in Cora production examples creates credibility. Tone prescriptive-confident ("You can avoid building the wrong thing, too") reflects mastery. Direct GitHub links et open-sourced planning system shows commitment open knowledge sharing. Emphasis "how to make this compound" after each strategy reinforces central thesis knowledge accumulation. Typique Every Source Code advanced tutorials (Klaassen, Dan Shipper technical pieces) visant practitioner audience ready implement immediately vs conceptual understanding.
+Klaassen adopte une voix de praticien expérimenté partageant un playbook tactique concret, en suite de son article précédent plus philosophique. La structure en 8 stratégies (reproduire → bonnes pratiques → codebase → bibliothèques → git → vibe → synthèse → revue) démontre la pensée systématique typique d'un ingénieur senior. Le langage d'ingénieur de terrain (logs AppSignal, gem RubyLLM, helper methods, dénormalisation, pull requests), ancré dans des exemples de production de Cora, crée la crédibilité. Le ton prescriptif et confiant ("You can avoid building the wrong thing, too") reflète la maîtrise. Les liens GitHub directs et le système de planification open-sourcé montrent un engagement de partage ouvert de la connaissance. L'accent mis sur "comment faire capitaliser cela" après chaque stratégie renforce la thèse centrale d'accumulation de connaissance. Typique des tutoriels avancés de Source Code d'Every (Klaassen, articles techniques de Dan Shipper) visant une audience de praticiens prêts à implémenter immédiatement plutôt qu'une compréhension conceptuelle.
 
-## Pense-bêtes
-- **Suite article précédent** : Stop Coding and Start Planning (2025-11-06)
-- **Core thesis** : parallel research operations teach AI how you think faster than sequential human planning
-- **8 planning strategies** selon fidelity levels (One: quick fixes, Two: clear scope, Three: uncertain requirements)
+## Pense-betes
+- **Suite de l'article précédent** : Stop Coding and Start Planning (2025-11-06)
+- **Thèse centrale** : des opérations de recherche parallèles enseignent à l'IA votre façon de penser plus vite que la planification humaine séquentielle
+- **8 stratégies de planification** selon les niveaux de fidelity (One : correctifs rapides, Two : périmètre clair, Three : exigences incertaines)
 
-**Strategy 1: Reproduce and document**
-- Fidelity: One & Two, bug fixes
-- Agent job: step-by-step reproduction guide
-- Example Cora: 19 users stuck email bankruptcy, AppSignal logs revealed rate limit errors swallowed, silent failures
-- Compound: updated @kieran-rails-reviewer checklist "background jobs calling external APIs - handle rate limits?"
+**Stratégie 1 : Reproduire et documenter**
+- Fidelity : One & Two, corrections de bugs
+- Rôle de l'agent : guide de reproduction pas à pas
+- Exemple Cora : 19 utilisateurs bloqués sur l'email bankruptcy, les logs AppSignal ont révélé des erreurs de rate limit avalées, échecs silencieux
+- Capitalisation : checklist @kieran-rails-reviewer mise à jour — "jobs en arrière-plan appelant des API externes : les rate limits sont-ils gérés ?"
 
-**Strategy 2: Ground in best practices**
-- Fidelity: All, especially unfamiliar patterns
-- Agent: @agent-best-practices-researcher
-- Use cases: technical architecture, copywriting, pricing research, upgrade paths
-- Example: gem upgrade 2 versions behind, found official guide + 3 blog posts with edge cases, 3min saved hours debugging
-- Compound: save findings to docs/*.md (pay-gem-upgrades.md, pricing-research.md), agent checks docs first before web
+**Stratégie 2 : S'ancrer dans les bonnes pratiques**
+- Fidelity : toutes, surtout pour les patterns peu familiers
+- Agent : @agent-best-practices-researcher
+- Cas d'usage : architecture technique, copywriting, recherche de pricing, chemins de mise à niveau
+- Exemple : gem en retard de 2 versions ; l'agent a trouvé le guide officiel + 3 billets de blog avec cas limites ; 3 min de recherche ont évité des heures de debugging
+- Capitalisation : sauvegarder les trouvailles dans docs/*.md (pay-gem-upgrades.md, pricing-research.md) ; l'agent consulte d'abord les docs locales avant le web
 
-**Strategy 3: Ground in your codebase**
-- Fidelity: Anything duplicating existing functionality
-- Agent job: search existing code for related implementations
-- Example: event tracking feature, agent found forgotten existing tracking system with helper methods
-- Compound: created @event-tracking-expert agent distilling all tracking patterns, runs automatically on features needing tracking
+**Stratégie 3 : S'ancrer dans sa codebase**
+- Fidelity : tout ce qui risque de dupliquer une fonctionnalité existante
+- Rôle de l'agent : chercher dans le code existant les implémentations apparentées
+- Exemple : feature d'event tracking ; l'agent a trouvé un système de tracking existant oublié, avec helper methods
+- Capitalisation : création d'un agent @event-tracking-expert distillant tous les patterns de tracking, exécuté automatiquement sur les features concernées
 
-**Strategy 4: Ground in your libraries**
-- Fidelity: Fast-moving or poorly documented libraries
-- Agent job: analyze source code to understand capabilities
-- Example: RubyLLM gem updates constantly, docs lag, agent read source found v1.9 streaming support undocumented
-- Compound: knowledge auto-updates every dependency update, never stale information
+**Stratégie 4 : S'ancrer dans ses bibliothèques**
+- Fidelity : bibliothèques qui évoluent vite ou mal documentées
+- Rôle de l'agent : analyser le code source pour comprendre les capacités
+- Exemple : la gem RubyLLM évolue constamment, la doc est en retard ; l'agent a lu le source et trouvé le support streaming v1.9 non documenté
+- Capitalisation : la connaissance se met à jour automatiquement à chaque mise à jour de dépendance, jamais d'information périmée
 
-**Strategy 5: Study git history**
-- Fidelity: Refactors, continuing work, understanding "why"
-- Agent job: research past decisions and context
-- Example: EmailClassifier v1 vs v2, agent found 3-month-old PR showing v2 upgrade attempted, broke edge cases, deliberately rolled back
-- Compound: institutional memory preserved searchable, new team members inherit reasoning
+**Stratégie 5 : Étudier l'historique git**
+- Fidelity : refactorings, continuation de travaux, comprendre le "pourquoi"
+- Rôle de l'agent : rechercher les décisions passées et leur contexte
+- Exemple : EmailClassifier v1 vs v2 ; l'agent a trouvé une PR vieille de 3 mois montrant que le passage en v2 avait été tenté, avait cassé des cas limites et avait été délibérément annulé
+- Capitalisation : mémoire institutionnelle préservée et cherchable, les nouveaux membres de l'équipe héritent du raisonnement
 
-**Strategy 6: Vibe prototype for clarity**
-- Fidelity: Three, UX uncertainty, exploratory
-- Agent job: quickly build throwaway versions to interact with
-- Example: Brief interface redesign, 5 prototypes 5min each, user feedback "archive button top-left - muscle memory from Gmail"
-- Compound: vibe coding turns uncertainty into concrete specifications, user reactions documented
+**Stratégie 6 : Vibe prototyper pour clarifier**
+- Fidelity : Three, incertitude UX, exploratoire
+- Rôle de l'agent : construire rapidement des versions jetables avec lesquelles interagir
+- Exemple : refonte de l'interface Brief, 5 prototypes de 5 min chacun, feedback utilisateur "bouton archiver en haut à gauche — réflexe hérité de Gmail"
+- Capitalisation : le vibe coding transforme l'incertitude en spécifications concrètes, les réactions utilisateurs sont documentées
 
-**Strategy 7: Synthesize with options**
-- Fidelity: End research phase before implementation
-- Agent job: present 2-3 solution paths with honest pros/cons
-- Example: Gmail inbox sync, 3 options (bolt onto existing/real-time/mirror caching), tradeoffs (fast messy/clean slow/work upfront best long-term)
-- Compound: choice reveals preferences ("I prefer widely supported over cutting-edge"), codified for future similar decisions
+**Stratégie 7 : Synthétiser avec des options**
+- Fidelity : fin de la phase de recherche avant implémentation
+- Rôle de l'agent : présenter 2-3 pistes de solution avec avantages/inconvénients honnêtes
+- Exemple : synchronisation de l'inbox Gmail, 3 options (greffer sur l'existant / temps réel / cache miroir), compromis (rapide mais sale / propre mais lent / effort initial mais meilleur long terme)
+- Capitalisation : le choix révèle les préférences ("je préfère le largement supporté au cutting-edge"), codifiées pour les décisions similaires futures
 
-**Strategy 8: Review with style agents**
-- Fidelity: Final planning step before implementation
-- Agent job: catch misalignments with coding style and architecture
-- Three review agents:
-  - Simplification: flags over-engineering
-  - Security: checks vulnerabilities
-  - Kieran-style: personal preferences (simple queries vs complex joins, denormalizing)
-- Compound: agents accumulate taste over time, every "I don't like this" makes system smarter
+**Stratégie 8 : Relire avec des agents de style**
+- Fidelity : dernière étape de planification avant implémentation
+- Rôle de l'agent : détecter les désalignements avec le style de code et l'architecture
+- Trois agents de revue :
+  - Simplification : signale le sur-engineering
+  - Sécurité : vérifie les vulnérabilités
+  - Style-Kieran : préférences personnelles (requêtes simples vs jointures complexes, dénormalisation)
+- Capitalisation : les agents accumulent du goût avec le temps, chaque "je n'aime pas ça" rend le système plus intelligent
 
-**Getting started practical guide** :
-- Pick Fidelity Two feature (multi-file, clear scope)
-- 15-20min research: best practices (web), patterns (codebase), library capabilities (docs/source)
-- AI synthesize: problem (1 sentence), 2-3 approaches (pros/cons), existing patterns match, edge cases/security
-- Review reactions: capture "too complex" or "better way" - write down WHY
-- Ship feature, compare implementation vs plan, note divergences
-- Codify 1 learning: add to CLAUDE.md ("When X, check Y" or "Prefer A over B because C")
-- Create specialized agents: Event Tracking Expert, Security Checker
-- Repeat: next week reference notes, second plan better than first
+**Guide pratique de démarrage** :
+- Choisir une feature Fidelity Two (multi-fichiers, périmètre clair)
+- 15-20 min de recherche : bonnes pratiques (web), patterns (codebase), capacités des bibliothèques (docs/source)
+- Laisser l'IA synthétiser : problème (1 phrase), 2-3 approches (avantages/inconvénients), correspondance avec les patterns existants, cas limites/sécurité
+- Capturer ses réactions de revue : noter "trop complexe" ou "meilleure façon" — écrire le POURQUOI
+- Livrer la feature, comparer l'implémentation au plan, noter les divergences
+- Codifier 1 apprentissage : l'ajouter à CLAUDE.md ("Quand X, vérifier Y" ou "Préférer A à B parce que C")
+- Créer des agents spécialisés : Event Tracking Expert, Security Checker
+- Répéter : la semaine suivante, se référer aux notes ; le deuxième plan est meilleur que le premier
 
-**Open-sourced** : Every's GitHub marketplace, /plan slash command + research agents ready to use
+**Open-source** : marketplace GitHub d'Every, commande /plan + agents de recherche prêts à l'emploi
 
 ## RésuméDe400mots
 
-Kieran Klaassen présente les 8 stratégies concrètes transformant la philosophie de planification en systèmes opérationnels pour enseigner à l'IA comment penser comme un senior engineer. Suite de son article précédent sur l'importance de planning vs vibe coding, ce guide tactique détaille comment exécuter parallel research operations plus rapides que planification humaine séquentielle.
+Kieran Klaassen présente 8 stratégies concrètes transformant la philosophie de planification en systèmes opérationnels pour enseigner à l'IA à penser comme un ingénieur senior. Suite de son article précédent sur la planification vs le vibe coding, ce guide tactique détaille comment exécuter des opérations de recherche parallèles plus rapides que la planification humaine séquentielle.
 
 **Framework des 8 stratégies**
 
-**1. Reproduce and document** : Avant de fixer bugs, reproduire et documenter. Exemple Cora email bankruptcy : 19 users bloqués, agent loop AppSignal logs → rate limit errors swallowed silently. Saved from guessing. Compounding : updated @kieran-rails-reviewer checklist permanent.
+**1. Reproduire et documenter** : avant de corriger un bug, le reproduire et le documenter. Exemple de l'email bankruptcy de Cora : 19 utilisateurs bloqués ; l'agent a parcouru les logs AppSignal → des erreurs de rate limit étaient avalées silencieusement. Fini de deviner. Capitalisation : mise à jour permanente de la checklist @kieran-rails-reviewer.
 
-**2. Ground in best practices** : @agent-best-practices-researcher cherche web comment autres ont résolu. Use cases : architecture, copywriting, pricing, upgrades. Gem upgrade 2 versions behind : 3min research found official guide + 3 blog posts edge cases, prevented hours debugging. Compounding : save findings docs/*.md, agent checks local docs first.
+**2. S'ancrer dans les bonnes pratiques** : @agent-best-practices-researcher cherche sur le web comment d'autres ont résolu le problème. Cas d'usage : architecture, copywriting, pricing, mises à niveau. Gem en retard de 2 versions : 3 min de recherche ont trouvé le guide officiel + 3 billets de blog sur les cas limites, évitant des heures de debugging. Capitalisation : sauvegarder les trouvailles dans docs/*.md, l'agent consulte d'abord les docs locales.
 
-**3. Ground in codebase** : Chercher patterns existants avant recréer. Event tracking feature : agent found forgotten existing system avec helper methods. Prevented building second incompatible system. Compounding : @event-tracking-expert agent distills all patterns, runs automatically.
+**3. S'ancrer dans la codebase** : chercher les patterns existants avant de recréer. Feature d'event tracking : l'agent a trouvé un système existant oublié avec ses helper methods, évitant de construire un second système incompatible. Capitalisation : l'agent @event-tracking-expert distille tous les patterns et s'exécute automatiquement.
 
-**4. Ground in libraries** : Fast-moving libs mal documentées, read source code. RubyLLM gem : agent discovered v1.9 streaming support undocumented mais présent dans test suite. Compounding : auto-updates à chaque dependency update.
+**4. S'ancrer dans les bibliothèques** : pour les bibliothèques rapides et mal documentées, lire le code source. Gem RubyLLM : l'agent a découvert le support streaming v1.9, non documenté mais présent dans la suite de tests. Capitalisation : mise à jour automatique à chaque montée de version de dépendance.
 
-**5. Study git history** : Comprendre "why" past decisions. EmailClassifier upgrade : agent found 3-month-old PR showing v2 attempted, broke edge cases (inbox→archive, archive→inbox inverted), deliberately rolled back detailed reasoning. 5min search prevented reintroducing debugged bug. Compounding : institutional memory preserved searchable.
+**5. Étudier l'historique git** : comprendre le "pourquoi" des décisions passées. Mise à niveau d'EmailClassifier : l'agent a trouvé une PR de 3 mois montrant que la v2 avait été tentée, avait cassé des cas limites (inbox→archive et archive→inbox inversés) et avait été délibérément annulée avec un raisonnement détaillé. 5 min de recherche ont évité de réintroduire un bug déjà débuggé. Capitalisation : mémoire institutionnelle préservée et cherchable.
 
-**6. Vibe prototype for clarity** : Fidelity Three, UX uncertain. Brief interface : 5 prototypes 5min each, user feedback concrete ("archive button top-left - Gmail muscle memory"). Prototypes deleted, knowledge into plan. Compounding : uncertainty → concrete specifications documented.
+**6. Vibe prototyper pour clarifier** : Fidelity Three, UX incertaine. Interface Brief : 5 prototypes de 5 min chacun, feedback utilisateur concret ("bouton archiver en haut à gauche — réflexe Gmail"). Les prototypes sont supprimés, la connaissance passe dans le plan. Capitalisation : l'incertitude devient des spécifications concrètes documentées.
 
-**7. Synthesize with options** : Combine all research into 2-3 approaches avec honest tradeoffs. Gmail sync : Option A (bolt existing - fast messy), B (real-time - clean slow), C (mirror cache - work upfront best long-term). Agent research, human judgment. Compounding : choices reveal preferences codified ("prefer widely supported over cutting-edge").
+**7. Synthétiser avec des options** : combiner toute la recherche en 2-3 approches avec des compromis honnêtes. Synchronisation Gmail : option A (greffer sur l'existant — rapide mais sale), B (temps réel — propre mais lent), C (cache miroir — effort initial mais meilleur à long terme). L'agent fait la recherche, l'humain juge. Capitalisation : les choix révèlent des préférences codifiées ("préférer le largement supporté au cutting-edge").
 
-**8. Review with style agents** : 3 specialized reviewers final pass. Simplification agent (flags over-engineering), Security agent (vulnerabilities), Kieran-style agent (personal preferences: simple queries vs complex joins, denormalizing). Compounding : accumulate taste over time.
+**8. Relire avec des agents de style** : 3 relecteurs spécialisés en passe finale. Agent simplification (signale le sur-engineering), agent sécurité (vulnérabilités), agent style-Kieran (préférences personnelles : requêtes simples vs jointures complexes, dénormalisation). Capitalisation : les agents accumulent du goût avec le temps.
 
-**Cas email bankruptcy révélateur** : Initially thought easy ("bulk archive 53k emails - how hard?"). Research agent 20min revealed reality check : Gmail rate limits kill at 2k, system timeouts, long user wait. Simple feature became 3-day architectural challenge. Planning saved from building wrong thing entirely.
+**Cas email bankruptcy révélateur** : jugé facile au départ ("archiver 53 000 emails en masse, quelle difficulté ?"). 20 min d'agent de recherche ont ramené à la réalité : les rate limits Gmail tuent à 2 000, timeouts système, longue attente utilisateur. La feature simple est devenue un défi architectural de 3 jours. La planification a évité de construire entièrement la mauvaise chose.
 
-**Practical implementation** : Pick Fidelity Two feature → 15-20min research (best practices web + codebase patterns + library capabilities) → AI synthesize plan (problem/approaches/patterns/edge cases) → review reactions capture WHY → ship → compare implementation vs plan → codify 1 learning CLAUDE.md → create specialized agents → repeat next week.
+**Mise en œuvre pratique** : choisir une feature Fidelity Two → 15-20 min de recherche (bonnes pratiques web + patterns codebase + capacités des bibliothèques) → l'IA synthétise le plan (problème/approches/patterns/cas limites) → capturer le POURQUOI de ses réactions de revue → livrer → comparer implémentation et plan → codifier 1 apprentissage dans CLAUDE.md → créer des agents spécialisés → répéter la semaine suivante.
 
-**Open-source contribution** : Klaassen open-sourced planning system Every's GitHub marketplace avec /plan slash command et research agents prêts à utiliser. Philosophy : don't build from scratch, adapt existing proven systems.
+**Contribution open-source** : Klaassen a open-sourcé son système de planification sur la marketplace GitHub d'Every avec la commande /plan et des agents de recherche prêts à l'emploi. Philosophie : ne pas repartir de zéro, adapter des systèmes éprouvés existants.
 
-Chaque stratégie includes "How to make this compound" demonstrating central thesis : parallel research operations teach AI institutional knowledge accumulating faster than human sequential planning.
+Chaque stratégie inclut un volet "comment faire capitaliser cela", démontrant la thèse centrale : les opérations de recherche parallèles enseignent à l'IA une connaissance institutionnelle qui s'accumule plus vite que la planification humaine séquentielle.
 
 ## GrapheDeConnaissance
 
@@ -129,19 +129,19 @@ Chaque stratégie includes "How to make this compound" demonstrating central the
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Kieran Klaassen | PERSONNE | a_créé | Compounding Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | gère | Cora | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | publie_dans | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | dirige | Cora | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | travaille_chez | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Compounding Engineering | METHODOLOGIE | est_basé_sur | opérations de recherche parallèles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | opérations de recherche parallèles | CONCEPT | remplace | planification séquentielle humaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | est_utilisé_par | Kieran Klaassen | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Cora | TECHNOLOGIE | utilise | Gmail API | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Gmail API | TECHNOLOGIE | impose | limite de débit à 2000 emails | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Gmail API | TECHNOLOGIE | mesure | limite de débit à 2000 emails | MESURE | 0.95 | STATIQUE | déclaré_article |
 | AppSignal | TECHNOLOGIE | permet | diagnostic logs production | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| RubyLLM | TECHNOLOGIE | est_utilisé_par | Cora | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| CLAUDE.md | TECHNOLOGIE | codifie | préférences architecturales | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| mémoire institutionnelle | CONCEPT | est_préservée_par | git history | TECHNOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| vibe coding | METHODOLOGIE | transforme | incertitudes UX en spécifications | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Every | ORGANISATION | héberge | planning system open-source | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Cora | TECHNOLOGIE | utilise | RubyLLM | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | référence | préférences architecturales | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| git history | TECHNOLOGIE | permet | mémoire institutionnelle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| vibe coding | METHODOLOGIE | permet | transformation des incertitudes UX en spécifications | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Every | ORGANISATION | publie | planning system open-source | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

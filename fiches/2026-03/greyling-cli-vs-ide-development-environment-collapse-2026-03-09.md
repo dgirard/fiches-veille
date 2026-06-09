@@ -34,7 +34,7 @@ Profil : perspective d'evangeliste technique, registre analytique-pedagogique, n
 - Progression historique : autocompletion (Copilot) -> generation de code (ChatGPT) -> codage agentique (Claude Code, Cursor) -> boucle complete en interface texte
 - L'IDE devient l'outil de revue, pas l'outil de creation
 
-## ResumeDe400mots
+## RésuméDe400mots
 Cobus Greyling, Chief Evangelist chez Kore.ai, identifie un pattern recurrent d'effondrement des couches du stack developpeur sous l'effet des agents IA. Apres l'effondrement de la couche d'integration (le CLI remplacant MCP comme interface naturelle des agents) et de la couche d'orchestration (les prompts en langage naturel dans un fichier CLAUDE.md remplacant des frameworks comme LangGraph ou CrewAI), c'est desormais l'environnement de developpement lui-meme qui s'effondre : l'IDE devient optionnel.
 
 Greyling decompose les cinq fonctions essentielles d'un IDE - navigation de fichiers, edition de code, conscience syntaxique, build/run/debug, controle de version - et demontre que chacune est parfaitement realisable par un agent via le CLI, sans interface visuelle. L'agent navigue par intention (grep, find, glob) plutot que par clic dans un arbre de fichiers. Il parse le code brut nativement grace a son entrainement sur des milliards de lignes de code, sans besoin de coloration syntaxique. Il lit stdout/stderr pour debugger en une seule boucle, sans breakpoints. Il comprend les diffs en texte sans visualiseur graphique.
@@ -49,23 +49,23 @@ La consequence est un changement fondamental du role du developpeur : la compete
 
 ### Triples
 
-| Sujet | Type Sujet | Predicat | Objet | Type Objet | Confiance | Temporalite | Source |
+| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Cobus Greyling | PERSONNE | affirme_que | IDE devient optionnel pour agents | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| CLI | TECHNOLOGIE | remplace | IDE pour agents IA | TECHNOLOGIE | 0.90 | DYNAMIQUE | declare_article |
-| CLI | TECHNOLOGIE | a_remplace | MCP comme interface agents | TECHNOLOGIE | 0.85 | STATIQUE | declare_article |
-| Prompts | CONCEPT | remplacent | frameworks orchestration | TECHNOLOGIE | 0.88 | DYNAMIQUE | declare_article |
-| CLAUDE.md | TECHNOLOGIE | remplace | LangGraph et CrewAI | TECHNOLOGIE | 0.85 | DYNAMIQUE | declare_article |
-| Agent IA | CONCEPT | n_a_pas | limitations cognitives humaines | CONCEPT | 0.92 | ATEMPOREL | declare_article |
-| IDE | TECHNOLOGIE | resout | limitations cognitives humaines | CONCEPT | 0.95 | ATEMPOREL | declare_article |
-| Claude Code | TECHNOLOGIE | illustre | effondrement couche environnement | CONCEPT | 0.93 | DYNAMIQUE | declare_article |
-| Role developpeur | CONCEPT | passe_de | manipulation visuelle a specification verbale | CONCEPT | 0.90 | DYNAMIQUE | declare_article |
-| Fenetre de contexte | CONCEPT | est | memoire de travail de l'agent | CONCEPT | 0.95 | ATEMPOREL | infere |
-| Cobus Greyling | PERSONNE | est_evangeliste_chez | Kore.ai | ORGANISATION | 0.99 | DYNAMIQUE | declare_article |
+| Cobus Greyling | PERSONNE | affirme_que | IDE devient optionnel pour agents | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| CLI | TECHNOLOGIE | remplace | IDE pour agents IA | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| CLI | TECHNOLOGIE | remplace | MCP comme interface agents | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| Prompts | CONCEPT | remplace | frameworks orchestration | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | remplace | LangGraph et CrewAI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| Cobus Greyling | PERSONNE | affirme_que | un agent IA n'a pas les limitations cognitives humaines | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| IDE | TECHNOLOGIE | résout | limitations cognitives humaines | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| effondrement couche environnement | CONCEPT | observé_dans | Claude Code | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| specification verbale | CONCEPT | remplace | manipulation visuelle | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Fenetre de contexte | CONCEPT | est_instance_de | memoire de travail de l'agent | CONCEPT | 0.95 | ATEMPOREL | inféré |
+| Cobus Greyling | PERSONNE | travaille_chez | Kore.ai | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 
-### Entites
+### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Cobus Greyling | PERSONNE | role | Chief Evangelist, Kore.ai | AJOUT |
 | Kore.ai | ORGANISATION | secteur | IA conversationnelle | AJOUT |

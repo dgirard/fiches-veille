@@ -19,16 +19,6 @@
 - [[kb/_entites-mineures#K-9-Mail\|K-9 Mail]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Framework de compétences agentiques pour agents de codage — Superpowers — Méthodologie TDD — GitHub]]
 
-### a_inspiré
-
-- [[kb/Simon-Willison\|Simon Willison]] (PERSONNE) — 0.92, STATIQUE
-  - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
-
-### applique
-
-- [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] (METHODOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
-
 ### collabore_avec
 
 - [[kb/Sam-Schillace\|Sam Schillace]] (PERSONNE) — 0.75, DYNAMIQUE
@@ -43,8 +33,14 @@
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
+- [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] (METHODOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
 - [[kb/_entites-mineures#principes-de-persuasion-Cialdini\|principes de persuasion Cialdini]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
+
+## Relations (comme objet)
+
+- [[kb/Simon-Willison\|Simon Willison]] **s_inspire_de** → Jesse Vincent — 0.92
 
 ## Fiches sources
 

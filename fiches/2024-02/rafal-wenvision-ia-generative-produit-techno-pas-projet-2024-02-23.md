@@ -85,20 +85,20 @@ Rafal annonce enfin un **changement de paradigme** à faire accepter : *« on pa
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Olivier Rafal | PERSONNE | a_écrit | L'IA générative est plus une affaire de produit technologique qu'un projet d'IA | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | publie | L'IA générative est plus une affaire de produit technologique qu'un projet d'IA | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | travaille_chez | WeNvision | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| CIO-Online | ORGANISATION | a_publié | L'IA générative est plus une affaire de produit technologique qu'un projet d'IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
-| Olivier Rafal | PERSONNE | affirme_que | l'IA générative est un produit technologique plus qu'un projet d'IA | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| créer un foundation model | CONCEPT | exige | plusieurs mois et des millions d'euros | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| CIO-Online | ORGANISATION | publie | L'IA générative est plus une affaire de produit technologique qu'un projet d'IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | l'IA générative est un produit technologique plus qu'un projet d'IA | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | affirme_que | créer un foundation model demande plusieurs mois et des millions d'euros | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Bloomberg | ORGANISATION | a_créé | BloombergGPT | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| entreprises | ORGANISATION | ont_besoin_de | ingénieurs d'intégration et compétences cloud | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| plateforme d'IA générative | TECHNOLOGIE | repose_sur | orchestrateurs et API | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| orchestrateurs et API | TECHNOLOGIE | permettent | de changer de LLM sans retoucher les applications | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| plateforme d'IA générative | TECHNOLOGIE | doit_être_considérée_comme | un produit | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| financement de la plateforme | CONCEPT | devrait_être | un flux mensuel continu | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| démocratisation de la GenAI | CONCEPT | engendre | shadow AI et fortes attentes vis-à-vis de la DSI | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| gouvernance GenAI | METHODOLOGIE | priorise | les produits par la valeur créée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| IA générative | CONCEPT | fait_passer_de | programmation algorithmique à des agents Langchain | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | ingénieurs d'intégration et compétences cloud plutôt que data scientists | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| plateforme d'IA générative | TECHNOLOGIE | est_basé_sur | orchestrateurs et API | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| orchestrateurs et API | TECHNOLOGIE | permet | de changer de LLM sans retoucher les applications | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | considérer la plateforme GenAI elle-même comme un produit | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | financement en flux mensuel continu | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| démocratisation de la GenAI | CONCEPT | permet | shadow AI et fortes attentes vis-à-vis de la DSI | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| gouvernance GenAI | METHODOLOGIE | utilise | priorisation des produits par la valeur créée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| agents Langchain | TECHNOLOGIE | remplace | programmation algorithmique classique | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

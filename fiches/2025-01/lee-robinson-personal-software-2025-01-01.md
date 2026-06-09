@@ -18,9 +18,9 @@ IA, personal software, applications customisées, logiciel à usage unique, no-c
 Lee Robinson
 
 ## Ton
-**Profil:** Thought-Leader-Tech | Première personne visionary | Provocatrice-Prospective | Intermédiaire
+**Profil :** Thought leader tech | Première personne, visionnaire | Registre provocateur-prospectif | Niveau technique intermédiaire
 
-Robinson (Vercel VP Product) adopte tech visionary voice combinant product experience et future-oriented thinking. Concept "Personal Software" signals paradigm shift thinking typical thought leaders. Langage accessible évitant excessive jargon tout en covering sophisticated AI-enabled customization concepts. Tone optimistic provocative challenging status quo software distribution models. Structure essay-style exploration encourages reader imagination re: software futures. Typique tech industry thought leaders (DHH, Joel Spolsky style) proposing contrarian views grounded product/engineering experience visant developers et product builders.
+Robinson (VP Product chez Vercel) adopte une voix de visionnaire technologique combinant expérience produit et réflexion tournée vers l'avenir. Le concept de « Personal Software » signale une pensée de changement de paradigme typique des leaders d'opinion. Langage accessible évitant le jargon excessif tout en couvrant des concepts sophistiqués de personnalisation rendue possible par l'IA. Ton optimiste et provocateur, remettant en cause le statu quo des modèles de distribution logicielle. Structure d'essai exploratoire qui encourage l'imagination du lecteur sur les futurs du logiciel. Typique des leaders d'opinion de l'industrie tech (style DHH, Joel Spolsky) : des points de vue à contre-courant ancrés dans une expérience produit/ingénierie, visant les développeurs et les créateurs de produits.
 
 ## Pense-betes
 - **Transition du "taille unique" au "logiciel personnel"** : L'IA rend cette transition possible.
@@ -40,14 +40,14 @@ Cette tendance donne le pouvoir à divers professionnels (designers, marketeurs,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Lee Robinson | PERSONNE | publie | Personal Software | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| IA | TECHNOLOGIE | transforme | création logicielle | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | publie | Personal Software | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| IA | TECHNOLOGIE | améliore | création logicielle | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | personal software | CONCEPT | remplace | logiciel taille unique | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | personal software | CONCEPT | est_basé_sur | IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Lee Robinson | PERSONNE | affirme_que | non-développeurs pourront créer des logiciels | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | affirme_que | les non-développeurs pourront créer des logiciels | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
 | personal software | CONCEPT | améliore | expérience utilisateur individuelle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| création logicielle accessible | CONCEPT | augmente | valeur du développement professionnel | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
-| personal software | CONCEPT | favorise | innovation | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| création logicielle accessible | CONCEPT | améliore | valeur du développement professionnel | CONCEPT | 0.82 | ATEMPOREL | déclaré_article |
+| personal software | CONCEPT | permet | innovation | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Lee Robinson | PERSONNE | travaille_chez | Vercel | ORGANISATION | 0.90 | DYNAMIQUE | généré_assistant |
 
 ### Entités

@@ -19,14 +19,11 @@
 - [[kb/_entites-mineures#coûts_inférence\|coûts_inférence]] (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
-### supporte
-
-- [[kb/_entites-mineures#puces_Huawei\|puces_Huawei]] (TECHNOLOGIE) — 0.93, STATIQUE
-  - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
-
 ### utilise
 
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] (CONCEPT) — 0.97, STATIQUE
+  - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
+- [[kb/_entites-mineures#puces_Huawei\|puces_Huawei]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
 ## Relations (comme objet)

@@ -59,17 +59,17 @@ Pour les **coding agents** — exemple canonique du tool-use — les conseils pr
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Finout | ORGANISATION | publie | guide CPO FinOps des architectures IA | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| systèmes agentiques | CONCEPT | augmentent | coût de façon exponentielle | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| chatbot en production | CONCEPT | consomme | 6× les tokens de la démo | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| Cost Iceberg | CONCEPT | affirme_que | 80%+ du coût réel est caché | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| coût réel agentique | CONCEPT | atteint | 5-10× la facture cloud directe | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| agent IA | CONCEPT | déclenche | ~5 appels LLM par tâche | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Limit the Loop | METHODOLOGIE | plafonne | étapes d'un agent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| systèmes agentiques | TECHNOLOGIE | permet | croissance exponentielle des coûts | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| chatbot en production | TECHNOLOGIE | mesure | 6× les tokens de la démo | MESURE | 0.93 | STATIQUE | déclaré_article |
+| Cost Iceberg | CONCEPT | affirme_que | 80%+ du coût réel est caché | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| coût réel agentique | CONCEPT | mesure | 5-10× la facture cloud directe | MESURE | 0.92 | ATEMPOREL | déclaré_article |
+| agent IA | TECHNOLOGIE | mesure | ~5 appels LLM par tâche | MESURE | 0.90 | ATEMPOREL | déclaré_article |
+| Limit the Loop | METHODOLOGIE | réduit | étapes d'un agent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | tiered reasoning | METHODOLOGIE | réduit | coût (modèle cheap puis cher) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | prompt concis | METHODOLOGIE | réduit | tokens de 15-25% | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| kill switch | METHODOLOGIE | stoppe | dépense agent anormale | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| coding agent | CONCEPT | illustre | pattern tool-use multi-étapes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| FinOps Foundation | ORGANISATION | observe | variance de coût 30×-200× | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| kill switch | METHODOLOGIE | résout | dépense agent anormale | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| coding agent | TECHNOLOGIE | est_instance_de | pattern tool-use multi-étapes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| FinOps Foundation | ORGANISATION | mesure | variance de coût 30×-200× | MESURE | 0.90 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -80,5 +80,5 @@ Pour les **coding agents** — exemple canonique du tool-use — les conseils pr
 | multiplicateurs de tokens | CONCEPT | valeurs | 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim | AJOUT |
 | Limit the Loop | METHODOLOGIE | usage | Plafonner les étapes/outils d'un agent | AJOUT |
 | tiered reasoning | METHODOLOGIE | usage | Modèle cheap d'abord, cher si faible confiance | AJOUT |
-| coding agent | CONCEPT | exemple | LLM appelle « execute code », lit output, continue | AJOUT |
+| coding agent | TECHNOLOGIE | exemple | LLM appelle « execute code », lit output, continue | AJOUT |
 | Finout | ORGANISATION | secteur | Plateforme FinOps enterprise | AJOUT |

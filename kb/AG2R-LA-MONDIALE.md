@@ -9,19 +9,19 @@
 
 ## Relations (comme sujet)
 
-### a_développé
+### a_créé
 
 - [[kb/Almia\|Almia]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
-### emploie_réseau
+### mesure
 
-- [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- « 629 M€ investis dans la transformation SI sur 6 ans » (MESURE) — 0.97, STATIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
-### investit
+### utilise
 
-- [[kb/_entites-mineures#629-M€-transformation-SI\|629 M€ transformation SI]] (CONCEPT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
 
 ## Fiches sources

@@ -95,19 +95,19 @@ Dans ce billet du **7 juin 2026**, **Mark Dembo** (Head of Solutions – Develop
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Mark Dembo | PERSONNE | a_écrit | BYO Agent with M5Stack Stick 3 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | publie | BYO Agent with M5Stack Stick 3 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Mark Dembo | PERSONNE | travaille_chez | Cloudflare | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Mark Dembo | PERSONNE | a_construit | agent IA DIY sur M5Stack Stick 3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Steve Ruiz | PERSONNE | a_inspiré | Mark Dembo | PERSONNE | 0.9 | STATIQUE | déclaré_article |
-| Mark Dembo | PERSONNE | a_utilisé | Claude Code | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | a_créé | agent IA DIY sur M5Stack Stick 3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | s_inspire_de | Steve Ruiz | PERSONNE | 0.9 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Cloudflare Agents SDK | TECHNOLOGIE | permet | le pattern Code Mode (l'agent écrit et exécute du code) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| agent | CONCEPT | accède_à | données publiques via fetch() (Wikipedia) | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| MCP OAuth | TECHNOLOGIE | connecte | l'agent à Todoist (50 outils) | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| 50 outils Todoist | CONCEPT | provoque | bloat de contexte et risque de blast radius | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| gouvernance par outil | METHODOLOGIE | propose | Always allow / Ask for approval / Disable (défaut deny) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Mark Dembo | PERSONNE | affirme_que | I did not even look at the code once | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| zero blast radius | CONCEPT | justifie | de ne pas se soucier du code | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| accessibilité de la capacité IA | CONCEPT | est | le vrai déblocage (30 € + quelques cents d'inférence) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| agent IA DIY sur M5Stack Stick 3 | TECHNOLOGIE | utilise | données publiques via fetch() (Wikipedia) | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| MCP OAuth | TECHNOLOGIE | permet | la connexion de l'agent à Todoist (50 outils) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| 50 outils Todoist | TECHNOLOGIE | permet | bloat de contexte et risque de blast radius | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | recommande | gouvernance par outil Always allow / Ask for approval / Disable (défaut deny) | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Mark Dembo | PERSONNE | affirme_que | « I did not even look at the code once » | CITATION | 0.95 | STATIQUE | déclaré_article |
+| zero blast radius | CONCEPT | permet | de ne pas se soucier du code | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Mark Dembo | PERSONNE | affirme_que | l'accessibilité de la capacité IA (30 € + quelques cents d'inférence) est le vrai déblocage | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

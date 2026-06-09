@@ -54,16 +54,16 @@ En conclusion, la méthodologie de Jesse Vincent démontre qu'une utilisation ef
 | Jesse Vincent | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | a_créé | coderabbit-review-helper | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | recommande | git worktrees | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| Jesse Vincent | PERSONNE | applique | approche multi-sessions | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Jesse Vincent | PERSONNE | utilise | approche multi-sessions | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | git worktrees | METHODOLOGIE | permet | isolation des tâches | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | approche multi-sessions | METHODOLOGIE | utilise | session architecte | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | approche multi-sessions | METHODOLOGIE | utilise | session implémenteur | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| session architecte | CONCEPT | produit | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| session implémenteur | CONCEPT | exécute | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| CodeRabbit | TECHNOLOGIE | effectue | revue de code automatisée | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| session architecte | CONCEPT | permet | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| session implémenteur | CONCEPT | utilise | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| CodeRabbit | TECHNOLOGIE | permet | revue de code automatisée | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | coderabbit-review-helper | TECHNOLOGIE | améliore | intégration CodeRabbit | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | CLAUDE.md | TECHNOLOGIE | réduit | déviation du plan | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| role-playing | METHODOLOGIE | rend | Claude Code | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
+| role-playing | METHODOLOGIE | améliore | Claude Code | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
 | TDD | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités

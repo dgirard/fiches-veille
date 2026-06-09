@@ -104,11 +104,31 @@ Tableau markdown avec 5 colonnes :
 |------|-------------|----------|
 | `PERSONNE` | Individu nommé | Boris Cherny, Ethan Mollick, Marc Andreessen |
 | `ORGANISATION` | Entreprise, labo, institution | Anthropic, Google, Y Combinator, Stanford |
-| `TECHNOLOGIE` | Outil, framework, plateforme, langage | Claude Code, MCP, TypeScript, React |
-| `CONCEPT` | Idée, principe, pattern | Demande latente, Bitter Lesson, prompt caching |
-| `METHODOLOGIE` | Approche, workflow, pratique | Vibe coding, Plan mode, Compounding Engineering |
+| `TECHNOLOGIE` | Outil, framework, plateforme, langage, produit | Claude Code, MCP, TypeScript, React |
+| `CONCEPT` | Idée, principe, pattern (PAS une proposition, un chiffre ou une citation — voir types épistémiques) | Demande latente, Bitter Lesson, prompt caching |
+| `METHODOLOGIE` | Pratique actionnable avec des étapes/un workflow | Vibe coding, Plan mode, Compounding Engineering |
 | `EVENEMENT` | Publication, annonce, incident | Opus 4.5 launch, 2026 Agentic Coding Report |
-| `LIEU` | Localisation géographique | Silicon Valley, France, Japon |
+| `LIEU` | Localisation géographique (usage gelé : préférer un attribut d'entité ; ne créer une entité LIEU que si elle structure l'article) | Silicon Valley, France, Japon |
+| `DOCUMENT` | Rapport, livre, étude, publication citée comme objet | AI Index Report 2025, DORA Report |
+
+### Types épistémiques (objets de triples uniquement)
+
+Quand l'objet d'un triple épistémique (`affirme_que`, `prédit`, `mesure`, `recommande`) n'est **pas une entité existante** mais une proposition, un chiffre ou un verbatim, le typer ainsi (au lieu de CONCEPT) :
+
+| Type | Capture | Exemple d'objet |
+|------|---------|-----------------|
+| `AFFIRMATION` | Proposition complète affirmée par une source | "IA effectue 30-50% du travail chez Salesforce" |
+| `MESURE` | Point de mesure chiffré, daté, périssable | "727% ROI sur 3 ans" |
+| `CITATION` | Verbatim significatif (entre guillemets) | "Billable hours are dead" |
+
+**Règles** : ces objets n'apparaissent **jamais** dans la table `### Entités` (ce ne sont pas des entités) et ne sont jamais sujets d'un triple. Si l'objet correspond à une entité existante du graphe, utiliser l'entité.
+
+### Règles de désambiguïsation des types
+
+- **ORGANISATION vs TECHNOLOGIE** (entreprises-produits : Cursor, Replit, Perplexity, GitHub, Manus…) : typer selon le **rôle dans la relation** — qui agit (lève des fonds, annonce, recrute) = ORGANISATION ; ce qui est utilisé/intégré/comparé = TECHNOLOGIE.
+- **CONCEPT vs METHODOLOGIE** : METHODOLOGIE = pratique actionnable (on peut la suivre, elle a des étapes) ; CONCEPT = idée ou principe (on peut y adhérer). `Vibe coding`, `Compound Engineering`, `Plan mode`, `Context engineering` → METHODOLOGIE.
+- **Familles génériques IA** : `IA`, `agents IA`, `IA générative`, `IA agentique` → TECHNOLOGIE (jamais CONCEPT).
+- **Versions de produits** : préférer l'entité produit stable (ex. `Claude Opus`) avec la version en attribut ou via `est_variante_de`/`remplace` entre releases, plutôt qu'une entité par numéro de version.
 
 ### Types temporels
 
@@ -134,15 +154,44 @@ Tableau markdown avec 5 colonnes :
 | `MISE_A_JOUR` | L'article corrige une information connue |
 | `INVALIDATION` | L'article contredit une information connue |
 
+### Registre fermé des prédicats (30)
+
+**Le vocabulaire des prédicats est FERMÉ.** Tout triple doit utiliser un prédicat de ce registre (aligné sur l'ontologie ATransverse v5, annexe D). Si aucun prédicat ne convient, choisir le plus proche ; ne jamais en inventer un nouveau.
+
+| Famille | Prédicats | Équivalent v5 |
+|---------|-----------|---------------|
+| **Structurels** (5) | `fait_partie_de`, `est_instance_de`, `est_variante_de`, `remplace`, `publie` | partOf, instanceOf, variantOf, supersedes, releases |
+| **Épistémiques** (9) | `affirme_que`, `soutient`, `s_oppose_à`, `affine`, `prédit`, `mesure`, `est_basé_sur`, `s_inspire_de`, `référence` | claims, supports, contradicts, refines, predicts, measures, derivedFrom, informedBy, referencesExternal |
+| **Opérationnels** (8) | `utilise`, `permet`, `améliore`, `réduit`, `résout`, `s_applique_à`, `observé_dans`, `recommande` | uses, enables, improves, reduces, solves, appliesTo, observedIn, recommends |
+| **Marché** (5) | `concurrence`, `surpasse`, `converge_avec`, `collabore_avec`, `a_créé` | competesWith, outperforms, convergesWith, partneredWith, created |
+| **Personnes** (3) | `travaille_chez`, `dirige`, `emploie` | (spécifique veille — PERSONNE conservé) |
+
+**Table de normalisation des prédicats hérités** (anciens → canoniques) :
+
+| Anciens prédicats | Canonique |
+|-------------------|-----------|
+| `intègre`, `supporte`, `emploie` (objet non-PERSONNE), `requiert` | `utilise` |
+| `a_développé`, `développe`, `crée`, `a_construit` | `a_créé` |
+| `propose`, `préconise` | `recommande` |
+| `a_publié`, `a_lancé`, `lance`, `sort` | `publie` |
+| `augmente`, `accélère`, `optimise`, `transforme` (amélioration) | `améliore` |
+| `génère`, `produit`, `fournit`, `offre`, `transforme` (capacité nouvelle) | `permet` |
+| `contredit`, `critique`, `conteste` | `s_oppose_à` |
+| `atteint` | `mesure` |
+| `définit`, `représente`, `est` (proposition) | `affirme_que` |
+| `est` (catégorisation : "X est un Y") | `est_instance_de` |
+| `concurrence avec`, `rivalise_avec` | `concurrence` |
+
 ### Règles d'extraction
 
 - **Seuil de confiance minimum** : 0.70 — Les triples en dessous ne sont pas inclus
 - **Nombre cible** : 5 à 15 triples par fiche (ajuster selon la densité de l'article)
-- **Prédicats en français**, sous forme verbale courte (1-3 mots) : `a_créé`, `utilise`, `emploie`, `publie`, `critique`, `recommande`, `transforme`, `remplace`, `améliore`, `réduit`, `augmente`, `affirme_que`, `prédit`, `contredit`, `s_oppose_à`, `fait_partie_de`, `est_basé_sur`, `collabore_avec`
-- **Prédicats épistémiques** (`affirme_que`, `prédit`, `recommande`) pour distinguer les faits des opinions
+- **Prédicats** : uniquement issus du registre fermé ci-dessus
+- **Prédicats épistémiques** (`affirme_que`, `prédit`, `recommande`, `mesure`) pour distinguer les faits des opinions ; leurs objets non-entités sont typés `AFFIRMATION`/`MESURE`/`CITATION`
 - **Noms d'entités** : restent dans leur langue d'origine (comme pour Authors)
 - **Tout le reste en français** : types, en-têtes de tableau, prédicats
 - Privilégier les relations **structurantes** (qui relient des entités majeures) aux relations anecdotiques
+- **En-tête du tableau Triples** : exactement `| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |` (avec l'accent sur `Prédicat`)
 
 ## Workflow d'ajout d'un nouvel article
 

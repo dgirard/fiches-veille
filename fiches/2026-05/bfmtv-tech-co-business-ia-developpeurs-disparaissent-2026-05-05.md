@@ -115,40 +115,38 @@ Aux juniors enfin : *"il y a des postes à prendre — à condition de devenir c
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Didier Girard | PERSONNE | est_CTO_de | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Didier Girard | PERSONNE | est_DG_de | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Rémi Jacquet | PERSONNE | est_DG_de | Cast Software France | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Rémi Jacquet | PERSONNE | a_fondé | Think Tank DSI Cast Software | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | rassemble | une centaine de DSI | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | partenaire_de | Cigref | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | partenaire_de | Epita | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Didier Girard | PERSONNE | affirme_que | écrire du code est un anti-pattern | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| IA générative | TECHNOLOGIE | produit | code de meilleure qualité que la plupart des ingénieurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | est_plus_efficace_que | un ingénieur humain | PERSONNE | 0.90 | DYNAMIQUE | déclaré_article |
-| Développeur | PERSONNE | devient | chef d'orchestre d'agents IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Développeur | PERSONNE | devient | manager d'agents | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Développeur | PERSONNE | devient | juge de paix des agents | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Sprint de 14 jours | METHODOLOGIE | est_remplacé_par | Bolt (1h - demi-journée) | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Pizza Team | METHODOLOGIE | ne_fonctionne_plus_à_l_ère_de | l'IA agentique | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| SFEIR | ORGANISATION | a_capacité_de_production_de | 10 000 personnes équivalent | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Product Engineer | CONCEPT | mesure_la_valeur_par | valeur créée pour un usage | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Product Engineer | CONCEPT | remplace_la_mesure_par | nombre de lignes de code | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Compétence professionnelle | CONCEPT | a_durée_de_vie_de | 1 an (vs 10 ans avant) | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Token (LLM) | CONCEPT | devient | fuel de la création de valeur | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| NVIDIA | ORGANISATION | verse_primes_en | tokens | CONCEPT | 0.75 | DYNAMIQUE | déclaré_article |
-| Cast Software | ORGANISATION | propose | harness engineering | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Harness Engineering | METHODOLOGIE | succède_à | Context Engineering | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| Context Engineering | METHODOLOGIE | succède_à | Prompt Engineering | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Didier Girard | PERSONNE | dirige | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Didier Girard | PERSONNE | travaille_chez | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | dirige | Cast Software France | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | a_créé | Think Tank DSI Cast Software | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Think Tank DSI Cast Software | ORGANISATION | mesure | une centaine de DSI membres en 2026 (contre quelques-uns en 2023) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI Cast Software | ORGANISATION | collabore_avec | Cigref | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI Cast Software | ORGANISATION | collabore_avec | Epita | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Didier Girard | PERSONNE | affirme_que | écrire du code est devenu un anti-pattern | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
+| Didier Girard | PERSONNE | affirme_que | l'IA produit du code de meilleure qualité que la plupart des ingénieurs | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | surpasse | ingénieur humain (2× à 10× plus efficace) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | affirme_que | le développeur devient chef d'orchestre, manager d'agents spécialisés et juge de paix | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
+| Bolt (1h - demi-journée) | METHODOLOGIE | remplace | Sprint de 14 jours | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Didier Girard | PERSONNE | affirme_que | la Pizza Team de 8-10 personnes ne fonctionne plus à l'ère agentique | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
+| SFEIR | ORGANISATION | mesure | 1 000 personnes pour une capacité de production de 10 000 | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| Product Engineer | CONCEPT | est_basé_sur | valeur créée pour un usage | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Valeur créée pour un usage | CONCEPT | remplace | nombre de lignes de code | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | mesure | durée de vie d'une compétence : de 10 ans à 1 an | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
+| Didier Girard | PERSONNE | affirme_que | le token devient le fuel de la création de valeur | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| NVIDIA | ORGANISATION | utilise | tokens comme primes | CONCEPT | 0.75 | DYNAMIQUE | déclaré_article |
+| Cast Software | ORGANISATION | recommande | harness engineering | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Harness Engineering | METHODOLOGIE | remplace | Context Engineering | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Context Engineering | METHODOLOGIE | remplace | Prompt Engineering | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Sylvain Duranton | PERSONNE | travaille_chez | BCG X | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Sylvain Duranton | PERSONNE | a_publié_tribune_dans | Les Échos | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
-| Sylvain Duranton | PERSONNE | affirme_que | un agent égale un LLM plus des harnesses | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Rémi Jacquet | PERSONNE | affirme_que | plus l'IA est forte plus on baisse la garde | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Analyse déterministe | METHODOLOGIE | canalise | IA probabiliste | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| DRH | PERSONNE | est_pivot_de | transformation IA des DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Software Development Lifecycle | METHODOLOGIE | est_en_remise_à_plat_par | think tank Cast Software | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Junior développeur | PERSONNE | doit_maîtriser | fondamentaux de l'architecture logicielle | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| BFM Business | ORGANISATION | diffuse | Tech & Co Business | EVENEMENT | 0.99 | DYNAMIQUE | déclaré_article |
-| SpaceX | ORGANISATION | envisage_de_racheter | Cursor | ORGANISATION | 0.70 | DYNAMIQUE | déclaré_article |
+| Sylvain Duranton | PERSONNE | publie | tribune sur le harness engineering dans Les Échos | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Sylvain Duranton | PERSONNE | affirme_que | un agent égale un LLM plus des harnesses | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| Rémi Jacquet | PERSONNE | affirme_que | plus l'IA est forte plus on baisse la garde | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Analyse déterministe | METHODOLOGIE | réduit | risques de l'IA probabiliste | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| DRH | CONCEPT | permet | transformation IA des DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI Cast Software | ORGANISATION | affine | Software Development Lifecycle | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | recommande | la maîtrise des fondamentaux d'architecture logicielle pour les juniors | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
+| BFM Business | ORGANISATION | publie | Tech & Co Business | EVENEMENT | 0.99 | DYNAMIQUE | déclaré_article |
+| BFM Business | ORGANISATION | affirme_que | SpaceX envisagerait de racheter Cursor (rumeur à valider) | AFFIRMATION | 0.70 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -182,5 +180,5 @@ Aux juniors enfin : *"il y a des postes à prendre — à condition de devenir c
 | Context Engineering | METHODOLOGIE | période_dominante | 2025 | AJOUT |
 | Harness Engineering | METHODOLOGIE | période_dominante | 2026 | AJOUT |
 | Software Development Lifecycle | METHODOLOGIE | statut_2026 | En remise à plat complète (humain + organisationnel) | MISE_A_JOUR |
-| DRH | PERSONNE | rôle_2026 | Pivot de la transformation IA des DSI | MISE_A_JOUR |
+| DRH | CONCEPT | rôle_2026 | Pivot de la transformation IA des DSI | MISE_A_JOUR |
 | Cursor | TECHNOLOGIE | actualité_évoquée | Rumeur de rachat par SpaceX (à valider) | AJOUT |

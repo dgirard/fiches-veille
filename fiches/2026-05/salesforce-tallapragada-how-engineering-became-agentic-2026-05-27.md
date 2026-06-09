@@ -114,21 +114,21 @@ L'auteur assume ce qui reste dur : la **gestion du contexte** (qualité variable
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Srinivas Tallapragada | PERSONNE | dirige | Salesforce Engineering | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Salesforce Engineering | ORGANISATION | a_standardisé_sur | Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Salesforce Engineering | ORGANISATION | a_supprimé | token limits | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Salesforce Engineering | ORGANISATION | utilise | Claude Code (standardisation org-wide) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Salesforce Engineering | ORGANISATION | affirme_que | « we removed all token limits » | CITATION | 0.98 | STATIQUE | déclaré_article |
 | suppression des token limits | METHODOLOGIE | améliore | output et qualité | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Effective Output score | METHODOLOGIE | mesure | valeur réelle du code livré | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Effective Output score | METHODOLOGIE | a_augmenté_de | +151,3% en glissement annuel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| workflow agentique | METHODOLOGIE | a_réalisé | migration de 33 endpoints en 13 jours | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
-| migration agentique | METHODOLOGIE | est | 18× plus rapide que le manuel | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Engineering 360 | TECHNOLOGIE | mesure | baisse des incidents de 5% | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Tallapragada | PERSONNE | affirme_que | la qualité bénéficie de la vitesse | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Claude Code skills | CONCEPT | deviennent | artefact d'ingénierie réutilisable | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Effective Output score | METHODOLOGIE | mesure | +151,3% en glissement annuel | MESURE | 0.95 | STATIQUE | déclaré_article |
+| workflow agentique | METHODOLOGIE | permet | migration de 33 endpoints en 13 jours | EVENEMENT | 0.96 | STATIQUE | déclaré_article |
+| migration agentique | METHODOLOGIE | mesure | 18× plus rapide que l'approche manuelle | MESURE | 0.94 | STATIQUE | déclaré_article |
+| Engineering 360 | TECHNOLOGIE | mesure | baisse des incidents de 5% | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Tallapragada | PERSONNE | affirme_que | la qualité bénéficie de la vitesse | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Claude Code skills | CONCEPT | est_instance_de | artefact d'ingénierie réutilisable | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Salesforce Foundation Plugins | TECHNOLOGIE | réduit | coût inutile | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| subagents | CONCEPT | parallélisent | workstreams | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| qualité des fichiers CLAUDE.md | CONCEPT | détermine | qualité de l'output agentique | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
-| sécurité agentique | CONCEPT | exige | un modèle de sécurité fondamentalement différent | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| transformation agentique | CONCEPT | a_changé | ce qui est économiquement possible | CONCEPT | 0.85 | STATIQUE | inféré |
+| subagents | CONCEPT | permet | parallélisation des workstreams | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Salesforce Engineering | ORGANISATION | affirme_que | la qualité des fichiers CLAUDE.md pèse fortement sur la qualité de l'output agentique | AFFIRMATION | 0.86 | ATEMPOREL | déclaré_article |
+| Salesforce Engineering | ORGANISATION | affirme_que | la sécurité agentique exige un modèle de sécurité fondamentalement différent | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| transformation agentique | CONCEPT | permet | ce qui n'était pas économiquement possible auparavant | CONCEPT | 0.85 | STATIQUE | inféré |
 
 ### Entités
 

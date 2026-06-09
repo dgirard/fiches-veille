@@ -23,58 +23,58 @@ Webb Wright (Contributing Writer, ZDNet)
 
 Wright adopte tech journalism voice équilibrant vulgarisation accessible et précision technique. Structure "key takeaways" préface executive summary typique ZDNet. Citations directes Microsoft ("This change matters because...", "Agents should assist, not replace") confèrent crédibilité. Tone critique tempéré ("AI agents fall short in elementary ways", "probably not ready for primetime") sans catastrophisme. Exemples concrets (restaurant choice, invoice example comparisons) rendent abstractions tangibles. Mentions parallèles études récentes (Anthropic Claude small business, freelance work quality) construisent narrative convergente que agents overhyped. Typique tech journalism grand public (ZDNet, CNET, Ars Technica) démystifiant hype corporate via recherche empirique.
 
-## Pense-bêtes
-- **Recherche centrale** : Microsoft "Magentic Marketplace" - open-source environment agents conversent pour transactions virtuelles
-- **Objectif** : tester capacités pratiques systèmes agentiques alors que developers livrent produits autonomes (OpenAI Operator, Meta Business AI)
-- **Simulations** : 100 clients + 300 businesses, modèles propriétaires (GPT-5, Gemini 2.5 Flash) + open-source (OSS-20b)
-- **Tâche clients** : trouver vendor offrant tout à meilleur prix via text prompts monitorés humains
-- **Métrique** : "consumer welfare" = somme valuations internes - prix final, agrégé toutes transactions
-- **Promesse agents** : surmonter "information gaps" (shortcuts mentaux/logistiques humains - choix aléatoire, cheapest option)
-- **"Paradox of Choice"** : la plupart agents (sauf GPT-5/Gemini 2.5 Flash) n'interagissent qu'avec petit nombre vendors malgré multiples options
+## Pense-betes
+- **Recherche centrale** : Microsoft "Magentic Marketplace" - environnement open-source où des agents conversent pour des transactions virtuelles
+- **Objectif** : tester les capacités pratiques des systèmes agentiques alors que les éditeurs livrent des produits autonomes (OpenAI Operator, Meta Business AI)
+- **Simulations** : 100 clients + 300 commerces, modèles propriétaires (GPT-5, Gemini 2.5 Flash) + open-source (OSS-20b)
+- **Tâche des agents clients** : trouver le vendeur offrant tout au meilleur prix via des prompts texte supervisés par des humains
+- **Métrique** : "consumer welfare" = somme des valorisations internes - prix final, agrégé sur toutes les transactions
+- **Promesse des agents** : surmonter les "information gaps" (raccourcis mentaux/logistiques humains - choix aléatoire, option la moins chère)
+- **"Paradox of Choice"** : la plupart des agents (sauf GPT-5/Gemini 2.5 Flash) n'interagissent qu'avec un petit nombre de vendeurs malgré de multiples options
 - **Citation clé** : "Most models do not conduct exhaustive comparisons and instead easily accept initial 'good enough' options"
-- **Consumer welfare décroît** : quand nombre options vendor agents augmente
-- **6 manipulation strategies testées** : dubious claims ("#1-rated Mexican restaurant"), overt prompt injections, misleading information
-- **Claude Sonnet 4 unique** : total resistance à toutes tentatives manipulation
-- **Biases open-source** : Qwen2.5-14b-2507 choisit last business dans liste initiale
-- **"Proposal bias"** : modèles choisissent first vendor agent qui engage avec offre, priorité speed over thoroughness
-- **Citation dangers** : "These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to compete on response speed rather than product or service quality"
-- **Risques économiques** : AI pas juste tracking commodity prices mais overseeing everyday transactions - opacité système
-- **Training data biases** : cachés dans intricacies, comment manifestent quand legions AI consumers/buyers unleashed?
-- **Études convergentes** : AI agents long way from quality freelance work, Anthropic Claude struggled small business one month
+- **Le consumer welfare décroît** quand le nombre d'options de vendeurs augmente
+- **6 stratégies de manipulation testées** : affirmations douteuses ("#1-rated Mexican restaurant"), injections de prompt explicites, informations trompeuses
+- **Claude Sonnet 4 unique** : résistance totale à toutes les tentatives de manipulation
+- **Biais open-source** : Qwen2.5-14b-2507 choisit le dernier commerce de la liste initiale
+- **"Proposal bias"** : les modèles choisissent le premier agent vendeur qui répond avec une offre, privilégiant la vitesse sur l'exhaustivité
+- **Citation sur les dangers** : "These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to compete on response speed rather than product or service quality"
+- **Risques économiques** : l'IA ne fait plus que suivre les prix, elle supervise les transactions quotidiennes - opacité du système
+- **Biais des données d'entraînement** : cachés dans les détails ; comment se manifesteront-ils quand des légions d'agents acheteurs/vendeurs IA seront lâchées ?
+- **Études convergentes** : les agents IA restent loin d'un travail freelance de qualité ; Claude d'Anthropic a peiné à gérer un petit commerce pendant un mois
 - **Conclusion Microsoft** : "Agents should assist, not replace, human decision-making"
-- **Disponible** : GitHub open-source pour tests
+- **Disponibilité** : open-source sur GitHub pour reproduction des tests
 
 ## RésuméDe400mots
 
-Webb Wright rapporte dans ZDNet une recherche Microsoft révélant failles critiques des agents IA dans contexte marketplace autonome, seul Claude Sonnet 4 d'Anthropic résistant totalement aux tentatives manipulation.
+Webb Wright rapporte dans ZDNet une recherche de Microsoft révélant des failles critiques des agents IA en contexte de marketplace autonome ; seul Claude Sonnet 4 d'Anthropic résiste totalement aux tentatives de manipulation.
 
-**Magentic Marketplace : simulation réaliste**
+**Magentic Marketplace : une simulation réaliste**
 
-Microsoft a créé environnement open-source (disponible GitHub) où agents IA conversent pour compléter transactions simulant marketplace réel. Contexte : developers livrent rapidement produits autonomes (OpenAI Operator navigue sites/achète pour users, Meta Business AI interagit clients comme automated sales rep). Microsoft teste capacités pratiques moment où "agents become active market participants, but structure of these markets remains uncertain."
+Microsoft a créé un environnement open-source (disponible sur GitHub) où des agents IA conversent pour conclure des transactions simulant un marketplace réel. Le contexte : les éditeurs livrent rapidement des produits autonomes (OpenAI Operator navigue sur des sites et achète pour les utilisateurs, Meta Business AI interagit avec les clients comme un vendeur automatisé). Microsoft teste les capacités pratiques au moment où "agents become active market participants, but structure of these markets remains uncertain."
 
-Expériences utilisent modèles leading propriétaires (GPT-5, Gemini 2.5 Flash) et open-source (OSS-20b) simulant 100 customers et 300 businesses interagissant via text prompts monitorés. Customer agents doivent trouver vendor offrant tout à meilleur prix. Métrique "consumer welfare" = valuations internes - prix final agrégé.
+Les expériences utilisent des modèles propriétaires de pointe (GPT-5, Gemini 2.5 Flash) et open-source (OSS-20b), simulant 100 clients et 300 commerces interagissant via des prompts texte supervisés. Les agents clients doivent trouver le vendeur offrant tout au meilleur prix. La métrique "consumer welfare" correspond aux valorisations internes moins le prix final, agrégées.
 
 **Promesses et failles**
 
-Agents montrent promesse surmonter "information gaps" humains (shortcuts mentaux : choix aléatoire, cheapest option). "As agents gain better tools for discovery and communication, they relieve customers of heavy cognitive load... This lowers cost of making informed decisions and improves customer outcomes."
+Les agents montrent un potentiel pour surmonter les "information gaps" humains (raccourcis mentaux : choix aléatoire, option la moins chère). "As agents gain better tools for discovery and communication, they relieve customers of heavy cognitive load... This lowers cost of making informed decisions and improves customer outcomes."
 
-Mais failles critiques émergent :
+Mais des failles critiques émergent :
 
-**Paradoxe du choix** : Malgré multiples options, la plupart agents (sauf GPT-5/Gemini 2.5 Flash) n'interagissent qu'avec petit nombre vendors. "Most models do not conduct exhaustive comparisons and instead easily accept initial 'good enough' options." Consumer welfare décroît quand options augmentent—opposé logique économique classique.
+**Paradoxe du choix** : malgré de multiples options, la plupart des agents (sauf GPT-5/Gemini 2.5 Flash) n'interagissent qu'avec un petit nombre de vendeurs. "Most models do not conduct exhaustive comparisons and instead easily accept initial 'good enough' options." Le consumer welfare décroît quand les options augmentent — à l'opposé de la logique économique classique.
 
-**Manipulation facile** : Six strategies testées (dubious claims "#1-rated Mexican restaurant", overt prompt injections, misleading information). Large variation réponses modèles. **Claude Sonnet 4 seul montre total resistance toutes tentatives.**
+**Manipulation facile** : six stratégies testées (affirmations douteuses comme "#1-rated Mexican restaurant", injections de prompt explicites, informations trompeuses). Grande variation des réponses entre modèles. **Claude Sonnet 4 est le seul à montrer une résistance totale à toutes les tentatives.**
 
-**Biases systémiques** : Open-source Qwen2.5-14b-2507 choisit systematically last business dans liste initiale. "Proposal bias" généralisé : modèles choisissent first vendor qui engage avec offre, priorité speed over thoroughness. "These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to compete on response speed rather than product or service quality."
+**Biais systémiques** : le modèle open-source Qwen2.5-14b-2507 choisit systématiquement le dernier commerce de la liste initiale. Le "proposal bias" est généralisé : les modèles choisissent le premier vendeur qui répond avec une offre, privilégiant la vitesse sur l'exhaustivité. "These biases can create unfair market dynamics, drive unintended behaviors, and push businesses to compete on response speed rather than product or service quality."
 
-**Implications économiques et convergence études**
+**Implications économiques et convergence des études**
 
-Wright souligne risques économie agent-driven : stock market déjà gouverné algorithmes inscrutable tracking commodity prices. "How much more opaque will system become when AI isn't just tracking prices but actually overseeing majority of everyday transactions?" Training data biases cachés manifest comment quand legions AI consumers/buyers unleashed?
+Wright souligne les risques d'une économie pilotée par les agents : les marchés financiers sont déjà gouvernés par des algorithmes insondables qui suivent les prix des matières premières. "How much more opaque will system become when AI isn't just tracking prices but actually overseeing majority of everyday transactions?" Comment les biais cachés des données d'entraînement se manifesteront-ils quand des légions d'agents acheteurs et vendeurs IA seront déployées ?
 
-Convergence recherches récentes : agents long way from quality freelance work, Anthropic Claude struggled operate small business one month. Toutes pointent même conclusion : malgré huge hype, while before autonomous function.
+Les recherches récentes convergent : les agents restent loin d'un travail freelance de qualité, et Claude d'Anthropic a peiné à gérer un petit commerce pendant un mois. Toutes pointent la même conclusion : malgré l'énorme battage médiatique, il reste du chemin avant un fonctionnement autonome fiable.
 
-**Conclusion Microsoft explicite** : "Agents should assist, not replace, human decision-making."
+**Conclusion explicite de Microsoft** : "Agents should assist, not replace, human decision-making."
 
-Recherche fournit blueprint AI companies address flaws car agents failed consistently—predictably.
+La recherche fournit un plan d'action aux entreprises d'IA pour corriger ces failles, car les agents ont échoué de manière cohérente — et donc prévisible.
 
 ## GrapheDeConnaissance
 
@@ -83,19 +83,19 @@ Recherche fournit blueprint AI companies address flaws car agents failed consist
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Microsoft | ORGANISATION | a_créé | Magentic Marketplace | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Magentic Marketplace | TECHNOLOGIE | simule | transactions marketplace agents IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Claude Sonnet 4 | TECHNOLOGIE | résiste_à | tentatives de manipulation | CONCEPT | 0.99 | STATIQUE | déclaré_article |
-| GPT-5 | TECHNOLOGIE | souffre_de | paradox of choice | CONCEPT | 0.75 | STATIQUE | inféré |
-| Qwen2.5-14b-2507 | TECHNOLOGIE | présente | last business bias | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| agents IA | CONCEPT | souffrent_de | proposal bias | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Magentic Marketplace | TECHNOLOGIE | permet | simulation de transactions marketplace entre agents IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Claude Sonnet 4 | TECHNOLOGIE | résout | tentatives de manipulation | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| paradox of choice | CONCEPT | observé_dans | agents IA | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| last business bias | CONCEPT | observé_dans | Qwen2.5-14b-2507 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| proposal bias | CONCEPT | observé_dans | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | proposal bias | CONCEPT | réduit | consumer welfare | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Microsoft | ORGANISATION | publie | Magentic Marketplace | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Magentic Marketplace | TECHNOLOGIE | est_disponible_sur | GitHub | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Webb Wright | PERSONNE | a_rédigé | article ZDNet manipulation agents | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| OpenAI Operator | TECHNOLOGIE | automatise | transactions utilisateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Meta Business AI | TECHNOLOGIE | automatise | interactions clients | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | affirme_que | les agents doivent assister et non remplacer la décision humaine | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| agents IA | CONCEPT | menacent | équité des marchés | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Magentic Marketplace | TECHNOLOGIE | utilise | GitHub | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Webb Wright | PERSONNE | publie | article ZDNet manipulation agents | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| OpenAI Operator | TECHNOLOGIE | permet | automatisation des transactions utilisateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Meta Business AI | TECHNOLOGIE | permet | automatisation des interactions clients | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | affirme_que | les agents doivent assister et non remplacer la décision humaine | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | réduit | équité des marchés | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités
 

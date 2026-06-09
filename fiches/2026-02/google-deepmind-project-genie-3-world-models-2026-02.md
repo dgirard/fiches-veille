@@ -55,21 +55,21 @@ Google DeepMind lance Project Genie, une application web permettant aux abonnés
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Google DeepMind | ORGANISATION | a_développé | Genie 3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Google DeepMind | ORGANISATION | a_lancé | Project Genie | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | a_créé | Genie 3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | publie | Project Genie | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Project Genie | TECHNOLOGIE | est_basé_sur | Genie 3 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Project Genie | TECHNOLOGIE | utilise | Nano Banana Pro | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Genie 3 | TECHNOLOGIE | améliore | Genie 2 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Genie 2 | TECHNOLOGIE | a_été_publié | 2024-12 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Genie 3 | TECHNOLOGIE | est_basé_sur | modèles de monde interactifs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Genie 3 | TECHNOLOGIE | diffère_de | modèles vidéo | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Genie 3 | TECHNOLOGIE | remplace | Genie 2 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | publie | Genie 2 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | est_instance_de | modèles de monde interactifs | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Google DeepMind | ORGANISATION | affirme_que | les world models résolvent un problème plus difficile que les modèles vidéo | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Simmer | TECHNOLOGIE | utilise | Genie 3 | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Simmer | TECHNOLOGIE | fait_partie_de | Google DeepMind | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Google Labs | ORGANISATION | collabore_avec | Google DeepMind | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Genie 3 | TECHNOLOGIE | cible | intelligence incarnée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Logan Kilpatrick | PERSONNE | anime | Release Notes | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Genie 3 | TECHNOLOGIE | s_applique_à | intelligence incarnée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Logan Kilpatrick | PERSONNE | dirige | Release Notes | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
 | modèles de monde interactifs | CONCEPT | permet | génération temps réel | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Genie 3 | TECHNOLOGIE | prédit | simulation indistinguable de la réalité | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| Google DeepMind | ORGANISATION | prédit | simulation indistinguable de la réalité | AFFIRMATION | 0.82 | DYNAMIQUE | inféré |
 
 ### Entités
 

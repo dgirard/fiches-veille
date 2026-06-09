@@ -19,68 +19,68 @@ Apollo Academy, AI safety, alignment research, technical safety, educational pro
 Apollo Academy team
 
 ## Ton
-**Profil:** Professionnel-Académique | Institutionnelle descriptive | Éducative-Promotionnelle | Intermédiaire-Expert
+**Profil:** Professionnel-académique | Institutionnel descriptif | Éducatif-promotionnel | Intermédiaire-expert
 
-Apollo adopte ton académique sérieux reflétant gravité AI safety tout en restant accessible aspirants researchers. Langage technique assumé (interpretability, scalable oversight, alignment research) vise audience ML-literate. Structure programmatique détaillée (12-16 week programs, curriculum breakdown, admission process) communique rigueur et crédibilité. Framing urgency ("critical talent bottleneck", "AI capabilities advancing rapidly") sans alarmisme excessif. Balance promotional goals (attracting fellows) avec educational transparency (selective admission 5-15%, technical prerequisites). Typique program descriptions elite research training combinant gravitas mission-driven et practical implementation details.
+Apollo adopte un ton académique sérieux reflétant la gravité de la sûreté IA tout en restant accessible aux chercheurs aspirants. Le langage technique assumé (interprétabilité, scalable oversight, recherche en alignement) vise un public maîtrisant le ML. La structure programmatique détaillée (programmes de 12-16 semaines, détail du curriculum, processus d'admission) communique rigueur et crédibilité. Le cadrage d'urgence (« goulet d'étranglement critique de talents », « capacités IA progressant rapidement ») évite l'alarmisme excessif. L'équilibre entre objectifs promotionnels (attirer des fellows) et transparence éducative (admission sélective 5-15 %, prérequis techniques) est typique des descriptions de programmes d'élite de formation à la recherche, combinant gravité de la mission et détails pratiques de mise en œuvre.
 
 ## Pense-betes
-- **Intensive research training** : multi-month AI safety programs
-- **Technical alignment focus** : interpretability, robustness, governance
-- **Fellowship programs** : funded positions pour participants
-- **Curriculum combining** : theory, hands-on research, mentorship
-- **Addressing talent bottleneck** : growing AI safety research community
-- **Selective admission** : targeting high-potential researchers
-- **Industry partnerships** : connections à leading AI labs
-- **Publication support** : helping fellows produce research outputs
-- **Career placement** : connecting graduates avec safety research positions
+- **Formation intensive à la recherche** : programmes de sûreté IA de plusieurs mois
+- **Focalisation alignement technique** : interprétabilité, robustesse, gouvernance
+- **Programmes de fellowship** : postes financés pour les participants
+- **Curriculum combinant** : théorie, recherche pratique, mentorat
+- **Réponse à la pénurie de talents** : faire croître la communauté de recherche en sûreté IA
+- **Admission sélective** : ciblage de chercheurs à haut potentiel
+- **Partenariats industriels** : connexions avec les principaux laboratoires IA
+- **Soutien à la publication** : aider les fellows à produire des résultats de recherche
+- **Placement professionnel** : connecter les diplômés avec des postes de recherche en sûreté
 
 ## RésuméDe400mots
 
-Apollo Academy launched **intensive training program** addressing critical **talent bottleneck dans AI safety research**. With AI capabilities advancing rapidly mais alignment research lagging, Apollo provides **structured pathway** pour aspiring researchers enter AI safety field, combining rigorous technical training, hands-on research projects, et mentorship depuis leading alignment researchers.
+Apollo Academy lance un **programme de formation intensive** répondant au **goulet d'étranglement critique de talents dans la recherche en sûreté IA**. Alors que les capacités de l'IA progressent rapidement mais que la recherche en alignement reste à la traîne, Apollo offre un **parcours structuré** permettant aux chercheurs aspirants d'entrer dans le domaine de la sûreté IA, en combinant formation technique rigoureuse, projets de recherche pratiques et mentorat par des chercheurs en alignement de premier plan.
 
-**Program Structure et Curriculum**
+**Structure du programme et curriculum**
 
-Academy offers **12-16 week intensive programs** structured around : foundational AI safety concepts (alignment problem, instrumental convergence, reward hacking), technical approaches (interpretability, robustness, scalable oversight), hands-on research projects (participants conduct novel research), paper reading groups (engaging avec frontier safety research), mentorship (1-on-1 guidance depuis established researchers), career development (preparing pour research positions).
+L'académie propose des **programmes intensifs de 12 à 16 semaines** structurés autour : des concepts fondamentaux de sûreté IA (problème de l'alignement, convergence instrumentale, reward hacking), des approches techniques (interprétabilité, robustesse, scalable oversight), de projets de recherche pratiques (les participants mènent des recherches originales), de groupes de lecture d'articles (engagement avec la recherche de pointe en sûreté), de mentorat (accompagnement individuel par des chercheurs établis) et de développement de carrière (préparation aux postes de recherche).
 
-**Addressing Talent Bottleneck**
+**Répondre à la pénurie de talents**
 
-AI safety field faces **critical shortage de trained researchers**. Traditional academic paths (PhD programs) too slow producing researchers relative à AI capability advancement pace. Apollo provides **accelerated but rigorous alternative** : participants with strong technical backgrounds (ML engineering, mathematics, computer science) can transition into safety research within months rather than years. Program particularly valuable pour **mid-career pivots** - software engineers, data scientists, academic researchers seeking transition into alignment work.
+Le domaine de la sûreté IA fait face à une **pénurie critique de chercheurs formés**. Les parcours académiques traditionnels (doctorats) produisent des chercheurs trop lentement par rapport au rythme d'avancement des capacités de l'IA. Apollo offre une **alternative accélérée mais rigoureuse** : les participants disposant de solides bases techniques (ingénierie ML, mathématiques, informatique) peuvent basculer vers la recherche en sûreté en quelques mois plutôt qu'en années. Le programme est particulièrement précieux pour les **reconversions en milieu de carrière** — ingénieurs logiciels, data scientists, chercheurs académiques souhaitant se réorienter vers l'alignement.
 
-**Fellowship Funding Model**
+**Modèle de financement par fellowship**
 
-Program provides **financial support** enabling participants focus full-time on learning et research sans employment pressure. Fellowships typically cover : living stipend pour program duration, computational resources pour research projects, conference travel pour presenting work, access à research tools et datasets. Cette support **removes financial barriers** preventing many talented individuals entering safety research.
+Le programme apporte un **soutien financier** permettant aux participants de se consacrer à temps plein à l'apprentissage et à la recherche sans pression d'emploi. Les fellowships couvrent typiquement : une bourse de subsistance pour la durée du programme, des ressources de calcul pour les projets de recherche, les déplacements en conférence pour présenter les travaux, l'accès aux outils et jeux de données de recherche. Ce soutien **lève les barrières financières** qui empêchent de nombreux talents d'entrer dans la recherche en sûreté.
 
-**Research Quality et Outputs**
+**Qualité et production de recherche**
 
-Apollo emphasizes **producing actual research contributions**, not just educational experience. Fellows expected : identify open problems dans AI safety, conduct novel investigations, produce publication-quality writeups, present findings à research community. **Alumni have published** dans leading venues (NeurIPS, ICML, alignment-focused workshops), demonstrating program's research rigor.
+Apollo met l'accent sur la **production de contributions de recherche réelles**, pas seulement une expérience éducative. Les fellows doivent : identifier des problèmes ouverts en sûreté IA, mener des investigations originales, produire des écrits de qualité publication, présenter leurs résultats à la communauté de recherche. **Des alumni ont publié** dans des venues de premier plan (NeurIPS, ICML, workshops dédiés à l'alignement), démontrant la rigueur de recherche du programme.
 
-**Selective Admission Process**
+**Processus d'admission sélectif**
 
-Program maintains **high admission standards** : technical prerequisites (ML background, mathematics proficiency, programming skills), demonstrated interest dans safety (previous writings, projects, engagement), research potential (ability generate novel ideas, work independently), alignment avec program philosophy (shared concern about AI risks). Acceptance rates typically 5-15%, ensuring cohort quality.
+Le programme maintient des **standards d'admission élevés** : prérequis techniques (bases en ML, maîtrise des mathématiques, compétences en programmation), intérêt démontré pour la sûreté (écrits, projets, engagement antérieurs), potentiel de recherche (capacité à générer des idées originales, à travailler en autonomie), alignement avec la philosophie du programme (préoccupation partagée pour les risques de l'IA). Les taux d'acceptation sont typiquement de 5 à 15 %, garantissant la qualité des cohortes.
 
-**Curriculum Focus Areas**
+**Axes du curriculum**
 
-**Interpretability research** : understanding what neural networks learn, developing tools probe model internals, detecting deceptive behavior. **Robustness** : ensuring AI systems perform reliably under distribution shift, adversarial perturbations, et edge cases. **Scalable oversight** : methods for humans oversee AI systems more capable than humans dans specific domains. **AI governance** : policy approaches manage AI development trajectories, international coordination, regulatory frameworks.
+**Recherche en interprétabilité** : comprendre ce que les réseaux de neurones apprennent, développer des outils pour sonder les mécanismes internes des modèles, détecter les comportements trompeurs. **Robustesse** : garantir que les systèmes IA fonctionnent de manière fiable face aux changements de distribution, perturbations adverses et cas limites. **Scalable oversight** : méthodes permettant aux humains de superviser des systèmes IA plus capables qu'eux dans certains domaines. **Gouvernance de l'IA** : approches de politique publique pour gérer les trajectoires de développement de l'IA, coordination internationale, cadres réglementaires.
 
-**Mentorship Network**
+**Réseau de mentorat**
 
-Program connects fellows avec **established safety researchers** depuis academia, industry labs (Anthropic, OpenAI, DeepMind), independent research organizations (MIRI, ARC, Redwood Research). Mentors provide : research direction guidance, technical feedback, career advice, professional network access. **Mentorship relationships often continue** beyond program, providing long-term career support.
+Le programme connecte les fellows avec des **chercheurs en sûreté établis** issus du monde académique, des laboratoires industriels (Anthropic, OpenAI, DeepMind) et d'organisations de recherche indépendantes (MIRI, ARC, Redwood Research). Les mentors apportent : orientation de recherche, retours techniques, conseils de carrière, accès à leur réseau professionnel. **Les relations de mentorat se poursuivent souvent** au-delà du programme, offrant un soutien de carrière de long terme.
 
-**Industry Partnerships et Placement**
+**Partenariats industriels et placement**
 
-Apollo maintains **relationships avec leading AI labs** prioritizing safety research. Partnerships provide : guest lectures depuis safety team leads, access à compute resources, internship opportunities, potential employment paths. Strong placement record - **majority de graduates** secure positions dans AI safety research (academia, industry safety teams, independent research orgs).
+Apollo entretient des **relations avec les principaux laboratoires IA** priorisant la recherche en sûreté. Les partenariats apportent : conférences invitées de responsables d'équipes safety, accès à des ressources de calcul, opportunités de stage, pistes d'embauche. Solide bilan de placement — **la majorité des diplômés** obtiennent des postes en recherche de sûreté IA (académie, équipes safety industrielles, organisations de recherche indépendantes).
 
-**Community Building**
+**Construction de communauté**
 
-Beyond individual training, Apollo builds **cohesive safety research community**. Alumni network enables : ongoing collaboration, research partnerships, peer support, knowledge sharing. Regular alumni events, Slack channels, et research seminars maintain community engagement beyond program completion.
+Au-delà de la formation individuelle, Apollo construit une **communauté de recherche en sûreté soudée**. Le réseau alumni permet : collaboration continue, partenariats de recherche, entraide, partage de connaissances. Des événements alumni réguliers, des canaux Slack et des séminaires de recherche maintiennent l'engagement au-delà du programme.
 
-**Scaling Challenges**
+**Défis de passage à l'échelle**
 
-Program faces **tension between scale et quality**. Demand vastly exceeds capacity - hundreds apply for dozens de spots. Scaling requires : recruiting more qualified mentors, securing additional funding, maintaining research quality standards, avoiding dilution de selective admission. Apollo exploring : regional chapters, online components, curriculum open-sourcing.
+Le programme fait face à une **tension entre échelle et qualité**. La demande dépasse largement la capacité — des centaines de candidatures pour quelques dizaines de places. Le passage à l'échelle exige : recruter davantage de mentors qualifiés, sécuriser des financements supplémentaires, maintenir les standards de qualité de recherche, éviter la dilution de l'admission sélective. Apollo explore : antennes régionales, composantes en ligne, ouverture du curriculum en open source.
 
-**Impact Measurement**
+**Mesure d'impact**
 
-Success metrics include : alumni research publications, placement dans safety positions, influence on field (citations, adoption de techniques), community building (network effects). Early indicators positive - Apollo alumni contributing measurably à alignment research progress.
+Les métriques de succès incluent : publications de recherche des alumni, placement sur des postes en sûreté, influence sur le domaine (citations, adoption de techniques), construction de communauté (effets de réseau). Les premiers indicateurs sont positifs — les alumni d'Apollo contribuent de manière mesurable aux progrès de la recherche en alignement.
 
 ## GrapheDeConnaissance
 
@@ -88,18 +88,18 @@ Success metrics include : alumni research publications, placement dans safety po
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Apollo Academy | ORGANISATION | forme | chercheurs en sûreté IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
-| Apollo Academy | ORGANISATION | adresse | pénurie talent sûreté IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Apollo Academy | ORGANISATION | propose | programmes intensifs 12-16 semaines | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Apollo Academy | ORGANISATION | finance | bourses pour participants | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | permet | chercheurs en sûreté IA | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | résout | pénurie talent sûreté IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | a_créé | programmes intensifs 12-16 semaines | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | permet | bourses pour participants | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Apollo Academy | ORGANISATION | collabore_avec | Anthropic | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
 | Apollo Academy | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
 | Apollo Academy | ORGANISATION | collabore_avec | DeepMind | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
-| alumni Apollo | PERSONNE | publie | recherches NeurIPS et ICML | EVENEMENT | 0.88 | STATIQUE | déclaré_article |
-| recherche alignement IA | CONCEPT | nécessite | formation accélérée chercheurs | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
+| alumni Apollo | PERSONNE | publie | recherches NeurIPS et ICML | DOCUMENT | 0.88 | STATIQUE | déclaré_article |
+| recherche alignement IA | CONCEPT | utilise | formation accélérée chercheurs | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
 | interprétabilité | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | scalable oversight | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Apollo Academy | ORGANISATION | maintient | taux admission 5-15% | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Apollo Academy | ORGANISATION | mesure | taux admission 5-15% | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

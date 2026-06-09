@@ -54,16 +54,16 @@ Mollick conclut que ces trois années représentent non pas une amélioration in
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Ethan Mollick | PERSONNE | analyse | évolution IA 3 ans | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| GPT-3 | TECHNOLOGIE | a_précédé | Gemini 3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | publie | analyse de l'évolution IA sur 3 ans | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | remplace | GPT-3 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Gemini 3 | TECHNOLOGIE | permet | code comme interface universelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | a_créé | Antigravity | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Antigravity | TECHNOLOGIE | implémente | human-in-the-loop | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Gemini 3 | TECHNOLOGIE | a_conduit | recherche académique autonome | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| Gemini 3 | TECHNOLOGIE | démontre | intelligence niveau PhD | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| rôle humain | CONCEPT | évolue_de | correcteur d'erreurs vers manager de recherche | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| agents autonomes | CONCEPT | remplace | chatbots conversationnels | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| Ethan Mollick | PERSONNE | est_affilié_à | Wharton School | ORGANISATION | 0.97 | DYNAMIQUE | inféré |
+| Antigravity | TECHNOLOGIE | utilise | human-in-the-loop | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | a_créé | recherche académique autonome de 14 pages | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Gemini 3 | TECHNOLOGIE | permet | intelligence niveau PhD | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| manager de recherche | CONCEPT | remplace | correcteur d'erreurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| agents autonomes | TECHNOLOGIE | remplace | chatbots conversationnels | TECHNOLOGIE | 0.92 | DYNAMIQUE | inféré |
+| Ethan Mollick | PERSONNE | travaille_chez | Wharton School | ORGANISATION | 0.97 | DYNAMIQUE | inféré |
 
 ### Entités
 

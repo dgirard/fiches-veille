@@ -25,7 +25,7 @@ Caseau adopte ton thought leader hybride corporate-académique structurant 3 th�
 
 
 
-## Pense-bêtes
+## Pense-betes
 - **Thèse 1** : "L'IA dévore le logiciel, comme le logiciel dévore le monde"
 - **Vibe coding** progresse via orchestration agentique
 - **Systèmes futurs** serviront humains ET agents autonomes
@@ -78,20 +78,20 @@ Cette vision équilibrée reconnaît l'impact transformateur de l'IA tout en pr�
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Yves Caseau | PERSONNE | occupe_le_poste_de | Group Chief Digital & Information Officer | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | est_instance_de | Group Chief Digital & Information Officer | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
 | Yves Caseau | PERSONNE | travaille_chez | Michelin | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Yves Caseau | PERSONNE | publie | réflexion sur l'évolution du développeur | CONCEPT | 0.98 | STATIQUE | déclaré_article |
-| vibe coding | METHODOLOGIE | progresse_grâce_à | orchestration agentique | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| systèmes logiciels futurs | CONCEPT | serviront | humains et agents autonomes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| interfaces SaaS | TECHNOLOGIE | se_transforment_en | services backend flexibles | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Computer System Engineers | CONCEPT | construisent | architectures backbone | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Solutions Engineers | CONCEPT | orchestrent | agents en langage naturel | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Citizen Developers | CONCEPT | accèdent_à | systèmes sophistiqués sans compétences IT | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| transition agentique | CONCEPT | est_surestimée_par | discours technologiques | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| impact legacy systems | CONCEPT | est_sous-estimé_par | organisations IT | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| langage naturel | CONCEPT | a_des_limites_comme | langage de spécification | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| abstraction logicielle | CONCEPT | augmente_mais_ne_supprime_pas | complexité intrinsèque | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Yves Caseau | PERSONNE | participe_à | Tech.Rocks Summit | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | publie | réflexion sur l'évolution du développeur | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| vibe coding | METHODOLOGIE | est_basé_sur | orchestration agentique | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| systèmes logiciels futurs | CONCEPT | s_applique_à | humains et agents autonomes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| services backend flexibles | TECHNOLOGIE | remplace | interfaces SaaS | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Computer System Engineers | CONCEPT | a_créé | architectures backbone | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Solutions Engineers | CONCEPT | utilise | agents en langage naturel | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Citizen Developers | CONCEPT | utilise | systèmes sophistiqués sans compétences IT | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | affirme_que | la transition agentique est surestimée par les discours technologiques | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | affirme_que | l'impact des legacy systems est sous-estimé | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
+| Yves Caseau | PERSONNE | affirme_que | le langage naturel a des limites comme langage de spécification | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
+| Yves Caseau | PERSONNE | affirme_que | l'abstraction augmente mais ne supprime pas la complexité intrinsèque | AFFIRMATION | 0.92 | ATEMPOREL | inféré |
+| Yves Caseau | PERSONNE | collabore_avec | Tech.Rocks Summit | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
 

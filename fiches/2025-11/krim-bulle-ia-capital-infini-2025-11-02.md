@@ -50,19 +50,19 @@ Enfin, Tariq Krim élargit la perspective au-delà du logiciel en soulignant le 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Tariq KRIM | PERSONNE | affirme_que | infrastructure IA n'est pas une bulle spéculative | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Tariq KRIM | PERSONNE | affirme_que | l'infrastructure IA n'est pas une bulle spéculative | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | a_créé | OpenAI Group PBC | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Microsoft | ORGANISATION | détient | 27% du capital d'OpenAI Group PBC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | fournit | infrastructure de calcul via Azure | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | mesure | 27% du capital d'OpenAI Group PBC détenus | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | permet | infrastructure de calcul via Azure | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Nvidia | ORGANISATION | concurrence | Google TPU | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Google | ORGANISATION | développe | TPU | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Big Tech | CONCEPT | concentre | 500 milliards de dollars de trésorerie | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Big Tech | CONCEPT | crée | barrières à l'entrée pour l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Tesla | ORGANISATION | développe | Optimus | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| modèles économiques IA | CONCEPT | évolue_vers | facturation au résultat | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| infrastructure IA | CONCEPT | diffère_de | bulle Internet de 2000 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Mistral | ORGANISATION | cherche_à_lever | 6 milliards de dollars | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| souveraineté numérique | CONCEPT | est_menacée_par | concentration du capital Big Tech | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Google | ORGANISATION | a_créé | TPU | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Big Tech | CONCEPT | mesure | 500 milliards de dollars de trésorerie | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Big Tech | CONCEPT | a_créé | barrières à l'entrée pour l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Tesla | ORGANISATION | a_créé | Optimus | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| modèles économiques IA | CONCEPT | converge_avec | facturation au résultat | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| infrastructure IA | CONCEPT | s_oppose_à | bulle Internet de 2000 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Mistral | ORGANISATION | mesure | levée de fonds visée de 6 milliards de dollars | MESURE | 0.90 | STATIQUE | déclaré_article |
+| concentration du capital Big Tech | CONCEPT | réduit | souveraineté numérique | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

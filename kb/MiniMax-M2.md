@@ -9,9 +9,9 @@
 
 ## Relations (comme sujet)
 
-### a_seulement
+### mesure
 
-- [[kb/_entites-mineures#10-milliards-de-paramètres-actifs\|10 milliards de paramètres actifs]] (CONCEPT) — 0.97, STATIQUE
+- « 10 milliards de paramètres actifs » (MESURE) — 0.97, STATIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax - M2 Model - Interleaved Thinking - Coding Agents - Efficient LLM]]
 
 ### permet
@@ -19,7 +19,7 @@
 - [[kb/_entites-mineures#scalabilité-multi-agents-à-faible-coût\|scalabilité multi-agents à faible coût]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax - M2 Model - Interleaved Thinking - Coding Agents - Efficient LLM]]
 
-### résiste_à
+### résout
 
 - [[kb/_entites-mineures#perturbations-d'environnement\|perturbations d'environnement]] (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax - M2 Model - Interleaved Thinking - Coding Agents - Efficient LLM]]

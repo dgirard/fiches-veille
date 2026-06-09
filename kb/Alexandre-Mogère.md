@@ -13,12 +13,12 @@
 - [[kb/Vibe-Reviewing\|Vibe Reviewing]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]
 
-### affirme_que
+### mesure
 
-- [[kb/_entites-mineures#agents-IA-réduisent-temps-audit-par-3\|agents IA réduisent temps audit par 3]] (CONCEPT) — 0.93, STATIQUE
+- « temps d'audit divisé par 3 grâce aux agents IA » (MESURE) — 0.93, STATIQUE
   - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]
 
-### travaille_pour
+### travaille_chez
 
 - [[kb/_entites-mineures#Carrefour-France\|Carrefour France]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]

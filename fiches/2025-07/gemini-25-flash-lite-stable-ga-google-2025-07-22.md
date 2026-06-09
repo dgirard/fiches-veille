@@ -19,42 +19,42 @@ Gemini 2.5 Flash-Lite, AI, machine learning, Google AI Studio, Vertex AI, large 
 Logan Kilpatrick (Group Product Manager), Zach Gleicher (Product Manager)
 
 ## Ton
-**Profil:** Developer-Product | Institutionnelle developer relations | Informative-Technique | Expert
+**Profil :** Développeur-produit | Institutionnel developer relations | Informatif-technique | Expert
 
-Google product managers adoptent Google Developers Blog voice targeting technical audience. Emphasis model specifications (cost-efficient, speed, latency, context window) appeals developer priorities. Langage technical accessible (multimodal, grounding, code execution) demonstrates capability depth. Tone professional confident typical Google developer communications. Structure feature-focused avec availability information facilitates developer adoption. Typique developer-facing product announcements (AWS What's New, Azure Updates style) providing technical details visant developer community making integration decisions.
+Les product managers de Google adoptent la voix du Google Developers Blog visant une audience technique. L'accent sur les spécifications du modèle (rapport coût-efficacité, vitesse, latence, fenêtre de contexte) répond aux priorités des développeurs. Langage technique accessible (multimodal, grounding, exécution de code) démontrant la profondeur des capacités. Ton professionnel et confiant, typique des communications développeurs de Google. Structure centrée sur les fonctionnalités avec informations de disponibilité facilitant l'adoption. Typique des annonces produit orientées développeurs (style AWS What's New, Azure Updates), fournissant les détails techniques à la communauté des développeurs qui prend des décisions d'intégration.
 
 ## Pense-betes
-- **Fastest et most cost-efficient** model dans Gemini 2.5 family
-- **Pricing** : **$0.10 per 1M input tokens**, **$0.40 per 1M output tokens**
-- **40% audio input pricing reduction** depuis preview launch
-- **Lower latency** que 2.0 Flash-Lite et 2.0 Flash across diverse prompts
-- **1 million-token context window**
-- **Native reasoning capabilities**
-- **Advanced tools** : Grounding with Google Search, Code Execution, URL Context
-- **Latency-sensitive applications** optimisées : translation, classification
-- **Benchmarks** : outperforms 2.0 Flash-Lite sur coding, math, science, reasoning, multimodal understanding
-- **Real-world deployments** : Satlyt (**45% latency reduction**, **30% power decrease**), HeyGen (automate video planning, **180+ langues**), DocsHound (process long videos, extract thousands screenshots), Evertune (fast synthesis large volumes)
-- **Stable version** : specify "gemini-2.5-flash-lite", preview alias removal **August 25th**
+- **Modèle le plus rapide et le plus économique** de la famille Gemini 2.5
+- **Tarification** : **$0,10 par 1M de tokens d'entrée**, **$0,40 par 1M de tokens de sortie**
+- **Réduction de 40 % du prix de l'entrée audio** depuis le lancement en preview
+- **Latence inférieure** à 2.0 Flash-Lite et 2.0 Flash sur un large éventail de prompts
+- **Fenêtre de contexte de 1 million de tokens**
+- **Capacités de raisonnement natives**
+- **Outils avancés** : Grounding with Google Search, Code Execution, URL Context
+- **Applications sensibles à la latence** optimisées : traduction, classification
+- **Benchmarks** : surpasse 2.0 Flash-Lite en code, maths, science, raisonnement, compréhension multimodale
+- **Déploiements réels** : Satlyt (**réduction de latence de 45 %**, **baisse de consommation de 30 %**), HeyGen (automatisation de la planification vidéo, **180+ langues**), DocsHound (traitement de longues vidéos, extraction de milliers de captures), Evertune (synthèse rapide de gros volumes)
+- **Version stable** : spécifier « gemini-2.5-flash-lite », suppression de l'alias preview le **25 août**
 
 ## RésuméDe400mots
 
-Google a announced **stable et general availability** de Gemini 2.5 Flash-Lite, marking significant advancement dans Gemini 2.5 model family. Positioned comme **fastest et most cost-efficient model**, priced at **$0.10 per 1 million input tokens et $0.40 per 1 million output tokens**, Flash-Lite est engineered pour deliver exceptional intelligence per dollar. Cette release builds upon success de 2.5 Pro et 2.5 Flash, completing suite de 2.5 models ready pour large-scale production use.
+Google a annoncé la **disponibilité générale et stable** de Gemini 2.5 Flash-Lite, marquant une avancée significative dans la famille de modèles Gemini 2.5. Positionné comme **le modèle le plus rapide et le plus économique**, tarifé à **$0,10 par million de tokens d'entrée et $0,40 par million de tokens de sortie**, Flash-Lite est conçu pour offrir une intelligence par dollar exceptionnelle. Cette sortie s'appuie sur le succès de 2.5 Pro et 2.5 Flash, complétant la gamme de modèles 2.5 prête pour un usage en production à grande échelle.
 
-**Optimisation Performance et Latency**
+**Optimisation de la performance et de la latence**
 
-Gemini 2.5 Flash-Lite est particularly optimized pour **latency-sensitive applications** comme translation et classification, où speed et cost-efficiency sont paramount sans compromising quality. Il boasts **lower latency** que predecessors, 2.0 Flash-Lite et 2.0 Flash, across diverse range de prompts. Furthermore, Google a **reduced audio input pricing by 40%** depuis preview launch, enhancing affordability.
+Gemini 2.5 Flash-Lite est particulièrement optimisé pour les **applications sensibles à la latence** comme la traduction et la classification, où vitesse et efficacité-coût priment sans compromettre la qualité. Il affiche une **latence inférieure** à ses prédécesseurs, 2.0 Flash-Lite et 2.0 Flash, sur un large éventail de prompts. De plus, Google a **réduit de 40 % le prix de l'entrée audio** depuis le lancement en preview, renforçant son accessibilité financière.
 
-**Quality Across Benchmarks**
+**Qualité sur les benchmarks**
 
-Despite cost-effectiveness, model demonstrates **high quality across various benchmarks**, incluant coding, mathematics, science, reasoning, et multimodal understanding, **outperforming 2.0 Flash-Lite**. Developers building avec 2.5 Flash-Lite gain access à robust feature set, incluant substantial **1 million-token context window**, controllable thinking budgets, et native tool support. Ces tools encompass **Grounding with Google Search, Code Execution, et URL Context**, enabling more sophisticated et integrated AI applications.
+Malgré son positionnement économique, le modèle démontre une **haute qualité sur divers benchmarks**, incluant code, mathématiques, science, raisonnement et compréhension multimodale, **surpassant 2.0 Flash-Lite**. Les développeurs construisant avec 2.5 Flash-Lite accèdent à un ensemble de fonctionnalités robuste, dont une **fenêtre de contexte de 1 million de tokens**, des budgets de réflexion contrôlables, et un support natif d'outils. Ces outils comprennent **Grounding with Google Search, Code Execution et URL Context**, permettant des applications IA plus sophistiquées et intégrées.
 
-**Real-World Applications Validées**
+**Applications réelles validées**
 
-Practical applications de Gemini 2.5 Flash-Lite sont already evident à travers several successful deployments. **Satlyt** utilizes speed pour achieve **45% reduction dans latency** pour critical onboard diagnostics et **30% decrease dans power consumption** pour decentralized space computing platform. **HeyGen** leverages model pour automate video planning, optimize content, et translate videos dans **over 180 languages**, facilitating global, personalized user experiences. **DocsHound** transforms product demos dans comprehensive documentation en rapidly processing long videos et extracting thousands de screenshots. **Evertune** benefits depuis Flash-Lite's fast performance pour quickly scan et synthesize large volumes de model output, providing dynamic et timely insights pour brands monitoring representation across AI models.
+Les applications pratiques de Gemini 2.5 Flash-Lite sont déjà visibles à travers plusieurs déploiements réussis. **Satlyt** exploite sa vitesse pour atteindre une **réduction de 45 % de la latence** des diagnostics embarqués critiques et une **baisse de 30 % de la consommation électrique** de sa plateforme d'informatique spatiale décentralisée. **HeyGen** s'appuie sur le modèle pour automatiser la planification vidéo, optimiser le contenu et traduire des vidéos dans **plus de 180 langues**, facilitant des expériences utilisateur globales et personnalisées. **DocsHound** transforme des démos produit en documentation exhaustive en traitant rapidement de longues vidéos et en extrayant des milliers de captures d'écran. **Evertune** bénéficie de la rapidité de Flash-Lite pour scanner et synthétiser rapidement de gros volumes de sorties de modèles, fournissant des analyses dynamiques et opportunes aux marques qui surveillent leur représentation dans les modèles d'IA.
 
-**Accessibilité et Déploiement**
+**Accessibilité et déploiement**
 
-Developers peuvent begin using **stable version** de Gemini 2.5 Flash-Lite en specifying **"gemini-2.5-flash-lite"** dans code, avec preview alias slated pour removal on **August 25th**. Model est readily available dans **Google AI Studio et Vertex AI**, inviting developers explorer capabilities pour building innovative AI solutions. Cette strategic positioning de Flash-Lite comme go-to choice pour cost-conscious, latency-sensitive applications demonstrates Google's commitment à providing tiered model offerings addressing diverse developer needs, depuis ultra-fast inference à deep reasoning capabilities, tout en maintaining competitive pricing pour democratize access à advanced AI.
+Les développeurs peuvent commencer à utiliser la **version stable** de Gemini 2.5 Flash-Lite en spécifiant **« gemini-2.5-flash-lite »** dans leur code, l'alias preview étant supprimé le **25 août**. Le modèle est disponible dans **Google AI Studio et Vertex AI**, invitant les développeurs à explorer ses capacités pour construire des solutions IA innovantes. Ce positionnement stratégique de Flash-Lite comme choix de référence pour les applications économes et sensibles à la latence illustre l'engagement de Google à proposer une offre de modèles à plusieurs niveaux répondant aux besoins variés des développeurs, de l'inférence ultra-rapide au raisonnement profond, tout en maintenant une tarification compétitive pour démocratiser l'accès à l'IA avancée.
 
 ## GrapheDeConnaissance
 
@@ -63,20 +63,20 @@ Developers peuvent begin using **stable version** de Gemini 2.5 Flash-Lite en sp
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | publie | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Logan Kilpatrick | PERSONNE | annonce | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Zach Gleicher | PERSONNE | annonce | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Logan Kilpatrick | PERSONNE | publie | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
+| Zach Gleicher | PERSONNE | publie | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
 | Gemini 2.5 Flash-Lite | TECHNOLOGIE | fait_partie_de | Gemini 2.5 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | coûte | $0.10 / 1M tokens input, $0.40 / 1M tokens output | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | mesure | $0.10 / 1M tokens input, $0.40 / 1M tokens output | MESURE | 0.99 | DYNAMIQUE | déclaré_article |
 | Gemini 2.5 Flash-Lite | TECHNOLOGIE | surpasse | Gemini 2.0 Flash-Lite | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | supporte | Grounding with Google Search | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | est_disponible_sur | Google AI Studio | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | est_disponible_sur | Vertex AI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | utilise | Grounding with Google Search | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | observé_dans | Google AI Studio | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | observé_dans | Vertex AI | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Satlyt | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Satlyt | ORGANISATION | réduit | latence diagnostics onboard de 45% | CONCEPT | 0.96 | STATIQUE | déclaré_article |
+| Satlyt | ORGANISATION | mesure | réduction de 45% de la latence des diagnostics onboard | MESURE | 0.96 | STATIQUE | déclaré_article |
 | HeyGen | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | DocsHound | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Evertune | ORGANISATION | utilise | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | possède | fenêtre contexte 1 million tokens | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | mesure | fenêtre de contexte de 1 million de tokens | MESURE | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -63,18 +63,18 @@ Ensarguet conclut avec une observation puissante : "Les changements de plateform
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Philippe Ensarguet | PERSONNE | affirme_que | le changement de plateforme IA est inévitable | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Philippe Ensarguet | PERSONNE | recommande | construire des architectures AI-native | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | transforme | la nature fondamentale du logiciel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| changement de plateforme | CONCEPT | suit | pattern historique récurrent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| startups | ORGANISATION | bénéficient_de | changements de plateforme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Perplexity | ORGANISATION | réimagine | moteur de recherche | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| GitHub Copilot | TECHNOLOGIE | réimagine | codage logiciel | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Philippe Ensarguet | PERSONNE | affirme_que | le changement de plateforme IA est inévitable | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Philippe Ensarguet | PERSONNE | recommande | architectures AI-native | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | améliore | la nature fondamentale du logiciel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| changement de plateforme | CONCEPT | est_instance_de | pattern historique récurrent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| startups | ORGANISATION | utilise | changements de plateforme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Perplexity | ORGANISATION | améliore | moteur de recherche | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| GitHub Copilot | TECHNOLOGIE | améliore | codage logiciel | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | logiciel IA-natif | CONCEPT | est_basé_sur | architecture composable et intent-driven | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Luke Wroblewski | PERSONNE | affirme_que | chaque ère redéfinit la notion d'application | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| organisations établies | CONCEPT | reproduisent | anciens modèles sur nouvelles plateformes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| Philippe Ensarguet | PERSONNE | prédit | dissolution de la notion d'application | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| ère mobile | EVENEMENT | a_produit | Instagram, WhatsApp, Uber | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Luke Wroblewski | PERSONNE | affirme_que | chaque ère redéfinit la notion d'application | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
+| organisations établies | ORGANISATION | utilise | anciens modèles sur nouvelles plateformes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| Philippe Ensarguet | PERSONNE | prédit | dissolution de la notion d'application | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
+| ère mobile | EVENEMENT | permet | Instagram, WhatsApp, Uber | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 

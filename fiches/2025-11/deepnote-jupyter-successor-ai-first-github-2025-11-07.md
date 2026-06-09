@@ -19,11 +19,11 @@ Deepnote, Jupyter, notebooks, data science, AI agent, format .deepnote, YAML, op
 Deepnote Team (Johnny Carrot et contributeurs)
 
 ## Ton
-**Profil:** Open-Source-Product | Première personne collective organisationnelle | Informative-Promotionnelle | Intermédiaire
+**Profil:** Produit open-source | Première personne collective organisationnelle | Informatif-promotionnel | Intermédiaire
 
-Deepnote team adopte open-source product marketing voice positionnant solution comme "successor of Jupyter" dans ère AI. Structure feature comparison table + value propositions (human-readable format, block-based architecture, work wherever) demonstrates product positioning strategy. Langage data science practitioners (notebooks, reactive execution, kernel compatibility) vise data professionals et équipes research. Tone educational-promotional typical open-source projects balancing technical depth avec accessibility. Emphasis collaboration et AI-native design reflects modern data science workflow priorities. Acknowledgements section vers Jupyter community demonstrates respectful innovation narrative. Typique venture-backed open-source startups (Observable, Hex, Mode) building next-generation data tools visant data teams cherchant modern collaborative notebook experience.
+L'équipe Deepnote adopte une voix marketing produit open-source positionnant la solution comme "successeur de Jupyter" dans l'ère de l'IA. La structure tableau comparatif + propositions de valeur (format lisible par l'humain, architecture par blocs, "work wherever") témoigne d'une stratégie de positionnement produit. Le langage des praticiens data science (notebooks, exécution réactive, compatibilité kernel) vise les data professionals et les équipes de recherche. Ton éducatif-promotionnel typique des projets open-source, équilibrant profondeur technique et accessibilité. L'accent sur la collaboration et le design AI-native reflète les priorités des workflows data science modernes. La section de remerciements envers la communauté Jupyter inscrit l'innovation dans une narration respectueuse. Typique des startups open-source financées par le capital-risque (Observable, Hex, Mode) construisant les outils data de nouvelle génération pour des équipes cherchant une expérience notebook collaborative moderne.
 
-## Pense-bêtes
+## Pense-betes
 - **Successeur de Jupyter** avec design AI-first et kernel compatible
 - **500,000+ data professionals** utilisateurs (Estée Lauder, SoundCloud, Statsig, Gusto)
 - **Format .deepnote YAML** remplace .ipynb JSON - human-readable, version-control friendly
@@ -87,17 +87,17 @@ Les acknowledgements rendent hommage à la communauté Jupyter et son impact dep
 | Deepnote | TECHNOLOGIE | utilise | format .deepnote | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | format .deepnote | TECHNOLOGIE | remplace | format .ipynb | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | est_basé_sur | Jupyter kernel | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | intègre | AI agent natif | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Deepnote | ORGANISATION | compte | 500 000 utilisateurs | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | fournit_extension_pour | VS Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | fournit_extension_pour | Cursor | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | fournit_extension_pour | Windsurf | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| @deepnote/blocks | TECHNOLOGIE | définit | types de blocs notebooks | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| @deepnote/convert | TECHNOLOGIE | convertit | notebooks Jupyter en format Deepnote | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | implémente | exécution réactive | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| Johnny Carrot | PERSONNE | contribue_à | Deepnote | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Deepnote Cloud | TECHNOLOGIE | offre | collaboration temps réel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | est_sous_licence | Apache-2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | utilise | AI agent natif | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Deepnote | ORGANISATION | mesure | 500 000 utilisateurs | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | s_applique_à | VS Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | s_applique_à | Cursor | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | s_applique_à | Windsurf | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| @deepnote/blocks | TECHNOLOGIE | permet | types de blocs notebooks | CONCEPT | 0.93 | STATIQUE | déclaré_article |
+| @deepnote/convert | TECHNOLOGIE | permet | conversion notebooks Jupyter ↔ Deepnote | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | utilise | exécution réactive | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Johnny Carrot | PERSONNE | collabore_avec | Deepnote | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Deepnote Cloud | TECHNOLOGIE | permet | collaboration temps réel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | utilise | licence Apache-2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 
 ### Entités
 

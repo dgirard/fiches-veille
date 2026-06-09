@@ -13,9 +13,9 @@ Agentic Context Engineering, ACE Framework, Self-Improving AI, Context Adaptatio
 Qizheng Zhang et al. (Stanford University, SambaNova Systems, UC Berkeley)
 
 ## Ton
-**Profil:** Academic-Research | Institutionnelle research | Descriptive-Technique | Expert
+**Profil:** Recherche académique | Institutionnel | Descriptif-technique | Expert
 
-Stanford/SambaNova researchers adoptent formal research paper voice presenting novel ACE framework. arXiv preprint format signals cutting-edge research pre-peer-review. Langage AI research specialized (Generator-Reflector-Curator architecture, context evolution, benchmark evaluation) demonstrates technical rigor. Tone objective academic typical research publications emphasizing empirical validation (+10.6% improvements). Structure problem→method→results→discussion typical academic papers. Typique academic AI research (Berkeley, MIT, CMU style) advancing theoretical frameworks avec practical demonstrations visant AI research community et practitioners seeking principled approaches agent development.
+Les chercheurs de Stanford/SambaNova adoptent la voix formelle d'un article de recherche présentant le nouveau framework ACE. Le format preprint arXiv signale une recherche de pointe avant relecture par les pairs. Le langage spécialisé de la recherche en IA (architecture Generator-Reflector-Curator, évolution de contexte, évaluation sur benchmarks) démontre la rigueur technique. Ton académique objectif, typique des publications de recherche, mettant l'accent sur la validation empirique (+10,6 % d'amélioration). Structure problème → méthode → résultats → discussion classique des papiers académiques. Typique de la recherche académique en IA (style Berkeley, MIT, CMU) faisant progresser des cadres théoriques avec démonstrations pratiques, visant la communauté de recherche en IA et les praticiens en quête d'approches rigoureuses du développement d'agents.
 
 ## Pense-betes
 - Framework ACE : Agentic Context Engineering
@@ -64,7 +64,7 @@ Cette recherche ouvre la voie à des systèmes IA qui s'améliorent continuellem
 | ACE | METHODOLOGIE | est_basé_sur | Dynamic Cheatsheet | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | résout | brevity bias | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | résout | context collapse | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| ACE | METHODOLOGIE | améliore | AppWorld benchmark | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | améliore | AppWorld benchmark | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Stanford University | ORGANISATION | collabore_avec | SambaNova Systems | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Stanford University | ORGANISATION | collabore_avec | UC Berkeley | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | utilise | Generator-Reflector-Curator | CONCEPT | 0.97 | STATIQUE | déclaré_article |
@@ -72,7 +72,7 @@ Cette recherche ouvre la voie à des systèmes IA qui s'améliorent continuellem
 | ACE | METHODOLOGIE | réduit | latence d'adaptation | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | surpasse | IBM-CUGA | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
 | context adaptation | CONCEPT | remplace | fine-tuning | METHODOLOGIE | 0.82 | ATEMPOREL | inféré |
-| DeepSeek-V3.1 | TECHNOLOGIE | est_utilisé_par | ACE | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | utilise | DeepSeek-V3.1 | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
 
 ### Entités
 
@@ -89,5 +89,5 @@ Cette recherche ouvre la voie à des systèmes IA qui s'améliorent continuellem
 | Dynamic Cheatsheet | METHODOLOGIE | rôle | précurseur de ACE | AJOUT |
 | brevity bias | CONCEPT | définition | compression excessive du contexte | AJOUT |
 | context collapse | CONCEPT | définition | dégradation du contexte sur itérations | AJOUT |
-| AppWorld | EVENEMENT | type | benchmark agent multi-tâches | AJOUT |
+| AppWorld | TECHNOLOGIE | type | benchmark agent multi-tâches | AJOUT |
 | Generator-Reflector-Curator | CONCEPT | rôle | architecture agentique à 3 composants | AJOUT |

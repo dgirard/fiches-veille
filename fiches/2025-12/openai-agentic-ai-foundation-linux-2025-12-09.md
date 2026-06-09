@@ -23,7 +23,7 @@ OpenAI
 
 OpenAI adopte un ton d'annonce institutionnelle majeure combinant leadership affirmé et ouverture collaborative. Le "we" inclusif positionne OpenAI comme acteur central mais coopératif d'un mouvement collectif. La structure narrative suit le schéma classique annonce stratégique : contexte (why now) → contributions concrètes → vision partagée → appel à participation. Vocabulaire délibérément consensuel ("neutral stewardship", "shared investment", "community-led") atténue la compétition évidente avec co-fondateurs Anthropic et Block. Énumération exhaustive des partenaires (Google, Microsoft, AWS, Bloomberg, Cloudflare) renforce légitimité et momentum. Références aux contributions passées (Agents SDK, Codex, MCP) établissent crédibilité technique. Chiffres d'adoption impressionnants (60,000 projets, 2M pull requests) démontrent traction réelle. Ton optimiste mais mesuré évite le hype excessif typique des annonces IA. Style caractéristique des communiqués Linux Foundation visant écosystème développeurs enterprise.
 
-## Pense-bêtes
+## Pense-betes
 
 **Création AAIF**
 - **Date annonce** : 9 décembre 2025
@@ -81,19 +81,19 @@ Cette initiative marque une étape significative dans la maturation de l'écosys
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| OpenAI | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Block | ORGANISATION | a_co-fondé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| AAIF | ORGANISATION | opère_sous | Linux Foundation | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | a_contribué | AGENTS.md | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_contribué | Model Context Protocol (MCP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Block | ORGANISATION | a_contribué | goose | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| AGENTS.md | TECHNOLOGIE | a_été_adopté_par | 60 000+ projets open source | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Codex | TECHNOLOGIE | a_fusionné | 2M+ pull requests sur GitHub | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| AAIF | ORGANISATION | vise | interopérabilité et standards ouverts agents IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Google | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
-| Microsoft | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
-| AWS | ORGANISATION | est_membre_platinum_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | a_créé | Agentic AI Foundation (AAIF) | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
+| AAIF | ORGANISATION | fait_partie_de | Linux Foundation | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | publie | AGENTS.md | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Model Context Protocol (MCP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | publie | goose | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| AGENTS.md | TECHNOLOGIE | mesure | adoption par 60 000+ projets open source | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
+| Codex | TECHNOLOGIE | mesure | 2M+ pull requests fusionnées sur GitHub | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
+| AAIF | ORGANISATION | permet | interopérabilité et standards ouverts agents IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Google | ORGANISATION | fait_partie_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Microsoft | ORGANISATION | fait_partie_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| AWS | ORGANISATION | fait_partie_de | AAIF | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

@@ -62,18 +62,18 @@ La chute du dialogue est mordante. Wardley introduit « Alice », la développeu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Simon Wardley | PERSONNE | affirme_que | nombre développeurs restera stable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Vibe coding | CONCEPT | provoque | explosion volume code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Effet Reine Rouge | CONCEPT | explique | stabilité effectifs développeurs | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Simon Wardley | PERSONNE | affirme_que | le nombre de développeurs restera globalement stable malgré l'IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Vibe coding | METHODOLOGIE | permet | explosion volume code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Stabilité effectifs développeurs | CONCEPT | est_basé_sur | Effet Reine Rouge | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Paradoxe de Jevons | CONCEPT | s_applique_à | productivité vibe coding | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Entreprises | CONCEPT | passeront_de | 30M à 1Md+ lignes de code | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
-| Sysadmins | CONCEPT | ont_évolué_en | DevOps Engineers / SRE | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Développeurs | CONCEPT | évolueront_en | Human-AI system integrators | CONCEPT | 0.85 | DYNAMIQUE | inféré |
-| Simon Wardley | PERSONNE | recommande | reconversion plutôt que licenciement | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Ingénierie logicielle | CONCEPT | doit_passer_de | artisanat à discipline d'ingénierie | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Simon Wardley | PERSONNE | critique | court-termisme managérial licenciements IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Lecture de code | CONCEPT | n_est_plus | soutenable à l'échelle | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
-| Co-évolution pratiques | CONCEPT | augmentera_demande_de | Human-AI system integrators | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| Simon Wardley | PERSONNE | prédit | les grandes entreprises passeront de 30M à 1Md+ lignes de code | AFFIRMATION | 0.80 | DYNAMIQUE | déclaré_article |
+| DevOps Engineers / SRE | CONCEPT | remplace | Sysadmins | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Human-AI system integrators | CONCEPT | remplace | Développeurs | CONCEPT | 0.85 | DYNAMIQUE | inféré |
+| Simon Wardley | PERSONNE | recommande | la reconversion (retraining) plutôt que le licenciement | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Simon Wardley | PERSONNE | recommande | transformer l'ingénierie logicielle d'artisanat en discipline d'ingénierie | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
+| Simon Wardley | PERSONNE | s_oppose_à | court-termisme managérial licenciements IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| Simon Wardley | PERSONNE | affirme_que | lire le code n'est déjà plus soutenable à l'échelle | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
+| Co-évolution pratiques | CONCEPT | améliore | demande de Human-AI system integrators | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

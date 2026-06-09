@@ -10,17 +10,14 @@
 
 ### affirme_que
 
-- [[kb/_entites-mineures#compounding-teams-existent\|compounding teams existent]] (CONCEPT) — 0.98, STATIQUE
+- « les compounding teams existent et sont désormais observables » (AFFIRMATION) — 0.98, STATIQUE
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
-
-### compare
-
-- [[kb/compounding-teams\|compounding teams]] (CONCEPT) — 0.92, STATIQUE
+- « les compounding teams sont comparables aux révolutions PC, navigateurs et smartphones » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 
 ### prédit
 
-- [[kb/_entites-mineures#extension-au-travail-intellectuel-général\|extension au travail intellectuel général]] (CONCEPT) — 0.85, DYNAMIQUE
+- « l'extension de cette approche au travail intellectuel général » (AFFIRMATION) — 0.85, DYNAMIQUE
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 
 ## Relations (comme objet)

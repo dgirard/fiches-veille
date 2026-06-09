@@ -59,19 +59,19 @@ Le modèle Stripe illustre une vision mature du développement assisté par IA :
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Stripe | ORGANISATION | a_créé | Minions | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Minions | TECHNOLOGIE | produit | plus de 1 000 PRs par semaine | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Minions | TECHNOLOGIE | mesure | plus de 1 000 PRs mergées par semaine | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | est_basé_sur | goose | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| goose | TECHNOLOGIE | a_été_créé_par | Block | ORGANISATION | 0.95 | STATIQUE | déclaré_article |
+| Block | ORGANISATION | a_créé | goose | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Stripe | ORGANISATION | utilise | Toolshed | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Toolshed | TECHNOLOGIE | héberge | 400+ outils MCP | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| 400+ outils MCP | TECHNOLOGIE | fait_partie_de | Toolshed | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | devboxes | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | devboxes | TECHNOLOGIE | permet | isolation et autonomie des agents | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Stripe | ORGANISATION | applique | shift feedback left | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Stripe | ORGANISATION | utilise | shift feedback left | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | fichiers de règles partagés | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| fichiers de règles partagés | METHODOLOGIE | assure_cohérence_entre | Minions, Cursor et Claude Code | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Stripe | ORGANISATION | possède | codebase de centaines de millions de lignes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| fichiers de règles partagés | METHODOLOGIE | s_applique_à | Minions, Cursor et Claude Code | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Stripe | ORGANISATION | mesure | codebase de centaines de millions de lignes | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Stripe | ORGANISATION | utilise | Ruby avec Sorbet | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Minions | TECHNOLOGIE | limite_à | 2 cycles CI maximum | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Minions | TECHNOLOGIE | utilise | maximum de 2 cycles CI | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
