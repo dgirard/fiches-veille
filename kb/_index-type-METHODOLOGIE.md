@@ -1,8 +1,7 @@
 # Index — METHODOLOGIE
 
-> 304 entités de type METHODOLOGIE
+> 303 entités de type METHODOLOGIE
 
-- [[kb/\|]] — categorie: Methode Agile pour developpement assiste par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#3-3-3-methodology\|3-3-3 methodology]] — définition: 3 jours product concept → 3 semaines prototype (desirability/viability/feasibility) → 3 mois MVP en production (1 occ., 1 fiches)
@@ -42,7 +41,7 @@
 - [[kb/_entites-mineures#Author-distribution-playbook\|Author distribution playbook]] — définition: Recommandation : audit cadence vs author-diversity decay, remplacer stacked single-account drumbeats par multi-account amplification (brand + employés) — chaque post entre au position=0 pour son auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autonomous-enterprise-workflow-agent\|Autonomous enterprise workflow agent]] — niveau: Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BDD-(Behavior-Driven-Development)\|BDD (Behavior-Driven Development)]] — catégorie: Spécification + critères d'évaluation co-définis — *self-verifying specification* (1 occ., 1 fiches)
-- [[kb/BMAD\|BMAD]] — nom complet: Breakthrough Method for Agile AI-Driven Development (2 occ., 1 fiches)
+- [[kb/BMAD\|BMAD]] — nom complet: Breakthrough Method for Agile AI-Driven Development (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Ben-vs-Alice-(case-study)\|Ben vs Alice (case study)]] — définition: Cadre narratif Chepurin/Turner — Ben (4h traditional, satisfaction) vs Alice (2h AI-assisted, intensité cognitive concentrée + remplit temps libéré, pas de satisfaction). Outil pédagogique pour discuter charge cognitive cachée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blueprints\|Blueprints]] — catégorie: Orchestration hybride déterministe-agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bolt\|Bolt]] — définition: Unité de travail courte (1h à demi-journée) qui remplace le sprint Scrum de 14 jours (1 occ., 1 fiches)

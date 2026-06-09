@@ -72,7 +72,7 @@ Mornati trace une evolution du metier : du developpeur (celui qui ecrit du code)
 
 ### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Marco Mornati | PERSONNE | role | Developpeur, blogueur technique | AJOUT |
 | BMAD | METHODOLOGIE | categorie | Methode Agile pour developpement assiste par IA | AJOUT |

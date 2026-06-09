@@ -79,7 +79,7 @@ L'AISI conclut que la progression rapide des capacites cyber fait partie d'une t
 
 ### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | AISI UK | ORGANISATION | role | Institut de securite de l'IA du Royaume-Uni | AJOUT |
 | GPT-5.5 | TECHNOLOGIE | score_expert_pass1 | 71,4% (+-8,0%) | AJOUT |

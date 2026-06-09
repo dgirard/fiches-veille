@@ -1,8 +1,7 @@
 # Index — CONCEPT
 
-> 675 entités de type CONCEPT
+> 677 entités de type CONCEPT
 
-- [[kb/\|]] — enjeu: Leadership et gestion du risque (3 occ., 2 fiches)
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-didn't-make-our-engineers-just-faster.-It-made-them-different\|"AI didn't make our engineers just faster. It made them different"]] — source: Aphorisme-titre Tatsyi — symétrie vitesse/nature du travail (1 occ., 1 fiches)
@@ -55,6 +54,7 @@
 - [[kb/_entites-mineures#Accumulated-execution-data\|Accumulated execution data]] — définition: Moat durable agentic AI Bain — base d'exécutions agent qui s'enrichit avec chaque action, plus dure à répliquer pour concurrents que data statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] — description: McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] — définition: Organisation où people, technology et work sont continuellement réalignés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] — enjeu: Leadership et gestion du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent\|Agent]] — niveau: 3 — exécution pas-à-pas avec approbation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-readiness-data-foundations\|Agent readiness data foundations]] — description: Chantier stratégique CDO 2026 — redesign des data foundations pour permettre exécution agentic. Convergence avec DORA AI-accessible internal data + healthy data ecosystems, Talisman Ontology Pipeline Refresh, Seale Semantic Agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Language-Fit\|Agent-Language Fit]] — définition: Capacité langage à servir collaboration humain-LLM (1 occ., 1 fiches)
@@ -308,6 +308,7 @@
 - [[kb/_entites-mineures#Position-épistémique-tierce-(Frizzo)\|Position épistémique tierce (Frizzo)]] — description: Refus simultané des narratifs "AI is bad" et "uncritical enthusiasm" ; tensions non résolues plutôt que conclusions ; gains réels + coûts réels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Posthumanisme-(critique-léonienne)\|Posthumanisme (critique léonienne)]] — définition: Courant qui critique l'anthropocentrisme et envisage hybridation humain/machine/environnement, *« franchissement de seuil »* évolutif — refusé par Léon XIV comme conduisant à des *« sacrifices nécessaires »* des plus fragiles (n. 117) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pricing-power-ancré-salaires\|Pricing power ancré salaires]] — catégorie: Deuxième moteur narratif jobpocalypse (Ng), $10 000+/an (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Probleme-des-70%\|Probleme des 70%]] — description: L'IA atteint 70% vite, les 30% restants requierent expertise humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Problème-hayékien\|Problème hayékien]] — origine: Friedrich Hayek, *The Use of Knowledge in Society* (1945) — l'information utile dans une organisation est tacite et distribuée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Product-Engineer\|Product Engineer]] — définition: Personne capable de créer de la valeur pour un usage donné — mesurée par la valeur créée et non par le code produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Product-Questions\|Product Questions]] — définition: Questions pour lesquelles des produits sont suggérés dans la réponse (1 occ., 1 fiches)
@@ -367,6 +368,7 @@
 - [[kb/_entites-mineures#Success-is-silent-failures-are-verbose\|Success is silent failures are verbose]] — définition: Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Super-Spec\|Super Spec]] — définition: Spécification dynamique unifiée (architecture + workflows + sécurité + données + UX) servant de source of truth, mise à jour automatiquement en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supermanager\|Supermanager]] — définition: Concept Bersin : nouveau modèle de leadership pour l'ère IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Superviseur-d'agents\|Superviseur d'agents]] — description: Evolution du role developpeur vers orchestration d'agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)

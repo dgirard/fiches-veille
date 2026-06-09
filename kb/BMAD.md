@@ -1,9 +1,10 @@
 # BMAD
 
-> **Type** : METHODOLOGIE | 11 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 11 relations | 2 fiches sources
 
 ## Attributs
 
+- **categorie** : Methode Agile pour developpement assiste par IA
 - **métaphore centrale** : plan d'urbanisme pour l'IA agentique
 - **nom complet** : Breakthrough Method for Agile AI-Driven Development
 
@@ -47,9 +48,10 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Marco-Mornati\|Marco Mornati]] **utilise** → BMAD — 0.99
+- [[kb/Marco-Mornati\|Marco Mornati]] **utilise** → BMAD — 0.99
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] **recommande** → BMAD — 0.95
 
 ## Fiches sources
 
 - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC - Tech Away]]
+- [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]

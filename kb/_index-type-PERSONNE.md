@@ -2,7 +2,6 @@
 
 > 397 entités de type PERSONNE
 
-- [[kb/\|]] — role: Developpeur, blogueur technique (3 occ., 2 fiches)
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@trq212\|@trq212]] — rôle: Ingénieur équipe Claude Code, Anthropic (2 occ., 2 fiches)
@@ -125,7 +124,7 @@
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Professeur senior, Stanford HAI (1 occ., 1 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
-- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (15 occ., 12 fiches)
+- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (17 occ., 13 fiches)
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] — rôle: AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] — rôle: PDG AG2R LA MONDIALE (fin 2025) (1 occ., 1 fiches)
@@ -236,6 +235,7 @@
 - [[kb/Marc-Andreessen\|Marc Andreessen]] — affiliation: Andreessen Horowitz (a16z) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Marc-Aurèle\|Marc Aurèle]] — période: 121-180 ap. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marc-Benioff\|Marc Benioff]] — rôle: CEO Salesforce (1 occ., 1 fiches)
+- [[kb/Marco-Mornati\|Marco Mornati]] — role: Developpeur, blogueur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marco-Rubio\|Marco Rubio]] — rôle: Secrétaire d'État et Conseiller national à la sécurité par intérim (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] — rôle: Chercheuse en génie logiciel (1 occ., 1 fiches)
 - [[kb/Mark-Dembo\|Mark Dembo]] — rôle: Head of Solutions – Developer Platform & AI chez Cloudflare (1 occ., 1 fiches)

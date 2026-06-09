@@ -1,8 +1,7 @@
 # Index — ORGANISATION
 
-> 313 entités de type ORGANISATION
+> 316 entités de type ORGANISATION
 
-- [[kb/\|]] — secteur: IA / Modeles frontiere (7 occ., 3 fiches)
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#72andSunny\|72andSunny]] — description: Cas étude Mandese — agence ayant shifted to modular product menus (1 occ., 1 fiches)
@@ -10,6 +9,7 @@
 - [[kb/_entites-mineures#ADEME\|ADEME]] — secteur: Agence de la transition écologique française, partenaire de Mistral pour l'ACV des modèles (1 occ., 1 fiches)
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] — secteur: Protection sociale et patrimoniale (2 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] — catégorie: Comité de direction interdisciplinaire (1 occ., 1 fiches)
+- [[kb/AISI-UK\|AISI UK]] — role: Institut de securite de l'IA du Royaume-Uni (1 occ., 1 fiches)
 - [[kb/AMD\|AMD]] — rôle: acteur du réseau circulaire d'investissements IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] — rôle: Autorité nationale sécurité systèmes information (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ARC\|ARC]] — rôle: organisation recherche partenaire (1 occ., 1 fiches)
@@ -70,6 +70,7 @@
 - [[kb/_entites-mineures#Constellation-Research\|Constellation Research]] — secteur: Firme d'analystes Silicon Valley dirigée par R. "Ray" Wang, focus CXO / future of business and technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contextually-LLC\|Contextually LLC]] — secteur: Société fondée par Jessica Talisman, conseil semantic engineering / information architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] — rôle: acteur du réseau circulaire d'investissements IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Crystal-Peak-Security\|Crystal Peak Security]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] — secteur: Start-up IA fondée par Francesco Bonacci (1 occ., 1 fiches)
 - [[kb/Cursor\|Cursor]] — catégorie: IDE assisté par IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Custplace\|Custplace]] — secteur: Plateforme d'avis et preuve sociale (1 occ., 1 fiches)
@@ -112,7 +113,7 @@
 - [[kb/_entites-mineures#Fountain\|Fountain]] — secteur: Gestion RH / Personnel de terrain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GENIAL\|GENIAL]] — secteur: Startup IA française (1 occ., 1 fiches)
 - [[kb/Gadget\|Gadget]] — secteur: Plateforme de développement full-stack (1 occ., 1 fiches)
-- [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil en technologie (3 occ., 3 fiches)
+- [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil technologique (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Generative-AI-Labs\|Generative AI Labs]] — affiliation: The Wharton School, University of Pennsylvania (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — réaction: Bans permanents pour code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] — description: Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context) (1 occ., 1 fiches)
@@ -141,6 +142,7 @@
 - [[kb/Intercom\|Intercom]] — échelle: 1305 employés, 500 R&D, 8,5M lignes code, 30 000 clients B2B, 313 deploys/jour, 2M+ QPS peak (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] — secteur: Logiciels financiers (utilisateur Lovable) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inworld\|Inworld]] — secteur: IA vocale / TTS (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Irregular\|Irregular]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] — valorisation actuelle: 500 millions de dollars (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle (2 occ., 2 fiches)
@@ -207,7 +209,7 @@
 - [[kb/_entites-mineures#OfficeChai\|OfficeChai]] — secteur: Publication indienne tech/startup news, source de l'article rapportant Sternfels janvier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
-- [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (19 occ., 19 fiches)
+- [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (20 occ., 20 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
@@ -248,6 +250,7 @@
 - [[kb/Solstice-Lab\|Solstice Lab]] — secteur: recherche appliquée systèmes multi-agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonar\|Sonar]] — secteur: Qualité et sécurité code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spotify\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)
@@ -290,7 +293,7 @@
 - [[kb/Wescale\|Wescale]] — secteur: Cabinet français de conseil cloud / DevOps / industrialisation IT (1 occ., 1 fiches)
 - [[kb/Wharton\|Wharton]] — catégorie: École de commerce universitaire (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Wharton-GAIL\|Wharton GAIL]] — type: Generative AI Lab, Université de Pennsylvanie (1 occ., 1 fiches)
-- [[kb/Wharton-School\|Wharton School]] — type: École de commerce, University of Pennsylvania (5 occ., 5 fiches)
+- [[kb/Wharton-School\|Wharton School]] — type: École de commerce, University of Pennsylvania (6 occ., 6 fiches)
 - [[kb/Windsurf\|Windsurf]] — catégorie: IDE assisté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] — catégorie: Système de record employés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#World-Bank-Education-Global-Department\|World Bank Education Global Department]] — rôle: Éditeur de la recherche sur l'IA en éducation (1 occ., 1 fiches)

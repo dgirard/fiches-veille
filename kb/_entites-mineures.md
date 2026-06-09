@@ -1,17 +1,8 @@
 # Entités mineures
 
-> 2043 entités avec moins de 3 triples/fiches
+> 2048 entités avec moins de 3 triples/fiches
 
-## PERSONNE (304)
-
-###  {#}
-
-**Type** : PERSONNE | 0 relations | 2 fiches
-
-- **oeuvre** : Co-Intelligence (livre)
-- **role** : Developpeur, blogueur technique
-
-**Fiches** : [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]], [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+## PERSONNE (303)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3041,16 +3032,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (242)
-
-###  {#}
-
-**Type** : ORGANISATION | 0 relations | 3 fiches
-
-- **role** : Institut de securite de l'IA du Royaume-Uni
-- **secteur** : IA / Modeles frontiere
-
-**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]], [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]], [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+## ORGANISATION (244)
 
 ### 10x {#10x}
 
@@ -3570,6 +3552,16 @@
 - **rôle** : acteur du réseau circulaire d'investissements IA
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
+
+### Crystal Peak Security {#Crystal-Peak-Security}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cybersecurite
+
+- **collabore_avec** → [[kb/AISI-UK\|AISI UK]] (ORGANISATION) — 0.88
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 
 ### Cua AI {#Cua-AI}
 
@@ -4115,6 +4107,16 @@
 - [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Inworld — 0.88
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+
+### Irregular {#Irregular}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cybersecurite
+
+- **collabore_avec** → [[kb/AISI-UK\|AISI UK]] (ORGANISATION) — 0.88
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 
 ### KPMG {#KPMG}
 
@@ -4931,6 +4933,16 @@
 
 **Fiches** : [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
 
+### SpecterOps {#SpecterOps}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Cybersecurite offensive / Red team
+
+- **a_créé** → [[kb/_entites-mineures#The-Last-Ones-(TLO)\|The Last Ones (TLO)]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+
 ### Spotify {#Spotify}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -5479,18 +5491,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (468)
-
-###  {#}
-
-**Type** : TECHNOLOGIE | 0 relations | 3 fiches
-
-- **categorie** : Produit IA a acces restreint pour cybersecurite defensive
-- **description** : Cyber range 32 etapes, 4 sous-reseaux, ~20 hotes
-- **score_expert_pass1** : 48,6% (+-10,0%)
-- **score_expert_pass5** : 90,5% (+-12,9%)
-
-**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]], [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]], [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+## TECHNOLOGIE (471)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6902,6 +6903,26 @@
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 
+### GPT-5.4 {#GPT-5.4}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **score_expert_pass1** : 52,4% (+-9,8%)
+
+- [[kb/GPT-5.5\|GPT-5.5]] **surpasse** → GPT-5.4 — 0.97
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+
+### GPT-5.5-Cyber {#GPT-5.5-Cyber}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **categorie** : Produit IA a acces restreint pour cybersecurite defensive
+
+- [[kb/OpenAI\|OpenAI]] **publie** → GPT-5.5-Cyber — 0.90
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+
 ### GSAP {#GSAP}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8022,6 +8043,16 @@
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
+### Mythos Preview {#Mythos-Preview}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **score_expert_pass1** : 68,6% (+-8,7%)
+
+- [[kb/GPT-5.5\|GPT-5.5]] **converge_avec** → Mythos Preview — 0.92
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+
 ### NANDA {#NANDA}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8335,19 +8366,6 @@
 - [[kb/_entites-mineures#Opus-4.7-Code-Review\|Opus 4.7 Code Review]] **surpasse** → Opus 4.6 — 0.90
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
-
-### Opus 4.7 {#Opus-4.7}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **capabilité** : Refactor 100k lignes, find zero days — mais jagged sur questions simples
-- **reasoning_effort_défaut** : xhigh (après correction)
-
-- **utilise** → [[kb/_entites-mineures#1MM-context-window\|1MM context window]] (CONCEPT) — 0.97
-
-- [[kb/_entites-mineures#GPT-5.5\|GPT-5.5]] **surpasse** → Opus 4.7 — 0.95
-
-**Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]], [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
 
 ### Opus 4.8 {#Opus-4.8}
 
@@ -9140,15 +9158,16 @@
 
 ### Stitch {#Stitch}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **categorie** : Outil UX Google AI
 - **catégorie** : Agent spécialisé design
 
 - **collabore_avec** → [[kb/Project-Jules\|Project Jules]] (TECHNOLOGIE) — 0.80
 
-- [[kb/_entites-mineures#Marco-Mornati\|Marco Mornati]] **utilise** → Stitch — 0.98
+- [[kb/Marco-Mornati\|Marco Mornati]] **utilise** → Stitch — 0.98
 
-**Fiches** : [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Google Labs - Proactive Agents - Project Jules - Developer Experience - Async Agents]]
+**Fiches** : [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Google Labs - Proactive Agents - Project Jules - Developer Experience - Async Agents]], [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
 
 ### StreamableHTTPServerTransport {#StreamableHTTPServerTransport}
 
@@ -9252,6 +9271,17 @@
 - **catégorie** : Tests de type ArchUnit validant les contraintes architecturales
 
 **Fiches** : [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering OpenAI : 1M lignes de code zéro écriture manuelle, Codex agents, ingénierie d'environnement agent-first]]
+
+### The Last Ones (TLO) {#The-Last-Ones-(TLO)}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **description** : Cyber range 32 etapes, 4 sous-reseaux, ~20 hotes
+
+- [[kb/GPT-5.5\|GPT-5.5]] **résout** → The Last Ones (TLO) — 0.95
+- [[kb/_entites-mineures#SpecterOps\|SpecterOps]] **a_créé** → The Last Ones (TLO) — 0.90
+
+**Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 
 ### Think with Google {#Think-with-Google}
 
@@ -9779,6 +9809,16 @@
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
 
+### gemini-cli {#gemini-cli}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **categorie** : CLI Google pour interaction IA
+
+- [[kb/Marco-Mornati\|Marco Mornati]] **utilise** → gemini-cli — 0.98
+
+**Fiches** : [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+
 ### git {#git}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10258,16 +10298,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (655)
-
-###  {#}
-
-**Type** : CONCEPT | 0 relations | 2 fiches
-
-- **description** : Evolution du role developpeur vers orchestration d'agents IA
-- **enjeu** : Leadership et gestion du risque
-
-**Fiches** : [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]], [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+## CONCEPT (657)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -10684,6 +10715,18 @@
 - **définition** : Organisation où people, technology et work sont continuellement réalignés
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
+### Adoption IA en entreprise {#Adoption-IA-en-entreprise}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **enjeu** : Leadership et gestion du risque
+
+- **utilise** → [[kb/_entites-mineures#approche-méthodique-et-progressive\|approche méthodique et progressive]] (METHODOLOGIE) — 0.94
+
+- [[kb/_entites-mineures#Leadership-dirigeant\|Leadership dirigeant]] **permet** → Adoption IA en entreprise — 0.92
+
+**Fiches** : [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 
 ### Agent {#Agent}
 
@@ -12887,6 +12930,14 @@
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|Édito d'Andrew Ng dans The Batch n°352 du 8 mai 2026 — **"There Will Be No AI Jobpocalypse"** — qui démonte la narration de chômage de masse provoqué par l'IA en s'appuyant sur le taux de chômage US **sain à 4,3 %** et un hiring tech robuste. Ng identifie **trois moteurs** du narratif jobpocalypse : **(1) tech incentives** — les labs IA bénéficient à se présenter transformative-disruptive (lèves de fonds, valorisations, talent) ; **(2) pricing power** — les éditeurs facturent **10 000$+/an** à leurs clients enterprise en **ancrant leur tarif sur le salaire de l'employé remplacé**, plutôt que sur le pricing SaaS traditionnel (per seat / per usage) ; **(3) corporate messaging** — les boîtes recadrent leurs layoffs en *"efficience IA"* plutôt que de reconnaître l'**overhiring pandémique** 2020-2022. Reconnaissance honnête : *"AI disrupts work"*. Mais Ng renverse en **"AI jobapalooza"** (jeu de mots sur Lollapalooza) — création de jobs en AI engineering et fields adjacents avec compétences en évolution. Tension implicite avec **Amodei** (50 % white-collar jobs supprimés d'ici 2030) — Ng souligne sans nommer que **Anthropic gagne à promouvoir cette narration** (tech incentives). Publié **le même jour** que **Wallace-Wells "AI Populism" NYT Magazine** : lecture en miroir parfaite — Ng = analyse économique froide / Wallace-Wells = panique populaire. Convergence pricing power avec **Bain "100Md$ cross-system labor"** (même thèse : ancrage tarifaire sur salaires).]]
 
+### Probleme des 70% {#Probleme-des-70%}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : L'IA atteint 70% vite, les 30% restants requierent expertise humaine
+
+**Fiches** : [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+
 ### Problème hayékien {#Problème-hayékien}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -13429,6 +13480,16 @@
 - **est_instance_de** → [[kb/_entites-mineures#nouveau-modèle-de-leadership-pour-l'ère-IA\|nouveau modèle de leadership pour l'ère IA]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+
+### Superviseur d'agents {#Superviseur-d'agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **description** : Evolution du role developpeur vers orchestration d'agents IA
+
+- **remplace** → [[kb/_entites-mineures#Role-developpeur-traditionnel\|Role developpeur traditionnel]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
 
 ### Supervision adaptative {#Supervision-adaptative}
 
@@ -16313,15 +16374,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (276)
-
-###  {#}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **categorie** : Methode Agile pour developpement assiste par IA
-
-**Fiches** : [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique]]
+## METHODOLOGIE (275)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 

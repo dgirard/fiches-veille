@@ -1,9 +1,10 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 22 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 8 fiches sources
 
 ## Attributs
 
+- **categorie** : IA generative enterprise
 - **catégorie** : Modèle de langage
 - **famille de produits** : Claude.ai, Claude Code, API
 - **limitation** : Pas de génération d'images ou vidéos
@@ -58,6 +59,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
+- [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|ChatGPT Agent - OpenAI - Agent autonome - Automatisation - VM semi-automatisée - Rebrand Operator]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Vitrine « Powered by Claude » : écosystème de partenaires Anthropic — intégrations IA et applications construites sur Claude (anthropic.com)]]

@@ -1,12 +1,14 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 56 relations | 12 fiches sources
+> **Type** : PERSONNE | 56 relations | 13 fiches sources
 
 ## Attributs
 
 - **affiliation** : Wharton School / One Useful Thing
 - **distinction** : TIME 100 Most Influential People in AI 2024
 - **indépendance** : N'accepte aucun financement des entreprises IA
+- **oeuvre** : Co-Intelligence (livre)
+- **role** : Professeur associe, Wharton School
 - **rôle** : Professeur Wharton (management), auteur *Co-Intelligence*, commentateur IA prolifique (LinkedIn + blog *One Useful Thing*)
 
 ## Relations (comme sujet)
@@ -169,6 +171,7 @@
 
 - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick - AI adoption - Organizational change - One Useful Thing - Wharton - Academic research - Management]]
 - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
+- [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Benchmarking IA au-delà des tests standards - Interview modèles IA pour use cases spécifiques - Jagged Frontier - OpenAI GDPval - Vibes vs mesures réelles - GuacaDrone example - Ethan Mollick - One Useful Thing]]
 - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Adoption IA organisationnelle, transformation du travail, stratégie d'innovation, leadership, productivité, oneusefulthing.org]]
 - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]

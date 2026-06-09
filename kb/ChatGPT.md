@@ -1,9 +1,10 @@
 # ChatGPT
 
-> **Type** : TECHNOLOGIE | 14 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 9 fiches sources
 
 ## Attributs
 
+- **categorie** : IA generative enterprise
 - **catégorie** : Assistant IA conversationnel
 - **usage** : Recommandations, résumés avis, comparaisons prix
 - **éditeur** : OpenAI
@@ -64,6 +65,7 @@
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
 - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
 - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
+- [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains, commerce agentique émergent - Riskified - e-commerce - IA shopping]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify - Croissance IA - Traffic 7x - Commandes 11x - Commerce agentique - TechCrunch - E-commerce]]

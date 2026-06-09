@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 43 relations | 19 fiches sources
+> **Type** : ORGANISATION | 43 relations | 20 fiches sources
 
 ## Attributs
 
@@ -125,6 +125,7 @@
 ## Fiches sources
 
 - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
+- [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 - [[fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01\|Apollo Academy - AI Safety - Research training - Alignment - Educational program - Technical safety]]
 - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce conversationnel sur ChatGPT : nouveau canal e-commerce, GPT personnalisés des marques et écosystème naissant — blog Barron Ernst]]
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering : modèle mental pour construire la confiance dans les agents de codage via guides feedforward et capteurs feedback]]

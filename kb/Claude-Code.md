@@ -1,13 +1,13 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 93 relations | 41 fiches sources
+> **Type** : TECHNOLOGIE | 93 relations | 42 fiches sources
 
 ## Attributs
 
 - **approche** : Recherche directe via grep/glob sans indexation
 - **atout** : Suivi d'instructions, génération de code, utilisation d'outils
 - **auto-écriture** : ~90% du code écrit par lui-même
-- **categorie** : Agent de codage CLI
+- **categorie** : CLI agent de codage
 - **catégorie** : Agent de codage CLI (outil agentique primaire de Salesforce Eng)
 - **date_création** : Septembre 2024
 - **fenêtre_contexte** : 1 million de tokens
@@ -254,6 +254,7 @@
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
 - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
+- [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|Boris Cherny créateur Claude Code - workflow 5 agents parallèles, Opus 4.5, CLAUDE.md]]
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Agents IA autonomes, évolution rôle développeurs, workflows asynchrones, orchestration multi-agents - Addy Osmani - Substack]]
 - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|Addy Osmani - écrire specs pour agents IA, 5 principes, Plan Mode, PRD structuré, modularité]]

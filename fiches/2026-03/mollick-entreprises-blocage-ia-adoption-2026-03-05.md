@@ -60,7 +60,7 @@ Ce post a genere un engagement massif (plus de 1 793 reactions, 288 commentaires
 
 ### Entités
 
-| Entite | Type | Attribut | Valeur | Action |
+| Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Ethan Mollick | PERSONNE | role | Professeur associe, Wharton School | AJOUT |
 | Ethan Mollick | PERSONNE | oeuvre | Co-Intelligence (livre) | AJOUT |
