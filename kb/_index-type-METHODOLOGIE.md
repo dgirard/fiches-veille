@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 303 entités de type METHODOLOGIE
+> 305 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -232,6 +232,7 @@
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cycle-de-vie-agent\|cycle de vie agent]] — phases: Experiment → Deploy → Operate → Improve (1 occ., 1 fiches)
+- [[kb/_entites-mineures#design-patterns\|design patterns]] — catégorie: Mécanisme de transmission du jugement architectural (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-(Mensch)\|distillation (Mensch)]] — définition: Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] — définition: Apprentissage automatique à partir des tâches complétées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
@@ -267,6 +268,7 @@
 - [[kb/_entites-mineures#pattern-Manager-Worker\|pattern Manager-Worker]] — catégorie: architecture coordination agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pattern-Peer-to-Peer\|pattern Peer-to-Peer]] — catégorie: architecture coordination agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pattern-Pipeline\|pattern Pipeline]] — catégorie: architecture coordination agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pattern-literacy\|pattern literacy]] — définition: Lire un système par ses forces invariantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] — application: Plateau, croissance linéaire, exponentielle, AGI (1 occ., 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] — inspiration: Steve Jobs, obsession de la perfection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)

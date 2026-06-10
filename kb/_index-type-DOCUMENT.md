@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 65 entités de type DOCUMENT
+> 66 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -25,6 +25,7 @@
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] — catégorie: Billet d'opinion / REX craftsmanship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] — type: Guide de référence officiel (CC BY 4.0) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] — nature: Design Patterns (Gamma, Helm, Johnson, Vlissides, 1994) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] — catégorie: REX ingénierie data (Enterprise AI, blog Anthropic) (1 occ., 1 fiches)

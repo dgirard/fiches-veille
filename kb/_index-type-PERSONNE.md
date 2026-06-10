@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 397 entités de type PERSONNE
+> 398 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -84,6 +84,7 @@
 - [[kb/_entites-mineures#Charlie-Munger\|Charlie Munger]] — citation: « Show me the incentive and I will show you the outcome » (clôture du thread) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] — rôle: Chercheuse MATS / Oxford, en collaboration Anthropic (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Christopher-Alexander\|Christopher Alexander]] — rôle: Architecte-bâtisseur, théoricien des patterns (1 occ., 1 fiches)
 - [[kb/Cobus-Greyling\|Cobus Greyling]] — rôle: Chief Evangelist @ Kore.ai, auteur Medium (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Confucius\|Confucius]] — période: 551-479 av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] — rôle: Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée) (1 occ., 1 fiches)
@@ -204,7 +205,7 @@
 - [[kb/_entites-mineures#Kathleen-Hogan\|Kathleen Hogan]] — rôle: Ex-Chief People Officer Microsoft, désormais en charge AI transformation interne (1 occ., 1 fiches)
 - [[kb/Kazuaki-Okumura\|Kazuaki Okumura]] — rôle: Auteur (Dropbox, rôle non précisé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] — rôle: Co-auteur Conductor (1 occ., 1 fiches)
-- [[kb/Kent-Beck\|Kent Beck]] — rôle: Co-auteur Manifeste Agile, créateur XP, analyste codage augmenté (5 occ., 4 fiches)
+- [[kb/Kent-Beck\|Kent Beck]] — rôle: Co-initiateur du Hillside Group (6 occ., 5 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] — rôle: Collègue Thoughtworks, a proposé le lien avec la cybernétique (1 occ., 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: General Manager Cora, Every (4 occ., 4 fiches)
@@ -296,7 +297,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] — rôle: développeur et rédacteur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: co-auteur rapport Anthropic Economic Index (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] — rôle: Co-auteur article (1 occ., 1 fiches)
-- [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] — rôle: Analyste et auteur LinkedIn (6 occ., 5 fiches)
+- [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] — rôle: Orange Fellow, VP Cloud & Software Engineering (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] — rôle: Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] — rôle: auteur, chroniqueur IT francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] — rôle: Staff Software Engineer chez Uber, co-auteur (1 occ., 1 fiches)

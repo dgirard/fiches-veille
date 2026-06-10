@@ -249,7 +249,7 @@
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] — catégorie: Outil motion design / framework (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] — catégorie: base de données hypergraphe pour raisonnement agents (2 occ., 1 fiches)
 - [[kb/IA\|IA]] — impact: Démocratise la création logicielle pour les non-développeurs (4 occ., 4 fiches)
-- [[kb/IA-agentique\|IA agentique]] — paradigme: Navigation directe dans le contexte complet (1 occ., 1 fiches)
+- [[kb/IA-agentique\|IA agentique]] — paradigme: Navigation directe dans le contexte complet (2 occ., 2 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] — effet: Augmentation de productivité, transformation du métier (1 occ., 1 fiches)
 - [[kb/IA-générative\|IA générative]] — catégorie: Technologie IA de génération de contenu (4 occ., 4 fiches)
 - [[kb/_entites-mineures#IDE\|IDE]] — categorie: Environnement developpement integre (1 occ., 1 fiches)

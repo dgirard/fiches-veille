@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2377 entités
+> 2384 entités
 
 ## #
 
@@ -243,7 +243,7 @@
 - [[kb/_entites-mineures#Animals-vs-Ghosts\|Animals vs Ghosts]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 34 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 35 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -489,6 +489,7 @@
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Christopher-Alexander\|Christopher Alexander]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#chunking\|chunking]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cielo\|Cielo]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Cigref\|Cigref]] (ORGANISATION, 1 fiches)
@@ -744,6 +745,7 @@
 - [[kb/_entites-mineures#Desalignement-incitatif\|Desalignement incitatif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Design-drift\|Design drift]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Design-memory\|Design memory]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#design-patterns\|design patterns]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Design-system-HTML-de-référence\|Design system HTML de référence]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] (ORGANISATION, 1 fiches)
 - [[kb/design-md\|design.md]] (TECHNOLOGIE, 1 fiches)
@@ -924,6 +926,7 @@
 - [[kb/_entites-mineures#fondamentaux-de-programmation\|fondamentaux de programmation]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#fondations-open-source\|fondations open source]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#format-.deepnote\|format .deepnote]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#format-.ipynb\|format .ipynb]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Formule-K×P×t\|Formule K×P×t]] (CONCEPT, 1 fiches)
@@ -957,6 +960,7 @@
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Gabriella-Rosen-Kellerman\|Gabriella Rosen Kellerman]] (PERSONNE, 1 fiches)
 - [[kb/Gadget\|Gadget]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Garbage-collection-(code)\|Garbage collection (code)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Gardien-de-trajectoire\|Gardien de trajectoire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Garr-Reynolds\|Garr Reynolds]] (PERSONNE, 1 fiches)
@@ -1121,6 +1125,7 @@
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Hermes\|Hermes]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#HeyGen\|HeyGen]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Hillside-Group\|Hillside Group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Hiring-for-strengths\|Hiring for strengths]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Hiérarchie-d'accélération\|Hiérarchie d'accélération]] (CONCEPT, 1 fiches)
@@ -1155,7 +1160,7 @@
 
 - [[kb/IA\|IA]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] (CONCEPT, 1 fiches)
-- [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 1 fiches)
+- [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE, 1 fiches)
 - [[kb/IA-générative\|IA générative]] (TECHNOLOGIE, 4 fiches)
@@ -1264,7 +1269,7 @@
 - [[kb/_entites-mineures#Kathleen-Hogan\|Kathleen Hogan]] (PERSONNE, 1 fiches)
 - [[kb/Kazuaki-Okumura\|Kazuaki Okumura]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] (PERSONNE, 1 fiches)
-- [[kb/Kent-Beck\|Kent Beck]] (PERSONNE, 4 fiches)
+- [[kb/Kent-Beck\|Kent Beck]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 4 fiches)
@@ -1560,7 +1565,7 @@
 - [[kb/_entites-mineures#no-consultant-crowds\|no consultant crowds]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#No-Regrets-Zone\|No Regrets Zone]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 1 fiches)
@@ -1633,6 +1638,7 @@
 - [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] (ORGANISATION, 2 fiches)
+- [[kb/_entites-mineures#Orange\|Orange]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#orchestration-de-bots\|orchestration de bots]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE, 2 fiches)
@@ -1667,6 +1673,7 @@
 - [[kb/Patrick-Winston\|Patrick Winston]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Committee\|pattern Committee]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Hierarchical\|pattern Hierarchical]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#pattern-literacy\|pattern literacy]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Manager-Worker\|pattern Manager-Worker]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Peer-to-Peer\|pattern Peer-to-Peer]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#pattern-Pipeline\|pattern Pipeline]] (METHODOLOGIE, 1 fiches)
@@ -1699,7 +1706,7 @@
 - [[kb/_entites-mineures#Phase-Plan\|Phase Plan]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Phase-Review\|Phase Review]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] (PERSONNE, 1 fiches)
-- [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] (PERSONNE, 5 fiches)
+- [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] (PERSONNE, 6 fiches)
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#philosophie-Unix\|philosophie Unix]] (CONCEPT, 1 fiches)

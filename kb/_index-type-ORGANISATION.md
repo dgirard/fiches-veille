@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 316 entités de type ORGANISATION
+> 318 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -27,7 +27,7 @@
 - [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud public, plateforme de référence dans le talk (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (34 occ., 34 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (35 occ., 35 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Labs\|Anthropic Labs]] — description: Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
@@ -133,6 +133,7 @@
 - [[kb/Harvard-Business-Review\|Harvard Business Review]] — secteur: Publication académique-business, Harvard Business School Publishing (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Harvard-Business-School\|Harvard Business School]] — secteur: École de commerce universitaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HeyGen\|HeyGen]] — secteur: Création avatars vidéo IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Hillside-Group\|Hillside Group]] — rôle: Groupe fondateur des conférences Pattern Languages of Programs (1 occ., 1 fiches)
 - [[kb/HubSpot\|HubSpot]] — secteur: SaaS / CRM / Marketing Automation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] — statut adoption: Tous les spaces exposés MCP-UI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HumanLayer\|HumanLayer]] — secteur: Outillage agents IA / harness engineering (1 occ., 1 fiches)
@@ -212,6 +213,7 @@
 - [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (20 occ., 20 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] — structure: Département fusionné HR+IT chez Moderna (créé en 2025) (1 occ., 1 fiches)
 - [[kb/Perplexity\|Perplexity]] — secteur: IA / Moteur de recherche (4 occ., 4 fiches)

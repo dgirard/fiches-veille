@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 86 relations | 34 fiches sources
+> **Type** : ORGANISATION | 87 relations | 35 fiches sources
 
 ## Attributs
 
@@ -150,6 +150,8 @@
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 - [[kb/_entites-mineures#étude-junior-engineers-deskilling-AI-agents\|étude junior engineers deskilling AI agents]] (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+- [[kb/_entites-mineures#Building-Effective-Agents\|Building Effective Agents]] (DOCUMENT) — 0.90, STATIQUE
+  - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### recommande
 
@@ -232,6 +234,7 @@
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
+- [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]

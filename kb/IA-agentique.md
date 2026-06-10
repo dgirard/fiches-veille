@@ -1,10 +1,11 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 2 fiches sources
 
 ## Attributs
 
 - **paradigme** : Navigation directe dans le contexte complet
+- **rôle** : Banalise le code, casse l'apprentissage traditionnel
 
 ## Relations (comme sujet)
 
@@ -12,6 +13,11 @@
 
 - [[kb/_entites-mineures#RAG\|RAG]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
+
+### réduit
+
+- [[kb/_entites-mineures#apprentissage-traditionnel-des-architectes-par-l'écriture-de-code\|apprentissage traditionnel des architectes par l'écriture de code]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### s_applique_à
 
@@ -35,4 +41,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]

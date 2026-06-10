@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 32 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 33 relations | 4 fiches sources
 
 ## Attributs
 
@@ -65,6 +65,8 @@
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
 - [[kb/_entites-mineures#codage-avec-attention-fracturée\|codage avec attention fracturée]] (CONCEPT) — 0.87, DYNAMIQUE
   - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
+- [[kb/_entites-mineures#formation-délibérée-au-jugement-architectural\|formation délibérée au jugement architectural]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### remplace
 

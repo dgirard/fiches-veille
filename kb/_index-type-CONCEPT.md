@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 678 entités de type CONCEPT
+> 679 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -525,6 +525,7 @@
 - [[kb/_entites-mineures#follow_author_score\|follow_author_score]] — définition: Prédiction Phoenix (index 13) "ce post fera-t-il gagner un follower à son auteur" — nouveau signal first-class 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fondamentaux-de-programmation\|fondamentaux de programmation]] — statut: Toujours indispensables malgré l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] — définition: Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] — liste: Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] — outils: Suivi usage, contrôles budget, optimisation modèles, mise en cache (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] — description: Contrôle, audit et gestion des apps générées par IA (1 occ., 1 fiches)
@@ -575,7 +576,7 @@
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#naïveté-délibérée\|naïveté délibérée]] — objectif: Supprimer les contraintes du Software 1.0 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#no-consultant-crowds\|no consultant crowds]] — définition: Anti-positioning explicite vs grands intégrateurs (Accenture, Capgemini, TCS, etc.) — modèle technologists + plateforme vs bodies-on-seats (1 occ., 1 fiches)
-- [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] — implication: rapprocher ingénierie logicielle des autres disciplines (1 occ., 1 fiches)
+- [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] — implication: rapprocher ingénierie logicielle des autres disciplines (2 occ., 2 fiches)
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)

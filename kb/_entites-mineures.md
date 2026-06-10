@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2051 entités avec moins de 3 triples/fiches
+> 2058 entités avec moins de 3 triples/fiches
 
-## PERSONNE (303)
+## PERSONNE (304)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -680,6 +680,16 @@
 - **a_créé** → [[kb/_entites-mineures#assistant-axis-et-activation-capping\|assistant axis et activation capping]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|Édito d'Andrew Ng dans The Batch n°350 qui pose une **hiérarchie d'accélération par les coding agents** selon le type de travail logiciel : **Frontend (max) > Backend (modéré) > Infrastructure (faible) > Recherche (minimal)**. Justification par la *verifiability* implicite (TypeScript/JavaScript fluents + boucle agent–navigateur autonome côté frontend) et par les zones d'ombre des LLMs (corner cases / sécurité / migrations DB pour le backend, tradeoffs réseau opaques pour l'infra, formation d'hypothèses irréductible pour la recherche). Numéro complété par 4 actualités structurantes : **GLM-5.1 (Z.ai)** modèle 754B/40B-actifs MIT capable de tâches autonomes de 8h (leader SWE-Bench Pro 58,4%) ; **Digit (Agility Robotics) chez Schaeffler** premier déploiement industriel d'humanoïdes (5'9"/143lb, 10–25$/h vs 20$/h humain) ; **révolte anti-data-centers** (~64Md$ bloqués mai-2024 / mars-2025, moratoire Maine 20MW+, cocktail molotov chez Sam Altman) ; et **"assistant axis"** (Christina Lu, MATS / Oxford / Anthropic) qui réduit la dérive de persona et les jailbreaks (Qwen3 32B : 83%→41% ; Llama 3.3 70B : 65%→33%) sans dégrader IFEval/GSM8k/MMLU-Pro/EQ-Bench.]]
+
+### Christopher Alexander {#Christopher-Alexander}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Architecte-bâtisseur, théoricien des patterns
+
+- **a_créé** → [[kb/_entites-mineures#concept-de-design-pattern\|concept de design pattern]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### Confucius {#Confucius}
 
@@ -3032,7 +3042,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (244)
+## ORGANISATION (246)
 
 ### 10x {#10x}
 
@@ -4037,6 +4047,16 @@
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
 
+### Hillside Group {#Hillside-Group}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Groupe fondateur des conférences Pattern Languages of Programs
+
+- [[kb/Kent-Beck\|Kent Beck]] **a_créé** → Hillside Group — 0.88
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
+
 ### Hugging Face {#Hugging-Face}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -4677,6 +4697,16 @@
 - **mesure** → [[kb/_entites-mineures#hausse-tarifaire-8-12%\|hausse tarifaire 8-12%]] (MESURE) — 0.92
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]], [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
+
+### Orange {#Orange}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Opérateur télécom
+
+- [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] **travaille_chez** → Orange — 0.97
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### Orq.ai {#Orq.ai}
 
@@ -10311,7 +10341,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (658)
+## CONCEPT (659)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14940,6 +14970,14 @@
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
 
+### forces invariantes {#forces-invariantes}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
+
 ### foundation model {#foundation-model}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15432,13 +15470,15 @@
 
 ### non-déterminisme {#non-déterminisme}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **implication** : rapprocher ingénierie logicielle des autres disciplines
+- **rôle** : Septième force introduite par les systèmes agentiques
 
 - **observé_dans** → [[kb/_entites-mineures#LLM\|LLM]] (TECHNOLOGIE) — 0.93
+- **affine** → [[kb/_entites-mineures#les-six-forces-invariantes-des-patterns\|les six forces invariantes des patterns]] (CONCEPT) — 0.87
 
-**Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
 
 ### noyau ontologique {#noyau-ontologique}
 
@@ -16397,7 +16437,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (275)
+## METHODOLOGIE (277)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -18368,6 +18408,16 @@
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps pour agents IA centré sur le « cost per outcome » : pourquoi le FinOps traditionnel échoue face au comportement runtime, guardrails, observabilité comportementale et cycle de vie en 4 phases - Orq.ai]]
 
+### design patterns {#design-patterns}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Mécanisme de transmission du jugement architectural
+
+- **permet** → [[kb/_entites-mineures#transmission-du-jugement-architectural-entre-générations\|transmission du jugement architectural entre générations]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
+
 ### distillation (Mensch) {#distillation-(Mensch)}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18689,6 +18739,17 @@
 - **catégorie** : architecture coordination agents
 
 **Fiches** : [[fiches/2025-10/solstice-lab-ai-agents-collaborative-systems-2025-10-01\|Solstice Lab - AI agents - Multi-agent systems - Collaborative AI - Agent orchestration - Research]]
+
+### pattern literacy {#pattern-literacy}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Lire un système par ses forces invariantes
+
+- **s_applique_à** → [[kb/_entites-mineures#rôle-d'architecte-logiciel\|rôle d'architecte logiciel]] (CONCEPT) — 0.93
+- **converge_avec** → [[kb/_entites-mineures#mondes-IT-et-réseau-télécom\|mondes IT et réseau télécom]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### planification multi-scénarios {#planification-multi-scénarios}
 
@@ -19385,7 +19446,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (60)
+## DOCUMENT (61)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -19603,6 +19664,16 @@
 - [[kb/FinOps-Foundation\|FinOps Foundation]] **publie** → FinOps for AI Overview — 0.98
 
 **Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|Guide officiel FinOps Foundation pour l'IA : token economics, KPIs, caching, prompt optimization, sélection de modèle et extension des 14 capacités du Framework FinOps aux services GenAI - FinOps Foundation]]
+
+### Gang of Four {#Gang-of-Four}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Design Patterns (Gamma, Helm, Johnson, Vlissides, 1994)
+
+- **s_inspire_de** → [[kb/_entites-mineures#travaux-de-Christopher-Alexander\|travaux de Christopher Alexander]] (DOCUMENT) — 0.90
+
+**Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
 ### HBR study 2026 cognitive exhaustion {#HBR-study-2026-cognitive-exhaustion}
 
