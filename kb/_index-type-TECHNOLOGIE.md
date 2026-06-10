@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 573 entités de type TECHNOLOGIE
+> 576 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -100,6 +100,9 @@
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (48 occ., 42 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
+- [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (2 occ., 1 fiches)
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] — catégorie: Modèle classe Mythos, garde-fous levés, accès restreint (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] — score even-handedness: 95% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] — catégorie: Modèle de langage frontier Anthropic (2 occ., 1 fiches)
@@ -356,7 +359,7 @@
 - [[kb/Opus-4.5\|Opus 4.5]] — catégorie: Modèle LLM lourd Anthropic (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] — catégorie: Modèle de langage Anthropic (2 occ., 2 fiches)
 - [[kb/Opus-4.7\|Opus 4.7]] — score_expert_pass1: 48,6% (+-10,0%) (3 occ., 3 fiches)
-- [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] — rôle: Modèle utilisé via Claude Code (sorti peu avant) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] — rôle: Modèle utilisé via Claude Code (sorti peu avant) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] — fonction: Gestion vocabulaires contrôlés et taxonomies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] — description: Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] — secteur: Conformité financière / fintechs (1 occ., 1 fiches)

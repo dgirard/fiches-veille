@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2372 entités
+> 2377 entités
 
 ## #
 
@@ -243,7 +243,7 @@
 - [[kb/_entites-mineures#Animals-vs-Ghosts\|Animals vs Ghosts]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 33 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 34 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -502,6 +502,7 @@
 - [[kb/_entites-mineures#Citation-Chiang-BuzzFeed-2017\|Citation Chiang BuzzFeed 2017]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Citizen-Developers\|Citizen Developers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Civilisation-de-l'amour\|Civilisation de l'amour]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] (CONCEPT, 1 fiches)
 - [[kb/Claude\|Claude]] (TECHNOLOGIE, 8 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] (TECHNOLOGIE, 1 fiches)
@@ -511,6 +512,9 @@
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] (TECHNOLOGIE, 1 fiches)
@@ -1626,7 +1630,7 @@
 - [[kb/Opus-4.5\|Opus 4.5]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Opus-4.7\|Opus 4.7]] (TECHNOLOGIE, 3 fiches)
-- [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Opus-4.8\|Opus 4.8]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] (TECHNOLOGIE, 1 fiches)
@@ -1773,6 +1777,7 @@
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (EVENEMENT, 1 fiches)
 - [[kb/Project-Jules\|Project Jules]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Project-Prometheus\|Project Prometheus]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT, 1 fiches)
@@ -2095,7 +2100,7 @@
 - [[kb/_entites-mineures#stream-aligned-team\|stream-aligned team]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#StreamableHTTPServerTransport\|StreamableHTTPServerTransport]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Stress-testing-(Pawlowski)\|Stress-testing (Pawlowski)]] (METHODOLOGIE, 1 fiches)
-- [[kb/Stripe\|Stripe]] (ORGANISATION, 4 fiches)
+- [[kb/Stripe\|Stripe]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#STS-(Security-Token-Service)\|STS (Security Token Service)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Stéphane-Bancel\|Stéphane Bancel]] (PERSONNE, 1 fiches)

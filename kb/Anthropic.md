@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 81 relations | 33 fiches sources
+> **Type** : ORGANISATION | 86 relations | 34 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,10 @@
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z]]
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
+- [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Claude Skills frontend design - Convergence distributionnelle - Context engineering - Amélioration qualité UI - Typography couleur motion - Anthropic]]
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
@@ -50,6 +54,11 @@
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
 - « Skills sont intentionnellement découvrables » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog]]
+
+### collabore_avec
+
+- [[kb/_entites-mineures#gouvernement-américain\|gouvernement américain]] (ORGANISATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 
 ### emploie
 
@@ -113,6 +122,8 @@
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 - [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
+- [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 - [[kb/_entites-mineures#post-mortem-qualité-Claude-Code-avril-2026\|post-mortem qualité Claude Code avril 2026]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|Post-mortem qualité Claude Code mars-avril 2026 — Trois incidents caching/reasoning/prompt — Blog Engineering Anthropic]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT) — 0.98, STATIQUE
@@ -152,6 +163,8 @@
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
+- [[kb/_entites-mineures#rétention-des-données-30-jours-pour-la-classe-Mythos\|rétention des données 30 jours pour la classe Mythos]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 - [[kb/_entites-mineures#standards-industrie-biais-politique\|standards industrie biais politique]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
 
@@ -204,6 +217,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|Anthropic Research - AI Work Transformation - Claude Code Impact - Software Engineering - AI Adoption - Productivity Study - Workplace Evolution - AI Collaboration - Skills Development - Future of Work]]
+- [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
 - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]

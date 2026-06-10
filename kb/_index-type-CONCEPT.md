@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 677 entités de type CONCEPT
+> 678 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -454,6 +454,7 @@
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#charge-cognitive-de-validation\|charge cognitive de validation]] — description: Charge mentale liée à la vérification du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] — axe: Axe Y de la carte (visible → invisible pour l'utilisateur) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#codage-agentique\|codage agentique]] — définition: Développement logiciel piloté par agents IA autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-rot-(pourriture-du-code)\|code rot (pourriture du code)]] — définition: Dégradation naturelle du code en l'absence d'entretien (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cohérence-temporelle\|cohérence temporelle]] — rôle: Défi central des modèles vidéo génératifs (1 occ., 1 fiches)

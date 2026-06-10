@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2048 entités avec moins de 3 triples/fiches
+> 2051 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (303)
 
@@ -5491,7 +5491,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (471)
+## TECHNOLOGIE (472)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6243,6 +6243,16 @@
 - **utilise** → [[kb/_entites-mineures#git-worktrees\|git worktrees]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
+
+### Claude Mythos Preview {#Claude-Mythos-Preview}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Remplacé par Mythos 5
+
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] **remplace** → Claude Mythos Preview — 0.92
+
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 
 ### Claude Opus 4 {#Claude-Opus-4}
 
@@ -8369,14 +8379,17 @@
 
 ### Opus 4.8 {#Opus-4.8}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **rôle** : Modèle utilisé via Claude Code (sorti peu avant)
 
 - **mesure** → [[kb/_entites-mineures#68,1-%-F1-GraphWalks-à-1M-tokens\|68,1 % F1 GraphWalks à 1M tokens]] (MESURE) — 0.92
 - **améliore** → [[kb/_entites-mineures#raisonnement-long-contexte-vs-Opus-4.7\|raisonnement long contexte vs Opus 4.7]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|Billet de bricolage du dimanche de **Mark Dembo** (Head of Solutions, Developer Platform & AI chez **Cloudflare**) publié le **7 juin 2026** sur son blog perso. **Récit** : inspiré par **Steve Ruiz**, l'auteur achète un petit appareil **M5Stack Stick 3** (~30 €) et, profitant de la sortie d'**Opus 4.8**, se construit un **agent IA DIY** « par pure curiosité, sans objectif ». **Itération 1 (45 min)** : il jette la doc de l'appareil à **Claude Code**, qui génère des scripts Python (~200 LOC, *« zero blast radius »*) affichant la météo de Munich, puis de plusieurs villes ; un **backend Cloudflare Workers + Workers AI** ajoute la **synthèse vocale (TTS)**, le **push-to-talk** (speech-to-text) et un **petit LLM** central pour répondre aux questions. **Itération 2 (vrai agent)** : passage des endpoints REST au transport **WebSocket** via le **Cloudflare Agents SDK** + **Dynamic Worker execution** → le pattern ***« Code Mode »*** (l'agent écrit et exécute du code pour accomplir sa tâche). L'agent répond alors à des questions à données publiques (11 ! = factorielle, vainqueur de la Ligue des Champions via `fetch()` sur Wikipédia, météo de n'importe quelle ville). **Itération 3 (vrais pouvoirs)** : connexion à **Todoist** via flux **MCP OAuth** → 50 outils d'un coup, d'où deux problèmes : **bloat du contexte** et **risque de dégâts réels**. Solution reprise du **MCP Server Portal Cloudflare** + des réglages connecteurs Claude : par outil, **Always allow / Ask for approval / Disable** (les *Disabled* n'entrent jamais dans le contexte ; un **classifieur LLM** n'accepte que les « allow » distincts et **défaut = deny**). **Posture revendiquée** : réduire son rôle à ***« idea generator, executor and judge »*** (et rarement guide technique), un flux « human-in-the-loop » jugé peu *« 2026 »* (copier-coller dans l'UIFlow). **Ce qu'il n'a PAS fait** : pas d'optimisation de latence/streaming, pas d'appels LLM optimistes, pas d'évals, ***« I did not even look at the code once »***. **Émerveillement** : 30 € + une fenêtre de session Anthropic + quelques cents d'inférence Cloudflare → un objet qui écoute et parle, piloté en langage naturel ; *« the true unlock is how accessible it is »*. Contraste vif avec [[thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06]] (ici le *« zero blast radius »* justifie de ne jamais regarder le code) ; illustre concrètement *Code Mode* / *« the agent just writing and executing code »*, le pattern **MCP** ([[claude-skills-bigger-than-mcp-willison-2025-10-16]]), la gouvernance d'outils façon *Ask for approval* ([[uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21]]), et la doctrine *systems around the model* de [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]].]]
+- [[kb/Claude-Fable-5\|Claude Fable 5]] **surpasse** → Opus 4.8 — 0.90
+- [[kb/Claude-Fable-5\|Claude Fable 5]] **utilise** → Opus 4.8 — 0.90
+
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]], [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|Billet de bricolage du dimanche de **Mark Dembo** (Head of Solutions, Developer Platform & AI chez **Cloudflare**) publié le **7 juin 2026** sur son blog perso. **Récit** : inspiré par **Steve Ruiz**, l'auteur achète un petit appareil **M5Stack Stick 3** (~30 €) et, profitant de la sortie d'**Opus 4.8**, se construit un **agent IA DIY** « par pure curiosité, sans objectif ». **Itération 1 (45 min)** : il jette la doc de l'appareil à **Claude Code**, qui génère des scripts Python (~200 LOC, *« zero blast radius »*) affichant la météo de Munich, puis de plusieurs villes ; un **backend Cloudflare Workers + Workers AI** ajoute la **synthèse vocale (TTS)**, le **push-to-talk** (speech-to-text) et un **petit LLM** central pour répondre aux questions. **Itération 2 (vrai agent)** : passage des endpoints REST au transport **WebSocket** via le **Cloudflare Agents SDK** + **Dynamic Worker execution** → le pattern ***« Code Mode »*** (l'agent écrit et exécute du code pour accomplir sa tâche). L'agent répond alors à des questions à données publiques (11 ! = factorielle, vainqueur de la Ligue des Champions via `fetch()` sur Wikipédia, météo de n'importe quelle ville). **Itération 3 (vrais pouvoirs)** : connexion à **Todoist** via flux **MCP OAuth** → 50 outils d'un coup, d'où deux problèmes : **bloat du contexte** et **risque de dégâts réels**. Solution reprise du **MCP Server Portal Cloudflare** + des réglages connecteurs Claude : par outil, **Always allow / Ask for approval / Disable** (les *Disabled* n'entrent jamais dans le contexte ; un **classifieur LLM** n'accepte que les « allow » distincts et **défaut = deny**). **Posture revendiquée** : réduire son rôle à ***« idea generator, executor and judge »*** (et rarement guide technique), un flux « human-in-the-loop » jugé peu *« 2026 »* (copier-coller dans l'UIFlow). **Ce qu'il n'a PAS fait** : pas d'optimisation de latence/streaming, pas d'appels LLM optimistes, pas d'évals, ***« I did not even look at the code once »***. **Émerveillement** : 30 € + une fenêtre de session Anthropic + quelques cents d'inférence Cloudflare → un objet qui écoute et parle, piloté en langage naturel ; *« the true unlock is how accessible it is »*. Contraste vif avec [[thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06]] (ici le *« zero blast radius »* justifie de ne jamais regarder le code) ; illustre concrètement *Code Mode* / *« the agent just writing and executing code »*, le pattern **MCP** ([[claude-skills-bigger-than-mcp-willison-2025-10-16]]), la gouvernance d'outils façon *Ask for approval* ([[uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21]]), et la doctrine *systems around the model* de [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]].]]
 
 ### PDM {#PDM}
 
@@ -10298,7 +10311,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (657)
+## CONCEPT (658)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14276,6 +14289,16 @@
 - [[kb/Wardley-Mapping\|Wardley Mapping]] **utilise** → chaîne de valeur — 0.96
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
+
+### classe Mythos {#classe-Mythos}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Famille de modèles Anthropic les plus capables
+
+- [[kb/Claude-Fable-5\|Claude Fable 5]] **est_instance_de** → classe Mythos — 0.95
+
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 
 ### codage agentique {#codage-agentique}
 
@@ -19004,7 +19027,7 @@
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|Guide du média **Every** (every.to/guides) publié le **2 juin 2026**, co-signé **Mike Taylor, Laura Entis et Claude**, proposant une **échelle de maturité en 8 niveaux d'adoption de l'IA**. **Thèse-pivot** : l'adoption de l'IA **n'est pas une course à la sophistication maximale** — ***« a higher level isn't necessarily better »*** ; il faut identifier le niveau qui **correspond à son propre workflow et à son niveau de confiance**, puis réévaluer régulièrement si monter d'un cran ajoute une **valeur réelle**. ***« The best way to find value in AI is to use it in a way that fits your work. »*** **Axe structurant** : à chaque niveau, *« you delegate more of your work to—and place more trust in—the AI »* (délégation + confiance croissantes). **Les 8 niveaux** : **(1) Chatbot** — interface conversationnelle sans contexte embarqué (ChatGPT, Claude, Gemini) ; **(2) Copilot** — IA embarquée dans l'espace de travail avec accès au fichier courant (Cursor, Claude in Excel, Gemini in Docs) ; **(3) Agent** — système réactif qui exécute pas-à-pas en demandant approbation (Cowork, Codex) ; **(4) Autopilot** — on décrit l'**outcome** et l'agent exécute en autonomie, revue du **résultat final** seulement (Lovable, Codex, Claude Code ; lié au *vibe coding*) ; **(5) Workflows** — ingénieurs construisant des **harnesses** autour des agents (planning, review, confidence checks, garde-fous ; Compound engineering, Claude Workflows, Copilot AI Studio ; bascule one-shot vibe coding → **agentic engineering**) ; **(6) Assistant** — agents **proactifs, always-on** qui surveillent un domaine et remontent l'info sans sollicitation (OpenClaw, Hermes Agent, Claude Managed Agents ; ex. `heartbeat.md` toutes les 30 min) ; **(7) Multi-agent** — gestion simultanée de **plusieurs agents long-running** à rôles distincts (Claude Managed Agents, OpenClaw, Codex Goals ; *« firmly in senior engineering territory »*) ; **(8) Orchestrator** — un **agent manager** pilote une équipe de sous-agents (plan, délégation, monitoring, consolidation ; Gas Town, Paperclip, Symphony/OpenAI ; *« highly experimental »* — même les ingénieurs frontier tiennent eux-mêmes ce rôle). **Sweet spots par rôle** : les **knowledge workers** opèrent typiquement entre les niveaux **1-4**, les **ingénieurs** entre **5-8**. **Parallèle canonique de l'onboarding d'un stagiaire** : *« Expect to put in a similar amount of effort with your agents before you can trust them… at the next level of autonomy »* ; et la formule-marqueur ***« You wouldn't brag that you had eight interns working overnight on a key project, and you hadn't checked their output. »*** Le bon niveau dépend de **4 critères** : qualité de l'output, coût, fiabilité (trustworthiness), enjeu de l'échec (stakes of failure) ; et la **capacité des modèles** déplace progressivement le niveau d'autonomie « sûr ». Cadre directement mobilisable pour structurer une **doctrine d'adoption** côté cabinet. Convergence avec *systems around the model* (Dropbox/Okumura), *harness engineering* (Böckeler, Lattice, Wescale), Karpathy (vibe coding → agentic engineering), Cherny (/loop + Routines), et la doctrine *manager d'agents* (BFM/Girard).]]
 
-## EVENEMENT (34)
+## EVENEMENT (35)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -19183,6 +19206,16 @@
 - **description** : Conférence en ligne Platform Engineering organisée par platformengineering.org, juin 2022
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|Keynote **Gregor Hohpe** (Enterprise Strategist AWS, auteur *The Software Architect Elevator* et du livre en cours *Platform Strategy: Accelerating Innovation Through Harmonization and Reuse*) à **PlatformCon 2022** sur **la magie des plateformes** — pourquoi les plateformes réussissent, ce qui les distingue d'une simple *IT Service Management*, et **les décisions d'architecture non-triviales** à prendre quand on en construit une. **Thèse-pivot** : *« les standards ne réduisent pas la créativité, ils peuvent la décupler »* — analogue Baltimore 1904 (incendie, pompes incompatibles), vis métrique ISO, HTTP, papier A4. **Citation canonique reprise de Peter / Thoughtworks** : ***« platforms centralize expertise but not innovation »*** — on ne réinvente pas la roue, mais on laisse l'innovation aux équipes proches du client. **Analogie pivot** : industrie automobile (Volkswagen Group construit Audi A4 et Bentley Bentayga sur la même plateforme), *« undifferentiated heavy lifting »* (vocabulaire AWS) sous le capot, différenciation visible côté client. **Trois propriétés d'une vraie plateforme** : (1) **low friction** — on ne peut pas forcer l'adoption, les équipes contourneront ; (2) **transparence** (pas une *black box*) — les utilisateurs doivent pouvoir diagnostiquer s'ils sont en cause ou si c'est la plateforme ; (3) **shared responsibility** (référence directe au *AWS Shared Responsibility Model*) — la plateforme ne corrige pas une appli mal conçue. **Anti-pattern explicite** : *« a common layer can be many things — it is not necessarily a platform »* ; l'IT Service Management traditionnelle a la même image (couche commune sous tout le monde) mais l'**interface est l'opposée** (high-friction, formulaires, bottleneck). **Deux voies de construction** : (a) anticiper tous les besoins (Hohpe : *« I don't feel I'm smart enough »*) ; (b) **évolution** à partir de pièces utiles, en observant l'usage. **Décisions à expliciter** : objectifs (cognitive load ↓, safer / fewer mistakes, faster via samples/blueprints/self-service, compliance), forme de la courbe d'apprentissage (cliff, hockey stick, gear shift). **Concept canonique #1 — Floating platforms vs Sinking platforms** : quand la *base platform* (typiquement le cloud) gagne de nouvelles capacités, **deux stratégies opposées** : **sinking platform** (statique, dupliquant ce que la base offre maintenant, coulant à mesure que le niveau monte) vs ***floating platform*** (jette les morceaux devenus redondants, **re-monte au-dessus du nouveau niveau**, innove plus haut). Métaphore *« submarine and a boat »*. Implication contractuelle forte : **prévenir explicitement les stakeholders** que des composants seront supprimés quand la base les absorbe. **Concept canonique #2 — Fruit salad vs Fruit basket** : une plateforme n'est pas une collection de capacités juxtaposées (panier) mais un assemblage **proportionné et bite-sized** où les pièces interagissent — *« the per-kilo price for fruit salad is higher than for a fruit basket »*. Le titre dérive de l'expression *the magic of platforms* — l'effet contre-intuitif où **standardiser libère l'innovation au lieu de l'étouffer**, à condition de soigner l'interface, l'évolution et l'intégration entre les composants. À mobiliser pour : architectes plateforme, **Platform Engineering / IDP teams 2026** (référence fondatrice, prédate l'explosion *Internal Developer Platforms* mais structure le vocabulaire), DSI évaluant build-vs-stagnate face aux capacités natives cloud, COMEX produit. Convergence avec **AI/works™ Thoughtworks** (2026-05-12), **L'Usine Logicielle Augmentée Wescale** (2026-05-03), **PROJ-AI Habert/WEnvision** (2026-05-05), **DORA AI ROI** (2026-04-21 — Platform comme pilier systémique).]]
+
+### Project Glasswing {#Project-Glasswing}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **nature** : Programme cyberdéfense Anthropic + gouvernement US
+
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] **fait_partie_de** → Project Glasswing — 0.90
+
+**Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Anthropic lance Claude Fable 5 (modèle de classe Mythos rendu sûr pour usage général) et Claude Mythos 5 (même modèle, garde-fous levés, réservé aux cyberdéfenseurs via Project Glasswing) : performances état de l'art en ingénierie logicielle, vision, mémoire long-contexte et sciences du vivant.]]
 
 ### Projet Aristotle {#Projet-Aristotle}
 
