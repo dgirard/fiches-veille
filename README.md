@@ -24,11 +24,13 @@ veille/
 ├── kb/                         # Knowledge base générée (entités, index par type)
 ├── knowledge-base.md           # Dashboard KB (entités, triples, navigation)
 ├── docs/                       # Documentation et analyses complémentaires
+├── gold/                       # Livrables générés + prompts (ignoré par git)
 ├── raw-data/                   # Contenu brut des articles (ignoré par git)
 ├── scripts/                    # Scripts d'extraction, conversion et KB
 │   ├── fetch_urls.py           # Extraction des URLs des fiches
 │   ├── download_raw_data.py    # Téléchargement et conversion en markdown
 │   ├── build_knowledge_base.py # Construction du knowledge graph
+│   ├── lint_fiches.py          # Validation ontologie des fiches (gate Bronze)
 │   ├── check_missing.py        # Vérification des fiches manquantes
 │   └── list_missing_kg.sh      # Détection des fiches sans GrapheDeConnaissance
 ├── mobile-share/               # App Flutter pour capturer des URLs depuis mobile

@@ -36,3 +36,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+
+# Étage Gold du médaillon — livrables générés (HTML, pptx) + prompts de génération.
+# Non versionné : dépôt public, et les HTML inlinent le CSS du design system
+# Sharp Artisan (_design-system/, actif éditorial déjà exclu ci-dessus).
+gold/

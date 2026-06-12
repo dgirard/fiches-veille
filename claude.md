@@ -11,6 +11,7 @@ veille/
 │   ├── 2025-08/               # Articles publiés en août 2025
 │   ├── 2025-09/               # Articles publiés en septembre 2025
 │   └── 2025-10/               # Articles publiés en octobre 2025
+├── gold/                      # Livrables générés + prompts (ignoré par git)
 └── docs/                      # (ignoré par git)
 ```
 
@@ -437,3 +438,42 @@ Test de régression : `scripts/tests/test_frontmatter_compat.py` (7 tests, à co
 
 - **Modifier l'identifiant de la fiche après marquage** : casse la traçabilité du `fiche_id` côté transverse.
 - **Réutiliser le frontmatter pour autre chose que la promotion cabinet** : si le besoin émerge, ajouter une nouvelle convention sans casser celle-ci (cf. `ontology/ontology.yaml` côté ATransverse pour le schéma autoritaire).
+
+---
+
+## Architecture médaillon (2026-06-11)
+
+> Section ajoutée par le plan `docs/plans/2026-06-11-001-feat-architecture-medaillon-veille-plan.md`.
+> Le médaillon est **logique** : il documente la correspondance étage → répertoire existant.
+> **Aucun répertoire n'est renommé** (ATransverse3 consomme ce dépôt en sous-module lecture
+> seule ; les liens d'`index.md` et les wikilinks Obsidian dépendent des chemins actuels).
+
+### Correspondance des étages
+
+| Étage | Répertoire(s) | Versionné | Gate / promotion |
+|-------|---------------|-----------|------------------|
+| **Raw** | `raw-data/` | Non (gitignoré) | — (contenu brut `curl` + `lynx`) |
+| **Bronze** | `fiches/` | **Oui** | `python3 scripts/lint_fiches.py` (validation ontologie v2, bloquante) |
+| **Silver** | `kb/`, `knowledge-base.md`, `kb-*.md` | **Oui** | `python3 scripts/build_knowledge_base.py` (promotion Bronze → Silver) |
+| **Gold** | `gold/` (livrables + `gold/prompts/`) | Non (gitignoré) | checklist qualité des prompts de `gold/prompts/` |
+
+### Workflow Gold
+
+1. **Sélectionner les fiches sources** (et/ou une KB spécialisée) pour le livrable.
+2. **Charger le prompt de la famille** dans `gold/prompts/` : `slides-sharp-artisan.md`
+   (deck HTML 16:9), `rapport-html.md` (rapport long-form), `export-pptx.md` (conversion pptx).
+3. **Générer le livrable dans `gold/`** avec l'en-tête de provenance obligatoire
+   (commentaire HTML listant les `fiches/YYYY-MM/id.md` sources, la date et le prompt).
+4. Valider avec la checklist qualité du prompt avant livraison.
+
+### Anti-patterns
+
+- **Ne jamais versionner `gold/`** ni y placer du contenu NDA différé au cabinet : le dépôt
+  est public et les HTML inlinent le CSS Sharp Artisan (`_design-system/`, actif éditorial exclu).
+- **Ne pas renommer les répertoires-étages** (`raw-data/`, `fiches/`, `kb/`) : le médaillon
+  est documentaire, pas physique.
+- **Ne pas committer de livrable dans `docs/`** : `docs/report/` a été supprimé (2026-06-12),
+  `gold/` est la seule destination des livrables générés.
+
+Test de régression du gate Bronze : `scripts/tests/test_lint_fiches.py` (à conserver vert,
+avec `scripts/tests/test_frontmatter_compat.py`).
