@@ -1,13 +1,13 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 12 relations | 5 fiches sources
+> **Type** : ORGANISATION | 13 relations | 6 fiches sources
 
 ## Attributs
 
 - **métrique distinctive** : Bad Developer Days (BDDs)
 - **participation** : 27% capital OpenAI Group PBC
 - **produit partenaire** : Copilot
-- **secteur** : Éditeur logiciel / Cloud
+- **secteur** : Plateforme logicielle / IA / Cloud
 - **trésorerie** : 80 milliards de dollars
 
 ## Relations (comme sujet)
@@ -64,11 +64,13 @@
 ## Relations (comme objet)
 
 - [[kb/Shopify\|Shopify]] **collabore_avec** → Microsoft — 0.98
+- [[kb/Satya-Nadella\|Satya Nadella]] **dirige** → Microsoft — 0.98
 
 ## Fiches sources
 
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
+- [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Mesurer l'impact de l'IA - Productivité développeur - Métriques - GitHub Copilot - DX - Efficacité d'ingénierie]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify - Croissance IA - Traffic 7x - Commandes 11x - Commerce agentique - TechCrunch - E-commerce]]
 - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]

@@ -1,6 +1,6 @@
 # Agent Skills
 
-> **Type** : TECHNOLOGIE | 11 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 2 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,16 @@
 
 - [[kb/_entites-mineures#chargement-minimal-à-la-demande\|chargement minimal à la demande]] (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
+
+### permet
+
+- [[kb/_entites-mineures#gestion-du-contexte-dynamique-par-progressive-disclosure\|gestion du contexte dynamique par progressive disclosure]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
+
+### réduit
+
+- [[kb/_entites-mineures#context-rot-des-prompts-surchargés\|context rot des prompts surchargés]] (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 
 ### s_applique_à
 

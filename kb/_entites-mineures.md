@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2058 entités avec moins de 3 triples/fiches
+> 2124 entités avec moins de 3 triples/fiches
 
-## PERSONNE (304)
+## PERSONNE (310)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -641,6 +641,17 @@
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|LightRAG - RAG simple et rapide - Knowledge graphs - Dual-level retrieval - EMNLP2025 - GitHub]]
 
+### Charles Goodhart {#Charles-Goodhart}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Économiste britannique, auteur de la loi de Goodhart (1975)
+
+- **a_créé** → [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT) — 0.98
+- **affirme_que** → [[kb/_entites-mineures#toute-régularité-statistique-observée-s'effondre-dès-qu'on-exerce-une-pression-sur-elle-à-des-fins-de-contrôle\|toute régularité statistique observée s'effondre dès qu'on exerce une pression sur elle à des fins de contrôle]] (CITATION) — 0.97
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### Charlie Dai {#Charlie-Dai}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -904,6 +915,16 @@
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] **emploie** → Dion Hinchcliffe — 0.99
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
+
+### Donald T. Campbell {#Donald-T.-Campbell}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Psychologue social, auteur de la loi de Campbell
+
+- **a_créé** → [[kb/_entites-mineures#loi-de-Campbell\|loi de Campbell]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
 
 ### Ebony Louis {#Ebony-Louis}
 
@@ -1808,6 +1829,17 @@
 
 **Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Retraite Thoughtworks sur l'avenir du développement logiciel avec les LLM — réflexions sur l'impact organisationnel, la dette cognitive et la programmation supervisée]]
 
+### Marilyn Strathern {#Marilyn-Strathern}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Anthropologue, autrice de la reformulation canonique (1997)
+
+- **affirme_que** → [[kb/_entites-mineures#quand-une-mesure-devient-une-cible,-elle-cesse-d'être-une-bonne-mesure\|quand une mesure devient une cible, elle cesse d'être une bonne mesure]] (CITATION) — 0.96
+- **affine** → [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### Mark Tyson {#Mark-Tyson}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2393,6 +2425,16 @@
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research]]
 
+### Robert Lucas {#Robert-Lucas}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Économiste, auteur de la critique de Lucas
+
+- **a_créé** → [[kb/_entites-mineures#critique-de-Lucas\|critique de Lucas]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### Rohit (@rohit4verse) {#Rohit-(@rohit4verse)}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2537,6 +2579,14 @@
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor Google - extension Gemini CLI développement piloté par le contexte]]
 
+### Shubham Saboo {#Shubham-Saboo}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Co-auteur (Google)
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
+
 ### Sid Bidasaria {#Sid-Bidasaria}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2587,6 +2637,14 @@
 - **recommande** → [[kb/_entites-mineures#examen-de-soi-comme-fondement-philosophique\|examen de soi comme fondement philosophique]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
+
+### Sokratis Kartakis {#Sokratis-Kartakis}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Co-auteur (Google)
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 
 ### Solomon Hykes {#Solomon-Hykes}
 
@@ -3896,7 +3954,7 @@
 
 - **secteur** : Gestion RH / Personnel de terrain
 
-- **utilise** → [[kb/_entites-mineures#orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE) — 0.97
+- **utilise** → [[kb/orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE) — 0.97
 - **mesure** → [[kb/_entites-mineures#screening-50%-plus-rapide\|screening 50% plus rapide]] (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
@@ -5521,7 +5579,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (472)
+## TECHNOLOGIE (475)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -5571,6 +5629,16 @@
 - [[kb/Moderna\|Moderna]] **a_créé** → 3000+ GPTs custom — 0.97
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Interview exclusive de Tracey Franklin (Chief People and Digital Technology Officer de Moderna) sur la fusion HR+IT en un seul département : passage du "workforce planning" et "technology planning" cloisonnés au "work planning" intégré, métaphore "architect the flow of work", 3 000+ GPTs custom, 5 000 employés, vision 2030 d'organisation adaptative humains+agents.]]
+
+### @adlc/core {#@adlc-core}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Core gelé : appels LLM, opérations git, conventions CLI, findings ledgers
+
+- [[kb/ADLC-Toolkit\|ADLC Toolkit]] **utilise** → @adlc/core — 0.92
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
 
 ### @deepnote/blocks {#@deepnote-blocks}
 
@@ -7200,6 +7268,16 @@
 - [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **observé_dans** → Google AI Studio — 0.98
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+
+### Google Agents CLI {#Google-Agents-CLI}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil CLI bundlant des skills ADK (create/playground/eval/deploy)
+
+- **utilise** → [[kb/_entites-mineures#lifecycle-ADK-pour-construire-des-agents-de-production\|lifecycle ADK pour construire des agents de production]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 
 ### Google Chrome {#Google-Chrome}
 
@@ -9626,6 +9704,16 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]], [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison]]
 
+### base de connaissances {#base-de-connaissances}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Rendre la mémoire institutionnelle interrogeable et l'usage des tokens efficient
+
+- **permet** → [[kb/_entites-mineures#mémoire-institutionnelle-interrogeable\|mémoire institutionnelle interrogeable]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
 ### blog-pipeline {#blog-pipeline}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10341,7 +10429,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (659)
+## CONCEPT (689)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -11505,19 +11593,6 @@
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Billet de blog **Sierra** (10 décembre 2024, **Elliot Greenwald**) qui pose le **texte fondateur de l'*outcome-based pricing*** pour agents IA. **Thèse-pivot** : les agents IA qui exécutent des processus de façon autonome rendent possible un **modèle de tarification entièrement nouveau** — ***« you pay only when the software achieves specific, valuable outcomes: outcome-based pricing »***. L'article retrace une **généalogie de la tarification logicielle en quatre âges** : (1) **shrink-wrapped software** (années 1980-90, boîte de disquettes/CD-ROM chez Fry's Electronics — *« Whether you actually used it or not, you paid for it »*) → (2) **SaaS / seat-based** (pionnier **Salesforce**, suivi de Google/Microsoft/Adobe — Internet permet de vendre le logiciel *as a service*) → (3) **consumption-based** (**Amazon/AWS** et **Snowflake** — *« charged only for what you used »*) → (4) **outcome-based** (agents IA). **Définition canonique** : ***« outcome-based pricing is tied to tangible business impacts—such as a resolved support conversation, a saved cancellation, an upsell, a cross-sell, or any number of valuable outcomes. If the conversation is unresolved, in most cases, there's no charge »***. **Principe d'alignement des incitations** : ***« With outcome-based pricing, Sierra gets paid only when we complete a task for you. Our incentives are aligned »***. **Critique du seat-based & concept de *shelfware*** : *« Unused seats sit idly on a proverbial store shelf, hence the derisive moniker "shelfware" »* — on paie des milliers de dollars/an par licence, utilisée ou non. **Conflit structurel des fournisseurs CX legacy** : leur revenu dépend du seat-based, or *« the more effective their AI becomes, the fewer contact center seats their clients need—undermining the provider's own revenue model »* — un agent IA efficace **cannibalise** le modèle de revenu de l'éditeur dont la tarification repose sur les sièges. **Granularité de l'outcome** : distinction entre **résolutions simples** (répondre à une question) et **résolutions complexes** (gérer un cas nécessitant un appel L2 de 20 minutes) ; **les escalades n'entraînent en général aucune facturation** ; **tarification mixte (*blended*)** possible (ex. consumption-based pour les interactions de routage/accueil). **Engagement d'optimisation continue** côté fournisseur : *« we continue to deploy concerted, directed optimizations to refine the agent's performance over time »* — l'éditeur est aligné pour améliorer la performance puisqu'il n'est payé qu'au résultat. Importance : posé **fin 2024**, ce billet **précède et fonde** tout le débat 2026 sur l'économie agentique — il fournit le **vocabulaire de l'unité de facturation** (l'*outcome* complété plutôt que le siège, l'usage ou le token) que reprendront Gupta (*cost of a completed outcome*, *token-to-outcome attribution*), Bain (*outcome-based pricing déplace le revenue de fixed seats vers labor/operations economics*), Ng (*pricing power ancré sur le salaire de l'employé remplacé*). Sierra étant l'**exemple-référence** cité par Bain (*autonomous customer issue resolution*), ce texte donne la **vue côté fournisseur** de la mécanique que les autres analysent côté acheteur. Pertinence directe pour le positionnement **tarification de la delivery agentique / value-based** du cabinet et pour le slot **Optimisation des coûts** (le pendant *vendor* du *cost per outcome*).]]
 
-### Context Rot {#Context-Rot}
-
-**Type** : CONCEPT | 3 relations | 2 fiches
-
-- **définition** : Dégradation de performance quand le contexte grandit, attention diluée sur trop de tokens
-
-- **réduit** → [[kb/_entites-mineures#Performance-du-modèle\|Performance du modèle]] (CONCEPT) — 0.95
-- **réduit** → [[kb/_entites-mineures#Performance-de-l'agent\|Performance de l'agent]] (CONCEPT) — 0.92
-
-- [[kb/Compaction\|Compaction]] **résout** → Context Rot — 0.90
-
-**Fiches** : [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Gestion de sessions Claude Code : fenêtre 1M tokens, compaction, rewind, subagents et pourriture de contexte]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
-
 ### Context inflation {#Context-inflation}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -12214,19 +12289,6 @@
 - **converge_avec** → [[kb/_entites-mineures#Ontologie-(symétrie-structurelle)\|Ontologie (symétrie structurelle)]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|Agent sémantique : la symétrie modèle+harnais et ontologie+données, effondrement des frameworks d'agents, ontologie comme seul actif non-commodité]]
-
-### Harness {#Harness}
-
-**Type** : CONCEPT | 3 relations | 1 fiches
-
-- **catégorie** : Couche abstraction agent (outils, prompts, mémoire, sécurité)
-
-- **réduit** → [[kb/_entites-mineures#dépendance-aux-cycles-d'évolution-des-modèles\|dépendance aux cycles d'évolution des modèles]] (CONCEPT) — 0.90
-- **résout** → [[kb/_entites-mineures#complexité-intégration-modèles\|complexité intégration modèles]] (CONCEPT) — 0.90
-
-- [[kb/Codex\|Codex]] **utilise** → Harness — 0.92
-
-**Fiches** : [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 
 ### Harness-as-a-Service (HaaS) {#Harness-as-a-Service-(HaaS)}
 
@@ -13246,15 +13308,18 @@
 
 ### SDLC {#SDLC}
 
-**Type** : CONCEPT | 4 relations | 3 fiches
+**Type** : CONCEPT | 6 relations | 3 fiches
 
 - **définition** : Cycle de vie du développement logiciel
 - **zones d'intégration** : amont, milieu, aval
+
+- **réduit** → [[kb/_entites-mineures#modes-de-défaillance-humains-(ego,-fatigue,-oubli)\|modes de défaillance humains (ego, fatigue, oubli)]] (CONCEPT) — 0.90
 
 - [[kb/BMAD\|BMAD]] **s_applique_à** → SDLC — 0.97
 - [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
+- [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]], [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|IA dans le cycle de vie logiciel - Qualité vs vitesse - Assurance qualité systématique - AI Journal]], [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC - Tech Away]]
 
@@ -14155,6 +14220,14 @@
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Billet du **Dropbox Tech blog** (rubrique *culture*), publié le **28 mai 2026** par **Kazuaki Okumura** (Dropbox, rôle non précisé dans l'article), reprenant une intervention à la conférence **DX Annual 2026** (productivité développeur). **Thèse-pivot** : la productivité d'ingénierie doit dépasser la *génération de code*. *« Accelerating code generation simply shifted some bottlenecks downstream »* — l'IA a massivement augmenté le débit de code, mais *« the faster code moves, the more pressure it puts on review queues, CI systems, validation workflows, release coordination, and production operations »*. Le vrai enjeu n'est plus d'écrire du code plus vite, mais de permettre à tout le SDLC d'**absorber, valider et livrer en sécurité** un volume bien plus grand. **De copilote à agent** : la première vague (explication de code, snippets, Q&A) opérait *« as copilots alongside the engineer »* ; l'agent, lui, *« can take a scoped task, inspect the codebase, edit files, run tests, iterate on failures, and return an artifact for human review »* — l'ingénieur restant *« accountable for intent, architecture, quality, and release decisions »* (plus de travail parallèle, plus d'options, délestage de l'exécution répétitive). **Nova** = plateforme d'agents de codage **interne** de Dropbox : décrire une tâche en langage naturel, exécution en environnement contrôlé avec le contexte du codebase. Datapoint canonique : ***« Nova's value comes less from the model itself than the systems surrounding it »*** (codebase context, internal practices, safe execution, workflow integration, human review) ; Nova représente **~1 PR sur 12 chez Dropbox** aujourd'hui (adoption en croissance), et s'étend au-delà des features : **migrations, remédiation de tests flaky, investigation de bugs, mises à jour de dépendances** (travail à forte pénibilité). **Mesurer la vélocité produit, pas l'output de code** : le *PR throughput*, signal utile quand la vélocité de codage était la contrainte, *« was no longer sufficient »*. Modèle de mesure en **4 étages** : ***Fuel*** (les outils IA sont-ils sollicités ?) → ***Adoption*** (comment les workflows changent à travers les équipes) → ***Output*** (l'IA contribue-t-elle au travail de production ?) → ***Impact*** (*« improving product velocity and reducing the time it takes to move from idea to customer value »*). Signaux qualité suivis : **code review turnaround time, first-run test pass rate, defect ratio, rework rate**. *« Quality and trust matter as much as speed »* — le cœur de la bascule : *« moving from local activity metrics toward broader system outcomes »*. **Les workflows doivent évoluer** : ce n'est *« not just a tooling shift »* mais un changement d'**operating model** — le rôle de l'ingénieur glisse vers *« defining intent, mapping problems, reviewing generated changes, and making higher-context architectural and quality decisions »*. L'**enablement** est aussi crucial que l'outil (hands-on learning, hackathons, workflow spotlights, bootcamps, peer-led examples) ; adoption à vitesses variables selon les équipes ; *« The goal is not to force every workflow through an agent »* — le rendre *« useful, safe, measurable, and repeatable where it creates meaningful leverage »*. **Ce qu'on a appris** : ***« AI doesn't eliminate bottlenecks in software development, but it does move them »*** (downstream : review, validation, testing, release, prod ops) → optimiser l'ancien goulot ne crée plus le même levier. *« The advantage will not come from access to the same foundation models everyone else can use. It will come from the systems built around those models : context, internal tooling, quality controls, and the workflows that connect them together. »* Pression aussi **en amont** (product & design) : specs structurées, design clarity, problem framing plus aiguisé. Clôture : ***« The future of engineering productivity will not be defined solely by who has the best models. It will be defined by who builds the best systems around them »*** ; *« The real challenge is no longer just generating more code, but building engineering systems that can reliably turn AI-assisted output into valuable experiences for our customers »*. Convergence directe avec **Salesforce/Tallapragada** (Effective Output : mesurer la valeur, pas le volume ; pas de tradeoff vitesse/qualité), **Gupta** (token-to-outcome attribution, cost of a completed outcome), **DORA** (au-delà du débit) et le déplacement du KPI vers le **system outcome** (idea→customer value).]]
 
+### boucle cognitive {#boucle-cognitive}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Boucle inédite entre personnes et systèmes numériques propre à l'ère IA
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
 ### boundary objects {#boundary-objects}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -14239,6 +14312,24 @@
 
 **Fiches** : [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT Société Générale abandonne pour Copilot - faux débat build vs buy, capital IA, souveraineté européenne]]
 
+### capital humain {#capital-humain}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Savoir, jugement, relations, ingéniosité et reconnaissance de patterns des personnes
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
+### capital token {#capital-token}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Capacité IA que la firme bâtit et possède
+
+- **est_basé_sur** → [[kb/_entites-mineures#boucle-d'apprentissage-propriétaire-de-la-firme\|boucle d'apprentissage propriétaire de la firme]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
 ### capitalisation continue {#capitalisation-continue}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14319,6 +14410,14 @@
 - [[kb/Wardley-Mapping\|Wardley Mapping]] **utilise** → chaîne de valeur — 0.96
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
+
+### cinq substitutions {#cinq-substitutions}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : Generator-verifier gap, search vs insight, décomposition vs horizon, banking vs présence, mesure vs métacognition
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
 
 ### classe Mythos {#classe-Mythos}
 
@@ -14427,6 +14526,14 @@
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Google Code Wiki - Documentation code automatisée continuously updated - Gemini-powered chat - Architecture diagrams auto-générés - Public preview website - Gemini CLI extension waitlist - Google Cloud Developer Experiences]]
 
+### conductor vs orchestrator {#conductor-vs-orchestrator}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Deux modes du dev : temps réel in-IDE vs délégation async multi-agents
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
+
 ### confiance logicielle {#confiance-logicielle}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14514,6 +14621,14 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js]]
 
+### control flow is code {#control-flow-is-code}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : L'ordonnancement est déterministe ; les modèles ne fournissent que le jugement
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
+
 ### contrôle par actions {#contrôle-par-actions}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14549,6 +14664,16 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 
+### cost per merged change {#cost-per-merged-change}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Coût par changement mergé et vérifié — unité de compte correcte
+
+- **surpasse** → [[kb/_entites-mineures#tokens-per-developer-comme-unité-de-compte\|tokens-per-developer comme unité de compte]] (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
+
 ### cost per outcome {#cost-per-outcome}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14578,6 +14703,26 @@
 - **s_applique_à** → [[kb/_entites-mineures#architectures-d'agents-IA\|architectures d'agents IA]] (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
+
+### coups de gaming des tests {#coups-de-gaming-des-tests}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
+
+### couverture en pourcentage {#couverture-en-pourcentage}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **faiblesse** : Facilement Goodhart-able par des agents à vitesse machine
+
+- **observé_dans** → [[kb/_entites-mineures#métrique-Goodhart-able-à-vitesse-machine\|métrique Goodhart-able à vitesse machine]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#mutation-testing\|mutation testing]] **surpasse** → couverture en pourcentage — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
 
 ### coût API LLM {#coût-API-LLM}
 
@@ -14624,6 +14769,18 @@
 - **mesure** → [[kb/_entites-mineures#70%-des-enfants-de-10-ans-dans-les-PRFM-ne-lisent-pas-au-niveau-requis\|70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis]] (MESURE) — 0.95
 
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+
+### critique de Lucas {#critique-de-Lucas}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **auteur** : Robert Lucas (1976) — équivalent macroéconomique
+
+- **converge_avec** → [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT) — 0.85
+
+- [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] **a_créé** → critique de Lucas — 0.90
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
 
 ### critères de succès vérifiables {#critères-de-succès-vérifiables}
 
@@ -14681,6 +14838,36 @@
 - **est_basé_sur** → [[kb/_entites-mineures#coûts-logiciel-élevés\|coûts logiciel élevés]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
+
+### deux portes humaines {#deux-portes-humaines}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : P1 approbation de la spec (intention) et P6 acceptation comportementale (vérification)
+
+- **s_applique_à** → [[kb/_entites-mineures#intention-de-spec-(P1)-et-vérification-comportementale-(P6)\|intention de spec (P1) et vérification comportementale (P6)]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
+### distribution en haltère {#distribution-en-haltère}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dépense de tokens lourde aux deux bouts (plan, revue), légère au milieu (exécution)
+
+- **s_oppose_à** → [[kb/_entites-mineures#économie-agile-traditionnelle\|économie agile traditionnelle]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
+### doctrine frontier-free {#doctrine-frontier-free}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Atteindre la précision cible avec des modèles mid-tier via cinq substitutions
+
+- **recommande** → [[kb/_entites-mineures#atteindre-la-précision-cible-avec-des-modèles-mid-tier\|atteindre la précision cible avec des modèles mid-tier]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
 
 ### documentation compressée {#documentation-compressée}
 
@@ -14847,6 +15034,16 @@
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur - Interactions agents IA - Développeurs frontend - LogRocket Blog]]
 
+### effet cobra {#effet-cobra}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Incitation récompensant un comportement contre-productif
+
+- **est_instance_de** → [[kb/_entites-mineures#incitation-perverse\|incitation perverse]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### email agent {#email-agent}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -14986,6 +15183,16 @@
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|Tribune d'**Olivier Rafal** (Consulting Director Strategy chez **WeNvision**) publiée le **23 février 2024** sur **CIO-Online** (rubrique *Tribune*), qui pose une thèse encore contre-intuitive à l'époque : **l'IA générative relève davantage du produit technologique que du projet d'IA / data science**. **Argument 1 — la data science n'est pas le cœur du sujet** : créer un *foundation model* de toute pièce demande *« plusieurs mois, des millions d'euros et l'accès à d'énormes quantités de données »* — réservé à des acteurs aux datasets spécifiques et monétisables (ex. **Bloomberg** et son **BloombergGPT** pour la finance). Pour la quasi-totalité des entreprises, le bon réflexe n'est donc pas de recruter des data scientists. **Argument 2 — décalage de compétences** : il faut surtout des **ingénieurs de développement et d'intégration** (back/front), de **fortes compétences cloud** et du **DevOps**. Citation client : *« On n'a pas forcément besoin d'être data scientist, mais il faut comprendre les concepts de base, avoir des compétences de développement back office et de fortes compétences cloud. »* **Argument 3 — architecture de plateforme (orchestrateurs + API)** : construire une **plateforme d'IA générative** d'entreprise via orchestrateurs et API permet *« de travailler avec les meilleurs LLM du marché et d'en changer au fur et à mesure de leurs évolutions respectives, sans retoucher aux applications »* (anti vendor lock-in). **Argument 4 — du projet au produit** : *« La plate-forme […] il faut la considérer elle-même comme un produit »* ; au lieu d'un investissement ponctuel, prévoir un **flux de financement mensuel** (itérations continues, innovation permanente). **Argument 5 — gouvernance & shadow AI** : la démocratisation inédite de la GenAI engendre *« tant du shadow AI que de fortes attentes vis-à-vis de la DSI »* → gouvernance pour capter les besoins métiers, **prioriser les produits par la valeur**, superviser le bon fonctionnement. **Changement de paradigme** annoncé : *« on passe d'une programmation algorithmique classique à des agents Langchain qui gèrent une partie des décisions »*. **Intérêt pour la veille** : texte **fondateur (J-2 ans)** de la doctrine WeNvision (produit > projet, plateforme/API, financement en flux, gouvernance, shadow AI) que prolongeront les fiches [[wenvision-ai-agents-enterprise-deployment-2025-10-01]], [[habert-ia-agentique-production-2025-10-29]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] (FinOps/token, financement en flux → gouvernance financière). Préfigure aussi le *harness/plateforme autour du modèle* (Dropbox/Okumura : *systems around the model*) et l'**indépendance modèle** par couche d'orchestration.]]
 
+### gate de sortie de prosecution {#gate-de-sortie-de-prosecution}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **conditions** : Zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide
+
+- **utilise** → [[kb/_entites-mineures#diff-de-tests-vide-comme-preuve-de-non-altération\|diff de tests vide comme preuve de non-altération]] (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
+
 ### gestion des coûts LLM {#gestion-des-coûts-LLM}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15050,6 +15257,14 @@
 
 **Fiches** : [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI révolutionne interfaces agents IA, composants web interactifs, sandboxed iframes, accessibilité, générative UI - Goose/Block]]
 
+### h-index {#h-index}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Exemple : mesure de réputation érodée par son usage comme cible
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### hallucinations IA {#hallucinations-IA}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -15099,6 +15314,22 @@
 - **rôle** : Règles agentiques adaptées au contexte
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]]
+
+### hill climbing machine {#hill-climbing-machine}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Métaphore de la boucle d'apprentissage qui compose dans le temps
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
+### honest loss account {#honest-loss-account}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **sacrifices** : Élégance en un passage, intuition transversale, latence, refactors long-horizon ; ~5 % du travail à supervision max
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
 
 ### hygiène de code {#hygiène-de-code}
 
@@ -15179,6 +15410,14 @@
 - **réduit** → [[kb/_entites-mineures#budgets-marketing-2026\|budgets marketing 2026]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google - Demand-led marketing - Budget 2026 - Marketing strategy - Data-driven - Google insights - CMO guidance]]
+
+### indicateurs de boucle cassée {#indicateurs-de-boucle-cassée}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : Concentration en Build, prosecution en hausse, max d'itérations atteint, coût plat
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
 
 ### industrial-grade systems {#industrial-grade-systems}
 
@@ -15296,6 +15535,18 @@
 
 **Fiches** : [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson]]
 
+### loi de Campbell {#loi-de-Campbell}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **auteur** : Donald T. Campbell (1976) — corruption des indicateurs sociaux
+
+- **converge_avec** → [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] **a_créé** → loi de Campbell — 0.90
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
+
 ### loi de Moore {#loi-de-Moore}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15364,6 +15615,16 @@
 - **liste** : Ambiguïté concept-entité, obsolescence, échec de retrieval
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|REX d'ingénierie de l'équipe **Data Science & Data Engineering d'Anthropic** (Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry) publié le **3 juin 2026** sur le blog Anthropic (catégorie *Enterprise AI*, focus **Claude Code**). **Résultat-phare** : ***« 95 % des requêtes d'analytics métier sont automatisées par Claude, avec ~95 % de précision en agrégat »*** (jusqu'à **~99 %** sur certains domaines). **Problème central** : l'analytics n'est **pas** du code — *« there's often only a single correct answer using a single correct source »* — il faut **mapper une question utilisateur à des entités précises et à jour** du modèle de données. Trois **modes d'échec** : (1) **ambiguïté concept↔entité** (ex. *« active users »* : quelles actions ? exclure les fraudeurs ? quelle fenêtre ?) ; (2) **obsolescence** (assets et connaissance de l'agent deviennent *« subtly wrong »*) ; (3) **échec de retrieval** (*« 80 % des requêtes échouées avaient l'info présente dans le corpus »* mais introuvable). **Solution = « agentic analytics stack » en 4 couches** : (L1) **Data foundations** — dimensional modeling, **canonical datasets** *« single source-of-truth »*, métadonnées *« as a first-class product »*, intégrité par CI/CD ; (L2) **Sources of truth** par ordre de confiance décroissant — **semantic layer** (l'agent est *« structurally required (by skill instruction) to leverage the semantic layer first »*), graphe de lineage, **query corpus** (distillé en docs structurées, **pas** du retrieval brut), business context (knowledge graph : roadmaps, decision logs, org) ; (L3) **Skills** — le levier décisif : ***« without skills … didn't exceed 21 % … Adding skills gets these numbers consistently above 95 % »*** ; structure **par paires** (*Knowledge skill* = routeur vers ~30 fichiers de référence ; *Unbook skill* = workflow de l'analyste senior : clarifier → trouver les sources → exécuter → **revue adversariale**) ; maintenance **colocalisée** (*« a code-review hook flags any reporting-model change that doesn't touch a skill file »* → **~90 % des PR data incluent un changement de skill**) ; (L4) **Validation** — evals offline (seuil ~90 % pour lancer un agent, cible ~100 %), **ablation testing** (résultat négatif notable : grep brut sur des milliers de fichiers SQL → précision bouge *« less than a point »*), online (revue adversariale : **+6 % de précision, +32 % de tokens, +72 % de latence**), **provenance footers** (tier de source + fraîcheur + ownership), **active correction harvesting** (agents planifiés scannant les canaux pour drafter des fixes markdown). **Insight stratégique** : *« documentation generated, definitions owned by humans »* — laisser le LLM **définir** les métriques fut *« net-negative »*. **Démarrage minimal** : quelques canonical datasets + quelques dizaines d'evals + un *thin knowledge skill* captent *« most of the upside »*. Converge fortement avec [[shihipar-claude-code-lessons-building-skills-2026-06-03]] (skills = dossiers, Gotchas, hooks), la doctrine *systems around the model* de [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le **semantic layer / ontology** de [[talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04]] et [[seale-semantic-agent-model-harness-ontology-data-2026-04-17]], le *context development lifecycle* de [[debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19]] et l'UDA/knowledge graph de [[netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12]].]]
+
+### modes de défaillance des modèles {#modes-de-défaillance-des-modèles}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **liste** : F1 satisfaction prématurée, F2 sycophancie, F3 context rot, F4 hallucination confiante, F5 reward hacking, F6 biais du nombre de findings, F7 bloat génératif, F8 perte de cohérence
+
+- **s_applique_à** → [[kb/_entites-mineures#conception-du-cycle-agentique\|conception du cycle agentique]] (METHODOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
 
 ### modèle de domaine {#modèle-de-domaine}
 
@@ -15614,6 +15875,14 @@
 
 **Fiches** : [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
 
+### pinned means merged {#pinned-means-merged}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Merger le core partagé avant le fan-out parallèle pour éviter le dependency hell
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
+
 ### plafond productivité {#plafond-productivité}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15706,6 +15975,14 @@
 
 **Fiches** : [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck]]
 
+### problème des 80 % {#problème-des-80-%}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : L'IA génère ~80 % du code ; les 20 % restants exigent un contexte profond
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
+
 ### product overhang {#product-overhang}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -15764,6 +16041,14 @@
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
+### propriétés exploitables {#propriétés-exploitables}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : E1 diversité d'échantillonnage, E2 sycophancie chartée pour réfuter, E3 absence d'ego, E4 contextes frais, E5 coût de révision quasi nul
+
+**Fiches** : [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
+
 ### protocol objects {#protocol-objects}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15798,6 +16083,14 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
 
+### quatre lanes {#quatre-lanes}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **composition** : Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel)
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
+
 ### ratio 60/40 marque-performance {#ratio-60-40-marque-performance}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15817,6 +16110,14 @@
 - **s_applique_à** → [[kb/agents-IA\|agents IA]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
+
+### replace trust with structure {#replace-trust-with-structure}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Formule-somme des sept volets : confiance → structure → mesure
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
 
 ### ressource naturelle (métaphore Mensch) {#ressource-naturelle-(métaphore-Mensch)}
 
@@ -15983,6 +16284,24 @@
 - **exemples** : code review turnaround, first-run test pass rate, defect ratio, rework rate
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Billet du **Dropbox Tech blog** (rubrique *culture*), publié le **28 mai 2026** par **Kazuaki Okumura** (Dropbox, rôle non précisé dans l'article), reprenant une intervention à la conférence **DX Annual 2026** (productivité développeur). **Thèse-pivot** : la productivité d'ingénierie doit dépasser la *génération de code*. *« Accelerating code generation simply shifted some bottlenecks downstream »* — l'IA a massivement augmenté le débit de code, mais *« the faster code moves, the more pressure it puts on review queues, CI systems, validation workflows, release coordination, and production operations »*. Le vrai enjeu n'est plus d'écrire du code plus vite, mais de permettre à tout le SDLC d'**absorber, valider et livrer en sécurité** un volume bien plus grand. **De copilote à agent** : la première vague (explication de code, snippets, Q&A) opérait *« as copilots alongside the engineer »* ; l'agent, lui, *« can take a scoped task, inspect the codebase, edit files, run tests, iterate on failures, and return an artifact for human review »* — l'ingénieur restant *« accountable for intent, architecture, quality, and release decisions »* (plus de travail parallèle, plus d'options, délestage de l'exécution répétitive). **Nova** = plateforme d'agents de codage **interne** de Dropbox : décrire une tâche en langage naturel, exécution en environnement contrôlé avec le contexte du codebase. Datapoint canonique : ***« Nova's value comes less from the model itself than the systems surrounding it »*** (codebase context, internal practices, safe execution, workflow integration, human review) ; Nova représente **~1 PR sur 12 chez Dropbox** aujourd'hui (adoption en croissance), et s'étend au-delà des features : **migrations, remédiation de tests flaky, investigation de bugs, mises à jour de dépendances** (travail à forte pénibilité). **Mesurer la vélocité produit, pas l'output de code** : le *PR throughput*, signal utile quand la vélocité de codage était la contrainte, *« was no longer sufficient »*. Modèle de mesure en **4 étages** : ***Fuel*** (les outils IA sont-ils sollicités ?) → ***Adoption*** (comment les workflows changent à travers les équipes) → ***Output*** (l'IA contribue-t-elle au travail de production ?) → ***Impact*** (*« improving product velocity and reducing the time it takes to move from idea to customer value »*). Signaux qualité suivis : **code review turnaround time, first-run test pass rate, defect ratio, rework rate**. *« Quality and trust matter as much as speed »* — le cœur de la bascule : *« moving from local activity metrics toward broader system outcomes »*. **Les workflows doivent évoluer** : ce n'est *« not just a tooling shift »* mais un changement d'**operating model** — le rôle de l'ingénieur glisse vers *« defining intent, mapping problems, reviewing generated changes, and making higher-context architectural and quality decisions »*. L'**enablement** est aussi crucial que l'outil (hands-on learning, hackathons, workflow spotlights, bootcamps, peer-led examples) ; adoption à vitesses variables selon les équipes ; *« The goal is not to force every workflow through an agent »* — le rendre *« useful, safe, measurable, and repeatable where it creates meaningful leverage »*. **Ce qu'on a appris** : ***« AI doesn't eliminate bottlenecks in software development, but it does move them »*** (downstream : review, validation, testing, release, prod ops) → optimiser l'ancien goulot ne crée plus le même levier. *« The advantage will not come from access to the same foundation models everyone else can use. It will come from the systems built around those models : context, internal tooling, quality controls, and the workflows that connect them together. »* Pression aussi **en amont** (product & design) : specs structurées, design clarity, problem framing plus aiguisé. Clôture : ***« The future of engineering productivity will not be defined solely by who has the best models. It will be defined by who builds the best systems around them »*** ; *« The real challenge is no longer just generating more code, but building engineering systems that can reliably turn AI-assisted output into valuable experiences for our customers »*. Convergence directe avec **Salesforce/Tallapragada** (Effective Output : mesurer la valeur, pas le volume ; pas de tradeoff vitesse/qualité), **Gupta** (token-to-outcome attribution, cost of a completed outcome), **DORA** (au-delà du débit) et le déplacement du KPI vers le **system outcome** (idea→customer value).]]
+
+### skill rot {#skill-rot}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **parade** : Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur
+
+- **réduit** → [[kb/_entites-mineures#fiabilité-des-artefacts-de-connaissance\|fiabilité des artefacts de connaissance]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
+
+### sophisme de McNamara {#sophisme-de-McNamara}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Écarter le non-quantifiable comme non pertinent
+
+**Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Article encyclopédique (Wikipedia, anglais) sur la **loi de Goodhart** : énoncée par l'économiste britannique Charles Goodhart en 1975 à propos de la politique monétaire — « toute régularité statistique observée tend à s'effondrer dès qu'on exerce une pression sur elle à des fins de contrôle » — puis généralisée par l'anthropologue Marilyn Strathern (1997) en l'aphorisme canonique « quand une mesure devient une cible, elle cesse d'être une bonne mesure ». Le sujet relie économie, théorie des incitations, évaluation des politiques publiques et, par extension, l'optimisation des métriques dans les systèmes d'IA.]]
 
 ### souveraineté numérique {#souveraineté-numérique}
 
@@ -16181,6 +16500,14 @@
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects]]
 
+### tier de modèle {#tier-de-modèle}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **règle** : Fonction du coût de détection d'une erreur, pas du prestige de la tâche
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
 ### token blowout {#token-blowout}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16228,6 +16555,14 @@
 - [[kb/Plakar\|Plakar]] **permet** → transparence des sauvegardes — 0.97
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|Développement logiciel comme artisanat, transparence et confiance, open-source authentique, impact IA sur compétences fondamentales - Gilles Chehade - Plakar - OpenSMTPD]]
+
+### trois cadrans {#trois-cadrans}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Coût (modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — couplés
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
 
 ### truth registry {#truth-registry}
 
@@ -16415,6 +16750,14 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
 
+### économie de la leçon {#économie-de-la-leçon}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Payée une fois, puis rétrogradée de détection probabiliste à prévention déterministe gratuite
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
+
 ### économie des créateurs {#économie-des-créateurs}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16424,6 +16767,16 @@
 - [[kb/_entites-mineures#risque-d'épuisement-professionnel\|risque d'épuisement professionnel]] **observé_dans** → économie des créateurs — 0.85
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|Explosion des tutoriels IA sur YouTube : démocratisation de l'éducation technique à grande échelle, économie des créateurs et défis de qualité]]
+
+### écosystème frontière {#écosystème-frontière}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Diffusion large de la valeur IA à chaque entreprise, secteur et pays
+
+- **s_oppose_à** → [[kb/_entites-mineures#captation-de-la-valeur-par-quelques-modèles\|captation de la valeur par quelques modèles]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 
 ### évolution Genèse-Marchandise {#évolution-Genèse-Marchandise}
 
@@ -16437,7 +16790,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (277)
+## METHODOLOGIE (304)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -16687,13 +17040,17 @@
 
 ### Agentic engineering {#Agentic-engineering}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
+- **définition** : Bout discipliné du spectre : IA implémente sous specs, tests et boucles de feedback humains
 - **fonction** : Préserver le quality bar avec coordination d'agents stochastiques
 
 - **permet** → [[kb/_entites-mineures#préservation-du-quality-bar-professionnel\|préservation du quality bar professionnel]] (CONCEPT) — 0.95
+- **est_variante_de** → [[kb/vibe-coding\|vibe coding]] (METHODOLOGIE) — 0.90
 
-**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]]
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → Agentic engineering — 0.85
+
+**Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Interview d'Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot) qui passe de la *vibe coding* à l'*agentic engineering* : December 2025 comme bascule "never felt more behind as a programmer", taxonomie Software 1.0/2.0/3.0, exemple openclaw (script bash → texte à copier-coller dans l'agent) et MenuGen rendu obsolète par Nanobanana de Gemini, théorie de la *verifiability* expliquant pourquoi les LLMs sont *jagged* (math/code peakent, "marche jusqu'au lavage 50m" échoue), distinction *vibe coding* (raise the floor) vs *agentic engineering* (préserver le quality bar), métaphore "animaux vs fantômes", refonte du recrutement par projets agent-versus-agent, et formule clé : ***"You can outsource your thinking but you can't outsource your understanding."***]], [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 
 ### Analysis of Competing Hypotheses (ACH) {#Analysis-of-Competing-Hypotheses-(ACH)}
 
@@ -17419,6 +17776,14 @@
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Présentation Wescale (France) qui formalise la doctrine de l'***Usine Logicielle Augmentée*** : chaîne de valeur logicielle entièrement orchestrée par des agents IA spécialisés sur six lignes de fabrication (Intention/PRD-ADR → Plan/User Stories → **Bon à Tirer humain** → Production 24/7 → Vérification audit indépendant → Déploiement DevOps), où l'humain n'intervient qu'à deux moments précis. Thèses fortes : retour du **cycle en V prédictible** contre Scrum, gains réalistes **X3-X4** (et non X10), passage du *producteur de code* au ***Juge Stratégique*** et du *développeur solo* au ***Manager d'Agents***, métriques DORA remplaçant la vélocité, ROI maximal sur modernisation legacy et substitution SaaS coûteuses, et surtout la ***gouvernance injectée*** comme « couche quasiment militaire » qui constitue l'innovation centrale et la véritable barrière à l'entrée. Construit en mangeant son propre dogfood : *"Ce que nous avons appris en construisant Solario sur Solario."*]]
 
+### N-version programming {#N-version-programming}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **nature** : Plusieurs implémentations indépendantes comparées, rendu gratuit par la diversité d'échantillonnage
+
+**Fiches** : [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
+
 ### NIST AI RMF {#NIST-AI-RMF}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -17560,16 +17925,6 @@
 - **permet** → [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]]
-
-### Phase Build {#Phase-Build}
-
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
-
-- **description** : 2 heures de construction autonome avec outils IA et frameworks au choix du candidat
-
-- **est_instance_de** → [[kb/_entites-mineures#session-de-2-heures-avec-outils-IA-au-choix\|session de 2 heures avec outils IA au choix]] (CONCEPT) — 0.95
-
-**Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|Entretien d'embauche AI-native chez Sierra — Refonte processus recrutement ingénieurs — Plan/Build/Review — Blog Sierra]]
 
 ### Phase Plan {#Phase-Plan}
 
@@ -17752,16 +18107,20 @@
 
 ### SDLC {#SDLC}
 
-**Type** : METHODOLOGIE | 4 relations | 1 fiches
+**Type** : METHODOLOGIE | 6 relations | 2 fiches
 
+- **catégorie** : Cycle de développement logiciel hérité, pensé pour des humains
 - **phases** : Définir → construire → vérifier → déployer → maintenir (invariant)
+
+- **réduit** → [[kb/_entites-mineures#modes-de-défaillance-humains-(ego,-fatigue,-oubli)\|modes de défaillance humains (ego, fatigue, oubli)]] (CONCEPT) — 0.90
 
 - [[kb/BMAD\|BMAD]] **s_applique_à** → SDLC — 0.97
 - [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
+- [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
 
-**Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]]
+**Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]], [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
 
 ### STAR {#STAR}
 
@@ -18323,6 +18682,16 @@
 
 **Fiches** : [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn]]
 
+### audit adversarial de tests {#audit-adversarial-de-tests}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **question pivot** : « Un test échoue-t-il si la feature est supprimée ? »
+
+- **s_applique_à** → [[kb/_entites-mineures#détection-des-tests-vides-(«-fail-if-feature-deleted-»)\|détection des tests vides (« fail if feature deleted ? »)]] (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
+
 ### auto-complétion {#auto-complétion}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18332,6 +18701,28 @@
 - [[kb/_entites-mineures#édition-directe-du-code\|édition directe du code]] **surpasse** → auto-complétion — 0.88
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler]]
+
+### boucle d'apprentissage {#boucle-d'apprentissage}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme
+
+- **permet** → [[kb/_entites-mineures#la-composition-du-capital-humain-et-du-capital-token\|la composition du capital humain et du capital token]] (CONCEPT) — 0.92
+- **est_instance_de** → [[kb/_entites-mineures#IP-de-la-firme\|IP de la firme]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
+### calibration de revue {#calibration-de-revue}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **méthode** : Planter des bugs connus, mesurer recall et faux positifs de la stack
+
+- **s_inspire_de** → [[kb/_entites-mineures#mutation-testing\|mutation testing]] (METHODOLOGIE) — 0.90
+- **mesure** → [[kb/_entites-mineures#recall-par-catégorie-et-taux-de-faux-positifs-de-la-stack\|recall par catégorie et taux de faux positifs de la stack]] (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
 ### candidate-isolation attention {#candidate-isolation-attention}
 
@@ -18400,6 +18791,20 @@
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Vibe Reviewing - Alexandre Mogère - IA agents - Code audit - Carrefour France - Automation - LinkedIn]]
 
+### cycle agentique en huit phases {#cycle-agentique-en-huit-phases}
+
+**Type** : METHODOLOGIE | 5 relations | 1 fiches
+
+- **phases** : P0 Triage, P1 Interrogate, P2 Decompose, P3 Rail, P4 Build, P5 Prosecute, P6 Integrate, P7 Distill
+
+- [[kb/ADLC\|ADLC]] **fait_partie_de** → cycle agentique en huit phases — 0.95
+- [[kb/_entites-mineures#phase-Distill\|phase Distill]] **fait_partie_de** → cycle agentique en huit phases — 0.90
+- [[kb/_entites-mineures#phase-Prosecute\|phase Prosecute]] **fait_partie_de** → cycle agentique en huit phases — 0.90
+- [[kb/_entites-mineures#phase-Rail\|phase Rail]] **fait_partie_de** → cycle agentique en huit phases — 0.90
+- [[kb/_entites-mineures#phase-orchestration\|phase orchestration]] **fait_partie_de** → cycle agentique en huit phases — 0.85
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
 ### cycle de vie agent {#cycle-de-vie-agent}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18446,6 +18851,17 @@
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|Workflow IA pour générer Wardley Maps, LLM prompts capabilities, Obsidian graph, NetworkX clustering, bootstrap stratégique - Tutoriel vidéo]]
 
+### désambiguïsation par consensus {#désambiguïsation-par-consensus}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **principe** : Là où N agents convergent, la demande est non ambiguë ; le désaccord mesure l'ambiguïté
+
+- **permet** → [[kb/_entites-mineures#mesurer-l'ambiguïté-via-le-désaccord-entre-N-agents\|mesurer l'ambiguïté via le désaccord entre N agents]] (CONCEPT) — 0.88
+- **surpasse** → [[kb/_entites-mineures#questions-de-clarification-au-modèle\|questions de clarification au modèle]] (METHODOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
+
 ### développement piloté par le contexte {#développement-piloté-par-le-contexte}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -18457,6 +18873,16 @@
 - [[kb/Conductor\|Conductor]] **est_basé_sur** → développement piloté par le contexte — 0.95
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor Google - extension Gemini CLI développement piloté par le contexte]]
+
+### environnements de RL privés {#environnements-de-RL-privés}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Renforcer les modèles sur les traces réelles de l'organisation
+
+- **utilise** → [[kb/_entites-mineures#traces-réelles-internes-à-l'organisation\|traces réelles internes à l'organisation]] (CONCEPT) — 0.87
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 
 ### evals offline {#evals-offline}
 
@@ -18487,6 +18913,16 @@
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] **recommande** → filtrage par le contexte — 0.97
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+
+### findings vérifiés {#findings-vérifiés}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **exigence** : Reproduire le bug (test rouge, trace, input) avant toute action du builder
+
+- **réduit** → [[kb/_entites-mineures#churn-de-code-sur-des-problèmes-hallucinés\|churn de code sur des problèmes hallucinés]] (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
 ### forums légers récurrents {#forums-légers-récurrents}
 
@@ -18525,6 +18961,26 @@
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] **recommande** → framework métriques guardrails — 0.88
 
 **Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|Stanford Research - AI ROI Measurement - Developer Productivity - Metrics Framework - AI Adoption Gap]]
+
+### gates déterministes {#gates-déterministes}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **nature** : Compilateurs, suites de tests, validateurs intercalés entre phases pour remettre l'erreur à zéro
+
+- **réduit** → [[kb/_entites-mineures#compounding-d'erreur-entre-phases-probabilistes\|compounding d'erreur entre phases probabilistes]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
+### gel au niveau de l'outil {#gel-au-niveau-de-l'outil}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Contrainte dans le prompt = requête ; contrainte dans l'outil = fait
+
+- **permet** → [[kb/_entites-mineures#preuve-de-non-altération-des-tests\|preuve de non-altération des tests]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
 
 ### git worktrees {#git-worktrees}
 
@@ -18595,6 +19051,16 @@
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]]
 
+### lesson foundry {#lesson-foundry}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **sorties** : Règles de lint (déterministe), skills (contextuel), nouvelles questions d'interrogation (specs)
+
+- **permet** → [[kb/_entites-mineures#conversion-des-findings-récurrents-en-règles-de-lint,-skills-et-questions\|conversion des findings récurrents en règles de lint, skills et questions]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
+
 ### loop hebdomadaire {#loop-hebdomadaire}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18602,6 +19068,16 @@
 - **résultat** : +45 % productivité, draft 6-12 min
 
 **Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Article du blog de **Pasquale Pillitteri** (ingénieur informatique, Palermo) publié le **29 mai 2026** (version FR), 18 min de lecture, rubrique *Claude Code & Anthropic*. **Thèse-pivot** : *« Claude Opus 4.8 est le modèle SEO le plus puissant de 2026, mais presque tout le monde l'utilise mal »* — non pas un problème de modèle mais de **système**. La règle d'or : ***« la stratégie est un tableau blanc, la production est une chaîne de montage »*** — il faut **scinder le SEO en deux phases distinctes**, et les mélanger est *« le moyen le plus rapide de gaspiller un modèle qui coûte cinq dollars par million de tokens en entrée et vingt-cinq en sortie »*. **Contexte modèle** : Opus 4.8 publié le **28 mai 2026** (41 jours après Opus 4.7), contexte **1M tokens**, **GraphWalks Long-Context F1 à 1M : 40,3 % → 68,1 %**, **SWE-bench Verified 88,6 %**, **USAMO 2026 96,7 %** (+27,4 pts), **HLE avec tool 57,9 %**, prix inchangé **5 $/25 $** par M tokens, **Fast Mode 2,5× à 10 $/50 $**, quatre **effort levels** (Low, High, Extra, Max). **L'anti-pattern central** = *« la conversation géante »* / **dérive du contexte** : mélanger stratégie, keyword research, analyse concurrentielle et rédaction dans un seul chat produit une *« bouillie d'intentions contradictoires »* → le modèle glisse vers les **best practices génériques** (« optimisation holistique », « approche stratégique ») au lieu d'un contenu ancré aux données. **Phase 1 — Stratégie (tableau blanc, UI visuelle, one-off)** : dashboard / Google Sheet / canvas Claude.ai pour décider en voyant les données ensemble. **3 plays** : (a) **keyword research classifiée** (tableau volume / difficulté 0-100 / intention / potentiel business / priorité = volume÷difficulté×poids business) ; (b) **analyse concurrentielle visuelle** (matrice de couverture thématique, gaps) ; (c) **roadmap par phases** (quick wins M1-2 / moyen terme M3-6 / pillar pages M7-12). Mode **Extra/Max** justifié ici (*« une décision stratégique juste vaut mille pages bien écrites sur des mots-clés erronés »*). 3 artefacts fermés sauvegardés sur Notion/Drive. **Phase 2 — Production (chaîne de montage, Opus 4.8 + MCP)** : le modèle passe de stratège à **machine d'exécution** ; chaque décision **ancrée à des données live** via **Model Context Protocol**. **Stack MCP minimum** : **GSC MCP** (AminForou/mcp-gsc, 500+ étoiles), **Ahrefs MCP officiel** (98 étoiles), **GA4 MCP** ; repo `modelcontextprotocol/servers` = **86 440 étoiles**, **10 000+ serveurs actifs**, 97M téléchargements SDK/mois. Setup ~35 min, refresh mensuel ~20 min. **Loop hebdomadaire** : un prompt unique tire les données live, construit le brief (top 10 SERP + GSC + Ahrefs), dérive H2/H3, écrit, contrôle densité, suggère titres → **+45 % productivité**, draft en **6-12 min** (référence explicite au **content engineering de Ryan Law / Ahrefs**, 23 skills). Mention des **Dynamic Workflows** Anthropic (jusqu'à 1 000 subagents). **4 erreurs courantes** : (1) ne pas vérifier les chiffres (spot-check obligatoire, *trust & verify*) ; (2) remplacer complètement Semrush/Ahrefs (le MCP est une **couche par-dessus**, pas un substitut) ; (3) ignorer le **content gap paid-organic** (cas client education : **2 742 termes gaspillés / 351 opportunités** identifiés en 90 s) ; (4) utiliser Opus 4.8 là où **Haiku 4.5** suffit (meta descriptions, alt text). **Coût** : 1-3 $/article de 2 500 mots. **Sonnet 4.6** suffit pour la production récurrente, Opus 4.8 réservé à la stratégie. Article SEO-optimisé et auto-référentiel (l'auteur écrit sur le SEO un contenu lui-même conçu pour se positionner sur « Opus 4.8 SEO »). Convergence directe avec **Ryan Law/Ahrefs** (cité), **systems around the model** (Dropbox/Okumura), **skills-over-prompts** (Lattice), routage modèle Haiku/Sonnet/Opus (Gupta token-to-outcome).]]
+
+### loop-until-dry {#loop-until-dry}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **critère d'arrêt** : Deux passes consécutives à zéro finding vérifié, contextes frais
+
+- **réduit** → [[kb/_entites-mineures#biais-d'arrêt-autour-de-10-20-findings\|biais d'arrêt autour de 10-20 findings]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
 ### marketing demand-led {#marketing-demand-led}
 
@@ -18624,6 +19100,18 @@
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Article de blog **Anthropic / claude.com** signé **Thariq Shihipar** (Member of Technical Staff, équipe Claude Code), publié le **3 juin 2026**, qui capitalise le **retour d'expérience interne** d'Anthropic sur la conception et l'usage des **Skills**. **Thèse de cadrage** : une Skill n'est pas un simple fichier markdown mais un **dossier** (instructions + scripts + ressources + config + hooks) que l'agent **découvre et manipule** ; *« You should think of the entire file system as a form of context engineering and progressive disclosure. »* L'article propose deux apports structurants. **(A) Une taxonomie de 9 catégories de skills** observées chez Anthropic : (1) **Library/API Reference** (doc de libs/CLI internes avec *gotchas* — ex. `billing-lib`, `internal-platform-cli`, `sandbox-proxy`) ; (2) **Product Verification** (test/vérif via Playwright ou tmux — `signup-flow-driver`, `checkout-verifier`, `tmux-cli-driver`) ; (3) **Data Fetching & Analysis** (accès stacks data/monitoring — `funnel-query`, `cohort-compare`, `grafana`, `datadog`) ; (4) **Business Process Automation** (workflows répétitifs — `standup-post`, `weekly-recap`, `create-<ticket>-ticket`) ; (5) **Code Scaffolding** (boilerplate framework — `new-migration`, `create-app`) ; (6) **Code Quality & Review** (`adversarial-review`, `code-style`, `testing-practices`) ; (7) **CI/CD & Deployment** (`babysit-pr`, `deploy-<service>`, `cherry-pick-prod`) ; (8) **Runbooks** (diagnostic multi-outils — `<service>-debugging`, `oncall-runner`, `log-correlator`) ; (9) **Infrastructure Operations** (maintenance avec garde-fous — `<resource>-orphans`, `cost-investigation`). **(B) Un jeu de bonnes pratiques** : ne pas redire l'évident (*« Claude already knows how to code and can read your codebase »* → cibler ce qui **contredit le comportement par défaut**) ; soigner la **section Gotchas** (*« the highest-signal content in any skill »*) ; **progressive disclosure** via l'arborescence (pointer vers des fichiers de référence selon la situation plutôt que tout charger d'emblée) ; **descriptions pensées pour le modèle** (*« the description field is not a summary, it's a description of when to trigger this skill »*) ; **setup flows** (config dans `config.json`, sinon demander via `AskUserQuestion`) ; **mémoire persistante** (logs append-only / JSON via la variable `${CLAUDE_PLUGIN_DATA}`) ; **helper scripts** (*« lets Claude spend its turns on composition… rather than reconstructing boilerplate »*) ; **hooks conditionnels** (activés seulement le temps de la skill — ex. hook de sécurité bloquant les commandes destructrices). **Distribution chez Anthropic** : skills rangées dans `./.claude/skills`, partage informel via Slack dans un dossier sandbox, puis promotion par **PR** vers le **marketplace** interne quand elles gagnent en traction ; **mesure d'usage** via un **hook `PreToolUse`** qui logue les invocations (révèle les skills populaires et celles sous-utilisées). Suite directe de la fiche [[shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10]] (même auteur) et complément concret aux fiches Skills d'Anthropic/Willison/Vincent et au *harness engineering*.]]
 
+### merge-forecast {#merge-forecast}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **signaux** : Scope de fichiers, rayon d'imports, co-changement historique, collisions de namespace
+- **sortie** : Largeur certifiée typiquement 3-5 agents
+
+- **prédit** → [[kb/_entites-mineures#conflits-de-merge-avant-le-lancement-du-travail\|conflits de merge avant le lancement du travail]] (CONCEPT) — 0.90
+- **mesure** → [[kb/_entites-mineures#largeur-certifiée-typique-de-3-à-5-agents\|largeur certifiée typique de 3 à 5 agents]] (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
+
 ### mode headless {#mode-headless}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18633,6 +19121,16 @@
 - **permet** → [[kb/_entites-mineures#intégration-CI-CD\|intégration CI/CD]] (METHODOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research]]
+
+### model ratchet {#model-ratchet}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **nature** : Ré-audit post-release par modèles frontier ; cliquet qui ne recule pas
+
+- **permet** → [[kb/_entites-mineures#ré-audit-du-code-par-modèles-frontier-après-release\|ré-audit du code par modèles frontier après release]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
 
 ### modèle Centaur {#modèle-Centaur}
 
@@ -18664,6 +19162,16 @@
 
 **Fiches** : [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|Guide pratique IA, sélection modèles, jagged frontier, Centaurs vs Cyborgs, données usage OpenAI, Claude/Gemini/ChatGPT - Ethan Mollick]]
 
+### modèle de l'usine {#modèle-de-l'usine}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **métaphore** : Le dev conçoit la chaîne de production du code, pas chaque pièce
+
+- **affirme_que** → [[kb/_entites-mineures#le-livrable-du-développeur-n'est-pas-le-code-mais-le-système-qui-produit-le-code\|le livrable du développeur n'est pas le code mais le système qui produit le code]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
+
 ### modèle opérationnel agentique {#modèle-opérationnel-agentique}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18671,6 +19179,18 @@
 - **définition** : Réorganisation des rôles et équipes autour de l'IA (sujet ≠ outil)
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]]
+
+### mutation testing {#mutation-testing}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Mesure si les tests détectent un changement de comportement, alternative à la couverture
+
+- **surpasse** → [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (METHODOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] **s_inspire_de** → mutation testing — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
 
 ### orchestration de bots {#orchestration-de-bots}
 
@@ -18682,19 +19202,13 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage]]
 
-### orchestration multi-agents {#orchestration-multi-agents}
+### ordre de merge {#ordre-de-merge}
 
-**Type** : METHODOLOGIE | 3 relations | 2 fiches
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
 
-- **bénéfice** : Parallélisme, spécialisation, coordination
-- **fonctions** : Routage tâches, gestion état, récupération erreurs, exécution parallèle
+- **séquence** : Foundation → shared packages → apps
 
-- **s_applique_à** → [[kb/_entites-mineures#workflows-agents-complexes\|workflows agents complexes]] (CONCEPT) — 0.92
-
-- [[kb/_entites-mineures#Fountain\|Fountain]] **utilise** → orchestration multi-agents — 0.97
-- [[kb/WEnvision\|Wenvision]] **permet** → orchestration multi-agents — 0.95
-
-**Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]], [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision, plateforme de déploiement d'agents IA en entreprise : orchestration, gouvernance, observabilité et passage en production]]
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
 
 ### pattern Committee {#pattern-Committee}
 
@@ -18751,6 +19265,38 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|Philippe Ensarguet (Orange) soutient que cinquante ans de design patterns forment une lignée continue : à l'heure où l'IA banalise le code et casse l'apprentissage traditionnel des architectes, la « pattern literacy » (lire un système par ses forces invariantes) devient la compétence durable à enseigner — comme une grammaire, pas comme des catalogues.]]
 
+### phase Distill {#phase-Distill}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **composition** : Simplification post-merge + minage des leçons (lesson foundry)
+
+- **réduit** → [[kb/_entites-mineures#coût-par-changement-run-après-run\|coût par changement run après run]] (CONCEPT) — 0.92
+- **fait_partie_de** → [[kb/_entites-mineures#cycle-agentique-en-huit-phases\|cycle agentique en huit phases]] (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
+
+### phase Interrogate {#phase-Interrogate}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Phase à plus fort levier : interroger les parties prenantes après lecture du codebase
+
+- **permet** → [[kb/_entites-mineures#specs-dont-les-critères-nomment-leur-méthode-de-vérification\|specs dont les critères nomment leur méthode de vérification]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
+### phase Rail {#phase-Rail}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Geler tests/stubs/contrats depuis la spec avant le build
+
+- **utilise** → [[kb/_entites-mineures#tests-et-stubs-gelés-que-le-builder-ne-peut-modifier\|tests et stubs gelés que le builder ne peut modifier]] (CONCEPT) — 0.92
+- **fait_partie_de** → [[kb/_entites-mineures#cycle-agentique-en-huit-phases\|cycle agentique en huit phases]] (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
+
 ### planification multi-scénarios {#planification-multi-scénarios}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18761,6 +19307,16 @@
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
 
+### private evals {#private-evals}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mesurer l'amélioration d'un modèle sur les résultats métier internes
+
+- **mesure** → [[kb/_entites-mineures#l'amélioration-d'un-modèle-sur-les-résultats-métier\|l'amélioration d'un modèle sur les résultats métier]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
+
 ### progressive disclosure {#progressive-disclosure}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18770,6 +19326,17 @@
 - [[kb/_entites-mineures#système-de-fichiers-d'une-skill\|système de fichiers d'une skill]] **est_instance_de** → progressive disclosure — 0.93
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Article de blog **Anthropic / claude.com** signé **Thariq Shihipar** (Member of Technical Staff, équipe Claude Code), publié le **3 juin 2026**, qui capitalise le **retour d'expérience interne** d'Anthropic sur la conception et l'usage des **Skills**. **Thèse de cadrage** : une Skill n'est pas un simple fichier markdown mais un **dossier** (instructions + scripts + ressources + config + hooks) que l'agent **découvre et manipule** ; *« You should think of the entire file system as a form of context engineering and progressive disclosure. »* L'article propose deux apports structurants. **(A) Une taxonomie de 9 catégories de skills** observées chez Anthropic : (1) **Library/API Reference** (doc de libs/CLI internes avec *gotchas* — ex. `billing-lib`, `internal-platform-cli`, `sandbox-proxy`) ; (2) **Product Verification** (test/vérif via Playwright ou tmux — `signup-flow-driver`, `checkout-verifier`, `tmux-cli-driver`) ; (3) **Data Fetching & Analysis** (accès stacks data/monitoring — `funnel-query`, `cohort-compare`, `grafana`, `datadog`) ; (4) **Business Process Automation** (workflows répétitifs — `standup-post`, `weekly-recap`, `create-<ticket>-ticket`) ; (5) **Code Scaffolding** (boilerplate framework — `new-migration`, `create-app`) ; (6) **Code Quality & Review** (`adversarial-review`, `code-style`, `testing-practices`) ; (7) **CI/CD & Deployment** (`babysit-pr`, `deploy-<service>`, `cherry-pick-prod`) ; (8) **Runbooks** (diagnostic multi-outils — `<service>-debugging`, `oncall-runner`, `log-correlator`) ; (9) **Infrastructure Operations** (maintenance avec garde-fous — `<resource>-orphans`, `cost-investigation`). **(B) Un jeu de bonnes pratiques** : ne pas redire l'évident (*« Claude already knows how to code and can read your codebase »* → cibler ce qui **contredit le comportement par défaut**) ; soigner la **section Gotchas** (*« the highest-signal content in any skill »*) ; **progressive disclosure** via l'arborescence (pointer vers des fichiers de référence selon la situation plutôt que tout charger d'emblée) ; **descriptions pensées pour le modèle** (*« the description field is not a summary, it's a description of when to trigger this skill »*) ; **setup flows** (config dans `config.json`, sinon demander via `AskUserQuestion`) ; **mémoire persistante** (logs append-only / JSON via la variable `${CLAUDE_PLUGIN_DATA}`) ; **helper scripts** (*« lets Claude spend its turns on composition… rather than reconstructing boilerplate »*) ; **hooks conditionnels** (activés seulement le temps de la skill — ex. hook de sécurité bloquant les commandes destructrices). **Distribution chez Anthropic** : skills rangées dans `./.claude/skills`, partage informel via Slack dans un dossier sandbox, puis promotion par **PR** vers le **marketplace** interne quand elles gagnent en traction ; **mesure d'usage** via un **hook `PreToolUse`** qui logue les invocations (révèle les skills populaires et celles sous-utilisées). Suite directe de la fiche [[shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10]] (même auteur) et complément concret aux fiches Skills d'Anthropic/Willison/Vincent et au *harness engineering*.]]
+
+### prosecution {#prosecution}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer
+
+- **s_oppose_à** → [[kb/_entites-mineures#revue-de-code-collaborative\|revue de code collaborative]] (METHODOLOGIE) — 0.92
+- **réduit** → [[kb/_entites-mineures#sycophancie-du-reviewer\|sycophancie du reviewer]] (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
 ### pédagogie socratique {#pédagogie-socratique}
 
@@ -18793,6 +19360,16 @@
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Google AI Mode - Search transformation - Personalized sites - Generative search - Web génératif]]
 
+### rail discipline {#rail-discipline}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **règles** : Contextes d'écriture séparés, gel mécanique au niveau outil, audits adversariaux
+
+- **réduit** → [[kb/_entites-mineures#gaming-des-tests-par-le-builder\|gaming des tests par le builder]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
+
 ### red teaming {#red-teaming}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18810,6 +19387,16 @@
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] **est_basé_sur** → retrieval practice — 0.90
 
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+
+### reviewers mono-lentille {#reviewers-mono-lentille}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **dimensions** : Correction, sécurité, conformité de contrat, alignement spec, qualité des tests
+
+- **réduit** → [[kb/_entites-mineures#saturation-de-contexte-qui-dilue-le-jugement\|saturation de contexte qui dilue le jugement]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
 ### revue de code IA {#revue-de-code-IA}
 
@@ -18849,6 +19436,16 @@
 
 **Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Article du blog de **Pasquale Pillitteri** (ingénieur informatique, Palermo) publié le **29 mai 2026** (version FR), 18 min de lecture, rubrique *Claude Code & Anthropic*. **Thèse-pivot** : *« Claude Opus 4.8 est le modèle SEO le plus puissant de 2026, mais presque tout le monde l'utilise mal »* — non pas un problème de modèle mais de **système**. La règle d'or : ***« la stratégie est un tableau blanc, la production est une chaîne de montage »*** — il faut **scinder le SEO en deux phases distinctes**, et les mélanger est *« le moyen le plus rapide de gaspiller un modèle qui coûte cinq dollars par million de tokens en entrée et vingt-cinq en sortie »*. **Contexte modèle** : Opus 4.8 publié le **28 mai 2026** (41 jours après Opus 4.7), contexte **1M tokens**, **GraphWalks Long-Context F1 à 1M : 40,3 % → 68,1 %**, **SWE-bench Verified 88,6 %**, **USAMO 2026 96,7 %** (+27,4 pts), **HLE avec tool 57,9 %**, prix inchangé **5 $/25 $** par M tokens, **Fast Mode 2,5× à 10 $/50 $**, quatre **effort levels** (Low, High, Extra, Max). **L'anti-pattern central** = *« la conversation géante »* / **dérive du contexte** : mélanger stratégie, keyword research, analyse concurrentielle et rédaction dans un seul chat produit une *« bouillie d'intentions contradictoires »* → le modèle glisse vers les **best practices génériques** (« optimisation holistique », « approche stratégique ») au lieu d'un contenu ancré aux données. **Phase 1 — Stratégie (tableau blanc, UI visuelle, one-off)** : dashboard / Google Sheet / canvas Claude.ai pour décider en voyant les données ensemble. **3 plays** : (a) **keyword research classifiée** (tableau volume / difficulté 0-100 / intention / potentiel business / priorité = volume÷difficulté×poids business) ; (b) **analyse concurrentielle visuelle** (matrice de couverture thématique, gaps) ; (c) **roadmap par phases** (quick wins M1-2 / moyen terme M3-6 / pillar pages M7-12). Mode **Extra/Max** justifié ici (*« une décision stratégique juste vaut mille pages bien écrites sur des mots-clés erronés »*). 3 artefacts fermés sauvegardés sur Notion/Drive. **Phase 2 — Production (chaîne de montage, Opus 4.8 + MCP)** : le modèle passe de stratège à **machine d'exécution** ; chaque décision **ancrée à des données live** via **Model Context Protocol**. **Stack MCP minimum** : **GSC MCP** (AminForou/mcp-gsc, 500+ étoiles), **Ahrefs MCP officiel** (98 étoiles), **GA4 MCP** ; repo `modelcontextprotocol/servers` = **86 440 étoiles**, **10 000+ serveurs actifs**, 97M téléchargements SDK/mois. Setup ~35 min, refresh mensuel ~20 min. **Loop hebdomadaire** : un prompt unique tire les données live, construit le brief (top 10 SERP + GSC + Ahrefs), dérive H2/H3, écrit, contrôle densité, suggère titres → **+45 % productivité**, draft en **6-12 min** (référence explicite au **content engineering de Ryan Law / Ahrefs**, 23 skills). Mention des **Dynamic Workflows** Anthropic (jusqu'à 1 000 subagents). **4 erreurs courantes** : (1) ne pas vérifier les chiffres (spot-check obligatoire, *trust & verify*) ; (2) remplacer complètement Semrush/Ahrefs (le MCP est une **couche par-dessus**, pas un substitut) ; (3) ignorer le **content gap paid-organic** (cas client education : **2 742 termes gaspillés / 351 opportunités** identifiés en 90 s) ; (4) utiliser Opus 4.8 là où **Haiku 4.5** suffit (meta descriptions, alt text). **Coût** : 1-3 $/article de 2 500 mots. **Sonnet 4.6** suffit pour la production récurrente, Opus 4.8 réservé à la stratégie. Article SEO-optimisé et auto-référentiel (l'auteur écrit sur le SEO un contenu lui-même conçu pour se positionner sur « Opus 4.8 SEO »). Convergence directe avec **Ryan Law/Ahrefs** (cité), **systems around the model** (Dropbox/Okumura), **skills-over-prompts** (Lattice), routage modèle Haiku/Sonnet/Opus (Gupta token-to-outcome).]]
 
+### routing de modèle {#routing-de-modèle}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principes** : Rail density, escalation ladder, DAG float
+
+- **est_basé_sur** → [[kb/_entites-mineures#rail-density,-escalation-ladder,-DAG-float\|rail density, escalation ladder, DAG float]] (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Cinquième volet ADLC : orchestrer des agents en parallèle sans « merge hell ». Williams pose trois cadrans couplés — coût (choix du modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — et un principe d'architecture : « control flow is code; judgment is models » (des scripts déterministes orchestrent, les modèles ne fournissent que le jugement). Quatre lanes (Contract Desk frontier, Builder Pool single-writer, Prosecution Pool partagé, Integrator séquentiel), un forecast de conflits de merge à partir de quatre signaux (largeur certifiée typiquement 3-5 agents), et la désambiguïsation par consensus de N agents pas chers plutôt que par questions de clarification.]]
+
 ### réplication automatique {#réplication-automatique}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18878,6 +19475,16 @@
 - [[kb/Stripe\|Stripe]] **utilise** → shift feedback left — 0.93
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle]]
+
+### simplification post-merge {#simplification-post-merge}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Dédupliquer après que le code existe, sur des patterns observables, tests garantissant le comportement
+
+- **surpasse** → [[kb/_entites-mineures#déduplication-avant-écriture-du-code\|déduplication avant écriture du code]] (METHODOLOGIE) — 0.89
+
+**Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|Sixième volet ADLC : Williams décrit la phase P7 « Distill » comme le composant qui fait baisser le coût à chaque run. Deux moitiés : la simplification post-merge (déduire après que le code existe, pas avant — « deduplicating before the code exists is speculative ») et le minage des leçons (un « lesson foundry » transforme les findings récurrents en règles de lint, skills et nouvelles questions d'interrogation). Chaque leçon est payée une fois puis rétrogradée de la détection probabiliste coûteuse vers la prévention déterministe gratuite. La bonne unité de compte est le « cost per merged, verified change », et « flat cost is failure ».]]
 
 ### single-hop short-lived tokens {#single-hop-short-lived-tokens}
 
@@ -18934,6 +19541,14 @@
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|Replit — agent IA hors de contrôle : suppression d'une base de données de production pendant un code freeze, incident majeur (Tom's Hardware)]]
 
+### séquencement d'adoption {#séquencement-d'adoption}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **ordre** : Prosecution des PRs → rails/tests → interrogation → parallélisme + distillation
+
+**Fiches** : [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|Septième et dernier volet ADLC : Williams présente un toolkit open-source de dix-huit outils construit *avec* le cycle lui-même (boucle build-prosecute-fix, agents parallèles, core `@adlc/core` gelé puis fan-out — « pinned means merged »). Le cœur doctrinal est « frontier-free » : atteindre les cibles de précision avec des modèles mid-tier (Opus/Sonnet/Haiku-class) plutôt que frontier, via cinq substitutions (search remplace insight, décomposition remplace horizon, banking remplace présence, mesure remplace métacognition, le generator-verifier gap fait tourner le moteur), l'humain restant le tier « frontier » sur les deux portes de spec. Fil rouge de la série : « replace trust with structure, and structure with measurement. »]]
+
 ### techniques de persuasion {#techniques-de-persuasion}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18953,6 +19568,16 @@
 - **résout** → [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Futur du codage autonome - Vision et implémentation chez Replit - VP IA développement automatisé]]
+
+### tests {#tests}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester
+
+- **est_instance_de** → [[kb/_entites-mineures#spécification-exécutable-du-cycle-agentique\|spécification exécutable du cycle agentique]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
 
 ### tests unitaires obligatoires {#tests-unitaires-obligatoires}
 
@@ -18991,6 +19616,16 @@
 - **remplace** → [[kb/_entites-mineures#courage-politique\|courage politique]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Pourquoi les équipes n'escaladent pas les problèmes, barrières organisationnelles, pression surengagement, risques carrière, actions leaders - John Cutler LinkedIn]]
+
+### two-strike regeneration {#two-strike-regeneration}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **règle** : Tuer un agent qui échoue deux fois et repartir d'un contexte frais plutôt que le coacher
+
+- [[kb/Phase-Build\|phase Build]] **utilise** → two-strike regeneration — 0.87
+
+**Fiches** : [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Deuxième volet de la série ADLC de Chris Williams : il déroule le cycle qui découle de la « première loi » — huit phases (P0 Triage → P7 Distill), un gate déterministe entre chaque paire, et exactement deux moments humains obligatoires (approbation de la spec en P1, acceptation comportementale en P6). Principe clé : un handoff LLM→LLM sans checkpoint déterministe multiplie les taux d'erreur ; et une distribution des coûts « en haltère » (lourde aux deux bouts, légère au milieu) qui inverse l'économie agile.]]
 
 ### two-tower retrieval {#two-tower-retrieval}
 

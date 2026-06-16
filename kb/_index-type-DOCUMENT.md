@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 66 entités de type DOCUMENT
+> 67 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -53,6 +53,7 @@
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)
+- [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] — nature: Whitepaper Google, série « Day 1 », mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] — catégorie: Ouvrage de référence du software craftsmanship (1999/2019) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)

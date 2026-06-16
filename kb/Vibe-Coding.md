@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 35 relations | 19 fiches sources
+> **Type** : METHODOLOGIE | 37 relations | 20 fiches sources
 
 ## Attributs
 
@@ -10,7 +10,7 @@
 - **critique** : App générée par IA sans contrôle humain rigoureux non viable en production
 - **date_origine** : Février 2025
 - **description** : Développement logiciel assisté par LLM/IA
-- **définition** : coder au feeling avec l'IA sans cadre structuré
+- **définition** : Prompter une IA et accepter le résultat avec vérification minimale
 - **fonction** : Raise the floor — démocratisation du software development
 - **type** : Anti-pattern selon Farley — spec vague + délégation IA sans pipeline
 - **usage** : Prototypage rapide jetable pour clarifier les exigences
@@ -61,6 +61,8 @@
 
 - [[kb/_entites-mineures#prototypes-et-MVPs\|prototypes et MVPs]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+- [[kb/_entites-mineures#prototypes,-scripts-et-projets-jetables\|prototypes, scripts et projets jetables]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 - [[kb/_entites-mineures#prototypage-expérimental\|prototypage expérimental]] (CONCEPT) — 0.82, ATEMPOREL
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 
@@ -98,6 +100,7 @@
 - [[kb/_entites-mineures#Gene-Kim\|Gene Kim]] **utilise** → vibe coding — 0.93
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → vibe coding — 0.92
 - [[kb/_entites-mineures#niveau-Autopilot\|niveau Autopilot]] **converge_avec** → vibe coding — 0.90
+- [[kb/_entites-mineures#agentic-engineering\|agentic engineering]] **est_variante_de** → vibe coding — 0.90
 - [[kb/Vibe-Reviewing\|Vibe Reviewing]] **s_oppose_à** → vibe coding — 0.90
 - [[kb/_entites-mineures#seniors-et-staff-engineers\|seniors et staff engineers]] **s_oppose_à** → vibe coding — 0.87
 
@@ -117,6 +120,7 @@
 - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck - Vibe Coding - TDD - AI-assisted development - Software craftsmanship - LinkedIn - Agile methodology]]
 - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC - Tech Away]]
+- [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager ni contributeur - Nicolas Martignole - Career paths - AI impact - Staff Engineer - Le Touilleur Express]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
 - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]

@@ -20,7 +20,7 @@
 
 ### résout
 
-- [[kb/_entites-mineures#Context-Rot\|Context Rot]] (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/Context-Rot\|Context Rot]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|Anatomie d'un harnais d'agent : Agent = Modèle + Harnais, composants fondamentaux et évolution des harnais LangChain]]
 
 ### utilise

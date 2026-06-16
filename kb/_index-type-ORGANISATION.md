@@ -181,7 +181,7 @@
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
 - [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
-- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (6 occ., 5 fiches)
+- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] — secteur: Développement logiciel / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)

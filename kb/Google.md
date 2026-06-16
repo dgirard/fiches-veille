@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 40 relations | 15 fiches sources
+> **Type** : ORGANISATION | 41 relations | 15 fiches sources
 
 ## Attributs
 
@@ -84,6 +84,8 @@
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI - Terms of Service - Privacy - Google - Data collection - Model training - Authentication]]
 - [[kb/_entites-mineures#guide-Demand-Led-Marketing-budget-2026\|guide Demand-Led Marketing budget 2026]] (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google - Demand-led marketing - Budget 2026 - Marketing strategy - Data-driven - Google insights - CMO guidance]]
+- [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.97, STATIQUE
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 - [[kb/_entites-mineures#AI-Studio\|AI Studio]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|a16z — Top 100 des applications Gen AI grand public (5e édition) : stabilisation du marché, montée de Gemini et Grok, vibe coding, apps chinoises (a16z.com)]]
 - [[kb/design-md\|design.md]] (TECHNOLOGIE) — 0.95, STATIQUE

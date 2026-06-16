@@ -1,16 +1,18 @@
 # Index — TECHNOLOGIE
 
-> 576 entités de type TECHNOLOGIE
+> 580 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] — type: Répertoire système hébergeant les skills Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] — type: Endpoint API pour gestion programmatique des skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#3000+-GPTs-custom\|3000+ GPTs custom]] — contexte: Parc de GPTs custom Moderna en juin 2025 (×4 vs avril 2024) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#@adlc-core\|@adlc/core]] — rôle: Core gelé : appels LLM, opérations git, conventions CLI, findings ledgers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@deepnote-blocks\|@deepnote/blocks]] — langage: TypeScript (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@deepnote-convert\|@deepnote/convert]] — type: CLI tool + API Node.js (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] — définition: Benchmark mesurant 4 jobs : investment banking associate, management consultant, Big Law associate, primary care physician (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] — catégorie: Agent-to-Agent standard émergent (référencé sur GitHub) pour les communications inter-agents (1 occ., 1 fiches)
+- [[kb/ADLC-Toolkit\|ADLC Toolkit]] — catégorie: Suite open-source de 18 outils npx zéro-dépendance pour le cycle ADLC (2 occ., 1 fiches)
 - [[kb/AGENTS-md\|AGENTS.md]] — catégorie: Fichier de contexte persistant pour agents IA (4 occ., 3 fiches)
 - [[kb/AGI\|AGI]] — définition: IA surpassant humains dans toutes tâches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Agent-Mesh\|AI Agent Mesh]] — catégorie: Data plane Uber pour la communication inter-agents — couche réseau cohérente pour l'orchestration agentique (1 occ., 1 fiches)
@@ -220,6 +222,7 @@
 - [[kb/_entites-mineures#Go\|Go]] — avantage_SDD: Compilation instantanée, syntaxe unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-ADK\|Google ADK]] — catégorie: Agent Development Kit Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-AI-Studio\|Google AI Studio]] — catégorie: Plateforme développement IA Google (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Google-Agents-CLI\|Google Agents CLI]] — catégorie: Outil CLI bundlant des skills ADK (create/playground/eval/deploy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Chrome\|Google Chrome]] — catégorie: Navigateur web dominant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Cloud-Platform\|Google Cloud Platform]] — catégorie: Plateforme cloud enterprise Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Coral\|Google Coral]] — catégorie: Plateforme edge inference TPU (1 occ., 1 fiches)
@@ -501,6 +504,7 @@
 - [[kb/_entites-mineures#agents-troisième-génération-(B3)\|agents troisième génération (B3)]] — catégorie: Agent autonome longue durée (1 occ., 1 fiches)
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] — catégorie: Plugin / fichier CLAUDE.md de guidelines (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] — type: Marketplace de skills pour Claude Code (2 occ., 2 fiches)
+- [[kb/_entites-mineures#base-de-connaissances\|base de connaissances]] — rôle: Rendre la mémoire institutionnelle interrogeable et l'usage des tokens efficient (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] — catégorie: Skill maître d'orchestration éditoriale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bots-de-codage\|bots de codage]] — usage: Génération de code supervisée par humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cache_control\|cache_control]] — description: Breakpoint créant un hash cryptographique scopé au workspace (1 occ., 1 fiches)

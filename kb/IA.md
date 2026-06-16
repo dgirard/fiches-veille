@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 33 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 34 relations | 4 fiches sources
 
 ## Attributs
 
@@ -79,6 +79,8 @@
   - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 - [[kb/_entites-mineures#coût-des-tâches-d'ingénierie-(migrations,-docs)\|coût des tâches d'ingénierie (migrations, docs)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|Bloomberg - Enterprise AI Deployment - Platform Engineering - Paved Path - Uplift Agents]]
+- [[kb/_entites-mineures#durée-de-la-phase-d'implémentation-du-SDLC\|durée de la phase d'implémentation du SDLC]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 - [[kb/_entites-mineures#stabilité-livraison-logicielle\|stabilité livraison logicielle]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
 - [[kb/_entites-mineures#compétences-techniques-profondes-(risque-d'atrophie)\|compétences techniques profondes (risque d'atrophie)]] (CONCEPT) — 0.85, DYNAMIQUE

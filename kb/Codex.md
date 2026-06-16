@@ -39,7 +39,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#Harness\|Harness]] (CONCEPT) — 0.92, DYNAMIQUE
+- [[kb/Harness\|Harness]] (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 - [[kb/_entites-mineures#Computer-Use-terminal\|Computer Use terminal]] (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]

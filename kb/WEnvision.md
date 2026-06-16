@@ -32,7 +32,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE) — 0.95, STATIQUE
+- [[kb/orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision, plateforme de déploiement d'agents IA en entreprise : orchestration, gouvernance, observabilité et passage en production]]
 - [[kb/_entites-mineures#déploiement-cloud,-on-premise-et-hybride\|déploiement cloud, on-premise et hybride]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision, plateforme de déploiement d'agents IA en entreprise : orchestration, gouvernance, observabilité et passage en production]]
