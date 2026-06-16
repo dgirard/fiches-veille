@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 406 entités de type PERSONNE
+> 407 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -253,6 +253,7 @@
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] — rôle: Développeur / coach craft / formateur français, blog personnel mathieueveillard.com, services Accompagnement et Office hours, newsletter hebdomadaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] — rôle: Auteur Thoughtworks blog, formalisateur du concept Service-as-Software (SaS) en décembre 2025. Profil public peu documenté hors Thoughtworks (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Mathew\|Matt Mathew]] — rôle: Sr Staff Engineer chez Uber, co-auteur principal de l'article *Solving the Identity Crisis for AI Agents* (2026-05-21) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Matt-Pocock\|Matt Pocock]] — rôle: Auteur de skills d'ingénierie (repo mattpocock/skills) (1 occ., 1 fiches)
 - [[kb/Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] — rôle: Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow (1 occ., 1 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)

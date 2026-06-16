@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2460 entités
+> 2466 entités
 
 ## #
 
@@ -89,6 +89,7 @@
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#adoption-bottom-up\|adoption bottom-up]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#ADR\|ADR]] (DOCUMENT, 1 fiches)
 - [[kb/AEO\|AEO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#After-Automation\|After Automation]] (DOCUMENT, 1 fiches)
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] (ORGANISATION, 1 fiches)
@@ -636,6 +637,8 @@
 - [[kb/_entites-mineures#context-graph\|context graph]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Context-inflation\|Context inflation]] (CONCEPT, 1 fiches)
 - [[kb/Context-Rot\|Context Rot]] (CONCEPT, 3 fiches)
+- [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Context7\|Context7]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#contexte\|contexte]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] (EVENEMENT, 1 fiches)
@@ -808,6 +811,7 @@
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#documentation-compressée\|documentation compressée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#documentation-statique\|documentation statique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#données-neurales\|données neurales]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#données-propriétaires\|données propriétaires]] (CONCEPT, 1 fiches)
@@ -1109,6 +1113,7 @@
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] (PERSONNE, 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE, 1 fiches)
+- [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] (TECHNOLOGIE, 1 fiches)
@@ -1442,6 +1447,7 @@
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matt-Mathew\|Matt Mathew]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Matt-Pocock\|Matt Pocock]] (PERSONNE, 1 fiches)
 - [[kb/Matthew-Connelly\|Matthew Connelly]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#mauvaise-configuration-load-balancer\|mauvaise configuration load balancer]] (CONCEPT, 1 fiches)

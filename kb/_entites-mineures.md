@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2124 entités avec moins de 3 triples/fiches
+> 2129 entités avec moins de 3 triples/fiches
 
-## PERSONNE (310)
+## PERSONNE (311)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1910,6 +1910,16 @@
 - **travaille_chez** → [[kb/_entites-mineures#Uber-(Sr-Staff-Engineer)\|Uber (Sr Staff Engineer)]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Article d'ingénierie publié sur le blog d'**Uber** par six ingénieurs (Matt Mathew, Prasad Borole, Meng Huang, Sergey Burykin, Gaurav Goel, Bayard Walsh) le **21 mai 2026**, exposant la **doctrine d'identité et de contrôle d'accès des agents IA** déployée en production chez Uber pour plusieurs milliers d'agents internes. **Thèse-pivot** : les modèles d'identité existants (humains + workloads) ne décrivent pas l'**agency** — *« an agent is best defined as an entity that is authorized to act for or in the place of another »* — et perdent la **provenance** à travers les hops d'un workflow agentique. **Deux problèmes opérationnels identifiés** : (1) ***« Current Identity Model Doesn't Describe Agency »*** — la délégation est le mode par défaut, les workflows sont compositionnels (agents qui appellent agents qui appellent tools), le comportement est dynamique (plans évoluent selon résultats intermédiaires) ; (2) ***« Original Provenance Isn't Effectively Carried Forward Across Agents to Systems »*** — *« Execution context (originating user, intermediate agents) is dropped across agent hops. »* **Architecture proposée** comme extension de la Zero Trust Architecture Uber : **Agent Registry** (source of truth des mappings agent↔workload) + **AI Agent Mesh** (data plane inter-agents) + **STS (Security Token Service)** (émission JWT scopés courts) + **MCP Gateway** (policy enforcement point pour invocation d'outils) + **AI Gateway** (médiation appels LLM externes avec guardrails) + **SPIRE** (provider de workload credentials). **Mécanique cryptographique** : workloads récupèrent des **SVID (SPIFFE Verifiable IDs)** signés cryptographiquement depuis SPIRE → SDK demande JWT au STS via identité workload → STS vérifie l'autorisation agent contre Agent Registry → token court (TTL en minutes) émis pour **destination single-hop spécifique** (claim `Audience` ciblé). **Doctrine pivot** : ***« Single-hop, short-lived tokens. Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes. »*** **Préservation de la chaîne d'acteurs** : exemple multi-hop avec on-call engineer `user1` → Oncall Agent (Workload-1) → Investigation Agent (Workload-2) → MCP Gateway ; le JWT final transporte l'**actor chain `[user1, oncall-agent, investigation-agent]`** vérifiable, permettant des décisions d'accès tool-level basées sur l'**historique complet de la requête**. **Standardisation** : **Standardized A2A (Agent-to-Agent) Client** qui automatise les échanges STS et la propagation de l'actor chain — *« the secure path is also the easiest path for developers to implement A2A calls »* — migration phasée des agents legacy. **Métriques production** : ***« P99 latency for the STS Token Exchange API is consistently below 40 milliseconds »***, milliers d'agents internes adoptés, dashboard d'observabilité temps réel traçant les sessions multi-agents. **Vision long terme — three-layer framework** : (1) Identity & Trust Foundation (identité agent vérifiable + delegation chains), (2) Dynamic Access Control (permissions context-based + human-in-the-loop), (3) Unified Enforcement Plane (politique centralisée observable). **Alignement standards** : IETF **WIMSE** working group + draft `draft-klrc-aiagent-auth-01` *AI Agent Authentication and Authorization*, basé conceptuellement sur **OAuth 2.0 Token Exchange (RFC 8693)** et **SPIFFE/SPIRE** (graduated CNCF). Première publication de référence d'un hyperscaler non-AI-lab (logistique/mobilité) qui industrialise la sécurité des agents au niveau infrastructure, comblant le gap doctrinal entre les frameworks de skills/harness (Vincent, Lattice, PROJ-AI) et les questions d'identité enterprise grade.]]
+
+### Matt Pocock {#Matt-Pocock}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur de skills d'ingénierie (repo mattpocock/skills)
+
+- **a_créé** → [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|Fiche de **Skill** (et non d'article) : `grill-with-docs` de Matt Pocock est une technique d'interview structurée qui « cuisine » (*grill*) un plan d'architecture en le confrontant méthodiquement au vocabulaire métier du projet (glossaire `CONTEXT.md`) et aux décisions déjà documentées (ADR). Plutôt que de foncer dans l'implémentation, elle challenge les hypothèses une par une via un dialogue question/réponse, nettoie la terminologie, vérifie la cohérence avec le code réel, et capture les décisions au fil de l'eau dans les bons artefacts. Skill de conception en amont, d'inspiration Domain-Driven Design.]]
 
 ### Matthew Kropp {#Matthew-Kropp}
 
@@ -16790,7 +16800,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (304)
+## METHODOLOGIE (305)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -17427,6 +17437,16 @@
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **fait_partie_de** → Doctrine sociale de l'Église — 0.99
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Première encyclique sociale du **Pape Léon XIV** (Robert Francis Prevost), datée du **15 mai 2026** (Rome, près de Saint-Pierre, 2e année du Pontificat), publiée pour le **135e anniversaire de *Rerum Novarum*** (Léon XIII, 15 mai 1891) et explicitement présentée comme **prolongement de la Doctrine sociale de l'Église à l'ère de l'IA**. Sous-titre canonique : *« sur la protection de la personne humaine à l'ère de l'intelligence artificielle »*. **245 paragraphes**, structurés en **Introduction + 5 chapitres + Conclusion**. **Thèse-pivot** organisée autour de deux **icônes bibliques** : la **tour de Babel** (Gn 11) — l'uniformité technologique sans Dieu, *« absolutisation de l'humain »* — vs la **reconstruction des murs de Jérusalem par Néhémie** (Ne 2-6) — la responsabilité partagée pierre par pierre, l'écoute, la coordination des familles. *« Le premier choix ne se situe pas entre un "oui" ou un "non" à la technologie, mais entre bâtir Babel ou reconstruire Jérusalem »* (n. 9). **Concepts canoniques** : (1) **IA "cultivées" plutôt que "construites"** — *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* (n. 98), formulation théologique remarquable qui reprend le vocabulaire ML-research récent ; (2) ***« Désarmer l'IA »*** (n. 110) — *« la soustraire à la logique de la compétition armée qui n'est plus aujourd'hui seulement militaire, mais aussi économique et cognitive »*, rendre l'IA *« habitable, en la restituant à la pluralité des cultures humaines »* ; (3) **Critique radicale de l'"alignement"** — *« Nous ne pouvons pas nous contenter d'invoquer la moralisation de la machine, ce qu'on appelle "l'alignement" de l'IA sur les valeurs humaines, sans avoir le courage de poser une condition supplémentaire : la possibilité de débattre du code éthique à utiliser »* (n. 107). ***« Une IA plus morale ne sert à rien si cette morale est décidée par une poignée de personnes. »*** (4) **Asymétrie épistémique** et **nouveaux monopoles de l'IA** (n. 109) — *« dans un monde où quelques sujets concentrent les données, les ressources informatiques et le pouvoir réglementaire »* ; (5) **Travail invisible** des étiqueteurs/modérateurs/extracteurs de terres rares (n. 109, 173) — *« des corps marqués, mutilés, utilisés pour que le flux de calcul ne s'interrompe jamais »* ; (6) **Colonialisme des données** (n. 178) — *« il ne domine pas seulement les corps, mais s'approprie les données »*, *« nouvelles terres rares du pouvoir »* ; (7) **IA et guerre** (n. 197-200) — *« Aucun algorithme capable de rendre la guerre moralement acceptable »* (n. 198), trois critères : responsabilité personnelle traçable, refus de raccourcir le délai du jugement moral, protection des civils ; (8) **Critique transhumanisme/posthumanisme** (n. 115-117) comme *« archipel d'îles conceptuelles reliées par le même océan de présupposés : la centralité de la technique et le rêve de dépasser les limites de la condition humaine »* ; (9) **Travail dans la transition** (n. 150-156) — *« contrairement aux avantages annoncés de l'IA, les approches actuelles de la technologie peuvent paradoxalement déqualifier les travailleurs, les soumettre à une surveillance automatisée »*, accès au travail comme priorité publique, anticipation de la transformation, fixation de critères sociaux pour l'innovation ; (10) **Question canonique reprise de Jean-Paul II** (Redemptor hominis 1979) : ***« l'IA rend-elle la vie humaine sur la terre "plus humaine" à tout point de vue ? La rend-[elle] plus "digne de l'homme" ? »*** (n. 129) ; (11) **Plus qu'humain authentique** : non le transhumanisme, mais la grâce — *« nous parvenons à être pleinement humains quand nous sommes plus qu'humains, quand nous permettons à Dieu de nous conduire au-delà de nous-mêmes »* (n. 128, citant François *Evangelii gaudium*) ; (12) **Désarmer les mots** (n. 214) — *« Désarmons les mots et nous contribuerons à désarmer la Terre »*. **Adressataires** : *« À tous les fidèles catholiques, à tous les chrétiens, à tous les hommes et à toutes les femmes de bonne volonté »* (n. 16) — registre **universel** dans la lignée de *Pacem in terris* (Jean XXIII 1963), *Laudato si'* (François 2015) et *Fratelli tutti* (François 2020). **Appel particulier aux développeurs IA** (n. 111) : *« chaque choix de conception exprime une vision de l'humanité »*. **Source magistrale**-clé citée : *Antiqua et nova* (Dicastères pour la Doctrine de la Foi + Culture et Éducation, 14 janvier 2025) + *Quo vadis, humanitas ?* (Commission théologique internationale, 9 février 2026). Document majeur du **Magistère social 2026**, à la jonction Doctrine sociale ↔ éthique de l'IA ↔ géopolitique des big tech ↔ critique du travail des microtravailleurs/extraction terres rares. Convergence implicite avec **Mensch / Mistral** (souveraineté énergétique IA), **Sun / NYT Permanent Underclass** (cf. mémoire travail→capital), **Wallace-Wells / NYT AI Populism** (cf. critique des oligarques tech), **Mollick × roon** (cf. ASI et politique interne). Première encyclique d'un Pape qui prend explicitement l'IA comme **objet central et structurant** plutôt que comme thème parmi d'autres.]]
+
+### Domain-Driven Design {#Domain-Driven-Design}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Inspiration (bounded contexts, vocabulaire de domaine)
+
+- [[kb/grill-with-docs\|grill-with-docs]] **s_inspire_de** → Domain-Driven Design — 0.88
+
+**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|Fiche de **Skill** (et non d'article) : `grill-with-docs` de Matt Pocock est une technique d'interview structurée qui « cuisine » (*grill*) un plan d'architecture en le confrontant méthodiquement au vocabulaire métier du projet (glossaire `CONTEXT.md`) et aux décisions déjà documentées (ADR). Plutôt que de foncer dans l'implémentation, elle challenge les hypothèses une par une via un dialogue question/réponse, nettoie la terminologie, vérifie la cohérence avec le code réel, et capture les décisions au fil de l'eau dans les bons artefacts. Skill de conception en amont, d'inspiration Domain-Driven Design.]]
 
 ### Dynamic Cheatsheet {#Dynamic-Cheatsheet}
 
@@ -20081,7 +20101,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (61)
+## DOCUMENT (64)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -20102,6 +20122,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → 2026 Agentic Coding Trends Report — 0.99
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
+
+### ADR {#ADR}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Architecture Decision Record (docs/adr/), créé sous 3 critères
+
+- **fait_partie_de** → [[kb/_entites-mineures#docs-adr\|docs/adr/]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|Fiche de **Skill** (et non d'article) : `grill-with-docs` de Matt Pocock est une technique d'interview structurée qui « cuisine » (*grill*) un plan d'architecture en le confrontant méthodiquement au vocabulaire métier du projet (glossaire `CONTEXT.md`) et aux décisions déjà documentées (ADR). Plutôt que de foncer dans l'implémentation, elle challenge les hypothèses une par une via un dialogue question/réponse, nettoie la terminologie, vérifie la cohérence avec le code réel, et capture les décisions au fil de l'eau dans les bons artefacts. Skill de conception en amont, d'inspiration Domain-Driven Design.]]
 
 ### AI-Powered Engineering at Scale: The Adoption Playbook {#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook}
 
@@ -20235,6 +20265,26 @@
 - [[kb/Sebastian-Raschka\|Sebastian Raschka]] **publie** → Build a Large Language Model (From Scratch) — 0.98
 
 **Fiches** : [[fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01\|Sebastian Raschka - Machine Learning - Book - Educational - Deep Learning - PyTorch - Hands-on]]
+
+### CONTEXT-MAP.md {#CONTEXT-MAP-md}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Pointe vers les CONTEXT.md/docs/adr de chaque bounded context
+
+- **référence** → [[kb/_entites-mineures#CONTEXT.md-de-chaque-bounded-context\|CONTEXT.md de chaque bounded context]] (DOCUMENT) — 0.87
+
+**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|Fiche de **Skill** (et non d'article) : `grill-with-docs` de Matt Pocock est une technique d'interview structurée qui « cuisine » (*grill*) un plan d'architecture en le confrontant méthodiquement au vocabulaire métier du projet (glossaire `CONTEXT.md`) et aux décisions déjà documentées (ADR). Plutôt que de foncer dans l'implémentation, elle challenge les hypothèses une par une via un dialogue question/réponse, nettoie la terminologie, vérifie la cohérence avec le code réel, et capture les décisions au fil de l'eau dans les bons artefacts. Skill de conception en amont, d'inspiration Domain-Driven Design.]]
+
+### CONTEXT.md {#CONTEXT-md}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Glossaire du vocabulaire métier (sans détails d'implémentation)
+
+- **est_instance_de** → [[kb/_entites-mineures#glossaire-du-domaine\|glossaire du domaine]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|Fiche de **Skill** (et non d'article) : `grill-with-docs` de Matt Pocock est une technique d'interview structurée qui « cuisine » (*grill*) un plan d'architecture en le confrontant méthodiquement au vocabulaire métier du projet (glossaire `CONTEXT.md`) et aux décisions déjà documentées (ADR). Plutôt que de foncer dans l'implémentation, elle challenge les hypothèses une par une via un dialogue question/réponse, nettoie la terminologie, vérifie la cohérence avec le code réel, et capture les décisions au fil de l'eau dans les bons artefacts. Skill de conception en amont, d'inspiration Domain-Driven Design.]]
 
 ### Clouded Judgement {#Clouded-Judgement}
 

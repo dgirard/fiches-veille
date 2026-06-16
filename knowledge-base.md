@@ -1,19 +1,19 @@
 # Knowledge Base — Veille Technologique
 
-> 304 fiches | 2460 entités | 4301 triples | Généré le 2026-06-16
+> 305 fiches | 2466 entités | 4317 triples | Généré le 2026-06-16
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (406)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (407)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (318)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (580)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (712)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (335)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (337)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (38)
 - [[kb/_index-type-LIEU\|LIEU]] (4)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (67)
-- [[kb/_entites-mineures\|Entités mineures]] (2138)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (70)
+- [[kb/_entites-mineures\|Entités mineures]] (2143)
 
 ## Entités les plus connectées
 
@@ -44,34 +44,34 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 522
-- **affirme_que** : 429
-- **permet** : 391
+- **utilise** : 525
+- **affirme_que** : 430
+- **permet** : 392
 - **mesure** : 332
-- **a_créé** : 294
+- **a_créé** : 295
 - **publie** : 270
 - **est_basé_sur** : 186
-- **améliore** : 174
-- **recommande** : 166
-- **est_instance_de** : 160
-- **réduit** : 160
-- **s_applique_à** : 154
-- **fait_partie_de** : 145
+- **améliore** : 175
+- **recommande** : 168
+- **est_instance_de** : 161
+- **réduit** : 161
+- **s_applique_à** : 156
+- **fait_partie_de** : 146
 - **remplace** : 125
 - **s_oppose_à** : 114
 
 ### Distribution par type
 
-- **PERSONNE** : 406 (16.5%)
+- **PERSONNE** : 407 (16.5%)
 - **ORGANISATION** : 318 (12.9%)
-- **TECHNOLOGIE** : 580 (23.6%)
+- **TECHNOLOGIE** : 580 (23.5%)
 - **CONCEPT** : 712 (28.9%)
-- **METHODOLOGIE** : 335 (13.6%)
+- **METHODOLOGIE** : 337 (13.7%)
 - **EVENEMENT** : 38 (1.5%)
 - **LIEU** : 4 (0.2%)
-- **DOCUMENT** : 67 (2.7%)
+- **DOCUMENT** : 70 (2.8%)
 
 ### Déduplication
 
-- **Triples** : 4370 → 4301 (69 doublons)
-- **Entités** : 3171 → 2460 (711 doublons)
+- **Triples** : 4386 → 4317 (69 doublons)
+- **Entités** : 3178 → 2466 (712 doublons)

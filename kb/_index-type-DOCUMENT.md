@@ -1,9 +1,10 @@
 # Index — DOCUMENT
 
-> 67 entités de type DOCUMENT
+> 70 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] — description: Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions (1 occ., 1 fiches)
@@ -19,6 +20,8 @@
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] — catégorie: Billet de bricolage / REX exploratoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
+- [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] — type: Livre, nommé meilleur livre 2024 par Amazon et The Economist (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] — type: Handbook de référence (Every Source Code + guide complet) (1 occ., 1 fiches)

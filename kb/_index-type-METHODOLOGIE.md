@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 335 entités de type METHODOLOGIE
+> 337 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -78,6 +78,7 @@
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Discovery-Mode\|Discovery Mode]] — rôle: Phase 1 : baseline acteurs + patterns visibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] — définition: Corpus magistériel vivant depuis Rerum Novarum (1891) qui articule Évangile, anthropologie chrétienne, et questions sociales (économie, politique, technique) — patrimoine de sagesse, principes et discernement communautaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] — rôle: Inspiration (bounded contexts, vocabulaire de domaine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dynamic-Cheatsheet\|Dynamic Cheatsheet]] — rôle: précurseur de ACE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dynamic-Spec-Development\|Dynamic Spec Development]] — rôle: Conversion raw requirements → Super Spec unifiée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dynamic-org-design\|Dynamic org design]] — description: Redéploiement interne, redesign des rôles, plutôt que remplissage de slots (1 occ., 1 fiches)
@@ -259,6 +260,7 @@
 - [[kb/_entites-mineures#git-worktrees\|git worktrees]] — usage: Isolation de tâches parallèles sur une même base de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] — définition: Always allow / Ask for approval / Disable, classifieur LLM, défaut deny (1 occ., 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
+- [[kb/grill-with-docs\|grill-with-docs]] — catégorie: Skill d'ingénierie — conception en amont, DDD-flavored (2 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
