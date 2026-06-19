@@ -16,6 +16,8 @@ The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering
 
 https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding
 
+<!-- Republication par Addy Osmani sur son blog perso (« The New Software Lifecycle », 2026-06-16) : https://addyosmani.com/blog/new-sdlc-vibe-coding/ — même contenu que le whitepaper Google, conservé ici plutôt qu'en fiche distincte (anti-doublon). -->
+
 ## Keywords
 
 nouveau SDLC, vibe coding, agentic engineering, ingénierie agentique, intention vs syntaxe, context engineering, ingénierie du contexte, contexte statique vs dynamique, Agent Skills, harness engineering, Agent = Modèle + Harness, usine logicielle, factory model, boucle de l'agent, evals, trajectory evaluation, conductor vs orchestrator, problème des 80 %, AGENTS.md, CLAUDE.md, GEMINI.md, MCP, A2A, Agents CLI, ADK, model routing, CapEx OpEx, coût total de possession, token economy, Google, Addy Osmani

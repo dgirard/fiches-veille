@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2129 entités avec moins de 3 triples/fiches
+> 2160 entités avec moins de 3 triples/fiches
 
-## PERSONNE (311)
+## PERSONNE (313)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1024,6 +1024,16 @@
 - **publie** → [[kb/_entites-mineures#stratégie-Esprit-de-conquête\|stratégie Esprit de conquête]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+
+### Fan Jiang {#Fan-Jiang}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Principal Data Scientist, Atlassian
+
+- **travaille_chez** → [[kb/Atlassian\|Atlassian]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
 
 ### Fareed Khan {#Fareed-Khan}
 
@@ -2413,6 +2423,16 @@
 
 **Fiches** : [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter]]
 
+### Robbie Geoghegan {#Robbie-Geoghegan}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Senior Data Scientist, Atlassian
+
+- **travaille_chez** → [[kb/Atlassian\|Atlassian]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
 ### Robby Stein {#Robby-Stein}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3323,6 +3343,16 @@
 - **rôle** : Analyse des données d'investigation via Claude
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Première campagne cyber espionnage orchestrée par IA - Claude Code manipulé - Acteur État chinois - 30 cibles globales - 80-90% automatisé - Jailbreaking - Anthropic Threat Intelligence]]
+
+### Archie {#Archie}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : IA / agents (workforce IA)
+
+- [[kb/Fred-PLAIS\|Fred PLAIS]] **dirige** → Archie — 0.90
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
 
 ### BCG {#BCG}
 
@@ -5551,18 +5581,6 @@
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
 
-### xAI {#xAI}
-
-**Type** : ORGANISATION | 2 relations | 2 fiches
-
-- **rôle** : acteur du réseau circulaire d'investissements IA
-- **secteur** : Laboratoire IA d'Elon Musk, opère X (ex-Twitter) et le modèle Grok
-
-- **publie** → [[kb/_entites-mineures#release-x-algorithm-du-15-mai-2026\|release x-algorithm du 15 mai 2026]] (EVENEMENT) — 0.99
-- **publie** → [[kb/_entites-mineures#x-algorithm-(release-open-source)\|x-algorithm (release open-source)]] (TECHNOLOGIE) — 0.99
-
-**Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]], [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|Rapport interne de teardown du release open-source **`xai-org/x-algorithm`** (15 mai 2026) — l'algorithme **For You feed** de **X (ex-Twitter)** en 2026, avec quatre pistes de recommandations growth audience-tunées (personal/founder, brand/company, framework généralisé, livrable client/consulting). **Thèse-pivot** : ***« The famous 2023 weight table — replies count more than likes by a big multiplier — describes a system that no longer exists in this form. »*** L'algorithme 2026 est un **transformeur (Phoenix, dérivé Grok-1)** qui apprend les poids depuis ton historique d'engagement, scoré contre une **surface multi-actions à 19 dimensions**, gatée par un service offline de content understanding (**Grox**). **La forme du scoring importe désormais beaucoup plus que les nombres — et les nombres eux-mêmes ne sont pas dans le release public**. **Architecture en 4 composants** : (1) **Home Mixer** (Rust, orchestrateur request-time, hydrate → source → filter → score → select → filter) ; (2) **Thunder** (Rust, in-memory store Kafka-fed des posts récents, lookups sub-ms des candidats in-network) ; (3) **Phoenix** (JAX ML, retrieval two-tower + ranking transformeur, ~Grok-1 dérivé) ; (4) **Grox** (offline, classifieurs spam/safety/PTOS/banger + embedder multimodal v5). **Les 19 actions prédites par Phoenix** (changement-clé vs 2023) : favorite, reply, repost, photo_expand, click, profile_click, vqv (video quality view gated by min duration), share, share_via_dm, share_via_copy_link, dwell, quote, quoted_click, follow_author, not_interested, block_author, mute_author, report, dwell_time (continuous). **Score final** = `Σ (weight × P(action))` modifié par **3 multiplicateurs structurels** : (a) **OON_WEIGHT_FACTOR < 1** (pénalité out-of-network), (b) **author diversity decay** `(1-floor) × decay_factor^position + floor` (atténuation exponentielle des posts répétés du même auteur dans un même render), (c) **video duration gate** (vqv ne contribue que si `video_duration_ms > MIN_VIDEO_DURATION_MS`). **Caveat capital** : **aucune valeur numérique des poids** (`FAVORITE_WEIGHT`, `OON_WEIGHT_FACTOR`, `AUTHOR_DIVERSITY_DECAY`, `MIN_VIDEO_DURATION_MS`...) n'est dans le release — tout est `crate::params::*`, géré par un feature-switch service interne X pour A/B testing. ***« Anyone telling you 'replies are worth N.N× more than likes in 2026' is fabricating a number that is not derivable from the OSS release. »*** **Différences-clés vs 2023** : (1) suppression de toute feature hand-engineered (*« We have eliminated every single hand-engineered feature and most heuristics from the system »*) ; (2) un seul modèle prédisant 19 actions vs plusieurs modèles 1 action chacun ; (3) Grox sépare content understanding et ranking ; (4) nouveaux signaux first-class (dwell continu, vqv gated, follow_author, 3 variantes de share) ; (5) two-tower OON retrieval (vs SimClusters+heuristics) avec embeddings multimodaux text+image+ASR-video. **Three layers of reach** (framework généralisé) : Eligibility (binary, Grox+filtres) → Retrieval (probabilistic, two-tower ANN) → Ranking (continuous, weighted-sum + multipliers). **Two laws of mechanical growth** : (1) In-network is multiplicative, OON is additive ; (2) The model's job is to predict you, not reward you. **Boundary d'honnêteté assumée** : checkpoint Phoenix released = mini (2 layers, 4 heads, 256-dim, corpus 537K posts sports), pas le modèle prod ; intégrations Thrift stubbées (`panic!("Not implemented")` dans `candidate_features.rs`) ; brand-safety lists, topic ID mappings, language penalties, ad-blending rules absents du public.]]
-
 ### Éditions Cybernetica {#Éditions-Cybernetica}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5589,7 +5607,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (475)
+## TECHNOLOGIE (479)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6247,6 +6265,16 @@
 - **usage** : Répertoire stable pour mémoire persistante (logs/JSON append-only)
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Article de blog **Anthropic / claude.com** signé **Thariq Shihipar** (Member of Technical Staff, équipe Claude Code), publié le **3 juin 2026**, qui capitalise le **retour d'expérience interne** d'Anthropic sur la conception et l'usage des **Skills**. **Thèse de cadrage** : une Skill n'est pas un simple fichier markdown mais un **dossier** (instructions + scripts + ressources + config + hooks) que l'agent **découvre et manipule** ; *« You should think of the entire file system as a form of context engineering and progressive disclosure. »* L'article propose deux apports structurants. **(A) Une taxonomie de 9 catégories de skills** observées chez Anthropic : (1) **Library/API Reference** (doc de libs/CLI internes avec *gotchas* — ex. `billing-lib`, `internal-platform-cli`, `sandbox-proxy`) ; (2) **Product Verification** (test/vérif via Playwright ou tmux — `signup-flow-driver`, `checkout-verifier`, `tmux-cli-driver`) ; (3) **Data Fetching & Analysis** (accès stacks data/monitoring — `funnel-query`, `cohort-compare`, `grafana`, `datadog`) ; (4) **Business Process Automation** (workflows répétitifs — `standup-post`, `weekly-recap`, `create-<ticket>-ticket`) ; (5) **Code Scaffolding** (boilerplate framework — `new-migration`, `create-app`) ; (6) **Code Quality & Review** (`adversarial-review`, `code-style`, `testing-practices`) ; (7) **CI/CD & Deployment** (`babysit-pr`, `deploy-<service>`, `cherry-pick-prod`) ; (8) **Runbooks** (diagnostic multi-outils — `<service>-debugging`, `oncall-runner`, `log-correlator`) ; (9) **Infrastructure Operations** (maintenance avec garde-fous — `<resource>-orphans`, `cost-investigation`). **(B) Un jeu de bonnes pratiques** : ne pas redire l'évident (*« Claude already knows how to code and can read your codebase »* → cibler ce qui **contredit le comportement par défaut**) ; soigner la **section Gotchas** (*« the highest-signal content in any skill »*) ; **progressive disclosure** via l'arborescence (pointer vers des fichiers de référence selon la situation plutôt que tout charger d'emblée) ; **descriptions pensées pour le modèle** (*« the description field is not a summary, it's a description of when to trigger this skill »*) ; **setup flows** (config dans `config.json`, sinon demander via `AskUserQuestion`) ; **mémoire persistante** (logs append-only / JSON via la variable `${CLAUDE_PLUGIN_DATA}`) ; **helper scripts** (*« lets Claude spend its turns on composition… rather than reconstructing boilerplate »*) ; **hooks conditionnels** (activés seulement le temps de la skill — ex. hook de sécurité bloquant les commandes destructrices). **Distribution chez Anthropic** : skills rangées dans `./.claude/skills`, partage informel via Slack dans un dossier sandbox, puis promotion par **PR** vers le **marketplace** interne quand elles gagnent en traction ; **mesure d'usage** via un **hook `PreToolUse`** qui logue les invocations (révèle les skills populaires et celles sous-utilisées). Suite directe de la fiche [[shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10]] (même auteur) et complément concret aux fiches Skills d'Anthropic/Willison/Vincent et au *harness engineering*.]]
+
+### CLI Augment {#CLI-Augment}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **performance** : 51,80 % sur SWE-bench Pro (fév. 2026, top publié alors)
+
+- **mesure** → [[kb/_entites-mineures#51,80-%-sur-SWE-bench-Pro-(fév.-2026)\|51,80 % sur SWE-bench Pro (fév. 2026)]] (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
 
 ### Call Evaluation {#Call-Evaluation}
 
@@ -8844,6 +8872,18 @@
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Interview Boris Cherny (créateur Claude Code, Anthropic) lors d'un événement Sequoia (animateurs : Asia, Lauren Reader). Cherny déclare ***"coding is solved"*** : il écrit lui-même **0 ligne de code** depuis fin 2025, le modèle écrit **100%**, *"a few dozen PRs/day, 150 PRs in a single day record"*. Récit de la genèse Claude Code (Anthropic Labs incubator fin 2024, Mike Krieger en charge du round 2, build pre-PMF *"for the next model"*, première release non-décollante, **exponential growth démarré avec Opus 4 en mai 2025**, accéléré à chaque nouveau modèle 4 → 4.5 → 4.6 → 4.7). Setup personnel actuel : **"most of my work I do from my phone"** (iOS), 5-10 sessions, **"a few hundred agents going, a few thousand at night"**, **`/loop` est l'avenir** (cron + repeat jobs, agents qui babysittent CI, rebasent les PRs, clusterisent les feedbacks Twitter). **Routines** = équivalent serveur, laptop fermé. Vision SaaS : pas d'apocalypse, mais **réordonnancement du framework 7 Powers de Helmer** (switching costs ↓, process power ↓, network effects/scale economies/cornered resources inchangés) et **10× plus de startups disruptives** dans les 10 prochaines années. Analogie pivot : la **presse de Gutenberg** (10% de littéracie en 1400 → 70% en quelques siècles, livre 100× moins cher en 50 ans), *"software will be similarly democratized, but faster than 50 years"* — *"the best person to write accounting software is not an engineer, it's a really good accountant."*]]
 
+### Rovo Dev {#Rovo-Dev}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Agent de codage IA d'Atlassian
+
+- **améliore** → [[kb/_entites-mineures#débit-de-pull-requests-des-équipes\|débit de pull requests des équipes]] (CONCEPT) — 0.92
+
+- [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] **utilise** → Rovo Dev — 0.88
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
 ### RubyLLM {#RubyLLM}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9287,6 +9327,16 @@
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Article d'ingénierie publié sur le blog d'**Uber** par six ingénieurs (Matt Mathew, Prasad Borole, Meng Huang, Sergey Burykin, Gaurav Goel, Bayard Walsh) le **21 mai 2026**, exposant la **doctrine d'identité et de contrôle d'accès des agents IA** déployée en production chez Uber pour plusieurs milliers d'agents internes. **Thèse-pivot** : les modèles d'identité existants (humains + workloads) ne décrivent pas l'**agency** — *« an agent is best defined as an entity that is authorized to act for or in the place of another »* — et perdent la **provenance** à travers les hops d'un workflow agentique. **Deux problèmes opérationnels identifiés** : (1) ***« Current Identity Model Doesn't Describe Agency »*** — la délégation est le mode par défaut, les workflows sont compositionnels (agents qui appellent agents qui appellent tools), le comportement est dynamique (plans évoluent selon résultats intermédiaires) ; (2) ***« Original Provenance Isn't Effectively Carried Forward Across Agents to Systems »*** — *« Execution context (originating user, intermediate agents) is dropped across agent hops. »* **Architecture proposée** comme extension de la Zero Trust Architecture Uber : **Agent Registry** (source of truth des mappings agent↔workload) + **AI Agent Mesh** (data plane inter-agents) + **STS (Security Token Service)** (émission JWT scopés courts) + **MCP Gateway** (policy enforcement point pour invocation d'outils) + **AI Gateway** (médiation appels LLM externes avec guardrails) + **SPIRE** (provider de workload credentials). **Mécanique cryptographique** : workloads récupèrent des **SVID (SPIFFE Verifiable IDs)** signés cryptographiquement depuis SPIRE → SDK demande JWT au STS via identité workload → STS vérifie l'autorisation agent contre Agent Registry → token court (TTL en minutes) émis pour **destination single-hop spécifique** (claim `Audience` ciblé). **Doctrine pivot** : ***« Single-hop, short-lived tokens. Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes. »*** **Préservation de la chaîne d'acteurs** : exemple multi-hop avec on-call engineer `user1` → Oncall Agent (Workload-1) → Investigation Agent (Workload-2) → MCP Gateway ; le JWT final transporte l'**actor chain `[user1, oncall-agent, investigation-agent]`** vérifiable, permettant des décisions d'accès tool-level basées sur l'**historique complet de la requête**. **Standardisation** : **Standardized A2A (Agent-to-Agent) Client** qui automatise les échanges STS et la propagation de l'actor chain — *« the secure path is also the easiest path for developers to implement A2A calls »* — migration phasée des agents legacy. **Métriques production** : ***« P99 latency for the STS Token Exchange API is consistently below 40 milliseconds »***, milliers d'agents internes adoptés, dashboard d'observabilité temps réel traçant les sessions multi-agents. **Vision long terme — three-layer framework** : (1) Identity & Trust Foundation (identité agent vérifiable + delegation chains), (2) Dynamic Access Control (permissions context-based + human-in-the-loop), (3) Unified Enforcement Plane (politique centralisée observable). **Alignement standards** : IETF **WIMSE** working group + draft `draft-klrc-aiagent-auth-01` *AI Agent Authentication and Authorization*, basé conceptuellement sur **OAuth 2.0 Token Exchange (RFC 8693)** et **SPIFFE/SPIRE** (graduated CNCF). Première publication de référence d'un hyperscaler non-AI-lab (logistique/mobilité) qui industrialise la sécurité des agents au niveau infrastructure, comblant le gap doctrinal entre les frameworks de skills/harness (Vincent, Lattice, PROJ-AI) et les questions d'identité enterprise grade.]]
 
+### Starlink {#Starlink}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Constellation satellite, principale source de revenus de SpaceX
+
+- **fait_partie_de** → [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|À la veille de l'IPO record de SpaceX (valorisation visée ~1,75 à 1,8 billion de dollars), le New York Times publie une analyse interactive du bilan des promesses publiques d'Elon Musk. Sur plus de 600 engagements chiffrés et datés (déclarations, posts, calls investisseurs), seuls ~19 % ont été tenus dans les délais, voire jamais. Le taux se dégrade dans le temps : ~75 % tenus en 2015, moins de 50 % en 2020. Mars, le robotaxi et l'autonomie totale concentrent l'essentiel des cibles répétées et repoussées. Le propos relie ce track record au prospectus SpaceX, qui mise désormais sur l'IA (xAI fusionnée) et reconnaît lui-même que le calendrier de ses grands chantiers est indéterminable.]]
+
 ### Stitch {#Stitch}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -9365,6 +9415,16 @@
 - **fait_partie_de** → [[kb/_entites-mineures#SuperClaude-MCP-integration\|SuperClaude MCP integration]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+
+### Teamwork Graph {#Teamwork-Graph}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Couche de contexte Atlassian améliorant précision et efficience en tokens de l'IA
+
+- **améliore** → [[kb/_entites-mineures#précision-de-l'IA-(+44-%)-avec-−48-%-de-tokens\|précision de l'IA (+44 %) avec −48 % de tokens]] (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
 
 ### Terminal Bench 2.0 {#Terminal-Bench-2.0}
 
@@ -10439,7 +10499,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (689)
+## CONCEPT (702)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12631,6 +12691,14 @@
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Thread X viral (**230,5K vues**, 28 mai 2026, 1h51) de **Jaya Gupta** (@JayaGup10, investisseuse — vraisemblablement Foundation Capital, auteure du cadre *Context Graphs*) intitulé ***« Token Budget Wars »***. **Thèse-pivot** : ***« Enterprise AI has moved from adoption to allocation »*** — la phase 1 de l'IA d'entreprise a prouvé que les modèles savent travailler ; la phase 2 décidera **combien de ce travail vaut la peine**. La nouvelle monnaie au sommet de l'entreprise est la **capacité à quantifier le ROI de l'IA** : *« show me the value »*. Concept canonique : ***marginal token utility*** = *« the business value created by each additional dollar of inference »* — le nombre qui compte à l'échelle, et que **la plupart des entreprises ne peuvent pas voir**. Chronologie : **Claude shippé novembre 2025**, après le lock des budgets annuels 2026 → dès le **Q1**, entreprises *« running multiples ahead of plan »* → l'inférence cesse d'être une ligne d'expérimentation pour devenir un **coût opérationnel récurrent**. Bascule **expérimentation (quelques 100K$) → infrastructure (7 chiffres, 1M$+)** : à l'échelle infra, **la variance technique produit des swings de P&L matériels — deux exécutions du même workflow sur le même input peuvent différer de 5-10× en coût de tokens** sans rien de visiblement cassé, *« a number the CFO has to explain to the CEO »*. **L'IA concurrence le travail** : 3 types de demandes budgétaires (remplacer du travail externalisé / interne / générer du revenu) → glissement vers le ***cost of a completed outcome*** (cost per resolved ticket, processed claim, reviewed contract, completed invoice, avoided hire, retained customer, dollar of revenue moved). **BPO = baseline le plus facile à benchmarker** (déjà tarifé en unités complétées) ; travail interne bien plus dur (employés polyvalents, gains diffus, résistance RH à réduire les effectifs). **Pourquoi c'est différent du SaaS** : le SaaS a appris à traiter l'usage comme proxy de valeur ; l'IA casse ce proxy — *« the signal and the noise share the same unit »* (le token), *« SaaS usage told you the software had been adopted. AI usage tells you the meter is running. It doesn't tell you whether your company is cooking »*. **Trois causes de l'invisibilité de la marginal token utility** : (1) ***retry tails*** — tokens par workflow résolu ≈ **T/p** ; passer de 90% à 70% de complétion augmente le coût effectif de ~**28%**, pas 20%, car les échecs composent ; (2) ***context inflation*** — coût d'inférence ≈ **O(n²)** en longueur de contexte (attention), doubler le contexte **quadruple** le coût de raisonnement (sur-récupération : 50 docs quand 5 suffisent) ; (3) ***routing*** — par défaut on prend le modèle le plus puissant (classification basique sur modèle de raisonnement complexe) ; sur des millions d'appels, la différence entre router les tâches faciles vers un petit modèle et tout envoyer au frontier = *« the difference between a manageable bill and a board-level problem »*. **Bifurcation sectorielle** : entreprises **software** = problème de **mesure de productivité** (déjà instrumenté : PRs, commits, deploys, incidents, cycle time, MTTR — tracke les *« AI layoffs »*) ; entreprises **non-software** = problème de **transformation** (travail opérationnel : claims, underwriting, support, compliance reviews, supply chain exceptions, payment disputes — *right under audit, not just right on average*). **La couche manquante = token-to-outcome attribution** : une couche de conversion reliant dépense d'inférence → travail effectué → outcome business, qui répond à 3 questions (coût réel incluant retries/corrections ; quelles parties du trace ont compté vs thrashing ; le travail a-t-il changé l'operating model). ***Measurement becomes memory*** : pour relier un token à un outcome il faut capturer les **decision traces** (ce que l'agent a vu, récupéré, appelé, ignoré, où il a retried, quand un humain a overridé) — *« decision rationale is one of the most perishable assets in a company »* (vit dans Slack, emails, escalation calls, têtes des gens). Les agents **créent** ces traces ; capturées d'abord pour justifier la dépense, elles deviennent *« more valuable than the cost report »* → un **context graph** (*« although I am so tired of that word these days »*). **The allocation layer is the prize** : qui possède le token-to-outcome attribution fait les **allocation calls** (quels workflows méritent plus de compute, lesquels cappés, lesquels en modèles cheaper, lesquels restent humains, lesquels remplacent le BPO). Les entreprises ne le feront pas seules — elles l'**achèteront comme une transformation** (playbook Fortune 500 : McKinsey + alumni Palantir + top-down CEO, à la manière ERP/BI/digital transformation, un *« program »* avec sponsor exécutif et une infra qui devient la **nouvelle source de vérité**). Cadre par **Charlie Munger** : *« show me the incentive and I will show you the outcome »*. Sous-thèse organisationnelle : instinct exécutif trentenaire *big teams = big jobs/scope/power* → quand l'intelligence devient la **ressource rare**, le nouveau marqueur est *« how much of it you're orchestrating »*. Pertinence directe pour le **positionnement Optimisation des coûts / FinOps agentique** : confirme empiriquement les leviers (routage modèles, prompt caching, hygiène contexte, sub-agents) et déplace le KPI vers le **coût par outcome complété**. Convergence forte avec Bain *cross-system labor* (execution data moat, Cursor), Ng *No AI jobpocalypse* (pricing ancré sur le salaire de l'employé remplacé), DORA ROI (coût par feature), Mensch/Mistral (electron→token), Ensarguet (économie de la computation), Foundation Capital *Context Graphs* (decision traces, même autrice), Wescale *Token Burning*, BFM/Girard (token = fuel de valeur).]]
 
+### Mars {#Mars}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Cible récurrente (~19 mentions) aux échéances sans cesse repoussées
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|À la veille de l'IPO record de SpaceX (valorisation visée ~1,75 à 1,8 billion de dollars), le New York Times publie une analyse interactive du bilan des promesses publiques d'Elon Musk. Sur plus de 600 engagements chiffrés et datés (déclarations, posts, calls investisseurs), seuls ~19 % ont été tenus dans les délais, voire jamais. Le taux se dégrade dans le temps : ~75 % tenus en 2015, moins de 50 % en 2020. Mars, le robotaxi et l'autonomie totale concentrent l'essentiel des cibles répétées et repoussées. Le propos relie ce track record au prospectus SpaceX, qui mise désormais sur l'IA (xAI fusionnée) et reconnaît lui-même que le calendrier de ses grands chantiers est indéterminable.]]
+
 ### Measurement becomes memory {#Measurement-becomes-memory}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -14450,6 +14518,16 @@
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
 
+### code output {#code-output}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **statut** : Ressource devenue abondante (non rare) à l'ère de l'IA
+
+- **affirme_que** → [[kb/_entites-mineures#a-cessé-d'être-une-ressource-rare\|a cessé d'être une ressource rare]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
 ### code rot (pourriture du code) {#code-rot-(pourriture-du-code)}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15213,6 +15291,14 @@
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision, plateforme de déploiement d'agents IA en entreprise : orchestration, gouvernance, observabilité et passage en production]]
 
+### goulot d'étranglement {#goulot-d'étranglement}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Contrainte limitante qui, avec l'IA, se déplace de l'exécution vers l'amont (vision/décision)
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
 ### gouvernance {#gouvernance}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15719,6 +15805,22 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 
+### métaphore de la conduite {#métaphore-de-la-conduite}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : 200 km/h vs 100 km/h : freins (garde-fous) + carte (vision) requis quand l'exécution accélère
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
+### métriques d'impact {#métriques-d'impact}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Mesurer la valeur de l'IA par le résultat (throughput, heures, qualité) plutôt que l'usage (tokens)
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
 ### naïveté délibérée {#naïveté-délibérée}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -15823,6 +15925,14 @@
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
 
+### paradoxe de la productivité {#paradoxe-de-la-productivité}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Solow (1987) : adoption massive d'une techno sans gain visible dans les statistiques de productivité
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
 ### parallèle du stagiaire {#parallèle-du-stagiaire}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15838,6 +15948,14 @@
 - **définition** : Module Rust attendu contenant les valeurs de FAVORITE_WEIGHT, OON_WEIGHT_FACTOR etc. — **n'existe pas** dans le release public (vérifié par grep -rn exhaustif)
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|Rapport interne de teardown du release open-source **`xai-org/x-algorithm`** (15 mai 2026) — l'algorithme **For You feed** de **X (ex-Twitter)** en 2026, avec quatre pistes de recommandations growth audience-tunées (personal/founder, brand/company, framework généralisé, livrable client/consulting). **Thèse-pivot** : ***« The famous 2023 weight table — replies count more than likes by a big multiplier — describes a system that no longer exists in this form. »*** L'algorithme 2026 est un **transformeur (Phoenix, dérivé Grok-1)** qui apprend les poids depuis ton historique d'engagement, scoré contre une **surface multi-actions à 19 dimensions**, gatée par un service offline de content understanding (**Grox**). **La forme du scoring importe désormais beaucoup plus que les nombres — et les nombres eux-mêmes ne sont pas dans le release public**. **Architecture en 4 composants** : (1) **Home Mixer** (Rust, orchestrateur request-time, hydrate → source → filter → score → select → filter) ; (2) **Thunder** (Rust, in-memory store Kafka-fed des posts récents, lookups sub-ms des candidats in-network) ; (3) **Phoenix** (JAX ML, retrieval two-tower + ranking transformeur, ~Grok-1 dérivé) ; (4) **Grox** (offline, classifieurs spam/safety/PTOS/banger + embedder multimodal v5). **Les 19 actions prédites par Phoenix** (changement-clé vs 2023) : favorite, reply, repost, photo_expand, click, profile_click, vqv (video quality view gated by min duration), share, share_via_dm, share_via_copy_link, dwell, quote, quoted_click, follow_author, not_interested, block_author, mute_author, report, dwell_time (continuous). **Score final** = `Σ (weight × P(action))` modifié par **3 multiplicateurs structurels** : (a) **OON_WEIGHT_FACTOR < 1** (pénalité out-of-network), (b) **author diversity decay** `(1-floor) × decay_factor^position + floor` (atténuation exponentielle des posts répétés du même auteur dans un même render), (c) **video duration gate** (vqv ne contribue que si `video_duration_ms > MIN_VIDEO_DURATION_MS`). **Caveat capital** : **aucune valeur numérique des poids** (`FAVORITE_WEIGHT`, `OON_WEIGHT_FACTOR`, `AUTHOR_DIVERSITY_DECAY`, `MIN_VIDEO_DURATION_MS`...) n'est dans le release — tout est `crate::params::*`, géré par un feature-switch service interne X pour A/B testing. ***« Anyone telling you 'replies are worth N.N× more than likes in 2026' is fabricating a number that is not derivable from the OSS release. »*** **Différences-clés vs 2023** : (1) suppression de toute feature hand-engineered (*« We have eliminated every single hand-engineered feature and most heuristics from the system »*) ; (2) un seul modèle prédisant 19 actions vs plusieurs modèles 1 action chacun ; (3) Grox sépare content understanding et ranking ; (4) nouveaux signaux first-class (dwell continu, vqv gated, follow_author, 3 variantes de share) ; (5) two-tower OON retrieval (vs SimClusters+heuristics) avec embeddings multimodaux text+image+ASR-video. **Three layers of reach** (framework généralisé) : Eligibility (binary, Grox+filtres) → Retrieval (probabilistic, two-tower ANN) → Ranking (continuous, weighted-sum + multipliers). **Two laws of mechanical growth** : (1) In-network is multiplicative, OON is additive ; (2) The model's job is to predict you, not reward you. **Boundary d'honnêteté assumée** : checkpoint Phoenix released = mini (2 layers, 4 heads, 256-dim, corpus 537K posts sports), pas le modèle prod ; intégrations Thrift stubbées (`panic!("Not implemented")` dans `candidate_features.rs`) ; brand-safety lists, topic ID mappings, language penalties, ad-blending rules absents du public.]]
+
+### pensée claire {#pensée-claire}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Le vrai cœur du métier, que la vitesse rend impossible à simuler
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
 
 ### perspective européenne IA {#perspective-européenne-IA}
 
@@ -15912,6 +16030,14 @@
 - **fait_partie_de** → [[kb/_entites-mineures#Team-Topologies\|Team Topologies]] (METHODOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Structure équipes Data & AI - Études de cas Team Topologies - Design organisationnel - Xebia - Arjan van den Heuvel]]
+
+### portes humaines {#portes-humaines}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Define, Plan, Ship — points de décision non négociables réservés à l'humain
+
+**Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Article SFEIR (en français) qui formalise un **SDLC piloté par l'IA en 11 phases (0 à 10)** et soutient que l'industrie y converge. Constat de départ : en 2025, les organisations ont ajouté des outils IA sans transformer leur modèle opératoire — d'où un paradoxe « tout change… et rien ne change » (la vitesse d'exécution se multiplie sans gain proportionné). La vraie réponse n'est pas le choix d'outils mais la **refonte du cycle** pour une exécution machine. Le cycle SFEIR repose sur **trois portes humaines inamovibles** (Define, Plan, Ship), des phases automatiques entre elles, et **deux moments de capitalisation** (Compound-1 pré-déploiement, Compound-2 en production) qui transforment les leçons en règles réutilisables. Trois principes : l'**IA exécute** (artefacts complets + preuve d'exécution, jamais de confiance aux déclarations de l'agent), l'**humain garde le contrôle de l'intention**, le **système apprend cumulativement**. Résultats mesurés (refonte 6 mois→1 jour, **−30 % d'itérations** après dix cycles) et convergence revendiquée avec ADLC, Google et DORA 2025.]]
 
 ### pression surengagement {#pression-surengagement}
 
@@ -16146,6 +16272,14 @@
 - **réduit** → [[kb/_entites-mineures#escalation\|escalation]] (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Pourquoi les équipes n'escaladent pas les problèmes, barrières organisationnelles, pression surengagement, risques carrière, actions leaders - John Cutler LinkedIn]]
+
+### robotaxi / full self-driving {#robotaxi-full-self-driving}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : >60 objectifs annoncés liés à l'autonomie, largement non tenus
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|À la veille de l'IPO record de SpaceX (valorisation visée ~1,75 à 1,8 billion de dollars), le New York Times publie une analyse interactive du bilan des promesses publiques d'Elon Musk. Sur plus de 600 engagements chiffrés et datés (déclarations, posts, calls investisseurs), seuls ~19 % ont été tenus dans les délais, voire jamais. Le taux se dégrade dans le temps : ~75 % tenus en 2015, moins de 50 % en 2020. Mars, le robotaxi et l'autonomie totale concentrent l'essentiel des cibles répétées et repoussées. Le propos relie ce track record au prospectus SpaceX, qui mise désormais sur l'IA (xAI fusionnée) et reconnaît lui-même que le calendrier de ses grands chantiers est indéterminable.]]
 
 ### règle des 5% {#règle-des-5%}
 
@@ -16556,6 +16690,16 @@
 
 **Fiches** : [[fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10\|LangChain - traces comme documentation agents IA, observabilité, debugging runtime]]
 
+### track record de Musk {#track-record-de-Musk}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin
+
+- **s_applique_à** → [[kb/_entites-mineures#valorisation-de-l'IPO-SpaceX\|valorisation de l'IPO SpaceX]] (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|À la veille de l'IPO record de SpaceX (valorisation visée ~1,75 à 1,8 billion de dollars), le New York Times publie une analyse interactive du bilan des promesses publiques d'Elon Musk. Sur plus de 600 engagements chiffrés et datés (déclarations, posts, calls investisseurs), seuls ~19 % ont été tenus dans les délais, voire jamais. Le taux se dégrade dans le temps : ~75 % tenus en 2015, moins de 50 % en 2020. Mars, le robotaxi et l'autonomie totale concentrent l'essentiel des cibles répétées et repoussées. Le propos relie ce track record au prospectus SpaceX, qui mise désormais sur l'IA (xAI fusionnée) et reconnaît lui-même que le calendrier de ses grands chantiers est indéterminable.]]
+
 ### transparence des sauvegardes {#transparence-des-sauvegardes}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16629,6 +16773,26 @@
 - **réduit** → [[kb/_entites-mineures#compétences-de-lecture-critique-et-d'écriture\|compétences de lecture critique et d'écriture]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion]]
+
+### validation circulaire {#validation-circulaire}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Tests générés par l'IA confirmant du code généré par l'IA au lieu de vérifier le besoin réel
+
+- **s_oppose_à** → [[kb/_entites-mineures#vérification-du-besoin-réel-par-les-tests\|vérification du besoin réel par les tests]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
+
+### vibe architecting {#vibe-architecting}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer
+
+- [[kb/_entites-mineures#revue-humaine-d'architecture\|revue humaine d'architecture]] **résout** → vibe architecting — 0.87
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
 
 ### vibe hacking {#vibe-hacking}
 
@@ -16788,6 +16952,14 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 
+### érosion du pipeline junior {#érosion-du-pipeline-junior}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **risque** : Automatiser les tâches fondatrices plus vite que la refonte des rôles juniors rétrécit le vivier de seniors
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
+
 ### évolution Genèse-Marchandise {#évolution-Genèse-Marchandise}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -16800,7 +16972,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (305)
+## METHODOLOGIE (315)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -16942,6 +17114,14 @@
 - [[kb/_entites-mineures#Shawn-Wang\|Shawn Wang]] **recommande** → AI engineering — 0.92
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|Gartner Hype Cycle GenAI 2025 - Critical innovations - LLMs - AI engineering - Agentic AI - Infrastructure]]
+
+### AI governance / assurance {#AI-governance-assurance}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Superviser les sorties multi-agents et définir les frontières de responsabilité
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
 
 ### AI mobile app SLM {#AI-mobile-app-SLM}
 
@@ -17232,6 +17412,14 @@
 - **permet** → [[kb/_entites-mineures#régénération-de-la-demande-d'experts-humains\|régénération de la demande d'experts humains]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|Essai-pivot **Dan Shipper** (CEO Every) publié le **21 mai 2026** sur every.to, *« After Automation »* — réponse argumentée à la thèse de l'effondrement du travail intellectuel par l'IA. **Thèse-pivot** : le progrès de l'IA crée **plus de travail pour les humains, pas moins**. Mécanique en boucle (***« the commodification cycle »***) : (1) l'IA banalise la compétence humaine d'hier ; (2) cette compétence bon marché est massivement adoptée → abondance ; (3) l'abondance produit la *sameness* (le *« slop »*) ; (4) les humains exigent de la différence → demande renouvelée d'experts ; (5) les experts utilisent l'IA pour adresser les problèmes d'aujourd'hui → boucle. **Citation canonique** : ***« There's more work to do than ever »*** ; ***« AI commoditizes the residue of human expertise, creating demand for what's different »***. **Cadre conceptuel central — Frame vs. Framer** : les benchmarks mesurent la performance ***« within frames »*** (cadrages de problèmes spécifiques) ; une fois saturés, *changer le cadre remet le compteur à zéro* — les modèles **escaladent les cadres mais ne remplacent pas les cadreurs**. Formule-pivot : ***« the frame is not the framer »***. Même à AGI, des humains doivent **spécifier les objectifs et interpréter les résultats** — *« the frame problem regenerates one level up »*. **Le « Human Sandwich »** : Human sets frame → AI executes → Human judges and extends. **Deux modes de travail avec les agents** : (a) ***agent employees*** — délégation asynchrone (coworker / embedded — Claudie, Andy, Viktor, Fin) ; (b) ***human-AI collaboration*** synchrone (Claude Code et équivalents). **Données Every** : 95 % des emails du CEO traités par l'IA ; **Fin (Intercom) résout 65 % des conversations support**. **Le paradoxe de Zénon de l'IA** : l'IA réduit l'écart en continu, mais les humains restent « la tortue d'avant » parce qu'ils sont ***« alive to a specific moment »*** — *« running wants, running concerns »* — alors que les modèles opèrent sur des données de training historiques. **Benchmarks détaillés** : **GPT-5.5 = 62/100 sur Senior Engineer codebase rewrite** (vs humain 80-90s) ; **GDPval** : 40-49 % du niveau expert humain, **mais avec extensive framing humain**. **OpenClaw 44 469 PRs** en mai 2026 (vs Kubernetes 5 200 sur 2022) — preuve que l'agentique fait *« plus de travail »*, pas *« moins de travail humain »*. **AGI implications** : même AGI, le **framer humain** reste structurellement en avance — il adresse les problèmes *« current, situated »* alors que le modèle opère sur du *« historical training data »*. **Conclusion-pivot anti-tipping-point** : ce n'est pas un événement de bascule, c'est ***un pattern persistant*** qui définit l'avenir du travail. **Pertinence majeure** : contre-récit explicite à *Amodei white-collar bloodbath* / *Sun permanent underclass* / *Anthropic Economic Index* — Shipper, **CEO d'une boîte qui vit avec des agents au quotidien**, propose le cadre théorique qui réconcilie les deux observations empiriques (l'IA fait plus + les humains restent indispensables). Convergence forte avec **Ng "No AI jobpocalypse"** (2026-05-08), **Mollick × roon ASI / FDE** (2026-05-10), **Tatsyi/Raiffeisen "AI made engineers different"** (2026-05-05), **Curran/Intercom 3× R&D** (2026-04-16) — tous racontent que les humains sont *redéployés vers le framing* plus que *remplacés*. Tension productive avec **Sun NYT permanent underclass** (2026-04-30), **Wallace-Wells AI populism** (2026-05-08), **Osmani Cognitive Surrender** (2026-05-05 — le framer humain doit rester actif). À mobiliser pour COMEX / DG / boards : vocabulaire stratégique 2026 — *« frame vs framer »* devient grille canonique de pilotage IA.]]
+
+### Compound-1 / Compound-2 {#Compound-1-Compound-2}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Capture des leçons (pré-déploiement et runtime) transformées en règles réutilisables
+
+**Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Article SFEIR (en français) qui formalise un **SDLC piloté par l'IA en 11 phases (0 à 10)** et soutient que l'industrie y converge. Constat de départ : en 2025, les organisations ont ajouté des outils IA sans transformer leur modèle opératoire — d'où un paradoxe « tout change… et rien ne change » (la vitesse d'exécution se multiplie sans gain proportionné). La vraie réponse n'est pas le choix d'outils mais la **refonte du cycle** pour une exécution machine. Le cycle SFEIR repose sur **trois portes humaines inamovibles** (Define, Plan, Ship), des phases automatiques entre elles, et **deux moments de capitalisation** (Compound-1 pré-déploiement, Compound-2 en production) qui transforment les leçons en règles réutilisables. Trois principes : l'**IA exécute** (artefacts complets + preuve d'exécution, jamais de confiance aux déclarations de l'agent), l'**humain garde le contrôle de l'intention**, le **système apprend cumulativement**. Résultats mesurés (refonte 6 mois→1 jour, **−30 % d'itérations** après dix cycles) et convergence revendiquée avec ADLC, Google et DORA 2025.]]
 
 ### Context Development Lifecycle {#Context-Development-Lifecycle}
 
@@ -18142,6 +18330,25 @@
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]], [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
 
+### SDLC AI-native {#SDLC-AI-native}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Cycle de dev en 5 étapes (Plan, Orchestrate, Code, Review, Operate) où agents et humains s'associent
+
+- **fait_partie_de** → [[kb/_entites-mineures#partenariat-humain-agent-sur-cinq-étapes\|partenariat humain-agent sur cinq étapes]] (CONCEPT) — 0.90
+- **utilise** → [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
+### SDLC AI-native (6 étapes) {#SDLC-AI-native-(6-étapes)}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
+
 ### STAR {#STAR}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -18733,6 +18940,16 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 
+### cadre de mesure à 4 dimensions {#cadre-de-mesure-à-4-dimensions}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Speed (PR throughput), Efficiency (heures gagnées), Quality (change failure rate), Satisfaction
+
+- **s_applique_à** → [[kb/_entites-mineures#Speed,-Efficiency,-Quality,-Satisfaction\|Speed, Efficiency, Quality, Satisfaction]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|Étude data d'Atlassian (Inside Atlassian) mesurant le retour réel d'un **SDLC AI-native** outillé par **Rovo Dev**. Sur 3 400 dépôts de 2 500 clients (quasi-expérience avec appariement par score de propension), les dépôts adoptants mergent **19 % de PR en plus par mois** ; jusqu'à **37-51 %** sur les dépôts peu/moyennement actifs et **59-87 %** quand **3 à 5 membres** de l'équipe adoptent l'outil. Côté efficience, les développeurs gagnent **2-3 h/semaine** (≈10 % des 24 h consacrées au code et à la revue), soit 20-30 h/semaine réinvesties pour une équipe de 10. La thèse : résoudre le « paradoxe de la productivité » de Solow (1987) en passant de **métriques d'usage** (tokens) à des **métriques d'impact** (throughput, heures gagnées, taux d'échec, satisfaction). Recommandation : démarrer par une **équipe** (pas un individu) et mesurer 2-3 mois après.]]
+
 ### calibration de revue {#calibration-de-revue}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -18761,6 +18978,16 @@
 - **résultat** : −30% d'itérations de correction après ~10 cycles
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]]
+
+### capitalisation cumulative {#capitalisation-cumulative}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **résultat** : −30 % d'itérations de correction après dix cycles
+
+- **mesure** → [[kb/_entites-mineures#−30-%-d'itérations-de-correction-après-dix-cycles\|−30 % d'itérations de correction après dix cycles]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Article SFEIR (en français) qui formalise un **SDLC piloté par l'IA en 11 phases (0 à 10)** et soutient que l'industrie y converge. Constat de départ : en 2025, les organisations ont ajouté des outils IA sans transformer leur modèle opératoire — d'où un paradoxe « tout change… et rien ne change » (la vitesse d'exécution se multiplie sans gain proportionné). La vraie réponse n'est pas le choix d'outils mais la **refonte du cycle** pour une exécution machine. Le cycle SFEIR repose sur **trois portes humaines inamovibles** (Define, Plan, Ship), des phases automatiques entre elles, et **deux moments de capitalisation** (Compound-1 pré-déploiement, Compound-2 en production) qui transforment les leçons en règles réutilisables. Trois principes : l'**IA exécute** (artefacts complets + preuve d'exécution, jamais de confiance aux déclarations de l'agent), l'**humain garde le contrôle de l'intention**, le **système apprend cumulativement**. Résultats mesurés (refonte 6 mois→1 jour, **−30 % d'itérations** après dix cycles) et convergence revendiquée avec ADLC, Google et DORA 2025.]]
 
 ### character training {#character-training}
 
@@ -18944,6 +19171,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
 
+### formulation de vision précise {#formulation-de-vision-précise}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Articuler une intention assez précise pour qu'un agent l'exécute sans dérailler
+
+- **permet** → [[kb/_entites-mineures#exécution-fiable-par-un-agent-sans-dérive\|exécution fiable par un agent sans dérive]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
 ### forums légers récurrents {#forums-légers-récurrents}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -19042,6 +19279,16 @@
 - **permet** → [[kb/_entites-mineures#codification-des-connaissances-et-motifs\|codification des connaissances et motifs]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Every Marketplace - Compounding Engineering Plugin - Claude Code - GitHub - AI Development Workflow - Code Quality - Technical Debt Reduction]]
+
+### intent engineering {#intent-engineering}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Traduire des objectifs métier ambigus en spécifications testables pour les agents
+
+- **s_applique_à** → [[kb/_entites-mineures#traduction-d'objectifs-métier-ambigus-en-specs-testables\|traduction d'objectifs métier ambigus en specs testables]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
 
 ### islands architecture {#islands-architecture}
 
@@ -19212,6 +19459,17 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Troisième volet ADLC : Williams fait du test la spécification dans la seule langue que le builder ne peut pas contester. Là où le TDD est une pratique qualité optionnelle pour du code humain, il devient le mécanisme de confiance porteur de tout le cycle quand des agents codent. Trois règles de « rail discipline » : contextes d'écriture séparés (specs-only avant l'implémentation), gel mécanique au niveau de l'outil (pas du prompt), et audits adversariaux (« un test échoue-t-il si on supprime la feature ? »). Préférer le mutation testing au pourcentage de couverture, Goodhart-able à vitesse machine.]]
 
+### orchestration d'agents {#orchestration-d'agents}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Connaître les modes d'échec des agents, les chaîner, rattraper une erreur avant propagation
+
+- **permet** → [[kb/_entites-mineures#rattraper-une-erreur-avant-qu'elle-se-propage\|rattraper une erreur avant qu'elle se propage]] (CONCEPT) — 0.87
+- **s_applique_à** → [[kb/_entites-mineures#chaînage-des-agents-et-anticipation-de-leurs-échecs\|chaînage des agents et anticipation de leurs échecs]] (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
 ### orchestration de bots {#orchestration-de-bots}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -19326,6 +19584,16 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → planification multi-scénarios — 0.95
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
+
+### preuve d'exécution {#preuve-d'exécution}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Capter les sorties réelles des agents plutôt que faire confiance à leurs déclarations
+
+- **réduit** → [[kb/_entites-mineures#la-confiance-accordée-aux-déclarations-de-l'agent\|la confiance accordée aux déclarations de l'agent]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Article SFEIR (en français) qui formalise un **SDLC piloté par l'IA en 11 phases (0 à 10)** et soutient que l'industrie y converge. Constat de départ : en 2025, les organisations ont ajouté des outils IA sans transformer leur modèle opératoire — d'où un paradoxe « tout change… et rien ne change » (la vitesse d'exécution se multiplie sans gain proportionné). La vraie réponse n'est pas le choix d'outils mais la **refonte du cycle** pour une exécution machine. Le cycle SFEIR repose sur **trois portes humaines inamovibles** (Define, Plan, Ship), des phases automatiques entre elles, et **deux moments de capitalisation** (Compound-1 pré-déploiement, Compound-2 en production) qui transforment les leçons en règles réutilisables. Trois principes : l'**IA exécute** (artefacts complets + preuve d'exécution, jamais de confiance aux déclarations de l'agent), l'**humain garde le contrôle de l'intention**, le **système apprend cumulativement**. Résultats mesurés (refonte 6 mois→1 jour, **−30 % d'itérations** après dix cycles) et convergence revendiquée avec ADLC, Google et DORA 2025.]]
 
 ### private evals {#private-evals}
 
@@ -19743,7 +20011,7 @@
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|Guide du média **Every** (every.to/guides) publié le **2 juin 2026**, co-signé **Mike Taylor, Laura Entis et Claude**, proposant une **échelle de maturité en 8 niveaux d'adoption de l'IA**. **Thèse-pivot** : l'adoption de l'IA **n'est pas une course à la sophistication maximale** — ***« a higher level isn't necessarily better »*** ; il faut identifier le niveau qui **correspond à son propre workflow et à son niveau de confiance**, puis réévaluer régulièrement si monter d'un cran ajoute une **valeur réelle**. ***« The best way to find value in AI is to use it in a way that fits your work. »*** **Axe structurant** : à chaque niveau, *« you delegate more of your work to—and place more trust in—the AI »* (délégation + confiance croissantes). **Les 8 niveaux** : **(1) Chatbot** — interface conversationnelle sans contexte embarqué (ChatGPT, Claude, Gemini) ; **(2) Copilot** — IA embarquée dans l'espace de travail avec accès au fichier courant (Cursor, Claude in Excel, Gemini in Docs) ; **(3) Agent** — système réactif qui exécute pas-à-pas en demandant approbation (Cowork, Codex) ; **(4) Autopilot** — on décrit l'**outcome** et l'agent exécute en autonomie, revue du **résultat final** seulement (Lovable, Codex, Claude Code ; lié au *vibe coding*) ; **(5) Workflows** — ingénieurs construisant des **harnesses** autour des agents (planning, review, confidence checks, garde-fous ; Compound engineering, Claude Workflows, Copilot AI Studio ; bascule one-shot vibe coding → **agentic engineering**) ; **(6) Assistant** — agents **proactifs, always-on** qui surveillent un domaine et remontent l'info sans sollicitation (OpenClaw, Hermes Agent, Claude Managed Agents ; ex. `heartbeat.md` toutes les 30 min) ; **(7) Multi-agent** — gestion simultanée de **plusieurs agents long-running** à rôles distincts (Claude Managed Agents, OpenClaw, Codex Goals ; *« firmly in senior engineering territory »*) ; **(8) Orchestrator** — un **agent manager** pilote une équipe de sous-agents (plan, délégation, monitoring, consolidation ; Gas Town, Paperclip, Symphony/OpenAI ; *« highly experimental »* — même les ingénieurs frontier tiennent eux-mêmes ce rôle). **Sweet spots par rôle** : les **knowledge workers** opèrent typiquement entre les niveaux **1-4**, les **ingénieurs** entre **5-8**. **Parallèle canonique de l'onboarding d'un stagiaire** : *« Expect to put in a similar amount of effort with your agents before you can trust them… at the next level of autonomy »* ; et la formule-marqueur ***« You wouldn't brag that you had eight interns working overnight on a key project, and you hadn't checked their output. »*** Le bon niveau dépend de **4 critères** : qualité de l'output, coût, fiabilité (trustworthiness), enjeu de l'échec (stakes of failure) ; et la **capacité des modèles** déplace progressivement le niveau d'autonomie « sûr ». Cadre directement mobilisable pour structurer une **doctrine d'adoption** côté cabinet. Convergence avec *systems around the model* (Dropbox/Okumura), *harness engineering* (Böckeler, Lattice, Wescale), Karpathy (vibe coding → agentic engineering), Cherny (/loop + Routines), et la doctrine *manager d'agents* (BFM/Girard).]]
 
-## EVENEMENT (35)
+## EVENEMENT (36)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -19862,6 +20130,16 @@
 - **description** : Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+
+### IPO SPCX {#IPO-SPCX}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **détail** : Introduction au Nasdaq, ~135 $/action, valorisation ~1,75-1,8 billion $
+
+- **mesure** → [[kb/_entites-mineures#valorisation-visée-~1,75-1,8-billion-de-dollars\|valorisation visée ~1,75-1,8 billion de dollars]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|À la veille de l'IPO record de SpaceX (valorisation visée ~1,75 à 1,8 billion de dollars), le New York Times publie une analyse interactive du bilan des promesses publiques d'Elon Musk. Sur plus de 600 engagements chiffrés et datés (déclarations, posts, calls investisseurs), seuls ~19 % ont été tenus dans les délais, voire jamais. Le taux se dégrade dans le temps : ~75 % tenus en 2015, moins de 50 % en 2020. Mars, le robotaxi et l'autonomie totale concentrent l'essentiel des cibles répétées et repoussées. Le propos relie ce track record au prospectus SpaceX, qui mise désormais sur l'IA (xAI fusionnée) et reconnaît lui-même que le calendrier de ses grands chantiers est indéterminable.]]
 
 ### Inflection Opus 4 mai 2025 {#Inflection-Opus-4-mai-2025}
 
@@ -20101,7 +20379,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (64)
+## DOCUMENT (65)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -20314,6 +20592,17 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **publie** → Compound Engineering: The Definitive Guide — 0.98
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Manuel de référence du compound engineering : boucle agentique en 7 étapes (Ideate→Brainstorm→Plan→Work→Review→Polish→Compound), plugin 40+ agents, échelle d'adoption 5 stades, règle 50/50 — Kieran Klaassen (Cora / Every) - Every Source Code]]
+
+### DORA 2025 {#DORA-2025}
+
+**Type** : DOCUMENT | 2 relations | 2 fiches
+
+- **apport** : L'IA comme « amplificateur » des forces et dysfonctionnements
+
+- **mesure** → [[kb/_entites-mineures#adoption-IA-positivement-liée-au-débit-mais-négativement-à-la-stabilité-de-livraison\|adoption IA positivement liée au débit mais négativement à la stabilité de livraison]] (MESURE) — 0.92
+- **affirme_que** → [[kb/_entites-mineures#l'IA-est-un-amplificateur-des-forces-et-dysfonctionnements-organisationnels\|l'IA est un amplificateur des forces et dysfonctionnements organisationnels]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]], [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Article SFEIR (en français) qui formalise un **SDLC piloté par l'IA en 11 phases (0 à 10)** et soutient que l'industrie y converge. Constat de départ : en 2025, les organisations ont ajouté des outils IA sans transformer leur modèle opératoire — d'où un paradoxe « tout change… et rien ne change » (la vitesse d'exécution se multiplie sans gain proportionné). La vraie réponse n'est pas le choix d'outils mais la **refonte du cycle** pour une exécution machine. Le cycle SFEIR repose sur **trois portes humaines inamovibles** (Define, Plan, Ship), des phases automatiques entre elles, et **deux moments de capitalisation** (Compound-1 pré-déploiement, Compound-2 en production) qui transforment les leçons en règles réutilisables. Trois principes : l'**IA exécute** (artefacts complets + preuve d'exécution, jamais de confiance aux déclarations de l'agent), l'**humain garde le contrôle de l'intention**, le **système apprend cumulativement**. Résultats mesurés (refonte 6 mois→1 jour, **−30 % d'itérations** après dix cycles) et convergence revendiquée avec ADLC, Google et DORA 2025.]]
 
 ### EU AI Act {#EU-AI-Act}
 

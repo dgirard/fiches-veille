@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 10 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 4 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,11 @@
 
 ## Relations (comme sujet)
 
+### affirme_que
+
+- « le goulot d'étranglement s'est déplacé en amont » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
 ### améliore
 
 - [[kb/_entites-mineures#développement-logiciel-interne\|développement logiciel interne]] (CONCEPT) — 0.97, DYNAMIQUE
@@ -19,6 +24,8 @@
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
 - [[kb/_entites-mineures#structures-organisationnelles\|structures organisationnelles]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
+- [[kb/_entites-mineures#vitesse-d'exécution-des-ingénieurs\|vitesse d'exécution des ingénieurs]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
 
 ### permet
 

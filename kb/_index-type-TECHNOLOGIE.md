@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 580 entités de type TECHNOLOGIE
+> 584 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -86,6 +86,7 @@
 - [[kb/CLAUDE-md\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 10 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
+- [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] — performance: 51,80 % sur SWE-bench Pro (fév. 2026, top publié alors) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Call-Evaluation\|Call Evaluation]] — description: Produit interne Raiffeisen — analyse transcription audio >97% précision + redesign scripts data-driven ; élu meilleur produit du groupe RBI (passage filiale → groupe) (1 occ., 1 fiches)
 - [[kb/Campus-IA\|Campus IA]] — catégorie: Méga-projet datacenter à Saint-Arnoult (Essonne), 35 Md€ investissement, 100 hectares, 1,4-1,6 GW, financé par MGX (Abu Dhabi) + Nvidia, vaisseau amiral du sommet IA français (1 occ., 1 fiches)
 - [[kb/ChatGPT\|ChatGPT]] — évolution: Ajout de liens cliquables et éléments de recherche traditionnels (9 occ., 9 fiches)
@@ -403,6 +404,7 @@
 - [[kb/_entites-mineures#Replit-slides\|Replit slides]] — catégorie: Feature slides récente de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Retool\|Retool]] — catégorie: Plateforme low-code pour développeurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Routines-(Anthropic)\|Routines (Anthropic)]] — description: Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] — catégorie: Agent de codage IA d'Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RubyLLM\|RubyLLM]] — catégorie: Gem Ruby pour appels API LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] — catégorie: Assistant IA shopping in-app Amazon (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Runner-H\|Runner H]] — statut: Prédécesseur de ChatGPT Agent (1 occ., 1 fiches)
@@ -448,6 +450,7 @@
 - [[kb/_entites-mineures#Stablecoins\|Stablecoins]] — avantage: Coûts de transaction sub-cent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#StackSpot\|StackSpot]] — catégorie: Plateforme orchestration agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standardized-A2A-Client\|Standardized A2A Client]] — catégorie: SDK Uber implémentant l'A2A protocol, automatise les échanges STS et la propagation de l'actor chain — pattern *secure path = easiest path* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Starlink\|Starlink]] — rôle: Constellation satellite, principale source de revenus de SpaceX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stitch\|Stitch]] — catégorie: Agent spécialisé design (2 occ., 2 fiches)
 - [[kb/_entites-mineures#StreamableHTTPServerTransport\|StreamableHTTPServerTransport]] — statut: Transport recommandé vs SSE obsolète (1 occ., 1 fiches)
 - [[kb/SuperClaude\|SuperClaude]] — catégorie: Framework de configuration meta-programming (4 occ., 1 fiches)
@@ -459,6 +462,7 @@
 - [[kb/_entites-mineures#TPU\|TPU]] — fabricant: Google / Broadcom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] — catégorie: Framework CSS utilitaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tavily\|Tavily]] — usage: Recherche web primaire (Deep Research) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Teamwork-Graph\|Teamwork Graph]] — rôle: Couche de contexte Atlassian améliorant précision et efficience en tokens de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — catégorie: Benchmark pour agents de codage (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Tesla-Optimus\|Tesla Optimus]] — catégorie: Robot humanoïde (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] — catégorie: Composant Scout - génération tests (1 occ., 1 fiches)

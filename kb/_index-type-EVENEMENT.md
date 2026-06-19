@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 38 entités de type EVENEMENT
+> 39 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -17,6 +17,7 @@
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-X-2026\|FinOps X 2026]] — date: 8-11 juin 2026, San Diego (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] — détail: Introduction au Nasdaq, ~135 $/action, valorisation ~1,75-1,8 billion $ (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inflection-Opus-4-mai-2025\|Inflection Opus 4 mai 2025]] — description: Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)

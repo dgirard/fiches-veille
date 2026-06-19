@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 28 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 30 relations | 4 fiches sources
 
 ## Attributs
 
@@ -16,12 +16,19 @@
 - [[kb/_entites-mineures#outils-dynamiquement-(MCP)\|outils dynamiquement (MCP)]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI]]
 
+### affirme_que
+
+- « l'adoption inégale accroît le risque d'instabilité sans frontières de revue redessinées » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
+
 ### améliore
 
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Jamin Ball - systèmes de record survivent aux agents IA, truth registries]]
 - [[kb/_entites-mineures#agence-des-enfants\|agence des enfants]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs]]
+- [[kb/_entites-mineures#débit-de-certaines-étapes-du-SDLC\|débit de certaines étapes du SDLC]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|Guide d'Augment Code (Paula Hingel) décrivant comment les agents IA restructurent le cycle de vie logiciel (SDLC), stage par stage. Thèse : l'IA produit **plus de débit sur certaines étapes et plus de risque d'instabilité sur d'autres** — symptôme d'une adoption inégale sans redessiner les frontières de revue. Appui sur le **DORA 2025** : l'adoption IA est positivement corrélée au débit de livraison et à la performance produit, mais **négativement à la stabilité**. Six étapes revisitées (Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance), trois risques majeurs (érosion du pipeline junior, **validation circulaire** des tests IA, lacunes de gouvernance à l'échelle) et trois rôles émergents (**Intent Engineering**, Agentic DevOps, AI Governance/Assurance). Recommandations actionnables : auditer une étape avant de scaler, stress-tester la gouvernance, rendre la **spécification** centrale, définir des politiques de rollback explicites, redessiner le rôle des juniors autour de la revue.]]
 - [[kb/_entites-mineures#longueur-des-tâches-autonomes-(croissance-exponentielle)\|longueur des tâches autonomes (croissance exponentielle)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - Agents IA et travail réel - Impact économique - Étude OpenAI - Réplication de recherche - Futur du travail - One Useful Thing]]
 - [[kb/_entites-mineures#modèle-opérationnel-entreprise\|modèle opérationnel entreprise]] (CONCEPT) — 0.88, DYNAMIQUE

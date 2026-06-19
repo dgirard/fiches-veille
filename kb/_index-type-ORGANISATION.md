@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 318 entités de type ORGANISATION
+> 322 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -32,7 +32,9 @@
 - [[kb/_entites-mineures#Anthropic-Labs\|Anthropic Labs]] — description: Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/Apollo-Academy\|Apollo Academy]] — secteur: formation recherche sûreté IA (3 occ., 1 fiches)
-- [[kb/Augment-Code\|Augment Code]] — secteur: Outils IA pour ingénierie logicielle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Archie\|Archie]] — secteur: IA / agents (workforce IA) (1 occ., 1 fiches)
+- [[kb/Atlassian\|Atlassian]] — secteur: Éditeur logiciel (collaboration, ingénierie) (1 occ., 1 fiches)
+- [[kb/Augment-Code\|Augment Code]] — secteur: Éditeur d'agents de codage IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#BCG\|BCG]] — secteur: Cabinet de conseil en stratégie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BCG-Henderson-Institute\|BCG Henderson Institute]] — secteur: Think tank de recherche BCG (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BCG-X\|BCG X]] — secteur: Bras tech / IA du Boston Consulting Group (1 occ., 1 fiches)
@@ -235,7 +237,7 @@
 - [[kb/_entites-mineures#Riskified\|Riskified]] — secteur: Prévention fraude / e-commerce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#S3NS\|S3NS]] — qualification: SecNumCloud 3.2 ANSSI (déc. 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] — secteur: Éditeur ERP / Cloud (1 occ., 1 fiches)
-- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (5 occ., 3 fiches)
+- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (6 occ., 4 fiches)
 - [[kb/Salesforce\|Salesforce]] — secteur: Éditeur SaaS / CRM, Agentic Enterprise (6 occ., 5 fiches)
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)
@@ -252,6 +254,7 @@
 - [[kb/Solstice-Lab\|Solstice Lab]] — secteur: recherche appliquée systèmes multi-agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonar\|Sonar]] — secteur: Qualité et sécurité code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
+- [[kb/SpaceX\|SpaceX]] — secteur: Spatial / satellites / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spotify\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (1 occ., 1 fiches)
@@ -276,6 +279,7 @@
 - [[kb/_entites-mineures#The-AI-Journal\|The AI Journal]] — type: Publication spécialisée IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] — secteur: Navigateur web / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] — secteur: Analyse / Conseil IT (1 occ., 1 fiches)
+- [[kb/The-New-York-Times\|The New York Times]] — secteur: Presse / journalisme de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
 - [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (4 occ., 4 fiches)
@@ -316,7 +320,7 @@
 - [[kb/_entites-mineures#memodb-io\|memodb-io]] — domaine: Infrastructure agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sponsors-Tokenomics-Foundation\|sponsors Tokenomics Foundation]] — liste: Accenture, Booking.com, Google Cloud, Microsoft, IBM, Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tldraw\|tldraw]] — réaction: Fermeture automatique des PRs externes (1 occ., 1 fiches)
-- [[kb/_entites-mineures#xAI\|xAI]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
+- [[kb/xAI\|xAI]] — rôle: acteur du réseau circulaire d'investissements IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Éditions-Cybernetica\|Éditions Cybernetica]] — type: Newsletter stratégique tech française (1 occ., 1 fiches)
 - [[kb/_entites-mineures#équipe-Data-Science-&-Data-Engineering-Anthropic\|équipe Data Science & Data Engineering Anthropic]] — membres: Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry (1 occ., 1 fiches)
 - [[kb/_entites-mineures#équipe-FAANG\|équipe FAANG]] — résultat_mesuré: +30% vitesse de développement (1 occ., 1 fiches)

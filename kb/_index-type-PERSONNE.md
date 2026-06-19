@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 407 entités de type PERSONNE
+> 411 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -122,7 +122,7 @@
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] — rôle: Group Product Manager, Sonar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Edward-Tufte\|Edward Tufte]] — domaine: Visualisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elliot-Greenwald\|Elliot Greenwald]] — rôle: Auteur du billet fondateur Sierra sur l'outcome-based pricing (10 déc. 2024) (1 occ., 1 fiches)
-- [[kb/Elon-Musk\|Elon Musk]] — rôle: Fondateur et CEO de Neuralink, cofondateur d'OpenAI (1 occ., 1 fiches)
+- [[kb/Elon-Musk\|Elon Musk]] — rôle: Dirigeant de SpaceX, Tesla, xAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] — rôle: Lead 10X Technology consulting Google, ex-Chef Software, contributeur DORA team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
@@ -132,11 +132,13 @@
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] — rôle: AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] — rôle: PDG AG2R LA MONDIALE (fin 2025) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Fan-Jiang\|Fan Jiang]] — rôle: Principal Data Scientist, Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fareed-Khan\|Fareed Khan]] — rôle: Auteur du breakdown architecture Claude Code en 7 couches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fergus-Hurley\|Fergus Hurley]] — rôle: Director, Product Management, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Florian-Dèbes\|Florian Dèbes]] — rôle: Journaliste Les Echos, rubrique Travailler mieux / Vie au travail (1 occ., 1 fiches)
 - [[kb/Fran-Soto\|Fran Soto]] — rôle: Ingénieur logiciel chez Amazon, auteur newsletter Strategize Your Career (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Francesco-Bonacci\|Francesco Bonacci]] — rôle: Engineer, founder Cua AI, auteur du post X viral "Vibe Coding Paralysis: When Infinite Productivity Breaks Your Brain" (1 occ., 1 fiches)
+- [[kb/Fred-PLAIS\|Fred PLAIS]] — rôle: Co-fondateur & CEO d'Archie, ex-CEO de Platform.sh (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] — rôle: Économiste autrichien (1899-1992), Nobel 1974, école autrichienne, théoricien de l'information distribuée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] — rôle: Investment Partner, Andreessen Horowitz (Enterprise & Fintech) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gabriella-Rosen-Kellerman\|Gabriella Rosen Kellerman]] — rôle: Expert Partner & Director BCG, psychiatre, co-auteure Tomorrowmind (1 occ., 1 fiches)
@@ -298,6 +300,7 @@
 - [[kb/Patrick-Winston\|Patrick Winston]] — rôle: Professeur MIT, spécialiste IA et communication (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Paul-Buchheit\|Paul Buchheit]] — rôle: Créateur de Gmail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] — rôle: Fondateur de Blaxel AI (Silicon Valley) (1 occ., 1 fiches)
+- [[kb/Paula-Hingel\|Paula Hingel]] — rôle: Auteure du guide (Augment Code) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pedro-Rodriguez\|Pedro Rodriguez]] — rôle: Senior Engineering Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/Peter-Aideloje\|Peter Aideloje]] — rôle: développeur et rédacteur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] — rôle: co-auteur rapport Anthropic Economic Index (1 occ., 1 fiches)
@@ -315,6 +318,7 @@
 - [[kb/_entites-mineures#Rebecca-Parsons\|Rebecca Parsons]] — rôle: Ancienne collègue Fowler, chercheuse (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] — rôle: Analyste CIA, auteur de la méthodologie ACH (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] — rôle: Auteur du thread de réfutation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Robbie-Geoghegan\|Robbie Geoghegan]] — rôle: Senior Data Scientist, Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robby-Stein\|Robby Stein]] — rôle: VP of Product, Google Search (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robert-Cialdini\|Robert Cialdini]] — rôle: Auteur des Principes d'Influence, co-auteur étude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] — rôle: Économiste, auteur de la critique de Lucas (1 occ., 1 fiches)
