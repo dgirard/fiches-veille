@@ -1,6 +1,6 @@
 # Dan Shipper
 
-> **Type** : PERSONNE | 11 relations | 3 fiches sources
+> **Type** : PERSONNE | 10 relations | 3 fiches sources
 
 ## Attributs
 
@@ -12,10 +12,9 @@
 
 - [[kb/Every\|Every]] (ORGANISATION) — 0.98, STATIQUE
   - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
-- [[kb/Compound-Engineering\|compound engineering]] (METHODOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
-- [[kb/Compounding-Engineering\|Compounding Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
+- [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing]]
+  - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
 
 ### affirme_que
 

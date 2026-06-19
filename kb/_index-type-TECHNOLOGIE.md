@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 584 entités de type TECHNOLOGIE
+> 581 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -128,8 +128,6 @@
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage (OpenAI) (5 occ., 5 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
-- [[kb/Compound-Engineering\|Compound Engineering]] — version: v2.60.0 (2026-03-31) (1 occ., 1 fiches)
-- [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] — catégorie: Plugin Claude Code (1 occ., 1 fiches)
 - [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Content-Signals\|Content Signals]] — catégorie: Framework de préférences de contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Context-Analyzer\|Context Analyzer]] — catégorie: Composant Scout - agrégation contexte (1 occ., 1 fiches)
@@ -555,8 +553,7 @@
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-d'IA-générative\|plateforme d'IA générative]] — architecture: Orchestrateurs + API = indépendance modèle (anti lock-in) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-déploiement-agents-IA-enterprise\|plateforme déploiement agents IA enterprise]] — capacités: Orchestration, gouvernance, monitoring, gestion coûts (1 occ., 1 fiches)
-- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound engineering]] — catégorie: Plugin Claude Code open source, workflow Every (1 occ., 1 fiches)
-- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound-engineering]] — attribut: 40+ agents, 30+ slash commands, 35+ skills, open source (1 occ., 1 fiches)
+- [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] — catégorie: Plugin Claude Code open source, workflow Every (3 occ., 3 fiches)
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] — url: https://github.com/anthropics/political-neutrality-eval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] — description: Bibliothèque partagée patterns anonymisés (templates DR, slash-commands, doctrine) — bootstrap 30 min vs 1 semaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] — catégorie: Bibliothèque Python de manipulation de PDF (1 occ., 1 fiches)

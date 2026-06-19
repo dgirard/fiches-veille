@@ -137,7 +137,7 @@ Limites : repo encore jeune, validation d'adoption massive non établie, auteur 
 | Lattice | TECHNOLOGIE | fait_partie_de | famille des skills frameworks 2026 | CONCEPT | 0.94 | DYNAMIQUE | inféré |
 | Lattice | TECHNOLOGIE | converge_avec | Superpowers (Vincent) | TECHNOLOGIE | 0.92 | ATEMPOREL | inféré |
 | Lattice | TECHNOLOGIE | converge_avec | PROJ-AI (Habert WEnvision) | METHODOLOGIE | 0.91 | ATEMPOREL | inféré |
-| Lattice | TECHNOLOGIE | converge_avec | Compound Engineering (Every) | METHODOLOGIE | 0.93 | ATEMPOREL | inféré |
+| Lattice | TECHNOLOGIE | converge_avec | Compound Engineering | METHODOLOGIE | 0.93 | ATEMPOREL | inféré |
 | Lattice pipeline | METHODOLOGIE | converge_avec | pipeline ce:brainstorm → ce:plan → ce:work → ce:review (isomorphisme) | METHODOLOGIE | 0.91 | ATEMPOREL | inféré |
 | .lattice folder | TECHNOLOGIE | converge_avec | docs/plans + docs/solutions + docs/brainstorms (CE, isomorphisme) | TECHNOLOGIE | 0.90 | ATEMPOREL | inféré |
 | Lattice | TECHNOLOGIE | fait_partie_de | réseau éditorial martinfowler.com | ORGANISATION | 0.89 | DYNAMIQUE | inféré |

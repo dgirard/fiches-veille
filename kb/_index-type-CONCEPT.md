@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 725 entités de type CONCEPT
+> 724 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -471,7 +471,6 @@
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#comportement-parahuman\|comportement parahuman]] — définition: Réponses sociales IA mimant comportement humain sans conscience (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] — opposé: compounding error (1 occ., 1 fiches)
-- [[kb/Compounding-Engineering\|compounding engineering]] — définition: Chaque unité de travail rend la suivante plus facile en enseignant l'IA (1 occ., 1 fiches)
 - [[kb/compounding-teams\|compounding teams]] — définition: Équipes IA n'écrivant plus de code, construisant des frameworks récursifs autour de modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] — qualification: Goulot d'étranglement coûteux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#conductor-vs-orchestrator\|conductor vs orchestrator]] — définition: Deux modes du dev : temps réel in-IDE vs délégation async multi-agents (1 occ., 1 fiches)

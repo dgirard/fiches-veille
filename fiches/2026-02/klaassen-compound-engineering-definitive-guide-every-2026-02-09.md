@@ -66,32 +66,32 @@ L'adoption suit une **échelle de cinq stades**, de l'écriture manuelle (0) à 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Kieran Klaassen | PERSONNE | publie | Compound Engineering: The Definitive Guide | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | affirme_que | chaque unité de travail rend la suivante plus facile | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
-| compound engineering | METHODOLOGIE | est_basé_sur | boucle 7 étapes Ideate-Brainstorm-Plan-Work-Review-Polish-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | affirme_que | chaque unité de travail rend la suivante plus facile | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | est_basé_sur | boucle 7 étapes Ideate-Brainstorm-Plan-Work-Review-Polish-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | étape Compound | CONCEPT | permet | capitalisation des leçons apprises en docs/solutions réutilisables | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| compound engineering | METHODOLOGIE | recommande | règle 50/50 (features / amélioration système) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| compound engineering | METHODOLOGIE | recommande | environnement agent-native | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Every | ORGANISATION | publie | plugin compound-engineering (40+ agents) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| plugin compound-engineering | TECHNOLOGIE | permet | review multi-agents P1/P2/P3 | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| plugin compound-engineering | TECHNOLOGIE | s_applique_à | Claude Code, Cursor, Codex | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | recommande | règle 50/50 (features / amélioration système) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | recommande | environnement agent-native | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Every | ORGANISATION | publie | plugin Compound Engineering | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | permet | review multi-agents P1/P2/P3 | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | s_applique_à | Claude Code, Cursor, Codex | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | Every | ORGANISATION | mesure | 5 produits opérés par des équipes d'une personne | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | affirme_que | « Plans are the new code » | CITATION | 0.92 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | affirme_que | « Plans are the new code » | CITATION | 0.92 | ATEMPOREL | déclaré_article |
 | Kieran Klaassen | PERSONNE | affirme_que | l'adoption du compound engineering commence au stade 3 (plan-first, review niveau PR) | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Kieran Klaassen | PERSONNE | affirme_que | first attempts ont 95% de déchet | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | /lfg | TECHNOLOGIE | permet | développement idée vers PR mergée | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
+| Compound Engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| compound engineering | METHODOLOGIE | catégorie | Philosophie d'ingénierie AI-native (travail cumulatif) | AJOUT |
-| compound engineering | METHODOLOGIE | boucle | Ideate→Brainstorm→Plan→Work→Review→Polish→Compound | MISE_A_JOUR |
-| compound engineering | METHODOLOGIE | principe_clé | règle 50/50, agent-native, Plans are the new code | AJOUT |
+| Compound Engineering | METHODOLOGIE | catégorie | Philosophie d'ingénierie AI-native (travail cumulatif) | AJOUT |
+| Compound Engineering | METHODOLOGIE | boucle | Ideate→Brainstorm→Plan→Work→Review→Polish→Compound | MISE_A_JOUR |
+| Compound Engineering | METHODOLOGIE | principe_clé | règle 50/50, agent-native, Plans are the new code | AJOUT |
 | Compound Engineering: The Definitive Guide | DOCUMENT | type | Handbook de référence (Every Source Code + guide complet) | AJOUT |
 | Kieran Klaassen | PERSONNE | rôle | General Manager Cora, Every | MISE_A_JOUR |
-| plugin compound-engineering | TECHNOLOGIE | attribut | 40+ agents, 30+ slash commands, 35+ skills, open source | MISE_A_JOUR |
+| plugin Compound Engineering | TECHNOLOGIE | attribut | 40+ agents, 30+ slash commands, 35+ skills, open source | MISE_A_JOUR |
 | Every | ORGANISATION | produits | Cora, Spiral, Sparkle, Monologue, Proof (équipes d'une personne) | MISE_A_JOUR |
 | échelle d'adoption | CONCEPT | stades | 0 manuel → 5 cloud parallèle (CE débute au stade 3) | AJOUT |
 | Cora | TECHNOLOGIE | catégorie | Assistant email / chief of staff IA, produit Every | AJOUT |

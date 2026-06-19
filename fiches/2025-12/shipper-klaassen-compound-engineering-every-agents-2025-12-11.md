@@ -59,30 +59,30 @@ Les auteurs concluent que cette approche rend obsolètes de nombreuses pratiques
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Dan Shipper | PERSONNE | a_créé | compound engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Kieran Klaassen | PERSONNE | a_créé | compound engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | utilise | subagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Every | ORGANISATION | utilise | compound engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
-| Every | ORGANISATION | publie | plugin compound engineering Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | améliore | productivité développeur ×5 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Dan Shipper | PERSONNE | a_créé | Compound Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | a_créé | Compound Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | utilise | subagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Every | ORGANISATION | utilise | Compound Engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| Every | ORGANISATION | publie | plugin Compound Engineering | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | améliore | productivité développeur ×5 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | affirme_que | 1 développeur IA = 5 développeurs classiques | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Cora | TECHNOLOGIE | fait_partie_de | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | est_basé_sur | boucle Plan-Work-Assess-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | est_basé_sur | boucle Plan-Work-Assess-Compound | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | étape Compound | CONCEPT | permet | transformation des leçons apprises en contexte réutilisable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| plugin compound engineering | TECHNOLOGIE | utilise | 12 subagents parallèles pour review | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | utilise | 12 subagents parallèles pour review | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | dirige | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| compound engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
+| Compound Engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| compound engineering | METHODOLOGIE | catégorie | Processus ingénierie 4 étapes pour développement agentique | AJOUT |
-| compound engineering | METHODOLOGIE | étapes | Plan, Work, Assess, Compound | AJOUT |
+| Compound Engineering | METHODOLOGIE | catégorie | Processus ingénierie 4 étapes pour développement agentique | AJOUT |
+| Compound Engineering | METHODOLOGIE | étapes | Plan, Work, Assess, Compound | AJOUT |
 | Dan Shipper | PERSONNE | rôle | Co-fondateur et CEO, Every | MISE_A_JOUR |
 | Kieran Klaassen | PERSONNE | rôle | General Manager Cora, Every | MISE_A_JOUR |
 | Every | ORGANISATION | produits | Cora, Spiral, Sparkle, Monologue + incubations | MISE_A_JOUR |
-| plugin compound engineering | TECHNOLOGIE | catégorie | Plugin Claude Code open source, workflow Every | AJOUT |
+| plugin Compound Engineering | TECHNOLOGIE | catégorie | Plugin Claude Code open source, workflow Every | AJOUT |
 | Cora | TECHNOLOGIE | catégorie | Assistant email IA, produit Every | AJOUT |

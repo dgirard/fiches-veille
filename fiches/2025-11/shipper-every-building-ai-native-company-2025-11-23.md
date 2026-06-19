@@ -53,9 +53,9 @@ Shipper décrit une organisation fluide, où les barrières techniques s'effondr
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Dan Shipper | PERSONNE | a_créé | Every | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
-| Dan Shipper | PERSONNE | a_créé | Compounding Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Compounding Engineering | METHODOLOGIE | s_oppose_à | développement traditionnel | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Compounding Engineering | METHODOLOGIE | est_basé_sur | Plan-Delegate-Assess-Codify | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Dan Shipper | PERSONNE | a_créé | Compound Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | s_oppose_à | développement traditionnel | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | est_basé_sur | Plan-Delegate-Assess-Codify | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Every | ORGANISATION | a_créé | Koala, Spiral, Monologue | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | affirme_que | les produits Every sont maintenus par un seul développeur | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | adoption 100% IA | CONCEPT | surpasse | adoption 90% IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
@@ -71,5 +71,5 @@ Shipper décrit une organisation fluide, où les barrières techniques s'effondr
 | Dan Shipper | PERSONNE | rôle | Fondateur et CEO d'Every | AJOUT |
 | Every | ORGANISATION | secteur | Médias / Logiciels IA | AJOUT |
 | Every | ORGANISATION | attribut | 15 personnes, 4 produits, 6 business units | AJOUT |
-| Compounding Engineering | METHODOLOGIE | définition | Ingénierie où chaque feature rend la suivante plus facile | AJOUT |
+| Compound Engineering | METHODOLOGIE | définition | Ingénierie où chaque feature rend la suivante plus facile | AJOUT |
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI utilisé chez Every | AJOUT |

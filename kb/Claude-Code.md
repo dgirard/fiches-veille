@@ -200,13 +200,13 @@
 - [[kb/Jesse-Vincent\|Jesse Vincent]] **utilise** → Claude Code — 0.99
 - [[kb/Cat-Wu\|Cat Wu]] **a_créé** → Claude Code — 0.98
 - [[kb/SuperClaude\|SuperClaude]] **améliore** → Claude Code — 0.98
-- [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] **fait_partie_de** → Claude Code — 0.98
+- [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **fait_partie_de** → Claude Code — 0.98
 - [[kb/_entites-mineures#Trois-incidents-de-dégradation-qualité\|Trois incidents de dégradation qualité]] **observé_dans** → Claude Code — 0.98
 - [[kb/Agent-Skills\|Agent Skills]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Rakuten\|Rakuten]] **utilise** → Claude Code — 0.98
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Code — 0.97
-- [[kb/Compound-Engineering\|compound engineering]] **utilise** → Claude Code — 0.97
+- [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → Claude Code — 0.97
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97

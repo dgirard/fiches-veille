@@ -43,7 +43,7 @@
 
 - [[kb/Claude-Code\|Claude Code]] **utilise** → subagents — 0.99
 - [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → subagents — 0.95
-- [[kb/Compound-Engineering\|compound engineering]] **utilise** → subagents — 0.95
+- [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → subagents — 0.95
 
 ## Fiches sources
 

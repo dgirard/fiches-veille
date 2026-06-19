@@ -1,6 +1,6 @@
 # Kieran Klaassen
 
-> **Type** : PERSONNE | 9 relations | 4 fiches sources
+> **Type** : PERSONNE | 8 relations | 4 fiches sources
 
 ## Attributs
 
@@ -10,10 +10,9 @@
 
 ### a_créé
 
-- [[kb/Compound-Engineering\|compound engineering]] (METHODOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
-- [[kb/Compounding-Engineering\|Compounding Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
+- [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
+  - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
 
 ### affirme_que
 

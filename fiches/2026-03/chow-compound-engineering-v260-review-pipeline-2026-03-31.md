@@ -73,7 +73,7 @@ Une fonctionnalité transversale génère automatiquement des diagrammes (mermai
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Compound Engineering | TECHNOLOGIE | publie | v2.60.0 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Compound Engineering | METHODOLOGIE | publie | v2.60.0 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
 | revue de code obligatoire | METHODOLOGIE | fait_partie_de | pipeline Compound Engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | réduit | faux positifs de 49% | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | utilise | scoring confiance 6 niveaux | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
@@ -81,8 +81,8 @@ Une fonctionnalité transversale génère automatiquement des diagrammes (mermai
 | ce:work | TECHNOLOGIE | utilise | découverte universelle de tests | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | ce:brainstorm | TECHNOLOGIE | résout | bug vérification fichiers techniques Phase 1.1 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | ce:plan | TECHNOLOGIE | utilise | mode deepening interactif | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Trevin Chow | PERSONNE | dirige | Compound Engineering | TECHNOLOGIE | 0.95 | DYNAMIQUE | inféré |
-| Compound Engineering | TECHNOLOGIE | permet | diagrammes mermaid conditionnels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| Trevin Chow | PERSONNE | dirige | Compound Engineering | METHODOLOGIE | 0.95 | DYNAMIQUE | inféré |
+| Compound Engineering | METHODOLOGIE | permet | diagrammes mermaid conditionnels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | resolve-pr-feedback | TECHNOLOGIE | utilise | clustering des commentaires PR similaires | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | ce:compound | TECHNOLOGIE | utilise | schema track-based bug vs knowledge | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 
@@ -90,7 +90,7 @@ Une fonctionnalité transversale génère automatiquement des diagrammes (mermai
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| Compound Engineering | TECHNOLOGIE | version | v2.60.0 (2026-03-31) | MISE_A_JOUR |
+| Compound Engineering | METHODOLOGIE | version | v2.60.0 (2026-03-31) | MISE_A_JOUR |
 | Trevin Chow | PERSONNE | rôle | Mainteneur Compound Engineering | AJOUT |
 | ce:review | TECHNOLOGIE | description | Skill de revue de code multi-persona avec scoring confiance | AJOUT |
 | ce:work | TECHNOLOGIE | description | Skill d'exécution de plans avec découverte de tests | AJOUT |

@@ -54,14 +54,14 @@ Ce plugin illustre une évolution notable : l'IA ne se contente plus d'assister 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| EveryInc | ORGANISATION | a_créé | Compounding Engineering Plugin | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | fait_partie_de | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| EveryInc | ORGANISATION | a_créé | plugin Compound Engineering | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | fait_partie_de | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | ingénierie composable | METHODOLOGIE | réduit | accumulation dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | est_basé_sur | cycle Planifier-Déléguer-Évaluer-Codifier | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | permet | génération d'issues GitHub complètes | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | permet | revues de code multi-agents | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering Plugin | TECHNOLOGIE | s_applique_à | Droid/Factory | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | est_basé_sur | cycle Planifier-Déléguer-Évaluer-Codifier | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | permet | génération d'issues GitHub complètes | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | permet | revues de code multi-agents | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| plugin Compound Engineering | TECHNOLOGIE | s_applique_à | Droid/Factory | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | ingénierie composable | METHODOLOGIE | permet | codification des connaissances et motifs | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
@@ -69,7 +69,7 @@ Ce plugin illustre une évolution notable : l'IA ne se contente plus d'assister 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | EveryInc | ORGANISATION | domaine | Plateforme ingénierie IA | AJOUT |
-| Compounding Engineering Plugin | TECHNOLOGIE | catégorie | Plugin Claude Code | AJOUT |
+| plugin Compound Engineering | TECHNOLOGIE | catégorie | Plugin Claude Code | AJOUT |
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
 | ingénierie composable | METHODOLOGIE | principe | Chaque unité de travail facilite la suivante | AJOUT |
 | Droid/Factory | TECHNOLOGIE | catégorie | Framework d'agents | AJOUT |

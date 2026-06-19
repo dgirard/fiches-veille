@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2504 entités
+> 2499 entités
 
 ## #
 
@@ -609,14 +609,10 @@
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#comportement-parahuman\|comportement parahuman]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Compositional-Path-Dependency\|Compositional Path Dependency]] (CONCEPT, 1 fiches)
-- [[kb/Compound-Engineering\|compound engineering]] (METHODOLOGIE, 2 fiches)
-- [[kb/Compound-Engineering\|Compound Engineering]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Compound-1-Compound-2\|Compound-1 / Compound-2]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] (CONCEPT, 1 fiches)
-- [[kb/Compounding-Engineering\|compounding engineering]] (CONCEPT, 1 fiches)
-- [[kb/Compounding-Engineering\|Compounding Engineering]] (METHODOLOGIE, 2 fiches)
-- [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] (TECHNOLOGIE, 1 fiches)
 - [[kb/compounding-teams\|compounding teams]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] (CONCEPT, 1 fiches)
@@ -1817,8 +1813,7 @@
 - [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#PlayerZero\|PlayerZero]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Playwright\|Playwright]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound engineering]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#plugin-compound-engineering\|plugin compound-engineering]] (TECHNOLOGIE, 1 fiches)
+- [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Plugin-marketplace-Intercom\|Plugin marketplace Intercom]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Policy-Bot\|Policy Bot]] (TECHNOLOGIE, 1 fiches)

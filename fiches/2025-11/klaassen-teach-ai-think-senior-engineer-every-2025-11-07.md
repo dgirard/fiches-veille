@@ -128,10 +128,10 @@ Chaque stratégie inclut un volet "comment faire capitaliser cela", démontrant 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Kieran Klaassen | PERSONNE | a_créé | Compounding Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Kieran Klaassen | PERSONNE | a_créé | Compound Engineering | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | dirige | Cora | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | travaille_chez | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Compounding Engineering | METHODOLOGIE | est_basé_sur | opérations de recherche parallèles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | est_basé_sur | opérations de recherche parallèles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | opérations de recherche parallèles | CONCEPT | remplace | planification séquentielle humaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Kieran Klaassen | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Cora | TECHNOLOGIE | utilise | Gmail API | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
@@ -154,7 +154,7 @@ Chaque stratégie inclut un volet "comment faire capitaliser cela", démontrant 
 | AppSignal | TECHNOLOGIE | catégorie | Système de tracking d'erreurs production | AJOUT |
 | RubyLLM | TECHNOLOGIE | catégorie | Gem Ruby pour appels API LLM | AJOUT |
 | Gmail API | TECHNOLOGIE | contrainte | Rate limit 2000 emails par batch | AJOUT |
-| Compounding Engineering | METHODOLOGIE | principe | Chaque feature améliore le système pour la suivante | AJOUT |
+| Compound Engineering | METHODOLOGIE | principe | Chaque feature améliore le système pour la suivante | AJOUT |
 | opérations de recherche parallèles | CONCEPT | avantage | Plus rapide que planification séquentielle humaine | AJOUT |
 | mémoire institutionnelle | CONCEPT | mécanisme | Git history + agents spécialisés + docs/*.md | AJOUT |
 | CLAUDE.md | TECHNOLOGIE | usage | Codifier préférences et règles de l'ingénieur | AJOUT |

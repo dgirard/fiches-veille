@@ -83,9 +83,9 @@ Klaassen conclut : planning est highest-leverage activity en AI-assisted develop
 | Kieran Klaassen | PERSONNE | travaille_chez | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | recommande | planification avec IA | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | vibe coding | METHODOLOGIE | s_oppose_à | planification avec IA | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| compounding engineering | CONCEPT | est_basé_sur | plans enseignant le système | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Compound Engineering | METHODOLOGIE | est_basé_sur | plans enseignant le système | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Three Fidelities | METHODOLOGIE | s_applique_à | travail d'engineering | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Fidelity Two | CONCEPT | améliore | compounding engineering | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Fidelity Two | CONCEPT | améliore | Compound Engineering | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | Fidelity Three | CONCEPT | utilise | vibe planning | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | agent de planification Figma | TECHNOLOGIE | utilise | Puppeteer | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | planification Fidelity One | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
@@ -100,7 +100,7 @@ Klaassen conclut : planning est highest-leverage activity en AI-assisted develop
 | Kieran Klaassen | PERSONNE | rôle | General Manager de Cora | AJOUT |
 | Cora | TECHNOLOGIE | catégorie | Produit email / Every | AJOUT |
 | Every | ORGANISATION | secteur | Médias / IA / Newsletters | AJOUT |
-| compounding engineering | CONCEPT | définition | Chaque unité de travail rend la suivante plus facile en enseignant l'IA | AJOUT |
+| Compound Engineering | METHODOLOGIE | définition | Chaque unité de travail rend la suivante plus facile en enseignant l'IA | AJOUT |
 | Three Fidelities | METHODOLOGIE | niveaux | Fidelity One / Two / Three selon complexité et clarté | AJOUT |
 | vibe planning | METHODOLOGIE | usage | Prototypage rapide disposable pour Fidelity Three | AJOUT |
 | email bankruptcy feature | CONCEPT | périmètre | Traitement bulk de 53 000 emails via cache + queue | AJOUT |

@@ -13,7 +13,7 @@
 
 - [[kb/vibe-coding\|vibe coding]] **permet** → dette technique — 0.95
 - [[kb/_entites-mineures#code-review-IA\|code review IA]] **réduit** → dette technique — 0.88
-- [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] **réduit** → dette technique — 0.88
+- [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **réduit** → dette technique — 0.88
 - [[kb/agents-IA\|agents IA]] **permet** → dette technique — 0.85
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] **réduit** → dette technique — 0.85
 

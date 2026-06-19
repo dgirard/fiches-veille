@@ -1,19 +1,19 @@
 # Knowledge Base — Veille Technologique
 
-> 310 fiches | 2504 entités | 4391 triples | Généré le 2026-06-19
+> 310 fiches | 2499 entités | 4388 triples | Généré le 2026-06-19
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (411)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (322)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (584)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (725)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (348)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (581)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (724)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (347)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (39)
 - [[kb/_index-type-LIEU\|LIEU]] (4)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (71)
-- [[kb/_entites-mineures\|Entités mineures]] (2174)
+- [[kb/_entites-mineures\|Entités mineures]] (2170)
 
 ## Entités les plus connectées
 
@@ -34,11 +34,11 @@
 | [[kb/Olivier-Rafal\|Olivier Rafal]] | PERSONNE | 23 | 4 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 22 | 6 |
 | [[kb/Claude\|Claude]] | TECHNOLOGIE | 22 | 8 |
+| [[kb/Compound-Engineering\|Compound Engineering]] | METHODOLOGIE | 22 | 6 |
 | [[kb/MCP-UI\|MCP-UI]] | TECHNOLOGIE | 21 | 3 |
 | [[kb/Claude-Skills\|Claude Skills]] | TECHNOLOGIE | 21 | 3 |
 | [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 21 | 3 |
 | [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] | PERSONNE | 19 | 6 |
-| [[kb/MCP\|MCP]] | TECHNOLOGIE | 17 | 11 |
 
 ## Statistiques
 
@@ -48,8 +48,8 @@
 - **affirme_que** : 441
 - **permet** : 395
 - **mesure** : 339
-- **a_créé** : 297
-- **publie** : 276
+- **a_créé** : 295
+- **publie** : 275
 - **est_basé_sur** : 186
 - **améliore** : 181
 - **recommande** : 176
@@ -64,14 +64,14 @@
 
 - **PERSONNE** : 411 (16.4%)
 - **ORGANISATION** : 322 (12.9%)
-- **TECHNOLOGIE** : 584 (23.3%)
-- **CONCEPT** : 725 (29.0%)
-- **METHODOLOGIE** : 348 (13.9%)
+- **TECHNOLOGIE** : 581 (23.2%)
+- **CONCEPT** : 724 (29.0%)
+- **METHODOLOGIE** : 347 (13.9%)
 - **EVENEMENT** : 39 (1.6%)
 - **LIEU** : 4 (0.2%)
 - **DOCUMENT** : 71 (2.8%)
 
 ### Déduplication
 
-- **Triples** : 4461 → 4391 (70 doublons)
-- **Entités** : 3222 → 2504 (718 doublons)
+- **Triples** : 4461 → 4388 (73 doublons)
+- **Entités** : 3222 → 2499 (723 doublons)

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 348 entités de type METHODOLOGIE
+> 347 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -56,8 +56,8 @@
 - [[kb/_entites-mineures#Cloud-Development-Act-+-package-Souveraineté\|Cloud Development Act + package Souveraineté]] — rôle: Projets réglementaires européens en cours visant à définir le cloud souverain et la préférence européenne dans la commande publique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Commodification-cycle\|Commodification cycle]] — définition: Boucle Shipper en 5 temps : (1) AI banalise compétence d'hier ; (2) adoption massive ; (3) slop/sameness ; (4) demande de différence ; (5) experts adressent problèmes d'aujourd'hui — relance la boucle (1 occ., 1 fiches)
 - [[kb/Compaction\|Compaction]] — description: Résumé cache-safe réutilisant le même préfixe que la conversation parente (1 occ., 1 fiches)
+- [[kb/Compound-Engineering\|Compound Engineering]] — définition: Ingénierie où chaque feature rend la suivante plus facile (9 occ., 6 fiches)
 - [[kb/_entites-mineures#Compound-1-Compound-2\|Compound-1 / Compound-2]] — rôle: Capture des leçons (pré-déploiement et runtime) transformées en règles réutilisables (1 occ., 1 fiches)
-- [[kb/Compounding-Engineering\|Compounding Engineering]] — principe: Chaque feature améliore le système pour la suivante (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Context-Development-Lifecycle\|Context Development Lifecycle]] — catégorie: Cycle de vie du contexte en 4 phases (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Continuous-Delivery\|Continuous Delivery]] — définition: Working so that software is always in a releasable state (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contribution-Stack\|Contribution Stack]] — structure: 5 couches : output brut, compréhension, investissement, relations, appartenance (1 occ., 1 fiches)
@@ -238,7 +238,6 @@
 - [[kb/_entites-mineures#capitalisation-cumulative\|capitalisation cumulative]] — résultat: −30 % d'itérations de correction après dix cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
-- [[kb/Compound-Engineering\|compound engineering]] — catégorie: Philosophie d'ingénierie AI-native (travail cumulatif) (5 occ., 2 fiches)
 - [[kb/_entites-mineures#content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
 - [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)

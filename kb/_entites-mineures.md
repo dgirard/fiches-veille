@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2160 entités avec moins de 3 triples/fiches
+> 2158 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (313)
 
@@ -2910,7 +2910,7 @@
 
 - **rôle** : Mainteneur Compound Engineering
 
-- **dirige** → [[kb/Compound-Engineering\|Compound Engineering]] (TECHNOLOGIE) — 0.95
+- **dirige** → [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering v2.60, revue de code obligatoire avec scoring confiance, pipeline plan→work→review durci]]
 
@@ -3920,7 +3920,7 @@
 
 - **domaine** : Plateforme ingénierie IA
 
-- **a_créé** → [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] (TECHNOLOGIE) — 0.97
+- **a_créé** → [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Every Marketplace - Compounding Engineering Plugin - Claude Code - GitHub - AI Development Workflow - Code Quality - Technical Debt Reduction]]
 
@@ -5607,7 +5607,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (479)
+## TECHNOLOGIE (477)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6851,7 +6851,7 @@
 
 - **catégorie** : Framework d'agents
 
-- [[kb/Compounding-Engineering-Plugin\|Compounding Engineering Plugin]] **s_applique_à** → Droid/Factory — 0.85
+- [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **s_applique_à** → Droid/Factory — 0.85
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Every Marketplace - Compounding Engineering Plugin - Claude Code - GitHub - AI Development Workflow - Code Quality - Technical Debt Reduction]]
 
@@ -10211,27 +10211,6 @@
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision, plateforme de déploiement d'agents IA en entreprise : orchestration, gouvernance, observabilité et passage en production]]
 
-### plugin compound engineering {#plugin-compound-engineering}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Plugin Claude Code open source, workflow Every
-
-- **utilise** → [[kb/_entites-mineures#12-subagents-parallèles-pour-review\|12 subagents parallèles pour review]] (TECHNOLOGIE) — 0.96
-
-**Fiches** : [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
-
-### plugin compound-engineering {#plugin-compound-engineering}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **attribut** : 40+ agents, 30+ slash commands, 35+ skills, open source
-
-- **permet** → [[kb/_entites-mineures#review-multi-agents-P1-P2-P3\|review multi-agents P1/P2/P3]] (CONCEPT) — 0.95
-- **s_applique_à** → [[kb/_entites-mineures#Claude-Code,-Cursor,-Codex\|Claude Code, Cursor, Codex]] (TECHNOLOGIE) — 0.94
-
-**Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Manuel de référence du compound engineering : boucle agentique en 7 étapes (Ideate→Brainstorm→Plan→Work→Review→Polish→Compound), plugin 40+ agents, échelle d'adoption 5 stades, règle 50/50 — Kieran Klaassen (Cora / Every) - Every Source Code]]
-
 ### political-neutrality-eval {#political-neutrality-eval}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -13398,7 +13377,7 @@
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
 - [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
-- [[kb/Compound-Engineering\|compound engineering]] **est_instance_de** → SDLC — 0.88
+- [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|Playbook adoption IA - Ingénierie augmentée - Augment Code]], [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|IA dans le cycle de vie logiciel - Qualité vs vitesse - Assurance qualité systématique - AI Journal]], [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC - Tech Away]]
 
@@ -15904,7 +15883,7 @@
 
 - **remplace** → [[kb/_entites-mineures#planification-séquentielle-humaine\|planification séquentielle humaine]] (CONCEPT) — 0.90
 
-- [[kb/Compounding-Engineering\|Compounding Engineering]] **est_basé_sur** → opérations de recherche parallèles — 0.95
+- [[kb/Compound-Engineering\|Compound Engineering]] **est_basé_sur** → opérations de recherche parallèles — 0.95
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|8 stratégies planification IA - Research agents parallèles - Codebase grounding - Git history - Vibe prototyping - Style agents - Compounding engineering - Every Source Code - Kieran Klaassen]]
 
@@ -18328,7 +18307,7 @@
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
 - [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
-- [[kb/Compound-Engineering\|compound engineering]] **est_instance_de** → SDLC — 0.88
+- [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|Tribune d'**Olivier Rafal** (Consulting Director Strategy, **WeNvision** — groupe **SFEIR** ; ex-rédacteur en chef du *Monde Informatique*) publiée le **1er juin 2026** sur **CIO-Online**, structurée autour d'un **paradoxe** : à l'ère de l'IA, l'ingénierie logicielle **change tout… et rien ne change**. **Ce qui change = le modèle opérationnel.** Les rôles sont redéfinis : le **Product Owner** passe de la découpe de backlog à la **génération de contexte exploitable par l'IA** ; le **développeur** passe de l'écriture de code au **cadrage, à l'orientation et à la révision** de l'exécution des agents ; le **QA** gagne la possibilité de définir en amont les **preuves attendues**. La structure d'équipe bascule des *« double pizza teams »* (chaînes de hand-off à ~8 personnes) vers les ***« sandwich teams »*** : un **binôme serré expert métier + tech lead augmentés par l'IA**, les autres compétences en appui. Chiffre interne **Sfeir** : *« ce binôme pilote désormais environ 80 % de la chaîne de production »*, les ~20 % restants (architecture, gouvernance de la donnée, sécurité) étant centralisés. Citation-pivot : ***« Le sujet n'est pas un sujet d'outil, mais un sujet de modèle opérationnel. »*** **Ce qui ne change pas = la discipline du cycle.** Les phases du **SDLC** (définir → construire → vérifier → déployer → maintenir) restent identiques et non négociables ; l'IA n'en supprime aucune, elle les **intensifie** : ***« tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels »*** (métaphore sport amateur vs professionnel). D'où **trois *gates* inviolables** (contrôle humain) : **spécification, planification, revue de livraison** ; validation **par la preuve** (pas par les assertions de l'IA) ; **capitalisation systématique** (chaque cycle enrichit le suivant) → résultat mesuré : **−30 % d'itérations de correction après ~10 cycles**. Principe : ***« plus l'exécution est rapide, plus le cadre doit être strict »***. Concepts mobilisés : **harnais** (règles agentiques adaptées au contexte), **vibe-coding** jugé **intenable en entreprise**. **Troisième pilier = gouvernance, FinOps & pilotage par la valeur** : coûts IA **variables et récurrents** (~**10 €/heure** par poste augmenté), bascule licence forfaitaire → facturation à l'usage (parallèle cloud 2010s) ; le **FinOps** ne vise pas à réduire les coûts mais à *« optimiser l'efficience des outils »* (coût rapporté à la valeur) ; aligner en amont les **métriques métier** (time-to-market, fonctionnalités, performance, écoconception). **Conclusion** : l'accélération rend les fondamentaux **non négociables** ; le défi est **organisationnel et culturel**, pas technologique — sans sécuriser relation métier et discipline collective, une SDLC dopée à l'IA ne fait qu'**amplifier les problèmes** (aller plus vite dans le mur). Prolonge la doctrine WeNvision de [[rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23]] et [[rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04]] ; converge avec *systems around the model* [[dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28]], le *harness engineering* [[osmani-agent-harness-engineering-2026-04-19]], Salesforce agentique et le débat *manager d'agents* (BFM/Girard, SFEIR).]], [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Chris Williams (@voodootikigod) ouvre sa série ADLC en soutenant que faire tourner le SDLC humain sur des modèles est une erreur de catégorie : le cycle classique a été conçu pour contrer des modes de défaillance humains (ego, fatigue, oubli) absents chez les LLM. Il catalogue huit modes de défaillance porteurs (F1-F8) et cinq propriétés exploitables (E1-E5), et pose le principe fondateur : chaque phase d'un cycle agentique doit se rattacher à un mode de défaillance qu'elle défend ou à une propriété qu'elle exploite.]]
 
