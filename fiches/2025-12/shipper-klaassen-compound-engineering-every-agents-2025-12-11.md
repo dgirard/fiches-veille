@@ -12,7 +12,7 @@ Compound Engineering: How Every Codes With Agents
 https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents
 
 ## Keywords
-compound engineering, agents IA, planification, code review, boucle d'apprentissage, Claude Code, Every, Cora, subagents, compounding, plugin, workflow agentique, spec-driven, 1 développeur = 5, Playwright, MCP, Opus 4.5
+compound engineering, agents IA, planification, code review, boucle d'apprentissage, Claude Code, Every, Cora, subagents, compounding, plugin, workflow agentique, spec-driven, 1 développeur = 5, Playwright, MCP, Opus 4.5, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 Dan Shipper, Kieran Klaassen
@@ -73,6 +73,7 @@ Les auteurs concluent que cette approche rend obsolètes de nombreuses pratiques
 | plugin compound engineering | TECHNOLOGIE | utilise | 12 subagents parallèles pour review | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Kieran Klaassen | PERSONNE | dirige | Cora | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Dan Shipper | PERSONNE | dirige | Every | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
+| compound engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

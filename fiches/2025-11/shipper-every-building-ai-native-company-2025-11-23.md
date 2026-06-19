@@ -12,7 +12,7 @@ How to build an AI-native company (even if your company is 50 years old)
 https://www.youtube.com/live/cMSprbJ95jg?si=4HnxK8w1ELvSr4tz&t=28334
 
 ## Keywords
-AI Native, Compounding Engineering, Single Developer, Tacit Knowledge, Chat Interface, Claude Code, Management, Demo Culture
+AI Native, Compounding Engineering, Single Developer, Tacit Knowledge, Chat Interface, Claude Code, Management, Demo Culture, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 Dan Shipper (Founder, Every)

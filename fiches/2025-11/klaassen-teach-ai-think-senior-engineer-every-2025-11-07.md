@@ -13,7 +13,7 @@ Teach Your AI to Think Like a Senior Engineer
 https://every.to/source-code/teach-your-ai-think-like-a-senior-engineer
 
 ## Keywords
-planning strategies, research agents, parallel operations, Cora email bankruptcy, reproduce and document, best practices grounding, codebase grounding, libraries grounding, git history, vibe prototyping, synthesis with options, style review agents, compounding engineering, institutional memory, CLAUDE.md, docs knowledge base, AppSignal logs, RubyLLM gem, EmailClassifier, event tracking, specialized reviewers
+planning strategies, research agents, parallel operations, Cora email bankruptcy, reproduce and document, best practices grounding, codebase grounding, libraries grounding, git history, vibe prototyping, synthesis with options, style review agents, compounding engineering, institutional memory, CLAUDE.md, docs knowledge base, AppSignal logs, RubyLLM gem, EmailClassifier, event tracking, specialized reviewers, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 Kieran Klaassen (General Manager, Cora)

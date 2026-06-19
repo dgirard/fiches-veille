@@ -1,6 +1,6 @@
 # SDLC
 
-> **Type** : METHODOLOGIE | 6 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -21,6 +21,7 @@
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
 - [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
+- [[kb/Compound-Engineering\|compound engineering]] **est_instance_de** → SDLC — 0.88
 
 ## Fiches sources
 

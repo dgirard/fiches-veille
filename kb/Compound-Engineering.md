@@ -1,6 +1,6 @@
 # Compound Engineering
 
-> **Type** : TECHNOLOGIE | 15 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 1 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,12 @@
 - [[kb/_entites-mineures#boucle-7-étapes-Ideate-Brainstorm-Plan-Work-Review-Polish-Compound\|boucle 7 étapes Ideate-Brainstorm-Plan-Work-Review-Polish-Compound]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Manuel de référence du compound engineering : boucle agentique en 7 étapes (Ideate→Brainstorm→Plan→Work→Review→Polish→Compound), plugin 40+ agents, échelle d'adoption 5 stades, règle 50/50 — Kieran Klaassen (Cora / Every) - Every Source Code]]
 - [[kb/_entites-mineures#boucle-Plan-Work-Assess-Compound\|boucle Plan-Work-Assess-Compound]] (CONCEPT) — 0.97, ATEMPOREL
+  - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
+
+### est_instance_de
+
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.88, ATEMPOREL
+  - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Manuel de référence du compound engineering : boucle agentique en 7 étapes (Ideate→Brainstorm→Plan→Work→Review→Polish→Compound), plugin 40+ agents, échelle d'adoption 5 stades, règle 50/50 — Kieran Klaassen (Cora / Every) - Every Source Code]]
   - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every]]
 
 ### permet

@@ -8,7 +8,7 @@ I have seen the compounding teams
 ## URL
 https://sundaylettersfromsam.substack.com/p/i-have-seen-the-compounding-teams
 ## Keywords
-Compounding Teams, AI-driven Development, Exponential Productivity, Recursive Tools, Framework Development, Automation, Modular Systems, AI Agents, Knowledge Work, Software Engineering
+Compounding Teams, AI-driven Development, Exponential Productivity, Recursive Tools, Framework Development, Automation, Modular Systems, AI Agents, Knowledge Work, Software Engineering, SDLC, cycle de vie logiciel, SDLC agentique
 ## Authors
 Sam Schillace
 

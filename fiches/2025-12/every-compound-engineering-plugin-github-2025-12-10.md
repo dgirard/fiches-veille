@@ -13,7 +13,7 @@ Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Deve
 https://github.com/EveryInc/compound-engineering-plugin
 
 ## Keywords
-Compounding Engineering, Claude Code, AI Development, Software Engineering, Technical Debt, Code Quality, Development Workflow, AI Agents, GitHub Plugin, Every Marketplace, Systematic Development, Code Review, Documentation, Knowledge Codification, Engineering Philosophy
+Compounding Engineering, Claude Code, AI Development, Software Engineering, Technical Debt, Code Quality, Development Workflow, AI Agents, GitHub Plugin, Every Marketplace, Systematic Development, Code Review, Documentation, Knowledge Codification, Engineering Philosophy, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 EveryInc (Organization), Contributors from Every.to engineering community

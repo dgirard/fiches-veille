@@ -13,7 +13,7 @@ Stop Coding and Start Planning
 https://every.to/source-code/stop-coding-and-start-planning
 
 ## Keywords
-planification, vibe coding, compounding engineering, AI agents, three fidelities, Cora, email bankruptcy, Figma to code, planning agents, institutional knowledge, Claude Code, research phase, prototyping, vibe planning, View Components, GitHub plans, Puppeteer review, teaching AI systems
+planification, vibe coding, compounding engineering, AI agents, three fidelities, Cora, email bankruptcy, Figma to code, planning agents, institutional knowledge, Claude Code, research phase, prototyping, vibe planning, View Components, GitHub plans, Puppeteer review, teaching AI systems, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 Kieran Klaassen (General Manager, Cora)

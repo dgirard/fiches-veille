@@ -1,6 +1,6 @@
 # Knowledge Base — Veille Technologique
 
-> 310 fiches | 2504 entités | 4390 triples | Généré le 2026-06-19
+> 310 fiches | 2504 entités | 4391 triples | Généré le 2026-06-19
 
 ## Navigation
 
@@ -54,7 +54,7 @@
 - **améliore** : 181
 - **recommande** : 176
 - **réduit** : 164
-- **est_instance_de** : 161
+- **est_instance_de** : 162
 - **s_applique_à** : 161
 - **fait_partie_de** : 148
 - **remplace** : 125
@@ -73,5 +73,5 @@
 
 ### Déduplication
 
-- **Triples** : 4459 → 4390 (69 doublons)
+- **Triples** : 4461 → 4391 (70 doublons)
 - **Entités** : 3222 → 2504 (718 doublons)

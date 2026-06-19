@@ -18,7 +18,7 @@ https://x.com/trevin/status/2038893322333507781
 
 ## Keywords
 
-Compound Engineering, revue de code obligatoire, scoring de confiance, faux positifs, pipeline agentique, ce:work, ce:plan, ce:brainstorm, ce:review, découverte de tests, mode headless, deepening interactif, diagrammes conditionnels, mermaid, clustering feedback PR, document-review, learnings track-based, Claude Code skills
+Compound Engineering, revue de code obligatoire, scoring de confiance, faux positifs, pipeline agentique, ce:work, ce:plan, ce:brainstorm, ce:review, découverte de tests, mode headless, deepening interactif, diagrammes conditionnels, mermaid, clustering feedback PR, document-review, learnings track-based, Claude Code skills, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 

@@ -13,7 +13,7 @@ Compound Engineering: The Definitive Guide
 https://every.to/source-code/compound-engineering-the-definitive-guide
 
 ## Keywords
-compound engineering, philosophie AI-native, boucle 7 étapes, complexité inversée, Claude Code, plugin open source, subagents, code review multi-agents, agent-native, règle 50/50, plans are the new code, échelle adoption 5 stades, leçons apprises, docs/solutions, CLAUDE.md, harness, vibe coding, /lfg, Cora, Every
+compound engineering, philosophie AI-native, boucle 7 étapes, complexité inversée, Claude Code, plugin open source, subagents, code review multi-agents, agent-native, règle 50/50, plans are the new code, échelle adoption 5 stades, leçons apprises, docs/solutions, CLAUDE.md, harness, vibe coding, /lfg, Cora, Every, SDLC, cycle de vie logiciel, SDLC agentique
 
 ## Authors
 Kieran Klaassen (avec Claude & GPT crédités co-auteurs du guide complet)
@@ -80,6 +80,7 @@ L'adoption suit une **échelle de cinq stades**, de l'écriture manuelle (0) à 
 | Kieran Klaassen | PERSONNE | affirme_que | l'adoption du compound engineering commence au stade 3 (plan-first, review niveau PR) | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Kieran Klaassen | PERSONNE | affirme_que | first attempts ont 95% de déchet | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | /lfg | TECHNOLOGIE | permet | développement idée vers PR mergée | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| compound engineering | METHODOLOGIE | est_instance_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 
