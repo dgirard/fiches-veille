@@ -197,10 +197,7 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 -->
 
 
-<!-- URLs en attente — 2026-05-15:
-https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM&urlhash=OJFA&mt=F73ZezkHbKWSWuwkrCx_SvxOyPAVqmiIfk6Y-opsv8OFsSruP9_z5GoLjTTBN2Be4Efi2Rx-BjXYljscKIjn5b_KmrTFtt-nLr9pLgc5J864ZEnX35Rzsw&isSdui=true
-Note: lien raccourci LinkedIn (lnkd.in/dacPc6fM) bloqué par protection anti-scraping (403). URL réelle de destination inconnue — en attente de l'URL directe.
-
-https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/
-Note: site bloqué (403 systématique). Article non indexé par les moteurs de recherche, aucune référence secondaire trouvée. En attente d'accès au contenu ou d'un copier-coller de l'article.
+<!-- URLs traitées le 2026-06-21:
+- https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/ (fiche créée: comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06.md — site bloqué 403, fiche basée sur sources secondaires multiples et indexation moteurs de recherche)
+- https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM (lien raccourci LinkedIn pointant vers le même article comparethemarketcareers.com ci-dessus — résolu via recherche web)
 -->
