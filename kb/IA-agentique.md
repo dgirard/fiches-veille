@@ -11,7 +11,7 @@
 
 ### remplace
 
-- [[kb/_entites-mineures#RAG\|RAG]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/RAG\|RAG]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
 
 ### réduit

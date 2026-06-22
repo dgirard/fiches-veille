@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 581 entités de type TECHNOLOGIE
+> 589 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -177,6 +177,7 @@
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] — catégorie: Plateformes d'orchestration d'agents (état machine, routage, graphes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] — rôle: Oracle de référence pour répartition des tâches (1 occ., 1 fiches)
 - [[kb/GDPVal\|GDPVal]] — définition: Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) (1 occ., 1 fiches)
+- [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
@@ -272,6 +273,7 @@
 - [[kb/Kiro\|Kiro]] — catégorie: Outil de vibe coding / assistant de codage IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Kloset\|Kloset]] — catégorie: Moteur stockage immuable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kubernetes\|Kubernetes]] — rôle: Outil bas niveau utilisé par compounding teams (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Kuzu\|Kuzu]] — catégorie: Base de données de graphe embarquée, stockage du graphe de connaissances GKG (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-+-RAG\|LLM + RAG]] — avantage: Données fraîches (moins d'un jour vs. 1+ an) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-Knowledge-Bases\|LLM Knowledge Bases]] — catégorie: Outil personnel Karpathy : wiki auto-construit à partir d'articles lus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLMs\|LLMs]] — maturité: Technologie la plus mature du Hype Cycle GenAI (1 occ., 1 fiches)
@@ -302,6 +304,7 @@
 - [[kb/_entites-mineures#MCP-server\|MCP server]] — catégorie: Serveur Model Context Protocol (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-servers\|MCP servers]] — nombre: 8 serveurs intégrés (1 occ., 1 fiches)
 - [[kb/MCP-UI\|MCP-UI]] — catégorie: Protocole ouvert UI via MCP (3 occ., 3 fiches)
+- [[kb/_entites-mineures#MLflow\|MLflow]] — rôle: Plateforme d'évaluation utilisée sur Databricks pour l'évaluation des 4 approches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MMLU-Pro\|MMLU-Pro]] — catégorie: Benchmark questions professionnelles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] — catégorie: Environnement open-source simulation agents (2 occ., 1 fiches)
 - [[kb/Manus\|Manus]] — nature: Agent IA basé sur Claude (2 occ., 2 fiches)
@@ -387,7 +390,7 @@
 - [[kb/_entites-mineures#Qodo-Gen\|Qodo Gen]] — catégorie: Agent IDE de génération de code et de tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qodo-Merge\|Qodo Merge]] — catégorie: Agent Git de revue de code automatisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] — catégorie: Modèle open-source (1 occ., 1 fiches)
-- [[kb/_entites-mineures#RAG\|RAG]] — statut: Technologie en déclin structurel (2 occ., 2 fiches)
+- [[kb/RAG\|RAG]] — statut: Technologie en déclin structurel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] — catégorie: Agent recherche rapports certifiés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] — capacité: Traitement texte, images, tableaux, équations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAISE\|RAISE]] — catégorie: Plateforme agentique adaptative (1 occ., 1 fiches)
@@ -431,6 +434,7 @@
 - [[kb/_entites-mineures#Service-Knowledge-Hub\|Service Knowledge Hub]] — description: Produit interne Raiffeisen — documentation auto-générée de 57 microservices via parsing Kubernetes, 83 releases/mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shift-left-Security-Plugin\|Shift-left Security Plugin]] — description: Produit interne Raiffeisen — détection vulnérabilités dans IDE avant commit ; −82% secrets exposés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shotcut\|Shotcut]] — catégorie: Éditeur vidéo open-source recommandé comme fork pour le projet 3 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sidecar-Docker-GKG\|Sidecar Docker GKG]] — description: Conteneur léger wrappant le binaire GKG, monté en parallèle du reviewer IA dans le pipeline CI/CD, expose un serveur MCP local (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simmer\|Simmer]] — catégorie: Agent IA incarné dans mondes 3D (Gemini) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Siri\|Siri]] — catégorie: Assistant vocal IA mobile, Apple (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sketch\|Sketch]] — catégorie: Logiciel de design (1 occ., 1 fiches)
@@ -446,6 +450,9 @@
 - [[kb/_entites-mineures#Sphere\|Sphere]] — fonction: Reporting opérationnel self-service UDA-powered (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spotify\|Spotify]] — exemple: Service de streaming musical au stade Marchandise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stablecoins\|Stablecoins]] — avantage: Coûts de transaction sub-cent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Stack-Internal\|Stack Internal]] — rôle: Couche de savoir propriétaire d'entreprise, sans exfiltration de données (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Stack-Overflow-SSO\|Stack Overflow SSO]] — rôle: Ancre communautaire liant l'agent à une réputation humaine (1 occ., 1 fiches)
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] — catégorie: Plateforme API-first d'échange de savoir pour agents de codage (beta, 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#StackSpot\|StackSpot]] — catégorie: Plateforme orchestration agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standardized-A2A-Client\|Standardized A2A Client]] — catégorie: SDK Uber implémentant l'A2A protocol, automatise les échanges STS et la propagation de l'actor chain — pattern *secure path = easiest path* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Starlink\|Starlink]] — rôle: Constellation satellite, principale source de revenus de SpaceX (1 occ., 1 fiches)
@@ -470,6 +477,7 @@
 - [[kb/_entites-mineures#Thunder\|Thunder]] — rôle: Service Rust in-memory Kafka-fed, lookups sub-ms des posts in-network récents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] — catégorie: API fine-tuning multi-GPU (1 occ., 1 fiches)
 - [[kb/Toolshed\|Toolshed]] — catégorie: Hub d'outils MCP (4 occ., 3 fiches)
+- [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] — rôle: Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code (1 occ., 1 fiches)
 - [[kb/TypeScript\|TypeScript]] — usage: Langage principal de Claude Code (3 occ., 3 fiches)
 - [[kb/UDA\|UDA]] — catégorie: Architecture données unifiée basée sur knowledge graph (1 occ., 1 fiches)
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (3 occ., 2 fiches)

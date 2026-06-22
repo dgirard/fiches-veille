@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2158 entités avec moins de 3 triples/fiches
+> 2175 entités avec moins de 3 triples/fiches
 
-## PERSONNE (313)
+## PERSONNE (315)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -788,6 +788,14 @@
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|Brief Bain & Company **mai 2026** (David Crawford, Chris McLaughlin, Greg Fiore — partie d'une **série en 5 volets sur l'industrie du logiciel à l'ère IA**) qui chiffre à **~100 Md$ aux US (~200 Md$ avec Canada/Europe/AU/NZ)** l'opportunité SaaS encore captive du *cross-system labor* — le travail humain de coordination entre systèmes que les agents IA peuvent désormais automatiser. **Capture actuelle : 4-6 Md$ (10% de l'opportunité)** — donc **>90% encore à conquérir**. Thèse-pivot : l'opportunité majeure de l'agentic AI **n'est pas de remplacer les SaaS existants** mais d'**automatiser le travail de coordination cross-systèmes** (employés extrayant des données ERP, vérifiant l'inventaire dans un spreadsheet, interprétant des réponses libres, exerçant un jugement). Distribution : Sales (20 Md$) + COGS/operations (26 Md$) + R&D/engineering (6-12 Md$) + support (6-12 Md$) + finance (6-12 Md$). **Six facteurs d'automatisation** : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency. **Potentiel d'automatisation par fonction** : Customer support & R&D **40-60%**, Finance & HR **35-45%**, Sales & IT **30-40%**, Legal **20-30%**. **Bascule stratégique** : l'avantage concurrentiel se déplace du *system of record ownership* (Salesforce, SAP, Workday) vers le ***cross-workflow decision context*** — la capacité de voir et agir à travers plusieurs systèmes intégrés. **Exemples** : Sierra (autonomous customer issue resolution), Glean (cross-function employee request coordination), GitHub Copilot (étendu au-delà du source control), **Cursor** (ARR doublé en un trimestre, 2 Md$). **Moat durable** : *"accumulated execution data that grows more valuable over time and becomes harder for competitors to replicate"*. **Playbook 3 phases** : Assessment (six factors + market sizing) → Strategic Positioning (data assets + adjacent workflows + actual operational maps) → Execution (build/buy/partner + restructure org + redesign data foundations for agent readiness). Pertinence majeure pour CIO/CDO/Strategy en SaaS B2B et entreprises clientes : reformule la conversation *"AI vs SaaS"* en ***"AI = SaaS qui automatise enfin le coordination labor"***. À articuler avec : DORA ROI (cadre financier), Tatsyi/Raiffeisen (case study banque créateur de 7 produits IA inédits), Wescale (X3-X4 réalistes), MIT NANDA (95% pilotes fail), Foundation Capital *Context Graphs trillion-dollar opportunity* (2025-12-22), Menlo Ventures *State of Generative AI Enterprise* (2025-12-09).]]
 
+### David Gibson {#David-Gibson}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Staff Data Scientist, Stack Overflow, co-auteur
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
+
 ### David Heinemeier Hansson (DHH) {#David-Heinemeier-Hansson-(DHH)}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1324,6 +1332,14 @@
 - **publie** → [[kb/_entites-mineures#Forbes\|Forbes]] (ORGANISATION) — 0.99
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Kiro - Agentic IDE - Specification-driven - Vibe coding vs Spec coding - Enterprise AI - Forbes]]
+
+### Janice Manningham {#Janice-Manningham}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Strategic Group Product Manager, Stack Overflow, co-auteur
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### Jared Friedman {#Jared-Friedman}
 
@@ -5084,13 +5100,15 @@
 
 ### Stack Overflow {#Stack-Overflow}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
+- **rôle** : Plateforme historique de Q&A développeurs (15+ ans), éditrice du produit
 - **secteur** : Communauté développeurs / enquêtes
 
 - **publie** → [[kb/_entites-mineures#2025-Developer-Survey\|2025 Developer Survey]] (DOCUMENT) — 0.99
+- **publie** → [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] (TECHNOLOGIE) — 0.98
 
-**Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]]
+**Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|Fin des assistants codage IA bon marché - Réalité économique - Budgets DSI - InfoWorld]], [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### Standard Chartered {#Standard-Chartered}
 
@@ -5607,7 +5625,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (477)
+## TECHNOLOGIE (482)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -5978,7 +5996,7 @@
 
 - **catégorie** : RAG avec récupération dynamique par agents
 
-- **est_basé_sur** → [[kb/_entites-mineures#RAG\|RAG]] (TECHNOLOGIE) — 0.97
+- **est_basé_sur** → [[kb/RAG\|RAG]] (TECHNOLOGIE) — 0.97
 - **utilise** → [[kb/_entites-mineures#tool-calls-dynamiques\|tool calls dynamiques]] (CONCEPT) — 0.94
 
 - [[kb/Agent-Memory\|Agent Memory]] **est_basé_sur** → Agentic RAG — 0.97
@@ -7777,6 +7795,16 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
 
+### Kuzu {#Kuzu}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Base de données de graphe embarquée, stockage du graphe de connaissances GKG
+
+- [[kb/GKG\|GKG]] **utilise** → Kuzu — 0.94
+
+**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Étude empirique de l'équipe engineering **Compare the Market** (Meerkat Careers, UK) qui évalue quatre approches de **récupération de contexte pour la revue de code par IA** : Baseline (pas de contexte additionnel), **RAG** (recherche vectorielle), **GKG** (GitLab Knowledge Graph, graphe de connaissances AST) et **GKG+RAG** (hybride). Évaluation sur **79 merge requests** réelles avec **MLflow sur Databricks**. Résultat-choc : **RAG performe pire que le baseline** sur presque toutes les métriques — le bruit vectoriel est contre-productif pour la revue de code. **GKG surpasse RAG de +21 %** en couverture des commentaires inline (0,696 vs 0,577) grâce à la compréhension structurelle AST (Tree-sitter + base de graphe Kuzu). Le code exige une compréhension **structurelle** (appelants, signatures, hiérarchies), pas une simple similarité sémantique. GKG coûte 4× le baseline mais délivre des améliorations mesurables ; RAG coûte 3× sans amélioration. Implémentation en **sidecar Docker** CI/CD wrappant le binaire GKG (encore en bêta GitLab) avec serveur MCP local.]]
+
 ### LLM + RAG {#LLM-+-RAG}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8015,6 +8043,14 @@
 - [[kb/SuperClaude\|SuperClaude]] **utilise** → MCP servers — 0.97
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+
+### MLflow {#MLflow}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Plateforme d'évaluation utilisée sur Databricks pour l'évaluation des 4 approches
+
+**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Étude empirique de l'équipe engineering **Compare the Market** (Meerkat Careers, UK) qui évalue quatre approches de **récupération de contexte pour la revue de code par IA** : Baseline (pas de contexte additionnel), **RAG** (recherche vectorielle), **GKG** (GitLab Knowledge Graph, graphe de connaissances AST) et **GKG+RAG** (hybride). Évaluation sur **79 merge requests** réelles avec **MLflow sur Databricks**. Résultat-choc : **RAG performe pire que le baseline** sur presque toutes les métriques — le bruit vectoriel est contre-productif pour la revue de code. **GKG surpasse RAG de +21 %** en couverture des commentaires inline (0,696 vs 0,577) grâce à la compréhension structurelle AST (Tree-sitter + base de graphe Kuzu). Le code exige une compréhension **structurelle** (appelants, signatures, hiérarchies), pas une simple similarité sémantique. GKG coûte 4× le baseline mais délivre des améliorations mesurables ; RAG coûte 3× sans amélioration. Implémentation en **sidecar Docker** CI/CD wrappant le binaire GKG (encore en bêta GitLab) avec serveur MCP local.]]
 
 ### MMLU-Pro {#MMLU-Pro}
 
@@ -8734,23 +8770,6 @@
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
 
-### RAG {#RAG}
-
-**Type** : TECHNOLOGIE | 6 relations | 2 fiches
-
-- **catégorie** : Architecture d'augmentation LLM (2020)
-- **statut** : Technologie en déclin structurel
-
-- **résout** → [[kb/_entites-mineures#fenêtres-de-contexte-limitées\|fenêtres de contexte limitées]] (CONCEPT) — 0.95
-- **utilise** → [[kb/_entites-mineures#vector-databases\|vector databases]] (TECHNOLOGIE) — 0.93
-
-- [[kb/_entites-mineures#Agentic-RAG\|Agentic RAG]] **est_basé_sur** → RAG — 0.97
-- [[kb/_entites-mineures#cascade-d'échecs-en-cinq-étapes\|cascade d'échecs en cinq étapes]] **observé_dans** → RAG — 0.93
-- [[kb/IA-agentique\|IA agentique]] **remplace** → RAG — 0.90
-- [[kb/Claude-Code\|Claude Code]] **remplace** → RAG — 0.88
-
-**Fiches** : [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|Evolution RAG vers Agent Memory - Read-write operations - Gestion données inference - Vector databases - Mémoire persistante agents IA - Leonie Monigatti]], [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn]]
-
 ### RAG Agent {#RAG-Agent}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9153,6 +9172,14 @@
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|Thread X manifeste de Rohit (@rohit4verse) qui pose la *2026 AI engineer roadmap* : 150k$ d'écart entre prompt engineer et systems architect, fin des *generic wrappers* "sherlocked by big tech", et 5 projets de portfolio classés par niveau de complexité (mobile SLM offline, self-improving coding agent, *Cursor for video editors* multimodal, personal life OS agent privacy-first, autonomous enterprise workflow agent). Chaque projet décrit ses *key architectural decisions* (lazy loading, sliding window, sandboxing, scene detection, knowledge graph personnel, event-driven multi-agent, audit trail, RBAC, observability). Slogan structurant : *"the replaceable: building wrappers / the unfireable: shipping autonomous systems"*. Tonalité injonctive et virale typique X 2026.]]
 
+### Sidecar Docker GKG {#Sidecar-Docker-GKG}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **description** : Conteneur léger wrappant le binaire GKG, monté en parallèle du reviewer IA dans le pipeline CI/CD, expose un serveur MCP local
+
+**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Étude empirique de l'équipe engineering **Compare the Market** (Meerkat Careers, UK) qui évalue quatre approches de **récupération de contexte pour la revue de code par IA** : Baseline (pas de contexte additionnel), **RAG** (recherche vectorielle), **GKG** (GitLab Knowledge Graph, graphe de connaissances AST) et **GKG+RAG** (hybride). Évaluation sur **79 merge requests** réelles avec **MLflow sur Databricks**. Résultat-choc : **RAG performe pire que le baseline** sur presque toutes les métriques — le bruit vectoriel est contre-productif pour la revue de code. **GKG surpasse RAG de +21 %** en couverture des commentaires inline (0,696 vs 0,577) grâce à la compréhension structurelle AST (Tree-sitter + base de graphe Kuzu). Le code exige une compréhension **structurelle** (appelants, signatures, hiérarchies), pas une simple similarité sémantique. GKG coûte 4× le baseline mais délivre des améliorations mesurables ; RAG coûte 3× sans amélioration. Implémentation en **sidecar Docker** CI/CD wrappant le binaire GKG (encore en bêta GitLab) avec serveur MCP local.]]
+
 ### Simmer {#Simmer}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9303,6 +9330,26 @@
 - **résout** → [[kb/_entites-mineures#problème-micropaiements-1997\|problème micropaiements 1997]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|Commerce agentique ouvert, protocoles x402/mpp, micropaiements stablecoins, fin du modèle publicitaire]]
+
+### Stack Internal {#Stack-Internal}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Couche de savoir propriétaire d'entreprise, sans exfiltration de données
+
+- **permet** → [[kb/_entites-mineures#savoir-d'entreprise-servi-aux-agents-sans-transmission-externe\|savoir d'entreprise servi aux agents sans transmission externe]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
+
+### Stack Overflow SSO {#Stack-Overflow-SSO}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Ancre communautaire liant l'agent à une réputation humaine
+
+- **permet** → [[kb/_entites-mineures#rattachement-d'un-agent-à-une-réputation-humaine-établie\|rattachement d'un agent à une réputation humaine établie]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### StackSpot {#StackSpot}
 
@@ -9508,6 +9555,16 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
 
+### Tree-sitter {#Tree-sitter}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code
+
+- [[kb/GKG\|GKG]] **utilise** → Tree-sitter — 0.95
+
+**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Étude empirique de l'équipe engineering **Compare the Market** (Meerkat Careers, UK) qui évalue quatre approches de **récupération de contexte pour la revue de code par IA** : Baseline (pas de contexte additionnel), **RAG** (recherche vectorielle), **GKG** (GitLab Knowledge Graph, graphe de connaissances AST) et **GKG+RAG** (hybride). Évaluation sur **79 merge requests** réelles avec **MLflow sur Databricks**. Résultat-choc : **RAG performe pire que le baseline** sur presque toutes les métriques — le bruit vectoriel est contre-productif pour la revue de code. **GKG surpasse RAG de +21 %** en couverture des commentaires inline (0,696 vs 0,577) grâce à la compréhension structurelle AST (Tree-sitter + base de graphe Kuzu). Le code exige une compréhension **structurelle** (appelants, signatures, hiérarchies), pas une simple similarité sémantique. GKG coûte 4× le baseline mais délivre des améliorations mesurables ; RAG coûte 3× sans amélioration. Implémentation en **sidecar Docker** CI/CD wrappant le binaire GKG (encore en bêta GitLab) avec serveur MCP local.]]
+
 ### Universal Commerce Protocol (UCP) {#Universal-Commerce-Protocol-(UCP)}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9571,7 +9628,7 @@
 
 - **catégorie** : Base de données vectorielle pour recherche sémantique
 
-- [[kb/_entites-mineures#RAG\|RAG]] **utilise** → Vector Databases — 0.93
+- [[kb/RAG\|RAG]] **utilise** → Vector Databases — 0.93
 
 **Fiches** : [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|Evolution RAG vers Agent Memory - Read-write operations - Gestion données inference - Vector databases - Mémoire persistante agents IA - Leonie Monigatti]]
 
@@ -10478,7 +10535,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (702)
+## CONCEPT (704)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12049,6 +12106,18 @@
 - **horizon** : 2030 — fusion humain-technologie, IA omniprésente et invisible
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn]]
+
+### Ephemeral Intelligence Gap {#Ephemeral-Intelligence-Gap}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle
+
+- **affirme_que** → [[kb/_entites-mineures#les-agents-redécouvrent-et-perdent-les-mêmes-solutions-à-chaque-session\|les agents redécouvrent et perdent les mêmes solutions à chaque session]] (AFFIRMATION) — 0.90
+
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **résout** → Ephemeral Intelligence Gap — 0.92
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### Erreur de type I et II (contexte medical) {#Erreur-de-type-I-et-II-(contexte-medical)}
 
@@ -15183,6 +15252,14 @@
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste]]
 
+### fausse sécurité {#fausse-sécurité}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Illusion de qualité produite par la relecture humaine du code des agents
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
+
 ### feature-switch parameter service {#feature-switch-parameter-service}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16952,7 +17029,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (315)
+## METHODOLOGIE (318)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -18921,6 +18998,16 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
 
+### boucles de vérification multi-agents {#boucles-de-vérification-multi-agents}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mécanisme d'assurance qualité par consensus de pairs et vérification
+
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → boucles de vérification multi-agents — 0.90
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
+
 ### cadre de mesure à 4 dimensions {#cadre-de-mesure-à-4-dimensions}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -19596,6 +19683,14 @@
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Article de blog **Anthropic / claude.com** signé **Thariq Shihipar** (Member of Technical Staff, équipe Claude Code), publié le **3 juin 2026**, qui capitalise le **retour d'expérience interne** d'Anthropic sur la conception et l'usage des **Skills**. **Thèse de cadrage** : une Skill n'est pas un simple fichier markdown mais un **dossier** (instructions + scripts + ressources + config + hooks) que l'agent **découvre et manipule** ; *« You should think of the entire file system as a form of context engineering and progressive disclosure. »* L'article propose deux apports structurants. **(A) Une taxonomie de 9 catégories de skills** observées chez Anthropic : (1) **Library/API Reference** (doc de libs/CLI internes avec *gotchas* — ex. `billing-lib`, `internal-platform-cli`, `sandbox-proxy`) ; (2) **Product Verification** (test/vérif via Playwright ou tmux — `signup-flow-driver`, `checkout-verifier`, `tmux-cli-driver`) ; (3) **Data Fetching & Analysis** (accès stacks data/monitoring — `funnel-query`, `cohort-compare`, `grafana`, `datadog`) ; (4) **Business Process Automation** (workflows répétitifs — `standup-post`, `weekly-recap`, `create-<ticket>-ticket`) ; (5) **Code Scaffolding** (boilerplate framework — `new-migration`, `create-app`) ; (6) **Code Quality & Review** (`adversarial-review`, `code-style`, `testing-practices`) ; (7) **CI/CD & Deployment** (`babysit-pr`, `deploy-<service>`, `cherry-pick-prod`) ; (8) **Runbooks** (diagnostic multi-outils — `<service>-debugging`, `oncall-runner`, `log-correlator`) ; (9) **Infrastructure Operations** (maintenance avec garde-fous — `<resource>-orphans`, `cost-investigation`). **(B) Un jeu de bonnes pratiques** : ne pas redire l'évident (*« Claude already knows how to code and can read your codebase »* → cibler ce qui **contredit le comportement par défaut**) ; soigner la **section Gotchas** (*« the highest-signal content in any skill »*) ; **progressive disclosure** via l'arborescence (pointer vers des fichiers de référence selon la situation plutôt que tout charger d'emblée) ; **descriptions pensées pour le modèle** (*« the description field is not a summary, it's a description of when to trigger this skill »*) ; **setup flows** (config dans `config.json`, sinon demander via `AskUserQuestion`) ; **mémoire persistante** (logs append-only / JSON via la variable `${CLAUDE_PLUGIN_DATA}`) ; **helper scripts** (*« lets Claude spend its turns on composition… rather than reconstructing boilerplate »*) ; **hooks conditionnels** (activés seulement le temps de la skill — ex. hook de sécurité bloquant les commandes destructrices). **Distribution chez Anthropic** : skills rangées dans `./.claude/skills`, partage informel via Slack dans un dossier sandbox, puis promotion par **PR** vers le **marketplace** interne quand elles gagnent en traction ; **mesure d'usage** via un **hook `PreToolUse`** qui logue les invocations (révèle les skills populaires et celles sous-utilisées). Suite directe de la fiche [[shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10]] (même auteur) et complément concret aux fiches Skills d'Anthropic/Willison/Vincent et au *harness engineering*.]]
 
+### property-based testing {#property-based-testing}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Complément de vérification face aux limites du test automatisé classique
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
+
 ### prosecution {#prosecution}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -19666,6 +19761,17 @@
 - **réduit** → [[kb/_entites-mineures#saturation-de-contexte-qui-dilue-le-jugement\|saturation de contexte qui dilue le jugement]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Quatrième volet ADLC : Williams reconfigure la revue de code en « prosecution » adversariale plutôt qu'évaluation collaborative. Charter les agents pour réfuter (« trouver ce qui est faux »), déployer des reviewers mono-lentille à contextes frais (correction, sécurité, conformité de contrat, alignement spec, qualité des tests), n'agir que sur des findings vérifiés (reproduits par un test rouge), et boucler jusqu'à deux passes consécutives à zéro finding. Mesurer la calibration en plantant des bugs connus, à la manière du mutation testing. Gate de sortie : zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide.]]
+
+### revue de code {#revue-de-code}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **objectifs** : Trouver les défauts, qualité, conformité, partage de connaissance
+
+- **est_instance_de** → [[kb/_entites-mineures#goulot-d'étranglement-du-développement-assisté-IA\|goulot d'étranglement du développement assisté IA]] (CONCEPT) — 0.92
+- **est_basé_sur** → [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT) — 0.88
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
 
 ### revue de code IA {#revue-de-code-IA}
 
@@ -20360,7 +20466,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (65)
+## DOCUMENT (70)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -20514,6 +20620,16 @@
 - **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|Brief Bain & Company **avril 2026** (David Lipman, Greg Callahan, Daniel Goetz, George Sunderland — partie 1/5 de la série *"software industry in the age of AI"*) qui analyse l'impact de l'IA sur la **Rule of 40** (métrique canonique SaaS : *growth rate + profit margin ≥ 40%*) et conclut à une **double pression** : **headwinds** (croissance marché qui ralentit + coûts AI infrastructure massifs) et **tailwinds** (productivité IA + transformation 10-25% EBITDA + outcome-based pricing). **Donnée centrale qui choque** : un cas client *marketing technology* — **coûts AI multipliés par 3,49 (+349%) tandis que revenue n'a augmenté que de 38%** sur un an. **Thèse-pivot** : les SaaS leaders pourraient devoir ***"settle for the Rule of 30"*** temporairement pour rester compétitifs face aux **AI-natives**, en acceptant une compression de marge court terme contre un positionnement long terme. **Deux paths forward explicites** : (1) ***Financialize*** — minimiser AI investment, optimiser cash, opérer comme *"durable generator"* mais limite future growth ; (2) ***Invest to Grow*** — accepter pression marge court terme, réinvestir agressivement dans capabilities AI sur produit et operations. **Tailwinds détaillés** : productivité sales/marketing/R&D, transformations réussies = **+10-25% EBITDA**, opportunité future *outcome-based pricing* (revenue déplacé du fixed seats vers labor/operations economics), incumbents peuvent leverager customer relationships et embedded workflows contre AI-native challengers. **Headwinds détaillés** : *"software penetration is topping out in some areas"* (saturation marché), AI infrastructure + inference + model access introduisent **variable costs significatifs dans des businesses historiquement à hautes marges**. **Signal CFO/board** : la Rule of 40 elle-même comme **norme stable** est en train de basculer ; certains acteurs vont temporairement sortir de cette norme et **c'est rationnel stratégiquement**. **Pertinence majeure** pour CFO/CEO/board SaaS B2B et investisseurs PE/VC software évaluant portefeuille — premier benchmarking institutionnel chiffré du dilemme *protect margins / invest aggressively* en 2026. À articuler avec : Bain **part 2/5 cross-system labor 100 Md$** (2026-05), DORA ROI 2026 (cadre financier), Wescale (X3-X4 réalistes), Tatsyi/Raiffeisen (banque −75 personnes), Curran/Intercom (3× R&D 16 mois), Menlo Ventures *State of Generative AI Enterprise* (2025-12-09).]]
+
+### Blueprint {#Blueprint}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Pattern de design réutilisable multi-systèmes, exigence qualité maximale
+
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → Blueprint — 0.85
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### Build a Large Language Model (From Scratch) {#Build-a-Large-Language-Model-(From-Scratch)}
 
@@ -20804,6 +20920,14 @@
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Première encyclique sociale du **Pape Léon XIV** (Robert Francis Prevost), datée du **15 mai 2026** (Rome, près de Saint-Pierre, 2e année du Pontificat), publiée pour le **135e anniversaire de *Rerum Novarum*** (Léon XIII, 15 mai 1891) et explicitement présentée comme **prolongement de la Doctrine sociale de l'Église à l'ère de l'IA**. Sous-titre canonique : *« sur la protection de la personne humaine à l'ère de l'intelligence artificielle »*. **245 paragraphes**, structurés en **Introduction + 5 chapitres + Conclusion**. **Thèse-pivot** organisée autour de deux **icônes bibliques** : la **tour de Babel** (Gn 11) — l'uniformité technologique sans Dieu, *« absolutisation de l'humain »* — vs la **reconstruction des murs de Jérusalem par Néhémie** (Ne 2-6) — la responsabilité partagée pierre par pierre, l'écoute, la coordination des familles. *« Le premier choix ne se situe pas entre un "oui" ou un "non" à la technologie, mais entre bâtir Babel ou reconstruire Jérusalem »* (n. 9). **Concepts canoniques** : (1) **IA "cultivées" plutôt que "construites"** — *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* (n. 98), formulation théologique remarquable qui reprend le vocabulaire ML-research récent ; (2) ***« Désarmer l'IA »*** (n. 110) — *« la soustraire à la logique de la compétition armée qui n'est plus aujourd'hui seulement militaire, mais aussi économique et cognitive »*, rendre l'IA *« habitable, en la restituant à la pluralité des cultures humaines »* ; (3) **Critique radicale de l'"alignement"** — *« Nous ne pouvons pas nous contenter d'invoquer la moralisation de la machine, ce qu'on appelle "l'alignement" de l'IA sur les valeurs humaines, sans avoir le courage de poser une condition supplémentaire : la possibilité de débattre du code éthique à utiliser »* (n. 107). ***« Une IA plus morale ne sert à rien si cette morale est décidée par une poignée de personnes. »*** (4) **Asymétrie épistémique** et **nouveaux monopoles de l'IA** (n. 109) — *« dans un monde où quelques sujets concentrent les données, les ressources informatiques et le pouvoir réglementaire »* ; (5) **Travail invisible** des étiqueteurs/modérateurs/extracteurs de terres rares (n. 109, 173) — *« des corps marqués, mutilés, utilisés pour que le flux de calcul ne s'interrompe jamais »* ; (6) **Colonialisme des données** (n. 178) — *« il ne domine pas seulement les corps, mais s'approprie les données »*, *« nouvelles terres rares du pouvoir »* ; (7) **IA et guerre** (n. 197-200) — *« Aucun algorithme capable de rendre la guerre moralement acceptable »* (n. 198), trois critères : responsabilité personnelle traçable, refus de raccourcir le délai du jugement moral, protection des civils ; (8) **Critique transhumanisme/posthumanisme** (n. 115-117) comme *« archipel d'îles conceptuelles reliées par le même océan de présupposés : la centralité de la technique et le rêve de dépasser les limites de la condition humaine »* ; (9) **Travail dans la transition** (n. 150-156) — *« contrairement aux avantages annoncés de l'IA, les approches actuelles de la technologie peuvent paradoxalement déqualifier les travailleurs, les soumettre à une surveillance automatisée »*, accès au travail comme priorité publique, anticipation de la transformation, fixation de critères sociaux pour l'innovation ; (10) **Question canonique reprise de Jean-Paul II** (Redemptor hominis 1979) : ***« l'IA rend-elle la vie humaine sur la terre "plus humaine" à tout point de vue ? La rend-[elle] plus "digne de l'homme" ? »*** (n. 129) ; (11) **Plus qu'humain authentique** : non le transhumanisme, mais la grâce — *« nous parvenons à être pleinement humains quand nous sommes plus qu'humains, quand nous permettons à Dieu de nous conduire au-delà de nous-mêmes »* (n. 128, citant François *Evangelii gaudium*) ; (12) **Désarmer les mots** (n. 214) — *« Désarmons les mots et nous contribuerons à désarmer la Terre »*. **Adressataires** : *« À tous les fidèles catholiques, à tous les chrétiens, à tous les hommes et à toutes les femmes de bonne volonté »* (n. 16) — registre **universel** dans la lignée de *Pacem in terris* (Jean XXIII 1963), *Laudato si'* (François 2015) et *Fratelli tutti* (François 2020). **Appel particulier aux développeurs IA** (n. 111) : *« chaque choix de conception exprime une vision de l'humanité »*. **Source magistrale**-clé citée : *Antiqua et nova* (Dicastères pour la Doctrine de la Foi + Culture et Éducation, 14 janvier 2025) + *Quo vadis, humanitas ?* (Commission théologique internationale, 9 février 2026). Document majeur du **Magistère social 2026**, à la jonction Doctrine sociale ↔ éthique de l'IA ↔ géopolitique des big tech ↔ critique du travail des microtravailleurs/extraction terres rares. Convergence implicite avec **Mensch / Mistral** (souveraineté énergétique IA), **Sun / NYT Permanent Underclass** (cf. mémoire travail→capital), **Wallace-Wells / NYT AI Populism** (cf. critique des oligarques tech), **Mollick × roon** (cf. ASI et politique interne). Première encyclique d'un Pape qui prend explicitement l'IA comme **objet central et structurant** plutôt que comme thème parmi d'autres.]]
 
+### SWE-bench {#SWE-bench}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles)
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
+
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
@@ -20824,6 +20948,16 @@
 - **description** : Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|Brief Bain & Company **mai 2026** (David Crawford, Chris McLaughlin, Greg Fiore — partie d'une **série en 5 volets sur l'industrie du logiciel à l'ère IA**) qui chiffre à **~100 Md$ aux US (~200 Md$ avec Canada/Europe/AU/NZ)** l'opportunité SaaS encore captive du *cross-system labor* — le travail humain de coordination entre systèmes que les agents IA peuvent désormais automatiser. **Capture actuelle : 4-6 Md$ (10% de l'opportunité)** — donc **>90% encore à conquérir**. Thèse-pivot : l'opportunité majeure de l'agentic AI **n'est pas de remplacer les SaaS existants** mais d'**automatiser le travail de coordination cross-systèmes** (employés extrayant des données ERP, vérifiant l'inventaire dans un spreadsheet, interprétant des réponses libres, exerçant un jugement). Distribution : Sales (20 Md$) + COGS/operations (26 Md$) + R&D/engineering (6-12 Md$) + support (6-12 Md$) + finance (6-12 Md$). **Six facteurs d'automatisation** : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency. **Potentiel d'automatisation par fonction** : Customer support & R&D **40-60%**, Finance & HR **35-45%**, Sales & IT **30-40%**, Legal **20-30%**. **Bascule stratégique** : l'avantage concurrentiel se déplace du *system of record ownership* (Salesforce, SAP, Workday) vers le ***cross-workflow decision context*** — la capacité de voir et agir à travers plusieurs systèmes intégrés. **Exemples** : Sierra (autonomous customer issue resolution), Glean (cross-function employee request coordination), GitHub Copilot (étendu au-delà du source control), **Cursor** (ARR doublé en un trimestre, 2 Md$). **Moat durable** : *"accumulated execution data that grows more valuable over time and becomes harder for competitors to replicate"*. **Playbook 3 phases** : Assessment (six factors + market sizing) → Strategic Positioning (data assets + adjacent workflows + actual operational maps) → Execution (build/buy/partner + restructure org + redesign data foundations for agent readiness). Pertinence majeure pour CIO/CDO/Strategy en SaaS B2B et entreprises clientes : reformule la conversation *"AI vs SaaS"* en ***"AI = SaaS qui automatise enfin le coordination labor"***. À articuler avec : DORA ROI (cadre financier), Tatsyi/Raiffeisen (case study banque créateur de 7 produits IA inédits), Wescale (X3-X4 réalistes), MIT NANDA (95% pilotes fail), Foundation Capital *Context Graphs trillion-dollar opportunity* (2025-12-22), Menlo Ventures *State of Generative AI Enterprise* (2025-12-09).]]
+
+### TIL (Today I Learned) {#TIL-(Today-I-Learned)}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Trace de debug : système cassé → tentatives → fix → cause racine
+
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → TIL (Today I Learned) — 0.85
+
+**Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Annonce produit de Stack Overflow (blog officiel) lançant **Stack Overflow for Agents**, une plateforme d'échange de connaissances *API-first* conçue pour l'ère agentique. Thèse fondatrice : les agents de codage travaillent **en isolement**, sans accès à une base de savoir partagée et vérifiée. D'où l'**« Ephemeral Intelligence Gap »** — des agents du monde entier résolvent indépendamment les mêmes problèmes, gaspillant tokens et calcul, puis perdent la solution à la fin de la session ; les mêmes patterns d'architecture sont redécouverts en boucle. Principe directeur : *« générer des réponses plausibles est devenu bon marché, mais vérifier lesquelles tiennent en production ne l'est pas »*. Workflow en 4 temps : **chercher d'abord** (consommer le savoir validé) → **contribuer si lacune** (l'agent rédige, l'humain approuve avant publication) → **vérifier** (résultats, modifications, conditions de contexte) → **composer les signaux** (votes, réponses, vérifications font émerger un consensus). Trois formats lisibles par machine : **Questions**, **TIL** (traces de debug), **Blueprint** (patterns réutilisables, exigence qualité maximale). La confiance repose sur la **modération communautaire** et des **boucles de vérification multi-agents** ; l'humain revendique la propriété de son agent via le SSO Stack Overflow (« ancre communautaire » liant l'agent à une réputation humaine). Bénéfices différenciés : développeurs (moins de boucles de retry), labos IA (données haut-signal pour fine-tuning/éval), entreprises (**Stack Internal**, couche de savoir propriétaire sans exfiltration).]]
 
 ### The Batch {#The-Batch}
 
@@ -20852,6 +20986,18 @@
 - [[kb/Mike-Taylor\|Mike Taylor]] **publie** → The Eight Levels of AI Adoption — 0.95
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|Guide du média **Every** (every.to/guides) publié le **2 juin 2026**, co-signé **Mike Taylor, Laura Entis et Claude**, proposant une **échelle de maturité en 8 niveaux d'adoption de l'IA**. **Thèse-pivot** : l'adoption de l'IA **n'est pas une course à la sophistication maximale** — ***« a higher level isn't necessarily better »*** ; il faut identifier le niveau qui **correspond à son propre workflow et à son niveau de confiance**, puis réévaluer régulièrement si monter d'un cran ajoute une **valeur réelle**. ***« The best way to find value in AI is to use it in a way that fits your work. »*** **Axe structurant** : à chaque niveau, *« you delegate more of your work to—and place more trust in—the AI »* (délégation + confiance croissantes). **Les 8 niveaux** : **(1) Chatbot** — interface conversationnelle sans contexte embarqué (ChatGPT, Claude, Gemini) ; **(2) Copilot** — IA embarquée dans l'espace de travail avec accès au fichier courant (Cursor, Claude in Excel, Gemini in Docs) ; **(3) Agent** — système réactif qui exécute pas-à-pas en demandant approbation (Cowork, Codex) ; **(4) Autopilot** — on décrit l'**outcome** et l'agent exécute en autonomie, revue du **résultat final** seulement (Lovable, Codex, Claude Code ; lié au *vibe coding*) ; **(5) Workflows** — ingénieurs construisant des **harnesses** autour des agents (planning, review, confidence checks, garde-fous ; Compound engineering, Claude Workflows, Copilot AI Studio ; bascule one-shot vibe coding → **agentic engineering**) ; **(6) Assistant** — agents **proactifs, always-on** qui surveillent un domaine et remontent l'info sans sollicitation (OpenClaw, Hermes Agent, Claude Managed Agents ; ex. `heartbeat.md` toutes les 30 min) ; **(7) Multi-agent** — gestion simultanée de **plusieurs agents long-running** à rôles distincts (Claude Managed Agents, OpenClaw, Codex Goals ; *« firmly in senior engineering territory »*) ; **(8) Orchestrator** — un **agent manager** pilote une équipe de sous-agents (plan, délégation, monitoring, consolidation ; Gas Town, Paperclip, Symphony/OpenAI ; *« highly experimental »* — même les ingénieurs frontier tiennent eux-mêmes ce rôle). **Sweet spots par rôle** : les **knowledge workers** opèrent typiquement entre les niveaux **1-4**, les **ingénieurs** entre **5-8**. **Parallèle canonique de l'onboarding d'un stagiaire** : *« Expect to put in a similar amount of effort with your agents before you can trust them… at the next level of autonomy »* ; et la formule-marqueur ***« You wouldn't brag that you had eight interns working overnight on a key project, and you hadn't checked their output. »*** Le bon niveau dépend de **4 critères** : qualité de l'output, coût, fiabilité (trustworthiness), enjeu de l'échec (stakes of failure) ; et la **capacité des modèles** déplace progressivement le niveau d'autonomie « sûr ». Cadre directement mobilisable pour structurer une **doctrine d'adoption** côté cabinet. Convergence avec *systems around the model* (Dropbox/Okumura), *harness engineering* (Böckeler, Lattice, Wescale), Karpathy (vibe coding → agentic engineering), Cherny (/loop + Routines), et la doctrine *manager d'agents* (BFM/Girard).]]
+
+### The End of Code Review: Coding Agents Supersede Human Inspection {#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **type** : Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175
+
+- **référence** → [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT) — 0.90
+
+- [[kb/Martin-Monperrus\|Martin Monperrus]] **publie** → The End of Code Review: Coding Agents Supersede Human Inspection — 0.98
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
 
 ### The GenAI Divide State of AI in Business 2025 {#The-GenAI-Divide-State-of-AI-in-Business-2025}
 
@@ -20954,6 +21100,17 @@
 - **structure** : 4 parties : LLM workflows → RAG → agents → agentique
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|Guide CPO FinOps des architectures IA : multiplicateurs de tokens (6×, 5-10×) à travers LLM workflows, RAG, agents et systèmes agentiques, avec le concept de Cost Iceberg - Finout]]
+
+### inspection de Fagan (1976) {#inspection-de-Fagan-(1976)}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **rôle** : Formalisme fondateur de l'inspection de code, cible historique du papier
+
+- [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] **référence** → inspection de Fagan (1976) — 0.90
+- [[kb/_entites-mineures#revue-de-code\|revue de code]] **est_basé_sur** → inspection de Fagan (1976) — 0.88
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|Papier arXiv (cs.SE) de Martin Monperrus défendant une thèse radicale pour le SDLC : les agents de codage ont franchi un seuil de capacité tel que **la revue de code humaine n'est plus un composant nécessaire** d'un pipeline qualité. Deux affirmations : (1) des systèmes autonomes à base de LLM atteignent tous les objectifs de la revue (détection de défauts, qualité, conformité) à coût moindre et débit supérieur ; (2) le modèle hybride « l'agent écrit, l'humain relit » est intenable — il n'assure pas une vraie qualité et ne passe pas à l'échelle de la vélocité IA, créant une « fausse sécurité ». Monperrus oppose à l'inspection de Fagan (1976) un **pipeline de vérification adversariale multi-agents** (agent générateur + agents reviewers indépendants + tests/méthodes formelles + consensus par vote). L'humain se recentre sur la spec, les arbitrages d'architecture, l'approbation des domaines critiques et les cas limites. Recommandations : piloter d'abord sur composants à faible risque, mesurer agent vs humain, expliciter les décisions de rejet.]]
 
 ### post-mortem technique détaillé {#post-mortem-technique-détaillé}
 

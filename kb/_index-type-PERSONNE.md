@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 411 entités de type PERSONNE
+> 414 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -101,6 +101,7 @@
 - [[kb/Dave-Farley\|Dave Farley]] — rôle: Engineering coach, fondateur Modern Software Engineering, ex-Continuous Delivery (livre 2010 avec Jez Humble) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Autor\|David Autor]] — rôle: Économiste MIT, thèse new industries will emerge (contrepoint underclass) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Crawford\|David Crawford]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#David-Gibson\|David Gibson]] — rôle: Staff Data Scientist, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Heinemeier-Hansson-(DHH)\|David Heinemeier Hansson (DHH)]] — rôle: Créateur Ruby on Rails, fondateur Basecamp/HEY, vainqueur 24h du Mans 82e édition, auteur essai "TDD is dead. Long live testing." (2014) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Kiron\|David Kiron]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Lipman\|David Lipman]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI volet 1/5 (Rule of 40) (1 occ., 1 fiches)
@@ -175,6 +176,7 @@
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Janakiram-MSV\|Janakiram MSV]] — rôle: Senior Contributor Forbes, analyste cloud et IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] — rôle: Strategic Group Product Manager, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] — rôle: Partner YC associé à Weave (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Jasmine-Sun\|Jasmine Sun]] — rôle: Journaliste indépendante (Substack), couvre IA et Silicon Valley culture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jason-Hawes\|Jason Hawes]] — rôle: PhD candidate UC Riverside, Research Assistant BCG (1 occ., 1 fiches)
@@ -250,6 +252,7 @@
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: CEO Meta (1 occ., 1 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
+- [[kb/Martin-Monperrus\|Martin Monperrus]] — rôle: Chercheur en génie logiciel (KTH), auteur du papier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] — rôle: Auteur principal, chercheur Banque Mondiale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] — rôle: Développeur / coach craft / formateur français, blog personnel mathieueveillard.com, services Accompagnement et Office hours, newsletter hebdomadaire (1 occ., 1 fiches)

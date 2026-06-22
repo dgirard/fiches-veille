@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 724 entités de type CONCEPT
+> 726 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -189,6 +189,7 @@
 - [[kb/_entites-mineures#Engineering-Output\|Engineering Output]] — catégorie: Métrique primaire productivité (modèle ML) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Enterprise-paradox\|Enterprise paradox]] — définition: Les grandes entreprises mènent en volume de pilotes mais échouent en déploiement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] — horizon: 2030 — fusion humain-technologie, IA omniprésente et invisible (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] — définition: Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erreur-de-type-I-et-II-(contexte-medical)\|Erreur de type I et II (contexte medical)]] — description: Faux negatif (manquer une maladie) vs faux positif (diagnostiquer un sain comme malade) -- le systeme punit davantage le premier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|Explosion cambrienne des Skills]] — description: Prédiction d'adoption massive et diversifiée des Claude Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FOMO-d'agents-24-7\|FOMO d'agents 24/7]] — définition: Pression psychologique : "every hour I'm not at the keyboard is an hour an agent could be earning for me" — inversion de la logique deep work (1 occ., 1 fiches)
@@ -534,6 +535,7 @@
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] — définition: Illusion de qualité produite par la relecture humaine du code des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] — définition: Service interne X (non publié) qui gère les valeurs numériques des paramètres, permet A/B testing et tuning sans code change — explique l'absence de params.rs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fenêtres-de-contexte\|fenêtres de contexte]] — évolution: 8K tokens (2022) → 2M tokens (2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#financement-en-flux\|financement en flux]] — principe: Budget mensuel continu plutôt qu'investissement ponctuel (1 occ., 1 fiches)

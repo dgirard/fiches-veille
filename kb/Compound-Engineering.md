@@ -1,6 +1,6 @@
 # Compound Engineering
 
-> **Type** : METHODOLOGIE | 22 relations | 6 fiches sources
+> **Type** : METHODOLOGIE | 23 relations | 6 fiches sources
 
 ## Attributs
 
@@ -82,6 +82,7 @@
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] **dirige** → Compound Engineering — 0.95
 - [[kb/Lattice\|Lattice]] **converge_avec** → Compound Engineering — 0.93
 - [[kb/_entites-mineures#Fidelity-Two\|Fidelity Two]] **améliore** → Compound Engineering — 0.88
+- [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **converge_avec** → Compound Engineering — 0.82
 
 ## Fiches sources
 

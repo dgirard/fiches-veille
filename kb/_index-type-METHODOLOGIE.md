@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 347 entités de type METHODOLOGIE
+> 351 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -231,6 +231,7 @@
 - [[kb/augmented-coding\|augmented coding]] — définition: Codage assisté IA avec priorité qualité, tests et couverture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] — outil_associé: GitHub Copilot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-d'apprentissage\|boucle d'apprentissage]] — définition: Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] — rôle: Mécanisme d'assurance qualité par consensus de pairs et vérification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] — définition: Speed (PR throughput), Efficiency (heures gagnées), Quality (change failure rate), Satisfaction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] — méthode: Planter des bugs connus, mesurer recall et faux positifs de la stack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#candidate-isolation-attention\|candidate-isolation attention]] — définition: Masking pattern dans Phoenix ranking où candidats peuvent attendre le contexte user mais pas entre eux → scores batch-independent et cacheables (1 occ., 1 fiches)
@@ -301,11 +302,13 @@
 - [[kb/_entites-mineures#phase-Distill\|phase Distill]] — composition: Simplification post-merge + minage des leçons (lesson foundry) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#phase-Interrogate\|phase Interrogate]] — rôle: Phase à plus fort levier : interroger les parties prenantes après lecture du codebase (1 occ., 1 fiches)
 - [[kb/_entites-mineures#phase-Rail\|phase Rail]] — rôle: Geler tests/stubs/contrats depuis la spec avant le build (1 occ., 1 fiches)
+- [[kb/pipeline-de-vérification-adversariale-multi-agents\|pipeline de vérification adversariale multi-agents]] — définition: Agent générateur + reviewers indépendants + vérification (tests/formel) + consensus par vote (1 occ., 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] — application: Plateau, croissance linéaire, exponentielle, AGI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#preuve-d'exécution\|preuve d'exécution]] — rôle: Capter les sorties réelles des agents plutôt que faire confiance à leurs déclarations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#private-evals\|private evals]] — rôle: Mesurer l'amélioration d'un modèle sur les résultats métier internes (1 occ., 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] — inspiration: Steve Jobs, obsession de la perfection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] — définition: Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pédagogie-socratique\|pédagogie socratique]] — structure: hook → exploration → dialogue → pratique → flashcard FSRS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#query-fan-out\|query fan-out]] — description: Technique de recherches parallèles sur sous-sujets multiples (1 occ., 1 fiches)
@@ -313,6 +316,7 @@
 - [[kb/_entites-mineures#red-teaming\|red teaming]] — description: Tests adversariaux pour identifier capacités dangereuses des modèles IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] — catégorie: Technique pédagogique basée sur la récupération active en mémoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] — dimensions: Correction, sécurité, conformité de contrat, alignement spec, qualité des tests (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)

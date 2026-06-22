@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 322 entités de type ORGANISATION
+> 323 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -69,6 +69,7 @@
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] — secteur: Cabinet de conseil en transformation IT/IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Columbia-University\|Columbia University]] — secteur: Enseignement supérieur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Commerce-Department\|Commerce Department]] — secteur: Commerce international américain (1 occ., 1 fiches)
+- [[kb/Compare-the-Market\|Compare the Market]] — secteur: Comparaison de prix / assurances (UK), marque Meerkat Careers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Constellation-Research\|Constellation Research]] — secteur: Firme d'analystes Silicon Valley dirigée par R. "Ray" Wang, focus CXO / future of business and technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contextually-LLC\|Contextually LLC]] — secteur: Société fondée par Jessica Talisman, conseil semantic engineering / information architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] — rôle: acteur du réseau circulaire d'investissements IA (1 occ., 1 fiches)
@@ -257,7 +258,7 @@
 - [[kb/SpaceX\|SpaceX]] — secteur: Spatial / satellites / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spotify\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stanford\|Stanford]] — secteur: Recherche universitaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stanford-HAI\|Stanford HAI]] — catégorie: Institut de recherche IA centré sur l'humain (1 occ., 1 fiches)

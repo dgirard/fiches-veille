@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 71 entités de type DOCUMENT
+> 76 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -19,6 +19,7 @@
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] — description: Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] — catégorie: Billet de bricolage / REX exploratoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
@@ -51,11 +52,14 @@
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] — type: Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] — nature: Whitepaper Google, série « Day 1 », mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] — catégorie: Ouvrage de référence du software craftsmanship (1999/2019) (1 occ., 1 fiches)
@@ -67,6 +71,7 @@
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] — taille_échantillon: 5000+ répondants mondiaux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guide-CPO-FinOps-(Finout)\|guide CPO FinOps (Finout)]] — structure: 4 parties : LLM workflows → RAG → agents → agentique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] — rôle: Formalisme fondateur de l'inspection de code, cible historique du papier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] — valeur: transparence radicale envers clients (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] — rôle: Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques (1 occ., 1 fiches)
