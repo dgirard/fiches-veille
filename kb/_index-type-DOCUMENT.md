@@ -1,9 +1,10 @@
 # Index — DOCUMENT
 
-> 76 entités de type DOCUMENT
+> 78 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
@@ -30,6 +31,7 @@
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] — catégorie: Billet d'opinion / REX craftsmanship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] — type: Guide de référence officiel (CC BY 4.0) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] — rôle: Benchmark de travail de connaissance réel/agentique (Elo, multi-tours, livrables rendus) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] — nature: Design Patterns (Gamma, Helm, Johnson, Vlissides, 1994) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)

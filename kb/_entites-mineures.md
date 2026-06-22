@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2175 entités avec moins de 3 triples/fiches
+> 2180 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (315)
 
@@ -3146,7 +3146,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (246)
+## ORGANISATION (248)
 
 ### 10x {#10x}
 
@@ -3369,6 +3369,17 @@
 - [[kb/Fred-PLAIS\|Fred PLAIS]] **dirige** → Archie — 0.90
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+
+### Artificial Analysis {#Artificial-Analysis}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Plateforme d'évaluation indépendante de modèles IA (index Intelligence/Agentic, GDPval-AA, AA-Briefcase)
+
+- **publie** → [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] (DOCUMENT) — 0.90
+- **affirme_que** → [[kb/_entites-mineures#qu'un-modèle-open-weights-rivalise-avec-la-frontière-propriétaire-sur-le-travail-agentique-est-un-vrai-progrès\|qu'un modèle open weights rivalise avec la frontière propriétaire sur le travail agentique est un vrai progrès]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]]
 
 ### BCG {#BCG}
 
@@ -5496,6 +5507,16 @@
 
 **Fiches** : [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|Salesforce - AI doing 30-50% work - Marc Benioff - Automatisation interne - Transformation - Yahoo Finance]]
 
+### Z AI {#Z-AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Labo IA (Zhipu AI, Chine), créateur de la famille GLM
+
+- **a_créé** → [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.98
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]]
+
 ### Z.ai {#Z.ai}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5625,7 +5646,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (482)
+## TECHNOLOGIE (483)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6442,11 +6463,14 @@
 
 ### Claude Opus 4.8 {#Claude-Opus-4.8}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
 - **catégorie** : Modèle Anthropic (sortie 28 mai 2026, 1M tokens)
+- **rôle** : #2 GDPval-AA (1615 Elo)
 
-**Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Article du blog de **Pasquale Pillitteri** (ingénieur informatique, Palermo) publié le **29 mai 2026** (version FR), 18 min de lecture, rubrique *Claude Code & Anthropic*. **Thèse-pivot** : *« Claude Opus 4.8 est le modèle SEO le plus puissant de 2026, mais presque tout le monde l'utilise mal »* — non pas un problème de modèle mais de **système**. La règle d'or : ***« la stratégie est un tableau blanc, la production est une chaîne de montage »*** — il faut **scinder le SEO en deux phases distinctes**, et les mélanger est *« le moyen le plus rapide de gaspiller un modèle qui coûte cinq dollars par million de tokens en entrée et vingt-cinq en sortie »*. **Contexte modèle** : Opus 4.8 publié le **28 mai 2026** (41 jours après Opus 4.7), contexte **1M tokens**, **GraphWalks Long-Context F1 à 1M : 40,3 % → 68,1 %**, **SWE-bench Verified 88,6 %**, **USAMO 2026 96,7 %** (+27,4 pts), **HLE avec tool 57,9 %**, prix inchangé **5 $/25 $** par M tokens, **Fast Mode 2,5× à 10 $/50 $**, quatre **effort levels** (Low, High, Extra, Max). **L'anti-pattern central** = *« la conversation géante »* / **dérive du contexte** : mélanger stratégie, keyword research, analyse concurrentielle et rédaction dans un seul chat produit une *« bouillie d'intentions contradictoires »* → le modèle glisse vers les **best practices génériques** (« optimisation holistique », « approche stratégique ») au lieu d'un contenu ancré aux données. **Phase 1 — Stratégie (tableau blanc, UI visuelle, one-off)** : dashboard / Google Sheet / canvas Claude.ai pour décider en voyant les données ensemble. **3 plays** : (a) **keyword research classifiée** (tableau volume / difficulté 0-100 / intention / potentiel business / priorité = volume÷difficulté×poids business) ; (b) **analyse concurrentielle visuelle** (matrice de couverture thématique, gaps) ; (c) **roadmap par phases** (quick wins M1-2 / moyen terme M3-6 / pillar pages M7-12). Mode **Extra/Max** justifié ici (*« une décision stratégique juste vaut mille pages bien écrites sur des mots-clés erronés »*). 3 artefacts fermés sauvegardés sur Notion/Drive. **Phase 2 — Production (chaîne de montage, Opus 4.8 + MCP)** : le modèle passe de stratège à **machine d'exécution** ; chaque décision **ancrée à des données live** via **Model Context Protocol**. **Stack MCP minimum** : **GSC MCP** (AminForou/mcp-gsc, 500+ étoiles), **Ahrefs MCP officiel** (98 étoiles), **GA4 MCP** ; repo `modelcontextprotocol/servers` = **86 440 étoiles**, **10 000+ serveurs actifs**, 97M téléchargements SDK/mois. Setup ~35 min, refresh mensuel ~20 min. **Loop hebdomadaire** : un prompt unique tire les données live, construit le brief (top 10 SERP + GSC + Ahrefs), dérive H2/H3, écrit, contrôle densité, suggère titres → **+45 % productivité**, draft en **6-12 min** (référence explicite au **content engineering de Ryan Law / Ahrefs**, 23 skills). Mention des **Dynamic Workflows** Anthropic (jusqu'à 1 000 subagents). **4 erreurs courantes** : (1) ne pas vérifier les chiffres (spot-check obligatoire, *trust & verify*) ; (2) remplacer complètement Semrush/Ahrefs (le MCP est une **couche par-dessus**, pas un substitut) ; (3) ignorer le **content gap paid-organic** (cas client education : **2 742 termes gaspillés / 351 opportunités** identifiés en 90 s) ; (4) utiliser Opus 4.8 là où **Haiku 4.5** suffit (meta descriptions, alt text). **Coût** : 1-3 $/article de 2 500 mots. **Sonnet 4.6** suffit pour la production récurrente, Opus 4.8 réservé à la stratégie. Article SEO-optimisé et auto-référentiel (l'auteur écrit sur le SEO un contenu lui-même conçu pour se positionner sur « Opus 4.8 SEO »). Convergence directe avec **Ryan Law/Ahrefs** (cité), **systems around the model** (Dropbox/Okumura), **skills-over-prompts** (Lattice), routage modèle Haiku/Sonnet/Opus (Gupta token-to-outcome).]]
+- **surpasse** → [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Article du blog de **Pasquale Pillitteri** (ingénieur informatique, Palermo) publié le **29 mai 2026** (version FR), 18 min de lecture, rubrique *Claude Code & Anthropic*. **Thèse-pivot** : *« Claude Opus 4.8 est le modèle SEO le plus puissant de 2026, mais presque tout le monde l'utilise mal »* — non pas un problème de modèle mais de **système**. La règle d'or : ***« la stratégie est un tableau blanc, la production est une chaîne de montage »*** — il faut **scinder le SEO en deux phases distinctes**, et les mélanger est *« le moyen le plus rapide de gaspiller un modèle qui coûte cinq dollars par million de tokens en entrée et vingt-cinq en sortie »*. **Contexte modèle** : Opus 4.8 publié le **28 mai 2026** (41 jours après Opus 4.7), contexte **1M tokens**, **GraphWalks Long-Context F1 à 1M : 40,3 % → 68,1 %**, **SWE-bench Verified 88,6 %**, **USAMO 2026 96,7 %** (+27,4 pts), **HLE avec tool 57,9 %**, prix inchangé **5 $/25 $** par M tokens, **Fast Mode 2,5× à 10 $/50 $**, quatre **effort levels** (Low, High, Extra, Max). **L'anti-pattern central** = *« la conversation géante »* / **dérive du contexte** : mélanger stratégie, keyword research, analyse concurrentielle et rédaction dans un seul chat produit une *« bouillie d'intentions contradictoires »* → le modèle glisse vers les **best practices génériques** (« optimisation holistique », « approche stratégique ») au lieu d'un contenu ancré aux données. **Phase 1 — Stratégie (tableau blanc, UI visuelle, one-off)** : dashboard / Google Sheet / canvas Claude.ai pour décider en voyant les données ensemble. **3 plays** : (a) **keyword research classifiée** (tableau volume / difficulté 0-100 / intention / potentiel business / priorité = volume÷difficulté×poids business) ; (b) **analyse concurrentielle visuelle** (matrice de couverture thématique, gaps) ; (c) **roadmap par phases** (quick wins M1-2 / moyen terme M3-6 / pillar pages M7-12). Mode **Extra/Max** justifié ici (*« une décision stratégique juste vaut mille pages bien écrites sur des mots-clés erronés »*). 3 artefacts fermés sauvegardés sur Notion/Drive. **Phase 2 — Production (chaîne de montage, Opus 4.8 + MCP)** : le modèle passe de stratège à **machine d'exécution** ; chaque décision **ancrée à des données live** via **Model Context Protocol**. **Stack MCP minimum** : **GSC MCP** (AminForou/mcp-gsc, 500+ étoiles), **Ahrefs MCP officiel** (98 étoiles), **GA4 MCP** ; repo `modelcontextprotocol/servers` = **86 440 étoiles**, **10 000+ serveurs actifs**, 97M téléchargements SDK/mois. Setup ~35 min, refresh mensuel ~20 min. **Loop hebdomadaire** : un prompt unique tire les données live, construit le brief (top 10 SERP + GSC + Ahrefs), dérive H2/H3, écrit, contrôle densité, suggère titres → **+45 % productivité**, draft en **6-12 min** (référence explicite au **content engineering de Ryan Law / Ahrefs**, 23 skills). Mention des **Dynamic Workflows** Anthropic (jusqu'à 1 000 subagents). **4 erreurs courantes** : (1) ne pas vérifier les chiffres (spot-check obligatoire, *trust & verify*) ; (2) remplacer complètement Semrush/Ahrefs (le MCP est une **couche par-dessus**, pas un substitut) ; (3) ignorer le **content gap paid-organic** (cas client education : **2 742 termes gaspillés / 351 opportunités** identifiés en 90 s) ; (4) utiliser Opus 4.8 là où **Haiku 4.5** suffit (meta descriptions, alt text). **Coût** : 1-3 $/article de 2 500 mots. **Sonnet 4.6** suffit pour la production récurrente, Opus 4.8 réservé à la stratégie. Article SEO-optimisé et auto-référentiel (l'auteur écrit sur le SEO un contenu lui-même conçu pour se positionner sur « Opus 4.8 SEO »). Convergence directe avec **Ryan Law/Ahrefs** (cité), **systems around the model** (Dropbox/Okumura), **skills-over-prompts** (Lattice), routage modèle Haiku/Sonnet/Opus (Gupta token-to-outcome).]]
 
 ### Claude Sonnet {#Claude-Sonnet}
 
@@ -8170,6 +8194,16 @@
 - **utilise** → [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+
+### MiniMax-M3 {#MiniMax-M3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : 2e meilleur modèle open weights sur GDPval-AA (1408 Elo)
+
+- [[kb/GLM-5.2\|GLM-5.2]] **surpasse** → MiniMax-M3 — 0.92
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]]
 
 ### Mistral Small 3.1 {#Mistral-Small-3.1}
 
@@ -20466,7 +20500,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (70)
+## DOCUMENT (72)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -20487,6 +20521,14 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → 2026 Agentic Coding Trends Report — 0.99
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité]]
+
+### AA-Briefcase {#AA-Briefcase}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights)
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]]
 
 ### ADR {#ADR}
 
@@ -20735,6 +20777,18 @@
 - [[kb/FinOps-Foundation\|FinOps Foundation]] **publie** → FinOps for AI Overview — 0.98
 
 **Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|Guide officiel FinOps Foundation pour l'IA : token economics, KPIs, caching, prompt optimization, sélection de modèle et extension des 14 capacités du Framework FinOps aux services GenAI - FinOps Foundation]]
+
+### GDPval-AA {#GDPval-AA}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **rôle** : Benchmark de travail de connaissance réel/agentique (Elo, multi-tours, livrables rendus)
+
+- **mesure** → [[kb/_entites-mineures#travail-de-connaissance-économiquement-valorisable-en-tâches-multi-tours-longue-horizon\|travail de connaissance économiquement valorisable en tâches multi-tours longue-horizon]] (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Artificial-Analysis\|Artificial Analysis]] **publie** → GDPval-AA — 0.90
+
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|Annonce-benchmark d'**Artificial Analysis** (plateforme d'évaluation indépendante de modèles IA, via X/Twitter + page modèle) : **GLM-5.2** de **Z.ai** (Zhipu AI, @Zai_org) devient **le meilleur modèle à poids ouverts** et se hisse **#3 au classement général** de **GDPval-AA**, un benchmark de *travail de connaissance économiquement valorisable* du monde réel (tâches longue-horizon, multi-tours, agentiques). GLM-5.2 marque **1524 Elo**, derrière les seuls **Claude Fable 5 (1783)** et **Claude Opus 4.8 (1615)**, et à parité avec **GPT-5.5 (xhigh, 1509)**. Il devance d'une large marge le modèle ouvert suivant (**MiniMax-M3, 1408**) et de nombreux modèles propriétaires : **Gemini 3.5 Flash (1357)**, **Qwen 3.7 Max (1289)**, **Muse Spark (1158)**. Les tâches sont réellement agentiques : **~31 tours par tâche** en moyenne sur **1 999 matchs**. La même hiérarchie tient sur l'**Artificial Analysis Intelligence Index** (1er open weights), l'**Agentic Index** (#3) et **AA-Briefcase** (#3, devant GPT-5.5 xhigh, derrière Fable 5). Point saillant : un modèle **open weights** sous **licence MIT**, **MoE 753 Mds de paramètres / 40 Mds actifs**, contexte **1M tokens**, tarifé **1,40 $/4,40 $ par 1M tokens** entrée/sortie, rivalise avec la frontière propriétaire sur le travail agentique — un vrai pas pour les modèles ouverts.]]
 
 ### Gang of Four {#Gang-of-Four}
 

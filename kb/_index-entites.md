@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2522 entités
+> 2528 entités
 
 ## #
 
@@ -65,6 +65,7 @@
 
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] (DOCUMENT, 1 fiches)
 - [[kb/Aaron-Levie\|Aaron Levie]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] (PERSONNE, 1 fiches)
@@ -304,6 +305,7 @@
 - [[kb/Arthur-Mensch\|Arthur Mensch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Artificial-Analysis\|Artificial Analysis]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Arvind-Narayanan\|Arvind Narayanan]] (PERSONNE, 1 fiches)
@@ -534,13 +536,13 @@
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Claude-Opus-4.8\|Claude Opus 4.8]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Claude-Opus-4.8\|Claude Opus 4.8]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] (TECHNOLOGIE, 2 fiches)
@@ -1019,6 +1021,7 @@
 - [[kb/_entites-mineures#GCC\|GCC]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GDPVal\|GDPval]] (METHODOLOGIE, 2 fiches)
 - [[kb/GDPVal\|GDPVal]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#gel-au-niveau-de-l'outil\|gel au niveau de l'outil]] (METHODOLOGIE, 1 fiches)
 - [[kb/Gemini\|Gemini]] (TECHNOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#Gemini-2.0\|Gemini 2.0]] (TECHNOLOGIE, 1 fiches)
@@ -1070,6 +1073,7 @@
 - [[kb/GKG\|GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] (ORGANISATION, 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 1 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Go\|Go]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Goal-Driven-Execution\|Goal-Driven Execution]] (METHODOLOGIE, 1 fiches)
@@ -1537,6 +1541,7 @@
 - [[kb/Mike-Taylor\|Mike Taylor]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] (ORGANISATION, 1 fiches)
 - [[kb/MiniMax-M2\|MiniMax M2]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Minions\|Minions]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#MIN_VIDEO_DURATION_MS\|MIN_VIDEO_DURATION_MS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] (PERSONNE, 1 fiches)
@@ -2546,6 +2551,7 @@
 - [[kb/Yves-Caseau\|Yves Caseau]] (PERSONNE, 2 fiches)
 ## Z
 
+- [[kb/_entites-mineures#Z-AI\|Z AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Z.ai\|Z.ai]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] (PERSONNE, 1 fiches)
 - [[kb/Zapier\|Zapier]] (ORGANISATION, 3 fiches)

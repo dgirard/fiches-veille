@@ -1,19 +1,19 @@
 # Knowledge Base — Veille Technologique
 
-> 313 fiches | 2522 entités | 4435 triples | Généré le 2026-06-22
+> 314 fiches | 2528 entités | 4449 triples | Généré le 2026-06-22
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (414)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (323)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (589)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (325)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (591)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (726)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (351)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (39)
 - [[kb/_index-type-LIEU\|LIEU]] (4)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (76)
-- [[kb/_entites-mineures\|Entités mineures]] (2187)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (78)
+- [[kb/_entites-mineures\|Entités mineures]] (2192)
 
 ## Entités les plus connectées
 
@@ -44,17 +44,17 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 539
-- **affirme_que** : 446
+- **utilise** : 540
+- **affirme_que** : 447
 - **permet** : 400
-- **mesure** : 344
-- **a_créé** : 297
-- **publie** : 277
+- **mesure** : 348
+- **a_créé** : 298
+- **publie** : 278
 - **est_basé_sur** : 187
 - **améliore** : 181
 - **recommande** : 178
 - **réduit** : 166
-- **est_instance_de** : 164
+- **est_instance_de** : 165
 - **s_applique_à** : 164
 - **fait_partie_de** : 148
 - **remplace** : 126
@@ -63,15 +63,15 @@
 ### Distribution par type
 
 - **PERSONNE** : 414 (16.4%)
-- **ORGANISATION** : 323 (12.8%)
-- **TECHNOLOGIE** : 589 (23.4%)
-- **CONCEPT** : 726 (28.8%)
+- **ORGANISATION** : 325 (12.9%)
+- **TECHNOLOGIE** : 591 (23.4%)
+- **CONCEPT** : 726 (28.7%)
 - **METHODOLOGIE** : 351 (13.9%)
 - **EVENEMENT** : 39 (1.5%)
 - **LIEU** : 4 (0.2%)
-- **DOCUMENT** : 76 (3.0%)
+- **DOCUMENT** : 78 (3.1%)
 
 ### Déduplication
 
-- **Triples** : 4508 → 4435 (73 doublons)
-- **Entités** : 3247 → 2522 (725 doublons)
+- **Triples** : 4522 → 4449 (73 doublons)
+- **Entités** : 3255 → 2528 (727 doublons)

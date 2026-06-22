@@ -1,6 +1,6 @@
 # GPT-5.5
 
-> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -32,6 +32,10 @@
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
 - [[kb/Opus-4.7\|Opus 4.7]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Evaluation cybersecurite offensive GPT-5.5 par UK AISI — 95 taches CTF, cyber range 32 etapes, jailbreak universel — Blog AISI]]
+
+## Relations (comme objet)
+
+- [[kb/GLM-5.2\|GLM-5.2]] **concurrence** → GPT-5.5 — 0.85
 
 ## Fiches sources
 

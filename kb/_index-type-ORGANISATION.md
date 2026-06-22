@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 323 entités de type ORGANISATION
+> 325 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -33,6 +33,7 @@
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/Apollo-Academy\|Apollo Academy]] — secteur: formation recherche sûreté IA (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Archie\|Archie]] — secteur: IA / agents (workforce IA) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Artificial-Analysis\|Artificial Analysis]] — rôle: Plateforme d'évaluation indépendante de modèles IA (index Intelligence/Agentic, GDPval-AA, AA-Briefcase) (1 occ., 1 fiches)
 - [[kb/Atlassian\|Atlassian]] — secteur: Éditeur logiciel (collaboration, ingénierie) (1 occ., 1 fiches)
 - [[kb/Augment-Code\|Augment Code]] — secteur: Éditeur d'agents de codage IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#BCG\|BCG]] — secteur: Cabinet de conseil en stratégie (1 occ., 1 fiches)
@@ -308,6 +309,7 @@
 - [[kb/_entites-mineures#Y-Combinator\|Y Combinator]] — type: Accélérateur de startups (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Yahoo-Finance\|Yahoo Finance]] — rôle: source média financier (1 occ., 1 fiches)
 - [[kb/YouTube\|YouTube]] — secteur: Plateforme vidéo / Éducation en ligne (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Z-AI\|Z AI]] — secteur: Labo IA (Zhipu AI, Chine), créateur de la famille GLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Z.ai\|Z.ai]] — secteur: Modèles de fondation chinois (open-weights) (1 occ., 1 fiches)
 - [[kb/Zapier\|Zapier]] — secteur: Automatisation / Orchestration IA (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] — secteur: Immobilier / PropTech (utilisateur Replit) (1 occ., 1 fiches)

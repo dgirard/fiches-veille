@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 589 entités de type TECHNOLOGIE
+> 591 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
@@ -103,13 +103,13 @@
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (48 occ., 42 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
-- [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (2 occ., 1 fiches)
+- [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (3 occ., 2 fiches)
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] — catégorie: Modèle classe Mythos, garde-fous levés, accès restreint (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] — score even-handedness: 95% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] — catégorie: Modèle de langage frontier Anthropic (2 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude-Opus-4.8\|Claude Opus 4.8]] — catégorie: Modèle Anthropic (sortie 28 mai 2026, 1M tokens) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Opus-4.8\|Claude Opus 4.8]] — catégorie: Modèle Anthropic (sortie 28 mai 2026, 1M tokens) (2 occ., 2 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
@@ -179,6 +179,7 @@
 - [[kb/GDPVal\|GDPVal]] — définition: Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: LLM à poids ouverts, MoE 753 Mds/40 Mds actifs, raisonnement, contexte 1M, MIT, sorti 2026-06-16 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] — catégorie: LLM généraliste (1 occ., 1 fiches)
@@ -319,6 +320,7 @@
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] — catégorie: Chatbot IA générative basé sur GPT-4 (usage gratuit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] — catégorie: Suite bureautique (1 occ., 1 fiches)
 - [[kb/MiniMax-M2\|MiniMax M2]] — catégorie: Modèle open-weight optimisé codage et agents (2 occ., 1 fiches)
+- [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] — rôle: 2e meilleur modèle open weights sur GDPval-AA (1408 Elo) (1 occ., 1 fiches)
 - [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (3 occ., 2 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
