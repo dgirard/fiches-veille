@@ -21,7 +21,7 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#GitHub\|GitHub]] (TECHNOLOGIE) — 0.98, STATIQUE
+- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
 
 ### s_oppose_à

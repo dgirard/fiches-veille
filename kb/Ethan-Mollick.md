@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 56 relations | 13 fiches sources
+> **Type** : PERSONNE | 57 relations | 13 fiches sources
 
 ## Attributs
 
@@ -124,6 +124,8 @@
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Planification stratégique face aux futurs impossibles de l'IA et de l'AGI - One Useful Thing - Ethan Mollick]]
 - [[kb/_entites-mineures#reconstruction-du-pipeline-de-formation-au-niveau-CHRO\|reconstruction du pipeline de formation au niveau CHRO]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+- « récompenser les employés qui découvrent des usages transformationnels de l'IA » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 - [[kb/_entites-mineures#pilotes-avant-déploiement-global\|pilotes avant déploiement global]] (METHODOLOGIE) — 0.88, STATIQUE
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick - AI adoption - Organizational change - One Useful Thing - Wharton - Academic research - Management]]
 - [[kb/_entites-mineures#redesign-du-travail-par-les-leaders-pour-le-monde-IA\|redesign du travail par les leaders pour le monde IA]] (CONCEPT) — 0.88, ATEMPOREL

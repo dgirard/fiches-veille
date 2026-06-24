@@ -30,7 +30,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
+- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
 - [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]

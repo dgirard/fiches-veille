@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 325 entités de type ORGANISATION
+> 327 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -25,7 +25,7 @@
 - [[kb/_entites-mineures#Airbyte\|Airbyte]] — secteur: Plateforme open source de flux de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allianz\|Allianz]] — secteur: Assurance (1 occ., 1 fiches)
 - [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
-- [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud public, plateforme de référence dans le talk (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans) (2 occ., 2 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
 - [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (35 occ., 35 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
@@ -74,6 +74,8 @@
 - [[kb/_entites-mineures#Constellation-Research\|Constellation Research]] — secteur: Firme d'analystes Silicon Valley dirigée par R. "Ray" Wang, focus CXO / future of business and technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contextually-LLC\|Contextually LLC]] — secteur: Société fondée par Jessica Talisman, conseil semantic engineering / information architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] — rôle: acteur du réseau circulaire d'investissements IA (1 occ., 1 fiches)
+- [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] — rôle: Lab IA central de Cornell ; conçoit/déploie des outils IA pour les problèmes opérationnels (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cornell-Treasury-Operations\|Cornell Treasury Operations]] — rôle: Équipe métier (trésorerie) ; détentrice de la connaissance et des données (GL Oracle) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Crystal-Peak-Security\|Crystal Peak Security]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] — secteur: Start-up IA fondée par Francesco Bonacci (1 occ., 1 fiches)
 - [[kb/Cursor\|Cursor]] — catégorie: IDE assisté par IA (2 occ., 1 fiches)

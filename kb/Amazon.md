@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 5 relations | 2 fiches sources
+> **Type** : ORGANISATION | 6 relations | 2 fiches sources
 
 ## Attributs
 
@@ -19,6 +19,11 @@
 
 - [[kb/_entites-mineures#ACP-et-UCP\|ACP et UCP]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique]]
+
+### utilise
+
+- [[kb/_entites-mineures#blameless-post-mortem\|blameless post-mortem]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ## Relations (comme objet)
 

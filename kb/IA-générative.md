@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 12 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 4 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,8 @@
   - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
 - [[kb/_entites-mineures#vitesse-d'exécution-des-ingénieurs\|vitesse d'exécution des ingénieurs]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+- [[kb/_entites-mineures#productivité-des-fonctions-PM-PO-Scrum-Master\|productivité des fonctions PM / PO / Scrum Master]] (CONCEPT) — 0.86, DYNAMIQUE
+  - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### permet
 

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 726 entités de type CONCEPT
+> 731 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -373,6 +373,7 @@
 - [[kb/_entites-mineures#Superviseur-d'agents\|Superviseur d'agents]] — description: Evolution du role developpeur vers orchestration d'agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] — définition: (1) Productivity sales/marketing/R&D ; (2) Transformations réussies = +10-25% EBITDA ; (3) Outcome-based pricing fixed seats → labor/operations ; (4) Incumbents avantage customer relationships + embedded workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] — définition: Concept Bersin : nouveau process de talent management combinant pay, titles, redeployment (1 occ., 1 fiches)
@@ -474,6 +475,7 @@
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] — opposé: compounding error (1 occ., 1 fiches)
 - [[kb/compounding-teams\|compounding teams]] — définition: Équipes IA n'écrivant plus de code, construisant des frameworks récursifs autour de modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] — qualification: Goulot d'étranglement coûteux (1 occ., 1 fiches)
+- [[kb/_entites-mineures#condition-d'arrêt-(stop-condition)\|condition d'arrêt (stop condition)]] — rôle: Sortie propre d'une boucle : la partie la plus critique, surtout en récursif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#conductor-vs-orchestrator\|conductor vs orchestrator]] — définition: Deux modes du dev : temps réel in-IDE vs délégation async multi-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#confiance-logicielle\|confiance logicielle]] — description: Confiance construite par transparence, non par marketing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#conflit-d'intérêts\|conflit d'intérêts]] — dimension: Gouvernance d'entreprise, chevauchement concurrentiel (1 occ., 1 fiches)
@@ -523,6 +525,7 @@
 - [[kb/_entites-mineures#déduplication\|déduplication]] — domaine: Sauvegarde de données, optimisation stockage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] — type: défaillance infrastructure critique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#démocratisation-de-l'éducation\|démocratisation de l'éducation]] — impact: accès mondial sans barrières géographiques ou financières (1 occ., 1 fiches)
+- [[kb/_entites-mineures#dérive-des-artefacts-(artifact-drift)\|dérive des artefacts (artifact drift)]] — définition: Décroissance silencieuse de la qualité quand les artefacts (CLAUDE.md, rubriques, checklists) évoluent sans surveillance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dérive-du-contexte\|dérive du contexte]] — définition: Mélange d'intentions → glissement vers best practices génériques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-logiciel-IA\|développement logiciel IA]] — marché estimé: 3 billions de dollars (valeur économique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-permissionless\|développement permissionless]] — analogie: comme YouTube/blogs pour le contenu (1 occ., 1 fiches)
@@ -534,6 +537,7 @@
 - [[kb/_entites-mineures#end-to-end-lineage\|end-to-end lineage]] — définition: Traçabilité complète des décisions et actions des agents IA pour audit et compliance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
+- [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] — définition: Illusion de qualité produite par la relecture humaine du code des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] — définition: Service interne X (non publié) qui gère les valeurs numériques des paramètres, permet A/B testing et tuning sans code change — explique l'absence de params.rs (1 occ., 1 fiches)
@@ -654,6 +658,7 @@
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
+- [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)

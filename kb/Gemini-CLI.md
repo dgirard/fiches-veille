@@ -11,7 +11,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
+- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI - Terms of Service - Privacy - Google - Data collection - Model training - Authentication]]
 
 ## Relations (comme objet)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 78 entités de type DOCUMENT
+> 80 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -22,6 +22,7 @@
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
+- [[kb/CLAUDE-md\|CLAUDE.md]] — rôle: Artefact vivant qui façonne l'agent, sujet à dérive, à versionner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
@@ -42,6 +43,7 @@
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] — catégorie: Livre, thèse sceptique sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] — catégorie: Tribune d'opinion / cadre de transformation DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lessons-from-building-Claude-Code-How-we-use-skills\|Lessons from building Claude Code: How we use skills]] — catégorie: REX / guide opérationnel sur les Skills (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Loop-Library\|Loop Library]] — rôle: Collection de boucles réelles (eng/research/ops) de Matthew Berman (1 occ., 1 fiches)
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] — format: Playlist YouTube 12 vidéos (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] — catégorie: Première encyclique sociale de Léon XIV (15 mai 2026), 245 paragraphes, 5 chapitres, sur la protection de la personne humaine à l'ère de l'IA — publiée pour le 135e anniversaire de Rerum Novarum (1 occ., 1 fiches)

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2180 entités avec moins de 3 triples/fiches
+> 2205 entités avec moins de 3 triples/fiches
 
-## PERSONNE (315)
+## PERSONNE (320)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -238,6 +238,16 @@
 - [[kb/Sierra\|Sierra]] **emploie** → Angie Wang — 0.95
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|Refonte du processus de recrutement ingénieur chez Sierra à l'ère des agents de codage : entretien onsite AI-native (Plan/Build/Review), suppression du coding test algorithmique, remplacement du phone screen par un entretien de system design, pilote d'un entretien de debugging sur codebase existant.]]
+
+### Anthony Ligori {#Anthony-Ligori}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Distinguished Engineer AWS, pilote du redéveloppement de Bedrock
+
+- **dirige** → [[kb/_entites-mineures#redéveloppement-d'Amazon-Bedrock\|redéveloppement d'Amazon Bedrock]] (EVENEMENT) — 0.95
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Anton Korinek {#Anton-Korinek}
 
@@ -1446,6 +1456,14 @@
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|**David Wallace-Wells** publie dans le **NYT Magazine** le **8 mai 2026** un article-pivot politique majeur (~16 min lecture audio) qui formalise et nomme le retour de bâton populiste contre l'industrie IA : ***"A.I. Populism Is Here. And No One Is Ready."*** Sous-titre cinglant : *"Silicon Valley oligarchs worried about the risks their technology posed to the world. They forgot about people."* **Thèse-pivot** : les fondateurs IA (Altman, Amodei, Musk, Zuckerberg, Hassabis) ont passé une décennie obsédés par les risques **existentiels** de leur technologie tout en **négligeant le risque politique** d'un backlash humain — qu'ils pensaient *"wouldn't materialize in time, would be quickly outmaneuvered by machine intelligence or could be bought off by talk of basic-income payments or thin promises of curing cancer"*. **Le backlash a frappé littéralement** : avril 2026, **cocktail Molotov** lancé sur la propriété Altman à San Francisco, puis quelques jours plus tard **attaque par armes à feu** sur sa maison. Wallace-Wells reprend la formule de **Jasmine Sun** (NYT Opinion 2026-04-30, déjà au dossier) : ***"A.I. populism's warning shots"*** — analogie avec l'assassinat du CEO UnitedHealthcare Brian Thompson par Luigi Mangione. **Cinq laboratoires comme nouveaux visages de l'oligarchie américaine** : *"a fearsome concentration of economic and social power producing a self-compounding pattern of extreme inequality"* — Sam (Altman), Dario (Amodei), Elon (Musk), Mark (Zuckerberg), Demis (Hassabis), tous milliardaires ou presque, *"several of whom are widely described as sociopaths"*. **Statistiques choc** : Pew Research 2025 — **50% Américains plus inquiets qu'enthousiastes**, **seulement 10% plus enthousiastes** ; Quinnipiac récent — **seul le bracket >200k$ revenus a une vue optimiste de l'IA pour la vie quotidienne** ; Heatmap polling — basculement support/opposition data centers de **+2 pts (sept 2025) à −24 pts (févr 2026)**, soit **swing 26 points en 4 mois** ; Northern Virginia 2023-2025 — **swing 69 points contre data centers** (+45 → −24). **Loudon County** : data centers généreront **1,3 Md$ sur 2,9 Md$** de revenus fiscaux en 2027 (~45%). **Asymétrie investissement-logement** : États-Unis ont **dépensé plus en infrastructure IA qu'en single-family homes** en 2025, **10× plus de data centers que l'Allemagne** (#2), **20× plus d'investissement IA que la Chine** (#2), pendant **crise du logement de 10 millions d'unités manquantes**. **Citation centrale Ted Chiang (BuzzFeed 2017)** mobilisée : *"When Silicon Valley tries to imagine superintelligence, what it comes up with is no-holds-barred capitalism."* **Citation Dario Amodei (Anthropic, 2024)** : *"People outside the field are often surprised and alarmed to learn that we do not understand how our own A.I. creations work. They are right to be concerned: this lack of understanding is essentially unprecedented in the history of technology."* **Pivot politique signalé** : la **Maison-Blanche** propose de forcer un **federal review de tous les nouveaux modèles propriétaires avant release** — virage majeur après position pro-industry. **Catalyseur** : refus public **Anthropic** d'**avril 2026** de release **Claude Mythos**, modèle capable de *"find and exploit security vulnerabilities in every tested piece of software, including those used in critical pieces of global I.T. infrastructure"* (déjà au dossier via fiche **AISI UK GPT-5.5 / Mythos** 2026-04-30). **Citation Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale)** : *"This giant acid vat which would dissolve the mediating institutions most Americans see as society. It will not be A.I. in government. It's going to be A.I. as governments."* **Concept Jeffrey Ding** : *"diffusion marathon"* (vs winner-take-all race) — l'IA comme *general-purpose technology* (steam, electricity, internet) où la **diffusion** compte plus que l'**état de l'art**. **Conclusion-pivot** : *"We still know the names of the robber barons, and live still somewhat in their shadows. But we are not their serfs. Are we sure A.I. will be different?"* Pertinence majeure pour le dossier 2026 : **formalisation conceptuelle du backlash politique** anticipé par Sun (avril) et signalé par Ng The Batch (cocktail Molotov Altman, ~64 Md$ data centers bloqués, moratoire Maine 20MW+). À mobiliser pour COMEX géopolitique IA, débats régulation, présentations stratégiques sur risques sociétaux et politiques de l'IA, articulation FR / Europe sur la rétro-action politique de l'IA.]]
 
+### Jensen Huang {#Jensen-Huang}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **affirmation_rapportée** : Le développeur devient un « RH d'agent »
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+
 ### Jin Montesano {#Jin-Montesano}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1506,6 +1524,17 @@
 - **publie** → [[kb/_entites-mineures#sondage-BCG-dans-Harvard-Business-Review-mars-2026\|sondage BCG dans Harvard Business Review mars 2026]] (DOCUMENT) — 0.95
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|Étude BCG-HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman) sur 1 488 salariés US, janvier 2026 : définition formelle de l'***AI brain fry*** (fatigue cognitive aiguë liée à l'oversight IA), 14% des AI-using workers concernés (Marketing 26%, Legal 6%), peak de productivité à 3 outils simultanés, +33% decision fatigue / +39% major errors / +39% intent to leave chez les "brain fried", distinction empirique entre **burnout** (émotionnel, allégé par l'IA sur tâches routinières -15%) et **brain fry** (cognitif aigu, aggravé par l'oversight). 5 recommandations leaders, "AI orphan tax" (+5% fatigue quand manager attend que le salarié se débrouille), org work-life balance -28%. Source académique pivot citée par Les Echos et le débat 2026.]], [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|Reportage Les Echos (Florian Dèbes) à San Francisco : agents IA déjà intégrés comme collègues dans les start-up, "boîte de Petri" (Aaron Levie / Box), réflexe Claude avant chaque réunion, Jarvis perso, 5 onglets agents en parallèle, "le facteur limitant c'est la cognition humaine" (Patrick Joubert / Rippletide), "brain fry" / surchauffe cérébrale, étude BCG/HBR à 14% de salariés dépassés, mode "token-max" de classement des plus gros utilisateurs IA, témoignages Sinaï/Bangay/Allali/Hodjat/Pantera/Chapeau et écho Siddhant Khare ("L'IA réduit les coûts de production mais augmente ceux de coordination").]]
+
+### Julien Lépine {#Julien-Lépine}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Directeur de la technologie (CTO) d'AWS France, 13+ ans chez Amazon
+
+- **travaille_chez** → [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] (ORGANISATION) — 0.99
+- **affirme_que** → [[kb/_entites-mineures#la-responsabilité-d'une-action-d'agent-incombe-à-la-personne-qui-l'opère\|la responsabilité d'une action d'agent incombe à la personne qui l'opère]] (AFFIRMATION) — 0.96
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Julien Mangeard {#Julien-Mangeard}
 
@@ -1917,6 +1946,16 @@
 
 **Fiches** : [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Mistral AI CLI - Alternative européenne Claude Code - Open source - Mathias Garcia - HEC Paris - LinkedIn]]
 
+### Matt Garman {#Matt-Garman}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Directeur général (CEO) d'Amazon Web Services
+
+- **publie** → [[kb/_entites-mineures#standardisation-d'AWS-sur-Kiro-(annonce-re-Invent)\|standardisation d'AWS sur Kiro (annonce re:Invent)]] (EVENEMENT) — 0.92
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+
 ### Matt Kamelman {#Matt-Kamelman}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2300,6 +2339,16 @@
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Google Code Wiki - Documentation code automatisée continuously updated - Gemini-powered chat - Architecture diagrams auto-générés - Public preview website - Gemini CLI extension waitlist - Google Cloud Developer Experiences]]
 
+### Pete Stergion {#Pete-Stergion}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Desktop Engineer, Cornell AI Innovation Hub ; co-tech lead et auteur
+
+- **travaille_chez** → [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
+
 ### Peter McCrory {#Peter-McCrory}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2307,6 +2356,14 @@
 - **rôle** : co-auteur rapport Anthropic Economic Index
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
+
+### Phil Williammee {#Phil-Williammee}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Co-tech lead du projet, Cornell AI Innovation Hub
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 
 ### Philipp Schmid {#Philipp-Schmid}
 
@@ -2624,14 +2681,6 @@
 - **a_créé** → [[kb/Conductor\|Conductor]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor Google - extension Gemini CLI développement piloté par le contexte]]
-
-### Shubham Saboo {#Shubham-Saboo}
-
-**Type** : PERSONNE | 0 relations | 1 fiches
-
-- **rôle** : Co-auteur (Google)
-
-**Fiches** : [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|Whitepaper Google (volet « Day 1 » d'une série, par Addy Osmani, Shubham Saboo et Sokratis Kartakis) qui cartographie la mutation du cycle de vie logiciel (SDLC) à l'ère des agents de codage. Thèse : le basculement fondamental n'est pas un nouveau langage mais le passage de l'écriture de code à l'**expression d'intention**. Le document pose un spectre allant du *vibe coding* (prompter et accepter) à l'*agentic engineering* (l'IA implémente sous contraintes, tests et boucles de feedback conçus par l'humain), avec le **context engineering** comme compétence centrale, le modèle de l'**usine logicielle** (le livrable du dev = le système qui produit le code), le **harness engineering** (Agent = Modèle + Harness) et une analyse économique CapEx/OpEx du coût total de possession.]]
 
 ### Sid Bidasaria {#Sid-Bidasaria}
 
@@ -3146,7 +3195,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI + Claude Code - Workflow hybride - Large codebase analysis - Context window - Reddit ChatGPTCoding]]
 
-## ORGANISATION (248)
+## ORGANISATION (249)
 
 ### 10x {#10x}
 
@@ -3323,13 +3372,16 @@
 
 ### Amazon Web Services {#Amazon-Web-Services}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
-- **secteur** : Cloud public, plateforme de référence dans le talk
+- **secteur** : Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans)
 
+- **utilise** → [[kb/Kiro\|Kiro]] (TECHNOLOGIE) — 0.96
+
+- [[kb/_entites-mineures#Julien-Lépine\|Julien Lépine]] **travaille_chez** → Amazon Web Services — 0.99
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] **travaille_chez** → Amazon Web Services — 0.97
 
-**Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|Keynote **Gregor Hohpe** (Enterprise Strategist AWS, auteur *The Software Architect Elevator* et du livre en cours *Platform Strategy: Accelerating Innovation Through Harmonization and Reuse*) à **PlatformCon 2022** sur **la magie des plateformes** — pourquoi les plateformes réussissent, ce qui les distingue d'une simple *IT Service Management*, et **les décisions d'architecture non-triviales** à prendre quand on en construit une. **Thèse-pivot** : *« les standards ne réduisent pas la créativité, ils peuvent la décupler »* — analogue Baltimore 1904 (incendie, pompes incompatibles), vis métrique ISO, HTTP, papier A4. **Citation canonique reprise de Peter / Thoughtworks** : ***« platforms centralize expertise but not innovation »*** — on ne réinvente pas la roue, mais on laisse l'innovation aux équipes proches du client. **Analogie pivot** : industrie automobile (Volkswagen Group construit Audi A4 et Bentley Bentayga sur la même plateforme), *« undifferentiated heavy lifting »* (vocabulaire AWS) sous le capot, différenciation visible côté client. **Trois propriétés d'une vraie plateforme** : (1) **low friction** — on ne peut pas forcer l'adoption, les équipes contourneront ; (2) **transparence** (pas une *black box*) — les utilisateurs doivent pouvoir diagnostiquer s'ils sont en cause ou si c'est la plateforme ; (3) **shared responsibility** (référence directe au *AWS Shared Responsibility Model*) — la plateforme ne corrige pas une appli mal conçue. **Anti-pattern explicite** : *« a common layer can be many things — it is not necessarily a platform »* ; l'IT Service Management traditionnelle a la même image (couche commune sous tout le monde) mais l'**interface est l'opposée** (high-friction, formulaires, bottleneck). **Deux voies de construction** : (a) anticiper tous les besoins (Hohpe : *« I don't feel I'm smart enough »*) ; (b) **évolution** à partir de pièces utiles, en observant l'usage. **Décisions à expliciter** : objectifs (cognitive load ↓, safer / fewer mistakes, faster via samples/blueprints/self-service, compliance), forme de la courbe d'apprentissage (cliff, hockey stick, gear shift). **Concept canonique #1 — Floating platforms vs Sinking platforms** : quand la *base platform* (typiquement le cloud) gagne de nouvelles capacités, **deux stratégies opposées** : **sinking platform** (statique, dupliquant ce que la base offre maintenant, coulant à mesure que le niveau monte) vs ***floating platform*** (jette les morceaux devenus redondants, **re-monte au-dessus du nouveau niveau**, innove plus haut). Métaphore *« submarine and a boat »*. Implication contractuelle forte : **prévenir explicitement les stakeholders** que des composants seront supprimés quand la base les absorbe. **Concept canonique #2 — Fruit salad vs Fruit basket** : une plateforme n'est pas une collection de capacités juxtaposées (panier) mais un assemblage **proportionné et bite-sized** où les pièces interagissent — *« the per-kilo price for fruit salad is higher than for a fruit basket »*. Le titre dérive de l'expression *the magic of platforms* — l'effet contre-intuitif où **standardiser libère l'innovation au lieu de l'étouffer**, à condition de soigner l'interface, l'évolution et l'intégration entre les composants. À mobiliser pour : architectes plateforme, **Platform Engineering / IDP teams 2026** (référence fondatrice, prédate l'explosion *Internal Developer Platforms* mais structure le vocabulaire), DSI évaluant build-vs-stagnate face aux capacités natives cloud, COMEX produit. Convergence avec **AI/works™ Thoughtworks** (2026-05-12), **L'Usine Logicielle Augmentée Wescale** (2026-05-03), **PROJ-AI Habert/WEnvision** (2026-05-05), **DORA AI ROI** (2026-04-21 — Platform comme pilier systémique).]]
+**Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|Keynote **Gregor Hohpe** (Enterprise Strategist AWS, auteur *The Software Architect Elevator* et du livre en cours *Platform Strategy: Accelerating Innovation Through Harmonization and Reuse*) à **PlatformCon 2022** sur **la magie des plateformes** — pourquoi les plateformes réussissent, ce qui les distingue d'une simple *IT Service Management*, et **les décisions d'architecture non-triviales** à prendre quand on en construit une. **Thèse-pivot** : *« les standards ne réduisent pas la créativité, ils peuvent la décupler »* — analogue Baltimore 1904 (incendie, pompes incompatibles), vis métrique ISO, HTTP, papier A4. **Citation canonique reprise de Peter / Thoughtworks** : ***« platforms centralize expertise but not innovation »*** — on ne réinvente pas la roue, mais on laisse l'innovation aux équipes proches du client. **Analogie pivot** : industrie automobile (Volkswagen Group construit Audi A4 et Bentley Bentayga sur la même plateforme), *« undifferentiated heavy lifting »* (vocabulaire AWS) sous le capot, différenciation visible côté client. **Trois propriétés d'une vraie plateforme** : (1) **low friction** — on ne peut pas forcer l'adoption, les équipes contourneront ; (2) **transparence** (pas une *black box*) — les utilisateurs doivent pouvoir diagnostiquer s'ils sont en cause ou si c'est la plateforme ; (3) **shared responsibility** (référence directe au *AWS Shared Responsibility Model*) — la plateforme ne corrige pas une appli mal conçue. **Anti-pattern explicite** : *« a common layer can be many things — it is not necessarily a platform »* ; l'IT Service Management traditionnelle a la même image (couche commune sous tout le monde) mais l'**interface est l'opposée** (high-friction, formulaires, bottleneck). **Deux voies de construction** : (a) anticiper tous les besoins (Hohpe : *« I don't feel I'm smart enough »*) ; (b) **évolution** à partir de pièces utiles, en observant l'usage. **Décisions à expliciter** : objectifs (cognitive load ↓, safer / fewer mistakes, faster via samples/blueprints/self-service, compliance), forme de la courbe d'apprentissage (cliff, hockey stick, gear shift). **Concept canonique #1 — Floating platforms vs Sinking platforms** : quand la *base platform* (typiquement le cloud) gagne de nouvelles capacités, **deux stratégies opposées** : **sinking platform** (statique, dupliquant ce que la base offre maintenant, coulant à mesure que le niveau monte) vs ***floating platform*** (jette les morceaux devenus redondants, **re-monte au-dessus du nouveau niveau**, innove plus haut). Métaphore *« submarine and a boat »*. Implication contractuelle forte : **prévenir explicitement les stakeholders** que des composants seront supprimés quand la base les absorbe. **Concept canonique #2 — Fruit salad vs Fruit basket** : une plateforme n'est pas une collection de capacités juxtaposées (panier) mais un assemblage **proportionné et bite-sized** où les pièces interagissent — *« the per-kilo price for fruit salad is higher than for a fruit basket »*. Le titre dérive de l'expression *the magic of platforms* — l'effet contre-intuitif où **standardiser libère l'innovation au lieu de l'étouffer**, à condition de soigner l'interface, l'évolution et l'intégration entre les composants. À mobiliser pour : architectes plateforme, **Platform Engineering / IDP teams 2026** (référence fondatrice, prédate l'explosion *Internal Developer Platforms* mais structure le vocabulaire), DSI évaluant build-vs-stagnate face aux capacités natives cloud, COMEX produit. Convergence avec **AI/works™ Thoughtworks** (2026-05-12), **L'Usine Logicielle Augmentée Wescale** (2026-05-03), **PROJ-AI Habert/WEnvision** (2026-05-05), **DORA AI ROI** (2026-04-21 — Platform comme pilier systémique).]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Anthropic Institute {#Anthropic-Institute}
 
@@ -3687,6 +3739,18 @@
 - **rôle** : acteur du réseau circulaire d'investissements IA
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
+
+### Cornell Treasury Operations {#Cornell-Treasury-Operations}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Équipe métier (trésorerie) ; détentrice de la connaissance et des données (GL Oracle)
+
+- **est_instance_de** → [[kb/_entites-mineures#Crowd-(framework-Leader-Lab-Crowd)\|Crowd (framework Leader-Lab-Crowd)]] (CONCEPT) — 0.85
+
+- [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] **collabore_avec** → Cornell Treasury Operations — 0.97
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 
 ### Crystal Peak Security {#Crystal-Peak-Security}
 
@@ -4148,7 +4212,7 @@
 - **nom complet** : Hong Kong University Data Science
 
 - **a_créé** → [[kb/LightRAG\|LightRAG]] (TECHNOLOGIE) — 0.99
-- **utilise** → [[kb/_entites-mineures#GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
+- **utilise** → [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|LightRAG - RAG simple et rapide - Knowledge graphs - Dual-level retrieval - EMNLP2025 - GitHub]]
 
@@ -5646,7 +5710,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
 
-## TECHNOLOGIE (483)
+## TECHNOLOGIE (490)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6091,6 +6155,16 @@
 - **permet** → [[kb/_entites-mineures#liens-émotionnels-via-mobilité\|liens émotionnels via mobilité]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Werner Vogels - Tech Predictions 2026 - All Things Distributed - Amazon CTO - AI Trends - Companionship Revolution - Education Transformation - Healthcare Innovation - Human-AI Collaboration]]
+
+### Amazon Bedrock {#Amazon-Bedrock}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme agentique / LLM d'AWS (>100 modèles), redéveloppée en 72 jours par 6 personnes
+
+- **est_basé_sur** → [[kb/_entites-mineures#code-intégralement-généré-par-IA\|code intégralement généré par IA]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Amazon Q Developer {#Amazon-Q-Developer}
 
@@ -6687,6 +6761,16 @@
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
 
+### Cornell AI Gateway {#Cornell-AI-Gateway}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées)
+
+- [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Cornell AI Gateway — 0.93
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
+
 ### Cursor YOLO mode {#Cursor-YOLO-mode}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6896,6 +6980,16 @@
 - [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **s_applique_à** → Droid/Factory — 0.85
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Every Marketplace - Compounding Engineering Plugin - Claude Code - GitHub - AI Development Workflow - Code Quality - Technical Debt Reduction]]
+
+### DynamoDB {#DynamoDB}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **échelle** : >5 000 milliards de requêtes/heure ; vérifié par modélisation formelle
+
+- **utilise** → [[kb/_entites-mineures#TLA+-(modélisation-formelle)\|TLA+ (modélisation formelle)]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### E2B {#E2B}
 
@@ -7220,6 +7314,16 @@
 - **catégorie** : API d'accès aux modèles Gemini
 
 **Fiches** : [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI - Terms of Service - Privacy - Google - Data collection - Model training - Authentication]]
+
+### Gemini Enterprise Web Search {#Gemini-Enterprise-Web-Search}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Recherche d'identité fournisseur sur les cas inconnus
+
+- [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Gemini Enterprise Web Search — 0.94
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 
 ### Gemini models {#Gemini-models}
 
@@ -7829,6 +7933,14 @@
 
 **Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Étude empirique de l'équipe engineering **Compare the Market** (Meerkat Careers, UK) qui évalue quatre approches de **récupération de contexte pour la revue de code par IA** : Baseline (pas de contexte additionnel), **RAG** (recherche vectorielle), **GKG** (GitLab Knowledge Graph, graphe de connaissances AST) et **GKG+RAG** (hybride). Évaluation sur **79 merge requests** réelles avec **MLflow sur Databricks**. Résultat-choc : **RAG performe pire que le baseline** sur presque toutes les métriques — le bruit vectoriel est contre-productif pour la revue de code. **GKG surpasse RAG de +21 %** en couverture des commentaires inline (0,696 vs 0,577) grâce à la compréhension structurelle AST (Tree-sitter + base de graphe Kuzu). Le code exige une compréhension **structurelle** (appelants, signatures, hiérarchies), pas une simple similarité sémantique. GKG coûte 4× le baseline mais délivre des améliorations mesurables ; RAG coûte 3× sans amélioration. Implémentation en **sidecar Docker** CI/CD wrappant le binaire GKG (encore en bêta GitLab) avec serveur MCP local.]]
 
+### Kyriba {#Kyriba}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **usage** : Système de gestion de trésorerie (TMS) — export des paiements non identifiés
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
+
 ### LLM + RAG {#LLM-+-RAG}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8094,7 +8206,7 @@
 - **disponibilité** : GitHub (open-source)
 
 - **permet** → [[kb/_entites-mineures#simulation-de-transactions-marketplace-entre-agents-IA\|simulation de transactions marketplace entre agents IA]] (CONCEPT) — 0.97
-- **utilise** → [[kb/_entites-mineures#GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
+- **utilise** → [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
 
 - [[kb/Microsoft\|Microsoft]] **a_créé** → Magentic Marketplace — 0.98
 - [[kb/Microsoft\|Microsoft]] **publie** → Magentic Marketplace — 0.98
@@ -8871,6 +8983,16 @@
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Analyse du coût total de possession (TCO) des LLM en local versus API cloud en 2026. L'article démontre que le prix au token est un piège et que seul le TCO complet (matériel, électricité, refroidissement, main d'œuvre) éclaire la décision. Point saillant : les points de break-even local/cloud ont chuté de 40 % entre 2024 et 2026. Source : SitePoint (média technique développeurs).]]
 
+### Raisonnement automatisé {#Raisonnement-automatisé}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Crible déterministe mathématiquement prouvé (Bedrock) pour borner les agents
+
+- **permet** → [[kb/_entites-mineures#validation-déterministe-et-prouvée-des-décisions-d'agents\|validation déterministe et prouvée des décisions d'agents]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+
 ### React {#React}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9466,6 +9588,14 @@
 - **remplace** → [[kb/_entites-mineures#modification-du-system-prompt\|modification du system prompt]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
+
+### TLA+ {#TLA+}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Langage de modélisation formelle (états, transitions, invariants)
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### TPU {#TPU}
 
@@ -10569,7 +10699,7 @@
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Agent Skills d'Anthropic, compétences modulaires réutilisables, portabilité cross-product, Code Execution Tool - Anthropic]]
 
-## CONCEPT (704)
+## CONCEPT (709)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13778,6 +13908,16 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
 
+### Surcharge cognitive {#Surcharge-cognitive}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **risque** : Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts
+
+- **observé_dans** → [[kb/_entites-mineures#adoption-de-l'AI-DLC-(client-réduisant-3-bolts-jour)\|adoption de l'AI DLC (client réduisant 3 bolts/jour)]] (AFFIRMATION) — 0.84
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+
 ### TCO (Total Cost of Ownership) {#TCO-(Total-Cost-of-Ownership)}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -14697,6 +14837,16 @@
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Google Code Wiki - Documentation code automatisée continuously updated - Gemini-powered chat - Architecture diagrams auto-générés - Public preview website - Gemini CLI extension waitlist - Google Cloud Developer Experiences]]
 
+### condition d'arrêt (stop condition) {#condition-d'arrêt-(stop-condition)}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Sortie propre d'une boucle : la partie la plus critique, surtout en récursif
+
+- [[kb/Loop-Engineering\|Loop Engineering]] **utilise** → condition d'arrêt (stop condition) — 0.90
+
+**Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Essai long format de **Shubham Saboo** (X/Twitter) posant une thèse sur le métier de **Product Manager** à l'ère des agents : la prochaine compétence clé n'est **pas le prompt engineering** mais le **Loop Engineering** — concevoir un *système qui s'améliore à chaque exécution* plutôt qu'écrire le prompt parfait à chaque fois. Une **boucle** = un cycle répété : on modifie ce qui façonne le comportement de l'agent → on exécute → on évalue la sortie → on garde le changement si la qualité monte, on revient en arrière sinon → on **capitalise l'apprentissage** pour que la version suivante démarre en avance. Pour un PM, le point d'entrée n'est pas le code mais les **artefacts durables** qui encodent son jugement : skill de revue de PRD, *summarizer* d'appels clients, rubrique d'évaluation, checklist de lancement, workflow de recherche, `CLAUDE.md`, template de prompt, framework de priorisation. Parce qu'ils sont réutilisés, ces artefacts **composent dans les deux sens** — et **dérivent** silencieusement (CLAUDE.md qui s'allonge, checklist ignorée…) : le modèle n'a pas régressé, les artefacts ont dérivé sans surveillance. Une boucle a **5 parties** : trigger, action, **preuve**, mémoire, **condition d'arrêt** (la plus critique). Les **evals** deviennent du travail de PM (tester l'artefact contre des exemples connus : 3 bons / 3 mauvais PRD, 5 appels compris, 2 lancements passés). La **mémoire** vit sur **GitHub** (le repo devient « mémoire produit » : commits, diffs, résultats d'éval, journal de décision, rollback). Premier loop conseillé : un **weekly product signal loop** (chaque vendredi). Le goût reste central — mais il lui faut désormais une **preuve**. Cite Boris (créateur de Claude Code) : « il n'écrit plus de prompts, il écrit des boucles ».]]
+
 ### conductor vs orchestrator {#conductor-vs-orchestrator}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15165,6 +15315,16 @@
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|Explosion des tutoriels IA sur YouTube : démocratisation de l'éducation technique à grande échelle, économie des créateurs et défis de qualité]]
 
+### dérive des artefacts (artifact drift) {#dérive-des-artefacts-(artifact-drift)}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Décroissance silencieuse de la qualité quand les artefacts (CLAUDE.md, rubriques, checklists) évoluent sans surveillance
+
+- [[kb/Loop-Engineering\|Loop Engineering]] **résout** → dérive des artefacts (artifact drift) — 0.90
+
+**Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Essai long format de **Shubham Saboo** (X/Twitter) posant une thèse sur le métier de **Product Manager** à l'ère des agents : la prochaine compétence clé n'est **pas le prompt engineering** mais le **Loop Engineering** — concevoir un *système qui s'améliore à chaque exécution* plutôt qu'écrire le prompt parfait à chaque fois. Une **boucle** = un cycle répété : on modifie ce qui façonne le comportement de l'agent → on exécute → on évalue la sortie → on garde le changement si la qualité monte, on revient en arrière sinon → on **capitalise l'apprentissage** pour que la version suivante démarre en avance. Pour un PM, le point d'entrée n'est pas le code mais les **artefacts durables** qui encodent son jugement : skill de revue de PRD, *summarizer* d'appels clients, rubrique d'évaluation, checklist de lancement, workflow de recherche, `CLAUDE.md`, template de prompt, framework de priorisation. Parce qu'ils sont réutilisés, ces artefacts **composent dans les deux sens** — et **dérivent** silencieusement (CLAUDE.md qui s'allonge, checklist ignorée…) : le modèle n'a pas régressé, les artefacts ont dérivé sans surveillance. Une boucle a **5 parties** : trigger, action, **preuve**, mémoire, **condition d'arrêt** (la plus critique). Les **evals** deviennent du travail de PM (tester l'artefact contre des exemples connus : 3 bons / 3 mauvais PRD, 5 appels compris, 2 lancements passés). La **mémoire** vit sur **GitHub** (le repo devient « mémoire produit » : commits, diffs, résultats d'éval, journal de décision, rollback). Premier loop conseillé : un **weekly product signal loop** (chaque vendredi). Le goût reste central — mais il lui faut désormais une **preuve**. Cite Boris (créateur de Claude Code) : « il n'écrit plus de prompts, il écrit des boucles ».]]
+
 ### dérive du contexte {#dérive-du-contexte}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -15275,6 +15435,14 @@
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] **réduit** → escalation — 0.94
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Pourquoi les équipes n'escaladent pas les problèmes, barrières organisationnelles, pression surengagement, risques carrière, actions leaders - John Cutler LinkedIn]]
+
+### escheatment {#escheatment}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **contexte** : Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 
 ### externalisation cognitive {#externalisation-cognitive}
 
@@ -16382,6 +16550,14 @@
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
 
+### récompense visible de l'adoption IA {#récompense-visible-de-l'adoption-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
+
 ### récupération active {#récupération-active}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17063,7 +17239,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Wardley Mapping expliqué, conscience situationnelle, chaîne de valeur, évolution Genèse→Marchandise, stratégie visuelle, Sun Tzu moderne]]
 
-## METHODOLOGIE (318)
+## METHODOLOGIE (324)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -17170,6 +17346,16 @@
 - **rôle** : Analyse du Cycle de Vie des modèles Mistral réalisée avec l'ADEME — première dans l'IA — refonte prévue sur nouveaux modèles, anti-compensation carbone
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Audition d'**Arthur Mensch** (cofondateur et DG de **Mistral AI**) accompagné d'**Audry Herblin-Stoupe** (directrice affaires publiques) devant la **commission d'enquête de l'Assemblée nationale sur les vulnérabilités numériques** (présidée par Philippe Latombe, absent — séance présidée par la rapporteur). Témoignage sous serment, ~1h15, mai 2026. Thèse-pivot de Mensch : ***« le cloud, c'est l'intelligence artificielle »*** — pas de distinction entre services numériques et IA, l'IA est l'unité atomique de la chaîne de valeur cloud, du semi (ASML) au déploiement entreprise. **Mistral en 2026** : 1000 collaborateurs, valorisation 12 Md€, objectif **1 Md€ de revenus fin 2026**, 1 Md€ investi en R&D sur l'année, 30 % CA en France / 70 % hors France / ~75 % en Europe, clients : DINUM, Caisse des dépôts, France Travail, MACGM, Stellantis, TotalEnergies, BNP Paribas, ministère des Armées, Luxembourg (administration centrale). **Cadre conceptuel mensch-ien** : l'IA est une **ressource naturelle** — *« on transforme de l'électricité en intelligence, en génération de tokens »*. Économie : 1 GW de datacenter = **50 Md$ d'investissement sur 5 ans**, génère **20 Md$ de tokens/an** ≈ 50 % de marge brute. Sur la chaîne électron→token, **~10 % de la valeur est dans l'électron**, 90 % ailleurs (chips, logiciel, services). **Thèse macro alarmiste** : si l'Europe importe 10 % de sa masse salariale en IA non-européenne, c'est **1 trilliard € de déficit commercial supplémentaire** ; 20 trilliards d'investissement infrastructure à faire pour servir l'Europe (40 GW France / 400 GW Europe). **Stratégie de souveraineté** : ***« ne pas penser souveraineté comme isolationnisme mais comme levier »***. **Urgence temporelle** : *« on n'a pas le temps »* — fenêtre de **2 ans** avant monopolisation des ressources énergétiques européennes par les hyperscalers américains qui déploient **1 trilliard $/an**. **Cinq diagnostics opérationnels** : (1) Lourdeur réglementaire = 5 personnes compliance chez Mistral, 27 régulations désynchronisées, départ entrepreneurs vers US ; (2) Marché fragmenté = ~60 telcos européens vs 3 US ; (3) Commande publique sous-utilisée comme levier stratégique (50 % du PIB EU) ; (4) Énergie : 9 GW de surplus français risque d'être monopolisé par acteurs US dans les 2 ans ; (5) Distillation = technique de réduction de coûts, **pas** rattrapage technologique. **Doctrine défense** : Mistral travaille avec ministère des Armées, refuse explicitement le « droit de regard » sur l'usage final (« on n'a pas la légitimité démocratique »), positionnement *anti-Anthropic-Mythos*. **Cybersécurité** : reconnaît capacités offensives des modèles (« ça monte de manière linéaire, prédictible, chez tout le monde en même temps »), s'oppose au *marketing de la peur* d'un concurrent américain (Anthropic implicite). **Campus IA** : participation très minoritaire, fournisseur potentiel (Mistral + hyperscalers), 35 Md€ MGX/Abu Dhabi + Nvidia, 100 hectares Saint-Arnoult, 1,4-1,6 GW (= Flamanville), nucléaire français = empreinte carbone réduite. **Annotation** : équipes de thésards (plus de microtravailleurs), Madagascar pour robotique avec garanties salariales. **Modèle économique** : pas de bulle côté demande, **goulot d'offre** (chips, mémoire, hélium, électrons). **Conclusion-avertissement** : *« si on le fait pas suffisamment rapidement, on va devenir un État vassal »*.]]
+
+### AI DLC {#AI-DLC}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : AI Development Lifecycle (AWS) : sprints remplacés par des Bolts pluri-quotidiens
+
+- **remplace** → [[kb/_entites-mineures#Scrum-(sprints-de-2-3-semaines)\|Scrum (sprints de 2-3 semaines)]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### AI Measurement Framework {#AI-Measurement-Framework}
 
@@ -17410,6 +17596,16 @@
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|Article-pivot **Ivan Chepurin & Travis Turner** (Evil Martians Chronicles, **19 mai 2026**) — ***« AI-assisted engineers are burning out, is this fine? »*** — **diagnostic structuré du burnout des développeurs assistés par IA** et **boîte à outils d'intervention** en 5 axes. **Thèse-pivot** : la productivité accélérée par l'IA cache un **coût caché — l'épuisement développeur**. *« Higher productivity doesn't translate to sustainable work practices or job satisfaction. »* Epigraphe Shunryu Suzuki sur l'agitation mentale. **TL;DR — 3 remèdes essentiels** : (1) restaurer le plaisir du processus, (2) reconstruire l'accomplissement / ownership / fierté, (3) supprimer la pression de maximisation continue de la productivité. **Cadre narratif central — Ben vs Alice** : Ben (codage traditionnel) = 4 h de travail steady, charge cognitive distribuée, satisfaction à l'achèvement ; Alice (assistée IA) = 2 h de travail haute-intensité cognitive, task-switching continu, **aucune satisfaction** + remplit le temps libéré par plus de tâches → **escalade exponentielle de la charge** malgré la production accélérée. **Formule canonique** : ***« We compensate for a lack of satisfaction with work quantity. »*** **Disruption structurelle du cycle craft** : (planning → crafting → result) compressé en (planning → result), suppression de la phase méditative de craft remplacée par la **revue de code cognitivement exigeante**. Convergence directe avec **HBR study 2026** (cited) : *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* + **UC Berkeley research 2026** : workers remplissent les pauses naturelles par des tâches IA. **Quiet career change** — concept-pivot : les devs choisis pour coder font désormais un **travail différent sans transition de carrière consciente**. 4 voies possibles : (1) trouver du plaisir dans la nouvelle structure (priorisée), (2) ignorer l'IA, (3) travailler sans plaisir (insoutenable), (4) changer de métier. **5 facteurs de burnout quotidien identifiés** : (1) ***Losing context*** — l'agent porte la compréhension projet en externe, dette cognitive shift code→people, perte d'intuition système ; (2) ***No time for passive thinking*** — *« The model fills the silence before your own thinking has a chance to connect dots »* (douches, marches éliminées comme moments de problem-solving inconscient) ; (3) ***False expectations*** — vitesse initiale = baseline irréaliste, ralentissements vécus comme échec ; (4) ***Review bottlenecks*** — *« the more code is generated, the more code needs to be reviewed »*, charge cognitive disproportionnée sur les seniors, diffusion de responsabilité ; (5) ***Endless possibilities*** — faible friction du prompting encourage pivots constants, absence de scoping naturel. **Boîte à outils en 5 interventions** : (a) **Acknowledge your wins** (win-log, démos team, tracker heures) ; (b) **Rethink AI workflow** (planning > review, **3-4 iterations max**, pas de task-switching parallèle, séparer tâches IA-heavy par breaks, décomposer) ; (c) **Keep exercising your craft** (protected craft-hours AI-free, *« ask » mode > generation mode*, agents off sur passion projects) ; (d) **Discipline + work-life balance** (heures fixes, vraies pauses, intentions journalières, stop quand fini) ; (e) **Find new areas of interest** (user research, soft skills, analytics, agent fine-tuning + guardrails, perf optim). **Conclusion** : *« AI can be helpful. Problems appear only if you misuse it. »* L'évolution industrie = inévitable ; le bien-être individuel = contrôlable. Convergence majeure avec **Osmani Cognitive Surrender** (2026-05-05), **Frizzo "Year With Claude Code"** (2026-05-05 — *« writing muscle atrophy »*, *« deep flow rare »*), **Bedard BCG/HBR Brain Fry** (2026-03-05 — 1488 salariés, peak 3 outils, +39% errors, +39% intent to leave). Pertinence majeure pour **CTO / VP Engineering / DRH IT** confrontés à la rétention des ingénieurs IA-augmentés en 2026.]]
 
+### Blameless post-mortem {#Blameless-post-mortem}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Analyse d'incident centrée système/mécanisme, pas faute individuelle
+
+- [[kb/Amazon\|Amazon]] **utilise** → Blameless post-mortem — 0.92
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+
 ### Blueprints {#Blueprints}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -17423,11 +17619,13 @@
 
 ### Bolt {#Bolt}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 2 fiches
 
 - **définition** : Unité de travail courte (1h à demi-journée) qui remplace le sprint Scrum de 14 jours
 
-**Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
+- **est_variante_de** → [[kb/_entites-mineures#sprint\|sprint]] (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Bon à Tirer {#Bon-à-Tirer}
 
@@ -17485,6 +17683,16 @@
 - **définition** : Concept inauguré par saint Paul VI (1970) — projet exigeant qui traduit la charité en structures de justice, donne forme institutionnelle à la fraternité, transforme l'interdépendance subie en solidarité voulue (n. 186-187)
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Première encyclique sociale du **Pape Léon XIV** (Robert Francis Prevost), datée du **15 mai 2026** (Rome, près de Saint-Pierre, 2e année du Pontificat), publiée pour le **135e anniversaire de *Rerum Novarum*** (Léon XIII, 15 mai 1891) et explicitement présentée comme **prolongement de la Doctrine sociale de l'Église à l'ère de l'IA**. Sous-titre canonique : *« sur la protection de la personne humaine à l'ère de l'intelligence artificielle »*. **245 paragraphes**, structurés en **Introduction + 5 chapitres + Conclusion**. **Thèse-pivot** organisée autour de deux **icônes bibliques** : la **tour de Babel** (Gn 11) — l'uniformité technologique sans Dieu, *« absolutisation de l'humain »* — vs la **reconstruction des murs de Jérusalem par Néhémie** (Ne 2-6) — la responsabilité partagée pierre par pierre, l'écoute, la coordination des familles. *« Le premier choix ne se situe pas entre un "oui" ou un "non" à la technologie, mais entre bâtir Babel ou reconstruire Jérusalem »* (n. 9). **Concepts canoniques** : (1) **IA "cultivées" plutôt que "construites"** — *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* (n. 98), formulation théologique remarquable qui reprend le vocabulaire ML-research récent ; (2) ***« Désarmer l'IA »*** (n. 110) — *« la soustraire à la logique de la compétition armée qui n'est plus aujourd'hui seulement militaire, mais aussi économique et cognitive »*, rendre l'IA *« habitable, en la restituant à la pluralité des cultures humaines »* ; (3) **Critique radicale de l'"alignement"** — *« Nous ne pouvons pas nous contenter d'invoquer la moralisation de la machine, ce qu'on appelle "l'alignement" de l'IA sur les valeurs humaines, sans avoir le courage de poser une condition supplémentaire : la possibilité de débattre du code éthique à utiliser »* (n. 107). ***« Une IA plus morale ne sert à rien si cette morale est décidée par une poignée de personnes. »*** (4) **Asymétrie épistémique** et **nouveaux monopoles de l'IA** (n. 109) — *« dans un monde où quelques sujets concentrent les données, les ressources informatiques et le pouvoir réglementaire »* ; (5) **Travail invisible** des étiqueteurs/modérateurs/extracteurs de terres rares (n. 109, 173) — *« des corps marqués, mutilés, utilisés pour que le flux de calcul ne s'interrompe jamais »* ; (6) **Colonialisme des données** (n. 178) — *« il ne domine pas seulement les corps, mais s'approprie les données »*, *« nouvelles terres rares du pouvoir »* ; (7) **IA et guerre** (n. 197-200) — *« Aucun algorithme capable de rendre la guerre moralement acceptable »* (n. 198), trois critères : responsabilité personnelle traçable, refus de raccourcir le délai du jugement moral, protection des civils ; (8) **Critique transhumanisme/posthumanisme** (n. 115-117) comme *« archipel d'îles conceptuelles reliées par le même océan de présupposés : la centralité de la technique et le rêve de dépasser les limites de la condition humaine »* ; (9) **Travail dans la transition** (n. 150-156) — *« contrairement aux avantages annoncés de l'IA, les approches actuelles de la technologie peuvent paradoxalement déqualifier les travailleurs, les soumettre à une surveillance automatisée »*, accès au travail comme priorité publique, anticipation de la transformation, fixation de critères sociaux pour l'innovation ; (10) **Question canonique reprise de Jean-Paul II** (Redemptor hominis 1979) : ***« l'IA rend-elle la vie humaine sur la terre "plus humaine" à tout point de vue ? La rend-[elle] plus "digne de l'homme" ? »*** (n. 129) ; (11) **Plus qu'humain authentique** : non le transhumanisme, mais la grâce — *« nous parvenons à être pleinement humains quand nous sommes plus qu'humains, quand nous permettons à Dieu de nous conduire au-delà de nous-mêmes »* (n. 128, citant François *Evangelii gaudium*) ; (12) **Désarmer les mots** (n. 214) — *« Désarmons les mots et nous contribuerons à désarmer la Terre »*. **Adressataires** : *« À tous les fidèles catholiques, à tous les chrétiens, à tous les hommes et à toutes les femmes de bonne volonté »* (n. 16) — registre **universel** dans la lignée de *Pacem in terris* (Jean XXIII 1963), *Laudato si'* (François 2015) et *Fratelli tutti* (François 2020). **Appel particulier aux développeurs IA** (n. 111) : *« chaque choix de conception exprime une vision de l'humanité »*. **Source magistrale**-clé citée : *Antiqua et nova* (Dicastères pour la Doctrine de la Foi + Culture et Éducation, 14 janvier 2025) + *Quo vadis, humanitas ?* (Commission théologique internationale, 9 février 2026). Document majeur du **Magistère social 2026**, à la jonction Doctrine sociale ↔ éthique de l'IA ↔ géopolitique des big tech ↔ critique du travail des microtravailleurs/extraction terres rares. Convergence implicite avec **Mensch / Mistral** (souveraineté énergétique IA), **Sun / NYT Permanent Underclass** (cf. mémoire travail→capital), **Wallace-Wells / NYT AI Populism** (cf. critique des oligarques tech), **Mollick × roon** (cf. ASI et politique interne). Première encyclique d'un Pape qui prend explicitement l'IA comme **objet central et structurant** plutôt que comme thème parmi d'autres.]]
+
+### Claude Code Plan Mode {#Claude-Code-Plan-Mode}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Mode « contexte d'abord, plan puis build » : architecture proposée et validée avant d'écrire du code
+
+- **permet** → [[kb/_entites-mineures#passer-d'un-semestre-de-notes-à-un-outil-fonctionnel-en-une-seule-session\|passer d'un semestre de notes à un outil fonctionnel en une seule session]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]]
 
 ### Cloud Development Act + package Souveraineté {#Cloud-Development-Act-+-package-Souveraineté}
 
@@ -17869,15 +18077,16 @@
 
 ### Framework Leader-Lab-Crowd {#Framework-Leader-Lab-Crowd}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
 
+- **source** : Ethan Mollick — *Making AI Work: Leadership, Lab, and Crowd*
 - **structure** : Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés
 
 - **permet** → [[kb/_entites-mineures#écriture-du-AI-HR-playbook\|écriture du AI-HR playbook]] (CONCEPT) — 0.95
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → Framework Leader-Lab-Crowd — 0.97
 
-**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+**Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|Retour d'expérience publié par le **Cornell AI Innovation Hub** (15 juin 2026) : comment une collaboration de deux semestres entre l'AI Hub, des étudiants de master et l'équipe Trésorerie de Cornell a transformé une investigation manuelle chronophage en un outil IA qui a permis de **récupérer 100 000 $** de paiements non identifiés sur un premier lot. Cas d'usage **AI4Business** (processus financier) réussi qui illustre presque point par point le framework **Leader-Lab-Crowd** d'**Ethan Mollick** : l'**AI Hub** joue le rôle du **Lab** (équipe centrale ambidextre, technologistes + étudiants) ; la **Trésorerie** (Cheryl Barnes, Marie Graves…) est la **Crowd** porteuse de la connaissance métier et de la douleur réelle ; et les **100 000 $** constituent la **récompense visible** (vivid win) qui ancre l'adoption — exactement le levier d'incitation que Mollick juge décisif. Méthode-clé : **« contexte d'abord, plan puis build »** via **Claude Code Plan Mode**, chaîne **fuzzy-matching → Gemini Enterprise Web Search → synthèse Claude**, le tout dans le **Cornell AI Gateway** gouverné. *« The $100,000 is a start. »*]], [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
 
 ### Fuel-Adoption-Output-Impact {#Fuel-Adoption-Output-Impact}
 
@@ -18249,13 +18458,14 @@
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Repo GitHub `techygarg/lattice` qui formalise un framework de **skills composables** pour installer une *engineering discipline* dans les assistants IA de code (Claude Code, Cursor). Architecture trois-tiers distinctive : **Atoms** (guardrails mono-principe : clean code, DDD, sécurité, test quality, design-first), **Molecules** (workflows multi-étapes composant les atoms : design, implement, refactor, fix, review), **Refiners** (interviews guidées produisant des standards projet-spécifiques qui customisent le comportement des atoms). Pipeline opérationnel `lattice-init` → `design-blueprint` → `code-forge` → `review`, avec `refactor-safely` et `bug-fix` en écarts. Trois principes pivots : *"Skills over prompts"*, *"Composability over monoliths"*, ***"Living context over static config"*** — le dossier `.lattice/` grossit smartement à chaque cycle de feature. MIT, shell pur, 18 stars / 52 commits, série d'articles sur martinfowler.com expliquant cinq *collaboration patterns*. Convergence forte avec Vincent *Superpowers* (2026-04-02), Habert *PROJ-AI* (2026-05-05), Wescale *Usine Logicielle Augmentée* (2026-05-03), et — convergence doctrinale la plus haute sans lignage déclaré — **Compound Engineering** d'Every (Shipper/Klaassen 2025-12-11) : pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (`.lattice/` ↔ `docs/plans/+solutions/+brainstorms/`), design-first commun, review obligatoire en sortie. La doctrine 2026 du *coding agent harness* converge sur un vocabulaire stable, sans influence directe.]]
 
-### Pizza Team {#Pizza-Team}
+### Pizza team {#Pizza-team}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 0 relations | 2 fiches
 
+- **définition** : Équipe d'une dizaine de personnes (loi de Conway) ; autonomie, peu de mandats top-down
 - **statut_2026** : Obsolète à l'ère agentique — il faut segmenter les équipes
 
-**Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
+**Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Planner-Evaluator split {#Planner-Evaluator-split}
 
@@ -18315,7 +18525,7 @@
 
 ### Prompt Engineering {#Prompt-Engineering}
 
-**Type** : METHODOLOGIE | 4 relations | 1 fiches
+**Type** : METHODOLOGIE | 5 relations | 1 fiches
 
 - **période_dominante** : 2024
 
@@ -18323,6 +18533,7 @@
 - [[kb/_entites-mineures#développement-agent-IA\|développement agent IA]] **utilise** → Prompt Engineering — 0.93
 - [[kb/context-engineering\|Context Engineering]] **remplace** → Prompt Engineering — 0.92
 - [[kb/_entites-mineures#AI-Orchestrator\|AI Orchestrator]] **utilise** → Prompt Engineering — 0.88
+- [[kb/Loop-Engineering\|Loop Engineering]] **remplace** → Prompt Engineering — 0.85
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
 
@@ -18853,6 +19064,16 @@
 - **description** : 5 minutes hebdomadaires en réunion de direction pour partager les nouveaux usages IA
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Synthèse Valence du sommet virtuel "AI & the Workforce: The Adoption Gap" : Ethan Mollick pose le framework Leader-Lab-Crowd, formule "HR is R&D now", thèse selon laquelle l'IA "shadow economy" et l'effondrement du modèle d'apprentissage forcent les CHRO à devenir les architectes de la transformation. Cinq expérimentations actionnables pour écrire le AI-HR playbook.]]
+
+### Well-Architected Framework {#Well-Architected-Framework}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Cadre de questions/piliers AWS (sécurité, coût, maintenabilité) contre l'over-engineering
+
+- **réduit** → [[kb/_entites-mineures#over-engineering\|over-engineering]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
 
 ### Work planning {#Work-planning}
 
@@ -20080,6 +20301,16 @@
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|Nvidia stratégie software, SLMs workflows agentiques, Nemotron Nano, DGX Spark workstation, data flywheel fine-tuning, hardware moat, vision-RAG - Cobus Greyling - Medium]]
 
+### weekly product signal loop {#weekly-product-signal-loop}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Premier loop conseillé : memo hebdo séparant signal répété et bruit isolé (ops produit)
+
+- **est_instance_de** → [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Essai long format de **Shubham Saboo** (X/Twitter) posant une thèse sur le métier de **Product Manager** à l'ère des agents : la prochaine compétence clé n'est **pas le prompt engineering** mais le **Loop Engineering** — concevoir un *système qui s'améliore à chaque exécution* plutôt qu'écrire le prompt parfait à chaque fois. Une **boucle** = un cycle répété : on modifie ce qui façonne le comportement de l'agent → on exécute → on évalue la sortie → on garde le changement si la qualité monte, on revient en arrière sinon → on **capitalise l'apprentissage** pour que la version suivante démarre en avance. Pour un PM, le point d'entrée n'est pas le code mais les **artefacts durables** qui encodent son jugement : skill de revue de PRD, *summarizer* d'appels clients, rubrique d'évaluation, checklist de lancement, workflow de recherche, `CLAUDE.md`, template de prompt, framework de priorisation. Parce qu'ils sont réutilisés, ces artefacts **composent dans les deux sens** — et **dérivent** silencieusement (CLAUDE.md qui s'allonge, checklist ignorée…) : le modèle n'a pas régressé, les artefacts ont dérivé sans surveillance. Une boucle a **5 parties** : trigger, action, **preuve**, mémoire, **condition d'arrêt** (la plus critique). Les **evals** deviennent du travail de PM (tester l'artefact contre des exemples connus : 3 bons / 3 mauvais PRD, 5 appels compris, 2 lancements passés). La **mémoire** vit sur **GitHub** (le repo devient « mémoire produit » : commits, diffs, résultats d'éval, journal de décision, rollback). Premier loop conseillé : un **weekly product signal loop** (chaque vendredi). Le goût reste central — mais il lui faut désormais une **preuve**. Cite Boris (créateur de Claude Code) : « il n'écrit plus de prompts, il écrit des boucles ».]]
+
 ### workflow Brainstorm-Plan-Implement {#workflow-Brainstorm-Plan-Implement}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -20131,6 +20362,16 @@
 - **définition** : Chatbot→Copilot→Agent→Autopilot→Workflows→Assistant→Multi-agent→Orchestrator
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|Guide du média **Every** (every.to/guides) publié le **2 juin 2026**, co-signé **Mike Taylor, Laura Entis et Claude**, proposant une **échelle de maturité en 8 niveaux d'adoption de l'IA**. **Thèse-pivot** : l'adoption de l'IA **n'est pas une course à la sophistication maximale** — ***« a higher level isn't necessarily better »*** ; il faut identifier le niveau qui **correspond à son propre workflow et à son niveau de confiance**, puis réévaluer régulièrement si monter d'un cran ajoute une **valeur réelle**. ***« The best way to find value in AI is to use it in a way that fits your work. »*** **Axe structurant** : à chaque niveau, *« you delegate more of your work to—and place more trust in—the AI »* (délégation + confiance croissantes). **Les 8 niveaux** : **(1) Chatbot** — interface conversationnelle sans contexte embarqué (ChatGPT, Claude, Gemini) ; **(2) Copilot** — IA embarquée dans l'espace de travail avec accès au fichier courant (Cursor, Claude in Excel, Gemini in Docs) ; **(3) Agent** — système réactif qui exécute pas-à-pas en demandant approbation (Cowork, Codex) ; **(4) Autopilot** — on décrit l'**outcome** et l'agent exécute en autonomie, revue du **résultat final** seulement (Lovable, Codex, Claude Code ; lié au *vibe coding*) ; **(5) Workflows** — ingénieurs construisant des **harnesses** autour des agents (planning, review, confidence checks, garde-fous ; Compound engineering, Claude Workflows, Copilot AI Studio ; bascule one-shot vibe coding → **agentic engineering**) ; **(6) Assistant** — agents **proactifs, always-on** qui surveillent un domaine et remontent l'info sans sollicitation (OpenClaw, Hermes Agent, Claude Managed Agents ; ex. `heartbeat.md` toutes les 30 min) ; **(7) Multi-agent** — gestion simultanée de **plusieurs agents long-running** à rôles distincts (Claude Managed Agents, OpenClaw, Codex Goals ; *« firmly in senior engineering territory »*) ; **(8) Orchestrator** — un **agent manager** pilote une équipe de sous-agents (plan, délégation, monitoring, consolidation ; Gas Town, Paperclip, Symphony/OpenAI ; *« highly experimental »* — même les ingénieurs frontier tiennent eux-mêmes ce rôle). **Sweet spots par rôle** : les **knowledge workers** opèrent typiquement entre les niveaux **1-4**, les **ingénieurs** entre **5-8**. **Parallèle canonique de l'onboarding d'un stagiaire** : *« Expect to put in a similar amount of effort with your agents before you can trust them… at the next level of autonomy »* ; et la formule-marqueur ***« You wouldn't brag that you had eight interns working overnight on a key project, and you hadn't checked their output. »*** Le bon niveau dépend de **4 critères** : qualité de l'output, coût, fiabilité (trustworthiness), enjeu de l'échec (stakes of failure) ; et la **capacité des modèles** déplace progressivement le niveau d'autonomie « sûr ». Cadre directement mobilisable pour structurer une **doctrine d'adoption** côté cabinet. Convergence avec *systems around the model* (Dropbox/Okumura), *harness engineering* (Böckeler, Lattice, Wescale), Karpathy (vibe coding → agentic engineering), Cherny (/loop + Routines), et la doctrine *manager d'agents* (BFM/Girard).]]
+
+### évaluations (evals) {#évaluations-(evals)}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Tester un artefact contre des exemples connus (3 bons/3 mauvais PRD, 5 appels, 2 lancements)
+
+- **permet** → [[kb/_entites-mineures#preuve-qu'un-artefact-s'améliore-face-à-un-jugement-produit-connu\|preuve qu'un artefact s'améliore face à un jugement produit connu]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Essai long format de **Shubham Saboo** (X/Twitter) posant une thèse sur le métier de **Product Manager** à l'ère des agents : la prochaine compétence clé n'est **pas le prompt engineering** mais le **Loop Engineering** — concevoir un *système qui s'améliore à chaque exécution* plutôt qu'écrire le prompt parfait à chaque fois. Une **boucle** = un cycle répété : on modifie ce qui façonne le comportement de l'agent → on exécute → on évalue la sortie → on garde le changement si la qualité monte, on revient en arrière sinon → on **capitalise l'apprentissage** pour que la version suivante démarre en avance. Pour un PM, le point d'entrée n'est pas le code mais les **artefacts durables** qui encodent son jugement : skill de revue de PRD, *summarizer* d'appels clients, rubrique d'évaluation, checklist de lancement, workflow de recherche, `CLAUDE.md`, template de prompt, framework de priorisation. Parce qu'ils sont réutilisés, ces artefacts **composent dans les deux sens** — et **dérivent** silencieusement (CLAUDE.md qui s'allonge, checklist ignorée…) : le modèle n'a pas régressé, les artefacts ont dérivé sans surveillance. Une boucle a **5 parties** : trigger, action, **preuve**, mémoire, **condition d'arrêt** (la plus critique). Les **evals** deviennent du travail de PM (tester l'artefact contre des exemples connus : 3 bons / 3 mauvais PRD, 5 appels compris, 2 lancements passés). La **mémoire** vit sur **GitHub** (le repo devient « mémoire produit » : commits, diffs, résultats d'éval, journal de décision, rollback). Premier loop conseillé : un **weekly product signal loop** (chaque vendredi). Le goût reste central — mais il lui faut désormais une **preuve**. Cite Boris (créateur de Claude Code) : « il n'écrit plus de prompts, il écrit des boucles ».]]
 
 ## EVENEMENT (36)
 
@@ -20500,7 +20741,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic]]
 
-## DOCUMENT (72)
+## DOCUMENT (73)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -20894,6 +21135,16 @@
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **publie** → Lessons from building Claude Code: How we use skills — 0.97
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Article de blog **Anthropic / claude.com** signé **Thariq Shihipar** (Member of Technical Staff, équipe Claude Code), publié le **3 juin 2026**, qui capitalise le **retour d'expérience interne** d'Anthropic sur la conception et l'usage des **Skills**. **Thèse de cadrage** : une Skill n'est pas un simple fichier markdown mais un **dossier** (instructions + scripts + ressources + config + hooks) que l'agent **découvre et manipule** ; *« You should think of the entire file system as a form of context engineering and progressive disclosure. »* L'article propose deux apports structurants. **(A) Une taxonomie de 9 catégories de skills** observées chez Anthropic : (1) **Library/API Reference** (doc de libs/CLI internes avec *gotchas* — ex. `billing-lib`, `internal-platform-cli`, `sandbox-proxy`) ; (2) **Product Verification** (test/vérif via Playwright ou tmux — `signup-flow-driver`, `checkout-verifier`, `tmux-cli-driver`) ; (3) **Data Fetching & Analysis** (accès stacks data/monitoring — `funnel-query`, `cohort-compare`, `grafana`, `datadog`) ; (4) **Business Process Automation** (workflows répétitifs — `standup-post`, `weekly-recap`, `create-<ticket>-ticket`) ; (5) **Code Scaffolding** (boilerplate framework — `new-migration`, `create-app`) ; (6) **Code Quality & Review** (`adversarial-review`, `code-style`, `testing-practices`) ; (7) **CI/CD & Deployment** (`babysit-pr`, `deploy-<service>`, `cherry-pick-prod`) ; (8) **Runbooks** (diagnostic multi-outils — `<service>-debugging`, `oncall-runner`, `log-correlator`) ; (9) **Infrastructure Operations** (maintenance avec garde-fous — `<resource>-orphans`, `cost-investigation`). **(B) Un jeu de bonnes pratiques** : ne pas redire l'évident (*« Claude already knows how to code and can read your codebase »* → cibler ce qui **contredit le comportement par défaut**) ; soigner la **section Gotchas** (*« the highest-signal content in any skill »*) ; **progressive disclosure** via l'arborescence (pointer vers des fichiers de référence selon la situation plutôt que tout charger d'emblée) ; **descriptions pensées pour le modèle** (*« the description field is not a summary, it's a description of when to trigger this skill »*) ; **setup flows** (config dans `config.json`, sinon demander via `AskUserQuestion`) ; **mémoire persistante** (logs append-only / JSON via la variable `${CLAUDE_PLUGIN_DATA}`) ; **helper scripts** (*« lets Claude spend its turns on composition… rather than reconstructing boilerplate »*) ; **hooks conditionnels** (activés seulement le temps de la skill — ex. hook de sécurité bloquant les commandes destructrices). **Distribution chez Anthropic** : skills rangées dans `./.claude/skills`, partage informel via Slack dans un dossier sandbox, puis promotion par **PR** vers le **marketplace** interne quand elles gagnent en traction ; **mesure d'usage** via un **hook `PreToolUse`** qui logue les invocations (révèle les skills populaires et celles sous-utilisées). Suite directe de la fiche [[shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10]] (même auteur) et complément concret aux fiches Skills d'Anthropic/Willison/Vincent et au *harness engineering*.]]
+
+### Loop Library {#Loop-Library}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Collection de boucles réelles (eng/research/ops) de Matthew Berman
+
+- [[kb/_entites-mineures#Matthew-Berman\|Matthew Berman]] **a_créé** → Loop Library — 0.85
+
+**Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Essai long format de **Shubham Saboo** (X/Twitter) posant une thèse sur le métier de **Product Manager** à l'ère des agents : la prochaine compétence clé n'est **pas le prompt engineering** mais le **Loop Engineering** — concevoir un *système qui s'améliore à chaque exécution* plutôt qu'écrire le prompt parfait à chaque fois. Une **boucle** = un cycle répété : on modifie ce qui façonne le comportement de l'agent → on exécute → on évalue la sortie → on garde le changement si la qualité monte, on revient en arrière sinon → on **capitalise l'apprentissage** pour que la version suivante démarre en avance. Pour un PM, le point d'entrée n'est pas le code mais les **artefacts durables** qui encodent son jugement : skill de revue de PRD, *summarizer* d'appels clients, rubrique d'évaluation, checklist de lancement, workflow de recherche, `CLAUDE.md`, template de prompt, framework de priorisation. Parce qu'ils sont réutilisés, ces artefacts **composent dans les deux sens** — et **dérivent** silencieusement (CLAUDE.md qui s'allonge, checklist ignorée…) : le modèle n'a pas régressé, les artefacts ont dérivé sans surveillance. Une boucle a **5 parties** : trigger, action, **preuve**, mémoire, **condition d'arrêt** (la plus critique). Les **evals** deviennent du travail de PM (tester l'artefact contre des exemples connus : 3 bons / 3 mauvais PRD, 5 appels compris, 2 lancements passés). La **mémoire** vit sur **GitHub** (le repo devient « mémoire produit » : commits, diffs, résultats d'éval, journal de décision, rollback). Premier loop conseillé : un **weekly product signal loop** (chaque vendredi). Le goût reste central — mais il lui faut désormais une **preuve**. Cite Boris (créateur de Claude Code) : « il n'écrit plus de prompts, il écrit des boucles ».]]
 
 ### MIT Your Brain on ChatGPT {#MIT-Your-Brain-on-ChatGPT}
 
