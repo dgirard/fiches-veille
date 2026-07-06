@@ -25,9 +25,47 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from fiche_lib import skip_frontmatter  # noqa: E402
+from fiche_lib import (  # noqa: E402
+    FrontmatterError,
+    parse_frontmatter,
+    skip_frontmatter,
+    split_sections,
+)
 
 # ─── Ontologie v2 — vocabulaires fermés ──────────────────────────────────────
+
+# Registre fermé des clés de frontmatter éditorial autorisées (U2).
+CLES_FRONTMATTER = {
+    # Éditorial
+    "themes", "source",
+    # Promotion cabinet (v3)
+    "cabinet_promotion_candidate", "proposed_class", "proposed_capability", "notes",
+    # Skill
+    "fiche_type", "skill_source", "skill_author",
+}
+
+_THEMES_CACHE: set | None = None
+
+
+def load_themes() -> set | None:
+    """Charge les slugs de thèmes depuis scripts/themes.tsv (cache).
+
+    Retourne None si le fichier est absent (le check valeurs-de-thèmes est
+    alors désactivé plutôt que bloquant).
+    """
+    global _THEMES_CACHE
+    if _THEMES_CACHE is not None:
+        return _THEMES_CACHE
+    path = Path(__file__).resolve().parent / "themes.tsv"
+    if not path.exists():
+        return None
+    slugs = set()
+    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines()):
+        if i == 0 or not line.strip():
+            continue  # en-tête / lignes vides
+        slugs.add(line.split("\t")[0].strip())
+    _THEMES_CACHE = slugs
+    return slugs
 
 SECTIONS_ATTENDUES = [
     "Veille",
@@ -200,20 +238,73 @@ def lint_text(text: str, nom: str) -> list[str]:
     return v
 
 
-def lint_fiche(path: Path) -> list[str]:
-    """Valide une fiche sur disque ; retourne la liste des violations."""
+def _section_date(text: str) -> str:
+    """Première ligne de contenu de la section ## Date (chaîne vide si absente)."""
+    sections = split_sections(skip_frontmatter(text.splitlines()))
+    for line in sections.get("Date", "").splitlines():
+        s = line.strip()
+        if s and not s.startswith("#"):
+            return s
+    return ""
+
+
+def lint_fiche(path: Path, warnings: list[str] | None = None,
+               post_migration: bool = False) -> list[str]:
+    """Valide une fiche sur disque ; retourne la liste des violations.
+
+    Checks path-aware (U2) en plus des checks de contenu de `lint_text` :
+    frontmatter (parse + registre fermé des clés), valeurs de thèmes contre
+    `themes.tsv`, cohérence Date ↔ répertoire `fiches/YYYY-MM/`. Les avertissements
+    non bloquants (ex. `themes` absent post-migration) sont ajoutés à `warnings`.
+    """
+    path = Path(path)
     try:
         text = path.read_text(encoding="utf-8")
     except OSError as e:
         return [f"{path.name} : lecture impossible ({e})"]
-    return lint_text(text, path.name)
+
+    v = lint_text(text, path.name)
+
+    # Frontmatter : parse + registre fermé des clés
+    try:
+        fm, _ = parse_frontmatter(text.splitlines())
+    except FrontmatterError as e:
+        v.append(f"{path.name} : frontmatter invalide — {e}")
+        fm = {}
+    for cle in fm:
+        if cle not in CLES_FRONTMATTER:
+            v.append(f"{path.name} : clé frontmatter hors registre « {cle} » "
+                     f"(autorisées : {', '.join(sorted(CLES_FRONTMATTER))})")
+
+    # Valeurs de thèmes contre le registre
+    themes = fm.get("themes")
+    themes_list = themes if isinstance(themes, list) else ([themes] if themes else [])
+    slugs = load_themes()
+    if themes_list and slugs is not None:
+        for t in themes_list:
+            if t not in slugs:
+                v.append(f"{path.name} : thème inconnu « {t} » "
+                         f"(voir scripts/themes.tsv)")
+    elif not themes_list and post_migration and warnings is not None:
+        warnings.append(f"{path.name} : frontmatter `themes:` absent (post-migration)")
+
+    # Cohérence Date ↔ répertoire (seulement dans une arborescence fiches/YYYY-MM/)
+    parent = path.parent.name
+    if re.fullmatch(r"\d{4}-\d{2}", parent):
+        date_val = _section_date(text)
+        if re.match(r"\d{4}-\d{2}", date_val) and date_val[:7] != parent:
+            v.append(f"{path.name} : Date {date_val} incohérente avec le "
+                     f"répertoire {parent}/ (la section ## Date fait foi)")
+
+    return v
 
 
 # ─── I/O ─────────────────────────────────────────────────────────────────────
 
 def main(argv: list[str]) -> int:
     racine = Path(__file__).resolve().parent.parent
-    if len(argv) > 1:
+    corpus_complet = len(argv) <= 1
+    if not corpus_complet:
         cibles = [Path(a) for a in argv[1:]]
     else:
         cibles = sorted((racine / "fiches").rglob("*.md"))
@@ -221,9 +312,30 @@ def main(argv: list[str]) -> int:
         print("Aucune fiche à valider (répertoire fiches/ vide ou absent).")
         return 1
 
+    # Post-migration = présence du catalogue généré (déclenche les WARN themes).
+    post_migration = (racine / "catalogue.tsv").exists()
+
     violations: list[str] = []
+    warnings: list[str] = []
     for fiche in cibles:
-        violations.extend(lint_fiche(fiche))
+        violations.extend(lint_fiche(fiche, warnings=warnings,
+                                     post_migration=post_migration))
+
+    # Unicité globale des identifiants (stems) — seulement en mode corpus complet.
+    if corpus_complet:
+        par_stem: dict[str, list[str]] = {}
+        for fiche in cibles:
+            par_stem.setdefault(fiche.stem, []).append(str(fiche))
+        for stem, chemins in sorted(par_stem.items()):
+            if len(chemins) > 1:
+                violations.append(f"identifiant en double « {stem} » : "
+                                  + " ; ".join(chemins))
+
+    if warnings:
+        print(f"⚠ {len(warnings)} avertissement(s) :")
+        for w in warnings:
+            print(f"  - {w}")
+        print()
 
     if violations:
         print(f"✗ {len(violations)} violation(s) sur {len(cibles)} fiche(s) :\n")
