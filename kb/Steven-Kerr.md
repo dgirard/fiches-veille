@@ -12,23 +12,23 @@
 ### affirme_que
 
 - « les individus accomplissent en priorité les activités réellement récompensées » (AFFIRMATION) — 0.95, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 - « les organisations récompensent des comportements contraires à leurs objectifs déclarés » (AFFIRMATION) — 0.95, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 - « les universités récompensent la publication mais pas la qualité de l'enseignement » (AFFIRMATION) — 0.92, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 - « le système médical punit davantage les faux négatifs que les faux positifs » (AFFIRMATION) — 0.90, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 - « les comportements très visibles éclipsent les contributions moins observables » (AFFIRMATION) — 0.88, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 - « les entreprises récompensent les profits trimestriels et le conformisme tout en espérant croissance long terme, innovation et travail d'équipe » (AFFIRMATION) — 0.88, ATEMPOREL
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 
 ### publie
 
 - [[kb/_entites-mineures#On-the-Folly-of-Rewarding-A,-While-Hoping-for-B\|On the Folly of Rewarding A, While Hoping for B]] (DOCUMENT) — 0.98, STATIQUE
-  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+  - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 
 ## Fiches sources
 
-- [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|Dysfonctionnement des systemes de recompenses organisationnels — Desalignement incitations-objectifs — Comportement organisationnel — Academy of Management Journal]]
+- [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]

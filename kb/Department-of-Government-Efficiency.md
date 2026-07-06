@@ -11,12 +11,12 @@
 ### s_oppose_à
 
 - [[kb/Accenture\|Accenture]] (ORGANISATION) — 0.95, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] (ORGANISATION) — 0.95, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 - [[kb/_entites-mineures#IBM\|IBM]] (ORGANISATION) — 0.95, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
 ## Fiches sources
 
-- [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+- [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]

@@ -12,24 +12,24 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] (TECHNOLOGIE) — 0.90, STATIQUE
-  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ### permet
 
 - [[kb/_entites-mineures#extraction-structurée-JSON\|extraction structurée JSON]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ### réduit
 
 - [[kb/_entites-mineures#coûts-d'inférence\|coûts d'inférence]] (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ### utilise
 
 - [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 - [[kb/_entites-mineures#dataset-C4\|dataset C4]] (TECHNOLOGIE) — 0.92, STATIQUE
-  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+  - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ## Relations (comme objet)
 
@@ -40,4 +40,4 @@
 
 ## Fiches sources
 
-- [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract NuMind - modèle fondation extraction structurée JSON petit format]]
+- [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]

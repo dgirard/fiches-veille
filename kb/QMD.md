@@ -15,23 +15,23 @@
 ### fait_partie_de
 
 - [[kb/_entites-mineures#architecture-mémoire-agents-IA\|architecture mémoire agents IA]] (CONCEPT) — 0.88, DYNAMIQUE
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 
 ### remplace
 
 - [[kb/_entites-mineures#grep-pour-recherche-vault\|grep pour recherche vault]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 
 ### utilise
 
 - [[kb/_entites-mineures#BM25\|BM25]] (CONCEPT) — 0.98, ATEMPOREL
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 - [[kb/_entites-mineures#recherche-sémantique-par-embeddings\|recherche sémantique par embeddings]] (CONCEPT) — 0.98, ATEMPOREL
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 - [[kb/_entites-mineures#Reciprocal-Rank-Fusion\|Reciprocal Rank Fusion]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+  - [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
 
 ## Relations (comme objet)
 
@@ -40,4 +40,4 @@
 
 ## Fiches sources
 
-- [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep]]
+- [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]

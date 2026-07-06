@@ -12,17 +12,17 @@
 ### mesure
 
 - « temps jusqu'à la production inférieur à un mois » (MESURE) — 0.88, DYNAMIQUE
-  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 - « 100+ clients enterprise » (MESURE) — 0.85, DYNAMIQUE
-  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 - « 1M+ agents en production » (MESURE) — 0.85, DYNAMIQUE
-  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 
 ### publie
 
 - [[kb/_entites-mineures#catalogue-de-34-agents-IA-en-production\|catalogue de 34 agents IA en production]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+  - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 
 ## Fiches sources
 
-- [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Catalogue 34 agents IA production - Multi-index recherche (catégorie/industrie/complexité) - HR Marketing Banking Finance Healthcare - Meesho Accenture AirAsia - 1M+ agents production - Lyzr AI]]
+- [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]

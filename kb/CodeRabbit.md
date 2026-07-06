@@ -11,20 +11,20 @@
 ### améliore
 
 - [[kb/_entites-mineures#code-généré-IA\|code généré IA]] (CONCEPT) — 0.88, DYNAMIQUE
-  - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]]
+  - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
 ### permet
 
 - [[kb/_entites-mineures#revue-de-code-automatisée\|revue de code automatisée]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
+  - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 
 ### utilise
 
-- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Vitrine « Powered by Claude » : écosystème de partenaires Anthropic — intégrations IA et applications construites sur Claude (anthropic.com)]]
+- [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 
 ## Fiches sources
 
-- [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|Deep Research - Révolution AI4* - 6 piliers production logicielle - Transition Copilotes→Agents - Paradoxe Vibe vs Check - Crise FinOps pour IA - Gouvernance chemin critique - GenAI Landing Zone]]
-- [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck]]
-- [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Vitrine « Powered by Claude » : écosystème de partenaires Anthropic — intégrations IA et applications construites sur Claude (anthropic.com)]]
+- [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
+- [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
+- [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]

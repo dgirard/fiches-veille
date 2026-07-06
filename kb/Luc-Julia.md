@@ -11,33 +11,33 @@
 ### a_créé
 
 - [[kb/_entites-mineures#Siri\|Siri]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ### affirme_que
 
 - « le terme « IA » est trompeur » (AFFIRMATION) — 0.97, STATIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ### prédit
 
 - « l'AGI n'est pas réalisable avec les approches actuelles » (AFFIRMATION) — 0.91, STATIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ### publie
 
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] (DOCUMENT) — 0.99, STATIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ### s_oppose_à
 
 - [[kb/_entites-mineures#hype-IA\|hype IA]] (CONCEPT) — 0.98, DYNAMIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ### travaille_chez
 
 - [[kb/_entites-mineures#Samsung\|Samsung]] (ORGANISATION) — 0.95, DYNAMIQUE
-  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+  - [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]
 
 ## Fiches sources
 
-- [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia — déclarations controversées sur l'IA : le co-créateur de Siri contre la hype, débat industriel et médiatique, perspective française (LinkedIn/médias)]]
+- [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]]

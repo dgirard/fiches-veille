@@ -11,23 +11,23 @@
 ### s_oppose_à
 
 - [[kb/vibe-coding\|vibe coding]] (METHODOLOGIE) — 0.92, ATEMPOREL
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
 ### utilise
 
 - [[kb/_entites-mineures#git\|git]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] (METHODOLOGIE) — 0.96, ATEMPOREL
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/_entites-mineures#Kubernetes\|Kubernetes]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/_entites-mineures#frontières-modulaires\|frontières modulaires]] (CONCEPT) — 0.89, ATEMPOREL
-  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+  - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
 ## Fiches sources
 
-- [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack]]
+- [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]

@@ -12,17 +12,17 @@
 ### affirme_que
 
 - « l'IA amplifie les dynamiques d'équipe existantes » (AFFIRMATION) — 0.98, ATEMPOREL
-  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ### est_basé_sur
 
 - [[kb/_entites-mineures#5000-enquêtes-professionnels\|5000 enquêtes professionnels]] (CONCEPT) — 0.98, STATIQUE
-  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ### recommande
 
 - [[kb/_entites-mineures#transformation-organisationnelle\|transformation organisationnelle]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+  - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ## Relations (comme objet)
 
@@ -32,4 +32,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog]]
+- [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]

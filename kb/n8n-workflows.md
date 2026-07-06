@@ -14,32 +14,32 @@
 ### mesure
 
 - « 4 343 workflows prêts à l'emploi » (MESURE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 - « 365 intégrations couvertes » (MESURE) — 0.96, DYNAMIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
 ### permet
 
 - [[kb/_entites-mineures#démocratisation-du-développement-d'agents-automatisés\|démocratisation du développement d'agents automatisés]] (CONCEPT) — 0.88, ATEMPOREL
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
 ### réduit
 
 - [[kb/_entites-mineures#barrière-à-l'entrée-no-code-low-code\|barrière à l'entrée no-code/low-code]] (CONCEPT) — 0.85, ATEMPOREL
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
 ### utilise
 
 - [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 - [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 - [[kb/_entites-mineures#FastAPI\|FastAPI]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 - [[kb/_entites-mineures#SQLite-FTS5\|SQLite FTS5]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 - [[kb/_entites-mineures#Docker\|Docker]] (TECHNOLOGIE) — 0.93, STATIQUE
-  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+  - [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
 ## Relations (comme objet)
 
@@ -48,4 +48,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|N8n workflows - 2000+ collection - Agents IA - Automatisation - Open source - GitHub]]
+- [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]

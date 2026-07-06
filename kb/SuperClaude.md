@@ -14,31 +14,31 @@
 ### améliore
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 - [[kb/_entites-mineures#vitesse-d'exécution\|vitesse d'exécution]] (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ### est_basé_sur
 
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ### permet
 
 - [[kb/_entites-mineures#16-agents-spécialisés\|16 agents spécialisés]] (CONCEPT) — 0.96, DYNAMIQUE
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 - [[kb/_entites-mineures#7-modes-comportementaux\|7 modes comportementaux]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ### réduit
 
 - [[kb/_entites-mineures#consommation-de-tokens\|consommation de tokens]] (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ### utilise
 
 - [[kb/_entites-mineures#MCP-servers\|MCP servers]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ## Relations (comme objet)
 
@@ -47,4 +47,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude - Framework configuration Claude Code - Meta-programming - Agents spécialisés - MCP integration - GitHub]]
+- [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]

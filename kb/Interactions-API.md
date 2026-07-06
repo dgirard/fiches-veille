@@ -12,16 +12,16 @@
 ### permet
 
 - [[kb/_entites-mineures#interface-unifiée-pour-modèles-et-agents-Gemini\|interface unifiée pour modèles et agents Gemini]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 - [[kb/_entites-mineures#gestion-d'état-côté-serveur\|gestion d'état côté serveur]] (CONCEPT) — 0.92, DYNAMIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 - [[kb/_entites-mineures#exécution-en-arrière-plan\|exécution en arrière-plan]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 
 ### utilise
 
 - [[kb/_entites-mineures#protocole-MCP\|protocole MCP]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 
 ## Relations (comme objet)
 
@@ -32,4 +32,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+- [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]

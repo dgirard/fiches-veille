@@ -13,24 +13,24 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#schema.org\|schema.org]] (TECHNOLOGIE) — 0.95, ATEMPOREL
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### permet
 
 - [[kb/_entites-mineures#achat-direct-par-agents-IA\|achat direct par agents IA]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### remplace
 
 - [[kb/_entites-mineures#discovery-traditionnelle-e-commerce\|discovery traditionnelle e-commerce]] (CONCEPT) — 0.88, DYNAMIQUE
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### utilise
 
 - [[kb/_entites-mineures#OAuth-2.0\|OAuth 2.0]] (TECHNOLOGIE) — 0.96, ATEMPOREL
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 - [[kb/_entites-mineures#webhooks\|webhooks]] (TECHNOLOGIE) — 0.94, ATEMPOREL
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ## Relations (comme objet)
 
@@ -41,5 +41,5 @@
 
 ## Fiches sources
 
-- [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center]]
-- [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 - Universal Commerce Protocol Google, commerce agentique, Carrefour premier européen, Stripe ACS]]
+- [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+- [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]

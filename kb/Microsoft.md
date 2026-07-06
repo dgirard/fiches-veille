@@ -15,51 +15,51 @@
 ### a_créé
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
 ### affirme_que
 
 - « les agents doivent assister et non remplacer la décision humaine » (AFFIRMATION) — 0.98, ATEMPOREL
-  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
 ### améliore
 
 - [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|Panorama Josh Bersin sur le rôle pivot des CHRO dans la transformation IA : interview de Patricia Frost (Seagate) "Leave No One Behind", citations de pairs (Jacqui Canney/ServiceNow, Tracey Franklin/Moderna, Helen Russell/HubSpot, Kathleen Hogan/Microsoft), 4 stratégies (AI readiness, plateformes, hiring/redeployment, supermanagers), thèse "AI transformation is not about technology: it's about work, jobs, and people".]]
+  - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
 ### fait_partie_de
 
 - [[kb/_entites-mineures#AAIF\|AAIF]] (ORGANISATION) — 0.93, DYNAMIQUE
-  - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|Création Agentic AI Foundation - Linux Foundation - OpenAI Anthropic Block - Standards ouverts agents IA - AGENTS.md MCP goose - Interopérabilité]]
+  - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 
 ### mesure
 
 - « 27% du capital d'OpenAI Group PBC détenus » (MESURE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
+  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - « hausse tarifaire 11-25% (2020-2024) » (MESURE) — 0.97, STATIQUE
-  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
+  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - « hausse Copilot AI +85% » (MESURE) — 0.95, STATIQUE
-  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
+  - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 
 ### permet
 
 - [[kb/_entites-mineures#infrastructure-de-calcul-via-Azure\|infrastructure de calcul via Azure]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
-  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
+  - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
 ### publie
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+  - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
 ### réduit
 
 - [[kb/_entites-mineures#embauches-division-consulting\|embauches division consulting]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|L'IA représente un moment Kodak pour l'industrie du conseil en management - Reuters Breakingviews - Aimee Donnellan]]
+  - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Bad-Developer-Days\|Bad Developer Days]] (METHODOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Mesurer l'impact de l'IA - Productivité développeur - Métriques - GitHub Copilot - DX - Efficacité d'ingénierie]]
+  - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
 ## Relations (comme objet)
 
@@ -68,9 +68,9 @@
 
 ## Fiches sources
 
-- [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud prédateurs budgets IT - hausse coûts SaaS, IA embarquée, optimisation FinOps, licences inutilisées]]
-- [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica]]
-- [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|Satya Nadella (Microsoft) théorise « le futur de la firme » dans une économie pilotée par l'IA : chaque entreprise devra bâtir, à côté de son capital humain (jugement, relations, reconnaissance de patterns), un « capital token » — sa capacité IA propriétaire. La vraie valeur n'est pas dans le choix du meilleur modèle mais dans une boucle d'apprentissage (private evals, RL environments, base de connaissances) qui encode le savoir institutionnel et compose dans le temps. Plaidoyer pour un « écosystème frontière », non un simple « modèle frontière », afin que la valeur se diffuse plutôt que d'être captée par quelques modèles.]]
-- [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|Pragmatic Engineer - Mesurer l'impact de l'IA - Productivité développeur - Métriques - GitHub Copilot - DX - Efficacité d'ingénierie]]
-- [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify - Croissance IA - Traffic 7x - Commandes 11x - Commerce agentique - TechCrunch - E-commerce]]
-- [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+- [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+- [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+- [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+- [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
+- [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
+- [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]

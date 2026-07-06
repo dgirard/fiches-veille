@@ -12,18 +12,18 @@
 ### a_créé
 
 - [[kb/Almia\|Almia]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ### mesure
 
 - « 629 M€ investis dans la transformation SI sur 6 ans » (MESURE) — 0.97, STATIQUE
-  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+  - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ## Fiches sources
 
-- [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|Plateforme IA générative interne assurance, cloud souverain S3NS, adoption massive collaborateurs]]
+- [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]

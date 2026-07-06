@@ -13,16 +13,16 @@
 ### mesure
 
 - [[kb/_entites-mineures#travail-d'ingénierie-par-IA\|travail d'ingénierie par IA]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 - « 16% d'augmentation de livraisons chez les clients après 2 mois » (MESURE) — 0.88, STATIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
 ### utilise
 
-- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
-- [[kb/Cursor\|Cursor]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+- [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
+- [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
 ## Relations (comme objet)
 
@@ -33,4 +33,4 @@
 
 ## Fiches sources
 
-- [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Weave (workweave.dev) - Startup Y Combinator - Mesure du travail d'ingénierie par IA - Weave Hour - Attribution de code IA - Annuaire YC]]
+- [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]

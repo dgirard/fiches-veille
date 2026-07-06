@@ -12,14 +12,14 @@
 ### améliore
 
 - [[kb/_entites-mineures#vitesse-de-développement\|vitesse de développement]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
 ### utilise
 
 - [[kb/_entites-mineures#contrôle-humain-de-l'architecture\|contrôle humain de l'architecture]] (CONCEPT) — 0.97, ATEMPOREL
-  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 - [[kb/_entites-mineures#IA-comme-multiplicateur-de-force\|IA comme multiplicateur de force]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+  - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
 ## Relations (comme objet)
 
@@ -27,4 +27,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+- [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]

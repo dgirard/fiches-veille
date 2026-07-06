@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 39 entités de type EVENEMENT
+> 42 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -17,7 +17,9 @@
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-X-2026\|FinOps X 2026]] — date: 8-11 juin 2026, San Diego (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Hausse-de-prix-des-tokens-Fable\|Hausse de prix des tokens Fable]] — temporalité: Annoncée imminente (« few days we have left before the prices go up ») au 2026-07-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] — détail: Introduction au Nasdaq, ~135 $/action, valorisation ~1,75-1,8 billion $ (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Incident-#714\|Incident #714]] — résultat: Fix + learning + test de régression + doctrine AGENTS.md (classe de défaillance retirée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inflection-Opus-4-mai-2025\|Inflection Opus 4 mai 2025]] — description: Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)
@@ -31,6 +33,7 @@
 - [[kb/_entites-mineures#Tech-&-Co-Business\|Tech & Co Business]] — format: Émission BFM Business avec segment "Le débat" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] — date: 2026-02 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#VivaTech\|VivaTech]] — rôle: Salon où se tient l'entretien (stand Scaleway, média République) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] — description: Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#White-House-U-turn-AI-policy-mai-2026\|White House U-turn AI policy mai 2026]] — description: Maison-Blanche signale virage majeur — proposition de forcer federal review de tous nouveaux modèles propriétaires avant release. Catalyseur : refus Anthropic Claude Mythos avril 2026. Articulation directe avec fiche AISI UK GPT-5.5/Mythos (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] — indicateur: 97% de la fibre optique inutilisée (1 occ., 1 fiches)

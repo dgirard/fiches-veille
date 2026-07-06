@@ -11,17 +11,17 @@
 ### est_instance_de
 
 - [[kb/_entites-mineures#navigateur-AI-Native\|navigateur AI Native]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
+  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
 ### remplace
 
 - [[kb/_entites-mineures#Arc\|Arc]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
+  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
 ### utilise
 
 - [[kb/_entites-mineures#confirmation-explicite-utilisateur\|confirmation explicite utilisateur]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
+  - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
 ## Relations (comme objet)
 
@@ -29,4 +29,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior]]
+- [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]

@@ -11,22 +11,22 @@
 ### améliore
 
 - [[kb/_entites-mineures#apprentissage-de-l'anglais\|apprentissage de l'anglais]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
 ### est_basé_sur
 
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] (METHODOLOGIE) — 0.90, STATIQUE
-  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
 ### remplace
 
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] (TECHNOLOGIE) — 0.97, STATIQUE
-  - [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT Société Générale abandonne pour Copilot - faux débat build vs buy, capital IA, souveraineté européenne]]
+  - [[fiches/2026-01/simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15\|SoGPT "IA interne" vs Solutions du marché "Copilot" : le faux débat qui nous fait perdre la vraie bataille]]
 
 ### utilise
 
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+  - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
 ## Relations (comme objet)
 
@@ -34,4 +34,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs]]
+- [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]

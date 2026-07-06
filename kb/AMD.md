@@ -12,7 +12,7 @@
 ### collabore_avec
 
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.96, STATIQUE
-  - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
+  - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 
 ## Relations (comme objet)
 
@@ -21,6 +21,6 @@
 
 ## Fiches sources
 
-- [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg]]
-- [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|Newsletter IA - réduction coûts inférence - partenariats hardware - simplification fine-tuning - DeepLearning.AI]]
-- [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|Nvidia stratégie software, SLMs workflows agentiques, Nemotron Nano, DGX Spark workstation, data flywheel fine-tuning, hardware moat, vision-RAG - Cobus Greyling - Medium]]
+- [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
+- [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+- [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]

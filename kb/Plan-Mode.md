@@ -15,19 +15,19 @@
 ### améliore
 
 - [[kb/_entites-mineures#qualité-implémentation\|qualité implémentation]] (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
+  - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
 ### permet
 
 - [[kb/_entites-mineures#stabilité-du-cache\|stabilité du cache]] (CONCEPT) — 0.96, ATEMPOREL
-  - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
+  - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - [[kb/_entites-mineures#exploration-read-only-avant-code\|exploration read-only avant code]] (CONCEPT) — 0.93, ATEMPOREL
-  - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|Addy Osmani - écrire specs pour agents IA, 5 principes, Plan Mode, PRD structuré, modularité]]
+  - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
 ### utilise
 
 - [[kb/_entites-mineures#EnterPlanMode-ExitPlanMode-comme-outils\|EnterPlanMode/ExitPlanMode comme outils]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
+  - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
 ## Relations (comme objet)
 
@@ -37,9 +37,9 @@
 
 ## Fiches sources
 
-- [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité]]
-- [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone]]
-- [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents Claude Code - Assistants IA spécialisés - Gestion du contexte - Délégation de tâches - Documentation Anthropic]]
-- [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|Addy Osmani - écrire specs pour agents IA, 5 principes, Plan Mode, PRD structuré, modularité]]
-- [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence]]
-- [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|Cat Wu et Boris Cherny (Anthropic) expliquent comment utiliser Claude Code comme ses créateurs : antfooding, plan mode, subagents, hooks et extensibilité — podcast AI & I d'Every]]
+- [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+- [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
+- [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
+- [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
+- [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
+- [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]

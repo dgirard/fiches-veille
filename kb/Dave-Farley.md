@@ -11,24 +11,24 @@
 ### affirme_que
 
 - « la Continuous Delivery se définit comme « working so that software is always in a releasable state » » (CITATION) — 0.97, ATEMPOREL
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 - « le code n'a jamais été le bottleneck du software » (AFFIRMATION) — 0.96, ATEMPOREL
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 - « l'IA peut supprimer des tests trop couplés à l'implémentation sans validation humaine » (AFFIRMATION) — 0.90, DYNAMIQUE
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 - « l'IA tend aux grands sauts (giant leaps) » (AFFIRMATION) — 0.90, DYNAMIQUE
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
 ### dirige
 
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] (ORGANISATION) — 0.98, DYNAMIQUE
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
 ### recommande
 
 - [[kb/_entites-mineures#ATDD-comme-spécification-exécutable\|ATDD comme spécification exécutable]] (METHODOLOGIE) — 0.94, DYNAMIQUE
-  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+  - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
 ## Fiches sources
 
-- [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|Continuous Delivery comme socle non-négociable du développement assisté par IA — Dave Farley sur sa chaîne *Modern Software Engineering* défend que sans CD, l'IA n'est pas un accélérateur mais un piège (theory of constraints + paradoxe de Jevons appliqués au code généré, ATDD/BDD comme garde-fou, pipeline de déploiement comme arbitre de qualité).]]
+- [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]

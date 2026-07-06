@@ -14,44 +14,44 @@
 ### affirme_que
 
 - « le goulot d'étranglement s'est déplacé en amont » (AFFIRMATION) — 0.92, ATEMPOREL
-  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
 ### améliore
 
 - [[kb/_entites-mineures#développement-logiciel-interne\|développement logiciel interne]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|« One Prompt, Zero Engineers » — a16z : l'IA générative démocratise le développement d'outils internes, du low-code aux app builders Gen AI (a16z.com)]]
+  - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 - [[kb/_entites-mineures#productivité-développeurs\|productivité développeurs]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
+  - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
 - [[kb/_entites-mineures#structures-organisationnelles\|structures organisationnelles]] (CONCEPT) — 0.93, DYNAMIQUE
-  - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
+  - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
 - [[kb/_entites-mineures#vitesse-d'exécution-des-ingénieurs\|vitesse d'exécution des ingénieurs]] (CONCEPT) — 0.93, ATEMPOREL
-  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|Post LinkedIn de Fred Plais (CEO d'Archie, ex-Platform.sh) : l'IA a rendu les ingénieurs si rapides que le **goulot d'étranglement s'est déplacé en amont**, là où personne ne regarde. L'exécution n'étant plus la partie lente, le temps de réflexion qui existait « pendant que le code se construisait » a disparu — il faut désormais avoir la bonne vision et prendre les bonnes décisions en une fraction du temps. Deux profils rares émergent : celui qui sait **formuler une vision assez précise** pour qu'un agent l'exécute sans dérailler, et celui qui sait **orchestrer les agents** (anticiper leurs échecs, les chaîner, rattraper une erreur avant qu'elle se propage). Recruter pour le « code output » devient obsolète : c'est précisément ce qui a cessé d'être rare. Thèse finale : « penser clairement a toujours été le métier — la vitesse a juste rendu impossible de faire semblant ».]]
+  - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 - [[kb/_entites-mineures#productivité-des-fonctions-PM-PO-Scrum-Master\|productivité des fonctions PM / PO / Scrum Master]] (CONCEPT) — 0.86, DYNAMIQUE
-  - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|Épisode #351 du podcast francophone **If This Then Dev** (Bruno) avec **Julien Lépine**, Directeur de la technologie d'**AWS France** (13 ans chez Amazon), enregistré en marge de l'**AWS Summit Paris** (1er avril 2026, ~10 000 personnes). Thèse-pivot : à l'ère agentique, écrire du code devient secondaire, la valeur migre vers la **compréhension du contexte, l'arbitrage d'architecture et la responsabilité humaine**. Preuve maîtresse : le **redéveloppement d'Amazon Bedrock** — plateforme critique gérant des milliers de milliards de requêtes — par une équipe de **6 personnes en 72 jours** (vs 30 personnes / 18 mois estimés), **code intégralement généré par IA**, sans vibe coding. AWS **standardise en interne sur Kiro** (IDE + CLI, branché sur Claude Sonnet/Opus) pour ~30 000 développeurs (annonce Matt Garman à re:Invent). Fil rouge : **garder le contrôle** sans tout relire — via la **modélisation formelle (TLA+)** et le **raisonnement automatisé** pour prouver les invariants et borner les agents, le **blameless post-mortem** et le principe « la responsabilité d'une action d'agent incombe à la personne qui l'opère ». Émergence de l'**AI DLC** (sprints → **Bolts** pluri-quotidiens) et du risque de **surcharge cognitive / burn-out**.]]
+  - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
 ### permet
 
 - [[kb/_entites-mineures#contributions-plausibles-sans-effort-ni-compréhension\|contributions plausibles sans effort ni compréhension]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
+  - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 - [[kb/_entites-mineures#démocratisation-création-logicielle\|démocratisation création logicielle]] (CONCEPT) — 0.94, DYNAMIQUE
-  - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
+  - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
 
 ### remplace
 
 - [[kb/_entites-mineures#signal-d'effort-écrit\|signal d'effort écrit]] (CONCEPT) — 0.94, DYNAMIQUE
-  - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+  - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
 ### réduit
 
 - [[kb/_entites-mineures#temps-de-prototypage-(semaines-→-heures)\|temps de prototypage (semaines → heures)]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|« One Prompt, Zero Engineers » — a16z : l'IA générative démocratise le développement d'outils internes, du low-code aux app builders Gen AI (a16z.com)]]
+  - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 - [[kb/_entites-mineures#valeur-des-documents-comme-signaux\|valeur des documents comme signaux]] (CONCEPT) — 0.93, DYNAMIQUE
-  - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Crise de sens au travail - Bouton "Help me write" - Setting time on fire - Signaux d'effort - Lettres de recommandation IA - Ethan Mollick - One Useful Thing]]
+  - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
 ### surpasse
 
 - [[kb/_entites-mineures#ingénieur-humain-(2×-à-10×-plus-efficace)\|ingénieur humain (2× à 10× plus efficace)]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|Débat télévisé sur BFM Business (émission *Tech & Co Business*, segment "Le débat", 17 minutes) avec **Rémi Jacquet** (DG Cast Software France, fondateur en 2023 d'un think tank d'une centaine de DSI sur l'impact de l'IA générative sur le développement, partenariat Cigref / Epita) et **Didier Girard** (CTO et DG de **SFEIR**, ESN française d'environ 1 000 personnes). Thèses fortes : *"écrire du code est devenu un anti-pattern"* (Girard), l'IA produit du code de qualité supérieure à la plupart des ingénieurs et est *"2 à 10× plus efficace"* — c'est une réalité, mais le métier ne disparaît pas. Le développeur devient **chef d'orchestre / manager d'agents / juge de paix**, les sprints de 14 jours sont remplacés par des ***bolts*** d'une heure à une demi-journée, la **Pizza Team** (8-10 personnes) ne fonctionne plus à l'ère agentique, un nouveau métier émerge — le ***product engineer*** —, la durée de vie d'une compétence passe de **10 ans à 1 an**, et la consommation de **tokens** devient le *fuel* de la création de valeur (anecdote NVIDIA qui verserait des primes en tokens, métaphore du chauffeur de taxi qui ne consomme pas d'essence). SFEIR revendique *"1 000 personnes, capacité de production 10 000"*. Côté Cast : positionnement sur le ***harness engineering*** (déterministe vs IA probabiliste, contrôle et garde-fous), aligné sur la tribune Sylvain Duranton (BCG X) dans *Les Échos* selon laquelle *"un agent = un LLM + des harnesses"*. Pivot historique 2024 *prompt engineering* → 2025 *context engineering* → 2026 *harness engineering*. Avertissement clé : *"plus l'IA devient forte, plus on baisse la garde — plus il y a de risques"* (Jacquet). Rôle pivot des DRH dans la transformation, remise à plat complète du SDLC, recommandation aux juniors de bétonner les fondamentaux d'architecture logicielle (*"le code est la partition, il faut maîtriser la symphonie"*).]]
+  - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ## Relations (comme objet)
 
@@ -59,7 +59,7 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|Framework stratégique IA générative - 4 quadrants déploiement - Paradoxe accès - Data as moat - Différenciation stratégique - Harvard Business Review - Bharat N. Anand - Andy Wu]]
-- [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Repenser la contribution open source face au "AI slop" - Signal vs bruit]]
-- [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|Effondrement coût et complexité logiciel, IA démocratise développement, logiciel devient "permissionless", dette technique sociétale, productivité développeurs +55% - Cobus Greyling - Medium]]
-- [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe coding vs AI-assisted engineering - Addy Osmani - Software development - Engineering principles - LinkedIn]]
+- [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
+- [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
+- [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
+- [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]

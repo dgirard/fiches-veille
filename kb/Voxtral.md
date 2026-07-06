@@ -15,24 +15,24 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE) — 0.97, STATIQUE
-  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ### observé_dans
 
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
-  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ### permet
 
 - [[kb/_entites-mineures#function-calling-depuis-la-voix\|function-calling depuis la voix]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 - [[kb/_entites-mineures#Q&A-et-résumé-audio-intégrés\|Q&A et résumé audio intégrés]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ### utilise
 
 - [[kb/_entites-mineures#licence-Apache-2.0\|licence Apache 2.0]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+  - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ## Relations (comme objet)
 
@@ -41,4 +41,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral — modèles open source de compréhension vocale de Mistral AI : transcription multilingue, Q&A audio, licence Apache 2.0 (mistral.ai)]]
+- [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]

@@ -11,17 +11,17 @@
 ### fait_partie_de
 
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
+  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
 
 ### mesure
 
 - « 1 250 professionnels interrogés » (MESURE) — 0.97, STATIQUE
-  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
+  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
 
 ### utilise
 
-- [[kb/Claude\|Claude]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
-  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
+- [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
 
 ## Relations (comme objet)
 
@@ -29,4 +29,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Anthropic Interviewer - AI Workforce Study - Professional Perspectives - AI Adoption - Workplace Transformation - Creative Industries - Scientific Research - Economic Impact - Sociological Research - AI Sentiment Analysis]]
+- [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]

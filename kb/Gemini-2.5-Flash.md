@@ -15,6 +15,6 @@
 
 ## Fiches sources
 
-- [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|Agent Payments Protocol (AP2) - Google Agentic Commerce - Paiements sécurisés pilotés par IA - GitHub]]
-- [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Étude Wharton (Generative AI Labs) : les personas experts n'améliorent pas la précision factuelle des LLM - benchmarks GPQA Diamond et MMLU-Pro - SSRN]]
-- [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft Magentic Marketplace - Agents IA manipulation tests - Claude Sonnet 4 seul résistant - Paradox of choice - Prompt injection - Analysis paralysis - Webb Wright - ZDNet]]
+- [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
+- [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
+- [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]

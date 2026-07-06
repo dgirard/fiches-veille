@@ -13,52 +13,52 @@
 ### améliore
 
 - [[kb/_entites-mineures#cohérence-temporelle\|cohérence temporelle]] (CONCEPT) — 0.93, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### concurrence
 
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#Runway-Gen-3\|Runway Gen-3]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### est_basé_sur
 
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#vidéos-de-jeux-vidéo-platformer\|vidéos de jeux vidéo platformer]] (CONCEPT) — 0.90, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### est_instance_de
 
 - [[kb/_entites-mineures#modèles-de-monde-interactifs\|modèles de monde interactifs]] (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ### permet
 
 - [[kb/_entites-mineures#génération-vidéo-interactive-contrôlable\|génération vidéo interactive contrôlable]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#compréhension-émergente-de-la-physique\|compréhension émergente de la physique]] (CONCEPT) — 0.88, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#prototypage-rapide-de-jeux\|prototypage rapide de jeux]] (CONCEPT) — 0.87, ATEMPOREL
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### remplace
 
 - [[kb/_entites-mineures#Genie-2\|Genie 2]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ### s_applique_à
 
 - [[kb/_entites-mineures#intelligence-incarnée\|intelligence incarnée]] (CONCEPT) — 0.88, ATEMPOREL
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ### utilise
 
 - [[kb/_entites-mineures#11-milliards-de-paramètres\|11 milliards de paramètres]] (CONCEPT) — 0.92, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] (CONCEPT) — 0.88, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ## Relations (comme objet)
 
@@ -69,5 +69,5 @@
 
 ## Fiches sources
 
-- [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
-- [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+- [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
+- [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]

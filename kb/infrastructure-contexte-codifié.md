@@ -12,14 +12,14 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#architecture-3-tiers-hot-warm-cold\|architecture 3 tiers hot/warm/cold]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 
 ### utilise
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
-  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 
 ## Relations (comme objet)
 
@@ -27,4 +27,4 @@
 
 ## Fiches sources
 
-- [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe]]
+- [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]

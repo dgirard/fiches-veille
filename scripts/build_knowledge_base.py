@@ -190,25 +190,176 @@ def entity_to_filename(name: str) -> str:
     return filename
 
 
-def build_fiche_metadata(fiches_dir: Path) -> tuple[dict, dict]:
-    """Construit les index fiche_id → chemin relatif et fiche_id → veille.
+# Noms de fichiers réservés (collision case-insensitive avec des fichiers du
+# dépôt : CLAUDE.md, README.md, etc.). Suffixés « -entite » (U4).
+RESERVED_FILENAMES = {
+    "claude", "readme", "index", "catalogue", "knowledge-base", "gemini", "agents",
+}
+
+ALIAS_MAX = 120  # longueur max de l'alias de wikilink d'une fiche (U4)
+
+
+def fiche_alias(titre: str, fiche_id: str) -> str:
+    """Alias de wikilink borné : Titre Article sanitisé et tronqué à 120c.
+
+    Sanitisation : `|`, `[`, `]`, retours → `-` (sûrs en tableau Obsidian et
+    GitHub, préservent le grep-invariant `\\|`). Fallback : identifiant de fiche.
+    Tue l'amplification O(longueur Veille × triples) de l'ancien alias.
+    """
+    t = (titre or "").strip() or fiche_id
+    t = re.sub(r"[|\[\]\r\n]", "-", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    if len(t) > ALIAS_MAX:
+        t = t[:ALIAS_MAX].rsplit(" ", 1)[0] + "…"
+    return t
+
+
+def load_entity_aliases(scripts_dir: Path) -> tuple[dict, dict]:
+    """Charge scripts/entity_aliases.tsv.
 
     Returns:
-        (fiche_paths, fiche_veilles) :
-            fiche_paths[fiche_id] = "fiches/YYYY-MM/fiche_id"
-            fiche_veilles[fiche_id] = "Texte veille"
+        (fusion_map, distinct_map) :
+            fusion_map[normalize(variante)] = (nom_canonique, type_imposé)
+            distinct_map[(normalize(nom), normalize(type))] = suffixe_fichier
     """
+    fusion_map: dict = {}
+    distinct_map: dict = {}
+    path = scripts_dir / "entity_aliases.tsv"
+    if not path.exists():
+        return fusion_map, distinct_map
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) < 4:
+            continue
+        variante, directive, cible, typ = (p.strip() for p in parts[:4])
+        if directive == "FUSION":
+            fusion_map[normalize_name(variante)] = (cible, typ)
+        elif directive == "DISTINCT":
+            distinct_map[(normalize_name(variante), normalize_name(typ))] = cible
+    return fusion_map, distinct_map
+
+
+def apply_fusion_name(name: str, fusion_map: dict) -> str:
+    """Nom canonique d'une entité (ou nom inchangé) selon la table FUSION."""
+    entry = fusion_map.get(normalize_name(name))
+    return entry[0] if entry else name
+
+
+def build_fiche_metadata(fiches_dir: Path) -> tuple[dict, dict]:
+    """Construit les index fiche_id → chemin relatif et fiche_id → alias.
+
+    Returns:
+        (fiche_paths, fiche_aliases) :
+            fiche_paths[fiche_id] = "fiches/YYYY-MM/fiche_id"
+            fiche_aliases[fiche_id] = alias borné (Titre Article sanitisé ≤120c)
+    """
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from fiche_lib import parse_fiche
+
     fiche_paths = {}
-    fiche_veilles = {}
+    fiche_aliases = {}
     for fiche_path in sorted(fiches_dir.rglob("*.md")):
         fiche_id = fiche_path.stem
-        # Chemin relatif depuis la racine du projet (sans .md pour wikilink)
         rel = fiche_path.relative_to(fiches_dir.parent)
         fiche_paths[fiche_id] = str(rel).replace(".md", "")
-        veille = extract_fiche_veille(str(fiche_path))
-        if veille:
-            fiche_veilles[fiche_id] = veille
-    return fiche_paths, fiche_veilles
+        titre = parse_fiche(fiche_path).titre
+        fiche_aliases[fiche_id] = fiche_alias(titre, fiche_id)
+    return fiche_paths, fiche_aliases
+
+
+def build_entity_index(major_entities: list[dict],
+                       distinct_map: dict) -> tuple[dict, dict]:
+    """Construit l'index des pages d'entités majeures, collisions résolues.
+
+    Returns:
+        (entity_pages, major_types) :
+            entity_pages[(nname, ntype)] = filename
+            major_types[nname] = {ntype, …}
+    Résolution : suffixe de type quand un nom porte plusieurs types majeurs ;
+    suffixe « -entite » pour les noms réservés ; override DISTINCT. Toute
+    collision case-insensitive résiduelle lève RuntimeError en listant la paire.
+    """
+    from collections import defaultdict as _dd
+    names_types = _dd(set)
+    for e in major_entities:
+        names_types[normalize_name(e["name"])].add(normalize_name(e["type"]))
+
+    entity_pages: dict = {}
+    used: dict = {}  # filename.lower() → (name, type)
+    collisions: list[str] = []
+    for e in major_entities:
+        name, etype = e["name"], e["type"]
+        nname, ntype = normalize_name(name), normalize_name(etype)
+        base = entity_to_filename(name)
+        if base.lower() in RESERVED_FILENAMES:
+            base = base + "-entite"
+        override = distinct_map.get((nname, ntype))
+        if override:
+            filename = f"{base}-{override}"
+        elif len(names_types[nname]) > 1:
+            filename = f"{base}-{ntype}"
+        else:
+            filename = base
+        low = filename.lower()
+        if low in used and used[low] != (nname, ntype):
+            on, ot = used[low]
+            collisions.append(
+                f"  {filename} : « {name} » ({etype}) vs « {on} » ({ot})\n"
+                f"    → ajouter à entity_aliases.tsv :\n"
+                f"      {name}\tFUSION\t{on}\t{etype}\n"
+                f"      {name}\tDISTINCT\t<suffixe>\t{etype}"
+            )
+        used[low] = (nname, ntype)
+        entity_pages[(nname, ntype)] = filename
+
+    if collisions:
+        raise RuntimeError(
+            "Collision(s) de noms de fichiers kb/ non résolue(s) :\n"
+            + "\n".join(collisions)
+        )
+    return entity_pages, dict(names_types)
+
+
+def compute_kb_manifest(fiches_dir: Path) -> tuple[str, int]:
+    """sha256 des champs consommés par le build KB (chemin + Titre + section KG).
+
+    Une édition du Titre Article ou de la section GrapheDeConnaissance change le
+    hash — doctor détecte alors un kb/ périmé (même sans changement d'entités).
+    Retourne (hexdigest, nombre de fiches).
+    """
+    import hashlib
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from fiche_lib import parse_fiche
+
+    h = hashlib.sha256()
+    paths = sorted(fiches_dir.rglob("*.md"))
+    for path in paths:
+        f = parse_fiche(path)
+        rel = path.relative_to(fiches_dir.parent).as_posix()
+        kg = f.sections.get("GrapheDeConnaissance", "")
+        h.update(("\x1f".join([rel, f.titre, kg]) + "\x1e").encode("utf-8"))
+    return h.hexdigest(), len(paths)
+
+
+def _quasi_key(name: str) -> str:
+    """Clé normalisée pour la détection de quasi-doublons (minuscules, sans
+    accents, séparateurs unifiés)."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", name.lower())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[\s\-_/]+", "", s)
+
+
+def quasi_duplicate_report(entities: list[dict]) -> list[str]:
+    """Groupes d'entités dont les noms se ressemblent (jamais fusionnés
+    automatiquement — arbitrage humain via entity_aliases.tsv)."""
+    groups = defaultdict(set)
+    for e in entities:
+        groups[_quasi_key(e["name"])].add(e["name"])
+    return [f"{k} : " + " / ".join(sorted(names))
+            for k, names in sorted(groups.items()) if len(names) > 1]
 
 
 # ─── Classification entités majeures / mineures ─────────────────────────────
@@ -251,24 +402,32 @@ def compute_incoming_triples(triples: list[dict]) -> dict:
 # ─── Wikilinks ───────────────────────────────────────────────────────────────
 
 
-def entity_wikilink(name: str, major_set: set, entity_filenames: dict) -> str:
-    """Génère un wikilink vers une entité.
+def entity_wikilink(name: str, etype: str, entity_pages: dict,
+                    major_types: dict) -> str:
+    """Génère un wikilink vers une entité, en tenant compte du type.
 
-    entity_filenames: {nom_normalisé: filename} pour les majeures.
+    entity_pages: {(nname, ntype): filename} pour les majeures.
+    major_types:  {nname: {ntype, …}} — types majeurs connus pour ce nom.
+    Le type du triple aiguille vers la bonne page quand un nom porte plusieurs
+    types ; sinon on retombe sur la seule page majeure du nom, ou l'ancre mineure.
     """
-    nname = normalize_name(name)
-    if nname in major_set:
-        filename = entity_filenames.get(nname, entity_to_filename(name))
+    nname, ntype = normalize_name(name), normalize_name(etype)
+    if nname in major_types:
+        if (nname, ntype) in entity_pages:
+            filename = entity_pages[(nname, ntype)]
+        else:
+            # Type du triple absent des types majeurs : page déterministe.
+            first_type = sorted(major_types[nname])[0]
+            filename = entity_pages[(nname, first_type)]
         return f"[[kb/{filename}\\|{name}]]"
-    else:
-        anchor = entity_to_filename(name)
-        return f"[[kb/_entites-mineures#{anchor}\\|{name}]]"
+    anchor = entity_to_filename(name)
+    return f"[[kb/_entites-mineures#{anchor}\\|{name}]]"
 
 
-def fiche_wikilink(fiche_id: str, fiche_paths: dict, fiche_veilles: dict) -> str:
-    """Génère un wikilink vers une fiche source."""
+def fiche_wikilink(fiche_id: str, fiche_paths: dict, fiche_aliases: dict) -> str:
+    """Génère un wikilink vers une fiche source (alias borné ≤120c)."""
     path = fiche_paths.get(fiche_id, f"fiches/{fiche_id}")
-    alias = fiche_veilles.get(fiche_id, fiche_id)
+    alias = fiche_aliases.get(fiche_id, fiche_id)
     return f"[[{path}\\|{alias}]]"
 
 
@@ -276,9 +435,9 @@ def fiche_wikilink(fiche_id: str, fiche_paths: dict, fiche_veilles: dict) -> str
 
 
 def generate_entity_page(entity: dict, subject_triples: list[dict],
-                         object_triples: list[dict], major_set: set,
-                         entity_filenames: dict, fiche_paths: dict,
-                         fiche_veilles: dict) -> str:
+                         object_triples: list[dict], entity_pages: dict,
+                         major_types: dict, fiche_paths: dict,
+                         fiche_aliases: dict) -> str:
     """Génère le contenu d'une page entité individuelle."""
     lines = []
     name = entity["name"]
@@ -317,14 +476,14 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
                 if t["type_objet"] in EPISTEMIC_TYPES:
                     obj_link = f"« {t['objet']} »"
                 else:
-                    obj_link = entity_wikilink(t["objet"], major_set, entity_filenames)
+                    obj_link = entity_wikilink(t["objet"], t["type_objet"], entity_pages, major_types)
                 conf = f"{t['confiance']:.2f}"
                 temp = t["temporalite"]
                 line = f"- {obj_link} ({t['type_objet']}) — {conf}, {temp}"
                 lines.append(line)
                 # Fiches sources de ce triple
                 for fid in t["fiches"]:
-                    lines.append(f"  - {fiche_wikilink(fid, fiche_paths, fiche_veilles)}")
+                    lines.append(f"  - {fiche_wikilink(fid, fiche_paths, fiche_aliases)}")
             lines.append("")
 
     # Relations comme objet (entrantes)
@@ -332,7 +491,7 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
         lines.append("## Relations (comme objet)")
         lines.append("")
         for t in sorted(object_triples, key=lambda t: (-t["confiance"], t["predicat"])):
-            subj_link = entity_wikilink(t["sujet"], major_set, entity_filenames)
+            subj_link = entity_wikilink(t["sujet"], t["type_sujet"], entity_pages, major_types)
             lines.append(f"- {subj_link} **{t['predicat']}** → {name} — {t['confiance']:.2f}")
         lines.append("")
 
@@ -341,16 +500,16 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
         lines.append("## Fiches sources")
         lines.append("")
         for fid in entity["fiches"]:
-            lines.append(f"- {fiche_wikilink(fid, fiche_paths, fiche_veilles)}")
+            lines.append(f"- {fiche_wikilink(fid, fiche_paths, fiche_aliases)}")
         lines.append("")
 
     return "\n".join(lines)
 
 
 def generate_minor_entities_page(minor_entities: list[dict], triples: list[dict],
-                                 incoming: dict, major_set: set,
-                                 entity_filenames: dict, fiche_paths: dict,
-                                 fiche_veilles: dict) -> str:
+                                 incoming: dict, entity_pages: dict,
+                                 major_types: dict, fiche_paths: dict,
+                                 fiche_aliases: dict) -> str:
     """Génère la page des entités mineures, groupées par type."""
     lines = []
     lines.append("# Entités mineures")
@@ -402,21 +561,21 @@ def generate_minor_entities_page(minor_entities: list[dict], triples: list[dict]
             # Relations comme sujet (compact)
             if subj_triples:
                 for t in sorted(subj_triples, key=lambda t: -t["confiance"]):
-                    obj_link = entity_wikilink(t["objet"], major_set, entity_filenames)
+                    obj_link = entity_wikilink(t["objet"], t["type_objet"], entity_pages, major_types)
                     lines.append(f"- **{t['predicat']}** → {obj_link} ({t['type_objet']}) — {t['confiance']:.2f}")
                 lines.append("")
 
             # Relations comme objet (compact)
             if obj_triples:
                 for t in sorted(obj_triples, key=lambda t: -t["confiance"]):
-                    subj_link = entity_wikilink(t["sujet"], major_set, entity_filenames)
+                    subj_link = entity_wikilink(t["sujet"], t["type_sujet"], entity_pages, major_types)
                     lines.append(f"- {subj_link} **{t['predicat']}** → {e['name']} — {t['confiance']:.2f}")
                 lines.append("")
 
             # Fiches
             if e["fiches"]:
                 lines.append("**Fiches** : " + ", ".join(
-                    fiche_wikilink(fid, fiche_paths, fiche_veilles)
+                    fiche_wikilink(fid, fiche_paths, fiche_aliases)
                     for fid in e["fiches"]
                 ))
                 lines.append("")
@@ -424,8 +583,8 @@ def generate_minor_entities_page(minor_entities: list[dict], triples: list[dict]
     return "\n".join(lines)
 
 
-def generate_type_index(etype: str, entities: list[dict], major_set: set,
-                        entity_filenames: dict) -> str:
+def generate_type_index(etype: str, entities: list[dict], entity_pages: dict,
+                        major_types: dict) -> str:
     """Génère un index par type d'entité."""
     lines = []
     type_entities = [e for e in entities if e["type"] == etype]
@@ -437,7 +596,7 @@ def generate_type_index(etype: str, entities: list[dict], major_set: set,
     lines.append("")
 
     for e in type_entities:
-        link = entity_wikilink(e["name"], major_set, entity_filenames)
+        link = entity_wikilink(e["name"], e["type"], entity_pages, major_types)
         attrs_str = ""
         if e["attributes"]:
             first_attr = next(iter(e["attributes"].items()))
@@ -448,8 +607,8 @@ def generate_type_index(etype: str, entities: list[dict], major_set: set,
     return "\n".join(lines)
 
 
-def generate_alpha_index(entities: list[dict], major_set: set,
-                         entity_filenames: dict) -> str:
+def generate_alpha_index(entities: list[dict], entity_pages: dict,
+                         major_types: dict) -> str:
     """Génère un index alphabétique de toutes les entités."""
     lines = []
     lines.append("# Index alphabétique des entités")
@@ -470,7 +629,7 @@ def generate_alpha_index(entities: list[dict], major_set: set,
             lines.append(f"## {current_letter}")
             lines.append("")
 
-        link = entity_wikilink(e["name"], major_set, entity_filenames)
+        link = entity_wikilink(e["name"], e["type"], entity_pages, major_types)
         lines.append(f"- {link} ({e['type']}, {len(e['fiches'])} fiches)")
 
     lines.append("")
@@ -478,16 +637,19 @@ def generate_alpha_index(entities: list[dict], major_set: set,
 
 
 def generate_dashboard(entities: list[dict], triples: list[dict],
-                       major_set: set, entity_filenames: dict,
+                       entity_pages: dict, major_types: dict,
                        num_fiches: int, total_raw_triples: int,
                        total_raw_entities: int,
-                       entities_by_type: dict) -> str:
+                       entities_by_type: dict, manifest: str = "",
+                       manifest_fiches: int = 0) -> str:
     """Génère le dashboard léger knowledge-base.md."""
     lines = []
     today = date.today().isoformat()
 
     lines.append("# Knowledge Base — Veille Technologique")
     lines.append("")
+    if manifest:
+        lines.append(f"<!-- manifest: sha256={manifest} fiches={manifest_fiches} -->")
     lines.append(f"> {num_fiches} fiches | {len(entities)} entités | {len(triples)} triples | Généré le {today}")
     lines.append("")
 
@@ -507,7 +669,8 @@ def generate_dashboard(entities: list[dict], triples: list[dict],
             continue
         count = len(entities_by_type[etype])
         lines.append(f"- [[kb/_index-type-{etype}\\|{etype}]] ({count})")
-    lines.append(f"- [[kb/_entites-mineures\\|Entités mineures]] ({len(entities) - len(major_set)})")
+    n_minor = sum(1 for e in entities if normalize_name(e["name"]) not in major_types)
+    lines.append(f"- [[kb/_entites-mineures\\|Entités mineures]] ({n_minor})")
     lines.append("")
 
     # Entités les plus connectées
@@ -532,7 +695,7 @@ def generate_dashboard(entities: list[dict], triples: list[dict],
         e = entity_lookup.get(nname)
         if not e:
             continue
-        link = entity_wikilink(e["name"], major_set, entity_filenames)
+        link = entity_wikilink(e["name"], e["type"], entity_pages, major_types)
         lines.append(f"| {link} | {e['type']} | {rel_count} | {len(e['fiches'])} |")
     lines.append("")
 
@@ -628,6 +791,23 @@ def main():
     print(f"Triples bruts: {total_raw_triples}")
     print(f"Entités brutes: {total_raw_entities}")
 
+    # 1b. Applique la table d'alias FUSION (avant dédup) sur entités ET triples.
+    scripts_dir = Path(__file__).resolve().parent
+    fusion_map, distinct_map = load_entity_aliases(scripts_dir)
+    fusions_appliquees = 0
+    if fusion_map:
+        for e, _fid in all_entities:
+            entry = fusion_map.get(normalize_name(e.get("Entité", "")))
+            if entry:
+                e["Entité"], e["Type"] = entry
+                fusions_appliquees += 1
+        for t, _fid in all_triples:
+            for col in ("Sujet", "Objet"):
+                entry = fusion_map.get(normalize_name(t.get(col, "")))
+                if entry:
+                    t[col] = entry[0]
+        print(f"Fusions d'alias appliquées : {fusions_appliquees}")
+
     # 2. Déduplique entités et triples (inchangé)
     print("Déduplication des entités...")
     unique_entities = deduplicate_entities(all_entities)
@@ -638,9 +818,9 @@ def main():
     print(f"Entités uniques: {len(unique_entities)}")
     print(f"Triples uniques: {len(unique_triples)}")
 
-    # 3. Extrait les métadonnées fiches (Veille + chemin)
+    # 3. Extrait les métadonnées fiches (alias borné + chemin)
     print("Extraction métadonnées fiches...")
-    fiche_paths, fiche_veilles = build_fiche_metadata(fiches_dir)
+    fiche_paths, fiche_aliases = build_fiche_metadata(fiches_dir)
 
     # 4. Classifie entités (majeure/mineure)
     print("Classification entités...")
@@ -657,16 +837,16 @@ def main():
     for t in unique_triples:
         triples_by_subj[normalize_name(t["sujet"])].append(t)
 
-    # Construire le mapping nom normalisé → filename pour les entités majeures
-    entity_filenames = {}
-    for e in major_entities:
-        nname = normalize_name(e["name"])
-        entity_filenames[nname] = entity_to_filename(e["name"])
+    # Index des pages d'entités majeures (collisions résolues, blocantes sinon).
+    entity_pages, major_types = build_entity_index(major_entities, distinct_map)
 
     # Entités par type (pour indexes)
     entities_by_type = defaultdict(list)
     for e in unique_entities:
         entities_by_type[e["type"]].append(e)
+
+    # Manifest de fraîcheur (chemin + Titre + section KG brute).
+    manifest, manifest_fiches = compute_kb_manifest(fiches_dir)
 
     # 6. Génération de tous les fichiers
     print("Génération des fichiers...")
@@ -674,19 +854,20 @@ def main():
 
     # Dashboard
     files["knowledge-base.md"] = generate_dashboard(
-        unique_entities, unique_triples, major_set, entity_filenames,
-        num_fiches, total_raw_triples, total_raw_entities, entities_by_type
+        unique_entities, unique_triples, entity_pages, major_types,
+        num_fiches, total_raw_triples, total_raw_entities, entities_by_type,
+        manifest, manifest_fiches
     )
 
     # Pages entités majeures
     for e in major_entities:
-        nname = normalize_name(e["name"])
-        filename = entity_filenames[nname]
+        nname, ntype = normalize_name(e["name"]), normalize_name(e["type"])
+        filename = entity_pages[(nname, ntype)]
         subj_triples = triples_by_subj.get(nname, [])
         obj_triples = incoming.get(nname, [])
         files[f"kb/{filename}.md"] = generate_entity_page(
-            e, subj_triples, obj_triples, major_set, entity_filenames,
-            fiche_paths, fiche_veilles
+            e, subj_triples, obj_triples, entity_pages, major_types,
+            fiche_paths, fiche_aliases
         )
 
     # Index par type
@@ -700,32 +881,46 @@ def main():
         if etype not in entities_by_type:
             continue
         files[f"kb/_index-type-{etype}.md"] = generate_type_index(
-            etype, unique_entities, major_set, entity_filenames
+            etype, unique_entities, entity_pages, major_types
         )
 
     # Index alphabétique
     files["kb/_index-entites.md"] = generate_alpha_index(
-        unique_entities, major_set, entity_filenames
+        unique_entities, entity_pages, major_types
     )
 
     # Entités mineures
     files["kb/_entites-mineures.md"] = generate_minor_entities_page(
-        minor_entities, unique_triples, incoming, major_set, entity_filenames,
-        fiche_paths, fiche_veilles
+        minor_entities, unique_triples, incoming, entity_pages, major_types,
+        fiche_paths, fiche_aliases
     )
 
     # 7. Écriture + nettoyage
     print(f"Écriture de {len(files)} fichiers...")
     write_output_files(base_dir, files)
 
+    # 8. Rapports (non bloquants)
+    total_fiches = len(list(fiches_dir.rglob("*.md")))
+    sans_kg = total_fiches - num_fiches
+    if sans_kg:
+        print(f"\n⚠ Complétude : {sans_kg} fiche(s) sans GrapheDeConnaissance.")
+    quasi = quasi_duplicate_report(unique_entities)
+    if quasi:
+        print(f"\n⚠ Quasi-doublons d'entités ({len(quasi)}) — arbitrer via "
+              f"entity_aliases.tsv :")
+        for ligne in quasi[:25]:
+            print(f"  - {ligne}")
+        if len(quasi) > 25:
+            print(f"  … et {len(quasi) - 25} autre(s)")
+
     # Stats finales
     kb_files = [f for f in files if f.startswith("kb/")]
-    entity_pages = [f for f in kb_files if not f.startswith("kb/_")]
+    entity_page_files = [f for f in kb_files if not f.startswith("kb/_")]
     dashboard_lines = files["knowledge-base.md"].count("\n") + 1
 
     print(f"\nRésultat :")
-    print(f"  knowledge-base.md : {dashboard_lines} lignes")
-    print(f"  kb/ : {len(kb_files)} fichiers ({len(entity_pages)} pages entités + {len(kb_files) - len(entity_pages)} index)")
+    print(f"  knowledge-base.md : {dashboard_lines} lignes | manifest {manifest[:12]}…")
+    print(f"  kb/ : {len(kb_files)} fichiers ({len(entity_page_files)} pages entités + {len(kb_files) - len(entity_page_files)} index)")
     print(f"  Entités majeures : {len(major_entities)}")
     print(f"  Entités mineures : {len(minor_entities)}")
 

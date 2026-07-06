@@ -1,0 +1,17 @@
+# Table d'alias d'entités — consommée par build_knowledge_base.py (U4).
+# Format : variante<TAB>directive<TAB>cible<TAB>type
+#
+# FUSION : l'entité `variante` (nom normalisé) est fusionnée dans `cible` avec
+#          le `type` imposé. Relations, attributs et fiches sources agrégés.
+#          Utiliser pour de VRAIS synonymes (ex. traduction EN↔FR exacte).
+# DISTINCT : l'entité `variante` reste distincte ; `cible` = suffixe de nom de
+#          fichier forcé (rare — les collisions même-nom/type-différent sont déjà
+#          résolues automatiquement par suffixe de type). `type` = type concerné.
+#
+# Les collisions de fichiers case-insensitive non résolues (ni par suffixe de
+# type automatique, ni par cette table) font ÉCHOUER le build en listant la paire.
+# Les quasi-doublons détectés sont signalés (rapport) mais JAMAIS fusionnés
+# automatiquement — arbitrage humain via ce fichier.
+#
+# variante	directive	cible	type
+Agentic AI	FUSION	IA agentique	TECHNOLOGIE
