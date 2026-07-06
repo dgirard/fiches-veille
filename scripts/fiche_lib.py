@@ -304,3 +304,27 @@ def parse_fiche(path: str | Path) -> Fiche:
         frontmatter=fm,
         sections=split_sections(body),
     )
+
+
+# ─── Registre des thèmes ─────────────────────────────────────────────────────
+
+
+def load_themes(scripts_dir: str | Path) -> dict[str, str]:
+    """Charge `scripts/themes.tsv` → dict ordonné {slug: libellé} (ordre du fichier).
+
+    Source unique de vérité pour les trois vues consommatrices : l'ensemble des
+    slugs (`set(load_themes(...))`, lint), la table inversée
+    ({libellé: slug}, migration) et le mapping direct (générateur d'index).
+    Retourne {} si le fichier est absent.
+    """
+    themes: dict[str, str] = {}
+    path = Path(scripts_dir) / "themes.tsv"
+    if not path.exists():
+        return themes
+    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines()):
+        if i == 0 or not line.strip():
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 2:
+            themes[parts[0].strip()] = parts[1].strip()
+    return themes

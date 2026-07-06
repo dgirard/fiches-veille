@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from fiche_lib import parse_frontmatter  # noqa: E402
+from fiche_lib import load_themes, parse_frontmatter  # noqa: E402
 
 # Attribution explicite des fiches absentes de la section Thématiques (2 connues).
 ORPHELINES = {
@@ -30,14 +30,8 @@ ORPHELINES = {
 
 
 def load_libelle_to_slug(scripts_dir: Path) -> dict[str, str]:
-    themes = scripts_dir / "themes.tsv"
-    mapping = {}
-    for i, line in enumerate(themes.read_text(encoding="utf-8").splitlines()):
-        if i == 0 or not line.strip():
-            continue
-        slug, libelle = line.split("\t")[:2]
-        mapping[libelle.strip()] = slug.strip()
-    return mapping
+    """Table inversée {libellé: slug} dérivée du registre des thèmes partagé."""
+    return {libelle: slug for slug, libelle in load_themes(scripts_dir).items()}
 
 
 def parse_index(index_path: Path, libelle_to_slug: dict) -> tuple[dict, dict, list]:

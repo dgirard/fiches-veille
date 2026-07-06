@@ -27,6 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fiche_lib import (  # noqa: E402
     FrontmatterError,
+    load_themes as _load_themes_map,
     parse_frontmatter,
     skip_frontmatter,
     split_sections,
@@ -44,28 +45,11 @@ CLES_FRONTMATTER = {
     "fiche_type", "skill_source", "skill_author",
 }
 
-_THEMES_CACHE: set | None = None
-
-
 def load_themes() -> set | None:
-    """Charge les slugs de thèmes depuis scripts/themes.tsv (cache).
-
-    Retourne None si le fichier est absent (le check valeurs-de-thèmes est
-    alors désactivé plutôt que bloquant).
-    """
-    global _THEMES_CACHE
-    if _THEMES_CACHE is not None:
-        return _THEMES_CACHE
-    path = Path(__file__).resolve().parent / "themes.tsv"
-    if not path.exists():
-        return None
-    slugs = set()
-    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines()):
-        if i == 0 or not line.strip():
-            continue  # en-tête / lignes vides
-        slugs.add(line.split("\t")[0].strip())
-    _THEMES_CACHE = slugs
-    return slugs
+    """Ensemble des slugs de thèmes valides (None si themes.tsv absent → check
+    valeurs-de-thèmes désactivé plutôt que bloquant)."""
+    themes = _load_themes_map(Path(__file__).resolve().parent)
+    return set(themes) if themes else None
 
 SECTIONS_ATTENDUES = [
     "Veille",

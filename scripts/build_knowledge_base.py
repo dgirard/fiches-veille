@@ -8,10 +8,12 @@ Génère :
 - kb/*.md : Pages entités individuelles + index
 """
 
+import hashlib
 import os
 import re
 import shutil
 import sys
+import unicodedata
 from collections import defaultdict
 
 # Types épistémiques (ontologie v2) : objets de triples, jamais des entités
@@ -24,6 +26,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 # `parse_markdown_table` restent importables sous ces noms (compat tests).
 from fiche_lib import (  # noqa: E402
     extract_veille as extract_fiche_veille,
+    parse_fiche,
     parse_markdown_table,
 )
 
@@ -255,9 +258,6 @@ def build_fiche_metadata(fiches_dir: Path) -> tuple[dict, dict]:
             fiche_paths[fiche_id] = "fiches/YYYY-MM/fiche_id"
             fiche_aliases[fiche_id] = alias borné (Titre Article sanitisé ≤120c)
     """
-    sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from fiche_lib import parse_fiche
-
     fiche_paths = {}
     fiche_aliases = {}
     for fiche_path in sorted(fiches_dir.rglob("*.md")):
@@ -281,8 +281,7 @@ def build_entity_index(major_entities: list[dict],
     suffixe « -entite » pour les noms réservés ; override DISTINCT. Toute
     collision case-insensitive résiduelle lève RuntimeError en listant la paire.
     """
-    from collections import defaultdict as _dd
-    names_types = _dd(set)
+    names_types = defaultdict(set)
     for e in major_entities:
         names_types[normalize_name(e["name"])].add(normalize_name(e["type"]))
 
@@ -329,10 +328,6 @@ def compute_kb_manifest(fiches_dir: Path) -> tuple[str, int]:
     hash — doctor détecte alors un kb/ périmé (même sans changement d'entités).
     Retourne (hexdigest, nombre de fiches).
     """
-    import hashlib
-    sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from fiche_lib import parse_fiche
-
     h = hashlib.sha256()
     paths = sorted(fiches_dir.rglob("*.md"))
     for path in paths:
@@ -346,7 +341,6 @@ def compute_kb_manifest(fiches_dir: Path) -> tuple[str, int]:
 def _quasi_key(name: str) -> str:
     """Clé normalisée pour la détection de quasi-doublons (minuscules, sans
     accents, séparateurs unifiés)."""
-    import unicodedata
     s = unicodedata.normalize("NFKD", name.lower())
     s = "".join(c for c in s if not unicodedata.combining(c))
     return re.sub(r"[\s\-_/]+", "", s)

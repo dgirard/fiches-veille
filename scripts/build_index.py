@@ -18,11 +18,12 @@ from __future__ import annotations
 import hashlib
 import re
 import sys
+from collections import Counter
 from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from fiche_lib import parse_fiche  # noqa: E402
+from fiche_lib import load_themes, parse_fiche  # noqa: E402
 
 CATALOGUE_COLS = ["id", "date", "titre", "auteurs", "source",
                   "themes", "keywords", "veille_courte", "flags"]
@@ -31,21 +32,6 @@ ALIAS_STATS_TOP = 20
 
 
 # ─── Helpers ─────────────────────────────────────────────────────────────────
-
-
-def load_themes(scripts_dir: Path) -> dict[str, str]:
-    """Charge scripts/themes.tsv → dict ordonné {slug: libellé} (ordre du fichier)."""
-    themes: dict[str, str] = {}
-    path = scripts_dir / "themes.tsv"
-    if not path.exists():
-        return themes
-    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines()):
-        if i == 0 or not line.strip():
-            continue
-        parts = line.split("\t")
-        if len(parts) >= 2:
-            themes[parts[0].strip()] = parts[1].strip()
-    return themes
 
 
 def tsv_clean(value: str) -> str:
@@ -120,13 +106,18 @@ def collect(fiches_dir: Path) -> list[dict]:
             "veille_raw": fiche.sections.get("Veille", ""),
         })
     # Ordre total déterministe : date décroissante, puis id croissant.
+    # NB : certaines fiches anciennes ont une Date au mois seul (`2026-05`) et non
+    # au jour (`2026-05-16`). Un tri deux-passes `reverse=True` classerait alors le
+    # mois-seul APRÈS les dates pleines du même mois ; l'inversion caractère par
+    # caractère ci-dessous le classe AVANT (ordre historique du catalogue). Clé
+    # unique volontaire, pas un tri deux-passes, pour préserver ce comportement.
     records.sort(key=lambda r: (_neg_date(r["date"]), r["id"]))
     return records
 
 
 def _neg_date(d: str) -> str:
-    """Clé de tri pour ordre date décroissant lexicographique."""
-    # Inverse chaque caractère numérique pour trier desc via sort asc.
+    """Clé de tri pour un ordre date décroissant, robuste aux longueurs variables
+    (dates au mois seul vs au jour) via inversion caractère par caractère."""
     return "".join(chr(255 - ord(c)) for c in d)
 
 
@@ -168,7 +159,6 @@ def render_catalogue(records: list[dict], manifest: str, today: str) -> str:
 
 def render_stats_block(records: list[dict], themes: dict[str, str]) -> list[str]:
     """Bloc statistiques partagé (index.md et README.md)."""
-    from collections import Counter
     lines = []
     total = len(records)
     lines.append(f"- **Total** : {total} fiches")
@@ -198,7 +188,6 @@ def render_stats_block(records: list[dict], themes: dict[str, str]) -> list[str]
 
 
 def render_index(records: list[dict], themes: dict[str, str], today: str) -> str:
-    from itertools import groupby
     lines = ["# Veille Technologique", ""]
     total = len(records)
     dates = [r["date"] for r in records if r["date"]]
