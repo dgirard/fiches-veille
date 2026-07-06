@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "METR"
+---
 # metr-study-ai-agents-autonomous-replication-risk-2023-07-31
 
 ## Veille

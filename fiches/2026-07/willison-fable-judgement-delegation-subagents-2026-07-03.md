@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Simon Willison's Weblog"
+---
 # willison-fable-judgement-delegation-subagents-2026-07-03
 
 ## Veille

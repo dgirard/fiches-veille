@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Sequoia (YouTube, Lauren Reader interview Boris Cherny)"
+---
 # cherny-sequoia-coding-is-solved-loops-printing-press-2026-05
 
 ## Veille

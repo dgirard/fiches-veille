@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Qodo"
+---
 # qodo-state-ai-code-quality-2025-report-2025-06-11
 
 ## Veille

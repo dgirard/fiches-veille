@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Google"
+---
 # think-with-google-demand-led-marketing-budget-2026-2025-10-01
 
 ## Veille

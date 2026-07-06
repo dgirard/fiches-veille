@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Sierra (Iyengar, Asemanfar, Wang)"
+---
 # sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22
 
 ## Veille

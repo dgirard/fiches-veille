@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, outils-plateformes]
+source: "Google"
+---
 # google-conductor-context-driven-development-gemini-cli-2025-12-17
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Martin Fowler"
+---
 # fowler-thoughtworks-retreat-llm-software-development-2026-02-13
 
 ## Veille

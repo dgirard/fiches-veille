@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "YouTube (Dave Farley / Modern Software Engineering)"
+---
 # farley-continuous-delivery-ai-assisted-development-trap-2026-05-13
 
 ## Veille

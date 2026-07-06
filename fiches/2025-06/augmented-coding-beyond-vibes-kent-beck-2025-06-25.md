@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Kent Beck"
+---
 # augmented-coding-beyond-vibes-kent-beck-2025-06-25
 
 ## Veille

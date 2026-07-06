@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Deep Research"
+---
 # plakar-sauvegarde-open-source-deep-research-2026-01
 
 ## Veille

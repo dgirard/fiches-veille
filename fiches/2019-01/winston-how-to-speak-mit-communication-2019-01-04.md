@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "MIT (Patrick Winston)"
+---
 # winston-how-to-speak-mit-communication-2019-01-04
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Bain & Company (David Lipman, Greg Callahan, Daniel Goetz, George Sunderland)"
+---
 # bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04
 
 ## Veille

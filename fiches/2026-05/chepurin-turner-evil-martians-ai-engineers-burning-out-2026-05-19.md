@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Evil Martians Chronicles (Ivan Chepurin & Travis Turner)"
+---
 # chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19
 
 ## Veille

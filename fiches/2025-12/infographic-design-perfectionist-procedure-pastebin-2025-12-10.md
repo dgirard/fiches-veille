@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Pastebin"
+---
 # infographic-design-perfectionist-procedure-pastebin-2025-12-10
 
 ## Veille

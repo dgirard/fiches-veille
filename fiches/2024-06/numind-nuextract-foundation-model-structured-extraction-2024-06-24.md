@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "NuMind"
+---
 # numind-nuextract-foundation-model-structured-extraction-2024-06-24
 
 ## Veille

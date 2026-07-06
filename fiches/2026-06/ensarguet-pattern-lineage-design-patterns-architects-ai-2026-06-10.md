@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "LinkedIn (Philippe Ensarguet)"
+---
 # ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10
 
 ## Veille

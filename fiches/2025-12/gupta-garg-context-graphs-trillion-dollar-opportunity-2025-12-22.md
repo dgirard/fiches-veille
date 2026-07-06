@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Foundation Capital"
+---
 # gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22
 
 ## Veille

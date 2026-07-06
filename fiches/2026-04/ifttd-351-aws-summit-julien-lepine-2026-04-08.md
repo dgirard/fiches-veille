@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: BenchmarkDatapoint
 proposed_capability: capability/software-factory
 notes: "Proof-point hyperscaler de premier ordre, miroir du datapoint Salesforce : AWS redéveloppe Amazon Bedrock (plateforme critique, milliers de milliards de requêtes) avec 6 personnes en 72 jours via une plateforme agentique — vs 30 personnes / 18 mois estimés (×5 effectifs, ×7-8 temps), intégralité du code générée par IA, grande majorité relue, sans vibe coding. AWS standardise en interne sur Kiro (Claude Sonnet/Opus) pour ~30 000 développeurs. Levier de garantie original : modélisation formelle TLA+ + raisonnement automatisé (Bedrock) pour prouver déterministiquement les invariants et borner les décisions d'agents — réponse concrète à la question 'comment garder le contrôle sans tout relire à ×1000 de code'. Datapoints mobilisables : 6 pers/72j, DynamoDB >5 000 Md req/h, incident 20 oct. 2025, AI DLC (Bolts pluri-quotidiens), client qui baisse sciemment sa productivité (3→moins de bolts/jour) pour le bien-être."
+themes: [transformation-adoption]
+source: "IFTTD (Bruno / Julien Lépine, AWS)"
 ---
 # ifttd-351-aws-summit-julien-lepine-2026-04-08
 

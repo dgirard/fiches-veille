@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Bloomberg"
+---
 # zhang-bloomberg-deploying-ai-engineering-2025-11-23
 ## Veille
 Bloomberg - Enterprise AI Deployment - Platform Engineering - Paved Path - Uplift Agents

@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "Pragmatic Engineer"
+---
 # pragmatic-engineer-measure-ai-impact-dev-2025-09-16
 
 ## Veille

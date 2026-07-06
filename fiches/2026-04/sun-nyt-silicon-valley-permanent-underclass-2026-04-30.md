@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "NYT Opinion (Jasmine Sun)"
+---
 # sun-nyt-silicon-valley-permanent-underclass-2026-04-30
 
 ## Veille

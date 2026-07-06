@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "ZDNet"
+---
 # wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06
 
 ## Veille

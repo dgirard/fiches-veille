@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Wenvision"
+---
 # wenvision-ai-agents-enterprise-deployment-2025-10-01
 
 ## Veille

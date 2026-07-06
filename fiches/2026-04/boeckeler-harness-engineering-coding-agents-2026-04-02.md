@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "martinfowler.com (Birgitta Böckeler)"
+---
 # boeckeler-harness-engineering-coding-agents-2026-04-02
 
 ## Veille

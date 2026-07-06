@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Addy Osmani"
+---
 # vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01
 
 ## Veille

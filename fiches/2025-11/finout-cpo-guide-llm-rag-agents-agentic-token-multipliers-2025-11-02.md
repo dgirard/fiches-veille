@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Finout"
+---
 # finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02
 
 ## Veille

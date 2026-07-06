@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "David Johnson"
+---
 # context-engineering-domain-understanding-johnson-2025-07-23
 
 ## Veille

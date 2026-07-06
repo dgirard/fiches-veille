@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "One Useful Thing"
+---
 # mollick-making-ai-work-leadership-lab-crowd-2025-05-22
 
 ## Veille

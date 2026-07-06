@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # lesse-anthropic-building-agentic-systems-claude-2025-11-23
 ## Veille
 Construction de systèmes agentiques puissants avec Claude - Architecture et patterns d'implémentation - Anthropic

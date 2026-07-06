@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Forbes"
+---
 # aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15
 
 ## Veille

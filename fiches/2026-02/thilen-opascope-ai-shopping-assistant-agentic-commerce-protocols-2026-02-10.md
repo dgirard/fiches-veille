@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Opascope"
+---
 # thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10
 ## Veille
 Guide technique AI shopping assistants 2026, protocoles ACP (OpenAI/Stripe) vs UCP (Google/coalition), implémentation marchands, attribution agentique

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Ethan Mollick (LinkedIn)"
+---
 # mollick-organizational-theory-agentic-ai-spans-control-2026-02
 ## Veille
 Mollick : Théorie organisationnelle pour l'IA agentique - spans of control et boundary objects

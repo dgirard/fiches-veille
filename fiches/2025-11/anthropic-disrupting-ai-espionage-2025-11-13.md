@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Anthropic"
+---
 # anthropic-disrupting-ai-espionage-2025-11-13
 
 ## Veille

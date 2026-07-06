@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Capital One"
+---
 # kanat-alexander-capital-one-devex-ai-agents-2025-11-23
 ## Veille
 Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments

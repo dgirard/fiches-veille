@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Lenny Rachitsky (YouTube)"
+---
 # andreessen-lenny-podcast-ai-jobs-agi-2026-02
 ## Veille
 Andreessen/Lenny Podcast : IA, emplois, AGI et avenir des programmeurs

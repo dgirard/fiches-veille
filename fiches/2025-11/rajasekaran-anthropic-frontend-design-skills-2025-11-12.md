@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic (Rajasekaran et al.)"
+---
 # rajasekaran-anthropic-frontend-design-skills-2025-11-12
 
 ## Veille

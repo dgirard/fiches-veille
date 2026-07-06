@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Merit Systems (Sam Ragsdale)"
+---
 # ragsdale-merit-open-agentic-commerce-protocols-2026-03-19
 
 ## Veille

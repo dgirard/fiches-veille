@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "10x"
+---
 # hezarkhani-10x-paying-engineers-salespeople-2025-11-23
 ## Veille
 Engineering Compensation - Story Points - Outcome-based Pay - 10x Engineers - Incentive Alignment

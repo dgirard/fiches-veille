@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Anthropic"
+---
 # anthropic-measuring-political-bias-claude-2025-11-13
 
 ## Veille

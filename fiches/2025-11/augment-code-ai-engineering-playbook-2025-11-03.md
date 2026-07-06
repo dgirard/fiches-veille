@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Augment Code"
+---
 # augment-code-ai-engineering-playbook-2025-11-03
 ## Veille
 Playbook adoption IA - Ingénierie augmentée - Augment Code

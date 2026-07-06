@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe, politique-regulation]
+source: "PDF Saint-Siège (via Bayard/La Croix)"
+---
 # leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15
 
 ## Veille

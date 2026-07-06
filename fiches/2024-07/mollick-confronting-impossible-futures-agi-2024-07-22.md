@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "One Useful Thing"
+---
 # mollick-confronting-impossible-futures-agi-2024-07-22
 
 ## Veille

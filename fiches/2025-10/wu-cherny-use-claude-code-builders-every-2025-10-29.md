@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every AI & I Podcast"
+---
 # wu-cherny-use-claude-code-builders-every-2025-10-29
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Deep Research"
+---
 # sdd-langages-programmation-ia-deep-research-2026-01
 
 ## Veille

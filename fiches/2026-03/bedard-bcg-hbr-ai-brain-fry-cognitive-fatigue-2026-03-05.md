@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "HBR (Bedard, Kropp, Hsu, Karaman, Hawes, Kellerman / BCG)"
+---
 # bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05
 
 ## Veille

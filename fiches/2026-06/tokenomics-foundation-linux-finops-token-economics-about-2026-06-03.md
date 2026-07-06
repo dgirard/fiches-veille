@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "tokeneconomics.com (Tokenomics Foundation)"
+---
 # tokenomics-foundation-linux-finops-token-economics-about-2026-06-03
 
 ## Veille

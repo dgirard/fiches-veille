@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Media"
+---
 # luc-julia-ai-controversy-statements-media-2025-08-22
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every (Mike Taylor, Laura Entis & Claude)"
+---
 # taylor-entis-every-eight-levels-ai-adoption-2026-06-02
 
 ## Veille

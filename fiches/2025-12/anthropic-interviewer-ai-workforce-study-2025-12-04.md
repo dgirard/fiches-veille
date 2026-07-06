@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # anthropic-interviewer-ai-workforce-study-2025-12-04
 
 ## Veille

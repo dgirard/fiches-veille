@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "DX"
+---
 # reock-dx-leadership-ai-engineering-metrics-2025-11-23
 ## Veille
 DX Platform - Engineering Leadership - Productivity Metrics - Psychological Safety - SDLC Constraints

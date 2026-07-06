@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Tessl"
+---
 # debois-tessl-context-flywheel-ai-coding-teams-2026-02-26
 
 ## Veille

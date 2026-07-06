@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Tessl"
+---
 # debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [politique-regulation]
+source: "LinkedIn"
+---
 # strubel-secnumcloud-anssi-linkedin-2026-01-06
 
 ## Veille

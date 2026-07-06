@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "HubSpot"
+---
 # yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17
 
 ## Veille

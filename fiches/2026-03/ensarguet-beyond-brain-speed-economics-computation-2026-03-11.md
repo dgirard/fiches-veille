@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "LinkedIn (Philippe Ensarguet)"
+---
 # ensarguet-beyond-brain-speed-economics-computation-2026-03-11
 ## Veille
 Fin de l'heure-cerveau comme unite de valeur, passage au kilowatt-heure du travail intellectuel, economie de la computation agentique - LinkedIn

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Tech Away"
+---
 # martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04
 ## Veille
 Méthode BMAD : cadre structuré pour intégrer l'IA agentique dans le SDLC - Tech Away

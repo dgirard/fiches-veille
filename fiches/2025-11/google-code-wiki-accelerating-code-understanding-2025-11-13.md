@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Google"
+---
 # google-code-wiki-accelerating-code-understanding-2025-11-13
 
 ## Veille

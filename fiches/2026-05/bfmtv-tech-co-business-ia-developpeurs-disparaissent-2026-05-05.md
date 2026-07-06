@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "BFM Business / Tech & Co Business"
+---
 # bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05
 
 ## Veille

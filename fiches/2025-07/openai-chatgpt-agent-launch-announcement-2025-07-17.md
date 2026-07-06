@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "OpenAI"
+---
 # openai-chatgpt-agent-launch-announcement-2025-07-17
 
 ## Veille

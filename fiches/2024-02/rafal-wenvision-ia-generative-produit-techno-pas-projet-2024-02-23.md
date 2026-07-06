@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "CIO-Online (Olivier Rafal)"
+---
 # rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Cobus Greyling"
+---
 # greyling-software-cost-collapse-permissionless-2025-11-04
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Kent Beck"
+---
 # beck-starving-genies-usage-limits-ai-coding-2026-04-03
 ## Veille
 

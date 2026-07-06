@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Thoughtworks Blog (Matt Kamelman)"
+---
 # kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03
 
 ## Veille

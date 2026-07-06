@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Graphite.io"
+---
 # graphite-aeo-is-the-new-seo-2025-02-01
 ## Veille
 AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite

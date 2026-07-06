@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every Source Code"
+---
 # klaassen-stop-coding-start-planning-every-2025-11-06
 
 ## Veille

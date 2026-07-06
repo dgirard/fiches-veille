@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Reddit"
+---
 # gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23
 
 ## Veille

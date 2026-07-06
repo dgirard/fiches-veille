@@ -2,6 +2,8 @@
 fiche_type: skill
 skill_source: github.com/mattpocock/skills
 skill_author: Matt Pocock
+themes: [agents-codage-ia-skills]
+source: "GitHub (Matt Pocock, mattpocock/skills)"
 ---
 # skill-pocock-grill-with-docs-2026-06
 

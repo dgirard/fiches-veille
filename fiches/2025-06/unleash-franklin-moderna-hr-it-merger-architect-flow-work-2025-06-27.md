@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "UNLEASH"
+---
 # unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27
 
 ## Veille

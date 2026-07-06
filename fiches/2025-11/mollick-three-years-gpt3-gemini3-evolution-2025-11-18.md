@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Ethan Mollick"
+---
 # mollick-three-years-gpt3-gemini3-evolution-2025-11-18
 
 ## Veille

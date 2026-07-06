@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "LinkedIn (Fred PLAIS)"
+---
 # plais-ai-engineers-fast-bottleneck-upstream-2026-06-17
 
 ## Veille

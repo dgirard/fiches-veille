@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "LinkedIn Pulse (Alexandre Frizzo)"
+---
 # frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "GitHub"
+---
 # superclaude-framework-config-claude-code-2025-07-01
 
 ## Veille

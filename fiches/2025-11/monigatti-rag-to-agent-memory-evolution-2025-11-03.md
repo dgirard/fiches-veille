@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Leonie Monigatti"
+---
 # monigatti-rag-to-agent-memory-evolution-2025-11-03
 
 ## Veille

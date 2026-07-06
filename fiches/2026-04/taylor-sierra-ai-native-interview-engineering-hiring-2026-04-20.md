@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Sierra Blog (Bret Taylor)"
+---
 # taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20
 ## Veille
 

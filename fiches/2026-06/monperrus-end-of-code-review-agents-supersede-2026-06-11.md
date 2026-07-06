@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "arXiv (Martin Monperrus)"
+---
 # monperrus-end-of-code-review-agents-supersede-2026-06-11
 
 ## Veille

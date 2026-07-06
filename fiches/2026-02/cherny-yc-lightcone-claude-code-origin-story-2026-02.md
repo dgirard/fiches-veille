@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Y Combinator (YouTube)"
+---
 # cherny-yc-lightcone-claude-code-origin-story-2026-02
 ## Veille
 Boris Cherny raconte la genèse de Claude Code, philosophie produit et conseils fondateurs - Y Combinator Light Cone

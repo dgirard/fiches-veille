@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Atlassian (Robbie Geoghegan & Fan Jiang)"
+---
 # atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31
 
 ## Veille

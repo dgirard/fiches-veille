@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Meerkat Careers (Compare the Market)"
+---
 # comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06
 
 ## Veille

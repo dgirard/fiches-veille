@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Martin Fowler"
+---
 # martin-fowler-llm-software-development-2025-08-15
 ## Veille
 Réflexions sur LLMs et développement logiciel - Bulle IA - Hallucinations - Sécurité - Martin Fowler

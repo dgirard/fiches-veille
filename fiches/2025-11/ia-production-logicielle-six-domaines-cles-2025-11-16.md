@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Analyse interne"
+---
 # ia-production-logicielle-six-domaines-cles-2025-11-16
 ## Veille
 AI4* - Production Logicielle - IA - Cycle de Vie

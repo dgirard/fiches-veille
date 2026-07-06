@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Simon Willison"
+---
 # claude-skills-document-manipulation-willison-2025-10-10
 ## Veille
 Système de compétences Claude - Manipulation documents - Découverte /mnt/skills - Simon Willison Blog

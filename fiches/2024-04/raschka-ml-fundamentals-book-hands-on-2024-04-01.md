@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "Sebastian Raschka"
+---
 # raschka-ml-fundamentals-book-hands-on-2024-04-01
 
 ## Veille

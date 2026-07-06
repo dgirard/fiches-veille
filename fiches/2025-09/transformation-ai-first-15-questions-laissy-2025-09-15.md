@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Jean-Christophe Laissy"
+---
 # transformation-ai-first-15-questions-laissy-2025-09-15
 ## Veille
 Transformation AI-First en entreprise - 15 questions stratégiques - Paradoxe de l'héritage - LinkedIn

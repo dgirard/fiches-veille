@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Jesse Vincent"
+---
 # superpowers-skills-coding-agents-vincent-2025-10-09
 ## Veille
 Système de compétences pour agents IA - Superpowers/Skills - Apprentissage continu - Blog Fsck

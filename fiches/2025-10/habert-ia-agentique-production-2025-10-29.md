@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "WEnvision"
+---
 # habert-ia-agentique-production-2025-10-29
 
 ## Veille

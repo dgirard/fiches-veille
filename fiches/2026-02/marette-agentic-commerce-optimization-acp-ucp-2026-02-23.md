@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Custplace"
+---
 # marette-agentic-commerce-optimization-acp-ucp-2026-02-23
 ## Veille
 Agentic Commerce Optimization : guide technique préparation protocoles ACP et UCP Google - Commerce agentique - Schema.org - Merchant Center

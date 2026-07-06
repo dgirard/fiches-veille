@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "addyosmani.com (Addy Osmani)"
+---
 # osmani-cognitive-surrender-comprehension-debt-2026-05-05
 
 ## Veille

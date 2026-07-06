@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "LinkedIn"
+---
 # kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17
 
 ## Veille

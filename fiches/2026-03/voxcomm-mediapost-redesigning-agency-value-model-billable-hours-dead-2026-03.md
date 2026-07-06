@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "VoxComm + MediaPost (Brian Kessman, Tim Williams, Charley Stoney, Joe Mandese)"
+---
 # voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03
 
 ## Veille

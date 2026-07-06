@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, qualite-securite]
+source: "Soufiane Keli"
+---
 # keli-ia-generative-code-100-percent-approche-2025-11-05
 
 ## Veille

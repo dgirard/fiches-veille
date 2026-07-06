@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "The Batch"
+---
 # deepseek-openai-amd-finetuning-batch-323-2025-10-15
 
 ## Veille

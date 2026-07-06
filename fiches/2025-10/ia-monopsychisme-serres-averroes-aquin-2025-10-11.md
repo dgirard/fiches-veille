@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Revue Thomiste"
+---
 # ia-monopsychisme-serres-averroes-aquin-2025-10-11
 ## Veille
 Intelligence Artificielle et monopsychisme - Philosophie médiévale/moderne - Revue Thomiste

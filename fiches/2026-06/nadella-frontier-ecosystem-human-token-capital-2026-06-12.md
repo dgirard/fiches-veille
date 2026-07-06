@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "X / Twitter (Satya Nadella)"
+---
 # nadella-frontier-ecosystem-human-token-capital-2026-06-12
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "LangChain Blog"
+---
 # langchain-how-to-build-agent-guide-2025-07-09
 
 ## Veille

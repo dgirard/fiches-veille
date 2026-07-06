@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "LinkedIn"
+---
 # touilleur-express-ni-manager-ni-contributeur-2025-06-23
 
 ## Veille

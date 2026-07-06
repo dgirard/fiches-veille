@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Yahoo Finance"
+---
 # salesforce-ai-30-50-percent-work-benioff-2025-06-26
 
 ## Veille

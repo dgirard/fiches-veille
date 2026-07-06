@@ -1,3 +1,7 @@
+---
+themes: [politique-regulation]
+source: "IT for Business"
+---
 # derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13
 
 ## Veille

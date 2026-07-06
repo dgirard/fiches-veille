@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "CIO-Online (Olivier Rafal)"
+---
 # rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01
 
 ## Veille

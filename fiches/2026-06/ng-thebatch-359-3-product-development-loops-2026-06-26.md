@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "The Batch (Andrew Ng)"
+---
 # ng-thebatch-359-3-product-development-loops-2026-06-26
 
 ## Veille

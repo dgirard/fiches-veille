@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Lee Robinson"
+---
 # lee-robinson-personal-software-2025-01-01
 ## Veille
 Personal Software - Applications customisées par IA - Futur du logiciel - Lee Robinson

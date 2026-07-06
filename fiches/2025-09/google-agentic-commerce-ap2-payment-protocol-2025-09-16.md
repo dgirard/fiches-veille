@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "Google"
+---
 # google-agentic-commerce-ap2-payment-protocol-2025-09-16
 
 ## Veille

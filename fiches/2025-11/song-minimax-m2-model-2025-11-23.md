@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "MiniMax"
+---
 # song-minimax-m2-model-2025-11-23
 ## Veille
 MiniMax - M2 Model - Interleaved Thinking - Coding Agents - Efficient LLM

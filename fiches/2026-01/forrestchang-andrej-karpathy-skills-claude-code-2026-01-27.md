@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "GitHub (3.4k stars)"
+---
 # forrestchang-andrej-karpathy-skills-claude-code-2026-01-27
 ## Veille
 Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat

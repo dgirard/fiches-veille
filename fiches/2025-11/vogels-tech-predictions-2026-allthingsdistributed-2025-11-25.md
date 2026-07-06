@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "Werner Vogels"
+---
 # vogels-tech-predictions-2026-allthingsdistributed-2025-11-25
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "X (Cobus Greyling)"
+---
 # greyling-cli-vs-ide-development-environment-collapse-2026-03-09
 ## Veille
 Effondrement de l'IDE face au CLI agentique, trois couches d'abstraction developpeur qui s'effondrent successivement - X/Twitter

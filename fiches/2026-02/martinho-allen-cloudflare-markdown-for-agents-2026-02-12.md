@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Cloudflare Blog"
+---
 # martinho-allen-cloudflare-markdown-for-agents-2026-02-12
 
 ## Veille

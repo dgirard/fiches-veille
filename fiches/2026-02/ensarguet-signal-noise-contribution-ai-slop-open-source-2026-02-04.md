@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Philippe Ensarguet (LinkedIn)"
+---
 # ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04
 ## Veille
 Repenser la contribution open source face au "AI slop" - Signal vs bruit

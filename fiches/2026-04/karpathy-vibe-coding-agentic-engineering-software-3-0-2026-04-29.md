@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "YouTube AI Startup School (Andrej Karpathy)"
+---
 # karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Guillermo Rauch"
+---
 # rauch-coding-agents-cli-abstraction-2026-01-02
 
 ## Veille

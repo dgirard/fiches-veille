@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Cobus Greyling"
+---
 # greyling-nvidia-software-ecosystem-dominance-2025-10-30
 
 ## Veille

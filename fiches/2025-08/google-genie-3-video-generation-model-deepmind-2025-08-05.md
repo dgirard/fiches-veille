@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "DeepMind"
+---
 # google-genie-3-video-generation-model-deepmind-2025-08-05
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Gadget"
+---
 # gadget-chatgpt-apps-sdk-guide-2025-10-10
 
 ## Veille

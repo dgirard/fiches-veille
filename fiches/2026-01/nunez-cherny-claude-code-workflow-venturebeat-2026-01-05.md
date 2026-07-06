@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "VentureBeat"
+---
 # nunez-cherny-claude-code-workflow-venturebeat-2026-01-05
 
 ## Veille

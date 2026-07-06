@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Academy of Management Journal (Steven Kerr)"
+---
 # kerr-folly-rewarding-a-hoping-b-academy-management-1975-12
 ## Veille
 

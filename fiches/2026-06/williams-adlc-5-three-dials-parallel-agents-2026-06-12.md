@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "voodootikigod.com (Chris Williams)"
+---
 # williams-adlc-5-three-dials-parallel-agents-2026-06-12
 
 ## Veille

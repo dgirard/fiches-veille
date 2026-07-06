@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Wikipedia (concept : Charles Goodhart)"
+---
 # goodhart-law-mesure-cible-wikipedia-1975
 
 ## Veille

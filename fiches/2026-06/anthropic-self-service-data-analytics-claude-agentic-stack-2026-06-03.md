@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "claude.com (Data Science Anthropic)"
+---
 # anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03
 
 ## Veille

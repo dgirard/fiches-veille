@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "YouTube"
+---
 # youtube-educational-content-ai-tutorials-explosion-2025-10-01
 
 ## Veille

@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: BenchmarkDatapoint
 proposed_capability: capability/software-factory
 notes: "Proof-point empirique de premier ordre pour le positionnement FinOps agentique / Optimisation des coûts : un hyperscaler SaaS qui SUPPRIME les token limits et constate output ET qualité en hausse simultanément. Datapoints chiffrés mobilisables en mission (Effective Output +151,3% YoY, migration 18× plus rapide, incidents -5%). Contre-argument direct au réflexe 'couper le budget token'. Aligne avec Gupta (cost per completed outcome) et Greenwald (outcome-based pricing)."
+themes: [agents-codage-ia-skills]
+source: "Salesforce News (Srinivas Tallapragada)"
 ---
 # salesforce-tallapragada-how-engineering-became-agentic-2026-05-27
 

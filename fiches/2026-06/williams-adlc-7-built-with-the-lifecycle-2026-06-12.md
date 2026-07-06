@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "voodootikigod.com (Chris Williams)"
+---
 # williams-adlc-7-built-with-the-lifecycle-2026-06-12
 
 ## Veille

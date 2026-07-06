@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "GitHub (Jesse Vincent / Prime Radiant)"
+---
 # vincent-superpowers-agentic-skills-framework-github-2026-04-02
 
 ## Veille

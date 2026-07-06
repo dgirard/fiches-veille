@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "WeNvision (Olivier Rafal)"
+---
 # rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04
 
 ## Veille

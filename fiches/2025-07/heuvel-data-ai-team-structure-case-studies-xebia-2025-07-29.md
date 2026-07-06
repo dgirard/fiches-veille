@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Xebia"
+---
 # heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29
 
 ## Veille

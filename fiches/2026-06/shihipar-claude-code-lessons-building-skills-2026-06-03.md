@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "claude.com (Thariq Shihipar)"
+---
 # shihipar-claude-code-lessons-building-skills-2026-06-03
 
 ## Veille

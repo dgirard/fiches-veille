@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, economie-marche]
+source: "The Batch / DeepLearning.AI"
+---
 # ng-the-batch-352-no-ai-jobpocalypse-2026-05-08
 
 ## Veille

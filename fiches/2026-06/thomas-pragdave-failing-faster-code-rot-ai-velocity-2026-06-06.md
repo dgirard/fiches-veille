@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Pragdave / Substack (David Thomas)"
+---
 # thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06
 
 ## Veille

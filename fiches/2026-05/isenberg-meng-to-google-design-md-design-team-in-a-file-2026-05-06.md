@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "YouTube (Greg Isenberg podcast)"
+---
 # isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06
 
 ## Veille

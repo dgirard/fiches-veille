@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Liad Yosef (Monday.com)"
+---
 # mcp-ui-conference-monday-liad-yosef-2025-10-18
 
 ## Veille

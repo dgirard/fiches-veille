@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Thinkroom (Kieran Klaassen)"
+---
 # klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02
 
 ## Veille

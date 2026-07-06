@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Block/Square"
+---
 # block-goose-mcp-ui-future-agentic-interfaces-2025-08-25
 
 ## Veille

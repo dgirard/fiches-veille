@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Wescale (présentation FR)"
+---
 # wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03
 
 ## Veille

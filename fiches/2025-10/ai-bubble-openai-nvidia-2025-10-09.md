@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "LinkedIn/Bloomberg"
+---
 # ai-bubble-openai-nvidia-2025-10-09
 ## Veille
 Risque de bulle IA - Investissements circulaires OpenAI/Nvidia - LinkedIn/Bloomberg

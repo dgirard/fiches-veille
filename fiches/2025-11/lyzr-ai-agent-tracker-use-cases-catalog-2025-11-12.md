@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Lyzr AI"
+---
 # lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction, strategie-frameworks]
+source: "Rapport interne · [HTML long](https://raw.githack.com/dgirard/fiches-veille/main"
+---
 # x-algorithm-teardown-growth-recommendations-2026-05-16
 
 ## Veille

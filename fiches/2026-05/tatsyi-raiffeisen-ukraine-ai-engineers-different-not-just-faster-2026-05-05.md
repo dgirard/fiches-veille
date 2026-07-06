@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Medium (Hryhorii Tatsyi)"
+---
 # tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05
 
 ## Veille

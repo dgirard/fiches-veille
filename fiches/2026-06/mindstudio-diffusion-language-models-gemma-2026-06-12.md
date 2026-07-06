@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "MindStudio"
+---
 # mindstudio-diffusion-language-models-gemma-2026-06-12
 
 ## Veille

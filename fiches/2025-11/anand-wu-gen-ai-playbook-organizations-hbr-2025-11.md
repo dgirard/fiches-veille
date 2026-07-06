@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "Harvard Business Review"
+---
 # anand-wu-gen-ai-playbook-organizations-hbr-2025-11
 
 ## Veille

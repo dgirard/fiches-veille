@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Every"
+---
 # shipper-every-building-ai-native-company-2025-11-23
 ## Veille
 Every - Compounding Engineering - Single Developer Products - AI Native - Tacit Knowledge Sharing

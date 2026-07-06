@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, architecture-construction]
+source: "LinkedIn (Tony Seale)"
+---
 # seale-semantic-agent-model-harness-ontology-data-2026-04-17
 
 ## Veille

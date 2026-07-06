@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "RedMonk"
+---
 # vibe-coding-hot-summer-redmonk-2025-09-08
 ## Veille
 Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk

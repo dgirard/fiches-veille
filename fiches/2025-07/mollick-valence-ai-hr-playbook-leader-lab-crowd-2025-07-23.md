@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Valence"
+---
 # mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23
 
 ## Veille

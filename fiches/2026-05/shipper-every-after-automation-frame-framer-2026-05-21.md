@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Every (Dan Shipper)"
+---
 # shipper-every-after-automation-frame-framer-2026-05-21
 
 ## Veille

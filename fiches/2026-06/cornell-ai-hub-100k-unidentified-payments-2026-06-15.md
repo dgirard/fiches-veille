@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: Pattern
 proposed_capability: capability/software-factory
 notes: "Contre-exemple précieux au récit 'AI4Business ne crée pas de valeur' : un cas où l'IA crée une valeur mesurable (100 000 $ récupérés sur un 1er lot, backlog ~1 M$) DANS un processus métier (finance/trésorerie), précisément parce qu'il applique le modèle Lab + Crowd d'Ethan Mollick (AI Hub central + experts métier Treasury) et une discipline 'contexte d'abord, plan puis build' (Claude Code Plan Mode). Datapoints mobilisables : 99% des paiements portent un nom de fournisseur vs <4% un n° de facture ; backtest 9 131 paiements ; 97%→100% de précision avec la chaîne IA ; un semestre de notes → outil en une session. Illustre concrètement le concept Mollick de récompense/preuve visible (vivid win) et de pipeline Crowd→Lab. À relier à [[mollick-making-ai-work-leadership-lab-crowd-2025-05-22]]."
+themes: [transformation-adoption]
+source: "Cornell AI Innovation Hub (Pete Stergion)"
 ---
 # cornell-ai-hub-100k-unidentified-payments-2026-06-15
 

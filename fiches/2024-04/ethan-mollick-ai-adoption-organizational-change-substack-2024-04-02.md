@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "One Useful Thing"
+---
 # ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02
 
 ## Veille

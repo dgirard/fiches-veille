@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "GitHub"
+---
 # deepnote-jupyter-successor-ai-first-github-2025-11-07
 
 ## Veille

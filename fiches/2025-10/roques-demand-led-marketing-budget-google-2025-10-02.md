@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Think with Google"
+---
 # roques-demand-led-marketing-budget-google-2025-10-02
 
 ## Veille

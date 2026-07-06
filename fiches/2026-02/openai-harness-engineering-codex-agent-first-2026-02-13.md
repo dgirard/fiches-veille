@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "OpenAI"
+---
 # openai-harness-engineering-codex-agent-first-2026-02-13
 
 ## Veille

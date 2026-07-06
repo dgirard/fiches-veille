@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every"
+---
 # shipper-klaassen-compound-engineering-every-agents-2025-12-11
 ## Veille
 Compound Engineering : processus 4 étapes (Plan, Work, Assess, Compound) pour équipes qui codent avec agents IA - Every

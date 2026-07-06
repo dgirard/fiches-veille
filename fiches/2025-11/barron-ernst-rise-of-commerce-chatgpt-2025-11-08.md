@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Barron Ernst"
+---
 # barron-ernst-rise-of-commerce-chatgpt-2025-11-08
 
 ## Veille
