@@ -78,7 +78,7 @@ def keywords_list(fiche) -> list[str]:
 def primary_author(auteurs: str) -> str:
     """Auteur principal (heuristique déterministe) pour l'agrégat statistique."""
     head = re.split(r"[(,&]|—|·|/", auteurs, 1)[0]
-    return head.strip()
+    return re.sub(r"[*_`]", "", head).strip()
 
 
 def link_text(titre: str) -> str:
