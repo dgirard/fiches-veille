@@ -24,6 +24,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from fiche_lib import skip_frontmatter  # noqa: E402
+
 # ─── Ontologie v2 — vocabulaires fermés ──────────────────────────────────────
 
 SECTIONS_ATTENDUES = [
@@ -74,16 +77,6 @@ EN_TETE_ENTITES = ["Entité", "Type", "Attribut", "Valeur", "Action"]
 
 # ─── Parsing ─────────────────────────────────────────────────────────────────
 
-def _skip_frontmatter(lines: list[str]) -> list[str]:
-    """Ignore un bloc YAML frontmatter en tête (même logique que
-    extract_fiche_veille() — ne pas régresser ce comportement)."""
-    if lines and lines[0].strip() == "---":
-        for i in range(1, len(lines)):
-            if lines[i].strip() == "---":
-                return lines[i + 1:]
-    return lines
-
-
 def _cells(row: str) -> list[str]:
     """Cellules d'une ligne de tableau markdown, nettoyées (padding toléré)."""
     return [c.strip() for c in row.strip().strip("|").split("|")]
@@ -119,7 +112,7 @@ def _table_rows(lines: list[str], start: int) -> tuple[list[str] | None, list[li
 def lint_text(text: str, nom: str) -> list[str]:
     """Valide le contenu d'une fiche ; retourne la liste des violations (en français)."""
     v: list[str] = []
-    lines = _skip_frontmatter(text.splitlines())
+    lines = skip_frontmatter(text.splitlines())
 
     # 1. Les 10 sections, présentes et dans l'ordre
     titres = [m.group(1).strip() for m in

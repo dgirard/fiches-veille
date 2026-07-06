@@ -19,48 +19,21 @@ EPISTEMIC_TYPES = {"AFFIRMATION", "MESURE", "CITATION"}
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+# Parsing partagé (U1) : source unique de vérité. `extract_fiche_veille` et
+# `parse_markdown_table` restent importables sous ces noms (compat tests).
+from fiche_lib import (  # noqa: E402
+    extract_veille as extract_fiche_veille,
+    parse_markdown_table,
+)
 
-# ─── Parsing & déduplication (inchangés) ─────────────────────────────────────
+
+# ─── Parsing & déduplication ─────────────────────────────────────────────────
 
 
 def normalize_name(name: str) -> str:
     """Normalise un nom d'entité pour la déduplication."""
     return name.strip().lower()
-
-
-def parse_markdown_table(lines: list[str]) -> list[dict]:
-    """Parse un tableau Markdown et retourne une liste de dicts."""
-    rows = []
-    headers = None
-    for line in lines:
-        line = line.strip()
-        if not line.startswith("|"):
-            continue
-        cells = [c.strip() for c in line.split("|")]
-        # Retirer les éléments vides au début et à la fin
-        cells = [c for c in cells if c != "" or cells.index(c) not in (0, len(cells) - 1)]
-        # Nettoyer les cellules vides aux extrémités dues au split
-        while cells and cells[0] == "":
-            cells.pop(0)
-        while cells and cells[-1] == "":
-            cells.pop()
-
-        if not cells:
-            continue
-        # Détecter la ligne de séparateur (---|---)
-        if all(set(c.strip()) <= set("-: ") for c in cells):
-            continue
-        if headers is None:
-            headers = cells
-        else:
-            if len(cells) >= len(headers):
-                row = {headers[i]: cells[i] for i in range(len(headers))}
-            else:
-                row = {}
-                for i, h in enumerate(headers):
-                    row[h] = cells[i] if i < len(cells) else ""
-            rows.append(row)
-    return rows
 
 
 def extract_graphe_connaissance(filepath: str) -> tuple[list[dict], list[dict], str]:
@@ -215,40 +188,6 @@ def entity_to_filename(name: str) -> str:
     if filename.lower().endswith(".md"):
         filename = filename[:-3] + "-md"
     return filename
-
-
-def extract_fiche_veille(filepath: str) -> str:
-    """Extrait la ligne ## Veille d'une fiche pour l'utiliser comme alias.
-
-    Compatibilité v3 (post-review pass 2 du plan ATransverse) :
-    Si le fichier débute par un bloc YAML frontmatter (`---` … `---`),
-    il est ignoré avant d'appliquer la logique d'extraction. Sans ce skip,
-    la première ligne non-`#` rencontrée serait `---` lui-même, qui
-    deviendrait l'alias de la fiche — régression silencieuse de la KB.
-    """
-    try:
-        with open(filepath, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-
-        # Skip optional YAML frontmatter (--- … ---) at the top
-        start_idx = 0
-        if lines and lines[0].strip() == "---":
-            for i in range(1, len(lines)):
-                if lines[i].strip() == "---":
-                    start_idx = i + 1
-                    break
-
-        for line in lines[start_idx:]:
-            line = line.strip()
-            if line.startswith("## Veille"):
-                continue
-            if line.startswith("## "):
-                break
-            if line and not line.startswith("#"):
-                return line
-    except (OSError, UnicodeDecodeError):
-        pass
-    return ""
 
 
 def build_fiche_metadata(fiches_dir: Path) -> tuple[dict, dict]:
