@@ -118,6 +118,15 @@ class TestSplitSections(unittest.TestCase):
         self.assertIn("GrapheDeConnaissance", sec)
         self.assertNotIn("Triples", sec)  # ### ne crée pas de section de 1er niveau
 
+    def test_fenced_pseudo_section_ignore(self):
+        # Une ligne `## X` dans un bloc de code ne doit PAS créer de section.
+        body = ["## Veille", "Exemple :", "```markdown", "## Pas une section",
+                "```", "suite", "## Date", "2026-07-06"]
+        sec = split_sections(body)
+        self.assertNotIn("Pas une section", sec)
+        self.assertEqual(sec["Date"], "2026-07-06")
+        self.assertIn("## Pas une section", sec["Veille"])  # conservé comme contenu
+
 
 class TestParseFiche(unittest.TestCase):
 

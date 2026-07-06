@@ -180,8 +180,11 @@ def split_sections(body_lines: list[str]) -> dict[str, str]:
     sections: dict[str, str] = {}
     current = None
     buf: list[str] = []
+    in_fence = False
     for line in body_lines:
-        m = re.match(r"^##\s+(.+?)\s*$", line)
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+        m = None if in_fence else re.match(r"^##\s+(.+?)\s*$", line)
         if m and not line.startswith("###"):
             if current is not None:
                 sections[current] = "\n".join(buf).strip("\n")
