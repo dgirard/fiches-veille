@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Mistral AI"
+---
 # voxtral-mistral-ai-speech-understanding-2025-07-15
 
 ## Veille

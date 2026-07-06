@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Rippletide"
+---
 # rippletide-agent-reliability-enterprise-architecture-2025-10-29
 
 ## Veille

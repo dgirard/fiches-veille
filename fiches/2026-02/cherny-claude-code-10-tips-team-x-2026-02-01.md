@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Boris Cherny (X/Twitter)"
+---
 # cherny-claude-code-10-tips-team-x-2026-02-01
 ## Veille
 Conseils utilisation Claude Code par équipe Anthropic - 10 astuces productivité

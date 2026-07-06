@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Addy Osmani"
+---
 # osmani-how-write-good-spec-ai-agents-2026-01-13
 
 ## Veille

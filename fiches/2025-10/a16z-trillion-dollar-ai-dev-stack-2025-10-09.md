@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "a16z"
+---
 # a16z-trillion-dollar-ai-dev-stack-2025-10-09
 ## Veille
 Stack IA développement logiciel - Marché 1T$ - Productivité développeur - a16z

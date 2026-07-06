@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Google"
+---
 # gemini-25-flash-lite-stable-ga-google-2025-07-22
 
 ## Veille

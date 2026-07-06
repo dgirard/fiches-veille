@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "World Bank"
+---
 # worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12
 ## Veille
 Banque Mondiale : IA générative et éducation au Nigeria - RCT avec résultats transformateurs

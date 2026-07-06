@@ -1,3 +1,7 @@
+---
+themes: [politique-regulation]
+source: "YouTube / République"
+---
 # lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic (X/Twitter)"
+---
 # trq212-anthropic-claude-code-prompt-caching-lessons-2026-02
 ## Veille
 Leçons prompt caching Claude Code : architecture cache, plan mode, compaction, optimisation coûts et latence

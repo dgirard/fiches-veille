@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "OpenAI"
+---
 # openai-agentic-ai-foundation-linux-2025-12-09
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Deep Research"
+---
 # almia-ag2r-plateforme-ia-generative-deep-research-2026-03
 
 ## Veille

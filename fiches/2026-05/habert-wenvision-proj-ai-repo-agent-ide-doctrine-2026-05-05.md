@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "WEnvision (Antoine HABERT)"
+---
 # habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05
 
 ## Veille

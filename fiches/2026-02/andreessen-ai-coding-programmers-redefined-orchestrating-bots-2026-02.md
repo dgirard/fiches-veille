@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, philosophie-societe]
+source: "Marc Andreessen (X/Twitter)"
+---
 # andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02
 ## Veille
 Andreessen : l'IA redéfinit les programmeurs - orchestration de bots de codage

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "FinOps Foundation"
+---
 # finops-foundation-finops-for-ai-overview-2026-02-17
 
 ## Veille

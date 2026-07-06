@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "LangChain (Vivek Trivedy)"
+---
 # trivedy-langchain-anatomy-agent-harness-2026-03-10
 
 ## Veille

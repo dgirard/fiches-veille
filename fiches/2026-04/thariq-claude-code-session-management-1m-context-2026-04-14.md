@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "X (Thariq/Anthropic)"
+---
 # thariq-claude-code-session-management-1m-context-2026-04-14
 
 ## Veille

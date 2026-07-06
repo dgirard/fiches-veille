@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, transformation-adoption]
+source: "Anthropic"
+---
 # anthropic-agentic-coding-trends-report-2026-02
 ## Veille
 Rapport tendances codage agentique 2026, multi-agents, supervision humaine, démocratisation, sécurité

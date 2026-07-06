@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # claude-frontend-design-skills-anthropic-2025-11-12
 
 ## Veille

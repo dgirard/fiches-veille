@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "OpenAI"
+---
 # chen-fioca-openai-future-proof-coding-agents-2025-11-23
 ## Veille
 Construire des agents de codage pérennes face aux cycles de modèles : architecture Harness, Codex SDK et Computer Use terminal — retour d'expérience OpenAI

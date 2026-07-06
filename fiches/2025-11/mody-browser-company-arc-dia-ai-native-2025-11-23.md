@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "The Browser Company"
+---
 # mody-browser-company-arc-dia-ai-native-2025-11-23
 ## Veille
 The Browser Company - Arc Browser - Dia Browser - AI Native Product - Prompt Injection - Model Behavior

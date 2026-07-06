@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite, recherche-education]
+source: "SSRN"
+---
 # ssrn-persona-prompting-ai-accuracy-2025-12-07
 
 ## Veille

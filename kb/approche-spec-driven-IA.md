@@ -11,21 +11,21 @@
 ### permet
 
 - [[kb/_entites-mineures#100%-code-généré-par-IA\|100% code généré par IA]] (CONCEPT) — 0.92, DYNAMIQUE
-  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
 ### s_applique_à
 
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] (CONCEPT) — 0.93, STATIQUE
-  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
 ### utilise
 
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] (CONCEPT) — 0.97, ATEMPOREL
-  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 - [[kb/_entites-mineures#capitalisation-continue\|capitalisation continue]] (CONCEPT) — 0.93, ATEMPOREL
-  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+  - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
 ## Relations (comme objet)
 
@@ -36,4 +36,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle IA générative développement logiciel 100% code généré, onboarding LLM, tâches atomiques, spec-driven, capitalisation continue - Soufiane Keli - OCTO Technology - LinkedIn]]
+- [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]

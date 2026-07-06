@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "thariqs.github.io/html-effectiveness (X / blog Thariq Shihipar)"
+---
 # shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10
 
 ## Veille

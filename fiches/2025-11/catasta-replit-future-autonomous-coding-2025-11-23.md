@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Replit"
+---
 # catasta-replit-future-autonomous-coding-2025-11-23
 ## Veille
 Futur du codage autonome - Vision et implémentation chez Replit - VP IA développement automatisé

@@ -13,28 +13,28 @@
 ### est_instance_de
 
 - [[kb/_entites-mineures#projet-open-source\|projet open source]] (CONCEPT) — 0.97, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 - [[kb/_entites-mineures#plateforme-de-données-contextuelles\|plateforme de données contextuelles]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ### mesure
 
 - « 1 721 étoiles GitHub (2025-12-11) » (MESURE) — 0.85, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ### permet
 
 - [[kb/_entites-mineures#auto-apprentissage-des-agents\|auto-apprentissage des agents]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 - [[kb/_entites-mineures#observabilité-des-agents\|observabilité des agents]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Python-et-JavaScript-TypeScript\|Python et JavaScript/TypeScript]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] (METHODOLOGIE) — 0.88, DYNAMIQUE
-  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+  - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ## Relations (comme objet)
 
@@ -43,4 +43,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext (memodb-io) - plateforme open-source de données contextuelles pour agents IA cloud-native - context engineering, observabilité, distillation de compétences - GitHub]]
+- [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]

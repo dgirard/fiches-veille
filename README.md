@@ -6,9 +6,68 @@ Documentation personnelle de veille technologique sur l'intelligence artificiell
 
 Ce dépôt contient une collection de fiches d'analyse d'articles techniques, organisées par mois de publication et classées par thématiques. L'objectif est de suivre l'évolution rapide de l'écosystème IA et son impact sur l'ingénierie logicielle.
 
-**Période couverte** : Décembre 1975 - Avril 2026
-**Total d'articles** : 215 fiches
-**Knowledge Base** : 1431 entités, 2731 triples
+<!-- stats:begin -->
+
+- **Total** : 327 fiches
+- **Par année** : 2026 (151) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Par thème** :
+  - Agents de codage IA & Skills : 110
+  - Architecture & Construction : 33
+  - Transformation & Adoption : 62
+  - Qualité & Sécurité : 24
+  - Économie & Marché : 52
+  - Philosophie & Société : 15
+  - Stratégie & Frameworks : 8
+  - Outils & Plateformes : 21
+  - Recherche & Éducation : 9
+  - Produits & Services : 6
+  - Politique & Régulation : 8
+- **Auteurs (top 20)** :
+  - Ethan Mollick (11)
+  - Anthropic (8)
+  - Chris Williams (7)
+  - Deep Research Veille Interne (7)
+  - Philippe Ensarguet (6)
+  - Addy Osmani (6)
+  - Kieran Klaassen (4)
+  - Olivier Rafal (4)
+  - OpenAI (4)
+  - Thariq Shihipar (3)
+  - Simon Willison (3)
+  - Andrew Ng (3)
+  - Dan Shipper (3)
+  - Boris Cherny (3)
+  - Kent Beck (3)
+  - Jesse Vincent (3)
+  - Cobus Greyling (3)
+  - Jaya Gupta (2)
+  - Finout (2)
+  - Tony Seale (2)
+- **Sources (top 20)** :
+  - Anthropic (13)
+  - voodootikigod.com (Chris Williams) (7)
+  - Deep Research (7)
+  - Google (7)
+  - LinkedIn (6)
+  - OpenAI (5)
+  - Ethan Mollick (4)
+  - GitHub (4)
+  - One Useful Thing (4)
+  - Addy Osmani (3)
+  - a16z (3)
+  - LinkedIn (Philippe Ensarguet) (2)
+  - CIO-Online (Olivier Rafal) (2)
+  - The Batch / DeepLearning.AI (2)
+  - Finout (2)
+  - Kent Beck (2)
+  - Anthropic (X/Twitter) (2)
+  - Tessl (2)
+  - Stripe Engineering (2)
+  - Martin Fowler (2)
+
+<!-- stats:end -->
+
+_Statistiques générées par `scripts/build_index.py`._
 
 ## Structure du projet
 

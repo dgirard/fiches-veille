@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "The Batch / DeepLearning.AI"
+---
 # ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24
 
 ## Veille

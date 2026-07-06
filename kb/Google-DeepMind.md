@@ -11,35 +11,35 @@
 ### a_créé
 
 - [[kb/Genie-3\|Genie 3]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ### affirme_que
 
 - « les world models résolvent un problème plus difficile que les modèles vidéo » (AFFIRMATION) — 0.97, ATEMPOREL
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 - « Interactions API est complémentaire de generateContent » (AFFIRMATION) — 0.88, DYNAMIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 
 ### fait_partie_de
 
 - [[kb/Google\|Google]] (ORGANISATION) — 0.99, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### prédit
 
 - « simulation indistinguable de la réalité » (AFFIRMATION) — 0.82, DYNAMIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ### publie
 
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 - [[kb/Genie-3\|Genie 3]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
+  - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/Interactions-API\|Interactions API]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
+  - [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 - [[kb/_entites-mineures#Genie-2\|Genie 2]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
+  - [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
 
 ## Relations (comme objet)
 
@@ -49,7 +49,7 @@
 
 ## Fiches sources
 
-- [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|API Interactions Google DeepMind - interface unifiée modèles et agents Gemini]]
-- [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie - Modèles de monde interactifs temps réel Google DeepMind]]
-- [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Genie 3 — modèle de génération vidéo interactive : world models, génération contrôlable, jeux jouables générés par IA (deepmind.google)]]
-- [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|Vibe Coding - Été 2025 - Développement intuitif assisté IA - Sécurité et coûts - RedMonk]]
+- [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
+- [[fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02\|Project Genie: Interactive World Models with Genie 3]]
+- [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
+- [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # agent-skills-anthropic-2025-10-16
 
 ## Veille

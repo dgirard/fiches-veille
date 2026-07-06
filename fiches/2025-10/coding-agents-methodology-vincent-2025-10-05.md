@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Jesse Vincent"
+---
 # coding-agents-methodology-vincent-2025-10-05
 ## Veille
 Méthodologie d'utilisation agents IA pour développement - Workflow multi-sessions - Blog Fsck

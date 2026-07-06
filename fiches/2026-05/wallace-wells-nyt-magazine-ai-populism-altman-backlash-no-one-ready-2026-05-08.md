@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe, politique-regulation]
+source: "NYT Magazine (David Wallace-Wells)"
+---
 # wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08
 
 ## Veille

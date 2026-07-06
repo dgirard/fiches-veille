@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Substack"
+---
 # compounding-teams-schillace-2025-09-28
 ## Veille
 Équipes à effet multiplicateur - Développement IA récursif - Productivité exponentielle - Substack

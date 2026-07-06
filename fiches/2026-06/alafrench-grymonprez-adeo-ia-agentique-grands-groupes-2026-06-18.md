@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "YouTube / À la French"
+---
 # alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Ethan Mollick"
+---
 # opinionated-guide-ai-mollick-2025-10-19
 
 ## Veille

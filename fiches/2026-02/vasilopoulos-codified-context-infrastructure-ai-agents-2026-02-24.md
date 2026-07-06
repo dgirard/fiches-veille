@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "arXiv"
+---
 # vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24
 ## Veille
 Infrastructure contexte codifié pour agents IA : architecture 3 tiers, mémoire persistante, 283 sessions, MCP, agents spécialisés, codebase complexe

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Ahrefs blog (Ryan Law)"
+---
 # law-ahrefs-content-engineering-claude-code-2026-04-28
 
 ## Veille

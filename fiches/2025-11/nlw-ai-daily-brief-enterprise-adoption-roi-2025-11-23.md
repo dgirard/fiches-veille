@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "AI Daily Brief"
+---
 # nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23
 ## Veille
 Enterprise AI Adoption - ROI Survey - AI Bubble Narrative - Transformational Impact - Leadership vs Laggards

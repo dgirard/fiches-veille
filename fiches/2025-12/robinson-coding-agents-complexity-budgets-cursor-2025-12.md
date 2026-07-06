@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Lee Robinson"
+---
 # robinson-coding-agents-complexity-budgets-cursor-2025-12
 
 ## Veille

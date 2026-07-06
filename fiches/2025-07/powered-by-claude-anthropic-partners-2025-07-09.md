@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Anthropic"
+---
 # powered-by-claude-anthropic-partners-2025-07-09
 
 ## Veille

@@ -12,23 +12,23 @@
 ### a_créé
 
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
+  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ### affirme_que
 
 - « la qualité des tests est critique pour les agents autonomes » (AFFIRMATION) — 0.97, ATEMPOREL
-  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
+  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ### travaille_chez
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.99, DYNAMIQUE
-  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
+  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ### utilise
 
 - [[kb/agents-parallèles\|agents parallèles]] (METHODOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
+  - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ## Fiches sources
 
-- [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic]]
+- [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]

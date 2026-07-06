@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "LinkedIn (Simon Wardley)"
+---
 # wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27
 
 ## Veille

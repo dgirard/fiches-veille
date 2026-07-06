@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Riskified/Jerusalem Post"
+---
 # novik-ai-online-shopping-consumers-2025-10-26
 
 ## Veille

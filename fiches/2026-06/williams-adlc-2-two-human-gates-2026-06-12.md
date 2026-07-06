@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "voodootikigod.com (Chris Williams)"
+---
 # williams-adlc-2-two-human-gates-2026-06-12
 
 ## Veille

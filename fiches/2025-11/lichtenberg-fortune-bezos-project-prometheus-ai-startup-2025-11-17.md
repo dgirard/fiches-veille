@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Fortune"
+---
 # lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17
 
 ## Veille

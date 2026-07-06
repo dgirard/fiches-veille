@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Orq.ai (Sohrab Hosseini)"
+---
 # orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15
 
 ## Veille

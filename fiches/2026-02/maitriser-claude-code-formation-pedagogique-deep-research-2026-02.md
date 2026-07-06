@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, recherche-education]
+source: "Deep Research"
+---
 # maitriser-claude-code-formation-pedagogique-deep-research-2026-02
 ## Veille
 Formation complète Claude Code : 12 modules pédagogiques coding agentique - Deep Research

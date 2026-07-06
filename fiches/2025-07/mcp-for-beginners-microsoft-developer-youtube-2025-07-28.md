@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "Microsoft Developer"
+---
 # mcp-for-beginners-microsoft-developer-youtube-2025-07-28
 
 ## Veille

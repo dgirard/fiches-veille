@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every (Kieran Klaassen)"
+---
 # klaassen-compound-engineering-definitive-guide-every-2026-02-09
 
 ## Veille

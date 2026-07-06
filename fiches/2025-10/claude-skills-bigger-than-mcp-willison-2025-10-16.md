@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Simon Willison"
+---
 # claude-skills-bigger-than-mcp-willison-2025-10-16
 ## Veille
 Claude Skills vs MCP - Simplicité élégante - Explosion cambrienne prédite - Simon Willison

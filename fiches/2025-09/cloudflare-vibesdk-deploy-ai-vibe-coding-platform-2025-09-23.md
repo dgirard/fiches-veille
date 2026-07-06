@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Cloudflare"
+---
 # cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23
 
 ## Veille

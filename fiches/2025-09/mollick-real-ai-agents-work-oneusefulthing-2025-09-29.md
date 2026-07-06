@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, transformation-adoption]
+source: "Ethan Mollick"
+---
 # mollick-real-ai-agents-work-oneusefulthing-2025-09-29
 
 ## Veille

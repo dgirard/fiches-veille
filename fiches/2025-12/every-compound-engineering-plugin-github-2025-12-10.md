@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every (GitHub)"
+---
 # every-compound-engineering-plugin-github-2025-12-10
 
 ## Veille

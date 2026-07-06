@@ -11,17 +11,17 @@
 ### améliore
 
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.97, ATEMPOREL
-  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
+  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
 
 ### est_basé_sur
 
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
+  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
 
 ### utilise
 
 - [[kb/_entites-mineures#modèle-de-domaine\|modèle de domaine]] (CONCEPT) — 0.97, ATEMPOREL
-  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
+  - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
 
 ## Relations (comme objet)
 
@@ -30,4 +30,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson - LLM - Domain Model - Embabel]]
+- [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]

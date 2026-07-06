@@ -1,3 +1,7 @@
+---
+themes: [economie-marche, politique-regulation]
+source: "YouTube (commission d'enquête Assemblée nationale, ~1h15)"
+---
 # mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Northwestern Mutual"
+---
 # bord-northwestern-mutual-genbi-enterprise-2025-11-23
 ## Veille
 Construire la GenBI dans une entreprise Fortune 100 averse au risque (Northwestern Mutual) : petits paris, déploiement incrémental, agents spécialisés et démocratisation des données

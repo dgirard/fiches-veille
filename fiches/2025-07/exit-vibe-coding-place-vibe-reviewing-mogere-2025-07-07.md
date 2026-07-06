@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Alexandre Mogère"
+---
 # exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07
 
 ## Veille

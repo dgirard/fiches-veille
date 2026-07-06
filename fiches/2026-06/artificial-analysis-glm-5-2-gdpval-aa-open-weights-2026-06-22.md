@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Artificial Analysis"
+---
 # artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22
 
 ## Veille

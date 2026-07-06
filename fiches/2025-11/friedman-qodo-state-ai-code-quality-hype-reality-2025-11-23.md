@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "QodoAI"
+---
 # friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23
 ## Veille
 QodoAI (Codium) - AI Code Quality - Code Review Agents - Context Engine - SDLC Automation

@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Stripe Engineering"
+---
 # gray-stripe-minions-coding-agents-part2-2026-02-19
 
 ## Veille

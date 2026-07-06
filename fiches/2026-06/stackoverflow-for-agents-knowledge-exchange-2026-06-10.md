@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Stack Overflow Blog"
+---
 # stackoverflow-for-agents-knowledge-exchange-2026-06-10
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Google Cloud"
+---
 # dora-report-2025-ai-software-dev-2025-09-23
 ## Veille
 Rapport DORA 2025 - IA amplifie performance équipes - Google Cloud Blog

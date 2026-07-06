@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Fin Ideas / Substack (Darragh Curran, Intercom)"
+---
 # curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16
 
 ## Veille

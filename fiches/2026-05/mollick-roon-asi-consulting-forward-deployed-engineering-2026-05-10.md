@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "LinkedIn (Ethan Mollick × roon OpenAI)"
+---
 # mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10
 
 ## Veille

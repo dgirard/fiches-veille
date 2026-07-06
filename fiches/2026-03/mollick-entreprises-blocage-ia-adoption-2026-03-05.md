@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "LinkedIn"
+---
 # mollick-entreprises-blocage-ia-adoption-2026-03-05
 ## Veille
 Blocage adoption IA en entreprise par IT/juridique, fossé entre entreprises innovantes et frileuses, leadership et gestion du risque - LinkedIn

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "McKinsey"
+---
 # harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23
 ## Veille
 McKinsey - Software Delivery - Agile Transition - AI Native Workflows - Spec-driven Development

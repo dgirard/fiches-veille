@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Every Source Code"
+---
 # klaassen-teach-ai-think-senior-engineer-every-2025-11-07
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "AISI UK (gouv.)"
+---
 # aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30
 ## Veille
 

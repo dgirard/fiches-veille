@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Mathias Garcia"
+---
 # mistral-cli-european-alternative-claude-code-garcia-2025-07-01
 
 ## Veille

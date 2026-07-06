@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "The Strategy Stack (Alex Pawlowski)"
+---
 # pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Medium/WSJ"
+---
 # ahrens-meta-manus-acquisition-agentic-ai-2026-01-01
 
 ## Veille

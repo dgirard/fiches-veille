@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Knowledge Graph Guys"
+---
 # seale-philosophy-eats-ai-ontological-core-2025-05-30
 ## Veille
 Philosophie mange l'IA : noyau ontologique entreprise, sémantique métier, knowledge graph, semantic data products

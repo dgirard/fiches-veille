@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "PlatformCon 2022 / platformengineering.org (Gregor Hohpe / AWS)"
+---
 # hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06
 
 ## Veille

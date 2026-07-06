@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Sourcegraph/IT Revolution"
+---
 # yegge-kim-year-ide-died-vibe-coding-2025-11-23
 ## Veille
 Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution

@@ -1,3 +1,7 @@
+---
+themes: [politique-regulation]
+source: "X (Ahmad Osman)"
+---
 # osman-anthropic-war-on-opensource-ai-2026-06-12
 
 ## Veille

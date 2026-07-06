@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption, economie-marche]
+source: "thoughtworks.com/ai/works"
+---
 # thoughtworks-aiworks-agentic-development-platform-2026-05-12
 
 ## Veille

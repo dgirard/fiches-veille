@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: Concept
 proposed_capability: capability/software-factory
 notes: "Texte fondateur (déc. 2024) de l'outcome-based pricing pour agents IA — référence canonique pour le discours value-based / coût par outcome du cabinet. Sous-tend Gupta (cost of completed outcome), Bain (outcome-based pricing shift), Ng (pricing ancré sur le travail). À mobiliser pour le positionnement tarification de la delivery agentique."
+themes: [economie-marche]
+source: "Sierra Blog (Elliot Greenwald)"
 ---
 # greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10
 

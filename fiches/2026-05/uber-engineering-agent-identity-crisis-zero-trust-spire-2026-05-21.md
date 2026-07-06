@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction, qualite-securite]
+source: "uber.com/blog"
+---
 # uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21
 
 ## Veille

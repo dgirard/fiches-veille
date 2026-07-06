@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "Perplexity"
+---
 # perplexity-chrome-integration-browser-ai-search-2025-10-22
 
 ## Veille

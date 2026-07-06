@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "SFEIR"
+---
 # sfeir-sdlc-ia-cycle-11-phases-2026-06-16
 
 ## Veille

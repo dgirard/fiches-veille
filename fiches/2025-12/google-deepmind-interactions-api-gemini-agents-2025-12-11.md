@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Google DeepMind"
+---
 # google-deepmind-interactions-api-gemini-agents-2025-12-11
 
 ## Veille

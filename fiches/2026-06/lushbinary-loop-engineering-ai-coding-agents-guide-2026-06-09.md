@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Lushbinary"
+---
 # lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09
 
 ## Veille

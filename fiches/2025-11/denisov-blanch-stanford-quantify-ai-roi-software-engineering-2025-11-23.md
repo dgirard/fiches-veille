@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Stanford"
+---
 # denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23
 ## Veille
 Stanford Research - AI ROI Measurement - Developer Productivity - Metrics Framework - AI Adoption Gap

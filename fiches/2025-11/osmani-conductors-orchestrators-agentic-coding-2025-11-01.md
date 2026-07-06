@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills, transformation-adoption]
+source: "Addy Osmani"
+---
 # osmani-conductors-orchestrators-agentic-coding-2025-11-01
 
 ## Veille

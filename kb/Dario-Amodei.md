@@ -1,32 +1,40 @@
 # Dario Amodei
 
-> **Type** : PERSONNE | 5 relations | 1 fiches sources
+> **Type** : PERSONNE | 7 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : CEO d'Anthropic
+- **rôle** : PDG d'Anthropic (interview ABC, 11 juin 2026)
 
 ## Relations (comme sujet)
 
 ### affine
 
 - [[kb/_entites-mineures#définition-du-vibe-coding\|définition du vibe coding]] (CONCEPT) — 0.85, STATIQUE
-  - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+  - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]
 
 ### affirme_que
 
 - « "white-collar blood bath" » (CITATION) — 0.97, STATIQUE
-  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - « "this lack of understanding is essentially unprecedented in the history of technology" (2024) » (CITATION) — 0.96, STATIQUE
-  - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|**David Wallace-Wells** publie dans le **NYT Magazine** le **8 mai 2026** un article-pivot politique majeur (~16 min lecture audio) qui formalise et nomme le retour de bâton populiste contre l'industrie IA : ***"A.I. Populism Is Here. And No One Is Ready."*** Sous-titre cinglant : *"Silicon Valley oligarchs worried about the risks their technology posed to the world. They forgot about people."* **Thèse-pivot** : les fondateurs IA (Altman, Amodei, Musk, Zuckerberg, Hassabis) ont passé une décennie obsédés par les risques **existentiels** de leur technologie tout en **négligeant le risque politique** d'un backlash humain — qu'ils pensaient *"wouldn't materialize in time, would be quickly outmaneuvered by machine intelligence or could be bought off by talk of basic-income payments or thin promises of curing cancer"*. **Le backlash a frappé littéralement** : avril 2026, **cocktail Molotov** lancé sur la propriété Altman à San Francisco, puis quelques jours plus tard **attaque par armes à feu** sur sa maison. Wallace-Wells reprend la formule de **Jasmine Sun** (NYT Opinion 2026-04-30, déjà au dossier) : ***"A.I. populism's warning shots"*** — analogie avec l'assassinat du CEO UnitedHealthcare Brian Thompson par Luigi Mangione. **Cinq laboratoires comme nouveaux visages de l'oligarchie américaine** : *"a fearsome concentration of economic and social power producing a self-compounding pattern of extreme inequality"* — Sam (Altman), Dario (Amodei), Elon (Musk), Mark (Zuckerberg), Demis (Hassabis), tous milliardaires ou presque, *"several of whom are widely described as sociopaths"*. **Statistiques choc** : Pew Research 2025 — **50% Américains plus inquiets qu'enthousiastes**, **seulement 10% plus enthousiastes** ; Quinnipiac récent — **seul le bracket >200k$ revenus a une vue optimiste de l'IA pour la vie quotidienne** ; Heatmap polling — basculement support/opposition data centers de **+2 pts (sept 2025) à −24 pts (févr 2026)**, soit **swing 26 points en 4 mois** ; Northern Virginia 2023-2025 — **swing 69 points contre data centers** (+45 → −24). **Loudon County** : data centers généreront **1,3 Md$ sur 2,9 Md$** de revenus fiscaux en 2027 (~45%). **Asymétrie investissement-logement** : États-Unis ont **dépensé plus en infrastructure IA qu'en single-family homes** en 2025, **10× plus de data centers que l'Allemagne** (#2), **20× plus d'investissement IA que la Chine** (#2), pendant **crise du logement de 10 millions d'unités manquantes**. **Citation centrale Ted Chiang (BuzzFeed 2017)** mobilisée : *"When Silicon Valley tries to imagine superintelligence, what it comes up with is no-holds-barred capitalism."* **Citation Dario Amodei (Anthropic, 2024)** : *"People outside the field are often surprised and alarmed to learn that we do not understand how our own A.I. creations work. They are right to be concerned: this lack of understanding is essentially unprecedented in the history of technology."* **Pivot politique signalé** : la **Maison-Blanche** propose de forcer un **federal review de tous les nouveaux modèles propriétaires avant release** — virage majeur après position pro-industry. **Catalyseur** : refus public **Anthropic** d'**avril 2026** de release **Claude Mythos**, modèle capable de *"find and exploit security vulnerabilities in every tested piece of software, including those used in critical pieces of global I.T. infrastructure"* (déjà au dossier via fiche **AISI UK GPT-5.5 / Mythos** 2026-04-30). **Citation Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale)** : *"This giant acid vat which would dissolve the mediating institutions most Americans see as society. It will not be A.I. in government. It's going to be A.I. as governments."* **Concept Jeffrey Ding** : *"diffusion marathon"* (vs winner-take-all race) — l'IA comme *general-purpose technology* (steam, electricity, internet) où la **diffusion** compte plus que l'**état de l'art**. **Conclusion-pivot** : *"We still know the names of the robber barons, and live still somewhat in their shadows. But we are not their serfs. Are we sure A.I. will be different?"* Pertinence majeure pour le dossier 2026 : **formalisation conceptuelle du backlash politique** anticipé par Sun (avril) et signalé par Ng The Batch (cocktail Molotov Altman, ~64 Md$ data centers bloqués, moratoire Maine 20MW+). À mobiliser pour COMEX géopolitique IA, débats régulation, présentations stratégiques sur risques sociétaux et politiques de l'IA, articulation FR / Europe sur la rétro-action politique de l'IA.]]
+  - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 - « le vibe coding est une conversation itérative qui résulte en IA écrivant votre code » (AFFIRMATION) — 0.95, ATEMPOREL
-  - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+  - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]
+- « "I don't trust China at all" » (CITATION) — 0.90, STATIQUE
+  - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### dirige
+
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### prédit
 
 - « 50% emplois junior white-collar disparus d'ici 2030 » (MESURE) — 0.97, STATIQUE
-  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Tribune-enquête majeure de Jasmine Sun (NYT Opinion, 30 avril 2026) sur le *San Francisco consensus* : la peur du *permanent underclass* — théorie virale selon laquelle l'IA pourrait figer la mobilité économique et créer une classe rendue inutile par l'automatisation. L'article documente la dissonance interne des labs (Amodei sur "white-collar blood bath" et 50% des emplois junior white-collar disparus d'ici 2030 ; Altman 2021 → silence Lehane → white paper *Industrial Policy for the Intelligence Age* avril 2026 ; Anthropic Institute mars 2026 dirigé par Jack Clark), les benchmarks orientant la R&D vers le remplacement humain (A.I. Productivity Index, GDPVal OpenAI : *"over 80% win rate compared to human professionals"* en quelques mois), les actions corporate (Block/Dorsey -50% effectifs avec Opus 4.6 + Codex 5.3, ARR Anthropic 30B$ contre 9B$ fin 2025), et la stratégie politique Shor (79% des votants inquiets, jobs guarantee > UBI, *"They work for the bots. We work for you."*). Référence du dossier *AI labor 2026*.]]
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
 ## Fiches sources
 
-- [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|Mort de l'IDE traditionnel et émergence du Vibe Coding - Nouvelle ère développement IA - Sourcegraph IT Revolution]]
+- [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]

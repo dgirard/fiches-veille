@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Y Combinator"
+---
 # workweave-loom-ai-team-comms-y-combinator-2023-10-01
 
 ## Veille

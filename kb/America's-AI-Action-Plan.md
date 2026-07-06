@@ -13,24 +13,24 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#executive-order-Removing-Barriers-to-American-Leadership-in-AI\|executive order "Removing Barriers to American Leadership in AI"]] (DOCUMENT) — 0.98, STATIQUE
-  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 - [[kb/_entites-mineures#trois-piliers-stratégiques\|trois piliers stratégiques]] (CONCEPT) — 0.97, STATIQUE
-  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
 ### prédit
 
 - « un nouvel âge d'or de prospérité humaine » (AFFIRMATION) — 0.85, ATEMPOREL
-  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
 ### s_applique_à
 
 - [[kb/_entites-mineures#nations-alliées\|nations alliées]] (CONCEPT) — 0.90, DYNAMIQUE
-  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
 ### soutient
 
 - [[kb/_entites-mineures#domination-américaine-en-IA\|domination américaine en IA]] (CONCEPT) — 0.96, ATEMPOREL
-  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+  - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
 ## Relations (comme objet)
 
@@ -39,4 +39,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|Maison-Blanche — « America's AI Action Plan » : stratégie IA de l'administration Trump, 90+ actions fédérales, infrastructure, export, sécurité nationale (whitehouse.gov)]]
+- [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]

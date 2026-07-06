@@ -11,17 +11,17 @@
 ### remplace
 
 - [[kb/_entites-mineures#SEO\|SEO]] (CONCEPT) — 0.92, DYNAMIQUE
-  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 
 ### s_applique_à
 
 - [[kb/_entites-mineures#Product-Questions\|Product Questions]] (CONCEPT) — 0.88, ATEMPOREL
-  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 
 ### utilise
 
 - [[kb/_entites-mineures#contenu-factuellement-précis\|contenu factuellement précis]] (CONCEPT) — 0.91, ATEMPOREL
-  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+  - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 
 ## Relations (comme objet)
 
@@ -30,4 +30,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|AEO (Answer Engine Optimization) - SEO - Moteurs de réponse IA - Graphite]]
+- [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]

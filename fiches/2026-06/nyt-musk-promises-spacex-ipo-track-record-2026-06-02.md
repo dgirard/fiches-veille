@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "The New York Times"
+---
 # nyt-musk-promises-spacex-ipo-track-record-2026-06-02
 
 ## Veille

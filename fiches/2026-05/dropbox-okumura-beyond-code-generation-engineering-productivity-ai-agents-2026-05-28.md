@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: Framework
 proposed_capability: capability/software-factory
 notes: "Modèle de mesure en 4 étages Fuel → Adoption → Output → Impact directement mobilisable pour le positionnement Productivité d'ingénierie / FinOps agentique : déplace le KPI de l'output (PR throughput) vers le system outcome (idea→customer value). Thèse 'bottleneck-shifting' (l'IA ne supprime pas les goulots, elle les déplace en aval) + 'l'avantage vient des systèmes autour des modèles, pas des modèles'. Converge avec Salesforce Effective Output, Gupta token-to-outcome, DORA. Présenté à DX Annual 2026."
+themes: [agents-codage-ia-skills]
+source: "Dropbox Tech (Kazuaki Okumura)"
 ---
 # dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28
 

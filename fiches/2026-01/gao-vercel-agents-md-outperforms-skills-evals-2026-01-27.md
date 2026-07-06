@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Vercel"
+---
 # gao-vercel-agents-md-outperforms-skills-evals-2026-01-27
 ## Veille
 AGENTS.md surpasse les skills dans les évaluations agents Vercel/Next.js

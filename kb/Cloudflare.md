@@ -11,18 +11,18 @@
 ### a_créé
 
 - [[kb/_entites-mineures#Markdown-for-Agents\|Markdown for Agents]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
+  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[kb/_entites-mineures#Content-Signals\|Content Signals]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
+  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
-  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
+  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE) — 0.90, STATIQUE
-  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
+  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
 ### publie
 
 - [[kb/VibeSDK\|VibeSDK]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
+  - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
 ## Relations (comme objet)
 
@@ -32,5 +32,5 @@
 
 ## Fiches sources
 
-- [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|VibeSDK - Plateforme vibe coding open-source - Cloudflare Sandboxes - Workers for Platforms - AI Gateway - Déploiement one-click - Cloudflare]]
-- [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Cloudflare — conversion HTML vers Markdown en temps réel pour agents IA via négociation de contenu HTTP]]
+- [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
+- [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]

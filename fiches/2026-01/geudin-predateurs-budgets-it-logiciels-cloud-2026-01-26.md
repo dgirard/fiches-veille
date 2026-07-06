@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "CIO Online"
+---
 # geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26
 
 ## Veille

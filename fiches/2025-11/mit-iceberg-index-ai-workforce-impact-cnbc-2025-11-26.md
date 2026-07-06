@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "CNBC"
+---
 # mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26
 
 ## Veille

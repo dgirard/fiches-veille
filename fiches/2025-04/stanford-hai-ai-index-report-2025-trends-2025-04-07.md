@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Stanford HAI"
+---
 # stanford-hai-ai-index-report-2025-trends-2025-04-07
 
 ## Veille

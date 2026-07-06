@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "X (Trevin Chow)"
+---
 # chow-compound-engineering-v260-review-pipeline-2026-03-31
 
 ## Veille

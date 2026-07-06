@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Gartner"
+---
 # gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29
 
 ## Veille

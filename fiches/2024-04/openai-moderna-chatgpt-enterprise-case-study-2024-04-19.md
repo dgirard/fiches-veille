@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "OpenAI"
+---
 # openai-moderna-chatgpt-enterprise-case-study-2024-04-19
 
 ## Veille

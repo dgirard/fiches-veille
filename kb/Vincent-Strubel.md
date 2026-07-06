@@ -11,15 +11,15 @@
 ### affirme_que
 
 - « les offres hybrides satisfont exactement les mêmes exigences que les autres offres qualifiées » (AFFIRMATION) — 0.92, ATEMPOREL
-  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
+  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 - « « SecNumCloud ne signifie pas l'absence de dépendance » » (CITATION) — 0.90, ATEMPOREL
-  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
+  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
 ### dirige
 
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION) — 0.98, DYNAMIQUE
-  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
+  - [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
 ## Fiches sources
 
-- [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud ANSSI - qualification sécurité cloud, risques extraterritoriaux, offres hybrides]]
+- [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]

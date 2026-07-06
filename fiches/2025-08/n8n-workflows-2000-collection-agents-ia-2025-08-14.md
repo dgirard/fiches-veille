@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "GitHub"
+---
 # n8n-workflows-2000-collection-agents-ia-2025-08-14
 
 ## Veille

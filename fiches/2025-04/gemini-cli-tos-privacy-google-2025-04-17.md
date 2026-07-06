@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "Google"
+---
 # gemini-cli-tos-privacy-google-2025-04-17
 
 ## Veille

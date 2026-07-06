@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "Synthèse multi-sources"
+---
 # wardley-mapping-explique-guide-strategique-2025-10-01
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [politique-regulation]
+source: "White House"
+---
 # white-house-americas-ai-action-plan-2025-07-23
 
 ## Veille

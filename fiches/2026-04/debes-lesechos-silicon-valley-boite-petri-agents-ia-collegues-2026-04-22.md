@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Les Echos (Florian Dèbes)"
+---
 # debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22
 
 ## Veille

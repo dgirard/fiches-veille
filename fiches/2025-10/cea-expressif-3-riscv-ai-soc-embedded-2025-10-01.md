@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "CEA"
+---
 # cea-expressif-3-riscv-ai-soc-embedded-2025-10-01
 
 ## Veille

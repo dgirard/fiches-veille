@@ -11,24 +11,24 @@
 ### améliore
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
 ### mesure
 
 - « 3 456 étoiles GitHub » (MESURE) — 0.95, STATIQUE
-  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
 ### s_inspire_de
 
 - [[kb/Andrej-Karpathy\|Andrej Karpathy]] (PERSONNE) — 0.97, STATIQUE
-  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
 ### utilise
 
 - [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.99, STATIQUE
-  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
-- [[kb/CLAUDE-md\|CLAUDE.md]] (TECHNOLOGIE) — 0.98, STATIQUE
-  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
+- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
 ## Relations (comme objet)
 
@@ -36,4 +36,4 @@
 
 ## Fiches sources
 
-- [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Guidelines Claude Code inspirées Karpathy - 4 principes anti-bloat]]
+- [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]

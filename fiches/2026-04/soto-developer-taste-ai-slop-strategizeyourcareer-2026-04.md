@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Substack (Fran Soto)"
+---
 # soto-developer-taste-ai-slop-strategizeyourcareer-2026-04
 ## Veille
 

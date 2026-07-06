@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "X (Thariq Shihipar)"
+---
 # thariq-field-guide-fable-finding-unknowns-2026-07-03
 
 ## Veille

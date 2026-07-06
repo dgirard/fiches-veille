@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "a16z"
+---
 # a16z-top-100-gen-ai-apps-5th-edition-2025-08-27
 
 ## Veille

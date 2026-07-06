@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "Neuralink"
+---
 # sam-altman-neuralink-board-openai-conflict-2025-08-12
 
 ## Veille

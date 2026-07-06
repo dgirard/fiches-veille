@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "Deep Research"
+---
 # synthese-prompts-formats-talks-deep-research-2026-02
 ## Veille
 Synthèse frameworks narratifs et prompts pour formats de talks

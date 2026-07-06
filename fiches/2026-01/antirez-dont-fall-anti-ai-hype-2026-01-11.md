@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "antirez"
+---
 # antirez-dont-fall-anti-ai-hype-2026-01-11
 
 ## Veille

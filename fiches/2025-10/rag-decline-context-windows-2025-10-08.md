@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "LinkedIn"
+---
 # rag-decline-context-windows-2025-10-08
 ## Veille
 Déclin du RAG - Expansion des fenêtres de contexte IA - LinkedIn

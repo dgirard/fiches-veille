@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "voodootikigod.com (Chris Williams)"
+---
 # williams-adlc-3-tests-are-the-spec-2026-06-12
 
 ## Veille

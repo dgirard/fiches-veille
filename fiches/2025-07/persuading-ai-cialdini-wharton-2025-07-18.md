@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Wharton"
+---
 # persuading-ai-cialdini-wharton-2025-07-18
 ## Veille
 Persuasion de l'IA - Principes de Cialdini - Compliance parahuman - Wharton Research

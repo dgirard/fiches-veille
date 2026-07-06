@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic (X/Twitter)"
+---
 # lancemartin-anthropic-prompt-auto-caching-claude-2026-02
 ## Veille
 Auto-caching prompts Claude : mécanisme technique, API cache_control, économies 90% tokens, design cache-friendly

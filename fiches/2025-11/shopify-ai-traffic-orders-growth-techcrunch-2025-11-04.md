@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "TechCrunch"
+---
 # shopify-ai-traffic-orders-growth-techcrunch-2025-11-04
 
 ## Veille

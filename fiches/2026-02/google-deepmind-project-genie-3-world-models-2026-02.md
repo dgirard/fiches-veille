@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "Google DeepMind (YouTube)"
+---
 # google-deepmind-project-genie-3-world-models-2026-02
 ## Veille
 Project Genie - Modèles de monde interactifs temps réel Google DeepMind

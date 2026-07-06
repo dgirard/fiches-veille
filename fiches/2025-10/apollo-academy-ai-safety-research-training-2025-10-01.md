@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Apollo Academy"
+---
 # apollo-academy-ai-safety-research-training-2025-10-01
 
 ## Veille

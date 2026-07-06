@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "WeVision"
+---
 # rafal-chatgpt-atlas-web-conversationnel-2025-10-22
 
 ## Veille

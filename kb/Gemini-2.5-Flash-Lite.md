@@ -13,31 +13,31 @@
 ### fait_partie_de
 
 - [[kb/_entites-mineures#Gemini-2.5\|Gemini 2.5]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### mesure
 
 - « $0.10 / 1M tokens input, $0.40 / 1M tokens output » (MESURE) — 0.99, DYNAMIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 - « fenêtre de contexte de 1 million de tokens » (MESURE) — 0.99, STATIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### observé_dans
 
 - [[kb/_entites-mineures#Google-AI-Studio\|Google AI Studio]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
-- [[kb/_entites-mineures#Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+- [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### surpasse
 
 - [[kb/_entites-mineures#Gemini-2.0-Flash-Lite\|Gemini 2.0 Flash-Lite]] (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Grounding-with-Google-Search\|Grounding with Google Search]] (TECHNOLOGIE) — 0.97, STATIQUE
-  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+  - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ## Relations (comme objet)
 
@@ -49,4 +49,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite - Google - Stable GA - Cost-efficient - Fastest model - Developer Blog]]
+- [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]

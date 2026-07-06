@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "John Cutler"
+---
 # cutler-teams-dont-escalate-leaders-linkedin-2025-10-03
 
 ## Veille

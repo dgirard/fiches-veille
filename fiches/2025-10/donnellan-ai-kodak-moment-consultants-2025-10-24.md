@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Reuters Breakingviews"
+---
 # donnellan-ai-kodak-moment-consultants-2025-10-24
 
 ## Veille

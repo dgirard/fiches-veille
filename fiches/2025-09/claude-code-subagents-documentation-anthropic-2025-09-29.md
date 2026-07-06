@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # claude-code-subagents-documentation-anthropic-2025-09-29
 
 ## Veille

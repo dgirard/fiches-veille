@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction, transformation-adoption, strategie-frameworks]
+source: "Deep Research Veille Interne"
+---
 # ai4star-revolution-production-logicielle-deep-research-2025-11
 
 ## Veille

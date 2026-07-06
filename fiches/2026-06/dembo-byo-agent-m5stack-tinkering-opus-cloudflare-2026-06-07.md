@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "markpauldembo.com (Mark Dembo)"
+---
 # dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07
 
 ## Veille

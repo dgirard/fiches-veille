@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Stripe Engineering"
+---
 # gray-stripe-minions-coding-agents-part1-2026-02-09
 ## Veille
 Stripe Minions : agents de codage autonomes end-to-end en production à grande échelle

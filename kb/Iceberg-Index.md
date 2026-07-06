@@ -11,14 +11,14 @@
 ### mesure
 
 - « 1,2 billion de dollars de salaires exposés à l'IA » (MESURE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
+  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 - « 32 000 compétences cartographiées dans 923 professions » (MESURE) — 0.90, DYNAMIQUE
-  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
+  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
 ### s_applique_à
 
 - [[kb/_entites-mineures#151-millions-de-travailleurs-américains\|151 millions de travailleurs américains]] (CONCEPT) — 0.95, DYNAMIQUE
-  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
+  - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
 ## Relations (comme objet)
 
@@ -27,4 +27,4 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT Study - Iceberg Index - AI Workforce Impact - Labor Market Disruption - Policy Simulation - Economic Modeling - Workforce Transformation - Automation Risk - Skills Mapping - Regional Analysis]]
+- [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]

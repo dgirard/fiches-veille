@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Bain & Company (David Crawford, Chris McLaughlin, Greg Fiore)"
+---
 # bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05
 
 ## Veille

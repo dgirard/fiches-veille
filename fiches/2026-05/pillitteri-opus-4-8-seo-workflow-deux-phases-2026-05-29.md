@@ -1,3 +1,7 @@
+---
+themes: [outils-plateformes]
+source: "pasqualepillitteri.it (Pasquale Pillitteri)"
+---
 # pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "HKUDS 22k stars"
+---
 # lightrag-simple-fast-rag-hkuds-2024-10-08
 
 ## Veille

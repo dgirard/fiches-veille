@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe]
+source: "X (Riley Ralmuto)"
+---
 # ralmuto-rebuttal-andreessen-introspection-history-2026-03-17
 ## Veille
 Réfutation historique de l'affirmation d'Andreessen sur l'introspection comme invention moderne, exemples philosophiques sur 2400 ans - X/Twitter

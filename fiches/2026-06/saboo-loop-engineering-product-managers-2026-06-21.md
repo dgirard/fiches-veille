@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "X (Shubham Saboo)"
+---
 # saboo-loop-engineering-product-managers-2026-06-21
 
 ## Veille

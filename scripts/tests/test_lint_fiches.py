@@ -24,6 +24,15 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from lint_fiches import lint_text, lint_fiche  # noqa: E402
 
 
+def _fiche_dans_repertoire(contenu: str, repertoire: str, nom: str = "f-2026-06-01.md") -> Path:
+    """Écrit une fiche dans un sous-répertoire nommé (pour tester Date↔répertoire)."""
+    d = Path(tempfile.mkdtemp()) / repertoire
+    d.mkdir(parents=True)
+    p = d / nom
+    p.write_text(contenu, encoding="utf-8")
+    return p
+
+
 def _fiche(
     *,
     frontmatter: str = "",
@@ -214,6 +223,63 @@ class TestLintFichePath(unittest.TestCase):
         path = Path(f.name)
         self.assertEqual(lint_fiche(path), [])
         path.unlink()
+
+
+class TestGateBronzeDurci(unittest.TestCase):
+    """Checks path-aware ajoutés en U2 : frontmatter, thèmes, Date↔répertoire."""
+
+    def test_cle_frontmatter_inconnue(self):
+        fm = "---\nfoo: bar\n---\n"
+        p = _fiche_dans_repertoire(_fiche(frontmatter=fm), "2026-06")
+        violations = lint_fiche(p)
+        self.assertTrue(any("hors registre" in v and "foo" in v for v in violations))
+
+    def test_cle_frontmatter_promotion_toleree(self):
+        fm = ("---\ncabinet_promotion_candidate: true\nproposed_class: Concept\n"
+              "proposed_capability: capability/x\nnotes: \"n\"\n---\n")
+        p = _fiche_dans_repertoire(_fiche(frontmatter=fm), "2026-06")
+        self.assertEqual(lint_fiche(p), [])
+
+    def test_theme_valide(self):
+        fm = "---\nthemes: [economie-marche]\nsource: SFEIR\n---\n"
+        p = _fiche_dans_repertoire(_fiche(frontmatter=fm), "2026-06")
+        self.assertEqual(lint_fiche(p), [])
+
+    def test_theme_inconnu(self):
+        fm = "---\nthemes: [theme-bidon]\n---\n"
+        p = _fiche_dans_repertoire(_fiche(frontmatter=fm), "2026-06")
+        violations = lint_fiche(p)
+        self.assertTrue(any("thème inconnu" in v and "theme-bidon" in v for v in violations))
+
+    def test_date_incoherente_avec_repertoire(self):
+        # _fiche() a Date 2026-06-01 ; rangée dans 2026-07/ → violation.
+        p = _fiche_dans_repertoire(_fiche(), "2026-07")
+        violations = lint_fiche(p)
+        self.assertTrue(any("incohérente avec le répertoire" in v for v in violations))
+
+    def test_date_coherente_avec_repertoire(self):
+        p = _fiche_dans_repertoire(_fiche(), "2026-06")
+        self.assertEqual(lint_fiche(p), [])
+
+    def test_themes_absent_warn_post_migration(self):
+        p = _fiche_dans_repertoire(_fiche(), "2026-06")
+        warnings: list[str] = []
+        violations = lint_fiche(p, warnings=warnings, post_migration=True)
+        self.assertEqual(violations, [])
+        self.assertTrue(any("themes" in w for w in warnings))
+
+    def test_themes_absent_silencieux_avant_migration(self):
+        p = _fiche_dans_repertoire(_fiche(), "2026-06")
+        warnings: list[str] = []
+        violations = lint_fiche(p, warnings=warnings, post_migration=False)
+        self.assertEqual(violations, [])
+        self.assertEqual(warnings, [])
+
+    def test_frontmatter_hors_grammaire(self):
+        fm = "---\nmeta:\n  child: 1\n---\n"
+        p = _fiche_dans_repertoire(_fiche(frontmatter=fm), "2026-06")
+        violations = lint_fiche(p)
+        self.assertTrue(any("frontmatter invalide" in v for v in violations))
 
 
 class TestRegressionCorpusReel(unittest.TestCase):

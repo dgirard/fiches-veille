@@ -12,18 +12,18 @@
 ### affirme_que
 
 - « « ce qui est bon pour les humains est bon pour l'IA » » (CITATION) — 0.95, ATEMPOREL
-  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments]]
+  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]
 
 ### recommande
 
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments]]
+  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]
 
 ### travaille_chez
 
 - [[kb/_entites-mineures#Capital-One\|Capital One]] (ORGANISATION) — 0.98, DYNAMIQUE
-  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments]]
+  - [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]
 
 ## Fiches sources
 
-- [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Capital One - Developer Experience (DevX) - AI Agents - Legacy Code - Code Review - No Regrets Investments]]
+- [[fiches/2025-11/kanat-alexander-capital-one-devex-ai-agents-2025-11-23\|Developer Experience in the Age of AI Coding Agents]]

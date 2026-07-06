@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: Concept
 proposed_capability: capability/software-factory
 notes: "Cadre économique directement mobilisable pour le positionnement Optimisation des coûts / FinOps agentique du cabinet : 'marginal token utility' + 'token-to-outcome attribution' + 'cost per completed outcome vs BPO'. Aligne avec ce qu'on observe sur le pilotage de la facture d'inférence en mission."
+themes: [economie-marche]
+source: "X (Jaya Gupta @JayaGup10)"
 ---
 # gupta-token-budget-wars-marginal-token-utility-2026-05-28
 

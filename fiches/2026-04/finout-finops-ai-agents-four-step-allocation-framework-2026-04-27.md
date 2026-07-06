@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Finout"
+---
 # finout-finops-ai-agents-four-step-allocation-framework-2026-04-27
 
 ## Veille

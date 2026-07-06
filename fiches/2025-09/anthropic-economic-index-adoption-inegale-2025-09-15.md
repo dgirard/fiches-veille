@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Adoption inégale de l'IA"
+---
 # anthropic-economic-index-adoption-inegale-2025-09-15
 ## Veille
 Adoption inégale de l'IA - Disparités géographiques et entreprise - Index économique Anthropic

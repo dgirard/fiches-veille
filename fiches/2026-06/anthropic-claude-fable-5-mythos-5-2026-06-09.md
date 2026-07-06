@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Anthropic"
+---
 # anthropic-claude-fable-5-mythos-5-2026-06-09
 
 ## Veille

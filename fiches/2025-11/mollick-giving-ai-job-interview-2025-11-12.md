@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Ethan Mollick"
+---
 # mollick-giving-ai-job-interview-2025-11-12
 
 ## Veille

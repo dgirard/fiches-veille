@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Blog Mornati"
+---
 # mornati-developer-coding-agents-bmad-experiment-2026-03-14
 ## Veille
 Role du developpeur face aux agents de codage IA, experimentation methode BMAD en 1 jour, evolution vers superviseur d'agents - Blog technique

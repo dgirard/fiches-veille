@@ -1,3 +1,7 @@
+---
+themes: [philosophie-societe, recherche-education]
+source: "New York Times"
+---
 # connelly-nyt-ai-companies-eating-higher-education-2026-02-12
 ## Veille
 Entreprises IA vs enseignement supérieur : dépendance étudiante, partenariats toxiques - NYT Opinion

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "LinkedIn"
+---
 # ai-platform-shift-ensarguet-2025-10-15
 ## Veille
 Changement de plateforme IA - Redéfinition du logiciel - Architecture AI-native - LinkedIn

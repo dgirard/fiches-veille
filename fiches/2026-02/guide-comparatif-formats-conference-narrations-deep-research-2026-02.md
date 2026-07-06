@@ -1,3 +1,7 @@
+---
+themes: [recherche-education]
+source: "Deep Research"
+---
 # guide-comparatif-formats-conference-narrations-deep-research-2026-02
 ## Veille
 Traité architectures narratives et formats de conférence - Guide global

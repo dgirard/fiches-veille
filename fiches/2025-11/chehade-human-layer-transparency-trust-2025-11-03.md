@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Gilles Chehade"
+---
 # chehade-human-layer-transparency-trust-2025-11-03
 
 ## Veille

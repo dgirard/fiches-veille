@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # anthropic-ai-transforming-work-research-2025-12-02
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Pragmatic Engineer"
+---
 # how-claude-code-is-built-pragmatic-engineer-2025-09-15
 ## Veille
 Construction de Claude Code - Architecture IA-first - Ingénierie produit - Pragmatic Engineer

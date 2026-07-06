@@ -12,14 +12,14 @@
 ### mesure
 
 - « 94 % even-handedness » (MESURE) — 0.95, STATIQUE
-  - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
+  - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - [[kb/_entites-mineures#réponses-autres-modèles\|réponses autres modèles]] (CONCEPT) — 0.88, DYNAMIQUE
-  - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
+  - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
 ### permet
 
 - [[kb/_entites-mineures#réplication-d'articles-de-recherche-scientifique\|réplication d'articles de recherche scientifique]] (CONCEPT) — 0.92, STATIQUE
-  - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - Agents IA et travail réel - Impact économique - Étude OpenAI - Réplication de recherche - Futur du travail - One Useful Thing]]
+  - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 
 ## Relations (comme objet)
 
@@ -27,5 +27,5 @@
 
 ## Fiches sources
 
-- [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Anthropic - Mesure biais politique Claude - Even-handedness 94-95% - Paired Prompts method - Open-source evaluation - Character training - Comparaison 6 modèles - System prompt neutralité - GitHub]]
-- [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Ethan Mollick - Agents IA et travail réel - Impact économique - Étude OpenAI - Réplication de recherche - Futur du travail - One Useful Thing]]
+- [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
+- [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]

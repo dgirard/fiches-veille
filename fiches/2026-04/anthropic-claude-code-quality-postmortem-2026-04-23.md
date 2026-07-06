@@ -1,3 +1,7 @@
+---
+themes: [qualite-securite]
+source: "Anthropic Engineering"
+---
 # anthropic-claude-code-quality-postmortem-2026-04-23
 ## Veille
 

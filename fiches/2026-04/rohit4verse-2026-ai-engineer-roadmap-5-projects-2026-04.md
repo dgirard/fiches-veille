@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "X (Rohit @rohit4verse)"
+---
 # rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04
 
 ## Veille

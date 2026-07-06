@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Cybernetica"
+---
 # krim-bulle-ia-capital-infini-2025-11-02
 ## Veille
 Bulle IA - Capital infini - Reconfiguration industrielle - Cybernetica

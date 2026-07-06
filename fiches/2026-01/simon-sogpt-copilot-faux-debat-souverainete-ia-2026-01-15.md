@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Erwan Simon"
+---
 # simon-sogpt-copilot-faux-debat-souverainete-ia-2026-01-15
 
 ## Veille

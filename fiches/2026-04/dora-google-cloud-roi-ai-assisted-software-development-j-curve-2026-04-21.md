@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Google Cloud (DORA × delta — Eva Dong, Andre Ellis Jr., Nathen Harvey, Vivian Hu"
+---
 # dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21
 
 ## Veille

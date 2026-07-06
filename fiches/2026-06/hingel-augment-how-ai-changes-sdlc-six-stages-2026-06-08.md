@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Augment Code (Paula Hingel)"
+---
 # hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [produits-services]
+source: "Google"
+---
 # google-ai-mode-search-personalized-sites-2025-03-05
 
 ## Veille

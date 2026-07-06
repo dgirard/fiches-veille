@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "OfficeChai (rapporte Bob Sternfels)"
+---
 # sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14
 
 ## Veille

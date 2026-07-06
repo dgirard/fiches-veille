@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Anthropic"
+---
 # carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05
 ## Veille
 Compilateur C en Rust construit par 16 agents Claude parallèles autonomes - Anthropic

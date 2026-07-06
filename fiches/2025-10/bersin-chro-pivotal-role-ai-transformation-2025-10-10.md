@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Josh Bersin"
+---
 # bersin-chro-pivotal-role-ai-transformation-2025-10-10
 
 ## Veille

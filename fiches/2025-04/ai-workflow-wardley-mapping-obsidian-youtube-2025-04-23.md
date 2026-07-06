@@ -1,3 +1,7 @@
+---
+themes: [strategie-frameworks]
+source: "Tutoriel vidéo"
+---
 # ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23
 
 ## Veille

@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "SitePoint"
+---
 # sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05
 
 ## Veille

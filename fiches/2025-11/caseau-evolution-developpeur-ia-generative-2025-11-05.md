@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Yves Caseau"
+---
 # caseau-evolution-developpeur-ia-generative-2025-11-05
 
 ## Veille

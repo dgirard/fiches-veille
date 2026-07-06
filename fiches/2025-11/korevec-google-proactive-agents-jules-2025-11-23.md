@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Google Labs"
+---
 # korevec-google-proactive-agents-jules-2025-11-23
 ## Veille
 Google Labs - Proactive Agents - Project Jules - Developer Experience - Async Agents

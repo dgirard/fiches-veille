@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Justin McCarthy (StrongDM)"
+---
 # mccarthy-strongdm-software-factory-agentic-moment-2026-02-06
 ## Veille
 StrongDM AI : Software Factory et développement non-interactif - le moment agentique

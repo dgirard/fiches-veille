@@ -3,6 +3,8 @@ cabinet_promotion_candidate: true
 proposed_class: Concept
 proposed_capability: capability/software-factory
 notes: "Positionnement-phare SFEIR (publié, signé Didier Girard) : la thèse du RENVERSEMENT AI4IT > AI4Business + le cadre budgétaire 2027 (CapEx→OpEx, coût par outcome, FinOps token). Synthèse de la veille du cabinet (Salesforce, Intercom, Raiffeisen, AWS, Atlassian, DORA, MIT, Gupta, McKinsey, Mensch/Mistral, GLM-5.2). Concepts mobilisables en mission : 'AI4IT', 'AI4Business', 'le code se vérifie tout seul', 'coût par outcome', 'le prix de la pointe monte (Fable 2× Opus) mais à capacité donnée l'inférence ÷280', 4 recommandations COMEX. C'est la voix éditoriale officielle adossée aux datapoints déjà fichés."
+themes: [transformation-adoption]
+source: "SFEIR (Didier Girard)"
 ---
 # girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24
 

@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption]
+source: "Legal.io"
+---
 # mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23
 
 ## Veille

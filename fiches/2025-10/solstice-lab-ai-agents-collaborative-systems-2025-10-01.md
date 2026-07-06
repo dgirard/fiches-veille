@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Solstice Lab"
+---
 # solstice-lab-ai-agents-collaborative-systems-2025-10-01
 
 ## Veille

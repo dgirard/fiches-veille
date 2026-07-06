@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "Kaggle / Google (Addy Osmani, Shubham Saboo, Sokratis Kartakis)"
+---
 # osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05
 
 ## Veille

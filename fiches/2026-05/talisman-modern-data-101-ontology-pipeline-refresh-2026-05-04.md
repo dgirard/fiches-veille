@@ -1,3 +1,7 @@
+---
+themes: [architecture-construction]
+source: "Modern Data 101 / Substack (Jessica Talisman MLS)"
+---
 # talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04
 
 ## Veille

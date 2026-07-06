@@ -1,3 +1,7 @@
+---
+themes: [agents-codage-ia-skills]
+source: "GitHub (Tobias Lütke)"
+---
 # zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01
 ## Veille
 QMD moteur de recherche local pour vault Obsidian, skill /recall pour mémoire persistante Claude Code, BM25 + sémantique + hybride vs grep

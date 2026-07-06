@@ -1,3 +1,7 @@
+---
+themes: [transformation-adoption, economie-marche]
+source: "Menlo Ventures"
+---
 # menlovc-state-generative-ai-enterprise-2025-12-09
 
 ## Veille

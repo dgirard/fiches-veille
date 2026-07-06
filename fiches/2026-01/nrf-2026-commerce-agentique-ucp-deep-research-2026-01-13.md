@@ -1,3 +1,7 @@
+---
+themes: [economie-marche]
+source: "Deep Research"
+---
 # nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13
 
 ## Veille
