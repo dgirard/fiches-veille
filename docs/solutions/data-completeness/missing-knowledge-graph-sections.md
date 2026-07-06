@@ -1,6 +1,7 @@
 ---
 title: "Ajout GrapheDeConnaissance manquant sur 60 fiches et reconstruction knowledge-base"
 date: 2026-03-27
+last_updated: 2026-06-16
 category: data-completeness
 tags:
   - knowledge-graph
@@ -115,13 +116,9 @@ python3 scripts/build_knowledge_base.py
 
 **Pre-commit hook :** Ajouter un hook git qui scanne tout fichier nouveau ou modifié sous `fiches/` et rejette les commits où une fiche ne contient pas les 10 sections requises (dont `## GrapheDeConnaissance`, `### Triples`, `### Entités`).
 
-**Script de validation :** Créer un `scripts/validate_fiches.py` qui vérifie :
-- Présence des 10 en-têtes de section `##`
-- Tableau Triples avec 8 colonnes correctes
-- Tableau Entités avec 5 colonnes correctes
-- Au moins 5 triples par fiche
+**Script de validation :** vérifier la présence des 10 en-têtes de section `##`, le tableau Triples (8 colonnes), le tableau Entités (5 colonnes) et un minimum de triples par fiche.
 
-> Note : un plan existe déjà pour ce script (`docs/plans/2026-03-01-feat-backfill-graphe-connaissance-64-fiches-plan.md`) mais n'a pas encore été implémenté.
+> **Mise à jour 2026-06-16** : ce garde-fou « shift-left » a depuis été **implémenté** sous la forme du **gate Bronze** `scripts/lint_fiches.py` (validation ontologie v2, bloquante — cf. CLAUDE.md « Architecture médaillon »), avec tests de régression `scripts/tests/test_lint_fiches.py` et `scripts/tests/test_frontmatter_compat.py`. ⚠️ Attention : ce gate valide le **Bronze** (`fiches/`) uniquement — il **ne contrôle pas la fraîcheur du Silver** (`kb/`, `knowledge-base.md`). La dérive décrite ci-dessous reste donc possible même avec un Bronze vert.
 
 ### 2. Détection précoce de la dérive
 
@@ -138,6 +135,36 @@ python3 scripts/build_knowledge_base.py
 - Reconstruire après chaque ajout de fiches en lot
 - Détecter la péremption en comparant les timestamps des fiches vs. le KB
 - Objectif : KB reconstruit dans les 24h suivant tout ajout de fiche
+
+#### Discipline « commit-together » Bronze + Silver (mise à jour 2026-06-16)
+
+Le Silver (`kb/`, `knowledge-base.md`, `kb-*.md`) est un **artefact dérivé** : il doit être **régénéré et committé dans le même commit** que la modification Bronze qui le motive. Après tout ajout/édition d'une fiche :
+
+1. `python3 scripts/lint_fiches.py` — gate Bronze, attendre « 0 violation ».
+2. `python3 scripts/build_knowledge_base.py` — régénérer le Silver ; vérifier que le compteur bouge (ex. « Fiches avec GrapheDeConnaissance : 303 → 304 »).
+3. `git status` — **confirmer qu'aucune fiche référencée par `index.md` ou le KB n'est laissée non trackée (`??`)**. Les nouvelles fiches ne se stagent pas toutes seules.
+4. **Un seul commit** portant l'ensemble : la/les fiche(s) sous `fiches/` **+** `index.md` **+** `kb/` **+** `knowledge-base.md` **+** `kb-*.md` (périmètre de commit du projet ; jamais `docs/`, `.DS_Store`, `.obsidian/`).
+
+**Deux modes de défaillance silencieux confirmés** :
+
+- **Dérive du Silver** : ajouter une fiche sans relancer le build → le KG publié représente un corpus plus ancien et plus petit que les fiches, sans aucune erreur (le gate Bronze passe, le build n'est jamais invoqué).
+- **Liens pendants** : committer `index.md` + `kb/` (qui référencent une fiche) alors que la fiche elle-même est restée `??` non trackée → publication de wikilinks/liens relatifs cassés sur GitHub. **Stager la fiche dans le même commit.**
+
+**Heuristique de détection de péremption** : le Silver est suspect dès que (a) un changement sous `fiches/` est stagé sans changement correspondant sous `kb/`, ou (b) la mtime de la fiche la plus récente est postérieure à celle du KB (`ls -la kb/ knowledge-base.md` vs. dernier fichier de `fiches/`).
+
+> **Mise à jour 2026-07-06 — détection automatisée (doctor)** : la détection
+> heuristique manuelle ci-dessus est désormais **automatisée et bloquante** par
+> `scripts/check_coherence.py` (« doctor »). Chaque générateur embarque un
+> **manifest** (sha256 des champs consommés — `catalogue.tsv` en ligne 1,
+> `knowledge-base.md` en commentaire) ; doctor recalcule et compare, retournant
+> `STALE` (exit ≠ 0) si le Silver ou le catalogue ne reflète plus `fiches/`. La
+> bijection catalogue ↔ fiches y détecte aussi les liens pendants. Lancer
+> `python3 scripts/check_coherence.py` avant tout commit ; `--catalogue-only`
+> avant toute lecture grep-first. La spec « validation automatisée et bloquante,
+> pas indicative » est donc satisfaite côté Silver aussi. Voir
+> [[index-genere-catalogue-machine]] et [[alias-entites-et-bornage-kb]].
+
+> **Récurrence documentée (2026-06-16)** — deuxième occurrence du problème, cette fois en régime nominal (et non plus backfill) : les fichiers `kb/` étaient figés au « Jun 10 11:51 » alors que **9 fiches** avaient été ajoutées depuis (7 volets Williams ADLC + Nadella + Goodhart) ; les entités `Chris-Williams`, `Satya-Nadella`, `Charles-Goodhart`, `Marilyn-Strathern`, `ADLC` étaient absentes jusqu'au rebuild. De plus, les 7 fiches ADLC étaient **non trackées** dans git bien qu'`index.md` et le KB régénéré y renvoyaient déjà. La leçon : ce n'est pas qu'un risque de backfill ponctuel — la dérive se produit à **chaque** ajout unitaire si le rebuild + commit groupé n'est pas systématique.
 
 ## Best Practices pour les backfills parallèles
 
@@ -161,7 +188,9 @@ python3 scripts/build_knowledge_base.py
 ## Cross-References
 
 - **Format KG** : `CLAUDE.md` section "GrapheDeConnaissance — Format détaillé"
-- **Script de build** : `scripts/build_knowledge_base.py`
+- **Architecture médaillon** (Bronze/Silver/Gold + table des gates) : `CLAUDE.md` section "Architecture médaillon (2026-06-11)"
+- **Gate Bronze** : `scripts/lint_fiches.py` + tests `scripts/tests/test_lint_fiches.py`, `scripts/tests/test_frontmatter_compat.py`
+- **Script de build (promotion Silver)** : `scripts/build_knowledge_base.py`
 - **Plan initial du format KG** : `plans/2026-02-19-feat-knowledge-graph-section-fiches-plan.md`
 - **Plan consolidation KB** : `docs/plans/2026-02-28-feat-knowledge-base-consolidee-graphe-connaissance-plan.md`
 - **Plan backfill 123 fiches** : `docs/plans/2026-02-28-feat-ajout-graphe-connaissance-fiches-existantes-plan.md`
