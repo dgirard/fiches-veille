@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 334 entités de type ORGANISATION
+> 337 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -177,6 +177,7 @@
 - [[kb/_entites-mineures#MGX\|MGX]] — secteur: Fonds souverain d'Abu Dhabi, investisseur principal Campus IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] — rôle: organisation recherche partenaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] — secteur: Recherche universitaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] — rôle: Étude (avec OpenAI) sur plus de 4 M de conversations : attachement ↔ solitude, confiance ↔ dépendance (1 occ., 1 fiches)
 - [[kb/MIT-NANDA\|MIT NANDA]] — secteur: Recherche IA enterprise / Networked Agents and Decentralized AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-OpenCourseWare\|MIT OpenCourseWare]] — rôle: Diffusion cours MIT en accès libre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] — secteur: Recherche management et technologie (1 occ., 1 fiches)
@@ -230,6 +231,7 @@
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] — structure: Département fusionné HR+IT chez Moderna (créé en 2025) (1 occ., 1 fiches)
 - [[kb/Perplexity-organisation\|Perplexity]] — secteur: IA / Moteur de recherche (4 occ., 4 fiches)
+- [[kb/_entites-mineures#Pew-Research\|Pew Research]] — donnée: ~1 travailleur US sur 5 fait une partie de son travail avec l'IA (part en hausse) (1 occ., 1 fiches)
 - [[kb/Plakar-organisation\|Plakar]] — catégorie: Startup open-source, outil de sauvegarde de données (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PlayerZero\|PlayerZero]] — catégorie: Startup production engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Postman\|Postman]] — statut adoption: Adoptant MCP-UI (host) (1 occ., 1 fiches)
@@ -290,6 +292,7 @@
 - [[kb/_entites-mineures#The-AI-Journal\|The AI Journal]] — type: Publication spécialisée IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] — secteur: Navigateur web / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] — secteur: Analyse / Conseil IT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Intelligence-Fabric\|The Intelligence Fabric]] — catégorie: Newsletter / blog sur l'IA et l'organisation (1 occ., 1 fiches)
 - [[kb/The-New-York-Times\|The New York Times]] — secteur: Presse / journalisme de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)

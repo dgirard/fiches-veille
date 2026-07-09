@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 427 entités de type PERSONNE
+> 430 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -190,6 +190,7 @@
 - [[kb/_entites-mineures#Jay-Taylor\|Jay Taylor]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
 - [[kb/Jaya-Gupta\|Jaya Gupta]] — rôle: Investisseuse / VC (probablement Foundation Capital), autrice du thread Token Budget Wars et du cadre Context Graphs (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Jean-Christophe-LAISSY\|Jean-Christophe LAISSY]] — rôle: Consultant stratégie IA / Thought leader LinkedIn (1 occ., 1 fiches)
+- [[kb/Jean-Paul-Paoli\|Jean-Paul Paoli]] — rôle: Auteur de l'essai (newsletter The Intelligence Fabric) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jean-Philippe-Aumasson\|Jean-Philippe Aumasson]] — rôle: Cryptographe auditeur (1 occ., 1 fiches)
 - [[kb/Jeff-Bezos\|Jeff Bezos]] — rôle: Co-CEO Project Prometheus (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] — rôle: CMO, Riskified (1 occ., 1 fiches)
@@ -198,6 +199,7 @@
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] — rôle: Semantic Engineer + Information Architect 25+ ans, MLS, ex-Adobe RDF knowledge graphs, ex-Amazon information architecture, fondatrice Ontology Pipeline Framework et Contextually LLC, auteure newsletter Intentional Arrangement et livre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] — rôle: CHRO Lixil (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jing-Hu\|Jing Hu]] — rôle: Citée : l'anxiété IA est une question d'identité (1 occ., 1 fiches)
 - [[kb/Joe-Mandese\|Joe Mandese]] — rôle: Editor-in-Chief MediaPost. Auteur article opinion "Billable Hours Are Dead, AI Killed Them, Here's How To Survive" (3 mars 2026, section Media 3.0) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] — rôle: Développeur indépendant, créateur de TOON (1 occ., 1 fiches)
@@ -352,6 +354,7 @@
 - [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] — rôle: Fondatrice de Lobby (agent IA qui agit en conséquence d'emails) (1 occ., 1 fiches)
 - [[kb/Satya-Nadella\|Satya Nadella]] — rôle: PDG de Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] — rôle: Co-auteur, chercheur Wharton (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Scott-Galloway\|Scott Galloway]] — rôle: Cité : plus fort ROI personnel de l'IA = collaborateur pour penser (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Scott-Sinclair\|Scott Sinclair]] — rôle: Expert cité sur dialogue CMO-CFO (1 occ., 1 fiches)
 - [[kb/Sebastian-Raschka\|Sebastian Raschka]] — diplôme: PhD en biologie computationnelle (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sentdex\|Sentdex]] — rôle: Créateur de contenu Python/IA sur YouTube (1 occ., 1 fiches)

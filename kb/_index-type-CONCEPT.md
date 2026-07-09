@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 763 entités de type CONCEPT
+> 765 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -375,6 +375,7 @@
 - [[kb/_entites-mineures#Service-as-Software-(SaS)\|Service-as-Software (SaS)]] — définition: Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-as-Software-(version-pricing)\|Service-as-Software (version pricing)]] — catégorie: Glissement tarifaire — ancrage salaires plutôt que SaaS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shadow-AI-economy\|Shadow AI economy]] — définition: Usage massif (90% des employés) d'outils IA personnels non sanctionnés par l'employeur (1 occ., 1 fiches)
+- [[kb/Shadow-intimacy\|Shadow intimacy]] — définition: Dépendance à l'IA qui se forme dans l'entreprise, hors de sa conscience, sans responsable désigné (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Share-Of-Answers\|Share Of Answers]] — définition: Fréquence d'apparition d'un produit dans les réponses IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shelfware\|Shelfware]] — définition: Sièges/licences payés annuellement mais non utilisés — gaspillage caractéristique du seat-based pricing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sherlocking\|Sherlocking]] — définition: Pratique des grandes plateformes (orig. Apple) absorbant les fonctionnalités d'apps tierces (1 occ., 1 fiches)
@@ -408,6 +409,7 @@
 - [[kb/_entites-mineures#Tier-1-Constitution\|Tier 1 Constitution]] — catégorie: Hot memory — fichier Markdown 660 lignes toujours chargé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] — catégorie: Domain experts — 19 specs, 9300 lignes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-3-Knowledge-Base\|Tier 3 Knowledge Base]] — catégorie: Cold memory — 34 docs, 16250 lignes via MCP (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tissu-d'équipe-(fabric)\|Tissu d'équipe (fabric)]] — métaphore: Trois fils — liens entre pairs, lien au manager, jugement — qu'on peut défaire sans licencier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Toil\|Toil]] — définition: Tâches routinières répétitives non plaisantes — cibles idéales de délégation à l'IA, source de réduction du burnout (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-(LLM)\|Token (LLM)]] — rôle_2026: Fuel de la création de valeur, signal d'usage individuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Burning\|Token Burning]] — définition: Consommation tokens inutile par agents mal gérés, peut annuler le ROI compute (1 occ., 1 fiches)
@@ -608,7 +610,7 @@
 - [[kb/_entites-mineures#intelligence-incarnée\|intelligence incarnée]] — description: IA opérant dans environnements physiques ou simulés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
-- [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (1 occ., 1 fiches)
+- [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Coupure à distance d'un service cloud par un fournisseur/État tiers ; risque de continuité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
@@ -701,7 +703,7 @@
 - [[kb/_entites-mineures#session-implémenteur\|session implémenteur]] — responsabilité: Exécution du plan et écriture du code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#setting-time-on-fire\|setting time on fire]] — catégorie: Signalement d'effort par le temps consacré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shadow-AI\|shadow AI]] — risque: Usage non gouverné né de la démocratisation de la GenAI (2 occ., 2 fiches)
-- [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#share_via_dm-+-share_via_copy_link\|share_via_dm + share_via_copy_link]] — définition: Variantes share distinctes (indices 8, 9) qui mesurent le forward privé vs public, signaux haute valeur pour pricing teardowns / product comparisons / controversy forwarded privately (1 occ., 1 fiches)
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] — exemples: code review turnaround, first-run test pass rate, defect ratio, rework rate (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)

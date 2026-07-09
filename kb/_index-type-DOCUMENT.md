@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 89 entités de type DOCUMENT
+> 90 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -89,5 +89,6 @@
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] — rôle: Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-BCG-HBR-mars-2026\|Étude BCG HBR mars 2026]] — méthodologie: 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Étude-Business-Horizons\|Étude Business Horizons]] — thèse: Le contournement des collègues (workforce ChatGPT) érode le partage de connaissance intra-firme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] — description: Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-transformation-travail-par-IA\|étude transformation travail par IA]] — date: août 2025 (2 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 327 fiches | 1975-12 → 2026-07-03 | généré le 2026-07-06
+> 328 fiches | 1975-12 → 2026-07-04 | généré le 2026-07-08
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
 - **03** [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison · Simon Willison's Weblog — Jugement du modèle, délégation à des subagents, model override
 - **02** [The Compounding Knowledge Lifecycle — Agent Guide](fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02.md) — Kieran Klaassen (Thinkroom / Every — compound-engineering-plugin) ; document « Agent Guide » généré (byline « Claude Code / Anthropic ») · Thinkroom (Kieran Klaassen) — Compound engineering, compounding knowledge lifecycle, learning
@@ -582,6 +583,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI.
 - [Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit](fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18.md) — Mathieu Grymonprez (Global CDO, groupe Adeo) — invité ; Jean-Baptiste Kempf, Steeve Morin, Mehdi Medjaoui (hôtes du podcast « À la French »)
 - [AI made your engineers fast. Too fast to leave room for the rest of the org to think.](fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17.md) — Fred PLAIS (Frédéric Plais)
@@ -729,6 +731,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de l'intelligence artificielle](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) — **Léon XIV** (de naissance Robert Francis Prevost), 267e Pape de l'Église catholique, élu le **8 mai 2025**, premier pape américain de l'histoire (né à Chicago, USA, 1955 ; double nationalité américano-péruvienne). Augustinien (ancien Prieur général de l'Ordre de Saint-Augustin 2001-2013), ancien évêque de Chiclayo (Pérou) puis Préfet du Dicastère pour les Évêques (2023-2025). *Magnifica Humanitas* est sa **première encyclique sociale**, signée *« Donné à Rome, près de Saint-Pierre, le 15 mai de l'année 2026, la deuxième de mon Pontificat »* — date choisie pour **coïncider avec le 135e anniversaire de *Rerum Novarum*** (15 mai 1891) de Léon XIII, dont il a explicitement repris le nom de pontificat en référence à la tradition sociale lancée par son prédécesseur du XIXe siècle. La référence augustinienne est centrale dans le document (citations massives des *Confessions*, du *De civitate Dei* — *« deux amours ont fait deux cités »*, des *Enarrationes in Psalmos*, des *Sermones*). Trace de paternité collective : multiples références à *Antiqua et nova* (note conjointe DDF + DCE, 14 janvier 2025) et *Quo vadis, humanitas ?* (CTI, 9 février 2026), suggérant un travail conjoint entre la Secrétairerie d'État, le Dicastère pour la Doctrine de la Foi, le Dicastère pour la Culture et l'Éducation, et le Dicastère pour le Service du Développement humain intégral.
 - [A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to the world. They forgot about people.)](fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08.md) — **David Wallace-Wells** — NYT Magazine staff writer, journaliste américain reconnu pour son travail sur le climat (livre *The Uninhabitable Earth* 2019, ancien deputy editor de *New York Magazine*). Connu pour des essais long-form combinant reportage, prospective et critique politique des technologies. **Article publié dans le NYT Magazine** le **8 mai 2026** (édition online, ~16 minutes audio), section politique-tech.
 - [Cognitive Surrender](fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05.md) — Addy Osmani (Software Engineer at Google, Cloud + Gemini, ex-Chrome — déjà au dossier veille avec *Agent Harness Engineering* 2026-04-19, *How to write a good spec for AI agents* 2026-01-13, *Conductors to Orchestrators* 2025-11-01).
@@ -814,15 +817,15 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 327 fiches
-- **Par année** : 2026 (151) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 328 fiches
+- **Par année** : 2026 (152) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
   - Architecture & Construction : 33
-  - Transformation & Adoption : 62
+  - Transformation & Adoption : 63
   - Qualité & Sécurité : 24
   - Économie & Marché : 52
-  - Philosophie & Société : 15
+  - Philosophie & Société : 16
   - Stratégie & Frameworks : 8
   - Outils & Plateformes : 21
   - Recherche & Éducation : 9

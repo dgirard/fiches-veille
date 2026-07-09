@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2287 entités avec moins de 3 triples/fiches
+> 2293 entités avec moins de 3 triples/fiches
 
-## PERSONNE (324)
+## PERSONNE (326)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1495,6 +1495,16 @@
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
+### Jing Hu {#Jing-Hu}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Citée : l'anxiété IA est une question d'identité
+
+- **affirme_que** → [[kb/_entites-mineures#l'anxiété-face-à-l'IA-est-une-vieille-question-d'identité-sous-un-nouveau-masque\|l'anxiété face à l'IA est une vieille question d'identité sous un nouveau masque]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
 ### Joff Redfern {#Joff-Redfern}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2647,6 +2657,16 @@
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
+### Scott Galloway {#Scott-Galloway}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cité : plus fort ROI personnel de l'IA = collaborateur pour penser
+
+- **recommande** → [[kb/_entites-mineures#traiter-l'IA-comme-un-collaborateur-pour-penser,-pas-un-outil-pour-aller-chercher\|traiter l'IA comme un collaborateur pour penser, pas un outil pour aller chercher]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
 ### Scott Sinclair {#Scott-Sinclair}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3235,7 +3255,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (255)
+## ORGANISATION (258)
 
 ### 10x {#10x}
 
@@ -4595,6 +4615,17 @@
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
+### MIT Media Lab {#MIT-Media-Lab}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Étude (avec OpenAI) sur plus de 4 M de conversations : attachement ↔ solitude, confiance ↔ dépendance
+
+- **collabore_avec** → [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.90
+- **mesure** → [[kb/_entites-mineures#attachement-émotionnel-au-modèle-corrélé-à-plus-de-solitude-et-de-dépendance\|attachement émotionnel au modèle corrélé à plus de solitude et de dépendance]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
 ### MIT OpenCourseWare {#MIT-OpenCourseWare}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5015,6 +5046,16 @@
 - [[kb/Tracey-Franklin\|Tracey Franklin]] **dirige** → People and Digital Technology — 0.98
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
+
+### Pew Research {#Pew-Research}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **donnée** : ~1 travailleur US sur 5 fait une partie de son travail avec l'IA (part en hausse)
+
+- **mesure** → [[kb/_entites-mineures#environ-un-travailleur-américain-sur-cinq-utilise-l'IA-au-travail\|environ un travailleur américain sur cinq utilise l'IA au travail]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
 ### PlayerZero {#PlayerZero}
 
@@ -5481,6 +5522,14 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 
+### The Intelligence Fabric {#The-Intelligence-Fabric}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **catégorie** : Newsletter / blog sur l'IA et l'organisation
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
 ### The Strategy Stack {#The-Strategy-Stack}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5808,7 +5857,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (505)
+## TECHNOLOGIE (504)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7311,18 +7360,6 @@
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis]]
 
-### GPT-4o {#GPT-4o}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **catégorie** : Modèle de langage (OpenAI)
-
-- **permet** → [[kb/_entites-mineures#planification-de-scénarios\|planification de scénarios]] (METHODOLOGIE) — 0.83
-
-- [[kb/_entites-mineures#NuExtract-large\|NuExtract-large]] **converge_avec** → GPT-4o — 0.93
-
-**Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]], [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
-
 ### GPT-4o-mini {#GPT-4o-mini}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8715,7 +8752,7 @@
 
 - **catégorie** : version large NuExtract
 
-- **converge_avec** → [[kb/_entites-mineures#GPT-4o\|GPT-4o]] (TECHNOLOGIE) — 0.93
+- **converge_avec** → [[kb/GPT-4o\|GPT-4o]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
@@ -10937,7 +10974,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (741)
+## CONCEPT (742)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14460,6 +14497,14 @@
 
 **Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 
+### Tissu d'équipe (fabric) {#Tissu-d'équipe-(fabric)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **métaphore** : Trois fils — liens entre pairs, lien au manager, jugement — qu'on peut défaire sans licencier
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
 ### Toil {#Toil}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16324,13 +16369,14 @@
 
 ### jugement professionnel {#jugement-professionnel}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
+- **principe** : Se bâtit lentement en faisant le travail ; « la chose la plus chère que connaît l'entreprise », pas une soft skill
 - **rôle** : Savoir s'arrêter pour refactoriser — ce qui distingue le pro
 
 - **permet** → [[kb/_entites-mineures#de-distinguer-l'ingénieur-expérimenté-du-novice\|de distinguer l'ingénieur expérimenté du novice]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]], [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
 
 ### kill switch {#kill-switch}
 
@@ -17184,13 +17230,16 @@
 
 ### shadow IT {#shadow-IT}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
+- **analogie** : Précédent de gouvernance : géré dès qu'on a cessé de le nier, nommé et encadré par des normes
 - **description** : Applications non gouvernées créées hors du contrôle IT
 
 - **s_oppose_à** → [[kb/_entites-mineures#organisations-adoptant-les-outils-Gen-AI\|organisations adoptant les outils Gen AI]] (CONCEPT) — 0.88
 
-**Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
+- [[kb/Shadow-intimacy\|Shadow intimacy]] **est_variante_de** → shadow IT — 0.85
+
+**Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]], [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
 ### share_via_dm + share_via_copy_link {#share_via_dm-+-share_via_copy_link}
 
@@ -21423,7 +21472,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (82)
+## DOCUMENT (83)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22225,6 +22274,16 @@
 - **mesure** → [[kb/_entites-mineures#Marketing-26%-brain-fry-vs-Legal-6%\|Marketing 26% brain fry vs Legal 6%]] (MESURE) — 0.97
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
+
+### Étude Business Horizons {#Étude-Business-Horizons}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **thèse** : Le contournement des collègues (workforce ChatGPT) érode le partage de connaissance intra-firme
+
+- **affirme_que** → [[kb/_entites-mineures#contourner-les-collègues-érode-le-partage-de-connaissance-intra-entreprise\|contourner les collègues érode le partage de connaissance intra-entreprise]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
 ### Étude Shaw & Nave {#Étude-Shaw-&-Nave}
 

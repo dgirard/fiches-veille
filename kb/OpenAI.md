@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 44 relations | 20 fiches sources
+> **Type** : ORGANISATION | 45 relations | 20 fiches sources
 
 ## Attributs
 
@@ -120,6 +120,7 @@
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96
 - [[kb/Nvidia\|Nvidia]] **collabore_avec** → OpenAI — 0.95
 - [[kb/roon\|roon]] **travaille_chez** → OpenAI — 0.95
+- [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] **collabore_avec** → OpenAI — 0.90
 - [[kb/Anthropic\|Anthropic]] **concurrence** → OpenAI — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → OpenAI — 0.85
 

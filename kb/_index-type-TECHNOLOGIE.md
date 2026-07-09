@@ -196,7 +196,7 @@
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] — catégorie: LLM généraliste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] — éditeur: OpenAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#GPT-4.1-nano\|GPT-4.1 nano]] — prix: 0,10 $/0,40 $ par M tokens (1 occ., 1 fiches)
-- [[kb/_entites-mineures#GPT-4o\|GPT-4o]] — catégorie: Modèle de langage (OpenAI) (2 occ., 2 fiches)
+- [[kb/GPT-4o\|GPT-4o]] — catégorie: Modèle de langage (OpenAI) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#GPT-4o-mini\|GPT-4o-mini]] — usage_expérimental: Modèle testé sur 28 000 conversations (1 occ., 1 fiches)
 - [[kb/GPT-5\|GPT-5]] — évaluation: METR conclut à risque catastrophique faible mais tendances préoccupantes (4 occ., 4 fiches)
 - [[kb/_entites-mineures#GPT-5-Pro\|GPT-5 Pro]] — catégorie: LLM OpenAI (1 occ., 1 fiches)
