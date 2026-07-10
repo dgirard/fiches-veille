@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 374 entités de type METHODOLOGIE
+> 376 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -84,6 +84,7 @@
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] — capacité: Jusqu'à 5 recherches itératives autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] — description: Budget piloté par ROI et demande en temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design-system-HTML-de-référence\|Design system HTML de référence]] — catégorie: Fichier HTML unique servant de blueprint stylistique inter-fichiers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] — principe: Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DevOps\|DevOps]] — catégorie: Méthodologie intégrant développement et opérations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Developer-Experience\|Developer Experience]] — rôle: Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
@@ -101,6 +102,7 @@
 - [[kb/_entites-mineures#FSRS\|FSRS]] — catégorie: algorithme de répétition espacée pour flashcards (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] — description: Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps\|FinOps]] — catégorie: Optimisation financière cloud (2 occ., 2 fiches)
+- [[kb/_entites-mineures#FinOps-de-l'IA-générative\|FinOps de l'IA générative]] — principe: Payer la charge au bon prix sur le bon matériel ; logique « coût par résultat / coût du token servi » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-pour-agents-IA\|FinOps pour agents IA]] — catégorie: Allocation/gouvernance/optimisation du coût des agents et LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Financialize-vs-Invest-to-Grow\|Financialize vs Invest to Grow]] — définition: Deux paths forward Bain pour SaaS face à pression IA : (1) Financialize = minimize AI invest, optimize cash, durable generator ; (2) Invest to Grow = accept margin pressure short-term, reinvest aggressively AI product+ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Finding-Your-Unknowns\|Finding Your Unknowns]] — définition: Processus itératif de découverte des inconnues (avant/pendant/après) pour guider Fable (1 occ., 1 fiches)

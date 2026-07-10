@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2293 entités avec moins de 3 triples/fiches
+> 2304 entités avec moins de 3 triples/fiches
 
-## PERSONNE (326)
+## PERSONNE (328)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2795,13 +2795,14 @@
 
 ### Solomon Hykes {#Solomon-Hykes}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : Fondateur Docker, investisseur
+- **rôle** : Créateur de Docker ; business angel au capital de ZML
 
+- **a_créé** → [[kb/_entites-mineures#Docker\|Docker]] (TECHNOLOGIE) — 0.97
 - **soutient** → [[kb/Plakar-organisation\|Plakar]] (ORGANISATION) — 0.95
 
-**Fiches** : [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
+**Fiches** : [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### Sophie Neary {#Sophie-Neary}
 
@@ -2853,6 +2854,16 @@
 - **utilise** → [[kb/YouTube-technologie\|YouTube]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]
+
+### Steeve Morin {#Steeve-Morin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Fondateur/CEO de ZML, ex-VP Engineering de Zenly (rachetée par Snap)
+
+- **dirige** → [[kb/ZML\|ZML]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### Stephenie Zhang {#Stephenie-Zhang}
 
@@ -3159,6 +3170,16 @@
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
+### Yann LeCun {#Yann-LeCun}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Lauréat du prix Turing ; soutient publiquement ZML
+
+- **soutient** → [[kb/ZML\|ZML]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### Yegor Denisov-Blanch {#Yegor-Denisov-Blanch}
 
 **Type** : PERSONNE | 3 relations | 1 fiches
@@ -3255,7 +3276,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (258)
+## ORGANISATION (259)
 
 ### 10x {#10x}
 
@@ -5610,6 +5631,16 @@
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
+### VSORA {#VSORA}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Concepteur de puces (processeur Jotunn8) ; puce européenne émergente intégrant la couche ZML
+
+- [[kb/ZML\|ZML]] **collabore_avec** → VSORA — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### Valence {#Valence}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -5857,7 +5888,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (504)
+## TECHNOLOGIE (509)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6986,6 +7017,18 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
+### DFlash {#DFlash}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **perf** : Décodage spéculatif (block diffusion) ; ~6,17× sur Qwen3-8B (recherche), « jusqu'à 10× » annoncé (arXiv:2602.06036)
+
+- **améliore** → [[kb/_entites-mineures#vitesse-de-décodage-jusqu'à-~6,17×-sur-Qwen3-8B\|vitesse de décodage jusqu'à ~6,17× sur Qwen3-8B]] (MESURE) — 0.80
+
+- [[kb/LLMD\|LLMD]] **utilise** → DFlash — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### DGX Spark {#DGX-Spark}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -7137,11 +7180,12 @@
 
 ### Docker {#Docker}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **usage** : Déploiement multi-plateforme (amd64, arm64)
 
 - [[kb/agents-parallèles\|agents parallèles]] **utilise** → Docker — 0.98
+- [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] **a_créé** → Docker — 0.97
 - [[kb/n8n-workflows\|n8n-workflows]] **utilise** → Docker — 0.93
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
@@ -8103,6 +8147,14 @@
 
 **Fiches** : [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
+### Jotunn8 {#Jotunn8}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Processeur IA de VSORA intégrant la couche ZML
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### Jupyter {#Jupyter}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8412,6 +8464,16 @@
 - [[kb/SuperClaude\|SuperClaude]] **utilise** → MCP servers — 0.97
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
+
+### MLIR {#MLIR}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Infrastructure de compilation utilisée par ZML pour produire le binaire natif
+
+- [[kb/ZML\|ZML]] **utilise** → MLIR — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### MLflow {#MLflow}
 
@@ -10198,6 +10260,16 @@
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
+### Zig {#Zig}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Langage bas niveau dans lequel ZML est écrit (>90 %) ; pas de Python dans le chemin d'exécution
+
+- [[kb/ZML\|ZML]] **utilise** → Zig — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### agent swarms {#agent-swarms}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10568,6 +10640,16 @@
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
+### llama.cpp {#llama.cpp}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Roi de l'inférence locale mono-utilisateur
+
+- [[kb/LLMD\|LLMD]] **concurrence** → llama.cpp — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### mChat {#mChat}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -10918,13 +11000,16 @@
 
 ### vLLM {#vLLM}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **catégorie** : Framework d'inférence LLM
+- **positionnement** : Référence de débit sur GPU serveur ; support Apple Silicon communautaire/expérimental
 
 - **utilise** → [[kb/_entites-mineures#caching-du-prefill\|caching du prefill]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
+- [[kb/LLMD\|LLMD]] **concurrence** → vLLM — 0.85
+
+**Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### window.openai {#window.openai}
 
@@ -10974,7 +11059,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (742)
+## CONCEPT (743)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16507,6 +16592,16 @@
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
+### model to metal {#model-to-metal}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Découpler le modèle du matériel : compilation AOT vers un binaire natif hermétique exécutable sur cinq familles de puces
+
+- **réduit** → [[kb/_entites-mineures#dépendance-à-un-unique-fournisseur-de-silicium\|dépendance à un unique fournisseur de silicium]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### modes d'échec analytics {#modes-d'échec-analytics}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17810,7 +17905,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (337)
+## METHODOLOGIE (339)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -18492,6 +18587,16 @@
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
+### Design to Exit {#Design-to-Exit}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite
+
+- [[kb/LLMD\|LLMD]] **s_applique_à** → Design to Exit — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+
 ### DevOps {#DevOps}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -18653,6 +18758,16 @@
 - **réduit** → [[kb/_entites-mineures#coûts-cloud-20-30%\|coûts cloud 20-30%]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+
+### FinOps de l'IA générative {#FinOps-de-l'IA-générative}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Payer la charge au bon prix sur le bon matériel ; logique « coût par résultat / coût du token servi »
+
+- [[kb/LLMD\|LLMD]] **s_applique_à** → FinOps de l'IA générative — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### FinOps pour agents IA {#FinOps-pour-agents-IA}
 

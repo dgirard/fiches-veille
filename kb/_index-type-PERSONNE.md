@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 430 entités de type PERSONNE
+> 432 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -373,12 +373,13 @@
 - [[kb/_entites-mineures#Socrate\|Socrate]] — période: 469-399 av. J.-C. (1 occ., 1 fiches)
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] — rôle: Co-fondateur Orq.ai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sokratis-Kartakis\|Sokratis Kartakis]] — rôle: Co-auteur (Google) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] — rôle: Fondateur Docker, investisseur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] — rôle: Créateur de Docker ; business angel au capital de ZML (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Sophie-Neary\|Sophie Neary]] — rôle: Managing Director, Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Soufiane-Keli\|Soufiane Keli]] — rôle: Consultant OCTO Technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Srinivas-Tallapragada\|Srinivas Tallapragada]] — rôle: President & Chief Engineering and Customer Success Officer, Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stacy-Rasgon\|Stacy Rasgon]] — rôle: analyste financier cité par Bloomberg (1 occ., 1 fiches)
 - [[kb/_entites-mineures#StatQuest\|StatQuest]] — rôle: Créateur de contenu machine learning sur YouTube (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Steeve-Morin\|Steeve Morin]] — rôle: Fondateur/CEO de ZML, ex-VP Engineering de Zenly (rachetée par Snap) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stephenie-Zhang\|Stephenie Zhang]] — rôle: Partner Growth investing, Andreessen Horowitz (Enterprise tech) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Steve-Jobs\|Steve Jobs]] — attribut: Praticien de la méditation zen (1 occ., 1 fiches)
 - [[kb/Steve-Yegge\|Steve Yegge]] — rôle: Programmeur, créateur de Gas Town (1er janvier 2026), plateforme open source d'orchestration swarms Claude Code (2 occ., 2 fiches)
@@ -421,6 +422,7 @@
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] — rôle: Fondateur Manus, VP Meta (1 occ., 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] — rôle: CEO de HubSpot (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] — rôle: Lauréat du prix Turing ; soutient publiquement ZML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] — rôle: Chercheur, Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] — rôle: Group Chief Digital & Information Officer, Michelin (2 occ., 2 fiches)

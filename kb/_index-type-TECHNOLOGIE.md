@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 620 entités de type TECHNOLOGIE
+> 626 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -149,6 +149,7 @@
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
 - [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (12 occ., 12 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DFlash\|DFlash]] — perf: Décodage spéculatif (block diffusion) ; ~6,17× sur Qwen3-8B (recherche), « jusqu'à 10× » annoncé (arXiv:2602.06036) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] — catégorie: Workstation IA personnelle ARM64 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DPROD\|DPROD]] — catégorie: Spécification ouverte pour data products sémantiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DRAIF-MCP\|DRAIF MCP]] — description: Produit interne Raiffeisen — text-to-SQL sur Data Lake 10 000 tables ; embedding fine-tuné ×2 modèles OpenAI (1 occ., 1 fiches)
@@ -284,6 +285,7 @@
 - [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] — définition: Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jipa\|Jipa]] — catégorie: Technique optimisation automatique de prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jira\|Jira]] — catégorie: Outil de gestion de projet traditionnel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jotunn8\|Jotunn8]] — catégorie: Processeur IA de VSORA intégrant la couche ZML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jupyter\|Jupyter]] — catégorie: Notebook data science (référence historique) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#K-9-Mail\|K-9 Mail]] — description: Client email Android devenu Thunderbird for Android (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KVCache\|KVCache]] — rôle: Mécanisme de cache pour réduire les coûts d'inférence LLM (1 occ., 1 fiches)
@@ -294,6 +296,7 @@
 - [[kb/_entites-mineures#Kyriba\|Kyriba]] — usage: Système de gestion de trésorerie (TMS) — export des paiements non identifiés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-+-RAG\|LLM + RAG]] — avantage: Données fraîches (moins d'un jour vs. 1+ an) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-Knowledge-Bases\|LLM Knowledge Bases]] — catégorie: Outil personnel Karpathy : wiki auto-construit à partir d'articles lus (1 occ., 1 fiches)
+- [[kb/LLMD\|LLMD]] — catégorie: Serveur d'inférence LLM multi-backend ; API compatible OpenAI ; non open source, gratuit au lancement (alpha) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLMs\|LLMs]] — maturité: Technologie la plus mature du Hype Cycle GenAI (1 occ., 1 fiches)
 - [[kb/LangChain-technologie\|LangChain]] — usage: Framework prototypage agents IA (1 occ., 1 fiches)
 - [[kb/LangGraph\|LangGraph]] — catégorie: Framework d'orchestration d'agents LangChain (3 occ., 3 fiches)
@@ -322,6 +325,7 @@
 - [[kb/_entites-mineures#MCP-server\|MCP server]] — catégorie: Serveur Model Context Protocol (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MCP-servers\|MCP servers]] — nombre: 8 serveurs intégrés (1 occ., 1 fiches)
 - [[kb/MCP-UI\|MCP-UI]] — catégorie: Protocole ouvert UI via MCP (3 occ., 3 fiches)
+- [[kb/_entites-mineures#MLIR\|MLIR]] — rôle: Infrastructure de compilation utilisée par ZML pour produire le binaire natif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MLflow\|MLflow]] — rôle: Plateforme d'évaluation utilisée sur Databricks pour l'évaluation des 4 approches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MMLU-Pro\|MMLU-Pro]] — catégorie: Benchmark questions professionnelles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] — catégorie: Environnement open-source simulation agents (2 occ., 1 fiches)
@@ -449,7 +453,7 @@
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — catégorie: Benchmark agents codage, GLM-5.1 leader 58,4% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] — catégorie: Bibliothèque curatée de skills IA pour workflows Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sample-ROI-calculator\|Sample ROI calculator]] — description: Outil interactif DORA sur dora.dev/ai/roi/calculator. Sample : 500 FTE / 176k$ salary / 12.5% time saved → 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement (1 occ., 1 fiches)
-- [[kb/Scaleway\|Scaleway]] — catégorie: Cloud provider européen (IaaS/PaaS, public cloud) (1 occ., 1 fiches)
+- [[kb/Scaleway-technologie\|Scaleway]] — catégorie: Cloud provider européen (IaaS/PaaS, public cloud) (1 occ., 1 fiches)
 - [[kb/Scout\|Scout]] — catégorie: Outil codegen pour résolution érosion applicative (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Secure-GPT\|Secure GPT]] — propriétaire: AXA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Semantic-Kernel\|Semantic Kernel]] — catégorie: Framework d'agents Microsoft (1 occ., 1 fiches)
@@ -534,6 +538,7 @@
 - [[kb/_entites-mineures#Yoga\|Yoga]] — usage: Système de layout pour terminal (Meta) (1 occ., 1 fiches)
 - [[kb/YouTube-technologie\|YouTube]] — catégorie: Plateforme vidéo recommandée pour 2026 (2 occ., 2 fiches)
 - [[kb/Zapier-technologie\|Zapier]] — catégorie: Plateforme no-code d'automatisation workflows (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zig\|Zig]] — rôle: Langage bas niveau dans lequel ZML est écrit (>90 %) ; pas de Python dans le chemin d'exécution (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-swarms\|agent swarms]] — statut: Terme critiqué par Mollick comme "terriblement nommé" (1 occ., 1 fiches)
 - [[kb/agents-IA\|agents IA]] — rôle: consommateur principal des interfaces MCP (4 occ., 4 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] — rôle: Gèrent une partie des décisions (changement de paradigme) (1 occ., 1 fiches)
@@ -575,6 +580,7 @@
 - [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy-systems\|legacy systems]] — caractéristique: Impact sous-estimé dans la transition agentique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#llama.cpp\|llama.cpp]] — positionnement: Roi de l'inférence locale mono-utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] — catégorie: Chatbot interne Moderna construit sur OpenAI API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#machine-learning\|machine learning]] — impact coût: réduction de 200 000 $ à 10 000 $ par projet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mcpui.dev\|mcpui.dev]] — catégorie: Site communautaire guides et exemples (1 occ., 1 fiches)
@@ -616,7 +622,7 @@
 - [[kb/_entites-mineures#task_spam_detection.py\|task_spam_detection.py]] — rôle: Classifier Grok-based offline keye sur low-follower / low-quality reply patterns — risque d'exclusion silencieuse pour brand accounts qui répliquent lourdement sur big posts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] — plateforme: GitHub (2 occ., 1 fiches)
 - [[kb/_entites-mineures#use-cache\|use cache]] — catégorie: Nouvelle API Next.js 16 absente des données d'entraînement (1 occ., 1 fiches)
-- [[kb/_entites-mineures#vLLM\|vLLM]] — catégorie: Framework d'inférence LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#vLLM\|vLLM]] — catégorie: Framework d'inférence LLM (2 occ., 2 fiches)
 - [[kb/_entites-mineures#window.openai\|window.openai]] — catégorie: Objet injecté dans iframe par OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#x-algorithm\|x-algorithm]] — catégorie: Algorithme For You feed de X publié en open-source sous `xai-org/x-algorithm` le 15 mai 2026, ~4 composants Rust+Python/JAX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#x402\|x402]] — description: Protocole paiement agentique par Coinbase, basé sur HTTP 402 (1 occ., 1 fiches)

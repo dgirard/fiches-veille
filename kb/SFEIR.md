@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 9 relations | 5 fiches sources
+> **Type** : ORGANISATION | 10 relations | 5 fiches sources
 
 ## Attributs
 
@@ -39,6 +39,8 @@
 
 ### recommande
 
+- « mettre LLMD sous surveillance active plutôt que basculer en production aujourd'hui » (AFFIRMATION) — 0.92, STATIQUE
+  - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - « démarrer par une porte de spécification et la preuve d'exécution, pas par l'achat d'outils » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 

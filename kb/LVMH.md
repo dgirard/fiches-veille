@@ -10,7 +10,7 @@
 
 ### collabore_avec
 
-- [[kb/Scaleway\|Scaleway]] (ORGANISATION) — 0.98, DYNAMIQUE
+- [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
 ### prédit

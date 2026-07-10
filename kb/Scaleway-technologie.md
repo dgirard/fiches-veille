@@ -1,6 +1,6 @@
 # Scaleway
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,7 @@
 
 - [[kb/Damien-Lucas\|Damien Lucas]] **dirige** → Scaleway — 0.99
 - [[kb/LVMH\|LVMH]] **collabore_avec** → Scaleway — 0.98
+- [[kb/ZML\|ZML]] **collabore_avec** → Scaleway — 0.90
 
 ## Fiches sources
 

@@ -8,8 +8,8 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 328 fiches
-- **Par année** : 2026 (152) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 329 fiches
+- **Par année** : 2026 (153) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
   - Architecture & Construction : 33
@@ -18,10 +18,10 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Économie & Marché : 52
   - Philosophie & Société : 16
   - Stratégie & Frameworks : 8
-  - Outils & Plateformes : 21
+  - Outils & Plateformes : 22
   - Recherche & Éducation : 9
-  - Produits & Services : 6
-  - Politique & Régulation : 8
+  - Produits & Services : 7
+  - Politique & Régulation : 9
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
@@ -40,9 +40,9 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - SFEIR (2)
   - Jaya Gupta (2)
   - Finout (2)
-  - Tony Seale (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - voodootikigod.com (Chris Williams) (7)
@@ -55,6 +55,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - SFEIR (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)
@@ -63,7 +64,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Anthropic (X/Twitter) (2)
   - Tessl (2)
   - Stripe Engineering (2)
-  - Martin Fowler (2)
 
 <!-- stats:end -->
 

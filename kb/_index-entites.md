@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2662 entités
+> 2676 entités
 
 ## #
 
@@ -819,6 +819,7 @@
 - [[kb/_entites-mineures#Design-memory\|Design memory]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#design-patterns\|design patterns]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Design-system-HTML-de-référence\|Design system HTML de référence]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] (ORGANISATION, 1 fiches)
 - [[kb/design-md\|design.md]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dette-cognitive\|Dette cognitive]] (CONCEPT, 1 fiches)
@@ -834,6 +835,7 @@
 - [[kb/_entites-mineures#DevOps-Engineers\|DevOps Engineers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#DevPortal-Raiffeisen\|DevPortal Raiffeisen]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#DFlash\|DFlash]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Dia\|Dia]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diagnostic-Lattice\|Diagnostic Lattice]] (CONCEPT, 1 fiches)
@@ -1007,6 +1009,7 @@
 - [[kb/_entites-mineures#findings-vérifiés\|findings vérifiés]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FinOps\|FinOps]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#FinOps-appliqué-à-l'IA\|FinOps appliqué à l'IA]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#FinOps-de-l'IA-générative\|FinOps de l'IA générative]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] (DOCUMENT, 1 fiches)
 - [[kb/FinOps-Foundation\|FinOps Foundation]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#FinOps-pour-agents-IA\|FinOps pour agents IA]] (METHODOLOGIE, 1 fiches)
@@ -1385,6 +1388,7 @@
 - [[kb/John-Cutler\|John Cutler]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] (PERSONNE, 1 fiches)
@@ -1488,9 +1492,11 @@
 - [[kb/_entites-mineures#Lixil\|Lixil]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#llama.cpp\|llama.cpp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#LLM-+-RAG\|LLM + RAG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#LLM-Knowledge-Bases\|LLM Knowledge Bases]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#LLM-as-a-Judge\|LLM-as-a-Judge]] (METHODOLOGIE, 1 fiches)
+- [[kb/LLMD\|LLMD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#LLMs\|LLMs]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Lobby\|Lobby]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#LOC\|LOC]] (CONCEPT, 1 fiches)
@@ -1647,6 +1653,7 @@
 - [[kb/_entites-mineures#MIT-Sloan\|MIT Sloan]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#MLflow\|MLflow]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#MLIR\|MLIR]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MMLU\|MMLU]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#MMLU-Pro\|MMLU-Pro]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Moat-ontologique\|Moat ontologique]] (CONCEPT, 1 fiches)
@@ -1661,6 +1668,7 @@
 - [[kb/_entites-mineures#Model-hierarchies-(gouvernance-tokens)\|Model hierarchies (gouvernance tokens)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#model-ratchet\|model ratchet]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Model-routing\|Model routing]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#model-to-metal\|model to metal]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Model-harness-training-loop\|Model-harness training loop]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#modelcontextprotocol-servers\|modelcontextprotocol/servers]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Modele-outcome-based\|Modele outcome-based]] (METHODOLOGIE, 1 fiches)
@@ -2159,7 +2167,8 @@
 - [[kb/Satya-Nadella\|Satya Nadella]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Scaffolding\|Scaffolding]] (CONCEPT, 1 fiches)
-- [[kb/Scaleway\|Scaleway]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION, 1 fiches)
+- [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Scenario\|Scenario]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Schaeffler\|Schaeffler]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#schémas-MCP\|schémas MCP]] (CONCEPT, 1 fiches)
@@ -2276,7 +2285,7 @@
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sokratis-Kartakis\|Sokratis Kartakis]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Solario\|Solario]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] (PERSONNE, 2 fiches)
 - [[kb/Solstice-Lab\|Solstice Lab]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sonar\|Sonar]] (ORGANISATION, 1 fiches)
@@ -2335,6 +2344,7 @@
 - [[kb/_entites-mineures#State-Department\|State Department]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#StatQuest\|StatQuest]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Steeve-Morin\|Steeve Morin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Stephenie-Zhang\|Stephenie Zhang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Steve-Jobs\|Steve Jobs]] (PERSONNE, 1 fiches)
 - [[kb/Steve-Yegge\|Steve Yegge]] (PERSONNE, 2 fiches)
@@ -2604,12 +2614,13 @@
 - [[kb/_entites-mineures#VivaTech\|VivaTech]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#vLLM\|vLLM]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#vLLM\|vLLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] (ORGANISATION, 1 fiches)
 - [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Voyage-du-Héros\|Voyage du Héros]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#VS-Code\|VS Code]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#VSORA\|VSORA]] (ORGANISATION, 1 fiches)
 ## W
 
 - [[kb/_entites-mineures#Walking-skeleton\|Walking skeleton]] (METHODOLOGIE, 1 fiches)
@@ -2673,6 +2684,7 @@
 - [[kb/_entites-mineures#Yahoo-Finance\|Yahoo Finance]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#yak-shaving\|yak shaving]] (CONCEPT, 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] (PERSONNE, 2 fiches)
@@ -2690,8 +2702,10 @@
 - [[kb/_entites-mineures#zero-blast-radius\|zero blast radius]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-Architecture\|Zero Trust Architecture]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Zie619\|Zie619]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Zig\|Zig]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Zirui-Guo\|Zirui Guo]] (PERSONNE, 1 fiches)
+- [[kb/ZML\|ZML]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Zup\|Zup]] (ORGANISATION, 2 fiches)
 ## #
 

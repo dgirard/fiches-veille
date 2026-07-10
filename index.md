@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 328 fiches | 1975-12 → 2026-07-04 | généré le 2026-07-08
+> 329 fiches | 1975-12 → 2026-07-09 | généré le 2026-07-10
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
 - **03** [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison · Simon Willison's Weblog — Jugement du modèle, délégation à des subagents, model override
@@ -761,6 +762,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
 - [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8).
 - [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) — Thariq (@trq212)
@@ -797,6 +799,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Project Genie: Interactive World Models with Genie 3](fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02.md) — Logan Kilpatrick (Google DeepMind), Diego Schlomi (Google DeepMind), Jack (Google DeepMind)
 - [Tech predictions for 2026 and beyond](fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md) — Werner Vogels, CTO and Vice President of Amazon.com
 - [Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance](fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22.md) — Perplexity, tech media
@@ -806,6 +809,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Anthropic's War on Opensource AI](fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12.md) — Ahmad Osman (@TheAhmadOsman)
 - [LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien République)](fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11.md) — **Bertrand** — journaliste / présentateur du média **République** (partenaire de VivaTech), conduit l'entretien. **Damien Lucas** — CEO de **Scaleway**. **Franck Le Moal** — Global Technical Officer du groupe **LVMH**.
 - [Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de l'intelligence artificielle](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) — **Léon XIV** (de naissance Robert Francis Prevost), 267e Pape de l'Église catholique, élu le **8 mai 2025**, premier pape américain de l'histoire (né à Chicago, USA, 1955 ; double nationalité américano-péruvienne). Augustinien (ancien Prieur général de l'Ordre de Saint-Augustin 2001-2013), ancien évêque de Chiclayo (Pérou) puis Préfet du Dicastère pour les Évêques (2023-2025). *Magnifica Humanitas* est sa **première encyclique sociale**, signée *« Donné à Rome, près de Saint-Pierre, le 15 mai de l'année 2026, la deuxième de mon Pontificat »* — date choisie pour **coïncider avec le 135e anniversaire de *Rerum Novarum*** (15 mai 1891) de Léon XIII, dont il a explicitement repris le nom de pontificat en référence à la tradition sociale lancée par son prédécesseur du XIXe siècle. La référence augustinienne est centrale dans le document (citations massives des *Confessions*, du *De civitate Dei* — *« deux amours ont fait deux cités »*, des *Enarrationes in Psalmos*, des *Sermones*). Trace de paternité collective : multiples références à *Antiqua et nova* (note conjointe DDF + DCE, 14 janvier 2025) et *Quo vadis, humanitas ?* (CTI, 9 février 2026), suggérant un travail conjoint entre la Secrétairerie d'État, le Dicastère pour la Doctrine de la Foi, le Dicastère pour la Culture et l'Éducation, et le Dicastère pour le Service du Développement humain intégral.
@@ -817,8 +821,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 328 fiches
-- **Par année** : 2026 (152) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 329 fiches
+- **Par année** : 2026 (153) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
   - Architecture & Construction : 33
@@ -827,10 +831,10 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Économie & Marché : 52
   - Philosophie & Société : 16
   - Stratégie & Frameworks : 8
-  - Outils & Plateformes : 21
+  - Outils & Plateformes : 22
   - Recherche & Éducation : 9
-  - Produits & Services : 6
-  - Politique & Régulation : 8
+  - Produits & Services : 7
+  - Politique & Régulation : 9
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
@@ -849,9 +853,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - SFEIR (2)
   - Jaya Gupta (2)
   - Finout (2)
-  - Tony Seale (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - voodootikigod.com (Chris Williams) (7)
@@ -864,6 +868,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - SFEIR (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)
@@ -872,4 +877,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Anthropic (X/Twitter) (2)
   - Tessl (2)
   - Stripe Engineering (2)
-  - Martin Fowler (2)

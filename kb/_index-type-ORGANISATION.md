@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 337 entités de type ORGANISATION
+> 340 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -255,6 +255,7 @@
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] — secteur: Informatique spatiale décentralisée (1 occ., 1 fiches)
+- [[kb/Scaleway-organisation\|Scaleway]] — rôle: Partenaire cloud de la chaîne de valeur souveraine de l'inférence (VivaTech 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Schaeffler\|Schaeffler]] — secteur: Pièces automobiles (Caroline du Sud, Allemagne) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Seagate\|Seagate]] — secteur: Stockage de données / Hardware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] — secteur: Services à domicile (utilisateur Replit) (1 occ., 1 fiches)
@@ -304,6 +305,7 @@
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] — type: Université américaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] — acte: Condamnation de l'averroïsme en 1270 et 1277 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Utah\|Utah]] — initiative: Rapport IA en préparation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#VSORA\|VSORA]] — rôle: Concepteur de puces (processeur Jotunn8) ; puce européenne émergente intégrant la couche ZML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Valence\|Valence]] — secteur: AI coaching pour entreprises Fortune 500 (1 occ., 1 fiches)
 - [[kb/Vercel\|Vercel]] — secteur: Infrastructure cloud / déploiement web (3 occ., 3 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] — secteur: Global trade body for advertising and marketing services. Publie en mars 2026 le rapport "Redesigning the Agency Value Model" (95 pages) (1 occ., 1 fiches)
@@ -323,6 +325,7 @@
 - [[kb/YouTube-organisation\|YouTube]] — secteur: Plateforme vidéo / Éducation en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Z-AI\|Z AI]] — secteur: Labo IA (Zhipu AI, Chine), créateur de la famille GLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Z.ai\|Z.ai]] — secteur: Modèles de fondation chinois (open-weights) (1 occ., 1 fiches)
+- [[kb/ZML\|ZML]] — profil: Startup parisienne (fondée 2023), ~20 pers., ~20 M$ levés ; framework d'inférence homonyme (Apache-2.0, >90 % Zig) (1 occ., 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] — secteur: Automatisation / Orchestration IA (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] — secteur: Immobilier / PropTech (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zup\|Zup]] — secteur: Technologie (2 occ., 2 fiches)

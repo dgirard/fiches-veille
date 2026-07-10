@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 765 entités de type CONCEPT
+> 766 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -625,6 +625,7 @@
 - [[kb/_entites-mineures#mauvaise-configuration-load-balancer\|mauvaise configuration load balancer]] — type: cause déclenchante de cascade (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mere-ceremony\|mere ceremony]] — catégorie: Tâche organisationnelle sans utilité réelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] — définition: Injection d'instructions comportementales dans un LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#model-to-metal\|model to metal]] — définition: Découpler le modèle du matériel : compilation AOT vers un binaire natif hermétique exécutable sur cinq familles de puces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modes-d'échec-analytics\|modes d'échec analytics]] — liste: Ambiguïté concept-entité, obsolescence, échec de retrieval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modes-de-défaillance-des-modèles\|modes de défaillance des modèles]] — liste: F1 satisfaction prématurée, F2 sycophancie, F3 context rot, F4 hallucination confiante, F5 reward hacking, F6 biais du nombre de findings, F7 bloat génératif, F8 perte de cohérence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-de-domaine\|modèle de domaine]] — rôle: Structure les objets métier avec comportements exposables comme outils aux LLMs (1 occ., 1 fiches)
