@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=97b547620e911a6a4ec8a7887a3410873e68ca7e67c726cce7b2f6bc855ed2fb fiches=329 -->
-> 329 fiches | 2676 entités | 4694 triples | Généré le 2026-07-10
+<!-- manifest: sha256=71f4cd2cab7890531477328c786d2872eeaee0a7156cafa1cece5d11d60b998b fiches=330 -->
+> 330 fiches | 2691 entités | 4709 triples | Généré le 2026-07-14
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (432)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (340)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (437)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (347)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (626)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (766)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (768)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (376)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (42)
-- [[kb/_index-type-LIEU\|LIEU]] (4)
+- [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (90)
-- [[kb/_entites-mineures\|Entités mineures]] (2296)
+- [[kb/_entites-mineures\|Entités mineures]] (2310)
 
 ## Entités les plus connectées
 
@@ -45,13 +45,13 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 570
-- **affirme_que** : 486
+- **utilise** : 571
+- **affirme_que** : 492
 - **permet** : 425
-- **mesure** : 360
+- **mesure** : 361
 - **a_créé** : 308
 - **publie** : 285
-- **est_basé_sur** : 197
+- **est_basé_sur** : 198
 - **recommande** : 197
 - **améliore** : 186
 - **réduit** : 176
@@ -63,16 +63,16 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 432 (16.1%)
-- **ORGANISATION** : 340 (12.7%)
-- **TECHNOLOGIE** : 626 (23.4%)
-- **CONCEPT** : 766 (28.6%)
-- **METHODOLOGIE** : 376 (14.1%)
+- **PERSONNE** : 437 (16.2%)
+- **ORGANISATION** : 347 (12.9%)
+- **TECHNOLOGIE** : 626 (23.3%)
+- **CONCEPT** : 768 (28.5%)
+- **METHODOLOGIE** : 376 (14.0%)
 - **EVENEMENT** : 42 (1.6%)
-- **LIEU** : 4 (0.1%)
-- **DOCUMENT** : 90 (3.4%)
+- **LIEU** : 5 (0.2%)
+- **DOCUMENT** : 90 (3.3%)
 
 ### Déduplication
 
-- **Triples** : 4770 → 4694 (76 doublons)
-- **Entités** : 3452 → 2676 (776 doublons)
+- **Triples** : 4785 → 4709 (76 doublons)
+- **Entités** : 3467 → 2691 (776 doublons)

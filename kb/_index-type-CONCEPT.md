@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 766 entités de type CONCEPT
+> 768 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -27,6 +27,7 @@
 - [[kb/_entites-mineures#3-5×-multiplier-(médiane-committée)\|3-5× multiplier (médiane committée)]] — convergence: Frizzo (LinkedIn 2026-05-05), Wescale (2026-05-03), Curran/Intercom moyenne (2026-04-16), DORA Report 2025, Stanford Denisov-Blanch (2025-11-23) — productivité réaliste pour le praticien moyen committé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#30%-codebase-max-TDD\|30% codebase max TDD]] — source: Estimation Eveillard du périmètre code domaine où le TDD est pertinent. À adapter selon contexte (compilateur peut être 80% domaine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#500%-productivité-flow-(McKinsey)\|500% productivité flow (McKinsey)]] — source: Étude McKinsey senior executives sur le multiplicateur productivité en flow state (1 occ., 1 fiches)
+- [[kb/996\|996]] — définition: Rythme de travail 9 h–21 h, six jours/semaine (72 h) ; norme importée de la tech chinoise (1 occ., 1 fiches)
 - [[kb/AEO\|AEO]] — définition: Optimisation pour être cité par les moteurs de réponse IA (1 occ., 1 fiches)
 - [[kb/AGI-concept\|AGI]] — statut_selon_Julia: Non réalisable avec approches actuelles (3 occ., 3 fiches)
 - [[kb/_entites-mineures#AI-Act-(UE)\|AI Act (UE)]] — définition: Règlement européen sur l'IA, entrée en vigueur progressive avec une étape majeure en août (probablement 2026) — empilement avec RGPD et text-and-data mining, complexifiant le marché (1 occ., 1 fiches)
@@ -248,6 +249,7 @@
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] — définition: Formulation léonienne (n. 98) : *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* — dialogue avec le vocabulaire ML 2026 sur les modèles émergents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-locale\|IA locale]] — slogan: « Buy a GPU » = exit power / déclaration d'indépendance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] — définition: « Seule économie politique de l'intelligence » : usage, étude, modification, partage (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IAG-(AGI)\|IAG (AGI)]] — rôle: Échéance perçue justifiant l'urgence de s'enrichir avant une « sous-classe permanente » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IDP-as-product\|IDP as product]] — définition: Internal Developer Platform traité comme produit avec utilisateurs (devs ET agents IA), guardrails et UX réduisant cognitive load — primary connective tissue for AI value (DORA 2025 confirmé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Imperfect-metrics-doctrine\|Imperfect metrics doctrine]] — source: Curran : "embrace potentially imperfect measures + monitor holistic outcomes" — anti-paralysie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Implementation-advantage\|Implementation advantage]] — définition: Les outils vendors externes réussissent 2x plus souvent que les builds internes (1 occ., 1 fiches)

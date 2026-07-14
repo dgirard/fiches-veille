@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2304 entités avec moins de 3 triples/fiches
+> 2318 entités avec moins de 3 triples/fiches
 
-## PERSONNE (328)
+## PERSONNE (333)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -71,6 +71,16 @@
 - **a_créé** → [[kb/Weave\|Weave]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
+
+### Adrian Kinnersley {#Adrian-Kinnersley}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996
+
+- **affirme_que** → [[kb/_entites-mineures#de-nombreuses-entreprises-appliquant-le-996-sont-totalement-non-conformes-aux-lois-américaines-du-travail\|de nombreuses entreprises appliquant le 996 sont totalement non conformes aux lois américaines du travail]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Aimee Donnellan {#Aimee-Donnellan}
 
@@ -742,6 +752,17 @@
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 
+### Daksh Gupta {#Daksh-Gupta}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Président de la start-up Greptile
+
+- **affirme_que** → [[kb/_entites-mineures#pas-d'alcool,-pas-de-drogue,-996,-de-la-gym,-courir-loin,-se-marier-tôt,-surveiller-son-sommeil,-manger-des-steaks-et-des-œufs\|"pas d'alcool, pas de drogue, 996, de la gym, courir loin, se marier tôt, surveiller son sommeil, manger des steaks et des œufs"]] (CITATION) — 0.95
+- **dirige** → [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
 ### Dan Shapiro {#Dan-Shapiro}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -973,6 +994,17 @@
 - **publie** → [[kb/_entites-mineures#Outcome-based-pricing-for-AI-Agents\|Outcome-based pricing for AI Agents]] (DOCUMENT) — 0.97
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
+
+### Emily Yuan {#Emily-Yuan}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Cofondatrice de Corgi, 23 ans
+
+- **affirme_que** → [[kb/_entites-mineures#Pourquoi-irais-je-boire-un-verre-dans-un-bar-si-je-peux-créer-une-entreprise\|"Pourquoi irais-je boire un verre dans un bar si je peux créer une entreprise ?"]] (CITATION) — 0.90
+- **dirige** → [[kb/_entites-mineures#Corgi\|Corgi]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Eric Maxwell {#Eric-Maxwell}
 
@@ -1946,6 +1978,14 @@
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
+### Martin Gauthier {#Martin-Gauthier}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Journaliste signataire de la synthèse pour Courrier International
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
 ### Martin Harrison {#Martin-Harrison}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1955,6 +1995,17 @@
 - **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+
+### Marty Kausas {#Marty-Kausas}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Fondateur de la start-up d'IA Pylon ; revendique 92 h/semaine
+
+- **dirige** → [[kb/_entites-mineures#Pylon\|Pylon]] (ORGANISATION) — 0.95
+- **mesure** → [[kb/_entites-mineures#92-heures-de-travail-par-semaine-pendant-trois-semaines-d'affilée\|92 heures de travail par semaine pendant trois semaines d'affilée]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Martín De Simone {#Martín-De-Simone}
 
@@ -3276,7 +3327,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (259)
+## ORGANISATION (266)
 
 ### 10x {#10x}
 
@@ -3833,6 +3884,16 @@
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 
+### Corgi {#Corgi}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Société d'infrastructure financière spécialisée dans l'IA
+
+- [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] **dirige** → Corgi — 0.90
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
 ### Cornell Treasury Operations {#Cornell-Treasury-Operations}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -3844,6 +3905,24 @@
 - [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] **collabore_avec** → Cornell Treasury Operations — 0.97
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
+
+### Cour suprême chinoise {#Cour-suprême-chinoise}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : A statué que le 996 imposé sans compensation est illégal
+
+- **affirme_que** → [[kb/_entites-mineures#contraindre-les-travailleurs-au-996-sans-compensation-est-illégal\|contraindre les travailleurs au 996 sans compensation est illégal]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
+### Courrier International {#Courrier-International}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **catégorie** : Média français de revue de presse internationale (rubrique Courrier Expat)
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Crystal Peak Security {#Crystal-Peak-Security}
 
@@ -4156,6 +4235,16 @@
 
 **Fiches** : [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
 
+### Fella & Delilah {#Fella-&-Delilah}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Firme de télésanté ; incite au 996 par +25 % de salaire et +100 % de parts
+
+- **utilise** → [[kb/_entites-mineures#hausse-de-salaire-de-25-%-pour-faire-adopter-le-996\|hausse de salaire de 25 % pour faire adopter le 996]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
 ### Fin Ideas {#Fin-Ideas}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4297,6 +4386,16 @@
 - **dirige** → [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] (ORGANISATION) — 0.88
 
 **Fiches** : [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
+
+### Greptile {#Greptile}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Start-up tech (San Francisco)
+
+- [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] **dirige** → Greptile — 0.95
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### HEC Paris {#HEC-Paris}
 
@@ -5104,6 +5203,16 @@
 
 **Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
 
+### Pylon {#Pylon}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Start-up d'IA
+
+- [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] **dirige** → Pylon — 0.95
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
 ### QodoAI {#QodoAI}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -5153,6 +5262,16 @@
 - **publie** → [[kb/_entites-mineures#article-de-David-Perrin\|article de David Perrin]] (DOCUMENT) — 0.99
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
+
+### Rilla {#Rilla}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : Start-up d'IA (logiciels de coaching commercial) ; ~80 employés au 996
+
+- **affirme_que** → [[kb/_entites-mineures#presque-l'ensemble-de-ses-80-employés-adhèrent-au-996\|presque l'ensemble de ses 80 employés adhèrent au 996]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Riskified {#Riskified}
 
@@ -11059,7 +11178,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (743)
+## CONCEPT (744)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13141,6 +13260,14 @@
 - [[kb/Anthropic\|Anthropic]] **s_oppose_à** → IA open source — 0.85
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### IAG (AGI) {#IAG-(AGI)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Échéance perçue justifiant l'urgence de s'enrichir avant une « sous-classe permanente »
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### IDP as product {#IDP-as-product}
 
@@ -21548,7 +21675,7 @@
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
-## LIEU (4)
+## LIEU (5)
 
 ### Benin City {#Benin-City}
 
@@ -21565,6 +21692,16 @@
 - **description** : Loudon County (Northern Virginia, ground zero data centers US) — data centers généreront $1,3 Md sur $2,9 Md revenus fiscaux 2027 (~45%). Tension dépendance fiscale vs opposition publique
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+
+### Silicon Valley {#Silicon-Valley}
+
+**Type** : LIEU | 1 relations | 1 fiches
+
+- **rôle** : Épicentre de la diffusion du 996, porté par la ruée sur l'IA
+
+- [[kb/996\|996]] **observé_dans** → Silicon Valley — 0.95
+
+**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Singapour {#Singapour}
 

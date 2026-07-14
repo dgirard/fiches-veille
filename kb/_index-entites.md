@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2676 entités
+> 2691 entités
 
 ## #
 
@@ -58,6 +58,7 @@
 - [[kb/_entites-mineures#7-step-workflow-market-research-IA\|7-step workflow market research IA]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#70-30-topical-core-exploratory-split\|70/30 topical core / exploratory split]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#72andSunny\|72andSunny]] (ORGANISATION, 1 fiches)
+- [[kb/996\|996]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#@adlc-core\|@adlc/core]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#@deepnote-blocks\|@deepnote/blocks]] (TECHNOLOGIE, 1 fiches)
@@ -97,6 +98,7 @@
 - [[kb/_entites-mineures#adoption-bottom-up\|adoption bottom-up]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adoption-IA-en-entreprise\|Adoption IA en entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] (PERSONNE, 1 fiches)
 - [[kb/AEO\|AEO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#After-Automation\|After Automation]] (DOCUMENT, 1 fiches)
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] (ORGANISATION, 1 fiches)
@@ -706,6 +708,7 @@
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Cora\|Cora]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Corgi\|Corgi]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] (ORGANISATION, 1 fiches)
@@ -722,6 +725,8 @@
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)\|Couple journalistique NYT (Sun + Wallace-Wells)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Cour-suprême-chinoise\|Cour suprême chinoise]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Courrier-International\|Courrier International]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Coût-de-friction\|Coût de friction]] (CONCEPT, 1 fiches)
@@ -761,6 +766,7 @@
 ## D
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] (PERSONNE, 1 fiches)
 - [[kb/Damien-Lucas\|Damien Lucas]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] (PERSONNE, 1 fiches)
 - [[kb/Dan-Shipper\|Dan Shipper]] (PERSONNE, 3 fiches)
@@ -937,6 +943,7 @@
 - [[kb/_entites-mineures#email-agent\|email agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Embabel\|Embabel]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Empowerment-promise\|Empowerment promise]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] (CONCEPT, 1 fiches)
@@ -995,6 +1002,7 @@
 - [[kb/_entites-mineures#FDA\|FDA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Fella-&-Delilah\|Fella & Delilah]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#fenêtres-de-contexte\|fenêtres de contexte]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Fergus-Hurley\|Fergus Hurley]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Fichier-mémoire\|Fichier mémoire]] (DOCUMENT, 1 fiches)
@@ -1194,6 +1202,7 @@
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] (PERSONNE, 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] (TECHNOLOGIE, 1 fiches)
@@ -1294,6 +1303,7 @@
 - [[kb/_entites-mineures#IA-locale\|IA locale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-Responsable\|IA Responsable]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#IAG-(AGI)\|IAG (AGI)]] (CONCEPT, 1 fiches)
 - [[kb/Iceberg-Index\|Iceberg Index]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IDE\|IDE]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] (CONCEPT, 1 fiches)
@@ -1560,8 +1570,10 @@
 - [[kb/_entites-mineures#marketplace-interne-Anthropic\|marketplace interne Anthropic]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mars\|Mars]] (CONCEPT, 1 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] (PERSONNE, 3 fiches)
+- [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] (PERSONNE, 1 fiches)
 - [[kb/Martin-Monperrus\|Martin Monperrus]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] (PERSONNE, 1 fiches)
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] (PERSONNE, 1 fiches)
@@ -2010,6 +2022,7 @@
 - [[kb/_entites-mineures#puppy-dog-junior-developer\|puppy-dog junior developer]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Purgatoire-des-pilotes-IA\|Purgatoire des pilotes IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Purple-gradient-meme\|Purple gradient meme]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Pylon\|Pylon]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pyramide-de-tests\|Pyramide de tests]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Python\|Python]] (TECHNOLOGIE, 1 fiches)
@@ -2100,6 +2113,7 @@
 - [[kb/_entites-mineures#RGPD\|RGPD]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Rilla\|Rilla]] (ORGANISATION, 1 fiches)
 - [[kb/Rippletide\|Rippletide]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#RISC-V\|RISC-V]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Riskified\|Riskified]] (ORGANISATION, 1 fiches)
@@ -2237,6 +2251,7 @@
 - [[kb/_entites-mineures#Sidecar-Docker-GKG\|Sidecar Docker GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Sierra\|Sierra]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Silicon-Valley\|Silicon Valley]] (LIEU, 1 fiches)
 - [[kb/_entites-mineures#Simmer\|Simmer]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Simon-Belbeoch\|Simon Belbeoch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Simon-Sinek\|Simon Sinek]] (PERSONNE, 1 fiches)

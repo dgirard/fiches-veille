@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 432 entités de type PERSONNE
+> 437 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -11,6 +11,7 @@
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
 - [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (8 occ., 7 fiches)
+- [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] — affiliation: Reuters Breakingviews (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-Bores\|Alex Bores]] — rôle: Candidat NY congressional, propose safety regulation IA + paiements directs financés par taxe IA (1 occ., 1 fiches)
@@ -93,6 +94,7 @@
 - [[kb/_entites-mineures#Confucius\|Confucius]] — période: 551-479 av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] — rôle: Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] — rôle: Investor, Andreessen Horowitz (AI applications) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] — rôle: Président de la start-up Greptile (1 occ., 1 fiches)
 - [[kb/Damien-Lucas\|Damien Lucas]] — rôle: CEO de Scaleway (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] — contribution: Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs (1 occ., 1 fiches)
 - [[kb/Dan-Shipper\|Dan Shipper]] — rôle: CEO et co-fondateur Every (média/studio AI-native), auteur Compound Engineering (3 occ., 3 fiches)
@@ -127,6 +129,7 @@
 - [[kb/_entites-mineures#Edward-Tufte\|Edward Tufte]] — domaine: Visualisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elliot-Greenwald\|Elliot Greenwald]] — rôle: Auteur du billet fondateur Sierra sur l'outcome-based pricing (10 déc. 2024) (1 occ., 1 fiches)
 - [[kb/Elon-Musk\|Elon Musk]] — rôle: Dirigeant de SpaceX, Tesla, xAI (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] — rôle: Cofondatrice de Corgi, 23 ans (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] — rôle: Lead 10X Technology consulting Google, ex-Chef Software, contributeur DORA team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
@@ -260,8 +263,10 @@
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] — rôle: Éditeur de news, Tom's Hardware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: CEO Meta (1 occ., 1 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] — rôle: Journaliste signataire de la synthèse pour Courrier International (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
 - [[kb/Martin-Monperrus\|Martin Monperrus]] — rôle: Chercheur en génie logiciel (KTH), auteur du papier (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] — rôle: Fondateur de la start-up d'IA Pylon ; revendique 92 h/semaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] — rôle: Auteur principal, chercheur Banque Mondiale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] — rôle: Développeur / coach craft / formateur français, blog personnel mathieueveillard.com, services Accompagnement et Office hours, newsletter hebdomadaire (1 occ., 1 fiches)
