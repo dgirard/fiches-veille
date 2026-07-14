@@ -80,7 +80,7 @@
 
 - **affirme_que** → [[kb/_entites-mineures#de-nombreuses-entreprises-appliquant-le-996-sont-totalement-non-conformes-aux-lois-américaines-du-travail\|de nombreuses entreprises appliquant le 996 sont totalement non conformes aux lois américaines du travail]] (AFFIRMATION) — 0.88
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Aimee Donnellan {#Aimee-Donnellan}
 
@@ -761,7 +761,7 @@
 - **affirme_que** → [[kb/_entites-mineures#pas-d'alcool,-pas-de-drogue,-996,-de-la-gym,-courir-loin,-se-marier-tôt,-surveiller-son-sommeil,-manger-des-steaks-et-des-œufs\|"pas d'alcool, pas de drogue, 996, de la gym, courir loin, se marier tôt, surveiller son sommeil, manger des steaks et des œufs"]] (CITATION) — 0.95
 - **dirige** → [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION) — 0.95
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Dan Shapiro {#Dan-Shapiro}
 
@@ -1004,7 +1004,7 @@
 - **affirme_que** → [[kb/_entites-mineures#Pourquoi-irais-je-boire-un-verre-dans-un-bar-si-je-peux-créer-une-entreprise\|"Pourquoi irais-je boire un verre dans un bar si je peux créer une entreprise ?"]] (CITATION) — 0.90
 - **dirige** → [[kb/_entites-mineures#Corgi\|Corgi]] (ORGANISATION) — 0.90
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Eric Maxwell {#Eric-Maxwell}
 
@@ -1984,7 +1984,7 @@
 
 - **rôle** : Journaliste signataire de la synthèse pour Courrier International
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Martin Harrison {#Martin-Harrison}
 
@@ -2005,7 +2005,7 @@
 - **dirige** → [[kb/_entites-mineures#Pylon\|Pylon]] (ORGANISATION) — 0.95
 - **mesure** → [[kb/_entites-mineures#92-heures-de-travail-par-semaine-pendant-trois-semaines-d'affilée\|92 heures de travail par semaine pendant trois semaines d'affilée]] (MESURE) — 0.90
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Martín De Simone {#Martín-De-Simone}
 
@@ -3892,7 +3892,7 @@
 
 - [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] **dirige** → Corgi — 0.90
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Cornell Treasury Operations {#Cornell-Treasury-Operations}
 
@@ -3914,7 +3914,7 @@
 
 - **affirme_que** → [[kb/_entites-mineures#contraindre-les-travailleurs-au-996-sans-compensation-est-illégal\|contraindre les travailleurs au 996 sans compensation est illégal]] (AFFIRMATION) — 0.90
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Courrier International {#Courrier-International}
 
@@ -3922,7 +3922,7 @@
 
 - **catégorie** : Média français de revue de presse internationale (rubrique Courrier Expat)
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Crystal Peak Security {#Crystal-Peak-Security}
 
@@ -4243,7 +4243,7 @@
 
 - **utilise** → [[kb/_entites-mineures#hausse-de-salaire-de-25-%-pour-faire-adopter-le-996\|hausse de salaire de 25 % pour faire adopter le 996]] (AFFIRMATION) — 0.85
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Fin Ideas {#Fin-Ideas}
 
@@ -4395,7 +4395,7 @@
 
 - [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] **dirige** → Greptile — 0.95
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### HEC Paris {#HEC-Paris}
 
@@ -5211,7 +5211,7 @@
 
 - [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] **dirige** → Pylon — 0.95
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### QodoAI {#QodoAI}
 
@@ -5271,7 +5271,7 @@
 
 - **affirme_que** → [[kb/_entites-mineures#presque-l'ensemble-de-ses-80-employés-adhèrent-au-996\|presque l'ensemble de ses 80 employés adhèrent au 996]] (AFFIRMATION) — 0.85
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Riskified {#Riskified}
 
@@ -13267,7 +13267,7 @@
 
 - **rôle** : Échéance perçue justifiant l'urgence de s'enrichir avant une « sous-classe permanente »
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### IDP as product {#IDP-as-product}
 
@@ -21701,7 +21701,7 @@
 
 - [[kb/996\|996]] **observé_dans** → Silicon Valley — 0.95
 
-**Fiches** : [[fiches/2026-07/gauthier-996-silicon-valley-2026-07-14\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+**Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
 
 ### Singapour {#Singapour}
 

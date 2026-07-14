@@ -2,7 +2,7 @@
 themes: [economie-marche, philosophie-societe]
 source: "Courrier International"
 ---
-# gauthier-996-silicon-valley-2026-07-14
+# gauthier-996-silicon-valley-2025-09-30
 
 ## Veille
 
@@ -14,7 +14,7 @@ Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, 
 
 ## Date
 
-2026-07-14
+2025-09-30
 
 ## URL
 

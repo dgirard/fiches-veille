@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 330 fiches | 1975-12 → 2026-07-14 | généré le 2026-07-14
+> 330 fiches | 1975-12 → 2026-07-09 | généré le 2026-07-14
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,7 +8,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
-- **14** [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2026-07/gauthier-996-silicon-valley-2026-07-14.md) — Martin Gauthier (Courrier International) · Courrier International — 996, Silicon Valley, culture du travail
 - **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
@@ -292,6 +291,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2025-09
 
+- **30** [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2025-09/gauthier-996-silicon-valley-2025-09-30.md) — Martin Gauthier (Courrier International) · Courrier International — 996, Silicon Valley, culture du travail
 - **29** [Subagents - Claude Docs](fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29.md) — Anthropic (documentation officielle) · Anthropic — Claude Code, subagents, AI assistants
 - **29** [Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints](fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29.md) — Ethan Mollick, Professeur à la Wharton School, University of Pennsylvania · Ethan Mollick — Agents IA, travail réel, impact économique
 - **28** [I have seen the compounding teams](fiches/2025-09/compounding-teams-schillace-2025-09-28.md) — Sam Schillace · Substack — Compounding Teams, AI-driven Development, Exponential Productivity
@@ -678,7 +678,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
-- [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2026-07/gauthier-996-silicon-valley-2026-07-14.md) — Martin Gauthier (Courrier International)
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
 - [Claude Fable 5 and Claude Mythos 5](fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09.md) — Anthropic
@@ -725,6 +724,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals'](fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09.md) — Philippe Ensarguet
 - [Fixed marketing budgets are holding you back. Here's the fix](fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02.md) — Guillaume Roques (Senior Director of Marketing for Google Cloud EMEA)
 - [Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget](fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01.md) — Google Marketing Team
+- [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2025-09/gauthier-996-silicon-valley-2025-09-30.md) — Martin Gauthier (Courrier International)
 - [L'ère des assistants de codage IA bon marché pourrait être révolue](fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15.md) — Anirban Ghoshal
 - [The Top 100 Gen AI Consumer Apps - 5th Edition | Andreessen Horowitz](fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27.md) — Olivia Moore and Daisy Zhao
 - [The 2025 Hype Cycle for GenAI Highlights Critical Innovations](fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29.md) — Arun Chandrasekaran
@@ -734,7 +734,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
-- [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2026-07/gauthier-996-silicon-valley-2026-07-14.md) — Martin Gauthier (Courrier International)
 - [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de l'intelligence artificielle](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) — **Léon XIV** (de naissance Robert Francis Prevost), 267e Pape de l'Église catholique, élu le **8 mai 2025**, premier pape américain de l'histoire (né à Chicago, USA, 1955 ; double nationalité américano-péruvienne). Augustinien (ancien Prieur général de l'Ordre de Saint-Augustin 2001-2013), ancien évêque de Chiclayo (Pérou) puis Préfet du Dicastère pour les Évêques (2023-2025). *Magnifica Humanitas* est sa **première encyclique sociale**, signée *« Donné à Rome, près de Saint-Pierre, le 15 mai de l'année 2026, la deuxième de mon Pontificat »* — date choisie pour **coïncider avec le 135e anniversaire de *Rerum Novarum*** (15 mai 1891) de Léon XIII, dont il a explicitement repris le nom de pontificat en référence à la tradition sociale lancée par son prédécesseur du XIXe siècle. La référence augustinienne est centrale dans le document (citations massives des *Confessions*, du *De civitate Dei* — *« deux amours ont fait deux cités »*, des *Enarrationes in Psalmos*, des *Sermones*). Trace de paternité collective : multiples références à *Antiqua et nova* (note conjointe DDF + DCE, 14 janvier 2025) et *Quo vadis, humanitas ?* (CTI, 9 février 2026), suggérant un travail conjoint entre la Secrétairerie d'État, le Dicastère pour la Doctrine de la Foi, le Dicastère pour la Culture et l'Éducation, et le Dicastère pour le Service du Développement humain intégral.
 - [A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to the world. They forgot about people.)](fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08.md) — **David Wallace-Wells** — NYT Magazine staff writer, journaliste américain reconnu pour son travail sur le climat (livre *The Uninhabitable Earth* 2019, ancien deputy editor de *New York Magazine*). Connu pour des essais long-form combinant reportage, prospective et critique politique des technologies. **Article publié dans le NYT Magazine** le **8 mai 2026** (édition online, ~16 minutes audio), section politique-tech.
@@ -744,6 +743,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future](fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02.md) — Lenny Rachitsky, Marc Andreessen
 - [A.I. Companies Are Eating Higher Education](fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12.md) — Matthew Connelly (vice-doyen pour les initiatives IA, Columbia University)
 - [L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin](fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11.md) — David Perrin
+- [Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"](fiches/2025-09/gauthier-996-silicon-valley-2025-09-30.md) — Martin Gauthier (Courrier International)
 - [Luc Julia's Controversial Statements on AI Spark Industry Debate](fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22.md) — Various media sources
 - [Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) — Tech media, business press
 - [Ni manager, ni contributeur individuel… | Le Touilleur Express](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) — Nicolas Martignole
@@ -825,7 +825,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ## Statistiques
 
 - **Total** : 330 fiches
-- **Par année** : 2026 (154) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Par année** : 2026 (153) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
   - Architecture & Construction : 33
