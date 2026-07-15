@@ -206,3 +206,5 @@ https://www.salesforce.com/news/stories/how-engineering-became-agentic/
 https://pasqualepillitteri.it/fr/news/3684/opus-4-8-seo-workflow-deux-phases
 https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/
 https://x.com/myprasanna/status/2077065557204222238?s=20
+
+https://x.com/i/status/2077458020234072399
