@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 376 entités de type METHODOLOGIE
+> 377 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -40,6 +40,7 @@
 - [[kb/_entites-mineures#Approved-fixtures\|Approved fixtures]] — catégorie: Pattern de test pour harnais comportemental (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architect-the-flow-of-work\|Architect the flow of work]] — définition: Concevoir comment tâches, information et décisions s'exécutent dans l'organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecture-as-series-of-non-trivial-decisions\|Architecture as series of non-trivial decisions]] — définition: Doctrine Hohpe répétée à travers son œuvre — construire une plateforme = expliciter des décisions (objectifs, mécanismes, courbe d'apprentissage, floating/sinking, salad/basket) plutôt que copier un template (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Architecture-hexagonale\|Architecture hexagonale]] — rôle: Garde-fou empêchant le code généré de polluer le cœur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Author-Diversity-Decay\|Author Diversity Decay]] — définition: Formule `(1 - floor) × decay_factor^position + floor` appliquée à chaque post répété du même auteur dans un même render — atténuation exponentielle bornée par floor, structurelle pour la cadence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Author-distribution-playbook\|Author distribution playbook]] — définition: Recommandation : audit cadence vs author-diversity decay, remplacer stacked single-account drumbeats par multi-account amplification (brand + employés) — chaque post entre au position=0 pour son auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Autonomous-enterprise-workflow-agent\|Autonomous enterprise workflow agent]] — niveau: Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management (1 occ., 1 fiches)
@@ -90,7 +91,7 @@
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Discovery-Mode\|Discovery Mode]] — rôle: Phase 1 : baseline acteurs + patterns visibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] — définition: Corpus magistériel vivant depuis Rerum Novarum (1891) qui articule Évangile, anthropologie chrétienne, et questions sociales (économie, politique, technique) — patrimoine de sagesse, principes et discernement communautaire (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] — rôle: Inspiration (bounded contexts, vocabulaire de domaine) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] — rôle: Outil pour canaliser la génération de code par l'IA autour de la logique métier (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Dynamic-Cheatsheet\|Dynamic Cheatsheet]] — rôle: précurseur de ACE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dynamic-Spec-Development\|Dynamic Spec Development]] — rôle: Conversion raw requirements → Super Spec unifiée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dynamic-org-design\|Dynamic org design]] — description: Redéploiement interne, redesign des rôles, plutôt que remplissage de slots (1 occ., 1 fiches)

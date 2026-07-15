@@ -1,10 +1,10 @@
 # GitHub Copilot
 
-> **Type** : TECHNOLOGIE | 5 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 6 fiches sources
 
 ## Attributs
 
-- **catégorie** : Outil de codage IA
+- **catégorie** : Exemple d'outil d'IA générative de code cité
 - **éditeur** : Microsoft
 
 ## Relations (comme sujet)
@@ -32,3 +32,4 @@
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 - [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|2025: The State of Generative AI in the Enterprise]]
+- [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]

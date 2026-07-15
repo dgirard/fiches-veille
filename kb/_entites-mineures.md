@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2318 entités avec moins de 3 triples/fiches
+> 2327 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (333)
 
@@ -11178,7 +11178,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (744)
+## CONCEPT (751)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -11764,6 +11764,16 @@
 
 **Fiches** : [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 
+### Amplificateur d'intelligence {#Amplificateur-d'intelligence}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Nouveau rôle : fournir modèles mentaux, contexte et outils de décision pour exploiter l'IA en gardant la cohérence système
+
+- **remplace** → [[kb/_entites-mineures#architecte-Oracle\|architecte Oracle]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
 ### Analogie Gutenberg / Software {#Analogie-Gutenberg-Software}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -11836,6 +11846,16 @@
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
+### Architecte Oracle {#Architecte-Oracle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **statut** : Modèle obsolète : savoir suprême et règles rigides depuis la tour d'ivoire
+
+- [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] **remplace** → Architecte Oracle — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
 ### Architecte de confiance {#Architecte-de-confiance}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -11869,6 +11889,14 @@
 - **description** : Pertinence indirecte article 2022 pour corpus IA 2025-2026 : Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender — TDD comme antidote méthodologique à l'atrophie pratique manuelle
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
+
+### Ascenseur de l'Architecte {#Ascenseur-de-l'Architecte}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **métaphore** : L'architecte navigue de la salle des machines (technique) au penthouse (stratégie)
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Assistant {#Assistant}
 
@@ -12420,6 +12448,17 @@
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
 
+### Contextes limités {#Contextes-limités}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **usage IA** : Découpage en zones isolées confinant l'IA à un scope restreint pour fiabiliser la génération
+
+- **fait_partie_de** → [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] (METHODOLOGIE) — 0.95
+- **améliore** → [[kb/_entites-mineures#fiabilité-de-la-génération-de-code-par-restriction-du-scope\|fiabilité de la génération de code par restriction du scope]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
 ### Contrôle antitrust {#Contrôle-antitrust}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -12507,6 +12546,14 @@
 - **remplace** → [[kb/_entites-mineures#coût-du-token-comme-unité-pertinente\|coût du token comme unité pertinente]] (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
+
+### Couche anti-corruption (ACL) {#Couche-anti-corruption-(ACL)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Interface protégeant un contexte des modèles voisins ; plomberie déléguée à l'IA
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Couple journalistique NYT (Sun + Wallace-Wells) {#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)}
 
@@ -13432,6 +13479,17 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
+### Langage ubiquitaire {#Langage-ubiquitaire}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **usage IA** : Dictionnaire de domaine injecté dans le contexte de l'IA (.clinerules, templates) ; base de system prompt
+
+- **fait_partie_de** → [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] (METHODOLOGIE) — 0.95
+- **réduit** → [[kb/_entites-mineures#hallucinations-et-contre-sens-métier-de-l'IA\|hallucinations et contre-sens métier de l'IA]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
 ### Limites d'usage IA {#Limites-d'usage-IA}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -13935,6 +13993,14 @@
 - **définition** : Vraie plateforme IA d'industrialisation, radicalement différente d'un usage ad hoc ou bibliothèque de prompts
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
+
+### Platform as a Product {#Platform-as-a-Product}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Traiter la plateforme d'IA comme un produit à frontières claires
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Plausible Surface Signals {#Plausible-Surface-Signals}
 
@@ -18032,7 +18098,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (339)
+## METHODOLOGIE (340)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -18346,6 +18412,16 @@
 - **définition** : Doctrine Hohpe répétée à travers son œuvre — construire une plateforme = expliciter des décisions (objectifs, mécanismes, courbe d'apprentissage, floating/sinking, salad/basket) plutôt que copier un template
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
+
+### Architecture hexagonale {#Architecture-hexagonale}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Garde-fou empêchant le code généré de polluer le cœur métier
+
+- **permet** → [[kb/_entites-mineures#empêcher-le-code-généré-par-l'IA-de-polluer-le-cœur-métier\|empêcher le code généré par l'IA de polluer le cœur métier]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Author Diversity Decay {#Author-Diversity-Decay}
 
@@ -18770,13 +18846,17 @@
 
 ### Domain-Driven Design {#Domain-Driven-Design}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 4 relations | 2 fiches
 
-- **rôle** : Inspiration (bounded contexts, vocabulaire de domaine)
+- **rôle** : Outil pour canaliser la génération de code par l'IA autour de la logique métier
 
+- **permet** → [[kb/_entites-mineures#canaliser-la-génération-de-code-par-l'IA\|canaliser la génération de code par l'IA]] (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#Contextes-limités\|Contextes limités]] **fait_partie_de** → Domain-Driven Design — 0.95
+- [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] **fait_partie_de** → Domain-Driven Design — 0.95
 - [[kb/grill-with-docs\|grill-with-docs]] **s_inspire_de** → Domain-Driven Design — 0.88
 
-**Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]], [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
 ### Dynamic Cheatsheet {#Dynamic-Cheatsheet}
 
@@ -21724,7 +21804,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (83)
+## DOCUMENT (84)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22273,6 +22353,14 @@
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
+### Sinks, Not Pipes {#Sinks,-Not-Pipes}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA
+
+**Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
@@ -22367,13 +22455,15 @@
 
 ### The Software Architect Elevator {#The-Software-Architect-Elevator}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 2 fiches
 
+- **catégorie** : Livre de Gregor Hohpe sur le rôle de l'architecte
 - **description** : Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk
 
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **a_créé** → The Software Architect Elevator — 0.97
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] **publie** → The Software Architect Elevator — 0.97
 
-**Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
+**Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]], [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Thoughtworks blog Generative AI section {#Thoughtworks-blog-Generative-AI-section}
 

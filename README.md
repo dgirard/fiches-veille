@@ -8,16 +8,16 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 330 fiches
-- **Par année** : 2026 (153) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 331 fiches
+- **Par année** : 2026 (154) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
-  - Architecture & Construction : 33
-  - Transformation & Adoption : 63
+  - Architecture & Construction : 34
+  - Transformation & Adoption : 64
   - Qualité & Sécurité : 24
   - Économie & Marché : 53
   - Philosophie & Société : 17
-  - Stratégie & Frameworks : 8
+  - Stratégie & Frameworks : 9
   - Outils & Plateformes : 22
   - Recherche & Éducation : 9
   - Produits & Services : 7
@@ -32,6 +32,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
+  - SFEIR (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
   - Andrew Ng (3)
@@ -40,7 +41,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
-  - SFEIR (2)
   - Jaya Gupta (2)
   - Finout (2)
 - **Sources (top 20)** :
@@ -53,9 +53,9 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
+  - SFEIR (3)
   - Addy Osmani (3)
   - a16z (3)
-  - SFEIR (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)

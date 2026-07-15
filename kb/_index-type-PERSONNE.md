@@ -165,7 +165,7 @@
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] — rôle: Host podcast indie founders / AI startups, ideabrowser.com (1 occ., 1 fiches)
-- [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Enterprise Strategist AWS, auteur Software Architect Elevator, écrit Platform Strategy (Leanpub) (1 occ., 1 fiches)
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Architecte, auteur de The Software Architect Elevator ; cadre de référence (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Guido-Appenzeller\|Guido Appenzeller]] — rôle: Investisseur a16z, infrastructure IA (1 occ., 1 fiches)
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] — rôle: Directeur performance achats, Elee (1 occ., 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] — rôle: Senior Director of Marketing, Google Cloud EMEA (1 occ., 1 fiches)

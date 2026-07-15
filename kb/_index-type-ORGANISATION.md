@@ -257,7 +257,7 @@
 - [[kb/_entites-mineures#Riskified\|Riskified]] — secteur: Prévention fraude / e-commerce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#S3NS\|S3NS]] — qualification: SecNumCloud 3.2 ANSSI (déc. 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] — secteur: Éditeur ERP / Cloud (1 occ., 1 fiches)
-- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (7 occ., 5 fiches)
+- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (8 occ., 6 fiches)
 - [[kb/Salesforce\|Salesforce]] — secteur: Éditeur SaaS / CRM, Agentic Enterprise (6 occ., 5 fiches)
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)

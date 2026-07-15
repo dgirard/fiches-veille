@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 768 entités de type CONCEPT
+> 775 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -74,6 +74,7 @@
 - [[kb/_entites-mineures#Alive-to-a-specific-moment\|Alive to a specific moment]] — définition: Propriété humaine selon Shipper — vivre *« running wants, running concerns »* du présent. Les modèles peuvent inhabit cette perspective une fois prompted, mais pas avant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allocation-layer\|Allocation layer]] — définition: Couche qui fait les allocation calls (quels workflows ont plus de compute, lesquels cappés, modèles cheaper, restent humains, remplacent le BPO) — contrôle où va la dépense IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ambient-affordances\|Ambient affordances]] — définition: Propriétés structurelles rendant un environnement lisible et navigable par les agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] — définition: Nouveau rôle : fournir modèles mentaux, contexte et outils de décision pour exploiter l'IA en gardant la cohérence système (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Analogie-Gutenberg-Software\|Analogie Gutenberg / Software]] — description: 1400s 10% littéracie → 70% en quelques siècles, livre 100× moins cher en 50 ans. Software suivra le même pattern, plus rapide que 50 ans (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Analogie-mainframes-→-SaS\|Analogie mainframes → SaS]] — description: Trajectoire historique Kamelman : mainframes → client-server → web/cloud → SaS. Toutes les générations passées maintenaient le même cognitive contract (humans instruct machine) ; SaS est la première à le renégocier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Animals-vs-Ghosts\|Animals vs Ghosts]] — définition: Métaphore Karpathy : LLMs sont des circuits de simulation statistique, pas des intelligences animales (1 occ., 1 fiches)
@@ -83,10 +84,12 @@
 - [[kb/_entites-mineures#Anti-pattern-écrire-du-code\|Anti-pattern écrire du code]] — définition: Écrire du code soi-même est devenu un anti-pattern car l'IA produit du code de meilleure qualité que la plupart des ingénieurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anti-skill-ification\|Anti-skill-ification]] — catégorie: Refus de figer un pattern contextuel en skill prématurée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Apprenticeship-model-collapse\|Apprenticeship model collapse]] — définition: Effondrement du pipeline implicite de formation par les tâches juniors automatisées (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Architecte-Oracle\|Architecte Oracle]] — statut: Modèle obsolète : savoir suprême et règles rigides depuis la tour d'ivoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecte-de-confiance\|Architecte de confiance]] — categorie: Nouveau role humain - gouvernance systemes autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecture-trois-tiers-Lattice\|Architecture trois-tiers Lattice]] — description: Atoms (guardrails mono-principe) → Molecules (workflows multi-étapes composant atoms) → Refiners (interviews guidées customisant atoms par projet) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Archétypes-d'équipes\|Archétypes d'équipes]] — nombre: 7 profils distincts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] — description: Pertinence indirecte article 2022 pour corpus IA 2025-2026 : Beck Vibe Coding vs TDD, Beck Augmented Coding, Frizzo writing muscle atrophy, Osmani Cognitive Surrender — TDD comme antidote méthodologique à l'atrophie pratique manuelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ascenseur-de-l'Architecte\|Ascenseur de l'Architecte]] — métaphore: L'architecte navigue de la salle des machines (technique) au penthouse (stratégie) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Assistant\|Assistant]] — niveau: 6 — proactif, always-on (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] — catégorie: Vecteur d'adhésion au persona assistant entraîné (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Asymétrie-entrée-sortie\|Asymétrie entrée/sortie]] — facteur: sortie = 4 à 5× l'entrée (1 occ., 1 fiches)
@@ -152,6 +155,7 @@
 - [[kb/Context-Flywheel\|Context Flywheel]] — catégorie: Effet composé du contexte itératif (1 occ., 1 fiches)
 - [[kb/Context-Rot\|Context Rot]] — définition: Dégradation de performance quand le contexte grandit, attention diluée sur trop de tokens (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Context-inflation\|Context inflation]] — définition: Coût d'inférence ≈ O(n²) en longueur de contexte (attention) ; doubler le contexte quadruple le coût de raisonnement ; aggravé par la sur-récupération (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Contextes-limités\|Contextes limités]] — usage IA: Découpage en zones isolées confinant l'IA à un scope restreint pour fiabiliser la génération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contrôle-antitrust\|Contrôle antitrust]] — acteurs: DOJ américain, régulateurs UE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Convergence-concentration-oligarchie-2026\|Convergence "concentration / oligarchie" 2026]] — description: Diagnostic transversal 2026 reconnu par Wallace-Wells, Sun NYT, Cherny Sequoia (7 Powers reordering), Bain part 2/5 (cross-workflow decision context comme nouveau moat) — la concentration de pouvoir dans 5 labs est un fait stylisé 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Convergence-Lattice-↔-Compound-Engineering\|Convergence Lattice ↔ Compound Engineering]] — description: Pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (.lattice/ ↔ docs/plans+solutions+brainstorms), 3 principes Lattice ↔ 3 choix doctrinaux CE, design-first commun. Sans lignage déclaré dans aucun sens — convergence indépendante sur le vocabulaire stable 2026. (1 occ., 1 fiches)
@@ -162,6 +166,7 @@
 - [[kb/_entites-mineures#Corporate-messaging\|Corporate messaging]] — catégorie: Troisième moteur, recadrage overhiring en efficience IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cost-Iceberg\|Cost Iceberg]] — définition: 80%+ du coût réel caché (intégrations, supervision, MLOps, compliance) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cost-of-completed-outcome\|Cost of completed outcome]] — définition: Unité de coût pertinente à l'ère agentique : coût par ticket résolu / claim traité / contrat revu / facture complétée / embauche évitée / client retenu / dollar de revenu déplacé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Couche-anti-corruption-(ACL)\|Couche anti-corruption (ACL)]] — rôle: Interface protégeant un contexte des modèles voisins ; plomberie déléguée à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)\|Couple journalistique NYT (Sun + Wallace-Wells)]] — description: Convergence éditoriale NYT 2026 — Jasmine Sun (Opinion 2026-04-30) Silicon Valley Permanent Underclass + warning shots ; David Wallace-Wells (Magazine 2026-05-08) AI Populism Is Here. Couple cohérent du diagnostic backlash IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Coût-de-friction\|Coût de friction]] — origine: Héritage d'entreprise : systèmes, processus, silos, culture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Coût-de-production-du-token\|Coût de production du token]] — déterminant: éditeur, génération, taille du modèle (1 occ., 1 fiches)
@@ -268,6 +273,7 @@
 - [[kb/_entites-mineures#Jugement-du-modèle\|Jugement du modèle]] — principe: Laisser le modèle arbitrer le "comment" plutôt que lui dicter des règles rigides (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LAYS\|LAYS]] — définition: Learning-Adjusted Years of Schooling — métrique d'efficacité éducative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LOC\|LOC]] — évaluation: Mauvaise mesure de productivité développeur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] — usage IA: Dictionnaire de domaine injecté dans le contexte de l'IA (.clinerules, templates) ; base de system prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Limites-d'usage-IA\|Limites d'usage IA]] — description: Plafonds imposés par fournisseurs IA segmentant utilisateurs en gratuit/premium/API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Living-decision-surface\|Living decision surface]] — définition: Modèle évolutif des dynamiques de marché maintenu comme système opérationnel, pas comme rapport statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lock-in-de-l'intelligence-d'entreprise\|Lock-in de l'intelligence d'entreprise]] — risque: Configuration agentique (« adeo.md ») captive d'un fournisseur (1 occ., 1 fiches)
@@ -325,6 +331,7 @@
 - [[kb/_entites-mineures#Pivot-conceptuel-cluster-outcome-based-2025-2026\|Pivot conceptuel cluster outcome-based 2025-2026]] — description: Kamelman/Thoughtworks (déc 2025) précède chronologiquement et unifie conceptuellement les manifestations sectorielles : Sternfels/McKinsey (consulting, jan 2026), VoxComm/Mandese (agences, mars 2026), Bain Rule of 40 (SaaS, avril 2026), Bain cross-system labor (enterprise, mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plancher-financier-DORA-vs-plafond-praticien\|Plancher financier DORA vs plafond praticien]] — description: Lecture juste : DORA 12.5% time saved = plancher défendable devant CFO (avoided hire), ratios praticiens 3-5× (Frizzo/Wescale/Curran) ou ×4.5 (Tatsyi Claude stack) = plafond organisationnel observé incluant nouveaux produits / new product space que le calculator ne capte pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plateforme-Gov+Prod+Audit\|Plateforme Gov+Prod+Audit]] — définition: Vraie plateforme IA d'industrialisation, radicalement différente d'un usage ad hoc ou bibliothèque de prompts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Platform-as-a-Product\|Platform as a Product]] — principe: Traiter la plateforme d'IA comme un produit à frontières claires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plausible-Surface-Signals\|Plausible Surface Signals]] — définition: Cause de surrender : code généré qui compile, passe linters, semble cohérent stylistiquement — crée des faux filtres de confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] — définition: Le véritable *« plus qu'humain »* n'est pas le transhumanisme mais la grâce — *« nous parvenons à être pleinement humains quand nous sommes plus qu'humains, quand nous permettons à Dieu de nous conduire au-delà de nous-mêmes »* (n. 128) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Position-no-headcount-reduction-(DORA)\|Position no-headcount-reduction (DORA)]] — source: Recommandation normative explicite DORA : ne pas réduire l'effectif, réinvestir la capacité libérée. Justifié par (a) impact moral, (b) institutional knowledge, (c) incentive structure préservée (1 occ., 1 fiches)

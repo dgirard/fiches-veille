@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 13 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 4 fiches sources
 
 ## Attributs
 
@@ -35,6 +35,8 @@
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 - [[kb/_entites-mineures#démocratisation-création-logicielle\|démocratisation création logicielle]] (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
+- [[kb/_entites-mineures#génération-de-code-et-de-conception-à-la-demande\|génération de code et de conception à la demande]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### remplace
 

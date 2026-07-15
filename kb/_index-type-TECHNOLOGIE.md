@@ -231,7 +231,7 @@
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — catégorie: Emulateur de terminal, rendering synchronisé, 24-bit couleur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] — catégorie: Agent qui crée et optimise d'autres agents (1 occ., 1 fiches)
 - [[kb/GitHub\|GitHub]] — rôle: Couche mémoire des artefacts PM (« the repo becomes product memory ») (1 occ., 1 fiches)
-- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Outil de codage IA (5 occ., 5 fiches)
+- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (6 occ., 6 fiches)
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
