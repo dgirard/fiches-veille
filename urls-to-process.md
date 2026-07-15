@@ -201,3 +201,8 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/ (fiche créée: comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06.md — site bloqué 403, fiche basée sur sources secondaires multiples et indexation moteurs de recherche)
 - https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM (lien raccourci LinkedIn pointant vers le même article comparethemarketcareers.com ci-dessus — résolu via recherche web)
 -->
+
+https://www.salesforce.com/news/stories/how-engineering-became-agentic/
+https://pasqualepillitteri.it/fr/news/3684/opus-4-8-seo-workflow-deux-phases
+https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/
+https://x.com/myprasanna/status/2077065557204222238?s=20
