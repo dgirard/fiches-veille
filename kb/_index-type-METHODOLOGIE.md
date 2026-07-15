@@ -366,7 +366,7 @@
 - [[kb/_entites-mineures#trip-wires-automatiques\|trip-wires automatiques]] — exemples: >N team-weeks, >N jours en cours, >N équipes impliquées, complexité >N (1 occ., 1 fiches)
 - [[kb/_entites-mineures#two-strike-regeneration\|two-strike regeneration]] — règle: Tuer un agent qui échoue deux fois et repartir d'un contexte frais plutôt que le coacher (1 occ., 1 fiches)
 - [[kb/_entites-mineures#two-tower-retrieval\|two-tower retrieval]] — définition: Pattern ML où users et items sont encodés par towers séparés dans un même espace d'embedding, matching par nearest-neighbor ANN — utilisé pour candidats OON Phoenix (1 occ., 1 fiches)
-- [[kb/vibe-coding\|vibe coding]] — définition: Prompter une IA et accepter le résultat avec vérification minimale (21 occ., 20 fiches)
+- [[kb/vibe-coding\|vibe coding]] — définition: Prompter une IA et accepter le résultat avec vérification minimale (22 occ., 21 fiches)
 - [[kb/_entites-mineures#vibe-planning\|vibe planning]] — usage: Prototypage rapide disposable pour Fidelity Three (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-coding\|vibe-coding]] — jugement: Intenable / risqué en entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibes-based-testing\|vibes-based testing]] — usage: Individus practioners, évaluation subjective modèles (1 occ., 1 fiches)

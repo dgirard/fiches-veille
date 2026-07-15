@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 37 relations | 20 fiches sources
+> **Type** : METHODOLOGIE | 37 relations | 21 fiches sources
 
 ## Attributs
 
@@ -12,6 +12,7 @@
 - **description** : Développement logiciel assisté par LLM/IA
 - **définition** : Prompter une IA et accepter le résultat avec vérification minimale
 - **fonction** : Raise the floor — démocratisation du software development
+- **posture Hohpe** : Prise de recul « level-headed » ; démystifie les chiffres marketing (« 30% du code par l'IA »)
 - **type** : Anti-pattern selon Farley — spec vague + délégation IA sans pipeline
 - **usage** : Prototypage rapide jetable pour clarifier les exigences
 
@@ -115,6 +116,7 @@
 - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+- [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era]]

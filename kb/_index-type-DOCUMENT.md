@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 91 entités de type DOCUMENT
+> 92 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -32,6 +32,7 @@
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] — type: Handbook de référence (Every Source Code + guide complet) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DORA-2025\|DORA 2025]] — apport: L'IA comme « amplificateur » des forces et dysfonctionnements (2 occ., 2 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] — catégorie: Livre de référence de Hohpe (patterns d'intégration) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] — catégorie: Billet d'opinion / REX craftsmanship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fichier-mémoire\|Fichier mémoire]] — chemin: ~/.claude/projects/<projet>/memory/delegate-coding-to-subagents.md (type: feedback) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] — type: Guide de référence officiel (CC BY 4.0) (1 occ., 1 fiches)
@@ -74,7 +75,7 @@
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] — nature: Whitepaper Google, série « Day 1 », mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] — catégorie: Ouvrage de référence du software craftsmanship (1999/2019) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (2 occ., 2 fiches)
+- [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)

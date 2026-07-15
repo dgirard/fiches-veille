@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 775 entités de type CONCEPT
+> 782 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -43,6 +43,7 @@
 - [[kb/_entites-mineures#AI-orphan-tax\|AI orphan tax]] — définition: +5% mental fatigue chez les salariés dont le manager attend qu'ils se débrouillent seuls avec l'IA (1 occ., 1 fiches)
 - [[kb/AI-slop\|AI slop]] — définition: Contributions générées par IA sans compréhension ni effort réel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#AI-solution-life-cycle\|AI solution life cycle]] — usage: Indicateur d'évolution des topologies d'équipe (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-driven-SDLC\|AI-driven SDLC]] — avertissement: Un SDLC piloté par l'IA punit les mauvaises habitudes plus vite (amplifie les dysfonctionnements) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI4\|AI4*]] — catégorie: Cadre stratégique transformation logicielle par IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#AI4Business\|AI4Business]] — définition: IA déversée dans les processus métier (ventes, support, finance, opérations) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI4Cloud\|AI4Cloud]] — pilier: Cloud et FinOps pour IA (1 occ., 1 fiches)
@@ -55,6 +56,7 @@
 - [[kb/_entites-mineures#ARA\|ARA]] — définition: Autonomous Replication and Adaptation — capacité d'un agent IA à se répliquer sans assistance humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ARR\|ARR]] — problème: Définitions multiples et conflictuelles entre équipes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ASL-3\|ASL-3]] — cible: Risques CBRN + vol de poids ; frontière floue misuse/recherche avancée (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Abstractions-vs-illusions\|Abstractions vs illusions]] — définition: Une plateforme cache la complexité en abstraction utile ou en illusion dangereuse (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accountability\|Accountability]] — définition: Responsabilité humaine inaliénable face aux décisions des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accumulated-execution-data\|Accumulated execution data]] — définition: Moat durable agentic AI Bain — base d'exécutions agent qui s'enrichit avec chaque action, plus dure à répliquer pour concurrents que data statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] — description: McKinsey a divisé par 3+ son ETA pour atteindre la parité humains/agents — 3 000 agents il y a 18 mois, 20 000 maintenant. Pattern systématique 2024-2026 où trajectoires observées dépassent projections initiales (1 occ., 1 fiches)
@@ -85,6 +87,7 @@
 - [[kb/_entites-mineures#Anti-skill-ification\|Anti-skill-ification]] — catégorie: Refus de figer un pattern contextuel en skill prématurée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Apprenticeship-model-collapse\|Apprenticeship model collapse]] — définition: Effondrement du pipeline implicite de formation par les tâches juniors automatisées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecte-Oracle\|Architecte Oracle]] — statut: Modèle obsolète : savoir suprême et règles rigides depuis la tour d'ivoire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Architecte-amplificateur\|Architecte amplificateur]] — définition: L'architecte rend les autres plus intelligents (modèles de décision, angles morts) plutôt que d'être le plus intelligent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecte-de-confiance\|Architecte de confiance]] — categorie: Nouveau role humain - gouvernance systemes autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Architecture-trois-tiers-Lattice\|Architecture trois-tiers Lattice]] — description: Atoms (guardrails mono-principe) → Molecules (workflows multi-étapes composant atoms) → Refiners (interviews guidées customisant atoms par projet) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Archétypes-d'équipes\|Archétypes d'équipes]] — nombre: 7 profils distincts (1 occ., 1 fiches)
@@ -120,6 +123,7 @@
 - [[kb/_entites-mineures#Capitulation-cognitive\|Capitulation cognitive]] — risque: Accepter les sorties de la boucle sans jugement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Capteurs-feedback\|Capteurs feedback]] — définition: Contrôles observationnels permettant l'auto-correction après action (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Capture-réglementaire\|Capture réglementaire]] — mécanisme: Seuils (10^25 FLOPs, 500 M$ CA / 1 Md$ R&D), audits, évaluateurs favorisant les incumbents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cartographe-vs-éclaireur\|Cartographe vs éclaireur]] — définition: L'enterprise architect doit quitter la carte statique (tour d'ivoire) pour l'exploration temps réel avec skin in the game (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Case-study-banque-européenne-régulée-IA\|Case study banque européenne régulée IA]] — description: Tatsyi/Raiffeisen Bank Ukraine 2026-05 — corpus encore rare en 2026 où dominent les retours Silicon Valley (Cherny, Curran, Stripe) ; complémentaire Frizzo (individuel) et Wescale (cabinet FR) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Caveat-20-80-(HABERT)\|Caveat 20/80 (HABERT)]] — source: "Technology is 20%, team discipline is 80%" — refus explicite solutionnisme technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Centralize-expertise-not-innovation\|Centralize expertise not innovation]] — définition: Principe canonique cité par Hohpe (attribué à Peter / Thoughtworks) — la plateforme évite la réinvention de la roue (expertise commune) mais laisse l'innovation aux équipes proches du client (1 occ., 1 fiches)
@@ -262,6 +266,7 @@
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] — définition: Alternance dynamique pensée-action pour tâches long horizon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Introspection\|Introspection]] — catégorie: Pratique de conscience de soi et reconnaissance de patterns (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Investment-bias\|Investment bias]] — définition: Budgets IA orientés sales/marketing alors qu'operations/finance offrent un meilleur ROI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Is-This-Architecture-Look-for-Decisions\|Is This Architecture? Look for Decisions]] — thèse: Un artefact est une architecture s'il porte des décisions non triviales et leur justification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J-Curve-of-AI-value-realization\|J-Curve of AI value realization]] — définition: Trajectoire d'adoption IA : creux productivité temporaire (learning curve + verification tax + pipeline adaptation) avant croissance exponentielle. Métaphore "tuition cost of transformation" à budgéter explicitement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J-courbe-de-la-valeur-IA\|J-courbe de la valeur IA]] — définition: Creux temporaire de productivité (taxe de transition) avant la pente ascendante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#JIT-tool-context-assembly\|JIT tool/context assembly]] — définition: Vision future : harnais qui assemble dynamiquement tools et contexte juste-à-temps, plus proche d'un compilateur que d'une config statique (1 occ., 1 fiches)
@@ -343,6 +348,7 @@
 - [[kb/_entites-mineures#Problème-hayékien\|Problème hayékien]] — origine: Friedrich Hayek, *The Use of Knowledge in Society* (1945) — l'information utile dans une organisation est tacite et distribuée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Product-Engineer\|Product Engineer]] — définition: Personne capable de créer de la valeur pour un usage donné — mesurée par la valeur créée et non par le code produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Product-Questions\|Product Questions]] — définition: Questions pour lesquelles des produits sont suggérés dans la réponse (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Production-gouvernée\|Production gouvernée]] — principe: Vitesse de passage de l'expérimentation IA à une production maîtrisée = avantage compétitif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Production-possibility-frontier-(IA)\|Production possibility frontier (IA)]] — définition: Métaphore microéconomique Tatsyi — l'IA ne fait pas mieux la même chose, elle agrandit l'ensemble des possibles ; capacité libérée à allouer délibérément (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productivité-3-5×-(médiane-committée)\|Productivité 3-5× (médiane committée)]] — convergence: Tatsyi (story-points ×1.5-3, ×4.5 volume code Claude stack), Frizzo (LinkedIn 2026-05-05), Wescale (2026-05-03), Curran/Intercom (2026-04-16), DORA Report 2025, Stanford Denisov-Blanch (2025-11-23) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Productized-solutions\|Productized solutions]] — définition: Concept Mandese — transformation des services agences en produits packagés reproductibles. Convergence avec Curran Skills-Based Plugin Architecture et Lattice atoms/molecules (1 occ., 1 fiches)
@@ -439,6 +445,7 @@
 - [[kb/_entites-mineures#Usage-Statistics\|Usage Statistics]] — définition: Contrôle unique opt-out de collecte de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Variable-costs-in-high-margin-SaaS\|Variable costs in high-margin SaaS]] — description: Mutation économique majeure 2026 — businesses SaaS historiquement à coûts fixes hauts (compute amorti) absorbent variable costs AI infrastructure/inference imprévisibles, déformant la P&L (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vendor-confusion-shortcuts\|Vendor confusion / shortcuts]] — description: Diagnostic marché Talisman : AI-generated taxonomies sold as strategy, vendors misusing ontology terminology, cookie-cutter solutions presented as methodology. À reconnaître pour résister (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Vente-d'options-architecturales\|Vente d'options architecturales]] — définition: L'architecture vend le droit sans obligation de différer une décision ; valeur croissante avec la volatilité (Black-Scholes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Verifiability\|Verifiability]] — définition: Cadre expliquant pourquoi LLMs peakent en math/code (RL training) et stagnent ailleurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Verification-tax\|Verification tax]] — définition: Coût caché de review/audit du code généré par IA — augmente avec volume généré, peut éroder les gains de productivité bruts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vibe-Coding-Paralysis\|Vibe Coding Paralysis]] — définition: Concept Bonacci : épuisement non par le travail mais par sa gestion. 6 worktrees, 4 features à moitié, 2 quick fixes en rabbit holes (1 occ., 1 fiches)

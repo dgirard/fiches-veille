@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2327 entités avec moins de 3 triples/fiches
+> 2337 entités avec moins de 3 triples/fiches
 
-## PERSONNE (333)
+## PERSONNE (334)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -217,6 +217,14 @@
 - **améliore** → [[kb/MCP-UI\|MCP-UI]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]], [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
+
+### Andy Jassy {#Andy-Jassy}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : CEO Amazon ; a chiffré les gains d'Amazon Q (« 4 500 années de développement », 260 M$/an)
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Andy Wu {#Andy-Wu}
 
@@ -3327,7 +3335,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (266)
+## ORGANISATION (267)
 
 ### 10x {#10x}
 
@@ -5639,6 +5647,14 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
+### The Architect Elevator {#The-Architect-Elevator}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **catégorie** : Blog / marque de Gregor Hohpe (architectelevator.com)
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
+
 ### The Browser Company {#The-Browser-Company}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -6007,7 +6023,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (509)
+## TECHNOLOGIE (510)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6503,6 +6519,16 @@
 - **est_basé_sur** → [[kb/_entites-mineures#code-intégralement-généré-par-IA\|code intégralement généré par IA]] (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
+
+### Amazon Q Code Transformation {#Amazon-Q-Code-Transformation}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **cas** : Migration Amazon de ~1000 apps Java 8→17 en 2 jours ; puis dizaines de milliers d'apps, 260 M$/an d'économies (Jassy)
+
+- **observé_dans** → [[kb/_entites-mineures#migration-de-1000-applications-Java-8-vers-Java-17-en-2-jours-chez-Amazon\|migration de 1000 applications Java 8 vers Java 17 en 2 jours chez Amazon]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Amazon Q Developer {#Amazon-Q-Developer}
 
@@ -11178,7 +11204,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (751)
+## CONCEPT (758)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -11495,6 +11521,14 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### AI-driven SDLC {#AI-driven-SDLC}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **avertissement** : Un SDLC piloté par l'IA punit les mauvaises habitudes plus vite (amplifie les dysfonctionnements)
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
+
 ### AI4* {#AI4}
 
 **Type** : CONCEPT | 2 relations | 2 fiches
@@ -11595,6 +11629,14 @@
 - **cible** : Risques CBRN + vol de poids ; frontière floue misuse/recherche avancée
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### Abstractions vs illusions {#Abstractions-vs-illusions}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Une plateforme cache la complexité en abstraction utile ou en illusion dangereuse
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Accountability {#Accountability}
 
@@ -11855,6 +11897,16 @@
 - [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] **remplace** → Architecte Oracle — 0.88
 
 **Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
+### Architecte amplificateur {#Architecte-amplificateur}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : L'architecte rend les autres plus intelligents (modèles de décision, angles morts) plutôt que d'être le plus intelligent
+
+- **remplace** → [[kb/_entites-mineures#architecte-le-plus-intelligent-de-la-salle\|architecte le plus intelligent de la salle]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Architecte de confiance {#Architecte-de-confiance}
 
@@ -12156,6 +12208,14 @@
 - **mécanisme** : Seuils (10^25 FLOPs, 500 M$ CA / 1 Md$ R&D), audits, évaluateurs favorisant les incumbents
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### Cartographe vs éclaireur {#Cartographe-vs-éclaireur}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : L'enterprise architect doit quitter la carte statique (tour d'ivoire) pour l'exploration temps réel avec skin in the game
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Case study banque européenne régulée IA {#Case-study-banque-européenne-régulée-IA}
 
@@ -13379,6 +13439,14 @@
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
+### Is This Architecture? Look for Decisions {#Is-This-Architecture-Look-for-Decisions}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **thèse** : Un artefact est une architecture s'il porte des décisions non triviales et leur justification
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
+
 ### J-Curve of AI value realization {#J-Curve-of-AI-value-realization}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -14093,6 +14161,14 @@
 - [[kb/AEO\|AEO]] **s_applique_à** → Product Questions — 0.88
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
+
+### Production gouvernée {#Production-gouvernée}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Vitesse de passage de l'expérimentation IA à une production maîtrisée = avantage compétitif
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Production possibility frontier (IA) {#Production-possibility-frontier-(IA)}
 
@@ -14958,6 +15034,16 @@
 - **description** : Diagnostic marché Talisman : AI-generated taxonomies sold as strategy, vendors misusing ontology terminology, cookie-cutter solutions presented as methodology. À reconnaître pour résister
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
+
+### Vente d'options architecturales {#Vente-d'options-architecturales}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : L'architecture vend le droit sans obligation de différer une décision ; valeur croissante avec la volatilité (Black-Scholes)
+
+- **s_inspire_de** → [[kb/_entites-mineures#modèle-Black-Scholes\|modèle Black-Scholes]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 
 ### Verifiability {#Verifiability}
 
@@ -22077,6 +22163,16 @@
 
 **Fiches** : [[fiches/2025-08/luc-julia-ai-controversy-statements-media-2025-08-22\|Luc Julia's Controversial Statements on AI Spark Industry Debate]], [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 
+### Enterprise Integration Patterns {#Enterprise-Integration-Patterns}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Livre de référence de Hohpe (patterns d'intégration)
+
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **a_créé** → Enterprise Integration Patterns — 0.96
+
+**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
+
 ### Failing Faster {#Failing-Faster}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -22452,18 +22548,6 @@
 - [[kb/David-Thomas\|David Thomas]] **publie** → The Pragmatic Programmer — 0.95
 
 **Fiches** : [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
-
-### The Software Architect Elevator {#The-Software-Architect-Elevator}
-
-**Type** : DOCUMENT | 2 relations | 2 fiches
-
-- **catégorie** : Livre de Gregor Hohpe sur le rôle de l'architecte
-- **description** : Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk
-
-- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **a_créé** → The Software Architect Elevator — 0.97
-- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **publie** → The Software Architect Elevator — 0.97
-
-**Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]], [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Thoughtworks blog Generative AI section {#Thoughtworks-blog-Generative-AI-section}
 

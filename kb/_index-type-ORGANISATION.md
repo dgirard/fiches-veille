@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 347 entités de type ORGANISATION
+> 348 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -298,6 +298,7 @@
 - [[kb/_entites-mineures#Tennessee\|Tennessee]] — initiative: AI Workforce Action Plan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tessl\|Tessl]] — secteur: Outils de gestion de contexte pour agents IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-AI-Journal\|The AI Journal]] — type: Publication spécialisée IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Architect-Elevator\|The Architect Elevator]] — catégorie: Blog / marque de Gregor Hohpe (architectelevator.com) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] — secteur: Navigateur web / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] — secteur: Analyse / Conseil IT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Intelligence-Fabric\|The Intelligence Fabric]] — catégorie: Newsletter / blog sur l'IA et l'organisation (1 occ., 1 fiches)

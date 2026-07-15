@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 626 entités de type TECHNOLOGIE
+> 627 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -64,6 +64,7 @@
 - [[kb/Almia\|Almia]] — catégorie: Plateforme IA générative interne (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Amazon-Astro\|Amazon Astro]] — catégorie: Robot compagnon domestique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amazon-Bedrock\|Amazon Bedrock]] — catégorie: Plateforme agentique / LLM d'AWS (>100 modèles), redéveloppée en 72 jours par 6 personnes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Amazon-Q-Code-Transformation\|Amazon Q Code Transformation]] — cas: Migration Amazon de ~1000 apps Java 8→17 en 2 jours ; puis dizaines de milliers d'apps, 260 M$/an d'économies (Jassy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] — distinction: Outil AWS fortement couplé aux services cloud, contrairement à Kiro (cloud-agnostic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] — catégorie: Framework d'orchestration IA pour agents de codage (1 occ., 1 fiches)
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] — catégorie: Outil d'entretien automatisé par IA (1 occ., 1 fiches)

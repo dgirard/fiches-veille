@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 437 entités de type PERSONNE
+> 438 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -31,6 +31,7 @@
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] — rôle: Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
 - [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (4 occ., 4 fiches)
+- [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] — rôle: CEO Amazon ; a chiffré les gains d'Amazon Q (« 4 500 années de développement », 260 M$/an) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] — rôle: Professeur, Harvard Business School (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] — domaine: Sciences comportementales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angie-Wang\|Angie Wang]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)
@@ -165,7 +166,7 @@
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Fiore\|Greg Fiore]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] — rôle: Host podcast indie founders / AI startups, ideabrowser.com (1 occ., 1 fiches)
-- [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Architecte, auteur de The Software Architect Elevator ; cadre de référence (2 occ., 2 fiches)
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Architecte, auteur de The Software Architect Elevator ; cadre de référence (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Guido-Appenzeller\|Guido Appenzeller]] — rôle: Investisseur a16z, infrastructure IA (1 occ., 1 fiches)
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] — rôle: Directeur performance achats, Elee (1 occ., 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] — rôle: Senior Director of Marketing, Google Cloud EMEA (1 occ., 1 fiches)

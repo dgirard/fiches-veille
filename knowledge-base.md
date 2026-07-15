@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=f06b4ec87975411581dcbbfe0c98b3ff295e1dabd2dd00e5c4d224b8f81766ea fiches=331 -->
-> 331 fiches | 2700 entités | 4725 triples | Généré le 2026-07-15
+<!-- manifest: sha256=6087386609809beadba1713d2aa60e4d67e9ecd3190828de6eaf39fc561e9555 fiches=332 -->
+> 332 fiches | 2711 entités | 4739 triples | Généré le 2026-07-15
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (437)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (347)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (626)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (775)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (438)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (348)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (627)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (782)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (377)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (42)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (91)
-- [[kb/_entites-mineures\|Entités mineures]] (2319)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (92)
+- [[kb/_entites-mineures\|Entités mineures]] (2329)
 
 ## Entités les plus connectées
 
@@ -25,7 +25,7 @@
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 57 | 13 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 45 | 20 |
 | [[kb/Google\|Google]] | ORGANISATION | 44 | 16 |
-| [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 37 | 20 |
+| [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 37 | 21 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 34 | 4 |
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 33 | 2 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 30 | 4 |
@@ -39,40 +39,40 @@
 | [[kb/MCP-UI\|MCP-UI]] | TECHNOLOGIE | 21 | 3 |
 | [[kb/Claude-Skills\|Claude Skills]] | TECHNOLOGIE | 21 | 3 |
 | [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 21 | 3 |
-| [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] | PERSONNE | 19 | 6 |
+| [[kb/Gregor-Hohpe\|Gregor Hohpe]] | PERSONNE | 20 | 3 |
 
 ## Statistiques
 
 ### Prédicats les plus fréquents
 
 - **utilise** : 571
-- **affirme_que** : 495
+- **affirme_que** : 502
 - **permet** : 428
 - **mesure** : 361
-- **a_créé** : 310
+- **a_créé** : 311
 - **publie** : 285
-- **recommande** : 199
+- **recommande** : 202
 - **est_basé_sur** : 198
 - **améliore** : 187
 - **réduit** : 177
 - **s_applique_à** : 174
 - **est_instance_de** : 173
 - **fait_partie_de** : 155
-- **remplace** : 131
+- **remplace** : 132
 - **s_oppose_à** : 125
 
 ### Distribution par type
 
-- **PERSONNE** : 437 (16.2%)
-- **ORGANISATION** : 347 (12.9%)
-- **TECHNOLOGIE** : 626 (23.2%)
-- **CONCEPT** : 775 (28.7%)
-- **METHODOLOGIE** : 377 (14.0%)
-- **EVENEMENT** : 42 (1.6%)
+- **PERSONNE** : 438 (16.2%)
+- **ORGANISATION** : 348 (12.8%)
+- **TECHNOLOGIE** : 627 (23.1%)
+- **CONCEPT** : 782 (28.8%)
+- **METHODOLOGIE** : 377 (13.9%)
+- **EVENEMENT** : 42 (1.5%)
 - **LIEU** : 5 (0.2%)
-- **DOCUMENT** : 91 (3.4%)
+- **DOCUMENT** : 92 (3.4%)
 
 ### Déduplication
 
-- **Triples** : 4801 → 4725 (76 doublons)
-- **Entités** : 3481 → 2700 (781 doublons)
+- **Triples** : 4816 → 4739 (77 doublons)
+- **Entités** : 3495 → 2711 (784 doublons)

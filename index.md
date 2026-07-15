@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 331 fiches | 1975-12 → 2026-07-15 | généré le 2026-07-15
+> 332 fiches | 1975-12 → 2026-07-15 | généré le 2026-07-15
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
 - **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
@@ -550,6 +551,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
 - [Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)](fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16.md) — SFEIR
 - [The End of Code Review: Coding Agents Supersede Human Inspection](fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11.md) — Martin Monperrus
@@ -587,6 +589,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
 - [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI.
@@ -757,6 +760,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
 - [Loop Engineering for Product Managers](fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21.md) — Shubham Saboo (@Saboo_Shubham_)
 - [How the X Algorithm Actually Works in 2026 — and What That Means for Growth](fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16.md) — Rapport interne **non signé** (typique des deliverables d'analyse interne / brouillon de livrable client). Sources primaires citées : (a) le repo public **`xai-org/x-algorithm`** (release 15 mai 2026), (b) les `README.md` du repo et de ses sous-modules (`home-mixer/`, `phoenix/`, `thunder/`, `grox/`), (c) le code source Rust (Home Mixer, Thunder) et Python/JAX (Phoenix, Grox) inspecté directement avec citations file:line. Le rapport est explicitement écrit en posture *"what we observe in the public source release, and what it implies for measurable growth interventions"* — registre de teardown analytique avec discipline d'honnêteté épistémique (section A.3 *"Honesty boundary"* listant exhaustivement ce qui n'est pas dérivable de l'OSS).
@@ -828,16 +832,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 331 fiches
-- **Par année** : 2026 (154) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 332 fiches
+- **Par année** : 2026 (155) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 110
-  - Architecture & Construction : 34
-  - Transformation & Adoption : 64
+  - Architecture & Construction : 35
+  - Transformation & Adoption : 65
   - Qualité & Sécurité : 24
   - Économie & Marché : 53
   - Philosophie & Société : 17
-  - Stratégie & Frameworks : 9
+  - Stratégie & Frameworks : 10
   - Outils & Plateformes : 22
   - Recherche & Éducation : 9
   - Produits & Services : 7
@@ -861,8 +865,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - Gregor Hohpe (2)
   - Jaya Gupta (2)
-  - Finout (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - voodootikigod.com (Chris Williams) (7)
