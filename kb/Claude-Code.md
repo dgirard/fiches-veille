@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 100 relations | 45 fiches sources
+> **Type** : TECHNOLOGIE | 101 relations | 46 fiches sources
 
 ## Attributs
 
@@ -16,7 +16,7 @@
 - **produits_affectés** : Claude Code, Claude Agent SDK, Claude Cowork
 - **revenus** : 500M$ annuels (run-rate)
 - **revenus annualisés** : ~1 milliard $ (novembre 2025)
-- **rôle** : Coding assistant générant de la dépense à allouer
+- **rôle** : Harnais des dynamic workflows ; a maintenu ~64 Claude en parallèle 11 jours ; 11 rounds de revue de sécurité post-merge
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
@@ -123,6 +123,8 @@
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#travail-supplémentaire-(27%)\|travail supplémentaire (27%)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- « ~64 Claude en parallèle pendant 11 jours (4 worktrees × 16) » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 - [[kb/_entites-mineures#développeurs-full-stack\|développeurs full-stack]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 
@@ -159,8 +161,9 @@
   - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
-- [[kb/_entites-mineures#Bun\|Bun]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+- [[kb/Bun\|Bun]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+  - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 - [[kb/git-worktrees-technologie\|git worktrees]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[kb/_entites-mineures#Haiku-4.5\|Haiku 4.5]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
@@ -279,6 +282,7 @@
 - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|How to build an AI-native company (even if your company is 50 years old)]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
+- [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 633 entités de type TECHNOLOGIE
+> 634 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -89,7 +89,7 @@
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] — usage: Requêtes analytics via CLI bq, remplace SQL manuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] — catégorie: LLM financier créé par Bloomberg sur ses données propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] — catégorie: Couche IA transversale de la plateforme HubSpot (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Bun\|Bun]] — usage: Build et packaging de Claude Code (1 occ., 1 fiches)
+- [[kb/Bun\|Bun]] — usage: Build et packaging de Claude Code (2 occ., 2 fiches)
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 10 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
@@ -107,12 +107,12 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: Harness-as-a-Service Anthropic (1 occ., 1 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (51 occ., 45 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (52 occ., 46 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Fable\|Claude Fable]] — incident: Dégradation silencieuse des requêtes de dev IA concurrent, puis walk-back (1 occ., 1 fiches)
-- [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (5 occ., 4 fiches)
+- [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (6 occ., 5 fiches)
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] — catégorie: Modèle classe Mythos, garde-fous levés, accès restreint (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Mythos-Preview\|Claude Mythos Preview]] — statut: Remplacé par Mythos 5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4\|Claude Opus 4]] — catégorie: Modèle de langage (1 occ., 1 fiches)
@@ -287,6 +287,7 @@
 - [[kb/Interactions-API\|Interactions API]] — catégorie: API unifiée modèles et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] — catégorie: Format de sérialisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] — définition: Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#JavaScriptCore\|JavaScriptCore]] — rôle: Moteur JS (Safari) embarqué par Bun ; sa gestion GC croisée avec la mémoire manuelle Zig est la source de la classe de bugs visée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jipa\|Jipa]] — catégorie: Technique optimisation automatique de prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jira\|Jira]] — catégorie: Outil de gestion de projet traditionnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] — catégorie: Processeur IA de VSORA intégrant la couche ZML (1 occ., 1 fiches)
@@ -441,7 +442,7 @@
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] — catégorie: Assistant IA shopping in-app Amazon (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Runner-H\|Runner H]] — statut: Prédécesseur de ChatGPT Agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Runway-Gen-3\|Runway Gen-3]] — catégorie: Modèle de génération vidéo concurrent (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Rust\|Rust]] — inconvénient_SDD: Borrow Checker vs nature probabiliste LLM (1 occ., 1 fiches)
+- [[kb/Rust\|Rust]] — inconvénient_SDD: Borrow Checker vs nature probabiliste LLM (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SDK-Codex\|SDK Codex]] — catégorie: SDK intégration agent dans produits tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SGLang\|SGLang]] — catégorie: Framework d'inférence LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SHACL\|SHACL]] — rôle: Validation et contraintes du knowledge graph UDA (1 occ., 1 fiches)
@@ -545,7 +546,7 @@
 - [[kb/_entites-mineures#Yoga\|Yoga]] — usage: Système de layout pour terminal (Meta) (1 occ., 1 fiches)
 - [[kb/YouTube-technologie\|YouTube]] — catégorie: Plateforme vidéo recommandée pour 2026 (2 occ., 2 fiches)
 - [[kb/Zapier-technologie\|Zapier]] — catégorie: Plateforme no-code d'automatisation workflows (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Zig\|Zig]] — rôle: Langage bas niveau dans lequel ZML est écrit (>90 %) ; pas de Python dans le chemin d'exécution (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zig\|Zig]] — rôle: Langage source de Bun (535 496 lignes) ; cleanup explicite via defer/errdefer, pas de destructeurs implicites (2 occ., 2 fiches)
 - [[kb/_entites-mineures#agent-swarms\|agent swarms]] — statut: Terme critiqué par Mollick comme "terriblement nommé" (1 occ., 1 fiches)
 - [[kb/agents-IA\|agents IA]] — rôle: consommateur principal des interfaces MCP (4 occ., 4 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] — rôle: Gèrent une partie des décisions (changement de paradigme) (1 occ., 1 fiches)

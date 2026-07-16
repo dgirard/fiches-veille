@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 788 entités de type CONCEPT
+> 790 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -533,6 +533,7 @@
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] — rôle: Différenciateur clé de Genie 3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] — statut: Défi principal des compounding teams (1 occ., 1 fiches)
+- [[kb/_entites-mineures#corriger-le-processus,-pas-le-code\|corriger le processus, pas le code]] — principe: Face à un bug/anti-pattern récurrent, éditer le workflow/prompt qui génère le code plutôt que corriger le fichier à la main (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
@@ -741,6 +742,7 @@
 - [[kb/_entites-mineures#stream-aligned-team\|stream-aligned team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/subagents-concept\|subagents]] — usage: Instances Claude parallèles se challengeant mutuellement pour code review (2 occ., 2 fiches)
 - [[kb/_entites-mineures#subagents-agent-teams\|subagents / agent teams]] — définition: Agents scopés gérant des workstreams parallèles, en équipe (1 occ., 1 fiches)
+- [[kb/_entites-mineures#suite-de-tests-indépendante-du-langage\|suite de tests indépendante du langage]] — rôle: Tests de Bun écrits en TypeScript (60 624 tests, 1,39 M expect(), 0 supprimé, 6 plateformes) → filet permettant de merger 1 M de lignes générées par LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#supervision-humaine\|supervision humaine]] — rôle: Garde-fou dans le déploiement responsable de l'IA agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] — description: Tendance des LLMs à créer abstractions inutiles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#surge-staffing\|surge staffing]] — définition: Déploiement dynamique d'ingénieurs sur demande grâce à l'IA (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2354 entités avec moins de 3 triples/fiches
+> 2358 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (335)
 
@@ -6056,7 +6056,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (514)
+## TECHNOLOGIE (513)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6718,7 +6718,7 @@
 - **nature** : Bibliothèque B+ Tree performance-compétitive en Rust et Python
 
 - **utilise** → [[kb/_entites-mineures#Python\|Python]] (TECHNOLOGIE) — 0.99
-- **utilise** → [[kb/_entites-mineures#Rust\|Rust]] (TECHNOLOGIE) — 0.99
+- **utilise** → [[kb/Rust\|Rust]] (TECHNOLOGIE) — 0.99
 
 - [[kb/Kent-Beck\|Kent Beck]] **a_créé** → BPlusTree3 — 0.98
 
@@ -6775,16 +6775,6 @@
 - [[kb/HubSpot\|HubSpot]] **a_créé** → Breeze — 0.97
 
 **Fiches** : [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]
-
-### Bun {#Bun}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **usage** : Build et packaging de Claude Code
-
-- [[kb/Claude-Code\|Claude Code]] **utilise** → Bun — 0.97
-
-**Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
 ### CLAUDE_PLUGIN_DATA {#CLAUDE_PLUGIN_DATA}
 
@@ -8177,7 +8167,7 @@
 - **rôle** : Orchestrateur Rust request-time du pipeline For You feed (hydrate → source → filter → score → select → filter)
 
 - **dirige** → [[kb/_entites-mineures#pipeline-For-You-feed-(orchestration)\|pipeline For You feed (orchestration)]] (METHODOLOGIE) — 0.99
-- **utilise** → [[kb/_entites-mineures#Rust\|Rust]] (TECHNOLOGIE) — 0.98
+- **utilise** → [[kb/Rust\|Rust]] (TECHNOLOGIE) — 0.98
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
@@ -8320,6 +8310,16 @@
 - **définition** : Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man)
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
+
+### JavaScriptCore {#JavaScriptCore}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Moteur JS (Safari) embarqué par Bun ; sa gestion GC croisée avec la mémoire manuelle Zig est la source de la classe de bugs visée
+
+- [[kb/Bun\|Bun]] **utilise** → JavaScriptCore — 0.90
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
 ### Jipa {#Jipa}
 
@@ -9607,19 +9607,6 @@
 
 **Fiches** : [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
-### Rust {#Rust}
-
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
-
-- **inconvénient_SDD** : Borrow Checker vs nature probabiliste LLM
-
-- **réduit** → [[kb/_entites-mineures#efficacité-du-flux-SDD-(friction-élevée)\|efficacité du flux SDD (friction élevée)]] (CONCEPT) — 0.92
-
-- [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] **utilise** → Rust — 0.99
-- [[kb/_entites-mineures#Home-Mixer\|Home Mixer]] **utilise** → Rust — 0.98
-
-**Fiches** : [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Rapport de Recherche : Analyse de l'Adéquation des Langages de Programmation au Spec Drive Development]]
-
 ### SDK Codex {#SDK-Codex}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10478,13 +10465,14 @@
 
 ### Zig {#Zig}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
-- **rôle** : Langage bas niveau dans lequel ZML est écrit (>90 %) ; pas de Python dans le chemin d'exécution
+- **rôle** : Langage source de Bun (535 496 lignes) ; cleanup explicite via defer/errdefer, pas de destructeurs implicites
 
 - [[kb/ZML\|ZML]] **utilise** → Zig — 0.95
+- [[kb/Rust\|Rust]] **remplace** → Zig — 0.90
 
-**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]], [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
 ### agent swarms {#agent-swarms}
 
@@ -11275,7 +11263,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (764)
+## CONCEPT (766)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15927,6 +15915,14 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
+### corriger le processus, pas le code {#corriger-le-processus,-pas-le-code}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Face à un bug/anti-pattern récurrent, éditer le workflow/prompt qui génère le code plutôt que corriger le fichier à la main
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
+
 ### cost per merged change {#cost-per-merged-change}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17863,6 +17859,14 @@
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
+### suite de tests indépendante du langage {#suite-de-tests-indépendante-du-langage}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Tests de Bun écrits en TypeScript (60 624 tests, 1,39 M expect(), 0 supprimé, 6 plateformes) → filet permettant de merger 1 M de lignes générées par LLM
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
+
 ### supervision humaine {#supervision-humaine}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -18316,7 +18320,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (342)
+## METHODOLOGIE (344)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20666,6 +20670,18 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
+### dynamic workflows {#dynamic-workflows}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : ~50 boucles écrire→relire→appliquer tournant en continu dans Claude Code, éditables par prompt en cours de route
+
+- **utilise** → [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] (METHODOLOGIE) — 0.92
+
+- [[kb/_entites-mineures#réécriture-de-Bun-en-Rust\|réécriture de Bun en Rust]] **utilise** → dynamic workflows — 0.95
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
+
 ### décomposition de capacités {#décomposition-de-capacités}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -21271,6 +21287,19 @@
 - **réduit** → [[kb/_entites-mineures#saturation-de-contexte-qui-dilue-le-jugement\|saturation de contexte qui dilue le jugement]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Prosecution, Not Code Review]]
+
+### revue adversariale {#revue-adversariale}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **principe** : Un 2ᵉ Claude en contexte séparé ne voyant que le diff, sommé de trouver pourquoi le code est faux ; 1 implémenteur / 2+ relecteurs / 1 fixer ; l'implémenteur ne relit pas
+
+- **améliore** → [[kb/_entites-mineures#la-précision-de-6%-(mais-+32%-tokens,-+72%-latence)\|la précision de 6% (mais +32% tokens, +72% latence)]] (CONCEPT) — 0.90
+- **réduit** → [[kb/_entites-mineures#régressions-du-code-généré-par-LLM\|régressions du code généré par LLM]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#dynamic-workflows\|dynamic workflows]] **utilise** → revue adversariale — 0.92
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
 ### revue de code {#revue-de-code}
 
@@ -22040,7 +22069,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (86)
+## DOCUMENT (87)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22514,6 +22543,14 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **publie** → One Useful Thing — 0.99
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]], [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+
+### PORTING.md / LIFETIMES.tsv {#PORTING.md-LIFETIMES.tsv}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct
+
+**Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
 ### Pattern doc {#Pattern-doc}
 

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 379 entités de type METHODOLOGIE
+> 381 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -274,6 +274,7 @@
 - [[kb/_entites-mineures#distillation-(Mensch)\|distillation (Mensch)]] — définition: Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] — définition: Apprentissage automatique à partir des tâches complétées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#doctrine-multicloud\|doctrine multicloud]] — principe: Composer un portefeuille où chaque charge vit selon ses contraintes (souveraineté/perf/réglementation) en conservant le pouvoir d'en changer ; dépasser le faux dilemme « multi-cloud ou souverain » (1 occ., 1 fiches)
+- [[kb/_entites-mineures#dynamic-workflows\|dynamic workflows]] — définition: ~50 boucles écrire→relire→appliquer tournant en continu dans Claude Code, éditables par prompt en cours de route (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#désambiguïsation-par-consensus\|désambiguïsation par consensus]] — principe: Là où N agents convergent, la demande est non ambiguë ; le désaccord mesure l'ambiguïté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)
@@ -341,6 +342,7 @@
 - [[kb/_entites-mineures#red-teaming\|red teaming]] — description: Tests adversariaux pour identifier capacités dangereuses des modèles IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] — catégorie: Technique pédagogique basée sur la récupération active en mémoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] — dimensions: Correction, sécurité, conformité de contrat, alignement spec, qualité des tests (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] — principe: Un 2ᵉ Claude en contexte séparé ne voyant que le diff, sommé de trouver pourquoi le code est faux ; 1 implémenteur / 2+ relecteurs / 1 fixer ; l'implémenteur ne relit pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)

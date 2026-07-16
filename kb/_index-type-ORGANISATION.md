@@ -29,7 +29,7 @@
 - [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans) (2 occ., 2 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (36 occ., 36 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (37 occ., 37 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Labs\|Anthropic Labs]] — description: Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)

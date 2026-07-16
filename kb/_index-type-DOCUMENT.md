@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 94 entités de type DOCUMENT
+> 95 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -53,6 +53,7 @@
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] — catégorie: Première encyclique sociale de Léon XIV (15 mai 2026), 245 paragraphes, 5 chapitres, sur la protection de la personne humaine à l'ère de l'IA — publiée pour le 135e anniversaire de Rerum Novarum (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — type: Newsletter Substack sur l'IA au travail (2 occ., 2 fiches)
+- [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pattern-doc\|Pattern doc]] — définition: Guidance généralisée depuis plusieurs learnings (plus de levier, plus de risque si périmé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pew-Research-2025-inquiétude-IA\|Pew Research 2025 inquiétude IA]] — description: Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Strategy\|Platform Strategy]] — description: Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse* (1 occ., 1 fiches)

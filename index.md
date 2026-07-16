@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 334 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
+> 335 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -13,6 +13,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
 - **13** [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — GPT-5.6, Sol, Terra
 - **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
+- **08** [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025) · Bun (Jarred Sumner) — Bun, Jarred Sumner, réécriture Zig vers Rust
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
 - **03** [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison · Simon Willison's Weblog — Jugement du modèle, délégation à des subagents, model override
@@ -441,6 +442,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Agents de codage IA & Skills
 
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
+- [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212)
 - [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison
 - [The Compounding Knowledge Lifecycle — Agent Guide](fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02.md) — Kieran Klaassen (Thinkroom / Every — compound-engineering-plugin) ; document « Agent Guide » généré (byline « Claude Code / Anthropic »)
@@ -660,6 +662,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [Solving the Identity Crisis for AI Agents](fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21.md) — **Matt Mathew** (Sr Staff Engineer), **Prasad Borole** (Staff Software Engineer), **Meng Huang** (Engineering Manager), **Sergey Burykin** (Sr Software Engineer), **Gaurav Goel** (Software Engineer II), **Bayard Walsh** (Software Engineer I). Tous chez **Uber**, équipe Security/Identity infrastructure responsable du déploiement de l'architecture d'identité agentique en production. Composition d'équipe représentative : un Engineering Manager, un Staff senior cadre, un Staff IC architecte, deux SWE séniors/intermédiaires, un SWE I — pattern classique d'une équipe Uber qui livre une plateforme transverse mission-critical.
 - [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto
 - [Our evaluation of OpenAI's GPT-5.5 cyber capabilities](fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30.md) — AI Safety Institute (AISI UK)
@@ -781,6 +784,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
+- [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
 - [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8).
 - [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) — Thariq (@trq212)
@@ -840,17 +844,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 334 fiches
-- **Par année** : 2026 (157) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 335 fiches
+- **Par année** : 2026 (158) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 111
+  - Agents de codage IA & Skills : 112
   - Architecture & Construction : 35
   - Transformation & Adoption : 65
-  - Qualité & Sécurité : 24
+  - Qualité & Sécurité : 25
   - Économie & Marché : 55
   - Philosophie & Société : 17
   - Stratégie & Frameworks : 10
-  - Outils & Plateformes : 24
+  - Outils & Plateformes : 25
   - Recherche & Éducation : 9
   - Produits & Services : 7
   - Politique & Régulation : 10
