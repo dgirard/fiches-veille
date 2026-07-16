@@ -39,6 +39,11 @@ KB_THEMATIQUES = {
         "themes": {"agents-codage-ia-skills"},
         "keywords": ["skill", "skill.md"],
     },
+    "kb-souverainete.md": {
+        "themes": set(),
+        "keywords": ["souverain", "cloud act", "secnumcloud", "extraterritorial",
+                     "cloud de confiance", "réversibilité", "scaleway"],
+    },
 }
 
 
