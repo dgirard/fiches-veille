@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 99 relations | 45 fiches sources
+> **Type** : TECHNOLOGIE | 100 relations | 45 fiches sources
 
 ## Attributs
 
@@ -233,6 +233,7 @@
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **améliore** → Claude Code — 0.92
 - [[kb/_entites-mineures#goal\|/goal]] **fait_partie_de** → Claude Code — 0.92
+- [[kb/Codex\|Codex]] **concurrence** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 

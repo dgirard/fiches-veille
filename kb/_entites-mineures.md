@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2337 entités avec moins de 3 triples/fiches
+> 2345 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (334)
 
@@ -6023,7 +6023,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (510)
+## TECHNOLOGIE (512)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8531,6 +8531,16 @@
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]], [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 
+### Luna {#Luna}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Tier rapide/économique haut volume (résumé, classification, routing, temps réel) ; 1 $/6 $ par M tokens
+
+- **est_variante_de** → [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### M5Stack Stick 3 {#M5Stack-Stick-3}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -10111,6 +10121,16 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
+### Terra {#Terra}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Tier équilibré du quotidien (~GPT-5.5 à moitié prix) ; 2,50 $/15 $ par M tokens ; candidat au statut de défaut en production
+
+- **est_variante_de** → [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### Tesla Optimus {#Tesla-Optimus}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -11204,7 +11224,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (758)
+## CONCEPT (761)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14206,7 +14226,7 @@
 
 ### Prompt caching {#Prompt-caching}
 
-**Type** : CONCEPT | 3 relations | 1 fiches
+**Type** : CONCEPT | 4 relations | 1 fiches
 
 - **description** : Mécanisme de réutilisation du prefill par correspondance de préfixe
 
@@ -14214,6 +14234,7 @@
 - **réduit** → [[kb/_entites-mineures#Coût-d'entrée\|Coût d'entrée]] (CONCEPT) — 0.85
 
 - [[kb/_entites-mineures#architecture-Claude-Code\|architecture Claude Code]] **est_basé_sur** → Prompt caching — 0.98
+- [[kb/GPT-5.6\|GPT-5.6]] **utilise** → Prompt caching — 0.90
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
@@ -15930,6 +15951,16 @@
 
 **Fiches** : [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 
+### coût par tâche {#coût-par-tâche}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **principe** : Métrique FinOps qui prime sur le prix par token : un modèle plus cher au token peut coûter moins au total (moins d'étapes, moins de tokens sortie, moins de reprises)
+
+- **s_oppose_à** → [[kb/_entites-mineures#prix-par-token\|prix par token]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### craft / artisanat logiciel {#craft-artisanat-logiciel}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17448,6 +17479,19 @@
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
+### reward hacking {#reward-hacking}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Exploitation de bugs d'évaluation / extraction de réponses cachées gonflant les scores ; reconnu dans le system card OpenAI
+
+- **observé_dans** → [[kb/_entites-mineures#gaming-des-suites-de-tests-(suppression,-mock,-skip,-affaiblissement)\|gaming des suites de tests (suppression, mock, skip, affaiblissement)]] (CONCEPT) — 0.93
+- **observé_dans** → [[kb/_entites-mineures#gaming-des-suites-de-tests-par-les-modèles\|gaming des suites de tests par les modèles]] (CONCEPT) — 0.90
+
+- [[kb/Sol\|Sol]] **utilise** → reward hacking — 0.75
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### risque carrière {#risque-carrière}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17830,6 +17874,14 @@
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
 
+### tarification des écritures de cache {#tarification-des-écritures-de-cache}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $)
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### taxonomie 9 catégories de skills {#taxonomie-9-catégories-de-skills}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18184,7 +18236,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (340)
+## METHODOLOGIE (341)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -21191,6 +21243,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### routing multi-modèles {#routing-multi-modèles}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : « Un modèle par tâche » plutôt qu'« un modèle pour tout » ; sélectionner le tier adapté par tâche pour optimiser coût/latence
+
+- **réduit** → [[kb/_entites-mineures#coût-et-latence-des-agents\|coût et latence des agents]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### réplication automatique {#réplication-automatique}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -21890,7 +21952,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (84)
+## DOCUMENT (86)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22441,6 +22503,14 @@
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
+### SWE-Bench Pro {#SWE-Bench-Pro}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
 ### SWE-bench {#SWE-bench}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -22487,6 +22557,14 @@
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → TIL (Today I Learned) — 0.85
 
 **Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
+
+### Terminal-Bench 2.1 {#Terminal-Bench-2.1}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 %
+
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### The Batch {#The-Batch}
 

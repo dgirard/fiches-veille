@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 782 entités de type CONCEPT
+> 785 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -541,6 +541,7 @@
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] — nature: Coût financier direct par jeton consommé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-non-déterministe\|coût non-déterministe]] — cause: Contexte, retries, profondeur de boucle, variante de modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-outcome\|coût par outcome]] — définition: Piloter le budget IA au coût d'un résultat (ticket résolu, feature livrée), pas au décompte de tokens (1 occ., 1 fiches)
+- [[kb/_entites-mineures#coût-par-tâche\|coût par tâche]] — principe: Métrique FinOps qui prime sur le prix par token : un modèle plus cher au token peut coûter moins au total (moins d'étapes, moins de tokens sortie, moins de reprises) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] — description: Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#crise-de-sens\|crise de sens]] — catégorie: Perte de sens du travail face à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#crise-mondiale-de-l'apprentissage\|crise mondiale de l'apprentissage]] — statistique: 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis (1 occ., 1 fiches)
@@ -704,6 +705,7 @@
 - [[kb/_entites-mineures#renversement-AI4IT-AI4Business\|renversement AI4IT / AI4Business]] — définition: Inversion 2024→2026 : la valeur prouvée migre des processus métier vers la production logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#replace-trust-with-structure\|replace trust with structure]] — rôle: Formule-somme des sept volets : confiance → structure → mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ressource-naturelle-(métaphore-Mensch)\|ressource naturelle (métaphore Mensch)]] — définition: Cadre conceptuel de Mensch : l'IA est une ressource naturelle (électricité → tokens), le datacenter est une mine, le token est une commodité — justifie politique industrielle lourde (1 occ., 1 fiches)
+- [[kb/_entites-mineures#reward-hacking\|reward hacking]] — définition: Exploitation de bugs d'évaluation / extraction de réponses cachées gonflant les scores ; reconnu dans le system card OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ruissellement-économique-du-cloud\|ruissellement économique du cloud]] — valeur: 68 centimes / € restent en Europe avec Scaleway vs < 20 centimes avec un hyperscaler US (1 occ., 1 fiches)
@@ -745,6 +747,7 @@
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] — définition: Source canonique de vérité, pas une catégorie produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
+- [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] — domaine: Sciences des organisations, management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tier-de-modèle\|tier de modèle]] — règle: Fonction du coût de détection d'une erreur, pas du prestige de la tâche (1 occ., 1 fiches)

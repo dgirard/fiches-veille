@@ -1,6 +1,6 @@
 # Claude Fable 5
 
-> **Type** : TECHNOLOGIE | 12 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 4 fiches sources
 
 ## Attributs
 
@@ -42,6 +42,8 @@
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+- « GPT-5.6 Sol sur SWE-Bench Pro (~15 points d'écart) » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### utilise
 

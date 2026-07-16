@@ -1,12 +1,13 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 15 relations | 6 fiches sources
+> **Type** : ORGANISATION | 20 relations | 7 fiches sources
 
 ## Attributs
 
 - **capacité_revendiquée** : équivalent 10 000 personnes
 - **effectif** : ~1 000 personnes
 - **positionnement** : Thèse AI4IT > AI4Business ; FinOps de l'usine logicielle
+- **posture** : Cabinet « AI Only », partenaire Google Cloud Premier ET Anthropic ; thèse : le modèle est une commodité, la valeur est dans le Context/Harness Engineering
 - **relation** : Groupe parent de WEnvision
 - **rôle** : Auteur de la synthèse (ESN / cabinet tech)
 - **secteur** : ESN / cabinet d'ingénierie logicielle (groupe SFEIR)
@@ -26,6 +27,15 @@
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « l'IA exécute des phases entières, elle n'assiste pas » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « le modèle est une commodité, l'avantage durable est dans l'ingénierie qui l'entoure » (CITATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
+### collabore_avec
+
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### mesure
 
@@ -46,12 +56,16 @@
 
 - « mettre LLMD sous surveillance active plutôt que basculer en production aujourd'hui » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+- « router par tâche entre modèles plutôt que chercher un modèle champion » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - « concevoir des architectures modulaires découplées pour interchanger les LLM sans réécriture » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « documenter le « pourquoi » des décisions car l'IA ne génère que le « comment » » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « démarrer par une porte de spécification et la preuve d'exécution, pas par l'achat d'outils » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « industrialiser le Context Engineering et le Harness Engineering » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### s_inspire_de
 
@@ -71,4 +85,5 @@
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]

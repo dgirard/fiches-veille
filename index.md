@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 332 fiches | 1975-12 → 2026-07-15 | généré le 2026-07-15
+> 333 fiches | 1975-12 → 2026-07-15 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
+- **13** [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — GPT-5.6, Sol, Terra
 - **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
@@ -438,6 +439,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212)
 - [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison
 - [The Compounding Knowledge Lifecycle — Agent Guide](fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02.md) — Kieran Klaassen (Thinkroom / Every — compound-engineering-plugin) ; document « Agent Guide » généré (byline « Claude Code / Anthropic »)
@@ -684,6 +686,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
 - [Claude Fable 5 and Claude Mythos 5](fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09.md) — Anthropic
@@ -773,6 +776,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
 - [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8).
@@ -832,17 +836,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 332 fiches
-- **Par année** : 2026 (155) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 333 fiches
+- **Par année** : 2026 (156) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 110
+  - Agents de codage IA & Skills : 111
   - Architecture & Construction : 35
   - Transformation & Adoption : 65
   - Qualité & Sécurité : 24
-  - Économie & Marché : 53
+  - Économie & Marché : 54
   - Philosophie & Société : 17
   - Stratégie & Frameworks : 10
-  - Outils & Plateformes : 22
+  - Outils & Plateformes : 23
   - Recherche & Éducation : 9
   - Produits & Services : 7
   - Politique & Régulation : 9
@@ -853,10 +857,10 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Deep Research Veille Interne (7)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
+  - SFEIR (4)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
-  - SFEIR (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
   - Andrew Ng (3)
@@ -874,10 +878,10 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Google (7)
   - LinkedIn (6)
   - OpenAI (5)
+  - SFEIR (4)
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
-  - SFEIR (3)
   - Addy Osmani (3)
   - a16z (3)
   - LinkedIn (Philippe Ensarguet) (2)

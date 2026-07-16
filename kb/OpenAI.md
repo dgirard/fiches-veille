@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 45 relations | 20 fiches sources
+> **Type** : ORGANISATION | 48 relations | 20 fiches sources
 
 ## Attributs
 
@@ -40,6 +40,8 @@
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 - [[kb/_entites-mineures#Samsung\|Samsung]] (ORGANISATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+- [[kb/_entites-mineures#gouvernement-américain-(preview-pré-déploiement-sous-Executive-Order)\|gouvernement américain (preview pré-déploiement sous Executive Order)]] (ORGANISATION) — 0.85, STATIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### concurrence
 
@@ -80,6 +82,8 @@
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
+- [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[kb/_entites-mineures#Industrial-Policy-for-the-Intelligence-Age\|Industrial Policy for the Intelligence Age]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.97, STATIQUE
@@ -90,6 +94,8 @@
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - [[kb/_entites-mineures#étude-capacités-agents-IA\|étude capacités agents IA]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+- [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 

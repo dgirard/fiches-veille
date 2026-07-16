@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 97 relations | 36 fiches sources
+> **Type** : ORGANISATION | 98 relations | 36 fiches sources
 
 ## Attributs
 
@@ -235,6 +235,7 @@
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96
 - [[kb/Dario-Amodei\|Dario Amodei]] **dirige** → Anthropic — 0.95
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
+- [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85

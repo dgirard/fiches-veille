@@ -1,6 +1,6 @@
 # GPT-5.5
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -35,6 +35,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/GPT-5.6\|GPT-5.6]] **remplace** → GPT-5.5 — 0.90
 - [[kb/GLM-5.2\|GLM-5.2]] **concurrence** → GPT-5.5 — 0.85
 
 ## Fiches sources

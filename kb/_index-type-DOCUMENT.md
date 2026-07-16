@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 92 entités de type DOCUMENT
+> 94 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -63,11 +63,13 @@
 - [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] — portée: Aurait influencé SB 53, NY RAISE Act, EU AI Act (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — rôle: Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sinks,-Not-Pipes\|Sinks, Not Pipes]] — catégorie: Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)

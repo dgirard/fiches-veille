@@ -1,6 +1,6 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 22 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 8 fiches sources
 
 ## Attributs
 
@@ -51,6 +51,7 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **utilise** → Claude — 0.95
 - [[kb/David-Thomas\|David Thomas]] **utilise** → Claude — 0.95
 - [[kb/_entites-mineures#temps-de-raisonnement\|temps de raisonnement]] **améliore** → Claude — 0.92
+- [[kb/GPT-5.6\|GPT-5.6]] **concurrence** → Claude — 0.92
 - [[kb/_entites-mineures#choix-sûrs-sans-guidance\|choix sûrs sans guidance]] **observé_dans** → Claude — 0.92
 - [[kb/Weave\|Weave]] **utilise** → Claude — 0.92
 

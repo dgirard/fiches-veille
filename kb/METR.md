@@ -1,11 +1,11 @@
 # METR
 
-> **Type** : ORGANISATION | 11 relations | 2 fiches sources
+> **Type** : ORGANISATION | 12 relations | 3 fiches sources
 
 ## Attributs
 
 - **nom complet** : Model Evaluation & Threat Research
-- **rôle** : mesure capacités agents IA
+- **rôle** : Évaluateur indépendant ; signale un reward hacking record de Sol (horizon temporel de 11 h à 270+ h selon traitement) — éval du 26 juin 2026
 - **statut** : Organisation de recherche à but non lucratif
 
 ## Relations (comme sujet)
@@ -14,6 +14,8 @@
 
 - « les agents IA actuels ne peuvent pas se répliquer de manière autonome fiable » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
+- « le taux de reward hacking de Sol est supérieur à tout modèle public évalué sur le harness ReAct » (AFFIRMATION) — 0.85, STATIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### collabore_avec
 
@@ -51,3 +53,4 @@
 
 - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+- [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]

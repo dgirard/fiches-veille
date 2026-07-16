@@ -1,12 +1,17 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 11 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 6 fiches sources
 
 ## Attributs
 
-- **catégorie** : Agent de codage (OpenAI)
+- **catégorie** : Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code
 
 ## Relations (comme sujet)
+
+### concurrence
+
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### est_basé_sur
 
@@ -49,11 +54,13 @@
 ## Relations (comme objet)
 
 - [[kb/OpenAI\|OpenAI]] **a_créé** → Codex — 0.97
+- [[kb/OpenAI\|OpenAI]] **publie** → Codex — 0.90
 
 ## Fiches sources
 
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
+- [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]

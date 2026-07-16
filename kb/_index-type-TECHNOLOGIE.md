@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 627 entités de type TECHNOLOGIE
+> 631 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -133,7 +133,7 @@
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] — rôle: Base open-source de Visual Studio Code, fondation technique de Kiro (1 occ., 1 fiches)
 - [[kb/Code-Wiki\|Code Wiki]] — statut: Public preview (novembre 2025) (3 occ., 1 fiches)
 - [[kb/CodeRabbit\|CodeRabbit]] — catégorie: Agent de revue de code IA (3 occ., 3 fiches)
-- [[kb/Codex\|Codex]] — catégorie: Agent de codage (OpenAI) (5 occ., 5 fiches)
+- [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
 - [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (1 occ., 1 fiches)
@@ -206,6 +206,7 @@
 - [[kb/_entites-mineures#GPT-5.4\|GPT-5.4]] — score_expert_pass1: 52,4% (+-9,8%) (1 occ., 1 fiches)
 - [[kb/GPT-5.5\|GPT-5.5]] — score_expert_pass1: 71,4% (+-8,0%) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] — categorie: Produit IA a acces restreint pour cybersecurite defensive (1 occ., 1 fiches)
+- [[kb/GPT-5.6\|GPT-5.6]] — catégorie: Famille de LLM OpenAI (GA 9 juillet 2026) : 3 tiers Sol/Terra/Luna ; ~1,05 M tokens contexte, 128 k sortie, coupure au 16 février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] — catégorie: Bibliothèque animation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] — définition: Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge (1 occ., 1 fiches)
 - [[kb/Gemini-entite\|Gemini]] — catégorie: IA générative Google (6 occ., 6 fiches)
@@ -316,6 +317,7 @@
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] — score even-handedness: 66% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LoRA\|LoRA]] — catégorie: Adaptateur d'optimisation de modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lovable\|Lovable]] — catégorie: Plateforme vibe coding / génération d'apps (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Luna\|Luna]] — positionnement: Tier rapide/économique haut volume (résumé, classification, routing, temps réel) ; 1 $/6 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#M5Stack-Stick-3\|M5Stack Stick 3]] — catégorie: Petit appareil hardware (~30 €) support de l'agent DIY (1 occ., 1 fiches)
 - [[kb/MCP\|MCP]] — catégorie: Model Context Protocol (15 occ., 12 fiches)
 - [[kb/_entites-mineures#MCP-(OAuth)\|MCP (OAuth)]] — usage: Connexion de l'agent à Todoist (50 outils) (1 occ., 1 fiches)
@@ -472,6 +474,7 @@
 - [[kb/_entites-mineures#Slash-commands-PROJ-AI\|Slash-commands PROJ-AI]] — exemples: /dr-create, /livrable-update — interface CLI/IDE pour utilisateurs tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Smart-CRM\|Smart CRM]] — catégorie: CRM IA de HubSpot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] — catégorie: Outil IA interne Société Générale (1 occ., 1 fiches)
+- [[kb/Sol\|Sol]] — positionnement: Flagship (tâches dures, coding long-horizon, cyber, science) ; modes « max » et « ultra » (agents parallèles) ; 5 $/30 $ par M tokens ; variante Sol Pro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solario\|Solario]] — catégorie: Plateforme/produit Wescale, construite avec sa propre méthodologie ("Solario sur Solario") (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonnet\|Sonnet]] — usage: Implémentation substantielle de code (model override) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonnet-4.5\|Sonnet 4.5]] — usage: modèle par défaut, équilibré (1 occ., 1 fiches)
@@ -500,6 +503,7 @@
 - [[kb/_entites-mineures#Tavily\|Tavily]] — usage: Recherche web primaire (Deep Research) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Teamwork-Graph\|Teamwork Graph]] — rôle: Couche de contexte Atlassian améliorant précision et efficience en tokens de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — catégorie: Benchmark pour agents de codage (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Terra\|Terra]] — positionnement: Tier équilibré du quotidien (~GPT-5.5 à moitié prix) ; 2,50 $/15 $ par M tokens ; candidat au statut de défaut en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tesla-Optimus\|Tesla Optimus]] — catégorie: Robot humanoïde (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] — catégorie: Composant Scout - génération tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tests-structurels\|Tests structurels]] — catégorie: Tests de type ArchUnit validant les contraintes architecturales (1 occ., 1 fiches)

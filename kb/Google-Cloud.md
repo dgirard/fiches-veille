@@ -1,6 +1,6 @@
 # Google Cloud
 
-> **Type** : ORGANISATION | 5 relations | 1 fiches sources
+> **Type** : ORGANISATION | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,10 @@
 
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
+
+## Relations (comme objet)
+
+- [[kb/SFEIR\|SFEIR]] **collabore_avec** → Google Cloud — 0.90
 
 ## Fiches sources
 
