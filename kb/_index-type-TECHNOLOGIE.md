@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 631 entités de type TECHNOLOGIE
+> 633 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -34,6 +34,7 @@
 - [[kb/_entites-mineures#AI.Gov\|AI.Gov]] — catégorie: Portail gouvernemental IA (1 occ., 1 fiches)
 - [[kb/AI-works\|AI/works™]] — catégorie: Plateforme de développement agentique entreprise (Agentic Development Platform), sales-led, ACV élevé attendu (1 occ., 1 fiches)
 - [[kb/AI4Ops-technologie\|AI4Ops]] — résultat: 100% automatisation support N1, réduction >90% coûts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ALIX\|ALIX]] — catégorie: Plateforme maison de France Télévisions, déployée sur Scaleway sans réécriture — preuve de réversibilité en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] — catégorie: GPU inférence data center (1 occ., 1 fiches)
 - [[kb/AP2\|AP2]] — nom complet: Agent Payments Protocol (5 occ., 1 fiches)
 - [[kb/_entites-mineures#API-Anthropic\|API Anthropic]] — catégorie: API messages pour LLM Claude (1 occ., 1 fiches)
@@ -275,6 +276,7 @@
 - [[kb/IA-agentique\|IA agentique]] — description: IA autonome ou semi-autonome percevant, décidant et agissant (3 occ., 3 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] — effet: Augmentation de productivité, transformation du métier (1 occ., 1 fiches)
 - [[kb/IA-générative\|IA générative]] — catégorie: Technologie IA de génération de contenu (4 occ., 4 fiches)
+- [[kb/_entites-mineures#IA-souveraine\|IA souveraine]] — définition: Exploiter des modèles sur données industrielles sensibles avec une chaîne complète (calcul, entraînement, inférence) maintenue en juridiction de confiance européenne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IDE\|IDE]] — categorie: Environnement developpement integre (1 occ., 1 fiches)
 - [[kb/Iceberg-Index\|Iceberg Index]] — catégorie: Outil simulation jumeau numérique marché du travail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Incident-Response-Agents\|Incident Response Agents]] — catégorie: Agents de diagnostic incidents (1 occ., 1 fiches)

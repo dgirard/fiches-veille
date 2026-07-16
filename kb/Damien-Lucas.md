@@ -1,10 +1,10 @@
 # Damien Lucas
 
-> **Type** : PERSONNE | 3 relations | 1 fiches sources
+> **Type** : PERSONNE | 3 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : CEO de Scaleway
+- **rôle** : Directeur général de Scaleway ; situe l'accord sur le terrain de l'IA industrielle (performance mondiale + confiance, ouverture, maîtrise long terme)
 
 ## Relations (comme sujet)
 
@@ -19,7 +19,9 @@
 
 - [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
+  - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ## Fiches sources
 
 - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
+- [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]

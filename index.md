@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 333 fiches | 1975-12 → 2026-07-15 | généré le 2026-07-16
+> 334 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **16** [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Airbus, Scaleway, iliad
 - **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
 - **13** [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — GPT-5.6, Sol, Terra
@@ -686,6 +687,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
@@ -776,6 +778,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
@@ -824,6 +827,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Anthropic's War on Opensource AI](fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12.md) — Ahmad Osman (@TheAhmadOsman)
 - [LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien République)](fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11.md) — **Bertrand** — journaliste / présentateur du média **République** (partenaire de VivaTech), conduit l'entretien. **Damien Lucas** — CEO de **Scaleway**. **Franck Le Moal** — Global Technical Officer du groupe **LVMH**.
@@ -836,20 +840,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 333 fiches
-- **Par année** : 2026 (156) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 334 fiches
+- **Par année** : 2026 (157) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 111
   - Architecture & Construction : 35
   - Transformation & Adoption : 65
   - Qualité & Sécurité : 24
-  - Économie & Marché : 54
+  - Économie & Marché : 55
   - Philosophie & Société : 17
   - Stratégie & Frameworks : 10
-  - Outils & Plateformes : 23
+  - Outils & Plateformes : 24
   - Recherche & Éducation : 9
   - Produits & Services : 7
-  - Politique & Régulation : 9
+  - Politique & Régulation : 10
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
@@ -857,7 +861,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Deep Research Veille Interne (7)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
-  - SFEIR (4)
+  - SFEIR (5)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
@@ -877,8 +881,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Deep Research (7)
   - Google (7)
   - LinkedIn (6)
+  - SFEIR (5)
   - OpenAI (5)
-  - SFEIR (4)
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)

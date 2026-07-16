@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 348 entités de type ORGANISATION
+> 350 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -23,6 +23,7 @@
 - [[kb/_entites-mineures#Agility-Robotics\|Agility Robotics]] — secteur: Robotique humanoïde industrielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahrefs\|Ahrefs]] — secteur: SEO / content marketing (outil de référence) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AirAsia\|AirAsia]] — secteur: Transport aérien (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Airbus\|Airbus]] — profil: Groupe aéronautique et spatial européen (parfois défense) ; retient Scaleway comme « cloud de confiance » le 16/07/2026 pour ses données/applications critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Airbyte\|Airbyte]] — secteur: Plateforme open source de flux de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Allianz\|Allianz]] — secteur: Assurance (1 occ., 1 fiches)
 - [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
@@ -262,7 +263,7 @@
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] — secteur: Informatique spatiale décentralisée (1 occ., 1 fiches)
-- [[kb/Scaleway-organisation\|Scaleway]] — rôle: Partenaire cloud de la chaîne de valeur souveraine de l'inférence (VivaTech 2026) (1 occ., 1 fiches)
+- [[kb/Scaleway-organisation\|Scaleway]] — rôle: Partenaire cloud de la chaîne de valeur souveraine de l'inférence (VivaTech 2026) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Schaeffler\|Schaeffler]] — secteur: Pièces automobiles (Caroline du Sud, Allemagne) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Seagate\|Seagate]] — secteur: Stockage de données / Hardware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] — secteur: Services à domicile (utilisateur Replit) (1 occ., 1 fiches)
@@ -342,6 +343,7 @@
 - [[kb/_entites-mineures#communautés-Discord-Reddit\|communautés Discord/Reddit]] — rôle: Curation et organisation de ressources d'apprentissage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fondations-open-source\|fondations open source]] — focus actuel: Licences et propriété intellectuelle (1 occ., 1 fiches)
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] — type: organisation GitHub open-source (1 occ., 1 fiches)
+- [[kb/_entites-mineures#iliad\|iliad]] — rôle: Groupe télécoms/tech français, maison mère de Scaleway (1 occ., 1 fiches)
 - [[kb/_entites-mineures#labs-d'IA\|labs d'IA]] — critique: N'auraient pas perçu la dimension organisationnelle des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#memodb-io\|memodb-io]] — domaine: Infrastructure agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sponsors-Tokenomics-Foundation\|sponsors Tokenomics Foundation]] — liste: Accenture, Booking.com, Google Cloud, Microsoft, IBM, Salesforce (1 occ., 1 fiches)

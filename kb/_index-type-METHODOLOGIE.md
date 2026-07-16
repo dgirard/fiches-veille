@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 378 entités de type METHODOLOGIE
+> 379 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -273,6 +273,7 @@
 - [[kb/_entites-mineures#design-patterns\|design patterns]] — catégorie: Mécanisme de transmission du jugement architectural (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-(Mensch)\|distillation (Mensch)]] — définition: Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] — définition: Apprentissage automatique à partir des tâches complétées (1 occ., 1 fiches)
+- [[kb/_entites-mineures#doctrine-multicloud\|doctrine multicloud]] — principe: Composer un portefeuille où chaque charge vit selon ses contraintes (souveraineté/perf/réglementation) en conservant le pouvoir d'en changer ; dépasser le faux dilemme « multi-cloud ou souverain » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#désambiguïsation-par-consensus\|désambiguïsation par consensus]] — principe: Là où N agents convergent, la demande est non ambiguë ; le désaccord mesure l'ambiguïté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)

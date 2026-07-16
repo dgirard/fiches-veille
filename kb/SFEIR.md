@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 20 relations | 7 fiches sources
+> **Type** : ORGANISATION | 22 relations | 7 fiches sources
 
 ## Attributs
 
@@ -29,6 +29,8 @@
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - « le modèle est une commodité, l'avantage durable est dans l'ingénierie qui l'entoure » (CITATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
+  - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### collabore_avec
 
@@ -66,6 +68,8 @@
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - « industrialiser le Context Engineering et le Harness Engineering » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « traiter infrastructure, plateforme et modèle comme trois couches à garder ouvertes » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### s_inspire_de
 

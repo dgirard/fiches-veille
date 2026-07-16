@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2345 entités avec moins de 3 triples/fiches
+> 2354 entités avec moins de 3 triples/fiches
 
-## PERSONNE (334)
+## PERSONNE (335)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -642,6 +642,16 @@
 - **affirme_que** → [[kb/_entites-mineures#the-short-run-can-be-a-lifetime\|"the short run can be a lifetime"]] (CITATION) — 0.97
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### Catherine Jestin {#Catherine-Jestin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Executive Vice President Digital d'Airbus ; met en avant la protection contre les législations extraterritoriales étrangères
+
+- **travaille_chez** → [[kb/_entites-mineures#Airbus\|Airbus]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### Celso Martinho {#Celso-Martinho}
 
@@ -3335,7 +3345,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (267)
+## ORGANISATION (269)
 
 ### 10x {#10x}
 
@@ -3501,6 +3511,19 @@
 - **utilise** → [[kb/_entites-mineures#Content-Workflow-Assistant\|Content Workflow Assistant]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
+
+### Airbus {#Airbus}
+
+**Type** : ORGANISATION | 3 relations | 1 fiches
+
+- **profil** : Groupe aéronautique et spatial européen (parfois défense) ; retient Scaleway comme « cloud de confiance » le 16/07/2026 pour ses données/applications critiques
+
+- **utilise** → [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE) — 0.97
+- **affirme_que** → [[kb/_entites-mineures#la-performance-ne-suffit-plus-quand-la-donnée-est-stratégique-gouvernance-et-immunité-extraterritoriale-priment-sur-les-fonctionnalités\|la performance ne suffit plus quand la donnée est stratégique : gouvernance et immunité extraterritoriale priment sur les fonctionnalités]] (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Catherine-Jestin\|Catherine Jestin]] **travaille_chez** → Airbus — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### Airbyte {#Airbyte}
 
@@ -5961,6 +5984,16 @@
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
+### iliad {#iliad}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Groupe télécoms/tech français, maison mère de Scaleway
+
+- [[kb/Scaleway-organisation\|Scaleway]] **fait_partie_de** → iliad — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
 ### labs d'IA {#labs-d'IA}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -6023,7 +6056,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (512)
+## TECHNOLOGIE (514)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6277,6 +6310,16 @@
 - **catégorie** : Portail gouvernemental IA
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+
+### ALIX {#ALIX}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme maison de France Télévisions, déployée sur Scaleway sans réécriture — preuve de réversibilité en production
+
+- **observé_dans** → [[kb/_entites-mineures#déploiement-sur-Scaleway-sans-réécriture\|déploiement sur Scaleway sans réécriture]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### AMD Instinct MI450 {#AMD-Instinct-MI450}
 
@@ -8192,6 +8235,14 @@
 - **permet** → [[kb/_entites-mineures#abstraction-du-travail-de-programmation\|abstraction du travail de programmation]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
+
+### IA souveraine {#IA-souveraine}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Exploiter des modèles sur données industrielles sensibles avec une chaîne complète (calcul, entraînement, inférence) maintenue en juridiction de confiance européenne
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### IDE {#IDE}
 
@@ -11224,7 +11275,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (761)
+## CONCEPT (764)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12175,11 +12226,14 @@
 
 ### CLOUD Act {#CLOUD-Act}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
 - **catégorie** : Loi extraterritoriale américaine
+- **définition** : Loi américaine autorisant l'administration US à réclamer des données détenues par une entreprise sous juridiction américaine, où qu'elles soient physiquement stockées — critère discriminant du choix d'Airbus
 
-**Fiches** : [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
+- **s_applique_à** → [[kb/_entites-mineures#données-détenues-par-une-entreprise-sous-juridiction-américaine-où-qu'elles-soient-stockées\|données détenues par une entreprise sous juridiction américaine où qu'elles soient stockées]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]], [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
 ### CMO {#CMO}
 
@@ -15610,6 +15664,14 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
+### cloud de confiance {#cloud-de-confiance}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
 ### codage agentique {#codage-agentique}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -17544,6 +17606,16 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
+### réversibilité {#réversibilité}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **principe** : Métrique de souveraineté durable : bâtir la capacité de changer de fournisseur (ex. ALIX déployée sur Scaleway sans réécriture) plutôt que l'espérer
+
+- **permet** → [[kb/_entites-mineures#souveraineté-durable-au-delà-du-contrat-signé\|souveraineté durable au-delà du contrat signé]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17704,6 +17776,14 @@
 - [[kb/_entites-mineures#concentration-du-capital-Big-Tech\|concentration du capital Big Tech]] **réduit** → souveraineté numérique — 0.88
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+
+### souveraineté par étages {#souveraineté-par-étages}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### souveraineté technologique européenne {#souveraineté-technologique-européenne}
 
@@ -18236,7 +18316,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (341)
+## METHODOLOGIE (342)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20577,6 +20657,14 @@
 - [[kb/Acontext\|Acontext]] **utilise** → distillation de compétences — 0.88
 
 **Fiches** : [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
+
+### doctrine multicloud {#doctrine-multicloud}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **principe** : Composer un portefeuille où chaque charge vit selon ses contraintes (souveraineté/perf/réglementation) en conservant le pouvoir d'en changer ; dépasser le faux dilemme « multi-cloud ou souverain »
+
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ### décomposition de capacités {#décomposition-de-capacités}
 

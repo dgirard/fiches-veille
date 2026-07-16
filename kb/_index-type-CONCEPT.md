@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 785 entités de type CONCEPT
+> 788 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -117,7 +117,7 @@
 - [[kb/_entites-mineures#Budget-marketing-fixe\|Budget marketing fixe]] — problème: Plafonnement des campagnes performantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] — distinction: Burnout = émotionnel (allégé par IA sur tâches répétitives -15%) ; Brain fry = cognitif aigu (aggravé par oversight intensif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CFO\|CFO]] — rôle: Directeur financier, interlocuteur clé du CMO (1 occ., 1 fiches)
-- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] — catégorie: Loi extraterritoriale américaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] — catégorie: Loi extraterritoriale américaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#CMO\|CMO]] — rôle: Directeur marketing, audience cible principale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CORS\|CORS]] — catégorie: Contrainte sécurité cross-origin navigateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Capitulation-cognitive\|Capitulation cognitive]] — risque: Accepter les sorties de la boucle sans jugement (1 occ., 1 fiches)
@@ -504,6 +504,7 @@
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] — axe: Axe Y de la carte (visible → invisible pour l'utilisateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cinq-substitutions\|cinq substitutions]] — liste: Generator-verifier gap, search vs insight, décomposition vs horizon, banking vs présence, mesure vs métacognition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
+- [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] — définition: Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#codage-agentique\|codage agentique]] — définition: Développement logiciel piloté par agents IA autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-output\|code output]] — statut: Ressource devenue abondante (non rare) à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-rot-(pourriture-du-code)\|code rot (pourriture du code)]] — définition: Dégradation naturelle du code en l'absence d'entretien (1 occ., 1 fiches)
@@ -712,6 +713,7 @@
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#réversibilité\|réversibilité]] — principe: Métrique de souveraineté durable : bâtir la capacité de changer de fournisseur (ex. ALIX déployée sur Scaleway sans réécriture) plutôt que l'espérer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] — mesure: Fraction de trajectoires satisfaisant l'utilisateur (1 occ., 1 fiches)
@@ -729,6 +731,7 @@
 - [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] — description: Réduction de la dépendance aux outils IA américains (2 occ., 2 fiches)
 - [[kb/_entites-mineures#spans-of-control\|spans of control]] — définition: Nombre de subordonnés qu'un manager peut superviser efficacement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spectrum-de-communication\|spectrum de communication]] — niveaux: notify, tool call, prompt, intent (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 438 entités de type PERSONNE
+> 439 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -80,6 +80,7 @@
 - [[kb/_entites-mineures#Camille-Fournier\|Camille Fournier]] — rôle: Leader technique, auteure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Carl-Benedikt-Frey\|Carl Benedikt Frey]] — rôle: Économiste Oxford, auteur citation "the short run can be a lifetime" (1 occ., 1 fiches)
 - [[kb/Cat-Wu\|Cat Wu]] — rôle: Équipe Claude Code (intervenante Fireside Chat AIE) (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Catherine-Jestin\|Catherine Jestin]] — rôle: Executive Vice President Digital d'Airbus ; met en avant la protection contre les législations extraterritoriales étrangères (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Celso-Martinho\|Celso Martinho]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Changran-Hu\|Changran Hu]] — affiliation: SambaNova Systems (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chao-Huang\|Chao Huang]] — rôle: Chercheur principal HKUDS (1 occ., 1 fiches)
@@ -96,7 +97,7 @@
 - [[kb/_entites-mineures#Cormac\|Cormac]] — rôle: Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] — rôle: Investor, Andreessen Horowitz (AI applications) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] — rôle: Président de la start-up Greptile (1 occ., 1 fiches)
-- [[kb/Damien-Lucas\|Damien Lucas]] — rôle: CEO de Scaleway (1 occ., 1 fiches)
+- [[kb/Damien-Lucas\|Damien Lucas]] — rôle: Directeur général de Scaleway ; situe l'accord sur le terrain de l'IA industrielle (performance mondiale + confiance, ouverture, maîtrise long terme) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] — contribution: Co-auteur d'une étude sur l'effet des principes Cialdini sur les LLMs (1 occ., 1 fiches)
 - [[kb/Dan-Shipper\|Dan Shipper]] — rôle: CEO et co-fondateur Every (média/studio AI-native), auteur Compound Engineering (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)

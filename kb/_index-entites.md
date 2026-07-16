@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2721 entités
+> 2730 entités
 
 ## #
 
@@ -210,6 +210,7 @@
 - [[kb/_entites-mineures#AIDA\|AIDA]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#AirAsia\|AirAsia]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Airbus\|Airbus]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Airbyte\|Airbyte]] (ORGANISATION, 1 fiches)
 - [[kb/AISI-UK\|AISI UK]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Akzidenz-Grotesk-Next-Pro\|Akzidenz-Grotesk Next Pro]] (TECHNOLOGIE, 1 fiches)
@@ -227,6 +228,7 @@
 - [[kb/_entites-mineures#Alignement-des-incitations\|Alignement des incitations]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Alistair-Gray\|Alistair Gray]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Alive-to-a-specific-moment\|Alive to a specific moment]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#ALIX\|ALIX]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Allianz\|Allianz]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#AllianzGPT\|AllianzGPT]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Allie-Nawrat\|Allie Nawrat]] (PERSONNE, 1 fiches)
@@ -508,6 +510,7 @@
 - [[kb/_entites-mineures#CAST\|CAST]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] (ORGANISATION, 1 fiches)
 - [[kb/Cat-Wu\|Cat Wu]] (PERSONNE, 3 fiches)
+- [[kb/_entites-mineures#Catherine-Jestin\|Catherine Jestin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Caveat-20-80-(HABERT)\|Caveat 20/80 (HABERT)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#caveats\|caveats]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CDLC\|CDLC]] (METHODOLOGIE, 2 fiches)
@@ -593,7 +596,8 @@
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CLI\|CLI]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Development-Act-+-package-Souveraineté\|Cloud Development Act + package Souveraineté]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] (DOCUMENT, 1 fiches)
 - [[kb/Cloudflare\|Cloudflare]] (ORGANISATION, 2 fiches)
@@ -780,7 +784,7 @@
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Daksh-Gupta\|Daksh Gupta]] (PERSONNE, 1 fiches)
-- [[kb/Damien-Lucas\|Damien Lucas]] (PERSONNE, 1 fiches)
+- [[kb/Damien-Lucas\|Damien Lucas]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Dan-Shapiro\|Dan Shapiro]] (PERSONNE, 1 fiches)
 - [[kb/Dan-Shipper\|Dan Shipper]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] (CONCEPT, 1 fiches)
@@ -883,6 +887,7 @@
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#doctrine-frontier-free\|doctrine frontier-free]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#doctrine-multicloud\|doctrine multicloud]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#documentation-compressée\|documentation compressée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#documentation-statique\|documentation statique]] (CONCEPT, 1 fiches)
@@ -1318,6 +1323,7 @@
 - [[kb/_entites-mineures#IA-locale\|IA locale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-Responsable\|IA Responsable]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#IA-souveraine\|IA souveraine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IAG-(AGI)\|IAG (AGI)]] (CONCEPT, 1 fiches)
 - [[kb/Iceberg-Index\|Iceberg Index]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IDE\|IDE]] (TECHNOLOGIE, 1 fiches)
@@ -1327,6 +1333,7 @@
 - [[kb/_entites-mineures#IETF-WIMSE-working-group\|IETF WIMSE working group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#iframes-sandboxées\|iframes sandboxées]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ignition-Consulting-Group\|Ignition Consulting Group]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#iliad\|iliad]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#immutabilité\|immutabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Imperfect-metrics-doctrine\|Imperfect metrics doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Implementation-advantage\|Implementation advantage]] (CONCEPT, 1 fiches)
@@ -2177,6 +2184,7 @@
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#réversibilité\|réversibilité]] (CONCEPT, 1 fiches)
 ## S
 
 - [[kb/_entites-mineures#S3NS\|S3NS]] (ORGANISATION, 1 fiches)
@@ -2203,7 +2211,7 @@
 - [[kb/Satya-Nadella\|Satya Nadella]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Scaffolding\|Scaffolding]] (CONCEPT, 1 fiches)
-- [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION, 1 fiches)
+- [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION, 2 fiches)
 - [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Scenario\|Scenario]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Schaeffler\|Schaeffler]] (ORGANISATION, 1 fiches)
@@ -2337,6 +2345,7 @@
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] (CONCEPT, 2 fiches)
 - [[kb/SpaceX\|SpaceX]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#spans-of-control\|spans of control]] (CONCEPT, 1 fiches)
