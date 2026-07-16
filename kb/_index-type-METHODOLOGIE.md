@@ -349,7 +349,7 @@
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routing-de-modèle\|routing de modèle]] — principes: Rail density, escalation ladder, DAG float (1 occ., 1 fiches)
-- [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] — principe: « Un modèle par tâche » plutôt qu'« un modèle pour tout » ; sélectionner le tier adapté par tâche pour optimiser coût/latence (1 occ., 1 fiches)
+- [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] — principe: Composer un portefeuille où chaque tâche/contrainte reçoit le modèle adapté ; l'arrivée d'un frontier open-weights crédible ajoute une colonne « réversibilité » à la grille de décision (2 occ., 2 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] — définition: Réplication autonome de résultats de recherche par agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] — applications: Conduite autonome, diagnostic médical (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] — objectif: Appliquer les règles de lint au plus tôt (IDE, git hooks, CI) (1 occ., 1 fiches)

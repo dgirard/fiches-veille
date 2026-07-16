@@ -1,6 +1,6 @@
 # Claude
 
-> **Type** : TECHNOLOGIE | 23 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 8 fiches sources
 
 ## Attributs
 
@@ -54,6 +54,7 @@
 - [[kb/GPT-5.6\|GPT-5.6]] **concurrence** → Claude — 0.92
 - [[kb/_entites-mineures#choix-sûrs-sans-guidance\|choix sûrs sans guidance]] **observé_dans** → Claude — 0.92
 - [[kb/Weave\|Weave]] **utilise** → Claude — 0.92
+- [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude — 0.85
 
 ## Fiches sources
 

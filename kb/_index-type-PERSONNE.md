@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 440 entités de type PERSONNE
+> 441 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -430,6 +430,7 @@
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] — rôle: Fondateur Manus, VP Meta (1 occ., 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] — rôle: CEO de HubSpot (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] — rôle: Cofondateur de Moonshot AI (mars 2023) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] — rôle: Lauréat du prix Turing ; soutient publiquement ZML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] — rôle: Chercheur, Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)

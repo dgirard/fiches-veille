@@ -1,6 +1,6 @@
 # GPT-5.6
 
-> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -34,6 +34,7 @@
 - [[kb/_entites-mineures#Luna\|Luna]] **est_variante_de** → GPT-5.6 — 0.95
 - [[kb/Sol\|Sol]] **est_variante_de** → GPT-5.6 — 0.95
 - [[kb/_entites-mineures#Terra\|Terra]] **est_variante_de** → GPT-5.6 — 0.95
+- [[kb/Kimi-K3\|Kimi K3]] **concurrence** → GPT-5.6 — 0.85
 
 ## Fiches sources
 

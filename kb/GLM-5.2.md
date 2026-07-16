@@ -1,10 +1,10 @@
 # GLM-5.2
 
-> **Type** : TECHNOLOGIE | 11 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 3 fiches sources
 
 ## Attributs
 
-- **catégorie** : LLM à poids ouverts, MoE 753 Mds/40 Mds actifs, raisonnement, contexte 1M, MIT, sorti 2026-06-16
+- **catégorie** : Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité
 - **tarif** : ~$1,40 / $4,40 le M tokens ; ~1/6 du frontier ; poids ouverts (MIT)
 
 ## Relations (comme sujet)
@@ -18,6 +18,8 @@
 
 - [[kb/_entites-mineures#modèle-à-poids-ouverts\|modèle à poids ouverts]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+- [[kb/_entites-mineures#modèle-frontier-open-weights\|modèle frontier open-weights]] (CONCEPT) — 0.82, STATIQUE
+  - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### mesure
 
@@ -50,3 +52,4 @@
 
 - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
+- [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 634 entités de type TECHNOLOGIE
+> 636 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -193,7 +193,7 @@
 - [[kb/GDPVal-technologie\|GDPVal]] — définition: Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: LLM à poids ouverts, MoE 753 Mds/40 Mds actifs, raisonnement, contexte 1M, MIT, sorti 2026-06-16 (2 occ., 2 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] — catégorie: LLM généraliste (1 occ., 1 fiches)
@@ -294,6 +294,8 @@
 - [[kb/_entites-mineures#Jupyter\|Jupyter]] — catégorie: Notebook data science (référence historique) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#K-9-Mail\|K-9 Mail]] — description: Client email Android devenu Thunderbird for Android (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KVCache\|KVCache]] — rôle: Mécanisme de cache pour réduire les coûts d'inférence LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] — définition: Mécanisme d'attention linéaire hybride de Kimi K3 (+ « Attention Residuals ») ; Moonshot revendique un décodage jusqu'à 6,3× plus rapide sur 1M tokens et ~25 % d'efficacité d'entraînement supplémentaire (1 occ., 1 fiches)
+- [[kb/Kimi-K3\|Kimi K3]] — catégorie: Modèle LLM frontier open-weights de Moonshot AI, lancé le 16/07/2026 ; MoE ~2,8T paramètres et contexte 1M tokens (vendor-stated), multimodal natif, raisonnement à effort maximal ; variantes K3 Max et K3 Swarm Max ; poids annoncés avant le 27/07/2026 (probable Modified MIT) (1 occ., 1 fiches)
 - [[kb/Kiro\|Kiro]] — catégorie: IDE + CLI d'AWS, standard de développement interne, sur Claude Sonnet/Opus (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Kloset\|Kloset]] — catégorie: Moteur stockage immuable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kubernetes\|Kubernetes]] — rôle: Outil bas niveau utilisé par compounding teams (1 occ., 1 fiches)

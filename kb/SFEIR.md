@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 22 relations | 7 fiches sources
+> **Type** : ORGANISATION | 25 relations | 7 fiches sources
 
 ## Attributs
 
@@ -27,8 +27,12 @@
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « l'IA exécute des phases entières, elle n'assiste pas » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- « la couche des modèles se banalise et la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts) » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « le modèle est une commodité, l'avantage durable est dans l'ingénierie qui l'entoure » (CITATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « les specs et scores de Kimi K3 sont auto-déclarés (vendor-stated) et à traiter comme des revendications, pas des faits mesurés » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
@@ -36,6 +40,7 @@
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+  - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
@@ -60,6 +65,8 @@
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - « router par tâche entre modèles plutôt que chercher un modèle champion » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « routing multi-modèles (un modèle par tâche, un modèle par contrainte) plutôt qu'un choix tranché propriétaire/open-weights » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « concevoir des architectures modulaires découplées pour interchanger les LLM sans réécriture » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « documenter le « pourquoi » des décisions car l'IA ne génère que le « comment » » (AFFIRMATION) — 0.88, ATEMPOREL

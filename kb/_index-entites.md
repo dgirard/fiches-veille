@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2737 entités
+> 2743 entités
 
 ## #
 
@@ -387,6 +387,7 @@
 - [[kb/_entites-mineures#Babel-(icône-biblique)\|Babel (icône biblique)]] (CONCEPT, 1 fiches)
 - [[kb/Bain-&-Company\|Bain & Company]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#banalisation-de-la-couche-modèle\|banalisation de la couche modèle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Barbara-Eldredge\|Barbara Eldredge]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bard\|Bard]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Barron-Ernst\|Barron Ernst]] (PERSONNE, 1 fiches)
@@ -1162,7 +1163,7 @@
 - [[kb/GKG\|GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] (ORGANISATION, 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 1 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 2 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Go\|Go]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Goal-Driven-Execution\|Goal-Driven Execution]] (METHODOLOGIE, 1 fiches)
@@ -1456,6 +1457,8 @@
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Kiro\|Kiro]] (TECHNOLOGIE, 4 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kloset\|Kloset]] (TECHNOLOGIE, 1 fiches)
@@ -1738,6 +1741,7 @@
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mouvement-anti-data-center\|Mouvement anti-data-center]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#mpp\|mpp]] (TECHNOLOGIE, 1 fiches)
@@ -1844,6 +1848,7 @@
 - [[kb/_entites-mineures#OON-to-Thunder-conversion\|OON-to-Thunder conversion]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#OON_WEIGHT_FACTOR\|OON_WEIGHT_FACTOR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#open-weights\|open-weights]] (CONCEPT, 1 fiches)
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION, 20 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
@@ -2167,7 +2172,7 @@
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Routines-(Anthropic)\|Routines (Anthropic)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routing-de-modèle\|routing de modèle]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#RTX-5090\|RTX 5090]] (TECHNOLOGIE, 1 fiches)
@@ -2190,7 +2195,7 @@
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#réversibilité\|réversibilité]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#réversibilité\|réversibilité]] (CONCEPT, 2 fiches)
 ## S
 
 - [[kb/_entites-mineures#S3NS\|S3NS]] (ORGANISATION, 1 fiches)
@@ -2745,6 +2750,7 @@
 - [[kb/_entites-mineures#Yahoo-Finance\|Yahoo Finance]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#yak-shaving\|yak shaving]] (CONCEPT, 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] (TECHNOLOGIE, 1 fiches)

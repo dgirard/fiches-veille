@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 335 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
+> 336 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -9,6 +9,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-07
 
 - **16** [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Airbus, Scaleway, iliad
+- **16** [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Kimi K3, Moonshot AI, Yang Zhilin
 - **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
 - **13** [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — GPT-5.6, Sol, Terra
@@ -691,6 +692,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Économie & Marché
 
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
+- [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
@@ -768,6 +770,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
 - [Loop Engineering for Product Managers](fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21.md) — Shubham Saboo (@Saboo_Shubham_)
@@ -782,6 +785,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Outils & Plateformes
 
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
+- [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
@@ -844,17 +848,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 335 fiches
-- **Par année** : 2026 (158) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 336 fiches
+- **Par année** : 2026 (159) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 112
   - Architecture & Construction : 35
   - Transformation & Adoption : 65
   - Qualité & Sécurité : 25
-  - Économie & Marché : 55
+  - Économie & Marché : 56
   - Philosophie & Société : 17
-  - Stratégie & Frameworks : 10
-  - Outils & Plateformes : 25
+  - Stratégie & Frameworks : 11
+  - Outils & Plateformes : 26
   - Recherche & Éducation : 9
   - Produits & Services : 7
   - Politique & Régulation : 10
@@ -863,9 +867,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Anthropic (8)
   - Chris Williams (7)
   - Deep Research Veille Interne (7)
+  - SFEIR (6)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
-  - SFEIR (5)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
@@ -884,8 +888,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - voodootikigod.com (Chris Williams) (7)
   - Deep Research (7)
   - Google (7)
+  - SFEIR (6)
   - LinkedIn (6)
-  - SFEIR (5)
   - OpenAI (5)
   - Ethan Mollick (4)
   - GitHub (4)

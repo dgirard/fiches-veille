@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 790 entités de type CONCEPT
+> 792 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -479,6 +479,7 @@
 - [[kb/_entites-mineures#avantage-concurrentiel\|avantage concurrentiel]] — localisation: Composants positionnés à gauche de la carte (Genèse / Sur mesure) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] — contexte: Objectif final de l'adoption IA à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] — définition: Proximité client : haut = visible, bas = infrastructure (1 occ., 1 fiches)
+- [[kb/_entites-mineures#banalisation-de-la-couche-modèle\|banalisation de la couche modèle]] — principe: Thèse SFEIR : le modèle devient une commodité, la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts, capacité à changer d'avis) ; l'open-weights accélère cette banalisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#behavioral-observability\|behavioral observability]] — usage: Monitoring spécifique au comportement des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-Opus-4.8\|benchmarks Opus 4.8]] — valeurs: SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-standards\|benchmarks standards]] — exemples: MMLU-Pro, AIME, GPQA, SWE-bench, ARC-AGI, METR (1 occ., 1 fiches)
@@ -663,6 +664,7 @@
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
+- [[kb/_entites-mineures#open-weights\|open-weights]] — définition: Modèle dont les poids sont téléchargeables et exécutables (≠ pipeline d'entraînement ouvert) ; ouvre l'option self-host et la réversibilité, sans équivaloir à l'open-source au sens strict (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)
@@ -714,7 +716,7 @@
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
-- [[kb/_entites-mineures#réversibilité\|réversibilité]] — principe: Métrique de souveraineté durable : bâtir la capacité de changer de fournisseur (ex. ALIX déployée sur Scaleway sans réécriture) plutôt que l'espérer (1 occ., 1 fiches)
+- [[kb/_entites-mineures#réversibilité\|réversibilité]] — principe: Capacité stratégique à exécuter/porter un modèle soi-même et à ne plus être captif d'un fournisseur ; valeur non capturée par le prix par token (Design to Exit, BATNA) — rendue « possible pour de vrai » par un frontier open-weights (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] — mesure: Fraction de trajectoires satisfaisant l'utilisateur (1 occ., 1 fiches)

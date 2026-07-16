@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 350 entités de type ORGANISATION
+> 351 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -212,6 +212,7 @@
 - [[kb/Monday.com\|Monday.com]] — secteur: Gestion de projet / IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] — description: Cas étude Mandese — agence ayant adopted single subscription combining talent + technology + improvement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] — défi: Opacité des données vendeurs d'outils IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] — rôle: Labo IA chinois (« AI Tiger ») fondé à Pékin en mars 2023 par Yang Zhilin ; éditeur du chatbot Kimi et de la série K2/K3 open-weights, à cadence rapide (un flagship ~tous les 2 mois) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] — secteur: Finance / Banque d'investissement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NIST-AI-Safety-Institute-Consortium\|NIST AI Safety Institute Consortium]] — type: Consortium de sécurité IA américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NYU-Stern-School-of-Business\|NYU Stern School of Business]] — secteur: École de commerce universitaire (1 occ., 1 fiches)

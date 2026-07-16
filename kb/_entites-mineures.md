@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2358 entités avec moins de 3 triples/fiches
+> 2363 entités avec moins de 3 triples/fiches
 
-## PERSONNE (335)
+## PERSONNE (336)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3239,6 +3239,16 @@
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
+### Yang Zhilin {#Yang-Zhilin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur de Moonshot AI (mars 2023)
+
+- **a_créé** → [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+
 ### Yann LeCun {#Yann-LeCun}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3345,7 +3355,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (269)
+## ORGANISATION (270)
 
 ### 10x {#10x}
 
@@ -4972,6 +4982,19 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
+### Moonshot AI {#Moonshot-AI}
+
+**Type** : ORGANISATION | 3 relations | 1 fiches
+
+- **rôle** : Labo IA chinois (« AI Tiger ») fondé à Pékin en mars 2023 par Yang Zhilin ; éditeur du chatbot Kimi et de la série K2/K3 open-weights, à cadence rapide (un flagship ~tous les 2 mois)
+
+- **publie** → [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE) — 0.97
+- **affirme_que** → [[kb/_entites-mineures#Kimi-K3-compte-~2,8-trillions-de-paramètres,-un-contexte-de-1M-tokens-et-une-architecture-MoE-à-attention-hybride-(vendor-stated)\|Kimi K3 compte ~2,8 trillions de paramètres, un contexte de 1M tokens et une architecture MoE à attention hybride (vendor-stated)]] (AFFIRMATION) — 0.80
+
+- [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] **a_créé** → Moonshot AI — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+
 ### Morgan Stanley {#Morgan-Stanley}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6056,7 +6079,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (513)
+## TECHNOLOGIE (514)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8381,6 +8404,18 @@
 - **réduit** → [[kb/_entites-mineures#coût-effectif-par-requête-modèle\|coût effectif par requête modèle]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+
+### Kimi Delta Attention {#Kimi-Delta-Attention}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Mécanisme d'attention linéaire hybride de Kimi K3 (+ « Attention Residuals ») ; Moonshot revendique un décodage jusqu'à 6,3× plus rapide sur 1M tokens et ~25 % d'efficacité d'entraînement supplémentaire
+
+- **améliore** → [[kb/_entites-mineures#décodage-jusqu'à-6,3×-plus-rapide-sur-contextes-de-1M-tokens-(revendiqué)\|décodage jusqu'à 6,3× plus rapide sur contextes de 1M tokens (revendiqué)]] (MESURE) — 0.78
+
+- [[kb/Kimi-K3\|Kimi K3]] **utilise** → Kimi Delta Attention — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### Kloset {#Kloset}
 
@@ -11263,7 +11298,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (766)
+## CONCEPT (768)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15411,6 +15446,14 @@
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
 
+### banalisation de la couche modèle {#banalisation-de-la-couche-modèle}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Thèse SFEIR : le modèle devient une commodité, la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts, capacité à changer d'avis) ; l'open-weights accélère cette banalisation
+
+**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+
 ### behavioral observability {#behavioral-observability}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17151,6 +17194,16 @@
 
 **Fiches** : [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
+### open-weights {#open-weights}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle dont les poids sont téléchargeables et exécutables (≠ pipeline d'entraînement ouvert) ; ouvre l'option self-host et la réversibilité, sans équivaloir à l'open-source au sens strict
+
+- **permet** → [[kb/_entites-mineures#réversibilité-self-host,-portage,-sortie-de-la-captivité-fournisseur\|réversibilité : self-host, portage, sortie de la captivité fournisseur]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+
 ### optimisme déterminé {#optimisme-déterminé}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17604,13 +17657,13 @@
 
 ### réversibilité {#réversibilité}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
-- **principe** : Métrique de souveraineté durable : bâtir la capacité de changer de fournisseur (ex. ALIX déployée sur Scaleway sans réécriture) plutôt que l'espérer
+- **principe** : Capacité stratégique à exécuter/porter un modèle soi-même et à ne plus être captif d'un fournisseur ; valeur non capturée par le prix par token (Design to Exit, BATNA) — rendue « possible pour de vrai » par un frontier open-weights
 
 - **permet** → [[kb/_entites-mineures#souveraineté-durable-au-delà-du-contrat-signé\|souveraineté durable au-delà du contrat signé]] (AFFIRMATION) — 0.85
 
-**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### sandboxed iframes {#sandboxed-iframes}
 
@@ -21362,13 +21415,13 @@
 
 ### routing multi-modèles {#routing-multi-modèles}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 2 fiches
 
-- **principe** : « Un modèle par tâche » plutôt qu'« un modèle pour tout » ; sélectionner le tier adapté par tâche pour optimiser coût/latence
+- **principe** : Composer un portefeuille où chaque tâche/contrainte reçoit le modèle adapté ; l'arrivée d'un frontier open-weights crédible ajoute une colonne « réversibilité » à la grille de décision
 
 - **réduit** → [[kb/_entites-mineures#coût-et-latence-des-agents\|coût et latence des agents]] (CONCEPT) — 0.85
 
-**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### réplication automatique {#réplication-automatique}
 
