@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 765 entités de type CONCEPT
+> 767 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -516,6 +516,7 @@
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] — rôle: Différenciateur clé de Genie 3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] — statut: Défi principal des compounding teams (1 occ., 1 fiches)
+- [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] — définition: Distinction Sankar : copilot = approbation humaine à chaque tour ; autopilot = l'agent gère la route entière. Les modèles sont prêts pour l'autopilot, les outils non (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
@@ -698,6 +699,7 @@
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] — mesure: Fraction de trajectoires satisfaisant l'utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#schémas-MCP\|schémas MCP]] — fonction: définir outils, ressources, prompts pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#section-Gotchas\|section Gotchas]] — usage: Documenter les points d'échec réels — contenu à plus fort signal (1 occ., 1 fiches)
+- [[kb/_entites-mineures#self-profiling\|self-profiling]] — définition: Pratique émergente : extraire les frameworks de décision tacites de sa tête pour les encoder dans la codebase/le harness — le « vrai travail » à l'ère des agents surhumains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#services-headless\|services headless]] — rôle: Architecture SI permettant aux agents IA d'accéder aux données de manière autonome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#session-architecte\|session architecte]] — responsabilité: Conception, planification et revue du travail de l'implémenteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#session-implémenteur\|session implémenteur]] — responsabilité: Exécution du plan et écriture du code (1 occ., 1 fiches)

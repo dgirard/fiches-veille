@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 328 fiches | 1975-12 → 2026-07-04 | généré le 2026-07-08
+> 329 fiches | 1975-12 → 2026-07-14 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **14** [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto). · X (article long-form) + Vorflux manifesto — Great Flattening, Vorflux, Prasanna Sankar
 - **04** [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli · The Intelligence Fabric — Shadow intimacy, remplacement par l'IA, liens d'équipe
 - **03** [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212) · X (Thariq Shihipar) — Unknowns, carte vs territoire, known/unknown knowns
 - **03** [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison · Simon Willison's Weblog — Jugement du modèle, délégation à des subagents, model override
@@ -434,6 +435,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212)
 - [Fable's judgement](fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03.md) — Simon Willison
 - [The Compounding Knowledge Lifecycle — Agent Guide](fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02.md) — Kieran Klaassen (Thinkroom / Every — compound-engineering-plugin) ; document « Agent Guide » généré (byline « Claude Code / Anthropic »)
@@ -583,6 +585,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI.
 - [Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit](fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18.md) — Mathieu Grymonprez (Global CDO, groupe Adeo) — invité ; Jean-Baptiste Kempf, Steeve Morin, Mehdi Medjaoui (hôtes du podcast « À la French »)
@@ -676,6 +679,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
 - [Claude Fable 5 and Claude Mythos 5](fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09.md) — Anthropic
@@ -817,14 +821,14 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 328 fiches
-- **Par année** : 2026 (152) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 329 fiches
+- **Par année** : 2026 (153) · 2025 (159) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 110
+  - Agents de codage IA & Skills : 111
   - Architecture & Construction : 33
-  - Transformation & Adoption : 63
+  - Transformation & Adoption : 64
   - Qualité & Sécurité : 24
-  - Économie & Marché : 52
+  - Économie & Marché : 53
   - Philosophie & Société : 16
   - Stratégie & Frameworks : 8
   - Outils & Plateformes : 21

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2662 entités
+> 2670 entités
 
 ## #
 
@@ -704,6 +704,7 @@
 - [[kb/_entites-mineures#coordination\|coordination]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Copilot\|Copilot]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] (CONCEPT, 1 fiches)
 - [[kb/Cora\|Cora]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] (PERSONNE, 1 fiches)
@@ -1565,6 +1566,7 @@
 - [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matt-Mathew\|Matt Mathew]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matt-Pocock\|Matt Pocock]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Matt-Shumer\|Matt Shumer]] (PERSONNE, 1 fiches)
 - [[kb/Matthew-Connelly\|Matthew Connelly]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#mauvaise-configuration-load-balancer\|mauvaise configuration load balancer]] (CONCEPT, 1 fiches)
@@ -1945,6 +1947,7 @@
 - [[kb/_entites-mineures#Postman\|Postman]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] (PERSONNE, 1 fiches)
+- [[kb/Prasanna-Sankar\|Prasanna Sankar]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#PREP\|PREP]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Present-evidence-wins\|Present evidence wins]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pression-surengagement\|pression surengagement]] (CONCEPT, 1 fiches)
@@ -2093,6 +2096,7 @@
 - [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Riley-Ralmuto\|Riley Ralmuto]] (PERSONNE, 1 fiches)
 - [[kb/Rippletide\|Rippletide]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Rippling\|Rippling]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#RISC-V\|RISC-V]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Riskified\|Riskified]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] (CONCEPT, 1 fiches)
@@ -2179,6 +2183,7 @@
 - [[kb/_entites-mineures#section-Gotchas\|section Gotchas]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Secure-GPT\|Secure GPT]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Self-improving-coding-agent\|Self-improving coding agent]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#self-profiling\|self-profiling]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Semantic-Agent\|Semantic Agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] (METHODOLOGIE, 1 fiches)
@@ -2311,6 +2316,7 @@
 - [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SQL-Agent\|SQL Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SQLite-FTS5\|SQLite FTS5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Sreeram-Kannan\|Sreeram Kannan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Srinivas-Tallapragada\|Srinivas Tallapragada]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Stable-Diffusion\|Stable Diffusion]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Stablecoins\|Stablecoins]] (TECHNOLOGIE, 1 fiches)
@@ -2449,6 +2455,7 @@
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#The-Great-Flattening-(Vorflux)\|The Great Flattening (Vorflux)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Intelligence-Fabric\|The Intelligence Fabric]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Last-Ones-(TLO)\|The Last Ones (TLO)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT, 1 fiches)
@@ -2605,6 +2612,7 @@
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Vorflux\|Vorflux]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] (ORGANISATION, 1 fiches)
 - [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Voyage-du-Héros\|Voyage du Héros]] (METHODOLOGIE, 1 fiches)

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 620 entités de type TECHNOLOGIE
+> 622 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -426,6 +426,7 @@
 - [[kb/Replit-Agent\|Replit Agent]] — catégorie: Agent de codage IA autonome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Replit-slides\|Replit slides]] — catégorie: Feature slides récente de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Retool\|Retool]] — catégorie: Plateforme low-code pour développeurs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rippling\|Rippling]] — catégorie: Plateforme RH / paie / IT unifiée, co-fondée par Prasanna Sankar et Parker Conrad, $16B+ valorisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Routines-(Anthropic)\|Routines (Anthropic)]] — description: Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] — catégorie: Agent de codage IA d'Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RubyLLM\|RubyLLM]] — catégorie: Gem Ruby pour appels API LLM (1 occ., 1 fiches)
@@ -524,6 +525,7 @@
 - [[kb/_entites-mineures#Visual-Studio-Code\|Visual Studio Code]] — usage: IDE pour labs pratiques MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vite\|Vite]] — usage: Bundler TypeScript/HMR pour widgets (1 occ., 1 fiches)
 - [[kb/_entites-mineures#VitePress\|VitePress]] — usage: Générateur de site statique pour documentation d'audit interactive (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Vorflux\|Vorflux]] — catégorie: Autopilote pour le software engineering — agents cloud à contexte propre, modèle propre, tâche permanente (2 occ., 1 fiches)
 - [[kb/Voxtral\|Voxtral]] — catégorie: Modèle de compréhension vocale open source (5 occ., 1 fiches)
 - [[kb/_entites-mineures#Web-Artifacts-Builder\|Web Artifacts Builder]] — catégorie: Skill permettant React/Tailwind/shadcn dans Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)

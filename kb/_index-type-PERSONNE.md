@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 430 entités de type PERSONNE
+> 433 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -270,6 +270,7 @@
 - [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] — rôle: Auteur Thoughtworks blog, formalisateur du concept Service-as-Software (SaS) en décembre 2025. Profil public peu documenté hors Thoughtworks (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Mathew\|Matt Mathew]] — rôle: Sr Staff Engineer chez Uber, co-auteur principal de l'article *Solving the Identity Crisis for AI Agents* (2026-05-21) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Pocock\|Matt Pocock]] — rôle: Auteur de skills d'ingénierie (repo mattpocock/skills) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Matt-Shumer\|Matt Shumer]] — rôle: Investisseur et commentateur tech, endorseur de Vorflux (1 occ., 1 fiches)
 - [[kb/Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] — rôle: Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow (1 occ., 1 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)
@@ -326,6 +327,7 @@
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] — rôle: Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] — rôle: auteur, chroniqueur IT francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] — rôle: Staff Software Engineer chez Uber, co-auteur (1 occ., 1 fiches)
+- [[kb/Prasanna-Sankar\|Prasanna Sankar]] — rôle: Co-fondateur et ex-CTO de Rippling ($16B+), fondateur et CEO de Vorflux AI, #1 coder en Inde (revendiqué) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] — affiliation: Stanford University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
@@ -376,6 +378,7 @@
 - [[kb/_entites-mineures#Solomon-Hykes\|Solomon Hykes]] — rôle: Fondateur Docker, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sophie-Neary\|Sophie Neary]] — rôle: Managing Director, Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Soufiane-Keli\|Soufiane Keli]] — rôle: Consultant OCTO Technology (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sreeram-Kannan\|Sreeram Kannan]] — rôle: Fondateur EigenLayer, endorseur de Vorflux (« coding agents on the cloud that scale infinitely ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Srinivas-Tallapragada\|Srinivas Tallapragada]] — rôle: President & Chief Engineering and Customer Success Officer, Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stacy-Rasgon\|Stacy Rasgon]] — rôle: analyste financier cité par Bloomberg (1 occ., 1 fiches)
 - [[kb/_entites-mineures#StatQuest\|StatQuest]] — rôle: Créateur de contenu machine learning sur YouTube (1 occ., 1 fiches)
