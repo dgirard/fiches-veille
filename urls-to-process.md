@@ -201,3 +201,13 @@ Note: lien LinkedIn shortener (lnkd.in/egfhni_H), traitement non demandé par ut
 - https://comparethemarketcareers.com/blog/comparing-context-retrieval-approaches-for-ai-code-review/ (fiche créée: comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06.md — site bloqué 403, fiche basée sur sources secondaires multiples et indexation moteurs de recherche)
 - https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdacPc6fM (lien raccourci LinkedIn pointant vers le même article comparethemarketcareers.com ci-dessus — résolu via recherche web)
 -->
+
+<!-- URLs traitées le 2026-07-16:
+- https://www.salesforce.com/news/stories/how-engineering-became-agentic/ (doublon de fiche existante: salesforce-tallapragada-how-engineering-became-agentic-2026-05-27)
+- https://pasqualepillitteri.it/fr/news/3684/opus-4-8-seo-workflow-deux-phases (doublon de fiche existante: pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29)
+- https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/ (doublon de fiche existante: law-ahrefs-content-engineering-claude-code-2026-04-28)
+- https://x.com/myprasanna/status/2077065557204222238?s=20 (fiche créée: sankar-vorflux-great-flattening-manifesto-2026-07-14.md — X article + Vorflux manifesto, fiche basée sur sources secondaires multiples, sites X et vorflux.com bloqués 403)
+
+URL non accessible:
+- https://x.com/i/status/2077458020234072399 (tweet inaccessible — auteur et contenu non identifiables, toutes les tentatives de résolution ont échoué)
+-->

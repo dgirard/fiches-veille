@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 336 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
+> 337 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -12,6 +12,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **16** [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Kimi K3, Moonshot AI, Yang Zhilin
 - **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
 - **15** [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe · SFEIR — Architecte logiciel, rôle de l'architecte, IA générative
+- **14** [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto). · X (article long-form) + Vorflux manifesto — Great Flattening, Vorflux, Prasanna Sankar
 - **13** [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — GPT-5.6, Sol, Terra
 - **09** [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Inférence LLM, serving, ZML
 - **08** [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025) · Bun (Jarred Sumner) — Bun, Jarred Sumner, réécriture Zig vers Rust
@@ -442,6 +443,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [A Field Guide to Fable: Finding Your Unknowns](fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03.md) — Thariq Shihipar (@trq212)
@@ -597,6 +599,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI.
 - [Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit](fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18.md) — Mathieu Grymonprez (Global CDO, groupe Adeo) — invité ; Jean-Baptiste Kempf, Steeve Morin, Mehdi Medjaoui (hôtes du podcast « À la French »)
@@ -693,6 +696,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
+- [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
@@ -848,14 +852,14 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 336 fiches
-- **Par année** : 2026 (159) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 337 fiches
+- **Par année** : 2026 (160) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 112
+  - Agents de codage IA & Skills : 113
   - Architecture & Construction : 35
-  - Transformation & Adoption : 65
+  - Transformation & Adoption : 66
   - Qualité & Sécurité : 25
-  - Économie & Marché : 56
+  - Économie & Marché : 57
   - Philosophie & Société : 17
   - Stratégie & Frameworks : 11
   - Outils & Plateformes : 26

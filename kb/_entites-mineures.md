@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2363 entités avec moins de 3 triples/fiches
+> 2370 entités avec moins de 3 triples/fiches
 
-## PERSONNE (336)
+## PERSONNE (338)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2086,6 +2086,16 @@
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
+### Matt Shumer {#Matt-Shumer}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Investisseur et commentateur tech, endorseur de Vorflux
+
+- **affirme_que** → [[kb/_entites-mineures#Vorflux-is-the-single-best-coding-agent-I've-ever-used.-It-blows-Devin-out-of-the-water.\|"Vorflux is the single best coding agent I've ever used. It blows Devin out of the water."]] (CITATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
+
 ### Matthew Kropp {#Matthew-Kropp}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2893,6 +2903,14 @@
 - **travaille_chez** → [[kb/_entites-mineures#OCTO-Technology\|OCTO Technology]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
+
+### Sreeram Kannan {#Sreeram-Kannan}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Fondateur EigenLayer, endorseur de Vorflux (« coding agents on the cloud that scale infinitely »)
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
 ### Srinivas Tallapragada {#Srinivas-Tallapragada}
 
@@ -5913,12 +5931,13 @@
 
 ### Y Combinator {#Y-Combinator}
 
-**Type** : ORGANISATION | 1 relations | 2 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
 - **rôle** : Média podcast (The Light Cone)
 - **type** : Accélérateur de startups
 
 - **soutient** → [[kb/Weave\|Weave]] (ORGANISATION) — 0.98
+- **soutient** → [[kb/_entites-mineures#Vorflux-(lead-$15M-seed)\|Vorflux (lead $15M seed)]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
@@ -6079,7 +6098,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (514)
+## TECHNOLOGIE (516)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9578,6 +9597,16 @@
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 
+### Rippling {#Rippling}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme RH / paie / IT unifiée, co-fondée par Prasanna Sankar et Parker Conrad, $16B+ valorisation
+
+- [[kb/Prasanna-Sankar\|Prasanna Sankar]] **a_créé** → Rippling — 0.98
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
+
 ### Routines (Anthropic) {#Routines-(Anthropic)}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -10419,6 +10448,20 @@
 - **permet** → [[kb/_entites-mineures#transformation-des-rapports-markdown-en-documentation-interactive\|transformation des rapports markdown en documentation interactive]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
+
+### Vorflux {#Vorflux}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **catégorie** : Autopilote pour le software engineering — agents cloud à contexte propre, modèle propre, tâche permanente
+- **financement** : $15M seed, Y Combinator (lead), Peak XV Partners, Alliance DAO — juillet 2026
+
+- **permet** → [[kb/_entites-mineures#autopilote-logiciel-avec-agents-frais-à-contexte-propre\|autopilote logiciel avec agents frais à contexte propre]] (CONCEPT) — 0.95
+- **s_oppose_à** → [[kb/_entites-mineures#modèle-copilot-(approbation-manuelle-à-chaque-tour)\|modèle copilot (approbation manuelle à chaque tour)]] (CONCEPT) — 0.93
+
+- [[kb/Prasanna-Sankar\|Prasanna Sankar]] **a_créé** → Vorflux — 0.98
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
 ### Web Artifacts Builder {#Web-Artifacts-Builder}
 
@@ -11298,7 +11341,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (768)
+## CONCEPT (770)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15958,6 +16001,14 @@
 
 **Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
+### copilot vs autopilot {#copilot-vs-autopilot}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Distinction Sankar : copilot = approbation humaine à chaque tour ; autopilot = l'agent gère la route entière. Les modèles sont prêts pour l'autopilot, les outils non
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
+
 ### corriger le processus, pas le code {#corriger-le-processus,-pas-le-code}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17710,6 +17761,16 @@
 - **usage** : Documenter les points d'échec réels — contenu à plus fort signal
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+
+### self-profiling {#self-profiling}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Pratique émergente : extraire les frameworks de décision tacites de sa tête pour les encoder dans la codebase/le harness — le « vrai travail » à l'ère des agents surhumains
+
+- **s_applique_à** → [[kb/_entites-mineures#ingénieurs-extrayant-leurs-frameworks-de-décision-tacites\|ingénieurs extrayant leurs frameworks de décision tacites]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
 ### services headless {#services-headless}
 
@@ -22122,7 +22183,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (87)
+## DOCUMENT (88)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22794,6 +22855,14 @@
 - [[kb/MIT-NANDA\|MIT NANDA]] **publie** → The GenAI Divide State of AI in Business 2025 — 0.98
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
+
+### The Great Flattening (Vorflux) {#The-Great-Flattening-(Vorflux)}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **description** : Essai-manifeste de Prasanna Sankar (14 juillet 2026) : les modèles de codage sont surhumains, le goulot d'étranglement bascule vers le harness, l'org chart change de forme
+
+**Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
 ### The Pragmatic Programmer {#The-Pragmatic-Programmer}
 
