@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2787 entités
+> 2794 entités
 
 ## #
 
@@ -1333,6 +1333,7 @@
 - [[kb/IA\|IA]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] (CONCEPT, 1 fiches)
 - [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 3 fiches)
+- [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE, 1 fiches)
 - [[kb/IA-générative\|IA générative]] (TECHNOLOGIE, 4 fiches)
@@ -1539,6 +1540,8 @@
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Linus-Torvalds\|Linus Torvalds]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Linux\|Linux]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Lior-Novik\|Lior Novik]] (PERSONNE, 1 fiches)
@@ -1777,6 +1780,7 @@
 - [[kb/_entites-mineures#Mémoire-d'entreprise\|Mémoire d'entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mémoire-organisationnelle-intelligente\|Mémoire organisationnelle intelligente]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#mérite-technique\|mérite technique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#métaphore-de-la-conduite\|métaphore de la conduite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#métriques-d'impact\|métriques d'impact]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Métriques-DORA\|Métriques DORA]] (METHODOLOGIE, 1 fiches)
@@ -1926,6 +1930,7 @@
 - [[kb/_entites-mineures#PAS\|PAS]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] (PERSONNE, 1 fiches)
 - [[kb/Pasquale-Pillitteri\|Pasquale Pillitteri]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Patchwork\|Patchwork]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Patricia-Frost\|Patricia Frost]] (PERSONNE, 1 fiches)
 - [[kb/Patrick-Debois\|Patrick Debois]] (PERSONNE, 2 fiches)
 - [[kb/Patrick-Joubert\|Patrick Joubert]] (PERSONNE, 2 fiches)
@@ -2193,6 +2198,7 @@
 - [[kb/Rod-Johnson\|Rod Johnson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] (PERSONNE, 1 fiches)
 - [[kb/roon\|roon]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] (EVENEMENT, 1 fiches)
@@ -2244,6 +2250,7 @@
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Sashiko\|Sashiko]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] (ORGANISATION, 1 fiches)
 - [[kb/Satya-Nadella\|Satya Nadella]] (PERSONNE, 1 fiches)

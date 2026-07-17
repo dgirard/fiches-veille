@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 450 entités de type PERSONNE
+> 452 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -247,6 +247,7 @@
 - [[kb/Liad-Yosef\|Liad Yosef]] — rôle: AI & MCP Lead - Monday.com (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Liam-Cripwell\|Liam Cripwell]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lilach-Mollick\|Lilach Mollick]] — rôle: Co-auteur, chercheur Wharton (1 occ., 1 fiches)
+- [[kb/Linus-Torvalds\|Linus Torvalds]] — rôle: Créateur et mainteneur suprême du noyau Linux (et de Git) ; fixe ici la position officielle du projet pro-outils IA, sur critère de mérite technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lior-Novik\|Lior Novik]] — affiliation: Maariv / Jerusalem Post (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lisa-Orr\|Lisa Orr]] — rôle: Leader ingénierie chez Zapier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lisa-Su\|Lisa Su]] — rôle: PDG AMD (1 occ., 1 fiches)
@@ -355,6 +356,7 @@
 - [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] — rôle: Économiste, auteur de la critique de Lucas (1 occ., 1 fiches)
 - [[kb/Rod-Johnson\|Rod Johnson]] — rôle: Créateur Spring Framework, Fondateur Embabel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] — rôle: Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] — rôle: Développeur kernel (linux.dev) ; défend dans le thread l'usage des LLM pour aider les mainteneurs, contre une position jugée « très anti-LLM » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] — rôle: Théologien et philosophe italo-allemand (1885-1968), auteur de *La fin des temps modernes* (1950) — cité par Léon XIV (n. 93) : *« L'homme moderne n'a pas reçu l'éducation nécessaire pour faire un bon usage de son pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] — rôle: Étudiant Columbia / co-fondateur Cluely (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)

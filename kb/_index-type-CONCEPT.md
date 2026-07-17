@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 806 entités de type CONCEPT
+> 808 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -255,6 +255,7 @@
 - [[kb/_entites-mineures#Hypocrisie-organisationnelle\|Hypocrisie organisationnelle]] — description: Ecart delibere entre les objectifs declares et les objectifs reellement poursuivis par une organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] — principe: amplifie forces et faiblesses existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-Responsable\|IA Responsable]] — rôle_stratégique: Fondement de la confiance pour l'adoption et la délégation aux agents autonomes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] — position Torvalds: L'IA traitée comme un outil parmi d'autres, « clairement utile » ; utilité non négociable, imperfections assumées (« l'intelligence naturelle non plus n'est pas parfaite »), usage non imposé mais interdiction refusée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] — définition: Formulation léonienne (n. 98) : *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* — dialogue avec le vocabulaire ML 2026 sur les modèles émergents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-locale\|IA locale]] — slogan: « Buy a GPU » = exit power / déclaration d'indépendance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] — définition: « Seule économie politique de l'intelligence » : usage, étude, modification, partage (1 occ., 1 fiches)
@@ -663,6 +664,7 @@
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] — définition: Thèse d'un intellect universel unique partagé par tous les humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#multiplicateurs-de-tokens\|multiplicateurs de tokens]] — valeurs: 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
+- [[kb/_entites-mineures#mérite-technique\|mérite technique]] — principe de gouvernance: Critère de décision revendiqué du projet kernel : on adopte les outils (dont l'IA) sur leur valeur technique, « pas sur la peur des nouveaux outils » ni pour des raisons idéologiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#métaphore-de-la-conduite\|métaphore de la conduite]] — rôle: 200 km/h vs 100 km/h : freins (garde-fous) + carte (vision) requis quand l'exécution accélère (1 occ., 1 fiches)
 - [[kb/_entites-mineures#métriques-d'impact\|métriques d'impact]] — rôle: Mesurer la valeur de l'IA par le résultat (throughput, heures, qualité) plutôt que l'usage (tokens) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#naïveté-délibérée\|naïveté délibérée]] — objectif: Supprimer les contraintes du Software 1.0 (1 occ., 1 fiches)

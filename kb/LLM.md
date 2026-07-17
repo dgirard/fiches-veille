@@ -1,6 +1,6 @@
 # LLM
 
-> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,8 @@
 
 - [[kb/_entites-mineures#faux-positifs-de-tests\|faux positifs de tests]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+- « trouver des bugs embarrassants dans le code » (AFFIRMATION) — 0.80, ATEMPOREL
+  - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### s_applique_à
 

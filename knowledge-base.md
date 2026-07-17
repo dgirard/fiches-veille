@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=e4197df485d2174dab83a8ba0bfc9ee9ca28067b30206a18d8b6f7c32000444a fiches=342 -->
-> 342 fiches | 2787 entités | 4905 triples | Généré le 2026-07-17
+<!-- manifest: sha256=8854213a6894b2f49f498146d96c5c4355a3af30b2bd09a9ed4fdc55cd75f86a fiches=343 -->
+> 343 fiches | 2794 entités | 4919 triples | Généré le 2026-07-17
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (450)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (452)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (354)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (644)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (806)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (647)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (808)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (382)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (43)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (103)
-- [[kb/_entites-mineures\|Entités mineures]] (2388)
+- [[kb/_entites-mineures\|Entités mineures]] (2394)
 
 ## Entités les plus connectées
 
@@ -46,16 +46,16 @@
 ### Prédicats les plus fréquents
 
 - **utilise** : 589
-- **affirme_que** : 528
-- **permet** : 441
+- **affirme_que** : 536
+- **permet** : 443
 - **mesure** : 362
 - **a_créé** : 320
 - **publie** : 289
-- **recommande** : 215
+- **recommande** : 216
 - **est_basé_sur** : 199
 - **améliore** : 194
 - **réduit** : 185
-- **s_applique_à** : 182
+- **s_applique_à** : 183
 - **est_instance_de** : 177
 - **fait_partie_de** : 160
 - **remplace** : 136
@@ -63,10 +63,10 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 450 (16.1%)
+- **PERSONNE** : 452 (16.2%)
 - **ORGANISATION** : 354 (12.7%)
-- **TECHNOLOGIE** : 644 (23.1%)
-- **CONCEPT** : 806 (28.9%)
+- **TECHNOLOGIE** : 647 (23.2%)
+- **CONCEPT** : 808 (28.9%)
 - **METHODOLOGIE** : 382 (13.7%)
 - **EVENEMENT** : 43 (1.5%)
 - **LIEU** : 5 (0.2%)
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 4985 → 4905 (80 doublons)
-- **Entités** : 3603 → 2787 (816 doublons)
+- **Triples** : 4999 → 4919 (80 doublons)
+- **Entités** : 3610 → 2794 (816 doublons)

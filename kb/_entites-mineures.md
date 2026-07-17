@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2396 entités avec moins de 3 triples/fiches
+> 2402 entités avec moins de 3 triples/fiches
 
-## PERSONNE (340)
+## PERSONNE (341)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2675,6 +2675,16 @@
 - **rôle** : Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
+
+### Roman Gushchin {#Roman-Gushchin}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Développeur kernel (linux.dev) ; défend dans le thread l'usage des LLM pour aider les mainteneurs, contre une position jugée « très anti-LLM »
+
+- **soutient** → [[kb/_entites-mineures#l'usage-des-LLM-pour-aider-les-mainteneurs-(Sashiko)\|l'usage des LLM pour aider les mainteneurs (Sashiko)]] (AFFIRMATION) — 0.80
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### Romano Guardini {#Romano-Guardini}
 
@@ -6129,7 +6139,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (519)
+## TECHNOLOGIE (522)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8616,6 +8626,16 @@
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
+### Linux {#Linux}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique)
+
+- [[kb/Linus-Torvalds\|Linus Torvalds]] **dirige** → Linux — 0.98
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
+
 ### Linux 6.9 {#Linux-6.9}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9370,6 +9390,16 @@
 
 **Fiches** : [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
 
+### Patchwork {#Patchwork}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil de suivi des patchs par email de la communauté kernel ; envisagé en liaison avec Sashiko
+
+- [[kb/_entites-mineures#Sashiko\|Sashiko]] **s_applique_à** → Patchwork — 0.75
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
+
 ### Pause Ads {#Pause-Ads}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -9887,6 +9917,17 @@
 - **est_basé_sur** → [[kb/_entites-mineures#hypothèses-500-FTE-176k$-salary-12.5%-time-saved-15%-J-Curve-drop-3-mois\|hypothèses 500 FTE / 176k$ salary / 12.5% time saved / 15% J-Curve drop 3 mois]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### Sashiko {#Sashiko}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Outil/assistant à base de LLM destiné à aider les mainteneurs du kernel ; objet du thread « Linking Patchwork with Sashiko? »
+
+- **permet** → [[kb/_entites-mineures#aider-les-mainteneurs-du-kernel-via-des-LLM\|aider les mainteneurs du kernel via des LLM]] (AFFIRMATION) — 0.80
+- **s_applique_à** → [[kb/_entites-mineures#Patchwork\|Patchwork]] (TECHNOLOGIE) — 0.75
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### Secure GPT {#Secure-GPT}
 
@@ -11402,7 +11443,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (782)
+## CONCEPT (784)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13540,6 +13581,14 @@
 - **est_instance_de** → [[kb/_entites-mineures#avantage-concurrentiel-fondamental\|avantage concurrentiel fondamental]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
+
+### IA comme outil {#IA-comme-outil}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **position Torvalds** : L'IA traitée comme un outil parmi d'autres, « clairement utile » ; utilité non négociable, imperfections assumées (« l'intelligence naturelle non plus n'est pas parfaite »), usage non imposé mais interdiction refusée
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### IA cultivée non construite {#IA-cultivée-non-construite}
 
@@ -17283,6 +17332,14 @@
 - [[kb/_entites-mineures#git-history\|git history]] **permet** → mémoire institutionnelle — 0.90
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
+
+### mérite technique {#mérite-technique}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe de gouvernance** : Critère de décision revendiqué du projet kernel : on adopte les outils (dont l'IA) sur leur valeur technique, « pas sur la peur des nouveaux outils » ni pour des raisons idéologiques
+
+**Fiches** : [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
 ### métaphore de la conduite {#métaphore-de-la-conduite}
 

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 644 entités de type TECHNOLOGIE
+> 647 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -320,6 +320,7 @@
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] — catégorie: Protocole de connexion aux outils IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] — catégorie: Bibliothèque édition ligne de commande (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Linux\|Linux]] — catégorie: Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] — type: Noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] — rôle: génération dataset entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] — score even-handedness: 66% (1 occ., 1 fiches)
@@ -407,6 +408,7 @@
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] — description: Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] — secteur: Conformité financière / fintechs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paro\|Paro]] — catégorie: Robot thérapeutique phoque pour soins longue durée (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Patchwork\|Patchwork]] — catégorie: Outil de suivi des patchs par email de la communauté kernel ; envisagé en liaison avec Sashiko (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pause-Ads\|Pause Ads]] — catégorie: Format pub étendu en accès programmatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Performance-Max\|Performance Max]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/Perplexity-technologie\|Perplexity]] — catégorie: Moteur de recherche LLM natif (1 occ., 1 fiches)
@@ -468,6 +470,7 @@
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — catégorie: Benchmark agents codage, GLM-5.1 leader 58,4% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] — catégorie: Bibliothèque curatée de skills IA pour workflows Salesforce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sample-ROI-calculator\|Sample ROI calculator]] — description: Outil interactif DORA sur dora.dev/ai/roi/calculator. Sample : 500 FTE / 176k$ salary / 12.5% time saved → 39% ROI / 8 mois payback / 11.6M$ valeur / 8.4M$ investissement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sashiko\|Sashiko]] — catégorie: Outil/assistant à base de LLM destiné à aider les mainteneurs du kernel ; objet du thread « Linking Patchwork with Sashiko? » (1 occ., 1 fiches)
 - [[kb/Scaleway-technologie\|Scaleway]] — catégorie: Cloud provider européen (IaaS/PaaS, public cloud) (1 occ., 1 fiches)
 - [[kb/Scout\|Scout]] — catégorie: Outil codegen pour résolution érosion applicative (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Secure-GPT\|Secure GPT]] — propriétaire: AXA (1 occ., 1 fiches)
