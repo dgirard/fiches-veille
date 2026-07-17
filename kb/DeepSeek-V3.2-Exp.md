@@ -28,7 +28,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#DeepSeek\|DeepSeek]] **publie** → DeepSeek-V3.2-Exp — 0.99
+- [[kb/DeepSeek-organisation\|DeepSeek]] **publie** → DeepSeek-V3.2-Exp — 0.99
 
 ## Fiches sources
 

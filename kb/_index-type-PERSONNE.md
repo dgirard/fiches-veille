@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 444 entités de type PERSONNE
+> 448 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -38,6 +38,7 @@
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] — rôle: Distinguished Engineer AWS, pilote du redéveloppement de Bedrock (1 occ., 1 fiches)
 - [[kb/Antoine-Habert\|Antoine Habert]] — rôle: Consultant senior WEnvision, créateur de PROJ-AI, déjà publié sur l'IA agentique en production (2025-10-29) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Anton-Korinek\|Anton Korinek]] — rôle: Économiste UVA + Anthropic Institute, thèse "no human job is invulnerable long-run" (1 occ., 1 fiches)
+- [[kb/_entites-mineures#António-Guterres\|António Guterres]] — rôle: Secrétaire général de l'ONU (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aravind-Srinivas\|Aravind Srinivas]] — role: CEO Perplexity (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aristidis-Vasilopoulos\|Aristidis Vasilopoulos]] — rôle: Chercheur indépendant, développeur C# (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aristote\|Aristote]] — rôle: Cité pour « Quality is not an act, it's a habit » (citation populaire, attribution discutée) (1 occ., 1 fiches)
@@ -240,6 +241,7 @@
 - [[kb/_entites-mineures#Lennart-Meincke\|Lennart Meincke]] — rôle: Premier auteur de l'étude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lenny-Rachitsky\|Lenny Rachitsky]] — rôle: Animateur du podcast Lenny's Podcast (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Leonie-Monigatti\|Leonie Monigatti]] — rôle: Praticienne ML, auteure technique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Li-Qiang\|Li Qiang]] — rôle: Premier ministre chinois (a proposé WAICO à la WAIC 2025) (1 occ., 1 fiches)
 - [[kb/Liad-Yosef\|Liad Yosef]] — rôle: AI & MCP Lead - Monday.com (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Liam-Cripwell\|Liam Cripwell]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lilach-Mollick\|Lilach Mollick]] — rôle: Co-auteur, chercheur Wharton (1 occ., 1 fiches)
@@ -306,7 +308,7 @@
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] — rôle: Chercheur équipe Safeguards, Anthropic (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur / Blogger tech francophone (1 occ., 1 fiches)
+- [[kb/Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur du blog Le Touilleur Express (2 occ., 2 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] — rôle: Sponsor et mainteneur principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] — catégorie: Chercheurs en économie du travail et IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Olive-Song\|Olive Song]] — rôle: Senior Researcher chez MiniMax (1 occ., 1 fiches)
@@ -427,10 +429,12 @@
 - [[kb/_entites-mineures#Viv-Trivedy\|Viv Trivedy]] — rôle: Créateur du terme harness engineering, post Anatomy of an Agent Harness (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] — rôle: Auteur chez LangChain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] — rôle: 10X Technology Consultant Google Cloud, contributrice DORA 2025 State of AI-assisted Software Development et DORA AI Capabilities Model (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Wang-Yi\|Wang Yi]] — rôle: Ministre chinois des Affaires étrangères (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webb-Wright\|Webb Wright]] — rôle: Contributing Writer, ZDNet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Wei-Zhou\|Wei Zhou]] — rôle: Head of AI utility research, SemiAnalysis (1 occ., 1 fiches)
 - [[kb/Werner-Vogels\|Werner Vogels]] — rôle: CTO d'Amazon — « Everything fails all the time » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
+- [[kb/Xi-Jinping\|Xi Jinping]] — rôle: Président de la République populaire de Chine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] — rôle: Fondateur Manus, VP Meta (1 occ., 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] — rôle: CEO de HubSpot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] — rôle: Cofondateur de Moonshot AI (mars 2023) (1 occ., 1 fiches)

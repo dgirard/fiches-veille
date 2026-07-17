@@ -1,12 +1,13 @@
 # America's AI Action Plan
 
-> **Type** : DOCUMENT | 7 relations | 1 fiches sources
+> **Type** : DOCUMENT | 8 relations | 2 fiches sources
 
 ## Attributs
 
 - **date de publication** : 2025-07-23
 - **nombre d'actions fédérales** : 90+
 - **nombre de piliers** : 3
+- **rôle** : Approche américaine concurrente (export, « partenaires de confiance »)
 
 ## Relations (comme sujet)
 
@@ -36,7 +37,9 @@
 
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] **publie** → America's AI Action Plan — 0.99
 - [[kb/_entites-mineures#90-actions-fédérales\|90 actions fédérales]] **fait_partie_de** → America's AI Action Plan — 0.97
+- [[kb/_entites-mineures#gouvernance-mondiale-de-l'IA-multilatérale\|gouvernance mondiale de l'IA multilatérale]] **s_oppose_à** → America's AI Action Plan — 0.82
 
 ## Fiches sources
 
 - [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+- [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]

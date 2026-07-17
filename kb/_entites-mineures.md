@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2370 entités avec moins de 3 triples/fiches
+> 2383 entités avec moins de 3 triples/fiches
 
-## PERSONNE (338)
+## PERSONNE (340)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -276,6 +276,16 @@
 - **affirme_que** → [[kb/_entites-mineures#aucun-job-humain-n'est-invulnérable-long-run\|aucun job humain n'est invulnérable long-run]] (AFFIRMATION) — 0.94
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### António Guterres {#António-Guterres}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Secrétaire général de l'ONU
+
+- **dirige** → [[kb/_entites-mineures#ONU\|ONU]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
 
 ### Aravind Srinivas {#Aravind-Srinivas}
 
@@ -1806,6 +1816,16 @@
 
 **Fiches** : [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
+### Li Qiang {#Li-Qiang}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Premier ministre chinois (a proposé WAICO à la WAIC 2025)
+
+- **recommande** → [[kb/_entites-mineures#WAICO\|WAICO]] (ORGANISATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### Liam Cripwell {#Liam-Cripwell}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2316,17 +2336,6 @@
 - **recommande** → [[kb/_entites-mineures#préparation-UCP-en-5-étapes\|préparation UCP en 5 étapes]] (METHODOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
-
-### Nicolas Martignole {#Nicolas-Martignole}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **rôle** : Auteur / Blogger tech francophone
-
-- **publie** → [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] (ORGANISATION) — 0.98
-- **affirme_que** → [[kb/_entites-mineures#l'autonomie-technique-signifie-comprendre-quand,-quoi-et-pourquoi-coder\|l'autonomie technique signifie comprendre quand, quoi et pourquoi coder]] (AFFIRMATION) — 0.93
-
-**Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
 
 ### NomenAK {#NomenAK}
 
@@ -3214,6 +3223,16 @@
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
+### Wang Yi {#Wang-Yi}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ministre chinois des Affaires étrangères
+
+- **travaille_chez** → [[kb/_entites-mineures#Chine\|Chine]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### Webb Wright {#Webb-Wright}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3373,7 +3392,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (270)
+## ORGANISATION (269)
 
 ### 10x {#10x}
 
@@ -4085,17 +4104,6 @@
 
 **Fiches** : [[fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01\|Apollo Academy: Training the Next Generation of AI Safety Researchers]]
 
-### DeepSeek {#DeepSeek}
-
-**Type** : ORGANISATION | 2 relations | 1 fiches
-
-- **origine** : Chine
-
-- **publie** → [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] (TECHNOLOGIE) — 0.99
-- **mesure** → [[kb/_entites-mineures#40%-depuis-le-pic-de-février-2025-sur-le-web\|-40% depuis le pic de février 2025 sur le web]] (MESURE) — 0.90
-
-**Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
-
 ### Deloitte {#Deloitte}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4632,13 +4640,14 @@
 
 ### Le Touilleur Express {#Le-Touilleur-Express}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
-- **catégorie** : Blog tech francophone
+- **catégorie** : Blog tech francophone (Nicolas Martignole)
 
-- [[kb/_entites-mineures#Nicolas-Martignole\|Nicolas Martignole]] **publie** → Le Touilleur Express — 0.98
+- [[kb/Nicolas-Martignole\|Nicolas Martignole]] **publie** → Le Touilleur Express — 0.98
+- [[kb/Nicolas-Martignole\|Nicolas Martignole]] **travaille_chez** → Le Touilleur Express — 0.90
 
-**Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
+**Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]], [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
 
 ### Leading the Future PAC {#Leading-the-Future-PAC}
 
@@ -5042,17 +5051,6 @@
 - [[kb/_entites-mineures#Bharat-N.-Anand\|Bharat N. Anand]] **dirige** → NYU Stern School of Business — 0.98
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
-
-### Netflix {#Netflix}
-
-**Type** : ORGANISATION | 2 relations | 1 fiches
-
-- **secteur** : Streaming / Content Engineering
-
-- **a_créé** → [[kb/UDA\|UDA]] (TECHNOLOGIE) — 0.99
-- **utilise** → [[kb/_entites-mineures#principe-Model-Once-Represent-Everywhere\|principe "Model Once Represent Everywhere"]] (CONCEPT) — 0.94
-
-**Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
 ### Neuralink {#Neuralink}
 
@@ -5864,6 +5862,21 @@
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
+### WAICO {#WAICO}
+
+**Type** : ORGANISATION | 4 relations | 1 fiches
+
+- **catégorie** : Organisation mondiale de coopération en IA
+- **fondation** : 16 juillet 2026, 29 pays, siège Shanghai
+
+- **s_applique_à** → [[kb/_entites-mineures#Sud-global\|Sud global]] (CONCEPT) — 0.88
+- **est_basé_sur** → [[kb/_entites-mineures#Charte-des-Nations-unies\|Charte des Nations unies]] (DOCUMENT) — 0.85
+
+- [[kb/_entites-mineures#Chine\|Chine]] **a_créé** → WAICO — 0.95
+- [[kb/_entites-mineures#Li-Qiang\|Li Qiang]] **recommande** → WAICO — 0.88
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### Wayfair {#Wayfair}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6098,7 +6111,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (516)
+## TECHNOLOGIE (518)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7309,17 +7322,6 @@
 - **améliore** → [[kb/_entites-mineures#qualité-des-réponses-IA\|qualité des réponses IA]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
-
-### DeepSeek {#DeepSeek}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : Assistant LLM (développé en Chine)
-
-- **publie** → [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] (TECHNOLOGIE) — 0.99
-- **mesure** → [[kb/_entites-mineures#40%-depuis-le-pic-de-février-2025-sur-le-web\|-40% depuis le pic de février 2025 sur le web]] (MESURE) — 0.90
-
-**Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 
 ### DeepSeek-V3.1-Terminus {#DeepSeek-V3.1-Terminus}
 
@@ -8654,6 +8656,17 @@
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
+### MAZU {#MAZU}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Système d'alerte météo précoce par IA (initiative ONU « Early Warnings for All »)
+
+- **permet** → [[kb/_entites-mineures#alerte-météorologique-précoce\|alerte météorologique précoce]] (CONCEPT) — 0.92
+- **s_applique_à** → [[kb/_entites-mineures#30-pays\|30 pays]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### MCP (OAuth) {#MCP-(OAuth)}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8864,13 +8877,15 @@
 
 ### MiniMax-M3 {#MiniMax-M3}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
-- **rôle** : 2e meilleur modèle open weights sur GDPval-AA (1408 Elo)
+- **rôle** : Modèle co-auteur du manifeste
+
+- **collabore_avec** → [[kb/Nicolas-Martignole\|Nicolas Martignole]] (PERSONNE) — 0.90
 
 - [[kb/GLM-5.2\|GLM-5.2]] **surpasse** → MiniMax-M3 — 0.92
 
-**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]], [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
 ### Mistral Small 3.1 {#Mistral-Small-3.1}
 
@@ -9007,6 +9022,16 @@
 - [[kb/LightRAG\|LightRAG]] **utilise** → Neo4j — 0.96
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|HKUDS/LightRAG: -EMNLP2025- "LightRAG: Simple and Fast Retrieval-Augmented Generation"]]
+
+### Netflix Ads Suite {#Netflix-Ads-Suite}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme publicitaire (outils IA + programmatique)
+
+- **fait_partie_de** → [[kb/Netflix\|Netflix]] (ORGANISATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ### NetworkX {#NetworkX}
 
@@ -9316,6 +9341,14 @@
 - **réduit** → [[kb/_entites-mineures#agitation-et-dépression-chez-patients-démence\|agitation et dépression chez patients démence]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
+
+### Pause Ads {#Pause-Ads}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **catégorie** : Format pub étendu en accès programmatique
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ### Performance Max {#Performance-Max}
 
@@ -11341,7 +11374,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (770)
+## CONCEPT (775)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14816,6 +14849,16 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
+### Sud global {#Sud-global}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : cible stratégique de l'offre chinoise
+
+- [[kb/_entites-mineures#WAICO\|WAICO]] **s_applique_à** → Sud global — 0.88
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### Super Spec {#Super-Spec}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -16433,6 +16476,18 @@
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
+### efficacité des tokens {#efficacité-des-tokens}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Frugalité de consommation de tokens comme vertu du dev assisté par IA
+
+- **fait_partie_de** → [[kb/_entites-mineures#économie-de-la-fenêtre-de-contexte\|économie de la fenêtre de contexte]] (CONCEPT) — 0.88
+
+- [[kb/The-Token-Manifesto\|The Token Manifesto]] **s_applique_à** → efficacité des tokens — 0.95
+
+**Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
+
 ### email agent {#email-agent}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -17208,7 +17263,7 @@
 - **implication** : rapprocher ingénierie logicielle des autres disciplines
 - **rôle** : Septième force introduite par les systèmes agentiques
 
-- **observé_dans** → [[kb/_entites-mineures#LLM\|LLM]] (TECHNOLOGIE) — 0.93
+- **observé_dans** → [[kb/LLM\|LLM]] (TECHNOLOGIE) — 0.93
 - **affine** → [[kb/_entites-mineures#les-six-forces-invariantes-des-patterns\|les six forces invariantes des patterns]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
@@ -17425,7 +17480,7 @@
 
 - **nature** : Principe architectural central d'UDA
 
-- [[kb/_entites-mineures#Netflix\|Netflix]] **utilise** → principe "Model Once Represent Everywhere" — 0.94
+- [[kb/Netflix\|Netflix]] **utilise** → principe "Model Once Represent Everywhere" — 0.94
 
 **Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
@@ -17597,6 +17652,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### quatre observations {#quatre-observations}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **contenu** : ouverture / IA contrôlable / inclusivité / solidarité
+
+- **observé_dans** → [[kb/_entites-mineures#WAIC-2026\|WAIC 2026]] (EVENEMENT) — 0.96
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### ratio 60/40 marque-performance {#ratio-60-40-marque-performance}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17616,6 +17681,16 @@
 - **s_applique_à** → [[kb/agents-IA\|agents IA]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
+
+### recherche en langage naturel {#recherche-en-langage-naturel}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **statut** : fonctionnalité IA de recherche membre
+
+- [[kb/Netflix\|Netflix]] **permet** → recherche en langage naturel — 0.90
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ### renversement AI4IT / AI4Business {#renversement-AI4IT-AI4Business}
 
@@ -18385,6 +18460,16 @@
 - **s_applique_à** → [[kb/_entites-mineures#OpenAI,-Nvidia,-AMD,-Oracle,-CoreWeave,-xAI\|OpenAI, Nvidia, AMD, Oracle, CoreWeave, xAI]] (ORGANISATION) — 0.92
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
+
+### économie de la fenêtre de contexte {#économie-de-la-fenêtre-de-contexte}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Contrainte structurante déplaçant l'attention du prompt vers le contexte
+
+- [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] **fait_partie_de** → économie de la fenêtre de contexte — 0.88
+
+**Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
 ### économie de la leçon {#économie-de-la-leçon}
 
@@ -21781,7 +21866,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (39)
+## EVENEMENT (40)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -22058,6 +22143,17 @@
 
 **Fiches** : [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
+### WAIC 2026 {#WAIC-2026}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **ampleur** : 140+ forums, 1 100+ entreprises, 300+ premières mondiales
+- **date** : 17-20 juillet 2026, Shanghai
+
+- [[kb/_entites-mineures#quatre-observations\|quatre observations]] **observé_dans** → WAIC 2026 — 0.96
+
+**Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
 ### Webinar 19 mai 2026 (Curran) {#Webinar-19-mai-2026-(Curran)}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -22183,7 +22279,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (88)
+## DOCUMENT (92)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22356,6 +22452,14 @@
 
 **Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 
+### Brasil 70: A Saga do Tri {#Brasil-70-A-Saga-do-Tri}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Titre Netflix (Brésil) utilisant la GenAI
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
 ### Build a Large Language Model (From Scratch) {#Build-a-Large-Language-Model-(From-Scratch)}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -22521,6 +22625,16 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
+### Glory {#Glory}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Titre Netflix (Inde) utilisant la GenAI
+
+- [[kb/GenAI\|GenAI]] **observé_dans** → Glory — 0.85
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
 ### HBR study 2026 cognitive exhaustion {#HBR-study-2026-cognitive-exhaustion}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -22646,6 +22760,17 @@
 - **mesure** → [[kb/_entites-mineures#réduction-connectivité-neuronale-chez-rédacteurs-IA-assistés\|réduction connectivité neuronale chez rédacteurs IA-assistés]] (MESURE) — 0.96
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+
+### Manifeste Agile {#Manifeste-Agile}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **rôle** : Source parodiée (2001, 4 valeurs + 12 principes)
+
+- [[kb/The-Token-Manifesto\|The Token Manifesto]] **est_variante_de** → Manifeste Agile — 0.95
+- [[kb/The-Token-Manifesto\|The Token Manifesto]] **s_inspire_de** → Manifeste Agile — 0.95
+
+**Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
 ### One Useful Thing {#One-Useful-Thing}
 
@@ -22804,6 +22929,14 @@
 - **rôle** : Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 %
 
 **Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
+### The American Experiment {#The-American-Experiment}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Titre Netflix (US) utilisant la GenAI
+
+**Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ### The Batch {#The-Batch}
 

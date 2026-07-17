@@ -31,7 +31,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Netflix\|Netflix]] **a_créé** → UDA — 0.99
+- [[kb/Netflix\|Netflix]] **a_créé** → UDA — 0.99
 - [[kb/Upper\|Upper]] **fait_partie_de** → UDA — 0.97
 
 ## Fiches sources

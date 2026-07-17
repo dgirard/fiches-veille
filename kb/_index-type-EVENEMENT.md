@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 42 entités de type EVENEMENT
+> 43 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -34,6 +34,7 @@
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] — date: 2026-02 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#VivaTech\|VivaTech]] — rôle: Salon où se tient l'entretien (stand Scaleway, média République) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#WAIC-2026\|WAIC 2026]] — date: 17-20 juillet 2026, Shanghai (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] — description: Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#White-House-U-turn-AI-policy-mai-2026\|White House U-turn AI policy mai 2026]] — description: Maison-Blanche signale virage majeur — proposition de forcer federal review de tous nouveaux modèles propriétaires avant release. Catalyseur : refus Anthropic Claude Mythos avril 2026. Articulation directe avec fiche AISI UK GPT-5.5/Mythos (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] — indicateur: 97% de la fibre optique inutilisée (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 337 fiches | 1975-12 → 2026-07-16 | généré le 2026-07-16
+> 340 fiches | 1975-12 → 2026-07-17 | généré le 2026-07-17
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **17** [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3 · Le Touilleur Express — The Token Manifesto, Nicolas Martignole, Le Touilleur Express
+- **17** [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin. · Xinhua/SCIO (synthèse recherche) — intelligence artificielle, gouvernance mondiale de l'IA, WAIC 2026
+- **16** [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang) · Netflix — intelligence artificielle, GenAI, IA générative
 - **16** [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Airbus, Scaleway, iliad
 - **16** [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Kimi K3, Moonshot AI, Yang Zhilin
 - **15** [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille · The Architect Elevator — Gregor Hohpe, Architect Elevator, rôle de l'architecte
@@ -443,6 +446,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
@@ -597,6 +601,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang)
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
@@ -694,6 +699,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin.
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
@@ -754,6 +760,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
 - [AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.](fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04.md) — Jean-Paul Paoli
 - [Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de l'intelligence artificielle](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) — **Léon XIV** (de naissance Robert Francis Prevost), 267e Pape de l'Église catholique, élu le **8 mai 2025**, premier pape américain de l'histoire (né à Chicago, USA, 1955 ; double nationalité américano-péruvienne). Augustinien (ancien Prieur général de l'Ordre de Saint-Augustin 2001-2013), ancien évêque de Chiclayo (Pérou) puis Préfet du Dicastère pour les Évêques (2023-2025). *Magnifica Humanitas* est sa **première encyclique sociale**, signée *« Donné à Rome, près de Saint-Pierre, le 15 mai de l'année 2026, la deuxième de mon Pontificat »* — date choisie pour **coïncider avec le 135e anniversaire de *Rerum Novarum*** (15 mai 1891) de Léon XIII, dont il a explicitement repris le nom de pontificat en référence à la tradition sociale lancée par son prédécesseur du XIXe siècle. La référence augustinienne est centrale dans le document (citations massives des *Confessions*, du *De civitate Dei* — *« deux amours ont fait deux cités »*, des *Enarrationes in Psalmos*, des *Sermones*). Trace de paternité collective : multiples références à *Antiqua et nova* (note conjointe DDF + DCE, 14 janvier 2025) et *Quo vadis, humanitas ?* (CTI, 9 février 2026), suggérant un travail conjoint entre la Secrétairerie d'État, le Dicastère pour la Doctrine de la Foi, le Dicastère pour la Culture et l'Éducation, et le Dicastère pour le Service du Développement humain intégral.
 - [A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to the world. They forgot about people.)](fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08.md) — **David Wallace-Wells** — NYT Magazine staff writer, journaliste américain reconnu pour son travail sur le climat (livre *The Uninhabitable Earth* 2019, ancien deputy editor de *New York Magazine*). Connu pour des essais long-form combinant reportage, prospective et critique politique des technologies. **Article publié dans le NYT Magazine** le **8 mai 2026** (édition online, ~16 minutes audio), section politique-tech.
@@ -829,6 +836,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Project Genie: Interactive World Models with Genie 3](fiches/2026-02/google-deepmind-project-genie-3-world-models-2026-02.md) — Logan Kilpatrick (Google DeepMind), Diego Schlomi (Google DeepMind), Jack (Google DeepMind)
 - [Tech predictions for 2026 and beyond](fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25.md) — Werner Vogels, CTO and Vice President of Amazon.com
@@ -839,6 +847,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin.
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
 - [Anthropic's War on Opensource AI](fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12.md) — Ahmad Osman (@TheAhmadOsman)
@@ -852,20 +861,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 337 fiches
-- **Par année** : 2026 (160) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 340 fiches
+- **Par année** : 2026 (163) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 113
+  - Agents de codage IA & Skills : 114
   - Architecture & Construction : 35
-  - Transformation & Adoption : 66
+  - Transformation & Adoption : 67
   - Qualité & Sécurité : 25
-  - Économie & Marché : 57
-  - Philosophie & Société : 17
+  - Économie & Marché : 58
+  - Philosophie & Société : 18
   - Stratégie & Frameworks : 11
   - Outils & Plateformes : 26
   - Recherche & Éducation : 9
-  - Produits & Services : 7
-  - Politique & Régulation : 10
+  - Produits & Services : 8
+  - Politique & Régulation : 11
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
@@ -885,8 +894,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - Nicolas Martignole (2)
   - Gregor Hohpe (2)
-  - Jaya Gupta (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - voodootikigod.com (Chris Williams) (7)
@@ -900,6 +909,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)
@@ -907,4 +917,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (2)
   - Anthropic (X/Twitter) (2)
   - Tessl (2)
-  - Stripe Engineering (2)

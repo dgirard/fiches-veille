@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 96 entités de type DOCUMENT
+> 101 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -13,7 +13,7 @@
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] — format: Article de blog long format addyosmani.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agile-Manifesto\|Agile Manifesto]] — type: Manifeste fondateur du mouvement Agile (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahead-of-AI\|Ahead of AI]] — type: Blog / newsletter ML de Raschka (1 occ., 1 fiches)
-- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (3 occ., 1 fiches)
+- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (4 occ., 2 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] — date: 2025-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Skill-Formation-Research\|Anthropic Skill-Formation Research]] — description: Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Antiqua-et-nova\|Antiqua et nova]] — catégorie: Note conjointe Dicastère pour la Doctrine de la Foi + Dicastère pour la Culture et l'Éducation (14 janvier 2025) sur l'IA — source magistérielle prochaine la plus citée dans Magnifica Humanitas (1 occ., 1 fiches)
@@ -21,6 +21,7 @@
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] — catégorie: Billet de bricolage / REX exploratoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
 - [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Artefact vivant qui façonne l'agent, sujet à dérive, à versionner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
@@ -38,6 +39,7 @@
 - [[kb/_entites-mineures#FinOps-for-AI-Overview\|FinOps for AI Overview]] — type: Guide de référence officiel (CC BY 4.0) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] — rôle: Benchmark de travail de connaissance réel/agentique (Elo, multi-tours, livrables rendus) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] — nature: Design Patterns (Gamma, Helm, Johnson, Vlissides, 1994) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Glory\|Glory]] — catégorie: Titre Netflix (Inde) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] — catégorie: REX ingénierie data (Enterprise AI, blog Anthropic) (1 occ., 1 fiches)
@@ -52,6 +54,7 @@
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] — format: Playlist YouTube 12 vidéos (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] — catégorie: Première encyclique sociale de Léon XIV (15 mai 2026), 245 paragraphes, 5 chapitres, sur la protection de la personne humaine à l'ère de l'IA — publiée pour le 135e anniversaire de Rerum Novarum (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] — rôle: Source parodiée (2001, 4 valeurs + 12 principes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — type: Newsletter Substack sur l'IA au travail (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pattern-doc\|Pattern doc]] — définition: Guidance généralisée depuis plusieurs learnings (plus de levier, plus de risque si périmé) (1 occ., 1 fiches)
@@ -71,6 +74,7 @@
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
@@ -80,6 +84,7 @@
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] — nature: Whitepaper Google, série « Day 1 », mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] — catégorie: Ouvrage de référence du software craftsmanship (1999/2019) (1 occ., 1 fiches)
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (3 occ., 3 fiches)
+- [[kb/The-Token-Manifesto\|The Token Manifesto]] — catégorie: Manifeste satirique (pastiche de l'Agile) sur l'efficacité des tokens (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)

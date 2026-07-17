@@ -8,20 +8,20 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 337 fiches
-- **Par année** : 2026 (160) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 340 fiches
+- **Par année** : 2026 (163) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 113
+  - Agents de codage IA & Skills : 114
   - Architecture & Construction : 35
-  - Transformation & Adoption : 66
+  - Transformation & Adoption : 67
   - Qualité & Sécurité : 25
-  - Économie & Marché : 57
-  - Philosophie & Société : 17
+  - Économie & Marché : 58
+  - Philosophie & Société : 18
   - Stratégie & Frameworks : 11
   - Outils & Plateformes : 26
   - Recherche & Éducation : 9
-  - Produits & Services : 7
-  - Politique & Régulation : 10
+  - Produits & Services : 8
+  - Politique & Régulation : 11
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
@@ -41,8 +41,8 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - Nicolas Martignole (2)
   - Gregor Hohpe (2)
-  - Jaya Gupta (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - voodootikigod.com (Chris Williams) (7)
@@ -56,6 +56,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)
@@ -63,7 +64,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (2)
   - Anthropic (X/Twitter) (2)
   - Tessl (2)
-  - Stripe Engineering (2)
 
 <!-- stats:end -->
 

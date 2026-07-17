@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 794 entités de type CONCEPT
+> 799 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -405,6 +405,7 @@
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] — rôle: Formalisation du comportement attendu de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stratège\|Stratège]] — rôle: PM technique validant qualité et scoping (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Success-is-silent-failures-are-verbose\|Success is silent failures are verbose]] — définition: Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sud-global\|Sud global]] — rôle: cible stratégique de l'offre chinoise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Super-Spec\|Super Spec]] — définition: Spécification dynamique unifiée (architecture + workflows + sécurité + données + UX) servant de source of truth, mise à jour automatiquement en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Supermanager\|Supermanager]] — définition: Concept Bersin : nouveau modèle de leadership pour l'ère IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superviseur-d'agents\|Superviseur d'agents]] — description: Evolution du role developpeur vers orchestration d'agents IA (1 occ., 1 fiches)
@@ -580,6 +581,7 @@
 - [[kb/_entites-mineures#développement-permissionless\|développement permissionless]] — analogie: comme YouTube/blogs pour le contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développeurs-frontend\|développeurs frontend]] — impact: transition vers conception AI-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#effet-cobra\|effet cobra]] — définition: Incitation récompensant un comportement contre-productif (1 occ., 1 fiches)
+- [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] — définition: Frugalité de consommation de tokens comme vertu du dev assisté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-agent\|email agent]] — usage: Exemple fil rouge de l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] — périmètre: Traitement bulk de 53 000 emails via cache + queue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
@@ -705,8 +707,10 @@
 - [[kb/_entites-mineures#puppy-dog-junior-developer\|puppy-dog junior developer]] — définition: Métaphore de l'IA : empressée, productive, brouillonne, sur-suggestive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] — impact: Maintien des prix des assistants IA à un niveau élevé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] — composition: Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#quatre-observations\|quatre observations]] — contenu: ouverture / IA contrôlable / inclusivité / solidarité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] — source: Recherche Google sur l'optimisation long terme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] — définition: Décideurs opèrent avec informations incomplètes et capacités cognitives finies (1 occ., 1 fiches)
+- [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] — statut: fonctionnalité IA de recherche membre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#renversement-AI4IT-AI4Business\|renversement AI4IT / AI4Business]] — définition: Inversion 2024→2026 : la valeur prouvée migre des processus métier vers la production logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#replace-trust-with-structure\|replace trust with structure]] — rôle: Formule-somme des sept volets : confiance → structure → mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ressource-naturelle-(métaphore-Mensch)\|ressource naturelle (métaphore Mensch)]] — définition: Cadre conceptuel de Mensch : l'IA est une ressource naturelle (électricité → tokens), le datacenter est une mine, le token est une commodité — justifie politique industrielle lourde (1 occ., 1 fiches)
@@ -791,6 +795,7 @@
 - [[kb/_entites-mineures#écart-expérimentation-production\|écart expérimentation-production]] — nature: Problème structurel du déploiement enterprise des agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-d'adoption\|échelle d'adoption]] — stades: 0 manuel → 5 cloud parallèle (CE débute au stade 3) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-circulaire-IA\|économie circulaire IA]] — montant estimé: 1 trillion de dollars (1 occ., 1 fiches)
+- [[kb/_entites-mineures#économie-de-la-fenêtre-de-contexte\|économie de la fenêtre de contexte]] — rôle: Contrainte structurante déplaçant l'attention du prompt vers le contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-de-la-leçon\|économie de la leçon]] — principe: Payée une fois, puis rétrogradée de détection probabiliste à prévention déterministe gratuite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-des-créateurs\|économie des créateurs]] — modèles: publicité, sponsoring, cours, Patreon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écosystème-frontière\|écosystème frontière]] — définition: Diffusion large de la valeur IA à chaque entreprise, secteur et pays (1 occ., 1 fiches)

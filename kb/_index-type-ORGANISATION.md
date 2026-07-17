@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 351 entités de type ORGANISATION
+> 352 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -92,7 +92,7 @@
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] — particularité: Producteur d'une grande partie de ses produits → RFID end-to-end (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] — rôle: partenaire mentorat (1 occ., 1 fiches)
-- [[kb/_entites-mineures#DeepSeek\|DeepSeek]] — origine: Chine (1 occ., 1 fiches)
+- [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] — secteur: Gouvernement américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] — secteur: Plateforme éducation design Meng To (designcode.io) en refonte (1 occ., 1 fiches)
@@ -164,7 +164,7 @@
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle (2 occ., 2 fiches)
 - [[kb/LVMH\|LVMH]] — profil: ~80 Md€ CA, 75 maisons, 100+ pays ; SI multicloud régionalisé (1 occ., 1 fiches)
 - [[kb/LangChain-organisation\|LangChain]] — secteur: Framework IA / Agents (3 occ., 3 fiches)
-- [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] — catégorie: Blog tech francophone (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Le-Touilleur-Express\|Le Touilleur Express]] — catégorie: Blog tech francophone (Nicolas Martignole) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Leading-the-Future-PAC\|Leading the Future PAC]] — description: Super PAC pro-IA financé en partie par Greg Brockman, 2M$+ contre Alex Bores (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Legal.io\|Legal.io]] — secteur: Plateforme legal talent / média B2B juridique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Legora\|Legora]] — secteur: Technologie juridique (1 occ., 1 fiches)
@@ -216,7 +216,7 @@
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] — secteur: Finance / Banque d'investissement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NIST-AI-Safety-Institute-Consortium\|NIST AI Safety Institute Consortium]] — type: Consortium de sécurité IA américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NYU-Stern-School-of-Business\|NYU Stern School of Business]] — secteur: École de commerce universitaire (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Netflix\|Netflix]] — secteur: Streaming / Content Engineering (1 occ., 1 fiches)
+- [[kb/Netflix\|Netflix]] — secteur: Streaming / divertissement (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Neuralink\|Neuralink]] — secteur: Interface cerveau-ordinateur (BCI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NextGenU\|NextGenU]] — catégorie: Organisation éducative IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] — secteur: Services financiers / Assurance (2 occ., 1 fiches)
@@ -319,6 +319,7 @@
 - [[kb/_entites-mineures#Valence\|Valence]] — secteur: AI coaching pour entreprises Fortune 500 (1 occ., 1 fiches)
 - [[kb/Vercel\|Vercel]] — secteur: Infrastructure cloud / déploiement web (3 occ., 3 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] — secteur: Global trade body for advertising and marketing services. Publie en mars 2026 le rapport "Redesigning the Agency Value Model" (95 pages) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#WAICO\|WAICO]] — catégorie: Organisation mondiale de coopération en IA (2 occ., 1 fiches)
 - [[kb/WEnvision\|WEnvision]] — secteur: Cabinet de conseil FR (Paris, Lille, Strasbourg, Bordeaux, Nantes, Toulouse, Belgique, Luxembourg) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — secteur: E-commerce / Ameublement (1 occ., 1 fiches)
 - [[kb/Weave\|Weave]] — batch YC: Winter 2025 (3 occ., 1 fiches)

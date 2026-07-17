@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 34 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 35 relations | 4 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,8 @@
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 - [[kb/_entites-mineures#livraison-logicielle-(throughput)\|livraison logicielle (throughput)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
+- [[kb/_entites-mineures#personnalisation-de-l'expérience-membre\|personnalisation de l'expérience membre]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 - [[kb/_entites-mineures#productivité-développeur\|productivité développeur]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
