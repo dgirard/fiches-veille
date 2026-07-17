@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2391 entités avec moins de 3 triples/fiches
+> 2396 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (340)
 
@@ -3392,7 +3392,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (270)
+## ORGANISATION (271)
 
 ### 10x {#10x}
 
@@ -5184,6 +5184,16 @@
 - **catégorie** : Cabinet conseil e-commerce / commerce agentique
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+
+### Open Source Initiative {#Open-Source-Initiative}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Organisation co-fondée par ESR en 1998 (président jusqu'en 2005) promouvant l'open source
+
+- [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → Open Source Initiative — 0.90
+
+**Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
 
 ### OpenAI Group PBC {#OpenAI-Group-PBC}
 
@@ -11392,7 +11402,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (779)
+## CONCEPT (782)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17990,6 +18000,16 @@
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
+### skill issue {#skill-issue}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **débat** : Hypothèse posée (non assénée) par ESR pour expliquer l'écart entre son expérience très positive des LLMs et le discours des « downshouters » : vieux modèles, univers différent, ou compétence de communication/spécification
+
+- **observé_dans** → [[kb/_entites-mineures#l'écart-entre-praticiens-satisfaits-et-détracteurs-des-LLMs-de-codage\|l'écart entre praticiens satisfaits et détracteurs des LLMs de codage]] (AFFIRMATION) — 0.70
+
+**Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
+
 ### skill rot {#skill-rot}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18255,6 +18275,14 @@
 
 **Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
 
+### token spend mal dirigé {#token-spend-mal-dirigé}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **enjeu** : ESR relie la mauvaise utilisation des LLMs à des « milliards de dollars gaspillés » — la variance d'usage (clarté/précision) comme facteur de ROI, pas l'outil seul
+
+**Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
+
 ### tokenomics {#tokenomics}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18388,6 +18416,14 @@
 - [[kb/_entites-mineures#campagne-espionnage-autonome-IA\|campagne espionnage autonome IA]] **est_basé_sur** → vibe hacking — 0.88
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+
+### vision en tunnel architecturale {#vision-en-tunnel-architecturale}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain
+
+**Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
 
 ### vqv (video quality view) {#vqv-(video-quality-view)}
 
@@ -22345,7 +22381,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (93)
+## DOCUMENT (94)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23030,6 +23066,16 @@
 - **type** : Newsletter hebdomadaire IA, 8 mai 2026
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
+
+### The Cathedral and the Bazaar {#The-Cathedral-and-the-Bazaar}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source »
+
+- [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → The Cathedral and the Bazaar — 0.98
+
+**Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
 
 ### The Eight Levels of AI Adoption {#The-Eight-Levels-of-AI-Adoption}
 

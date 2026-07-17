@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 803 entités de type CONCEPT
+> 806 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -740,6 +740,7 @@
 - [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#share_via_dm-+-share_via_copy_link\|share_via_dm + share_via_copy_link]] — définition: Variantes share distinctes (indices 8, 9) qui mesurent le forward privé vs public, signaux haute valeur pour pricing teardowns / product comparisons / controversy forwarded privately (1 occ., 1 fiches)
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] — exemples: code review turnaround, first-run test pass rate, defect ratio, rework rate (1 occ., 1 fiches)
+- [[kb/_entites-mineures#skill-issue\|skill issue]] — débat: Hypothèse posée (non assénée) par ESR pour expliquer l'écart entre son expérience très positive des LLMs et le discours des « downshouters » : vieux modèles, univers différent, ou compétence de communication/spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
 - [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
@@ -771,6 +772,7 @@
 - [[kb/token\|token]] — définition: Unité économique de l'IA générative — chiffre entre 0 et ~65000 représentant quelques lettres, pixels ou son. 1 token ≈ une syllabe. 100 tokens ≈ une ligne de code (2 occ., 2 fiches)
 - [[kb/_entites-mineures#token-blowout\|token blowout]] — définition: Explosion des coûts compute due à des appels LLM mal gérés — équivalent du Token Burning chez Wescale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#token-economics\|token economics]] — KPIs: Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#token-spend-mal-dirigé\|token spend mal dirigé]] — enjeu: ESR relie la mauvaise utilisation des LLMs à des « milliards de dollars gaspillés » — la variance d'usage (clarté/précision) comme facteur de ROI, pas l'outil seul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tokenomics\|tokenomics]] — définition: Couche économique complète de l'IA : production → consommation → monétisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] — définition: Enregistrement séquence étapes agents au runtime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] — définition: Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin (1 occ., 1 fiches)
@@ -785,6 +787,7 @@
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Tests générés par l'IA confirmant du code généré par l'IA au lieu de vérifier le besoin réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] — définition: Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] — définition: Visionnage vidéo qui clear le seuil de durée minimal — signal positif first-class introduit en 2026, n'existait pas en 2023 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] — définition: Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] — contrainte: HTML statique, SPA obligatoire, mis en cache à l'installation (1 occ., 1 fiches)

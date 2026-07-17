@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 353 entités de type ORGANISATION
+> 354 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -231,6 +231,7 @@
 - [[kb/_entites-mineures#OfficeChai\|OfficeChai]] — secteur: Publication indienne tech/startup news, source de l'article rapportant Sternfels janvier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] — rôle: Organisation co-fondée par ESR en 1998 (président jusqu'en 2005) promouvant l'open source (1 occ., 1 fiches)
 - [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (21 occ., 21 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)

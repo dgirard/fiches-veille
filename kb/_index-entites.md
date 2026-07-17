@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2781 entités
+> 2787 entités
 
 ## #
 
@@ -631,7 +631,7 @@
 - [[kb/Code-Wiki\|Code Wiki]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CodeRabbit\|CodeRabbit]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Codex\|Codex]] (TECHNOLOGIE, 6 fiches)
+- [[kb/Codex\|Codex]] (TECHNOLOGIE, 7 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#coding-agent\|coding agent]] (TECHNOLOGIE, 1 fiches)
@@ -995,6 +995,7 @@
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] (PERSONNE, 1 fiches)
+- [[kb/Eric-S.-Raymond\|Eric S. Raymond]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Erreur-de-type-I-et-II-(contexte-medical)\|Erreur de type I et II (contexte medical)]] (CONCEPT, 1 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] (PERSONNE, 1 fiches)
@@ -1867,6 +1868,7 @@
 - [[kb/_entites-mineures#OON-to-Thunder-conversion\|OON-to-Thunder conversion]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#OON_WEIGHT_FACTOR\|OON_WEIGHT_FACTOR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#open-weights\|open-weights]] (CONCEPT, 2 fiches)
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION, 21 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
@@ -2341,6 +2343,7 @@
 - [[kb/_entites-mineures#Skill\|Skill]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-recall\|skill /recall]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#skill-files\|skill files]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#skill-issue\|skill issue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-creator\|skill-creator]] (TECHNOLOGIE, 1 fiches)
@@ -2550,6 +2553,7 @@
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] (ORGANISATION, 1 fiches)
@@ -2603,6 +2607,7 @@
 - [[kb/_entites-mineures#Token-Burning\|Token Burning]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Token-consumption-performance-metric\|Token consumption performance metric]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#token-economics\|token economics]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#token-spend-mal-dirigé\|token spend mal dirigé]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Token-max\|Token-max]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Token-to-outcome-attribution\|Token-to-outcome attribution]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#tokenomics\|tokenomics]] (CONCEPT, 1 fiches)
@@ -2703,6 +2708,7 @@
 - [[kb/Vincent-Strubel\|Vincent Strubel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Virtual-Tags\|Virtual Tags]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Vision-East-Coast-(IA)\|Vision East Coast (IA)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vision-West-Coast-(IA)\|Vision West Coast (IA)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#vision-RAG\|vision-RAG]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Visual-Studio-Code\|Visual Studio Code]] (TECHNOLOGIE, 1 fiches)

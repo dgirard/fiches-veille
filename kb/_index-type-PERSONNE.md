@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 449 entités de type PERSONNE
+> 450 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -137,6 +137,7 @@
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] — rôle: Lead 10X Technology consulting Google, ex-Chef Software, contributeur DORA team (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
+- [[kb/Eric-S.-Raymond\|Eric S. Raymond]] — rôle: Développeur et essayiste, figure historique de l'open source (auteur de *The Cathedral and the Bazaar*, co-fondateur de l'OSI, Fetchmail, *The Art of Unix Programming*) ; ~50 ans d'expérience ; témoin pro-LLM du débat sur les agents de codage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Professeur senior, Stanford HAI (1 occ., 1 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
 - [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (17 occ., 13 fiches)

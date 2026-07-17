@@ -134,7 +134,7 @@
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] — rôle: Base open-source de Visual Studio Code, fondation technique de Kiro (1 occ., 1 fiches)
 - [[kb/Code-Wiki\|Code Wiki]] — statut: Public preview (novembre 2025) (3 occ., 1 fiches)
 - [[kb/CodeRabbit\|CodeRabbit]] — catégorie: Agent de revue de code IA (3 occ., 3 fiches)
-- [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (6 occ., 6 fiches)
+- [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
 - [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (1 occ., 1 fiches)

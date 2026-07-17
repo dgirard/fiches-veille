@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=cb95be47f084d96287cadd4e61e20ec87f088a507aa0f97cee0084355cee6ee8 fiches=341 -->
-> 341 fiches | 2781 entités | 4891 triples | Généré le 2026-07-17
+<!-- manifest: sha256=e4197df485d2174dab83a8ba0bfc9ee9ca28067b30206a18d8b6f7c32000444a fiches=342 -->
+> 342 fiches | 2787 entités | 4905 triples | Généré le 2026-07-17
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (449)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (353)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (450)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (354)
 - [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (644)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (803)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (806)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (382)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (43)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (102)
-- [[kb/_entites-mineures\|Entités mineures]] (2383)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (103)
+- [[kb/_entites-mineures\|Entités mineures]] (2388)
 
 ## Entités les plus connectées
 
@@ -45,15 +45,15 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 587
-- **affirme_que** : 523
-- **permet** : 440
+- **utilise** : 589
+- **affirme_que** : 528
+- **permet** : 441
 - **mesure** : 362
-- **a_créé** : 318
+- **a_créé** : 320
 - **publie** : 289
-- **recommande** : 214
+- **recommande** : 215
 - **est_basé_sur** : 199
-- **améliore** : 193
+- **améliore** : 194
 - **réduit** : 185
 - **s_applique_à** : 182
 - **est_instance_de** : 177
@@ -63,16 +63,16 @@
 
 ### Distribution par type
 
-- **PERSONNE** : 449 (16.1%)
-- **ORGANISATION** : 353 (12.7%)
-- **TECHNOLOGIE** : 644 (23.2%)
-- **CONCEPT** : 803 (28.9%)
+- **PERSONNE** : 450 (16.1%)
+- **ORGANISATION** : 354 (12.7%)
+- **TECHNOLOGIE** : 644 (23.1%)
+- **CONCEPT** : 806 (28.9%)
 - **METHODOLOGIE** : 382 (13.7%)
 - **EVENEMENT** : 43 (1.5%)
 - **LIEU** : 5 (0.2%)
-- **DOCUMENT** : 102 (3.7%)
+- **DOCUMENT** : 103 (3.7%)
 
 ### Déduplication
 
-- **Triples** : 4971 → 4891 (80 doublons)
-- **Entités** : 3596 → 2781 (815 doublons)
+- **Triples** : 4985 → 4905 (80 doublons)
+- **Entités** : 3603 → 2787 (816 doublons)

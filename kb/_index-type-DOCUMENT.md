@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 102 entités de type DOCUMENT
+> 103 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -78,6 +78,7 @@
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] — type: Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)
