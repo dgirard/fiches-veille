@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2383 entités avec moins de 3 triples/fiches
+> 2391 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (340)
 
@@ -3392,7 +3392,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (269)
+## ORGANISATION (270)
 
 ### 10x {#10x}
 
@@ -5226,6 +5226,14 @@
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
+### Parti communiste chinois {#Parti-communiste-chinois}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **posture IA (selon Ball)** : Vision de l'IA « très Yann-LeCun-ienne » (peu AGI-pilled) — expliquerait ~75 % de la tolérance à l'open-sourcing de modèles puissants
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
 ### People and Digital Technology {#People-and-Digital-Technology}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -6111,7 +6119,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (518)
+## TECHNOLOGIE (519)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8425,6 +8433,16 @@
 - **réduit** → [[kb/_entites-mineures#coût-effectif-par-requête-modèle\|coût effectif par requête modèle]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+
+### Kimi {#Kimi}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle chinois à poids ouverts (Moonshot AI) ; jugé par Ball à parité avec les meilleurs modèles publics du T1 2026 en codage agentique, mais gourmand en tokens (coût réel d'inférence incertain)
+
+- **est_instance_de** → [[kb/_entites-mineures#modèle-frontier-open-weights\|modèle frontier open-weights]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
 ### Kimi Delta Attention {#Kimi-Delta-Attention}
 
@@ -11374,7 +11392,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (775)
+## CONCEPT (779)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15359,6 +15377,16 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
+### accélérationnisme {#accélérationnisme}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **tension relevée** : Ball pointe un paradoxe : les accélérationnistes s'enthousiasment pour l'open-weights, pourtant décélérationniste — par goût de l'ingouvernabilité selon lui
+
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] **s_oppose_à** → accélérationnisme — 0.75
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
 ### actor chain {#actor-chain}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15856,6 +15884,16 @@
 
 **Fiches** : [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
 
+### communisme de l'IA {#communisme-de-l'IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : IA traitée non comme produit de marché mais comme « bien public » / « infrastructure publique numérique » fournie par l'État — issue probable d'un monde dominé par les poids ouverts, position prêtée à la Chine ; jugée « dystopique » par Ball
+
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] **s_oppose_à** → communisme de l'IA — 0.85
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
 ### complicated subsystem team {#complicated-subsystem-team}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16018,6 +16056,14 @@
 - [[kb/Genie-3\|Genie 3]] **utilise** → contrôle par actions — 0.88
 
 **Fiches** : [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
+
+### contrôles à l'export US {#contrôles-à-l'export-US}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **rôle** : Selon Ball, la pénurie de compute d'inférence qu'ils imposent à la Chine fait de la stratégie open-weights chinoise un sous-produit involontaire
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
 ### convergence distributionnelle {#convergence-distributionnelle}
 
@@ -16387,6 +16433,14 @@
 - **portée** : Mondial, permanent selon Andreessen
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
+
+### décélérationnisme {#décélérationnisme}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Thèse selon laquelle les modèles à poids ouverts freinent l'investissement (capex) dans l'IA en rendant non rentable le service de modèles frontier propriétaires
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
 ### déduplication {#déduplication}
 
@@ -17302,13 +17356,15 @@
 
 ### open-weights {#open-weights}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **définition** : Modèle dont les poids sont téléchargeables et exécutables (≠ pipeline d'entraînement ouvert) ; ouvre l'option self-host et la réversibilité, sans équivaloir à l'open-source au sens strict
+- **lecture géopolitique (Ball)** : Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA »
 
 - **permet** → [[kb/_entites-mineures#réversibilité-self-host,-portage,-sortie-de-la-captivité-fournisseur\|réversibilité : self-host, portage, sortie de la captivité fournisseur]] (AFFIRMATION) — 0.88
+- **réduit** → [[kb/_entites-mineures#investissement-(capex)-dans-l'IA\|investissement (capex) dans l'IA]] (AFFIRMATION) — 0.75
 
-**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### optimisme déterminé {#optimisme-déterminé}
 
@@ -18519,7 +18575,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (344)
+## METHODOLOGIE (345)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19366,6 +19422,16 @@
 - **permet** → [[kb/_entites-mineures#mémorisation-espacée-des-flashcards\|mémorisation espacée des flashcards]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
+
+### FUD réglementaire {#FUD-réglementaire}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **mécanisme** : Stratégie prêtée à l'administration Trump : faire émettre par chaque agence une soft law semant le doute (ex. « backdoors » présumées) sur les modèles chinois à poids ouverts, sans « interdire l'open source », pour dissuader les entreprises régulées sans effrayer les hyperscalers
+
+- **permet** → [[kb/_entites-mineures#dissuader-les-entreprises-régulées-d'utiliser-les-modèles-chinois-à-poids-ouverts\|dissuader les entreprises régulées d'utiliser les modèles chinois à poids ouverts]] (AFFIRMATION) — 0.75
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
 ### Federal jobs guarantee {#Federal-jobs-guarantee}
 
@@ -22279,7 +22345,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (92)
+## DOCUMENT (93)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -22937,6 +23003,16 @@
 - **catégorie** : Titre Netflix (US) utilisant la GenAI
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
+### The Art of Not Being Governed {#The-Art-of-Not-Being-Governed}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights
+
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] **référence** → The Art of Not Being Governed — 0.90
+
+**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
 ### The Batch {#The-Batch}
 

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2772 entités
+> 2781 entités
 
 ## #
 
@@ -82,6 +82,7 @@
 - [[kb/_entites-mineures#Accountability\|Accountability]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Accumulated-execution-data\|Accumulated execution data]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#accélérationnisme\|accélérationnisme]] (CONCEPT, 1 fiches)
 - [[kb/ACE\|ACE]] (METHODOLOGIE, 1 fiches)
 - [[kb/Acontext\|Acontext]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Action-targeted-content-design\|Action-targeted content design]] (METHODOLOGIE, 1 fiches)
@@ -243,7 +244,7 @@
 - [[kb/_entites-mineures#Ambient-affordances\|Ambient affordances]] (CONCEPT, 1 fiches)
 - [[kb/AMD\|AMD]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE, 1 fiches)
-- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 2 fiches)
+- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 3 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#amorriscode\|amorriscode]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] (CONCEPT, 1 fiches)
@@ -653,6 +654,7 @@
 - [[kb/_entites-mineures#commission-d'enquête-vulnérabilités-numériques\|commission d'enquête vulnérabilités numériques]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Commodification-cycle\|Commodification cycle]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#communautés-Discord-Reddit\|communautés Discord/Reddit]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#communisme-de-l'IA\|communisme de l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] (CONCEPT, 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] (CONCEPT, 1 fiches)
 - [[kb/Compaction-methodologie\|Compaction]] (METHODOLOGIE, 1 fiches)
@@ -714,6 +716,7 @@
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Contrôle-antitrust\|Contrôle antitrust]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#contrôles-à-l'export-US\|contrôles à l'export US]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Convergence-concentration-oligarchie-2026\|Convergence "concentration / oligarchie" 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Convergence-cognitive-orchestrator-agent-supervisor\|Convergence cognitive orchestrator / agent supervisor]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] (CONCEPT, 2 fiches)
@@ -816,6 +819,7 @@
 - [[kb/_entites-mineures#David-Wallace-Wells\|David Wallace-Wells]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Daytona\|Daytona]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] (PERSONNE, 1 fiches)
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Debugging-interview\|Debugging interview]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] (EVENEMENT, 1 fiches)
@@ -932,6 +936,7 @@
 - [[kb/_entites-mineures#DynamoDB\|DynamoDB]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#décélérationnisme\|décélérationnisme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#déduplication\|déduplication]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Délégation-à-des-subagents\|Délégation à des subagents]] (METHODOLOGIE, 1 fiches)
@@ -1092,6 +1097,7 @@
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FTC\|FTC]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#FUD-réglementaire\|FUD réglementaire]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fuel-Adoption-Output-Impact\|Fuel-Adoption-Output-Impact]] (METHODOLOGIE, 1 fiches)
 ## G
 
@@ -1463,6 +1469,7 @@
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Kimi\|Kimi]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Kiro\|Kiro]] (TECHNOLOGIE, 4 fiches)
@@ -1860,8 +1867,8 @@
 - [[kb/_entites-mineures#OON-to-Thunder-conversion\|OON-to-Thunder conversion]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#OON_WEIGHT_FACTOR\|OON_WEIGHT_FACTOR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#open-weights\|open-weights]] (CONCEPT, 1 fiches)
-- [[kb/OpenAI\|OpenAI]] (ORGANISATION, 20 fiches)
+- [[kb/_entites-mineures#open-weights\|open-weights]] (CONCEPT, 2 fiches)
+- [[kb/OpenAI\|OpenAI]] (ORGANISATION, 21 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Codex\|OpenAI Codex]] (TECHNOLOGIE, 2 fiches)
@@ -1913,6 +1920,7 @@
 - [[kb/_entites-mineures#Parcha\|Parcha]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Parker-Mitchell\|Parker Mitchell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Paro\|Paro]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Parti-communiste-chinois\|Parti communiste chinois]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] (PERSONNE, 1 fiches)
 - [[kb/Pasquale-Pillitteri\|Pasquale Pillitteri]] (PERSONNE, 1 fiches)
@@ -2537,6 +2545,7 @@
 - [[kb/_entites-mineures#The-AI-Journal\|The AI Journal]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Architect-Elevator\|The Architect Elevator]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] (ORGANISATION, 1 fiches)

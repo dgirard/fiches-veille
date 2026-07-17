@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 381 entités de type METHODOLOGIE
+> 382 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -101,6 +101,7 @@
 - [[kb/_entites-mineures#Empowerment-promise\|Empowerment promise]] — description: Déclarer ce que l'audience saura à la fin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] — description: Revue et amélioration d'une codebase avec PR brouillon en itérant avec des agents de codage (pilote) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] — catégorie: algorithme de répétition espacée pour flashcards (1 occ., 1 fiches)
+- [[kb/_entites-mineures#FUD-réglementaire\|FUD réglementaire]] — mécanisme: Stratégie prêtée à l'administration Trump : faire émettre par chaque agence une soft law semant le doute (ex. « backdoors » présumées) sur les modèles chinois à poids ouverts, sans « interdire l'open source », pour dissuader les entreprises régulées sans effrayer les hyperscalers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] — description: Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps\|FinOps]] — catégorie: Optimisation financière cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#FinOps-de-l'IA-générative\|FinOps de l'IA générative]] — principe: Payer la charge au bon prix sur le bon matériel ; logique « coût par résultat / coût du token servi » (1 occ., 1 fiches)

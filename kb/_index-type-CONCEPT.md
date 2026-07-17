@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 799 entités de type CONCEPT
+> 803 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -462,6 +462,7 @@
 - [[kb/_entites-mineures#Zeno's-paradox-of-AI\|Zeno's paradox of AI]] — définition: Métaphore Shipper — Achille (IA) court vers la tortue (humain) mais la tortue *« is alive to a specific moment »*, elle bouge en permanence vers de nouveaux problèmes, Achille ne la rattrape jamais (1 occ., 1 fiches)
 - [[kb/_entites-mineures#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs\|`panic!("Not implemented: to_thrift for ...")` stubs]] — définition: Marqueurs présents dans candidate_features.rs et user_features.rs — confirment que le release public ne tourne pas end-to-end contre les services internes X (1 occ., 1 fiches)
 - [[kb/_entites-mineures#acceptance-rate\|acceptance rate]] — statut: Métrique en déclin, portée trop étroite (1 occ., 1 fiches)
+- [[kb/_entites-mineures#accélérationnisme\|accélérationnisme]] — tension relevée: Ball pointe un paradoxe : les accélérationnistes s'enthousiasment pour l'open-weights, pourtant décélérationniste — par goût de l'ingouvernabilité selon lui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#actor-chain\|actor chain]] — définition: Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
@@ -515,6 +516,7 @@
 - [[kb/_entites-mineures#commande-publique-50%-PIB-EU\|commande publique 50% PIB EU]] — définition: Levier stratégique sous-utilisé en Europe — utilisé massivement par US (depuis 1940) et Chine pour faire émerger leurs champions industriels (1 occ., 1 fiches)
 - [[kb/commerce-agentique\|commerce agentique]] — statut: Émergent, en accélération (2 occ., 2 fiches)
 - [[kb/_entites-mineures#commerce-conversationnel\|commerce conversationnel]] — catégorie: Nouveau paradigme e-commerce via IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#communisme-de-l'IA\|communisme de l'IA]] — définition: IA traitée non comme produit de marché mais comme « bien public » / « infrastructure publique numérique » fournie par l'État — issue probable d'un monde dominé par les poids ouverts, position prêtée à la Chine ; jugée « dystopique » par Ball (1 occ., 1 fiches)
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#comportement-parahuman\|comportement parahuman]] — définition: Réponses sociales IA mimant comportement humain sans conscience (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] — opposé: compounding error (1 occ., 1 fiches)
@@ -533,6 +535,7 @@
 - [[kb/_entites-mineures#contexte-passif\|contexte passif]] — définition: Information injectée dans le prompt système sans décision d'invocation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#control-flow-is-code\|control flow is code]] — principe: L'ordonnancement est déterministe ; les modèles ne fournissent que le jugement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] — rôle: Différenciateur clé de Genie 3 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#contrôles-à-l'export-US\|contrôles à l'export US]] — rôle: Selon Ball, la pénurie de compute d'inférence qu'ils imposent à la Chine fait de la stratégie open-weights chinoise un sous-produit involontaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] — statut: Défi principal des compounding teams (1 occ., 1 fiches)
 - [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] — définition: Distinction Sankar : copilot = approbation humaine à chaque tour ; autopilot = l'agent gère la route entière. Les modèles sont prêts pour l'autopilot, les outils non (1 occ., 1 fiches)
@@ -572,6 +575,7 @@
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] — description: Hybridation knowledge graphs + bases vectorielles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] — définition: Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] — portée: Mondial, permanent selon Andreessen (1 occ., 1 fiches)
+- [[kb/_entites-mineures#décélérationnisme\|décélérationnisme]] — principe: Thèse selon laquelle les modèles à poids ouverts freinent l'investissement (capex) dans l'IA en rendant non rentable le service de modèles frontier propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déduplication\|déduplication]] — domaine: Sauvegarde de données, optimisation stockage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] — type: défaillance infrastructure critique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#démocratisation-de-l'éducation\|démocratisation de l'éducation]] — impact: accès mondial sans barrières géographiques ou financières (1 occ., 1 fiches)
@@ -667,7 +671,7 @@
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
-- [[kb/_entites-mineures#open-weights\|open-weights]] — définition: Modèle dont les poids sont téléchargeables et exécutables (≠ pipeline d'entraînement ouvert) ; ouvre l'option self-host et la réversibilité, sans équivaloir à l'open-source au sens strict (1 occ., 1 fiches)
+- [[kb/_entites-mineures#open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)

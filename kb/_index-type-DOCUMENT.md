@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 101 entités de type DOCUMENT
+> 102 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -13,7 +13,7 @@
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] — format: Article de blog long format addyosmani.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agile-Manifesto\|Agile Manifesto]] — type: Manifeste fondateur du mouvement Agile (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahead-of-AI\|Ahead of AI]] — type: Blog / newsletter ML de Raschka (1 occ., 1 fiches)
-- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (4 occ., 2 fiches)
+- [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (5 occ., 3 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] — date: 2025-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Skill-Formation-Research\|Anthropic Skill-Formation Research]] — description: Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Antiqua-et-nova\|Antiqua et nova]] — catégorie: Note conjointe Dicastère pour la Doctrine de la Foi + Dicastère pour la Culture et l'Éducation (14 janvier 2025) sur l'IA — source magistérielle prochaine la plus citée dans Magnifica Humanitas (1 occ., 1 fiches)
@@ -75,6 +75,7 @@
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)

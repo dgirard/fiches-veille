@@ -8,20 +8,20 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 340 fiches
-- **Par année** : 2026 (163) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 341 fiches
+- **Par année** : 2026 (164) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 114
   - Architecture & Construction : 35
   - Transformation & Adoption : 67
   - Qualité & Sécurité : 25
-  - Économie & Marché : 58
-  - Philosophie & Société : 18
+  - Économie & Marché : 59
+  - Philosophie & Société : 19
   - Stratégie & Frameworks : 11
   - Outils & Plateformes : 26
   - Recherche & Éducation : 9
   - Produits & Services : 8
-  - Politique & Régulation : 11
+  - Politique & Régulation : 12
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)

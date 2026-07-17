@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 643 entités de type TECHNOLOGIE
+> 644 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -295,6 +295,7 @@
 - [[kb/_entites-mineures#Jupyter\|Jupyter]] — catégorie: Notebook data science (référence historique) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#K-9-Mail\|K-9 Mail]] — description: Client email Android devenu Thunderbird for Android (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KVCache\|KVCache]] — rôle: Mécanisme de cache pour réduire les coûts d'inférence LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Kimi\|Kimi]] — catégorie: Modèle chinois à poids ouverts (Moonshot AI) ; jugé par Ball à parité avec les meilleurs modèles publics du T1 2026 en codage agentique, mais gourmand en tokens (coût réel d'inférence incertain) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] — définition: Mécanisme d'attention linéaire hybride de Kimi K3 (+ « Attention Residuals ») ; Moonshot revendique un décodage jusqu'à 6,3× plus rapide sur 1M tokens et ~25 % d'efficacité d'entraînement supplémentaire (1 occ., 1 fiches)
 - [[kb/Kimi-K3\|Kimi K3]] — catégorie: Modèle LLM frontier open-weights de Moonshot AI, lancé le 16/07/2026 ; MoE ~2,8T paramètres et contexte 1M tokens (vendor-stated), multimodal natif, raisonnement à effort maximal ; variantes K3 Max et K3 Swarm Max ; poids annoncés avant le 27/07/2026 (probable Modified MIT) (1 occ., 1 fiches)
 - [[kb/Kiro\|Kiro]] — catégorie: IDE + CLI d'AWS, standard de développement interne, sur Claude Sonnet/Opus (4 occ., 4 fiches)

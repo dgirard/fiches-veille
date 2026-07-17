@@ -1,11 +1,11 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 48 relations | 20 fiches sources
+> **Type** : ORGANISATION | 49 relations | 21 fiches sources
 
 ## Attributs
 
 - **produit** : ChatGPT
-- **rôle** : partenaire mentorat
+- **rôle** : Laboratoire d'IA de pointe (frontier propriétaire) ; employeur de Dean W. Ball depuis le 06/07/2026 (Head of Strategic Futures) — contexte de lecture de son plaidoyer anti-open-weights
 - **secteur** : Labo IA frontalier, San Francisco
 - **statut financier** : non cash-flow positif avant fin de décennie
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
@@ -122,6 +122,7 @@
 - [[kb/Elon-Musk\|Elon Musk]] **a_créé** → OpenAI — 0.97
 - [[kb/Elon-Musk\|Elon Musk]] **s_oppose_à** → OpenAI — 0.97
 - [[kb/_entites-mineures#Chris-Lehane\|Chris Lehane]] **travaille_chez** → OpenAI — 0.97
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] **travaille_chez** → OpenAI — 0.97
 - [[kb/AMD\|AMD]] **collabore_avec** → OpenAI — 0.96
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96
 - [[kb/Nvidia\|Nvidia]] **collabore_avec** → OpenAI — 0.95
@@ -139,6 +140,7 @@
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
+- [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]

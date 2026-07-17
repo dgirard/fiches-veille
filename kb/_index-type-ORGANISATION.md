@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 352 entités de type ORGANISATION
+> 353 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -231,11 +231,12 @@
 - [[kb/_entites-mineures#OfficeChai\|OfficeChai]] — secteur: Publication indienne tech/startup news, source de l'article rapportant Sternfels janvier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — catégorie: Newsletter Substack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
-- [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (20 occ., 20 fiches)
+- [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (21 occ., 21 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Parti-communiste-chinois\|Parti communiste chinois]] — posture IA (selon Ball): Vision de l'IA « très Yann-LeCun-ienne » (peu AGI-pilled) — expliquerait ~75 % de la tolérance à l'open-sourcing de modèles puissants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] — structure: Département fusionné HR+IT chez Moderna (créé en 2025) (1 occ., 1 fiches)
 - [[kb/Perplexity-organisation\|Perplexity]] — secteur: IA / Moteur de recherche (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Pew-Research\|Pew Research]] — donnée: ~1 travailleur US sur 5 fait une partie de son travail avec l'IA (part en hausse) (1 occ., 1 fiches)

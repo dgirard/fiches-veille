@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 448 entités de type PERSONNE
+> 449 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -119,6 +119,7 @@
 - [[kb/David-Thomas\|David Thomas]] — rôle: Co-auteur The Pragmatic Programmer, signataire Manifeste Agile (« Pragdave ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Wallace-Wells\|David Wallace-Wells]] — rôle: Staff writer NYT Magazine, journaliste américain reconnu pour climat (livre The Uninhabitable Earth 2019), ancien deputy editor New York Magazine. Auteur article-pivot AI Populism mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] — rôle: Policy wonk, architecte original de l'AI policy de l'administration Trump. Citation prophétique Palantir Foundation Yale "AI as governments" + "giant acid vat" (1 occ., 1 fiches)
+- [[kb/Dean-W.-Ball\|Dean W. Ball]] — rôle: Head of Strategic Futures chez OpenAI (depuis le 06/07/2026) ; principal rédacteur d'America's AI Action Plan à l'OSTP (Maison Blanche) ; Nonresident Senior Fellow FAI, auteur de la newsletter *Hyperdimensional* ; libéral classique, voix contrarienne du débat open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] — rôle: Chercheur DORA, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
