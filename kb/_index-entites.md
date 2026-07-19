@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2794 entités
+> 2798 entités
 
 ## #
 
@@ -439,7 +439,7 @@
 - [[kb/Bob-Sternfels\|Bob Sternfels]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bolt\|Bolt]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Bon-à-Tirer\|Bon à Tirer]] (METHODOLOGIE, 1 fiches)
-- [[kb/Boris-Cherny\|Boris Cherny]] (PERSONNE, 8 fiches)
+- [[kb/Boris-Cherny\|Boris Cherny]] (PERSONNE, 9 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#bots-de-codage\|bots de codage]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bottleneck-shift-coding-→-supervision\|Bottleneck shift coding → supervision]] (CONCEPT, 1 fiches)
@@ -513,7 +513,7 @@
 - [[kb/_entites-mineures#Case-study-banque-européenne-régulée-IA\|Case study banque européenne régulée IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CAST\|CAST]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] (ORGANISATION, 1 fiches)
-- [[kb/Cat-Wu\|Cat Wu]] (PERSONNE, 3 fiches)
+- [[kb/Cat-Wu\|Cat Wu]] (PERSONNE, 4 fiches)
 - [[kb/_entites-mineures#Catherine-Jestin\|Catherine Jestin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Caveat-20-80-(HABERT)\|Caveat 20/80 (HABERT)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#caveats\|caveats]] (CONCEPT, 1 fiches)
@@ -574,7 +574,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 46 fiches)
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 47 fiches)
 - [[kb/_entites-mineures#Claude-Code-Plan-Mode\|Claude Code Plan Mode]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
@@ -1218,6 +1218,7 @@
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Governing-Board\|Governing Board]] (ORGANISATION, 1 fiches)
 - [[kb/Goût-développeur\|Goût développeur]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#goût-produit\|goût produit]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] (TECHNOLOGIE, 1 fiches)
@@ -1910,6 +1911,7 @@
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] (METHODOLOGIE, 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] (CONCEPT, 1 fiches)
 ## P
 
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
@@ -2110,6 +2112,7 @@
 - [[kb/_entites-mineures#quatre-observations\|quatre observations]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#query-fan-out\|query fan-out]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Question-forte-vs-faible\|Question forte vs faible]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#qui-dit-non\|qui dit non]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] (METHODOLOGIE, 1 fiches)
@@ -2151,6 +2154,7 @@
 - [[kb/_entites-mineures#Redéfinition-headcount-services-intellectuels\|Redéfinition headcount services intellectuels]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#References\|References]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Refiners-(Lattice)\|Refiners (Lattice)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Reflecting-on-a-year-of-Claude-Code\|Reflecting on a year of Claude Code]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Regie\|Regie]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#remote-DOM\|remote DOM]] (TECHNOLOGIE, 1 fiches)

@@ -1,6 +1,6 @@
 # Cat Wu
 
-> **Type** : PERSONNE | 7 relations | 3 fiches sources
+> **Type** : PERSONNE | 8 relations | 4 fiches sources
 
 ## Attributs
 
@@ -29,6 +29,8 @@
 
 ### travaille_chez
 
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - [[kb/_entites-mineures#équipe-Claude-Code\|équipe Claude Code]] (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
@@ -38,6 +40,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]

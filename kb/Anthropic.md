@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 100 relations | 37 fiches sources
+> **Type** : ORGANISATION | 101 relations | 37 fiches sources
 
 ## Attributs
 
@@ -236,6 +236,7 @@
 - [[kb/Dario-Amodei\|Dario Amodei]] **dirige** → Anthropic — 0.95
 - [[kb/Bun\|Bun]] **fait_partie_de** → Anthropic — 0.95
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
+- [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90

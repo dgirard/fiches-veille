@@ -1,11 +1,11 @@
 # Boris Cherny
 
-> **Type** : PERSONNE | 28 relations | 8 fiches sources
+> **Type** : PERSONNE | 31 relations | 9 fiches sources
 
 ## Attributs
 
 - **philosophie** : Humilité, pensée first principles
-- **rôle** : Créateur de Claude Code
+- **rôle** : Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code »
 
 ## Relations (comme sujet)
 
@@ -29,12 +29,16 @@
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « il n'a pas écrit une seule ligne de code en 2026 » (AFFIRMATION) — 0.97, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+- « les rôles produit et ingénierie fusionnent — « everyone's going to be both » » (AFFIRMATION) — 0.97, DYNAMIQUE
+  - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - « "best person to write accounting software is an accountant" » (CITATION) — 0.96, ATEMPOREL
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « "loops are the future" » (CITATION) — 0.96, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « "We have no more manually written code anywhere at the company" » (CITATION) — 0.96, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+- « « AI really benefits people who have a lot of curiosity, product taste, and love end-to-end ownership » » (CITATION) — 0.96, DYNAMIQUE
+  - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - « l'avantage d'Anthropic est organisationnel et processuel, pas technologique » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « network effects, scale economies et cornered resources restent inchangés à l'ère IA » (AFFIRMATION) — 0.92, DYNAMIQUE
@@ -45,6 +49,11 @@
   - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 - « l'observation des usages imprévus révèle la demande latente » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
+
+### dirige
+
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
 ### mesure
 
@@ -105,6 +114,7 @@
 
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+- [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]

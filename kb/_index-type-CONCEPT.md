@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 808 entités de type CONCEPT
+> 811 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -609,6 +609,7 @@
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] — définition: Contrainte limitante qui, avec l'IA, se déplace de l'exécution vers l'amont (vision/décision) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] — description: Contrôle, audit et gestion des apps générées par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance-agents-IA\|gouvernance agents IA]] — composants: RBAC, politiques accès données, audit logging, gestion secrets, isolation réseau (1 occ., 1 fiches)
+- [[kb/_entites-mineures#goût-produit\|goût produit]] — définition: Product taste : capacité à choisir les bons problèmes, savoir quoi ne pas construire, définir le succès — érigée en compétence rare quand livrer devient bon marché (1 occ., 1 fiches)
 - [[kb/_entites-mineures#grown-software\|grown software]] — synonyme: Développement non-interactif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guardrails-IA\|guardrails IA]] — importance: Contrôle critique pour agents autonomes en environnements de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#génération-autorégressive\|génération autorégressive]] — catégorie: Paradigme dominant : génération token par token, gauche→droite, attention causale (1 occ., 1 fiches)
@@ -676,6 +677,7 @@
 - [[kb/_entites-mineures#open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] — valeur: IA utilisée dans 60% du travail mais déléguée à 0-20% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] — définition: Solow (1987) : adoption massive d'une techno sans gain visible dans les statistiques de productivité (1 occ., 1 fiches)
@@ -714,6 +716,7 @@
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] — impact: Maintien des prix des assistants IA à un niveau élevé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] — composition: Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-observations\|quatre observations]] — contenu: ouverture / IA contrôlable / inclusivité / solidarité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#qui-dit-non\|qui dit non]] — définition: Contrepoint gouvernance (Ron H., Paul Breuler) : quand tout le monde peut construire, la fonction rare devient l'autorité d'approuver, bloquer et assumer la responsabilité avant la mise en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] — source: Recherche Google sur l'optimisation long terme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] — définition: Décideurs opèrent avec informations incomplètes et capacités cognitives finies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] — statut: fonctionnalité IA de recherche membre (1 occ., 1 fiches)

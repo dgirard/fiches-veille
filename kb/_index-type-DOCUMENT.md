@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 103 entités de type DOCUMENT
+> 104 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -64,6 +64,7 @@
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] — catégorie: Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Reflecting-on-a-year-of-Claude-Code\|Reflecting on a year of Claude Code]] — description: Vidéo LinkedIn (~47 s, Claude for Business, ~2026-07-17) : Cherny & Wu affirment que les rôles produit et ingénierie fusionnent ; l'IA favorise curiosité, goût produit, ownership end-to-end (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026-Ontology-Pipeline\|Refresh 2026 Ontology Pipeline]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] — portée: Aurait influencé SB 53, NY RAISE Act, EU AI Act (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 101 relations | 46 fiches sources
+> **Type** : TECHNOLOGIE | 103 relations | 47 fiches sources
 
 ## Attributs
 
@@ -19,6 +19,7 @@
 - **rôle** : Harnais des dynamic workflows ; a maintenu ~64 Claude en parallèle 11 jours ; 11 rounds de revue de sécurité post-merge
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
+- **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
 - **version_corrigée** : v2.1.116 (20 avril 2026)
 - **versions** : `/goal` livré v2.1.139 (11 mai 2026), branche 2.1.x, Opus 4.8 par défaut
@@ -121,6 +122,8 @@
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - [[kb/_entites-mineures#reconnaissance-et-exfiltration-de-données\|reconnaissance et exfiltration de données]] (METHODOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- [[kb/_entites-mineures#livraison-de-produit-de-bout-en-bout-par-un-seul-contributeur\|livraison de produit de bout en bout par un seul contributeur]] (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - [[kb/_entites-mineures#travail-supplémentaire-(27%)\|travail supplémentaire (27%)]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - « ~64 Claude en parallèle pendant 11 jours (4 worktrees × 16) » (AFFIRMATION) — 0.90, STATIQUE
@@ -228,6 +231,7 @@
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Claude Code — 0.96
 - [[kb/Cursor-technologie\|Cursor]] **converge_avec** → Claude Code — 0.95
+- [[kb/Boris-Cherny\|Boris Cherny]] **dirige** → Claude Code — 0.95
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Co-work\|Co-work]] **est_basé_sur** → Claude Code — 0.94
@@ -251,6 +255,7 @@
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+- [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]

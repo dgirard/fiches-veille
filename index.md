@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 343 fiches | 1975-12 → 2026-07-17 | généré le 2026-07-17
+> 344 fiches | 1975-12 → 2026-07-17 | généré le 2026-07-19
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **17** [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55). · LinkedIn (Claude for Business) — vidéo + 55 commentaires — Boris Cherny, Cat Wu, Claude Code
 - **17** [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.) · Dean W. Ball (X) — Dean W. Ball, Dean Woodley Ball, OpenAI
 - **17** [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3 · Le Touilleur Express — The Token Manifesto, Nicolas Martignole, Le Touilleur Express
 - **17** [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin. · Xinhua/SCIO (synthèse recherche) — intelligence artificielle, gouvernance mondiale de l'IA, WAIC 2026
@@ -449,6 +450,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)](fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14.md) — Linus Torvalds (torvalds@linuxfoundation.org) — ingénieur logiciel finlando-américain, **créateur et mainteneur suprême du noyau Linux** (depuis 1991) et de **Git** (2005). Employé de la **Linux Foundation**. Figure centrale et notoirement franche de l'open source, dont la parole sur les mailing lists du kernel fait autorité et jurisprudence dans la communauté. S'exprime ici en sa qualité de **top-level maintainer** pour fixer la position officielle du projet vis-à-vis des outils d'IA. Autres participants au thread cités : Roman Gushchin (linux.dev), Laurent Pinchart, Mauro Carvalho Chehab, Konstantin Ryabitsev (Linux Foundation), Steven Rostedt, Stephen Finucane, Jason Gunthorpe, entre autres. (Message de mailing list linux-media ; date : 2026-07-14 ; date d'ajout à la veille : 2026-07-17.)
@@ -606,6 +608,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang)
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
@@ -768,6 +771,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.)
 - [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
 - [Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)](fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14.md) — Linus Torvalds (torvalds@linuxfoundation.org) — ingénieur logiciel finlando-américain, **créateur et mainteneur suprême du noyau Linux** (depuis 1991) et de **Git** (2005). Employé de la **Linux Foundation**. Figure centrale et notoirement franche de l'open source, dont la parole sur les mailing lists du kernel fait autorité et jurisprudence dans la communauté. S'exprime ici en sa qualité de **top-level maintainer** pour fixer la position officielle du projet vis-à-vis des outils d'IA. Autres participants au thread cités : Roman Gushchin (linux.dev), Laurent Pinchart, Mauro Carvalho Chehab, Konstantin Ryabitsev (Linux Foundation), Steven Rostedt, Stephen Finucane, Jason Gunthorpe, entre autres. (Message de mailing list linux-media ; date : 2026-07-14 ; date d'ajout à la veille : 2026-07-17.)
@@ -873,15 +877,15 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 343 fiches
-- **Par année** : 2026 (166) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 344 fiches
+- **Par année** : 2026 (167) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 116
+  - Agents de codage IA & Skills : 117
   - Architecture & Construction : 35
-  - Transformation & Adoption : 69
+  - Transformation & Adoption : 70
   - Qualité & Sécurité : 25
   - Économie & Marché : 59
-  - Philosophie & Société : 21
+  - Philosophie & Société : 22
   - Stratégie & Frameworks : 11
   - Outils & Plateformes : 26
   - Recherche & Éducation : 9
@@ -895,6 +899,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - SFEIR (6)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
+  - Boris Cherny (4)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
@@ -902,7 +907,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Simon Willison (3)
   - Andrew Ng (3)
   - Dan Shipper (3)
-  - Boris Cherny (3)
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)

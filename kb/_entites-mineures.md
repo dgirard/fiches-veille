@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2402 entités avec moins de 3 triples/fiches
+> 2406 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (341)
 
@@ -11443,7 +11443,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (784)
+## CONCEPT (787)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16804,6 +16804,16 @@
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
 
+### goût produit {#goût-produit}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Product taste : capacité à choisir les bons problèmes, savoir quoi ne pas construire, définir le succès — érigée en compétence rare quand livrer devient bon marché
+
+- **améliore** → [[kb/_entites-mineures#valeur-d'un-profil-à-l'ère-des-agents-de-codage\|valeur d'un profil à l'ère des agents de codage]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
+
 ### grown software {#grown-software}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17455,6 +17465,14 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
 
+### ownership end-to-end {#ownership-end-to-end}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA
+
+**Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
+
 ### paradox of choice {#paradox-of-choice}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17784,6 +17802,14 @@
 - **observé_dans** → [[kb/_entites-mineures#WAIC-2026\|WAIC 2026]] (EVENEMENT) — 0.96
 
 **Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
+### qui dit non {#qui-dit-non}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Contrepoint gouvernance (Ron H., Paul Breuler) : quand tout le monde peut construire, la fonction rare devient l'autorité d'approuver, bloquer et assumer la responsabilité avant la mise en production
+
+**Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
 ### ratio 60/40 marque-performance {#ratio-60-40-marque-performance}
 
@@ -22438,7 +22464,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (94)
+## DOCUMENT (95)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23001,6 +23027,16 @@
 - **catégorie** : Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
+
+### Reflecting on a year of Claude Code {#Reflecting-on-a-year-of-Claude-Code}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **description** : Vidéo LinkedIn (~47 s, Claude for Business, ~2026-07-17) : Cherny & Wu affirment que les rôles produit et ingénierie fusionnent ; l'IA favorise curiosité, goût produit, ownership end-to-end
+
+- **affine** → [[kb/_entites-mineures#thèse-de-l'aplatissement-produit-ingénierie-(Great-Flattening)\|thèse de l'aplatissement produit-ingénierie (Great Flattening)]] (CONCEPT) — 0.84
+
+**Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
 ### Refresh 2026 Ontology Pipeline {#Refresh-2026-Ontology-Pipeline}
 

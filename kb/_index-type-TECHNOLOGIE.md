@@ -107,7 +107,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: Harness-as-a-Service Anthropic (1 occ., 1 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (52 occ., 46 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (53 occ., 47 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
