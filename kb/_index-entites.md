@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2806 entités
+> 2816 entités
 
 ## #
 
@@ -39,6 +39,7 @@
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#20VC\|20VC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#23-minutes-context-recovery-(Gloria-Mark)\|23 minutes context recovery (Gloria Mark)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#3-capacités-agentic-SaS\|3 capacités agentic SaS]] (CONCEPT, 1 fiches)
@@ -843,6 +844,7 @@
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] (ORGANISATION, 1 fiches)
+- [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#demande-latente\|demande latente]] (CONCEPT, 2 fiches)
@@ -1284,6 +1286,7 @@
 - [[kb/_entites-mineures#Harness-as-a-Service-(HaaS)\|Harness-as-a-Service (HaaS)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] (PERSONNE, 1 fiches)
 - [[kb/Harvard-Business-Review\|Harvard Business Review]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Harvard-Business-School\|Harvard Business School]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Harvey\|Harvey]] (TECHNOLOGIE, 1 fiches)
@@ -1476,6 +1479,7 @@
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kimi\|Kimi]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE, 1 fiches)
@@ -1993,6 +1997,7 @@
 - [[kb/_entites-mineures#philosophie-Unix\|philosophie Unix]] (CONCEPT, 1 fiches)
 - [[kb/Phoenix\|Phoenix]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Phoenix-checkpoint-released\|Phoenix checkpoint released]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#pierre-philosophale\|pierre philosophale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pilotes-IA-entreprise\|pilotes IA entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pinned-means-merged\|pinned means merged]] (CONCEPT, 1 fiches)
@@ -2241,6 +2246,7 @@
 ## S
 
 - [[kb/_entites-mineures#S3NS\|S3NS]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] (CONCEPT, 1 fiches)
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] (TECHNOLOGIE, 1 fiches)
@@ -2399,6 +2405,7 @@
 - [[kb/_entites-mineures#Sorbet\|Sorbet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Soufiane-Keli\|Soufiane Keli]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] (CONCEPT, 1 fiches)
@@ -2500,6 +2507,7 @@
 - [[kb/_entites-mineures#Swyx\|Swyx]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#sycophancy\|sycophancy]] (CONCEPT, 1 fiches)
 - [[kb/Sylvain-Duranton\|Sylvain Duranton]] (PERSONNE, 1 fiches)
+- [[kb/synthèse-fact-check-Delos\|synthèse fact-check Delos]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#System-reminder\|System-reminder]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#systems-around-the-model\|systems around the model]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#système-de-permissions\|système de permissions]] (CONCEPT, 1 fiches)
@@ -2585,6 +2593,7 @@
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] (ORGANISATION, 1 fiches)
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Theory-of-Constraints\|Theory of Constraints]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Think-Before-Coding\|Think Before Coding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Think-with-Google\|Think with Google]] (TECHNOLOGIE, 1 fiches)
@@ -2785,6 +2794,7 @@
 - [[kb/_entites-mineures#Work-planning\|Work planning]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Work-Slop\|Work Slop]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Workers\|Workers]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#workflow-Brainstorm-Plan-Implement\|workflow Brainstorm-Plan-Implement]] (METHODOLOGIE, 1 fiches)

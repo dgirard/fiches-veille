@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 649 entités de type TECHNOLOGIE
+> 650 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -555,6 +555,7 @@
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)
 - [[kb/Windsurf-technologie\|Windsurf]] — catégorie: Éditeur AI-native collaboratif (4 occ., 4 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] — catégorie: Outil SEO sémantique et diffusion visuelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Workers\|Workers]] — catégorie: Produit Delos lancé ~juin 2026 ; objet de l'unique donnée d'ARR disponible (« 1 M$ en quelques jours », auto-déclarée, non auditée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] — catégorie: Plateforme IA serverless (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] — catégorie: Déploiement Workers à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] — usage: Système de layout pour terminal (Meta) (1 occ., 1 fiches)

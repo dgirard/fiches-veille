@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2413 entités avec moins de 3 triples/fiches
+> 2421 entités avec moins de 3 triples/fiches
 
-## PERSONNE (342)
+## PERSONNE (345)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1365,6 +1365,16 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
+### Harry Stebbings {#Harry-Stebbings}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Fondateur de 20VC
+
+- **dirige** → [[kb/_entites-mineures#20VC\|20VC]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
 ### Helen Russell {#Helen-Russell}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2524,6 +2534,17 @@
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
 
+### Pierre de la Grand'rive {#Pierre-de-la-Grand'rive}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Cofondateur/directeur exécutif de Delos (École Polytechnique X16) ; nom légal Dupuy de la Grand'rive ; revendique « 1 M$ d'ARR en quelques jours » pour Workers
+
+- **a_créé** → [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#1-M$-d'ARR-en-quelques-jours-pour-le-produit-Workers-(auto-déclaré,-non-audité,-≠-ARR-total)\|1 M$ d'ARR en quelques jours pour le produit Workers (auto-déclaré, non audité, ≠ ARR total)]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
 ### Prasad Borole {#Prasad-Borole}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3088,6 +3109,16 @@
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
+### Thibaut de la Grand'rive {#Thibaut-de-la-Grand'rive}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur/directeur commercial-Président de Delos (IÉSEG) ; annonce en déc. 2025 vouloir lever une Série A de plusieurs dizaines de M€ d'ici mars 2026
+
+- **a_créé** → [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
 ### Thierry Derouet {#Thierry-Derouet}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3412,7 +3443,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (271)
+## ORGANISATION (273)
 
 ### 10x {#10x}
 
@@ -3433,6 +3464,18 @@
 - **statut adoption** : Adoptant MCP-UI (provider)
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]]
+
+### 20VC {#20VC}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Fonds de VC (400 M$, tickets seed 100 k–3 M$) dirigé par Harry Stebbings ; lead de l'amorçage de 2,5 M€ de Delos (avril 2025)
+
+- **collabore_avec** → [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION) — 0.92
+
+- [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] **dirige** → 20VC — 0.95
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
 ### 72andSunny {#72andSunny}
 
@@ -4634,6 +4677,14 @@
 - **publie** → [[kb/_entites-mineures#données-adoption-agents\|données adoption agents]] (DOCUMENT) — 0.90
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption Status & ROI: Trends from the Ground]]
+
+### Kima Ventures {#Kima-Ventures}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **rôle** : Fonds de Xavier Niel, coïnvestisseur de l'amorçage Delos (avec Inovia Capital et Plug and Play)
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
 ### Kodak {#Kodak}
 
@@ -6149,7 +6200,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (523)
+## TECHNOLOGIE (524)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10623,6 +10674,16 @@
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
+### Workers {#Workers}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Produit Delos lancé ~juin 2026 ; objet de l'unique donnée d'ARR disponible (« 1 M$ en quelques jours », auto-déclarée, non auditée)
+
+- [[kb/Delos-Intelligence\|Delos Intelligence]] **publie** → Workers — 0.85
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
 ### Workers AI {#Workers-AI}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11465,7 +11526,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (789)
+## CONCEPT (790)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18146,6 +18207,14 @@
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
+### souveraineté (Delos) {#souveraineté-(Delos)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **état** : Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+
 ### souveraineté numérique {#souveraineté-numérique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18739,7 +18808,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (348)
+## METHODOLOGIE (349)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20324,6 +20393,14 @@
 - **structure** : Situation, Task, Action, Result
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts]]
+
+### SaaS à crédits {#SaaS-à-crédits}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis)
+
+**Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
 ### Self-improving coding agent {#Self-improving-coding-agent}
 

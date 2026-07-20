@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 813 entités de type CONCEPT
+> 814 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -750,6 +750,7 @@
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
 - [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] — description: Réduction de la dépendance aux outils IA américains (2 occ., 2 fiches)

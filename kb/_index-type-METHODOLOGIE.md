@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 385 entités de type METHODOLOGIE
+> 386 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -186,6 +186,7 @@
 - [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev en 5 étapes (Plan, Orchestrate, Code, Review, Operate) où agents et humains s'associent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] — définition: Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] — définition: Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Self-improving-coding-agent\|Self-improving coding agent]] — niveau: Intermediate — agentic loops + memory hierarchy + reflection mechanism + sandboxing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Semantic-Data-Products\|Semantic Data Products]] — catégorie: Approche données comme actif valorisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Senior-Engineer-benchmark\|Senior Engineer benchmark]] — définition: Benchmark codebase rewrite — GPT-5.5 score 62/100 vs humain 80-90s, preuve quantitative que le modèle progresse sans dépasser l'humain (1 occ., 1 fiches)

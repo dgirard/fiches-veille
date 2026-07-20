@@ -1,9 +1,10 @@
 # Index — ORGANISATION
 
-> 354 entités de type ORGANISATION
+> 357 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#20VC\|20VC]] — rôle: Fonds de VC (400 M$, tickets seed 100 k–3 M$) dirigé par Harry Stebbings ; lead de l'amorçage de 2,5 M€ de Delos (avril 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#72andSunny\|72andSunny]] — description: Cas étude Mandese — agence ayant shifted to modular product menus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] — plateforme: X (Twitter) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] — secteur: Agence de la transition écologique française, partenaire de Mistral pour l'ACV des modèles (1 occ., 1 fiches)
@@ -94,6 +95,7 @@
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] — rôle: partenaire mentorat (1 occ., 1 fiches)
 - [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] — secteur: Conseil / Audit (1 occ., 1 fiches)
+- [[kb/Delos-Intelligence\|Delos Intelligence]] — profil: Startup française d'IA générative B2B (delos.so), SAS immatriculée le 02/07/2023 (RCS Paris 977 575 612), siège Paris ; plateforme d'orchestration multi-modèles à crédits ; 200+ entreprises clientes (1 occ., 1 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] — secteur: Gouvernement américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] — secteur: Plateforme éducation design Meng To (designcode.io) en refonte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
@@ -160,6 +162,7 @@
 - [[kb/_entites-mineures#Inworld\|Inworld]] — secteur: IA vocale / TTS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Irregular\|Irregular]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] — rôle: Fonds de Xavier Niel, coïnvestisseur de l'amorçage Delos (avec Inovia Capital et Plug and Play) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] — valorisation actuelle: 500 millions de dollars (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle (2 occ., 2 fiches)
 - [[kb/LVMH\|LVMH]] — profil: ~80 Md€ CA, 75 maisons, 100+ pays ; SI multicloud régionalisé (1 occ., 1 fiches)

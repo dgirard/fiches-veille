@@ -1,6 +1,6 @@
 # Scaleway
 
-> **Type** : ORGANISATION | 16 relations | 2 fiches sources
+> **Type** : ORGANISATION | 17 relations | 2 fiches sources
 
 ## Attributs
 
@@ -57,6 +57,7 @@
 - [[kb/ZML\|ZML]] **collabore_avec** → Scaleway — 0.90
 - [[kb/_entites-mineures#France-Télévisions\|France Télévisions]] **utilise** → Scaleway — 0.90
 - [[kb/LVMH\|LVMH]] **utilise** → Scaleway — 0.88
+- [[kb/Delos-Intelligence\|Delos Intelligence]] **utilise** → Scaleway — 0.85
 
 ## Fiches sources
 

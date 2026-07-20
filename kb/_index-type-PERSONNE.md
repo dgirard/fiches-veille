@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 453 entités de type PERSONNE
+> 456 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -178,6 +178,7 @@
 - [[kb/_entites-mineures#Harley-Finkelstein\|Harley Finkelstein]] — rôle: Président de Shopify (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] — rôle: CEO LangChain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] — rôle: Auteur principal, développeur Gadget (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Harry-Stebbings\|Harry Stebbings]] — rôle: Fondateur de 20VC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] — rôle: CHRO HubSpot (ex-CHRO Rivian) (1 occ., 1 fiches)
 - [[kb/Hryhorii-Tatsyi\|Hryhorii Tatsyi]] — rôle: CTO Raiffeisen Bank Ukraine, auteur Medium @milhibisidek, témoin organisationnel banque européenne régulée 12 mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] — rôle: Co-créateur MCP-UI, Monday.com (2 occ., 2 fiches)
@@ -339,6 +340,7 @@
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] — rôle: Orange Fellow, VP Cloud & Software Engineering (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] — rôle: Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] — rôle: auteur, chroniqueur IT francophone (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] — rôle: Cofondateur/directeur exécutif de Delos (École Polytechnique X16) ; nom légal Dupuy de la Grand'rive ; revendique « 1 M$ d'ARR en quelques jours » pour Workers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prasad-Borole\|Prasad Borole]] — rôle: Staff Software Engineer chez Uber, co-auteur (1 occ., 1 fiches)
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] — rôle: Co-fondateur et ex-CTO de Rippling ($16B+), fondateur et CEO de Vorflux AI, #1 coder en Inde (revendiqué) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
@@ -414,6 +416,7 @@
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] — rôle: Lead frontier evaluations OpenAI, responsable GDPVal (1 occ., 1 fiches)
 - [[kb/Thariq\|Thariq]] — rôle: Ingénieur Anthropic, expert Claude Code (1 occ., 1 fiches)
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] — rôle: Équipe Claude Code (intervenant Fireside Chat AIE) (4 occ., 4 fiches)
+- [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] — rôle: Cofondateur/directeur commercial-Président de Delos (IÉSEG) ; annonce en déc. 2025 vouloir lever une Série A de plusieurs dizaines de M€ d'ici mars 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] — rôle: Patron de Mathieu Grymonprez (a suivi 6 h de cours IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)
