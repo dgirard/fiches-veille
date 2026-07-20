@@ -69,7 +69,7 @@
 - [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] — rôle: Distinguished Engineer, experte IA-assisted delivery chez Thoughtworks (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Bob-Martin\|Bob Martin]] — rôle: Évangéliste agile, auteur Clean Code (1 occ., 1 fiches)
 - [[kb/Bob-Sternfels\|Bob Sternfels]] — rôle: Managing Partner Global McKinsey & Company depuis 2021, leader voix industrie consulting top-tier sur transformation IA (1 occ., 1 fiches)
-- [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (10 occ., 9 fiches)
+- [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (11 occ., 10 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] — période: Ve siècle av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] — rôle: Chief Information Officer de Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] — rôle: Lead data intelligence and analytics practice, The Futurum Group (1 occ., 1 fiches)

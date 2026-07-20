@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 814 entités de type CONCEPT
+> 821 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -363,6 +363,7 @@
 - [[kb/_entites-mineures#Question-forte-vs-faible\|Question forte vs faible]] — exemple: Faible : "What are the trends?" / Forte : "Where does pricing feel tolerated rather than embraced?" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] — définition: Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RGPD\|RGPD]] — catégorie: Règlement européen protection données (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] — principe: Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] — définition: Métaphore Williams — la dynamique billable hours conduit à une course descendante zero-sum entre agence (rewarded for more hours) et client (incentivized to minimize) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] — définition: Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raw-signals\|Raw signals]] — définition: Sources non polies (avis utilisateurs, documentation, transcripts) priorisées sur les rapports synthétisés (1 occ., 1 fiches)
@@ -605,6 +606,7 @@
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] — définition: Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] — liste: Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
+- [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] — conditions: Zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] — outils: Suivi usage, contrôles budget, optimisation modèles, mise en cache (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] — définition: Contrainte limitante qui, avec l'IA, se déplace de l'exécution vers l'amont (vision/décision) (1 occ., 1 fiches)
@@ -815,4 +817,9 @@
 - [[kb/_entites-mineures#économie-des-créateurs\|économie des créateurs]] — modèles: publicité, sponsoring, cours, Patreon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écosystème-frontière\|écosystème frontière]] — définition: Diffusion large de la valeur IA à chaque entreprise, secteur et pays (1 occ., 1 fiches)
 - [[kb/_entites-mineures#érosion-du-pipeline-junior\|érosion du pipeline junior]] — risque: Automatiser les tâches fondatrices plus vite que la refonte des rôles juniors rétrécit le vivier de seniors (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étape-0-Gated\|étape 0 Gated]] — caractérisation: 0 agent ; accès IA verrouillé/process-heavy, modèles anciens, pas de gouvernance MCP ni d'infra d'hébergement du code Claude ; goulet = sécurité/approbations legacy + obsession cost-per-token ; produit : Claude.ai chat (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étape-1-Assisted\|étape 1 Assisted]] — caractérisation: ~1 agent ; « vous + un agent » (pair programming supervisé), sessions une à une, travail synchrone ; goulet = votre attention/relecture (faible confiance, pas d'auto-vérification) ; Plan mode, Claude Code Desktop/CLI/IDE (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étape-2-Parallel\|étape 2 Parallel]] — caractérisation: ~10 agents ; rôle = orchestrateur de 5-10 agents sur worktrees, auto-vérification (tests/build/lint/security), Auto mode + revues par défaut, relecture de diffs finaux ; goulet = la relecture des flux multiples (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étape-3-Supervised-autonomy\|étape 3 Supervised autonomy]] — caractérisation: ~100 agents ; rôle = manager de managers (arbre org), Claude écrit presque tout, maintenance en continu en fond ; goulet = confiance dans la boucle + débit décisionnel + efficacité des tokens (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étape-4-AI-native\|étape 4 AI-native]] — caractérisation: ~1000+ agents ; rôle = VP pilotant par l'intention, boucle fermée où Claude lance la plupart des agents, supervision par exception ; goulet = identifier/automatiser le travail à l'échelle + garde-fous par type ; Claude Agent SDK (1 occ., 1 fiches)
 - [[kb/_entites-mineures#évolution-Genèse-Marchandise\|évolution Genèse-Marchandise]] — étapes: Genèse → Sur mesure → Produit → Marchandise (1 occ., 1 fiches)

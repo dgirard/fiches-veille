@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 650 entités de type TECHNOLOGIE
+> 652 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -80,6 +80,7 @@
 - [[kb/_entites-mineures#Augment-Remote-Agent\|Augment Remote Agent]] — rôle: Agent distant ayant permis translittération Python→Rust (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aura\|Aura]] — catégorie: Plateforme génération design agentique avec gallery design.md + remix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AuthorSocialgraphFilter\|AuthorSocialgraphFilter]] — rôle: Filtre pre-scoring qui exclut posts d'auteurs bloqués/muted par viewer **ET** posts où l'auteur bloque le viewer (bidirectionnel, incluant auteur cité du quote tweet) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Auto-mode\|Auto mode]] — rôle: Mode qui exécute sans prompts de permission bloquants ; toujours actif dès l'étape 2 ; classifier ajustable selon l'usage de l'équipe (étape 3) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Auto-caching\|Auto-caching]] — description: Paramètre unique cache_control ephemeral au niveau requête (2 occ., 1 fiches)
 - [[kb/AutoGen\|AutoGen]] — catégorie: Framework multi-agents Microsoft (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Azure-AI-Agent-Service\|Azure AI Agent Service]] — éditeur: Microsoft (1 occ., 1 fiches)
@@ -107,7 +108,7 @@
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (2 occ., 2 fiches)
+- [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (54 occ., 48 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
@@ -648,6 +649,7 @@
 - [[kb/_entites-mineures#use-cache\|use cache]] — catégorie: Nouvelle API Next.js 16 absente des données d'entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] — catégorie: Framework d'inférence LLM (2 occ., 2 fiches)
 - [[kb/_entites-mineures#window.openai\|window.openai]] — catégorie: Objet injecté dans iframe par OpenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#worktree-isolation\|worktree isolation]] — rôle: Isolation de chaque agent sur son propre worktree/git checkout pour orchestrer en parallèle sans collision (étapes 2-3) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#x-algorithm\|x-algorithm]] — catégorie: Algorithme For You feed de X publié en open-source sous `xai-org/x-algorithm` le 15 mai 2026, ~4 composants Rust+Python/JAX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#x402\|x402]] — description: Protocole paiement agentique par Coinbase, basé sur HTTP 402 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#~-.claude-skills\|~/.claude/skills]] — type: Répertoire d'installation locale des skills (1 occ., 1 fiches)

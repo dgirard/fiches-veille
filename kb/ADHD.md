@@ -47,7 +47,7 @@
   - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
-- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE) — 0.90, STATIQUE
+- [[kb/Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 
 ## Relations (comme objet)

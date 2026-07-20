@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 101 relations | 37 fiches sources
+> **Type** : ORGANISATION | 102 relations | 37 fiches sources
 
 ## Attributs
 
@@ -109,6 +109,11 @@
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - « règlement copyright de 1,5 Md$ (~500 000 titres, ≥3 000 $/œuvre) » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### observé_dans
+
+- « étape 3 (Supervised autonomy), en route vers l'étape 4 » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
 ### permet
 

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 386 entités de type METHODOLOGIE
+> 388 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -202,6 +202,7 @@
 - [[kb/_entites-mineures#Spec-driven-development\|Spec-driven development]] — catégorie: Workflow de développement AI Native (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sprint-contract\|Sprint contract]] — définition: Generator et evaluator négocient la condition de "done" avant que le code soit écrit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stack-orchestré-(Perplexity-→-Claude-→-ChatGPT-→-Multi-agent)\|Stack orchestré (Perplexity → Claude → ChatGPT → Multi-agent)]] — description: Séquence d'outils par phase : expansion → corpus → structuration → validation (1 occ., 1 fiches)
+- [[kb/Steps-of-AI-Adoption\|Steps of AI Adoption]] — définition: Modèle de maturité en 5 étapes (0→4) de l'adoption de l'IA agentique par une équipe d'ingénierie ; matrice 5 colonnes (nb d'agents, à quoi ça ressemble, goulet d'étranglement, produits, garde-fous) ; progression = casser le goulet suivant + bâtir les garde-fous suivants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Story-Points\|Story Points]] — catégorie: Système de rémunération à la performance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stress-testing-(Pawlowski)\|Stress-testing (Pawlowski)]] — description: Questions adversariales systématiques : ce qui invalidirait, hypothèses faibles, ce que disputeraient des compétiteurs sceptiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sub-agents-maker-checker\|Sub-agents maker-checker]] — fonction: Vérificateur adversarial gardant le travail avant revue humaine (1 occ., 1 fiches)
@@ -259,6 +260,7 @@
 - [[kb/augmented-coding\|augmented coding]] — définition: Codage assisté IA avec priorité qualité, tests et couverture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] — outil_associé: GitHub Copilot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-d'apprentissage\|boucle d'apprentissage]] — définition: Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boucle-d'auto-vérification\|boucle d'auto-vérification]] — définition: Boucle de confiance donnée à Claude (tests + build + lint + e2e sur un vrai environnement de dev) ; condition de passage de l'étape 1 à l'étape 2 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] — rôle: Mécanisme d'assurance qualité par consensus de pairs et vérification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] — définition: Speed (PR throughput), Efficiency (heures gagnées), Quality (change failure rate), Satisfaction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] — méthode: Planter des bugs connus, mesurer recall et faux positifs de la stack (1 occ., 1 fiches)

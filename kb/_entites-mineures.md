@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2421 entités avec moins de 3 triples/fiches
+> 2430 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (345)
 
@@ -6200,7 +6200,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (524)
+## TECHNOLOGIE (525)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6825,6 +6825,16 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
+### Auto mode {#Auto-mode}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mode qui exécute sans prompts de permission bloquants ; toujours actif dès l'étape 2 ; classifier ajustable selon l'usage de l'équipe (étape 3)
+
+- **réduit** → [[kb/_entites-mineures#les-interruptions-par-prompts-de-permission-bloquants\|les interruptions par prompts de permission bloquants]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
 ### Auto-caching {#Auto-caching}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -7013,16 +7023,6 @@
 - **surpasse** → [[kb/_entites-mineures#autres-modèles-en-écriture\|autres modèles en écriture]] (TECHNOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
-
-### Claude Agent SDK {#Claude-Agent-SDK}
-
-**Type** : TECHNOLOGIE | 1 relations | 2 fiches
-
-- **catégorie** : SDK d'agents d'Anthropic
-
-- [[kb/ADHD\|ADHD]] **utilise** → Claude Agent SDK — 0.90
-
-**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]], [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
 ### Claude Cowork {#Claude-Cowork}
 
@@ -11488,6 +11488,16 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
+### worktree isolation {#worktree-isolation}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Isolation de chaque agent sur son propre worktree/git checkout pour orchestrer en parallèle sans collision (étapes 2-3)
+
+- [[kb/_entites-mineures#étape-2-Parallel\|étape 2 Parallel]] **utilise** → worktree isolation — 0.90
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
 ### x-algorithm {#x-algorithm}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11526,7 +11536,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (790)
+## CONCEPT (797)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14623,6 +14633,14 @@
 
 **Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?]]
 
+### ROI de l'IA (heures-ingénieur) {#ROI-de-l'IA-(heures-ingénieur)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité)
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
 ### Race to the bottom {#Race-to-the-bottom}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16852,6 +16870,14 @@
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 
+### garde-fou (guardrail) {#garde-fou-(guardrail)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
 ### gate de sortie de prosecution {#gate-de-sortie-de-prosecution}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18796,6 +18822,53 @@
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
 
+### étape 0 Gated {#étape-0-Gated}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **caractérisation** : 0 agent ; accès IA verrouillé/process-heavy, modèles anciens, pas de gouvernance MCP ni d'infra d'hébergement du code Claude ; goulet = sécurité/approbations legacy + obsession cost-per-token ; produit : Claude.ai chat
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
+### étape 1 Assisted {#étape-1-Assisted}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **caractérisation** : ~1 agent ; « vous + un agent » (pair programming supervisé), sessions une à une, travail synchrone ; goulet = votre attention/relecture (faible confiance, pas d'auto-vérification) ; Plan mode, Claude Code Desktop/CLI/IDE
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
+### étape 2 Parallel {#étape-2-Parallel}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **caractérisation** : ~10 agents ; rôle = orchestrateur de 5-10 agents sur worktrees, auto-vérification (tests/build/lint/security), Auto mode + revues par défaut, relecture de diffs finaux ; goulet = la relecture des flux multiples
+
+- **utilise** → [[kb/_entites-mineures#worktree-isolation\|worktree isolation]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
+### étape 3 Supervised autonomy {#étape-3-Supervised-autonomy}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **caractérisation** : ~100 agents ; rôle = manager de managers (arbre org), Claude écrit presque tout, maintenance en continu en fond ; goulet = confiance dans la boucle + débit décisionnel + efficacité des tokens
+
+- **utilise** → [[kb/_entites-mineures#loop,-batch,-goal,-Routines-et-dynamic-workflows\|/loop, /batch, /goal, Routines et dynamic workflows]] (TECHNOLOGIE) — 0.90
+- **utilise** → [[kb/_entites-mineures#CLAUDE.md-et-Skills-pour-encoder-les-standards\|CLAUDE.md et Skills pour encoder les standards]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
+### étape 4 AI-native {#étape-4-AI-native}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **caractérisation** : ~1000+ agents ; rôle = VP pilotant par l'intention, boucle fermée où Claude lance la plupart des agents, supervision par exception ; goulet = identifier/automatiser le travail à l'échelle + garde-fous par type ; Claude Agent SDK
+
+- **utilise** → [[kb/Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
 ### évolution Genèse-Marchandise {#évolution-Genèse-Marchandise}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -18808,7 +18881,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (349)
+## METHODOLOGIE (350)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -21028,6 +21101,14 @@
 - **est_instance_de** → [[kb/_entites-mineures#IP-de-la-firme\|IP de la firme]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+
+### boucle d'auto-vérification {#boucle-d'auto-vérification}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Boucle de confiance donnée à Claude (tests + build + lint + e2e sur un vrai environnement de dev) ; condition de passage de l'étape 1 à l'étape 2
+
+**Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
 ### boucles de vérification multi-agents {#boucles-de-vérification-multi-agents}
 
