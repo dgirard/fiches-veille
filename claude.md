@@ -15,9 +15,11 @@ veille/
 ├── knowledge-base.md           # Dashboard KB généré (+ ligne manifest)
 ├── kb/                         # Pages entités générées (wikilinks Obsidian)
 ├── kb-*.md                     # KB thématiques curées à la main (context-engineering, …)
+├── CONCEPTS.md                 # Vocabulaire de domaine partagé (fiche, médaillon, doctor, KB curée vs générée)
 ├── fiches/YYYY-MM/*.md         # Bronze : fiches par mois de PUBLICATION
 ├── scripts/                    # Outils stdlib Python + tests
 ├── docs/reference/             # Références versionnées (ontologie-kg, workflow-batch)
+├── docs/solutions/             # Solutions documentées de problèmes passés (bugs, conventions, patterns), par catégorie + frontmatter YAML (module, tags, problem_type) — pertinent avant d'implémenter/déboguer
 ├── raw-data/                   # Contenu brut (gitignoré)
 └── gold/                       # Livrables générés (gitignoré)
 ```
