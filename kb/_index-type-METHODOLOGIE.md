@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 382 entités de type METHODOLOGIE
+> 385 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -57,6 +57,7 @@
 - [[kb/_entites-mineures#Boucle-de-feedback-externe\|Boucle de feedback externe]] — échelle: ~jours ; developer vision ↔ external feedback (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brainstorms-&-prototypes\|Brainstorms & prototypes]] — usage: Réagir tôt à des directions (ex. 4 designs HTML) pour capter les unknown knowns (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CDLC\|CDLC]] — alias: Context Development Lifecycle (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Chain-of-Thought\|Chain-of-Thought]] (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Champions-IA\|Champions IA]] — description: ~100 pairs formateurs issus des métiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Change-Failure-Rate\|Change Failure Rate]] — catégorie: Métrique core ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-directives-agent-PROJ-AI\|Cinq directives agent PROJ-AI]] — détail: (1) ingest doctrine, (2) cite sources, (3) propose DR, (4) never override doctrine, (5) end-of-session summaries (1 occ., 1 fiches)
@@ -221,6 +222,7 @@
 - [[kb/_entites-mineures#Token-consumption-performance-metric\|Token consumption performance metric]] — description: Pratique d'entreprise (ex: Meta avec lines of AI code) qui incite à maximiser l'usage IA — source d'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-max\|Token-max]] — définition: Classement interne d'entreprise valorisant les plus gros utilisateurs d'IA — source d'injonction et d'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tool-search\|Tool search]] — description: Stubs légers avec defer_loading pour maintenir préfixe stable (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tree-of-Thought\|Tree-of-Thought]] — limite: Branches multiples mais contexte unique partagé — l'ancrage persiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Triade-ingrédients-recette-plat-fini\|Triade ingrédients/recette/plat fini]] — catégorie: Cadre Meng To : skills/design.md/HTML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trois-critères-armes-IA\|Trois critères armes IA]] — définition: Critères léoniens de discernement (n. 199) : (1) responsabilité personnelle traçable, (2) refus de raccourcir le délai du jugement moral, (3) identification et protection des civils (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trois-scénarios-(DORA)\|Trois scénarios (DORA)]] — définition: Conservative (value × 0.8, cost × 1.5) / Realistic (1.0/1.0) / Optimistic (value × 1.2, cost × 0.8) — modélisation incertitude explicite pour CFO (1 occ., 1 fiches)
@@ -296,6 +298,7 @@
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] — définition: Always allow / Ask for approval / Disable, classifieur LLM, défaut deny (1 occ., 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] — catégorie: Skill d'ingénierie — conception en amont, DDD-flavored (2 occ., 1 fiches)
+- [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] — définition: Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K) (1 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intent-engineering\|intent engineering]] — rôle: Traduire des objectifs métier ambigus en spécifications testables pour les agents (1 occ., 1 fiches)

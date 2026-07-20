@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 103 relations | 47 fiches sources
+> **Type** : TECHNOLOGIE | 104 relations | 48 fiches sources
 
 ## Attributs
 
@@ -232,6 +232,7 @@
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Claude Code — 0.96
 - [[kb/Cursor-technologie\|Cursor]] **converge_avec** → Claude Code — 0.95
 - [[kb/Boris-Cherny\|Boris Cherny]] **dirige** → Claude Code — 0.95
+- [[kb/ADHD\|ADHD]] **s_applique_à** → Claude Code — 0.95
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Co-work\|Co-work]] **est_basé_sur** → Claude Code — 0.94
@@ -248,6 +249,7 @@
 
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+- [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]

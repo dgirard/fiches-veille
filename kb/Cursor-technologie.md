@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 15 relations | 12 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 13 fiches sources
 
 ## Attributs
 
@@ -50,12 +50,14 @@
 - [[kb/Kiro\|Kiro]] **concurrence** → Cursor — 0.97
 - [[kb/Linear\|Linear]] **utilise** → Cursor — 0.97
 - [[kb/Weave\|Weave]] **utilise** → Cursor — 0.92
+- [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Cursor — 0.90
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] **utilise** → Cursor — 0.87
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **s_oppose_à** → Cursor — 0.80
 
 ## Fiches sources
 
+- [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]

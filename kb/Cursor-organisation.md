@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : ORGANISATION | 15 relations | 1 fiches sources
+> **Type** : ORGANISATION | 16 relations | 1 fiches sources
 
 ## Attributs
 
@@ -49,6 +49,7 @@
 - [[kb/Kiro\|Kiro]] **concurrence** → Cursor — 0.97
 - [[kb/Linear\|Linear]] **utilise** → Cursor — 0.97
 - [[kb/Weave\|Weave]] **utilise** → Cursor — 0.92
+- [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Cursor — 0.90
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] **utilise** → Cursor — 0.87
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **s_oppose_à** → Cursor — 0.80

@@ -1,6 +1,6 @@
 # skills
 
-> **Type** : CONCEPT | 11 relations | 2 fiches sources
+> **Type** : CONCEPT | 12 relations | 2 fiches sources
 
 ## Attributs
 
@@ -55,6 +55,7 @@
 
 - [[kb/AGENTS-md\|AGENTS.md]] **surpasse** → skills — 0.99
 - [[kb/Superpowers\|Superpowers]] **utilise** → skills — 0.97
+- [[kb/ADHD\|ADHD]] **est_instance_de** → skills — 0.95
 
 ## Fiches sources
 

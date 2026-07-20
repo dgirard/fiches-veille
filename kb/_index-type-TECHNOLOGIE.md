@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 647 entités de type TECHNOLOGIE
+> 649 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -16,6 +16,7 @@
 - [[kb/_entites-mineures#@deepnote-convert\|@deepnote/convert]] — type: CLI tool + API Node.js (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] — définition: Benchmark mesurant 4 jobs : investment banking associate, management consultant, Big Law associate, primary care physician (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] — catégorie: Agent-to-Agent standard émergent (référencé sur GitHub) pour les communications inter-agents (1 occ., 1 fiches)
+- [[kb/ADHD\|ADHD]] — catégorie: Skill d'idéation divergente pour agents de codage (2 occ., 1 fiches)
 - [[kb/ADLC-Toolkit\|ADLC Toolkit]] — catégorie: Suite open-source de 18 outils npx zéro-dépendance pour le cycle ADLC (2 occ., 1 fiches)
 - [[kb/AGENTS-md\|AGENTS.md]] — catégorie: Fichier de contexte persistant pour agents IA (4 occ., 3 fiches)
 - [[kb/AGI-technologie\|AGI]] — définition: IA surpassant humains dans toutes tâches (1 occ., 1 fiches)
@@ -106,8 +107,8 @@
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: Harness-as-a-Service Anthropic (1 occ., 1 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (53 occ., 47 fiches)
+- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (2 occ., 2 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (54 occ., 48 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
@@ -149,7 +150,7 @@
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
-- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (12 occ., 12 fiches)
+- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (13 occ., 13 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DFlash\|DFlash]] — perf: Décodage spéculatif (block diffusion) ; ~6,17× sur Qwen3-8B (recherche), « jusqu'à 10× » annoncé (arXiv:2602.06036) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] — catégorie: Workstation IA personnelle ARM64 (1 occ., 1 fiches)
@@ -623,6 +624,7 @@
 - [[kb/_entites-mineures#pypdf\|pypdf]] — catégorie: Bibliothèque Python de manipulation de PDF (1 occ., 1 fiches)
 - [[kb/_entites-mineures#remote-DOM\|remote DOM]] — rôle: Séparation structure/rendering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#repo-profile-cache\|repo-profile cache]] — nature: Connaissance éphémère dérivée 1×/commit, partagée par 9 skills (1 occ., 1 fiches)
+- [[kb/_entites-mineures#repowire\|repowire]] — catégorie: Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] — description: Skill de résolution feedback PR avec clustering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#semantic-layer\|semantic layer]] — rôle: Définitions compilées de métriques/dimensions, source de confiance n°1 (1 occ., 1 fiches)
@@ -633,7 +635,7 @@
 - [[kb/_entites-mineures#skill-recall\|skill /recall]] — catégorie: Skill Claude Code pour chargement contexte via QMD (2 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-files\|skill files]] — quantité: ~23, un par étape éditoriale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-creator\|skill-creator]] — fonction: Skill méta pour créer d'autres skills interactivement (1 occ., 1 fiches)
-- [[kb/skills-technologie\|skills]] — catégorie: Standard ouvert de packaging de connaissances agent (1 occ., 1 fiches)
+- [[kb/skills-technologie\|skills]] — catégorie: Standard ouvert de packaging de connaissances agent (2 occ., 2 fiches)
 - [[kb/_entites-mineures#slash-commands\|slash commands]] — usage: Automatisation de tâches récurrentes dans Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] — rôle: Standard open source étendu pour la transparence des coûts IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#stack-MCP-minimum\|stack MCP minimum]] — composition: GSC (mcp-gsc 500+⭐) + Ahrefs officiel (98⭐) + GA4 (1 occ., 1 fiches)

@@ -1,26 +1,26 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=8acdc762898747d8606ef71f1182ecd129e51edbb69b9887d09d583f8f26ceba fiches=344 -->
-> 344 fiches | 2798 entités | 4936 triples | Généré le 2026-07-19
+<!-- manifest: sha256=7a37cf9675af6af2b800a3e43715288545e2f8a086e427c537a7b8d62d941e42 fiches=345 -->
+> 345 fiches | 2806 entités | 4950 triples | Généré le 2026-07-20
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (452)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (453)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (354)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (647)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (811)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (382)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (649)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (813)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (385)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (43)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (104)
-- [[kb/_entites-mineures\|Entités mineures]] (2398)
+- [[kb/_entites-mineures\|Entités mineures]] (2405)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
-| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 103 | 47 |
+| [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 104 | 48 |
 | [[kb/Anthropic\|Anthropic]] | ORGANISATION | 101 | 37 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 57 | 13 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 49 | 21 |
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 589
+- **utilise** : 593
 - **affirme_que** : 543
 - **permet** : 444
-- **mesure** : 362
-- **a_créé** : 320
+- **mesure** : 363
+- **a_créé** : 321
 - **publie** : 289
-- **recommande** : 216
+- **recommande** : 217
 - **est_basé_sur** : 199
 - **améliore** : 195
 - **réduit** : 186
-- **s_applique_à** : 183
-- **est_instance_de** : 177
+- **s_applique_à** : 185
+- **est_instance_de** : 178
 - **fait_partie_de** : 160
 - **remplace** : 137
 - **s_oppose_à** : 134
 
 ### Distribution par type
 
-- **PERSONNE** : 452 (16.2%)
-- **ORGANISATION** : 354 (12.7%)
-- **TECHNOLOGIE** : 647 (23.1%)
-- **CONCEPT** : 811 (29.0%)
-- **METHODOLOGIE** : 382 (13.7%)
+- **PERSONNE** : 453 (16.1%)
+- **ORGANISATION** : 354 (12.6%)
+- **TECHNOLOGIE** : 649 (23.1%)
+- **CONCEPT** : 813 (29.0%)
+- **METHODOLOGIE** : 385 (13.7%)
 - **EVENEMENT** : 43 (1.5%)
 - **LIEU** : 5 (0.2%)
 - **DOCUMENT** : 104 (3.7%)
 
 ### Déduplication
 
-- **Triples** : 5016 → 4936 (80 doublons)
-- **Entités** : 3617 → 2798 (819 doublons)
+- **Triples** : 5030 → 4950 (80 doublons)
+- **Entités** : 3630 → 2806 (824 doublons)

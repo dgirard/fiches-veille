@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 811 entités de type CONCEPT
+> 813 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -538,6 +538,7 @@
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] — rôle: Différenciateur clé de Genie 3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contrôles-à-l'export-US\|contrôles à l'export US]] — rôle: Selon Ball, la pénurie de compute d'inférence qu'ils imposent à la Chine fait de la stratégie open-weights chinoise un sous-produit involontaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#convergence-prématurée\|convergence prématurée]] — définition: Ancrage d'un LLM sur sa première idée, persistant même en arbre quand les branches partagent un contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] — statut: Défi principal des compounding teams (1 occ., 1 fiches)
 - [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] — définition: Distinction Sankar : copilot = approbation humaine à chaque tour ; autopilot = l'agent gère la route entière. Les modèles sont prêts pour l'autopilot, les outils non (1 occ., 1 fiches)
 - [[kb/_entites-mineures#corriger-le-processus,-pas-le-code\|corriger le processus, pas le code]] — principe: Face à un bug/anti-pattern récurrent, éditer le workflow/prompt qui génère le code plutôt que corriger le fichier à la main (1 occ., 1 fiches)
@@ -770,6 +771,7 @@
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] — définition: Source canonique de vérité, pas une catégorie produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
+- [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] — domaine: Sciences des organisations, management (1 occ., 1 fiches)

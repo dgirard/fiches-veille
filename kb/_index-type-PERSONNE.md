@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 452 entités de type PERSONNE
+> 453 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -424,6 +424,7 @@
 - [[kb/Tracey-Franklin\|Tracey Franklin]] — rôle: Chief People and Digital Technology Officer de Moderna (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] — rôle: Mainteneur Compound Engineering (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Udit-Akhouri\|Udit Akhouri]] — rôle: Créateur d'ADHD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ursula-Lübbert-Passing-PhD\|Ursula Lübbert-Passing PhD]] — rôle: AI Value Realization Lead EMEA Google Cloud, 20 ans benchmarking + value advisory, PhD effort estimation software projects (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] — rôle: Directrice de recherche Stanford HAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vijay-Iyengar\|Vijay Iyengar]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)

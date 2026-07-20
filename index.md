@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 344 fiches | 1975-12 → 2026-07-17 | généré le 2026-07-19
+> 345 fiches | 1975-12 → 2026-07-20 | généré le 2026-07-20
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **20** [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit) · GitHub (Udit Akhouri) — ADHD, Udit Akhouri, idéation divergente parallèle
 - **17** [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55). · LinkedIn (Claude for Business) — vidéo + 55 commentaires — Boris Cherny, Cat Wu, Claude Code
 - **17** [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.) · Dean W. Ball (X) — Dean W. Ball, Dean Woodley Ball, OpenAI
 - **17** [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3 · Le Touilleur Express — The Token Manifesto, Nicolas Martignole, Le Touilleur Express
@@ -450,6 +451,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
@@ -810,6 +812,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
@@ -877,17 +880,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 344 fiches
-- **Par année** : 2026 (167) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 345 fiches
+- **Par année** : 2026 (168) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 117
+  - Agents de codage IA & Skills : 118
   - Architecture & Construction : 35
   - Transformation & Adoption : 70
   - Qualité & Sécurité : 25
   - Économie & Marché : 59
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 11
-  - Outils & Plateformes : 26
+  - Outils & Plateformes : 27
   - Recherche & Éducation : 9
   - Produits & Services : 8
   - Politique & Régulation : 12

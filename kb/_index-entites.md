@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2798 entités
+> 2806 entités
 
 ## #
 
@@ -94,6 +94,7 @@
 - [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 7 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Adeo\|Adeo]] (ORGANISATION, 1 fiches)
+- [[kb/ADHD\|ADHD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/ADLC\|ADLC]] (METHODOLOGIE, 2 fiches)
 - [[kb/ADLC-Toolkit\|ADLC Toolkit]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] (TECHNOLOGIE, 1 fiches)
@@ -529,6 +530,7 @@
 - [[kb/_entites-mineures#CERT-FR\|CERT-FR]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#CFIUS\|CFIUS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#CFO\|CFO]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Chain-of-Thought\|Chain-of-Thought]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#champ-description\|champ description]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#champions-IA\|champions IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE, 1 fiches)
@@ -573,8 +575,8 @@
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 47 fiches)
+- [[kb/_entites-mineures#Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 48 fiches)
 - [[kb/_entites-mineures#Claude-Code-Plan-Mode\|Claude Code Plan Mode]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
@@ -721,6 +723,7 @@
 - [[kb/_entites-mineures#Convergence-cognitive-orchestrator-agent-supervisor\|Convergence cognitive orchestrator / agent supervisor]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Convergence-Lattice-↔-Compound-Engineering\|Convergence Lattice ↔ Compound Engineering]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#convergence-prématurée\|convergence prématurée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Convergence-services-intellectuels-billable-→-outcome\|Convergence services intellectuels billable → outcome]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Conway's-Law\|Conway's Law]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] (TECHNOLOGIE, 1 fiches)
@@ -776,7 +779,7 @@
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#cURL\|cURL]] (ORGANISATION, 1 fiches)
 - [[kb/Cursor-organisation\|Cursor]] (ORGANISATION, 1 fiches)
-- [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE, 12 fiches)
+- [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE, 13 fiches)
 - [[kb/_entites-mineures#Cursor-for-video-editors\|Cursor for video editors]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#cursor.com\|cursor.com]] (TECHNOLOGIE, 1 fiches)
@@ -1348,6 +1351,7 @@
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#IDP-as-product\|IDP as product]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IETF-WIMSE-working-group\|IETF WIMSE working group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#iframes-sandboxées\|iframes sandboxées]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ignition-Consulting-Group\|Ignition Consulting Group]] (ORGANISATION, 1 fiches)
@@ -2167,6 +2171,7 @@
 - [[kb/Replit-Agent\|Replit Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Replit-slides\|Replit slides]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#repo-profile-cache\|repo-profile cache]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#repowire\|repowire]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] (DOCUMENT, 1 fiches)
@@ -2361,7 +2366,7 @@
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (TECHNOLOGIE, 1 fiches)
 - [[kb/skills-concept\|skills]] (CONCEPT, 2 fiches)
-- [[kb/skills-technologie\|skills]] (TECHNOLOGIE, 1 fiches)
+- [[kb/skills-technologie\|skills]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#skills-(analytics)\|skills (analytics)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Skills-Claude\|Skills Claude]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Skills-Based-Plugin-Architecture\|Skills-Based Plugin Architecture]] (TECHNOLOGIE, 1 fiches)
@@ -2503,6 +2508,7 @@
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sénèque\|Sénèque]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#séquencement-d'adoption\|séquencement d'adoption]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] (DOCUMENT, 1 fiches)
 ## T
@@ -2640,6 +2646,7 @@
 - [[kb/_entites-mineures#Transparence-du-raisonnement\|Transparence du raisonnement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Travail-invisible-(microtravailleurs)\|Travail invisible (microtravailleurs)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Tree-of-Thought\|Tree-of-Thought]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Triade-ingrédients-recette-plat-fini\|Triade ingrédients/recette/plat fini]] (METHODOLOGIE, 1 fiches)
@@ -2665,6 +2672,7 @@
 - [[kb/_entites-mineures#u-H9ejFGzpN2\|u/H9ejFGzpN2]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Uber-Engineering\|Uber Engineering]] (ORGANISATION, 1 fiches)
 - [[kb/UDA\|UDA]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Udit-Akhouri\|Udit Akhouri]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Unbook-skill\|Unbook skill]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Underclass-permanente-d'intelligence\|Underclass permanente d'intelligence]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Undifferentiated-heavy-lifting\|Undifferentiated heavy lifting]] (CONCEPT, 1 fiches)

@@ -1,6 +1,6 @@
 # skills
 
-> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 2 fiches sources
 
 ## Attributs
 
@@ -54,7 +54,9 @@
 
 - [[kb/AGENTS-md\|AGENTS.md]] **surpasse** → skills — 0.99
 - [[kb/Superpowers\|Superpowers]] **utilise** → skills — 0.97
+- [[kb/ADHD\|ADHD]] **est_instance_de** → skills — 0.95
 
 ## Fiches sources
 
+- [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]

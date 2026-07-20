@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2406 entités avec moins de 3 triples/fiches
+> 2413 entités avec moins de 3 triples/fiches
 
-## PERSONNE (341)
+## PERSONNE (342)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3156,6 +3156,16 @@
 
 **Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering: 3/31/2026]]
 
+### Udit Akhouri {#Udit-Akhouri}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Créateur d'ADHD
+
+- **a_créé** → [[kb/ADHD\|ADHD]] (TECHNOLOGIE) — 0.98
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+
 ### Ursula Lübbert-Passing PhD {#Ursula-Lübbert-Passing-PhD}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -6139,7 +6149,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (522)
+## TECHNOLOGIE (523)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6955,11 +6965,13 @@
 
 ### Claude Agent SDK {#Claude-Agent-SDK}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
-- **catégorie** : Harness-as-a-Service Anthropic
+- **catégorie** : SDK d'agents d'Anthropic
 
-**Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- [[kb/ADHD\|ADHD]] **utilise** → Claude Agent SDK — 0.90
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]], [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
 ### Claude Cowork {#Claude-Cowork}
 
@@ -11205,6 +11217,16 @@
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
+### repowire {#repowire}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313)
+
+- **utilise** → [[kb/ADHD\|ADHD]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+
 ### resolve-pr-feedback {#resolve-pr-feedback}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11443,7 +11465,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (787)
+## CONCEPT (789)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16139,6 +16161,19 @@
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]], [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 
+### convergence prématurée {#convergence-prématurée}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Ancrage d'un LLM sur sa première idée, persistant même en arbre quand les branches partagent un contexte
+
+- **observé_dans** → [[kb/_entites-mineures#Chain-of-Thought\|Chain-of-Thought]] (METHODOLOGIE) — 0.90
+- **observé_dans** → [[kb/_entites-mineures#Tree-of-Thought\|Tree-of-Thought]] (METHODOLOGIE) — 0.90
+
+- [[kb/ADHD\|ADHD]] **résout** → convergence prématurée — 0.90
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+
 ### coordination {#coordination}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18306,6 +18341,16 @@
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
 
+### séparation générateur-critique {#séparation-générateur-critique}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer
+
+- [[kb/ADHD\|ADHD]] **utilise** → séparation générateur-critique — 0.95
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+
 ### tarification des écritures de cache {#tarification-des-écritures-de-cache}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18694,7 +18739,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (345)
+## METHODOLOGIE (348)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19151,6 +19196,14 @@
 - **s_inspire_de** → [[kb/_entites-mineures#DevOps\|DevOps]] (METHODOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|The Context Development Lifecycle: Optimizing Context for AI Coding Agents]], [[fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26\|The Context Flywheel: Why the Best AI Coding Teams Will Win on Context]]
+
+### Chain-of-Thought {#Chain-of-Thought}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- [[kb/_entites-mineures#convergence-prématurée\|convergence prématurée]] **observé_dans** → Chain-of-Thought — 0.90
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 
 ### Champions IA {#Champions-IA}
 
@@ -20610,6 +20663,17 @@
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
+### Tree-of-Thought {#Tree-of-Thought}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **limite** : Branches multiples mais contexte unique partagé — l'ancrage persiste
+
+- [[kb/_entites-mineures#convergence-prématurée\|convergence prématurée]] **observé_dans** → Tree-of-Thought — 0.90
+- [[kb/ADHD\|ADHD]] **est_variante_de** → Tree-of-Thought — 0.85
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+
 ### Triade ingrédients/recette/plat fini {#Triade-ingrédients-recette-plat-fini}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -21247,6 +21311,16 @@
 - **définition** : Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP)
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### idéation divergente parallèle {#idéation-divergente-parallèle}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K)
+
+- [[kb/ADHD\|ADHD]] **utilise** → idéation divergente parallèle — 0.95
+
+**Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 
 ### ingénierie composable {#ingénierie-composable}
 
