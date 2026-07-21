@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2430 entités avec moins de 3 triples/fiches
+> 2437 entités avec moins de 3 triples/fiches
 
-## PERSONNE (345)
+## PERSONNE (344)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1423,16 +1423,6 @@
 - **travaille_chez** → [[kb/_entites-mineures#ServiceNow\|ServiceNow]] (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
-
-### Janakiram MSV {#Janakiram-MSV}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : Senior Contributor Forbes, analyste cloud et IA
-
-- **publie** → [[kb/_entites-mineures#Forbes\|Forbes]] (ORGANISATION) — 0.99
-
-**Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 
 ### Janice Manningham {#Janice-Manningham}
 
@@ -4790,12 +4780,13 @@
 
 ### Linux Foundation {#Linux-Foundation}
 
-**Type** : ORGANISATION | 2 relations | 2 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
 - **rôle** : Organisation porteuse (open standards)
 - **secteur** : Gouvernance open source
 
 - **a_créé** → [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] (ORGANISATION) — 0.95
+- **publie** → [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (TECHNOLOGIE) — 0.92
 
 - [[kb/_entites-mineures#AAIF\|AAIF]] **fait_partie_de** → Linux Foundation — 0.97
 
@@ -6200,7 +6191,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (525)
+## TECHNOLOGIE (531)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6329,6 +6320,14 @@
 - **définition** : Benchmark mesurant 4 jobs : investment banking associate, management consultant, Big Law associate, primary care physician
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### A2A {#A2A}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Protocole de découverte et communication inter-agents ; versé à la Linux Foundation par Google
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### A2A Protocol {#A2A-Protocol}
 
@@ -6592,6 +6591,17 @@
 - **permet** → [[kb/_entites-mineures#balance-unique-+-découverte-marchands\|balance unique + découverte marchands]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
+
+### Agentic AI Foundation {#Agentic-AI-Foundation}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **historique** : Fondation Linux Foundation annoncée déc. 2025 ; projets fondateurs MCP (Anthropic), goose (Block), AGENTS.md (OpenAI) ; AWS/Google/Microsoft membres platine ; A2A versé par Google
+
+- [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] **publie** → Agentic AI Foundation — 0.92
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] **fait_partie_de** → Agentic AI Foundation — 0.90
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### Agentic Commerce Protocol (ACP) {#Agentic-Commerce-Protocol-(ACP)}
 
@@ -7139,6 +7149,24 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **fait_partie_de** → Claude.ai — 0.90
 
 **Fiches** : [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
+
+### Cloud Foundry {#Cloud-Foundry}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : PaaS de référence (2011-2016) ; contrat applicatif, buildpacks, service brokers ; battu par Kubernetes, reconstruit via Korifi
+
+- **permet** → [[kb/_entites-mineures#portabilité-applicative-via-un-contrat-agnostique-du-lieu-d'exécution\|portabilité applicative via un contrat agnostique du lieu d'exécution]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
+### Cloud Native Buildpacks {#Cloud-Native-Buildpacks}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **historique** : Nés chez Heroku (2011) → projet Pivotal+Heroku (janv. 2018) → accepté CNCF (oct. 2018) ; « une idée PaaS a survécu à la plateforme qui l'a produite »
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### Cloudflare Agents SDK {#Cloudflare-Agents-SDK}
 
@@ -7875,6 +7903,18 @@
 
 **Fiches** : [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 
+### Gemini Enterprise Agent Platform {#Gemini-Enterprise-Agent-Platform}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Plateforme d'agents d'entreprise Google (retrait du nom Vertex AI à Cloud Next 2026) ; Agent Engine→Deployments, Memory Bank, Sessions, Agent Registry, Policies, Gateways
+
+- **remplace** → [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.88
+
+- [[kb/Microsoft-Foundry\|Microsoft Foundry]] **converge_avec** → Gemini Enterprise Agent Platform — 0.95
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
 ### Gemini Enterprise Web Search {#Gemini-Enterprise-Web-Search}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8551,11 +8591,12 @@
 
 ### Kubernetes {#Kubernetes}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **rôle** : Outil bas niveau utilisé par compounding teams
 
 - **mesure** → [[kb/_entites-mineures#5200-PRs-(2022-entier)\|5200 PRs (2022 entier)]] (MESURE) — 0.92
+- **a_créé** → [[kb/_entites-mineures#abstractions-(pods,-deployments,-services)-façonnant-la-pensée-de-l'industrie\|abstractions (pods, deployments, services) façonnant la pensée de l'industrie]] (AFFIRMATION) — 0.85
 
 - [[kb/compounding-teams\|compounding teams]] **utilise** → Kubernetes — 0.93
 
@@ -8627,15 +8668,17 @@
 
 ### LangSmith {#LangSmith}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Outil de traçage et debugging d'agents
+- **rôle** : Produit commercial (control plane) autour de LangGraph : déploiement, évaluation, observabilité
 
 - **permet** → [[kb/_entites-mineures#traçage-et-debugging-d'agents\|traçage et debugging d'agents]] (CONCEPT) — 0.97
 
 - [[kb/LangChain-organisation\|LangChain]] **a_créé** → LangSmith — 0.95
+- [[kb/LangGraph\|LangGraph]] **fait_partie_de** → LangSmith — 0.82
 
-**Fiches** : [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]], [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 
 ### Le Chat {#Le-Chat}
 
@@ -11051,6 +11094,16 @@
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]], [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]], [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 
+### harness export AWS {#harness-export-AWS}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Chemin d'export AWS : une commande transforme un harness configuré en code Strands (modèle, prompt, outils, mémoire, conteneur préservés), pointé vers un seul cloud
+
+- **permet** → [[kb/_entites-mineures#conversion-d'un-harness-configuré-en-code-Strands-(modèle,-prompt,-outils,-mémoire-préservés)\|conversion d'un harness configuré en code Strands (modèle, prompt, outils, mémoire préservés)]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
 ### hook PreToolUse {#hook-PreToolUse}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11536,7 +11589,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (797)
+## CONCEPT (799)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16199,6 +16252,16 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
+### contrat de portabilité agent {#contrat-de-portabilité-agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Équivalent agent du contrat applicatif PaaS : packager code+instructions+outils+mémoire+permissions+éval en une unité déployable, portable entre clouds
+
+- **réduit** → [[kb/_entites-mineures#lock-in-vis-à-vis-d'un-hyperscaler\|lock-in vis-à-vis d'un hyperscaler]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
 ### control flow is code {#control-flow-is-code}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16206,6 +16269,14 @@
 - **principe** : L'ordonnancement est déterministe ; les modèles ne fournissent que le jugement
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
+
+### control plane agent {#control-plane-agent}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **enjeu** : Couche non encore figée qui définira ce qu'est un agent, ses composants et ce qu'une équipe plateforme peut remplacer
+
+**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### contrôle par actions {#contrôle-par-actions}
 

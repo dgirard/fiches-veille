@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2827 entités
+> 2837 entités
 
 ## #
 
@@ -70,6 +70,7 @@
 ## A
 
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#A2A\|A2A]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] (DOCUMENT, 1 fiches)
 - [[kb/Aaron-Levie\|Aaron Levie]] (PERSONNE, 2 fiches)
@@ -126,6 +127,7 @@
 - [[kb/_entites-mineures#Agent2Agent\|Agent2Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent-(A2A)\|Agent2Agent (A2A)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AgentCash\|AgentCash]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#agentic-analytics-stack\|agentic analytics stack]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] (CONCEPT, 1 fiches)
@@ -240,6 +242,7 @@
 - [[kb/Amazon\|Amazon]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Amazon-Astro\|Amazon Astro]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Amazon-Bedrock\|Amazon Bedrock]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Amazon-Bedrock-AgentCore\|Amazon Bedrock AgentCore]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Amazon-Q-Code-Transformation\|Amazon Q Code Transformation]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] (ORGANISATION, 2 fiches)
@@ -608,6 +611,8 @@
 - [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Development-Act-+-package-Souveraineté\|Cloud Development Act + package Souveraineté]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Cloud-Foundry\|Cloud Foundry]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Cloud-Native-Buildpacks\|Cloud Native Buildpacks]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] (DOCUMENT, 1 fiches)
 - [[kb/Cloudflare\|Cloudflare]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Cloudflare-Agents-SDK\|Cloudflare Agents SDK]] (TECHNOLOGIE, 1 fiches)
@@ -715,9 +720,11 @@
 - [[kb/_entites-mineures#Continuous-Delivery\|Continuous Delivery]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Contract-Companion\|Contract Companion]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#contrat-de-portabilité-agent\|contrat de portabilité agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Contribution-Stack\|Contribution Stack]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#control-flow-is-code\|control flow is code]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Control-Plane\|Control Plane]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#control-plane-agent\|control plane agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Contrôle-antitrust\|Contrôle antitrust]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] (CONCEPT, 1 fiches)
@@ -1141,6 +1148,7 @@
 - [[kb/_entites-mineures#Gemini-Code-Assist-for-Standard-Enterprise\|Gemini Code Assist for Standard/Enterprise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gemini-Deep-Research\|Gemini Deep Research]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gemini-Developer-API\|Gemini Developer API]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gemini-Enterprise-Web-Search\|Gemini Enterprise Web Search]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gemini-models\|Gemini models]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#gemini-cli\|gemini-cli]] (TECHNOLOGIE, 1 fiches)
@@ -1286,6 +1294,7 @@
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] (CONCEPT, 1 fiches)
 - [[kb/Harness\|Harness]] (CONCEPT, 2 fiches)
 - [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 4 fiches)
+- [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service-(HaaS)\|Harness-as-a-Service (HaaS)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] (PERSONNE, 1 fiches)
@@ -1418,7 +1427,7 @@
 - [[kb/_entites-mineures#Jaggedness-des-capacités-IA\|Jaggedness des capacités IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] (METHODOLOGIE, 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Janakiram-MSV\|Janakiram MSV]] (PERSONNE, 1 fiches)
+- [[kb/Janakiram-MSV\|Janakiram MSV]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] (PERSONNE, 2 fiches)
 - [[kb/Jarred-Sumner\|Jarred Sumner]] (PERSONNE, 1 fiches)
@@ -1508,9 +1517,9 @@
 - [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] (CONCEPT, 1 fiches)
 - [[kb/LangChain-organisation\|LangChain]] (ORGANISATION, 3 fiches)
 - [[kb/LangChain-technologie\|LangChain]] (TECHNOLOGIE, 1 fiches)
-- [[kb/LangGraph\|LangGraph]] (TECHNOLOGIE, 3 fiches)
+- [[kb/LangGraph\|LangGraph]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#LangGraph-Platform\|LangGraph Platform]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#LangSmith\|LangSmith]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#LangSmith\|LangSmith]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Lattice\|Lattice]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Laura-Entis\|Laura Entis]] (PERSONNE, 1 fiches)
 - [[kb/Laura-Tacho\|Laura Tacho]] (PERSONNE, 2 fiches)
@@ -1706,6 +1715,7 @@
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] (ORGANISATION, 1 fiches)
+- [[kb/Microsoft-Foundry\|Microsoft Foundry]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#middle-management-agents\|middle management agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#migration-33-endpoints\|migration 33 endpoints]] (EVENEMENT, 1 fiches)
@@ -1740,7 +1750,7 @@
 - [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Model-Behavior\|Model Behavior]] (CONCEPT, 1 fiches)
-- [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE, 5 fiches)
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Model-fills-the-silence\|Model fills the silence]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Model-hierarchies-(gouvernance-tokens)\|Model hierarchies (gouvernance tokens)]] (CONCEPT, 1 fiches)

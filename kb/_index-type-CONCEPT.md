@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 821 entités de type CONCEPT
+> 823 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -535,7 +535,9 @@
 - [[kb/_entites-mineures#context-graph\|context graph]] — définition: Enregistrement structuré des traces de décision reliées entre entités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte\|contexte]] — description: Connaissance du dépôt, des conventions et de l'architecture par l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-passif\|contexte passif]] — définition: Information injectée dans le prompt système sans décision d'invocation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#contrat-de-portabilité-agent\|contrat de portabilité agent]] — définition: Équivalent agent du contrat applicatif PaaS : packager code+instructions+outils+mémoire+permissions+éval en une unité déployable, portable entre clouds (1 occ., 1 fiches)
 - [[kb/_entites-mineures#control-flow-is-code\|control flow is code]] — principe: L'ordonnancement est déterministe ; les modèles ne fournissent que le jugement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#control-plane-agent\|control plane agent]] — enjeu: Couche non encore figée qui définira ce qu'est un agent, ses composants et ce qu'une équipe plateforme peut remplacer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] — rôle: Différenciateur clé de Genie 3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contrôles-à-l'export-US\|contrôles à l'export US]] — rôle: Selon Ball, la pénurie de compute d'inférence qu'ils imposent à la Chine fait de la stratégie open-weights chinoise un sous-produit involontaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)

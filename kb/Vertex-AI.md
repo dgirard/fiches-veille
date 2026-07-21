@@ -1,6 +1,6 @@
 # Vertex AI
 
-> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -18,6 +18,7 @@
 
 - [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **observé_dans** → Vertex AI — 0.98
 - [[kb/AP2\|AP2]] **utilise** → Vertex AI — 0.93
+- [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] **remplace** → Vertex AI — 0.88
 
 ## Fiches sources
 

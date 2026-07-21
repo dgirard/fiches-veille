@@ -189,7 +189,7 @@
 - [[kb/Jack-Clark\|Jack Clark]] — rôle: Co-fondateur Anthropic, membre AI Index Steering Committee (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
-- [[kb/_entites-mineures#Janakiram-MSV\|Janakiram MSV]] — rôle: Senior Contributor Forbes, analyste cloud et IA (1 occ., 1 fiches)
+- [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Janice-Manningham\|Janice Manningham]] — rôle: Strategic Group Product Manager, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] — rôle: Partner YC associé à Weave (2 occ., 2 fiches)
 - [[kb/Jarred-Sumner\|Jarred Sumner]] — rôle: Créateur de Bun ; travaille chez Anthropic (rachat de Bun, déc. 2025) ; auteur de la réécriture Rust (1 occ., 1 fiches)
