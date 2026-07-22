@@ -208,7 +208,7 @@
 - [[kb/_entites-mineures#MindStudio-Team\|MindStudio Team]] — rôle: Auteur de l'explainer, plateforme d'orchestration de workflows multi-modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (3 occ., 3 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] — secteur: Chaîne YouTube + coaching ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)

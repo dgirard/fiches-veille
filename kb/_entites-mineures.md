@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2437 entités avec moins de 3 triples/fiches
+> 2443 entités avec moins de 3 triples/fiches
 
-## PERSONNE (344)
+## PERSONNE (345)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -579,6 +579,14 @@
 - **affirme_que** → [[kb/_entites-mineures#90%-des-entreprises-veulent-la-GenAI-mais-seulement-10%-réussissent\|90% des entreprises veulent la GenAI mais seulement 10% réussissent]] (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
+
+### Brad Smith {#Brad-Smith}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### Bradley Shimmin {#Bradley-Shimmin}
 
@@ -6191,7 +6199,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (531)
+## TECHNOLOGIE (534)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6866,6 +6874,16 @@
 - **éditeur** : Microsoft
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
+
+### Azure Local {#Azure-Local}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Offre Microsoft de déploiement Azure sur site incluant un mode déconnecté / air-gapped (hors réseau externe) avec chiffrement en mémoire et clés gérées localement ; volet clé de l'accord pour les secteurs régulés
+
+- **permet** → [[kb/_entites-mineures#exécution-en-mode-air-gapped-(entraînement-et-inférence-entièrement-hors-réseau-externe)-pour-secteurs-régulés\|exécution en mode air-gapped (entraînement et inférence entièrement hors réseau externe) pour secteurs régulés]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### BERT en C {#BERT-en-C}
 
@@ -9133,6 +9151,16 @@
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
+### NVIDIA Vera Rubin {#NVIDIA-Vera-Rubin}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Systèmes GPU NVIDIA de dernière génération constituant le socle matériel du compute Azure réservé à Mistral en Europe
+
+- [[kb/Microsoft\|Microsoft]] **utilise** → NVIDIA Vera Rubin — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+
 ### Nano Banana Pro {#Nano-Banana-Pro}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9803,6 +9831,16 @@
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] **a_créé** → Rippling — 0.98
 
 **Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
+
+### Robostral {#Robostral}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Modèle de robotique de Mistral (Robostral Navigate, 8 juillet 2026) ; signal de verticalisation sectorielle
+
+- [[kb/Mistral-AI\|Mistral AI]] **publie** → Robostral — 0.82
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### Routines (Anthropic) {#Routines-(Anthropic)}
 
@@ -15678,6 +15716,14 @@
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
 
+### arbitrage réglementaire {#arbitrage-réglementaire}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne)
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+
 ### artisanat logiciel {#artisanat-logiciel}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17624,18 +17670,6 @@
 
 **Fiches** : [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
-### open-weights {#open-weights}
-
-**Type** : CONCEPT | 2 relations | 2 fiches
-
-- **définition** : Modèle dont les poids sont téléchargeables et exécutables (≠ pipeline d'entraînement ouvert) ; ouvre l'option self-host et la réversibilité, sans équivaloir à l'open-source au sens strict
-- **lecture géopolitique (Ball)** : Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA »
-
-- **permet** → [[kb/_entites-mineures#réversibilité-self-host,-portage,-sortie-de-la-captivité-fournisseur\|réversibilité : self-host, portage, sortie de la captivité fournisseur]] (AFFIRMATION) — 0.88
-- **réduit** → [[kb/_entites-mineures#investissement-(capex)-dans-l'IA\|investissement (capex) dans l'IA]] (AFFIRMATION) — 0.75
-
-**Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
-
 ### optimisme déterminé {#optimisme-déterminé}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18123,16 +18157,6 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
-### réversibilité {#réversibilité}
-
-**Type** : CONCEPT | 1 relations | 2 fiches
-
-- **principe** : Capacité stratégique à exécuter/porter un modèle soi-même et à ne plus être captif d'un fournisseur ; valeur non capturée par le prix par token (Design to Exit, BATNA) — rendue « possible pour de vrai » par un frontier open-weights
-
-- **permet** → [[kb/_entites-mineures#souveraineté-durable-au-delà-du-contrat-signé\|souveraineté durable au-delà du contrat signé]] (AFFIRMATION) — 0.85
-
-**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]], [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
-
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18303,6 +18327,14 @@
 - **définition** : Écarter le non-quantifiable comme non pertinent
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
+
+### souveraineté {#souveraineté}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **principe** : Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### souveraineté (Delos) {#souveraineté-(Delos)}
 
@@ -18952,7 +18984,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (350)
+## METHODOLOGIE (351)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19654,13 +19686,15 @@
 
 ### Design to Exit {#Design-to-Exit}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
 
 - **principe** : Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite
 
+- **s_applique_à** → [[kb/_entites-mineures#qualification-des-dépendances-d'un-déploiement-IA-souverain\|qualification des dépendances d'un déploiement IA souverain]] (CONCEPT) — 0.85
+
 - [[kb/LLMD\|LLMD]] **s_applique_à** → Design to Exit — 0.85
 
-**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### DevOps {#DevOps}
 
@@ -21122,6 +21156,16 @@
 
 **Fiches** : [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era]]
 
+### architecture multi-LLM souveraine {#architecture-multi-LLM-souveraine}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Abstraire les modèles derrière une couche de routage et garder ses données en formats ouverts, pour transformer le choix de fournisseur en paramètre ; industrialisée par SFEIR via RAISE
+
+- **permet** → [[kb/_entites-mineures#transformer-le-choix-de-fournisseur-en-paramètre-plutôt-qu'en-soudure-(porte-de-sortie-crédible)\|transformer le choix de fournisseur en paramètre plutôt qu'en soudure (porte de sortie crédible)]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+
 ### architecture security-first {#architecture-security-first}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -22354,7 +22398,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (40)
+## EVENEMENT (41)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -22657,6 +22701,14 @@
 - **description** : Maison-Blanche signale virage majeur — proposition de forcer federal review de tous nouveaux modèles propriétaires avant release. Catalyseur : refus Anthropic Claude Mythos avril 2026. Articulation directe avec fiche AISI UK GPT-5.5/Mythos
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+
+### accord Mistral-Microsoft {#accord-Mistral-Microsoft}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **catégorie** : Partenariat industriel de plusieurs milliards de dollars annoncé le 21/07/2026 : compute Azure en Europe, modèles dans Foundry/Copilot Studio, Azure Local jusqu'au mode déconnecté ; sans nouvelle prise de participation au capital
+
+**Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### bulle Internet de 2000 {#bulle-Internet-de-2000}
 

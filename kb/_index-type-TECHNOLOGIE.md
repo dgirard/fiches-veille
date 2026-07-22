@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 660 entités de type TECHNOLOGIE
+> 663 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -87,6 +87,7 @@
 - [[kb/_entites-mineures#Auto-caching\|Auto-caching]] — description: Paramètre unique cache_control ephemeral au niveau requête (2 occ., 1 fiches)
 - [[kb/AutoGen\|AutoGen]] — catégorie: Framework multi-agents Microsoft (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Azure-AI-Agent-Service\|Azure AI Agent Service]] — éditeur: Microsoft (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Azure-Local\|Azure Local]] — catégorie: Offre Microsoft de déploiement Azure sur site incluant un mode déconnecté / air-gapped (hors réseau externe) avec chiffrement en mémoire et clés gérées localement ; volet clé de l'accord pour les secteurs régulés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BERT-en-C\|BERT en C]] — catégorie: Implémentation BERT 700 lignes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] — nature: Bibliothèque B+ Tree performance-compétitive en Rust et Python (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bard\|Bard]] — éditeur: Google (1 occ., 1 fiches)
@@ -360,7 +361,7 @@
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] — catégorie: Agent compréhension contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] — auteurs: Sam Schillace, Brian Krabach (1 occ., 1 fiches)
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] — catégorie: Chatbot IA générative basé sur GPT-4 (usage gratuit) (1 occ., 1 fiches)
-- [[kb/Microsoft-Foundry\|Microsoft Foundry]] — catégorie: Plateforme d'agents d'entreprise Microsoft (renommage d'Azure AI Foundry au 1ᵉʳ janv. 2026) ; runtime managé isolé, identité Entra Agent ID, mémoire session/user/procédurale (1 occ., 1 fiches)
+- [[kb/Microsoft-Foundry\|Microsoft Foundry]] — catégorie: Plateforme d'agents d'entreprise Microsoft (renommage d'Azure AI Foundry au 1ᵉʳ janv. 2026) ; runtime managé isolé, identité Entra Agent ID, mémoire session/user/procédurale (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] — catégorie: Suite bureautique (1 occ., 1 fiches)
 - [[kb/MiniMax-M2\|MiniMax M2]] — catégorie: Modèle open-weight optimisé codage et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] — rôle: Modèle co-auteur du manifeste (2 occ., 2 fiches)
@@ -377,6 +378,7 @@
 - [[kb/_entites-mineures#Mythos\|Mythos]] — catégorie: Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos-Preview\|Mythos Preview]] — score_expert_pass1: 68,6% (+-8,7%) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NANDA\|NANDA]] — catégorie: Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] — catégorie: Systèmes GPU NVIDIA de dernière génération constituant le socle matériel du compute Azure réservé à Mistral en Europe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nano-Banana-Pro\|Nano Banana Pro]] — rôle: Génération du canvas image initial (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nanobanana\|Nanobanana]] — catégorie: Modèle d'image generation Google/Gemini capable d'overlay menu items dans pixels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nemotron-Nano-12B-v2-VL-FP8\|Nemotron-Nano-12B-v2-VL-FP8]] — catégorie: Small Language Model multimodal open source (1 occ., 1 fiches)
@@ -456,6 +458,7 @@
 - [[kb/_entites-mineures#Replit-slides\|Replit slides]] — catégorie: Feature slides récente de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Retool\|Retool]] — catégorie: Plateforme low-code pour développeurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rippling\|Rippling]] — catégorie: Plateforme RH / paie / IT unifiée, co-fondée par Prasanna Sankar et Parker Conrad, $16B+ valorisation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Robostral\|Robostral]] — catégorie: Modèle de robotique de Mistral (Robostral Navigate, 8 juillet 2026) ; signal de verticalisation sectorielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Routines-(Anthropic)\|Routines (Anthropic)]] — description: Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] — catégorie: Agent de codage IA d'Atlassian (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RubyLLM\|RubyLLM]] — catégorie: Gem Ruby pour appels API LLM (1 occ., 1 fiches)

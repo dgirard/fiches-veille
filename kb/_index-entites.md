@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2837 entités
+> 2845 entités
 
 ## #
 
@@ -81,6 +81,7 @@
 - [[kb/_entites-mineures#Academy-of-Management-Journal\|Academy of Management Journal]] (ORGANISATION, 1 fiches)
 - [[kb/Accenture\|Accenture]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#acceptance-rate\|acceptance rate]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#accord-Mistral-Microsoft\|accord Mistral-Microsoft]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Accountability\|Accountability]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Accumulated-execution-data\|Accumulated execution data]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] (CONCEPT, 1 fiches)
@@ -312,6 +313,7 @@
 - [[kb/_entites-mineures#AppWorld\|AppWorld]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ARA\|ARA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Aravind-Srinivas\|Aravind Srinivas]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#arbitrage-réglementaire\|arbitrage réglementaire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ARC\|ARC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Arc\|Arc]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ARC-Evals\|ARC Evals]] (ORGANISATION, 1 fiches)
@@ -322,6 +324,7 @@
 - [[kb/_entites-mineures#Architecte-Oracle\|Architecte Oracle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Architecture-as-series-of-non-trivial-decisions\|Architecture as series of non-trivial decisions]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Architecture-hexagonale\|Architecture hexagonale]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#architecture-multi-LLM-souveraine\|architecture multi-LLM souveraine]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Architecture-trois-tiers-Lattice\|Architecture trois-tiers Lattice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#architectures-AI-native\|architectures AI-native]] (METHODOLOGIE, 1 fiches)
@@ -389,6 +392,7 @@
 - [[kb/_entites-mineures#AWS-Bedrock\|AWS Bedrock]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Azure-AI-Agent-Service\|Azure AI Agent Service]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Azure-Local\|Azure Local]] (TECHNOLOGIE, 1 fiches)
 ## B
 
 - [[kb/_entites-mineures#Babak-Hodjat\|Babak Hodjat]] (PERSONNE, 1 fiches)
@@ -465,6 +469,7 @@
 - [[kb/_entites-mineures#BPI-France\|BPI France]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Brain-fry\|Brain fry]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Brainstorms-&-prototypes\|Brainstorms & prototypes]] (METHODOLOGIE, 1 fiches)
@@ -865,7 +870,7 @@
 - [[kb/_entites-mineures#Design-memory\|Design memory]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#design-patterns\|design patterns]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Design-system-HTML-de-référence\|Design system HTML de référence]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] (ORGANISATION, 1 fiches)
 - [[kb/design-md\|design.md]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dette-cognitive\|Dette cognitive]] (CONCEPT, 1 fiches)
@@ -1715,7 +1720,7 @@
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] (ORGANISATION, 1 fiches)
-- [[kb/Microsoft-Foundry\|Microsoft Foundry]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Microsoft-Foundry\|Microsoft Foundry]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#middle-management-agents\|middle management agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#migration-33-endpoints\|migration 33 endpoints]] (EVENEMENT, 1 fiches)
@@ -1731,7 +1736,7 @@
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] (ORGANISATION, 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 3 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 4 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] (ORGANISATION, 1 fiches)
@@ -1859,6 +1864,7 @@
 - [[kb/Nvidia\|Nvidia]] (ORGANISATION, 4 fiches)
 - [[kb/_entites-mineures#Nvidia-H100\|Nvidia H100]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Nvidia-Jetson\|Nvidia Jetson]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NYU-Stern-School-of-Business\|NYU Stern School of Business]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Néhémie-(icône-biblique)\|Néhémie (icône biblique)]] (CONCEPT, 1 fiches)
 ## O
@@ -1895,7 +1901,7 @@
 - [[kb/_entites-mineures#OON_WEIGHT_FACTOR\|OON_WEIGHT_FACTOR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opascope\|Opascope]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#open-weights\|open-weights]] (CONCEPT, 2 fiches)
+- [[kb/open-weights\|open-weights]] (CONCEPT, 2 fiches)
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION, 21 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
@@ -2221,6 +2227,7 @@
 - [[kb/_entites-mineures#Robby-Stein\|Robby Stein]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Robert-Cialdini\|Robert Cialdini]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Robostral\|Robostral]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] (CONCEPT, 1 fiches)
 - [[kb/Rod-Johnson\|Rod Johnson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] (PERSONNE, 1 fiches)
@@ -2256,7 +2263,7 @@
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#réversibilité\|réversibilité]] (CONCEPT, 2 fiches)
+- [[kb/réversibilité\|réversibilité]] (CONCEPT, 3 fiches)
 ## S
 
 - [[kb/_entites-mineures#S3NS\|S3NS]] (ORGANISATION, 1 fiches)
@@ -2419,6 +2426,7 @@
 - [[kb/_entites-mineures#Sorbet\|Sorbet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Soufiane-Keli\|Soufiane Keli]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#souveraineté\|souveraineté]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 1 fiches)

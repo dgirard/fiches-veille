@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 13 relations | 6 fiches sources
+> **Type** : ORGANISATION | 16 relations | 6 fiches sources
 
 ## Attributs
 
@@ -21,6 +21,8 @@
 
 - « les agents doivent assister et non remplacer la décision humaine » (AFFIRMATION) — 0.98, ATEMPOREL
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+- « l'accord ne s'accompagne d'aucune nouvelle prise de participation de Microsoft au capital de Mistral (confirmé par Brad Smith) » (AFFIRMATION) — 0.95, STATIQUE
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### améliore
 
@@ -60,11 +62,14 @@
 
 - [[kb/_entites-mineures#Bad-Developer-Days\|Bad Developer Days]] (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
+- [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ## Relations (comme objet)
 
 - [[kb/Shopify\|Shopify]] **collabore_avec** → Microsoft — 0.98
 - [[kb/Satya-Nadella\|Satya Nadella]] **dirige** → Microsoft — 0.98
+- [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Microsoft — 0.97
 
 ## Fiches sources
 

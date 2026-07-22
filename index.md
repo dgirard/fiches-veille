@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 348 fiches | 1975-12 → 2026-07-20 | généré le 2026-07-21
+> 349 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-22
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **22** [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Mistral, Mistral AI, Microsoft
 - **20** [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit) · GitHub (Udit Akhouri) — ADHD, Udit Akhouri, idéation divergente parallèle
 - **20** [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD · Fact-check veille — Delos Intelligence, delos.so, fact-checking
 - **20** [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV · The New Stack — Plateformes d'agents d'entreprise, convergence architecturale, portabilité
@@ -717,6 +718,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.)
@@ -806,6 +808,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)](fiches/2026-07/cherny-steps-ai-adoption-2026-07-16.md) — Boris Cherny (Creator & Head of Claude Code @Anthropic)
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
@@ -878,6 +881,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.)
 - [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin.
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
@@ -893,26 +897,26 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 348 fiches
-- **Par année** : 2026 (171) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 349 fiches
+- **Par année** : 2026 (172) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 119
   - Architecture & Construction : 36
   - Transformation & Adoption : 71
   - Qualité & Sécurité : 25
-  - Économie & Marché : 61
+  - Économie & Marché : 62
   - Philosophie & Société : 22
-  - Stratégie & Frameworks : 13
+  - Stratégie & Frameworks : 14
   - Outils & Plateformes : 29
   - Recherche & Éducation : 9
   - Produits & Services : 9
-  - Politique & Régulation : 12
+  - Politique & Régulation : 13
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - Anthropic (8)
+  - SFEIR (7)
   - Chris Williams (7)
   - Deep Research Veille Interne (7)
-  - SFEIR (6)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
   - Boris Cherny (5)
@@ -930,11 +934,11 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Nicolas Martignole (2)
 - **Sources (top 20)** :
   - Anthropic (13)
+  - SFEIR (7)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Deep Research (7)
   - Google (7)
-  - SFEIR (6)
   - OpenAI (5)
   - Ethan Mollick (4)
   - GitHub (4)

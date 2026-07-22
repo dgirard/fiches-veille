@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 388 entités de type METHODOLOGIE
+> 389 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -86,7 +86,7 @@
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] — capacité: Jusqu'à 5 recherches itératives autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] — description: Budget piloté par ROI et demande en temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design-system-HTML-de-référence\|Design system HTML de référence]] — catégorie: Fichier HTML unique servant de blueprint stylistique inter-fichiers (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] — principe: Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] — principe: Payer d'avance la couche d'abstraction qui rend le fournisseur remplaçable, plutôt qu'espérer une réversibilité non construite (2 occ., 2 fiches)
 - [[kb/_entites-mineures#DevOps\|DevOps]] — catégorie: Méthodologie intégrant développement et opérations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Developer-Experience\|Developer Experience]] — rôle: Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
@@ -254,6 +254,7 @@
 - [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] — description: Séparation des rôles architecte/implémenteur entre deux instances Claude (1 occ., 1 fiches)
 - [[kb/approche-spec-driven-IA\|approche spec-driven IA]] — étapes: Onboarding, Planification atomique, Développement itératif, Capitalisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approches-hybrides\|approches hybrides]] — description: Combinaison efficacité IA et rigueur de vérification (1 occ., 1 fiches)
+- [[kb/_entites-mineures#architecture-multi-LLM-souveraine\|architecture multi-LLM souveraine]] — principe: Abstraire les modèles derrière une couche de routage et garder ses données en formats ouverts, pour transformer le choix de fournisseur en paramètre ; industrialisée par SFEIR via RAISE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] — priorité: Intégration sécurité dès la conception agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#architectures-AI-native\|architectures AI-native]] — composants: bases vectorielles, RAG, orchestration d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#audit-adversarial-de-tests\|audit adversarial de tests]] — question pivot: « Un test échoue-t-il si la feature est supprimée ? » (1 occ., 1 fiches)

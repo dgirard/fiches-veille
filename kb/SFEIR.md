@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 25 relations | 7 fiches sources
+> **Type** : ORGANISATION | 29 relations | 7 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,10 @@
 
 - « l'architecte moderne devient un amplificateur d'intelligence plutôt qu'un oracle technique » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+- « la souveraineté est une propriété d'architecture, pas un label : elle se qualifie dépendance par dépendance » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « il faut distinguer quatre souverainetés — modèle, exécution, infrastructure, relation commerciale — dont cet accord n'en offre que trois sur quatre » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - « l'IA est un catalyseur qui revalorise synthèse, vision stratégique et lien tech-business » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « l'IA exécute des phases entières, elle n'assiste pas » (AFFIRMATION) — 0.90, ATEMPOREL
@@ -35,12 +39,15 @@
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+- « la stratégie industrielle de Mistral est encore illisible : présence simultanée B2C/B2B/modèle/infrastructure/verticalisation sans fossé défensif identifiable » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
 ### collabore_avec
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
@@ -67,6 +74,8 @@
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - « routing multi-modèles (un modèle par tâche, un modèle par contrainte) plutôt qu'un choix tranché propriétaire/open-weights » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- « séparer le modèle du canal, concevoir pour sortir (Design to Exit) et router plutôt que parier » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - « concevoir des architectures modulaires découplées pour interchanger les LLM sans réécriture » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « documenter le « pourquoi » des décisions car l'IA ne génère que le « comment » » (AFFIRMATION) — 0.88, ATEMPOREL

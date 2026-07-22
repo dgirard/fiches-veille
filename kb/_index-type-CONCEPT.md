@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 823 entités de type CONCEPT
+> 825 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -473,6 +473,7 @@
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
+- [[kb/_entites-mineures#arbitrage-réglementaire\|arbitrage réglementaire]] — principe: Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] — description: Approche équilibrant logique, élégance et compréhension humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
@@ -679,7 +680,7 @@
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
-- [[kb/_entites-mineures#open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (2 occ., 2 fiches)
+- [[kb/open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
@@ -735,7 +736,7 @@
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
-- [[kb/_entites-mineures#réversibilité\|réversibilité]] — principe: Capacité stratégique à exécuter/porter un modèle soi-même et à ne plus être captif d'un fournisseur ; valeur non capturée par le prix par token (Design to Exit, BATNA) — rendue « possible pour de vrai » par un frontier open-weights (2 occ., 2 fiches)
+- [[kb/réversibilité\|réversibilité]] — principe: Capacité à exécuter/porter un modèle soi-même et à sortir de la captivité fournisseur ; rendue portable par l'open-weights des poids de Mistral (même logique que Kimi K3) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] — mesure: Fraction de trajectoires satisfaisant l'utilisateur (1 occ., 1 fiches)
@@ -754,6 +755,7 @@
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
 - [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)

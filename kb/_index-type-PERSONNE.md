@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 456 entités de type PERSONNE
+> 457 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -72,6 +72,7 @@
 - [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (11 occ., 10 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] — période: Ve siècle av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] — rôle: Chief Information Officer de Moderna (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] — rôle: Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] — rôle: Lead data intelligence and analytics practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/Bret-Taylor\|Bret Taylor]] — rôle: Co-fondateur et CEO de Sierra, président du conseil d'OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brian-Fioca\|Brian Fioca]] — rôle: Engineering, OpenAI (1 occ., 1 fiches)
