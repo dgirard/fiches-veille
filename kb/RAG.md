@@ -1,10 +1,11 @@
 # RAG
 
-> **Type** : TECHNOLOGIE | 9 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 4 fiches sources
 
 ## Attributs
 
 - **catégorie** : Retrieval-Augmented Generation — chunking code + embeddings + recherche vectorielle par similarité sémantique
+- **rôle dans l'article** : Repoussoir : récupération de documents isolés par mots-clés, dépassée par le Knowledge Fabric
 - **statut** : Technologie en déclin structurel
 
 ## Relations (comme sujet)
@@ -36,9 +37,11 @@
 - [[kb/_entites-mineures#cascade-d'échecs-en-cinq-étapes\|cascade d'échecs en cinq étapes]] **observé_dans** → RAG — 0.93
 - [[kb/IA-agentique\|IA agentique]] **remplace** → RAG — 0.90
 - [[kb/Claude-Code\|Claude Code]] **remplace** → RAG — 0.88
+- [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **surpasse** → RAG — 0.88
 
 ## Fiches sources
 
 - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
+- [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]

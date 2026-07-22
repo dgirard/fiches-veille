@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2443 entités avec moins de 3 triples/fiches
+> 2446 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (345)
 
@@ -6199,7 +6199,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (534)
+## TECHNOLOGIE (535)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -11180,6 +11180,18 @@
 
 **Fiches** : [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
 
+### knowledge graph {#knowledge-graph}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **fonction** : Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications
+
+- **permet** → [[kb/_entites-mineures#compréhension-des-relations,-du-contexte-et-du-sens-métier\|compréhension des relations, du contexte et du sens métier]] (CONCEPT) — 0.87
+
+- [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **utilise** → knowledge graph — 0.90
+
+**Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
+
 ### legacy systems {#legacy-systems}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -11627,7 +11639,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (799)
+## CONCEPT (800)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18649,6 +18661,14 @@
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 
+### triade Models/Memory/Knowledge {#triade-Models-Memory-Knowledge}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : « Models provide reasoning. Memory provides continuity. Knowledge provides understanding. »
+
+**Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
+
 ### trois cadrans {#trois-cadrans}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18984,7 +19004,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (351)
+## METHODOLOGIE (352)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -21605,6 +21625,16 @@
 - **permet** → [[kb/_entites-mineures#codification-des-connaissances-et-motifs\|codification des connaissances et motifs]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
+
+### ingénierie de la connaissance {#ingénierie-de-la-connaissance}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Aussi critique que l'ingénierie logicielle et l'ingénierie des données à l'ère de l'IA agentique
+
+- **est_instance_de** → [[kb/_entites-mineures#discipline-d'ingénierie-critique-au-même-titre-que-SDLC-et-data-engineering\|discipline d'ingénierie critique au même titre que SDLC et data engineering]] (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
 
 ### intent engineering {#intent-engineering}
 

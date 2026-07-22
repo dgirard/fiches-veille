@@ -1,6 +1,6 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 11 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 3 fiches sources
 
 ## Attributs
 
@@ -53,6 +53,7 @@
 
 - [[kb/_entites-mineures#Cielo\|Cielo]] **utilise** → IA agentique — 0.92
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] **soutient** → IA agentique — 0.88
+- [[kb/KDLC\|KDLC]] **s_applique_à** → IA agentique — 0.86
 
 ## Fiches sources
 

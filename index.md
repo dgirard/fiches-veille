@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 349 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-22
+> 350 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-22
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -35,6 +35,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-06
 
+- **28** [New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle](fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28.md) — Ashish Singh · Ashish Singh (LinkedIn) — KDLC, knowledge development life cycle, cycle de vie de la connaissance
 - **26** [3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)](fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26.md) — Andrew Ng · The Batch (Andrew Ng) — Loop engineering, développement produit, boucle de codage agentique
 - **24** [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI. · SFEIR (Didier Girard) — AI4IT, AI4Business, renversement
 - **22** [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys) · Artificial Analysis — GLM-5.2, Z.ai, Zhipu AI
@@ -580,6 +581,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
+- [New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle](fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28.md) — Ashish Singh
 - [Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)](fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16.md) — SFEIR
 - [The End of Code Review: Coding Agents Supersede Human Inspection](fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11.md) — Martin Monperrus
 - [The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace](fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10.md) — Philippe Ensarguet
@@ -814,6 +816,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
+- [New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle](fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28.md) — Ashish Singh
 - [Loop Engineering for Product Managers](fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21.md) — Shubham Saboo (@Saboo_Shubham_)
 - [How the X Algorithm Actually Works in 2026 — and What That Means for Growth](fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16.md) — Rapport interne **non signé** (typique des deliverables d'analyse interne / brouillon de livrable client). Sources primaires citées : (a) le repo public **`xai-org/x-algorithm`** (release 15 mai 2026), (b) les `README.md` du repo et de ses sous-modules (`home-mixer/`, `phoenix/`, `thunder/`, `grox/`), (c) le code source Rust (Home Mixer, Thunder) et Python/JAX (Phoenix, Grox) inspecté directement avec citations file:line. Le rapport est explicitement écrit en posture *"what we observe in the public source release, and what it implies for measurable growth interventions"* — registre de teardown analytique avec discipline d'honnêteté épistémique (section A.3 *"Honesty boundary"* listant exhaustivement ce qui n'est pas dérivable de l'OSS).
 - [La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) — Deep Research Veille Interne
@@ -897,16 +900,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 349 fiches
-- **Par année** : 2026 (172) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 350 fiches
+- **Par année** : 2026 (173) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 119
-  - Architecture & Construction : 36
+  - Architecture & Construction : 37
   - Transformation & Adoption : 71
   - Qualité & Sécurité : 25
   - Économie & Marché : 62
   - Philosophie & Société : 22
-  - Stratégie & Frameworks : 14
+  - Stratégie & Frameworks : 15
   - Outils & Plateformes : 29
   - Recherche & Éducation : 9
   - Produits & Services : 9

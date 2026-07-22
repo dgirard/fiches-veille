@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 825 entités de type CONCEPT
+> 827 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -207,6 +207,7 @@
 - [[kb/_entites-mineures#Efficacité-tokens\|Efficacité tokens]] — description: Chargement contextuel des skills pour minimiser la consommation de tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eligibility-time-silent-exclusion\|Eligibility-time silent exclusion]] — définition: Mode opératoire 2026 (vs démotion 2023) : borderline content disparaît du candidate pool sans signal au créateur — *"the silent killer"* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Engineering-Output\|Engineering Output]] — catégorie: Métrique primaire productivité (modèle ML) (1 occ., 1 fiches)
+- [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] — définition: Architecture combinant Knowledge Graphs, Semantic Search, Vector DB et Hybrid Search pour une compréhension interconnectée, au-delà du RAG à base de documents isolés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Enterprise-paradox\|Enterprise paradox]] — définition: Les grandes entreprises mènent en volume de pilotes mais échouent en déploiement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] — horizon: 2030 — fusion humain-technologie, IA omniprésente et invisible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] — définition: Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle (1 occ., 1 fiches)
@@ -791,6 +792,7 @@
 - [[kb/_entites-mineures#traces\|traces]] — définition: Enregistrement séquence étapes agents au runtime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] — définition: Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#transparence-des-sauvegardes\|transparence des sauvegardes]] — description: Rendre les sauvegardes vérifiables et dignes de confiance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#triade-Models-Memory-Knowledge\|triade Models/Memory/Knowledge]] — définition: « Models provide reasoning. Memory provides continuity. Knowledge provides understanding. » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#trois-cadrans\|trois cadrans]] — définition: Coût (modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — couplés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#truth-registry\|truth registry]] — rôle: Couche sémantique + gouvernance pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] — volume: 500k+ vidéos publiées 2024-2025 (1 occ., 1 fiches)

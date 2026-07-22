@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 663 entités de type TECHNOLOGIE
+> 664 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -442,7 +442,7 @@
 - [[kb/_entites-mineures#Qodo-Gen\|Qodo Gen]] — catégorie: Agent IDE de génération de code et de tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qodo-Merge\|Qodo Merge]] — catégorie: Agent Git de revue de code automatisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] — catégorie: Modèle open-source (1 occ., 1 fiches)
-- [[kb/RAG\|RAG]] — statut: Technologie en déclin structurel (3 occ., 3 fiches)
+- [[kb/RAG\|RAG]] — statut: Technologie en déclin structurel (4 occ., 4 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] — catégorie: Agent recherche rapports certifiés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] — capacité: Traitement texte, images, tableaux, équations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAISE\|RAISE]] — catégorie: Plateforme agentique adaptative (1 occ., 1 fiches)
@@ -614,6 +614,7 @@
 - [[kb/_entites-mineures#hooks-conditionnels\|hooks conditionnels]] — usage: Activés seulement le temps de la skill (ex. blocage commandes destructrices) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)
+- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] — fonction: Cartographier les interconnexions entre clients, produits, projets, équipes, réglementations et applications (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy-systems\|legacy systems]] — caractéristique: Impact sous-estimé dans la transition agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#llama.cpp\|llama.cpp]] — positionnement: Roi de l'inférence locale mono-utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mChat\|mChat]] — catégorie: Chatbot interne Moderna construit sur OpenAI API (1 occ., 1 fiches)

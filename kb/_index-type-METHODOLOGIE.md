@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 389 entités de type METHODOLOGIE
+> 391 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -128,6 +128,7 @@
 - [[kb/_entites-mineures#Implementation-plan\|Implementation plan]] — principe: Mener par les décisions susceptibles de changer (data models, types, UX) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interviews\|Interviews]] — usage: Claude interroge l'humain une question à la fois, priorité aux réponses qui changent l'architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jo-ha-kyū\|Jo-ha-kyū]] — principe: Accélération progressive du tempo (1 occ., 1 fiches)
+- [[kb/KDLC\|KDLC]] — définition: Knowledge Development Life Cycle : cycle en 8 étapes (Discovery, Extraction, Structuring, Knowledge Graph, Embedding, Index Optimization, Retrieval Evaluation, Refresh) traitant la connaissance comme actif ingénieré (1 occ., 1 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] — origine: Japon/Chine/Corée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Knowledge-skill\|Knowledge skill]] — rôle: Routeur top-level réduisant la recherche à ~30 fichiers de référence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LLM-as-a-Judge\|LLM-as-a-Judge]] — définition: Second agent review style/architecture (1 occ., 1 fiches)
@@ -305,6 +306,7 @@
 - [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] — définition: Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K) (1 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ingénierie-de-la-connaissance\|ingénierie de la connaissance]] — positionnement: Aussi critique que l'ingénierie logicielle et l'ingénierie des données à l'ère de l'IA agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intent-engineering\|intent engineering]] — rôle: Traduire des objectifs métier ambigus en spécifications testables pour les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] — rôle: Composition d'îles UI dans un contexte unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jailbreaking\|jailbreaking]] — technique: Fragmentation de tâches + fausse identité cybersécurité (1 occ., 1 fiches)

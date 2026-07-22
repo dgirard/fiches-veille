@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 457 entités de type PERSONNE
+> 458 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -52,6 +52,7 @@
 - [[kb/_entites-mineures#Arya-Asemanfar\|Arya Asemanfar]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Asaf-Bord\|Asaf Bord]] — rôle: Engineering Leader, Northwestern Mutual (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashish-Kumar-Singh\|Ashish Kumar Singh]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
+- [[kb/Ashish-Singh\|Ashish Singh]] — rôle: Auteur de la série « New Engineering Disciplines for the AI Era » (LinkedIn) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] — rôle: Investisseur VC, Foundation Capital (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] — rôle: Directrice des affaires publiques et de la communication, Mistral AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Augustin-d'Hippone\|Augustin d'Hippone]] — période: 354-430 (1 occ., 1 fiches)

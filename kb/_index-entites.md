@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2845 entités
+> 2851 entités
 
 ## #
 
@@ -347,6 +347,7 @@
 - [[kb/_entites-mineures#Asaf-Bord\|Asaf Bord]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ascenseur-de-l'Architecte\|Ascenseur de l'Architecte]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ashish-Kumar-Singh\|Ashish Kumar Singh]] (PERSONNE, 1 fiches)
+- [[kb/Ashish-Singh\|Ashish Singh]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ASI-(Artificial-Super-Intelligence)\|ASI (Artificial Super Intelligence)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ask-HR\|Ask HR]] (TECHNOLOGIE, 1 fiches)
@@ -1002,6 +1003,7 @@
 - [[kb/_entites-mineures#ENISA\|ENISA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] (DOCUMENT, 1 fiches)
+- [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Enterprise-paradox\|Enterprise paradox]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] (METHODOLOGIE, 1 fiches)
@@ -1393,6 +1395,7 @@
 - [[kb/_entites-mineures#Inflection-Opus-4-mai-2025\|Inflection Opus 4 mai 2025]] (EVENEMENT, 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ingénierie-de-la-connaissance\|ingénierie de la connaissance]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT, 1 fiches)
@@ -1490,6 +1493,7 @@
 - [[kb/_entites-mineures#Kath-Korevec\|Kath Korevec]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Kathleen-Hogan\|Kathleen Hogan]] (PERSONNE, 1 fiches)
 - [[kb/Kazuaki-Okumura\|Kazuaki Okumura]] (PERSONNE, 1 fiches)
+- [[kb/KDLC\|KDLC]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] (PERSONNE, 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] (PERSONNE, 6 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] (PERSONNE, 1 fiches)
@@ -1503,6 +1507,7 @@
 - [[kb/Kiro\|Kiro]] (TECHNOLOGIE, 4 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kloset\|Kloset]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#knowledge-graph\|knowledge graph]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Knowledge-skill\|Knowledge skill]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] (ORGANISATION, 2 fiches)
@@ -2150,7 +2155,7 @@
 
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] (PERSONNE, 1 fiches)
-- [[kb/RAG\|RAG]] (TECHNOLOGIE, 3 fiches)
+- [[kb/RAG\|RAG]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Raiffeisen-Bank-International-(RBI)\|Raiffeisen Bank International (RBI)]] (ORGANISATION, 1 fiches)
@@ -2682,6 +2687,7 @@
 - [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Triade-ingrédients-recette-plat-fini\|Triade ingrédients/recette/plat fini]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#triade-Models-Memory-Knowledge\|triade Models/Memory/Knowledge]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Triade-PROJ-AI\|Triade PROJ-AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Trifecta-Mortelle\|Trifecta Mortelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#trip-wires-automatiques\|trip-wires automatiques]] (METHODOLOGIE, 1 fiches)
