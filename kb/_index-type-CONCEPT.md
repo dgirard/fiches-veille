@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 830 entités de type CONCEPT
+> 837 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -331,7 +331,7 @@
 - [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] — catégorie: 30% features cassées au premier essai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] — insight_clé: l'avantage vient du déploiement différencié, non de la vitesse (1 occ., 1 fiches)
-- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (3 occ., 3 fiches)
+- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Paradoxe-de-l'héritage\|Paradoxe de l'héritage]] — description: Les actifs uniques des entreprises établies deviennent des avantages concurrentiels grâce à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peak-productivité-3-outils-IA\|Peak productivité 3 outils IA]] — données: Productivité auto-rapportée : 1 outil 3.3 / 2 outils 3.8 / 3 outils 4.1 / 4+ outils 3.7. Décroissance après 3. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] — format: 20 slides x 20 secondes = 6m40 (1 occ., 1 fiches)
@@ -476,6 +476,7 @@
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
+- [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#arbitrage-réglementaire\|arbitrage réglementaire]] — principe: Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] — description: Approche équilibrant logique, élégance et compréhension humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
@@ -594,6 +595,8 @@
 - [[kb/_entites-mineures#développement-permissionless\|développement permissionless]] — analogie: comme YouTube/blogs pour le contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développeurs-frontend\|développeurs frontend]] — impact: transition vers conception AI-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#effet-cobra\|effet cobra]] — définition: Incitation récompensant un comportement contre-productif (1 occ., 1 fiches)
+- [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] — définition: Canal par lequel l'automatisation de tâches réduit la demande de travail (substitution) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] — définition: Canal par lequel les gains de productivité et la baisse des coûts stimulent la demande de travail (complémentarité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] — définition: Frugalité de consommation de tokens comme vertu du dev assisté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-agent\|email agent]] — usage: Exemple fil rouge de l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] — périmètre: Traitement bulk de 53 000 emails via cache + queue (1 occ., 1 fiches)
@@ -602,6 +605,7 @@
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
+- [[kb/_entites-mineures#exposition-à-l'IA\|exposition à l'IA]] — fourchette: 5 % à 60 % de l'emploi total selon les études ; France 3,8 % (aujourd'hui) à 16,3 % (2-5 ans) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] — définition: Illusion de qualité produite par la relecture humaine du code des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-factory\|feature factory]] — principe: Terme de John Cutler : organisation qui mesure le succès à l'output (features livrées) plutôt qu'à l'outcome (valeur créée) ; piège d'un SDLC excellent sans discipline PDLC (1 occ., 1 fiches)
@@ -651,6 +655,7 @@
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Coupure à distance d'un service cloud par un fournisseur/État tiers ; risque de continuité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (1 occ., 1 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
@@ -702,6 +707,7 @@
 - [[kb/_entites-mineures#pilotes-IA-entreprise\|pilotes IA entreprise]] — taux d'échec: 95% échouent le passage en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pinned-means-merged\|pinned means merged]] — principe: Merger le core partagé avant le fan-out parallèle pour éviter le dependency hell (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] — catégorie: Limite gains génération code sans qualité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] — définition: Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] — définition: Define, Plan, Ship — points de décision non négociables réservés à l'humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pression-surengagement\|pression surengagement]] — mécanisme: dire oui = aucun coût immédiat ; dire non = risque politique immédiat (1 occ., 1 fiches)
@@ -717,6 +723,7 @@
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] — nature: Multiplication capacité individuelle par levier IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#produit-vs-projet\|produit vs projet]] — définition: Traiter la plateforme GenAI comme un produit financé en flux, pas un projet ponctuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#programmeur\|programmeur]] — évolution: De codeur ligne par ligne à orchestrateur/superviseur IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#progrès-technique-biaisé\|progrès technique biaisé]] — définition: Innovation favorisant certains travailleurs/tâches au détriment d'autres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prompt-structuré\|prompt structuré]] — composants: Spécification, exemples de code, standards, checklist DoD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#proposal-bias\|proposal bias]] — définition: Préférence vitesse sur exhaustivité dans sélection de vendeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#propriétés-exploitables\|propriétés exploitables]] — liste: E1 diversité d'échantillonnage, E2 sycophancie chartée pour réfuter, E3 absence d'ego, E4 contextes frais, E5 coût de révision quasi nul (1 occ., 1 fiches)

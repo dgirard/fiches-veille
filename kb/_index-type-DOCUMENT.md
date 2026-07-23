@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 106 entités de type DOCUMENT
+> 107 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -93,6 +93,7 @@
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
+- [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)

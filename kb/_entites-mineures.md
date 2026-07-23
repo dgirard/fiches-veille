@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2451 entités avec moins de 3 triples/fiches
+> 2459 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (346)
 
@@ -3452,7 +3452,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (273)
+## ORGANISATION (274)
 
 ### 10x {#10x}
 
@@ -4101,6 +4101,16 @@
 - **secteur** : Plateforme d'avis et preuve sociale
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+
+### DG Trésor {#DG-Trésor}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Administration économique (Ministère de l'Économie) — série d'analyse Trésor-Éco
+
+- **publie** → [[kb/_entites-mineures#Trésor-Éco-n°-391-«-L'IA,-quels-effets-sur-l'emploi-»\|Trésor-Éco n° 391 « L'IA, quels effets sur l'emploi ? »]] (DOCUMENT) — 0.99
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 
 ### DORA team {#DORA-team}
 
@@ -11650,7 +11660,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (802)
+## CONCEPT (809)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15741,6 +15751,17 @@
 
 **Fiches** : [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
 
+### approche task-based {#approche-task-based}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor)
+
+- **est_basé_sur** → [[kb/_entites-mineures#travaux-d'Acemoglu-et-Restrepo\|travaux d'Acemoglu et Restrepo]] (DOCUMENT) — 0.90
+- **mesure** → [[kb/_entites-mineures#l'exposition-d'un-métier-à-l'IA-par-décomposition-en-tâches\|l'exposition d'un métier à l'IA par décomposition en tâches]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
 ### arbitrage réglementaire {#arbitrage-réglementaire}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16845,6 +16866,26 @@
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
+### effet de déplacement {#effet-de-déplacement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Canal par lequel l'automatisation de tâches réduit la demande de travail (substitution)
+
+- [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] **s_oppose_à** → effet de déplacement — 0.90
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
+### effet de productivité {#effet-de-productivité}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Canal par lequel les gains de productivité et la baisse des coûts stimulent la demande de travail (complémentarité)
+
+- **s_oppose_à** → [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
 ### efficacité des tokens {#efficacité-des-tokens}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -16925,6 +16966,14 @@
 - **contexte** : Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
+
+### exposition à l'IA {#exposition-à-l'IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **fourchette** : 5 % à 60 % de l'emploi total selon les études ; France 3,8 % (aujourd'hui) à 16,3 % (2-5 ans)
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 
 ### externalisation cognitive {#externalisation-cognitive}
 
@@ -17389,6 +17438,14 @@
 
 **Fiches** : [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
+### labellisation {#labellisation}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
 ### langage naturel {#langage-naturel}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17851,6 +17908,16 @@
 
 **Fiches** : [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|The State of AI Code Quality: Hype vs. Reality]]
 
+### plan Osez l'IA {#plan-Osez-l'IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA)
+
+- **permet** → [[kb/_entites-mineures#de-former-15-millions-de-professionnels-d'ici-2030-(Académie-de-l'IA)\|de former 15 millions de professionnels d'ici 2030 (Académie de l'IA)]] (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
 ### platform team {#platform-team}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17985,6 +18052,14 @@
 - **utilise** → [[kb/_entites-mineures#IA-de-codage-(supervision)\|IA de codage (supervision)]] (TECHNOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
+
+### progrès technique biaisé {#progrès-technique-biaisé}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Innovation favorisant certains travailleurs/tâches au détriment d'autres
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 
 ### prompt structuré {#prompt-structuré}
 

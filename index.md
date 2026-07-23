@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 351 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-23
+> 352 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-23
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -36,6 +36,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-06
 
+- **30** [L'intelligence artificielle, quels effets sur l'emploi ?](fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30.md) — **Martin Chopard, Elisa Cotet, Tristan Gantois, Eloïse Villani** — économistes de la **Direction générale du Trésor** (DG Trésor), Ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique. Directrice de la publication : Dorothée Rouzet. Le document engage la DG Trésor mais « ne reflète pas nécessairement la position du ministère ». · DG Trésor (Trésor-Éco) — IA et emploi, intelligence artificielle générative, effet de déplacement
 - **28** [New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle](fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28.md) — Ashish Singh · Ashish Singh (LinkedIn) — KDLC, knowledge development life cycle, cycle de vie de la connaissance
 - **26** [3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)](fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26.md) — Andrew Ng · The Batch (Andrew Ng) — Loop engineering, développement produit, boucle de codage agentique
 - **24** [AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027](fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24.md) — **Didier Girard** — Managing Director (CTO / DG) de **SFEIR**, ESN française (~1 000 personnes, France · Belgique · Luxembourg · Suisse). Auteur de l'article ; voix éditoriale du cabinet sur la transformation IA des DSI. · SFEIR (Didier Girard) — AI4IT, AI4Business, renversement
@@ -732,6 +733,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire](fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [The Great Flattening](fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14.md) — Prasanna Sankar (Prasanna S, @myprasanna) — co-fondateur et ex-CTO de Rippling ($16B+ valorisation), fondateur et CEO de Vorflux AI. Article publié sur X (format long-form article) le 14 juillet 2026, contenu repris comme manifeste Vorflux (vorflux.com/manifesto).
 - [GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing](fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13.md) — SFEIR (voix éditoriale du cabinet)
+- [L'intelligence artificielle, quels effets sur l'emploi ?](fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30.md) — **Martin Chopard, Elisa Cotet, Tristan Gantois, Eloïse Villani** — économistes de la **Direction générale du Trésor** (DG Trésor), Ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique. Directrice de la publication : Dorothée Rouzet. Le document engage la DG Trésor mais « ne reflète pas nécessairement la position du ministère ».
 - [GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark](fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22.md) — Artificial Analysis (@ArtificialAnlys)
 - [A frontier without an ecosystem is not stable](fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12.md) — Satya Nadella
 - [Claude Fable 5 and Claude Mythos 5](fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09.md) — Anthropic
@@ -893,6 +895,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin.
 - [Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique](fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16.md) — SFEIR (voix éditoriale du cabinet)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
+- [L'intelligence artificielle, quels effets sur l'emploi ?](fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30.md) — **Martin Chopard, Elisa Cotet, Tristan Gantois, Eloïse Villani** — économistes de la **Direction générale du Trésor** (DG Trésor), Ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique. Directrice de la publication : Dorothée Rouzet. Le document engage la DG Trésor mais « ne reflète pas nécessairement la position du ministère ».
 - [Anthropic's War on Opensource AI](fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12.md) — Ahmad Osman (@TheAhmadOsman)
 - [LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien République)](fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11.md) — **Bertrand** — journaliste / présentateur du média **République** (partenaire de VivaTech), conduit l'entretien. **Damien Lucas** — CEO de **Scaleway**. **Franck Le Moal** — Global Technical Officer du groupe **LVMH**.
 - [Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de l'intelligence artificielle](fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15.md) — **Léon XIV** (de naissance Robert Francis Prevost), 267e Pape de l'Église catholique, élu le **8 mai 2025**, premier pape américain de l'histoire (né à Chicago, USA, 1955 ; double nationalité américano-péruvienne). Augustinien (ancien Prieur général de l'Ordre de Saint-Augustin 2001-2013), ancien évêque de Chiclayo (Pérou) puis Préfet du Dicastère pour les Évêques (2023-2025). *Magnifica Humanitas* est sa **première encyclique sociale**, signée *« Donné à Rome, près de Saint-Pierre, le 15 mai de l'année 2026, la deuxième de mon Pontificat »* — date choisie pour **coïncider avec le 135e anniversaire de *Rerum Novarum*** (15 mai 1891) de Léon XIII, dont il a explicitement repris le nom de pontificat en référence à la tradition sociale lancée par son prédécesseur du XIXe siècle. La référence augustinienne est centrale dans le document (citations massives des *Confessions*, du *De civitate Dei* — *« deux amours ont fait deux cités »*, des *Enarrationes in Psalmos*, des *Sermones*). Trace de paternité collective : multiples références à *Antiqua et nova* (note conjointe DDF + DCE, 14 janvier 2025) et *Quo vadis, humanitas ?* (CTI, 9 février 2026), suggérant un travail conjoint entre la Secrétairerie d'État, le Dicastère pour la Doctrine de la Foi, le Dicastère pour la Culture et l'Éducation, et le Dicastère pour le Service du Développement humain intégral.
@@ -904,20 +907,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 351 fiches
-- **Par année** : 2026 (174) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 352 fiches
+- **Par année** : 2026 (175) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 120
   - Architecture & Construction : 37
   - Transformation & Adoption : 72
   - Qualité & Sécurité : 25
-  - Économie & Marché : 62
+  - Économie & Marché : 63
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 16
   - Outils & Plateformes : 29
   - Recherche & Éducation : 9
   - Produits & Services : 9
-  - Politique & Régulation : 13
+  - Politique & Régulation : 14
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - SFEIR (8)

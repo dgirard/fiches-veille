@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2858 entités
+> 2867 entités
 
 ## #
 
@@ -308,6 +308,7 @@
 - [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-spec-driven\|approche spec-driven]] (METHODOLOGIE, 1 fiches)
 - [[kb/approche-spec-driven-IA\|approche spec-driven IA]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#approche-task-based\|approche task-based]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#approches-hybrides\|approches hybrides]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Approved-fixtures\|Approved fixtures]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AppSignal\|AppSignal]] (TECHNOLOGIE, 1 fiches)
@@ -889,6 +890,7 @@
 - [[kb/_entites-mineures#DevPortal-Raiffeisen\|DevPortal Raiffeisen]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#DFlash\|DFlash]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#DG-Trésor\|DG Trésor]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Dia\|Dia]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diagnostic-Lattice\|Diagnostic Lattice]] (CONCEPT, 1 fiches)
@@ -983,6 +985,8 @@
 - [[kb/_entites-mineures#Edward-Tufte\|Edward Tufte]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Effective-Output-score\|Effective Output score]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#effet-cobra\|effet cobra]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Effet-Reine-Rouge\|Effet Reine Rouge]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Efficacité-tokens\|Efficacité tokens]] (CONCEPT, 1 fiches)
@@ -1037,6 +1041,7 @@
 - [[kb/_entites-mineures#Exa\|Exa]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#EXL\|EXL]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|Explosion cambrienne des Skills]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#exposition-à-l'IA\|exposition à l'IA]] (CONCEPT, 1 fiches)
 - [[kb/ExpressIF-3\|ExpressIF 3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#EYOS\|EYOS]] (CONCEPT, 1 fiches)
@@ -1525,6 +1530,7 @@
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#labellisation\|labellisation]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#labs-d'IA\|labs d'IA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] (CONCEPT, 1 fiches)
@@ -1957,7 +1963,7 @@
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] (CONCEPT, 1 fiches)
-- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] (CONCEPT, 3 fiches)
+- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] (CONCEPT, 4 fiches)
 - [[kb/_entites-mineures#Paradoxe-de-l'héritage\|Paradoxe de l'héritage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#parallèle-du-stagiaire\|parallèle du stagiaire]] (CONCEPT, 1 fiches)
@@ -2040,6 +2046,7 @@
 - [[kb/Plakar-organisation\|Plakar]] (ORGANISATION, 2 fiches)
 - [[kb/Plakar-technologie\|Plakar]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Plan-mode\|Plan mode]] (METHODOLOGIE, 6 fiches)
+- [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plancher-financier-DORA-vs-plafond-praticien\|Plancher financier DORA vs plafond praticien]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] (METHODOLOGIE, 1 fiches)
@@ -2108,6 +2115,7 @@
 - [[kb/Programme-de-tutorat-IA\|Programme de tutorat IA]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#programmeur\|programmeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#progrès-technique-biaisé\|progrès technique biaisé]] (CONCEPT, 1 fiches)
 - [[kb/PROJ-AI\|PROJ-AI]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] (TECHNOLOGIE, 1 fiches)
@@ -2705,6 +2713,7 @@
 - [[kb/_entites-mineures#Trois-scénarios-(DORA)\|Trois scénarios (DORA)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#truth-registry\|truth registry]] (CONCEPT, 1 fiches)
+- [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Two-laws-of-mechanical-growth\|Two laws of mechanical growth]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Two-pizza-teams\|Two pizza teams]] (CONCEPT, 1 fiches)

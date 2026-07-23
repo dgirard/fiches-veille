@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 357 entités de type ORGANISATION
+> 358 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -86,6 +86,7 @@
 - [[kb/_entites-mineures#Cua-AI\|Cua AI]] — secteur: Start-up IA fondée par Francesco Bonacci (1 occ., 1 fiches)
 - [[kb/Cursor-organisation\|Cursor]] — catégorie: IDE assisté par IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Custplace\|Custplace]] — secteur: Plateforme d'avis et preuve sociale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DG-Trésor\|DG Trésor]] — secteur: Administration économique (Ministère de l'Économie) — série d'analyse Trésor-Éco (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DORA-team\|DORA team]] — rôle: Recherche software delivery performance, Google Cloud, lignée 2020 ROI DevOps → 2025 State of AI-assisted Software Development → 2026 ROI of AI-assisted Software Development (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — contexte: grande entreprise, intégrateur de BMAD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DX\|DX]] — secteur: Plateforme Developer Experience / Métriques (2 occ., 2 fiches)
