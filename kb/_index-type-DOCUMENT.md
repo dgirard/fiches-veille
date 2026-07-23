@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 107 entités de type DOCUMENT
+> 108 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -44,6 +44,7 @@
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] — catégorie: REX ingénierie data (Enterprise AI, blog Anthropic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hype-Cycle-for-Generative-AI-2025\|Hype Cycle for Generative AI 2025]] — date: 2025-07-29 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] — catégorie: Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] — catégorie: Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Industrial-Policy-for-the-Intelligence-Age\|Industrial Policy for the Intelligence Age]] — description: White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] — catégorie: Tribune d'opinion / cadre de décision DSI (1 occ., 1 fiches)

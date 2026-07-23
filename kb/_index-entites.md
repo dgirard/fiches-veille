@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2867 entités
+> 2871 entités
 
 ## #
 
@@ -163,6 +163,7 @@
 - [[kb/_entites-mineures#AI-Agent-Mesh\|AI Agent Mesh]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Agent-Portal\|AI Agent Portal]] (TECHNOLOGIE, 1 fiches)
 - [[kb/AI-brain-fry\|AI brain fry]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#AI-Champions\|AI Champions]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Daily-Brief\|AI Daily Brief]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-DLC\|AI DLC]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-engineering\|AI engineering]] (METHODOLOGIE, 1 fiches)
@@ -712,7 +713,7 @@
 - [[kb/_entites-mineures#Context-Development-Lifecycle\|Context Development Lifecycle]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Context-Editing\|Context Editing]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Context-Engine\|Context Engine]] (TECHNOLOGIE, 1 fiches)
-- [[kb/context-engineering\|context engineering]] (METHODOLOGIE, 4 fiches)
+- [[kb/context-engineering\|context engineering]] (METHODOLOGIE, 5 fiches)
 - [[kb/Context-Flywheel\|Context Flywheel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#context-graph\|context graph]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Context-inflation\|Context inflation]] (CONCEPT, 1 fiches)
@@ -959,6 +960,7 @@
 - [[kb/_entites-mineures#DynamoDB\|DynamoDB]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#décrochage-compétitif\|décrochage compétitif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#décélérationnisme\|décélérationnisme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#déduplication\|déduplication]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] (CONCEPT, 1 fiches)
@@ -1370,6 +1372,7 @@
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] (DOCUMENT, 1 fiches)
 - [[kb/IA-générative\|IA générative]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-locale\|IA locale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT, 1 fiches)
@@ -1404,6 +1407,7 @@
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ingénierie-de-la-connaissance\|ingénierie de la connaissance]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ingénieurs-augmentés\|ingénieurs augmentés]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Insights\|Insights]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT, 1 fiches)
@@ -1530,7 +1534,7 @@
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] (DOCUMENT, 1 fiches)
-- [[kb/_entites-mineures#labellisation\|labellisation]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#labellisation\|labellisation]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#labs-d'IA\|labs d'IA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] (CONCEPT, 1 fiches)
@@ -1963,7 +1967,7 @@
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] (CONCEPT, 1 fiches)
-- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] (CONCEPT, 4 fiches)
+- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] (CONCEPT, 5 fiches)
 - [[kb/_entites-mineures#Paradoxe-de-l'héritage\|Paradoxe de l'héritage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#parallèle-du-stagiaire\|parallèle du stagiaire]] (CONCEPT, 1 fiches)
@@ -2357,7 +2361,7 @@
 - [[kb/_entites-mineures#settings.json\|settings.json]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Setup-iOS-first-Cherny\|Setup iOS-first Cherny]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Seymour-Papert\|Seymour Papert]] (PERSONNE, 1 fiches)
-- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 7 fiches)
+- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 8 fiches)
 - [[kb/_entites-mineures#SGLang\|SGLang]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SHACL\|SHACL]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#shadcn-ui\|shadcn/ui]] (TECHNOLOGIE, 1 fiches)
@@ -2837,7 +2841,6 @@
 - [[kb/_entites-mineures#WIP-limits\|WIP limits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Work-planning\|Work planning]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Work-Slop\|Work Slop]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Workers\|Workers]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] (TECHNOLOGIE, 1 fiches)
@@ -2849,6 +2852,7 @@
 - [[kb/_entites-mineures#Workflow-Reference→Iterate→Remix\|Workflow Reference→Iterate→Remix]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#workflow-SEO-en-deux-phases\|workflow SEO en deux phases]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workflows\|Workflows]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#workslop\|workslop]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#worktree-isolation\|worktree isolation]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#World-Bank-Education-Global-Department\|World Bank Education Global Department]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] (CONCEPT, 1 fiches)

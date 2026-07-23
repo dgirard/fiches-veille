@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 837 entités de type CONCEPT
+> 839 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -331,7 +331,7 @@
 - [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] — catégorie: 30% features cassées au premier essai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] — insight_clé: l'avantage vient du déploiement différencié, non de la vitesse (1 occ., 1 fiches)
-- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (4 occ., 4 fiches)
+- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (5 occ., 5 fiches)
 - [[kb/_entites-mineures#Paradoxe-de-l'héritage\|Paradoxe de l'héritage]] — description: Les actifs uniques des entreprises établies deviennent des avantages concurrentiels grâce à l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Peak-productivité-3-outils-IA\|Peak productivité 3 outils IA]] — données: Productivité auto-rapportée : 1 outil 3.3 / 2 outils 3.8 / 3 outils 4.1 / 4+ outils 3.7. Décroissance après 3. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] — format: 20 slides x 20 secondes = 6m40 (1 occ., 1 fiches)
@@ -460,7 +460,6 @@
 - [[kb/_entites-mineures#Warning-shots-(AI-populism)\|Warning shots (AI populism)]] — source: Formule Jasmine Sun (NYT Opinion 2026-04-30) reprise par Wallace-Wells — les attaques contre Altman comme avertissement violent d'un mouvement plus large (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Weave-Hour\|Weave Hour]] — définition: Métrique : temps qu'un ingénieur expérimenté prendrait pour un changement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Widening-Gap\|Widening Gap]] — catégorie: Écart croissant équipes performantes vs en difficulté (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Work-Slop\|Work Slop]] — définition: sorties IA faible valeur inondant workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workflows\|Workflows]] — niveau: 5 — harnesses, agentic engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Writing-muscle-atrophy\|Writing muscle atrophy]] — définition: Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] — définition: Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat (1 occ., 1 fiches)
@@ -585,6 +584,7 @@
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] — description: Hybridation knowledge graphs + bases vectorielles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] — définition: Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] — portée: Mondial, permanent selon Andreessen (1 occ., 1 fiches)
+- [[kb/_entites-mineures#décrochage-compétitif\|décrochage compétitif]] — définition: Risque de long terme des économies/entreprises qui tarderaient à adopter l'IA (compétitif avant d'être social) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décélérationnisme\|décélérationnisme]] — principe: Thèse selon laquelle les modèles à poids ouverts freinent l'investissement (capex) dans l'IA en rendant non rentable le service de modèles frontier propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déduplication\|déduplication]] — domaine: Sauvegarde de données, optimisation stockage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#défaillance-en-cascade-base-de-données\|défaillance en cascade base de données]] — type: défaillance infrastructure critique (1 occ., 1 fiches)
@@ -649,13 +649,14 @@
 - [[kb/_entites-mineures#indicateurs-de-boucle-cassée\|indicateurs de boucle cassée]] — liste: Concentration en Build, prosecution en hausse, max d'itérations atteint, coût plat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#industrial-grade-systems\|industrial-grade systems]] — définition: Systèmes de qualité industrielle, slogan "grow up instead of grow old", livrés en 3 mois via 3-3-3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#industrie-du-conseil-en-management\|industrie du conseil en management]] — valorisation globale: 1 000 milliards de dollars (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ingénieurs-augmentés\|ingénieurs augmentés]] — définition: Équipes montées d'un cran (de l'exécution vers jugement/spécification/validation) via l'outillage IA — logique AI Champions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intellect-séparé\|intellect séparé]] — origine: Concept averroïste, intellect agent et intellect possible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#intelligence-incarnée\|intelligence incarnée]] — description: IA opérant dans environnements physiques ou simulés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Coupure à distance d'un service cloud par un fournisseur/État tiers ; risque de continuité (1 occ., 1 fiches)
-- [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (1 occ., 1 fiches)
+- [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (2 occ., 2 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
@@ -817,6 +818,7 @@
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] — définition: Visionnage vidéo qui clear le seuil de durée minimal — signal positif first-class introduit en 2026, n'existait pas en 2023 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] — définition: Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] — contrainte: HTML statique, SPA obligatoire, mis en cache à l'installation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#workslop\|workslop]] — définition: Sortie de faible valeur produite par une adoption IA sans méthode (dette technique à vitesse industrielle) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] — rôle: Représentation compressée de la physique d'un environnement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#yak-shaving\|yak shaving]] — nature: Tâches setup pénibles éliminées par l'IA dans l'augmented coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#zero-blast-radius\|zero blast radius]] — définition: Faible surface de risque justifiant l'absence de revue de code (1 occ., 1 fiches)

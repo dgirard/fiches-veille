@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2459 entités avec moins de 3 triples/fiches
+> 2463 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (346)
 
@@ -11660,7 +11660,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (809)
+## CONCEPT (811)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15601,16 +15601,6 @@
 
 **Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)]]
 
-### Work Slop {#Work-Slop}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **définition** : sorties IA faible valeur inondant workflows
-
-- **est_basé_sur** → [[kb/_entites-mineures#surconsommation-IA\|surconsommation IA]] (CONCEPT) — 0.88
-
-**Fiches** : [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
-
 ### Workflows {#Workflows}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16770,6 +16760,14 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
+### décrochage compétitif {#décrochage-compétitif}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Risque de long terme des économies/entreprises qui tarderaient à adopter l'IA (compétitif avant d'être social)
+
+**Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+
 ### décélérationnisme {#décélérationnisme}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17377,6 +17375,14 @@
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
+### ingénieurs augmentés {#ingénieurs-augmentés}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Équipes montées d'un cran (de l'exécution vers jugement/spécification/validation) via l'outillage IA — logique AI Champions
+
+**Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+
 ### intellect séparé {#intellect-séparé}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17440,11 +17446,14 @@
 
 ### labellisation {#labellisation}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
 - **définition** : Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid
+- **mesure** : 59 % des entreprises US invoquent l'IA pour justifier des gels d'embauche
 
-**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+- **observé_dans** → [[kb/_entites-mineures#59-%-des-entreprises-US-qui-invoquent-l'IA-pour-justifier-des-gels-d'embauche\|59 % des entreprises US qui invoquent l'IA pour justifier des gels d'embauche]] (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]], [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
 ### langage naturel {#langage-naturel}
 
@@ -18901,6 +18910,16 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
+### workslop {#workslop}
+
+**Type** : CONCEPT | 1 relations | 2 fiches
+
+- **définition** : Sortie de faible valeur produite par une adoption IA sans méthode (dette technique à vitesse industrielle)
+
+- **est_basé_sur** → [[kb/_entites-mineures#surconsommation-IA\|surconsommation IA]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]], [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+
 ### world model latent {#world-model-latent}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19104,7 +19123,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (353)
+## METHODOLOGIE (354)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19211,6 +19230,14 @@
 - **rôle** : Analyse du Cycle de Vie des modèles Mistral réalisée avec l'ADEME — première dans l'IA — refonte prévue sur nouveaux modèles, anti-compensation carbone
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+
+### AI Champions {#AI-Champions}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Programme SFEIR d'outillage des équipes pour amplifier l'IA (former des ingénieurs augmentés)
+
+**Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
 ### AI DLC {#AI-DLC}
 
@@ -22953,7 +22980,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (96)
+## DOCUMENT (97)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23347,6 +23374,14 @@
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] **a_créé** → Hype Cycle for Generative AI 2025 — 0.98
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
+
+### IA et emploi : le vrai risque, c'est le décrochage {#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **catégorie** : Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391
+
+**Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
 ### ISO/IEC/IEEE 12207 {#ISO-IEC-IEEE-12207}
 

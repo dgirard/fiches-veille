@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 17 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 4 fiches sources
 
 ## Attributs
 
@@ -55,6 +55,8 @@
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 - [[kb/_entites-mineures#la-demande-de-travail-via-l'effet-de-déplacement-(substitution-de-tâches)\|la demande de travail via l'effet de déplacement (substitution de tâches)]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+- « l'emploi des juniors exposés (−16 % chez les 22-25 ans aux US) » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
 ### surpasse
 

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 352 fiches | 1975-12 → 2026-07-22 | généré le 2026-07-23
+> 353 fiches | 1975-12 → 2026-07-23 | généré le 2026-07-23
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **23** [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]). · SFEIR — IA et emploi, décrochage compétitif, non-adoption
 - **22** [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Mistral, Mistral AI, Microsoft
 - **22** [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — SDLC, Software Development Life Cycle, PDLC
 - **20** [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit) · GitHub (Udit Akhouri) — ADHD, Udit Akhouri, idéation divergente parallèle
@@ -621,6 +622,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)](fiches/2026-07/cherny-steps-ai-adoption-2026-07-16.md) — Boris Cherny (Creator & Head of Claude Code @Anthropic)
@@ -724,6 +726,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
@@ -907,14 +910,14 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 352 fiches
-- **Par année** : 2026 (175) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 353 fiches
+- **Par année** : 2026 (176) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 120
   - Architecture & Construction : 37
-  - Transformation & Adoption : 72
+  - Transformation & Adoption : 73
   - Qualité & Sécurité : 25
-  - Économie & Marché : 63
+  - Économie & Marché : 64
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 16
   - Outils & Plateformes : 29
@@ -923,7 +926,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Politique & Régulation : 14
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
-  - SFEIR (8)
+  - SFEIR (9)
   - Anthropic (8)
   - Chris Williams (7)
   - Deep Research Veille Interne (7)
@@ -944,7 +947,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Nicolas Martignole (2)
 - **Sources (top 20)** :
   - Anthropic (13)
-  - SFEIR (8)
+  - SFEIR (9)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Deep Research (7)

@@ -1,12 +1,12 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 31 relations | 7 fiches sources
+> **Type** : ORGANISATION | 38 relations | 8 fiches sources
 
 ## Attributs
 
 - **capacité_revendiquée** : équivalent 10 000 personnes
 - **effectif** : ~1 000 personnes
-- **positionnement** : Thèse AI4IT > AI4Business ; FinOps de l'usine logicielle
+- **positionnement** : « Amplifier l'IA plutôt que la subir » ; adoption comme levier vs pile de POCs
 - **posture** : Cabinet « AI Only », partenaire Google Cloud Premier ET Anthropic ; thèse : le modèle est une commodité, la valeur est dans le Context/Harness Engineering
 - **relation** : Groupe parent de WEnvision
 - **rôle** : Auteur de la synthèse (ESN / cabinet tech)
@@ -21,12 +21,16 @@
 
 ### affirme_que
 
+- « le vrai risque de l'IA sur l'emploi est le décrochage compétitif (non-adoption), pas la destruction d'emplois » (AFFIRMATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - « l'architecte moderne devient un amplificateur d'intelligence plutôt qu'un oracle technique » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « la souveraineté est une propriété d'architecture, pas un label : elle se qualifie dépendance par dépendance » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 - « il faut distinguer quatre souverainetés — modèle, exécution, infrastructure, relation commerciale — dont cet accord n'en offre que trois sur quatre » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « l'argument d'élasticité-prix est structurellement pro-emploi pour les développeurs » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - « l'IA est un catalyseur qui revalorise synthèse, vision stratégique et lien tech-business » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « l'IA exécute des phases entières, elle n'assiste pas » (AFFIRMATION) — 0.90, ATEMPOREL
@@ -39,6 +43,10 @@
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « à mesure que le code devient une commodité, la marge se déplace vers le jugement produit et la gouvernance » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+- « le scénario agentique, relégué en note de bas de page, pourrait invalider le cadre « assistant ponctuel » de la note » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « OpenAI et Anthropic, devenus sources de Bercy, produisent la donnée sur leur propre impact (biais de source non signalé) » (AFFIRMATION) — 0.87, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 - « la stratégie industrielle de Mistral est encore illisible : présence simultanée B2C/B2B/modèle/infrastructure/verticalisation sans fossé défensif identifiable » (AFFIRMATION) — 0.85, DYNAMIQUE
@@ -65,6 +73,8 @@
 
 ### publie
 
+- [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage-(article)\|IA et emploi : le vrai risque, c'est le décrochage (article)]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[kb/_entites-mineures#Un-SDLC-piloté-par-l'IA-le-cycle-SFEIR-à-11-phases\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
@@ -74,6 +84,10 @@
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - « router par tâche entre modèles plutôt que chercher un modèle champion » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- « encadrer l'adoption par le context engineering et une gouvernance de l'automatisable (éviter le workslop) » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « former des ingénieurs augmentés (programmes AI Champions) face au signal juniors » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - « routing multi-modèles (un modèle par tâche, un modèle par contrainte) plutôt qu'un choix tranché propriétaire/open-weights » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - « séparer le modèle du canal, concevoir pour sortir (Design to Exit) et router plutôt que parier » (AFFIRMATION) — 0.90, ATEMPOREL
@@ -110,4 +124,5 @@
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]

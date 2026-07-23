@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 393 entités de type METHODOLOGIE
+> 394 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -17,6 +17,7 @@
 - [[kb/ACE\|ACE]] — signification: Agentic Context Engineering (4 occ., 1 fiches)
 - [[kb/_entites-mineures#ACV-ADEME-Mistral\|ACV ADEME Mistral]] — rôle: Analyse du Cycle de Vie des modèles Mistral réalisée avec l'ADEME — première dans l'IA — refonte prévue sur nouveaux modèles, anti-compensation carbone (1 occ., 1 fiches)
 - [[kb/ADLC\|ADLC]] — rôle: Cadre convergent (8 phases, 2 gates) cité comme découverte indépendante (3 occ., 2 fiches)
+- [[kb/_entites-mineures#AI-Champions\|AI Champions]] — définition: Programme SFEIR d'outillage des équipes pour amplifier l'IA (former des ingénieurs augmentés) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-DLC\|AI DLC]] — définition: AI Development Lifecycle (AWS) : sprints remplacés par des Bolts pluri-quotidiens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Native-Workflows\|AI Native Workflows]] — catégorie: Processus de développement logiciel augmenté par IA (1 occ., 1 fiches)
@@ -274,7 +275,7 @@
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
-- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (4 occ., 4 fiches)
+- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (5 occ., 5 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (2 occ., 2 fiches)

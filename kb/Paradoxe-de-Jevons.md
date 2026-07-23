@@ -1,9 +1,10 @@
 # Paradoxe de Jevons
 
-> **Type** : CONCEPT | 3 relations | 4 fiches sources
+> **Type** : CONCEPT | 4 relations | 5 fiches sources
 
 ## Attributs
 
+- **application** : Appliqué au code : coût moindre → demande de logiciel plus que proportionnelle (élasticité > 1)
 - **categorie** : Loi economique - demande infinie quand cout tend vers zero
 - **description** : L'efficacité accrue augmente la consommation plutôt que la réduire
 - **définition** : Une baisse des coûts induite par l'IA peut accroître la demande (et l'emploi) si l'élasticité-prix est élevée
@@ -20,6 +21,8 @@
 
 - [[kb/_entites-mineures#code-généré-par-IA\|code généré par IA]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+- [[kb/_entites-mineures#la-demande-de-code-(élasticité-1-chez-les-développeurs)\|la demande de code (élasticité > 1 chez les développeurs)]] (CONCEPT) — 0.92, ATEMPOREL
+  - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[kb/_entites-mineures#productivité-vibe-coding\|productivité vibe coding]] (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
 
@@ -28,4 +31,5 @@
 - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
 - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+- [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
