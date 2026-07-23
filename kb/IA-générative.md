@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 14 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 15 relations | 4 fiches sources
 
 ## Attributs
 
@@ -49,6 +49,8 @@
   - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 - [[kb/_entites-mineures#valeur-des-documents-comme-signaux\|valeur des documents comme signaux]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+- « le coût et la durée du SDLC : implémentation de semaines à heures » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### surpasse
 

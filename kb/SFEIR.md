@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 29 relations | 7 fiches sources
+> **Type** : ORGANISATION | 31 relations | 7 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,8 @@
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - « les specs et scores de Kimi K3 sont auto-déclarés (vendor-stated) et à traiter comme des revendications, pas des faits mesurés » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- « à mesure que le code devient une commodité, la marge se déplace vers le jugement produit et la gouvernance » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 - « la prochaine dépendance se contracte au niveau du modèle et de l'agent, pas de l'infrastructure » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 - « la stratégie industrielle de Mistral est encore illisible : présence simultanée B2C/B2B/modèle/infrastructure/verticalisation sans fossé défensif identifiable » (AFFIRMATION) — 0.85, DYNAMIQUE
@@ -86,6 +88,8 @@
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - « traiter infrastructure, plateforme et modèle comme trois couches à garder ouvertes » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+- « une DSI doit instrumenter la jonction produit, exiger des spécifications exécutables et refuser le rôle de fournisseur de features » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### s_inspire_de
 

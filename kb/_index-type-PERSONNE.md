@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 458 entités de type PERSONNE
+> 459 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -30,7 +30,7 @@
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] — rôle: Collègue chercheur de Mollick (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] — rôle: Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
-- [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (4 occ., 4 fiches)
+- [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (5 occ., 5 fiches)
 - [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] — rôle: CEO Amazon ; a chiffré les gains d'Amazon Q (« 4 500 années de développement », 260 M$/an) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] — rôle: Professeur, Harvard Business School (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] — domaine: Sciences comportementales (1 occ., 1 fiches)
@@ -215,7 +215,7 @@
 - [[kb/Joe-Mandese\|Joe Mandese]] — rôle: Editor-in-Chief MediaPost. Auteur article opinion "Billable Hours Are Dead, AI Killed Them, Here's How To Survive" (3 mars 2026, section Media 3.0) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] — rôle: Développeur indépendant, créateur de TOON (1 occ., 1 fiches)
-- [[kb/John-Cutler\|John Cutler]] — rôle: Head of Product chez Dotwork (1 occ., 1 fiches)
+- [[kb/John-Cutler\|John Cutler]] — rôle: Auteur produit ayant popularisé la notion de « feature factory » (output vs outcome) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] — rôle: Auteur académique cité (Deepnote) (1 occ., 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] — rôle: Analyste RH-tech, fondateur The Josh Bersin Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] — rôle: Ingénieur / Auteur chez Vercel (1 occ., 1 fiches)
@@ -277,6 +277,7 @@
 - [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] — rôle: Journaliste signataire de la synthèse pour Courrier International (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
 - [[kb/Martin-Monperrus\|Martin Monperrus]] — rôle: Chercheur en génie logiciel (KTH), auteur du papier (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Marty-Cagan\|Marty Cagan]] — rôle: Auteur produit (SVPG) : cadre des Four Big Risks (2017) et thèse du déplacement du goulot vers la discovery quand le coût du delivery s'effondre (2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] — rôle: Fondateur de la start-up d'IA Pylon ; revendique 92 h/semaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] — rôle: Auteur principal, chercheur Banque Mondiale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)

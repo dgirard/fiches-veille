@@ -1,10 +1,11 @@
 # cycle SFEIR à 11 phases
 
-> **Type** : METHODOLOGIE | 8 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 9 relations | 2 fiches sources
 
 ## Attributs
 
 - **définition** : SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations
+- **rôle** : Cadre maison SFEIR (« Concevoir et fabriquer à l'ère de l'agentique ») avec la Software Factory 10x : règle le versant ingénierie (SDLC augmenté), l'articulation SDLC/PDLC étant le levier suivant
 
 ## Relations (comme sujet)
 
@@ -19,6 +20,11 @@
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - [[kb/_entites-mineures#The-New-SDLC-With-Vibe-Coding-(Google)\|The New SDLC With Vibe Coding (Google)]] (DOCUMENT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+
+### résout
+
+- « le versant ingénierie (SDLC augmenté) ; le levier suivant est l'articulation SDLC/PDLC » (AFFIRMATION) — 0.82, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### s_applique_à
 
@@ -44,3 +50,4 @@
 ## Fiches sources
 
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]

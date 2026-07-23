@@ -1,11 +1,11 @@
 # Andrew Ng
 
-> **Type** : PERSONNE | 14 relations | 4 fiches sources
+> **Type** : PERSONNE | 15 relations | 5 fiches sources
 
 ## Attributs
 
 - **affiliation** : DeepLearning.AI
-- **rôle** : Fondateur DeepLearning.AI ; auteur de la lettre The Batch n°359
+- **rôle** : Rapporte (AI Startup School, juil. 2025) l'inversion possible du ratio PM/ingénieurs de 1:4 vers 2:1 sous l'effet de la compression du SDLC par l'IA
 
 ## Relations (comme sujet)
 
@@ -34,6 +34,8 @@
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 - « le travail conceptuel de recherche reste majoritairement humain » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
+- « certaines équipes proposent d'inverser le ratio historique de 1 PM pour 4 ingénieurs jusqu'à 2 PM par ingénieur (juil. 2025) » (AFFIRMATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### dirige
 
@@ -56,3 +58,4 @@
 - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
+- [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]

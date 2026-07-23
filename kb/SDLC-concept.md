@@ -1,6 +1,6 @@
 # SDLC
 
-> **Type** : CONCEPT | 7 relations | 3 fiches sources
+> **Type** : CONCEPT | 10 relations | 3 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,21 @@
 - **zones d'intégration** : amont, milieu, aval
 
 ## Relations (comme sujet)
+
+### affirme_que
+
+- « le SDLC ne traite nativement qu'un risque sur quatre (la faisabilité technique) parmi les Four Big Risks de Cagan » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
+### est_instance_de
+
+- [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] (DOCUMENT) — 0.90, STATIQUE
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
+### fait_partie_de
+
+- [[kb/_entites-mineures#PDLC\|PDLC]] (METHODOLOGIE) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### réduit
 

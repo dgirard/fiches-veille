@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 827 entités de type CONCEPT
+> 830 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -223,6 +223,7 @@
 - [[kb/_entites-mineures#First-party-data\|First-party data]] — rôle: Alimentation du flywheel IA (1 occ., 1 fiches)
 - [[kb/Floating-platform\|Floating platform]] — définition: Stratégie d'évolution plateforme — quand la base platform absorbe certaines capacités, on **jette** les morceaux devenus redondants et on **remonte au-dessus** pour innover plus haut. Métaphore : bateau qui flotte sur la marée. Requiert communication contractuelle explicite avec stakeholders (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Formule-K×P×t\|Formule K×P×t]] — description: Qualité communication = Knowledge × Practice × talent (t petit) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Four-Big-Risks\|Four Big Risks]] — principe: Cadre de Marty Cagan répartissant les risques produit : Valeur (PM), Utilisabilité (Designer), Faisabilité (Lead Engineer), Viabilité business (PM) ; le SDLC ne traite nativement que la faisabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Frame-vs-Framer\|Frame vs Framer]] — définition: Distinction épistémique Shipper — les benchmarks mesurent la performance *dans* un frame (cadrage spécifique), les framers humains *changent* de frame quand le précédent est saturé. *« The frame is not the framer. »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Freed-capacity-allocation\|Freed capacity allocation]] — définition: Réallocation délibérée de la capacité libérée par IA vers (1) features, (2) stabilité, (3) remboursement dette technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] — définition: Métaphore Hohpe pour distinguer plateforme = collection juxtaposée de capacités (basket) vs assemblage proportionné bite-sized où les composants interagissent (salad). *« Per-kilo price for fruit salad is higher than for fruit basket. »* (1 occ., 1 fiches)
@@ -327,6 +328,7 @@
 - [[kb/_entites-mineures#Organisation-AI-First\|Organisation AI-First]] — piliers: Avantage concurrentiel, P&L remodelé, plateforme décentralisée, agents IA, talents spécialisés (1 occ., 1 fiches)
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] — définition: Modèle économique futur SaaS où revenue se déplace de fixed seats vers labor/operations economics — paid for outcomes/work delivered, not seats. Convergence avec Levie agents trillion + Sierra autonomous resolution (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] — catégorie: Phénomène recadré en "efficience IA" lors des layoffs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] — catégorie: 30% features cassées au premier essai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] — insight_clé: l'avantage vient du déploiement différencié, non de la vitesse (1 occ., 1 fiches)
 - [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (3 occ., 3 fiches)
@@ -602,6 +604,7 @@
 - [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] — définition: Illusion de qualité produite par la relecture humaine du code des agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#feature-factory\|feature factory]] — principe: Terme de John Cutler : organisation qui mesure le succès à l'output (features livrées) plutôt qu'à l'outcome (valeur créée) ; piège d'un SDLC excellent sans discipline PDLC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] — définition: Service interne X (non publié) qui gère les valeurs numériques des paramètres, permet A/B testing et tuning sans code change — explique l'absence de params.rs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fenêtres-de-contexte\|fenêtres de contexte]] — évolution: 8K tokens (2022) → 2M tokens (2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#financement-en-flux\|financement en flux]] — principe: Budget mensuel continu plutôt qu'investissement ponctuel (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 391 entités de type METHODOLOGIE
+> 393 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -150,6 +150,7 @@
 - [[kb/Orchestration-d'agents\|Orchestration d'agents]] — manque: Brique open source absente (registry, cycle de vie, permissions, skills) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] — description: Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] — structure: Problem, Agitate, Solve (1 occ., 1 fiches)
+- [[kb/_entites-mineures#PDLC\|PDLC]] — définition: Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PREP\|PREP]] — structure: Point, Reason, Example, Point (1 occ., 1 fiches)
 - [[kb/PROJ-AI\|PROJ-AI]] — définition: Couche méthodologique légère pour rendre les projets collectifs transmissibles via repo+agent+doctrine ; transforme les projets en artefacts réutilisables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] — catégorie: Évaluation biais politique IA (1 occ., 1 fiches)
@@ -183,7 +184,7 @@
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] — définition: Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] — rôle: AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
-- [[kb/SDLC-methodologie\|SDLC]] — phases: Définir → construire → vérifier → déployer → maintenir (invariant) (2 occ., 2 fiches)
+- [[kb/SDLC-methodologie\|SDLC]] — phases: Définir → construire → vérifier → déployer → maintenir (invariant) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev en 5 étapes (Plan, Orchestrate, Code, Review, Operate) où agents et humains s'associent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] — définition: Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
@@ -253,6 +254,7 @@
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] — description: IA intégrée aux workflows cœur, non ajoutée superficiellement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] — catégorie: Déploiement incrémental entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] — description: Séparation des rôles architecte/implémenteur entre deux instances Claude (1 occ., 1 fiches)
+- [[kb/_entites-mineures#approche-spec-driven\|approche spec-driven]] — principe: Spec-driven development : l'artefact de conception PDLC alimente directement le SDLC et devient exécutable par des agents, rendant poreuse la frontière entre les deux cycles (1 occ., 1 fiches)
 - [[kb/approche-spec-driven-IA\|approche spec-driven IA]] — étapes: Onboarding, Planification atomique, Développement itératif, Capitalisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approches-hybrides\|approches hybrides]] — description: Combinaison efficacité IA et rigueur de vérification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#architecture-multi-LLM-souveraine\|architecture multi-LLM souveraine]] — principe: Abstraire les modèles derrière une couche de routage et garder ses données en formats ouverts, pour transformer le choix de fournisseur en paramètre ; industrialisée par SFEIR via RAISE (1 occ., 1 fiches)
@@ -275,7 +277,7 @@
 - [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
-- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (1 occ., 1 fiches)
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (2 occ., 2 fiches)
 - [[kb/_entites-mineures#cycle-agentique-en-huit-phases\|cycle agentique en huit phases]] — phases: P0 Triage, P1 Interrogate, P2 Decompose, P3 Rail, P4 Build, P5 Prosecute, P6 Integrate, P7 Distill (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cycle-de-vie-agent\|cycle de vie agent]] — phases: Experiment → Deploy → Operate → Improve (1 occ., 1 fiches)
 - [[kb/_entites-mineures#design-patterns\|design patterns]] — catégorie: Mécanisme de transmission du jugement architectural (1 occ., 1 fiches)

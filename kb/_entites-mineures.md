@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2446 entités avec moins de 3 triples/fiches
+> 2451 entités avec moins de 3 triples/fiches
 
-## PERSONNE (345)
+## PERSONNE (346)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2041,6 +2041,17 @@
 - **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+
+### Marty Cagan {#Marty-Cagan}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur produit (SVPG) : cadre des Four Big Risks (2017) et thèse du déplacement du goulot vers la discovery quand le coût du delivery s'effondre (2026)
+
+- **a_créé** → [[kb/_entites-mineures#Four-Big-Risks\|Four Big Risks]] (CONCEPT) — 0.92
+- **affirme_que** → [[kb/_entites-mineures#quand-le-coût-du-delivery-s'effondre,-le-goulot-d'étranglement-se-déplace-vers-l'amont-décider-quoi-construire-(avril-2026)\|quand le coût du delivery s'effondre, le goulot d'étranglement se déplace vers l'amont : décider quoi construire (avril 2026)]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### Marty Kausas {#Marty-Kausas}
 
@@ -11639,7 +11650,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (800)
+## CONCEPT (802)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13498,6 +13509,18 @@
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
 
+### Four Big Risks {#Four-Big-Risks}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **principe** : Cadre de Marty Cagan répartissant les risques produit : Valeur (PM), Utilisabilité (Designer), Faisabilité (Lead Engineer), Viabilité business (PM) ; le SDLC ne traite nativement que la faisabilité
+
+- **s_applique_à** → [[kb/_entites-mineures#répartition-des-responsabilités-produit-Valeur-Viabilité-(PM),-Utilisabilité-(Designer),-Faisabilité-(Lead-Engineer)\|répartition des responsabilités produit : Valeur/Viabilité (PM), Utilisabilité (Designer), Faisabilité (Lead Engineer)]] (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Marty-Cagan\|Marty Cagan]] **a_créé** → Four Big Risks — 0.92
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
 ### Frame vs Framer {#Frame-vs-Framer}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -14413,6 +14436,14 @@
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
+### PLC {#PLC}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail »)
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
 ### Painted Doors Problem {#Painted-Doors-Problem}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -14859,24 +14890,6 @@
 - **description** : AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
-
-### SDLC {#SDLC}
-
-**Type** : CONCEPT | 7 relations | 3 fiches
-
-- **définition** : Cycle de vie du développement logiciel
-- **zones d'intégration** : amont, milieu, aval
-
-- **réduit** → [[kb/_entites-mineures#modes-de-défaillance-humains-(ego,-fatigue,-oubli)\|modes de défaillance humains (ego, fatigue, oubli)]] (CONCEPT) — 0.90
-
-- [[kb/BMAD\|BMAD]] **s_applique_à** → SDLC — 0.97
-- [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
-- [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
-- [[kb/IA\|IA]] **améliore** → SDLC — 0.95
-- [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
-- [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
-
-**Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]], [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]], [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
 
 ### SEO {#SEO}
 
@@ -16930,6 +16943,18 @@
 - **définition** : Illusion de qualité produite par la relecture humaine du code des agents
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
+
+### feature factory {#feature-factory}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **principe** : Terme de John Cutler : organisation qui mesure le succès à l'output (features livrées) plutôt qu'à l'outcome (valeur créée) ; piège d'un SDLC excellent sans discipline PDLC
+
+- **observé_dans** → [[kb/_entites-mineures#organisations-fortes-en-SDLC-mais-aveugles-au-PDLC,-qui-mesurent-le-succès-à-l'output-plutôt-qu'à-l'outcome\|organisations fortes en SDLC mais aveugles au PDLC, qui mesurent le succès à l'output plutôt qu'à l'outcome]] (AFFIRMATION) — 0.88
+
+- [[kb/John-Cutler\|John Cutler]] **a_créé** → feature factory — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### feature-switch parameter service {#feature-switch-parameter-service}
 
@@ -19004,7 +19029,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (352)
+## METHODOLOGIE (353)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20267,6 +20292,18 @@
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts]]
 
+### PDLC {#PDLC}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement
+
+- **s_oppose_à** → [[kb/_entites-mineures#PLC-(product-life-cycle,-Theodore-Levitt-1965)-le-PLC-observe-une-courbe-commerciale,-le-PDLC-organise-un-travail-de-conception\|PLC (product life cycle, Theodore Levitt 1965) : le PLC observe une courbe commerciale, le PDLC organise un travail de conception]] (AFFIRMATION) — 0.85
+
+- [[kb/SDLC-methodologie\|SDLC]] **fait_partie_de** → PDLC — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
 ### PREP {#PREP}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -20546,24 +20583,6 @@
 - **recommande** → [[kb/_entites-mineures#consacrer-70%-de-l'effort-à-l'humain-dans-la-transformation-IA\|consacrer 70% de l'effort à l'humain dans la transformation IA]] (AFFIRMATION) — 0.97
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
-
-### SDLC {#SDLC}
-
-**Type** : METHODOLOGIE | 7 relations | 2 fiches
-
-- **catégorie** : Cycle de développement logiciel hérité, pensé pour des humains
-- **phases** : Définir → construire → vérifier → déployer → maintenir (invariant)
-
-- **réduit** → [[kb/_entites-mineures#modes-de-défaillance-humains-(ego,-fatigue,-oubli)\|modes de défaillance humains (ego, fatigue, oubli)]] (CONCEPT) — 0.90
-
-- [[kb/BMAD\|BMAD]] **s_applique_à** → SDLC — 0.97
-- [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
-- [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
-- [[kb/IA\|IA]] **améliore** → SDLC — 0.95
-- [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
-- [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
-
-**Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]], [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
 
 ### SDLC AI-native {#SDLC-AI-native}
 
@@ -21165,6 +21184,16 @@
 - [[kb/Jesse-Vincent\|Jesse Vincent]] **utilise** → approche multi-sessions — 0.97
 
 **Fiches** : [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
+
+### approche spec-driven {#approche-spec-driven}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Spec-driven development : l'artefact de conception PDLC alimente directement le SDLC et devient exécutable par des agents, rendant poreuse la frontière entre les deux cycles
+
+- **permet** → [[kb/_entites-mineures#rendre-poreuse-la-frontière-PDLC-SDLC-la-spécification-produit-devient-directement-exécutable-par-des-agents\|rendre poreuse la frontière PDLC/SDLC : la spécification produit devient directement exécutable par des agents]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### approches hybrides {#approches-hybrides}
 
@@ -22849,7 +22878,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (95)
+## DOCUMENT (96)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23243,6 +23272,16 @@
 - [[kb/_entites-mineures#Arun-Chandrasekaran\|Arun Chandrasekaran]] **a_créé** → Hype Cycle for Generative AI 2025 — 0.98
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
+
+### ISO/IEC/IEEE 12207 {#ISO-IEC-IEEE-12207}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC
+
+- [[kb/SDLC-methodologie\|SDLC]] **est_instance_de** → ISO/IEC/IEEE 12207 — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
 ### Industrial Policy for the Intelligence Age {#Industrial-Policy-for-the-Intelligence-Age}
 

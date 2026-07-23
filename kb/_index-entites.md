@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2851 entités
+> 2858 entités
 
 ## #
 
@@ -267,7 +267,7 @@
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] (PERSONNE, 2 fiches)
-- [[kb/Andrew-Ng\|Andrew Ng]] (PERSONNE, 4 fiches)
+- [[kb/Andrew-Ng\|Andrew Ng]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] (PERSONNE, 1 fiches)
@@ -306,6 +306,7 @@
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#approche-spec-driven\|approche spec-driven]] (METHODOLOGIE, 1 fiches)
 - [[kb/approche-spec-driven-IA\|approche spec-driven IA]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approches-hybrides\|approches hybrides]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Approved-fixtures\|Approved fixtures]] (METHODOLOGIE, 1 fiches)
@@ -806,7 +807,7 @@
 - [[kb/_entites-mineures#cycle-de-vie-agent\|cycle de vie agent]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cycle-DPEV\|Cycle DPEV]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cycle-en-V-prédictible\|Cycle en V prédictible]] (METHODOLOGIE, 1 fiches)
-- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE, 1 fiches)
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE, 2 fiches)
 ## D
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
@@ -1053,6 +1054,7 @@
 - [[kb/_entites-mineures#FastCDC\|FastCDC]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FDA\|FDA]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#feature-factory\|feature factory]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fella-&-Delilah\|Fella & Delilah]] (ORGANISATION, 1 fiches)
@@ -1100,6 +1102,7 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Fountain\|Fountain]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Four-Big-Risks\|Four Big Risks]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Frame-vs-Framer\|Frame vs Framer]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Framework-4-quadrants\|Framework 4 quadrants]] (METHODOLOGIE, 1 fiches)
 - [[kb/framework-6-étapes\|framework 6 étapes]] (METHODOLOGIE, 1 fiches)
@@ -1419,6 +1422,7 @@
 - [[kb/_entites-mineures#Irregular\|Irregular]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Is-This-Architecture-Look-for-Decisions\|Is This Architecture? Look for Decisions]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#islands-architecture\|islands architecture]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#IT-for-Business\|IT for Business]] (ORGANISATION, 1 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] (PERSONNE, 2 fiches)
 - [[kb/Ivan-Chepurin\|Ivan Chepurin]] (PERSONNE, 1 fiches)
@@ -1465,7 +1469,7 @@
 - [[kb/Joe-Mandese\|Joe Mandese]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] (PERSONNE, 1 fiches)
-- [[kb/John-Cutler\|John Cutler]] (PERSONNE, 1 fiches)
+- [[kb/John-Cutler\|John Cutler]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
@@ -1656,6 +1660,7 @@
 - [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] (PERSONNE, 1 fiches)
 - [[kb/Martin-Monperrus\|Martin Monperrus]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Marty-Cagan\|Marty Cagan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Marty-Kausas\|Marty Kausas]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] (PERSONNE, 1 fiches)
@@ -1980,6 +1985,7 @@
 - [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] (PERSONNE, 1 fiches)
 - [[kb/Paula-Hingel\|Paula Hingel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Pause-Ads\|Pause Ads]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#PDLC\|PDLC]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Peak-productivité-3-outils-IA\|Peak productivité 3 outils IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] (CONCEPT, 1 fiches)
@@ -2050,6 +2056,7 @@
 - [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#PlayerZero\|PlayerZero]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Playwright\|Playwright]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#PLC\|PLC]] (CONCEPT, 1 fiches)
 - [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Plugin-marketplace-Intercom\|Plugin marketplace Intercom]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] (CONCEPT, 1 fiches)
@@ -2167,7 +2174,7 @@
 - [[kb/_entites-mineures#Ralph-Loop\|Ralph Loop]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] (DOCUMENT, 1 fiches)
-- [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT, 1 fiches)
+- [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT, 1 fiches)
@@ -2307,7 +2314,7 @@
 - [[kb/Scout\|Scout]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#SDK-Codex\|SDK Codex]] (TECHNOLOGIE, 1 fiches)
 - [[kb/SDLC-concept\|SDLC]] (CONCEPT, 3 fiches)
-- [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE, 2 fiches)
+- [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Seagate\|Seagate]] (ORGANISATION, 1 fiches)
