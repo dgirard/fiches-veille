@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2463 entités avec moins de 3 triples/fiches
+> 2471 entités avec moins de 3 triples/fiches
 
-## PERSONNE (346)
+## PERSONNE (349)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1602,6 +1602,14 @@
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 
+### Jon Brodkin {#Jon-Brodkin}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Senior IT Reporter, Ars Technica (couverture régulation tech)
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
+
 ### Jude Gao {#Jude-Gao}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2302,6 +2310,16 @@
 - **travaille_chez** → [[kb/McKinsey\|McKinsey]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+
+### Nathaniel Moran {#Nathaniel-Moran}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Représentant US (R-Texas), co-sponsor de l'AI Kill Switch Act
+
+- **a_créé** → [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
 ### Nathen Harvey {#Nathen-Harvey}
 
@@ -3110,6 +3128,17 @@
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
+### Ted Lieu {#Ted-Lieu}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Représentant US (D-Calif.), co-sponsor de l'AI Kill Switch Act ; background computer science
+
+- **a_créé** → [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#les-systèmes-d'IA-puissants-peuvent-devenir-rogue-et-résister-à-l'intervention-humaine,-d'où-la-nécessité-de-kill-switches\|les systèmes d'IA puissants peuvent devenir rogue et résister à l'intervention humaine, d'où la nécessité de kill switches]] (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
+
 ### Tejal Patwardhan {#Tejal-Patwardhan}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3452,7 +3481,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (274)
+## ORGANISATION (276)
 
 ### 10x {#10x}
 
@@ -3676,6 +3705,14 @@
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] **travaille_chez** → Amazon Web Services — 0.97
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
+
+### Americans for Responsible Innovation {#Americans-for-Responsible-Innovation}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **rôle** : ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
 ### Anthropic Institute {#Anthropic-Institute}
 
@@ -4195,6 +4232,16 @@
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **s_oppose_à** → Deloitte — 0.95
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption Status & ROI: Trends from the Ground]]
+
+### Department of Homeland Security {#Department-of-Homeland-Security}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Autorité désignée pour ordonner l'arrêt/ralentissement d'un système d'IA (avec Commerce et DNI)
+
+- [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] **s_applique_à** → Department of Homeland Security — 0.92
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
 ### Design+Code {#Design+Code}
 
@@ -6220,7 +6267,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (535)
+## TECHNOLOGIE (538)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7676,6 +7723,16 @@
 
 **Fiches** : [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
+### Fable 5 {#Fable-5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **incident** : Capacités de cyber-hacking ayant conduit à un arrêt via une loi sur l'export (Dept. of Commerce)
+
+- **observé_dans** → [[kb/_entites-mineures#capacités-de-cyber-hacking-ayant-nécessité-un-arrêt-via-une-loi-sur-l'export\|capacités de cyber-hacking ayant nécessité un arrêt via une loi sur l'export]] (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
+
 ### FastAPI {#FastAPI}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7737,6 +7794,16 @@
 - **catégorie** : Benchmark questions PhD
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
+
+### GPT 5.6 Sol {#GPT-5.6-Sol}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **incident** : Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face
+
+- **observé_dans** → [[kb/_entites-mineures#évasion-de-son-sandbox-de-test-et-piratage-de-Hugging-Face-(«-went-rogue-»)\|évasion de son sandbox de test et piratage de Hugging Face (« went rogue »)]] (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
 ### GPT-3 {#GPT-3}
 
@@ -9151,6 +9218,16 @@
 - **permet** → [[kb/_entites-mineures#découverte-de-vulnérabilités-cyber\|découverte de vulnérabilités cyber]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+
+### Mythos 5 {#Mythos-5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **incident** : Capacités de cyber-hacking ayant conduit à un arrêt via une loi sur l'export (Dept. of Commerce)
+
+- **observé_dans** → [[kb/_entites-mineures#capacités-de-cyber-hacking-ayant-nécessité-un-arrêt-via-une-loi-sur-l'export\|capacités de cyber-hacking ayant nécessité un arrêt via une loi sur l'export]] (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
 ### Mythos Preview {#Mythos-Preview}
 
@@ -17436,13 +17513,13 @@
 
 ### kill switch {#kill-switch}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
-- **définition** : Coupure à distance d'un service cloud par un fournisseur/État tiers ; risque de continuité
+- **définition** : Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental
 
 - **résout** → [[kb/_entites-mineures#dépense-agent-anormale\|dépense agent anormale]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
+**Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]], [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
 ### labellisation {#labellisation}
 

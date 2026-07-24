@@ -1,12 +1,13 @@
 # Index — DOCUMENT
 
-> 108 entités de type DOCUMENT
+> 109 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
+- [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] — catégorie: Projet de loi US (2026) imposant des kill switches et un pouvoir fédéral d'arrêt des systèmes d'IA dangereux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] — description: Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#After-Automation\|After Automation]] — description: Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath (1 occ., 1 fiches)

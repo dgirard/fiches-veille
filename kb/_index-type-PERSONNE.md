@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 459 entités de type PERSONNE
+> 462 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -217,6 +217,7 @@
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] — rôle: Développeur indépendant, créateur de TOON (1 occ., 1 fiches)
 - [[kb/John-Cutler\|John Cutler]] — rôle: Auteur produit ayant popularisé la notion de « feature factory » (output vs outcome) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] — rôle: Auteur académique cité (Deepnote) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] — rôle: Senior IT Reporter, Ars Technica (couverture régulation tech) (1 occ., 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] — rôle: Analyste RH-tech, fondateur The Josh Bersin Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] — rôle: Ingénieur / Auteur chez Vercel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Julie-Bedard\|Julie Bedard]] — rôle: Consultante BCG, auteure du sondage HBR mars 2026 sur l'usage IA (2 occ., 2 fiches)
@@ -309,6 +310,7 @@
 - [[kb/_entites-mineures#NLW\|NLW]] — rôle: Animateur AI Daily Brief (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nancy-Duarte\|Nancy Duarte]] — spécialité: Design présentations, Slidology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] — rôle: Représentant US (R-Texas), co-sponsor de l'AI Kill Switch Act (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] — rôle: Lead DORA team Google Cloud, co-auteur multiples DORA reports + 97 Things Every Cloud Engineer Should Know (O'Reilly 2020) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] — rôle: Co-fondateur StrongDM AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] — rôle: Collègue de Böckeler chez Thoughtworks (1 occ., 1 fiches)
@@ -416,6 +418,7 @@
 - [[kb/_entites-mineures#Tanuj-Kapilashrami\|Tanuj Kapilashrami]] — rôle: Chief Strategy and Talent Officer Standard Chartered (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tariq-KRIM\|Tariq KRIM]] — rôle: Analyste, auteur Cybernetica (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ted-Chiang\|Ted Chiang]] — rôle: Écrivain de science-fiction américain, auteur essai BuzzFeed News 2017 sur superintelligence comme no-holds-barred capitalism — citation canonique mobilisée par Wallace-Wells 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ted-Lieu\|Ted Lieu]] — rôle: Représentant US (D-Calif.), co-sponsor de l'AI Kill Switch Act ; background computer science (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] — rôle: Lead frontier evaluations OpenAI, responsable GDPVal (1 occ., 1 fiches)
 - [[kb/Thariq\|Thariq]] — rôle: Ingénieur Anthropic, expert Claude Code (1 occ., 1 fiches)
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] — rôle: Équipe Claude Code (intervenant Fireside Chat AIE) (4 occ., 4 fiches)

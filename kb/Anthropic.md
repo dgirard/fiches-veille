@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 102 relations | 37 fiches sources
+> **Type** : ORGANISATION | 104 relations | 37 fiches sources
 
 ## Attributs
 
@@ -207,6 +207,8 @@
 
 - [[kb/_entites-mineures#release-de-Claude-Mythos-(refus-public-avril-2026)\|release de Claude Mythos (refus public avril 2026)]] (EVENEMENT) — 0.96, STATIQUE
   - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+- « usage de Claude pour la guerre autonome et la surveillance de masse » (AFFIRMATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -245,6 +247,7 @@
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
+- [[kb/_entites-mineures#administration-Trump\|administration Trump]] **s_oppose_à** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/OpenAI\|OpenAI]] **concurrence** → Anthropic — 0.82

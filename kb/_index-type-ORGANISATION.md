@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 358 entités de type ORGANISATION
+> 360 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -29,6 +29,7 @@
 - [[kb/_entites-mineures#Allianz\|Allianz]] — secteur: Assurance (1 occ., 1 fiches)
 - [[kb/Amazon\|Amazon]] — secteur: Technologie / Commerce / Cloud (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans) (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
 - [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (37 occ., 37 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
@@ -98,6 +99,7 @@
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/Delos-Intelligence\|Delos Intelligence]] — profil: Startup française d'IA générative B2B (delos.so), SAS immatriculée le 02/07/2023 (RCS Paris 977 575 612), siège Paris ; plateforme d'orchestration multi-modèles à crédits ; 200+ entreprises clientes (1 occ., 1 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] — secteur: Gouvernement américain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Department-of-Homeland-Security\|Department of Homeland Security]] — rôle: Autorité désignée pour ordonner l'arrêt/ralentissement d'un système d'IA (avec Commerce et DNI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] — secteur: Plateforme éducation design Meng To (designcode.io) en refonte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] — secteur: Product management / Operating systems (1 occ., 1 fiches)

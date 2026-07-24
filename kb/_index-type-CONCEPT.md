@@ -655,7 +655,7 @@
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
-- [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Coupure à distance d'un service cloud par un fournisseur/État tiers ; risque de continuité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental (2 occ., 2 fiches)
 - [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (2 occ., 2 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)

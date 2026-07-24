@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 353 fiches | 1975-12 → 2026-07-23 | généré le 2026-07-23
+> 354 fiches | 1975-12 → 2026-07-23 | généré le 2026-07-24
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **23** [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué. · Ars Technica — AI Kill Switch Act, kill switch, off switch
 - **23** [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]). · SFEIR — IA et emploi, décrochage compétitif, non-adoption
 - **22** [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Mistral, Mistral AI, Microsoft
 - **22** [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — SDLC, Software Development Life Cycle, PDLC
@@ -698,6 +699,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué.
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [Solving the Identity Crisis for AI Agents](fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21.md) — **Matt Mathew** (Sr Staff Engineer), **Prasad Borole** (Staff Software Engineer), **Meng Huang** (Engineering Manager), **Sergey Burykin** (Sr Software Engineer), **Gaurav Goel** (Software Engineer II), **Bayard Walsh** (Software Engineer I). Tous chez **Uber**, équipe Security/Identity infrastructure responsable du déploiement de l'architecture d'identité agentique en production. Composition d'équipe représentative : un Engineering Manager, un Staff senior cadre, un Staff IC architecte, deux SWE séniors/intermédiaires, un SWE I — pattern classique d'une équipe Uber qui livre une plateforme transverse mission-critical.
 - [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto
@@ -893,6 +895,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué.
 - [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.)
 - [Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global AI Governance System »](fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17.md) — Xi Jinping (auteur du discours). Sources primaires : Xinhua / State Council Information Office (SCIO) ; corroboration : Beijing Review, People's Daily. Réactions/analyses tierces : ONU (António Guterres), CNN, Reuters, Paul Triolo (DGA-Albright Stonebridge), Leon Liao, Syed Akbaruddin.
@@ -910,20 +913,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 353 fiches
-- **Par année** : 2026 (176) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 354 fiches
+- **Par année** : 2026 (177) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 120
   - Architecture & Construction : 37
   - Transformation & Adoption : 73
-  - Qualité & Sécurité : 25
+  - Qualité & Sécurité : 26
   - Économie & Marché : 64
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 16
   - Outils & Plateformes : 29
   - Recherche & Éducation : 9
   - Produits & Services : 9
-  - Politique & Régulation : 14
+  - Politique & Régulation : 15
 - **Auteurs (top 20)** :
   - Ethan Mollick (11)
   - SFEIR (9)

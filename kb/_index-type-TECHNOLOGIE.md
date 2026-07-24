@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 664 entités de type TECHNOLOGIE
+> 667 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -193,6 +193,7 @@
 - [[kb/ExpressIF-3\|ExpressIF 3]] — catégorie: System-on-Chip (SoC) IA sur architecture RISC-V (2 occ., 1 fiches)
 - [[kb/_entites-mineures#FOCUS-specification\|FOCUS specification]] — rôle: Spécification FinOps étendue par la fondation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fable\|Fable]] — catégorie: Modèle premium de codage (Claude Code) capable de jugement autonome (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Fable-5\|Fable 5]] — incident: Capacités de cyber-hacking ayant conduit à un arrêt via une loi sur l'export (Dept. of Commerce) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FastAPI\|FastAPI]] — usage: Serveur backend de l'application (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FastCDC\|FastCDC]] — performance: 8 149 MB/s (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Figma\|Figma]] — catégorie: Logiciel de design (2 occ., 2 fiches)
@@ -203,6 +204,7 @@
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
 - [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (4 occ., 4 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] — incident: Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] — catégorie: LLM généraliste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] — éditeur: OpenAI (2 occ., 2 fiches)
@@ -376,6 +378,7 @@
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] — rôle: Filtre pre-scoring qui exclut posts matchant les muted keywords du viewer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos\|Mythos]] — catégorie: Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mythos-5\|Mythos 5]] — incident: Capacités de cyber-hacking ayant conduit à un arrêt via une loi sur l'export (Dept. of Commerce) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos-Preview\|Mythos Preview]] — score_expert_pass1: 68,6% (+-8,7%) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NANDA\|NANDA]] — catégorie: Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] — catégorie: Systèmes GPU NVIDIA de dernière génération constituant le socle matériel du compute Azure réservé à Mistral en Europe (1 occ., 1 fiches)

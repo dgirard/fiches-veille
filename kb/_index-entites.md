@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2871 entités
+> 2880 entités
 
 ## #
 
@@ -175,6 +175,7 @@
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#AI-jobapalooza\|AI jobapalooza]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-jobpocalypse\|AI jobpocalypse]] (CONCEPT, 1 fiches)
+- [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#AI-lifts-underperformers-to-baseline\|AI lifts underperformers to baseline]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-Max-for-Search\|AI Max for Search]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] (METHODOLOGIE, 1 fiches)
@@ -252,6 +253,7 @@
 - [[kb/AMD\|AMD]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE, 1 fiches)
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 3 fiches)
+- [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#amorriscode\|amorriscode]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] (CONCEPT, 1 fiches)
@@ -867,6 +869,7 @@
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#demande-latente\|demande latente]] (CONCEPT, 2 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Department-of-Homeland-Security\|Department of Homeland Security]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Desalignement-incitatif\|Desalignement incitatif]] (CONCEPT, 1 fiches)
@@ -1050,6 +1053,7 @@
 ## F
 
 - [[kb/_entites-mineures#Fable\|Fable]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Fable-5\|Fable 5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Failing-Faster\|Failing Faster]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Failure-modes-market-research-IA\|Failure modes market research IA]] (CONCEPT, 1 fiches)
@@ -1253,6 +1257,7 @@
 - [[kb/Goût-développeur\|Goût développeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#goût-produit\|goût produit]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-3.5\|GPT-3.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-4\|GPT-4]] (TECHNOLOGIE, 2 fiches)
@@ -1480,6 +1485,7 @@
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] (PERSONNE, 1 fiches)
 - [[kb/John-Cutler\|John Cutler]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
@@ -1512,7 +1518,7 @@
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 5 fiches)
-- [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kimi\|Kimi]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] (TECHNOLOGIE, 1 fiches)
@@ -1823,6 +1829,7 @@
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mutual-Amplification\|Mutual Amplification]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mythos\|Mythos]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Mythos-5\|Mythos 5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mythos-Preview\|Mythos Preview]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mémoire-d'entreprise\|Mémoire d'entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] (CONCEPT, 1 fiches)
@@ -1842,6 +1849,7 @@
 - [[kb/_entites-mineures#Nano-Banana-Pro\|Nano Banana Pro]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Nanobanana\|Nanobanana]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] (TECHNOLOGIE, 1 fiches)
@@ -2594,6 +2602,7 @@
 - [[kb/_entites-mineures#techniques-de-persuasion\|techniques de persuasion]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#techygarg\|techygarg]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ted-Chiang\|Ted Chiang]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Ted-Lieu\|Ted Lieu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tejal-Patwardhan\|Tejal Patwardhan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#TELUS\|TELUS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Tencent\|Tencent]] (ORGANISATION, 1 fiches)
