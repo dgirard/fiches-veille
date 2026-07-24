@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 38 relations | 8 fiches sources
+> **Type** : ORGANISATION | 39 relations | 8 fiches sources
 
 ## Attributs
 
@@ -77,6 +77,8 @@
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - [[kb/_entites-mineures#Un-SDLC-piloté-par-l'IA-le-cycle-SFEIR-à-11-phases\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+- [[kb/_entites-mineures#Rapport-de-recherche-«-AI-Kill-Switch-Act-»-souveraineté,-seuils-et-so-what\|Rapport de recherche « AI Kill Switch Act » : souveraineté, seuils et so what]] (DOCUMENT) — 0.95, STATIQUE
+  - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ### recommande
 

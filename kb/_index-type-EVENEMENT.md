@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 44 entités de type EVENEMENT
+> 45 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -42,6 +42,7 @@
 - [[kb/_entites-mineures#bulle-dot-com\|bulle dot-com]] — période: fin des années 1990 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] — facteurs: layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#coupure-de-Fable-5-et-Mythos-5\|coupure de Fable 5 et Mythos 5]] — attribut: Suspension mondiale 12 juin → 1er juil. 2026 sur ordre d'export du Commerce (19 jours) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] — impact: Suppression de 1 206+ enregistrements de dirigeants et d'entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#migration-33-endpoints\|migration 33 endpoints]] — résultat: 13 jours, 18× plus vite, 5 PRs, 21 endpoints à 100% de couverture (1 occ., 1 fiches)
 - [[kb/migration-cursor.com\|migration cursor.com]] — date: décembre 2025 (3 occ., 1 fiches)

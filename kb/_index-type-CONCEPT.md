@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 839 entités de type CONCEPT
+> 844 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -117,7 +117,7 @@
 - [[kb/_entites-mineures#Budget-marketing-fixe\|Budget marketing fixe]] — problème: Plafonnement des campagnes performantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] — distinction: Burnout = émotionnel (allégé par IA sur tâches répétitives -15%) ; Brain fry = cognitif aigu (aggravé par oversight intensif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CFO\|CFO]] — rôle: Directeur financier, interlocuteur clé du CMO (1 occ., 1 fiches)
-- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] — catégorie: Loi extraterritoriale américaine (2 occ., 2 fiches)
+- [[kb/CLOUD-Act\|CLOUD Act]] — catégorie: Loi US 2018 d'accès extraterritorial aux données des fournisseurs américains (3 occ., 3 fiches)
 - [[kb/_entites-mineures#CMO\|CMO]] — rôle: Directeur marketing, audience cible principale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CORS\|CORS]] — catégorie: Contrainte sécurité cross-origin navigateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Capitulation-cognitive\|Capitulation cognitive]] — risque: Accepter les sorties de la boucle sans jugement (1 occ., 1 fiches)
@@ -555,6 +555,8 @@
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] — liste: Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] — faiblesse: Facilement Goodhart-able par des agents à vitesse machine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#covered-entity\|covered entity]] — définition: Entité opérant/mettant à dispo une covered technology et tirant ≥ 500 M$ (affiliés inclus) de revenu IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#covered-technology\|covered technology]] — définition: Système d'IA entraîné avec un compute dont le coût dépasse 100 M$ au prix marché du cloud US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] — nature: Coût financier direct par jeton consommé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-non-déterministe\|coût non-déterministe]] — cause: Contexte, retries, profondeur de boucle, variante de modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-outcome\|coût par outcome]] — définition: Piloter le budget IA au coût d'un résultat (ticket résolu, feature livrée), pas au décompte de tokens (1 occ., 1 fiches)
@@ -656,6 +658,7 @@
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental (2 occ., 2 fiches)
+- [[kb/_entites-mineures#kill-switch-de-fait\|kill switch de fait]] — définition: Capacité déjà démontrée de couper mondialement un modèle hébergé (précédent Anthropic, 19 jours) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (2 occ., 2 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
@@ -697,6 +700,7 @@
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] — valeur: IA utilisée dans 60% du travail mais déléguée à 0-20% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] — définition: Solow (1987) : adoption massive d'une techno sans gain visible dans les statistiques de productivité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#paradoxe-du-kill-switch\|paradoxe du kill switch]] — définition: Plus on verrouille l'IA US fermée, plus on pousse vers l'open-weight (chinois) non maîtrisable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#parallèle-du-stagiaire\|parallèle du stagiaire]] — usage: Pédagogie sur l'effort d'entraînement et la confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#params.rs-(absent)\|params.rs (absent)]] — définition: Module Rust attendu contenant les valeurs de FAVORITE_WEIGHT, OON_WEIGHT_FACTOR etc. — **n'existe pas** dans le release public (vérifié par grep -rn exhaustif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pensée-claire\|pensée claire]] — définition: Le vrai cœur du métier, que la vitesse rend impossible à simuler (1 occ., 1 fiches)
@@ -709,6 +713,7 @@
 - [[kb/_entites-mineures#pinned-means-merged\|pinned means merged]] — principe: Merger le core partagé avant le fan-out parallèle pour éviter le dependency hell (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] — catégorie: Limite gains génération code sans qualité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] — définition: Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plan-de-continuité-IA\|plan de continuité IA]] — définition: Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] — définition: Define, Plan, Ship — points de décision non négociables réservés à l'humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pression-surengagement\|pression surengagement]] — mécanisme: dire oui = aucun coût immédiat ; dire non = risque politique immédiat (1 occ., 1 fiches)

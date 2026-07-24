@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2471 entités avec moins de 3 triples/fiches
+> 2477 entités avec moins de 3 triples/fiches
 
-## PERSONNE (349)
+## PERSONNE (350)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1392,6 +1392,14 @@
 - **travaille_chez** → [[kb/HubSpot\|HubSpot]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+
+### Henna Virkkunen {#Henna-Virkkunen}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : VP exécutive Commission européenne (souveraineté technologique) — « que personne n'ait de kill switch »
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ### Ido Salomon {#Ido-Salomon}
 
@@ -11737,7 +11745,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (811)
+## CONCEPT (815)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12685,17 +12693,6 @@
 - [[kb/_entites-mineures#CMO\|CMO]] **collabore_avec** → CFO — 0.90
 
 **Fiches** : [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
-
-### CLOUD Act {#CLOUD-Act}
-
-**Type** : CONCEPT | 1 relations | 2 fiches
-
-- **catégorie** : Loi extraterritoriale américaine
-- **définition** : Loi américaine autorisant l'administration US à réclamer des données détenues par une entreprise sous juridiction américaine, où qu'elles soient physiquement stockées — critère discriminant du choix d'Airbus
-
-- **s_applique_à** → [[kb/_entites-mineures#données-détenues-par-une-entreprise-sous-juridiction-américaine-où-qu'elles-soient-stockées\|données détenues par une entreprise sous juridiction américaine où qu'elles soient stockées]] (AFFIRMATION) — 0.90
-
-**Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]], [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
 ### CMO {#CMO}
 
@@ -16569,6 +16566,22 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
+### covered entity {#covered-entity}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Entité opérant/mettant à dispo une covered technology et tirant ≥ 500 M$ (affiliés inclus) de revenu IA
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
+### covered technology {#covered-technology}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Système d'IA entraîné avec un compute dont le coût dépasse 100 M$ au prix marché du cloud US
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
 ### coût API LLM {#coût-API-LLM}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17521,6 +17534,14 @@
 
 **Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]], [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
+### kill switch de fait {#kill-switch-de-fait}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Capacité déjà démontrée de couper mondialement un modèle hébergé (précédent Anthropic, 19 jours)
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
 ### labellisation {#labellisation}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -17906,6 +17927,14 @@
 
 **Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 
+### paradoxe du kill switch {#paradoxe-du-kill-switch}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Plus on verrouille l'IA US fermée, plus on pousse vers l'open-weight (chinois) non maîtrisable
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
 ### parallèle du stagiaire {#parallèle-du-stagiaire}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18003,6 +18032,14 @@
 - **permet** → [[kb/_entites-mineures#de-former-15-millions-de-professionnels-d'ici-2030-(Académie-de-l'IA)\|de former 15 millions de professionnels d'ici 2030 (Académie de l'IA)]] (MESURE) — 0.85
 
 **Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
+### plan de continuité IA {#plan-de-continuité-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ### platform team {#platform-team}
 
@@ -22636,7 +22673,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (41)
+## EVENEMENT (42)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -22987,6 +23024,16 @@
 - **s_oppose_à** → [[kb/_entites-mineures#règles-idéalisées-d'escalation\|règles idéalisées d'escalation]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
+
+### coupure de Fable 5 et Mythos 5 {#coupure-de-Fable-5-et-Mythos-5}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **attribut** : Suspension mondiale 12 juin → 1er juil. 2026 sur ordre d'export du Commerce (19 jours)
+
+- **affirme_que** → [[kb/_entites-mineures#un-«-kill-switch-de-fait-»-est-déjà-une-réalité-opérationnelle-(19-jours-de-coupure-mondiale,-juin-2026)\|un « kill switch de fait » est déjà une réalité opérationnelle (19 jours de coupure mondiale, juin 2026)]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ### incident Replit 2025-07-18 {#incident-Replit-2025-07-18}
 

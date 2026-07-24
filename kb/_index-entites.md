@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2880 entités
+> 2888 entités
 
 ## #
 
@@ -175,7 +175,7 @@
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#AI-jobapalooza\|AI jobapalooza]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-jobpocalypse\|AI jobpocalypse]] (CONCEPT, 1 fiches)
-- [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT, 1 fiches)
+- [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#AI-lifts-underperformers-to-baseline\|AI lifts underperformers to baseline]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-Max-for-Search\|AI Max for Search]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] (METHODOLOGIE, 1 fiches)
@@ -619,7 +619,7 @@
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CLI\|CLI]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#CLOUD-Act\|CLOUD Act]] (CONCEPT, 2 fiches)
+- [[kb/CLOUD-Act\|CLOUD Act]] (CONCEPT, 3 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Development-Act-+-package-Souveraineté\|Cloud Development Act + package Souveraineté]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Foundry\|Cloud Foundry]] (TECHNOLOGIE, 1 fiches)
@@ -773,9 +773,12 @@
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)\|Couple journalistique NYT (Sun + Wallace-Wells)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#coupure-de-Fable-5-et-Mythos-5\|coupure de Fable 5 et Mythos 5]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Cour-suprême-chinoise\|Cour suprême chinoise]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Courrier-International\|Courrier International]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#covered-entity\|covered entity]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#covered-technology\|covered technology]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Coût-de-friction\|Coût de friction]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Coût-de-production-du-token\|Coût de production du token]] (CONCEPT, 1 fiches)
@@ -1333,6 +1336,7 @@
 - [[kb/_entites-mineures#HEC-Paris\|HEC Paris]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Henna-Virkkunen\|Henna Virkkunen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Hermes\|Hermes]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#HeyGen\|HeyGen]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#hill-climbing-machine\|hill climbing machine]] (CONCEPT, 1 fiches)
@@ -1519,6 +1523,7 @@
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] (PERSONNE, 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#kill-switch-de-fait\|kill switch de fait]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Kimi\|Kimi]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Kimi-Delta-Attention\|Kimi Delta Attention]] (TECHNOLOGIE, 1 fiches)
@@ -1978,6 +1983,7 @@
 - [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] (CONCEPT, 5 fiches)
 - [[kb/_entites-mineures#Paradoxe-de-l'héritage\|Paradoxe de l'héritage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#paradoxe-du-kill-switch\|paradoxe du kill switch]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#parallèle-du-stagiaire\|parallèle du stagiaire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#params.rs-(absent)\|params.rs (absent)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] (TECHNOLOGIE, 1 fiches)
@@ -2057,6 +2063,7 @@
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] (CONCEPT, 1 fiches)
 - [[kb/Plakar-organisation\|Plakar]] (ORGANISATION, 2 fiches)
 - [[kb/Plakar-technologie\|Plakar]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#plan-de-continuité-IA\|plan de continuité IA]] (CONCEPT, 1 fiches)
 - [[kb/Plan-mode\|Plan mode]] (METHODOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] (TECHNOLOGIE, 1 fiches)
@@ -2196,6 +2203,7 @@
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] (DOCUMENT, 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] (DOCUMENT, 1 fiches)
+- [[kb/rapport-SFEIR-kill-switch\|rapport SFEIR kill switch]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] (CONCEPT, 1 fiches)
