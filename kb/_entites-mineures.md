@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2493 entités avec moins de 3 triples/fiches
+> 2504 entités avec moins de 3 triples/fiches
 
-## PERSONNE (350)
+## PERSONNE (352)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1020,6 +1020,14 @@
 - [[kb/_entites-mineures#principes-zéro-chartjunk\|principes zéro chartjunk]] **s_inspire_de** → Edward Tufte — 0.90
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design: Operating Procedure for Steve Jobs-Level Obsession with Perfection]]
+
+### Elad Gil {#Elad-Gil}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Investisseur, co-hôte du podcast No Priors
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Elliot Greenwald {#Elliot-Greenwald}
 
@@ -2803,6 +2811,14 @@
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
+### Sarah Guo {#Sarah-Guo}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Investisseuse (Conviction), co-hôte du podcast No Priors
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
+
 ### Savir Basil {#Savir-Basil}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3489,7 +3505,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (278)
+## ORGANISATION (279)
 
 ### 10x {#10x}
 
@@ -4380,6 +4396,16 @@
 - **utilise** → [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+
+### Eureka Labs {#Eureka-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **catégorie** : École AI-native de Karpathy ; premier cours de niveau undergrad technique, public de tout âge, timeline annoncée fin 2024 → début 2025
+
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → Eureka Labs — 0.93
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Evertune {#Evertune}
 
@@ -11796,7 +11822,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (821)
+## CONCEPT (824)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13008,6 +13034,17 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### Companies of LLMs {#Companies-of-LLMs}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Essaim hiérarchique de modèles spécialisés (programmeur, chef de projet), escalade automatique selon la difficulté, CEO = modèle cloud, workers = modèles open source bon marché
+
+- **s_inspire_de** → [[kb/_entites-mineures#hiérarchie-d'entreprise-comme-machine-de-parallélisation-et-de-réduction-de-l'information\|hiérarchie d'entreprise comme machine de parallélisation et de réduction de l'information]] (CONCEPT) — 0.91
+- **utilise** → [[kb/_entites-mineures#modèles-open-source-bon-marché-comme-workers,-gros-modèle-cloud-comme-CEO\|modèles open source bon marché comme workers, gros modèle cloud comme CEO]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
+
 ### Compensate satisfaction with quantity {#Compensate-satisfaction-with-quantity}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -13391,11 +13428,14 @@
 
 ### Distillation {#Distillation}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **position auteur** : Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure »
 
 - **réduit** → [[kb/_entites-mineures#coûts-de-service-en-interne\|coûts de service en interne]] (CONCEPT) — 0.96
+- **permet** → [[kb/_entites-mineures#compression-d'une-large-capacité-dans-un-très-petit-modèle\|compression d'une large capacité dans un très petit modèle]] (CONCEPT) — 0.94
+
+- [[kb/Cognitive-core\|Cognitive core]] **est_basé_sur** → Distillation — 0.93
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -13466,6 +13506,16 @@
 - **description** : Diagnostic marché Talisman 2026 : demande post-ChatGPT explosée, offre praticiens formés insuffisante, gap comblé par "people who know vocabulary without methodology". Convergence DORA training cost et Tatsyi training continu
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
+
+### Effet 2 sigma de Bloom {#Effet-2-sigma-de-Bloom}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Littérature des années 80 : le tutorat un-à-un apporterait ~2 écarts-types de gain vs classe standard — cité par les hôtes comme horizon de l'IA éducative
+
+- [[kb/_entites-mineures#No-Priors-Ep.-80\|No Priors Ep. 80]] **référence** → Effet 2 sigma de Bloom — 0.92
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Effet Reine Rouge {#Effet-Reine-Rouge}
 
@@ -13556,6 +13606,14 @@
 - **s_applique_à** → [[kb/_entites-mineures#vérification-des-comportements-non-déterministes-des-agents\|vérification des comportements non déterministes des agents]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
+
+### Exocortex {#Exocortex}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Extension cognitive personnelle exécutée en local, rendue possible sous le milliard de paramètres ; forme d'essaim plutôt que de modèle unique
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Explosion cambrienne des Skills {#Explosion-cambrienne-des-Skills}
 
@@ -19340,7 +19398,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (356)
+## METHODOLOGIE (358)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19488,6 +19546,14 @@
 - **améliore** → [[kb/_entites-mineures#fusions-de-code\|fusions de code]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
+
+### AI TA {#AI-TA}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **fonctionnement** : Inversion des rôles : enseignant en back-end (curriculum, matériel), IA en front-end de l'étudiant (multilingue, interprétation du cours)
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### AI engineering {#AI-engineering}
 
@@ -20103,6 +20169,19 @@
 - **rôle** : Phase 1 : baseline acteurs + patterns visibles
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
+
+### Distillation {#Distillation}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **mécanisme** : Un très gros modèle (ou beaucoup de compute) supervise un très petit modèle ; "works surprisingly well" — seul mécanisme invoqué pour justifier le cognitive core
+
+- **réduit** → [[kb/_entites-mineures#coûts-de-service-en-interne\|coûts de service en interne]] (CONCEPT) — 0.96
+- **permet** → [[kb/_entites-mineures#compression-d'une-large-capacité-dans-un-très-petit-modèle\|compression d'une large capacité dans un très petit modèle]] (CONCEPT) — 0.94
+
+- [[kb/Cognitive-core\|Cognitive core]] **est_basé_sur** → Distillation — 0.93
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Doctrine sociale de l'Église {#Doctrine-sociale-de-l'Église}
 
@@ -22796,7 +22875,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (43)
+## EVENEMENT (44)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -22977,6 +23056,19 @@
 - **mesure** → [[kb/_entites-mineures#40-000-visiteurs\|40 000 visiteurs]] (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
+
+### No Priors Ep. 80 {#No-Priors-Ep.-80}
+
+**Type** : EVENEMENT | 3 relations | 1 fiches
+
+- **date** : 2024-09-05, podcast No Priors, hôtes Sarah Guo & Elad Gil, invité Andrej Karpathy
+
+- **référence** → [[kb/_entites-mineures#Effet-2-sigma-de-Bloom\|Effet 2 sigma de Bloom]] (CONCEPT) — 0.92
+- **référence** → [[kb/_entites-mineures#The-Diamond-Age\|The Diamond Age]] (DOCUMENT) — 0.88
+
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **observé_dans** → No Priors Ep. 80 — 0.99
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Offre départ 9 mois salaire avril 2024 {#Offre-départ-9-mois-salaire-avril-2024}
 
@@ -23235,7 +23327,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (99)
+## DOCUMENT (101)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23453,6 +23545,16 @@
 - **est_instance_de** → [[kb/_entites-mineures#glossaire-du-domaine\|glossaire du domaine]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
+
+### CS231n {#CS231n}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Premier cours de deep learning à Stanford, enseigné par Karpathy — référence de son expérience pédagogique
+
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] **a_créé** → CS231n — 0.94
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### Claude's Constitution {#Claude's-Constitution}
 
@@ -23968,6 +24070,16 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → The Cathedral and the Bazaar — 0.98
 
 **Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
+
+### The Diamond Age {#The-Diamond-Age}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Roman de Neal Stephenson, référence au Young Lady's Illustrated Primer comme archétype du tuteur personnel
+
+- [[kb/_entites-mineures#No-Priors-Ep.-80\|No Priors Ep. 80]] **référence** → The Diamond Age — 0.88
+
+**Fiches** : [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 
 ### The Eight Levels of AI Adoption {#The-Eight-Levels-of-AI-Adoption}
 

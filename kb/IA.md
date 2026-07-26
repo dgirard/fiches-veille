@@ -1,6 +1,6 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 35 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 36 relations | 4 fiches sources
 
 ## Attributs
 
@@ -63,6 +63,8 @@
   - [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophy Eats AI: Why Your Business Needs an Ontological Core]]
 - [[kb/_entites-mineures#partage-connaissance-tacite\|partage connaissance tacite]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|How to build an AI-native company (even if your company is 50 years old)]]
+- [[kb/_entites-mineures#scaling-d'un-bon-enseignant-vers-8-milliards-de-personnes-multilingues\|scaling d'un bon enseignant vers 8 milliards de personnes multilingues]] (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05\|No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka &…]]
 - [[kb/_entites-mineures#transition-des-ingénieurs-vers-la-gestion-de-systèmes-IA\|transition des ingénieurs vers la gestion de systèmes IA]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#codage-avec-attention-fracturée\|codage avec attention fracturée]] (CONCEPT) — 0.87, DYNAMIQUE

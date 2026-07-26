@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 397 entités de type METHODOLOGIE
+> 399 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -21,6 +21,7 @@
 - [[kb/_entites-mineures#AI-DLC\|AI DLC]] — définition: AI Development Lifecycle (AWS) : sprints remplacés par des Bolts pluri-quotidiens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Measurement-Framework\|AI Measurement Framework]] — origine: DX, basé sur données 400+ entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Native-Workflows\|AI Native Workflows]] — catégorie: Processus de développement logiciel augmenté par IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-TA\|AI TA]] — fonctionnement: Inversion des rôles : enseignant en back-end (curriculum, matériel), IA en front-end de l'étudiant (multilingue, interprétation du cours) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-engineering\|AI engineering]] — usage: Construction, gouvernance et personnalisation d'applications GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-governance-assurance\|AI governance / assurance]] — rôle: Superviser les sorties multi-agents et définir les frontières de responsabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-mobile-app-SLM\|AI mobile app SLM]] — niveau: Beginner — edge AI + resource optimization (lazy loading, quantization, battery, offline-first) (1 occ., 1 fiches)
@@ -93,6 +94,7 @@
 - [[kb/_entites-mineures#Developer-Experience\|Developer Experience]] — rôle: Standardisation AI-assisted dev via governed golden paths, pipelines automatisés, shared capability catalog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dilemma-Tale\|Dilemma Tale]] — origine: Afrique, question ouverte finale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Discovery-Mode\|Discovery Mode]] — rôle: Phase 1 : baseline acteurs + patterns visibles (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Distillation\|Distillation]] — mécanisme: Un très gros modèle (ou beaucoup de compute) supervise un très petit modèle ; "works surprisingly well" — seul mécanisme invoqué pour justifier le cognitive core (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] — définition: Corpus magistériel vivant depuis Rerum Novarum (1891) qui articule Évangile, anthropologie chrétienne, et questions sociales (économie, politique, technique) — patrimoine de sagesse, principes et discernement communautaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Domain-Driven-Design\|Domain-Driven Design]] — rôle: Outil pour canaliser la génération de code par l'IA autour de la logique métier (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Dynamic-Cheatsheet\|Dynamic Cheatsheet]] — rôle: précurseur de ACE (1 occ., 1 fiches)

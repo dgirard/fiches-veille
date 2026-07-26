@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 112 entités de type DOCUMENT
+> 114 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -28,6 +28,7 @@
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#CS231n\|CS231n]] — catégorie: Premier cours de deep learning à Stanford, enseigné par Karpathy — référence de son expérience pédagogique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] — fonction: Autorité racine sur le comportement de Claude (alignement au provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] — type: Livre, nommé meilleur livre 2024 par Amazon et The Economist (1 occ., 1 fiches)
@@ -84,6 +85,7 @@
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Diamond-Age\|The Diamond Age]] — catégorie: Roman de Neal Stephenson, référence au Young Lady's Illustrated Primer comme archétype du tuteur personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] — type: Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)

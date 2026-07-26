@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 46 entités de type EVENEMENT
+> 47 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -24,6 +24,7 @@
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] — lieu: Javits Center, New York (1 occ., 1 fiches)
+- [[kb/_entites-mineures#No-Priors-Ep.-80\|No Priors Ep. 80]] — date: 2024-09-05, podcast No Priors, hôtes Sarah Guo & Elad Gil, invité Andrej Karpathy (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Offre-départ-9-mois-salaire-avril-2024\|Offre départ 9 mois salaire avril 2024]] — description: Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-year-retrospective-Claude-Code\|One-year retrospective Claude Code]] — description: Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PlatformCon-2022\|PlatformCon 2022]] — description: Conférence en ligne Platform Engineering organisée par platformengineering.org, juin 2022 (1 occ., 1 fiches)
