@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2477 entités avec moins de 3 triples/fiches
+> 2489 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (350)
 
@@ -6275,7 +6275,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (538)
+## TECHNOLOGIE (541)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6346,6 +6346,14 @@
 - [[kb/Simon-Willison\|Simon Willison]] **référence** → /mnt/skills — 0.98
 
 **Fiches** : [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
+
+### /security-review {#security-review}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Commande scannant input attaquable, liens suspects, findings validés
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### /v1/skills {#v1-skills}
 
@@ -9610,6 +9618,17 @@
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|PROJ-AI — pour que vos projets ne s'arrêtent plus au livrable (Un repo, un agent, un IDE — pourquoi PROJ-AI ?)]]
 
+### PSR (Project Security Review) {#PSR-(Project-Security-Review)}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : App de revue de sécu (Claude Opus + MITRE ATT&CK + knowledge index), auto-approbation low-risk
+
+- **utilise** → [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/_entites-mineures#MITRE-ATT&CK\|MITRE ATT&CK]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### Parcha {#Parcha}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9964,7 +9983,7 @@
 
 - **améliore** → [[kb/_entites-mineures#débit-de-pull-requests-des-équipes\|débit de pull requests des équipes]] (CONCEPT) — 0.92
 
-- [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] **utilise** → Rovo Dev — 0.88
+- [[kb/SDLC-AI-native\|SDLC AI-native]] **utilise** → Rovo Dev — 0.88
 
 **Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 
@@ -10914,6 +10933,17 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]], [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
+### agent de réponse à incident {#agent-de-réponse-à-incident}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **permissions** : 3 seulement : écrire docs, poster dans les canaux, lire logs prod (pas de déploiement)
+
+- **utilise** → [[kb/_entites-mineures#trois-permissions-seulement-(écrire-docs,-poster,-lire-logs-prod)\|trois permissions seulement (écrire docs, poster, lire logs prod)]] (CONCEPT) — 0.92
+- **s_oppose_à** → [[kb/_entites-mineures#déployer-un-fix-en-production\|déployer un fix en production]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### agent swarms {#agent-swarms}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11745,7 +11775,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (815)
+## CONCEPT (817)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13449,6 +13479,14 @@
 - **définition** : Mode opératoire 2026 (vs démotion 2023) : borderline content disparaît du candidate pool sans signal au créateur — *"the silent killer"*
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
+### Enduring Principle {#Enduring-Principle}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Principe de sécu durable (vs implémentation périssable, car les modèles évoluent)
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### Engineering Output {#Engineering-Output}
 
@@ -18900,6 +18938,14 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### trois menaces (SDLC agentique) {#trois-menaces-(SDLC-agentique)}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **liste** : Agent prompt-injecté, supply-chain poisoning, vulns applicatives à volume ↑
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### truth registry {#truth-registry}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19237,7 +19283,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (354)
+## METHODOLOGIE (358)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -19879,6 +19925,16 @@
 - **retour** : Restauration de l'engagement périmètre/coût/délai contre l'agilité Scrum jugée défaillante
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
+
+### DAST continu piloté par l'IA {#DAST-continu-piloté-par-l'IA}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Scan dynamique en staging, cadence alignée sur le déploiement
+
+- **mesure** → [[kb/_entites-mineures#plus-de-500-vulnérabilités-OSS-high-severity-trouvées-en-février\|plus de 500 vulnérabilités OSS high-severity trouvées en février]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### DORA AI Capabilities Model {#DORA-AI-Capabilities-Model}
 
@@ -20800,17 +20856,6 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
 
-### SDLC AI-native {#SDLC-AI-native}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Cycle de dev en 5 étapes (Plan, Orchestrate, Code, Review, Operate) où agents et humains s'associent
-
-- **fait_partie_de** → [[kb/_entites-mineures#partenariat-humain-agent-sur-cinq-étapes\|partenariat humain-agent sur cinq étapes]] (CONCEPT) — 0.90
-- **utilise** → [[kb/_entites-mineures#Rovo-Dev\|Rovo Dev]] (TECHNOLOGIE) — 0.88
-
-**Fiches** : [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
-
 ### SDLC AI-native (6 étapes) {#SDLC-AI-native-(6-étapes)}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -21701,6 +21746,14 @@
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
 
+### egress allowlisting {#egress-allowlisting}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : VM distantes à sortie réseau restreinte pour contenir le blast radius
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### environnements de RL privés {#environnements-de-RL-privés}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -22348,6 +22401,14 @@
 
 **Fiches** : [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 
+### routage SIEM {#routage-SIEM}
+
+**Type** : METHODOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### routage de modèles {#routage-de-modèles}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -22395,6 +22456,16 @@
 - **réduit** → [[kb/_entites-mineures#besoin-de-données-étiquetées\|besoin de données étiquetées]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
+
+### shadow mode {#shadow-mode}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Relecteurs IA en commentaire-seul, red teamés, jusqu'à gain de confiance
+
+- **permet** → [[kb/_entites-mineures#tester-les-relecteurs-IA-en-commentaire-seul-avant-de-leur-faire-confiance\|tester les relecteurs IA en commentaire-seul avant de leur faire confiance]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### shift feedback left {#shift-feedback-left}
 
@@ -22462,6 +22533,17 @@
 - **améliore** → [[kb/_entites-mineures#output-et-qualité\|output et qualité]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+
+### sécurité du SDLC AI-native {#sécurité-du-SDLC-AI-native}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Contrôles mappés sur 3 menaces + 4 stratégies transverses, un « Enduring Principle » par étape
+
+- **s_applique_à** → [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE) — 0.92
+- **est_basé_sur** → [[kb/_entites-mineures#le-framework-Zero-Trust-for-Agents\|le framework Zero Trust for Agents]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### séparation dev/prod {#séparation-dev-prod}
 
@@ -22673,7 +22755,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (42)
+## EVENEMENT (43)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -23047,6 +23129,14 @@
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
 
+### incident agent-à-agent {#incident-agent-à-agent}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Agent IR demandant à un autre Claude de pousser un fix via Slack, stoppé au gate humain
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### migration 33 endpoints {#migration-33-endpoints}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -23104,7 +23194,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (97)
+## DOCUMENT (99)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23485,6 +23575,16 @@
 - [[kb/_entites-mineures#équipe-Data-Science-Anthropic\|équipe Data Science Anthropic]] **publie** → How Anthropic enables self-service data analytics with Claude — 0.97
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### How Anthropic secures its AI-native software development lifecycle {#How-Anthropic-secures-its-AI-native-software-development-lifecycle}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : REX sécurité (blog Anthropic, Claude Code / Enterprise AI)
+
+- [[kb/Jason-Clinton\|Jason Clinton]] **publie** → How Anthropic secures its AI-native software development lifecycle — 0.97
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### Hype Cycle for Generative AI 2025 {#Hype-Cycle-for-Generative-AI-2025}
 
@@ -23930,6 +24030,14 @@
 - [[kb/Claude-Code\|Claude Code]] **a_créé** → Vidéo de lancement de Fable — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### Zero Trust for Agents {#Zero-Trust-for-Agents}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **rôle** : Framework Anthropic dont ce billet est le compagnon d'implémentation
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### docs/solutions/ {#docs-solutions}
 

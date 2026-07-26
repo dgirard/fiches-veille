@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 394 entités de type METHODOLOGIE
+> 399 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -79,6 +79,7 @@
 - [[kb/_entites-mineures#Cursor-for-video-editors\|Cursor for video editors]] — niveau: Advanced — multimodal AI (vision + audio), intent translation, scene detection, EDL, undo with reasoning (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cycle-DPEV\|Cycle DPEV]] — définition: Décider → Promettre → Exécuter → Vérifier — quatre étapes traçables idée → livrable défendable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cycle-en-V-prédictible\|Cycle en V prédictible]] — retour: Restauration de l'engagement périmètre/coût/délai contre l'agilité Scrum jugée défaillante (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DAST-continu-piloté-par-l'IA\|DAST continu piloté par l'IA]] — rôle: Scan dynamique en staging, cadence alignée sur le déploiement (1 occ., 1 fiches)
 - [[kb/DICE\|DICE]] — définition: Domain-Integrated Context Engineering — extension du context engineering intégrant un modèle de domaine pour structurer inputs et outputs LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DORA-AI-Capabilities-Model\|DORA AI Capabilities Model]] — composantes: 7 capacités critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Debugging-interview\|Debugging interview]] — statut: En pilote chez Sierra (2 occ., 1 fiches)
@@ -186,7 +187,7 @@
 - [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] — rôle: AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
 - [[kb/SDLC-methodologie\|SDLC]] — phases: Définir → construire → vérifier → déployer → maintenir (invariant) (3 occ., 3 fiches)
-- [[kb/_entites-mineures#SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev en 5 étapes (Plan, Orchestrate, Code, Review, Operate) où agents et humains s'associent (1 occ., 1 fiches)
+- [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] — définition: Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] — définition: Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis) (1 occ., 1 fiches)
@@ -289,6 +290,7 @@
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] — format_sortie: JSON hiérarchique parent-enfant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#désambiguïsation-par-consensus\|désambiguïsation par consensus]] — principe: Là où N agents convergent, la demande est non ambiguë ; le désaccord mesure l'ambiguïté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)
+- [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] — rôle: VM distantes à sortie réseau restreinte pour contenir le blast radius (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
@@ -360,11 +362,13 @@
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] — définition: Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routing-de-modèle\|routing de modèle]] — principes: Rail density, escalation ladder, DAG float (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routing-multi-modèles\|routing multi-modèles]] — principe: Composer un portefeuille où chaque tâche/contrainte reçoit le modèle adapté ; l'arrivée d'un frontier open-weights crédible ajoute une colonne « réversibilité » à la grille de décision (2 occ., 2 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] — définition: Réplication autonome de résultats de recherche par agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] — applications: Conduite autonome, diagnostic médical (1 occ., 1 fiches)
+- [[kb/_entites-mineures#shadow-mode\|shadow mode]] — définition: Relecteurs IA en commentaire-seul, red teamés, jusqu'à gain de confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] — objectif: Appliquer les règles de lint au plus tôt (IDE, git hooks, CI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#simplification-post-merge\|simplification post-merge]] — principe: Dédupliquer après que le code existe, sur des patterns observables, tests garantissant le comportement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#single-hop-short-lived-tokens\|single-hop short-lived tokens]] — définition: Doctrine canonique Uber : *« Every JWT minted by the STS is intended for a single hop, with a specific Audience claim and a short time-to-live in the order of minutes »* — blast radius minimal en cas de vol (1 occ., 1 fiches)
@@ -372,6 +376,7 @@
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] — définition: Doctrine Mensch : ne pas penser souveraineté comme isolationnisme mais comme capacité d'avoir des cartes à jouer dans la négociation commerciale et géopolitique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spec-coding\|spec coding]] — définition: Méthodologie transformant prompts en spécifications structurées, designs techniques et plans d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suppression-des-token-limits\|suppression des token limits]] — nature: Levier organisationnel (retrait de friction) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] — définition: Contrôles mappés sur 3 menaces + 4 stratégies transverses, un « Enduring Principle » par étape (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] — objectif: Empêcher l'accès de l'IA aux bases de données de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séquencement-d'adoption\|séquencement d'adoption]] — ordre: Prosecution des PRs → rails/tests → interrogation → parallélisme + distillation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#techniques-de-persuasion\|techniques de persuasion]] — effet_mesuré: Taux de compliance : 33,3% → 72,0% (1 occ., 1 fiches)

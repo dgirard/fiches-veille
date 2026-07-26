@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 667 entités de type TECHNOLOGIE
+> 670 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -9,6 +9,7 @@
 - [[kb/_entites-mineures#goal\|/goal]] — mécanisme: Travail jusqu'à condition vérifiable, notée par un modèle distinct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loop-slash-command\|/loop slash command]] — description: Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mnt-skills\|/mnt/skills]] — type: Répertoire système hébergeant les skills Claude (1 occ., 1 fiches)
+- [[kb/_entites-mineures#security-review\|/security-review]] — rôle: Commande scannant input attaquable, liens suspects, findings validés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] — type: Endpoint API pour gestion programmatique des skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#3000+-GPTs-custom\|3000+ GPTs custom]] — contexte: Parc de GPTs custom Moderna en juin 2025 (×4 vs avril 2024) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@adlc-core\|@adlc/core]] — rôle: Core gelé : appels LLM, opérations git, conventions CLI, findings ledgers (1 occ., 1 fiches)
@@ -420,6 +421,7 @@
 - [[kb/Opus-4.8\|Opus 4.8]] — rôle: Modèle utilisé via Claude Code (sorti peu avant) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#PDM\|PDM]] — fonction: Gestion vocabulaires contrôlés et taxonomies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PROJ-AI-Studio\|PROJ-AI Studio]] — description: Application desktop avec vues Cockpit, Guide, Weekly, Monthly pour utilisateurs métier (preview interne mai 2026) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] — rôle: App de revue de sécu (Claude Opus + MITRE ATT&CK + knowledge index), auto-approbation low-risk (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parcha\|Parcha]] — secteur: Conformité financière / fintechs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paro\|Paro]] — catégorie: Robot thérapeutique phoque pour soins longue durée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Patchwork\|Patchwork]] — catégorie: Outil de suivi des patchs par email de la communauté kernel ; envisagé en liaison avec Sashiko (1 occ., 1 fiches)
@@ -576,6 +578,7 @@
 - [[kb/YouTube-technologie\|YouTube]] — catégorie: Plateforme vidéo recommandée pour 2026 (2 occ., 2 fiches)
 - [[kb/Zapier-technologie\|Zapier]] — catégorie: Plateforme no-code d'automatisation workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zig\|Zig]] — rôle: Langage source de Bun (535 496 lignes) ; cleanup explicite via defer/errdefer, pas de destructeurs implicites (2 occ., 2 fiches)
+- [[kb/_entites-mineures#agent-de-réponse-à-incident\|agent de réponse à incident]] — permissions: 3 seulement : écrire docs, poster dans les canaux, lire logs prod (pas de déploiement) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-swarms\|agent swarms]] — statut: Terme critiqué par Mollick comme "terriblement nommé" (1 occ., 1 fiches)
 - [[kb/agents-IA\|agents IA]] — rôle: consommateur principal des interfaces MCP (4 occ., 4 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] — rôle: Gèrent une partie des décisions (changement de paradigme) (1 occ., 1 fiches)

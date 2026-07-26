@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 355 fiches | 1975-12 → 2026-07-24 | généré le 2026-07-24
+> 356 fiches | 1975-12 → 2026-07-24 | généré le 2026-07-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -13,6 +13,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **23** [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]). · SFEIR — IA et emploi, décrochage compétitif, non-adoption
 - **22** [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Mistral, Mistral AI, Microsoft
 - **22** [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — SDLC, Software Development Life Cycle, PDLC
+- **21** [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic. · claude.com (Jason Clinton, Anthropic) — SDLC IA-natif, AI-native SDLC, sécurité
 - **20** [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit) · GitHub (Udit Akhouri) — ADHD, Udit Akhouri, idéation divergente parallèle
 - **20** [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD · Fact-check veille — Delos Intelligence, delos.so, fact-checking
 - **20** [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV · The New Stack — Plateformes d'agents d'entreprise, convergence architecturale, portabilité
@@ -462,6 +463,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Agents de codage IA & Skills
 
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
+- [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
@@ -584,6 +586,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
 - [Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle](fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15.md) — SFEIR (synthèse) — d'après Gregor Hohpe
@@ -701,6 +704,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Qualité & Sécurité
 
 - [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué.
+- [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
 - [Solving the Identity Crisis for AI Agents](fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21.md) — **Matt Mathew** (Sr Staff Engineer), **Prasad Borole** (Staff Software Engineer), **Meng Huang** (Engineering Manager), **Sergey Burykin** (Sr Software Engineer), **Gaurav Goel** (Software Engineer II), **Bayard Walsh** (Software Engineer I). Tous chez **Uber**, équipe Security/Identity infrastructure responsable du déploiement de l'architecture d'identité agentique en production. Composition d'équipe représentative : un Engineering Manager, un Staff senior cadre, un Staff IC architecte, deux SWE séniors/intermédiaires, un SWE I — pattern classique d'une équipe Uber qui livre une plateforme transverse mission-critical.
 - [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto
@@ -916,13 +920,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 355 fiches
-- **Par année** : 2026 (178) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 356 fiches
+- **Par année** : 2026 (179) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 120
-  - Architecture & Construction : 37
+  - Agents de codage IA & Skills : 121
+  - Architecture & Construction : 38
   - Transformation & Adoption : 73
-  - Qualité & Sécurité : 26
+  - Qualité & Sécurité : 27
   - Économie & Marché : 64
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 17

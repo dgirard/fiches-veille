@@ -1,27 +1,27 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=38c6e70e2ce991f7db4fbdad82e12dc5bf376eadd85713775411590f76ee881a fiches=355 -->
-> 355 fiches | 2888 entités | 5112 triples | Généré le 2026-07-24
+<!-- manifest: sha256=682489184b60808a78b4d47543db36ec42125e406b2924cda7a36f4703e7dccc fiches=356 -->
+> 356 fiches | 2902 entités | 5134 triples | Généré le 2026-07-26
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
-- [[kb/_index-type-PERSONNE\|PERSONNE]] (463)
+- [[kb/_index-type-PERSONNE\|PERSONNE]] (464)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (360)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (667)
-- [[kb/_index-type-CONCEPT\|CONCEPT]] (844)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (394)
-- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (45)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (670)
+- [[kb/_index-type-CONCEPT\|CONCEPT]] (846)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (399)
+- [[kb/_index-type-EVENEMENT\|EVENEMENT]] (46)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
-- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (110)
-- [[kb/_entites-mineures\|Entités mineures]] (2471)
+- [[kb/_index-type-DOCUMENT\|DOCUMENT]] (112)
+- [[kb/_entites-mineures\|Entités mineures]] (2483)
 
 ## Entités les plus connectées
 
 | Entité | Type | Relations | Fiches |
 |--------|------|-----------|--------|
+| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 107 | 37 |
 | [[kb/Claude-Code\|Claude Code]] | TECHNOLOGIE | 104 | 48 |
-| [[kb/Anthropic\|Anthropic]] | ORGANISATION | 104 | 37 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 57 | 13 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 49 | 21 |
 | [[kb/Google\|Google]] | ORGANISATION | 44 | 16 |
@@ -32,8 +32,8 @@
 | [[kb/Arthur-Mensch\|Arthur Mensch]] | PERSONNE | 33 | 2 |
 | [[kb/agents-IA\|agents IA]] | TECHNOLOGIE | 30 | 4 |
 | [[kb/Léon-XIV\|Léon XIV]] | PERSONNE | 28 | 1 |
+| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 25 | 8 |
 | [[kb/Compound-Engineering\|Compound Engineering]] | METHODOLOGIE | 25 | 7 |
-| [[kb/Claude-entite\|Claude]] | TECHNOLOGIE | 24 | 8 |
 | [[kb/Addy-Osmani\|Addy Osmani]] | PERSONNE | 23 | 7 |
 | [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 23 | 4 |
 | [[kb/Chris-Williams\|Chris Williams]] | PERSONNE | 23 | 1 |
@@ -45,34 +45,34 @@
 
 ### Prédicats les plus fréquents
 
-- **utilise** : 610
-- **affirme_que** : 577
-- **permet** : 461
-- **mesure** : 370
+- **utilise** : 613
+- **affirme_que** : 579
+- **permet** : 463
+- **mesure** : 374
 - **a_créé** : 332
-- **publie** : 295
-- **recommande** : 228
-- **est_basé_sur** : 200
-- **améliore** : 196
-- **s_applique_à** : 195
-- **réduit** : 192
+- **publie** : 296
+- **recommande** : 229
+- **est_basé_sur** : 201
+- **améliore** : 197
+- **s_applique_à** : 196
+- **réduit** : 193
 - **est_instance_de** : 181
 - **fait_partie_de** : 166
-- **s_oppose_à** : 143
+- **s_oppose_à** : 145
 - **remplace** : 138
 
 ### Distribution par type
 
-- **PERSONNE** : 463 (16.0%)
-- **ORGANISATION** : 360 (12.5%)
-- **TECHNOLOGIE** : 667 (23.1%)
-- **CONCEPT** : 844 (29.2%)
-- **METHODOLOGIE** : 394 (13.6%)
-- **EVENEMENT** : 45 (1.6%)
+- **PERSONNE** : 464 (16.0%)
+- **ORGANISATION** : 360 (12.4%)
+- **TECHNOLOGIE** : 670 (23.1%)
+- **CONCEPT** : 846 (29.2%)
+- **METHODOLOGIE** : 399 (13.7%)
+- **EVENEMENT** : 46 (1.6%)
 - **LIEU** : 5 (0.2%)
-- **DOCUMENT** : 110 (3.8%)
+- **DOCUMENT** : 112 (3.9%)
 
 ### Déduplication
 
-- **Triples** : 5195 → 5112 (83 doublons)
-- **Entités** : 3737 → 2888 (849 doublons)
+- **Triples** : 5217 → 5134 (83 doublons)
+- **Entités** : 3752 → 2902 (850 doublons)

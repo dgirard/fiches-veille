@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 104 relations | 37 fiches sources
+> **Type** : ORGANISATION | 107 relations | 37 fiches sources
 
 ## Attributs
 
@@ -64,6 +64,11 @@
 - « campagnes de distillation industrielle par DeepSeek, Moonshot, MiniMax (fév. 2026) » (AFFIRMATION) — 0.85, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
+### améliore
+
+- [[kb/_entites-mineures#la-sécurité-de-son-SDLC-AI-native\|la sécurité de son SDLC AI-native]] (METHODOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
 ### collabore_avec
 
 - [[kb/_entites-mineures#gouvernement-américain\|gouvernement américain]] (ORGANISATION) — 0.88, DYNAMIQUE
@@ -95,6 +100,8 @@
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - « 95% des requêtes analytics métier automatisées via Claude » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+- « Claude écrit ~80% du code mergé dans le codebase » (MESURE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - « augmentation 67% des pull requests » (MESURE) — 0.93, STATIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[kb/_entites-mineures#cache-hit-rate\|cache hit rate]] (CONCEPT) — 0.93, DYNAMIQUE
@@ -237,6 +244,7 @@
 - [[kb/panne-de-service-Claude\|panne de service Claude]] **observé_dans** → Anthropic — 0.98
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] **travaille_chez** → Anthropic — 0.98
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **travaille_chez** → Anthropic — 0.98
+- [[kb/Jason-Clinton\|Jason Clinton]] **travaille_chez** → Anthropic — 0.97
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] **travaille_chez** → Anthropic — 0.97
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **travaille_chez** → Anthropic — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 463 entités de type PERSONNE
+> 464 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -197,6 +197,7 @@
 - [[kb/_entites-mineures#Jared-Friedman\|Jared Friedman]] — rôle: Partner YC associé à Weave (2 occ., 2 fiches)
 - [[kb/Jarred-Sumner\|Jarred Sumner]] — rôle: Créateur de Bun ; travaille chez Anthropic (rachat de Bun, déc. 2025) ; auteur de la réécriture Rust (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jasmine-Sun\|Jasmine Sun]] — rôle: Journaliste indépendante (Substack), couvre IA et Silicon Valley culture (1 occ., 1 fiches)
+- [[kb/Jason-Clinton\|Jason Clinton]] — rôle: Deputy CISO d'Anthropic, pilote Security Engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jason-Hawes\|Jason Hawes]] — rôle: PhD candidate UC Riverside, Research Assistant BCG (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jason-Lemkin\|Jason Lemkin]] — rôle: Investisseur et advisor SaaS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jay-Kornder\|Jay Kornder]] — rôle: Co-auteur Conductor (1 occ., 1 fiches)

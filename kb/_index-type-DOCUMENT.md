@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 110 entités de type DOCUMENT
+> 112 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -44,6 +44,7 @@
 - [[kb/_entites-mineures#HBR-study-2026-cognitive-exhaustion\|HBR study 2026 cognitive exhaustion]] — description: Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] — catégorie: REX ingénierie data (Enterprise AI, blog Anthropic) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#How-Anthropic-secures-its-AI-native-software-development-lifecycle\|How Anthropic secures its AI-native software development lifecycle]] — catégorie: REX sécurité (blog Anthropic, Claude Code / Enterprise AI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hype-Cycle-for-Generative-AI-2025\|Hype Cycle for Generative AI 2025]] — date: 2025-07-29 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] — catégorie: Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] — catégorie: Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC (1 occ., 1 fiches)
@@ -97,6 +98,7 @@
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] — taille_échantillon: 5000+ répondants mondiaux (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # SDLC
 
-> **Type** : CONCEPT | 10 relations | 3 fiches sources
+> **Type** : CONCEPT | 12 relations | 3 fiches sources
 
 ## Attributs
 
@@ -35,6 +35,8 @@
 - [[kb/IA\|IA]] **s_applique_à** → SDLC — 0.97
 - [[kb/_entites-mineures#Phase-3-Intégration-et-Systématisation\|Phase 3 Intégration et Systématisation]] **s_applique_à** → SDLC — 0.96
 - [[kb/IA\|IA]] **améliore** → SDLC — 0.95
+- [[kb/SDLC-AI-native\|SDLC AI-native]] **est_variante_de** → SDLC — 0.92
+- [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **s_applique_à** → SDLC — 0.92
 - [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
 - [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
 
