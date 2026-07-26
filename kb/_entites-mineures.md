@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2486 entités avec moins de 3 triples/fiches
+> 2493 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (350)
 
@@ -3489,7 +3489,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (276)
+## ORGANISATION (278)
 
 ### 10x {#10x}
 
@@ -4720,6 +4720,16 @@
 - **utilise** → [[kb/_entites-mineures#Lovable\|Lovable]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
+
+### Investir {#Investir}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **type** : Publication financière du groupe Les Echos ; numéro « spécial patrons » IA
+
+- **publie** → [[kb/_entites-mineures#entretien-Investir-«-spécial-patrons-»-—-Aiman-Ezzat\|entretien Investir « spécial patrons » — Aiman Ezzat]] (DOCUMENT) — 0.97
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
 ### Inworld {#Inworld}
 
@@ -6040,6 +6050,17 @@
 - [[kb/_entites-mineures#Li-Qiang\|Li Qiang]] **recommande** → WAICO — 0.88
 
 **Fiches** : [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]
+
+### WNS {#WNS}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Acquisition Capgemini 2026 → « leader mondial des opérations intelligentes », pilier de croissance
+
+- **fait_partie_de** → [[kb/Capgemini\|Capgemini]] (ORGANISATION) — 0.95
+- **permet** → [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
 ### Wayfair {#Wayfair}
 
@@ -11775,7 +11796,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (816)
+## CONCEPT (821)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16566,6 +16587,14 @@
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 
+### couche technologique agentique {#couche-technologique-agentique}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
 ### couplage organisationnel {#couplage-organisationnel}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17191,6 +17220,16 @@
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 
+### freins au passage à l'échelle de l'IA agentique {#freins-au-passage-à-l'échelle-de-l'IA-agentique}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **liste** : Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts
+
+- **s_oppose_à** → [[kb/_entites-mineures#transformation-agentique-des-entreprises\|transformation agentique des entreprises]] (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
 ### garde-fou (guardrail) {#garde-fou-(guardrail)}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17246,6 +17285,14 @@
 - **utilise** → [[kb/_entites-mineures#RBAC,-pistes-d'audit,-gestion-secrets\|RBAC, pistes d'audit, gestion secrets]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
+
+### gouvernance des agents {#gouvernance-des-agents}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **condition** : Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse »
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
 ### goût produit {#goût-produit}
 
@@ -17901,6 +17948,14 @@
 
 **Fiches** : [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
+### opportunité IA agentique services et conseil {#opportunité-IA-agentique-services-et-conseil}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **taille estimée** : +400 Md$ par an à horizon 2030 (estimation Capgemini)
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
 ### optimisme déterminé {#optimisme-déterminé}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17922,6 +17977,16 @@
 - [[kb/Compound-Engineering\|Compound Engineering]] **est_basé_sur** → opérations de recherche parallèles — 0.95
 
 **Fiches** : [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
+
+### opérations intelligentes {#opérations-intelligentes}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Gestion opérationnelle des processus métier augmentée par l'IA (BPO nouvelle génération)
+
+- [[kb/_entites-mineures#WNS\|WNS]] **permet** → opérations intelligentes — 0.90
+
+**Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
 ### ownership end-to-end {#ownership-end-to-end}
 

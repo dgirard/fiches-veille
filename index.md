@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 356 fiches | 1975-12 → 2026-07-24 | généré le 2026-07-26
+> 357 fiches | 1975-12 → 2026-07-25 | généré le 2026-07-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **25** [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir · Investir (Les Echos) — Aiman Ezzat, Capgemini, IA agentique
 - **24** [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées. · SFEIR (recherche interne) — AI Kill Switch Act, section 2220F, Shutdown-Capability Standard
 - **23** [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué. · Ars Technica — AI Kill Switch Act, kill switch, off switch
 - **23** [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]). · SFEIR — IA et emploi, décrochage compétitif, non-adoption
@@ -627,6 +628,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
 - [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
@@ -733,6 +735,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
 - [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
@@ -920,14 +923,14 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 356 fiches
-- **Par année** : 2026 (179) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 357 fiches
+- **Par année** : 2026 (180) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 121
   - Architecture & Construction : 38
-  - Transformation & Adoption : 73
+  - Transformation & Adoption : 74
   - Qualité & Sécurité : 27
-  - Économie & Marché : 64
+  - Économie & Marché : 65
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 17
   - Outils & Plateformes : 29

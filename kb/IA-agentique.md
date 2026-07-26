@@ -1,11 +1,12 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 12 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 4 fiches sources
 
 ## Attributs
 
 - **description** : IA autonome ou semi-autonome percevant, décidant et agissant
 - **paradigme** : Navigation directe dans le contexte complet
+- **rupture revendiquée** : Nouvelle forme de travail : agents exécutant des tâches, insérés dans les processus métier, contribuant à la décision
 - **rôle** : Banalise le code, casse l'apprentissage traditionnel
 
 ## Relations (comme sujet)
@@ -17,6 +18,8 @@
 
 ### permet
 
+- [[kb/_entites-mineures#nouvelle-forme-de-travail-(agents-exécutant-des-tâches-et-contribuant-à-la-décision)\|nouvelle forme de travail (agents exécutant des tâches et contribuant à la décision)]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 - « avalanche de projets jadis non prioritaires (P10 → P2) » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
@@ -36,6 +39,8 @@
 
 ### s_applique_à
 
+- [[kb/_entites-mineures#processus-métiers\|processus métiers]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 - [[kb/_entites-mineures#coordination-et-orchestration\|coordination et orchestration]] (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
 
@@ -44,6 +49,11 @@
 - [[kb/_entites-mineures#organigramme-et-middle-management\|organigramme et middle management]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
 
+### surpasse
+
+- [[kb/IA-générative\|IA générative]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
 ### utilise
 
 - [[kb/_entites-mineures#nouvelles-compétences-techniques\|nouvelles compétences techniques]] (CONCEPT) — 0.92, ATEMPOREL
@@ -51,6 +61,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/Capgemini\|Capgemini]] **utilise** → IA agentique — 0.96
 - [[kb/_entites-mineures#Cielo\|Cielo]] **utilise** → IA agentique — 0.92
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] **soutient** → IA agentique — 0.88
 - [[kb/KDLC\|KDLC]] **s_applique_à** → IA agentique — 0.86
@@ -58,5 +69,6 @@
 ## Fiches sources
 
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 - [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]

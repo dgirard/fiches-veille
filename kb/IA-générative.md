@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 18 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 19 relations | 4 fiches sources
 
 ## Attributs
 
@@ -66,6 +66,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] **utilise** → IA générative — 0.92
+- [[kb/IA-agentique\|IA agentique]] **surpasse** → IA générative — 0.90
 
 ## Fiches sources
 

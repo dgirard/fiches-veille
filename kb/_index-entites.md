@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2898 entités
+> 2907 entités
 
 ## #
 
@@ -217,6 +217,7 @@
 - [[kb/_entites-mineures#AI4Project\|AI4Project]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI4UX\|AI4UX]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AIDA\|AIDA]] (METHODOLOGIE, 1 fiches)
+- [[kb/Aiman-Ezzat\|Aiman Ezzat]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#AirAsia\|AirAsia]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Airbus\|Airbus]] (ORGANISATION, 1 fiches)
@@ -513,6 +514,7 @@
 - [[kb/_entites-mineures#canonical-datasets\|canonical datasets]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Canva\|Canva]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#capacités-agentiques-IA\|capacités agentiques IA]] (CONCEPT, 1 fiches)
+- [[kb/Capgemini\|Capgemini]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#capital-humain\|capital humain]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#capital-IA\|capital IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Capital-One\|Capital One]] (ORGANISATION, 1 fiches)
@@ -771,6 +773,7 @@
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couche-anti-corruption-(ACL)\|Couche anti-corruption (ACL)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)\|Couple journalistique NYT (Sun + Wallace-Wells)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] (CONCEPT, 1 fiches)
@@ -1135,6 +1138,7 @@
 - [[kb/_entites-mineures#Franck-Le-Moal\|Franck Le Moal]] (PERSONNE, 1 fiches)
 - [[kb/Fred-PLAIS\|Fred PLAIS]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Freed-capacity-allocation\|Freed capacity allocation]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#frontend-aesthetics-skill\|frontend aesthetics skill]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT, 1 fiches)
@@ -1257,6 +1261,7 @@
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance-agents-IA\|gouvernance agents IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#gouvernance-des-agents\|gouvernance des agents]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Governance-ontology-(Talisman)\|Governance ontology (Talisman)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] (METHODOLOGIE, 1 fiches)
@@ -1382,7 +1387,7 @@
 
 - [[kb/IA\|IA]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] (CONCEPT, 1 fiches)
-- [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 3 fiches)
+- [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE, 1 fiches)
@@ -1439,6 +1444,7 @@
 - [[kb/_entites-mineures#Introspection\|Introspection]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#Investir\|Investir]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Investment-bias\|Investment bias]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Inworld\|Inworld]] (ORGANISATION, 1 fiches)
@@ -1956,6 +1962,7 @@
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Operator-Posture-(Osmani)\|Operator Posture (Osmani)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#opportunité-IA-agentique-services-et-conseil\|opportunité IA agentique services et conseil]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Optionality-framework\|Optionality framework]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Opus\|Opus]] (TECHNOLOGIE, 1 fiches)
@@ -1964,6 +1971,7 @@
 - [[kb/Opus-4.7\|Opus 4.7]] (TECHNOLOGIE, 3 fiches)
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] (TECHNOLOGIE, 1 fiches)
@@ -2865,6 +2873,7 @@
 - [[kb/Windsurf-organisation\|Windsurf]] (ORGANISATION, 1 fiches)
 - [[kb/Windsurf-technologie\|Windsurf]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#WIP-limits\|WIP limits]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#WNS\|WNS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Work-planning\|Work planning]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] (ORGANISATION, 1 fiches)

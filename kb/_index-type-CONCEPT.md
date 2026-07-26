@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 844 entités de type CONCEPT
+> 849 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -551,6 +551,7 @@
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] — liste: Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] — faiblesse: Facilement Goodhart-able par des agents à vitesse machine (1 occ., 1 fiches)
@@ -618,12 +619,14 @@
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] — définition: Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] — liste: Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
+- [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] — liste: Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] — conditions: Zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] — outils: Suivi usage, contrôles budget, optimisation modèles, mise en cache (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] — définition: Contrainte limitante qui, avec l'IA, se déplace de l'exécution vers l'amont (vision/décision) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] — description: Contrôle, audit et gestion des apps générées par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance-agents-IA\|gouvernance agents IA]] — composants: RBAC, politiques accès données, audit logging, gestion secrets, isolation réseau (1 occ., 1 fiches)
+- [[kb/_entites-mineures#gouvernance-des-agents\|gouvernance des agents]] — condition: Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goût-produit\|goût produit]] — définition: Product taste : capacité à choisir les bons problèmes, savoir quoi ne pas construire, définir le succès — érigée en compétence rare quand livrer devient bon marché (1 occ., 1 fiches)
 - [[kb/_entites-mineures#grown-software\|grown software]] — synonyme: Développement non-interactif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guardrails-IA\|guardrails IA]] — importance: Contrôle critique pour agents autonomes en environnements de production (1 occ., 1 fiches)
@@ -693,8 +696,10 @@
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
 - [[kb/open-weights\|open-weights]] — lecture géopolitique (Ball): Intrinsèquement décélérationnistes : dissuadent le capex IA et créent un « voile d'ingouvernabilité » sur l'IA ; leur généralisation mènerait au « communisme de l'IA » (2 occ., 2 fiches)
+- [[kb/_entites-mineures#opportunité-IA-agentique-services-et-conseil\|opportunité IA agentique services et conseil]] — taille estimée: +400 Md$ par an à horizon 2030 (estimation Capgemini) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] — définition: Gestion opérationnelle des processus métier augmentée par l'IA (BPO nouvelle génération) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] — valeur: IA utilisée dans 60% du travail mais déléguée à 0-20% (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 360 entités de type ORGANISATION
+> 363 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -62,6 +62,7 @@
 - [[kb/_entites-mineures#CNBC\|CNBC]] — secteur: Média financier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CRED\|CRED]] — secteur: Fintech / Inde (15M utilisateurs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Canva\|Canva]] — secteur: Design / IA (1 occ., 1 fiches)
+- [[kb/Capgemini\|Capgemini]] — secteur: Services numériques, conseil et transformation (groupe français coté) (6 occ., 1 fiches)
 - [[kb/_entites-mineures#Capital-One\|Capital One]] — secteur: Services financiers / Banque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Carrefour\|Carrefour]] — rôle: Premier distributeur alimentaire européen UCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Carrefour-France\|Carrefour France]] — secteur: Grande distribution / Software Factory (1 occ., 1 fiches)
@@ -162,6 +163,7 @@
 - [[kb/_entites-mineures#Ignition-Consulting-Group\|Ignition Consulting Group]] — secteur: Cabinet conseil dirigé par Tim Williams, spécialisé transformation agences communication (1 occ., 1 fiches)
 - [[kb/Intercom\|Intercom]] — échelle: 1305 employés, 500 R&D, 8,5M lignes code, 30 000 clients B2B, 313 deploys/jour, 2M+ QPS peak (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] — secteur: Logiciels financiers (utilisateur Lovable) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Investir\|Investir]] — type: Publication financière du groupe Les Echos ; numéro « spécial patrons » IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inworld\|Inworld]] — secteur: IA vocale / TTS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Irregular\|Irregular]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
@@ -329,6 +331,7 @@
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] — secteur: Global trade body for advertising and marketing services. Publie en mars 2026 le rapport "Redesigning the Agency Value Model" (95 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#WAICO\|WAICO]] — catégorie: Organisation mondiale de coopération en IA (2 occ., 1 fiches)
 - [[kb/WEnvision\|WEnvision]] — secteur: Cabinet de conseil FR (Paris, Lille, Strasbourg, Bordeaux, Nantes, Toulouse, Belgique, Luxembourg) (9 occ., 8 fiches)
+- [[kb/_entites-mineures#WNS\|WNS]] — rôle: Acquisition Capgemini 2026 → « leader mondial des opérations intelligentes », pilier de croissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Wayfair\|Wayfair]] — secteur: E-commerce / Ameublement (1 occ., 1 fiches)
 - [[kb/Weave\|Weave]] — batch YC: Winter 2025 (3 occ., 1 fiches)
 - [[kb/Wescale\|Wescale]] — secteur: Cabinet français de conseil cloud / DevOps / industrialisation IT (1 occ., 1 fiches)

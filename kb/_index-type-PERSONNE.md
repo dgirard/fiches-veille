@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 464 entités de type PERSONNE
+> 465 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -13,6 +13,7 @@
 - [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (8 occ., 7 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
+- [[kb/Aiman-Ezzat\|Aiman Ezzat]] — rôle: Directeur général de Capgemini (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] — affiliation: Reuters Breakingviews (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-Bores\|Alex Bores]] — rôle: Candidat NY congressional, propose safety regulation IA + paiements directs financés par taxe IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-McMurray\|Alex McMurray]] — rôle: Cofounder et VP of Sales chez Valence (1 occ., 1 fiches)
