@@ -17,7 +17,7 @@
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
 - [[kb/_entites-mineures#la-nature-fondamentale-du-logiciel\|la nature fondamentale du logiciel]] (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|The AI Platform Shift: Redefining What Software Is, and How Leaders Should Respond]]
-- [[kb/SDLC-concept\|SDLC]] (CONCEPT) — 0.95, DYNAMIQUE
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 - [[kb/_entites-mineures#underperformers-(+43%)\|underperformers (+43%)]] (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
@@ -94,7 +94,7 @@
 
 ### s_applique_à
 
-- [[kb/SDLC-concept\|SDLC]] (CONCEPT) — 0.97, DYNAMIQUE
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 - [[kb/_entites-mineures#tâches-périphériques-chez-les-scientifiques\|tâches périphériques chez les scientifiques]] (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]

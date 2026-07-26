@@ -79,6 +79,7 @@ Le développeur oscille entre **conductor** (temps réel, in-IDE) et **orchestra
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | publie | The New SDLC With Vibe Coding | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Addy Osmani | PERSONNE | a_créé | The New SDLC With Vibe Coding | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| The New SDLC With Vibe Coding | DOCUMENT | affine | SDLC | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
 | Addy Osmani | PERSONNE | travaille_chez | Google | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | The New SDLC With Vibe Coding | DOCUMENT | affirme_que | le basculement fondamental est le passage de l'écriture de code à l'expression d'intention | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | agentic engineering | METHODOLOGIE | est_variante_de | vibe coding | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |

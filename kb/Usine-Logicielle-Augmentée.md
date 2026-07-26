@@ -1,6 +1,6 @@
 # Usine Logicielle Augmentée
 
-> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,11 @@
 ### est_basé_sur
 
 - [[kb/_entites-mineures#six-lignes-de-fabrication\|six lignes de fabrication]] (CONCEPT) — 0.97, ATEMPOREL
+  - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
+
+### est_variante_de
+
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.88, ATEMPOREL
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### permet

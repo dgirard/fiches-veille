@@ -78,6 +78,7 @@ L'article revendique une **convergence industrielle** avec l'ADLC (deux gates, �
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | SFEIR | ORGANISATION | publie | Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | a_créé | cycle SFEIR à 11 phases | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| cycle SFEIR à 11 phases | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
 | cycle SFEIR à 11 phases | METHODOLOGIE | utilise | trois portes humaines (Define, Plan, Ship) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | utilise | deux moments de capitalisation (Compound-1, Compound-2) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | preuve d'exécution | METHODOLOGIE | réduit | la confiance accordée aux déclarations de l'agent | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
@@ -86,7 +87,7 @@ L'article revendique une **convergence industrielle** avec l'ADLC (deux gates, �
 | cycle SFEIR à 11 phases | METHODOLOGIE | améliore | délai de refonte (6 mois → 1 jour) | MESURE | 0.86 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | prédit | 850 consultants entièrement augmentés à l'IA d'ici fin 2026 | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | converge_avec | ADLC | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| cycle SFEIR à 11 phases | METHODOLOGIE | converge_avec | The New SDLC With Vibe Coding (Google) | DOCUMENT | 0.88 | ATEMPOREL | déclaré_article |
+| cycle SFEIR à 11 phases | METHODOLOGIE | converge_avec | The New SDLC With Vibe Coding | DOCUMENT | 0.88 | ATEMPOREL | déclaré_article |
 | DORA 2025 | DOCUMENT | affirme_que | l'IA est un amplificateur des forces et dysfonctionnements organisationnels | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | s_applique_à | back-offices, API, modernisation et travail répétitif vérifiable | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | s_oppose_à | usage en systèmes safety-critical sans normes (DO-178C, EN 50128) | CONCEPT | 0.84 | ATEMPOREL | déclaré_article |

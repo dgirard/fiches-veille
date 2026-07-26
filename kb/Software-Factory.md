@@ -14,10 +14,10 @@
 - [[kb/_entites-mineures#specs-et-scenarios\|specs et scenarios]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
-### fait_partie_de
+### est_variante_de
 
-- [[kb/_entites-mineures#Carrefour-France\|Carrefour France]] (ORGANISATION) — 0.97, STATIQUE
-  - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.88, ATEMPOREL
+  - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
 ### remplace
 

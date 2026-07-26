@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 399 entités de type METHODOLOGIE
+> 397 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -186,9 +186,8 @@
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] — définition: Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] — rôle: AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
-- [[kb/SDLC-methodologie\|SDLC]] — phases: Définir → construire → vérifier → déployer → maintenir (invariant) (3 occ., 3 fiches)
-- [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (2 occ., 2 fiches)
-- [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] — définition: Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains (1 occ., 1 fiches)
+- [[kb/SDLC\|SDLC]] — définition: Software Development Life Cycle : cadre normé (ISO/IEC/IEEE 12207) de production logicielle — besoins, conception, développement, tests/QA, déploiement, maintenance ; finalité « construire le logiciel correctement et de façon fiable » ; métriques DORA (7 occ., 7 fiches)
+- [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (4 occ., 4 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] — définition: Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Self-improving-coding-agent\|Self-improving coding agent]] — niveau: Intermediate — agentic loops + memory hierarchy + reflection mechanism + sandboxing (1 occ., 1 fiches)
@@ -198,7 +197,6 @@
 - [[kb/_entites-mineures#Shift-Left\|Shift-Left]] — application: Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Software-Development-Lifecycle\|Software Development Lifecycle]] — statut_2026: En remise à plat complète (humain + organisationnel) (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)

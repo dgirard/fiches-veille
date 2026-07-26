@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2902 entités
+> 2898 entités
 
 ## #
 
@@ -200,7 +200,6 @@
 - [[kb/_entites-mineures#AI-Annotated-Deliverables\|AI-Annotated Deliverables]] (METHODOLOGIE, 1 fiches)
 - [[kb/AI-Assisted-Engineering\|AI-Assisted Engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] (DOCUMENT, 1 fiches)
-- [[kb/_entites-mineures#AI-driven-SDLC\|AI-driven SDLC]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-First-Role-Design\|AI-First Role Design]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-native-onsite\|AI-native onsite]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] (DOCUMENT, 1 fiches)
@@ -2351,10 +2350,8 @@
 - [[kb/_entites-mineures#Scott-Sinclair\|Scott Sinclair]] (PERSONNE, 1 fiches)
 - [[kb/Scout\|Scout]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#SDK-Codex\|SDK Codex]] (TECHNOLOGIE, 1 fiches)
-- [[kb/SDLC-concept\|SDLC]] (CONCEPT, 3 fiches)
-- [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE, 3 fiches)
-- [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE, 2 fiches)
-- [[kb/_entites-mineures#SDLC-AI-native-(6-étapes)\|SDLC AI-native (6 étapes)]] (METHODOLOGIE, 1 fiches)
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE, 7 fiches)
+- [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Seagate\|Seagate]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] (ORGANISATION, 1 fiches)
 - [[kb/Sebastian-Raschka\|Sebastian Raschka]] (PERSONNE, 1 fiches)
@@ -2459,7 +2456,6 @@
 - [[kb/_entites-mineures#Société-Générale\|Société Générale]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Socrate\|Socrate]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#Software-Development-Lifecycle\|Software Development Lifecycle]] (METHODOLOGIE, 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] (PERSONNE, 1 fiches)

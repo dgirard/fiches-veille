@@ -53,7 +53,7 @@ Le document conclut par des recommandations stratégiques pour les dirigeants te
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| AI4* | CONCEPT | améliore | cycle de vie production logicielle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| AI4* | CONCEPT | améliore | SDLC | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Vibe Coding | METHODOLOGIE | permet | Vibe Coding Hangover | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Vibe Check | METHODOLOGIE | résout | problèmes qualité Vibe Coding | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | AI4Dev | CONCEPT | permet | transformation des développeurs en Guide Engineers | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |

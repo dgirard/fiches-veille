@@ -123,7 +123,7 @@ Lue dans le corpus 2025-2026, AI/works™ est la **mise en produit** de la doctr
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Thoughtworks | ORGANISATION | publie | AI/works™ | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | AI/works™ | TECHNOLOGIE | est_instance_de | plateforme de développement agentique | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| AI/works™ | TECHNOLOGIE | s_applique_à | full software development lifecycle | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| AI/works™ | TECHNOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | utilise | Super Spec | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Super Spec | CONCEPT | s_applique_à | architecture + workflows + sécurité + données + UX (spécification unifiée) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Runtime Ops | METHODOLOGIE | affine | Super Spec (mise à jour continue) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |

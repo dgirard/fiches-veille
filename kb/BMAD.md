@@ -32,7 +32,7 @@
 
 ### s_applique_à
 
-- [[kb/SDLC-concept\|SDLC]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
 - [[kb/_entites-mineures#DSI\|DSI]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]

@@ -19,7 +19,7 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#SDLC-AI-native-(auteur-de-~80%-du-code,-relecteur)\|SDLC AI-native (auteur de ~80% du code, relecteur)]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### s_applique_à

@@ -37,7 +37,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#full-software-development-lifecycle\|full software development lifecycle]] (CONCEPT) — 0.96, ATEMPOREL
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.96, ATEMPOREL
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ### utilise

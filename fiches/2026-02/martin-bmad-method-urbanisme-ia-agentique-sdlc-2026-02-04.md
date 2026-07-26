@@ -76,7 +76,7 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | BMAD | METHODOLOGIE | résout | vibe coding | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| BMAD | METHODOLOGIE | s_applique_à | SDLC | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| BMAD | METHODOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | BMAD | METHODOLOGIE | utilise | agents IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | vibe coding | METHODOLOGIE | permet | dette technique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | humain | CONCEPT | dirige | agents IA | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
@@ -101,5 +101,5 @@ Philippe Martin présente la méthode BMAD (Breakthrough Method for Agile AI-Dri
 | dette technique | CONCEPT | cause principale | usage non encadré de l'IA agentique | AJOUT |
 | agents IA | TECHNOLOGIE | rôles BMAD | spécification, architecture, artisans, contrôleurs | AJOUT |
 | DSI | ORGANISATION | contexte | grande entreprise, intégrateur de BMAD | AJOUT |
-| SDLC | CONCEPT | zones d'intégration | amont, milieu, aval | AJOUT |
+| SDLC | METHODOLOGIE | zones d'intégration | amont, milieu, aval | AJOUT |
 | legacy | CONCEPT | traitement BMAD | cartographie, refactoring progressif, génération tests | AJOUT |

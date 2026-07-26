@@ -43,7 +43,7 @@
 
 ### est_instance_de
 
-- [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE) — 0.88, ATEMPOREL
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.88, ATEMPOREL
   - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
   - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering: How Every Codes With Agents]]
 

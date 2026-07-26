@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2489 entités avec moins de 3 triples/fiches
+> 2486 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (350)
 
@@ -3959,7 +3959,7 @@
 - **secteur** : Grande distribution / Software Factory
 
 - [[kb/Alexandre-Mogère\|Alexandre Mogère]] **travaille_chez** → Carrefour France — 0.99
-- [[kb/Software-Factory\|Software Factory]] **fait_partie_de** → Carrefour France — 0.97
+- [[kb/_entites-mineures#Software-Factory-Carrefour-France\|Software Factory Carrefour France]] **fait_partie_de** → Carrefour France — 0.97
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 
@@ -11775,7 +11775,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (817)
+## CONCEPT (816)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12092,22 +12092,14 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
-### AI-driven SDLC {#AI-driven-SDLC}
-
-**Type** : CONCEPT | 0 relations | 1 fiches
-
-- **avertissement** : Un SDLC piloté par l'IA punit les mauvaises habitudes plus vite (amplifie les dysfonctionnements)
-
-**Fiches** : [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
-
 ### AI4* {#AI4}
 
 **Type** : CONCEPT | 2 relations | 2 fiches
 
 - **catégorie** : Cadre stratégique transformation logicielle par IA
 
-- **améliore** → [[kb/_entites-mineures#cycle-de-vie-production-logicielle\|cycle de vie production logicielle]] (CONCEPT) — 0.95
 - **améliore** → [[kb/_entites-mineures#production-logicielle\|production logicielle]] (CONCEPT) — 0.95
+- **améliore** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]], [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
@@ -19283,7 +19275,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (358)
+## METHODOLOGIE (356)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20572,7 +20564,7 @@
 
 - **s_oppose_à** → [[kb/_entites-mineures#PLC-(product-life-cycle,-Theodore-Levitt-1965)-le-PLC-observe-une-courbe-commerciale,-le-PDLC-organise-un-travail-de-conception\|PLC (product life cycle, Theodore Levitt 1965) : le PLC observe une courbe commerciale, le PDLC organise un travail de conception]] (AFFIRMATION) — 0.85
 
-- [[kb/SDLC-methodologie\|SDLC]] **fait_partie_de** → PDLC — 0.95
+- [[kb/SDLC\|SDLC]] **fait_partie_de** → PDLC — 0.95
 
 **Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
@@ -20642,7 +20634,7 @@
 
 - **objectif** : Rendre l'IA invisible dans le SDLC
 
-- **s_applique_à** → [[kb/SDLC-concept\|SDLC]] (CONCEPT) — 0.96
+- **s_applique_à** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 
@@ -20856,14 +20848,6 @@
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
 
-### SDLC AI-native (6 étapes) {#SDLC-AI-native-(6-étapes)}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **définition** : Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains
-
-**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
-
 ### STAR {#STAR}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -20942,16 +20926,6 @@
 - **définition** : Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
-
-### Software Development Lifecycle {#Software-Development-Lifecycle}
-
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
-
-- **statut_2026** : En remise à plat complète (humain + organisationnel)
-
-- [[kb/_entites-mineures#Think-Tank-DSI-Cast-Software\|Think Tank DSI Cast Software]] **affine** → Software Development Lifecycle — 0.90
-
-**Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ### Sparkline {#Sparkline}
 
@@ -22536,12 +22510,14 @@
 
 ### sécurité du SDLC AI-native {#sécurité-du-SDLC-AI-native}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **définition** : Contrôles mappés sur 3 menaces + 4 stratégies transverses, un « Enduring Principle » par étape
 
-- **s_applique_à** → [[kb/SDLC-methodologie\|SDLC]] (METHODOLOGIE) — 0.92
+- **s_applique_à** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.92
 - **est_basé_sur** → [[kb/_entites-mineures#le-framework-Zero-Trust-for-Agents\|le framework Zero Trust for Agents]] (CONCEPT) — 0.90
+
+- [[kb/Anthropic\|Anthropic]] **améliore** → sécurité du SDLC AI-native — 0.93
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
@@ -23613,7 +23589,7 @@
 
 - **catégorie** : Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC
 
-- [[kb/SDLC-methodologie\|SDLC]] **est_instance_de** → ISO/IEC/IEEE 12207 — 0.90
+- [[kb/SDLC\|SDLC]] **est_instance_de** → ISO/IEC/IEEE 12207 — 0.90
 
 **Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 

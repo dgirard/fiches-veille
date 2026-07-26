@@ -1,12 +1,17 @@
 # The New SDLC With Vibe Coding
 
-> **Type** : DOCUMENT | 6 relations | 1 fiches sources
+> **Type** : DOCUMENT | 8 relations | 1 fiches sources
 
 ## Attributs
 
 - **nature** : Whitepaper Google, série « Day 1 », mai 2026
 
 ## Relations (comme sujet)
+
+### affine
+
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.90, ATEMPOREL
+  - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
 ### affirme_que
 
@@ -26,6 +31,7 @@
 
 - [[kb/Google\|Google]] **publie** → The New SDLC With Vibe Coding — 0.97
 - [[kb/Addy-Osmani\|Addy Osmani]] **a_créé** → The New SDLC With Vibe Coding — 0.95
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] **converge_avec** → The New SDLC With Vibe Coding — 0.88
 
 ## Fiches sources
 

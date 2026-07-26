@@ -62,7 +62,7 @@ Côté adoption, il rejette le big-bang : commencer par la prosecution des PRs e
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Chris Williams | PERSONNE | publie | The ADLC Toolkit | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Chris Williams | PERSONNE | a_créé | ADLC Toolkit | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| ADLC Toolkit | TECHNOLOGIE | est_basé_sur | cycle ADLC (build-prosecute-fix en agents parallèles) | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| ADLC Toolkit | TECHNOLOGIE | est_basé_sur | ADLC | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | ADLC Toolkit | TECHNOLOGIE | utilise | @adlc/core | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Chris Williams | PERSONNE | affirme_que | « pinned means merged » : merger le core avant le fan-out | CITATION | 0.90 | ATEMPOREL | déclaré_article |
 | doctrine frontier-free | CONCEPT | recommande | atteindre la précision cible avec des modèles mid-tier | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |

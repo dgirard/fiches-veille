@@ -84,7 +84,7 @@ Le message final est pragmatique : l'IA est puissante pour accélérer certains 
 | Vibe Reviewing | METHODOLOGIE | utilise | expertise technique humaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | rapport d'audit | CONCEPT | permet | roadmap de migration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Agent2Agent | TECHNOLOGIE | améliore | cross-validation multi-agents | METHODOLOGIE | 0.75 | DYNAMIQUE | déclaré_article |
-| Software Factory | ORGANISATION | fait_partie_de | Carrefour France | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Software Factory Carrefour France | ORGANISATION | fait_partie_de | Carrefour France | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
 

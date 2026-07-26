@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 846 entités de type CONCEPT
+> 844 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -43,7 +43,6 @@
 - [[kb/_entites-mineures#AI-orphan-tax\|AI orphan tax]] — définition: +5% mental fatigue chez les salariés dont le manager attend qu'ils se débrouillent seuls avec l'IA (1 occ., 1 fiches)
 - [[kb/AI-slop\|AI slop]] — définition: Contributions générées par IA sans compréhension ni effort réel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#AI-solution-life-cycle\|AI solution life cycle]] — usage: Indicateur d'évolution des topologies d'équipe (1 occ., 1 fiches)
-- [[kb/_entites-mineures#AI-driven-SDLC\|AI-driven SDLC]] — avertissement: Un SDLC piloté par l'IA punit les mauvaises habitudes plus vite (amplifie les dysfonctionnements) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI4\|AI4*]] — catégorie: Cadre stratégique transformation logicielle par IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#AI4Business\|AI4Business]] — définition: IA déversée dans les processus métier (ventes, support, finance, opérations) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI4Cloud\|AI4Cloud]] — pilier: Cloud et FinOps pour IA (1 occ., 1 fiches)
@@ -381,7 +380,6 @@
 - [[kb/_entites-mineures#Rule-of-40\|Rule of 40]] — définition: Métrique canonique SaaS depuis ~2015 : growth rate + profit margin ≥ 40%. Sous double pression IA en 2026 (headwinds variable costs + tailwinds productivity/EBITDA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rumination\|Rumination]] — catégorie: Ressassement contre-productif, distinct de l'introspection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] — description: AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés (1 occ., 1 fiches)
-- [[kb/SDLC-concept\|SDLC]] — définition: Cycle de vie du développement logiciel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#SEO\|SEO]] — statut: En déclin face à l'AEO (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] — description: Fichiers markdown servant d'instructions structurées pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] — définition: Dégradation/reroutage silencieux de réponses sous bannière de sécurité (1 occ., 1 fiches)

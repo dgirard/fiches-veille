@@ -66,7 +66,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#la-sécurité-de-son-SDLC-AI-native\|la sécurité de son SDLC AI-native]] (METHODOLOGIE) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### collabore_avec

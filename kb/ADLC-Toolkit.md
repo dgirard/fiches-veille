@@ -11,7 +11,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#cycle-ADLC-(build-prosecute-fix-en-agents-parallèles)\|cycle ADLC (build-prosecute-fix en agents parallèles)]] (METHODOLOGIE) — 0.92, STATIQUE
+- [[kb/ADLC\|ADLC]] (METHODOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|The ADLC Toolkit]]
 
 ### utilise

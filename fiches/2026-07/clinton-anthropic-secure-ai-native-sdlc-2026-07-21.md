@@ -98,10 +98,10 @@ La **gouvernance** ferme le dispositif : tiering par risque, **shadow mode** (re
 | Anthropic | ORGANISATION | mesure | Claude écrit ~80% du code mergé dans le codebase | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Claude Tag | TECHNOLOGIE | mesure | merge plus de la moitié de tout le code | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | SDLC AI-native | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
-| Anthropic | ORGANISATION | améliore | la sécurité de son SDLC AI-native | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | améliore | sécurité du SDLC AI-native | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | sécurité du SDLC AI-native | METHODOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | sécurité du SDLC AI-native | METHODOLOGIE | est_basé_sur | le framework Zero Trust for Agents | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Claude | TECHNOLOGIE | observé_dans | SDLC AI-native (auteur de ~80% du code, relecteur) | METHODOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
+| Claude | TECHNOLOGIE | observé_dans | SDLC AI-native | METHODOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | PSR (Project Security Review) | TECHNOLOGIE | utilise | Claude Opus | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | PSR (Project Security Review) | TECHNOLOGIE | utilise | MITRE ATT&CK | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | VM distantes à egress allowlisting | METHODOLOGIE | réduit | le blast radius d'un agent prompt-injecté | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |

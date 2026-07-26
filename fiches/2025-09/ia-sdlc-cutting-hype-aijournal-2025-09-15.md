@@ -57,7 +57,7 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Edgar Kussberg | PERSONNE | publie | AI in the SDLC: Cutting Through the Hype | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Edgar Kussberg | PERSONNE | travaille_chez | Sonar | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | s_applique_à | SDLC | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | adoption IA | CONCEPT | réduit | stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | rapport DORA 2024 | DOCUMENT | affirme_que | une augmentation de 25% de l'adoption IA corrèle avec une baisse de 7,2% de la stabilité de livraison | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | assistants IA | TECHNOLOGIE | réduit | sécurité du code produit | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
@@ -77,7 +77,7 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 | Edgar Kussberg | PERSONNE | rôle | Group Product Manager, Sonar | AJOUT |
 | Sonar | ORGANISATION | secteur | Qualité et sécurité code | AJOUT |
 | The AI Journal | ORGANISATION | type | Publication spécialisée IA | AJOUT |
-| SDLC | CONCEPT | définition | Software Development Lifecycle | AJOUT |
+| SDLC | METHODOLOGIE | définition | Software Development Lifecycle : cycle de vie du développement logiciel | AJOUT |
 | rapport DORA 2024 | DOCUMENT | date | 2024 | AJOUT |
 | Stanford University | ORGANISATION | secteur | Recherche académique | AJOUT |
 | dette technique | CONCEPT | description | Accumulation de code de faible qualité sur le long terme | AJOUT |

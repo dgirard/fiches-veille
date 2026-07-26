@@ -58,9 +58,9 @@ Ce playbook insiste sur l'importance d'une approche méthodique, mesurable et pr
 | AI-Powered Engineering Playbook | METHODOLOGIE | utilise | adoption IA en 4 phases | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | Phase 1 Fondation des Champions | METHODOLOGIE | recommande | champions IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Phase 2 Mise à l'échelle | METHODOLOGIE | s_applique_à | pratiques validées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Phase 3 Intégration et Systématisation | METHODOLOGIE | s_applique_à | SDLC | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Phase 3 Intégration et Systématisation | METHODOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Phase 4 Innovation Continue | METHODOLOGIE | améliore | productivité développeurs | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | améliore | SDLC | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | améliore | SDLC | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | champions IA | CONCEPT | mesure | taux d'adoption | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Augment Code | ORGANISATION | est_instance_de | partenaire stratégique IA | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | adoption IA en entreprise | CONCEPT | utilise | approche méthodique et progressive | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
@@ -77,6 +77,6 @@ Ce playbook insiste sur l'importance d'une approche méthodique, mesurable et pr
 | Phase 2 Mise à l'échelle | METHODOLOGIE | objectif | Étendre les pratiques validées à toute l'organisation | AJOUT |
 | Phase 3 Intégration et Systématisation | METHODOLOGIE | objectif | Rendre l'IA invisible dans le SDLC | AJOUT |
 | Phase 4 Innovation Continue | METHODOLOGIE | objectif | Transformer l'IA en capacité stratégique | AJOUT |
-| SDLC | CONCEPT | définition | Cycle de vie du développement logiciel | AJOUT |
+| SDLC | METHODOLOGIE | définition | Cycle de vie du développement logiciel | AJOUT |
 | champions IA | CONCEPT | rôle | Ambassadeurs internes de l'adoption IA | AJOUT |
 | avantage concurrentiel durable | CONCEPT | contexte | Objectif final de l'adoption IA à grande échelle | AJOUT |

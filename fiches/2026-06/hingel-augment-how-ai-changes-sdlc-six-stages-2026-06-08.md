@@ -68,6 +68,7 @@ Le guide est étayé de données : 70 % du temps dev passé à comprendre du cod
 | Augment Code | ORGANISATION | publie | How AI Changes the SDLC: A Six-Stage Guide | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Paula Hingel | PERSONNE | a_créé | How AI Changes the SDLC: A Six-Stage Guide | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
 | agents IA | TECHNOLOGIE | améliore | débit de certaines étapes du SDLC | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| SDLC AI-native | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
 | agents IA | TECHNOLOGIE | affirme_que | l'adoption inégale accroît le risque d'instabilité sans frontières de revue redessinées | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | DORA 2025 | DOCUMENT | mesure | adoption IA positivement liée au débit mais négativement à la stabilité de livraison | MESURE | 0.92 | STATIQUE | déclaré_article |
 | specification-driven development | METHODOLOGIE | réduit | validation circulaire des tests IA | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
@@ -87,7 +88,7 @@ Le guide est étayé de données : 70 % du temps dev passé à comprendre du cod
 |--------|------|----------|--------|--------|
 | Augment Code | ORGANISATION | secteur | Éditeur d'agents de codage IA | AJOUT |
 | Paula Hingel | PERSONNE | rôle | Auteure du guide (Augment Code) | AJOUT |
-| SDLC AI-native (6 étapes) | METHODOLOGIE | définition | Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains | AJOUT |
+| SDLC AI-native | METHODOLOGIE | étapes | Requirements, Design/Architecture, Implementation, Testing/QA, Deployment, Maintenance, agents + humains | AJOUT |
 | vibe architecting | CONCEPT | définition | Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer | AJOUT |
 | validation circulaire | CONCEPT | définition | Tests générés par l'IA confirmant du code généré par l'IA au lieu de vérifier le besoin réel | AJOUT |
 | intent engineering | METHODOLOGIE | rôle | Traduire des objectifs métier ambigus en spécifications testables pour les agents | AJOUT |

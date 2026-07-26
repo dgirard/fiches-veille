@@ -141,6 +141,7 @@ Quatre conseils structurants ferment le deck : (1) l'outillage ne suffit pas, la
 | Usine Logicielle Augmentée | METHODOLOGIE | est_basé_sur | six lignes de fabrication | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Usine Logicielle Augmentée | METHODOLOGIE | permet | retour du cycle en V prédictible | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Usine Logicielle Augmentée | METHODOLOGIE | remplace | Scrum / agilité | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Usine Logicielle Augmentée | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 | Bon à Tirer | METHODOLOGIE | est_instance_de | unique porte humaine avant fabrication | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Agent IA | TECHNOLOGIE | permet | production 24/7/365 | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Wescale | ORGANISATION | affirme_que | les gains réels sont de X3-X4 (pas X10) | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |

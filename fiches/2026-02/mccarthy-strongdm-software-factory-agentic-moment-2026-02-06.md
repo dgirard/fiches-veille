@@ -76,6 +76,7 @@ Justin McCarthy, co-fondateur et CTO de StrongDM, présente le concept de Softwa
 | StrongDM AI | ORGANISATION | utilise | Software Factory | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Claude 3.5 | TECHNOLOGIE | permet | compounding correctness | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Software Factory | METHODOLOGIE | remplace | développement humain interactif | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Software Factory | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 | Digital Twin Universe | TECHNOLOGIE | permet | validation à grande échelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Scenario | CONCEPT | remplace | test traditionnel | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | satisfaction probabiliste | CONCEPT | remplace | succès booléen | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |

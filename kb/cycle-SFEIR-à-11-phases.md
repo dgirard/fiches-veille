@@ -1,6 +1,6 @@
 # cycle SFEIR à 11 phases
 
-> **Type** : METHODOLOGIE | 9 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 10 relations | 2 fiches sources
 
 ## Attributs
 
@@ -18,7 +18,12 @@
 
 - [[kb/ADLC\|ADLC]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
-- [[kb/_entites-mineures#The-New-SDLC-With-Vibe-Coding-(Google)\|The New SDLC With Vibe Coding (Google)]] (DOCUMENT) — 0.88, ATEMPOREL
+- [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.88, ATEMPOREL
+  - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
+
+### est_variante_de
+
+- [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
 ### résout
