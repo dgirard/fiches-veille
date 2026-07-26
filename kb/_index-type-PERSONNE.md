@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 467 entités de type PERSONNE
+> 465 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -27,7 +27,7 @@
 - [[kb/_entites-mineures#Allie-Nawrat\|Allie Nawrat]] — rôle: Chief Reporter UNLEASH (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] — rôle: CEO de Replit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andre-Ellis-Jr.\|Andre Ellis Jr.]] — rôle: Cloud Financial Operations Lead Google Cloud, Morehouse College + Wharton MBA, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
-- [[kb/Andrej-Karpathy\|Andrej Karpathy]] — projet: Fondateur d'Eureka Labs après son départ d'OpenAI — posture revendiquée "team human" (empower plutôt que displace) (7 occ., 7 fiches)
+- [[kb/Andrej-Karpathy\|Andrej Karpathy]] — rôle: Co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme vibe coding (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] — rôle: Collègue chercheur de Mollick (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] — rôle: Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
@@ -134,7 +134,6 @@
 - [[kb/_entites-mineures#Ebony-Louis\|Ebony Louis]] — rôle: Developer Advocate, Block/Goose (2 occ., 2 fiches)
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] — rôle: Group Product Manager, Sonar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Edward-Tufte\|Edward Tufte]] — domaine: Visualisation de données (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Elad-Gil\|Elad Gil]] — rôle: Investisseur, co-hôte du podcast No Priors (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elliot-Greenwald\|Elliot Greenwald]] — rôle: Auteur du billet fondateur Sierra sur l'outcome-based pricing (10 déc. 2024) (1 occ., 1 fiches)
 - [[kb/Elon-Musk\|Elon Musk]] — rôle: Dirigeant de SpaceX, Tesla, xAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Emily-Yuan\|Emily Yuan]] — rôle: Cofondatrice de Corgi, 23 ans (1 occ., 1 fiches)
@@ -379,7 +378,6 @@
 - [[kb/Sam-Schillace\|Sam Schillace]] — rôle: Auteur, technologiste, observateur industrie IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samir-Mody\|Samir Mody]] — rôle: Head of AI Engineering, The Browser Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sarah-Allali\|Sarah Allali]] — rôle: Fondatrice de Lobby (agent IA qui agit en conséquence d'emails) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Sarah-Guo\|Sarah Guo]] — rôle: Investisseuse (Conviction), co-hôte du podcast No Priors (1 occ., 1 fiches)
 - [[kb/Satya-Nadella\|Satya Nadella]] — rôle: PDG de Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] — rôle: Co-auteur, chercheur Wharton (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Scott-Galloway\|Scott Galloway]] — rôle: Cité : plus fort ROI personnel de l'IA = collaborateur pour penser (1 occ., 1 fiches)

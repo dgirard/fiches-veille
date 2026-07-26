@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 853 entités de type CONCEPT
+> 849 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -143,13 +143,11 @@
 - [[kb/_entites-mineures#Cognitive-Offloading\|Cognitive Offloading]] — définition: Mode sain : déléguer le "comment" tout en gardant le jugement sur les résultats — capacité d'évaluation indépendante maintenue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognitive-Orchestrator\|Cognitive Orchestrator]] — définition: Nouveau rôle organisationnel formalisé par Kamelman. Trois fonctions : (a) feedback loop design ; (b) managing uncertainty with guardrails (business rules + circuit breakers) ; (c) measuring alignment via score quantifiable. Convergence avec Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognitive-Surrender\|Cognitive Surrender]] — définition: Mode toxique : accepter l'output IA en bloc sans former de raisonnement parallèle ; "borrowing the model's confidence as substitute for personal understanding" (1 occ., 1 fiches)
-- [[kb/Cognitive-core\|Cognitive core]] — définition: Noyau de raisonnement d'un LLM une fois retirée la connaissance encyclopédique ; il pense et appelle des outils — Karpathy l'estime à ~1 milliard de paramètres, voire moins (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognitive-surrender-(réponse)\|Cognitive surrender (réponse)]] — catégorie: Pratique de rester dans la boucle décisionnelle via lisibilité HTML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Coherence-neighborhood\|Coherence neighborhood]] — définition: Termes frères d'un concept, inspectés/réparés au write time contre la dérive sémantique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Colonialisme-des-données\|Colonialisme des données]] — définition: Concept léonien (n. 178) : nouvelle forme de domination qui s'approprie les données plutôt que les corps, transforme les vies en informations exploitables — *« nouvelles terres rares du pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] — usage: Développement connaissance pour data experts distribués (1 occ., 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] — définition: Résumé automatique de la conversation remplaçant l'historique (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Companies-of-LLMs\|Companies of LLMs]] — définition: Essaim hiérarchique de modèles spécialisés (programmeur, chef de projet), escalade automatique selon la difficulté, CEO = modèle cloud, workers = modèles open source bon marché (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] — définition: Formule-canonique Chepurin/Turner — *« We compensate for a lack of satisfaction with work quantity. »* Mécanisme central de l'escalade burnout (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compositional-Path-Dependency\|Compositional Path Dependency]] — définition: Cause de surrender : chaque chunk surrender rend le prochain surrender plus probable, requiert reconstruction complète pour redevenir indépendant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] — définition: Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" (1 occ., 1 fiches)
@@ -204,7 +202,6 @@
 - [[kb/_entites-mineures#EYOS\|EYOS]] — définition: Equivalent Years of Schooling — métrique de comparaison internationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Economie-de-la-computation\|Economie de la computation]] — categorie: Nouveau paradigme economique post heure-cerveau (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Education-crisis-semantic-engineering\|Education crisis semantic engineering]] — description: Diagnostic marché Talisman 2026 : demande post-ChatGPT explosée, offre praticiens formés insuffisante, gap comblé par "people who know vocabulary without methodology". Convergence DORA training cost et Tatsyi training continu (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Effet-2-sigma-de-Bloom\|Effet 2 sigma de Bloom]] — définition: Littérature des années 80 : le tutorat un-à-un apporterait ~2 écarts-types de gain vs classe standard — cité par les hôtes comme horizon de l'IA éducative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Effet-Reine-Rouge\|Effet Reine Rouge]] — description: Compétition obligeant à courir pour rester en place (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Efficacité-tokens\|Efficacité tokens]] — description: Chargement contextuel des skills pour minimiser la consommation de tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eligibility-time-silent-exclusion\|Eligibility-time silent exclusion]] — définition: Mode opératoire 2026 (vs démotion 2023) : borderline content disparaît du candidate pool sans signal au créateur — *"the silent killer"* (1 occ., 1 fiches)
@@ -216,7 +213,6 @@
 - [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] — définition: Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erreur-de-type-I-et-II-(contexte-medical)\|Erreur de type I et II (contexte medical)]] — description: Faux negatif (manquer une maladie) vs faux positif (diagnostiquer un sain comme malade) -- le systeme punit davantage le premier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evals\|Evals]] — définition: Jeu de données pour mesurer la performance de l'agent (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Exocortex\|Exocortex]] — définition: Extension cognitive personnelle exécutée en local, rendue possible sous le milliard de paramètres ; forme d'essaim plutôt que de modèle unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|Explosion cambrienne des Skills]] — description: Prédiction d'adoption massive et diversifiée des Claude Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FOMO-d'agents-24-7\|FOMO d'agents 24/7]] — définition: Pression psychologique : "every hour I'm not at the keyboard is an hour an agent could be earning for me" — inversion de la logique deep work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Failure-modes-market-research-IA\|Failure modes market research IA]] — détail: (1) questions vagues → outputs superficiels, (2) sur-reliance polished summaries, (3) validation sautée, (4) insights non convertis en décisions (1 occ., 1 fiches)

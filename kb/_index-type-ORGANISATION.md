@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 364 entités de type ORGANISATION
+> 363 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -115,7 +115,6 @@
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] — catégorie: École d'informatique, France (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Equal-Experts\|Equal Experts]] — secteur: Consulting CD / engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] — secteur: E-commerce / Marketplace artisanale (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Eureka-Labs\|Eureka Labs]] — catégorie: École AI-native de Karpathy ; premier cours de niveau undergrad technique, public de tout âge, timeline annoncée fin 2024 → début 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] — secteur: Analyse représentation marques dans LLMs (1 occ., 1 fiches)
 - [[kb/Every\|Every]] — secteur: Média AI-native (every.to) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#EveryInc\|EveryInc]] — domaine: Plateforme ingénierie IA (1 occ., 1 fiches)

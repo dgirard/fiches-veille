@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 358 fiches | 1975-12 → 2026-07-25 | généré le 2026-07-26
+> 357 fiches | 1975-12 → 2026-07-25 | généré le 2026-07-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -412,10 +412,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **17** [Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era](fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17.md) — Kent Beck · LinkedIn — Kent Beck, Vibe Coding, TDD
 - **08** [HKUDS/LightRAG: (EMNLP2025) "LightRAG: Simple and Fast Retrieval-Augmented Generation"](fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08.md) — Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang (HKUDS - Hong Kong University Data Science) · HKUDS 22k stars — knowledge-graph, gpt, rag
 
-### 2024-09
-
-- **05** [No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka & éducation)](fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05.md) — Andrej Karpathy (invité — membre fondateur d'OpenAI, ex-directeur IA de Tesla Autopilot, fondateur d'Eureka Labs) ; Sarah Guo & Elad Gil (hôtes du podcast No Priors) · No Priors Ep. 80 (Sarah Guo & Elad Gil) — Andrej Karpathy, No Priors, Sarah Guo
-
 ### 2024-07
 
 - **22** [Confronting Impossible Futures](fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22.md) — Ethan Mollick, Professeur à la Wharton School, University of Pennsylvania · One Useful Thing — AGI, Intelligence Artificielle Générale, planification stratégique
@@ -627,7 +623,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [MCP-UI: The Future of Agentic Interfaces](fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25.md) — Ebony Louis (Developer Advocate - Block/Goose)
 - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12.md) — Alex Hutter, Alexandre Bertails, Claire Wang, Haoyuan He, Kishore Banala, Peter Royal, Shervin Afshar (Netflix Technology Blog)
 - [HKUDS/LightRAG: (EMNLP2025) "LightRAG: Simple and Fast Retrieval-Augmented Generation"](fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08.md) — Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang (HKUDS - Hong Kong University Data Science)
-- [No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka & éducation)](fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05.md) — Andrej Karpathy (invité — membre fondateur d'OpenAI, ex-directeur IA de Tesla Autopilot, fondateur d'Eureka Labs) ; Sarah Guo & Elad Gil (hôtes du podcast No Priors)
 - [NuExtract: A Foundation Model for Structured Extraction](fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24.md) — Alexandre Constantin, Liam Cripwell, Etienne Bernard
 - [The Magic of Platforms](fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06.md) — **Gregor Hohpe** — Enterprise Strategist chez Amazon Web Services, architecte logiciel, auteur prolifique (*Enterprise Integration Patterns* — référence depuis ~2003 — et *The Software Architect Elevator*, O'Reilly 2020). Au moment du talk, écrit *Platform Strategy: Accelerating Innovation Through Harmonization and Reuse* (publié sur Leanpub, accessible via *leanpub.com/platformstrategy*). Profil : architecte *bridging the gap between business and tech*, expérience CTO Allianz, conseil C-suite, conférencier régulier (QCon, GOTO, PlatformCon). Référence majeure dans l'architecture d'entreprise et l'intégration. Talk donné en **keynote PlatformCon 2022** (juin 2022, conférence en ligne organisée par platformengineering.org).
 
@@ -827,7 +822,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise](fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12.md) — Tech media, business press
 - [Ni manager, ni contributeur individuel… | Le Touilleur Express](fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23.md) — Nicolas Martignole
 - [Philosophy Eats AI: Why Your Business Needs an Ontological Core](fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30.md) — Tony Seale
-- [No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka & éducation)](fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05.md) — Andrej Karpathy (invité — membre fondateur d'OpenAI, ex-directeur IA de Tesla Autopilot, fondateur d'Eureka Labs) ; Sarah Guo & Elad Gil (hôtes du podcast No Priors)
 - [How To Speak](fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04.md) — Patrick Winston
 - [Goodhart's law](fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975.md) — Wikipedia contributors (concept : Charles Goodhart ; généralisation : Marilyn Strathern)
 - [On the Folly of Rewarding A, While Hoping for B](fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12.md) — Steven Kerr
@@ -894,7 +888,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Playing Pretend: Expert Personas Don't Improve Factual Accuracy](fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07.md) — Savir Basil, Ina Shapiro, Dan Shapiro, Ethan Mollick, Lilach Mollick, Lennart Meincke (Generative AI Labs, The Wharton School, University of Pennsylvania)
 - [YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale](fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01.md) — Various content creators
 - [MCP for Beginners - YouTube](fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28.md) — Microsoft Developer
-- [No Priors Ep. 80 — With Andrej Karpathy from OpenAI and Tesla (segment final : cognitive core, swarm of LLMs, Eureka & éducation)](fiches/2024-09/karpathy-cognitive-core-exocortex-education-2024-09-05.md) — Andrej Karpathy (invité — membre fondateur d'OpenAI, ex-directeur IA de Tesla Autopilot, fondateur d'Eureka Labs) ; Sarah Guo & Elad Gil (hôtes du podcast No Priors)
 - [Machine Learning Fundamentals: A Hands-On Guide](fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01.md) — Sebastian Raschka
 
 ### Produits & Services
@@ -930,18 +923,18 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 358 fiches
-- **Par année** : 2026 (180) · 2025 (160) · 2024 (10) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 357 fiches
+- **Par année** : 2026 (180) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 121
-  - Architecture & Construction : 39
+  - Architecture & Construction : 38
   - Transformation & Adoption : 74
   - Qualité & Sécurité : 27
   - Économie & Marché : 65
-  - Philosophie & Société : 23
+  - Philosophie & Société : 22
   - Stratégie & Frameworks : 17
   - Outils & Plateformes : 29
-  - Recherche & Éducation : 10
+  - Recherche & Éducation : 9
   - Produits & Services : 9
   - Politique & Régulation : 16
 - **Auteurs (top 20)** :
