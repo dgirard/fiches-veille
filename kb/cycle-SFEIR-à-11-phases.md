@@ -1,6 +1,6 @@
 # cycle SFEIR à 11 phases
 
-> **Type** : METHODOLOGIE | 10 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 12 relations | 2 fiches sources
 
 ## Attributs
 
@@ -16,6 +16,8 @@
 
 ### converge_avec
 
+- [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.92, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[kb/ADLC\|ADLC]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.88, ATEMPOREL
@@ -51,6 +53,7 @@
 ## Relations (comme objet)
 
 - [[kb/SFEIR\|SFEIR]] **a_créé** → cycle SFEIR à 11 phases — 0.95
+- [[kb/_entites-mineures#portes-humaines\|portes humaines]] **fait_partie_de** → cycle SFEIR à 11 phases — 0.95
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Intercom
 
-> **Type** : ORGANISATION | 9 relations | 1 fiches sources
+> **Type** : ORGANISATION | 10 relations | 1 fiches sources
 
 ## Attributs
 
@@ -27,6 +27,8 @@
   - [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
 - « merge auto-approuvé Claude Code médian à 14,6 min » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
+- « "19 % des PR auto-approuvées, déploiements doublés, interruptions liées à des changements cassants en baisse de 35 %" » (MESURE) — 0.88, STATIQUE
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### prédit
 

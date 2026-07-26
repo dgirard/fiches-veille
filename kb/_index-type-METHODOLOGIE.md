@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 397 entités de type METHODOLOGIE
+> 398 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -383,6 +383,7 @@
 - [[kb/_entites-mineures#tests-unitaires-obligatoires\|tests unitaires obligatoires]] — contrainte: Indépendants du processus de génération de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#three-layer-framework-(Uber)\|three-layer framework (Uber)]] — définition: Vision long terme Uber : (1) Identity & Trust Foundation, (2) Dynamic Access Control, (3) Unified Enforcement Plane — architecture cible cohérente identity + risk + policy (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tiered-reasoning\|tiered reasoning]] — usage: Modèle cheap d'abord, cher si faible confiance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#tiering-par-risque\|tiering par risque]] — fonction: Découpage de la base de code en paliers de risque ; sert de politique FinOps token en décidant où l'on paie plusieurs passes d'agents et où un SAST suffit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#trip-wires-automatiques\|trip-wires automatiques]] — exemples: >N team-weeks, >N jours en cours, >N équipes impliquées, complexité >N (1 occ., 1 fiches)
 - [[kb/_entites-mineures#two-strike-regeneration\|two-strike regeneration]] — règle: Tuer un agent qui échoue deux fois et repartir d'un contexte frais plutôt que le coacher (1 occ., 1 fiches)
 - [[kb/_entites-mineures#two-tower-retrieval\|two-tower retrieval]] — définition: Pattern ML où users et items sont encodés par towers séparés dans un même espace d'embedding, matching par nearest-neighbor ANN — utilisé pour candidats OON Phoenix (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2907 entités
+> 2913 entités
 
 ## #
 
@@ -572,10 +572,12 @@
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] (PERSONNE, 1 fiches)
 - [[kb/Chris-Williams\|Chris Williams]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Christopher-Alexander\|Christopher Alexander]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Chunk\|Chunk]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#chunking\|chunking]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cielo\|Cielo]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Cigref\|Cigref]] (ORGANISATION, 1 fiches)
@@ -1158,6 +1160,7 @@
 - [[kb/_entites-mineures#Garr-Reynolds\|Garr Reynolds]] (PERSONNE, 1 fiches)
 - [[kb/Gartner\|Gartner]] (ORGANISATION, 4 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#gate\|gate]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gates-déterministes\|gates déterministes]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Gaurav-Goel\|Gaurav Goel]] (PERSONNE, 1 fiches)
@@ -1415,7 +1418,7 @@
 - [[kb/_entites-mineures#implementation-notes-md\|implementation-notes.md]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#incertitude-macroéconomique\|incertitude macroéconomique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Incident-#714\|Incident #714]] (EVENEMENT, 1 fiches)
-- [[kb/_entites-mineures#incident-agent-à-agent\|incident agent-à-agent]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#incident-agent-à-agent\|incident agent-à-agent]] (EVENEMENT, 2 fiches)
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Incident-Response-Agents\|Incident Response Agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#indicateurs-de-boucle-cassée\|indicateurs de boucle cassée]] (CONCEPT, 1 fiches)
@@ -1635,6 +1638,7 @@
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#LogRocket-Blog\|LogRocket Blog]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#loi-d'Amdahl\|loi d'Amdahl]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Loi-d'Ashby\|Loi d'Ashby]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#loi-de-Campbell\|loi de Campbell]] (CONCEPT, 1 fiches)
 - [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT, 1 fiches)
@@ -2103,6 +2107,7 @@
 - [[kb/_entites-mineures#Plus-qu'humain-(selon-Léon-XIV)\|Plus qu'humain (selon Léon XIV)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Policy-Bot\|Policy Bot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Position-no-headcount-reduction-(DORA)\|Position no-headcount-reduction (DORA)]] (CONCEPT, 1 fiches)
@@ -2392,7 +2397,7 @@
 - [[kb/_entites-mineures#settings.json\|settings.json]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Setup-iOS-first-Cherny\|Setup iOS-first Cherny]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Seymour-Papert\|Seymour Papert]] (PERSONNE, 1 fiches)
-- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 8 fiches)
+- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 9 fiches)
 - [[kb/_entites-mineures#SGLang\|SGLang]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SHACL\|SHACL]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#shadcn-ui\|shadcn/ui]] (TECHNOLOGIE, 1 fiches)
@@ -2697,6 +2702,7 @@
 - [[kb/_entites-mineures#Tier-3-Knowledge-Base\|Tier 3 Knowledge Base]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#tier-de-modèle\|tier de modèle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#tiered-reasoning\|tiered reasoning]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#tiering-par-risque\|tiering par risque]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] (PERSONNE, 1 fiches)
 - [[kb/Tim-Williams\|Tim Williams]] (PERSONNE, 1 fiches)

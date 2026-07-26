@@ -1,11 +1,12 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 39 relations | 8 fiches sources
+> **Type** : ORGANISATION | 51 relations | 9 fiches sources
 
 ## Attributs
 
 - **capacité_revendiquée** : équivalent 10 000 personnes
 - **effectif** : ~1 000 personnes
+- **position** : Le SDLC est le socle et non la formalité : les contrôles de sécurité, les gains de productivité, la politique FinOps token et la mesure supposent tous un cycle à étapes nommées
 - **positionnement** : « Amplifier l'IA plutôt que la subir » ; adoption comme levier vs pile de POCs
 - **posture** : Cabinet « AI Only », partenaire Google Cloud Premier ET Anthropic ; thèse : le modèle est une commodité, la valeur est dans le Context/Harness Engineering
 - **relation** : Groupe parent de WEnvision
@@ -19,10 +20,25 @@
 - [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
+### affine
+
+- [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.93, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### affirme_que
 
+- « le SDLC est le socle et non la formalité : sans étapes nommées, une organisation n'a nulle part où accrocher ses contrôles » (AFFIRMATION) — 0.98, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « multiplier par 8 le volume de code ne multiplie rien si la revue reste séquentielle et humaine : le débit du système reste celui de son étape la plus lente » (AFFIRMATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « "sans cycle décrit, la dépense en tokens n'est pas pilotée, elle est constatée en fin de mois" » (CITATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « le vrai risque de l'IA sur l'emploi est le décrochage compétitif (non-adoption), pas la destruction d'emplois » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- « une organisation sans cycle formalisé ne produit que des chiffres d'usage, muets sur la qualité et le risque » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « l'accès d'un agent aux autres agents fait partie de sa surface d'attaque » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « l'architecte moderne devient un amplificateur d'intelligence plutôt qu'un oracle technique » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - « la souveraineté est une propriété d'architecture, pas un label : elle se qualifie dépendance par dépendance » (AFFIRMATION) — 0.92, ATEMPOREL
@@ -82,6 +98,12 @@
 
 ### recommande
 
+- « tracer la frontière de sécurité autour des accès et des actions, jamais autour des instructions données au modèle » (AFFIRMATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « nommer les étapes, poser une menace par étape, décider palier par palier, journaliser chaque décision d'agent, échantillonner les approbations » (AFFIRMATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « remplacer la question "pouvons-nous nous permettre de tout scanner ?" par "que feriez-vous tourner si scanner ne coûtait presque rien ?" » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « mettre LLMD sous surveillance active plutôt que basculer en production aujourd'hui » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - « router par tâche entre modèles plutôt que chercher un modèle champion » (AFFIRMATION) — 0.92, ATEMPOREL
@@ -107,10 +129,25 @@
 - « une DSI doit instrumenter la jonction produit, exiger des spécifications exécutables et refuser le rôle de fournisseur de features » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
 
+### référence
+
+- [[kb/_entites-mineures#DORA-2025\|DORA 2025]] (DOCUMENT) — 0.93, STATIQUE
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### s_inspire_de
 
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE) — 0.95, STATIQUE
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
+
+### s_oppose_à
+
+- « transposition directe des chiffres d'Anthropic à une DSI avec vingt ans de système d'information » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
+### soutient
+
+- [[kb/_entites-mineures#How-Anthropic-secures-its-AI-native-software-development-lifecycle\|How Anthropic secures its AI-native software development lifecycle]] (DOCUMENT) — 0.96, STATIQUE
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ## Relations (comme objet)
 
@@ -124,6 +161,7 @@
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
+- [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]

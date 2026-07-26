@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 107 relations | 37 fiches sources
+> **Type** : ORGANISATION | 108 relations | 37 fiches sources
 
 ## Attributs
 
@@ -66,6 +66,8 @@
 
 ### améliore
 
+- [[kb/_entites-mineures#étape-Test-(CI)-reconstruite-comme-goulot-identifié\|étape Test (CI) reconstruite comme goulot identifié]] (CONCEPT) — 0.94, STATIQUE
+  - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 

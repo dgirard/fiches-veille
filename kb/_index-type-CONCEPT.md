@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 849 entités de type CONCEPT
+> 853 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -510,6 +510,7 @@
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#charge-cognitive-de-validation\|charge cognitive de validation]] — description: Charge mentale liée à la vérification du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] — axe: Axe Y de la carte (visible → invisible pour l'utilisateur) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] — définition: Indicateurs produits faute de cycle formalisé (nombre de licences, volume de tokens) qui ne disent rien de la qualité ni du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cinq-substitutions\|cinq substitutions]] — liste: Generator-verifier gap, search vs insight, décomposition vs horizon, banking vs présence, mesure vs métacognition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] — définition: Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant (1 occ., 1 fiches)
@@ -621,6 +622,7 @@
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] — liste: Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#gate\|gate]] — définition: Contrôle placé entre deux étapes du cycle — d'où l'impossibilité d'en poser un dans une organisation sans étapes nommées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] — conditions: Zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] — outils: Suivi usage, contrôles budget, optimisation modèles, mise en cache (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] — définition: Contrainte limitante qui, avec l'IA, se déplace de l'exécution vers l'amont (vision/décision) (1 occ., 1 fiches)
@@ -667,6 +669,7 @@
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] — attributs: adaptatif, composable, intent-driven, context-aware, conversationnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] — statut: Modèle dominant historique, en déclin avec l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#loi-d'Amdahl\|loi d'Amdahl]] — application: Appliquée au SDLC AI-native : le débit du système reste celui de son étape la plus lente — ×8 de code produit ne multiplie rien si la revue reste séquentielle et humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loi-de-Campbell\|loi de Campbell]] — auteur: Donald T. Campbell (1976) — corruption des indicateurs sociaux (1 occ., 1 fiches)
 - [[kb/loi-de-Goodhart\|loi de Goodhart]] — définition: Une mesure devenue cible cesse d'être une bonne mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loi-de-Moore\|loi de Moore]] — analogie: Attentes technologiques devenant objectifs motivateurs (1 occ., 1 fiches)
@@ -719,6 +722,7 @@
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] — définition: Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-de-continuité-IA\|plan de continuité IA]] — définition: Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
+- [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] — définition: Pilotage de la dépense en tokens de scan (facturée à la consommation, croissante avec le débit de code) via le tiering par risque, plutôt que constatée en fin de mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] — définition: Define, Plan, Ship — points de décision non négociables réservés à l'humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pression-surengagement\|pression surengagement]] — mécanisme: dire oui = aucun coût immédiat ; dire non = risque politique immédiat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#principe-Model-Once-Represent-Everywhere\|principe "Model Once Represent Everywhere"]] — nature: Principe architectural central d'UDA (1 occ., 1 fiches)

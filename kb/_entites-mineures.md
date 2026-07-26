@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2493 entités avec moins de 3 triples/fiches
+> 2499 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (350)
 
@@ -6296,7 +6296,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (541)
+## TECHNOLOGIE (542)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7125,6 +7125,16 @@
 - **mesure** → [[kb/_entites-mineures#900-millions-d'utilisateurs-hebdomadaires\|900 millions d'utilisateurs hebdomadaires]] (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+
+### Chunk {#Chunk}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé
+
+- [[kb/_entites-mineures#CircleCI\|CircleCI]] **utilise** → Chunk — 0.90
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### Claude 3.5 {#Claude-3.5}
 
@@ -11796,7 +11806,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (821)
+## CONCEPT (825)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16211,6 +16221,14 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
+### chiffres d'usage {#chiffres-d'usage}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Indicateurs produits faute de cycle formalisé (nombre de licences, volume de tokens) qui ne disent rien de la qualité ni du risque
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### cinq substitutions {#cinq-substitutions}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17238,6 +17256,14 @@
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
+### gate {#gate}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Contrôle placé entre deux étapes du cycle — d'où l'impossibilité d'en poser un dans une organisation sans étapes nommées
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### gate de sortie de prosecution {#gate-de-sortie-de-prosecution}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17675,6 +17701,16 @@
 - [[kb/personal-software\|personal software]] **remplace** → logiciel taille unique — 0.93
 
 **Fiches** : [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
+
+### loi d'Amdahl {#loi-d'Amdahl}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **application** : Appliquée au SDLC AI-native : le débit du système reste celui de son étape la plus lente — ×8 de code produit ne multiplie rien si la revue reste séquentielle et humaine
+
+- **s_applique_à** → [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.96
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### loi de Campbell {#loi-de-Campbell}
 
@@ -18146,11 +18182,23 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### politique FinOps token {#politique-FinOps-token}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Pilotage de la dépense en tokens de scan (facturée à la consommation, croissante avec le débit de code) via le tiering par risque, plutôt que constatée en fin de mois
+
+- [[kb/_entites-mineures#tiering-par-risque\|tiering par risque]] **est_instance_de** → politique FinOps token — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### portes humaines {#portes-humaines}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Define, Plan, Ship — points de décision non négociables réservés à l'humain
+
+- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
@@ -19340,7 +19388,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (356)
+## METHODOLOGIE (357)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -22660,6 +22708,17 @@
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
 
+### tiering par risque {#tiering-par-risque}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **fonction** : Découpage de la base de code en paliers de risque ; sert de politique FinOps token en décidant où l'on paie plusieurs passes d'agents et où un SAST suffit
+
+- **est_instance_de** → [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] (CONCEPT) — 0.95
+- **permet** → [[kb/_entites-mineures#arbitrage-entre-trois-passes-d'agents-et-un-simple-SAST-selon-le-palier\|arbitrage entre trois passes d'agents et un simple SAST selon le palier]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+
 ### trip-wires automatiques {#trip-wires-automatiques}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -23172,11 +23231,14 @@
 
 ### incident agent-à-agent {#incident-agent-à-agent}
 
-**Type** : EVENEMENT | 0 relations | 1 fiches
+**Type** : EVENEMENT | 1 relations | 2 fiches
 
 - **description** : Agent IR demandant à un autre Claude de pousser un fix via Slack, stoppé au gate humain
+- **doctrine** : Doctrine tirée par SFEIR : tracer la frontière autour des accès et des actions, jamais autour des instructions ; l'accès d'un agent aux autres agents fait partie de sa surface d'attaque
 
-**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+- **affirme_que** → [[kb/_entites-mineures#un-périmètre-de-sécurité-qui-repose-sur-une-consigne-dans-un-prompt-n'est-pas-un-périmètre\|"un périmètre de sécurité qui repose sur une consigne dans un prompt n'est pas un périmètre"]] (CITATION) — 0.96
+
+**Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]], [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### migration 33 endpoints {#migration-33-endpoints}
 
@@ -23495,12 +23557,14 @@
 
 ### DORA 2025 {#DORA-2025}
 
-**Type** : DOCUMENT | 2 relations | 2 fiches
+**Type** : DOCUMENT | 3 relations | 2 fiches
 
 - **apport** : L'IA comme « amplificateur » des forces et dysfonctionnements
 
 - **mesure** → [[kb/_entites-mineures#adoption-IA-positivement-liée-au-débit-mais-négativement-à-la-stabilité-de-livraison\|adoption IA positivement liée au débit mais négativement à la stabilité de livraison]] (MESURE) — 0.92
 - **affirme_que** → [[kb/_entites-mineures#l'IA-est-un-amplificateur-des-forces-et-dysfonctionnements-organisationnels\|l'IA est un amplificateur des forces et dysfonctionnements organisationnels]] (AFFIRMATION) — 0.88
+
+- [[kb/SFEIR\|SFEIR]] **référence** → DORA 2025 — 0.93
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
@@ -23619,11 +23683,12 @@
 
 ### How Anthropic secures its AI-native software development lifecycle {#How-Anthropic-secures-its-AI-native-software-development-lifecycle}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 1 fiches
 
 - **catégorie** : REX sécurité (blog Anthropic, Claude Code / Enterprise AI)
 
 - [[kb/Jason-Clinton\|Jason Clinton]] **publie** → How Anthropic secures its AI-native software development lifecycle — 0.97
+- [[kb/SFEIR\|SFEIR]] **soutient** → How Anthropic secures its AI-native software development lifecycle — 0.96
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 670 entités de type TECHNOLOGIE
+> 671 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -109,6 +109,7 @@
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] — catégorie: Navigateur web conversationnel IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Chunk\|Chunk]] — catégorie: Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé (1 occ., 1 fiches)
 - [[kb/Claude-entite\|Claude]] — catégorie: Modèle de langage (8 occ., 8 fiches)
 - [[kb/_entites-mineures#Claude-3.5\|Claude 3.5]] — version_clé: Révision octobre 2024 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)

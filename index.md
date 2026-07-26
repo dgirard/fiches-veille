@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 357 fiches | 1975-12 → 2026-07-25 | généré le 2026-07-26
+> 358 fiches | 1975-12 → 2026-07-26 | généré le 2026-07-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-07
 
+- **26** [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic) · SFEIR — SDLC, SDLC AI-native, cycle de développement
 - **25** [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir · Investir (Les Echos) — Aiman Ezzat, Capgemini, IA agentique
 - **24** [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées. · SFEIR (recherche interne) — AI Kill Switch Act, section 2220F, Shutdown-Capability Standard
 - **23** [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué. · Ars Technica — AI Kill Switch Act, kill switch, off switch
@@ -463,6 +464,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
@@ -705,6 +707,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
 - [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué.
 - [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [Rewriting Bun in Rust](fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08.md) — Jarred Sumner (créateur de Bun ; travaille chez Anthropic depuis le rachat de Bun en décembre 2025)
@@ -828,6 +831,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
 - [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées.
 - [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
@@ -923,23 +927,23 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 357 fiches
-- **Par année** : 2026 (180) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 358 fiches
+- **Par année** : 2026 (181) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 121
+  - Agents de codage IA & Skills : 122
   - Architecture & Construction : 38
   - Transformation & Adoption : 74
-  - Qualité & Sécurité : 27
+  - Qualité & Sécurité : 28
   - Économie & Marché : 65
   - Philosophie & Société : 22
-  - Stratégie & Frameworks : 17
+  - Stratégie & Frameworks : 18
   - Outils & Plateformes : 29
   - Recherche & Éducation : 9
   - Produits & Services : 9
   - Politique & Régulation : 16
 - **Auteurs (top 20)** :
+  - SFEIR (11)
   - Ethan Mollick (11)
-  - SFEIR (10)
   - Anthropic (8)
   - Chris Williams (7)
   - Deep Research Veille Interne (7)
@@ -960,7 +964,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Nicolas Martignole (2)
 - **Sources (top 20)** :
   - Anthropic (13)
-  - SFEIR (9)
+  - SFEIR (10)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Deep Research (7)
