@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 51 relations | 9 fiches sources
+> **Type** : ORGANISATION | 64 relations | 9 fiches sources
 
 ## Attributs
 
@@ -22,17 +22,31 @@
 
 ### affine
 
+- [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] (CONCEPT) — 0.96, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### affirme_que
 
+- « la qualité logicielle ne se lit plus dans le code mais dans l'anneau de contraintes qui entoure l'agent » (AFFIRMATION) — 0.98, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « le SDLC est le socle et non la formalité : sans étapes nommées, une organisation n'a nulle part où accrocher ses contrôles » (AFFIRMATION) — 0.98, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « "Review instrumente. Ship décide." — Review livre un faisceau de preuves opposable, Ship décide sur les preuves et non sur le diff intégral » (CITATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « le goulot n'a jamais été la génération mais la vérification : accélérer la génération ne fait qu'épaissir le tas au col de la vérification » (AFFIRMATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « multiplier par 8 le volume de code ne multiplie rien si la revue reste séquentielle et humaine : le débit du système reste celui de son étape la plus lente » (AFFIRMATION) — 0.97, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « "sans cycle décrit, la dépense en tokens n'est pas pilotée, elle est constatée en fin de mois" » (CITATION) — 0.96, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « placer le gate humain sur Review ferait de l'attention humaine le point de contrôle d'une génération qui scale, plafonnant le débit au nombre de diffs qu'un senior peut lire dans une journée » (AFFIRMATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « "l'anneau s'épaissit à chaque cycle, et c'est le seul actif de la chaîne qui s'apprécie pendant que les modèles se déprécient" » (CITATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « "l'intention n'est pas perdue, elle est jetée" » (CITATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « le vrai risque de l'IA sur l'emploi est le décrochage compétitif (non-adoption), pas la destruction d'emplois » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 - « une organisation sans cycle formalisé ne produit que des chiffres d'usage, muets sur la qualité et le risque » (AFFIRMATION) — 0.95, ATEMPOREL
@@ -81,6 +95,8 @@
 
 - « 1 000 personnes pour une capacité de production de 10 000 » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- « "− 30 % d'itérations de correction après dix cycles" (mesure interne first-party, protocole non publié) » (MESURE) — 0.78, STATIQUE
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### prédit
 
@@ -98,10 +114,18 @@
 
 ### recommande
 
+- « toute échappée devient une contrainte : un défaut qui a franchi l'anneau se referme dans l'anneau sous forme de test, de règle de lint, de rubrique de revue ou de garde-fou de harnais » (AFFIRMATION) — 0.97, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « tracer la frontière de sécurité autour des accès et des actions, jamais autour des instructions données au modèle » (AFFIRMATION) — 0.97, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « nommer les étapes, poser une menace par étape, décider palier par palier, journaliser chaque décision d'agent, échantillonner les approbations » (AFFIRMATION) — 0.96, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « remplacer la question "ce code est-il bon ?" par "qu'est-ce que mon système refuse de laisser passer ?" » (AFFIRMATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « qualifier une boucle pour l'autonomie sur cinq critères de contrôle — peu coûteux, à haute fréquence, difficile à contourner, immédiat et non dérivant » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+- « garder la revue humaine sur l'authentification, la facturation et les contrats d'API publics, et réviser chaque interrupteur à chaque Compound » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « remplacer la question "pouvons-nous nous permettre de tout scanner ?" par "que feriez-vous tourner si scanner ne coûtait presque rien ?" » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « mettre LLMD sous surveillance active plutôt que basculer en production aujourd'hui » (AFFIRMATION) — 0.92, STATIQUE
@@ -131,7 +155,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#DORA-2025\|DORA 2025]] (DOCUMENT) — 0.93, STATIQUE
+- [[kb/DORA-2025\|DORA 2025]] (DOCUMENT) — 0.93, STATIQUE
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### s_inspire_de
@@ -143,6 +167,8 @@
 
 - « transposition directe des chiffres d'Anthropic à une DSI avec vingt ans de système d'information » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT) — 0.93, STATIQUE
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### soutient
 

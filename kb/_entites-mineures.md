@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2499 entités avec moins de 3 triples/fiches
+> 2503 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (350)
 
@@ -11806,7 +11806,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (825)
+## CONCEPT (829)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13038,13 +13038,16 @@
 
 ### Comprehension Debt {#Comprehension-Debt}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
+- **application** : Dimension « compréhensibilité » de l'anneau : dette systématiquement omise parce qu'elle ne casse pas la CI ; remède peu coûteux = journal de décision de l'agent attaché à la PR
 - **définition** : Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt"
 
 - **est_instance_de** → [[kb/_entites-mineures#écart-croissant-entre-volume-code-et-compréhension-humaine\|écart croissant entre volume code et compréhension humaine]] (CONCEPT) — 0.96
 
-**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+- [[kb/_entites-mineures#compréhensibilité\|compréhensibilité]] **réduit** → Comprehension Debt — 0.94
+
+**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### Computer System Engineers {#Computer-System-Engineers}
 
@@ -14930,12 +14933,13 @@
 
 ### Ratchet principle {#Ratchet-principle}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé.
 
 - **est_basé_sur** → [[kb/_entites-mineures#traçabilité-de-chaque-règle-AGENTS.md-à-un-échec-passé\|traçabilité de chaque règle AGENTS.md à un échec passé]] (CONCEPT) — 0.95
 
+- [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] **est_basé_sur** → Ratchet principle — 0.95
 - [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → Ratchet principle — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
@@ -15856,6 +15860,20 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### anneau de contraintes {#anneau-de-contraintes}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte
+
+- **est_basé_sur** → [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE) — 0.97
+- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95
+
+- [[kb/_entites-mineures#back-pressure\|back-pressure]] **fait_partie_de** → anneau de contraintes — 0.96
+- [[kb/SFEIR\|SFEIR]] **affine** → anneau de contraintes — 0.96
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
 ### anticipation stratégique {#anticipation-stratégique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15989,6 +16007,16 @@
 - **définition** : Proximité client : haut = visible, bas = infrastructure
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
+
+### back-pressure {#back-pressure}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Règle qui relie les dimensions de l'anneau : autonomie ≤ vérifiabilité à faible coût — on ne confie à une boucle que l'autonomie qu'on sait vérifier de façon fiable et peu coûteuse
+
+- **fait_partie_de** → [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### banalisation de la couche modèle {#banalisation-de-la-couche-modèle}
 
@@ -16246,6 +16274,17 @@
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **est_instance_de** → classe Mythos — 0.95
 
 **Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+
+### cliquet de l'anneau {#cliquet-de-l'anneau}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Règle « toute échappée devient une contrainte » : un défaut ayant franchi l'anneau se referme dans l'anneau (test, lint, rubrique, garde-fou de harnais) au Compound-1, avec mémoire rechargée au Plan du cycle suivant
+
+- **est_basé_sur** → [[kb/_entites-mineures#ratchet-principle\|ratchet principle]] (CONCEPT) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#Compound-1\|Compound-1]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### cloud de confiance {#cloud-de-confiance}
 
@@ -18110,6 +18149,16 @@
 
 **Fiches** : [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]]
 
+### phase Review (SDLC) {#phase-Review-(SDLC)}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **position** : Phase 5 du cycle SFEIR, entre Verify et Compound-1, délibérément hors des trois gates humains (Define, Plan, Ship) ; livrable = un faisceau de preuves opposable, la décision revenant au gate Ship
+
+- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
 ### philosophie Unix {#philosophie-Unix}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19109,13 +19158,16 @@
 
 ### validation circulaire {#validation-circulaire}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
-- **définition** : Tests générés par l'IA confirmant du code généré par l'IA au lieu de vérifier le besoin réel
+- **définition** : Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes »
 
+- **est_instance_de** → [[kb/_entites-mineures#mode-d'échec-de-la-revue-agentique\|mode d'échec de la revue agentique]] (CONCEPT) — 0.95
 - **s_oppose_à** → [[kb/_entites-mineures#vérification-du-besoin-réel-par-les-tests\|vérification du besoin réel par les tests]] (CONCEPT) — 0.86
 
-**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
+- [[kb/Augment-Code-organisation\|Augment Code]] **référence** → validation circulaire — 0.94
+
+**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### vibe architecting {#vibe-architecting}
 
@@ -23555,19 +23607,6 @@
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
 
-### DORA 2025 {#DORA-2025}
-
-**Type** : DOCUMENT | 3 relations | 2 fiches
-
-- **apport** : L'IA comme « amplificateur » des forces et dysfonctionnements
-
-- **mesure** → [[kb/_entites-mineures#adoption-IA-positivement-liée-au-débit-mais-négativement-à-la-stabilité-de-livraison\|adoption IA positivement liée au débit mais négativement à la stabilité de livraison]] (MESURE) — 0.92
-- **affirme_que** → [[kb/_entites-mineures#l'IA-est-un-amplificateur-des-forces-et-dysfonctionnements-organisationnels\|l'IA est un amplificateur des forces et dysfonctionnements organisationnels]] (AFFIRMATION) — 0.88
-
-- [[kb/SFEIR\|SFEIR]] **référence** → DORA 2025 — 0.93
-
-**Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
-
 ### EU AI Act {#EU-AI-Act}
 
 **Type** : DOCUMENT | 2 relations | 2 fiches
@@ -23950,6 +23989,14 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
+### Software Factories, Light and Dark {#Software-Factories,-Light-and-Dark}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **statut** : Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
 ### State of AI Code Quality 2025 {#State-of-AI-Code-Quality-2025}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
@@ -24048,13 +24095,14 @@
 
 ### The End of Code Review: Coding Agents Supersede Human Inspection {#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection}
 
-**Type** : DOCUMENT | 2 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **type** : Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175
 
 - **référence** → [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT) — 0.90
 
 - [[kb/Martin-Monperrus\|Martin Monperrus]] **publie** → The End of Code Review: Coding Agents Supersede Human Inspection — 0.98
+- [[kb/SFEIR\|SFEIR]] **s_oppose_à** → The End of Code Review: Coding Agents Supersede Human Inspection — 0.93
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 

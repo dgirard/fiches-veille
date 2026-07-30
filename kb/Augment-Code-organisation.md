@@ -1,6 +1,6 @@
 # Augment Code
 
-> **Type** : ORGANISATION | 6 relations | 2 fiches sources
+> **Type** : ORGANISATION | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -29,6 +29,11 @@
 
 - [[kb/_entites-mineures#délai-projet-de-4-8-mois-à-2-semaines\|délai projet de 4-8 mois à 2 semaines]] (CONCEPT) — 0.96, STATIQUE
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
+
+### référence
+
+- [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] (CONCEPT) — 0.94, STATIQUE
+  - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
 ### s_applique_à
 

@@ -277,7 +277,7 @@
 - [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (5 occ., 5 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
-- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (2 occ., 2 fiches)
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (3 occ., 3 fiches)
 - [[kb/_entites-mineures#cycle-agentique-en-huit-phases\|cycle agentique en huit phases]] — phases: P0 Triage, P1 Interrogate, P2 Decompose, P3 Rail, P4 Build, P5 Prosecute, P6 Integrate, P7 Distill (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cycle-de-vie-agent\|cycle de vie agent]] — phases: Experiment → Deploy → Operate → Improve (1 occ., 1 fiches)
 - [[kb/_entites-mineures#design-patterns\|design patterns]] — catégorie: Mécanisme de transmission du jugement architectural (1 occ., 1 fiches)

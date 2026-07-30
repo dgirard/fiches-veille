@@ -10,7 +10,7 @@
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] — rôle: Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (8 occ., 7 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
 - [[kb/Aiman-Ezzat\|Aiman Ezzat]] — rôle: Directeur général de Capgemini (1 occ., 1 fiches)

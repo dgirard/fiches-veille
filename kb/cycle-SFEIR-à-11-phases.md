@@ -1,10 +1,11 @@
 # cycle SFEIR à 11 phases
 
-> **Type** : METHODOLOGIE | 12 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 14 relations | 3 fiches sources
 
 ## Attributs
 
 - **définition** : SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations
+- **gates** : Trois gates humains inviolables — Define (l'intention), Plan (l'architecture), Ship (l'acceptation avant livraison) ; Review en est délibérément exclue pour ne pas plafonner le débit sur l'attention humaine
 - **rôle** : Cadre maison SFEIR (« Concevoir et fabriquer à l'ère de l'agentique ») avec la Software Factory 10x : règle le versant ingénierie (SDLC augmenté), l'articulation SDLC/PDLC étant le levier suivant
 
 ## Relations (comme sujet)
@@ -52,10 +53,13 @@
 
 ## Relations (comme objet)
 
+- [[kb/_entites-mineures#phase-Review-(SDLC)\|phase Review (SDLC)]] **fait_partie_de** → cycle SFEIR à 11 phases — 0.97
 - [[kb/SFEIR\|SFEIR]] **a_créé** → cycle SFEIR à 11 phases — 0.95
+- [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] **fait_partie_de** → cycle SFEIR à 11 phases — 0.95
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] **fait_partie_de** → cycle SFEIR à 11 phases — 0.95
 
 ## Fiches sources
 
+- [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]

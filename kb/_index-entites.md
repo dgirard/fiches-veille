@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2913 entités
+> 2918 entités
 
 ## #
 
@@ -95,7 +95,7 @@
 - [[kb/_entites-mineures#ACV-ADEME-Mistral\|ACV ADEME Mistral]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Adaptive-organization\|Adaptive organization]] (CONCEPT, 1 fiches)
-- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 7 fiches)
+- [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE, 8 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Adeo\|Adeo]] (ORGANISATION, 1 fiches)
 - [[kb/ADHD\|ADHD]] (TECHNOLOGIE, 1 fiches)
@@ -278,6 +278,7 @@
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Angie-Wang\|Angie Wang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Animals-vs-Ghosts\|Animals vs Ghosts]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
@@ -405,6 +406,7 @@
 
 - [[kb/_entites-mineures#Babak-Hodjat\|Babak Hodjat]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Babel-(icône-biblique)\|Babel (icône biblique)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#back-pressure\|back-pressure]] (CONCEPT, 1 fiches)
 - [[kb/Bain-&-Company\|Bain & Company]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#banalisation-de-la-couche-modèle\|banalisation de la couche modèle]] (CONCEPT, 1 fiches)
@@ -624,6 +626,7 @@
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CLI\|CLI]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] (CONCEPT, 1 fiches)
 - [[kb/CLOUD-Act\|CLOUD Act]] (CONCEPT, 3 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Development-Act-+-package-Souveraineté\|Cloud Development Act + package Souveraineté]] (METHODOLOGIE, 1 fiches)
@@ -696,7 +699,7 @@
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] (CONCEPT, 1 fiches)
 - [[kb/Compounding-Knowledge-Lifecycle\|Compounding Knowledge Lifecycle]] (METHODOLOGIE, 1 fiches)
 - [[kb/compounding-teams\|compounding teams]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] (DOCUMENT, 1 fiches)
@@ -820,7 +823,7 @@
 - [[kb/_entites-mineures#cycle-de-vie-agent\|cycle de vie agent]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cycle-DPEV\|Cycle DPEV]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cycle-en-V-prédictible\|Cycle en V prédictible]] (METHODOLOGIE, 1 fiches)
-- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE, 2 fiches)
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE, 3 fiches)
 ## D
 
 - [[kb/_entites-mineures#Daisy-Zhao\|Daisy Zhao]] (PERSONNE, 1 fiches)
@@ -941,7 +944,7 @@
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#données-neurales\|données neurales]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#données-propriétaires\|données propriétaires]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#DORA-2025\|DORA 2025]] (DOCUMENT, 2 fiches)
+- [[kb/DORA-2025\|DORA 2025]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#DORA-AI-Capabilities-Model\|DORA AI Capabilities Model]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DORA-team\|DORA team]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Dose-ID\|Dose ID]] (TECHNOLOGIE, 1 fiches)
@@ -2062,6 +2065,7 @@
 - [[kb/_entites-mineures#Phase-Plan\|Phase Plan]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#phase-Rail\|phase Rail]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Phase-Review\|Phase Review]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#phase-Review-(SDLC)\|phase Review (SDLC)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Phil-Williammee\|Phil Williammee]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] (PERSONNE, 1 fiches)
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] (PERSONNE, 6 fiches)
@@ -2469,6 +2473,7 @@
 - [[kb/_entites-mineures#Société-Générale\|Société Générale]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Socrate\|Socrate]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] (DOCUMENT, 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Sohrab-Hosseini\|Sohrab Hosseini]] (PERSONNE, 1 fiches)
@@ -2794,7 +2799,7 @@
 ## V
 
 - [[kb/_entites-mineures#Valence\|Valence]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Vanta\|Vanta]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Variable-costs-in-high-margin-SaaS\|Variable costs in high-margin SaaS]] (CONCEPT, 1 fiches)

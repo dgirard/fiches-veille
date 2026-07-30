@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 853 entités de type CONCEPT
+> 857 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -150,7 +150,7 @@
 - [[kb/Compaction-concept\|Compaction]] — définition: Résumé automatique de la conversation remplaçant l'historique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] — définition: Formule-canonique Chepurin/Turner — *« We compensate for a lack of satisfaction with work quantity. »* Mécanisme central de l'escalade burnout (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compositional-Path-Dependency\|Compositional Path Dependency]] — définition: Cause de surrender : chaque chunk surrender rend le prochain surrender plus probable, requiert reconstruction complète pour redevenir indépendant (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] — définition: Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] — définition: Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] — rôle futur: Construire les backbones en code assisté IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Confidence-Flywheel\|Confidence Flywheel]] — description: Cycle vertueux : contexte → moins d'hallucinations → confiance → vitesse de livraison (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Confidence-Transfer\|Confidence Transfer]] — définition: Cause de surrender : modèles parlent avec autorité, déclarations institutionnellement crédibles même quand inventées (ex. "debounce of 300ms") (1 occ., 1 fiches)
@@ -472,6 +472,7 @@
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: commerce géré de façon autonome par des agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] — définition: Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
@@ -486,6 +487,7 @@
 - [[kb/_entites-mineures#avantage-concurrentiel\|avantage concurrentiel]] — localisation: Composants positionnés à gauche de la carte (Genèse / Sur mesure) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] — contexte: Objectif final de l'adoption IA à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] — définition: Proximité client : haut = visible, bas = infrastructure (1 occ., 1 fiches)
+- [[kb/_entites-mineures#back-pressure\|back-pressure]] — définition: Règle qui relie les dimensions de l'anneau : autonomie ≤ vérifiabilité à faible coût — on ne confie à une boucle que l'autonomie qu'on sait vérifier de façon fiable et peu coûteuse (1 occ., 1 fiches)
 - [[kb/_entites-mineures#banalisation-de-la-couche-modèle\|banalisation de la couche modèle]] — principe: Thèse SFEIR : le modèle devient une commodité, la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts, capacité à changer d'avis) ; l'open-weights accélère cette banalisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#behavioral-observability\|behavioral observability]] — usage: Monitoring spécifique au comportement des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-Opus-4.8\|benchmarks Opus 4.8]] — valeurs: SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % (1 occ., 1 fiches)
@@ -513,6 +515,7 @@
 - [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] — définition: Indicateurs produits faute de cycle formalisé (nombre de licences, volume de tokens) qui ne disent rien de la qualité ni du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cinq-substitutions\|cinq substitutions]] — liste: Generator-verifier gap, search vs insight, décomposition vs horizon, banking vs présence, mesure vs métacognition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
+- [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] — définition: Règle « toute échappée devient une contrainte » : un défaut ayant franchi l'anneau se referme dans l'anneau (test, lint, rubrique, garde-fou de harnais) au Compound-1, avec mémoire rechargée au Plan du cycle suivant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] — définition: Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#codage-agentique\|codage agentique]] — définition: Développement logiciel piloté par agents IA autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-output\|code output]] — statut: Ressource devenue abondante (non rare) à l'ère de l'IA (1 occ., 1 fiches)
@@ -714,6 +717,7 @@
 - [[kb/personal-software\|personal software]] — définition: Application à usage unique créée par et pour une personne, adaptée à ses besoins précis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#perspective-européenne-IA\|perspective européenne IA]] — caractéristiques: Réalisme technologique, rigueur philosophique, souveraineté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#perte-d'identité-visuelle-des-fournisseurs\|perte d'identité visuelle des fournisseurs]] — domaine: Problème core que MCP-UI résout (1 occ., 1 fiches)
+- [[kb/_entites-mineures#phase-Review-(SDLC)\|phase Review (SDLC)]] — position: Phase 5 du cycle SFEIR, entre Verify et Compound-1, délibérément hors des trois gates humains (Define, Plan, Ship) ; livrable = un faisceau de preuves opposable, la décision revenant au gate Ship (1 occ., 1 fiches)
 - [[kb/_entites-mineures#philosophie-Unix\|philosophie Unix]] — nature: Combiner outils spécialisés pour workflows puissants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pierre-philosophale\|pierre philosophale]] — origine: Rêve alchimiste — transmutation de matériaux ordinaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pilotes-IA-entreprise\|pilotes IA entreprise]] — taux d'échec: 95% échouent le passage en production (1 occ., 1 fiches)
@@ -825,7 +829,7 @@
 - [[kb/_entites-mineures#usage-augmentatif\|usage augmentatif]] — définition: collaboration homme-IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-directif\|usage directif]] — définition: tâche entièrement déléguée à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Tests générés par l'IA confirmant du code généré par l'IA au lieu de vérifier le besoin réel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] — définition: Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain (1 occ., 1 fiches)
