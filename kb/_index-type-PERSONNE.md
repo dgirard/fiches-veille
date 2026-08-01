@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 465 entités de type PERSONNE
+> 466 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -143,7 +143,7 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] — rôle: Développeur et essayiste, figure historique de l'open source (auteur de *The Cathedral and the Bazaar*, co-fondateur de l'OSI, Fetchmail, *The Art of Unix Programming*) ; ~50 ans d'expérience ; témoin pro-LLM du débat sur les agents de codage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Professeur senior, Stanford HAI (1 occ., 1 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
-- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (17 occ., 13 fiches)
+- [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (18 occ., 14 fiches)
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] — rôle: auteur NuExtract (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] — rôle: AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fabrice-Heyries\|Fabrice Heyries]] — rôle: PDG AG2R LA MONDIALE (fin 2025) (1 occ., 1 fiches)
@@ -368,6 +368,7 @@
 - [[kb/_entites-mineures#Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] — rôle: Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] — rôle: Développeur kernel (linux.dev) ; défend dans le thread l'usage des LLM pour aider les mainteneurs, contre une position jugée « très anti-LLM » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] — rôle: Théologien et philosophe italo-allemand (1885-1968), auteur de *La fin des temps modernes* (1950) — cité par Léon XIV (n. 93) : *« L'homme moderne n'a pas reçu l'éducation nécessaire pour faire un bon usage de son pouvoir »* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] — rôle: VP People & Culture chez SFEIR ; à l'origine de la bascule en Skill Based Organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roy-Lee\|Roy Lee]] — rôle: Étudiant Columbia / co-fondateur Cluely (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)
 - [[kb/Ryan-Law\|Ryan Law]] — rôle: Director of Content Marketing, Ahrefs (1 occ., 1 fiches)

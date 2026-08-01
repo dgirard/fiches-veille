@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 857 entités de type CONCEPT
+> 861 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -495,6 +495,7 @@
 - [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] — définition: L'IA ne supprime pas les goulots, elle les déplace en aval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-cognitive\|boucle cognitive]] — rôle: Boucle inédite entre personnes et systèmes numériques propre à l'ère IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] — définition: Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boundary-spanning\|boundary-spanning]] — définition: Mécanisme par lequel l'IA aide un professionnel à raisonner au-delà de son domaine d'origine, effaçant les silos fonctionnels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] — origine: Concept de Martin Fowler appliqué à la structuration des contextes LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#brevity-bias\|brevity bias]] — définition: compression excessive du contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-IA\|bulle IA]] — analogie: canaux, chemins de fer, internet, dot-com (2 occ., 2 fiches)
@@ -531,6 +532,7 @@
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] — opposé: compounding error (1 occ., 1 fiches)
 - [[kb/compounding-teams\|compounding teams]] — définition: Équipes IA n'écrivant plus de code, construisant des frameworks récursifs autour de modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] — qualification: Goulot d'étranglement coûteux (1 occ., 1 fiches)
+- [[kb/_entites-mineures#compétence-opérationnelle\|compétence opérationnelle]] — définition: Brique de base de la SBO : savoir-faire objectivé et transparent, déployé là où le besoin est concret, indépendamment de l'intitulé du poste (à ne pas confondre avec les Agent Skills) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#condition-d'arrêt-(stop-condition)\|condition d'arrêt (stop condition)]] — rôle: Sortie propre d'une boucle : la partie la plus critique, surtout en récursif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#conductor-vs-orchestrator\|conductor vs orchestrator]] — définition: Deux modes du dev : temps réel in-IDE vs délégation async multi-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#confiance-logicielle\|confiance logicielle]] — description: Confiance construite par transparence, non par marketing (1 occ., 1 fiches)
@@ -652,6 +654,7 @@
 - [[kb/_entites-mineures#hype-IA\|hype IA]] — nature: Enthousiasme excessif alimenté par intérêts commerciaux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] — description: Tendance des LLMs à assumer sans valider (1 occ., 1 fiches)
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] — définition: Réduction du rôle humain face à un agent qui code seul (1 occ., 1 fiches)
+- [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] — définition: « Je sais concevoir des architectures complexes » — définition de soi par la compétence, opposée à l'identité statutaire (« je suis manager ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#iframes-sandboxées\|iframes sandboxées]] — rôle: Mécanisme d'isolation sécurisée des composants UI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#immutabilité\|immutabilité]] — domaine: Architecture logicielle, sauvegarde de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#incertitude-macroéconomique\|incertitude macroéconomique]] — contexte: Environnement 2026 : inflation, récession potentielle (1 occ., 1 fiches)
@@ -809,6 +812,7 @@
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#task-crossover\|task crossover]] — définition: Tâches historiquement associées à un métier qui apparaissent dans l'usage IA de professionnels d'un autre métier ; mesuré à 43,5 % des messages métier-spécifiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] — domaine: Sciences des organisations, management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tier-de-modèle\|tier de modèle]] — règle: Fonction du coût de détection d'une erreur, pas du prestige de la tâche (1 occ., 1 fiches)

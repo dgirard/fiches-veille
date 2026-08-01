@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2503 entités avec moins de 3 triples/fiches
+> 2512 entités avec moins de 3 triples/fiches
 
-## PERSONNE (350)
+## PERSONNE (351)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2752,6 +2752,17 @@
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
+### Rosalie Zandona {#Rosalie-Zandona}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : VP People & Culture chez SFEIR ; à l'origine de la bascule en Skill Based Organisation
+
+- **travaille_chez** → [[kb/SFEIR\|SFEIR]] (ORGANISATION) — 0.95
+- **dirige** → [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] (METHODOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
 ### Roy Lee {#Roy-Lee}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3489,7 +3500,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (278)
+## ORGANISATION (280)
 
 ### 10x {#10x}
 
@@ -4233,9 +4244,11 @@
 
 ### Deloitte {#Deloitte}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : Conseil / Audit
+
+- **mesure** → [[kb/_entites-mineures#les-organisations-par-compétences-ont-98-%-de-chances-supplémentaires-d'être-perçues-comme-d'excellents-lieux-de-croissance\|les organisations par compétences ont 98 % de chances supplémentaires d'être perçues comme d'excellents lieux de croissance]] (MESURE) — 0.85
 
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **s_oppose_à** → Deloitte — 0.95
 
@@ -5351,6 +5364,16 @@
 
 **Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
 
+### OpenAI Economic Research {#OpenAI-Economic-Research}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier
+
+- **publie** → [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
 ### OpenAI Group PBC {#OpenAI-Group-PBC}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5446,6 +5469,16 @@
 - **a_créé** → [[kb/Superpowers\|Superpowers]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
+
+### Procter & Gamble {#Procter-&-Gamble}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Terrain de l'expérience « The Cybernetic Teammate » (professionnels R&D et commerce, défis d'innovation produit réels)
+
+- **observé_dans** → [[kb/_entites-mineures#The-Cybernetic-Teammate-(791-professionnels-R&D-et-commerce)\|The Cybernetic Teammate (791 professionnels R&D et commerce)]] (DOCUMENT) — 0.93
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### Pylon {#Pylon}
 
@@ -11806,7 +11839,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (829)
+## CONCEPT (833)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16077,6 +16110,14 @@
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
 
+### boundary-spanning {#boundary-spanning}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Mécanisme par lequel l'IA aide un professionnel à raisonner au-delà de son domaine d'origine, effaçant les silos fonctionnels
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
 ### bounded contexts {#bounded-contexts}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -16410,6 +16451,16 @@
 - [[kb/Code-Wiki\|Code Wiki]] **s_applique_à** → compréhension du code existant — 0.97
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
+
+### compétence opérationnelle {#compétence-opérationnelle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Brique de base de la SBO : savoir-faire objectivé et transparent, déployé là où le besoin est concret, indépendamment de l'intitulé du poste (à ne pas confondre avec les Agent Skills)
+
+- **remplace** → [[kb/_entites-mineures#l'identité-statutaire-par-une-identité-opératoire\|l'identité statutaire par une identité opératoire]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### condition d'arrêt (stop condition) {#condition-d'arrêt-(stop-condition)}
 
@@ -17548,6 +17599,14 @@
 - **définition** : Réduction du rôle humain face à un agent qui code seul
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
+
+### identité opératoire {#identité-opératoire}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : « Je sais concevoir des architectures complexes » — définition de soi par la compétence, opposée à l'identité statutaire (« je suis manager »)
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### iframes sandboxées {#iframes-sandboxées}
 
@@ -18984,6 +19043,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
+### task crossover {#task-crossover}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Tâches historiquement associées à un métier qui apparaissent dans l'usage IA de professionnels d'un autre métier ; mesuré à 43,5 % des messages métier-spécifiques
+
+- **observé_dans** → [[kb/_entites-mineures#les-données-d'usage-de-ChatGPT,-comme-signal-avancé-de-la-recomposition-des-métiers\|les données d'usage de ChatGPT, comme signal avancé de la recomposition des métiers]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
 ### taxonomie 9 catégories de skills {#taxonomie-9-catégories-de-skills}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19440,7 +19509,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (357)
+## METHODOLOGIE (358)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -21091,6 +21160,20 @@
 - **définition** : Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
+
+### Skill Based Organisation {#Skill-Based-Organisation}
+
+**Type** : METHODOLOGIE | 4 relations | 1 fiches
+
+- **définition** : Modèle d'organisation faisant de la compétence réellement opérationnelle — et non du poste — l'unité de base du travail
+
+- **remplace** → [[kb/_entites-mineures#la-fiche-de-poste-comme-unité-d'organisation-du-travail\|la fiche de poste comme unité d'organisation du travail]] (AFFIRMATION) — 0.93
+- **permet** → [[kb/_entites-mineures#de-rendre-le-task-crossover-visible,-outillé-et-valorisé-au-lieu-d'un-bricolage-informel\|de rendre le task crossover visible, outillé et valorisé au lieu d'un bricolage informel]] (AFFIRMATION) — 0.88
+
+- [[kb/SFEIR\|SFEIR]] **utilise** → Skill Based Organisation — 0.95
+- [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] **dirige** → Skill Based Organisation — 0.90
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### Sparkline {#Sparkline}
 
@@ -23349,7 +23432,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (99)
+## DOCUMENT (100)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23773,6 +23856,17 @@
 - [[kb/OpenAI\|OpenAI]] **publie** → Industrial Policy for the Intelligence Age — 0.98
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+
+### L'IA fait tomber les murs entre les métiers {#L'IA-fait-tomber-les-murs-entre-les-métiers}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Point de vue SFEIR (1er août 2026) reliant l'expérience P&G et le rapport OpenAI à la bascule SBO du cabinet
+
+- **référence** → [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] (DOCUMENT) — 0.98
+- **référence** → [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT) — 0.98
+
+**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### L'IA générative est plus une affaire de produit technologique qu'un projet d'IA {#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA}
 

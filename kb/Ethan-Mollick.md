@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 57 relations | 13 fiches sources
+> **Type** : PERSONNE | 59 relations | 14 fiches sources
 
 ## Attributs
 
@@ -9,7 +9,7 @@
 - **indépendance** : N'accepte aucun financement des entreprises IA
 - **oeuvre** : Co-Intelligence (livre)
 - **role** : Professeur associe, Wharton School
-- **rôle** : Professeur Wharton (management), auteur *Co-Intelligence*, commentateur IA prolifique (LinkedIn + blog *One Useful Thing*)
+- **rôle** : Professeur à Wharton, co-auteur de « The Cybernetic Teammate » ; relie l'expérience P&G aux données d'usage OpenAI
 
 ## Relations (comme sujet)
 
@@ -47,10 +47,14 @@
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 - « le vibes-based testing est insuffisant pour les organisations déployant l'IA à grande échelle » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
+- « les frontières organisationnelles deviennent poreuses et les entreprises devront repenser la division du travail » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « les compétences IA sont des people skills (manager, enseigner) » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 - « les organisations ignorent l'amélioration continue de l'IA dans leur planification » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
+- « correctement orchestrée, la recomposition du travail rapporte gros en satisfaction et en performance » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « les labs d'IA ne perçoivent pas la dimension organisationnelle des agents » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
 - « l'ASI peut être bloquée par un VP refusant de modifier son workflow Salesforce » (AFFIRMATION) — 0.88, ATEMPOREL
@@ -183,4 +187,5 @@
 - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-07/persuading-ai-cialdini-wharton-2025-07-18\|Call Me A Jerk: Persuading AI to Comply with Objectionable Requests]]
+- [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]

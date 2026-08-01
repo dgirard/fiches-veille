@@ -1,11 +1,12 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 64 relations | 9 fiches sources
+> **Type** : ORGANISATION | 68 relations | 10 fiches sources
 
 ## Attributs
 
 - **capacité_revendiquée** : équivalent 10 000 personnes
 - **effectif** : ~1 000 personnes
+- **organisation interne** : Basculée en Skill Based Organisation (février 2026), jusqu'à 13 compétences identifiées par métier
 - **position** : Le SDLC est le socle et non la formalité : les contrôles de sécurité, les gains de productivité, la politique FinOps token et la mesure supposent tous un cycle à étapes nommées
 - **positionnement** : « Amplifier l'IA plutôt que la subir » ; adoption comme levier vs pile de POCs
 - **posture** : Cabinet « AI Only », partenaire Google Cloud Premier ET Anthropic ; thèse : le modèle est une commodité, la valeur est dans le Context/Harness Engineering
@@ -41,6 +42,8 @@
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - « "sans cycle décrit, la dépense en tokens n'est pas pilotée, elle est constatée en fin de mois" » (CITATION) — 0.96, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
+- « l'IA générative ne se contente pas d'accélérer le travail existant, elle redistribue qui fait quoi » (AFFIRMATION) — 0.96, DYNAMIQUE
+  - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « placer le gate humain sur Review ferait de l'attention humaine le point de contrôle d'une génération qui scale, plafonnant le débit au nombre de diffs qu'un senior peut lire dans une journée » (AFFIRMATION) — 0.96, ATEMPOREL
   - [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 - « "l'anneau s'épaissit à chaque cycle, et c'est le seul actif de la chaîne qui s'apprécie pendant que les modèles se déprécient" » (CITATION) — 0.95, ATEMPOREL
@@ -107,6 +110,8 @@
 
 - [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage-(article)\|IA et emploi : le vrai risque, c'est le décrochage (article)]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers-(article)\|L'IA fait tomber les murs entre les métiers (article)]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - [[kb/_entites-mineures#Un-SDLC-piloté-par-l'IA-le-cycle-SFEIR-à-11-phases\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - [[kb/_entites-mineures#Rapport-de-recherche-«-AI-Kill-Switch-Act-»-souveraineté,-seuils-et-so-what\|Rapport de recherche « AI Kill Switch Act » : souveraineté, seuils et so what]] (DOCUMENT) — 0.95, STATIQUE
@@ -175,11 +180,17 @@
 - [[kb/_entites-mineures#How-Anthropic-secures-its-AI-native-software-development-lifecycle\|How Anthropic secures its AI-native software development lifecycle]] (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
+### utilise
+
+- [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
 ## Relations (comme objet)
 
 - [[kb/Didier-Girard\|Didier Girard]] **dirige** → SFEIR — 0.99
 - [[kb/Didier-Girard\|Didier Girard]] **travaille_chez** → SFEIR — 0.99
 - [[kb/WEnvision\|WEnvision]] **fait_partie_de** → SFEIR — 0.97
+- [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] **travaille_chez** → SFEIR — 0.95
 
 ## Fiches sources
 
@@ -191,4 +202,5 @@
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
+- [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]

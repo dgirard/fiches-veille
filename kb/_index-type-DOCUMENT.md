@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 113 entités de type DOCUMENT
+> 116 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -49,6 +49,7 @@
 - [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] — catégorie: Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] — catégorie: Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Industrial-Policy-for-the-Intelligence-Age\|Industrial Policy for the Intelligence Age]] — description: White paper OpenAI avril 2026 : 32h/sem, public wealth fund, taxes capital, right to AI nationale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers\|L'IA fait tomber les murs entre les métiers]] — catégorie: Point de vue SFEIR (1er août 2026) reliant l'expérience P&G et le rapport OpenAI à la bascule SBO du cabinet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] — catégorie: Tribune d'opinion / cadre de décision DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] — catégorie: Livre, thèse sceptique sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] — catégorie: Tribune d'opinion / cadre de transformation DSI (1 occ., 1 fiches)
@@ -85,6 +86,7 @@
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)
+- [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] — référence: Dell'Acqua, Ayoubi, Lifshitz, Sadun, E. Mollick, L. Mollick, Han, Goldman, Nair, Taub, Lakhani — Organization Science 37(4), 2026, p. 1217-1242 ; expérience préenregistrée chez P&G (791 prof. selon SFEIR, 776 dans le working paper NBER w33641 de mars 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] — type: Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] — méthodologie: 52 interviews exécutives + 153 sondages + 300 déploiements analysés (1 occ., 1 fiches)
@@ -99,6 +101,7 @@
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
+- [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)

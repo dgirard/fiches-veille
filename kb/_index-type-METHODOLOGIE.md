@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 398 entités de type METHODOLOGIE
+> 399 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -197,6 +197,7 @@
 - [[kb/_entites-mineures#Shift-Left\|Shift-Left]] — application: Intégration continue qualité + sécurité en amont, empêche la dette avant qu'elle n'existe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] — définition: Modèle d'organisation faisant de la compétence réellement opérationnelle — et non du poste — l'unité de base du travail (1 occ., 1 fiches)
 - [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)

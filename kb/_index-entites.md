@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2918 entités
+> 2929 entités
 
 ## #
 
@@ -473,6 +473,7 @@
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#boundary-spanning\|boundary-spanning]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] (CONCEPT, 1 fiches)
 - [[kb/Box\|Box]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Boîte-de-Petri-Silicon-Valley\|Boîte de Petri Silicon Valley]] (CONCEPT, 1 fiches)
@@ -702,6 +703,7 @@
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#compétence-opérationnelle\|compétence opérationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#condition-d'arrêt-(stop-condition)\|condition d'arrêt (stop condition)]] (CONCEPT, 1 fiches)
 - [[kb/Conductor\|Conductor]] (TECHNOLOGIE, 1 fiches)
@@ -1047,7 +1049,7 @@
 - [[kb/Erwan-Simon\|Erwan Simon]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#escheatment\|escheatment]] (CONCEPT, 1 fiches)
-- [[kb/Ethan-Mollick\|Ethan Mollick]] (PERSONNE, 13 fiches)
+- [[kb/Ethan-Mollick\|Ethan Mollick]] (PERSONNE, 14 fiches)
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] (DOCUMENT, 2 fiches)
@@ -1407,6 +1409,7 @@
 - [[kb/Iceberg-Index\|Iceberg Index]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IDE\|IDE]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#IDP-as-product\|IDP as product]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] (METHODOLOGIE, 1 fiches)
@@ -1561,6 +1564,7 @@
 - [[kb/_entites-mineures#Kyriba\|Kyriba]] (TECHNOLOGIE, 1 fiches)
 ## L
 
+- [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers\|L'IA fait tomber les murs entre les métiers]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] (DOCUMENT, 1 fiches)
@@ -1959,6 +1963,7 @@
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Codex\|OpenAI Codex]] (TECHNOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#OpenAI-Economic-Research\|OpenAI Economic Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Operator\|OpenAI Operator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] (TECHNOLOGIE, 1 fiches)
@@ -2142,6 +2147,7 @@
 - [[kb/_entites-mineures#Probleme-des-70%\|Probleme des 70%]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#problème-des-80-%\|problème des 80 %]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Problème-hayékien\|Problème hayékien]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Procter-&-Gamble\|Procter & Gamble]] (ORGANISATION, 1 fiches)
 - [[kb/procédure-infographique\|procédure infographique]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Product-Engineer\|Product Engineer]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#product-overhang\|product overhang]] (CONCEPT, 2 fiches)
@@ -2301,6 +2307,7 @@
 - [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] (PERSONNE, 1 fiches)
 - [[kb/roon\|roon]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] (METHODOLOGIE, 1 fiches)
@@ -2401,7 +2408,7 @@
 - [[kb/_entites-mineures#settings.json\|settings.json]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Setup-iOS-first-Cherny\|Setup iOS-first Cherny]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Seymour-Papert\|Seymour Papert]] (PERSONNE, 1 fiches)
-- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 9 fiches)
+- [[kb/SFEIR\|SFEIR]] (ORGANISATION, 10 fiches)
 - [[kb/_entites-mineures#SGLang\|SGLang]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SHACL\|SHACL]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#shadcn-ui\|shadcn/ui]] (TECHNOLOGIE, 1 fiches)
@@ -2450,6 +2457,7 @@
 - [[kb/_entites-mineures#Sketch\|Sketch]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Skill\|Skill]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-recall\|skill /recall]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#skill-files\|skill files]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#skill-issue\|skill issue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] (CONCEPT, 1 fiches)
@@ -2617,6 +2625,7 @@
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tariq-KRIM\|Tariq KRIM]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#task-crossover\|task crossover]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#task_banger_screen.py\|task_banger_screen.py]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#task_post_safety_screen_deluxe.py\|task_post_safety_screen_deluxe.py]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#task_spam_detection.py\|task_spam_detection.py]] (TECHNOLOGIE, 1 fiches)
@@ -2669,6 +2678,7 @@
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] (DOCUMENT, 1 fiches)
+- [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] (ORGANISATION, 1 fiches)
@@ -2886,6 +2896,7 @@
 - [[kb/_entites-mineures#WIP-limits\|WIP limits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#WNS\|WNS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Work-planning\|Work planning]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Workers\|Workers]] (TECHNOLOGIE, 1 fiches)

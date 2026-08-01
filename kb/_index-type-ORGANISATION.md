@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 363 entités de type ORGANISATION
+> 365 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -241,6 +241,7 @@
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] — rôle: Organisation co-fondée par ESR en 1998 (président jusqu'en 2005) promouvant l'open source (1 occ., 1 fiches)
 - [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (21 occ., 21 fiches)
+- [[kb/_entites-mineures#OpenAI-Economic-Research\|OpenAI Economic Research]] — rôle: Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
@@ -253,6 +254,7 @@
 - [[kb/_entites-mineures#PlayerZero\|PlayerZero]] — catégorie: Startup production engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Postman\|Postman]] — statut adoption: Adoptant MCP-UI (host) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prime-Radiant\|Prime Radiant]] — secteur: Outils de développement IA agentique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Procter-&-Gamble\|Procter & Gamble]] — rôle: Terrain de l'expérience « The Cybernetic Teammate » (professionnels R&D et commerce, défis d'innovation produit réels) (1 occ., 1 fiches)
 - [[kb/Project-Prometheus\|Project Prometheus]] — valorisation: 6.2 milliards de dollars (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Pylon\|Pylon]] — catégorie: Start-up d'IA (1 occ., 1 fiches)
 - [[kb/Qodo-organisation\|Qodo]] — secteur: Plateforme IA de qualité de code (anciennement Codium) (1 occ., 1 fiches)
@@ -269,7 +271,7 @@
 - [[kb/_entites-mineures#Riskified\|Riskified]] — secteur: Prévention fraude / e-commerce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#S3NS\|S3NS]] — qualification: SecNumCloud 3.2 ANSSI (déc. 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAP\|SAP]] — secteur: Éditeur ERP / Cloud (1 occ., 1 fiches)
-- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (11 occ., 9 fiches)
+- [[kb/SFEIR\|SFEIR]] — relation: Groupe parent de WEnvision (12 occ., 10 fiches)
 - [[kb/Salesforce\|Salesforce]] — secteur: Éditeur SaaS / CRM, Agentic Enterprise (6 occ., 5 fiches)
 - [[kb/_entites-mineures#SambaNova-Systems\|SambaNova Systems]] — secteur: Infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Samsung\|Samsung]] — secteur: Électronique grand public, technologie (1 occ., 1 fiches)
