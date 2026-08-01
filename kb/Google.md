@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 44 relations | 16 fiches sources
+> **Type** : ORGANISATION | 47 relations | 16 fiches sources
 
 ## Attributs
 
@@ -86,6 +86,8 @@
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 - [[kb/_entites-mineures#guide-Demand-Led-Marketing-budget-2026\|guide Demand-Led Marketing budget 2026]] (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
+- [[kb/Beyond-Zero\|Beyond Zero]] (CONCEPT) — 0.97, STATIQUE
+  - [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 - [[kb/_entites-mineures#AI-Studio\|AI Studio]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -123,6 +125,8 @@
 - [[kb/_entites-mineures#Google-Chrome\|Google Chrome]] **fait_partie_de** → Google — 0.99
 - [[kb/Google-DeepMind\|Google DeepMind]] **fait_partie_de** → Google — 0.99
 - [[kb/Addy-Osmani\|Addy Osmani]] **travaille_chez** → Google — 0.98
+- [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] **travaille_chez** → Google — 0.97
+- [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Google — 0.93
 - [[kb/_entites-mineures#contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] **fait_partie_de** → Google — 0.85

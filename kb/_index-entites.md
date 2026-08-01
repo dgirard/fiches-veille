@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2929 entités
+> 2940 entités
 
 ## #
 
@@ -88,6 +88,7 @@
 - [[kb/_entites-mineures#Accélération-projection-2030-vers-2026\|Accélération projection 2030 vers 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#accélérationnisme\|accélérationnisme]] (CONCEPT, 1 fiches)
 - [[kb/ACE\|ACE]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ACM-Queue\|ACM Queue]] (ORGANISATION, 1 fiches)
 - [[kb/Acontext\|Acontext]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Action-targeted-content-design\|Action-targeted content design]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Activation-capping\|Activation capping]] (METHODOLOGIE, 1 fiches)
@@ -252,6 +253,7 @@
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Ambient-affordances\|Ambient affordances]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#ambient-authority\|ambient authority]] (CONCEPT, 1 fiches)
 - [[kb/AMD\|AMD]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE, 1 fiches)
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 3 fiches)
@@ -431,6 +433,9 @@
 - [[kb/_entites-mineures#Benjamin-Franklin\|Benjamin Franklin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Berger-de-contexte\|Berger de contexte]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#BERT-en-C\|BERT en C]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Beyond-Zero\|Beyond Zero]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Beyond-Zero-Enterprise-security-for-the-AI-era\|Beyond Zero: Enterprise security for the AI era]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#BeyondCorp\|BeyondCorp]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#BFM-Business\|BFM Business]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Bharat-N.-Anand\|Bharat N. Anand]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bharat-Ramamurti\|Bharat Ramamurti]] (PERSONNE, 1 fiches)
@@ -554,6 +559,7 @@
 - [[kb/_entites-mineures#CFIUS\|CFIUS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#CFO\|CFO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Chain-of-Thought\|Chain-of-Thought]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#challenges-et-containments\|challenges et containments]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#champ-description\|champ description]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#champions-IA\|champions IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE, 1 fiches)
@@ -1032,6 +1038,7 @@
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] (DOCUMENT, 1 fiches)
 - [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Enterprise-paradox\|Enterprise paradox]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#enterprise-world-model\|enterprise world model]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] (CONCEPT, 1 fiches)
@@ -1512,6 +1519,7 @@
 - [[kb/John-Cutler\|John Cutler]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
@@ -1768,6 +1776,7 @@
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] (ORGANISATION, 2 fiches)
@@ -2096,6 +2105,7 @@
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Plancher-financier-DORA-vs-plafond-praticien\|Plancher financier DORA vs plafond praticien]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#plancher-statique-plafond-dynamique\|plancher statique / plafond dynamique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#plateforme-d'IA-générative\|plateforme d'IA générative]] (TECHNOLOGIE, 1 fiches)
@@ -2243,6 +2253,7 @@
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#RDF\|RDF]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#React\|React]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#reasoning-engine\|reasoning engine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Rebecca-Parsons\|Rebecca Parsons]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Recursive-Tool-Building\|Recursive Tool Building]] (METHODOLOGIE, 1 fiches)

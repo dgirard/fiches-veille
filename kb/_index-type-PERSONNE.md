@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 466 entités de type PERSONNE
+> 468 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -221,6 +221,7 @@
 - [[kb/John-Cutler\|John Cutler]] — rôle: Auteur produit ayant popularisé la notion de « feature factory » (output vs outcome) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] — rôle: Auteur académique cité (Deepnote) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] — rôle: Senior IT Reporter, Ars Technica (couverture régulation tech) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] — rôle: Director of Product Management, sécurité entreprise chez Alphabet Security ; précédemment à l'origine du Sovereign Cloud de Google (1 occ., 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] — rôle: Analyste RH-tech, fondateur The Josh Bersin Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] — rôle: Ingénieur / Auteur chez Vercel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Julie-Bedard\|Julie Bedard]] — rôle: Consultante BCG, auteure du sondage HBR mars 2026 sur l'usage IA (2 occ., 2 fiches)
@@ -304,6 +305,7 @@
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] — rôle: Directeur OSTP (Office of Science and Technology Policy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] — rôle: CEO de Cursor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] — rôle: Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] — dates: 1930-2019, philosophe français (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] — rôle: VP IA, Replit (1 occ., 1 fiches)
 - [[kb/Mike-Taylor\|Mike Taylor]] — rôle: Co-auteur (Every), auteur AI/prompt (1 occ., 1 fiches)

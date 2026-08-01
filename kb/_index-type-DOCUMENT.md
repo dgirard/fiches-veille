@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 116 entités de type DOCUMENT
+> 117 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -21,6 +21,7 @@
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] — description: Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] — catégorie: Billet de bricolage / REX exploratoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bain-série-5-volets-software-age-of-AI\|Bain série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Beyond-Zero-Enterprise-security-for-the-AI-era\|Beyond Zero: Enterprise security for the AI era]] — référence: Joseph Valente, Michal Zalewski — ACM Queue vol. 24 n° 3 (LLMs), 20 juillet 2026, DOI 10.1145/3819083, CC BY 4.0 ; 29 143 téléchargements au 29 juil. 2026, une seule référence bibliographique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)

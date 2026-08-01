@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 30 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 4 fiches sources
 
 ## Attributs
 
@@ -40,6 +40,11 @@
 
 - [[kb/_entites-mineures#contremaîtres-spécialisés\|contremaîtres spécialisés]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
+
+### mesure
+
+- « un accès aux données à 10 fois le rythme des humains » (MESURE) — 0.80, DYNAMIQUE
+  - [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### permet
 

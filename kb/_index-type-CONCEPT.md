@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 861 entités de type CONCEPT
+> 867 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -104,6 +104,8 @@
 - [[kb/_entites-mineures#Babel-(icône-biblique)\|Babel (icône biblique)]] — définition: Tour de Babel (Gn 11, 1-9) — symbolique d'uniformité technologique, profit, absolutisation de l'humain, langage unique qui prétend tout traduire en données. Premier pôle de la dialectique structurante de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Base-platform\|Base platform]] — définition: Plateforme sous-jacente (typiquement cloud public AWS/GCP/Azure, Kubernetes, ou modèle LLM en 2026) sur laquelle se construit la plateforme métier. **Croît dans le temps**, déclenche la décision floating vs sinking (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Berger-de-contexte\|Berger de contexte]] — categorie: Nouveau role humain - expertise sectorielle et donnees (1 occ., 1 fiches)
+- [[kb/Beyond-Zero\|Beyond Zero]] — définition: Paradigme de sécurité d'entreprise déplaçant la frontière de confiance de l'application vers l'action individuelle sur la ressource, en couplant politiques statiques vérifiables et raisonnement IA dynamique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#BeyondCorp\|BeyondCorp]] — définition: Modèle zero trust introduit par Google en 2014 (Ward & Beyer, login; 39(6)) ; ses trois hypothèses — accédants humains, vitesse humaine, application comme frontière de confiance — sont déclarées caduques par Beyond Zero (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Big-Tech\|Big Tech]] — free_cash_flow_annuel: 300 milliards de dollars combinés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] — auteur: Rich Sutton (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blended-future\|Blended future]] — définition: Futur du travail mêlant humains et agents IA travaillant côte à côte (1 occ., 1 fiches)
@@ -471,6 +473,7 @@
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: commerce géré de façon autonome par des agents IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ambient-authority\|ambient authority]] — définition: Vecteur d'attaque agentique : un agent se voit accorder les permissions complètes, souvent surprovisionnées, de son utilisateur humain — l'exfiltration ne requiert alors aucune escalade de privilèges (1 occ., 1 fiches)
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] — définition: Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
@@ -508,6 +511,7 @@
 - [[kb/_entites-mineures#capitalisation-continue\|capitalisation continue]] — principe: Enrichissement progressif de la base de bonnes pratiques après chaque cycle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cascade-hiérarchique\|cascade hiérarchique]] — direction: VP → Directors → Managers, chaque niveau amplifiant les problèmes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#caveats\|caveats]] — contenu: experience matters ; SEO informationnel ; pas de scale massif (1 occ., 1 fiches)
+- [[kb/_entites-mineures#challenges-et-containments\|challenges et containments]] — définition: Challenges = frictions réversibles et granulaires (justification, clé de sécurité, approbation, selfie) ; containments = révocations durables, parfois levées seulement après entretien du salarié et de son manager (1 occ., 1 fiches)
 - [[kb/_entites-mineures#champ-description\|champ description]] — finalité: Déclencheur de routage pour le modèle, pas résumé humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#champions-IA\|champions IA]] — rôle: Ambassadeurs internes de l'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
@@ -610,6 +614,7 @@
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] — périmètre: Traitement bulk de 53 000 emails via cache + queue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#end-to-end-lineage\|end-to-end lineage]] — définition: Traçabilité complète des décisions et actions des agents IA pour audit et compliance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#enterprise-world-model\|enterprise world model]] — définition: Représentation vivante de l'organisation (Qui / Quoi / Comment) générée par IA depuis les entrepôts RH et projet, servant les décisions d'autorisation — à ne pas confondre avec les world models génératifs type Genie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
@@ -728,6 +733,7 @@
 - [[kb/_entites-mineures#plafond-productivité\|plafond productivité]] — catégorie: Limite gains génération code sans qualité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-Osez-l'IA\|plan Osez l'IA]] — définition: Initiative française 2025 de diffusion de l'IA : sensibilisation, accompagnement, formation (15 M de personnes, Académie de l'IA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plan-de-continuité-IA\|plan de continuité IA]] — définition: Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plancher-statique-plafond-dynamique\|plancher statique / plafond dynamique]] — définition: Partage architectural : socle de politiques statiques vérifiables sous un moteur de raisonnement dynamique — invariant de conception que l'on retrouve dans l'anneau de contraintes SFEIR et le tiering par risque d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#platform-team\|platform team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#politique-FinOps-token\|politique FinOps token]] — définition: Pilotage de la dépense en tokens de scan (facturée à la consommation, croissante avec le débit de code) via le tiering par risque, plutôt que constatée en fin de mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#portes-humaines\|portes humaines]] — définition: Define, Plan, Ship — points de décision non négociables réservés à l'humain (1 occ., 1 fiches)

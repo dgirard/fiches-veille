@@ -1,12 +1,13 @@
 # Index — ORGANISATION
 
-> 365 entités de type ORGANISATION
+> 366 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#20VC\|20VC]] — rôle: Fonds de VC (400 M$, tickets seed 100 k–3 M$) dirigé par Harry Stebbings ; lead de l'amorçage de 2,5 M€ de Delos (avril 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#72andSunny\|72andSunny]] — description: Cas étude Mandese — agence ayant shifted to modular product menus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] — plateforme: X (Twitter) (2 occ., 1 fiches)
+- [[kb/_entites-mineures#ACM-Queue\|ACM Queue]] — rôle: Revue de l'ACM destinée aux praticiens ; numéro thématique « LLMs » (vol. 24 n° 3, mai/juin 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADEME\|ADEME]] — secteur: Agence de la transition écologique française, partenaire de Mistral pour l'ACV des modèles (1 occ., 1 fiches)
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] — secteur: Protection sociale et patrimoniale (2 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] — catégorie: Comité de direction interdisciplinaire (1 occ., 1 fiches)

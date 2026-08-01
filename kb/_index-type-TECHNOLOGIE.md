@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 671 entités de type TECHNOLOGIE
+> 672 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -643,6 +643,7 @@
 - [[kb/_entites-mineures#political-neutrality-eval\|political-neutrality-eval]] — url: https://github.com/anthropics/political-neutrality-eval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#proj-ai-commons\|proj-ai-commons]] — description: Bibliothèque partagée patterns anonymisés (templates DR, slash-commands, doctrine) — bootstrap 30 min vs 1 semaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] — catégorie: Bibliothèque Python de manipulation de PDF (1 occ., 1 fiches)
+- [[kb/_entites-mineures#reasoning-engine\|reasoning engine]] — définition: Cœur de Beyond Zero : IA hiérarchique serveur + endpoints, mode rapide (ABAC à l'accès) et mode lent (inférence sur une série d'actions), rendant un verdict allow / deny / challenge (1 occ., 1 fiches)
 - [[kb/_entites-mineures#remote-DOM\|remote DOM]] — rôle: Séparation structure/rendering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#repo-profile-cache\|repo-profile cache]] — nature: Connaissance éphémère dérivée 1×/commit, partagée par 9 skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#repowire\|repowire]] — catégorie: Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313) (1 occ., 1 fiches)

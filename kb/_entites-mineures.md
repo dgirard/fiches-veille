@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2512 entités avec moins de 3 triples/fiches
+> 2522 entités avec moins de 3 triples/fiches
 
-## PERSONNE (351)
+## PERSONNE (353)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1618,6 +1618,16 @@
 
 **Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 
+### Joseph Valente {#Joseph-Valente}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Director of Product Management, sécurité entreprise chez Alphabet Security ; précédemment à l'origine du Sovereign Cloud de Google
+
+- **travaille_chez** → [[kb/Google\|Google]] (ORGANISATION) — 0.97
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+
 ### Jude Gao {#Jude-Gao}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2235,6 +2245,17 @@
 - **publie** → [[kb/_entites-mineures#excuse-publique-sur-la-tarification\|excuse publique sur la tarification]] (DOCUMENT) — 0.97
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+
+### Michal Zalewski {#Michal-Zalewski}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap
+
+- **travaille_chez** → [[kb/Google\|Google]] (ORGANISATION) — 0.97
+- **dirige** → [[kb/_entites-mineures#la-stratégie-d'Alphabet-Security\|la stratégie d'Alphabet Security]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### Michel Serres {#Michel-Serres}
 
@@ -3500,7 +3521,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (281)
 
 ### 10x {#10x}
 
@@ -3552,6 +3573,16 @@
 - **plateforme** : X (Twitter)
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+
+### ACM Queue {#ACM-Queue}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Revue de l'ACM destinée aux praticiens ; numéro thématique « LLMs » (vol. 24 n° 3, mai/juin 2026)
+
+- **publie** → [[kb/_entites-mineures#Beyond-Zero-Enterprise-security-for-the-AI-era\|Beyond Zero: Enterprise security for the AI era]] (DOCUMENT) — 0.97
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### ADEME {#ADEME}
 
@@ -6329,7 +6360,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (542)
+## TECHNOLOGIE (543)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -11559,6 +11590,16 @@
 
 **Fiches** : [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 
+### reasoning engine {#reasoning-engine}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Cœur de Beyond Zero : IA hiérarchique serveur + endpoints, mode rapide (ABAC à l'accès) et mode lent (inférence sur une série d'actions), rendant un verdict allow / deny / challenge
+
+- **permet** → [[kb/_entites-mineures#un-verdict-allow-deny-challenge-qui-devient-lui-même-un-attribut-réutilisable\|un verdict allow / deny / challenge qui devient lui-même un attribut réutilisable]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+
 ### remote DOM {#remote-DOM}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11839,7 +11880,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (833)
+## CONCEPT (838)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12668,6 +12709,17 @@
 - **permet** → [[kb/_entites-mineures#nuance-sectorielle-et-historique-client\|nuance sectorielle et historique client]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
+
+### BeyondCorp {#BeyondCorp}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Modèle zero trust introduit par Google en 2014 (Ward & Beyer, login; 39(6)) ; ses trois hypothèses — accédants humains, vitesse humaine, application comme frontière de confiance — sont déclarées caduques par Beyond Zero
+
+- [[kb/Beyond-Zero\|Beyond Zero]] **est_basé_sur** → BeyondCorp — 0.95
+- [[kb/Beyond-Zero\|Beyond Zero]] **remplace** → BeyondCorp — 0.93
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### Big Tech {#Big-Tech}
 
@@ -15881,6 +15933,16 @@
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
+### ambient authority {#ambient-authority}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Vecteur d'attaque agentique : un agent se voit accorder les permissions complètes, souvent surprovisionnées, de son utilisateur humain — l'exfiltration ne requiert alors aucune escalade de privilèges
+
+- **permet** → [[kb/_entites-mineures#l'exploitation-d'un-agent-héritant-des-permissions-surprovisionnées-de-son-humain\|l'exploitation d'un agent héritant des permissions surprovisionnées de son humain]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+
 ### analytics translator {#analytics-translator}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -16236,6 +16298,14 @@
 - **contenu** : experience matters ; SEO informationnel ; pas de scale massif
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
+
+### challenges et containments {#challenges-et-containments}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Challenges = frictions réversibles et granulaires (justification, clé de sécurité, approbation, selfie) ; containments = révocations durables, parfois levées seulement après entretien du salarié et de son manager
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### champ description {#champ-description}
 
@@ -17193,6 +17263,18 @@
 - **définition** : Traçabilité complète des décisions et actions des agents IA pour audit et compliance
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### enterprise world model {#enterprise-world-model}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Représentation vivante de l'organisation (Qui / Quoi / Comment) générée par IA depuis les entrepôts RH et projet, servant les décisions d'autorisation — à ne pas confondre avec les world models génératifs type Genie
+
+- **est_basé_sur** → [[kb/_entites-mineures#les-entrepôts-RH-et-de-gestion-de-projet-de-l'entreprise\|les entrepôts RH et de gestion de projet de l'entreprise]] (AFFIRMATION) — 0.90
+
+- [[kb/Beyond-Zero\|Beyond Zero]] **utilise** → enterprise world model — 0.95
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### environnement brownfield {#environnement-brownfield}
 
@@ -18279,6 +18361,14 @@
 - **définition** : Multi-modèles + couche d'abstraction, bascule testée, clauses de réversibilité, cartographie d'exposition
 
 **Fiches** : [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
+### plancher statique / plafond dynamique {#plancher-statique-plafond-dynamique}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Partage architectural : socle de politiques statiques vérifiables sous un moteur de raisonnement dynamique — invariant de conception que l'on retrouve dans l'anneau de contraintes SFEIR et le tiering par risque d'Anthropic
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### platform team {#platform-team}
 
@@ -23432,7 +23522,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (100)
+## DOCUMENT (101)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23594,6 +23684,16 @@
 - **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
+
+### Beyond Zero: Enterprise security for the AI era {#Beyond-Zero-Enterprise-security-for-the-AI-era}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Joseph Valente, Michal Zalewski — ACM Queue vol. 24 n° 3 (LLMs), 20 juillet 2026, DOI 10.1145/3819083, CC BY 4.0 ; 29 143 téléchargements au 29 juil. 2026, une seule référence bibliographique
+
+- [[kb/_entites-mineures#ACM-Queue\|ACM Queue]] **publie** → Beyond Zero: Enterprise security for the AI era — 0.97
+
+**Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### Blueprint {#Blueprint}
 
