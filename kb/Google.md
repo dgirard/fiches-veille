@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 47 relations | 16 fiches sources
+> **Type** : ORGANISATION | 46 relations | 16 fiches sources
 
 ## Attributs
 
@@ -14,8 +14,6 @@
 
 ### a_créé
 
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.99, STATIQUE
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 - [[kb/Gemini-entite\|Gemini]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] (TECHNOLOGIE) — 0.99, STATIQUE

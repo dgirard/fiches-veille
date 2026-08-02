@@ -28,6 +28,7 @@
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### affirme_que
 

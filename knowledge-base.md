@@ -1,7 +1,7 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=18f7bfb6ffdf383ddf3187bc1174fba203f35dc4466946be3ffac5d8d859020a fiches=362 -->
-> 362 fiches | 2947 entités | 5293 triples | Généré le 2026-08-02
+<!-- manifest: sha256=a9aaadd125126ef4610da07933fae0cc5506a42cf1b79aea3b89dc4a0e750c48 fiches=362 -->
+> 362 fiches | 2947 entités | 5292 triples | Généré le 2026-08-02
 
 ## Navigation
 
@@ -25,7 +25,7 @@
 | [[kb/SFEIR\|SFEIR]] | ORGANISATION | 68 | 10 |
 | [[kb/Ethan-Mollick\|Ethan Mollick]] | PERSONNE | 59 | 14 |
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 50 | 21 |
-| [[kb/Google\|Google]] | ORGANISATION | 47 | 16 |
+| [[kb/Google\|Google]] | ORGANISATION | 46 | 16 |
 | [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 37 | 21 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 35 | 4 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 34 | 10 |
@@ -49,7 +49,7 @@
 - **affirme_que** : 605
 - **permet** : 479
 - **mesure** : 392
-- **a_créé** : 335
+- **a_créé** : 334
 - **publie** : 303
 - **recommande** : 241
 - **est_basé_sur** : 205
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 5377 → 5293 (84 doublons)
+- **Triples** : 5378 → 5292 (86 doublons)
 - **Entités** : 3819 → 2947 (872 doublons)

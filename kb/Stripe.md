@@ -20,6 +20,7 @@
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 - [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### affirme_que
 

@@ -1,10 +1,10 @@
 # Agentic Commerce Protocol
 
-> **Type** : TECHNOLOGIE | 9 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
 
 ## Attributs
 
-- **catégorie** : Protocole commerce agentique Google
+- **catégorie** : Protocole commerce agentique d'OpenAI et Stripe — à ne pas confondre avec UCP, celui de Google
 - **correction** : Protocole reliant un agent à un commerçant (découverte, panier, paiement), créé par **OpenAI et Stripe** le 29 septembre 2025 — et **non par Google**, dont le protocole concurrent est UCP. Alias « ACP » (homonyme)
 - **fonction** : Achats IA via interactions système-à-système
 - **usage** : Achat direct via agent IA (Instant Checkout)
@@ -22,7 +22,6 @@
 
 ## Relations (comme objet)
 
-- [[kb/Google\|Google]] **a_créé** → Agentic Commerce Protocol — 0.99
 - [[kb/OpenAI\|OpenAI]] **a_créé** → Agentic Commerce Protocol — 0.95
 - [[kb/Stripe\|Stripe]] **a_créé** → Agentic Commerce Protocol — 0.93
 - [[kb/_entites-mineures#Etsy\|Etsy]] **utilise** → Agentic Commerce Protocol — 0.93

@@ -62,7 +62,8 @@ La conclusion est un appel à l'action en cinq étapes : rejoindre la liste d'at
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Google | ORGANISATION | a_créé | Universal Commerce Protocol | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | a_créé | Agentic Commerce Protocol | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | Agentic Commerce Protocol | TECHNOLOGIE | 0.95 | STATIQUE | généré_assistant |
+| Stripe | ORGANISATION | a_créé | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | STATIQUE | généré_assistant |
 | Universal Commerce Protocol | TECHNOLOGIE | permet | achat direct par agents IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | Wayfair | ORGANISATION | utilise | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Etsy | ORGANISATION | utilise | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
@@ -84,7 +85,7 @@ La conclusion est un appel à l'action en cinq étapes : rejoindre la liste d'at
 | Nicolas Marette             | PERSONNE     | rôle         | Auteur guide Agentic Commerce Optimization | AJOUT  |
 | Universal Commerce Protocol | TECHNOLOGIE  | catégorie    | Protocole commerce agentique Google        | AJOUT  |
 | Universal Commerce Protocol | TECHNOLOGIE  | date_annonce | Janvier 2026                               | AJOUT  |
-| Agentic Commerce Protocol   | TECHNOLOGIE  | catégorie    | Protocole commerce agentique Google        | AJOUT  |
+| Agentic Commerce Protocol   | TECHNOLOGIE  | catégorie    | Protocole commerce agentique d'OpenAI et Stripe — à ne pas confondre avec UCP, celui de Google | MISE_A_JOUR |
 | Wayfair                     | ORGANISATION | secteur      | E-commerce / Ameublement                   | AJOUT  |
 | Etsy                        | ORGANISATION | secteur      | E-commerce / Marketplace artisanale        | AJOUT  |
 | WordLift                    | TECHNOLOGIE  | catégorie    | Outil SEO sémantique et diffusion visuelle | AJOUT  |
