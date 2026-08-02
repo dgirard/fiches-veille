@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 12 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 15 relations | 6 fiches sources
 
 ## Attributs
 
@@ -28,6 +28,11 @@
 - [[kb/_entites-mineures#accès-outils-cyberattaque\|accès outils cyberattaque]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 
+### s_applique_à
+
+- « la liaison entre un agent et ses outils et données » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+
 ### utilise
 
 - [[kb/_entites-mineures#security-best-practices\|security best practices]] (CONCEPT) — 0.90, ATEMPOREL
@@ -41,6 +46,8 @@
 - [[kb/QMD\|QMD]] **utilise** → Model Context Protocol — 0.97
 - [[kb/_entites-mineures#Phase-2-production\|Phase 2 production]] **est_basé_sur** → Model Context Protocol — 0.95
 - [[kb/_entites-mineures#Vanta\|Vanta]] **utilise** → Model Context Protocol — 0.95
+- [[kb/Buzz\|Buzz]] **utilise** → Model Context Protocol — 0.93
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **converge_avec** → Model Context Protocol — 0.90
 - [[kb/Amazon-Bedrock-AgentCore\|Amazon Bedrock AgentCore]] **utilise** → Model Context Protocol — 0.90
 
 ## Fiches sources

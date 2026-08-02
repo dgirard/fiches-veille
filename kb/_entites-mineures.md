@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2522 entités avec moins de 3 triples/fiches
+> 2527 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (353)
 
@@ -6360,7 +6360,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (543)
+## TECHNOLOGIE (546)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6699,6 +6699,16 @@
 - **utilise** → [[kb/IA-générative\|IA générative]] (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+
+### Agent Communication Protocol {#Agent-Communication-Protocol}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Protocole d'interopérabilité agent-à-agent d'IBM Research / BeeAI ; troisième porteur du sigle ACP, marginal dans le débat mais polluant les recherches
+
+- **permet** → [[kb/_entites-mineures#l'interopérabilité-agent-à-agent\|l'interopérabilité agent-à-agent]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 
 ### Agent Development Kit {#Agent-Development-Kit}
 
@@ -9458,6 +9468,16 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
+### Nostr {#Nostr}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Protocole de messagerie ouvert et résistant à la censure, substrat d'identité et de journal signé de Buzz
+
+- [[kb/Buzz\|Buzz]] **utilise** → Nostr — 0.95
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+
 ### NotebookLM {#NotebookLM}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -11120,6 +11140,14 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
 
+### buzz-acp {#buzz-acp}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Harnais traduisant les événements Buzz vers un agent, en ACP sur stdio — brique qui rend Buzz agnostique en agents
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+
 ### cache_control {#cache_control}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11880,7 +11908,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (838)
+## CONCEPT (840)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17624,6 +17652,16 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
+### homonymie de sigle {#homonymie-de-sigle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Défaut d'indexation où un acronyme porté par plusieurs entités distinctes est traité comme une entité unique, fusionnant des corpus sans intersection technique
+
+- **s_oppose_à** → [[kb/_entites-mineures#la-qualité-d'un-corpus-de-veille-indexé-automatiquement\|la qualité d'un corpus de veille indexé automatiquement]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+
 ### honest loss account {#honest-loss-account}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18716,6 +18754,14 @@
 - **s_applique_à** → [[kb/AEO\|AEO]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
+
+### règle du sigle jamais seul {#règle-du-sigle-jamais-seul}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Règle de curation : l'entité canonique est le nom complet, le sigle n'est qu'un alias rattaché explicitement à une entité — un même alias pouvant être porté par plusieurs entités
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 
 ### récompense visible de l'adoption IA {#récompense-visible-de-l'adoption-IA}
 

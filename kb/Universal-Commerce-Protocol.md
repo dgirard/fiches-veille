@@ -1,14 +1,20 @@
 # Universal Commerce Protocol
 
-> **Type** : TECHNOLOGIE | 9 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 3 fiches sources
 
 ## Attributs
 
 - **catégorie** : Protocole commerce agentique Google
 - **date_annonce** : Janvier 2026
 - **licence** : Apache 2.0 open-source
+- **positionnement** : Protocole de commerce agentique de Google (11 janvier 2026), adossé à AP2 pour le paiement — concurrent de l'Agentic Commerce Protocol d'OpenAI/Stripe
 
 ## Relations (comme sujet)
+
+### concurrence
+
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 
 ### est_basé_sur
 
@@ -31,6 +37,8 @@
   - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 - [[kb/_entites-mineures#webhooks\|webhooks]] (TECHNOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+- [[kb/_entites-mineures#Agent-Payments-Protocol\|Agent Payments Protocol]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 
 ## Relations (comme objet)
 
@@ -41,5 +49,6 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]

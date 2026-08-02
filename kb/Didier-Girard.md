@@ -1,10 +1,10 @@
 # Didier Girard
 
-> **Type** : PERSONNE | 14 relations | 2 fiches sources
+> **Type** : PERSONNE | 17 relations | 3 fiches sources
 
 ## Attributs
 
-- **rôle** : Managing Director (CTO/DG) de SFEIR ; auteur de l'article
+- **rôle** : Auteur de la note ; praticien de la veille outillée, tire une règle de curation d'un défaut constaté dans son propre corpus
 
 ## Relations (comme sujet)
 
@@ -14,6 +14,10 @@
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - « c'est l'AI4IT, et non l'AI4Business, qui crée la valeur mesurable en 2026 » (AFFIRMATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
+- « trois protocoles distincts se partagent le sigle ACP sans aucune intersection technique » (AFFIRMATION) — 0.97, DYNAMIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- « la frontière entre usage individuel et routage de requêtes d'autrui est architecturale, pas juridique — qui consomme, et pour le compte de qui » (CITATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « la Pizza Team de 8-10 personnes ne fonctionne plus à l'ère agentique » (AFFIRMATION) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - « l'IA excelle là où la sortie est un texte structuré vérifiable avec une boucle de feedback immédiate (le code se vérifie tout seul) » (AFFIRMATION) — 0.93, ATEMPOREL
@@ -38,6 +42,8 @@
 
 ### recommande
 
+- « ne jamais indexer un sigle seul : l'entité est le nom complet, le sigle n'est qu'un alias » (AFFIRMATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « financer l'AI4IT d'abord (ROI prouvé, payback < 1 an) » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - « piloter le budget 2027 au coût par outcome plutôt qu'au prix du token » (AFFIRMATION) — 0.95, ATEMPOREL
@@ -58,4 +64,5 @@
 ## Fiches sources
 
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]

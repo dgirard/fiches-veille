@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 361 fiches | 1975-12 → 2026-08-01 | généré le 2026-08-01
+> 362 fiches | 1975-12 → 2026-08-02 | généré le 2026-08-02
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **02** [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme. · Didier Girard — ACP, Agent Client Protocol, Agentic Commerce Protocol
 - **01** [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). · SFEIR — Skill Based Organisation, SBO, organisation par compétences
 
 ### 2026-07
@@ -470,6 +471,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
 - [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
@@ -596,6 +598,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Beyond Zero: Enterprise security for the AI era](fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20.md) — **Joseph Valente** — Director of Product Management, en charge des efforts de sécurité entreprise au sein d'**Alphabet Security** ; son périmètre couvre l'ensemble des business units d'Alphabet (Google Ads, DeepMind, YouTube, Devices, Cloud). Précédemment à l'origine de ce qui est devenu le **Sovereign Cloud de Google** (l'offre de compute souverain de Google Cloud) — détail notable pour un lectorat européen. Avant Google : cofondateur de Pathify et Ebla, passage par Bain & Company.
@@ -865,6 +868,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
@@ -940,17 +944,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 361 fiches
-- **Par année** : 2026 (184) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 362 fiches
+- **Par année** : 2026 (185) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 123
-  - Architecture & Construction : 39
+  - Agents de codage IA & Skills : 124
+  - Architecture & Construction : 40
   - Transformation & Adoption : 75
   - Qualité & Sécurité : 30
   - Économie & Marché : 65
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 29
+  - Outils & Plateformes : 30
   - Recherche & Éducation : 9
   - Produits & Services : 9
   - Politique & Régulation : 16
@@ -973,8 +977,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - Didier Girard (2)
   - Janakiram MSV (2)
-  - Nicolas Martignole (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)

@@ -1,9 +1,10 @@
 # Block
 
-> **Type** : ORGANISATION | 5 relations | 4 fiches sources
+> **Type** : ORGANISATION | 6 relations | 5 fiches sources
 
 ## Attributs
 
+- **rôle** : Éditeur de Goose (agent open source) et de Buzz ; publie sous Apache-2.0 avec relay auto-hébergeable
 - **secteur** : Technologie financière (ex-Square)
 
 ## Relations (comme sujet)
@@ -19,6 +20,8 @@
 
 ### publie
 
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[kb/goose\|goose]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 
@@ -34,6 +37,7 @@
 ## Fiches sources
 
 - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
+- [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]

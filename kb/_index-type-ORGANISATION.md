@@ -49,7 +49,7 @@
 - [[kb/Bain-&-Company\|Bain & Company]] — secteur: Cabinet conseil top-tier mondial, série 5 volets software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
-- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (4 occ., 4 fiches)
+- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (5 occ., 5 fiches)
 - [[kb/Bloomberg\|Bloomberg]] — secteur: Finance / Données de marché (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] — secteur: Aérospatiale commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] — secteur: Conseil en stratégie (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 867 entités de type CONCEPT
+> 869 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -653,6 +653,7 @@
 - [[kb/_entites-mineures#hardware-moat\|hardware moat]] — nature: Barrière stratégique vendor lock-in matériel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#harnais\|harnais]] — rôle: Règles agentiques adaptées au contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hill-climbing-machine\|hill climbing machine]] — rôle: Métaphore de la boucle d'apprentissage qui compose dans le temps (1 occ., 1 fiches)
+- [[kb/_entites-mineures#homonymie-de-sigle\|homonymie de sigle]] — définition: Défaut d'indexation où un acronyme porté par plusieurs entités distinctes est traité comme une entité unique, fusionnant des corpus sans intersection technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#honest-loss-account\|honest loss account]] — sacrifices: Élégance en un passage, intuition transversale, latence, refactors long-horizon ; ~5 % du travail à supervision max (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hygiène-de-code\|hygiène de code]] — marqueurs de décomposition: Duplication, solutions locales, sur-conditionnement, cas particuliers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hygiène-du-code\|hygiène du code]] — catégorie: Propreté, modularité, couverture tests (1 occ., 1 fiches)
@@ -772,6 +773,7 @@
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ruissellement-économique-du-cloud\|ruissellement économique du cloud]] — valeur: 68 centimes / € restent en Europe avec Scaleway vs < 20 centimes avec un hyperscaler US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
+- [[kb/_entites-mineures#règle-du-sigle-jamais-seul\|règle du sigle jamais seul]] — définition: Règle de curation : l'entité canonique est le nom complet, le sigle n'est qu'un alias rattaché explicitement à une entité — un même alias pouvant être porté par plusieurs entités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
 - [[kb/réversibilité\|réversibilité]] — principe: Capacité à exécuter/porter un modèle soi-même et à sortir de la captivité fournisseur ; rendue portable par l'open-weights des poids de Mistral (même logique que Kimi K3) (3 occ., 3 fiches)

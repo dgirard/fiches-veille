@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 49 relations | 21 fiches sources
+> **Type** : ORGANISATION | 50 relations | 21 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,8 @@
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[kb/_entites-mineures#détecteur-ChatGPT-(précision-99,9%)\|détecteur ChatGPT (précision 99,9%)]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 
 ### affirme_que
 

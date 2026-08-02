@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 108 relations | 37 fiches sources
+> **Type** : ORGANISATION | 110 relations | 37 fiches sources
 
 ## Attributs
 
@@ -55,6 +55,8 @@
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- « les limites Pro et Max supposent un usage ordinaire et individuel de Claude Code et de l'Agent SDK » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « "le RSP a influencé California SB 53, le NY RAISE Act et l'EU AI Act" » (AFFIRMATION) — 0.88, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 - « Skills sont intentionnellement découvrables » (AFFIRMATION) — 0.88, ATEMPOREL
@@ -216,6 +218,8 @@
 
 - [[kb/_entites-mineures#release-de-Claude-Mythos-(refus-public-avril-2026)\|release de Claude Mythos (refus public avril 2026)]] (EVENEMENT) — 0.96, STATIQUE
   - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+- « le routage de requêtes d'utilisateurs tiers via des identifiants Free, Pro ou Max » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « usage de Claude pour la guerre autonome et la surveillance de masse » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT) — 0.85, DYNAMIQUE

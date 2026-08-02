@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2940 entités
+> 2947 entités
 
 ## #
 
@@ -112,6 +112,8 @@
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent\|Agent]] (CONCEPT, 1 fiches)
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agent-de-réponse-à-incident\|agent de réponse à incident]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit-(ADK)\|Agent Development Kit (ADK)]] (TECHNOLOGIE, 1 fiches)
@@ -135,7 +137,7 @@
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#agentic-analytics-stack\|agentic analytics stack]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] (CONCEPT, 1 fiches)
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 3 fiches)
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Protocol-(ACP)\|Agentic Commerce Protocol (ACP)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Suite\|Agentic Commerce Suite]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agentic-engineering\|Agentic engineering]] (METHODOLOGIE, 2 fiches)
@@ -449,7 +451,7 @@
 - [[kb/_entites-mineures#Blended-future\|Blended future]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blended-pricing\|Blended pricing]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blindspot-pass\|Blindspot pass]] (METHODOLOGIE, 1 fiches)
-- [[kb/Block\|Block]] (ORGANISATION, 4 fiches)
+- [[kb/Block\|Block]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bloom-two-sigma-problem\|Bloom two-sigma problem]] (CONCEPT, 1 fiches)
@@ -506,6 +508,8 @@
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] (EVENEMENT, 1 fiches)
 - [[kb/Bun\|Bun]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT, 1 fiches)
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] (ORGANISATION, 1 fiches)
 ## C
@@ -920,7 +924,7 @@
 - [[kb/Dia\|Dia]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diagnostic-Lattice\|Diagnostic Lattice]] (CONCEPT, 1 fiches)
 - [[kb/DICE\|DICE]] (METHODOLOGIE, 1 fiches)
-- [[kb/Didier-Girard\|Didier Girard]] (PERSONNE, 2 fiches)
+- [[kb/Didier-Girard\|Didier Girard]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Diff-Generator\|Diff Generator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diff-HTML-bruyant\|Diff HTML bruyant]] (CONCEPT, 1 fiches)
 - [[kb/Diffusion-Gemma\|Diffusion Gemma]] (TECHNOLOGIE, 1 fiches)
@@ -1370,6 +1374,7 @@
 - [[kb/_entites-mineures#Hiérarchie-d'accélération\|Hiérarchie d'accélération]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#HKUDS\|HKUDS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Home-Mixer\|Home Mixer]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#homonymie-de-sigle\|homonymie de sigle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#honest-loss-account\|honest loss account]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#hook-PreToolUse\|hook PreToolUse]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#hooks-conditionnels\|hooks conditionnels]] (TECHNOLOGIE, 1 fiches)
@@ -1916,6 +1921,7 @@
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Nostr\|Nostr]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Nouveaux-monopoles-de-l'IA\|Nouveaux monopoles de l'IA]] (CONCEPT, 1 fiches)
@@ -2342,6 +2348,7 @@
 - [[kb/Ryan-Law\|Ryan Law]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#règle-du-sigle-jamais-seul\|règle du sigle jamais seul]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] (CONCEPT, 1 fiches)
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] (PERSONNE, 1 fiches)
@@ -2800,7 +2807,7 @@
 - [[kb/_entites-mineures#Unbook-skill\|Unbook skill]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Underclass-permanente-d'intelligence\|Underclass permanente d'intelligence]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Undifferentiated-heavy-lifting\|Undifferentiated heavy lifting]] (CONCEPT, 1 fiches)
-- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Universal-Commerce-Protocol-(UCP)\|Universal Commerce Protocol (UCP)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] (ORGANISATION, 1 fiches)

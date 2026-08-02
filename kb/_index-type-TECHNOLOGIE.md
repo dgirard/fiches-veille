@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 672 entités de type TECHNOLOGIE
+> 677 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -46,6 +46,8 @@
 - [[kb/_entites-mineures#AWS-Bedrock\|AWS Bedrock]] — éditeur: Amazon (2 occ., 2 fiches)
 - [[kb/Acontext\|Acontext]] — catégorie: Plateforme de données contextuelles cloud-native (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] — catégorie: Outil de retouche photo (1 occ., 1 fiches)
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] — définition: Protocole ouvert reliant un client (éditeur) à un agent de codage ; JSON-RPC 2.0 sur stdio, Apache-2.0, introduit par Zed en août 2025 — le « LSP des agents ». Alias « ACP » (homonyme, à ne jamais employer seul) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] — définition: Protocole d'interopérabilité agent-à-agent d'IBM Research / BeeAI ; troisième porteur du sigle ACP, marginal dans le débat mais polluant les recherches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] — acronyme: ADK (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit-(ADK)\|Agent Development Kit (ADK)]] — catégorie: Kit de développement d'agents (1 occ., 1 fiches)
 - [[kb/Agent-Memory\|Agent Memory]] — catégorie: Gestion bidirectionnelle de données pour agents (1 occ., 1 fiches)
@@ -56,7 +58,7 @@
 - [[kb/_entites-mineures#Agent2Agent-(A2A)\|Agent2Agent (A2A)]] — catégorie: Protocole inter-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AgentCash\|AgentCash]] — description: Balance unique + découverte marchands pour agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] — historique: Fondation Linux Foundation annoncée déc. 2025 ; projets fondateurs MCP (Anthropic), goose (Block), AGENTS.md (OpenAI) ; AWS/Google/Microsoft membres platine ; A2A versé par Google (1 occ., 1 fiches)
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — fonction: Achats IA via interactions système-à-système (3 occ., 3 fiches)
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — fonction: Achats IA via interactions système-à-système (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Protocol-(ACP)\|Agentic Commerce Protocol (ACP)]] — statut: Opérationnel depuis septembre 2025 (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Suite\|Agentic Commerce Suite]] — créateurs: Stripe + commercetools (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-RAG\|Agentic RAG]] — catégorie: RAG avec récupération dynamique par agents (1 occ., 1 fiches)
@@ -97,6 +99,7 @@
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] — catégorie: LLM financier créé par Bloomberg sur ses données propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] — catégorie: Couche IA transversale de la plateforme HubSpot (1 occ., 1 fiches)
 - [[kb/Bun\|Bun]] — usage: Build et packaging de Claude Code (2 occ., 2 fiches)
+- [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (1 occ., 1 fiches)
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 10 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
@@ -392,6 +395,7 @@
 - [[kb/_entites-mineures#NetworkX\|NetworkX]] — catégorie: Bibliothèque Python d'analyse de graphes et réseaux sociaux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#New-Form\|New Form]] — catégorie: Outil créatif Meng To avec 63 skills design (lasers, skeuomorphic, 3D, copy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Next.js-16\|Next.js 16]] — catégorie: Framework React — Vercel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Nostr\|Nostr]] — rôle: Protocole de messagerie ouvert et résistant à la censure, substrat d'identité et de journal signé de Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] — catégorie: Outil de productivité IA (Google) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Nova\|Nova]] — catégorie: Plateforme d'agents de codage interne Dropbox (2 occ., 1 fiches)
 - [[kb/NuExtract\|NuExtract]] — catégorie: modèle de langage spécialisé extraction JSON (2 occ., 1 fiches)
@@ -549,7 +553,7 @@
 - [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] — rôle: Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code (1 occ., 1 fiches)
 - [[kb/TypeScript\|TypeScript]] — usage: Langage principal de Claude Code (3 occ., 3 fiches)
 - [[kb/UDA\|UDA]] — catégorie: Architecture données unifiée basée sur knowledge graph (1 occ., 1 fiches)
-- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (3 occ., 2 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Universal-Commerce-Protocol-(UCP)\|Universal Commerce Protocol (UCP)]] — transports: REST, MCP, A2A, Embedded Protocol (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Uplift-Agents\|Uplift Agents]] — catégorie: Agents de migration et maintenance automatisée (1 occ., 1 fiches)
 - [[kb/Upper\|Upper]] — rôle: Métamodèle auto-référentiel pour modélisation domaine (1 occ., 1 fiches)
@@ -590,6 +594,7 @@
 - [[kb/_entites-mineures#base-de-connaissances\|base de connaissances]] — rôle: Rendre la mémoire institutionnelle interrogeable et l'usage des tokens efficient (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] — catégorie: Skill maître d'orchestration éditoriale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bots-de-codage\|bots de codage]] — usage: Génération de code supervisée par humain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] — rôle: Harnais traduisant les événements Buzz vers un agent, en ACP sur stdio — brique qui rend Buzz agnostique en agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cache_control\|cache_control]] — description: Breakpoint créant un hash cryptographique scopé au workspace (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-brainstorm\|ce:brainstorm]] — description: Skill de brainstorming avec vérification état technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-compound\|ce:compound]] — description: Skill de documentation de solutions avec schema par track (1 occ., 1 fiches)

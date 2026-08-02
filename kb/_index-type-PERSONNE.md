@@ -127,7 +127,7 @@
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] — rôle: Chercheur DORA, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] — rôle: Tracking pattern harness engineering, HumanLayer (1 occ., 1 fiches)
-- [[kb/Didier-Girard\|Didier Girard]] — rôle: Managing Director (CTO/DG) de SFEIR ; auteur de l'article (2 occ., 2 fiches)
+- [[kb/Didier-Girard\|Didier Girard]] — rôle: Auteur de la note ; praticien de la veille outillée, tire une règle de curation d'un défaut constaté dans son propre corpus (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Dina-Kozlov\|Dina Kozlov]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] — rôle: Lead CIO practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] — rôle: Psychologue social, auteur de la loi de Campbell (1 occ., 1 fiches)
