@@ -14,7 +14,7 @@ Le modèle d'étages **logique** (aucun répertoire n'est renommé) qui structur
 La vue **machine** du corpus, une ligne par fiche, point d'entrée de la récupération *grep-first* — on grep le catalogue avant de lire une fiche. Généré : fonction pure des fiches, jamais édité à la main.
 
 ### KB générée
-Les pages d'entités produites automatiquement à partir des graphes de connaissance de toutes les fiches (une page par entité, wikilinks Obsidian). Artefact Silver dérivé : régénéré, jamais édité ni mergé à la main.
+Les pages d'entités produites automatiquement à partir des graphes de connaissance de toutes les fiches (une page par [[Entité]], wikilinks Obsidian). Artefact Silver dérivé : régénéré, jamais édité ni mergé à la main.
 *À ne pas confondre avec :* [[KB thématique curée]].
 
 ### KB thématique curée
@@ -26,3 +26,20 @@ Le contrôle de cohérence exécuté avant tout commit ou toute lecture du corpu
 
 ### Retard (doctor)
 État d'une [[KB thématique curée]] pour laquelle des fiches entrant dans son périmètre déclaré ont été publiées après sa date d'en-tête — signal, non bloquant, qu'il faut la ré-enrichir à la main.
+
+## Graphe de connaissance
+
+### Entité
+Le nœud du graphe : une chose nommée (personne, organisation, technologie, concept…) qui reçoit sa propre page dans la [[KB générée]]. Une entité est identifiée par le **couple nom + type**, jamais par le nom seul — deux homonymes de types différents restent donc distincts et sont séparés automatiquement.
+
+Son nom canonique est le **nom complet développé** ; un sigle n'est jamais un nom d'entité, seulement un alias porté en attribut. La raison est asymétrique : deux entités de **même type** qui partageraient un sigle fusionneraient silencieusement en une seule page, et c'est la seule collision qu'aucun contrôle automatique ne rattrape.
+
+### Triple
+L'assertion élémentaire du graphe, reliant un sujet à un objet par un prédicat issu d'un **registre fermé** — on choisit le prédicat le plus proche, on n'en invente jamais. Chaque triple porte aussi sa confiance, sa temporalité et sa **source épistémique** (énoncé par l'article, inféré, ou ajouté par l'assistant), ce qui permet de lire un fait rapporté autrement qu'une déduction.
+
+Un objet qui n'est pas une [[Entité]] mais une proposition, un chiffre ou un verbatim se type comme tel et n'entre jamais dans la table des entités.
+
+### Quasi-doublon
+Deux noms d'[[Entité]] assez proches pour désigner probablement la même chose (casse, accents, séparateurs). Ils sont **signalés à chaque build, jamais fusionnés automatiquement** : l'arbitrage est humain, parce qu'une fusion à l'aveugle détruit une désambiguïsation légitime.
+
+Le rapport ne voit que la **fragmentation** — un même objet éclaté sur plusieurs noms. Il est structurellement aveugle à la **conflation** — plusieurs objets sous un seul nom —, qui ne produit qu'une entité et donc rien à comparer.
