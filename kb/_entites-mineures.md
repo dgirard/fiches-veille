@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2525 entités avec moins de 3 triples/fiches
+> 2535 entités avec moins de 3 triples/fiches
 
-## PERSONNE (353)
+## PERSONNE (356)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1162,6 +1162,17 @@
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
+### Franciska Dethlefsen {#Franciska-Dethlefsen}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Head of growth and marketing chez Zed Industries ; autrice de la communication produit sur la facturation Claude
+
+- **travaille_chez** → [[kb/Zed\|Zed]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#pour-tout-usage-agentique-intensif,-le-changement-représente-une-hausse-de-coût-majeure\|pour tout usage agentique intensif, le changement représente une hausse de coût majeure]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+
 ### Franck Le Moal {#Franck-Le-Moal}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -2161,6 +2172,16 @@
 
 **Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
+### Matthew Diakonov {#Matthew-Diakonov}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ingénieur et entrepreneur, auteur de l'analyse estimant à 15-30× la subvention de l'usage agentique par l'abonnement Claude
+
+- **mesure** → [[kb/_entites-mineures#une-subvention-de-l'usage-agentique-par-l'abonnement-de-l'ordre-de-15-à-30×-le-tarif-API\|une subvention de l'usage agentique par l'abonnement de l'ordre de 15 à 30× le tarif API]] (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
+
 ### Matthew Kropp {#Matthew-Kropp}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2503,6 +2524,17 @@
 - **affirme_que** → [[kb/_entites-mineures#if-it's-great,-it-doesn't-have-to-be-good\|"if it's great, it doesn't have to be good"]] (CITATION) — 0.90
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
+
+### Paul Sawers {#Paul-Sawers}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Journaliste tech, signe pour The New Stack ; trace le sourçage en cascade du chiffre de subvention 15-30×
+
+- **a_créé** → [[kb/_entites-mineures#Anthropic-pauses-Claude-Agent-SDK-subscription-change-on-day-it-was-due-to-take-effect\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]] (DOCUMENT) — 0.96
+- **affirme_que** → [[kb/_entites-mineures#entre-contrôle-à-l'export,-projet-d'introduction-en-bourse-et-baisses-de-prix-supposées-chez-OpenAI,-Anthropic-cherche-à-retenir-sa-base-de-développeurs\|entre contrôle à l'export, projet d'introduction en bourse et baisses de prix supposées chez OpenAI, Anthropic cherche à retenir sa base de développeurs]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
 ### Paul Sinaï {#Paul-Sinaï}
 
@@ -6360,7 +6392,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (544)
+## TECHNOLOGIE (547)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6515,6 +6547,16 @@
 - [[kb/_entites-mineures#Standardized-A2A-Client\|Standardized A2A Client]] **utilise** → A2A Protocol — 0.95
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
+### ACP Registry {#ACP-Registry}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Registre d'agents du projet Agent Client Protocol, permettant à un agent enregistré d'être découvert par tout client compatible
+
+- **fait_partie_de** → [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
 ### AGI {#AGI}
 
@@ -8898,6 +8940,16 @@
 
 **Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]], [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 
+### Language Server Protocol {#Language-Server-Protocol}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Précédent revendiqué par ACP : a découplé serveurs de langage et éditeurs, ACP vise le même découplage pour les agents
+
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **s_inspire_de** → Language Server Protocol — 0.96
+
+**Fiches** : [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
+
 ### Le Chat {#Le-Chat}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10700,6 +10752,16 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
+### Terminal Threads {#Terminal-Threads}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Fonctionnalité Zed visant à faire des agents TUI un élément de première classe de l'orchestration d'agents dans l'éditeur
+
+- [[kb/Zed\|Zed]] **publie** → Terminal Threads — 0.88
+
+**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+
 ### Terra {#Terra}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11888,7 +11950,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (840)
+## CONCEPT (842)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16913,6 +16975,15 @@
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
+### crédit Agent SDK {#crédit-Agent-SDK}
+
+**Type** : CONCEPT | 0 relations | 2 fiches
+
+- **définition** : Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu
+- **statut** : Annoncé pour le 15 juin 2026, suspendu le jour même ; aucune date de reprise annoncée, Anthropic déclarant travailler à une révision du plan
+
+**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]], [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
+
 ### crédits SLA {#crédits-SLA}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19353,6 +19424,14 @@
 - [[kb/Augment-Code-organisation\|Augment Code]] **référence** → validation circulaire — 0.94
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### verrouillage développeur {#verrouillage-développeur}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur
+
+**Fiches** : [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
 ### vibe architecting {#vibe-architecting}
 
@@ -23548,7 +23627,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (101)
+## DOCUMENT (103)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23676,6 +23755,17 @@
 - **converge_avec** → [[kb/_entites-mineures#étude-juniors-deskilling-citée-par-Sun-NYT\|étude juniors deskilling citée par Sun NYT]] (DOCUMENT) — 0.91
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+
+### Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect {#Anthropic-pauses-Claude-Agent-SDK-subscription-change-on-day-it-was-due-to-take-effect}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire
+
+- [[kb/_entites-mineures#The-New-Stack\|The New Stack]] **publie** → Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect — 0.98
+- [[kb/_entites-mineures#Paul-Sawers\|Paul Sawers]] **a_créé** → Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect — 0.96
+
+**Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
 ### Antiqua et nova {#Antiqua-et-nova}
 
@@ -24404,6 +24494,16 @@
 - [[kb/Claude-Code\|Claude Code]] **a_créé** → Vidéo de lancement de Fable — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### What Anthropic's New Claude Billing Means for Zed Users {#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension
+
+- [[kb/Zed\|Zed]] **publie** → What Anthropic's New Claude Billing Means for Zed Users — 0.98
+
+**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
 
 ### Zero Trust for Agents {#Zero-Trust-for-Agents}
 

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 468 entités de type PERSONNE
+> 471 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -71,7 +71,7 @@
 - [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] — rôle: Distinguished Engineer, experte IA-assisted delivery chez Thoughtworks (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Bob-Martin\|Bob Martin]] — rôle: Évangéliste agile, auteur Clean Code (1 occ., 1 fiches)
 - [[kb/Bob-Sternfels\|Bob Sternfels]] — rôle: Managing Partner Global McKinsey & Company depuis 2021, leader voix industrie consulting top-tier sur transformation IA (1 occ., 1 fiches)
-- [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (11 occ., 10 fiches)
+- [[kb/Boris-Cherny\|Boris Cherny]] — rôle: Head of Claude Code (Anthropic) — co-auteur de la vidéo « Reflecting on a year of Claude Code » (12 occ., 11 fiches)
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] — période: Ve siècle av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] — rôle: Chief Information Officer de Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] — rôle: Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral (1 occ., 1 fiches)
@@ -153,6 +153,7 @@
 - [[kb/_entites-mineures#Florian-Dèbes\|Florian Dèbes]] — rôle: Journaliste Les Echos, rubrique Travailler mieux / Vie au travail (1 occ., 1 fiches)
 - [[kb/Fran-Soto\|Fran Soto]] — rôle: Ingénieur logiciel chez Amazon, auteur newsletter Strategize Your Career (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Francesco-Bonacci\|Francesco Bonacci]] — rôle: Engineer, founder Cua AI, auteur du post X viral "Vibe Coding Paralysis: When Infinite Productivity Breaks Your Brain" (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Franciska-Dethlefsen\|Franciska Dethlefsen]] — rôle: Head of growth and marketing chez Zed Industries ; autrice de la communication produit sur la facturation Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Franck-Le-Moal\|Franck Le Moal]] — rôle: Global Technical Officer du groupe LVMH (1 occ., 1 fiches)
 - [[kb/Fred-PLAIS\|Fred PLAIS]] — rôle: Co-fondateur & CEO d'Archie, ex-CEO de Platform.sh (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] — rôle: Économiste autrichien (1899-1992), Nobel 1974, école autrichienne, théoricien de l'information distribuée (1 occ., 1 fiches)
@@ -294,6 +295,7 @@
 - [[kb/_entites-mineures#Matt-Pocock\|Matt Pocock]] — rôle: Auteur de skills d'ingénierie (repo mattpocock/skills) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Shumer\|Matt Shumer]] — rôle: Investisseur et commentateur tech, endorseur de Vorflux (1 occ., 1 fiches)
 - [[kb/Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Matthew-Diakonov\|Matthew Diakonov]] — rôle: Ingénieur et entrepreneur, auteur de l'analyse estimant à 15-30× la subvention de l'usage agentique par l'abonnement Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] — rôle: Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow (1 occ., 1 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Max-Schrems\|Max Schrems]] — rôle: Expert protection données / Activiste (1 occ., 1 fiches)
@@ -338,6 +340,7 @@
 - [[kb/Patrick-Joubert\|Patrick Joubert]] — rôle: CEO de Rippletide (fiabilité agents IA enterprise) (2 occ., 2 fiches)
 - [[kb/Patrick-Winston\|Patrick Winston]] — rôle: Professeur MIT, spécialiste IA et communication (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Paul-Buchheit\|Paul Buchheit]] — rôle: Créateur de Gmail (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Paul-Sawers\|Paul Sawers]] — rôle: Journaliste tech, signe pour The New Stack ; trace le sourçage en cascade du chiffre de subvention 15-30× (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paul-Sinaï\|Paul Sinaï]] — rôle: Fondateur de Blaxel AI (Silicon Valley) (1 occ., 1 fiches)
 - [[kb/Paula-Hingel\|Paula Hingel]] — rôle: Auteure du guide (Augment Code) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pedro-Rodriguez\|Pedro Rodriguez]] — rôle: Senior Engineering Manager, Google Cloud (1 occ., 1 fiches)

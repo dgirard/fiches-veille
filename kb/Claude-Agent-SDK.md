@@ -1,6 +1,6 @@
 # Claude Agent SDK
 
-> **Type** : TECHNOLOGIE | 2 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/Conductor\|Conductor]] **est_basé_sur** → Claude Agent SDK — 0.92
 - [[kb/ADHD\|ADHD]] **utilise** → Claude Agent SDK — 0.90
 - [[kb/_entites-mineures#étape-4-AI-native\|étape 4 AI-native]] **utilise** → Claude Agent SDK — 0.90
 

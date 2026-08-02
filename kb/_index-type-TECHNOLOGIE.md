@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 675 entités de type TECHNOLOGIE
+> 678 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -18,6 +18,7 @@
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] — définition: Benchmark mesurant 4 jobs : investment banking associate, management consultant, Big Law associate, primary care physician (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A2A\|A2A]] — rôle: Protocole de découverte et communication inter-agents ; versé à la Linux Foundation par Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] — catégorie: Agent-to-Agent standard émergent (référencé sur GitHub) pour les communications inter-agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ACP-Registry\|ACP Registry]] — définition: Registre d'agents du projet Agent Client Protocol, permettant à un agent enregistré d'être découvert par tout client compatible (1 occ., 1 fiches)
 - [[kb/ADHD\|ADHD]] — catégorie: Skill d'idéation divergente pour agents de codage (2 occ., 1 fiches)
 - [[kb/ADLC-Toolkit\|ADLC Toolkit]] — catégorie: Suite open-source de 18 outils npx zéro-dépendance pour le cycle ADLC (2 occ., 1 fiches)
 - [[kb/AGENTS-md\|AGENTS.md]] — catégorie: Fichier de contexte persistant pour agents IA (4 occ., 3 fiches)
@@ -46,7 +47,7 @@
 - [[kb/_entites-mineures#AWS-Bedrock\|AWS Bedrock]] — éditeur: Amazon (2 occ., 2 fiches)
 - [[kb/Acontext\|Acontext]] — catégorie: Plateforme de données contextuelles cloud-native (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] — catégorie: Outil de retouche photo (1 occ., 1 fiches)
-- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] — définition: Protocole ouvert reliant un client (éditeur) à un agent de codage ; JSON-RPC 2.0 sur stdio, Apache-2.0, introduit par Zed en août 2025 — le « LSP des agents ». Alias « ACP » (homonyme, à ne jamais employer seul) (1 occ., 1 fiches)
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] — spécification: Deux modes de transport : agents locaux en JSON-RPC sur stdio, agents distants en HTTP ou WebSocket (support en cours) ; réutilise les représentations JSON de MCP ; Markdown par défaut ; versions v1 (Latest) et v2 (Draft) (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] — définition: Protocole d'interopérabilité agent-à-agent d'IBM Research / BeeAI ; troisième porteur du sigle ACP, marginal dans le débat mais polluant les recherches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] — acronyme: ADK (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit-(ADK)\|Agent Development Kit (ADK)]] — catégorie: Kit de développement d'agents (1 occ., 1 fiches)
@@ -149,7 +150,7 @@
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
-- [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (1 occ., 1 fiches)
+- [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Content-Signals\|Content Signals]] — catégorie: Framework de préférences de contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Context-Analyzer\|Context Analyzer]] — catégorie: Composant Scout - agrégation contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Context-Editing\|Context Editing]] — impact: +39% performance benchmarks (1 occ., 1 fiches)
@@ -250,7 +251,7 @@
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — catégorie: Emulateur de terminal, rendering synchronisé, 24-bit couleur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] — catégorie: Agent qui crée et optimise d'autres agents (1 occ., 1 fiches)
 - [[kb/GitHub\|GitHub]] — rôle: Couche mémoire des artefacts PM (« the repo becomes product memory ») (1 occ., 1 fiches)
-- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (6 occ., 6 fiches)
+- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (7 occ., 7 fiches)
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
@@ -327,6 +328,7 @@
 - [[kb/LangGraph\|LangGraph]] — catégorie: Framework d'orchestration d'agents LangChain (4 occ., 4 fiches)
 - [[kb/_entites-mineures#LangGraph-Platform\|LangGraph Platform]] — catégorie: Plateforme de déploiement d'agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LangSmith\|LangSmith]] — catégorie: Outil de traçage et debugging d'agents (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Language-Server-Protocol\|Language Server Protocol]] — rôle: Précédent revendiqué par ACP : a découplé serveurs de langage et éditeurs, ACP vise le même découplage pour les agents (1 occ., 1 fiches)
 - [[kb/Lattice\|Lattice]] — catégorie: Framework open-source MIT de skills composables pour coding agents Claude Code/Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Le-Chat\|Le Chat]] — catégorie: Assistant IA Mistral AI (1 occ., 1 fiches)
 - [[kb/LightRAG\|LightRAG]] — licence: MIT (2 occ., 1 fiches)
@@ -539,6 +541,7 @@
 - [[kb/_entites-mineures#Tavily\|Tavily]] — usage: Recherche web primaire (Deep Research) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Teamwork-Graph\|Teamwork Graph]] — rôle: Couche de contexte Atlassian améliorant précision et efficience en tokens de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — catégorie: Benchmark pour agents de codage (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Terminal-Threads\|Terminal Threads]] — définition: Fonctionnalité Zed visant à faire des agents TUI un élément de première classe de l'orchestration d'agents dans l'éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terra\|Terra]] — positionnement: Tier équilibré du quotidien (~GPT-5.5 à moitié prix) ; 2,50 $/15 $ par M tokens ; candidat au statut de défaut en production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tesla-Optimus\|Tesla Optimus]] — catégorie: Robot humanoïde (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] — catégorie: Composant Scout - génération tests (1 occ., 1 fiches)

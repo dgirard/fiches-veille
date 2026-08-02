@@ -1,12 +1,17 @@
 # GitHub
 
-> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 1 fiches sources
 
 ## Attributs
 
 - **rôle** : Couche mémoire des artefacts PM (« the repo becomes product memory »)
 
 ## Relations (comme sujet)
+
+### converge_avec
+
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.85, DYNAMIQUE
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
 ### permet
 
@@ -19,6 +24,11 @@
   - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[kb/_entites-mineures#Spark\|Spark]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+
+### remplace
+
+- « le modèle forfaitaire de premium requests de Copilot par une facturation au token » (AFFIRMATION) — 0.95, STATIQUE
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
 ## Relations (comme objet)
 

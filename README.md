@@ -39,20 +39,20 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 362 fiches
-- **Par année** : 2026 (185) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 365 fiches
+- **Par année** : 2026 (188) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 124
-  - Architecture & Construction : 40
+  - Agents de codage IA & Skills : 127
+  - Architecture & Construction : 41
   - Transformation & Adoption : 75
   - Qualité & Sécurité : 30
-  - Économie & Marché : 65
+  - Économie & Marché : 67
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 30
+  - Outils & Plateformes : 32
   - Recherche & Éducation : 9
   - Produits & Services : 9
-  - Politique & Régulation : 16
+  - Politique & Régulation : 17
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
@@ -87,6 +87,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - The New Stack (2)
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
@@ -94,7 +95,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Finout (2)
   - Kent Beck (2)
   - Anthropic (X/Twitter) (2)
-  - Tessl (2)
 
 <!-- stats:end -->
 

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 117 entités de type DOCUMENT
+> 119 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -17,6 +17,7 @@
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] — date de publication: 2025-07-23 (5 occ., 3 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] — date: 2025-09-15 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Skill-Formation-Research\|Anthropic Skill-Formation Research]] — description: Étude Anthropic : ingénieurs utilisant IA pour code generation scorent 17% en dessous sur compréhension vs ceux l'utilisant pour enquête conceptuelle ; ces derniers maintiennent leur niveau (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Anthropic-pauses-Claude-Agent-SDK-subscription-change-on-day-it-was-due-to-take-effect\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Antiqua-et-nova\|Antiqua et nova]] — catégorie: Note conjointe Dicastère pour la Doctrine de la Foi + Dicastère pour la Culture et l'Éducation (14 janvier 2025) sur l'IA — source magistérielle prochaine la plus citée dans Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] — description: Essai polémique David Heinemeier Hansson 2014 contre le Test-Driven Development, déclarant la mort du TDD. Cible de la contre-argumentation Eveillard 2022. Confond Test-first et TDD selon Eveillard (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] — catégorie: Billet de bricolage / REX exploratoire (1 occ., 1 fiches)
@@ -102,6 +103,7 @@
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users\|What Anthropic's New Claude Billing Means for Zed Users]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)

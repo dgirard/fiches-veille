@@ -1,6 +1,6 @@
 # Boris Cherny
 
-> **Type** : PERSONNE | 34 relations | 10 fiches sources
+> **Type** : PERSONNE | 35 relations | 11 fiches sources
 
 ## Attributs
 
@@ -43,6 +43,8 @@
   - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 - « l'avantage d'Anthropic est organisationnel et processuel, pas technologique » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+- « les abonnements n'ont pas été conçus pour les schémas d'usage des outils tiers » (CITATION) — 0.95, STATIQUE
+  - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - « network effects, scale economies et cornered resources restent inchangés à l'ère IA » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - « "mon focus est passé à écrire des boucles plutôt qu'à prompter directement" » (AFFIRMATION) — 0.90, STATIQUE
@@ -129,4 +131,5 @@
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
+- [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]

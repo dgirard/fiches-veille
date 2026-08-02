@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 869 entités de type CONCEPT
+> 871 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -576,6 +576,7 @@
 - [[kb/_entites-mineures#crise-mondiale-de-l'apprentissage\|crise mondiale de l'apprentissage]] — statistique: 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#critique-de-Lucas\|critique de Lucas]] — auteur: Robert Lucas (1976) — équivalent macroéconomique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#critères-de-succès-vérifiables\|critères de succès vérifiables]] — description: Objectifs mesurables remplaçant les instructions impératives (1 occ., 1 fiches)
+- [[kb/_entites-mineures#crédit-Agent-SDK\|crédit Agent SDK]] — définition: Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu (2 occ., 2 fiches)
 - [[kb/_entites-mineures#crédits-SLA\|crédits SLA]] — usage: compensation et reconstruction de confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] — durée: Modèles actuels capables de tourner 30h en continu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#data-flywheel\|data flywheel]] — rôle: Boucle feedback temps réel pour fine-tuning (1 occ., 1 fiches)
@@ -842,6 +843,7 @@
 - [[kb/_entites-mineures#usage-directif\|usage directif]] — définition: tâche entièrement déléguée à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes » (2 occ., 2 fiches)
+- [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] — définition: Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] — définition: Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain (1 occ., 1 fiches)

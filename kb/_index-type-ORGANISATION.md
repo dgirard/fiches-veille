@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 366 entités de type ORGANISATION
+> 367 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -352,6 +352,7 @@
 - [[kb/_entites-mineures#Z.ai\|Z.ai]] — secteur: Modèles de fondation chinois (open-weights) (1 occ., 1 fiches)
 - [[kb/ZML\|ZML]] — profil: Startup parisienne (fondée 2023), ~20 pers., ~20 M$ levés ; framework d'inférence homonyme (Apache-2.0, >90 % Zig) (1 occ., 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] — secteur: Automatisation / Orchestration IA (4 occ., 3 fiches)
+- [[kb/Zed\|Zed]] — positionnement: Éditeur à l'origine d'ACP ; défend l'optionalité de fournisseur comme protection contre le risque tarifaire, pas seulement comme argument d'interopérabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zillow\|Zillow]] — secteur: Immobilier / PropTech (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zup\|Zup]] — secteur: Technologie (2 occ., 2 fiches)
 - [[kb/_entites-mineures#cURL\|cURL]] — réaction: Arrêt du programme bug bounty (1 occ., 1 fiches)
