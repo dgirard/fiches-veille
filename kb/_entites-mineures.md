@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2527 entités avec moins de 3 triples/fiches
+> 2525 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (353)
 
@@ -3990,7 +3990,7 @@
 
 - **rôle** : Premier distributeur alimentaire européen UCP
 
-- **utilise** → [[kb/_entites-mineures#UCP\|UCP]] (TECHNOLOGIE) — 0.95
+- **utilise** → [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
 
@@ -6360,7 +6360,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (546)
+## TECHNOLOGIE (544)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6752,11 +6752,13 @@
 
 ### Agent2Agent {#Agent2Agent}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **statut** : Protocole potentiellement exploitable pour dialogue inter-agents
 
 - **améliore** → [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] (METHODOLOGIE) — 0.75
+
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **utilise** → Agent2Agent — 0.92
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 
@@ -6790,26 +6792,15 @@
 
 **Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
-### Agentic Commerce Protocol (ACP) {#Agentic-Commerce-Protocol-(ACP)}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **commission** : 4% par transaction + Stripe processing
-- **licence** : Apache 2.0
-- **statut** : Opérationnel depuis septembre 2025
-
-- [[kb/OpenAI\|OpenAI]] **a_créé** → Agentic Commerce Protocol (ACP) — 0.97
-- [[kb/Stripe\|Stripe]] **a_créé** → Agentic Commerce Protocol (ACP) — 0.97
-
-**Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
-
 ### Agentic Commerce Suite {#Agentic-Commerce-Suite}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **créateurs** : Stripe + commercetools
 
 - [[kb/Stripe\|Stripe]] **publie** → Agentic Commerce Suite — 0.96
+- [[kb/_entites-mineures#JD-Sports\|JD Sports]] **utilise** → Agentic Commerce Suite — 0.93
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **concurrence** → Agentic Commerce Suite — 0.93
 
 **Fiches** : [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
 
@@ -10809,17 +10800,6 @@
 - [[kb/GKG\|GKG]] **utilise** → Tree-sitter — 0.95
 
 **Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
-
-### Universal Commerce Protocol (UCP) {#Universal-Commerce-Protocol-(UCP)}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **coalition** : 20+ partenaires dont Visa, Mastercard, PayPal
-- **transports** : REST, MCP, A2A, Embedded Protocol
-
-- [[kb/Google\|Google]] **a_créé** → Universal Commerce Protocol (UCP) — 0.98
-
-**Fiches** : [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 
 ### Uplift Agents {#Uplift-Agents}
 

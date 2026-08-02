@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 677 entités de type TECHNOLOGIE
+> 675 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -58,8 +58,7 @@
 - [[kb/_entites-mineures#Agent2Agent-(A2A)\|Agent2Agent (A2A)]] — catégorie: Protocole inter-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AgentCash\|AgentCash]] — description: Balance unique + découverte marchands pour agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] — historique: Fondation Linux Foundation annoncée déc. 2025 ; projets fondateurs MCP (Anthropic), goose (Block), AGENTS.md (OpenAI) ; AWS/Google/Microsoft membres platine ; A2A versé par Google (1 occ., 1 fiches)
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — fonction: Achats IA via interactions système-à-système (4 occ., 4 fiches)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol-(ACP)\|Agentic Commerce Protocol (ACP)]] — statut: Opérationnel depuis septembre 2025 (3 occ., 1 fiches)
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — fonction: Achats IA via interactions système-à-système (7 occ., 5 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Suite\|Agentic Commerce Suite]] — créateurs: Stripe + commercetools (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-RAG\|Agentic RAG]] — catégorie: RAG avec récupération dynamique par agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentmail\|Agentmail]] — categorie: Identite email pour agents (1 occ., 1 fiches)
@@ -553,8 +552,7 @@
 - [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] — rôle: Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code (1 occ., 1 fiches)
 - [[kb/TypeScript\|TypeScript]] — usage: Langage principal de Claude Code (3 occ., 3 fiches)
 - [[kb/UDA\|UDA]] — catégorie: Architecture données unifiée basée sur knowledge graph (1 occ., 1 fiches)
-- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (4 occ., 3 fiches)
-- [[kb/_entites-mineures#Universal-Commerce-Protocol-(UCP)\|Universal Commerce Protocol (UCP)]] — transports: REST, MCP, A2A, Embedded Protocol (2 occ., 1 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (6 occ., 4 fiches)
 - [[kb/_entites-mineures#Uplift-Agents\|Uplift Agents]] — catégorie: Agents de migration et maintenance automatisée (1 occ., 1 fiches)
 - [[kb/Upper\|Upper]] — rôle: Métamodèle auto-référentiel pour modélisation domaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#VFFilter\|VFFilter]] — rôle: Filtre post-selection visibility — supprime deleted, spam, violence, gore avant servir (1 occ., 1 fiches)

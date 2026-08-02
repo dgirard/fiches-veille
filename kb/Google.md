@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 46 relations | 16 fiches sources
+> **Type** : ORGANISATION | 44 relations | 16 fiches sources
 
 ## Attributs
 
@@ -20,9 +20,7 @@
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
-- [[kb/_entites-mineures#UCP\|UCP]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
-- [[kb/_entites-mineures#Universal-Commerce-Protocol-(UCP)\|Universal Commerce Protocol (UCP)]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Conductor\|Conductor]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]

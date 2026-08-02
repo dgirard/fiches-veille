@@ -1,6 +1,6 @@
 # Stripe
 
-> **Type** : ORGANISATION | 12 relations | 5 fiches sources
+> **Type** : ORGANISATION | 11 relations | 5 fiches sources
 
 ## Attributs
 
@@ -14,13 +14,12 @@
 - [[kb/Minions\|Minions]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol-(ACP)\|Agentic Commerce Protocol (ACP)]] (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE) — 0.94, STATIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.93, STATIQUE
-  - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
-  - [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
 ### affirme_que
 

@@ -70,17 +70,19 @@ Le document conclut que l'enjeu n'est plus de digitaliser mais d'"agentifier" le
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Sundar Pichai | PERSONNE | publie | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | a_créé | UCP | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Shopify | ORGANISATION | a_créé | UCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Walmart | ORGANISATION | a_créé | UCP | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Shopify | ORGANISATION | a_créé | Universal Commerce Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Walmart | ORGANISATION | a_créé | Universal Commerce Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Stripe | ORGANISATION | publie | Agentic Commerce Suite | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Carrefour | ORGANISATION | utilise | UCP | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| UCP | TECHNOLOGIE | concurrence | ACS | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| UCP | TECHNOLOGIE | utilise | MCP, Agent2Agent, REST API | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Carrefour | ORGANISATION | utilise | Universal Commerce Protocol | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | concurrence | Agentic Commerce Suite | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | utilise | Model Context Protocol | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | utilise | Agent2Agent | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | utilise | REST API | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | commerce agentique | CONCEPT | permet | passage du SEO à l'AIO | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Amazon | ORGANISATION | a_créé | Buy for Me (système propriétaire) | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | NRF 2026 | EVENEMENT | mesure | 40 000 visiteurs | MESURE | 0.95 | STATIQUE | déclaré_article |
-| JD Sports | ORGANISATION | utilise | ACS | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| JD Sports | ORGANISATION | utilise | Agentic Commerce Suite | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -13,7 +13,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#UCP\|UCP]] (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
 - [[kb/_entites-mineures#politique-IA-prioritaire\|politique IA prioritaire]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Making AI Work: Leadership, Lab, and Crowd]]
@@ -53,7 +53,7 @@
 - [[kb/MCP-UI\|MCP-UI]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]]
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
-- [[kb/_entites-mineures#UCP-via-Agentic-Storefronts\|UCP via Agentic Storefronts]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]

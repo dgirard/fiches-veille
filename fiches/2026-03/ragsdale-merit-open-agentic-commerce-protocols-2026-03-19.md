@@ -72,8 +72,8 @@ La vision finale est celle de centaines de millions d'agents accédant à des ce
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Sam Ragsdale | PERSONNE | affirme_que | le commerce agentique ouvert est supérieur aux plateformes fermées | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| ACP | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| UCP | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Agentic Commerce Protocol | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | est_instance_de | AOL du commerce agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Coinbase | ORGANISATION | a_créé | x402 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Tempo et Stripe | ORGANISATION | a_créé | mpp | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Stablecoins | TECHNOLOGIE | résout | problème micropaiements 1997 | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |

@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 6 relations | 2 fiches sources
+> **Type** : ORGANISATION | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -17,7 +17,9 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#ACP-et-UCP\|ACP et UCP]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 
 ### utilise

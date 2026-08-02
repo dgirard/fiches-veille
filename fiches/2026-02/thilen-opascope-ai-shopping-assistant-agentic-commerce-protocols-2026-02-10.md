@@ -60,19 +60,20 @@ Les projections sont considérables : McKinsey anticipe $3-5 trillions de revenu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| OpenAI | ORGANISATION | a_créé | Agentic Commerce Protocol (ACP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Stripe | ORGANISATION | a_créé | Agentic Commerce Protocol (ACP) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | a_créé | Universal Commerce Protocol (UCP) | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ACP | TECHNOLOGIE | mesure | commission de 4% par transaction | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
-| UCP | TECHNOLOGIE | utilise | quatre transports (REST, MCP, A2A, Embedded) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Amazon | ORGANISATION | s_oppose_à | ACP et UCP | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | Agentic Commerce Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Stripe | ORGANISATION | a_créé | Agentic Commerce Protocol | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Universal Commerce Protocol | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| Agentic Commerce Protocol | TECHNOLOGIE | mesure | commission de 4% par transaction | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
+| Universal Commerce Protocol | TECHNOLOGIE | utilise | quatre transports (REST, MCP, A2A, Embedded) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Amazon | ORGANISATION | s_oppose_à | Agentic Commerce Protocol | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Amazon | ORGANISATION | s_oppose_à | Universal Commerce Protocol | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Amazon | ORGANISATION | a_créé | Rufus AI | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Rufus AI | TECHNOLOGIE | améliore | taux de conversion (+60%) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | ChatGPT Instant Checkout | TECHNOLOGIE | mesure | 900 millions d'utilisateurs hebdomadaires | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | commerce agentique | CONCEPT | réduit | attribution marketing traditionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | données produit structurées | CONCEPT | remplace | publicité payante comme levier compétitif | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Max Thilén | PERSONNE | recommande | implémentation des deux protocoles ACP et UCP | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Shopify | ORGANISATION | utilise | UCP via Agentic Storefronts | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Shopify | ORGANISATION | utilise | Universal Commerce Protocol | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | McKinsey | ORGANISATION | prédit | $3-5T revenus commerce agentique global d'ici 2030 | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
@@ -81,11 +82,11 @@ Les projections sont considérables : McKinsey anticipe $3-5 trillions de revenu
 |--------|------|----------|--------|--------|
 | Max Thilén | PERSONNE | rôle | Analyste e-commerce, auteur guide Opascope | AJOUT |
 | Opascope | ORGANISATION | catégorie | Cabinet conseil e-commerce / commerce agentique | AJOUT |
-| Agentic Commerce Protocol (ACP) | TECHNOLOGIE | statut | Opérationnel depuis septembre 2025 | MISE_A_JOUR |
-| Agentic Commerce Protocol (ACP) | TECHNOLOGIE | commission | 4% par transaction + Stripe processing | AJOUT |
-| Agentic Commerce Protocol (ACP) | TECHNOLOGIE | licence | Apache 2.0 | AJOUT |
-| Universal Commerce Protocol (UCP) | TECHNOLOGIE | transports | REST, MCP, A2A, Embedded Protocol | AJOUT |
-| Universal Commerce Protocol (UCP) | TECHNOLOGIE | coalition | 20+ partenaires dont Visa, Mastercard, PayPal | MISE_A_JOUR |
+| Agentic Commerce Protocol | TECHNOLOGIE | statut | Opérationnel depuis septembre 2025 | MISE_A_JOUR |
+| Agentic Commerce Protocol | TECHNOLOGIE | commission | 4% par transaction + Stripe processing | AJOUT |
+| Agentic Commerce Protocol | TECHNOLOGIE | licence | Apache 2.0 | AJOUT |
+| Universal Commerce Protocol | TECHNOLOGIE | transports | REST, MCP, A2A, Embedded Protocol | AJOUT |
+| Universal Commerce Protocol | TECHNOLOGIE | coalition | 20+ partenaires dont Visa, Mastercard, PayPal | MISE_A_JOUR |
 | Rufus AI | TECHNOLOGIE | catégorie | Assistant IA shopping in-app Amazon | AJOUT |
 | Rufus AI | TECHNOLOGIE | utilisateurs | 300 millions | AJOUT |
 | Alexa+ | TECHNOLOGIE | catégorie | Commerce vocal avec achat automatisé Amazon | AJOUT |

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2947 entités
+> 2945 entités
 
 ## #
 
@@ -137,8 +137,7 @@
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#agentic-analytics-stack\|agentic analytics stack]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] (CONCEPT, 1 fiches)
-- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 4 fiches)
-- [[kb/_entites-mineures#Agentic-Commerce-Protocol-(ACP)\|Agentic Commerce Protocol (ACP)]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE, 5 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Suite\|Agentic Commerce Suite]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agentic-engineering\|Agentic engineering]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Agentic-loop\|Agentic loop]] (CONCEPT, 1 fiches)
@@ -2807,8 +2806,7 @@
 - [[kb/_entites-mineures#Unbook-skill\|Unbook skill]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Underclass-permanente-d'intelligence\|Underclass permanente d'intelligence]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Undifferentiated-heavy-lifting\|Undifferentiated heavy lifting]] (CONCEPT, 1 fiches)
-- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE, 3 fiches)
-- [[kb/_entites-mineures#Universal-Commerce-Protocol-(UCP)\|Universal Commerce Protocol (UCP)]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Université-de-Paris\|Université de Paris]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Unknowns\|Unknowns]] (CONCEPT, 1 fiches)
