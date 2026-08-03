@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 104 relations | 48 fiches sources
+> **Type** : TECHNOLOGIE | 105 relations | 48 fiches sources
 
 ## Attributs
 
@@ -223,6 +223,7 @@
 - [[kb/Rakuten\|Rakuten]] **utilise** → Claude Code — 0.98
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Code — 0.97
 - [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → Claude Code — 0.97
+- [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Code — 0.97
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97

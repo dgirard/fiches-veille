@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 366 fiches | 1975-12 → 2026-08-02 | généré le 2026-08-03
+> 367 fiches | 1975-12 → 2026-08-03 | généré le 2026-08-03
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **03** [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`. · GitHub (Jordan Gibbs, jordan-gibbs/hyperresearch) — skill, deep research, harnais de recherche
 - **02** [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit. · agentclientprotocol.com — Agent Client Protocol, ACP, protocole ouvert
 - **02** [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme. · Didier Girard — ACP, Agent Client Protocol, Agentic Commerce Protocol
 - **01** [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). · SFEIR — Skill Based Organisation, SBO, organisation par compétences
@@ -475,6 +476,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit.
 - [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
@@ -729,6 +731,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
 - [Mon usine logicielle à l'heure de l'IA](fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28.md) — **Hugo Lassiège** — développeur devenu entrepreneur, basé à **Lyon**, écrit du code depuis 2001 et tient **eventuallycoding.com** (le blog a porté le nom `hakanai.free.fr` avant de devenir *Eventuallycoding* en 2013). *Eventuallycoding* est le nom-parapluie qui regroupe ses projets, sa chaîne YouTube et ses blogs.
 - [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
@@ -881,6 +884,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit.
 - [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
@@ -960,17 +964,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 366 fiches
-- **Par année** : 2026 (189) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 367 fiches
+- **Par année** : 2026 (190) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 128
+  - Agents de codage IA & Skills : 129
   - Architecture & Construction : 42
   - Transformation & Adoption : 75
-  - Qualité & Sécurité : 31
+  - Qualité & Sécurité : 32
   - Économie & Marché : 67
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 32
+  - Outils & Plateformes : 33
   - Recherche & Éducation : 9
   - Produits & Services : 9
   - Politique & Régulation : 17

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 400 entités de type METHODOLOGIE
+> 401 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -308,6 +308,7 @@
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] — définition: Always allow / Ask for approval / Disable, classifieur LLM, défaut deny (1 occ., 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] — catégorie: Skill d'ingénierie — conception en amont, DDD-flavored (2 occ., 1 fiches)
+- [[kb/hyperresearch\|hyperresearch]] — définition: Harnais de deep research pour Claude Code : 20 skills, CLI Python, serveur MCP et UI locale, orchestrant un pipeline de 16 étapes adaptatif par paliers vers un rapport audité de façon adverse avec provenance complète (2 occ., 1 fiches)
 - [[kb/_entites-mineures#idéation-divergente-parallèle\|idéation divergente parallèle]] — définition: Diverger (N agents isolés sous frames cognitifs, interdiction d'évaluer) puis focaliser (critique séparé : score, clusters, pièges, approfondissement du top-K) (1 occ., 1 fiches)
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] — catégorie: Architecture 3 tiers pour mémoire persistante agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ingénierie-composable\|ingénierie composable]] — principe: Chaque unité de travail facilite la suivante (1 occ., 1 fiches)

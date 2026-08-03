@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2965 entités
+> 2974 entités
 
 ## #
 
@@ -376,6 +376,7 @@
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#audit-adversarial-de-tests\|audit adversarial de tests]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] (PERSONNE, 1 fiches)
 - [[kb/Augment-Code-organisation\|Augment Code]] (ORGANISATION, 2 fiches)
 - [[kb/Augment-Code-technologie\|Augment Code]] (TECHNOLOGIE, 1 fiches)
@@ -653,6 +654,7 @@
 - [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#clôture-untrusted-source\|clôture untrusted-source]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CMO\|CMO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CNBC\|CNBC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT, 1 fiches)
@@ -888,6 +890,7 @@
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] (ORGANISATION, 1 fiches)
 - [[kb/Deepnote\|Deepnote]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#DeepResearch-Bench\|DeepResearch-Bench]] (DOCUMENT, 1 fiches)
 - [[kb/DeepSeek-organisation\|DeepSeek]] (ORGANISATION, 1 fiches)
 - [[kb/DeepSeek-technologie\|DeepSeek]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] (TECHNOLOGIE, 1 fiches)
@@ -1409,6 +1412,7 @@
 - [[kb/_entites-mineures#hype-IA\|hype IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] (TECHNOLOGIE, 1 fiches)
+- [[kb/hyperresearch\|hyperresearch]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Hypocrisie-organisationnelle\|Hypocrisie organisationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] (CONCEPT, 1 fiches)
 ## I
@@ -1532,6 +1536,7 @@
 - [[kb/John-Cutler\|John Cutler]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jordan-Gibbs\|Jordan Gibbs]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
@@ -1934,6 +1939,7 @@
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Nostr\|Nostr]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#note-rescued\|note rescued]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Nouveaux-monopoles-de-l'IA\|Nouveaux monopoles de l'IA]] (CONCEPT, 1 fiches)
@@ -2493,6 +2499,7 @@
 - [[kb/_entites-mineures#skill-issue\|skill issue]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#skill-routeur\|skill routeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#skill-creator\|skill-creator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (TECHNOLOGIE, 1 fiches)
@@ -2846,6 +2853,7 @@
 - [[kb/_entites-mineures#Vanta\|Vanta]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Variable-costs-in-high-margin-SaaS\|Variable costs in high-margin SaaS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Variant.com\|Variant.com]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#vault-de-recherche\|vault de recherche]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vector-Databases\|Vector Databases]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Vendor-confusion-shortcuts\|Vendor confusion / shortcuts]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vente-d'options-architecturales\|Vente d'options architecturales]] (CONCEPT, 1 fiches)
@@ -2853,6 +2861,7 @@
 - [[kb/_entites-mineures#Vercel-Sandbox\|Vercel Sandbox]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Verifiability\|Verifiability]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Verification-tax\|Verification tax]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#verrouillage-d'outils\|verrouillage d'outils]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] (CONCEPT, 1 fiches)
 - [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Vertex-AI-GenAI-API\|Vertex AI GenAI API]] (TECHNOLOGIE, 1 fiches)

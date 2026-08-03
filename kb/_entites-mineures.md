@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2543 entités avec moins de 3 triples/fiches
+> 2551 entités avec moins de 3 triples/fiches
 
-## PERSONNE (356)
+## PERSONNE (357)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1628,6 +1628,16 @@
 - **rôle** : Senior IT Reporter, Ars Technica (couverture régulation tech)
 
 **Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
+
+### Jordan Gibbs {#Jordan-Gibbs}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur et mainteneur de hyperresearch
+
+- **a_créé** → [[kb/hyperresearch\|hyperresearch]] (METHODOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ### Joseph Valente {#Joseph-Valente}
 
@@ -11982,7 +11992,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (845)
+## CONCEPT (851)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16141,6 +16151,16 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 
+### audit d'indépendance des sources {#audit-d'indépendance-des-sources}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus
+
+- **réduit** → [[kb/_entites-mineures#le-poids-d'un-consensus-apparent-formé-de-reprises-d'un-même-communiqué\|le poids d'un consensus apparent formé de reprises d'un même communiqué]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
 ### automatisation d'agents IA {#automatisation-d'agents-IA}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16507,6 +16527,16 @@
 - **définition** : Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant
 
 **Fiches** : [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
+
+### clôture untrusted-source {#clôture-untrusted-source}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Enveloppe délimitant tout corps récupéré du web comme donnée et non comme instruction, appliquée sur chaque chemin qui sert un corps, avec neutralisation des balises contrefaites et enveloppement postérieur à la troncature
+
+- **réduit** → [[kb/_entites-mineures#le-risque-d'injection-de-prompt-par-une-page-web-lue-par-un-agent\|le risque d'injection de prompt par une page web lue par un agent]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ### codage agentique {#codage-agentique}
 
@@ -18270,6 +18300,16 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
+### note rescued {#note-rescued}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Note construite entièrement depuis une copie en accès ouvert parce que la source déclarée n'a pas pu être lue du tout — marquée nothing_from_source et signalée par bannière
+
+- **affirme_que** → [[kb/_entites-mineures#ni-le-titre,-ni-les-auteurs,-ni-le-corps-ne-proviennent-de-l'URL-déclarée-en-source\|ni le titre, ni les auteurs, ni le corps ne proviennent de l'URL déclarée en source]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
 ### noyau ontologique {#noyau-ontologique}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -19042,6 +19082,14 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|The Lifecycle That Gets Cheaper Every Run]]
 
+### skill routeur {#skill-routeur}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Skill d'entrée qui ne contient aucune procédure et se borne à invoquer une skill par étape, afin que chaque procédure soit chargée fraîche au moment utile et échappe à l'éviction par compaction
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
 ### sophisme de McNamara {#sophisme-de-McNamara}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19483,6 +19531,25 @@
 - [[kb/Augment-Code-organisation\|Augment Code]] **référence** → validation circulaire — 0.94
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### vault de recherche {#vault-de-recherche}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Magasin persistant de sources en markdown avec index reconstructible, cycle de vie curé des notes, provenance traçable et score de qualité, consulté avant toute nouvelle récupération
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
+### verrouillage d'outils {#verrouillage-d'outils}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Restriction de l'allowlist d'un sous-agent à un jeu d'outils donné, rendant un comportement mécaniquement impossible au lieu de le déconseiller par consigne
+
+- **permet** → [[kb/_entites-mineures#de-rendre-une-réécriture-mécaniquement-impossible-plutôt-que-déconseillée\|de rendre une réécriture mécaniquement impossible plutôt que déconseillée]] (AFFIRMATION) — 0.95
+- **surpasse** → [[kb/_entites-mineures#une-consigne-de-prompt-pour-garantir-un-comportement-d'agent\|une consigne de prompt pour garantir un comportement d'agent]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ### verrouillage développeur {#verrouillage-développeur}
 
@@ -23696,7 +23763,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (104)
+## DOCUMENT (105)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23974,6 +24041,14 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **publie** → Compound Engineering: The Definitive Guide — 0.98
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
+
+### DeepResearch-Bench {#DeepResearch-Bench}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Classement public de harnais de deep research ; la position de tête revendiquée par hyperresearch est une projection prospective auto-administrée, validation tierce en attente
+
+**Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ### EU AI Act {#EU-AI-Act}
 

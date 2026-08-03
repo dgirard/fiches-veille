@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 472 entités de type PERSONNE
+> 473 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -223,6 +223,7 @@
 - [[kb/John-Cutler\|John Cutler]] — rôle: Auteur produit ayant popularisé la notion de « feature factory » (output vs outcome) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Johnny-Carrot\|Johnny Carrot]] — rôle: Auteur académique cité (Deepnote) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jon-Brodkin\|Jon Brodkin]] — rôle: Senior IT Reporter, Ars Technica (couverture régulation tech) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jordan-Gibbs\|Jordan Gibbs]] — rôle: Auteur et mainteneur de hyperresearch (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] — rôle: Director of Product Management, sécurité entreprise chez Alphabet Security ; précédemment à l'origine du Sovereign Cloud de Google (1 occ., 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] — rôle: Analyste RH-tech, fondateur The Josh Bersin Company (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] — rôle: Ingénieur / Auteur chez Vercel (1 occ., 1 fiches)

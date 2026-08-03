@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 874 entités de type CONCEPT
+> 880 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -483,6 +483,7 @@
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] — description: Approche équilibrant logique, élégance et compréhension humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
+- [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] — définition: Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#automatisation-d'agents-IA\|automatisation d'agents IA]] — bénéfice: Réduction du temps de développement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-(vs-souveraineté)\|autonomie (vs souveraineté)]] — définition: Posture LVMH : hybridation multicloud + indépendance, mot « souveraineté » récusé car ambigu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] — enjeu: Condition de la dignité humaine et de la responsabilité morale (1 occ., 1 fiches)
@@ -522,6 +523,7 @@
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] — définition: Règle « toute échappée devient une contrainte » : un défaut ayant franchi l'anneau se referme dans l'anneau (test, lint, rubrique, garde-fou de harnais) au Compound-1, avec mémoire rechargée au Plan du cycle suivant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cloud-de-confiance\|cloud de confiance]] — définition: Cloud alliant performance et garanties juridiques/de gouvernance (juridiction européenne, protection réelle des données, immunité extraterritoriale) — au-delà d'un cloud simplement performant (1 occ., 1 fiches)
+- [[kb/_entites-mineures#clôture-untrusted-source\|clôture untrusted-source]] — définition: Enveloppe délimitant tout corps récupéré du web comme donnée et non comme instruction, appliquée sur chaque chemin qui sert un corps, avec neutralisation des balises contrefaites et enveloppement postérieur à la troncature (1 occ., 1 fiches)
 - [[kb/_entites-mineures#codage-agentique\|codage agentique]] — définition: Développement logiciel piloté par agents IA autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-output\|code output]] — statut: Ressource devenue abondante (non rare) à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-rot-(pourriture-du-code)\|code rot (pourriture du code)]] — définition: Dégradation naturelle du code en l'absence d'entretien (1 occ., 1 fiches)
@@ -710,6 +712,7 @@
 - [[kb/_entites-mineures#naïveté-délibérée\|naïveté délibérée]] — objectif: Supprimer les contraintes du Software 1.0 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#no-consultant-crowds\|no consultant crowds]] — définition: Anti-positioning explicite vs grands intégrateurs (Accenture, Capgemini, TCS, etc.) — modèle technologists + plateforme vs bodies-on-seats (1 occ., 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] — implication: rapprocher ingénierie logicielle des autres disciplines (2 occ., 2 fiches)
+- [[kb/_entites-mineures#note-rescued\|note rescued]] — définition: Note construite entièrement depuis une copie en accès ouvert parce que la source déclarée n'a pas pu être lue du tout — marquée nothing_from_source et signalée par bannière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] — catégorie: Structure conceptuelle fondamentale d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#observabilité\|observabilité]] — définition: Capacité inspecter décisions et raisonnement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#onboarding-quotidien-LLM\|onboarding quotidien LLM]] — principe: Rappeler le contexte global au LLM à chaque session (1 occ., 1 fiches)
@@ -796,6 +799,7 @@
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] — exemples: code review turnaround, first-run test pass rate, defect ratio, rework rate (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-issue\|skill issue]] — débat: Hypothèse posée (non assénée) par ESR pour expliquer l'écart entre son expérience très positive des LLMs et le discours des « downshouters » : vieux modèles, univers différent, ou compétence de communication/spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#skill-routeur\|skill routeur]] — définition: Skill d'entrée qui ne contient aucune procédure et se borne à invoquer une skill par étape, afin que chaque procédure soit chargée fraîche au moment utile et échappe à l'éviction par compaction (1 occ., 1 fiches)
 - [[kb/skills-concept\|skills]] — format: Fichiers markdown (SKILL.md) persistants, testables et partageables (2 occ., 2 fiches)
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
@@ -846,6 +850,8 @@
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usine-logicielle\|usine logicielle]] — définition: Ensemble outillé — contexte, skills, outils, garde-fous exécutables, quality gate, process produit — qui encadre un code produit par des agents pour qu'il corresponde à une intention et reste contrôlé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes » (2 occ., 2 fiches)
+- [[kb/_entites-mineures#vault-de-recherche\|vault de recherche]] — définition: Magasin persistant de sources en markdown avec index reconstructible, cycle de vie curé des notes, provenance traçable et score de qualité, consulté avant toute nouvelle récupération (1 occ., 1 fiches)
+- [[kb/_entites-mineures#verrouillage-d'outils\|verrouillage d'outils]] — définition: Restriction de l'allowlist d'un sous-agent à un jeu d'outils donné, rendant un comportement mécaniquement impossible au lieu de le déconseiller par consigne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] — définition: Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
