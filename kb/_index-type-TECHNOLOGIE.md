@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 681 entités de type TECHNOLOGIE
+> 682 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -400,6 +400,7 @@
 - [[kb/_entites-mineures#Next.js-16\|Next.js 16]] — catégorie: Framework React — Vercel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nostr\|Nostr]] — rôle: Protocole de messagerie ouvert et résistant à la censure, substrat d'identité et de journal signé de Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] — catégorie: Outil de productivité IA (Google) (2 occ., 2 fiches)
+- [[kb/Notion-as-Code\|Notion as Code]] — définition: Infrastructure as code appliquée à un espace de travail Notion : un SDK TypeScript décrit l'état final voulu, un endpoint asynchrone réconcilie l'espace pour y correspondre, une table de correspondance rendant l'opération idempotente et rejouable sur plusieurs espaces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nova\|Nova]] — catégorie: Plateforme d'agents de codage interne Dropbox (2 occ., 1 fiches)
 - [[kb/NuExtract\|NuExtract]] — catégorie: modèle de langage spécialisé extraction JSON (2 occ., 1 fiches)
 - [[kb/_entites-mineures#NuExtract-large\|NuExtract-large]] — catégorie: version large NuExtract (1 occ., 1 fiches)

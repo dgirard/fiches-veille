@@ -1,6 +1,6 @@
 # Kimi K3
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -10,6 +10,8 @@
 
 ### concurrence
 
+- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 - [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
@@ -19,6 +21,11 @@
 
 - [[kb/_entites-mineures#modèle-frontier-open-weights\|modèle frontier open-weights]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+
+### mesure
+
+- « 57 sur l'Artificial Analysis Intelligence Index v4.1, contre 61 pour le meilleur modèle fermé » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
 ### remplace
 
@@ -37,7 +44,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] **publie** → Kimi K3 — 0.97
+- [[kb/Moonshot-AI\|Moonshot AI]] **publie** → Kimi K3 — 0.97
 
 ## Fiches sources
 

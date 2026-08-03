@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 367 entités de type ORGANISATION
+> 369 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -221,15 +221,16 @@
 - [[kb/Monday.com\|Monday.com]] — secteur: Gestion de projet / IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] — description: Cas étude Mandese — agence ayant adopted single subscription combining talent + technology + improvement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] — défi: Opacité des données vendeurs d'outils IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] — rôle: Labo IA chinois (« AI Tiger ») fondé à Pékin en mars 2023 par Yang Zhilin ; éditeur du chatbot Kimi et de la série K2/K3 open-weights, à cadence rapide (un flagship ~tous les 2 mois) (1 occ., 1 fiches)
+- [[kb/Moonshot-AI\|Moonshot AI]] — rôle: Labo IA chinois (« AI Tiger ») fondé à Pékin en mars 2023 par Yang Zhilin ; éditeur du chatbot Kimi et de la série K2/K3 open-weights, à cadence rapide (un flagship ~tous les 2 mois) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] — secteur: Finance / Banque d'investissement (1 occ., 1 fiches)
+- [[kb/Mozilla\|Mozilla]] — positionnement: Éditrice d'un état des lieux annuel de l'IA ouverte, à la fois travail de mesure sourcé et pièce de plaidoyer — partie prenante du sujet mesuré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NIST-AI-Safety-Institute-Consortium\|NIST AI Safety Institute Consortium]] — type: Consortium de sécurité IA américain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NYU-Stern-School-of-Business\|NYU Stern School of Business]] — secteur: École de commerce universitaire (1 occ., 1 fiches)
 - [[kb/Netflix\|Netflix]] — secteur: Streaming / divertissement (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Neuralink\|Neuralink]] — secteur: Interface cerveau-ordinateur (BCI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NextGenU\|NextGenU]] — catégorie: Organisation éducative IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] — secteur: Services financiers / Assurance (2 occ., 1 fiches)
-- [[kb/_entites-mineures#Notion\|Notion]] — secteur: Productivité / IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Notion\|Notion]] — secteur: Productivité / IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#NuMind\|NuMind]] — secteur: NLP / extraction structurée (1 occ., 1 fiches)
 - [[kb/Nvidia\|Nvidia]] — secteur: Partenaire technologique Campus IA, fournisseur GPU mondial (4 occ., 4 fiches)
 - [[kb/_entites-mineures#OCTO-Technology\|OCTO Technology]] — secteur: Conseil IT / Software Craftsmanship (1 occ., 1 fiches)
@@ -279,6 +280,7 @@
 - [[kb/_entites-mineures#Satlyt\|Satlyt]] — secteur: Informatique spatiale décentralisée (1 occ., 1 fiches)
 - [[kb/Scaleway-organisation\|Scaleway]] — rôle: Partenaire cloud de la chaîne de valeur souveraine de l'inférence (VivaTech 2026) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Schaeffler\|Schaeffler]] — secteur: Pièces automobiles (Caroline du Sud, Allemagne) (1 occ., 1 fiches)
+- [[kb/Scrapfly\|Scrapfly]] — positionnement: Fournisseur d'infrastructure de collecte web ; livre un navigateur devant correspondre à un vrai sur des centaines de signaux — position d'attaquant du problème de détection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Seagate\|Seagate]] — secteur: Stockage de données / Hardware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] — secteur: Services à domicile (utilisateur Replit) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SemiAnalysis\|SemiAnalysis]] — secteur: Recherche semiconducteurs et IA (1 occ., 1 fiches)

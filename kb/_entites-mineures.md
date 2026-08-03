@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2551 entités avec moins de 3 triples/fiches
+> 2562 entités avec moins de 3 triples/fiches
 
-## PERSONNE (357)
+## PERSONNE (358)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2249,11 +2249,12 @@
 
 ### Michael Kratsios {#Michael-Kratsios}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : Directeur OSTP (Office of Science and Technology Policy)
 
 - **dirige** → [[kb/_entites-mineures#Office-of-Science-and-Technology-Policy\|Office of Science and Technology Policy]] (ORGANISATION) — 0.97
+- **affirme_que** → [[kb/_entites-mineures#Kimi-K3-aurait-été-entraîné-par-extraction-covert-à-grande-échelle-depuis-Fable-5\|Kimi K3 aurait été entraîné par extraction covert à grande échelle depuis Fable 5]] (AFFIRMATION) — 0.85
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
@@ -2682,6 +2683,16 @@
 - **publie** → [[kb/_entites-mineures#Introducing-Code-Wiki\|Introducing Code Wiki]] (EVENEMENT) — 0.99
 
 **Fiches** : [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
+
+### Raffi Krikorian {#Raffi-Krikorian}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport
+
+- **travaille_chez** → [[kb/Mozilla\|Mozilla]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
 ### Ranganathan & Ye {#Ranganathan-&-Ye}
 
@@ -3453,7 +3464,7 @@
 
 - **rôle** : Cofondateur de Moonshot AI (mars 2023)
 
-- **a_créé** → [[kb/_entites-mineures#Moonshot-AI\|Moonshot AI]] (ORGANISATION) — 0.90
+- **a_créé** → [[kb/Moonshot-AI\|Moonshot AI]] (ORGANISATION) — 0.90
 
 **Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
@@ -3563,7 +3574,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (281)
+## ORGANISATION (280)
 
 ### 10x {#10x}
 
@@ -5251,19 +5262,6 @@
 
 **Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
-### Moonshot AI {#Moonshot-AI}
-
-**Type** : ORGANISATION | 3 relations | 1 fiches
-
-- **rôle** : Labo IA chinois (« AI Tiger ») fondé à Pékin en mars 2023 par Yang Zhilin ; éditeur du chatbot Kimi et de la série K2/K3 open-weights, à cadence rapide (un flagship ~tous les 2 mois)
-
-- **publie** → [[kb/Kimi-K3\|Kimi K3]] (TECHNOLOGIE) — 0.97
-- **affirme_que** → [[kb/_entites-mineures#Kimi-K3-compte-~2,8-trillions-de-paramètres,-un-contexte-de-1M-tokens-et-une-architecture-MoE-à-attention-hybride-(vendor-stated)\|Kimi K3 compte ~2,8 trillions de paramètres, un contexte de 1M tokens et une architecture MoE à attention hybride (vendor-stated)]] (AFFIRMATION) — 0.80
-
-- [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] **a_créé** → Moonshot AI — 0.90
-
-**Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
-
 ### Morgan Stanley {#Morgan-Stanley}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5333,13 +5331,15 @@
 
 ### Notion {#Notion}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
 - **secteur** : Productivité / IA
+- **évolution produit** : Ouvre en alpha un modèle déclaratif de construction d'espace de travail, explicitement conçu pour être piloté par un agent de codage autant que par un humain
 
+- **publie** → [[kb/Notion-as-Code\|Notion as Code]] (TECHNOLOGIE) — 0.96
 - **affirme_que** → [[kb/_entites-mineures#Agent-Skills-accélère-passage-de-questions-à-actions\|Agent Skills accélère passage de questions à actions]] (AFFIRMATION) — 0.89
 
-**Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+**Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]], [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
 
 ### NuMind {#NuMind}
 
@@ -11992,7 +11992,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (851)
+## CONCEPT (859)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15802,6 +15802,14 @@
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
 
+### ULP {#ULP}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Unit in the last place : plus petit écart représentable entre deux flottants voisins, unité dans laquelle se mesurent les divergences entre bibliothèques mathématiques
+
+**Fiches** : [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
+
 ### Underclass permanente d'intelligence {#Underclass-permanente-d'intelligence}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16567,6 +16575,14 @@
 
 **Fiches** : [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
 
+### cohérence d'empreinte {#cohérence-d'empreinte}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Exigence selon laquelle une empreinte falsifiée doit l'être sur toutes les surfaces liées et sur aucune autre — corriger trop est aussi détectable que corriger trop peu
+
+**Fiches** : [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
+
 ### cohérence temporelle {#cohérence-temporelle}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17200,6 +17216,14 @@
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
+### droit de sortie {#droit-de-sortie}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Capacité de quitter un fournisseur sans réécrire son système ; argument central en faveur des poids ouverts, adossé au coût constaté des sorties de cloud
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
 ### dual-level retrieval {#dual-level-retrieval}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -17387,6 +17411,14 @@
 - [[kb/Cora\|Cora]] **a_créé** → email bankruptcy feature — 0.97
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
+
+### empreinte mathématique de navigateur {#empreinte-mathématique-de-navigateur}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Canal de fingerprinting exploitant le fait que les fonctions transcendantes ne sont pas correctement arrondies : la différence d'arrondi entre bibliothèques mathématiques identifie le système d'exploitation réel
+
+**Fiches** : [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
 
 ### enabling team {#enabling-team}
 
@@ -17636,9 +17668,11 @@
 
 ### gouvernance des agents {#gouvernance-des-agents}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **condition** : Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse »
+
+- **s_oppose_à** → [[kb/_entites-mineures#le-rythme-d'adoption,-seules-~21-%-des-entreprises-déclarant-une-gouvernance-mature\|le rythme d'adoption, seules ~21 % des entreprises déclarant une gouvernance mature]] (MESURE) — 0.90
 
 **Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
@@ -17841,6 +17875,16 @@
 - **définition** : Réduction du rôle humain face à un agent qui code seul
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
+
+### identifiant de ressource logique {#identifiant-de-ressource-logique}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Identifiant choisi par l'auteur d'un script déclaratif, distinct de l'identifiant réel de la plateforme, et relié à lui par une table de correspondance produite au premier déploiement
+
+- **permet** → [[kb/_entites-mineures#de-rendre-un-script-idempotent-et-déployable-sur-plusieurs-espaces-de-travail\|de rendre un script idempotent et déployable sur plusieurs espaces de travail]] (AFFIRMATION) — 0.95
+
+**Fiches** : [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
 
 ### identité opératoire {#identité-opératoire}
 
@@ -19242,6 +19286,14 @@
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 
+### surface d'écriture non résolue {#surface-d'écriture-non-résolue}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Couche permission et identité du stack agentique, désignée comme le point non résolu : lire est outillé, écrire ne l'est pas
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
 ### surge staffing {#surge-staffing}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19559,6 +19611,14 @@
 
 **Fiches** : [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
+### verrouillage par optimisation {#verrouillage-par-optimisation}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Mécanisme par lequel un harnais ajusté finement aux poids d'un laboratoire se dégrade sur les autres modèles, rendant les poids d'autant moins interchangeables que l'ajustement est bon
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
 ### vibe architecting {#vibe-architecting}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19706,6 +19766,16 @@
 - [[kb/WEnvision\|Wenvision]] **résout** → écart expérimentation-production — 0.95
 
 **Fiches** : [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
+
+### écart opérationnel {#écart-opérationnel}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Retard structurel du stack ouvert sur la standardisation et la préparation entreprise, qui explique que l'adoption dépasse l'ouvert mais que la mise en production reste derrière
+
+- **observé_dans** → [[kb/_entites-mineures#la-standardisation-et-l'enterprise-readiness,-colonnes-systématiquement-faibles-de-toutes-les-couches-du-stack-ouvert\|la standardisation et l'enterprise readiness, colonnes systématiquement faibles de toutes les couches du stack ouvert]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
 ### échelle d'adoption {#échelle-d'adoption}
 
@@ -23763,7 +23833,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (105)
+## DOCUMENT (108)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24173,6 +24243,14 @@
 - [[kb/SFEIR\|SFEIR]] **soutient** → How Anthropic secures its AI-native software development lifecycle — 0.96
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### How to use Notion as Code {#How-to-use-Notion-as-Code}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Documentation d'alpha publiée sur l'espace Notion Ambassadors, sans auteur ni date ; observée le 3 août 2026
+
+**Fiches** : [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
 
 ### Hype Cycle for Generative AI 2025 {#Hype-Cycle-for-Generative-AI-2025}
 
@@ -24598,6 +24676,16 @@
 
 **Fiches** : [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
 
+### The state of open source AI {#The-state-of-open-source-AI}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Rapport récurrent de Mozilla, v1.0.1, juillet 2026 ; sept sections, données Artificial Analysis, Epoch AI, OpenRouter, LMArena et enquête Mozilla/SlashData 2026
+
+- [[kb/Mozilla\|Mozilla]] **publie** → The state of open source AI — 0.98
+
+**Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
 ### Thoughtworks blog Generative AI section {#Thoughtworks-blog-Generative-AI-section}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -24658,6 +24746,14 @@
 - [[kb/Zed\|Zed]] **publie** → What Anthropic's New Claude Billing Means for Zed Users — 0.98
 
 **Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+
+### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure
+
+**Fiches** : [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
 
 ### Zero Trust for Agents {#Zero-Trust-for-Agents}
 

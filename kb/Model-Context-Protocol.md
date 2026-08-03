@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 16 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 6 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,11 @@
 
 - [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
+### mesure
+
+- « 97 M de téléchargements SDK mensuels et plus de 10 000 serveurs actifs en un an » (MESURE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
 
 ### permet
 

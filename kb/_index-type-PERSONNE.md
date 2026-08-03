@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 473 entités de type PERSONNE
+> 474 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -361,6 +361,7 @@
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] — affiliation: Stanford University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Raffi-Krikorian\|Raffi Krikorian]] — rôle: Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] — rôle: Chercheurs publiés dans HBR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Dalio\|Ray Dalio]] — attribut: Promoteur de la conscience de soi radicale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] — rôle: Co-chair AI Index Steering Committee, SRI International (1 occ., 1 fiches)

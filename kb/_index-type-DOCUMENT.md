@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 121 entités de type DOCUMENT
+> 124 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -48,6 +48,7 @@
 - [[kb/_entites-mineures#Heatmap-data-centers-swing\|Heatmap data centers swing]] — description: Polling Heatmap — basculement support data centers de +2 pts (sept 2025) à −24 pts (févr 2026), soit 26 points en 4 mois. Northern Virginia 2023-2025 swing 69 pts (+45 → −24) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-enables-self-service-data-analytics-with-Claude\|How Anthropic enables self-service data analytics with Claude]] — catégorie: REX ingénierie data (Enterprise AI, blog Anthropic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#How-Anthropic-secures-its-AI-native-software-development-lifecycle\|How Anthropic secures its AI-native software development lifecycle]] — catégorie: REX sécurité (blog Anthropic, Claude Code / Enterprise AI) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#How-to-use-Notion-as-Code\|How to use Notion as Code]] — référence: Documentation d'alpha publiée sur l'espace Notion Ambassadors, sans auteur ni date ; observée le 3 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hype-Cycle-for-Generative-AI-2025\|Hype Cycle for Generative AI 2025]] — date: 2025-07-29 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] — catégorie: Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ISO-IEC-IEEE-12207\|ISO/IEC/IEEE 12207]] — catégorie: Norme internationale des processus du cycle de vie logiciel (éditions 2017 et 2026), référence du SDLC (1 occ., 1 fiches)
@@ -99,6 +100,7 @@
 - [[kb/_entites-mineures#The-Pragmatic-Programmer\|The Pragmatic Programmer]] — catégorie: Ouvrage de référence du software craftsmanship (1999/2019) (1 occ., 1 fiches)
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (3 occ., 3 fiches)
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] — catégorie: Manifeste satirique (pastiche de l'Agile) sur l'efficacité des tokens (2 occ., 1 fiches)
+- [[kb/_entites-mineures#The-state-of-open-source-AI\|The state of open source AI]] — référence: Rapport récurrent de Mozilla, v1.0.1, juillet 2026 ; sept sections, données Artificial Analysis, Epoch AI, OpenRouter, LMArena et enquête Mozilla/SlashData 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-blog-Generative-AI-section\|Thoughtworks blog Generative AI section]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)
@@ -107,6 +109,7 @@
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users\|What Anthropic's New Claude Billing Means for Zed Users]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)
