@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 871 entités de type CONCEPT
+> 874 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -633,6 +633,7 @@
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] — liste: Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#garde-fou-exécutable\|garde-fou exécutable]] — définition: Contrôle qui s'applique automatiquement (hook, test d'architecture, lint de patterns, quality gate) par opposition à une consigne de contexte, qu'un modèle peut ignorer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate\|gate]] — définition: Contrôle placé entre deux étapes du cycle — d'où l'impossibilité d'en poser un dans une organisation sans étapes nommées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] — conditions: Zéro finding ouvert, deux passes sèches, tests verts, diff de tests vide (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gestion-des-coûts-LLM\|gestion des coûts LLM]] — outils: Suivi usage, contrôles budget, optimisation modèles, mise en cache (1 occ., 1 fiches)
@@ -680,6 +681,7 @@
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
+- [[kb/_entites-mineures#lint-de-patterns\|lint de patterns]] — définition: Vérification automatique de décisions d'architecture par analyse de l'arbre syntaxique (ast-grep), distincte du lint de syntaxe et du typecheck (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] — attributs: adaptatif, composable, intent-driven, context-aware, conversationnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] — statut: Modèle dominant historique, en déclin avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loi-d'Amdahl\|loi d'Amdahl]] — application: Appliquée au SDLC AI-native : le débit du système reste celui de son étape la plus lente — ×8 de code produit ne multiplie rien si la revue reste séquentielle et humaine (1 occ., 1 fiches)
@@ -842,6 +844,7 @@
 - [[kb/_entites-mineures#usage-augmentatif\|usage augmentatif]] — définition: collaboration homme-IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-directif\|usage directif]] — définition: tâche entièrement déléguée à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#usine-logicielle\|usine logicielle]] — définition: Ensemble outillé — contexte, skills, outils, garde-fous exécutables, quality gate, process produit — qui encadre un code produit par des agents pour qu'il corresponde à une intention et reste contrôlé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#validation-circulaire\|validation circulaire]] — définition: Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] — définition: Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)

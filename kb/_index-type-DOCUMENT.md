@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 119 entités de type DOCUMENT
+> 120 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -62,6 +62,7 @@
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] — catégorie: Première encyclique sociale de Léon XIV (15 mai 2026), 245 paragraphes, 5 chapitres, sur la protection de la personne humaine à l'ère de l'IA — publiée pour le 135e anniversaire de Rerum Novarum (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] — rôle: Source parodiée (2001, 4 valeurs + 12 principes) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] — catégorie: Page de référence (28 juil. 2026) décrivant en six couches un dispositif solo de développement à code quasi entièrement généré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#One-Useful-Thing\|One Useful Thing]] — type: Newsletter Substack sur l'IA au travail (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pattern-doc\|Pattern doc]] — définition: Guidance généralisée depuis plusieurs learnings (plus de levier, plus de risque si périmé) (1 occ., 1 fiches)

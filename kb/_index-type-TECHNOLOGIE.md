@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 678 entités de type TECHNOLOGIE
+> 681 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -96,6 +96,7 @@
 - [[kb/_entites-mineures#Bard\|Bard]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bash\|Bash]] — rôle: Interface universelle entre Claude Code et le système (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] — usage: Requêtes analytics via CLI bq, remplace SQL manuel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bloggrify\|Bloggrify]] — catégorie: Générateur de blog statique open source développé par Hugo Lassiège (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] — catégorie: LLM financier créé par Bloomberg sur ses données propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] — catégorie: Couche IA transversale de la plateforme HubSpot (1 occ., 1 fiches)
 - [[kb/Bun\|Bun]] — usage: Build et packaging de Claude Code (2 occ., 2 fiches)
@@ -255,6 +256,7 @@
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GitNexus\|GitNexus]] — définition: Indexation d'un dépôt en graphe de symboles, relations et flux d'exécution, exposée par MCP ; sert à mesurer le rayon d'explosion d'une modification avant édition et à vérifier le périmètre réellement touché avant commit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] — contrainte: Rate limit 2000 emails par batch (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Go\|Go]] — avantage_SDD: Compilation instantanée, syntaxe unique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-ADK\|Google ADK]] — catégorie: Agent Development Kit Google (1 occ., 1 fiches)
@@ -580,6 +582,7 @@
 - [[kb/_entites-mineures#Workers\|Workers]] — catégorie: Produit Delos lancé ~juin 2026 ; objet de l'unique donnée d'ARR disponible (« 1 M$ en quelques jours », auto-déclarée, non auditée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] — catégorie: Plateforme IA serverless (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-for-Platforms\|Workers for Platforms]] — catégorie: Déploiement Workers à grande échelle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Writizzy\|Writizzy]] — catégorie: Plateforme de blogging développée par Hugo Lassiège, qui propulse eventuallycoding.com (dogfooding) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] — usage: Système de layout pour terminal (Meta) (1 occ., 1 fiches)
 - [[kb/YouTube-technologie\|YouTube]] — catégorie: Plateforme vidéo recommandée pour 2026 (2 occ., 2 fiches)
 - [[kb/Zapier-technologie\|Zapier]] — catégorie: Plateforme no-code d'automatisation workflows (1 occ., 1 fiches)

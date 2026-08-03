@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 37 relations | 21 fiches sources
+> **Type** : METHODOLOGIE | 38 relations | 21 fiches sources
 
 ## Attributs
 
@@ -97,6 +97,7 @@
 - [[kb/_entites-mineures#Shawn-Wang\|Shawn Wang]] **s_oppose_à** → vibe coding — 0.96
 - [[kb/_entites-mineures#Lovable\|Lovable]] **fait_partie_de** → vibe coding — 0.95
 - [[kb/Replit-technologie\|Replit]] **fait_partie_de** → vibe coding — 0.95
+- [[kb/context-engineering\|context engineering]] **s_oppose_à** → vibe coding — 0.95
 - [[kb/_entites-mineures#spec-coding\|spec coding]] **s_oppose_à** → vibe coding — 0.95
 - [[kb/_entites-mineures#Gene-Kim\|Gene Kim]] **utilise** → vibe coding — 0.93
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → vibe coding — 0.92

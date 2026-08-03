@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 471 entités de type PERSONNE
+> 472 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -186,6 +186,7 @@
 - [[kb/_entites-mineures#Helen-Russell\|Helen Russell]] — rôle: CHRO HubSpot (ex-CHRO Rivian) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Henna-Virkkunen\|Henna Virkkunen]] — rôle: VP exécutive Commission européenne (souveraineté technologique) — « que personne n'ait de kill switch » (1 occ., 1 fiches)
 - [[kb/Hryhorii-Tatsyi\|Hryhorii Tatsyi]] — rôle: CTO Raiffeisen Bank Ukraine, auteur Medium @milhibisidek, témoin organisationnel banque européenne régulée 12 mois (1 occ., 1 fiches)
+- [[kb/Hugo-Lassiège\|Hugo Lassiège]] — rôle: Développeur devenu entrepreneur, basé à Lyon ; auteur d'eventuallycoding.com et créateur de Bloggrify, Hakanai et Writizzy (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] — rôle: Co-créateur MCP-UI, Monday.com (2 occ., 2 fiches)
 - [[kb/Itamar-Friedman\|Itamar Friedman]] — rôle: CEO, QodoAI (2 occ., 2 fiches)
 - [[kb/Ivan-Chepurin\|Ivan Chepurin]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)

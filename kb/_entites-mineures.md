@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2535 entités avec moins de 3 triples/fiches
+> 2543 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (356)
 
@@ -6054,9 +6054,11 @@
 
 ### UNLEASH {#UNLEASH}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Média HR-tech / futur du travail
+
+- **s_applique_à** → [[kb/_entites-mineures#l'activation-et-la-désactivation-de-fonctionnalités-sans-redéploiement\|l'activation et la désactivation de fonctionnalités sans redéploiement]] (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
 
@@ -6392,7 +6394,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (547)
+## TECHNOLOGIE (550)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7147,6 +7149,16 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → BigQuery — 0.94
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+
+### Bloggrify {#Bloggrify}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Générateur de blog statique open source développé par Hugo Lassiège
+
+- [[kb/Hugo-Lassiège\|Hugo Lassiège]] **a_créé** → Bloggrify — 0.93
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
 ### BloombergGPT {#BloombergGPT}
 
@@ -8291,6 +8303,16 @@
 - **catégorie** : Plateforme génération d'applications full-stack par langage naturel
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+
+### GitNexus {#GitNexus}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Indexation d'un dépôt en graphe de symboles, relations et flux d'exécution, exposée par MCP ; sert à mesurer le rayon d'explosion d'une modification avant édition et à vérifier le périmètre réellement touché avant commit
+
+- **permet** → [[kb/_entites-mineures#de-mesurer-le-rayon-d'explosion-d'une-modification-et-d'en-détecter-tous-les-effets-de-bord\|de mesurer le rayon d'explosion d'une modification et d'en détecter tous les effets de bord]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
 ### Gmail API {#Gmail-API}
 
@@ -11071,6 +11093,16 @@
 
 **Fiches** : [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
+### Writizzy {#Writizzy}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme de blogging développée par Hugo Lassiège, qui propulse eventuallycoding.com (dogfooding)
+
+- [[kb/Hugo-Lassiège\|Hugo Lassiège]] **a_créé** → Writizzy — 0.93
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
 ### Yoga {#Yoga}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -11950,7 +11982,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (842)
+## CONCEPT (845)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15382,11 +15414,12 @@
 
 ### Skill {#Skill}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Dossier (instructions + scripts + ressources + config + hooks) découvrable par l'agent
 
 - **est_instance_de** → [[kb/_entites-mineures#dossier-d'instructions-scripts-et-ressources\|dossier d'instructions scripts et ressources]] (CONCEPT) — 0.95
+- **est_instance_de** → [[kb/_entites-mineures#procédure-écrite-une-fois-et-rejouée-à-l'identique,-créée-dès-la-troisième-répétition\|procédure écrite une fois et rejouée à l'identique, créée dès la troisième répétition]] (AFFIRMATION) — 0.94
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -17507,6 +17540,14 @@
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
+### garde-fou exécutable {#garde-fou-exécutable}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Contrôle qui s'applique automatiquement (hook, test d'architecture, lint de patterns, quality gate) par opposition à une consigne de contexte, qu'un modèle peut ignorer
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
 ### gate {#gate}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17950,6 +17991,14 @@
 - **catégorie** : Document signal d'effort et de soutien
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+
+### lint de patterns {#lint-de-patterns}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Vérification automatique de décisions d'architecture par analyse de l'arbre syntaxique (ast-grep), distincte du lint de syntaxe et du typecheck
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
 ### logiciel IA-natif {#logiciel-IA-natif}
 
@@ -19412,6 +19461,16 @@
 
 **Fiches** : [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 
+### usine logicielle {#usine-logicielle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Ensemble outillé — contexte, skills, outils, garde-fous exécutables, quality gate, process produit — qui encadre un code produit par des agents pour qu'il corresponde à une intention et reste contrôlé
+
+- **est_basé_sur** → [[kb/_entites-mineures#trois-questions-ce-que-l'agent-sait,-ce-qu'il-fait-de-façon-déterministe,-ce-qui-l'arrête-quand-il-se-trompe\|trois questions : ce que l'agent sait, ce qu'il fait de façon déterministe, ce qui l'arrête quand il se trompe]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
 ### validation circulaire {#validation-circulaire}
 
 **Type** : CONCEPT | 3 relations | 2 fiches
@@ -19704,7 +19763,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (358)
+## METHODOLOGIE (359)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -22021,6 +22080,16 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### clôture de spec {#clôture-de-spec}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Étape de fin de cycle où la spécification est mise à jour avec ce qui a réellement été construit — sans elle, les specs se périment en six mois
+
+- **résout** → [[kb/_entites-mineures#l'obsolescence-des-specs,-qui-deviennent-périmées-en-six-mois-sans-elle\|l'obsolescence des specs, qui deviennent périmées en six mois sans elle]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
 ### code freeze {#code-freeze}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -23627,7 +23696,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (103)
+## DOCUMENT (104)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24169,6 +24238,16 @@
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] **s_inspire_de** → Manifeste Agile — 0.95
 
 **Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
+
+### Mon usine logicielle à l'heure de l'IA {#Mon-usine-logicielle-à-l'heure-de-l'IA}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Page de référence (28 juil. 2026) décrivant en six couches un dispositif solo de développement à code quasi entièrement généré
+
+- [[kb/Hugo-Lassiège\|Hugo Lassiège]] **publie** → Mon usine logicielle à l'heure de l'IA — 0.98
+
+**Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
 ### One Useful Thing {#One-Useful-Thing}
 

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 399 entités de type METHODOLOGIE
+> 400 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -273,9 +273,10 @@
 - [[kb/_entites-mineures#capitalisation\|capitalisation]] — résultat: −30% d'itérations de correction après ~10 cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capitalisation-cumulative\|capitalisation cumulative]] — résultat: −30 % d'itérations de correction après dix cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] — définition: Étape de fin de cycle où la spécification est mise à jour avec ce qui a réellement été construit — sans elle, les specs se périment en six mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
-- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (5 occ., 5 fiches)
+- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (6 occ., 6 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (3 occ., 3 fiches)

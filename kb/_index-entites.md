@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2956 entités
+> 2965 entités
 
 ## #
 
@@ -455,6 +455,7 @@
 - [[kb/Block\|Block]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Bloggrify\|Bloggrify]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bloom-two-sigma-problem\|Bloom two-sigma problem]] (CONCEPT, 1 fiches)
 - [[kb/Bloomberg\|Bloomberg]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] (TECHNOLOGIE, 1 fiches)
@@ -651,6 +652,7 @@
 - [[kb/_entites-mineures#Cloudflare-Sandboxes\|Cloudflare Sandboxes]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#CMO\|CMO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CNBC\|CNBC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT, 1 fiches)
@@ -736,7 +738,7 @@
 - [[kb/_entites-mineures#Context-Development-Lifecycle\|Context Development Lifecycle]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Context-Editing\|Context Editing]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Context-Engine\|Context Engine]] (TECHNOLOGIE, 1 fiches)
-- [[kb/context-engineering\|context engineering]] (METHODOLOGIE, 5 fiches)
+- [[kb/context-engineering\|context engineering]] (METHODOLOGIE, 6 fiches)
 - [[kb/Context-Flywheel\|Context Flywheel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#context-graph\|context graph]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Context-inflation\|Context inflation]] (CONCEPT, 1 fiches)
@@ -1175,6 +1177,7 @@
 - [[kb/_entites-mineures#Gang-of-Four\|Gang of Four]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Garbage-collection-(code)\|Garbage collection (code)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#garde-fou-exécutable\|garde-fou exécutable]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Gardien-de-trajectoire\|Gardien de trajectoire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Garr-Reynolds\|Garr Reynolds]] (PERSONNE, 1 fiches)
 - [[kb/Gartner\|Gartner]] (ORGANISATION, 4 fiches)
@@ -1242,6 +1245,7 @@
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GitNexus\|GitNexus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GKG\|GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] (ORGANISATION, 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 1 fiches)
@@ -1392,6 +1396,7 @@
 - [[kb/_entites-mineures#HubSpot-Customer-Platform\|HubSpot Customer Platform]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Hugo-Lassiège\|Hugo Lassiège]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Human-Sandwich\|Human Sandwich]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Human-AI-collaboration\|Human-AI collaboration]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Human-AI-system-integrator\|Human-AI system integrator]] (CONCEPT, 1 fiches)
@@ -1636,6 +1641,7 @@
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#lint-de-patterns\|lint de patterns]] (CONCEPT, 1 fiches)
 - [[kb/Linus-Torvalds\|Linus Torvalds]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Linux\|Linux]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] (TECHNOLOGIE, 1 fiches)
@@ -1858,6 +1864,7 @@
 - [[kb/_entites-mineures#moment-Gutenberg-logiciel\|moment Gutenberg logiciel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Moment-kilowatt-heure\|Moment kilowatt-heure]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#moment-Kodak\|moment Kodak]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/Monday.com\|Monday.com]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#monitoring-observabilité\|monitoring observabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] (ORGANISATION, 1 fiches)
@@ -2828,6 +2835,7 @@
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Usage-Statistics\|Usage Statistics]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#use-cache\|use cache]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#usine-logicielle\|usine logicielle]] (CONCEPT, 1 fiches)
 - [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Utah\|Utah]] (ORGANISATION, 1 fiches)
 ## V
@@ -2940,6 +2948,7 @@
 - [[kb/_entites-mineures#World-Bank-Education-Global-Department\|World Bank Education Global Department]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Writing-muscle-atrophy\|Writing muscle atrophy]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Writizzy\|Writizzy]] (TECHNOLOGIE, 1 fiches)
 ## X
 
 - [[kb/_entites-mineures#x-algorithm\|x-algorithm]] (TECHNOLOGIE, 1 fiches)
