@@ -70,7 +70,7 @@
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] — secteur: Éditeur logiciel français — analyse de code et logiciels (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Cielo\|Cielo]] — secteur: Services financiers (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Cigref\|Cigref]] — secteur: Club / association française des DSI de grandes entreprises (2 occ., 1 fiches)
-- [[kb/Cloudflare\|Cloudflare]] — secteur: Infrastructure web / CDN (2 occ., 2 fiches)
+- [[kb/Cloudflare\|Cloudflare]] — secteur: Infrastructure web / CDN (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] — description: Startup voulant aider à « tricher sur tout » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognition\|Cognition]] — produit_phare: Devin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] — secteur: Cabinet de conseil en transformation IT/IA (1 occ., 1 fiches)

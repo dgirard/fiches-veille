@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 890 entités de type CONCEPT
+> 891 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -457,6 +457,7 @@
 - [[kb/_entites-mineures#Verifiability\|Verifiability]] — définition: Cadre expliquant pourquoi LLMs peakent en math/code (RL training) et stagnent ailleurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Verification-tax\|Verification tax]] — définition: Coût caché de review/audit du code généré par IA — augmente avec volume généré, peut éroder les gains de productivité bruts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vibe-Coding-Paralysis\|Vibe Coding Paralysis]] — définition: Concept Bonacci : épuisement non par le travail mais par sa gestion. 6 worktrees, 4 features à moitié, 2 quick fixes en rabbit holes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Virtual-Wallet\|Virtual Wallet]] — définition: Portefeuille destiné à un agent, opéré par clé d'API, dont l'allocation, la liste d'autorisation et le montant maximal par transaction sont fixés par le détenteur du compte humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vision-East-Coast-(IA)\|Vision East Coast (IA)]] — description: Position épistémique : transformation lente, fragmentée, médiée par les humains, contrainte par la *jaggedness* des capacités et la complexité organisationnelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vision-West-Coast-(IA)\|Vision West Coast (IA)]] — description: Position épistémique : automatisation massive et rapide dès que les capacités atteignent un seuil ; singularité plus ou moins abrupte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Warning-shots-(AI-populism)\|Warning shots (AI populism)]] — source: Formule Jasmine Sun (NYT Opinion 2026-04-30) reprise par Wallace-Wells — les attaques contre Altman comme avertissement violent d'un mouvement plus large (1 occ., 1 fiches)

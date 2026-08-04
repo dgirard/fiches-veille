@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 474 entités de type PERSONNE
+> 475 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -460,6 +460,7 @@
 - [[kb/_entites-mineures#Wei-Zhou\|Wei Zhou]] — rôle: Head of AI utility research, SemiAnalysis (1 occ., 1 fiches)
 - [[kb/Werner-Vogels\|Werner Vogels]] — rôle: CTO d'Amazon — « Everything fails all the time » (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Will-Papper\|Will Papper]] — rôle: Auteur de l'annonce Cloudflare Wallets sur le blog Cloudflare, Agents Week 2026 (1 occ., 1 fiches)
 - [[kb/Xi-Jinping\|Xi Jinping]] — rôle: Président de la République populaire de Chine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] — rôle: Fondateur Manus, VP Meta (1 occ., 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] — rôle: CEO de HubSpot (1 occ., 1 fiches)

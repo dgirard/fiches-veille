@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 682 entités de type TECHNOLOGIE
+> 686 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -141,6 +141,7 @@
 - [[kb/_entites-mineures#Cloudflare-Agents-SDK\|Cloudflare Agents SDK]] — usage: WebSocket + Dynamic Worker execution → Code Mode (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Radar\|Cloudflare Radar]] — catégorie: Outil d'analyse du trafic web (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Sandboxes\|Cloudflare Sandboxes]] — catégorie: Environnements isolés container-based (1 occ., 1 fiches)
+- [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] — définition: Portefeuille programmable annoncé le 4 août 2026 : un Account Wallet détenu par un humain délègue des fonds plafonnés à des Virtual Wallets opérés par des agents via clé d'API, pour payer API, outils et contenu en stablecoins par le protocole x402 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] — usage: Backend : TTS, STT (push-to-talk), petit LLM, inférence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-work\|Co-work]] — description: Claude Code en version GUI, construit en 10 jours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Execution-Tool\|Code Execution Tool]] — statut: Beta, requis pour Skills via API (1 occ., 1 fiches)
@@ -383,6 +384,7 @@
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] — catégorie: Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024) (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] — catégorie: Protocole d'intégration données/contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modèles-open-chinois\|Modèles open chinois]] — exemples: DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] — rôle: Filtre pre-scoring qui exclut posts matchant les muted keywords du viewer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos\|Mythos]] — catégorie: Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation (1 occ., 1 fiches)
@@ -577,6 +579,7 @@
 - [[kb/_entites-mineures#Vorflux\|Vorflux]] — catégorie: Autopilote pour le software engineering — agents cloud à contexte propre, modèle propre, tâche permanente (2 occ., 1 fiches)
 - [[kb/Voxtral\|Voxtral]] — catégorie: Modèle de compréhension vocale open source (5 occ., 1 fiches)
 - [[kb/_entites-mineures#Web-Artifacts-Builder\|Web Artifacts Builder]] — catégorie: Skill permettant React/Tailwind/shadcn dans Claude (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] — rôle: Mécanisme préexistant d'enregistrement d'identité d'agent par paire de clés, auquel Cloudflare Wallets ajoute une couche lisible par un humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)
 - [[kb/Windsurf-technologie\|Windsurf]] — catégorie: Éditeur AI-native collaboratif (4 occ., 4 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] — catégorie: Outil SEO sémantique et diffusion visuelle (1 occ., 1 fiches)
@@ -609,6 +612,7 @@
 - [[kb/_entites-mineures#chunking\|chunking]] — limite: Fragmentation artificielle du sens contextuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#circuit-breakers\|circuit breakers]] — objectif: dégradation gracieuse vs panne totale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#clear_thinking_20251015\|clear_thinking_20251015]] — catégorie: En-tête API de gestion du cache de raisonnement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] — définition: Espace de noms proposé par Cloudflare donnant à un agent une identité lisible et persistante sous forme de sous-domaine délégué d'un compte, déclaration restant optionnelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] — auteur: Jesse Vincent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coding-agent\|coding agent]] — exemple: LLM appelle « execute code », lit output, continue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] — taille: 100 000 lignes de code (3 occ., 1 fiches)
@@ -681,6 +685,6 @@
 - [[kb/_entites-mineures#window.openai\|window.openai]] — catégorie: Objet injecté dans iframe par OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#worktree-isolation\|worktree isolation]] — rôle: Isolation de chaque agent sur son propre worktree/git checkout pour orchestrer en parallèle sans collision (étapes 2-3) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#x-algorithm\|x-algorithm]] — catégorie: Algorithme For You feed de X publié en open-source sous `xai-org/x-algorithm` le 15 mai 2026, ~4 composants Rust+Python/JAX (1 occ., 1 fiches)
-- [[kb/_entites-mineures#x402\|x402]] — description: Protocole paiement agentique par Coinbase, basé sur HTTP 402 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#x402\|x402]] — description: Protocole paiement agentique par Coinbase, basé sur HTTP 402 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#~-.claude-skills\|~/.claude/skills]] — type: Répertoire d'installation locale des skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#À-la-French\|À la French]] — catégorie: Podcast tech francophone (hôtes : Kempf, Morin, Medjaoui) (1 occ., 1 fiches)

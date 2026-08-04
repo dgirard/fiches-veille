@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2564 entités avec moins de 3 triples/fiches
+> 2569 entités avec moins de 3 triples/fiches
 
-## PERSONNE (358)
+## PERSONNE (359)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -3447,6 +3447,17 @@
 
 **Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
+### Will Papper {#Will-Papper}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Auteur de l'annonce Cloudflare Wallets sur le blog Cloudflare, Agents Week 2026
+
+- **affirme_que** → [[kb/_entites-mineures#les-agents-n'ont-ni-identifiant-stable-pour-s'inscrire-à-une-API-ni-moyen-natif-de-la-payer\|les agents n'ont ni identifiant stable pour s'inscrire à une API ni moyen natif de la payer]] (CITATION) — 0.96
+- **travaille_chez** → [[kb/Cloudflare\|Cloudflare]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+
 ### Xiao Hong {#Xiao-Hong}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -6394,7 +6405,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (550)
+## TECHNOLOGIE (553)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6871,11 +6882,12 @@
 
 ### Agents SDK {#Agents-SDK}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **rôle** : Orchestration LLM pour génération de code
 
 - [[kb/VibeSDK\|VibeSDK]] **est_basé_sur** → Agents SDK — 0.97
+- [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] **fait_partie_de** → Agents SDK — 0.88
 
 **Fiches** : [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
@@ -9377,6 +9389,18 @@
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
+### Monetization Gateway {#Monetization-Gateway}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur
+
+- **permet** → [[kb/_entites-mineures#à-un-vendeur-d'être-payé-sans-infrastructure-de-paiement-traditionnelle\|à un vendeur d'être payé sans infrastructure de paiement traditionnelle]] (AFFIRMATION) — 0.93
+
+- [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] **converge_avec** → Monetization Gateway — 0.93
+
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+
 ### Multimodal generative AI {#Multimodal-generative-AI}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11023,6 +11047,16 @@
 
 **Fiches** : [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 
+### Web Bot Auth {#Web-Bot-Auth}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mécanisme préexistant d'enregistrement d'identité d'agent par paire de clés, auquel Cloudflare Wallets ajoute une couche lisible par un humain
+
+- [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] **est_basé_sur** → Web Bot Auth — 0.90
+
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+
 ### Whisper large-v3 {#Whisper-large-v3}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11309,6 +11343,17 @@
 - **catégorie** : En-tête API de gestion du cache de raisonnement
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+
+### cloudflare.pay {#cloudflare.pay}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Espace de noms proposé par Cloudflare donnant à un agent une identité lisible et persistante sous forme de sous-domaine délégué d'un compte, déclaration restant optionnelle
+
+- **permet** → [[kb/_entites-mineures#à-un-agent-de-déclarer-une-identité-persistante-et-lisible,-déléguée-d'un-compte\|à un agent de déclarer une identité persistante et lisible, déléguée d'un compte]] (AFFIRMATION) — 0.95
+- **est_basé_sur** → [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
 ### coderabbit-review-helper {#coderabbit-review-helper}
 
@@ -11956,13 +12001,15 @@
 
 ### x402 {#x402}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **description** : Protocole paiement agentique par Coinbase, basé sur HTTP 402
+- **rôle** : Protocole attachant un paiement à une requête HTTP ; rail retenu par Cloudflare pour les micropaiements agentiques, distinct des schémas adossés aux réseaux de cartes
 
+- [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] **utilise** → x402 — 0.95
 - [[kb/_entites-mineures#Coinbase\|Coinbase]] **a_créé** → x402 — 0.95
 
-**Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]], [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
 
 ### ~/.claude/skills {#~-.claude-skills}
 
@@ -11982,7 +12029,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (861)
+## CONCEPT (862)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15893,6 +15940,17 @@
 - **définition** : Concept Bonacci : épuisement non par le travail mais par sa gestion. 6 worktrees, 4 features à moitié, 2 quick fixes en rabbit holes
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
+
+### Virtual Wallet {#Virtual-Wallet}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Portefeuille destiné à un agent, opéré par clé d'API, dont l'allocation, la liste d'autorisation et le montant maximal par transaction sont fixés par le détenteur du compte humain
+
+- **permet** → [[kb/_entites-mineures#à-un-agent-de-dépenser-des-fonds-explicitement-délégués,-sous-un-plafond-fixé-par-le-détenteur-du-compte\|à un agent de dépenser des fonds explicitement délégués, sous un plafond fixé par le détenteur du compte]] (AFFIRMATION) — 0.96
+- **réduit** → [[kb/_entites-mineures#le-risque-d'autorité-ambiante,-l'agent-recevant-une-délégation-bornée-au-lieu-des-permissions-complètes-de-son-humain\|le risque d'autorité ambiante, l'agent recevant une délégation bornée au lieu des permissions complètes de son humain]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
 ### Vision East Coast (IA) {#Vision-East-Coast-(IA)}
 

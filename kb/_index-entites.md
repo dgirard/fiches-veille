@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2992 entités
+> 2998 entités
 
 ## #
 
@@ -648,11 +648,13 @@
 - [[kb/_entites-mineures#Cloud-Foundry\|Cloud Foundry]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloud-Native-Buildpacks\|Cloud Native Buildpacks]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] (DOCUMENT, 1 fiches)
-- [[kb/Cloudflare\|Cloudflare]] (ORGANISATION, 2 fiches)
+- [[kb/Cloudflare\|Cloudflare]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Cloudflare-Agents-SDK\|Cloudflare Agents SDK]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Radar\|Cloudflare Radar]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Sandboxes\|Cloudflare Sandboxes]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#cloudflare.pay\|cloudflare.pay]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Cluely\|Cluely]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#clôture-untrusted-source\|clôture untrusted-source]] (CONCEPT, 1 fiches)
@@ -1877,6 +1879,7 @@
 - [[kb/_entites-mineures#moment-Kodak\|moment Kodak]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/Monday.com\|Monday.com]] (ORGANISATION, 3 fiches)
+- [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#monitoring-observabilité\|monitoring observabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] (CONCEPT, 1 fiches)
@@ -2897,6 +2900,7 @@
 - [[kb/_entites-mineures#Viktor-Frankl\|Viktor Frankl]] (PERSONNE, 1 fiches)
 - [[kb/Vincent-Strubel\|Vincent Strubel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Virtual-Tags\|Virtual Tags]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Virtual-Wallet\|Virtual Wallet]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vision-East-Coast-(IA)\|Vision East Coast (IA)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Vision-West-Coast-(IA)\|Vision West Coast (IA)]] (CONCEPT, 1 fiches)
@@ -2930,6 +2934,7 @@
 - [[kb/Weave\|Weave]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Weave-Hour\|Weave Hour]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Web-Artifacts-Builder\|Web Artifacts Builder]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Webb-Wright\|Webb Wright]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] (EVENEMENT, 1 fiches)
@@ -2949,6 +2954,7 @@
 - [[kb/_entites-mineures#Widening-Gap\|Widening Gap]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Will-Papper\|Will Papper]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#window.openai\|window.openai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Windsurf-organisation\|Windsurf]] (ORGANISATION, 1 fiches)
 - [[kb/Windsurf-technologie\|Windsurf]] (TECHNOLOGIE, 4 fiches)
@@ -2978,7 +2984,7 @@
 
 - [[kb/_entites-mineures#x-algorithm\|x-algorithm]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#x402\|x402]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#x402\|x402]] (TECHNOLOGIE, 2 fiches)
 - [[kb/xAI\|xAI]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Xebia\|Xebia]] (ORGANISATION, 1 fiches)
 - [[kb/Xi-Jinping\|Xi Jinping]] (PERSONNE, 1 fiches)

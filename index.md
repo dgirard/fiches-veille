@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 371 fiches | 1975-12 → 2026-08-03 | généré le 2026-08-04
+> 372 fiches | 1975-12 → 2026-08-04 | généré le 2026-08-04
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **04** [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*. · Cloudflare — Cloudflare Wallets, commerce agentique, Agents Week
 - **03** [How to use Notion as Code](fiches/2026-08/notion-as-code-2026-08-03.md) — **Notion** — documentation produit publiée sur l'espace public **Notion Ambassadors**. **Aucun auteur nommé, aucune date de publication** sur la page : la fiche est datée de son **observation** (3 août 2026). Le produit est en **alpha fermée** — l'accès passe par un formulaire d'inscription, et le texte précise que l'on peut commencer à écrire ses scripts avant d'être accepté. · Notion — Notion as Code, infrastructure as code, IaC
 - **03** [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`. · GitHub (Jordan Gibbs, jordan-gibbs/hyperresearch) — skill, deep research, harnais de recherche
 - **02** [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit. · agentclientprotocol.com — Agent Client Protocol, ACP, protocole ouvert
@@ -739,6 +740,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
 - [Mon usine logicielle à l'heure de l'IA](fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28.md) — **Hugo Lassiège** — développeur devenu entrepreneur, basé à **Lyon**, écrit du code depuis 2001 et tient **eventuallycoding.com** (le blog a porté le nom `hakanai.free.fr` avant de devenir *Eventuallycoding* en 2013). *Eventuallycoding* est le nom-parapluie qui regroupe ses projets, sa chaîne YouTube et ses blogs.
@@ -775,6 +777,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
@@ -895,6 +898,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [How to use Notion as Code](fiches/2026-08/notion-as-code-2026-08-03.md) — **Notion** — documentation produit publiée sur l'espace public **Notion Ambassadors**. **Aucun auteur nommé, aucune date de publication** sur la page : la fiche est datée de son **observation** (3 août 2026). Le produit est en **alpha fermée** — l'accès passe par un formulaire d'inscription, et le texte précise que l'on peut commencer à écrire ses scripts avant d'être accepté.
 - [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit.
@@ -980,17 +984,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 371 fiches
-- **Par année** : 2026 (194) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 372 fiches
+- **Par année** : 2026 (195) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 130
   - Architecture & Construction : 44
   - Transformation & Adoption : 76
-  - Qualité & Sécurité : 33
-  - Économie & Marché : 69
+  - Qualité & Sécurité : 34
+  - Économie & Marché : 70
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 36
+  - Outils & Plateformes : 37
   - Recherche & Éducation : 10
   - Produits & Services : 9
   - Politique & Régulation : 18
@@ -1028,6 +1032,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
@@ -1035,4 +1040,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (2)
   - Finout (2)
   - Kent Beck (2)
-  - Anthropic (X/Twitter) (2)
