@@ -1,12 +1,13 @@
 # Index — DOCUMENT
 
-> 124 entités de type DOCUMENT
+> 125 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-Jobs-Transition-Framework\|AI Jobs Transition Framework]] — référence: Cadre antérieur d'OpenAI Economic Research posant que de nombreux métiers vont se réorganiser plutôt que disparaître ; socle doctrinal du rapport sur le task crossover (1 occ., 1 fiches)
 - [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] — catégorie: Projet de loi US (2026) imposant des kill switches et un pouvoir fédéral d'arrêt des systèmes d'IA dangereux (2 occ., 2 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] — description: Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions (1 occ., 1 fiches)
@@ -108,7 +109,7 @@
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users\|What Anthropic's New Claude Billing Means for Zed Users]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
-- [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (1 occ., 1 fiches)
+- [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)

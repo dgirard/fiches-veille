@@ -243,7 +243,7 @@
 - [[kb/_entites-mineures#Opascope\|Opascope]] — catégorie: Cabinet conseil e-commerce / commerce agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Open-Source-Initiative\|Open Source Initiative]] — rôle: Organisation co-fondée par ESR en 1998 (président jusqu'en 2005) promouvant l'open source (1 occ., 1 fiches)
 - [[kb/OpenAI\|OpenAI]] — secteur: Labo IA frontalier, San Francisco (21 occ., 21 fiches)
-- [[kb/_entites-mineures#OpenAI-Economic-Research\|OpenAI Economic Research]] — rôle: Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier (1 occ., 1 fiches)
+- [[kb/OpenAI-Economic-Research\|OpenAI Economic Research]] — rôle: Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier (2 occ., 2 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] — secteur: Développement IA commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)

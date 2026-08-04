@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2562 entités avec moins de 3 triples/fiches
+> 2564 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (358)
 
@@ -3574,7 +3574,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (279)
 
 ### 10x {#10x}
 
@@ -5436,16 +5436,6 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → Open Source Initiative — 0.90
 
 **Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
-
-### OpenAI Economic Research {#OpenAI-Economic-Research}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **rôle** : Équipe de recherche économique d'OpenAI, éditrice de la série Work at the Frontier
-
-- **publie** → [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT) — 0.95
-
-**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### OpenAI Group PBC {#OpenAI-Group-PBC}
 
@@ -11992,7 +11982,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (859)
+## CONCEPT (861)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18963,6 +18953,14 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
+### rétention de tâches propres {#rétention-de-tâches-propres}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente
+
+**Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19097,6 +19095,14 @@
 - **est_variante_de** → [[kb/_entites-mineures#share-standard-(signaux-distincts)\|share standard (signaux distincts)]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
+### signal avancé d'usage {#signal-avancé-d'usage}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Statut épistémique revendiqué pour les données d'usage IA : indicateur de recomposition des métiers visible avant les fiches de poste, les intitulés et les statistiques du marché du travail
+
+**Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 
 ### signaux qualité {#signaux-qualité}
 
@@ -19381,13 +19387,15 @@
 
 ### task crossover {#task-crossover}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **définition** : Tâches historiquement associées à un métier qui apparaissent dans l'usage IA de professionnels d'un autre métier ; mesuré à 43,5 % des messages métier-spécifiques
+- **mesure** : 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique
 
+- **est_instance_de** → [[kb/_entites-mineures#l'apparition,-dans-l'usage-IA-d'un-métier,-de-travail-historiquement-associé-à-un-autre\|l'apparition, dans l'usage IA d'un métier, de travail historiquement associé à un autre]] (CITATION) — 0.97
 - **observé_dans** → [[kb/_entites-mineures#les-données-d'usage-de-ChatGPT,-comme-signal-avancé-de-la-recomposition-des-métiers\|les données d'usage de ChatGPT, comme signal avancé de la recomposition des métiers]] (AFFIRMATION) — 0.90
 
-**Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+**Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]], [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
 ### taxonomie 9 catégories de skills {#taxonomie-9-catégories-de-skills}
 
@@ -23833,7 +23841,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (108)
+## DOCUMENT (109)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -23872,6 +23880,18 @@
 - **fait_partie_de** → [[kb/_entites-mineures#docs-adr\|docs/adr/]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
+
+### AI Jobs Transition Framework {#AI-Jobs-Transition-Framework}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **référence** : Cadre antérieur d'OpenAI Economic Research posant que de nombreux métiers vont se réorganiser plutôt que disparaître ; socle doctrinal du rapport sur le task crossover
+
+- **affirme_que** → [[kb/_entites-mineures#de-nombreux-métiers-vont-se-réorganiser,-leurs-tâches-quotidiennes-pouvant-changer-substantiellement\|de nombreux métiers vont se réorganiser, leurs tâches quotidiennes pouvant changer substantiellement]] (AFFIRMATION) — 0.92
+
+- [[kb/Work-at-the-Frontier\|Work at the Frontier]] **est_basé_sur** → AI Jobs Transition Framework — 0.92
+
+**Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 
 ### AI-Powered Engineering at Scale: The Adoption Playbook {#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook}
 

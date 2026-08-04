@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 888 entités de type CONCEPT
+> 890 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -787,6 +787,7 @@
 - [[kb/_entites-mineures#règle-du-sigle-jamais-seul\|règle du sigle jamais seul]] — définition: Règle de curation : l'entité canonique est le nom complet, le sigle n'est qu'un alias rattaché explicitement à une entité — un même alias pouvant être porté par plusieurs entités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#rétention-de-tâches-propres\|rétention de tâches propres]] — définition: Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente (1 occ., 1 fiches)
 - [[kb/réversibilité\|réversibilité]] — principe: Capacité à exécuter/porter un modèle soi-même et à sortir de la captivité fournisseur ; rendue portable par l'open-weights des poids de Mistral (même logique que Kimi K3) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
@@ -801,6 +802,7 @@
 - [[kb/_entites-mineures#shadow-AI\|shadow AI]] — risque: Usage non gouverné né de la démocratisation de la GenAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#share_via_dm-+-share_via_copy_link\|share_via_dm + share_via_copy_link]] — définition: Variantes share distinctes (indices 8, 9) qui mesurent le forward privé vs public, signaux haute valeur pour pricing teardowns / product comparisons / controversy forwarded privately (1 occ., 1 fiches)
+- [[kb/_entites-mineures#signal-avancé-d'usage\|signal avancé d'usage]] — définition: Statut épistémique revendiqué pour les données d'usage IA : indicateur de recomposition des métiers visible avant les fiches de poste, les intitulés et les statistiques du marché du travail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] — exemples: code review turnaround, first-run test pass rate, defect ratio, rework rate (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-issue\|skill issue]] — débat: Hypothèse posée (non assénée) par ESR pour expliquer l'écart entre son expérience très positive des LLMs et le discours des « downshouters » : vieux modèles, univers différent, ou compétence de communication/spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#skill-rot\|skill rot]] — parade: Vérifications hebdomadaires extrayant claims vérifiables et marquant la fraîcheur (1 occ., 1 fiches)
@@ -833,7 +835,7 @@
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#task-crossover\|task crossover]] — définition: Tâches historiquement associées à un métier qui apparaissent dans l'usage IA de professionnels d'un autre métier ; mesuré à 43,5 % des messages métier-spécifiques (1 occ., 1 fiches)
+- [[kb/_entites-mineures#task-crossover\|task crossover]] — mesure: 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique (2 occ., 2 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] — domaine: Sciences des organisations, management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tier-de-modèle\|tier de modèle]] — règle: Fonction du coût de détection d'une erreur, pas du prestige de la tâche (1 occ., 1 fiches)

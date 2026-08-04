@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 370 fiches | 1975-12 → 2026-08-03 | généré le 2026-08-03
+> 371 fiches | 1975-12 → 2026-08-03 | généré le 2026-08-04
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -19,6 +19,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **??** [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins). · Mozilla — Mozilla, état de l'IA open source, poids ouverts
 - **30** [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market · SFEIR — anneau de contraintes, constraints around agents, phase Review
 - **28** [Mon usine logicielle à l'heure de l'IA](fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28.md) — **Hugo Lassiège** — développeur devenu entrepreneur, basé à **Lyon**, écrit du code depuis 2001 et tient **eventuallycoding.com** (le blog a porté le nom `hakanai.free.fr` avant de devenir *Eventuallycoding* en 2013). *Eventuallycoding* est le nom-parapluie qui regroupe ses projets, sa chaîne YouTube et ses blogs. · Eventuallycoding — usine logicielle, context engineering, vibe coding
+- **27** [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître. · OpenAI — OpenAI Economic Research, Work at the Frontier, task crossover
 - **26** [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic) · SFEIR — SDLC, SDLC AI-native, cycle de développement
 - **25** [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir · Investir (Les Echos) — Aiman Ezzat, Capgemini, IA agentique
 - **24** [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées. · SFEIR (recherche interne) — AI Kill Switch Act, section 2220F, Shutdown-Capability Standard
@@ -660,6 +661,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Transformation & Adoption
 
 - [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »).
+- [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
 - [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
@@ -774,6 +776,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Économie & Marché
 
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
+- [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
 - [IA et emploi : le vrai risque, c'est le décrochage](fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »). Positionnement de la maison sur la transformation IA des DSI ; ce texte prolonge la ligne éditoriale portée notamment par Didier Girard (cf. [[girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24]]).
 - [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
@@ -931,6 +934,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Recherche & Éducation
 
+- [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Diffusion Language Models Explained: How Google's Diffusion Gemma Works](fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12.md) — MindStudio Team
 - [Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de Communication](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) — Deep Research Veille Interne
 - [Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons](fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02.md) — Deep Research Veille Interne
@@ -976,18 +980,18 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 370 fiches
-- **Par année** : 2026 (193) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 371 fiches
+- **Par année** : 2026 (194) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 130
   - Architecture & Construction : 44
-  - Transformation & Adoption : 75
+  - Transformation & Adoption : 76
   - Qualité & Sécurité : 33
-  - Économie & Marché : 68
+  - Économie & Marché : 69
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
   - Outils & Plateformes : 36
-  - Recherche & Éducation : 9
+  - Recherche & Éducation : 10
   - Produits & Services : 9
   - Politique & Régulation : 18
 - **Auteurs (top 20)** :
@@ -1018,7 +1022,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - voodootikigod.com (Chris Williams) (7)
   - Deep Research (7)
   - Google (7)
-  - OpenAI (5)
+  - OpenAI (6)
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)

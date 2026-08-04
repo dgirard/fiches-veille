@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 49 relations | 21 fiches sources
+> **Type** : ORGANISATION | 50 relations | 21 fiches sources
 
 ## Attributs
 
@@ -31,6 +31,8 @@
 
 ### affirme_que
 
+- « sa position d'observation unique sur le monde du travail lui permet d'orienter la politique publique et la pratique » (CITATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 - « ChatGPT Agent transforme les workflows des travailleurs du savoir » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 

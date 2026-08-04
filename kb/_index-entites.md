@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2989 entités
+> 2992 entités
 
 ## #
 
@@ -180,6 +180,7 @@
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#AI-jobapalooza\|AI jobapalooza]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-jobpocalypse\|AI jobpocalypse]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#AI-Jobs-Transition-Framework\|AI Jobs Transition Framework]] (DOCUMENT, 1 fiches)
 - [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#AI-lifts-underperformers-to-baseline\|AI lifts underperformers to baseline]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#AI-Max-for-Search\|AI Max for Search]] (TECHNOLOGIE, 1 fiches)
@@ -2003,7 +2004,7 @@
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Codex\|OpenAI Codex]] (TECHNOLOGIE, 2 fiches)
-- [[kb/_entites-mineures#OpenAI-Economic-Research\|OpenAI Economic Research]] (ORGANISATION, 1 fiches)
+- [[kb/OpenAI-Economic-Research\|OpenAI Economic Research]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#OpenAI-Group-PBC\|OpenAI Group PBC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Operator\|OpenAI Operator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] (TECHNOLOGIE, 1 fiches)
@@ -2381,6 +2382,7 @@
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#rétention-de-tâches-propres\|rétention de tâches propres]] (CONCEPT, 1 fiches)
 - [[kb/réversibilité\|réversibilité]] (CONCEPT, 3 fiches)
 ## S
 
@@ -2480,6 +2482,7 @@
 - [[kb/_entites-mineures#Siddhant-Khare\|Siddhant Khare]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sidecar-Docker-GKG\|Sidecar Docker GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Sierra\|Sierra]] (ORGANISATION, 3 fiches)
+- [[kb/_entites-mineures#signal-avancé-d'usage\|signal avancé d'usage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#signaux-qualité\|signaux qualité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Silicon-Valley\|Silicon Valley]] (LIEU, 1 fiches)
 - [[kb/_entites-mineures#Simmer\|Simmer]] (TECHNOLOGIE, 1 fiches)
@@ -2673,7 +2676,7 @@
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tariq-KRIM\|Tariq KRIM]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#task-crossover\|task crossover]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#task-crossover\|task crossover]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#task_banger_screen.py\|task_banger_screen.py]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#task_post_safety_screen_deluxe.py\|task_post_safety_screen_deluxe.py]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#task_spam_detection.py\|task_spam_detection.py]] (TECHNOLOGIE, 1 fiches)
@@ -2952,7 +2955,7 @@
 - [[kb/_entites-mineures#WIP-limits\|WIP limits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#WNS\|WNS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT, 1 fiches)
+- [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#Work-planning\|Work planning]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Workday\|Workday]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Workers\|Workers]] (TECHNOLOGIE, 1 fiches)
