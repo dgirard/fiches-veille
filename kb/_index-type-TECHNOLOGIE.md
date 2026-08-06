@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 687 entités de type TECHNOLOGIE
+> 689 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -386,6 +386,8 @@
 - [[kb/_entites-mineures#Modèles-open-chinois\|Modèles open chinois]] — exemples: DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Multimodal-generative-AI\|Multimodal generative AI]] — promesse: Résultats IA plus forts et plus rapides (1 occ., 1 fiches)
+- [[kb/Muse-Code\|Muse Code]] — définition: Agent de codage en terminal de Meta, en bêta au 5 août 2026 : agents d'arrière-plan persistants, journal d'événements rendant le runtime rejouable et reprenable, et trois skills livrées d'origine — plan approuvé, mise à l'épreuve du plan, poursuite d'objectif (1 occ., 1 fiches)
+- [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] — définition: Modèle orienté codage de Meta, co-entraîné avec le harnais Muse Code, entraîné sur des tâches longues avec compaction de contexte et issu d'une boucle d'auto-amélioration alimentée par la version précédente (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] — rôle: Filtre pre-scoring qui exclut posts matchant les muted keywords du viewer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos\|Mythos]] — catégorie: Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mythos-5\|Mythos 5]] — incident: Capacités de cyber-hacking ayant conduit à un arrêt via une loi sur l'export (Dept. of Commerce) (1 occ., 1 fiches)

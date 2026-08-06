@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 370 entités de type ORGANISATION
+> 371 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -209,6 +209,7 @@
 - [[kb/_entites-mineures#Menlo-Ventures\|Menlo Ventures]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
 - [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (1 occ., 1 fiches)
+- [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
 - [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] — secteur: Développement logiciel / IA (1 occ., 1 fiches)

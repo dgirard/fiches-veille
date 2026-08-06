@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2578 entités avec moins de 3 triples/fiches
+> 2581 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (360)
 
@@ -12055,7 +12055,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (867)
+## CONCEPT (869)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16128,6 +16128,17 @@
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
+### agents d'arrière-plan persistants {#agents-d'arrière-plan-persistants}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Sous-agents spécialisés maintenus actifs pendant toute une session au lieu d'être créés par tâche, ce qui évite de refaire la même collecte d'information et laisse à l'agent le choix du moment où il remonte au principal
+
+- **s_oppose_à** → [[kb/_entites-mineures#les-sous-agents-créés-puis-détruits-pour-chaque-tâche\|les sous-agents créés puis détruits pour chaque tâche]] (AFFIRMATION) — 0.94
+- **réduit** → [[kb/_entites-mineures#la-collecte-d'information-redondante-et-le-besoin-de-pilotage\|la collecte d'information redondante et le besoin de pilotage]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
 ### algorithme de Leiden {#algorithme-de-Leiden}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18107,6 +18118,14 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → jagged frontier — 0.97
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]], [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
+
+### journal d'événements d'agent {#journal-d'événements-d'agent}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue
+
+**Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
 
 ### jugement professionnel {#jugement-professionnel}
 
@@ -23967,7 +23986,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (111)
+## DOCUMENT (112)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24553,6 +24572,14 @@
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] **s_inspire_de** → Manifeste Agile — 0.95
 
 **Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
+
+### Meta Internal Coding Bench {#Meta-Internal-Coding-Bench}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points
+
+**Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
 
 ### Mon usine logicielle à l'heure de l'IA {#Mon-usine-logicielle-à-l'heure-de-l'IA}
 

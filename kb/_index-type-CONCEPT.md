@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 896 entités de type CONCEPT
+> 898 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -475,6 +475,7 @@
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: commerce géré de façon autonome par des agents IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agents-d'arrière-plan-persistants\|agents d'arrière-plan persistants]] — définition: Sous-agents spécialisés maintenus actifs pendant toute une session au lieu d'être créés par tâche, ce qui évite de refaire la même collecte d'information et laisse à l'agent le choix du moment où il remonte au principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] — rôle: Détection de communautés appliquée au graphe de code pour en dégager des sous-systèmes, avec labellisation sans modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ambient-authority\|ambient authority]] — définition: Vecteur d'attaque agentique : un agent se voit accorder les permissions complètes, souvent surprovisionnées, de son utilisateur humain — l'exfiltration ne requiert alors aucune escalade de privilèges (1 occ., 1 fiches)
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
@@ -686,6 +687,7 @@
 - [[kb/_entites-mineures#intelligence-incarnée\|intelligence incarnée]] — description: IA opérant dans environnements physiques ou simulés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] — catégorie: Stratégie DevX bénéficiant humains et agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
+- [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] — définition: Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch-de-fait\|kill switch de fait]] — définition: Capacité déjà démontrée de couper mondialement un modèle hébergé (précédent Anthropic, 19 jours) (1 occ., 1 fiches)

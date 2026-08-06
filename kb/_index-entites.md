@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3009 entités
+> 3015 entités
 
 ## #
 
@@ -147,6 +147,7 @@
 - [[kb/_entites-mineures#agentId\|agentId]] (CONCEPT, 1 fiches)
 - [[kb/Agentique-adaptative\|Agentique adaptative]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agentmail\|Agentmail]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#agents-d'arrière-plan-persistants\|agents d'arrière-plan persistants]] (CONCEPT, 1 fiches)
 - [[kb/agents-IA\|agents IA]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agents-moraux-artificiels-(refus)\|Agents moraux artificiels (refus)]] (CONCEPT, 1 fiches)
@@ -1555,6 +1556,7 @@
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] (PERSONNE, 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] (PERSONNE, 1 fiches)
@@ -1805,7 +1807,9 @@
 - [[kb/_entites-mineures#Meridian\|Meridian]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] (ORGANISATION, 1 fiches)
 - [[kb/Meta\|Meta]] (ORGANISATION, 1 fiches)
+- [[kb/Meta-AI-Research\|Meta AI Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Meta-Business-AI\|Meta Business AI]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Meta-Internal-Coding-Bench\|Meta Internal Coding Bench]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/METR\|METR]] (ORGANISATION, 3 fiches)
@@ -1904,6 +1908,8 @@
 - [[kb/_entites-mineures#multimodal_post_embedder_v5\|multimodal_post_embedder_v5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#multiplicateurs-de-tokens\|multiplicateurs de tokens]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Multitâches-5-onglets-agents\|Multitâches 5 onglets agents]] (METHODOLOGIE, 1 fiches)
+- [[kb/Muse-Code\|Muse Code]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mutation-testing\|mutation testing]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MutedKeywordFilter\|MutedKeywordFilter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mutual-Amplification\|Mutual Amplification]] (CONCEPT, 1 fiches)

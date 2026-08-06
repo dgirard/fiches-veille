@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 374 fiches | 1975-12 → 2026-08-06 | généré le 2026-08-06
+> 375 fiches | 1975-12 → 2026-08-06 | généré le 2026-08-06
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **06** [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers. · graphify.net — graphify.net, annuaire d'outils IA, directory
 - **06** [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet. · GitHub (Safi Shamsi, Graphify-Labs/graphify) — skill, graphe de connaissance, knowledge graph
+- **05** [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici. · Meta AI Research — Meta AI Research, Muse Code, Muse Spark 1.2
 - **04** [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*. · Cloudflare — Cloudflare Wallets, commerce agentique, Agents Week
 - **03** [How to use Notion as Code](fiches/2026-08/notion-as-code-2026-08-03.md) — **Notion** — documentation produit publiée sur l'espace public **Notion Ambassadors**. **Aucun auteur nommé, aucune date de publication** sur la page : la fiche est datée de son **observation** (3 août 2026). Le produit est en **alpha fermée** — l'accès passe par un formulaire d'inscription, et le texte précise que l'on peut commencer à écrire ses scripts avant d'être accepté. · Notion — Notion as Code, infrastructure as code, IaC
 - **03** [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`. · GitHub (Jordan Gibbs, jordan-gibbs/hyperresearch) — skill, deep research, harnais de recherche
@@ -485,6 +486,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet.
+- [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
 - [How to use Notion as Code](fiches/2026-08/notion-as-code-2026-08-03.md) — **Notion** — documentation produit publiée sur l'espace public **Notion Ambassadors**. **Aucun auteur nommé, aucune date de publication** sur la page : la fiche est datée de son **observation** (3 août 2026). Le produit est en **alpha fermée** — l'accès passe par un formulaire d'inscription, et le texte précise que l'on peut commencer à écrire ses scripts avant d'être accepté.
 - [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit.
@@ -906,6 +908,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet.
+- [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
 - [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [How to use Notion as Code](fiches/2026-08/notion-as-code-2026-08-03.md) — **Notion** — documentation produit publiée sur l'espace public **Notion Ambassadors**. **Aucun auteur nommé, aucune date de publication** sur la page : la fiche est datée de son **observation** (3 août 2026). Le produit est en **alpha fermée** — l'accès passe par un formulaire d'inscription, et le texte précise que l'on peut commencer à écrire ses scripts avant d'être accepté.
 - [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
@@ -959,6 +962,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang)
 - [ZML/LLMD : et si le « Docker des LLM » était français ?](fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09.md) — SFEIR (voix éditoriale du cabinet)
@@ -992,19 +996,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 374 fiches
-- **Par année** : 2026 (197) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 375 fiches
+- **Par année** : 2026 (198) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 132
+  - Agents de codage IA & Skills : 133
   - Architecture & Construction : 45
   - Transformation & Adoption : 76
   - Qualité & Sécurité : 34
   - Économie & Marché : 71
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 39
+  - Outils & Plateformes : 40
   - Recherche & Éducation : 10
-  - Produits & Services : 9
+  - Produits & Services : 10
   - Politique & Régulation : 18
 - **Auteurs (top 20)** :
   - SFEIR (13)
