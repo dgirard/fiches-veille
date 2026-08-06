@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 891 entités de type CONCEPT
+> 896 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -475,9 +475,11 @@
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: commerce géré de façon autonome par des agents IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] — rôle: Détection de communautés appliquée au graphe de code pour en dégager des sous-systèmes, avec labellisation sans modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ambient-authority\|ambient authority]] — définition: Vecteur d'attaque agentique : un agent se voit accorder les permissions complètes, souvent surprovisionnées, de son utilisateur humain — l'exfiltration ne requiert alors aucune escalade de privilèges (1 occ., 1 fiches)
 - [[kb/_entites-mineures#analytics-translator\|analytics translator]] — rôle: Liaison business/tech, gestionnaire allocation data experts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] — définition: Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte (1 occ., 1 fiches)
+- [[kb/_entites-mineures#annuaire-d'outils-tenu-par-un-éditeur\|annuaire d'outils tenu par un éditeur]] — définition: Position où le fournisseur d'un outil édite le comparateur de sa propre catégorie, occupant la requête d'évaluation tout en y figurant comme option (1 occ., 1 fiches)
 - [[kb/_entites-mineures#anticipation-stratégique\|anticipation stratégique]] — mécanisme: Observer la marchandisation d'aujourd'hui pour prédire les innovations de demain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] — mécanisme: Patterns sociaux absorbés depuis corpus de textes humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
@@ -628,6 +630,7 @@
 - [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#exposition-à-l'IA\|exposition à l'IA]] — fourchette: 5 % à 60 % de l'emploi total selon les études ; France 3,8 % (aujourd'hui) à 16,3 % (2-5 ans) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#extraction-hybride-par-type-de-fichier\|extraction hybride par type de fichier]] — définition: Principe consistant à extraire de façon déterministe là où la source porte une structure formelle (code, en AST) et à ne convoquer un modèle que là où elle n'en porte pas (prose, images) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] — définition: Illusion de qualité produite par la relecture humaine du code des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-factory\|feature factory]] — principe: Terme de John Cutler : organisation qui mesure le succès à l'output (features livrées) plutôt qu'à l'outcome (valeur créée) ; piège d'un SDLC excellent sans discipline PDLC (1 occ., 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] — définition: Service interne X (non publié) qui gère les valeurs numériques des paramètres, permet A/B testing et tuning sans code change — explique l'absence de params.rs (1 occ., 1 fiches)
@@ -649,6 +652,7 @@
 - [[kb/_entites-mineures#gouvernance-agents-IA\|gouvernance agents IA]] — composants: RBAC, politiques accès données, audit logging, gestion secrets, isolation réseau (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gouvernance-des-agents\|gouvernance des agents]] — condition: Rôles, sécurité et responsabilités clairs — sans quoi déployer des milliers d'agents est « une impasse » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#goût-produit\|goût produit]] — définition: Product taste : capacité à choisir les bons problèmes, savoir quoi ne pas construire, définir le succès — érigée en compétence rare quand livrer devient bon marché (1 occ., 1 fiches)
+- [[kb/_entites-mineures#grille-d'évaluation-d'un-serveur-MCP\|grille d'évaluation d'un serveur MCP]] — définition: Cinq critères de décision proposés par graphify.net : transport, runtime, clients supportés, effort de mise en place et risques d'accès (1 occ., 1 fiches)
 - [[kb/_entites-mineures#grown-software\|grown software]] — synonyme: Développement non-interactif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#guardrails-IA\|guardrails IA]] — importance: Contrôle critique pour agents autonomes en environnements de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#génération-autorégressive\|génération autorégressive]] — catégorie: Paradigme dominant : génération token par token, gauche→droite, attention causale (1 occ., 1 fiches)
@@ -768,6 +772,7 @@
 - [[kb/_entites-mineures#proposal-bias\|proposal bias]] — définition: Préférence vitesse sur exhaustivité dans sélection de vendeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#propriétés-exploitables\|propriétés exploitables]] — liste: E1 diversité d'échantillonnage, E2 sycophancie chartée pour réfuter, E3 absence d'ego, E4 contextes frais, E5 coût de révision quasi nul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#protocol-objects\|protocol objects]] — localisation: src/ap2/types (1 occ., 1 fiches)
+- [[kb/_entites-mineures#provenance-d'arête\|provenance d'arête]] — définition: Étiquetage de chaque relation d'un graphe selon son origine — explicite dans la source, déduite par résolution, ou ambiguë — de sorte qu'un lecteur ou un agent sait ce qui a été lu et ce qui a été supposé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#provenance-footers\|provenance footers]] — définition: Traçabilité réponse : tier de source + fraîcheur + ownership (1 occ., 1 fiches)
 - [[kb/_entites-mineures#puppy-dog-junior-developer\|puppy-dog junior developer]] — définition: Métaphore de l'IA : empressée, productive, brouillonne, sur-suggestive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] — impact: Maintien des prix des assistants IA à un niveau élevé (1 occ., 1 fiches)

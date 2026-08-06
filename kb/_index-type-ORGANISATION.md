@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 369 entités de type ORGANISATION
+> 370 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -146,6 +146,7 @@
 - [[kb/_entites-mineures#Google-Labs\|Google Labs]] — secteur: Recherche et développement IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Google-X\|Google X]] — secteur: Laboratoire d'innovation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governing-Board\|Governing Board]] — rôle: Direction industrielle + allocation des fonds (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] — rôle: Société éditrice de graphify, passée par Y Combinator promotion S26 ; construit une plateforme commerciale continue au-dessus de la skill open source (1 occ., 1 fiches)
 - [[kb/Graphite.io\|Graphite.io]] — secteur: Marketing / Optimisation contenu IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Greptile\|Greptile]] — catégorie: Start-up tech (San Francisco) (1 occ., 1 fiches)
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] — attribution: Haute confiance, commanditaire de la campagne (1 occ., 1 fiches)

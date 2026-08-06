@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2569 entités avec moins de 3 triples/fiches
+> 2578 entités avec moins de 3 triples/fiches
 
-## PERSONNE (359)
+## PERSONNE (360)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2857,6 +2857,17 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
+### Safi Shamsi {#Safi-Shamsi}
+
+**Type** : PERSONNE | 2 relations | 2 fiches
+
+- **rôle** : Créateur et mainteneur de graphify et de Graphify Labs (Y Combinator S26) ; maintient aussi le site d'annuaire graphify.net et publie le livre The Memory Layer
+
+- **a_créé** → [[kb/graphify\|graphify]] (METHODOLOGIE) — 0.97
+- **publie** → [[kb/graphify.net\|graphify.net]] (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]], [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
+
 ### Sam Ragsdale {#Sam-Ragsdale}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3585,7 +3596,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (279)
+## ORGANISATION (280)
 
 ### 10x {#10x}
 
@@ -4698,6 +4709,17 @@
 - **dirige** → [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] (ORGANISATION) — 0.88
 
 **Fiches** : [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
+
+### Graphify Labs {#Graphify-Labs}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Société éditrice de graphify, passée par Y Combinator promotion S26 ; construit une plateforme commerciale continue au-dessus de la skill open source
+
+- **publie** → [[kb/graphify\|graphify]] (METHODOLOGIE) — 0.95
+- **publie** → [[kb/_entites-mineures#une-plateforme-commerciale-appliquant-la-même-approche-en-continu-à-tout-le-contexte-de-travail\|une plateforme commerciale appliquant la même approche en continu à tout le contexte de travail]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
 ### Greptile {#Greptile}
 
@@ -8318,11 +8340,13 @@
 
 ### GitNexus {#GitNexus}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **définition** : Indexation d'un dépôt en graphe de symboles, relations et flux d'exécution, exposée par MCP ; sert à mesurer le rayon d'explosion d'une modification avant édition et à vérifier le périmètre réellement touché avant commit
 
 - **permet** → [[kb/_entites-mineures#de-mesurer-le-rayon-d'explosion-d'une-modification-et-d'en-détecter-tous-les-effets-de-bord\|de mesurer le rayon d'explosion d'une modification et d'en détecter tous les effets de bord]] (AFFIRMATION) — 0.94
+
+- [[kb/graphify\|graphify]] **converge_avec** → GitNexus — 0.85
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
@@ -9525,13 +9549,14 @@
 
 ### NetworkX {#NetworkX}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **catégorie** : Bibliothèque Python d'analyse de graphes et réseaux sociaux
 
 - **permet** → [[kb/_entites-mineures#clustering-de-graphe-de-capacités\|clustering de graphe de capacités]] (CONCEPT) — 0.95
 
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] **utilise** → NetworkX — 0.97
+- [[kb/graphify\|graphify]] **utilise** → NetworkX — 0.93
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
 
@@ -10901,13 +10926,14 @@
 
 ### Tree-sitter {#Tree-sitter}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
-- **rôle** : Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code
+- **rôle** : Analyseur syntaxique incrémental fournissant l'AST de ~40 langages ; socle de l'extraction déterministe et locale de graphify
 
+- [[kb/graphify\|graphify]] **utilise** → Tree-sitter — 0.97
 - [[kb/GKG\|GKG]] **utilise** → Tree-sitter — 0.95
 
-**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
+**Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]], [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
 ### Uplift Agents {#Uplift-Agents}
 
@@ -12029,7 +12055,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (862)
+## CONCEPT (867)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16102,6 +16128,16 @@
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
+### algorithme de Leiden {#algorithme-de-Leiden}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Détection de communautés appliquée au graphe de code pour en dégager des sous-systèmes, avec labellisation sans modèle
+
+- [[kb/graphify\|graphify]] **utilise** → algorithme de Leiden — 0.93
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
+
 ### ambient authority {#ambient-authority}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -16137,6 +16173,14 @@
 - [[kb/SFEIR\|SFEIR]] **affine** → anneau de contraintes — 0.96
 
 **Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
+
+### annuaire d'outils tenu par un éditeur {#annuaire-d'outils-tenu-par-un-éditeur}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Position où le fournisseur d'un outil édite le comparateur de sa propre catégorie, occupant la requête d'évaluation tout en y figurant comme option
+
+**Fiches** : [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]]
 
 ### anticipation stratégique {#anticipation-stratégique}
 
@@ -17544,6 +17588,14 @@
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
+### extraction hybride par type de fichier {#extraction-hybride-par-type-de-fichier}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Principe consistant à extraire de façon déterministe là où la source porte une structure formelle (code, en AST) et à ne convoquer un modèle que là où elle n'en porte pas (prose, images)
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
+
 ### fausse sécurité {#fausse-sécurité}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17733,6 +17785,14 @@
 - **améliore** → [[kb/_entites-mineures#valeur-d'un-profil-à-l'ère-des-agents-de-codage\|valeur d'un profil à l'ère des agents de codage]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
+
+### grille d'évaluation d'un serveur MCP {#grille-d'évaluation-d'un-serveur-MCP}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Cinq critères de décision proposés par graphify.net : transport, runtime, clients supportés, effort de mise en place et risques d'accès
+
+**Fiches** : [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]]
 
 ### grown software {#grown-software}
 
@@ -18833,6 +18893,14 @@
 - **fait_partie_de** → [[kb/AP2\|AP2]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
+
+### provenance d'arête {#provenance-d'arête}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Étiquetage de chaque relation d'un graphe selon son origine — explicite dans la source, déduite par résolution, ou ambiguë — de sorte qu'un lecteur ou un agent sait ce qui a été lu et ce qui a été supposé
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
 ### provenance footers {#provenance-footers}
 
@@ -23899,7 +23967,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (109)
+## DOCUMENT (111)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24417,6 +24485,14 @@
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 
+### LOCOMO {#LOCOMO}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Benchmark de mémoire à long terme (n=300) sur lequel graphify obtient 0,497 de recall@10 et 45,3 % d'exactitude QA
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
+
 ### Learning {#Learning}
 
 **Type** : DOCUMENT | 2 relations | 1 fiches
@@ -24438,6 +24514,14 @@
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **publie** → Lessons from building Claude Code: How we use skills — 0.97
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+
+### LongMemEval {#LongMemEval}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **référence** : Benchmark de mémoire longue (variante S, n=50) sur lequel graphify obtient 76 %, à égalité avec un RAG dense
+
+**Fiches** : [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
 ### Loop Library {#Loop-Library}
 

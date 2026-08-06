@@ -1,6 +1,6 @@
 # Knowledge Base — Skills
 
-> 2 fiches | Mise à jour : 2026-08-03 | KB thématique curée (alimentée par les fiches `fiche_type: skill`)
+> 3 fiches | Mise à jour : 2026-08-06 | KB thématique curée (alimentée par les fiches `fiche_type: skill`)
 
 ## Vue d'ensemble
 
@@ -14,9 +14,12 @@ Les skills documentées ici déplacent l'effort de l'écriture de code vers la *
 |-------|--------|-----------|------------------------|-------|
 | `grill-with-docs` | Matt Pocock | Conception amont (DDD) | Interview adversariale qui « cuisine » un plan d'archi contre le vocabulaire métier et les décisions documentées, et capture le tout dans `CONTEXT.md` + ADR au fil de l'eau | [skill-pocock-grill-with-docs-2026-06](fiches/2026-06/skill-pocock-grill-with-docs-2026-06.md) |
 | `hyperresearch` (+ 16 skills d'étapes) | Jordan Gibbs | Deep research / harnais multi-étapes | Pipeline de recherche documentaire en 16 étapes adaptatif par paliers, où une skill-routeur invoque une skill par étape et où le rapport final ne peut plus être que retouché, jamais réécrit | [skill-gibbs-hyperresearch-2026-08-03](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) |
+| `graphify` | Safi Shamsi | Graphe de connaissance de projet | Transforme code, docs, PDF et images en graphe interrogeable : code parsé localement en AST tree-sitter sans modèle, chaque arête étiquetée `EXTRACTED` ou `INFERRED`, aucun index vectoriel | [skill-shamsi-graphify-2026-08-06](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) |
 
 ## Concepts transverses
 
+- **Extraction hybride par type de source** : extraire de façon déterministe là où la source porte une structure formelle (le code, via AST) et ne convoquer un modèle que là où elle n'en porte pas (prose, images). Le déterminisme rend l'extraction gratuite, la gratuité rend la reconstruction fréquente possible, et la reconstruction fréquente rend l'artefact fiable au lieu de périmé.
+- **Provenance d'arête** : étiqueter chaque relation selon son origine (lue dans la source, déduite par résolution, ambiguë) pour qu'un lecteur ou un agent sache ce qui a été trouvé et ce qui a été supposé. Même discipline épistémique que les types de source d'une fiche de veille.
 - **Skill-routeur et chargement différé** : une skill d'entrée qui ne contient **aucune** procédure et se borne à invoquer une skill par étape, chacune chargée fraîche au moment utile. Parade à un mode d'échec mesuré : dans un pipeline long, la procédure d'une étape tardive est **évincée par compaction** et l'orchestrateur la saute silencieusement (hyperresearch V7 → V8).
 - **Verrouillage d'outils (*tool-locking*)** : restreindre l'allowlist d'un sous-agent (p. ex. `[Read, Edit]`) pour rendre un comportement **mécaniquement impossible** au lieu de le déconseiller par consigne — « patch, never regenerate ». Même famille que les hooks et les tests d'architecture : l'exécutable bat l'instruction.
 - **Gates de vérification non négociables** : le style d'un livrable peut être paramétré, sa vérification non. Chez hyperresearch, les critiques reçoivent des *shims* de registre mais le vérificateur de citations et le gate d'expédition n'en reçoivent aucun.

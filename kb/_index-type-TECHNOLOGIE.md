@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 686 entités de type TECHNOLOGIE
+> 687 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -557,7 +557,7 @@
 - [[kb/_entites-mineures#Thunder\|Thunder]] — rôle: Service Rust in-memory Kafka-fed, lookups sub-ms des posts in-network récents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] — catégorie: API fine-tuning multi-GPU (1 occ., 1 fiches)
 - [[kb/Toolshed\|Toolshed]] — catégorie: Hub d'outils MCP (4 occ., 3 fiches)
-- [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] — rôle: Parser AST incrémental utilisé par GKG pour construire le graphe de connaissances code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] — rôle: Analyseur syntaxique incrémental fournissant l'AST de ~40 langages ; socle de l'extraction déterministe et locale de graphify (2 occ., 2 fiches)
 - [[kb/TypeScript\|TypeScript]] — usage: Langage principal de Claude Code (3 occ., 3 fiches)
 - [[kb/UDA\|UDA]] — catégorie: Architecture données unifiée basée sur knowledge graph (1 occ., 1 fiches)
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] — licence: Apache 2.0 open-source (6 occ., 4 fiches)
@@ -630,6 +630,7 @@
 - [[kb/_entites-mineures#git\|git]] — rôle: Infrastructure de versioning utilisée par systèmes IA autonomes (1 occ., 1 fiches)
 - [[kb/git-worktrees-technologie\|git worktrees]] — usage: Parallélisme de sessions Claude, gain de productivité majeur (3 occ., 3 fiches)
 - [[kb/goose\|goose]] — éditeur: Block, Inc. (6 occ., 5 fiches)
+- [[kb/graphify.net\|graphify.net]] — définition: Propriété éditoriale officielle du projet graphify : vitrine produit, annuaire comparatif de clients de codage IA et de serveurs MCP, et galerie de 100 dépôts publics déjà graphifiés (2 occ., 1 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] — rôle: Chemin d'export AWS : une commande transforme un harness configuré en code Strands (modèle, prompt, outils, mémoire, conteneur préservés), pointé vers un seul cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hook-PreToolUse\|hook PreToolUse]] — usage: Logue les invocations de skills pour mesurer l'usage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hooks-conditionnels\|hooks conditionnels]] — usage: Activés seulement le temps de la skill (ex. blocage commandes destructrices) (1 occ., 1 fiches)

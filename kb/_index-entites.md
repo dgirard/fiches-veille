@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 2998 entités
+> 3009 entités
 
 ## #
 
@@ -236,6 +236,7 @@
 - [[kb/_entites-mineures#Alexandre-Constantin\|Alexandre Constantin]] (PERSONNE, 1 fiches)
 - [[kb/Alexandre-Frizzo\|Alexandre Frizzo]] (PERSONNE, 1 fiches)
 - [[kb/Alexandre-Mogère\|Alexandre Mogère]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ali-Çevik\|Ali Çevik]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Alice\|Alice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Alignement-(critique-léonienne)\|Alignement (critique léonienne)]] (CONCEPT, 1 fiches)
@@ -284,6 +285,7 @@
 - [[kb/_entites-mineures#Angie-Wang\|Angie Wang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Animals-vs-Ghosts\|Animals vs Ghosts]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#annuaire-d'outils-tenu-par-un-éditeur\|annuaire d'outils tenu par un éditeur]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
@@ -1090,6 +1092,7 @@
 - [[kb/_entites-mineures#exposition-à-l'IA\|exposition à l'IA]] (CONCEPT, 1 fiches)
 - [[kb/ExpressIF-3\|ExpressIF 3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#extraction-hybride-par-type-de-fichier\|extraction hybride par type de fichier]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#EYOS\|EYOS]] (CONCEPT, 1 fiches)
 ## F
 
@@ -1318,6 +1321,9 @@
 - [[kb/GPT-5.5\|GPT-5.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE, 1 fiches)
+- [[kb/graphify\|graphify]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] (ORGANISATION, 1 fiches)
+- [[kb/graphify.net\|graphify.net]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Graphite.io\|Graphite.io]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Greg-Brockman\|Greg Brockman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Greg-Callahan\|Greg Callahan]] (PERSONNE, 1 fiches)
@@ -1326,6 +1332,7 @@
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION, 1 fiches)
 - [[kb/grill-with-docs\|grill-with-docs]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#grille-d'évaluation-d'un-serveur-MCP\|grille d'évaluation d'un serveur MCP]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] (TECHNOLOGIE, 1 fiches)
@@ -1676,6 +1683,7 @@
 - [[kb/_entites-mineures#Lobby\|Lobby]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#LOC\|LOC]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Lock-in-de-l'intelligence-d'entreprise\|Lock-in de l'intelligence d'entreprise]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#LOCOMO\|LOCOMO]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Lodestar-Agency-Consulting\|Lodestar Agency Consulting]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Logan-Kilpatrick\|Logan Kilpatrick]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] (CONCEPT, 1 fiches)
@@ -1687,6 +1695,7 @@
 - [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Loi-de-l'Instrument\|Loi de l'Instrument]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#loi-de-Moore\|loi de Moore]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#LongMemEval\|LongMemEval]] (DOCUMENT, 1 fiches)
 - [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#loop-hebdomadaire\|loop hebdomadaire]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Loop-Library\|Loop Library]] (DOCUMENT, 1 fiches)
@@ -2227,6 +2236,7 @@
 - [[kb/_entites-mineures#propriétés-exploitables\|propriétés exploitables]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#protocol-objects\|protocol objects]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#provenance-d'arête\|provenance d'arête]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#provenance-footers\|provenance footers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Public-wealth-fund\|Public wealth fund]] (CONCEPT, 1 fiches)
@@ -2392,6 +2402,7 @@
 - [[kb/_entites-mineures#S3NS\|S3NS]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] (PERSONNE, 2 fiches)
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] (PERSONNE, 1 fiches)
@@ -2813,7 +2824,7 @@
 - [[kb/_entites-mineures#Travail-invisible-(microtravailleurs)\|Travail invisible (microtravailleurs)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tree-of-Thought\|Tree-of-Thought]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Tree-sitter\|Tree-sitter]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Triade-ingrédients-recette-plat-fini\|Triade ingrédients/recette/plat fini]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#triade-Models-Memory-Knowledge\|triade Models/Memory/Knowledge]] (CONCEPT, 1 fiches)

@@ -39,17 +39,17 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 372 fiches
-- **Par année** : 2026 (195) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 374 fiches
+- **Par année** : 2026 (197) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 130
-  - Architecture & Construction : 44
+  - Agents de codage IA & Skills : 132
+  - Architecture & Construction : 45
   - Transformation & Adoption : 76
   - Qualité & Sécurité : 34
-  - Économie & Marché : 70
+  - Économie & Marché : 71
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 37
+  - Outils & Plateformes : 39
   - Recherche & Éducation : 10
   - Produits & Services : 9
   - Politique & Régulation : 18
@@ -72,8 +72,8 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
+  - Safi Shamsi (2)
   - Didier Girard (2)
-  - Janakiram MSV (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)

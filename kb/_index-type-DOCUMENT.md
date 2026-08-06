@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 125 entités de type DOCUMENT
+> 127 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -58,8 +58,10 @@
 - [[kb/_entites-mineures#L'IA-générative-est-plus-une-affaire-de-produit-technologique-qu'un-projet-d'IA\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]] — catégorie: Tribune d'opinion / cadre de décision DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'IA-n'existe-pas\|L'IA n'existe pas]] — catégorie: Livre, thèse sceptique sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#L'ingénierie-logicielle-à-l'ère-de-l'IA-tout-change...-et-rien-ne-change\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]] — catégorie: Tribune d'opinion / cadre de transformation DSI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#LOCOMO\|LOCOMO]] — référence: Benchmark de mémoire à long terme (n=300) sur lequel graphify obtient 0,497 de recall@10 et 45,3 % d'exactitude QA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Learning\|Learning]] — définition: 1 markdown = 1 problème résolu sous docs/solutions/<category>/, frontmatter orienté recherche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lessons-from-building-Claude-Code-How-we-use-skills\|Lessons from building Claude Code: How we use skills]] — catégorie: REX / guide opérationnel sur les Skills (1 occ., 1 fiches)
+- [[kb/_entites-mineures#LongMemEval\|LongMemEval]] — référence: Benchmark de mémoire longue (variante S, n=50) sur lequel graphify obtient 76 %, à égalité avec un RAG dense (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Loop-Library\|Loop Library]] — rôle: Collection de boucles réelles (eng/research/ops) de Matthew Berman (1 occ., 1 fiches)
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] — format: Playlist YouTube 12 vidéos (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
