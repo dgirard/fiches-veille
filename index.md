@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 375 fiches | 1975-12 → 2026-08-06 | généré le 2026-08-06
+> 376 fiches | 1975-12 → 2026-08-07 | généré le 2026-08-07
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **07** [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement. · Didier Girard (X) — Shieldstral, Shieldstral 1.0 3B, Mistral AI
 - **06** [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers. · graphify.net — graphify.net, annuaire d'outils IA, directory
 - **06** [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet. · GitHub (Safi Shamsi, Graphify-Labs/graphify) — skill, graphe de connaissance, knowledge graph
 - **05** [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici. · Meta AI Research — Meta AI Research, Muse Code, Muse Spark 1.2
@@ -747,6 +748,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. »](fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03.md) — **Jordan Gibbs** — auteur et mainteneur du dépôt `jordan-gibbs/hyperresearch`. Le projet est distribué sous **licence MIT** et publié sur **PyPI** (`pip install hyperresearch`). Signaux d'adoption au 3 août 2026 : **1 568 étoiles**, **170 forks**, 13 issues ouvertes, dépôt créé le **9 avril 2026** et poussé le **1er août 2026** — soit une traction rapide sur moins de quatre mois. Topics déclarés : `agents`, `agentskills`, `claude-code`, `deep-research`, `deep-research-agent`.
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
@@ -906,6 +908,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet.
 - [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
@@ -975,6 +978,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
 - [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées.
 - [AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems](fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23.md) — **Jon Brodkin** — Senior IT Reporter chez **Ars Technica** ; couvre les télécoms, la FCC, l'accès haut débit, les affaires judiciaires et la régulation du secteur tech par le gouvernement. Article de reportage (news), non signé d'un point de vue éditorial marqué.
@@ -996,20 +1000,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 375 fiches
-- **Par année** : 2026 (198) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 376 fiches
+- **Par année** : 2026 (199) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 133
   - Architecture & Construction : 45
   - Transformation & Adoption : 76
-  - Qualité & Sécurité : 34
+  - Qualité & Sécurité : 35
   - Économie & Marché : 71
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 40
+  - Outils & Plateformes : 41
   - Recherche & Éducation : 10
   - Produits & Services : 10
-  - Politique & Régulation : 18
+  - Politique & Régulation : 19
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
@@ -1022,6 +1026,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
+  - Didier Girard (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
   - Andrew Ng (3)
@@ -1030,7 +1035,6 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Jesse Vincent (3)
   - Cobus Greyling (3)
   - Safi Shamsi (2)
-  - Didier Girard (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)

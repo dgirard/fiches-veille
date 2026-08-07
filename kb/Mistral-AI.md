@@ -1,10 +1,11 @@
 # Mistral AI
 
-> **Type** : ORGANISATION | 23 relations | 4 fiches sources
+> **Type** : ORGANISATION | 25 relations | 5 fiches sources
 
 ## Attributs
 
 - **catégorie** : Société française d'intelligence artificielle générative, modèles ouverts et fermés, basée à Paris/Londres, 1000 collaborateurs, valorisation 12 Md€, objectif revenus 1 Md€ fin 2026, ~75% CA Europe
+- **positionnement** : Assume de ne pas arbitrer le licite : livre un garde-fou ouvert, séparé et auto-hébergeable dont la politique appartient au déployeur — cohérence entre l'audition d'Arthur Mensch (13 mai 2026) et Shieldstral (4 août 2026)
 - **rôle** : Éditeur français de modèles de langage, « meilleur pari européen sur la couche modèle » (SFEIR) ; valorisé ~20 Md€, trois ans d'existence ; présent B2C (Le Chat), B2B (API), open-weights et frontier, infrastructure, verticalisation
 - **secteur** : IA / Open source
 
@@ -48,6 +49,8 @@
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - « budget IA interne ≈ 10% de la masse salariale » (MESURE) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+- « 91,3 % de F1 en adaptabilité aux politiques, contre 61,1 % pour un fine-tuning sur jeux de données publics seuls » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - « productivité interne ×2 en 6 mois » (MESURE) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -60,6 +63,8 @@
 
 - [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
+- [[kb/Shieldstral\|Shieldstral]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Robostral\|Robostral]] (TECHNOLOGIE) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
@@ -72,6 +77,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]

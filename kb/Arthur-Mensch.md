@@ -1,9 +1,10 @@
 # Arthur Mensch
 
-> **Type** : PERSONNE | 33 relations | 2 fiches sources
+> **Type** : PERSONNE | 34 relations | 3 fiches sources
 
 ## Attributs
 
+- **doctrine** : Refuse à un éditeur de modèles la légitimité démocratique d'arbitrer l'usage final ; Shieldstral applique cette position en transférant la taxonomie au déployeur
 - **rôle** : Cofondateur & CEO de Mistral AI ; audition Assemblée nationale (mai 2026)
 
 ## Relations (comme sujet)
@@ -19,6 +20,8 @@
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - « « on transforme de l'électricité en intelligence, en génération de tokens » » (CITATION) — 0.98, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+- « un éditeur de modèles n'a pas la légitimité démocratique pour arbitrer l'usage final de ses modèles » (CITATION) — 0.96, DYNAMIQUE
+  - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - « 20% de gain de productivité n'équivaut pas à 20% de croissance (mix croissance + destruction d'emplois) » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - « la distillation ne permet pas le rattrapage technologique » (AFFIRMATION) — 0.95, ATEMPOREL
@@ -101,4 +104,5 @@
 ## Fiches sources
 
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
+- [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]

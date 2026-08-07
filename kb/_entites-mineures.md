@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2581 entités avec moins de 3 triples/fiches
+> 2587 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (360)
 
@@ -6427,7 +6427,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (553)
+## TECHNOLOGIE (557)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8099,6 +8099,14 @@
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
+### GPT-OSS-Safeguard {#GPT-OSS-Safeguard}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **positionnement** : Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+
 ### GSAP {#GSAP}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9098,6 +9106,18 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### Llama Guard 4 {#Llama-Guard-4}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Modèle de modération de Meta embarquant la taxonomie MLCommons figée à l'entraînement ; contre-modèle de Shieldstral, mesuré à 69,1 % de F1 texte dans les benchmarks Mistral
+
+- **utilise** → [[kb/_entites-mineures#une-taxonomie-MLCommons-figée-à-l'entraînement\|une taxonomie MLCommons figée à l'entraînement]] (AFFIRMATION) — 0.93
+
+- [[kb/Shieldstral\|Shieldstral]] **s_oppose_à** → Llama Guard 4 — 0.92
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+
 ### LoRA {#LoRA}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -9368,6 +9388,16 @@
 - [[kb/GLM-5.2\|GLM-5.2]] **surpasse** → MiniMax-M3 — 0.92
 
 **Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]], [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
+
+### Ministral 3 {#Ministral-3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale
+
+- [[kb/Shieldstral\|Shieldstral]] **est_basé_sur** → Ministral 3 — 0.94
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 
 ### Mistral Small 3.1 {#Mistral-Small-3.1}
 
@@ -10052,6 +10082,16 @@
 - [[kb/_entites-mineures#last-business-bias\|last business bias]] **observé_dans** → Qwen2.5-14b-2507 — 0.92
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+
+### Qwen3Guard {#Qwen3Guard}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Modèle de sûreté concurrent, version 8B mesurée à 84,0 % de F1 texte dans les benchmarks Mistral
+
+- [[kb/Shieldstral\|Shieldstral]] **surpasse** → Qwen3Guard — 0.85
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 
 ### RAG Agent {#RAG-Agent}
 
@@ -12055,7 +12095,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (869)
+## CONCEPT (871)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18561,6 +18601,16 @@
 
 **Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
+### paire contrastive {#paire-contrastive}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Donnée d'entraînement où un même contenu est réécrit pour violer une politique mais pas sa politique sœur ; force un classificateur à lire la consigne plutôt qu'à reconnaître un thème — 4,4 M de paires génèrent +23,3 points de F1 en adaptabilité chez Shieldstral
+
+- **améliore** → [[kb/_entites-mineures#l'adaptabilité-d'un-classificateur-à-une-politique-fournie-à-l'inférence,-de-23,3-points-de-F1\|l'adaptabilité d'un classificateur à une politique fournie à l'inférence, de 23,3 points de F1]] (MESURE) — 0.91
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+
 ### paradox of choice {#paradox-of-choice}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19603,6 +19653,16 @@
 - **s_applique_à** → [[kb/_entites-mineures#toute-la-couche-économique-de-l'IA-(production-consommation-monétisation)\|toute la couche économique de l'IA (production-consommation-monétisation)]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
+
+### topologie du garde-fou {#topologie-du-garde-fou}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Choix d'architecture désignant l'endroit où réside la sûreté d'un système d'IA : dans les poids du modèle (l'éditeur définit la politique et arbitre les exemptions) ou dans un composant séparé et auto-hébergeable (le déployeur définit la politique et en porte la responsabilité)
+
+- **s_applique_à** → [[kb/_entites-mineures#le-choix-d'architecture-entre-une-sûreté-logée-dans-les-poids-et-une-sûreté-déportée-dans-un-composant-séparé\|le choix d'architecture entre une sûreté logée dans les poids et une sûreté déportée dans un composant séparé]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 
 ### traces {#traces}
 

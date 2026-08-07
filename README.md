@@ -39,20 +39,20 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 375 fiches
-- **Par année** : 2026 (198) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 376 fiches
+- **Par année** : 2026 (199) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 133
   - Architecture & Construction : 45
   - Transformation & Adoption : 76
-  - Qualité & Sécurité : 34
+  - Qualité & Sécurité : 35
   - Économie & Marché : 71
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 40
+  - Outils & Plateformes : 41
   - Recherche & Éducation : 10
   - Produits & Services : 10
-  - Politique & Régulation : 18
+  - Politique & Régulation : 19
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
@@ -65,6 +65,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
+  - Didier Girard (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
   - Andrew Ng (3)
@@ -73,7 +74,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Jesse Vincent (3)
   - Cobus Greyling (3)
   - Safi Shamsi (2)
-  - Didier Girard (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)

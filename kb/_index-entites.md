@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3015 entités
+> 3022 entités
 
 ## #
 
@@ -290,7 +290,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 37 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 38 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -353,7 +353,7 @@
 - [[kb/_entites-mineures#Arnaud-Saint-Martin\|Arnaud Saint-Martin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ARR\|ARR]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artem-Zhutov\|Artem Zhutov]] (PERSONNE, 1 fiches)
-- [[kb/Arthur-Mensch\|Arthur Mensch]] (PERSONNE, 2 fiches)
+- [[kb/Arthur-Mensch\|Arthur Mensch]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artificial-Analysis\|Artificial Analysis]] (ORGANISATION, 1 fiches)
@@ -938,7 +938,7 @@
 - [[kb/Dia\|Dia]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diagnostic-Lattice\|Diagnostic Lattice]] (CONCEPT, 1 fiches)
 - [[kb/DICE\|DICE]] (METHODOLOGIE, 1 fiches)
-- [[kb/Didier-Girard\|Didier Girard]] (PERSONNE, 3 fiches)
+- [[kb/Didier-Girard\|Didier Girard]] (PERSONNE, 4 fiches)
 - [[kb/_entites-mineures#Diff-Generator\|Diff Generator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Diff-HTML-bruyant\|Diff HTML bruyant]] (CONCEPT, 1 fiches)
 - [[kb/Diffusion-Gemma\|Diffusion Gemma]] (TECHNOLOGIE, 1 fiches)
@@ -1322,6 +1322,7 @@
 - [[kb/GPT-5.5\|GPT-5.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] (TECHNOLOGIE, 1 fiches)
 - [[kb/graphify\|graphify]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Graphify-Labs\|Graphify Labs]] (ORGANISATION, 1 fiches)
 - [[kb/graphify.net\|graphify.net]] (TECHNOLOGIE, 1 fiches)
@@ -1675,6 +1676,7 @@
 - [[kb/_entites-mineures#Lixil\|Lixil]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Llama-Guard-4\|Llama Guard 4]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#llama.cpp\|llama.cpp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/LLM\|LLM]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#LLM-+-RAG\|LLM + RAG]] (TECHNOLOGIE, 1 fiches)
@@ -1838,11 +1840,12 @@
 - [[kb/MiniMax-M2\|MiniMax M2]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Minions\|Minions]] (TECHNOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#Ministral-3\|Ministral 3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIN_VIDEO_DURATION_MS\|MIN_VIDEO_DURATION_MS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] (ORGANISATION, 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 4 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 5 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] (ORGANISATION, 1 fiches)
@@ -2061,6 +2064,7 @@
 ## P
 
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE, 1 fiches)
 - [[kb/panne-de-service-Claude\|panne de service Claude]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT, 1 fiches)
@@ -2278,6 +2282,7 @@
 - [[kb/_entites-mineures#Quizzes\|Quizzes]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Qwen3Guard\|Qwen3Guard]] (TECHNOLOGIE, 1 fiches)
 ## R
 
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] (CONCEPT, 1 fiches)
@@ -2492,6 +2497,7 @@
 - [[kb/_entites-mineures#Shelfware\|Shelfware]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sherlocking\|Sherlocking]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sherzat-Aitbayev\|Sherzat Aitbayev]] (PERSONNE, 1 fiches)
+- [[kb/Shieldstral\|Shieldstral]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Shift-Left\|Shift-Left]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Shift-left-Security-Plugin\|Shift-left Security Plugin]] (TECHNOLOGIE, 1 fiches)
@@ -2820,6 +2826,7 @@
 - [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE, 3 fiches)
 - [[kb/TOON\|TOON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#topologie-du-garde-fou\|topologie du garde-fou]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] (CONCEPT, 1 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] (PERSONNE, 1 fiches)

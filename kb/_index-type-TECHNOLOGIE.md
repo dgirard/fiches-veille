@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 689 entités de type TECHNOLOGIE
+> 694 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -225,6 +225,7 @@
 - [[kb/GPT-5.5\|GPT-5.5]] — score_expert_pass1: 71,4% (+-8,0%) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] — categorie: Produit IA a acces restreint pour cybersecurite defensive (1 occ., 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] — catégorie: Famille de LLM OpenAI (GA 9 juillet 2026) : 3 tiers Sol/Terra/Luna ; ~1,05 M tokens contexte, 128 k sortie, coupure au 16 février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] — positionnement: Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] — catégorie: Bibliothèque animation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] — définition: Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge (1 occ., 1 fiches)
 - [[kb/Gemini-entite\|Gemini]] — catégorie: IA générative Google (6 occ., 6 fiches)
@@ -344,6 +345,7 @@
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] — type: Noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] — rôle: génération dataset entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-4-Maverick\|Llama 4 Maverick]] — score even-handedness: 66% (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Llama-Guard-4\|Llama Guard 4]] — définition: Modèle de modération de Meta embarquant la taxonomie MLCommons figée à l'entraînement ; contre-modèle de Shieldstral, mesuré à 69,1 % de F1 texte dans les benchmarks Mistral (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LoRA\|LoRA]] — catégorie: Adaptateur d'optimisation de modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lovable\|Lovable]] — catégorie: Plateforme vibe coding / génération d'apps (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Luna\|Luna]] — positionnement: Tier rapide/économique haut volume (résumé, classification, routing, temps réel) ; 1 $/6 $ par M tokens (1 occ., 1 fiches)
@@ -377,6 +379,7 @@
 - [[kb/MiniMax-M2\|MiniMax M2]] — catégorie: Modèle open-weight optimisé codage et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] — rôle: Modèle co-auteur du manifeste (2 occ., 2 fiches)
 - [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (3 occ., 2 fiches)
+- [[kb/_entites-mineures#Ministral-3\|Ministral 3]] — rôle: Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mobile-Android-workflow-CI\|Mobile Android workflow CI]] — description: Produit interne Raiffeisen — pipeline auto plan / implementation / test pour mobile, redesign complet du SDLC mobile (1 occ., 1 fiches)
@@ -460,6 +463,7 @@
 - [[kb/_entites-mineures#Qodo-Gen\|Qodo Gen]] — catégorie: Agent IDE de génération de code et de tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qodo-Merge\|Qodo Merge]] — catégorie: Agent Git de revue de code automatisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] — catégorie: Modèle open-source (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Qwen3Guard\|Qwen3Guard]] — positionnement: Modèle de sûreté concurrent, version 8B mesurée à 84,0 % de F1 texte dans les benchmarks Mistral (1 occ., 1 fiches)
 - [[kb/RAG\|RAG]] — statut: Technologie en déclin structurel (4 occ., 4 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] — catégorie: Agent recherche rapports certifiés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] — capacité: Traitement texte, images, tableaux, équations (1 occ., 1 fiches)
@@ -507,6 +511,7 @@
 - [[kb/_entites-mineures#Semantic-Kernel\|Semantic Kernel]] — catégorie: Framework d'agents Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sentry\|Sentry]] — catégorie: Outil de monitoring et reporting d'erreurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-Knowledge-Hub\|Service Knowledge Hub]] — description: Produit interne Raiffeisen — documentation auto-générée de 57 microservices via parsing Kubernetes, 83 releases/mois (1 occ., 1 fiches)
+- [[kb/Shieldstral\|Shieldstral]] — définition: Classificateur de sécurité multimodal de Mistral AI (4 août 2026), 3,8 Md de paramètres réels, poids ouverts Apache 2.0, base Ministral 3 + encodeur vision Pixtral, 12 langues, 16 Go de VRAM en BF16 ; la politique de modération est fournie en langage naturel à l'inférence, pas apprise dans les poids (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Shift-left-Security-Plugin\|Shift-left Security Plugin]] — description: Produit interne Raiffeisen — détection vulnérabilités dans IDE avant commit ; −82% secrets exposés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shotcut\|Shotcut]] — catégorie: Éditeur vidéo open-source recommandé comme fork pour le projet 3 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sidecar-Docker-GKG\|Sidecar Docker GKG]] — description: Conteneur léger wrappant le binaire GKG, monté en parallèle du reviewer IA dans le pipeline CI/CD, expose un serveur MCP local (1 occ., 1 fiches)

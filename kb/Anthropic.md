@@ -1,10 +1,11 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 118 relations | 37 fiches sources
+> **Type** : ORGANISATION | 120 relations | 38 fiches sources
 
 ## Attributs
 
 - **accusation** : « Régime de permission » vendant la cognition comme infrastructure
+- **positionnement** : Topologie inverse de celle de Mistral : garde-fou logé dans les poids, Claude Fable 5 public avec mesures de sécurité et Claude Mythos 5 sans, réservé aux cyberdéfenseurs approuvés du Project Glasswing
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
 - **rôle** : A racheté Bun (déc. 2025) ; éditeur de Claude Fable 5 et Claude Code utilisés pour la réécriture
@@ -178,6 +179,8 @@
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[kb/_entites-mineures#système-de-plugins-Claude-Code\|système de plugins Claude Code]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+- [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Routines-(server-side-loops)\|Routines (server-side loops)]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - [[kb/_entites-mineures#réinitialisation-des-limites-d'utilisation-de-tous-les-abonnés-(23-avril)\|réinitialisation des limites d'utilisation de tous les abonnés (23 avril)]] (EVENEMENT) — 0.95, STATIQUE
@@ -232,6 +235,8 @@
   - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 - « le routage de requêtes d'utilisateurs tiers via des identifiants Free, Pro ou Max » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- « l'idée que le déployeur définisse lui-même la politique de sûreté, en logeant le garde-fou dans les poids et en arbitrant qui y échappe » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - « usage de Claude pour la guerre autonome et la surveillance de masse » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] (CONCEPT) — 0.85, DYNAMIQUE
@@ -301,6 +306,7 @@
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]

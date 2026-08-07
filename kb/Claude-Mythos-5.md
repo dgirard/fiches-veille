@@ -1,6 +1,6 @@
 # Claude Mythos 5
 
-> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -33,6 +33,7 @@
 
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Mythos 5 — 0.99
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **est_variante_de** → Claude Mythos 5 — 0.95
+- [[kb/Anthropic\|Anthropic]] **publie** → Claude Mythos 5 — 0.95
 
 ## Fiches sources
 

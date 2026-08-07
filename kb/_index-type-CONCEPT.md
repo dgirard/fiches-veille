@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 898 entités de type CONCEPT
+> 900 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -734,6 +734,7 @@
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] — définition: Gestion opérationnelle des processus métier augmentée par l'IA (BPO nouvelle génération) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] — définition: Donnée d'entraînement où un même contenu est réécrit pour violer une politique mais pas sa politique sœur ; force un classificateur à lire la consigne plutôt qu'à reconnaître un thème — 4,4 M de paires génèrent +23,3 points de F1 en adaptabilité chez Shieldstral (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] — effet: Consumer welfare décroît quand options vendor augmentent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] — valeur: IA utilisée dans 60% du travail mais déléguée à 0-20% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#paradoxe-de-la-productivité\|paradoxe de la productivité]] — définition: Solow (1987) : adoption massive d'une techno sans gain visible dans les statistiques de productivité (1 occ., 1 fiches)
@@ -852,6 +853,7 @@
 - [[kb/_entites-mineures#token-economics\|token economics]] — KPIs: Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#token-spend-mal-dirigé\|token spend mal dirigé]] — enjeu: ESR relie la mauvaise utilisation des LLMs à des « milliards de dollars gaspillés » — la variance d'usage (clarté/précision) comme facteur de ROI, pas l'outil seul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tokenomics\|tokenomics]] — définition: Couche économique complète de l'IA : production → consommation → monétisation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#topologie-du-garde-fou\|topologie du garde-fou]] — définition: Choix d'architecture désignant l'endroit où réside la sûreté d'un système d'IA : dans les poids du modèle (l'éditeur définit la politique et arbitre les exemptions) ou dans un composant séparé et auto-hébergeable (le déployeur définit la politique et en porte la responsabilité) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] — définition: Enregistrement séquence étapes agents au runtime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] — définition: Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#transparence-des-sauvegardes\|transparence des sauvegardes]] — description: Rendre les sauvegardes vérifiables et dignes de confiance (1 occ., 1 fiches)
