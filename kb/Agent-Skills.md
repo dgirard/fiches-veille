@@ -1,11 +1,12 @@
 # Agent Skills
 
-> **Type** : TECHNOLOGIE | 13 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 3 fiches sources
 
 ## Attributs
 
 - **caractéristiques** : Composable, Portable, Efficient, Powerful
 - **catégorie** : Dossiers scripts et instructions expertise domaine
+- **rôle** : Contrat d'exécution déjà portable, empaqueté par Agent Plugins : une skill par sous-répertoire de skills/, avec SKILL.md, scripts/ et references/
 
 ## Relations (comme sujet)
 
@@ -53,10 +54,12 @@
 ## Relations (comme objet)
 
 - [[kb/Anthropic\|Anthropic]] **publie** → Agent Skills — 0.99
+- [[kb/Agent-Plugins\|Agent Plugins]] **utilise** → Agent Skills — 0.96
 - [[kb/_entites-mineures#skill-creator\|skill-creator]] **permet** → Agent Skills — 0.94
 - [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] **publie** → Agent Skills — 0.93
 
 ## Fiches sources
 
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+- [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]

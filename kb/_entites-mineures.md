@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2587 entités avec moins de 3 triples/fiches
+> 2594 entités avec moins de 3 triples/fiches
 
-## PERSONNE (360)
+## PERSONNE (363)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -91,6 +91,14 @@
 - **publie** → [[kb/_entites-mineures#AI-sets-up-Kodak-moment-for-global-consultants\|AI sets up Kodak moment for global consultants]] (DOCUMENT) — 0.99
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
+
+### Alan Blount {#Alan-Blount}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Technical Product Manager chez Google Cloud AI ; cosignataire de l'annonce
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### Alex Bores {#Alex-Bores}
 
@@ -1353,6 +1361,14 @@
 
 **Fiches** : [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
+### Haoyu Wang {#Haoyu-Wang}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Staff Software Engineer chez Google Cloud Data ; cosignataire de l'annonce, côté Data Agent Kit
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
+
 ### Harley Finkelstein {#Harley-Finkelstein}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1784,6 +1800,17 @@
 - **a_créé** → [[kb/Conductor\|Conductor]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
+
+### Kevin Hou {#Kevin-Hou}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Senior Staff Engineer chez Google DeepMind ; représente nominativement Google au comité de pilotage technique d'Agent Plugins et cosigne l'annonce
+
+- **travaille_chez** → [[kb/Google-DeepMind\|Google DeepMind]] (ORGANISATION) — 0.96
+- **dirige** → [[kb/_entites-mineures#la-représentation-de-Google-au-comité-de-pilotage-technique-d'Agent-Plugins\|la représentation de Google au comité de pilotage technique d'Agent Plugins]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### Kevin Kuipers {#Kevin-Kuipers}
 
@@ -6427,7 +6454,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (557)
+## TECHNOLOGIE (560)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6624,6 +6651,18 @@
 - **permet** → [[kb/_entites-mineures#génération-d'agents-MCP-via-specs-OpenAPI\|génération d'agents MCP via specs OpenAPI]] (TECHNOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### AI Catalog {#AI-Catalog}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Format d'entrée indexé par Agentic Resource Discovery ; un changement proposé y enregistre le type application/agent-plugins+json pour qu'une entrée pointe vers un plugin.json comme elle pointe déjà vers une agent card ou un mcp.json
+
+- **s_applique_à** → [[kb/_entites-mineures#la-description-indexable-des-ressources-agentiques,-dont-les-plugins-via-le-type-application-agent-plugins+json\|la description indexable des ressources agentiques, dont les plugins via le type application/agent-plugins+json]] (AFFIRMATION) — 0.90
+
+- [[kb/Agentic-Resource-Discovery\|Agentic Resource Discovery]] **utilise** → AI Catalog — 0.89
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### AI Daily Brief {#AI-Daily-Brief}
 
@@ -6901,6 +6940,17 @@
 - **categorie** : Identite email pour agents
 
 **Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
+
+### Agents CLI {#Agents-CLI}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Outil Google empaquetant les skills maison d'agent building, évaluation, déploiement, observabilité et publication ; distribué au format Agent Plugins et utilisable depuis Antigravity, Gemini CLI, Claude Code ou Cursor
+
+- **utilise** → [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.95
+- **s_applique_à** → [[kb/_entites-mineures#Antigravity,-Gemini-CLI,-Claude-Code-et-Cursor\|Antigravity, Gemini CLI, Claude Code et Cursor]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### Agents SDK {#Agents-SDK}
 
@@ -7699,6 +7749,17 @@
 - **s_applique_à** → [[kb/_entites-mineures#Data-Lake-10-000-tables-en-text-to-SQL\|Data Lake 10 000 tables en text-to-SQL]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### Data Agent Kit {#Data-Agent-Kit}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Collection de plugins Google au format Agent Plugins donnant à un agent de codage l'accès aux actifs Google Data Cloud : BigQuery, Spanner, Cloud SQL
+
+- **utilise** → [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.95
+- **s_applique_à** → [[kb/_entites-mineures#la-gestion-des-actifs-de-données-Google-Data-Cloud-(BigQuery,-Spanner,-Cloud-SQL)-depuis-un-agent-de-codage\|la gestion des actifs de données Google Data Cloud (BigQuery, Spanner, Cloud SQL) depuis un agent de codage]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### Data Mesh {#Data-Mesh}
 
@@ -12095,7 +12156,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (871)
+## CONCEPT (872)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17620,6 +17681,17 @@
 - **contexte** : Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
+
+### espace d'extension en domaine inversé {#espace-d'extension-en-domaine-inversé}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Répertoire nommé en domaine inversé (com.example.client/) réservé aux ajouts propriétaires d'un client et ignoré par les autres ; garde le cœur portable petit en donnant aux parties non portables un emplacement légitime
+
+- **permet** → [[kb/_entites-mineures#à-un-client-d'ajouter-ses-fonctionnalités-propriétaires-sans-casser-la-portabilité-du-cœur\|à un client d'ajouter ses fonctionnalités propriétaires sans casser la portabilité du cœur]] (AFFIRMATION) — 0.93
+- **s_oppose_à** → [[kb/_entites-mineures#la-portabilité-réelle-d'un-plugin,-si-la-valeur-d'usage-migre-vers-les-répertoires-propriétaires\|la portabilité réelle d'un plugin, si la valeur d'usage migre vers les répertoires propriétaires]] (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### exposition à l'IA {#exposition-à-l'IA}
 

@@ -1,6 +1,6 @@
 # Google DeepMind
 
-> **Type** : ORGANISATION | 12 relations | 4 fiches sources
+> **Type** : ORGANISATION | 13 relations | 4 fiches sources
 
 ## Attributs
 
@@ -44,6 +44,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Google-Labs\|Google Labs]] **collabore_avec** → Google DeepMind — 0.97
+- [[kb/_entites-mineures#Kevin-Hou\|Kevin Hou]] **travaille_chez** → Google DeepMind — 0.96
 - [[kb/_entites-mineures#équipe-dirigeante-Windsurf\|équipe dirigeante Windsurf]] **travaille_chez** → Google DeepMind — 0.95
 - [[kb/_entites-mineures#Simmer\|Simmer]] **fait_partie_de** → Google DeepMind — 0.90
 

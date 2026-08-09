@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 44 relations | 16 fiches sources
+> **Type** : ORGANISATION | 48 relations | 16 fiches sources
 
 ## Attributs
 
@@ -47,6 +47,10 @@
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 - « les prompts et code des utilisateurs Vertex AI GenAI API ne sont pas collectés » (AFFIRMATION) — 0.97, DYNAMIQUE
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
+- « le problème de portabilité ne vient pas des composants mais du manifeste qui les emballe » (CITATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
+- « l'empaquetage est une infrastructure ingrate, qui doit être partagée plutôt que réinventée cinq fois » (CITATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - « Google Sans Mono a échoué pour l'usage en programmation » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 
@@ -54,6 +58,11 @@
 
 - [[kb/_entites-mineures#AI-Overviews\|AI Overviews]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
+
+### collabore_avec
+
+- [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### concurrence
 
@@ -99,6 +108,8 @@
 
 ### recommande
 
+- « de ne pas faire de plugin pour un seul serveur MCP ni pour une seule skill : le format vaut pour des composants qui doivent voyager ensemble » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 

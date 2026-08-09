@@ -1,12 +1,12 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 17 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 7 fiches sources
 
 ## Attributs
 
 - **abréviation** : MCP — standard ouvert d'accès aux outils
 - **catégorie** : Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024)
-- **rôle** : Standardise l'accès des agents aux outils et données ; projet fondateur de l'Agentic AI Foundation
+- **rôle** : Contrat d'exécution déjà portable, déclaré dans mcp.json avec un type explicite par entrée, ce qui supprime l'inférence du transport (stdio, Streamable HTTP, HTTP+SSE historique)
 - **usage** : Interface langage naturel pour données de conformité
 
 ## Relations (comme sujet)
@@ -49,6 +49,7 @@
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] **référence** → Model Context Protocol — 0.98
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Model Context Protocol — 0.97
 - [[kb/QMD\|QMD]] **utilise** → Model Context Protocol — 0.97
+- [[kb/Agent-Plugins\|Agent Plugins]] **utilise** → Model Context Protocol — 0.96
 - [[kb/_entites-mineures#Phase-2-production\|Phase 2 production]] **est_basé_sur** → Model Context Protocol — 0.95
 - [[kb/_entites-mineures#Vanta\|Vanta]] **utilise** → Model Context Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Model Context Protocol — 0.93
@@ -59,6 +60,7 @@
 ## Fiches sources
 
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 476 entités de type PERSONNE
+> 479 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -15,6 +15,7 @@
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
 - [[kb/Aiman-Ezzat\|Aiman Ezzat]] — rôle: Directeur général de Capgemini (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] — affiliation: Reuters Breakingviews (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Alan-Blount\|Alan Blount]] — rôle: Technical Product Manager chez Google Cloud AI ; cosignataire de l'annonce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-Bores\|Alex Bores]] — rôle: Candidat NY congressional, propose safety regulation IA + paiements directs financés par taxe IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-McMurray\|Alex McMurray]] — rôle: Cofounder et VP of Sales chez Valence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-Pawlowski\|Alex Pawlowski]] — rôle: Auteur de The Strategy Stack (Substack), focus stratégie et IA opérationnelle (1 occ., 1 fiches)
@@ -179,6 +180,7 @@
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] — rôle: Directeur performance achats, Elee (1 occ., 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] — rôle: Senior Director of Marketing, Google Cloud EMEA (1 occ., 1 fiches)
 - [[kb/Guillermo-Rauch\|Guillermo Rauch]] — rôle: CEO Vercel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Haoyu-Wang\|Haoyu Wang]] — rôle: Staff Software Engineer chez Google Cloud Data ; cosignataire de l'annonce, côté Data Agent Kit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harley-Finkelstein\|Harley Finkelstein]] — rôle: Président de Shopify (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] — rôle: CEO LangChain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harry-Brundage\|Harry Brundage]] — rôle: Auteur principal, développeur Gadget (1 occ., 1 fiches)
@@ -242,6 +244,7 @@
 - [[kb/Kazuaki-Okumura\|Kazuaki Okumura]] — rôle: Auteur (Dropbox, rôle non précisé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Keith-Ballinger\|Keith Ballinger]] — rôle: Co-auteur Conductor (1 occ., 1 fiches)
 - [[kb/Kent-Beck\|Kent Beck]] — rôle: Co-initiateur du Hillside Group (7 occ., 6 fiches)
+- [[kb/_entites-mineures#Kevin-Hou\|Kevin Hou]] — rôle: Senior Staff Engineer chez Google DeepMind ; représente nominativement Google au comité de pilotage technique d'Agent Plugins et cosigne l'annonce (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kevin-Kuipers\|Kevin Kuipers]] — rôle: Intervieweur, investisseur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kief-Morris\|Kief Morris]] — rôle: Collègue Thoughtworks, a proposé le lien avec la cybernétique (1 occ., 1 fiches)
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] — rôle: Créateur de Thinkroom (Every / compound-engineering-plugin) (5 occ., 5 fiches)

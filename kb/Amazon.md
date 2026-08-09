@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 7 relations | 2 fiches sources
+> **Type** : ORGANISATION | 8 relations | 2 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,11 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/_entites-mineures#Buy-for-Me-(système-propriétaire)\|Buy for Me (système propriétaire)]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
+
+### publie
+
+- [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### s_oppose_à
 

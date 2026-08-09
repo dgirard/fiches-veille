@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 900 entités de type CONCEPT
+> 901 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -629,6 +629,7 @@
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escheatment\|escheatment]] — contexte: Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus (1 occ., 1 fiches)
+- [[kb/_entites-mineures#espace-d'extension-en-domaine-inversé\|espace d'extension en domaine inversé]] — définition: Répertoire nommé en domaine inversé (com.example.client/) réservé aux ajouts propriétaires d'un client et ignoré par les autres ; garde le cœur portable petit en donnant aux parties non portables un emplacement légitime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#exposition-à-l'IA\|exposition à l'IA]] — fourchette: 5 % à 60 % de l'emploi total selon les études ; France 3,8 % (aujourd'hui) à 16,3 % (2-5 ans) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] — domaine: Noétique, philosophie de la technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#extraction-hybride-par-type-de-fichier\|extraction hybride par type de fichier]] — définition: Principe consistant à extraire de façon déterministe là où la source porte une structure formelle (code, en AST) et à ne convoquer un modèle que là où elle n'en porte pas (prose, images) (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 694 entités de type TECHNOLOGIE
+> 699 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -25,6 +25,7 @@
 - [[kb/AGI-technologie\|AGI]] — définition: IA surpassant humains dans toutes tâches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Agent-Mesh\|AI Agent Mesh]] — catégorie: Data plane Uber pour la communication inter-agents — couche réseau cohérente pour l'orchestration agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Agent-Portal\|AI Agent Portal]] — description: Produit interne Raiffeisen — portail génération automatique d'agents MCP via specs OpenAPI ; 2 085 users / 649 MAU atteints en 87 jours (1 occ., 1 fiches)
+- [[kb/_entites-mineures#AI-Catalog\|AI Catalog]] — définition: Format d'entrée indexé par Agentic Resource Discovery ; un changement proposé y enregistre le type application/agent-plugins+json pour qu'une entrée pointe vers un plugin.json comme elle pointe déjà vers une agent card ou un mcp.json (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Daily-Brief\|AI Daily Brief]] — catégorie: Podcast IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Expert-Suite\|AI Expert Suite]] — catégorie: Suite d'outils IA internes Salesforce (1 occ., 1 fiches)
 - [[kb/AI-Gateway\|AI Gateway]] — catégorie: Médiateur Uber des appels LLM externes avec guardrails de sécurité — inclut AI Guard pour la redaction de données sensibles (3 occ., 3 fiches)
@@ -52,8 +53,9 @@
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] — acronyme: ADK (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit-(ADK)\|Agent Development Kit (ADK)]] — catégorie: Kit de développement d'agents (1 occ., 1 fiches)
 - [[kb/Agent-Memory\|Agent Memory]] — catégorie: Gestion bidirectionnelle de données pour agents (1 occ., 1 fiches)
+- [[kb/Agent-Plugins\|Agent Plugins]] — définition: Spécification ouverte et vendor-neutral (v1.0.0) empaquetant Agent Skills et serveurs MCP dans un répertoire portable : plugin.json réduit à $schema et name, skills/ au format Agent Skills, mcp.json avec type explicite par entrée, et un espace d'extension en domaine inversé par client (3 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Registry\|Agent Registry]] — catégorie: Source of truth Uber pour les mappings agent↔workload — utilisé par STS pour vérifier l'autorisation des agents (1 occ., 1 fiches)
-- [[kb/Agent-Skills\|Agent Skills]] — catégorie: Dossiers scripts et instructions expertise domaine (3 occ., 2 fiches)
+- [[kb/Agent-Skills\|Agent Skills]] — catégorie: Dossiers scripts et instructions expertise domaine (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Agent-Studio\|Agent Studio]] — catégorie: Plateforme no-code construction agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent\|Agent2Agent]] — statut: Protocole potentiellement exploitable pour dialogue inter-agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent2Agent-(A2A)\|Agent2Agent (A2A)]] — catégorie: Protocole inter-agents (1 occ., 1 fiches)
@@ -62,7 +64,9 @@
 - [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] — fonction: Achats IA via interactions système-à-système (7 occ., 5 fiches)
 - [[kb/_entites-mineures#Agentic-Commerce-Suite\|Agentic Commerce Suite]] — créateurs: Stripe + commercetools (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentic-RAG\|Agentic RAG]] — catégorie: RAG avec récupération dynamique par agents (1 occ., 1 fiches)
+- [[kb/Agentic-Resource-Discovery\|Agentic Resource Discovery]] — définition: Protocole ouvert de découverte permettant à un client de demander quelles ressources existent pour une tâche donnée, et traitant le plugin comme ressource de première classe aux côtés des agents, serveurs MCP et skills ; se situe entièrement avant l'invocation. Alias « ARD », à ne jamais employer seul comme entité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agentmail\|Agentmail]] — categorie: Identite email pour agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Agents-CLI\|Agents CLI]] — définition: Outil Google empaquetant les skills maison d'agent building, évaluation, déploiement, observabilité et publication ; distribué au format Agent Plugins et utilisable depuis Antigravity, Gemini CLI, Claude Code ou Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agents-SDK\|Agents SDK]] — rôle: Orchestration LLM pour génération de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahrefs-MCP\|Ahrefs MCP]] — catégorie: Serveur MCP fournissant les données SEO live (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Akzidenz-Grotesk-Next-Pro\|Akzidenz-Grotesk Next Pro]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)
@@ -170,6 +174,7 @@
 - [[kb/_entites-mineures#DGX-Spark\|DGX Spark]] — catégorie: Workstation IA personnelle ARM64 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DPROD\|DPROD]] — catégorie: Spécification ouverte pour data products sémantiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DRAIF-MCP\|DRAIF MCP]] — description: Produit interne Raiffeisen — text-to-SQL sur Data Lake 10 000 tables ; embedding fine-tuné ×2 modèles OpenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Data-Agent-Kit\|Data Agent Kit]] — définition: Collection de plugins Google au format Agent Plugins donnant à un agent de codage l'accès aux actifs Google Data Cloud : BigQuery, Spanner, Cloud SQL (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Data-Mesh\|Data Mesh]] — rôle: Plateforme de mouvement de données dans l'écosystème Netflix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daytona\|Daytona]] — categorie: Infrastructure sandbox agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] — fonctionnement: Recherche web extensive de 10-15 minutes (1 occ., 1 fiches)
@@ -384,7 +389,7 @@
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mobile-Android-workflow-CI\|Mobile Android workflow CI]] — description: Produit interne Raiffeisen — pipeline auto plan / implementation / test pour mobile, redesign complet du SDLC mobile (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modal\|Modal]] — categorie: Infrastructure sandbox agents (1 occ., 1 fiches)
-- [[kb/Model-Context-Protocol\|Model Context Protocol]] — catégorie: Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024) (6 occ., 6 fiches)
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] — catégorie: Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024) (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] — catégorie: Protocole d'intégration données/contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modèles-open-chinois\|Modèles open chinois]] — exemples: DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] — définition: Offre Cloudflare permettant à un client de vendre contenu et API à des acheteurs agentiques sans infrastructure de paiement traditionnelle ; versant vendeur du dispositif dont Wallets est le versant acheteur (1 occ., 1 fiches)

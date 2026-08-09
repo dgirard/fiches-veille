@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 16 relations | 6 fiches sources
+> **Type** : ORGANISATION | 17 relations | 6 fiches sources
 
 ## Attributs
 
@@ -52,6 +52,8 @@
 
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
+- [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### réduit
 

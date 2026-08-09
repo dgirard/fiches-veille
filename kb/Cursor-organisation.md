@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : ORGANISATION | 16 relations | 1 fiches sources
+> **Type** : ORGANISATION | 17 relations | 1 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,8 @@
 
 - [[kb/_entites-mineures#nouvelle-politique-tarifaire\|nouvelle politique tarifaire]] (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+- [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### utilise
 

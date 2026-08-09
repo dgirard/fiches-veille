@@ -1,6 +1,6 @@
 # Vercel
 
-> **Type** : ORGANISATION | 5 relations | 3 fiches sources
+> **Type** : ORGANISATION | 6 relations | 3 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,11 @@
 
 - [[kb/_entites-mineures#infrastructure-pour-agents-autonomes\|infrastructure pour agents autonomes]] (CONCEPT) — 0.83, DYNAMIQUE
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
+
+### publie
+
+- [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ## Relations (comme objet)
 
