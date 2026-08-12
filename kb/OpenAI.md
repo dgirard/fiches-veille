@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 51 relations | 21 fiches sources
+> **Type** : ORGANISATION | 52 relations | 21 fiches sources
 
 ## Attributs
 
@@ -104,6 +104,8 @@
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
+- « la fusion de Codex et ChatGPT en une application desktop unifiée le 9 juillet 2026, l'ancienne app devenant ChatGPT Classic » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
 ### soutient
 

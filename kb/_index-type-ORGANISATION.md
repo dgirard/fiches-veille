@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 372 entités de type ORGANISATION
+> 373 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -95,6 +95,7 @@
 - [[kb/_entites-mineures#DX\|DX]] — secteur: Plateforme Developer Experience / Métriques (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Databricks\|Databricks]] — secteur: Data lakehouse / plateforme IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] — particularité: Producteur d'une grande partie de ses produits → RFID end-to-end (1 occ., 1 fiches)
+- [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] — rôle: Auteur du rapport ; applique un format What / So What / Now What et consacre une section entière à l'audit de ce que l'enquête n'a pas pu confirmer, motif par motif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] — rôle: partenaire mentorat (1 occ., 1 fiches)
 - [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (1 occ., 1 fiches)

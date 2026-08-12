@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 902 entités de type CONCEPT
+> 904 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -523,6 +523,7 @@
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#charge-cognitive-de-validation\|charge cognitive de validation]] — description: Charge mentale liée à la vérification du code généré par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] — axe: Axe Y de la carte (visible → invisible pour l'utilisateur) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#chiffre-orphelin\|chiffre orphelin]] — définition: Donnée chiffrée largement reprise dont la source ne résiste pas à la vérification : soit attribuée à une institution au nom plausible dont la page renvoie une erreur, soit issue d'un benchmark réel mais portant sur une autre comparaison que celle qu'on lui prête (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] — définition: Indicateurs produits faute de cycle formalisé (nombre de licences, volume de tokens) qui ne disent rien de la qualité ni du risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cinq-substitutions\|cinq substitutions]] — liste: Generator-verifier gap, search vs insight, décomposition vs horizon, banking vs présence, mesure vs métacognition (1 occ., 1 fiches)
 - [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] — définition: Famille de modèles Anthropic les plus capables (1 occ., 1 fiches)
@@ -644,6 +645,7 @@
 - [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] — liste: Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] — liste: Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#frontière-de-confiance\|frontière de confiance]] — définition: Périmètre des permissions qu'un client obtient sur la machine de l'utilisateur ; un client desktop doté d'accès aux fichiers, à l'écran et à l'exécution de code élargit ce périmètre là où un navigateur reste gouvernable par SSO, DLP et CASB (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-exécutable\|garde-fou exécutable]] — définition: Contrôle qui s'applique automatiquement (hook, test d'architecture, lint de patterns, quality gate) par opposition à une consigne de contexte, qu'un modèle peut ignorer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gate\|gate]] — définition: Contrôle placé entre deux étapes du cycle — d'où l'impossibilité d'en poser un dans une organisation sans étapes nommées (1 occ., 1 fiches)

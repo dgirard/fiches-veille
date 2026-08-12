@@ -39,26 +39,26 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 378 fiches
-- **Par année** : 2026 (201) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 379 fiches
+- **Par année** : 2026 (202) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 134
   - Architecture & Construction : 46
-  - Transformation & Adoption : 77
-  - Qualité & Sécurité : 35
+  - Transformation & Adoption : 78
+  - Qualité & Sécurité : 36
   - Économie & Marché : 72
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 42
+  - Outils & Plateformes : 43
   - Recherche & Éducation : 10
   - Produits & Services : 11
   - Politique & Régulation : 19
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
+  - Deep Research Veille Interne (8)
   - Anthropic (8)
   - Chris Williams (7)
-  - Deep Research Veille Interne (7)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
   - Boris Cherny (5)
@@ -77,9 +77,9 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)
+  - Deep Research (8)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
-  - Deep Research (7)
   - Google (7)
   - OpenAI (6)
   - Ethan Mollick (4)

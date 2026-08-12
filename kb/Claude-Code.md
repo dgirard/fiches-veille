@@ -236,7 +236,7 @@
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Claude Code — 0.95
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
-- [[kb/_entites-mineures#Co-work\|Co-work]] **est_basé_sur** → Claude Code — 0.94
+- [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
 - [[kb/_entites-mineures#effondrement-couche-environnement\|effondrement couche environnement]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3039 entités
+> 3047 entités
 
 ## #
 
@@ -595,9 +595,11 @@
 - [[kb/ChatGPT-Agent\|ChatGPT Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] (TECHNOLOGIE, 1 fiches)
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#ChatGPT-Desktop\|ChatGPT Desktop]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#chiffre-orphelin\|chiffre orphelin]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] (PERSONNE, 1 fiches)
 - [[kb/Chris-Williams\|Chris Williams]] (PERSONNE, 1 fiches)
@@ -629,6 +631,7 @@
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Claude-Desktop\|Claude Desktop]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Fable\|Claude Fable]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE, 5 fiches)
@@ -670,7 +673,6 @@
 - [[kb/_entites-mineures#CMO\|CMO]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CNBC\|CNBC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT, 1 fiches)
-- [[kb/_entites-mineures#Co-work\|Co-work]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Cobus-Greyling\|Cobus Greyling]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#Cocktail-Molotov-+-tirs-Altman-avril-2026\|Cocktail Molotov + tirs Altman avril 2026]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#codage-agentique\|codage agentique]] (CONCEPT, 1 fiches)
@@ -731,6 +733,7 @@
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#compréhension-du-code-existant\|compréhension du code existant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Computer-Use\|Computer Use]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#compétence-opérationnelle\|compétence opérationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#condition-d'arrêt-(stop-condition)\|condition d'arrêt (stop condition)]] (CONCEPT, 1 fiches)
@@ -818,6 +821,7 @@
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#covered-entity\|covered entity]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#covered-technology\|covered technology]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Cowork\|Cowork]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Coût-de-friction\|Coût de friction]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Coût-de-production-du-token\|Coût de production du token]] (CONCEPT, 1 fiches)
@@ -899,6 +903,7 @@
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#deepagents\|deepagents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] (ORGANISATION, 1 fiches)
@@ -926,6 +931,7 @@
 - [[kb/_entites-mineures#Design-to-Exit\|Design to Exit]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Design+Code\|Design+Code]] (ORGANISATION, 1 fiches)
 - [[kb/design-md\|design.md]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Desktop-Extensions\|Desktop Extensions]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Dette-cognitive\|Dette cognitive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Dette-de-compréhension\|Dette de compréhension]] (CONCEPT, 1 fiches)
 - [[kb/dette-technique\|dette technique]] (CONCEPT, 4 fiches)
@@ -1186,6 +1192,7 @@
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Friedrich-Hayek\|Friedrich Hayek]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#frontend-aesthetics-skill\|frontend aesthetics skill]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#frontière-de-confiance\|frontière de confiance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FSRS\|FSRS]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FTC\|FTC]] (ORGANISATION, 1 fiches)
@@ -1955,6 +1962,7 @@
 - [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Navan-Chauhan\|Navan Chauhan]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#naïveté-délibérée\|naïveté délibérée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ned-Letcher\|Ned Letcher]] (PERSONNE, 1 fiches)

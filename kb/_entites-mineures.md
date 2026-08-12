@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2601 entités avec moins de 3 triples/fiches
+> 2607 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (363)
 
@@ -6464,7 +6464,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (565)
+## TECHNOLOGIE (569)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7327,6 +7327,17 @@
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
+### ChatGPT Desktop {#ChatGPT-Desktop}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic
+
+- **permet** → [[kb/_entites-mineures#un-raccourci-global,-une-companion-window-au-premier-plan-et-des-captures-d'écran-natives\|un raccourci global, une companion window au premier plan et des captures d'écran natives]] (AFFIRMATION) — 0.94
+- **s_oppose_à** → [[kb/_entites-mineures#la-gouvernance-d'entreprise,-en-réunissant-exécution-de-code,-navigateur-et-connecteurs-dans-une-frontière-de-confiance-élargie\|la gouvernance d'entreprise, en réunissant exécution de code, navigateur et connecteurs dans une frontière de confiance élargie]] (AFFIRMATION) — 0.87
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+
 ### ChatGPT Enterprise {#ChatGPT-Enterprise}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -7565,16 +7576,6 @@
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
-### Co-work {#Co-work}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **description** : Claude Code en version GUI, construit en 10 jours
-
-- **est_basé_sur** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.94
-
-**Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
-
 ### Code Execution Tool {#Code-Execution-Tool}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7624,6 +7625,18 @@
 - **catégorie** : Harness-as-a-Service OpenAI
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Computer Use {#Computer-Use}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Capacité de pilotage de la machine par le modèle, en public beta depuis le 22 octobre 2024 ; exige les permissions système d'Accessibilité et d'enregistrement d'écran, ce qui en fait un point de décision de gouvernance
+
+- **utilise** → [[kb/_entites-mineures#les-permissions-système-d'Accessibilité-et-d'enregistrement-d'écran\|les permissions système d'Accessibilité et d'enregistrement d'écran]] (AFFIRMATION) — 0.93
+
+- [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Computer Use — 0.92
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
 ### Content Signals {#Content-Signals}
 
@@ -7715,6 +7728,19 @@
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Cornell AI Gateway — 0.93
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
+
+### Cowork {#Cowork}
+
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+
+- **description** : Claude Code en version GUI, construit en 10 jours
+- **définition** : Capacité agentique d'Anthropic lancée en research preview le 12 janvier 2026 (macOS, plan Max), étendue au web, iOS et Android le 7 juillet 2026 ; à désactiver par défaut en contexte d'entreprise
+
+- **est_basé_sur** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.94
+
+- [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Cowork — 0.92
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]], [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 
 ### Cursor YOLO mode {#Cursor-YOLO-mode}
 
@@ -7837,6 +7863,19 @@
 - **éditeur** : Google
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
+
+### Desktop Extensions {#Desktop-Extensions}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Format d'empaquetage d'Anthropic pour installer un serveur MCP local depuis le client de bureau sans configuration manuelle ; extension `.dxt` renommée `.mcpb` le 11 septembre 2025
+
+- **utilise** → [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.93
+- **permet** → [[kb/_entites-mineures#d'installer-un-serveur-MCP-local-en-cliquant-un-bouton\|d'installer un serveur MCP local en cliquant un bouton]] (CITATION) — 0.92
+
+- [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Desktop Extensions — 0.93
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
 ### DevPortal Raiffeisen {#DevPortal-Raiffeisen}
 
@@ -11865,6 +11904,16 @@
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
 
+### navigateur IA {#navigateur-IA}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **positionnement** : Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation
+
+- **concurrence** → [[kb/_entites-mineures#l'opposition-entre-application-desktop-et-version-web,-comme-troisième-voie\|l'opposition entre application desktop et version web, comme troisième voie]] (AFFIRMATION) — 0.82
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+
 ### navigateur web {#navigateur-web}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12225,7 +12274,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (873)
+## CONCEPT (875)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16764,6 +16813,16 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
+### chiffre orphelin {#chiffre-orphelin}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Donnée chiffrée largement reprise dont la source ne résiste pas à la vérification : soit attribuée à une institution au nom plausible dont la page renvoie une erreur, soit issue d'un benchmark réel mais portant sur une autre comparaison que celle qu'on lui prête
+
+- **observé_dans** → [[kb/_entites-mineures#sept-affirmations-chiffrées-sur-les-applications-desktop,-toutes-non-confirmées-pages-en-404,-sources-introuvables,-benchmark-mal-attribué,-posts-non-authentifiés\|sept affirmations chiffrées sur les applications desktop, toutes non confirmées : pages en 404, sources introuvables, benchmark mal attribué, posts non authentifiés]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+
 ### chiffres d'usage {#chiffres-d'usage}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -17885,6 +17944,16 @@
 - **s_oppose_à** → [[kb/_entites-mineures#transformation-agentique-des-entreprises\|transformation agentique des entreprises]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
+### frontière de confiance {#frontière-de-confiance}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Périmètre des permissions qu'un client obtient sur la machine de l'utilisateur ; un client desktop doté d'accès aux fichiers, à l'écran et à l'exécution de code élargit ce périmètre là où un navigateur reste gouvernable par SSO, DLP et CASB
+
+- **s_applique_à** → [[kb/_entites-mineures#l'arbitrage-entre-un-client-desktop-qui-obtient-des-permissions-système-et-un-navigateur-gouvernable-par-SSO,-DLP-et-CASB\|l'arbitrage entre un client desktop qui obtient des permissions système et un navigateur gouvernable par SSO, DLP et CASB]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
 ### garde-fou (guardrail) {#garde-fou-(guardrail)}
 

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 704 entités de type TECHNOLOGIE
+> 709 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -116,6 +116,7 @@
 - [[kb/ChatGPT-Agent\|ChatGPT Agent]] — catégorie: Agent autonome CLI/interface (2 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] — catégorie: SDK pour applications ChatGPT intégrées (1 occ., 1 fiches)
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] — catégorie: Navigateur web conversationnel IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ChatGPT-Desktop\|ChatGPT Desktop]] — définition: Client de bureau d'OpenAI (macOS annoncé le 13 mai 2024, disponible le 25 juin) : raccourci global Option/Alt + Espace, companion window au premier plan, captures d'écran natives ; fusionné avec Codex le 9 juillet 2026 en une app à onglets Chat / Work / Codex, l'ancienne version devenant ChatGPT Classic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Enterprise\|ChatGPT Enterprise]] — catégorie: Plateforme GenAI entreprise (OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] — catégorie: Checkout agentique sans visite site marchand (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Chunk\|Chunk]] — catégorie: Agent CircleCI qui valide ses propres correctifs avant tout regard humain — taux de conversion des tâches d'agent en PR abouties doublé (1 occ., 1 fiches)
@@ -127,6 +128,7 @@
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (54 occ., 48 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
+- [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Fable\|Claude Fable]] — incident: Dégradation silencieuse des requêtes de dev IA concurrent, puis walk-back (1 occ., 1 fiches)
 - [[kb/Claude-Fable-5\|Claude Fable 5]] — catégorie: Modèle de fondation classe Mythos, usage général (6 occ., 5 fiches)
@@ -148,7 +150,6 @@
 - [[kb/_entites-mineures#Cloudflare-Sandboxes\|Cloudflare Sandboxes]] — catégorie: Environnements isolés container-based (1 occ., 1 fiches)
 - [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] — définition: Portefeuille programmable annoncé le 4 août 2026 : un Account Wallet détenu par un humain délègue des fonds plafonnés à des Virtual Wallets opérés par des agents via clé d'API, pour payer API, outils et contenu en stablecoins par le protocole x402 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloudflare-Workers-Workers-AI\|Cloudflare Workers / Workers AI]] — usage: Backend : TTS, STT (push-to-talk), petit LLM, inférence (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Co-work\|Co-work]] — description: Claude Code en version GUI, construit en 10 jours (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Execution-Tool\|Code Execution Tool]] — statut: Beta, requis pour Skills via API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-Interpreter\|Code Interpreter]] — catégorie: Environnement d'exécution Python intégré à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Code-OSS\|Code OSS]] — rôle: Base open-source de Visual Studio Code, fondation technique de Kiro (1 occ., 1 fiches)
@@ -157,6 +158,7 @@
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Computer-Use\|Computer Use]] — rôle: Capacité de pilotage de la machine par le modèle, en public beta depuis le 22 octobre 2024 ; exige les permissions système d'Accessibilité et d'enregistrement d'écran, ce qui en fait un point de décision de gouvernance (1 occ., 1 fiches)
 - [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Content-Signals\|Content Signals]] — catégorie: Framework de préférences de contenu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Context-Analyzer\|Context Analyzer]] — catégorie: Composant Scout - agrégation contexte (1 occ., 1 fiches)
@@ -168,6 +170,7 @@
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cowork\|Cowork]] — description: Claude Code en version GUI, construit en 10 jours (2 occ., 2 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
 - [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (13 occ., 13 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
@@ -185,6 +188,7 @@
 - [[kb/Deepnote\|Deepnote]] — catégorie: Notebook data science AI-first (4 occ., 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] — catégorie: Plateforme cloud collaborative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] — éditeur: Google (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Desktop-Extensions\|Desktop Extensions]] — définition: Format d'empaquetage d'Anthropic pour installer un serveur MCP local depuis le client de bureau sans configuration manuelle ; extension `.dxt` renommée `.mcpb` le 11 septembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DevPortal-Raiffeisen\|DevPortal Raiffeisen]] — description: Backstage intégré + agents IA diagnostics Kubernetes ; −68% temps résolution incidents critiques (1 occ., 1 fiches)
 - [[kb/Devin\|Devin]] — catégorie: Agent de codage autonome (3 occ., 3 fiches)
 - [[kb/Dia\|Dia]] — catégorie: Navigateur AI Native (1 occ., 1 fiches)
@@ -666,6 +670,7 @@
 - [[kb/_entites-mineures#multimodal_post_embedder_v5\|multimodal_post_embedder_v5]] — définition: Embedder Grox qui encode text + images + (optional) ASR transcript du video en vecteur 1024-dim normalisé — utilisé pour two-tower retrieval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#n8n\|n8n]] — catégorie: Plateforme d'automatisation workflow-based (1 occ., 1 fiches)
 - [[kb/n8n-workflows\|n8n-workflows]] — nombre de workflows: 4 343 (4 occ., 1 fiches)
+- [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] — positionnement: Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] — catégorie: Pipeline Python en 3 étapes, exposé comme skill `/treasury` dans Claude Code (1 occ., 1 fiches)
