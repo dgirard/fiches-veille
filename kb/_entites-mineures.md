@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2608 entités avec moins de 3 triples/fiches
+> 2620 entités avec moins de 3 triples/fiches
 
-## PERSONNE (363)
+## PERSONNE (365)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -427,6 +427,16 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] **emploie** → Ashu Garg — 0.90
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
+
+### Atish Patel {#Atish-Patel}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Ingénieur chez Block, « Building AI solutions » ; auteur du billet de benchmarks sur les équipes d'agents dans Buzz
+
+- **travaille_chez** → [[kb/Block\|Block]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Audry Herblin-Stoupe {#Audry-Herblin-Stoupe}
 
@@ -1869,6 +1879,17 @@
 - **affirme_que** → [[kb/_entites-mineures#les-juniors-formés-à-l'IA-deviennent-des-vecteurs-de-changement\|les juniors formés à l'IA deviennent des vecteurs de changement]] (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|What We Learned Deploying AI within Bloomberg’s Engineering Organization]]
+
+### Leigh Maddock {#Leigh-Maddock}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Ingénieur chez Block ; cité pour avoir migré plus de 2 000 apps et projets avec un Swarm Buzz composé d'un coordinateur, de 1 à 10 migrateurs parallèles et d'un vérificateur indépendant
+
+- **travaille_chez** → [[kb/Block\|Block]] (ORGANISATION) — 0.95
+- **affirme_que** → [[kb/_entites-mineures#plus-de-2-000-apps-et-projets-ont-été-migrés-chez-Block-avec-un-Swarm-composé-d'un-coordinateur,-de-1-à-10-migrateurs-parallèles-et-d'un-vérificateur-indépendant\|plus de 2 000 apps et projets ont été migrés chez Block avec un Swarm composé d'un coordinateur, de 1 à 10 migrateurs parallèles et d'un vérificateur indépendant]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Lennart Meincke {#Lennart-Meincke}
 
@@ -6464,7 +6485,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (569)
+## TECHNOLOGIE (572)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7484,6 +7505,18 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
+### Claude Opus 5 {#Claude-Opus-5}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **résultat de benchmark** : Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30)
+
+- **s_oppose_à** → [[kb/_entites-mineures#le-mur-d'horloge-du-harness-en-effort-xhigh-le-sur-raisonnement-a-provoqué-un-timeout-sur-17-des-88-tâches\|le mur d'horloge du harness en effort xhigh : le sur-raisonnement a provoqué un timeout sur 17 des 88 tâches]] (AFFIRMATION) — 0.93
+
+- [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude Opus 5 — 0.90
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
 ### Claude Sonnet {#Claude-Sonnet}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8220,6 +8253,14 @@
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
+### GPT-5.6 Luna {#GPT-5.6-Luna}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **résultat de benchmark** : Sur Terminal-Bench 2.1 solo : 1,61 dollar et 57,3 % en effort medium, 4,98 dollars et 75,0 % en effort high — illustration que sur un modèle bon marché les tokens de raisonnement sont le meilleur achat disponible (prix au 2026-07-30)
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
 ### GPT-OSS-Safeguard {#GPT-OSS-Safeguard}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8750,6 +8791,16 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → Haiku 4.5 — 0.97
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
+
+### Harbor {#Harbor}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Environnement d'exécution des benchmarks de Block, pilotant de vrais agents Buzz sur un relais live plutôt qu'un banc d'essai simplifié
+
+- **permet** → [[kb/_entites-mineures#d'exécuter-ces-benchmarks-contre-de-vrais-agents-Buzz-sur-un-relais-live-plutôt-que-sur-un-banc-d'essai-simplifié\|d'exécuter ces benchmarks contre de vrais agents Buzz sur un relais live plutôt que sur un banc d'essai simplifié]] (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Harvey {#Harvey}
 
@@ -12282,7 +12333,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (876)
+## CONCEPT (879)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15384,6 +15435,14 @@
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
+### QuickBee {#QuickBee}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Tier d'agent rapide et bon marché, réservé au travail documenté : builds, captures d'écran, exécution de la suite de tests, tri de première passe. Modèles cités : GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux. Effort recommandé : max, xhigh ou high
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
 ### Quiet career change {#Quiet-career-change}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -15730,6 +15789,14 @@
 - **définition** : Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### SmartBee {#SmartBee}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Software 3.0 {#Software-3.0}
 
@@ -16246,6 +16313,14 @@
 - **catégorie** : Écart croissant équipes performantes vs en difficulté
 
 **Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)]]
+
+### WorkerBee {#WorkerBee}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Tier polyvalent, doté d'assez de jugement pour porter un sous-ensemble complet de bout en bout sans surveillance, à une fraction du coût frontier. Modèles cités : GPT-5.6 Terra, Gemini 3.6 Flash, modèles ouverts. Effort recommandé : high ou xhigh
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### Workflows {#Workflows}
 
@@ -20351,7 +20426,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (359)
+## METHODOLOGIE (362)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -21404,6 +21479,18 @@
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 
+### Hive {#Hive}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Équipe permanente de quelques agents nommés, chacun avec un rôle et une mémoire de persona qui accumule les préférences de l'utilisateur ; la valeur est cumulative, briefer l'agent devenant plus rapide que briefer une personne. Terme forgé par Block pour ce billet
+
+- **permet** → [[kb/_entites-mineures#de-maintenir-une-équipe-permanente-d'agents-nommés-dont-la-mémoire-accumule-les-préférences-de-l'utilisateur\|de maintenir une équipe permanente d'agents nommés dont la mémoire accumule les préférences de l'utilisateur]] (AFFIRMATION) — 0.94
+
+- [[kb/_entites-mineures#Swarm\|Swarm]] **est_variante_de** → Hive — 0.85
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
 ### Human Sandwich {#Human-Sandwich}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -22115,6 +22202,17 @@
 - **recommande** → [[kb/_entites-mineures#préservation-du-code-existant\|préservation du code existant]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
+
+### Swarm {#Swarm}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Équipe jetable montée pour un projet borné (migration, montée de framework, gros refactor), qui accumule une mémoire partagée des cas particuliers du projet et est supprimée à la fin ; motif efficace : un SmartBee coordinateur, un pool de workers bon marché, un vérificateur indépendant, et une escalade qui remonte au coordinateur plutôt qu'à l'humain. Terme forgé par Block pour ce billet
+
+- **permet** → [[kb/_entites-mineures#de-monter-une-équipe-jetable-pour-un-projet-borné,-dont-la-mémoire-partagée-retient-les-cas-particuliers-du-projet-et-disparaît-avec-lui\|de monter une équipe jetable pour un projet borné, dont la mémoire partagée retient les cas particuliers du projet et disparaît avec lui]] (AFFIRMATION) — 0.94
+- **est_variante_de** → [[kb/_entites-mineures#Hive\|Hive]] (METHODOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### TDD {#TDD}
 
@@ -22837,6 +22935,17 @@
 - **utilise** → [[kb/_entites-mineures#traces-réelles-internes-à-l'organisation\|traces réelles internes à l'organisation]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+
+### escalade agent-vers-agent {#escalade-agent-vers-agent}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur
+
+- **résout** → [[kb/_entites-mineures#le-mode-de-défaillance-de-l'outillage-agentique,-où-chaque-ambiguïté-devient-une-notification-pour-l'humain\|le mode de défaillance de l'outillage agentique, où chaque ambiguïté devient une notification pour l'humain]] (AFFIRMATION) — 0.95
+- **réduit** → [[kb/_entites-mineures#le-coût-de-supervision-d'un-Swarm-au-fil-du-temps,-le-coordinateur-écrivant-les-réponses-humaines-en-mémoire\|le coût de supervision d'un Swarm au fil du temps, le coordinateur écrivant les réponses humaines en mémoire]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### evals offline {#evals-offline}
 
@@ -24284,7 +24393,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (112)
+## DOCUMENT (113)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24832,6 +24941,16 @@
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
+### Long-Horizon Terminal-Bench {#Long-Horizon-Terminal-Bench}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **définition** : Benchmark de 44 tâches dont chacune représente des heures de travail, utilisé pour comparer quatre rosters menés par GPT-5.6 Sol en effort high ; runs exécutés à 3 fois le timeout habituel, solo compris, la coordination ajoutant de la surcharge
+
+- **mesure** → [[kb/_entites-mineures#la-performance-d'agents-sur-44-tâches-dont-chacune-représente-des-heures-de-travail\|la performance d'agents sur 44 tâches dont chacune représente des heures de travail]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
 ### LongMemEval {#LongMemEval}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -25059,11 +25178,14 @@
 
 ### Terminal-Bench 2.1 {#Terminal-Bench-2.1}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 2 fiches
 
+- **définition** : Benchmark de tâches de terminal courtes utilisé par Block pour comparer dix agents solo et douze compositions d'équipe ; 88 tâches, une tentative par tâche, sans retry, avec timeouts
 - **rôle** : Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 %
 
-**Fiches** : [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+- **mesure** → [[kb/_entites-mineures#la-performance-d'agents-sur-des-tâches-de-terminal-courtes,-achevées-en-minutes\|la performance d'agents sur des tâches de terminal courtes, achevées en minutes]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]], [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### The American Experiment {#The-American-Experiment}
 

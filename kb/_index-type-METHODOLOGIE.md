@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 402 entités de type METHODOLOGIE
+> 405 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -124,6 +124,7 @@
 - [[kb/_entites-mineures#HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] — catégorie: Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs) (1 occ., 1 fiches)
 - [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (5 occ., 4 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] — exemple: Twitter clone agent vs 10 codecs red team — corroboration Sierra (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Hive\|Hive]] — définition: Équipe permanente de quelques agents nommés, chacun avec un rôle et une mémoire de persona qui accumule les préférences de l'utilisateur ; la valeur est cumulative, briefer l'agent devenant plus rapide que briefer une personne. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-Sandwich\|Human Sandwich]] — définition: Structure Shipper : Human (frame) → AI (execute) → Human (judge + extend). Valeur humaine déplacée vers les extrémités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-AI-collaboration\|Human-AI collaboration]] — définition: Mode 2 de travail avec agents — collaboration synchrone, utilisation comme IDE augmenté. Exemple : Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-in-the-loop\|Human-in-the-loop]] — justification: Nécessaire tant que l'humain sait ce que l'IA ignore (1 occ., 1 fiches)
@@ -210,6 +211,7 @@
 - [[kb/_entites-mineures#Stress-testing-(Pawlowski)\|Stress-testing (Pawlowski)]] — description: Questions adversariales systématiques : ce qui invalidirait, hypothèses faibles, ce que disputeraient des compétiteurs sceptiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sub-agents-maker-checker\|Sub-agents maker-checker]] — fonction: Vérificateur adversarial gardant le travail avant revue humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] — objectif: Modifier uniquement le code lié à la demande (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Swarm\|Swarm]] — définition: Équipe jetable montée pour un projet borné (migration, montée de framework, gros refactor), qui accumule une mémoire partagée des cas particuliers du projet et est supprimée à la fin ; motif efficace : un SmartBee coordinateur, un pool de workers bon marché, un vérificateur indépendant, et une escalade qui remonte au coordinateur plutôt qu'à l'humain. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TDD\|TDD]] — cycle: Red → Green → Refactor, un test à la fois (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] — enjeu: À repenser pour l'ère agentique (équipes, process, culture data, métier) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Team-Topologies\|Team Topologies]] — auteurs: Matthew Skelton, Manuel Pais (1 occ., 1 fiches)
@@ -292,6 +294,7 @@
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)
 - [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] — rôle: VM distantes à sortie réseau restreinte pour contenir le blast radius (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#escalade-agent-vers-agent\|escalade agent-vers-agent]] — définition: Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)

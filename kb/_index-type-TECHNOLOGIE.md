@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 709 entités de type TECHNOLOGIE
+> 712 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -104,7 +104,7 @@
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] — catégorie: LLM financier créé par Bloomberg sur ses données propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] — catégorie: Couche IA transversale de la plateforme HubSpot (1 occ., 1 fiches)
 - [[kb/Bun\|Bun]] — usage: Build et packaging de Claude Code (2 occ., 2 fiches)
-- [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (8 occ., 3 fiches)
+- [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (9 occ., 4 fiches)
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 10 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
@@ -138,6 +138,7 @@
 - [[kb/_entites-mineures#Claude-Opus-4.1\|Claude Opus 4.1]] — score even-handedness: 95% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] — catégorie: Modèle de langage frontier Anthropic (2 occ., 1 fiches)
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] — catégorie: Modèle Anthropic (sortie 28 mai 2026, 1M tokens) (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30) (1 occ., 1 fiches)
 - [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
@@ -235,6 +236,7 @@
 - [[kb/GPT-5.5\|GPT-5.5]] — score_expert_pass1: 71,4% (+-8,0%) (2 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.5-Cyber\|GPT-5.5-Cyber]] — categorie: Produit IA a acces restreint pour cybersecurite defensive (1 occ., 1 fiches)
 - [[kb/GPT-5.6\|GPT-5.6]] — catégorie: Famille de LLM OpenAI (GA 9 juillet 2026) : 3 tiers Sol/Terra/Luna ; ~1,05 M tokens contexte, 128 k sortie, coupure au 16 février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GPT-5.6-Luna\|GPT-5.6 Luna]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo : 1,61 dollar et 57,3 % en effort medium, 4,98 dollars et 75,0 % en effort high — illustration que sur un modèle bon marché les tokens de raisonnement sont le meilleur achat disponible (prix au 2026-07-30) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-OSS-Safeguard\|GPT-OSS-Safeguard]] — positionnement: Modèle de sûreté à poids ouverts, version 20B mesurée à égalité avec Shieldstral (84,9 % de F1 texte) malgré une taille sept fois supérieure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] — catégorie: Bibliothèque animation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gas-Town\|Gas Town]] — définition: Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge (1 occ., 1 fiches)
@@ -295,6 +297,7 @@
 - [[kb/_entites-mineures#HTTP-402\|HTTP 402]] — description: Code statut Payment Required créé en 1997, jamais implémenté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haiku\|Haiku]] — usage: Éditions triviales/mécaniques (model override) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haiku-4.5\|Haiku 4.5]] — usage: tâches simples, rapide et économique (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Harbor\|Harbor]] — définition: Environnement d'exécution des benchmarks de Block, pilotant de vrais agents Buzz sur un relais live plutôt qu'un banc d'essai simplifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harvey\|Harvey]] — secteur: IA juridique et services professionnels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] — catégorie: Bouton IA intégré à Google Docs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hermes\|Hermes]] — catégorie: Agent IA personnel à mémoire (running gag « Hermès ») (2 occ., 2 fiches)

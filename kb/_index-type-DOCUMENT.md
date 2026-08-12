@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 128 entités de type DOCUMENT
+> 129 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -61,6 +61,7 @@
 - [[kb/_entites-mineures#LOCOMO\|LOCOMO]] — référence: Benchmark de mémoire à long terme (n=300) sur lequel graphify obtient 0,497 de recall@10 et 45,3 % d'exactitude QA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Learning\|Learning]] — définition: 1 markdown = 1 problème résolu sous docs/solutions/<category>/, frontmatter orienté recherche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lessons-from-building-Claude-Code-How-we-use-skills\|Lessons from building Claude Code: How we use skills]] — catégorie: REX / guide opérationnel sur les Skills (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Long-Horizon-Terminal-Bench\|Long-Horizon Terminal-Bench]] — définition: Benchmark de 44 tâches dont chacune représente des heures de travail, utilisé pour comparer quatre rosters menés par GPT-5.6 Sol en effort high ; runs exécutés à 3 fois le timeout habituel, solo compris, la coordination ajoutant de la surcharge (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LongMemEval\|LongMemEval]] — référence: Benchmark de mémoire longue (variante S, n=50) sur lequel graphify obtient 76 %, à égalité avec un RAG dense (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Loop-Library\|Loop Library]] — rôle: Collection de boucles réelles (eng/research/ops) de Matthew Berman (1 occ., 1 fiches)
 - [[kb/MCP-for-Beginners\|MCP for Beginners]] — format: Playlist YouTube 12 vidéos (2 occ., 1 fiches)
@@ -89,7 +90,7 @@
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)

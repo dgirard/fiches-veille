@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 905 entités de type CONCEPT
+> 908 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -366,6 +366,7 @@
 - [[kb/_entites-mineures#Pyramide-de-tests\|Pyramide de tests]] — définition: Modèle Mike Cohn — tests unitaires (base, nombreux, rapides) > intégration > acceptance > e2e (sommet, peu nombreux, lents). Eveillard mobilise pour réfuter "rebalance from unit to system" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quality-Control-Zone\|Quality Control Zone]] — caractéristiques: coût d'erreur élevé + connaissance explicite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Question-forte-vs-faible\|Question forte vs faible]] — exemple: Faible : "What are the trends?" / Forte : "Where does pricing feel tolerated rather than embraced?" (1 occ., 1 fiches)
+- [[kb/_entites-mineures#QuickBee\|QuickBee]] — définition: Tier d'agent rapide et bon marché, réservé au travail documenté : builds, captures d'écran, exécution de la suite de tests, tri de première passe. Modèles cités : GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux. Effort recommandé : max, xhigh ou high (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] — définition: Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RGPD\|RGPD]] — catégorie: Règlement européen protection données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] — principe: Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité) (1 occ., 1 fiches)
@@ -406,6 +407,7 @@
 - [[kb/_entites-mineures#Six-zones-PROJ-AI\|Six zones PROJ-AI]] — détail: DOCS/ (raw inputs), IDEAS/ (hypothèses), DR/ (Decision Records 7 dim), OUT/ (livrables), DOCTRINE/ (gouvernance), AGENT/ (slash-commands + traces) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skill\|Skill]] — définition: Dossier (instructions + scripts + ressources + config + hooks) découvrable par l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] — définition: Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SmartBee\|SmartBee]] — définition: Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] — définition: Programmation = prompting d'un LLM-interpréteur, contexte = levier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] — rôle futur: Programmer en langage naturel, orchestrer agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] — rôle: Formalisation du comportement attendu de l'agent (1 occ., 1 fiches)
@@ -463,6 +465,7 @@
 - [[kb/_entites-mineures#Warning-shots-(AI-populism)\|Warning shots (AI populism)]] — source: Formule Jasmine Sun (NYT Opinion 2026-04-30) reprise par Wallace-Wells — les attaques contre Altman comme avertissement violent d'un mouvement plus large (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Weave-Hour\|Weave Hour]] — définition: Métrique : temps qu'un ingénieur expérimenté prendrait pour un changement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Widening-Gap\|Widening Gap]] — catégorie: Écart croissant équipes performantes vs en difficulté (1 occ., 1 fiches)
+- [[kb/_entites-mineures#WorkerBee\|WorkerBee]] — définition: Tier polyvalent, doté d'assez de jugement pour porter un sous-ensemble complet de bout en bout sans surveillance, à une fraction du coût frontier. Modèles cités : GPT-5.6 Terra, Gemini 3.6 Flash, modèles ouverts. Effort recommandé : high ou xhigh (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workflows\|Workflows]] — niveau: 5 — harnesses, agentic engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Writing-muscle-atrophy\|Writing muscle atrophy]] — définition: Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#X3-X4-(gains-réalistes)\|X3-X4 (gains réalistes)]] — définition: Productivité réellement observée vs fantasme X10 — projet d'industrialisation, ROI non immédiat (1 occ., 1 fiches)

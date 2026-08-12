@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 481 entités de type PERSONNE
+> 483 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -56,6 +56,7 @@
 - [[kb/_entites-mineures#Ashish-Kumar-Singh\|Ashish Kumar Singh]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/Ashish-Singh\|Ashish Singh]] — rôle: Auteur de la série « New Engineering Disciplines for the AI Era » (LinkedIn) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] — rôle: Investisseur VC, Foundation Capital (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] — rôle: Ingénieur chez Block, « Building AI solutions » ; auteur du billet de benchmarks sur les équipes d'agents dans Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] — rôle: Directrice des affaires publiques et de la communication, Mistral AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Augustin-d'Hippone\|Augustin d'Hippone]] — période: 354-430 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Austin-Parker\|Austin Parker]] — affiliation: Honeycomb, directeur Open Source (1 occ., 1 fiches)
@@ -255,6 +256,7 @@
 - [[kb/_entites-mineures#Lauren-Reader\|Lauren Reader]] — rôle: Interviewer Sequoia de l'événement Cherny (1 occ., 1 fiches)
 - [[kb/Lee-Robinson\|Lee Robinson]] — rôle: Développeur / Tech lead (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Lei-Zhang\|Lei Zhang]] — rôle: Head of Technology Infrastructure Engineering, Bloomberg (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Leigh-Maddock\|Leigh Maddock]] — rôle: Ingénieur chez Block ; cité pour avoir migré plus de 2 000 apps et projets avec un Swarm Buzz composé d'un coordinateur, de 1 à 10 migrateurs parallèles et d'un vérificateur indépendant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lennart-Meincke\|Lennart Meincke]] — rôle: Premier auteur de l'étude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lenny-Rachitsky\|Lenny Rachitsky]] — rôle: Animateur du podcast Lenny's Podcast (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Leonie-Monigatti\|Leonie Monigatti]] — rôle: Praticienne ML, auteure technique (1 occ., 1 fiches)

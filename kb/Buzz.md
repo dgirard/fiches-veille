@@ -1,6 +1,6 @@
 # Buzz
 
-> **Type** : TECHNOLOGIE | 20 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 4 fiches sources
 
 ## Attributs
 
@@ -11,6 +11,7 @@
 - **interopérabilité** : Claude Code, Codex, goose et tout agent parlant Agent Client Protocol peuvent y travailler ; changer de modèle ou de harness préserve l'identité, les permissions et l'historique du projet
 - **positionnement** : Présenté aux actionnaires comme un système interne de collaboration d'agents, de communication et de dépôts de code destiné à réduire les délais de coordination — cadrage productivité, complémentaire du cadrage ouverture protocolaire (Apache-2.0, Nostr, ACP) documenté ailleurs dans ce corpus
 - **stockage Git** : Dépôts stockés en packfiles immuables adressés par contenu sur stockage objet, plus un pointeur de manifeste mutable avancé par compare-and-swap conditionnel qui constitue le point de commit ; protocole spécifié en TLA+ et model-checké, avec suite de conformité obligatoire par backend
+- **équipes d'agents** : Les agents s'appellent entre eux : un SmartBee délègue un sous-ensemble à un WorkerBee, attend, relit et renvoie, sans relais humain. Chaque agent a un nom, une persona, une mémoire et sa propre présence dans le canal — un siège plutôt qu'une session
 
 ## Relations (comme sujet)
 
@@ -37,10 +38,14 @@
 
 - « à chaque agent d'avoir sa propre clé, son autorisation signée par son propriétaire et sa propre signature sur son travail » (AFFIRMATION) — 0.97, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- « à des agents de se déléguer du travail entre eux et de s'escalader des questions sans qu'un humain relaie quoi que ce soit » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « de brancher Goose, Claude Code et Codex par le même harnais » (AFFIRMATION) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « de changer de modèle ou de harness sans que le projet perde son identité, ses permissions ou son historique » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- « de composer une équipe tri-fournisseurs : Claude Opus 5 en SmartBee, GPT-5.6 Terra en WorkerBee, un modèle local en QuickBee » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « à une identité et à un historique signé de rester vérifiables même si Buzz disparaît, un dépôt Git restant réhébergeable » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - « de router les requêtes d'inférence d'un agent vers la machine d'un autre membre, le trafic chiffré circulant directement entre pairs autorisés » (AFFIRMATION) — 0.92, ATEMPOREL
@@ -59,6 +64,8 @@
 
 - « Claude Code, Codex et goose, ainsi qu'à tout agent parlant Agent Client Protocol » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- « Claude Code, Codex, modèles ouverts et modèles locaux, avec leurs abonnements existants » (AFFIRMATION) — 0.94, DYNAMIQUE
+  - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### utilise
 
@@ -83,4 +90,5 @@
 
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
