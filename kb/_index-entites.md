@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3031 entités
+> 3039 entités
 
 ## #
 
@@ -462,7 +462,7 @@
 - [[kb/_entites-mineures#Blended-future\|Blended future]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blended-pricing\|Blended pricing]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blindspot-pass\|Blindspot pass]] (METHODOLOGIE, 1 fiches)
-- [[kb/Block\|Block]] (ORGANISATION, 5 fiches)
+- [[kb/Block\|Block]] (ORGANISATION, 6 fiches)
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bloggrify\|Bloggrify]] (TECHNOLOGIE, 1 fiches)
@@ -520,7 +520,7 @@
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] (EVENEMENT, 1 fiches)
 - [[kb/Bun\|Bun]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT, 1 fiches)
-- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#buzz-acp\|buzz-acp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] (ORGANISATION, 1 fiches)
@@ -556,6 +556,7 @@
 - [[kb/_entites-mineures#Cas-marketing-tech-+349%-+38%\|Cas marketing tech +349%/+38%]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#cascade-hiérarchique\|cascade hiérarchique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Case-study-banque-européenne-régulée-IA\|Case study banque européenne régulée IA]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Cash-App\|Cash App]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#CAST\|CAST]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cast-Software\|Cast Software]] (ORGANISATION, 1 fiches)
 - [[kb/Cat-Wu\|Cat Wu]] (PERSONNE, 4 fiches)
@@ -1090,6 +1091,7 @@
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Evals\|Evals]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Evercore-ISI\|Evercore ISI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] (ORGANISATION, 1 fiches)
 - [[kb/Every\|Every]] (ORGANISATION, 8 fiches)
 - [[kb/_entites-mineures#EveryInc\|EveryInc]] (ORGANISATION, 1 fiches)
@@ -1301,7 +1303,7 @@
 - [[kb/_entites-mineures#Google-Vertex-AI-Agent-Builder\|Google Vertex AI Agent Builder]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Google-X\|Google X]] (ORGANISATION, 1 fiches)
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] (ORGANISATION, 1 fiches)
-- [[kb/goose\|goose]] (TECHNOLOGIE, 5 fiches)
+- [[kb/goose\|goose]] (TECHNOLOGIE, 6 fiches)
 - [[kb/_entites-mineures#Gordon-Bell\|Gordon Bell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] (CONCEPT, 1 fiches)
@@ -1521,6 +1523,7 @@
 - [[kb/_entites-mineures#J.R.-Storment\|J.R. Storment]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] (PERSONNE, 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] (PERSONNE, 1 fiches)
+- [[kb/Jack-Dorsey\|Jack Dorsey]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Jagged-intelligence\|Jagged intelligence]] (CONCEPT, 1 fiches)
@@ -1737,6 +1740,7 @@
 - [[kb/_entites-mineures#Magnificat-(Lc-1,-46-55)\|Magnificat (Lc 1, 46-55)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Make-vs-Buy\|Make vs Buy]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Manager-d'agents\|Manager d'agents]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#Managerbot\|Managerbot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Manuel-Pais\|Manuel Pais]] (PERSONNE, 1 fiches)
 - [[kb/Manus-organisation\|Manus]] (ORGANISATION, 2 fiches)
@@ -1905,11 +1909,13 @@
 - [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/Monday.com\|Monday.com]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#Monetization-Gateway\|Monetization Gateway]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Moneybot\|Moneybot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#monitoring-observabilité\|monitoring observabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#monétisation-par-les-coûts\|monétisation par les coûts]] (CONCEPT, 1 fiches)
 - [[kb/Moonshot-AI\|Moonshot AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Morgan-Stanley\|Morgan Stanley]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mouvement-anti-data-center\|Mouvement anti-data-center]] (CONCEPT, 1 fiches)
@@ -2611,6 +2617,7 @@
 - [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SQL-Agent\|SQL Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SQLite-FTS5\|SQLite FTS5]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Square\|Square]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sreeram-Kannan\|Sreeram Kannan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Srinivas-Tallapragada\|Srinivas Tallapragada]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Stable-Diffusion\|Stable Diffusion]] (TECHNOLOGIE, 1 fiches)
@@ -2704,6 +2711,7 @@
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] (DOCUMENT, 1 fiches)
 ## T
 
+- [[kb/_entites-mineures#Tags\|Tags]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] (CONCEPT, 1 fiches)

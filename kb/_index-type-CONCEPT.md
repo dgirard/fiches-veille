@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 901 entités de type CONCEPT
+> 902 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -717,6 +717,7 @@
 - [[kb/_entites-mineures#moment-Kodak\|moment Kodak]] — signification: disruption technologique irréversible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#monitoring-observabilité\|monitoring observabilité]] — métriques: Latence, débit, taux succès, coûts LLM, comportement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] — définition: Thèse d'un intellect universel unique partagé par tous les humains (1 occ., 1 fiches)
+- [[kb/_entites-mineures#monétisation-par-les-coûts\|monétisation par les coûts]] — définition: Captation de la valeur d'une technologie par la réduction de la structure de coûts avant toute facturation au client ; rend soutenable un séquencement qualité → distribution → adoption → prix, mais suppose une marge de manœuvre sur les effectifs que toutes les entreprises n'ont pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#multiplicateurs-de-tokens\|multiplicateurs de tokens]] — valeurs: 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mérite-technique\|mérite technique]] — principe de gouvernance: Critère de décision revendiqué du projet kernel : on adopte les outils (dont l'IA) sur leur valeur technique, « pas sur la peur des nouveaux outils » ni pour des raisons idéologiques (1 occ., 1 fiches)

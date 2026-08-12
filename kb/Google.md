@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 48 relations | 16 fiches sources
+> **Type** : ORGANISATION | 49 relations | 16 fiches sources
 
 ## Attributs
 
@@ -135,6 +135,7 @@
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] **travaille_chez** → Google — 0.97
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Google — 0.93
+- [[kb/Block\|Block]] **collabore_avec** → Google — 0.90
 - [[kb/_entites-mineures#contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] **fait_partie_de** → Google — 0.85
 

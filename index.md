@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 377 fiches | 1975-12 → 2026-08-07 | généré le 2026-08-09
+> 378 fiches | 1975-12 → 2026-08-07 | généré le 2026-08-12
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -11,6 +11,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **07** [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement. · Didier Girard (X) — Shieldstral, Shieldstral 1.0 3B, Mistral AI
 - **06** [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce : · Google Developers Blog — Agent Plugins, Agent Plugins 1.0.0, spécification ouverte
 - **06** [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers. · graphify.net — graphify.net, annuaire d'outils IA, directory
+- **06** [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes. · Payments Dive — Block, Jack Dorsey, Cash App
 - **06** [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet. · GitHub (Safi Shamsi, Graphify-Labs/graphify) — skill, graphe de connaissance, knowledge graph
 - **05** [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici. · Meta AI Research — Meta AI Research, Muse Code, Muse Spark 1.2
 - **04** [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*. · Cloudflare — Cloudflare Wallets, commerce agentique, Agents Week
@@ -672,6 +673,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les processus métiers »](fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25.md) — Aiman Ezzat (directeur général de Capgemini), propos recueillis par La Rédaction d'Investir
@@ -790,6 +792,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Économie & Marché
 
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
+- [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
@@ -969,6 +972,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)](fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16.md) — Netflix — management (co-CEOs Greg Peters & Ted Sarandos, CFO Spence Neumann, VP Finance & Capital Markets Spencer Wang)
@@ -1004,19 +1008,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 377 fiches
-- **Par année** : 2026 (200) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 378 fiches
+- **Par année** : 2026 (201) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 134
   - Architecture & Construction : 46
-  - Transformation & Adoption : 76
+  - Transformation & Adoption : 77
   - Qualité & Sécurité : 35
-  - Économie & Marché : 71
+  - Économie & Marché : 72
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
   - Outils & Plateformes : 42
   - Recherche & Éducation : 10
-  - Produits & Services : 10
+  - Produits & Services : 11
   - Politique & Régulation : 19
 - **Auteurs (top 20)** :
   - SFEIR (13)

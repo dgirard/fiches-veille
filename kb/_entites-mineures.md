@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2594 entités avec moins de 3 triples/fiches
+> 2601 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (363)
 
@@ -3623,7 +3623,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (281)
 
 ### 10x {#10x}
 
@@ -4526,6 +4526,16 @@
 - **utilise** → [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
+
+### Evercore ISI {#Evercore-ISI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Maison d'analyse côté vendeur ; énumère quatre voies de monétisation de l'IA chez Block, toutes de forme logicielle classique, aucune indexée sur le résultat
+
+- **affirme_que** → [[kb/_entites-mineures#les-outils-d'IA-de-Block-ont-quatre-voies-de-monétisation-possibles-bundles-SaaS,-abonnements-directs,-offres-entreprise-et-tarification-à-l'usage\|les outils d'IA de Block ont quatre voies de monétisation possibles : bundles SaaS, abonnements directs, offres entreprise et tarification à l'usage]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### Evertune {#Evertune}
 
@@ -6454,7 +6464,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (560)
+## TECHNOLOGIE (565)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7293,6 +7303,17 @@
 - **mesure** → [[kb/_entites-mineures#97%-précision-transcription\|>97% précision transcription]] (MESURE) — 0.93
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### Cash App {#Cash-App}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Application de paiement grand public de Block ; support de Moneybot et du boîtier NFC Tags
+
+- [[kb/Block\|Block]] **utilise** → Cash App — 0.95
+- [[kb/_entites-mineures#Moneybot\|Moneybot]] **s_applique_à** → Cash App — 0.95
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### ChatGPT Apps SDK {#ChatGPT-Apps-SDK}
 
@@ -9344,6 +9365,18 @@
 
 **Fiches** : [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
+### Managerbot {#Managerbot}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Assistant IA destiné aux commerçants Square : marketing automatisé, analyse de marge et suggestions de correctifs opérationnels
+
+- **permet** → [[kb/_entites-mineures#aux-commerçants-Square-d'automatiser-le-marketing,-d'analyser-leurs-marges-et-de-recevoir-des-correctifs-opérationnels\|aux commerçants Square d'automatiser le marketing, d'analyser leurs marges et de recevoir des correctifs opérationnels]] (AFFIRMATION) — 0.92
+
+- [[kb/Block\|Block]] **publie** → Managerbot — 0.95
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+
 ### Markdown for Agents {#Markdown-for-Agents}
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
@@ -9515,6 +9548,19 @@
 - [[kb/Cloudflare-Wallets\|Cloudflare Wallets]] **converge_avec** → Monetization Gateway — 0.93
 
 **Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
+
+### Moneybot {#Moneybot}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Assistant IA de Cash App qui surveille l'activité de l'utilisateur, renseigne comptes, soldes et transactions et suggère des fonctionnalités ; plus d'un million de comptes actifs hebdomadaires en août 2026
+
+- **s_applique_à** → [[kb/_entites-mineures#Cash-App\|Cash App]] (TECHNOLOGIE) — 0.95
+- **mesure** → [[kb/_entites-mineures#plus-d'un-million-de-comptes-actifs-hebdomadaires\|plus d'un million de comptes actifs hebdomadaires]] (MESURE) — 0.92
+
+- [[kb/Block\|Block]] **publie** → Moneybot — 0.95
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### Multimodal generative AI {#Multimodal-generative-AI}
 
@@ -10743,6 +10789,19 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
+### Square {#Square}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **rôle** : Service d'encaissement pour commerçants de Block ; support de Managerbot et point d'entrée du partenariat avec Google, dont une expérience conversationnelle de découverte et de commande dans Google Maps
+
+- **collabore_avec** → [[kb/_entites-mineures#Google-Maps\|Google Maps]] (TECHNOLOGIE) — 0.92
+- **permet** → [[kb/_entites-mineures#de-découvrir-un-restaurant-et-de-passer-commande-en-posant-des-questions,-depuis-Google-Maps\|de découvrir un restaurant et de passer commande en posant des questions, depuis Google Maps]] (AFFIRMATION) — 0.92
+
+- [[kb/Block\|Block]] **utilise** → Square — 0.95
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+
 ### Stable Diffusion {#Stable-Diffusion}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10882,6 +10941,16 @@
 - [[kb/Google\|Google]] **a_créé** → TPU — 0.97
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+
+### Tags {#Tags}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Boîtiers de paiement de Cash App (porte-clés et baguettes à puce NFC) ; trois millions de personnes en liste d'attente pour la prochaine série en août 2026
+
+- **mesure** → [[kb/_entites-mineures#trois-millions-de-personnes-en-liste-d'attente-pour-la-prochaine-série\|trois millions de personnes en liste d'attente pour la prochaine série]] (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### Tailwind CSS {#Tailwind-CSS}
 
@@ -12156,7 +12225,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (872)
+## CONCEPT (873)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18508,6 +18577,16 @@
 - [[kb/_entites-mineures#Averroès\|Averroès]] **soutient** → monopsychisme — 0.99
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
+
+### monétisation par les coûts {#monétisation-par-les-coûts}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Captation de la valeur d'une technologie par la réduction de la structure de coûts avant toute facturation au client ; rend soutenable un séquencement qualité → distribution → adoption → prix, mais suppose une marge de manœuvre sur les effectifs que toutes les entreprises n'ont pas
+
+- **s_applique_à** → [[kb/_entites-mineures#la-captation-de-la-valeur-de-l'IA-par-la-structure-de-coûts-avant-toute-facturation-au-client\|la captation de la valeur de l'IA par la structure de coûts avant toute facturation au client]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### multiplicateurs de tokens {#multiplicateurs-de-tokens}
 

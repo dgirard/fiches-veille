@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 479 entités de type PERSONNE
+> 480 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -195,6 +195,7 @@
 - [[kb/_entites-mineures#J.R.-Storment\|J.R. Storment]] — rôle: Créateur / executive director de la FinOps Foundation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] — rôle: Écrivain catholique anglais (1892-1973), auteur du *Seigneur des Anneaux* — cité par Léon XIV (n. 213) via les paroles de Sam dans *Le Retour du Roi* sur la responsabilité de notre génération (1 occ., 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] — rôle: Co-fondateur Anthropic, membre AI Index Steering Committee (1 occ., 1 fiches)
+- [[kb/Jack-Dorsey\|Jack Dorsey]] — rôle: Directeur général de Block ; assume de facturer l'IA en dernier et revendique une position confortable pour expérimenter plusieurs modèles de prix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
 - [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)

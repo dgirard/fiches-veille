@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 371 entités de type ORGANISATION
+> 372 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -49,7 +49,7 @@
 - [[kb/Bain-&-Company\|Bain & Company]] — secteur: Cabinet conseil top-tier mondial, série 5 volets software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
-- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (5 occ., 5 fiches)
+- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (6 occ., 6 fiches)
 - [[kb/Bloomberg\|Bloomberg]] — secteur: Finance / Données de marché (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] — secteur: Aérospatiale commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] — secteur: Conseil en stratégie (1 occ., 1 fiches)
@@ -116,6 +116,7 @@
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] — catégorie: École d'informatique, France (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Equal-Experts\|Equal Experts]] — secteur: Consulting CD / engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] — secteur: E-commerce / Marketplace artisanale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Evercore-ISI\|Evercore ISI]] — rôle: Maison d'analyse côté vendeur ; énumère quatre voies de monétisation de l'IA chez Block, toutes de forme logicielle classique, aucune indexée sur le résultat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evertune\|Evertune]] — secteur: Analyse représentation marques dans LLMs (1 occ., 1 fiches)
 - [[kb/Every\|Every]] — secteur: Média AI-native (every.to) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#EveryInc\|EveryInc]] — domaine: Plateforme ingénierie IA (1 occ., 1 fiches)
