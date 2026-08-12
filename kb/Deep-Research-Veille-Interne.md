@@ -1,6 +1,6 @@
 # Deep Research Veille Interne
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 10 relations | 2 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,13 @@
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 - « le gain du desktop est un gain de friction et non de puissance, réel uniquement pour les usages intensifs » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+- « les benchmarks disponibles sur Buzz proviennent d'une auto-évaluation de Block sur son propre dispositif, sans mesure indépendante » (AFFIRMATION) — 0.94, DYNAMIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+
+### mesure
+
+- « le gain de 33 % annoncé par Block correspond au ratio de tâches terminées, vingt contre quinze sur quarante-quatre, et non au score qui progresse de 59,1 % à 71,5 % » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### recommande
 
@@ -35,4 +42,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]

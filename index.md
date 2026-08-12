@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 381 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
+> 382 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **12** [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. · Deep Research — Buzz, buzz.xyz, Block
 - **12** [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12. · Deep Research — ChatGPT Desktop, Claude Desktop, version web
 - **07** [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement. · Didier Girard (X) — Shieldstral, Shieldstral 1.0 3B, Mistral AI
 - **06** [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce : · Google Developers Blog — Agent Plugins, Agent Plugins 1.0.0, spécification ouverte
@@ -490,6 +491,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce :
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [Efficient Tokens & Effective Teams in Buzz](fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06.md) — - **Atish Patel** — *« Building AI solutions @ Block »*. Auteur unique.
@@ -629,6 +631,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce :
 - [Efficient Tokens & Effective Teams in Buzz](fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06.md) — - **Atish Patel** — *« Building AI solutions @ Block »*. Auteur unique.
 - [graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. »](fiches/2026-08/skill-shamsi-graphify-2026-08-06.md) — **Safi Shamsi** — créateur et mainteneur de graphify, et de **Graphify Labs**, société passée par **Y Combinator (promotion S26)** selon le badge du dépôt. Il maintient aussi le site d'annuaire `graphify.net` (cf. [[graphify-net-annuaire-ia-coding-2026-08-06]]) et publie un livre, *The Memory Layer*, sur les idées et l'architecture derrière le projet.
@@ -761,6 +764,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet](fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04.md) — **Will Papper** — auteur de l'annonce sur le blog Cloudflare (lecture annoncée : 8 minutes). Publication rattachée à l'**Agents Week** de Cloudflare et étiquetée *Agents Week, AI, AI Bots, Developer Platform, Developers, Payments, Product News, x402*.
@@ -924,6 +928,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce :
@@ -1020,24 +1025,24 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 381 fiches
-- **Par année** : 2026 (204) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 382 fiches
+- **Par année** : 2026 (205) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 136
-  - Architecture & Construction : 48
+  - Agents de codage IA & Skills : 137
+  - Architecture & Construction : 49
   - Transformation & Adoption : 78
-  - Qualité & Sécurité : 36
+  - Qualité & Sécurité : 37
   - Économie & Marché : 73
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 44
+  - Outils & Plateformes : 45
   - Recherche & Éducation : 10
   - Produits & Services : 11
   - Politique & Régulation : 19
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
-  - Deep Research Veille Interne (8)
+  - Deep Research Veille Interne (9)
   - Anthropic (8)
   - Chris Williams (7)
   - Philippe Ensarguet (6)
@@ -1058,7 +1063,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)
-  - Deep Research (8)
+  - Deep Research (9)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Google (7)

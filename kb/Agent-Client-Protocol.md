@@ -1,6 +1,6 @@
 # Agent Client Protocol
 
-> **Type** : TECHNOLOGIE | 23 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 3 fiches sources
 
 ## Attributs
 
@@ -76,6 +76,7 @@
 - [[kb/Zed\|Zed]] **utilise** → Agent Client Protocol — 0.96
 - [[kb/Zed\|Zed]] **a_créé** → Agent Client Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Agent Client Protocol — 0.95
+- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] **utilise** → Agent Client Protocol — 0.95
 - [[kb/_entites-mineures#JetBrains\|JetBrains]] **utilise** → Agent Client Protocol — 0.92
 - [[kb/_entites-mineures#Zed-Industries\|Zed Industries]] **a_créé** → Agent Client Protocol — 0.90
 - [[kb/_entites-mineures#ACP-Registry\|ACP Registry]] **fait_partie_de** → Agent Client Protocol — 0.88

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2620 entités avec moins de 3 triples/fiches
+> 2624 entités avec moins de 3 triples/fiches
 
-## PERSONNE (365)
+## PERSONNE (368)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -605,6 +605,17 @@
 - **rôle** : Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral
 
 **Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+
+### Bradley Axen {#Bradley-Axen}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Head of AI Capabilities chez Block ; porte l'argument de marché du lancement de Buzz : toute entreprise aura besoin d'un lieu où humains et agents travaillent ensemble, et la question est de savoir s'il sera propriétaire ou ouvert
+
+- **affirme_que** → [[kb/_entites-mineures#toute-entreprise-aura-besoin-d'un-lieu-où-humains-et-agents-travaillent-ensemble,-et-la-question-est-de-savoir-si-ce-lieu-est-propriétaire-ou-ouvert\|toute entreprise aura besoin d'un lieu où humains et agents travaillent ensemble, et la question est de savoir si ce lieu est propriétaire ou ouvert]] (CITATION) — 0.95
+- **travaille_chez** → [[kb/Block\|Block]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### Bradley Shimmin {#Bradley-Shimmin}
 
@@ -1674,6 +1685,16 @@
 - **travaille_chez** → [[kb/Google\|Google]] (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+
+### João Queirós {#João-Queirós}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur de la première évaluation indépendante approfondie de Buzz (23 juillet 2026), d'où vient la formule reprise partout : l'appartenance à un canal n'est pas une autorisation fine par outil
+
+- **affirme_que** → [[kb/_entites-mineures#l'appartenance-à-un-canal-n'est-pas-une-autorisation-fine-par-outil\|l'appartenance à un canal n'est pas une autorisation fine par outil]] (CITATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### Jude Gao {#Jude-Gao}
 
@@ -3356,6 +3377,14 @@
 - **a_créé** → [[kb/QMD\|QMD]] (TECHNOLOGIE) — 0.98
 
 **Fiches** : [[fiches/2026-03/zhutov-qmd-grep-dead-claude-code-memory-recall-2026-03-01\|Grep Is Dead: How I Made Claude Code Actually Remember Things]]
+
+### Tom Brow {#Tom-Brow}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### Travis Turner {#Travis-Turner}
 
@@ -6485,7 +6514,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (572)
+## TECHNOLOGIE (573)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6930,10 +6959,11 @@
 
 ### Agentic AI Foundation {#Agentic-AI-Foundation}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **historique** : Fondation Linux Foundation annoncée déc. 2025 ; projets fondateurs MCP (Anthropic), goose (Block), AGENTS.md (OpenAI) ; AWS/Google/Microsoft membres platine ; A2A versé par Google
 
+- [[kb/goose\|goose]] **fait_partie_de** → Agentic AI Foundation — 0.93
 - [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] **publie** → Agentic AI Foundation — 0.92
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] **fait_partie_de** → Agentic AI Foundation — 0.90
 
@@ -9809,19 +9839,6 @@
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
-### Nostr {#Nostr}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **définition** : Protocole ouvert de messages signés et d'identités portables, où une identité est une paire de clés ; sert de substrat à Buzz pour signer messages, autorisations d'agents, approbations de workflow, commits et merges avec la même identité
-- **rôle** : Protocole de messagerie ouvert et résistant à la censure, substrat d'identité et de journal signé de Buzz
-
-- **permet** → [[kb/_entites-mineures#des-identités-portables-sous-forme-de-paires-de-clés-et-des-actions-signées,-indépendantes-du-serveur-qui-les-héberge\|des identités portables sous forme de paires de clés et des actions signées, indépendantes du serveur qui les héberge]] (AFFIRMATION) — 0.95
-
-- [[kb/Buzz\|Buzz]] **utilise** → Nostr — 0.97
-
-**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]], [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
-
 ### NotebookLM {#NotebookLM}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -11060,6 +11077,18 @@
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]
 
+### Tamarin {#Tamarin}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Outil de vérification formelle de protocoles cryptographiques, employé par Block pour vérifier les propriétés d'autorisation de Buzz
+
+- **permet** → [[kb/_entites-mineures#de-vérifier-les-propriétés-d'autorisation-de-Buzz,-ce-qui-est-inhabituel-pour-un-logiciel-encore-en-version-0.5.x\|de vérifier les propriétés d'autorisation de Buzz, ce qui est inhabituel pour un logiciel encore en version 0.5.x]] (AFFIRMATION) — 0.90
+
+- [[kb/Block\|Block]] **utilise** → Tamarin — 0.92
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+
 ### Tavily {#Tavily}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11544,11 +11573,26 @@
 
 ### buzz-acp {#buzz-acp}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **définition** : Harnais Agent Client Protocol inclus dans le monorepo Buzz, qui branche goose, Codex et Claude Code et traduit entre ACP côté client/agent et MCP côté outils
 - **rôle** : Harnais traduisant les événements Buzz vers un agent, en ACP sur stdio — brique qui rend Buzz agnostique en agents
 
-**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- **utilise** → [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE) — 0.95
+- **permet** → [[kb/_entites-mineures#de-brancher-goose,-Codex-et-Claude-Code-dans-Buzz-en-traduisant-entre-ACP-côté-agent-et-MCP-côté-outils\|de brancher goose, Codex et Claude Code dans Buzz en traduisant entre ACP côté agent et MCP côté outils]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]], [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+
+### buzz-agent {#buzz-agent}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Agent ACP maison de Block : parle ACP sur stdio, appelle un LLM et utilise des outils MCP ; jusqu'à huit sessions concurrentes avec serveurs MCP, historique et contexte propres ; compatible API Anthropic Messages, OpenRouter et tout endpoint compatible OpenAI (vLLM, llama.cpp, Databricks, Ollama)
+
+- **utilise** → [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.93
+- **permet** → [[kb/_entites-mineures#jusqu'à-huit-sessions-concurrentes-disposant-chacune-de-ses-serveurs-MCP,-de-son-historique-et-de-son-contexte,-contre-l'API-Anthropic-Messages,-OpenRouter-ou-tout-endpoint-compatible-OpenAI\|jusqu'à huit sessions concurrentes disposant chacune de ses serveurs MCP, de son historique et de son contexte, contre l'API Anthropic Messages, OpenRouter ou tout endpoint compatible OpenAI]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### cache_control {#cache_control}
 

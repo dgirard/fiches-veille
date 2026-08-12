@@ -1,6 +1,6 @@
 # Block
 
-> **Type** : ORGANISATION | 33 relations | 7 fiches sources
+> **Type** : ORGANISATION | 37 relations | 7 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,10 @@
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « une équipe doit contrôler ses propres identités d'agents, son historique et son travail, indépendamment de tout fournisseur ou plateforme » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- « l'agent ignore à quel serveur MCP il parle et le serveur MCP ignore quel agent l'appelle : ils se composent par des protocoles, pas par des imports » (CITATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+- « l'agent peut tout faire, et la sécurité repose entièrement sur la restriction de qui peut lui donner des instructions » (CITATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - « une tâche courte n'a pas assez de structure pour être divisée, et ajouter des agents ne fait qu'acheter le coût de l'expliquer deux fois » (CITATION) — 0.94, ATEMPOREL
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « en 2026 le logiciel est devenu bon marché mais pas le goût, les choix de design étant la partie difficile » (CITATION) — 0.92, ATEMPOREL
@@ -63,6 +67,7 @@
 ### publie
 
 - [[kb/Buzz\|Buzz]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
@@ -99,7 +104,10 @@
 - [[kb/_entites-mineures#Square\|Square]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- [[kb/_entites-mineures#Tamarin\|Tamarin]] (TECHNOLOGIE) — 0.92, STATIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ## Relations (comme objet)
 
@@ -107,6 +115,7 @@
 - [[kb/Tyler-Longwell\|Tyler Longwell]] **travaille_chez** → Block — 0.97
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] **travaille_chez** → Block — 0.96
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] **travaille_chez** → Block — 0.96
+- [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] **travaille_chez** → Block — 0.95
 - [[kb/_entites-mineures#Leigh-Maddock\|Leigh Maddock]] **travaille_chez** → Block — 0.95
 
 ## Fiches sources

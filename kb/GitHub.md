@@ -1,6 +1,6 @@
 # GitHub
 
-> **Type** : TECHNOLOGIE | 10 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,7 @@
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **observé_dans** → GitHub — 0.98
 - [[kb/_entites-mineures#HKUDS\|HKUDS]] **utilise** → GitHub — 0.97
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] **utilise** → GitHub — 0.97
+- [[kb/Buzz\|Buzz]] **concurrence** → GitHub — 0.88
 
 ## Fiches sources
 

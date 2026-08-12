@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3061 entités
+> 3066 entités
 
 ## #
 
@@ -501,6 +501,7 @@
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Brain-fry\|Brain fry]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Brainstorms-&-prototypes\|Brainstorms & prototypes]] (METHODOLOGIE, 1 fiches)
@@ -521,8 +522,9 @@
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] (EVENEMENT, 1 fiches)
 - [[kb/Bun\|Bun]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT, 1 fiches)
-- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 4 fiches)
-- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 5 fiches)
+- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] (TECHNOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#buzz-agent\|buzz-agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] (ORGANISATION, 1 fiches)
 ## C
@@ -905,7 +907,7 @@
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (TECHNOLOGIE, 1 fiches)
-- [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] (ORGANISATION, 1 fiches)
+- [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#deepagents\|deepagents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] (ORGANISATION, 1 fiches)
@@ -1313,7 +1315,7 @@
 - [[kb/_entites-mineures#Google-Vertex-AI-Agent-Builder\|Google Vertex AI Agent Builder]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Google-X\|Google X]] (ORGANISATION, 1 fiches)
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] (ORGANISATION, 1 fiches)
-- [[kb/goose\|goose]] (TECHNOLOGIE, 6 fiches)
+- [[kb/goose\|goose]] (TECHNOLOGIE, 7 fiches)
 - [[kb/_entites-mineures#Gordon-Bell\|Gordon Bell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] (CONCEPT, 1 fiches)
@@ -1584,6 +1586,7 @@
 - [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Joyful-artifact\|Joyful artifact]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#João-Queirós\|João Queirós]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Judgment-per-minute\|Judgment per minute]] (CONCEPT, 1 fiches)
@@ -1998,7 +2001,7 @@
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#Nostr\|Nostr]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Nostr\|Nostr]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#note-rescued\|note rescued]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 2 fiches)
@@ -2735,6 +2738,7 @@
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Tamarin\|Tamarin]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tanuj-Kapilashrami\|Tanuj Kapilashrami]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] (CONCEPT, 1 fiches)
@@ -2856,6 +2860,7 @@
 - [[kb/_entites-mineures#tokenomics\|tokenomics]] (CONCEPT, 1 fiches)
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Tom-Brow\|Tom Brow]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] (DOCUMENT, 1 fiches)
 - [[kb/Tony-Seale\|Tony Seale]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Tool-economy\|Tool economy]] (CONCEPT, 1 fiches)

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 483 entités de type PERSONNE
+> 486 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -77,6 +77,7 @@
 - [[kb/_entites-mineures#Bouddha\|Bouddha]] — période: Ve siècle av. J.-C. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Miller\|Brad Miller]] — rôle: Chief Information Officer de Moderna (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brad-Smith\|Brad Smith]] — rôle: Dirigeant Microsoft ayant confirmé l'absence de nouvelle prise de participation de Microsoft au capital de Mistral (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] — rôle: Head of AI Capabilities chez Block ; porte l'argument de marché du lancement de Buzz : toute entreprise aura besoin d'un lieu où humains et agents travaillent ensemble, et la question est de savoir s'il sera propriétaire ou ouvert (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] — rôle: Lead data intelligence and analytics practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/Bret-Taylor\|Bret Taylor]] — rôle: Co-fondateur et CEO de Sierra, président du conseil d'OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brian-Fioca\|Brian Fioca]] — rôle: Engineering, OpenAI (1 occ., 1 fiches)
@@ -230,6 +231,7 @@
 - [[kb/_entites-mineures#Jordan-Gibbs\|Jordan Gibbs]] — rôle: Auteur et mainteneur de hyperresearch (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] — rôle: Director of Product Management, sécurité entreprise chez Alphabet Security ; précédemment à l'origine du Sovereign Cloud de Google (1 occ., 1 fiches)
 - [[kb/Josh-Bersin\|Josh Bersin]] — rôle: Analyste RH-tech, fondateur The Josh Bersin Company (1 occ., 1 fiches)
+- [[kb/_entites-mineures#João-Queirós\|João Queirós]] — rôle: Auteur de la première évaluation indépendante approfondie de Buzz (23 juillet 2026), d'où vient la formule reprise partout : l'appartenance à un canal n'est pas une autorisation fine par outil (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jude-Gao\|Jude Gao]] — rôle: Ingénieur / Auteur chez Vercel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Julie-Bedard\|Julie Bedard]] — rôle: Consultante BCG, auteure du sondage HBR mars 2026 sur l'usage IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Julien-Lépine\|Julien Lépine]] — rôle: Directeur de la technologie (CTO) d'AWS France, 13+ ans chez Amazon (1 occ., 1 fiches)
@@ -448,6 +450,7 @@
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/Tim-Williams\|Tim Williams]] — rôle: Founder Ignition Consulting Group. Auteur du foreword du rapport VoxComm. Aphorismes "incentives matter", "you are not in the service business" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — rôle: CEO Shopify, créateur QMD (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tom-Brow\|Tom Brow]] — rôle: Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF (1 occ., 1 fiches)
 - [[kb/Tony-Seale\|Tony Seale]] — rôle: Évangéliste knowledge graph, auteur LinkedIn The Knowledge Graph Guy (2 occ., 2 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] — rôle: Chief People and Digital Technology Officer de Moderna (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] — rôle: Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026) (1 occ., 1 fiches)

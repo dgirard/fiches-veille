@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 712 entités de type TECHNOLOGIE
+> 714 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -104,7 +104,7 @@
 - [[kb/_entites-mineures#BloombergGPT\|BloombergGPT]] — catégorie: LLM financier créé par Bloomberg sur ses données propriétaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] — catégorie: Couche IA transversale de la plateforme HubSpot (1 occ., 1 fiches)
 - [[kb/Bun\|Bun]] — usage: Build et packaging de Claude Code (2 occ., 2 fiches)
-- [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (9 occ., 4 fiches)
+- [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (14 occ., 5 fiches)
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 10 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
@@ -420,7 +420,7 @@
 - [[kb/_entites-mineures#NetworkX\|NetworkX]] — catégorie: Bibliothèque Python d'analyse de graphes et réseaux sociaux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#New-Form\|New Form]] — catégorie: Outil créatif Meng To avec 63 skills design (lasers, skeuomorphic, 3D, copy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Next.js-16\|Next.js 16]] — catégorie: Framework React — Vercel (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Nostr\|Nostr]] — définition: Protocole ouvert de messages signés et d'identités portables, où une identité est une paire de clés ; sert de substrat à Buzz pour signer messages, autorisations d'agents, approbations de workflow, commits et merges avec la même identité (2 occ., 2 fiches)
+- [[kb/Nostr\|Nostr]] — définition: Protocole ouvert de messages signés et d'identités portables, où une identité est une paire de clés ; sert de substrat à Buzz pour signer messages, autorisations d'agents, approbations de workflow, commits et merges avec la même identité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] — catégorie: Outil de productivité IA (Google) (2 occ., 2 fiches)
 - [[kb/Notion-as-Code\|Notion as Code]] — définition: Infrastructure as code appliquée à un espace de travail Notion : un SDK TypeScript décrit l'état final voulu, un endpoint asynchrone réconcilie l'espace pour y correspondre, une table de correspondance rendant l'opération idempotente et rejouable sur plusieurs espaces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nova\|Nova]] — catégorie: Plateforme d'agents de codage interne Dropbox (2 occ., 1 fiches)
@@ -567,6 +567,7 @@
 - [[kb/_entites-mineures#TPU\|TPU]] — fabricant: Google / Broadcom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tags\|Tags]] — définition: Boîtiers de paiement de Cash App (porte-clés et baguettes à puce NFC) ; trois millions de personnes en liste d'attente pour la prochaine série en août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwind-CSS\|Tailwind CSS]] — catégorie: Framework CSS utilitaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Tamarin\|Tamarin]] — définition: Outil de vérification formelle de protocoles cryptographiques, employé par Block pour vérifier les propriétés d'autorisation de Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tavily\|Tavily]] — usage: Recherche web primaire (Deep Research) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Teamwork-Graph\|Teamwork Graph]] — rôle: Couche de contexte Atlassian améliorant précision et efficience en tokens de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.0\|Terminal Bench 2.0]] — catégorie: Benchmark pour agents de codage (2 occ., 2 fiches)
@@ -626,7 +627,8 @@
 - [[kb/_entites-mineures#base-de-connaissances\|base de connaissances]] — rôle: Rendre la mémoire institutionnelle interrogeable et l'usage des tokens efficient (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] — catégorie: Skill maître d'orchestration éditoriale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bots-de-codage\|bots de codage]] — usage: Génération de code supervisée par humain (1 occ., 1 fiches)
-- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] — rôle: Harnais traduisant les événements Buzz vers un agent, en ACP sur stdio — brique qui rend Buzz agnostique en agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#buzz-acp\|buzz-acp]] — définition: Harnais Agent Client Protocol inclus dans le monorepo Buzz, qui branche goose, Codex et Claude Code et traduit entre ACP côté client/agent et MCP côté outils (2 occ., 2 fiches)
+- [[kb/_entites-mineures#buzz-agent\|buzz-agent]] — définition: Agent ACP maison de Block : parle ACP sur stdio, appelle un LLM et utilise des outils MCP ; jusqu'à huit sessions concurrentes avec serveurs MCP, historique et contexte propres ; compatible API Anthropic Messages, OpenRouter et tout endpoint compatible OpenAI (vLLM, llama.cpp, Databricks, Ollama) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cache_control\|cache_control]] — description: Breakpoint créant un hash cryptographique scopé au workspace (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-brainstorm\|ce:brainstorm]] — description: Skill de brainstorming avec vérification état technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-compound\|ce:compound]] — description: Skill de documentation de solutions avec schema par track (1 occ., 1 fiches)
@@ -653,7 +655,7 @@
 - [[kb/_entites-mineures#gemini-cli\|gemini-cli]] — categorie: CLI Google pour interaction IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#git\|git]] — rôle: Infrastructure de versioning utilisée par systèmes IA autonomes (1 occ., 1 fiches)
 - [[kb/git-worktrees-technologie\|git worktrees]] — usage: Parallélisme de sessions Claude, gain de productivité majeur (3 occ., 3 fiches)
-- [[kb/goose\|goose]] — éditeur: Block, Inc. (7 occ., 6 fiches)
+- [[kb/goose\|goose]] — éditeur: Block, Inc. (8 occ., 7 fiches)
 - [[kb/graphify.net\|graphify.net]] — définition: Propriété éditoriale officielle du projet graphify : vitrine produit, annuaire comparatif de clients de codage IA et de serveurs MCP, et galerie de 100 dépôts publics déjà graphifiés (2 occ., 1 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] — rôle: Chemin d'export AWS : une commande transforme un harness configuré en code Strands (modèle, prompt, outils, mémoire, conteneur préservés), pointé vers un seul cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hook-PreToolUse\|hook PreToolUse]] — usage: Logue les invocations de skills pour mesurer l'usage (1 occ., 1 fiches)

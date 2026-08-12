@@ -1,6 +1,6 @@
 # Model Context Protocol
 
-> **Type** : TECHNOLOGIE | 19 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 20 relations | 7 fiches sources
 
 ## Attributs
 
@@ -53,6 +53,7 @@
 - [[kb/_entites-mineures#Phase-2-production\|Phase 2 production]] **est_basé_sur** → Model Context Protocol — 0.95
 - [[kb/_entites-mineures#Vanta\|Vanta]] **utilise** → Model Context Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Model Context Protocol — 0.93
+- [[kb/_entites-mineures#buzz-agent\|buzz-agent]] **utilise** → Model Context Protocol — 0.93
 - [[kb/_entites-mineures#Desktop-Extensions\|Desktop Extensions]] **utilise** → Model Context Protocol — 0.93
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **utilise** → Model Context Protocol — 0.92
 - [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **converge_avec** → Model Context Protocol — 0.90
