@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 52 relations | 21 fiches sources
+> **Type** : ORGANISATION | 53 relations | 21 fiches sources
 
 ## Attributs
 
@@ -120,6 +120,8 @@
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 - [[kb/_entites-mineures#Linters-custom-et-tests-structurels\|Linters custom et tests structurels]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ## Relations (comme objet)
 

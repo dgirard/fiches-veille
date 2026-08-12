@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 382 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
+> 383 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **12** [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. · Deep Research — Buzz, buzz.xyz, Block
 - **12** [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12. · Deep Research — ChatGPT Desktop, Claude Desktop, version web
+- **11** [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte. · X (article long format) — Forward Deployed Engineer, FDE, ingénieur déployé chez le client
 - **07** [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement. · Didier Girard (X) — Shieldstral, Shieldstral 1.0 3B, Mistral AI
 - **06** [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce : · Google Developers Blog — Agent Plugins, Agent Plugins 1.0.0, spécification ouverte
 - **06** [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers. · graphify.net — graphify.net, annuaire d'outils IA, directory
@@ -684,6 +685,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Transformation & Adoption
 
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
+- [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
@@ -804,6 +806,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [Efficient Tokens & Effective Teams in Buzz](fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06.md) — - **Atish Patel** — *« Building AI solutions @ Block »*. Auteur unique.
 - [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
@@ -905,6 +908,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »).
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
 - [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
@@ -1025,16 +1029,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 382 fiches
-- **Par année** : 2026 (205) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 383 fiches
+- **Par année** : 2026 (206) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 137
   - Architecture & Construction : 49
-  - Transformation & Adoption : 78
+  - Transformation & Adoption : 79
   - Qualité & Sécurité : 37
-  - Économie & Marché : 73
+  - Économie & Marché : 74
   - Philosophie & Société : 22
-  - Stratégie & Frameworks : 20
+  - Stratégie & Frameworks : 21
   - Outils & Plateformes : 45
   - Recherche & Éducation : 10
   - Produits & Services : 11

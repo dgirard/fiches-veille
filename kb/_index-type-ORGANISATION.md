@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 373 entités de type ORGANISATION
+> 375 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -94,6 +94,7 @@
 - [[kb/_entites-mineures#DSI\|DSI]] — contexte: grande entreprise, intégrateur de BMAD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DX\|DX]] — secteur: Plateforme Developer Experience / Métriques (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Databricks\|Databricks]] — secteur: Data lakehouse / plateforme IA (1 occ., 1 fiches)
+- [[kb/Decagon\|Decagon]] — positionnement: Éditeur d'agents IA de service client (San Francisco) revendiquant un modèle de livraison piloté par le produit : escalades transformées en exigences plutôt qu'en patchs, deux tiers du travail de déploiement automatisés via Duet, premier AOP lancé en quelques jours chez de grands comptes (chiffres auto-déclarés, août 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] — particularité: Producteur d'une grande partie de ses produits → RFID end-to-end (1 occ., 1 fiches)
 - [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] — rôle: Auteur du rapport ; applique un format What / So What / Now What et consacre une section entière à l'audit de ce que l'enquête n'a pas pu confirmer, motif par motif (2 occ., 2 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (1 occ., 1 fiches)
@@ -252,6 +253,7 @@
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
+- [[kb/Palantir\|Palantir]] — rôle: Cas d'école du passage services → produit : déploiements Gotham bespoke pour le renseignement américain encodés en primitives de plateforme (ontologie, modèles d'objets, permissions, workflows, provenance) devenues Foundry, avec marge brute montée dans les 80 % et sortie du motion FDE ; a assumé près de vingt ans de réputation de cabinet de conseil déguisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parti-communiste-chinois\|Parti communiste chinois]] — posture IA (selon Ball): Vision de l'IA « très Yann-LeCun-ienne » (peu AGI-pilled) — expliquerait ~75 % de la tolérance à l'open-sourcing de modèles puissants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] — structure: Département fusionné HR+IT chez Moderna (créé en 2025) (1 occ., 1 fiches)
 - [[kb/Perplexity-organisation\|Perplexity]] — secteur: IA / Moteur de recherche (4 occ., 4 fiches)

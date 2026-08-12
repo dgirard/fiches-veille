@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2624 entités avec moins de 3 triples/fiches
+> 2631 entités avec moins de 3 triples/fiches
 
-## PERSONNE (368)
+## PERSONNE (371)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -427,6 +427,17 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] **emploie** → Ashu Garg — 0.90
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
+
+### Ashwin Sreenivas {#Ashwin-Sreenivas}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Cofondateur de Decagon, ancien de Palantir ; source du récit Palantir mobilisé dans l'article
+
+- **travaille_chez** → [[kb/Decagon\|Decagon]] (ORGANISATION) — 0.95
+- **travaille_chez** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Atish Patel {#Atish-Patel}
 
@@ -1628,6 +1639,16 @@
 - **affirme_que** → [[kb/_entites-mineures#l'anxiété-face-à-l'IA-est-une-vieille-question-d'identité-sous-un-nouveau-masque\|l'anxiété face à l'IA est une vieille question d'identité sous un nouveau masque]] (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
+
+### Joe Lonsdale {#Joe-Lonsdale}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur de Palantir ; reconnaît publiquement que la critique de « glorified consultancy » reposait sur une observation exacte, et présente le choix forward-deployed comme une nécessité face à des clients dont l'entreprise ignorait le fonctionnement
+
+- **affirme_que** → [[kb/_entites-mineures#Palantir-a-longtemps-été-vue-comme-un-cabinet-de-conseil-déguisé,-sur-la-base-d'une-observation-exacte-ses-ingénieurs-passaient-beaucoup-de-temps-chez-les-clients\|Palantir a longtemps été vue comme un cabinet de conseil déguisé, sur la base d'une observation exacte : ses ingénieurs passaient beaucoup de temps chez les clients]] (CITATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Joff Redfern {#Joff-Redfern}
 
@@ -3052,6 +3073,17 @@
 - **a_créé** → [[kb/Conductor\|Conductor]] (TECHNOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
+
+### Shyam Sankar {#Shyam-Sankar}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : CTO de Palantir ; auteur de la formule « FDEs eat pain and excrete product », pivot rhétorique et critère opérationnel de l'article
+
+- **affirme_que** → [[kb/_entites-mineures#les-forward-deployed-engineers-digèrent-de-la-douleur-et-excrètent-du-produit\|les forward deployed engineers digèrent de la douleur et excrètent du produit]] (CITATION) — 0.95
+- **travaille_chez** → [[kb/Palantir\|Palantir]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Sid Bidasaria {#Sid-Bidasaria}
 
@@ -6514,7 +6546,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (573)
+## TECHNOLOGIE (576)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8041,6 +8073,16 @@
 
 **Fiches** : [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 
+### Duet {#Duet}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Produit de Decagon qui réalise de façon autonome la configuration, l'itération et la longue traîne du tuning d'un agent de service client — travail auparavant confié à un humain en boucle
+
+- [[kb/Decagon\|Decagon]] **publie** → Duet — 0.93
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
+
 ### DynamoDB {#DynamoDB}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -8148,6 +8190,16 @@
 - [[kb/Linear\|Linear]] **utilise** → Figma — 0.93
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design: Operating Procedure for Steve Jobs-Level Obsession with Perfection]], [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
+
+### Foundry {#Foundry}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Plateforme commerciale de Palantir née de l'encodage en primitives des déploiements Gotham sur mesure ; sa maturité a permis la standardisation des déploiements et la sortie du motion FDE
+
+- **est_basé_sur** → [[kb/_entites-mineures#les-primitives-encodées-depuis-les-déploiements-Gotham-sur-mesure-ontologie,-modèles-d'objets,-permissions,-moteurs-de-workflow-et-traçabilité-de-provenance\|les primitives encodées depuis les déploiements Gotham sur mesure : ontologie, modèles d'objets, permissions, moteurs de workflow et traçabilité de provenance]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Frameworks d'agents {#Frameworks-d'agents}
 
@@ -8747,6 +8799,16 @@
 - **éditeur** : Google
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
+
+### Gotham {#Gotham}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Produit initial de Palantir, vendu à la CIA, à la NSA et à des unités de renseignement militaire au milieu des années 2000 ; déploiements profondément sur mesure, construits pour répondre à une seule question de renseignement pour une seule unité
+
+- [[kb/Palantir\|Palantir]] **publie** → Gotham — 0.94
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### Grok {#Grok}
 
@@ -12377,7 +12439,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (879)
+## CONCEPT (880)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19956,6 +20018,16 @@
 - **liste** : Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+
+### test discovery vs absorption {#test-discovery-vs-absorption}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Critère de décision proposé par Jesse Zhang pour évaluer une équipe FDE : le bespoke est-il dans l'environnement du client ou dans les trous du produit ; le dernier kilomètre est-il irréductible ou non construit ; les FDE découvrent-ils ou absorbent-ils ; et surtout, qu'est-ce qui a été intégré au produit au retour du dernier terrain — seule question vérifiable des quatre
+
+- **permet** → [[kb/_entites-mineures#de-décider-s'il-faut-maintenir-une-équipe-FDE,-en-demandant-ce-qui-a-été-intégré-au-produit-au-retour-du-dernier-terrain\|de décider s'il faut maintenir une équipe FDE, en demandant ce qui a été intégré au produit au retour du dernier terrain]] (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
 ### théorie organisationnelle {#théorie-organisationnelle}
 

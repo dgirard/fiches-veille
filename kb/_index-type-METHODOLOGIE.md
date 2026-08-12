@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 405 entités de type METHODOLOGIE
+> 406 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -111,6 +111,7 @@
 - [[kb/_entites-mineures#FinOps-pour-agents-IA\|FinOps pour agents IA]] — catégorie: Allocation/gouvernance/optimisation du coût des agents et LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Financialize-vs-Invest-to-Grow\|Financialize vs Invest to Grow]] — définition: Deux paths forward Bain pour SaaS face à pression IA : (1) Financialize = minimize AI invest, optimize cash, durable generator ; (2) Invest to Grow = accept margin pressure short-term, reinvest aggressively AI product+ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Finding-Your-Unknowns\|Finding Your Unknowns]] — définition: Processus itératif de découverte des inconnues (avant/pendant/après) pour guider Fable (1 occ., 1 fiches)
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] — définition: Motion consistant à déployer des ingénieurs chez le client pour découvrir un workflow qui n'existe pas encore ; justifié par la nouveauté d'une catégorie, à retirer une fois les parcours utilisateurs connus, sous peine de conserver le plafond de marge sans le bénéfice de découverte. À distinguer de l'implémentation, qui exécute contre une spec connue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Forward-Deployed-Engineering-(FDE)\|Forward Deployed Engineering (FDE)]] — définition: Équipes d'ingénieurs déployés chez le client pour intégrer / customiser les modèles IA. Originellement Palantir, adopté par OpenAI, Anthropic, autres labos frontaliers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-4-quadrants\|Framework 4 quadrants]] — dimensions: coût d'erreur × type de connaissance (explicite/tacite) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Framework-FinOps\|Framework FinOps]] — capacités: 14 capacités contrastées cloud vs IA (1 occ., 1 fiches)

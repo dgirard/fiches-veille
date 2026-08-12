@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 714 entités de type TECHNOLOGIE
+> 717 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -203,6 +203,7 @@
 - [[kb/_entites-mineures#Doubao\|Doubao]] — catégorie: Assistant LLM grand public (Bytedance) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dream-Cut\|Dream Cut]] — catégorie: Mac app de Meng To en développement (révélation prochaine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Droid-Factory\|Droid/Factory]] — catégorie: Framework d'agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Duet\|Duet]] — définition: Produit de Decagon qui réalise de façon autonome la configuration, l'itération et la longue traîne du tuning d'un agent de service client — travail auparavant confié à un humain en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DynamoDB\|DynamoDB]] — échelle: >5 000 milliards de requêtes/heure ; vérifié par modélisation formelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#E2B\|E2B]] — categorie: Infrastructure sandbox agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ElevenLabs-Scribe\|ElevenLabs Scribe]] — catégorie: Modèle de transcription propriétaire (1 occ., 1 fiches)
@@ -215,6 +216,7 @@
 - [[kb/_entites-mineures#FastAPI\|FastAPI]] — usage: Serveur backend de l'application (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FastCDC\|FastCDC]] — performance: 8 149 MB/s (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Figma\|Figma]] — catégorie: Logiciel de design (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Foundry\|Foundry]] — définition: Plateforme commerciale de Palantir née de l'encodage en primitives des déploiements Gotham sur mesure ; sa maturité a permis la standardisation des déploiements et la sortie du motion FDE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] — catégorie: Plateformes d'orchestration d'agents (état machine, routage, graphes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] — rôle: Oracle de référence pour répartition des tâches (1 occ., 1 fiches)
 - [[kb/GDPVal-technologie\|GDPVal]] — définition: Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) (1 occ., 1 fiches)
@@ -290,6 +292,7 @@
 - [[kb/_entites-mineures#Google-TPU\|Google TPU]] — description: Puces custom Google pour IA, avantage structurel vs concurrents dépendants Nvidia (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Veo-3\|Google Veo 3]] — catégorie: Outil de génération vidéo IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Vertex-AI-Agent-Builder\|Google Vertex AI Agent Builder]] — éditeur: Google (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Gotham\|Gotham]] — définition: Produit initial de Palantir, vendu à la CIA, à la NSA et à des unités de renseignement militaire au milieu des années 2000 ; déploiements profondément sur mesure, construits pour répondre à une seule question de renseignement pour une seule unité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] — catégorie: Assistant LLM (X / anciennement Twitter) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] — score even-handedness: 96% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] — catégorie: Modèle LLM dont Phoenix (ranker X) est dérivé, base architecture transformer (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 486 entités de type PERSONNE
+> 490 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -56,6 +56,7 @@
 - [[kb/_entites-mineures#Ashish-Kumar-Singh\|Ashish Kumar Singh]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/Ashish-Singh\|Ashish Singh]] — rôle: Auteur de la série « New Engineering Disciplines for the AI Era » (LinkedIn) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] — rôle: Investisseur VC, Foundation Capital (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Ashwin-Sreenivas\|Ashwin Sreenivas]] — rôle: Cofondateur de Decagon, ancien de Palantir ; source du récit Palantir mobilisé dans l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] — rôle: Ingénieur chez Block, « Building AI solutions » ; auteur du billet de benchmarks sur les équipes d'agents dans Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] — rôle: Directrice des affaires publiques et de la communication, Mistral AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Augustin-d'Hippone\|Augustin d'Hippone]] — période: 354-430 (1 occ., 1 fiches)
@@ -219,9 +220,11 @@
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] — affirmation_rapportée: Le développeur devient un « RH d'agent » (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
+- [[kb/Jesse-Zhang\|Jesse Zhang]] — rôle: Cofondateur et CEO de Decagon (agents IA de service client) ; défend une approche produit contre l'approche FDE/services et déclare que deux tiers du travail de déploiement de son entreprise sont réalisés de façon autonome (1 occ., 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] — rôle: Semantic Engineer + Information Architect 25+ ans, MLS, ex-Adobe RDF knowledge graphs, ex-Amazon information architecture, fondatrice Ontology Pipeline Framework et Contextually LLC, auteure newsletter Intentional Arrangement et livre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] — rôle: CHRO Lixil (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jing-Hu\|Jing Hu]] — rôle: Citée : l'anxiété IA est une question d'identité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Joe-Lonsdale\|Joe Lonsdale]] — rôle: Cofondateur de Palantir ; reconnaît publiquement que la critique de « glorified consultancy » reposait sur une observation exacte, et présente le choix forward-deployed comme une nécessité face à des clients dont l'entreprise ignorait le fonctionnement (1 occ., 1 fiches)
 - [[kb/Joe-Mandese\|Joe Mandese]] — rôle: Editor-in-Chief MediaPost. Auteur article opinion "Billable Hours Are Dead, AI Killed Them, Here's How To Survive" (3 mars 2026, section Media 3.0) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] — rôle: Développeur indépendant, créateur de TOON (1 occ., 1 fiches)
@@ -408,6 +411,7 @@
 - [[kb/_entites-mineures#Shawn-Wang\|Shawn Wang]] — alias: swyx (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sherzat-Aitbayev\|Sherzat Aitbayev]] — rôle: Co-auteur Conductor (1 occ., 1 fiches)
 - [[kb/Shubham-Saboo\|Shubham Saboo]] — rôle: Praticien IA produit, auteur de l'essai (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Shyam-Sankar\|Shyam Sankar]] — rôle: CTO de Palantir ; auteur de la formule « FDEs eat pain and excrete product », pivot rhétorique et critère opérationnel de l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sid-Bidasaria\|Sid Bidasaria]] — rôle: Ingénieur #2 Claude Code, créateur subagents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Siddhant-Khare\|Siddhant Khare]] — rôle: Ingénieur indien installé en Allemagne, auteur d'un billet viral sur la fatigue IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Simon-Belbeoch\|Simon Belbeoch]] — rôle: Développeur senior OCTO Technology (1 occ., 1 fiches)

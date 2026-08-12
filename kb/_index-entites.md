@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3066 entités
+> 3077 entités
 
 ## #
 
@@ -371,6 +371,7 @@
 - [[kb/_entites-mineures#Ashish-Kumar-Singh\|Ashish Kumar Singh]] (PERSONNE, 1 fiches)
 - [[kb/Ashish-Singh\|Ashish Singh]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Ashwin-Sreenivas\|Ashwin Sreenivas]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ASI-(Artificial-Super-Intelligence)\|ASI (Artificial Super Intelligence)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ask-HR\|Ask HR]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ASL-3\|ASL-3]] (CONCEPT, 1 fiches)
@@ -898,6 +899,7 @@
 - [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] (PERSONNE, 1 fiches)
 - [[kb/Dean-W.-Ball\|Dean W. Ball]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Debugging-interview\|Debugging interview]] (METHODOLOGIE, 1 fiches)
+- [[kb/Decagon\|Decagon]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Decision-Layer\|Decision Layer]] (CONCEPT, 1 fiches)
@@ -1008,6 +1010,7 @@
 - [[kb/_entites-mineures#DSI\|DSI]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Duet\|Duet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Duolingo\|Duolingo]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Durable-generator\|Durable generator]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] (CONCEPT, 1 fiches)
@@ -1174,9 +1177,11 @@
 - [[kb/_entites-mineures#forrestchang\|forrestchang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Forrester\|Forrester]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#forums-légers-récurrents\|forums légers récurrents]] (METHODOLOGIE, 1 fiches)
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Forward-Deployed-Engineering-(FDE)\|Forward Deployed Engineering (FDE)]] (METHODOLOGIE, 1 fiches)
 - [[kb/Foundation-Capital\|Foundation Capital]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Foundry\|Foundry]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fountain\|Fountain]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Four-Big-Risks\|Four Big Risks]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Frame-vs-Framer\|Frame vs Framer]] (CONCEPT, 1 fiches)
@@ -1317,6 +1322,7 @@
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] (ORGANISATION, 1 fiches)
 - [[kb/goose\|goose]] (TECHNOLOGIE, 7 fiches)
 - [[kb/_entites-mineures#Gordon-Bell\|Gordon Bell]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Gotham\|Gotham]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#goulot-d'étranglement\|goulot d'étranglement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance\|gouvernance]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gouvernance-agents-IA\|gouvernance agents IA]] (CONCEPT, 1 fiches)
@@ -1567,6 +1573,7 @@
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] (PERSONNE, 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] (PERSONNE, 5 fiches)
+- [[kb/Jesse-Zhang\|Jesse Zhang]] (PERSONNE, 1 fiches)
 - [[kb/Jessica-Talisman\|Jessica Talisman]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jin-Montesano\|Jin Montesano]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jing-Hu\|Jing Hu]] (PERSONNE, 1 fiches)
@@ -1574,6 +1581,7 @@
 - [[kb/_entites-mineures#Jira\|Jira]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#JIT-tool-context-assembly\|JIT tool/context assembly]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Jo-ha-kyū\|Jo-ha-kyū]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Joe-Lonsdale\|Joe Lonsdale]] (PERSONNE, 1 fiches)
 - [[kb/Joe-Mandese\|Joe Mandese]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Joff-Redfern\|Joff Redfern]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Johann-Schopplich\|Johann Schopplich]] (PERSONNE, 1 fiches)
@@ -2101,6 +2109,7 @@
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE, 1 fiches)
+- [[kb/Palantir\|Palantir]] (ORGANISATION, 1 fiches)
 - [[kb/panne-de-service-Claude\|panne de service Claude]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] (CONCEPT, 1 fiches)
@@ -2540,6 +2549,7 @@
 - [[kb/Shopify\|Shopify]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Shotcut\|Shotcut]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Shubham-Saboo\|Shubham Saboo]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#Shyam-Sankar\|Shyam Sankar]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sid-Bidasaria\|Sid Bidasaria]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Siddhant-Khare\|Siddhant Khare]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Sidecar-Docker-GKG\|Sidecar Docker GKG]] (TECHNOLOGIE, 1 fiches)
@@ -2779,6 +2789,7 @@
 - [[kb/_entites-mineures#Terra\|Terra]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tesla-Optimus\|Tesla Optimus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tessl\|Tessl]] (ORGANISATION, 2 fiches)
+- [[kb/_entites-mineures#test-discovery-vs-absorption\|test discovery vs absorption]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Test-first\|Test-first]] (METHODOLOGIE, 1 fiches)

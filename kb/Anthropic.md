@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 120 relations | 38 fiches sources
+> **Type** : ORGANISATION | 121 relations | 38 fiches sources
 
 ## Attributs
 
@@ -250,6 +250,8 @@
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[kb/_entites-mineures#une-taxonomie-de-9-catégories-de-skills\|une taxonomie de 9 catégories de skills]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
+- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 - [[kb/_entites-mineures#limites-d'usage-simultanées\|limites d'usage simultanées]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 - [[kb/_entites-mineures#tests-de-charge-obligatoires\|tests de charge obligatoires]] (METHODOLOGIE) — 0.88, DYNAMIQUE
