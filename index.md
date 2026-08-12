@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 379 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
+> 380 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -36,6 +36,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **22** [Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible](fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — Mistral, Mistral AI, Microsoft
 - **22** [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet) · SFEIR — SDLC, Software Development Life Cycle, PDLC
 - **21** [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic. · claude.com (Jason Clinton, Anthropic) — SDLC IA-natif, AI-native SDLC, sécurité
+- **21** [Buzz!](fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21.md) — - **Tyler Longwell** — *« Building multi-player AI at Block »*. Auteur unique et signataire à la première personne. · Block Engineering — Buzz, Block, workspace agentique
 - **20** [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit) · GitHub (Udit Akhouri) — ADHD, Udit Akhouri, idéation divergente parallèle
 - **20** [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD · Fact-check veille — Delos Intelligence, delos.so, fact-checking
 - **20** [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV · The New Stack — Plateformes d'agents d'entreprise, convergence architecturale, portabilité
@@ -501,6 +502,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle](fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — commentaire de Jason Clinton (Deputy CISO, Anthropic)
 - [SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout](fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22.md) — SFEIR (voix éditoriale du cabinet)
 - [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
+- [Buzz!](fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21.md) — - **Tyler Longwell** — *« Building multi-player AI at Block »*. Auteur unique et signataire à la première personne.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [The Token Manifesto](fiches/2026-07/martignole-token-manifesto-2026-07-17.md) — Nicolas Martignole (Le Touilleur Express), avec GLM-5.2 et MiniMax-M3
@@ -632,6 +634,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [Mon usine logicielle à l'heure de l'IA](fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28.md) — **Hugo Lassiège** — développeur devenu entrepreneur, basé à **Lyon**, écrit du code depuis 2001 et tient **eventuallycoding.com** (le blog a porté le nom `hakanai.free.fr` avant de devenir *Eventuallycoding* en 2013). *Eventuallycoding* est le nom-parapluie qui regroupe ses projets, sa chaîne YouTube et ses blogs.
 - [How Anthropic secures its AI-native software development lifecycle](fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21.md) — **Jason Clinton** — *Deputy CISO* (directeur adjoint de la sécurité des SI) d'**Anthropic**, pilote de l'équipe *Security Engineering* ; contributions de **Michael Segner**. Billet publié le **21 juillet 2026** sur le blog Anthropic (*claude.com/blog*), catégories *Claude Code / Enterprise AI / Agents*, ~5 min de lecture. Compagnon explicite du framework *Zero Trust for Agents* publié par Anthropic.
+- [Buzz!](fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21.md) — - **Tyler Longwell** — *« Building multi-player AI at Block »*. Auteur unique et signataire à la première personne.
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
 - [Beyond Zero: Enterprise security for the AI era](fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20.md) — **Joseph Valente** — Director of Product Management, en charge des efforts de sécurité entreprise au sein d'**Alphabet Security** ; son périmètre couvre l'ensemble des business units d'Alphabet (Google Ads, DeepMind, YouTube, Devices, Cloud). Précédemment à l'origine de ce qui est devenu le **Sovereign Cloud de Google** (l'offre de compute souverain de Google Cloud) — détail notable pour un lectorat européen. Avant Google : cofondateur de Pathify et Ebla, passage par Bain & Company.
 - [Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA](fiches/2026-07/hohpe-decision-options-ia-2026-07-15.md) — Gregor Hohpe (sources primaires) — digest de veille
@@ -929,6 +932,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Agent Client Protocol — Introduction](fiches/2026-08/agentclientprotocol-introduction-2026-08-02.md) — **Projet Agent Client Protocol** — spécification collective, sans signature individuelle sur cette page. La barre de navigation du site lie deux organisations au même niveau : **Zed Industries** (à l'origine du protocole) et **JetBrains**. La présence d'une section **RFDs** (*requests for discussion*), d'une page **Community** et d'un **ACP Registry** indique une structure de gouvernance ouverte plutôt qu'une documentation produit.
 - [ACP : deux protocoles, un sigle, zéro rapport](fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02.md) — **Didier Girard** — auteur de la note. Écrit ici depuis la position de **praticien de la veille outillée** : le déclencheur est une question de collègue, le matériau principal est le comportement observé de sa propre base de connaissances, et la conclusion est une **règle de curation** adoptée en interne. Le texte alterne donc deux voix — l'explicateur de protocoles et l'ingénieur de la connaissance qui constate un défaut chez lui et en tire une norme.
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
+- [Buzz!](fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21.md) — - **Tyler Longwell** — *« Building multi-player AI at Block »*. Auteur unique et signataire à la première personne.
 - [ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)](fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20.md) — Udit Akhouri (@akhouriudit)
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
 - [Amazon, Microsoft, and Google are converging on the same enterprise agent architecture](fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20.md) — Janakiram MSV
@@ -1012,17 +1016,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 379 fiches
-- **Par année** : 2026 (202) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 380 fiches
+- **Par année** : 2026 (203) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 134
-  - Architecture & Construction : 46
+  - Agents de codage IA & Skills : 135
+  - Architecture & Construction : 47
   - Transformation & Adoption : 78
   - Qualité & Sécurité : 36
   - Économie & Marché : 72
   - Philosophie & Société : 22
   - Stratégie & Frameworks : 20
-  - Outils & Plateformes : 43
+  - Outils & Plateformes : 44
   - Recherche & Éducation : 10
   - Produits & Services : 11
   - Politique & Régulation : 19

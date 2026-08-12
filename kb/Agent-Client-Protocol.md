@@ -1,11 +1,12 @@
 # Agent Client Protocol
 
-> **Type** : TECHNOLOGIE | 23 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 3 fiches sources
 
 ## Attributs
 
 - **définition** : Protocole ouvert reliant un client (éditeur) à un agent de codage ; JSON-RPC 2.0 sur stdio, Apache-2.0, introduit par Zed en août 2025 — le « LSP des agents ». Alias « ACP » (homonyme, à ne jamais employer seul)
 - **gouvernance** : Site liant Zed Industries et JetBrains au même niveau, avec ACP Registry, RFDs, Community, Publications, Updates et Brand ; bibliothèques Kotlin, Java, Python, Rust, TypeScript
+- **rôle** : Protocole d'interopérabilité client↔agent accepté par Buzz : tout agent qui le parle peut travailler dans le workspace, aux côtés de Claude Code, Codex et goose
 - **spécification** : Deux modes de transport : agents locaux en JSON-RPC sur stdio, agents distants en HTTP ou WebSocket (support en cours) ; réutilise les représentations JSON de MCP ; Markdown par défaut ; versions v1 (Latest) et v2 (Draft)
 
 ## Relations (comme sujet)
@@ -84,3 +85,4 @@
 
 - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]

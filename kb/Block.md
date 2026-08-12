@@ -1,6 +1,6 @@
 # Block
 
-> **Type** : ORGANISATION | 18 relations | 6 fiches sources
+> **Type** : ORGANISATION | 22 relations | 7 fiches sources
 
 ## Attributs
 
@@ -18,6 +18,13 @@
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
+
+### affirme_que
+
+- « une équipe doit contrôler ses propres identités d'agents, son historique et son travail, indépendamment de tout fournisseur ou plateforme » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
+- « en 2026 le logiciel est devenu bon marché mais pas le goût, les choix de design étant la partie difficile » (CITATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ### collabore_avec
 
@@ -38,10 +45,12 @@
 
 ### publie
 
-- [[kb/Buzz\|Buzz]] (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+  - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/goose\|goose]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[kb/_entites-mineures#Managerbot\|Managerbot]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
@@ -68,10 +77,13 @@
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/_entites-mineures#Square\|Square]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+- [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ## Relations (comme objet)
 
 - [[kb/Jack-Dorsey\|Jack Dorsey]] **dirige** → Block — 0.98
+- [[kb/Tyler-Longwell\|Tyler Longwell]] **travaille_chez** → Block — 0.97
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] **travaille_chez** → Block — 0.96
 
 ## Fiches sources
@@ -79,6 +91,7 @@
 - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
+- [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]

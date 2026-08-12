@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3047 entités
+> 3049 entités
 
 ## #
 
@@ -113,7 +113,7 @@
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Agent\|Agent]] (CONCEPT, 1 fiches)
-- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Agent-Communication-Protocol\|Agent Communication Protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#agent-de-réponse-à-incident\|agent de réponse à incident]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] (TECHNOLOGIE, 1 fiches)
@@ -462,7 +462,7 @@
 - [[kb/_entites-mineures#Blended-future\|Blended future]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blended-pricing\|Blended pricing]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blindspot-pass\|Blindspot pass]] (METHODOLOGIE, 1 fiches)
-- [[kb/Block\|Block]] (ORGANISATION, 6 fiches)
+- [[kb/Block\|Block]] (ORGANISATION, 7 fiches)
 - [[kb/_entites-mineures#Block-(layoffs-mars-2026)\|Block (layoffs mars 2026)]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bloggrify\|Bloggrify]] (TECHNOLOGIE, 1 fiches)
@@ -520,7 +520,7 @@
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] (EVENEMENT, 1 fiches)
 - [[kb/Bun\|Bun]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT, 1 fiches)
-- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Buzz\|Buzz]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#buzz-acp\|buzz-acp]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] (ORGANISATION, 1 fiches)
@@ -1467,6 +1467,7 @@
 - [[kb/_entites-mineures#IDE\|IDE]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identifiant-de-ressource-logique\|identifiant de ressource logique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#identité-déléguée-d'agent\|identité déléguée d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Ido-Salomon\|Ido Salomon]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#IDP-as-product\|IDP as product]] (CONCEPT, 1 fiches)
@@ -1989,7 +1990,7 @@
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#Nostr\|Nostr]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Nostr\|Nostr]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#note-rescued\|note rescued]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Notion\|Notion]] (ORGANISATION, 2 fiches)
@@ -2827,7 +2828,7 @@
 - [[kb/Tim-Williams\|Tim Williams]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tissu-d'équipe-(fabric)\|Tissu d'équipe (fabric)]] (CONCEPT, 1 fiches)
-- [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#tldraw\|tldraw]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Toil\|Toil]] (CONCEPT, 1 fiches)
@@ -2883,6 +2884,7 @@
 - [[kb/_entites-mineures#Two-pizza-teams\|Two pizza teams]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#two-strike-regeneration\|two-strike regeneration]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#two-tower-retrieval\|two-tower retrieval]] (METHODOLOGIE, 1 fiches)
+- [[kb/Tyler-Longwell\|Tyler Longwell]] (PERSONNE, 1 fiches)
 - [[kb/TypeScript\|TypeScript]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] (CONCEPT, 1 fiches)
 ## U

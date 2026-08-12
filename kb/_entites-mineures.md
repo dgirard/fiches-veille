@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2607 entités avec moins de 3 triples/fiches
+> 2608 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (363)
 
@@ -9760,13 +9760,16 @@
 
 ### Nostr {#Nostr}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
+- **définition** : Protocole ouvert de messages signés et d'identités portables, où une identité est une paire de clés ; sert de substrat à Buzz pour signer messages, autorisations d'agents, approbations de workflow, commits et merges avec la même identité
 - **rôle** : Protocole de messagerie ouvert et résistant à la censure, substrat d'identité et de journal signé de Buzz
 
-- [[kb/Buzz\|Buzz]] **utilise** → Nostr — 0.95
+- **permet** → [[kb/_entites-mineures#des-identités-portables-sous-forme-de-paires-de-clés-et-des-actions-signées,-indépendantes-du-serveur-qui-les-héberge\|des identités portables sous forme de paires de clés et des actions signées, indépendantes du serveur qui les héberge]] (AFFIRMATION) — 0.95
 
-**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- [[kb/Buzz\|Buzz]] **utilise** → Nostr — 0.97
+
+**Fiches** : [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]], [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ### NotebookLM {#NotebookLM}
 
@@ -10965,11 +10968,16 @@
 
 ### TLA+ {#TLA+}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **catégorie** : Langage de modélisation formelle (états, transitions, invariants)
+- **usage** : Employé par Block pour spécifier et model-checker le protocole de stockage Git de Buzz : durabilité, reconstruction et poussées concurrentes, sous réserve de trois garanties explicites du magasin d'objets
 
-**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
+- **permet** → [[kb/_entites-mineures#de-model-checker-la-durabilité,-la-reconstruction-et-les-poussées-concurrentes-du-protocole-de-stockage-Git-de-Buzz\|de model-checker la durabilité, la reconstruction et les poussées concurrentes du protocole de stockage Git de Buzz]] (AFFIRMATION) — 0.94
+
+- [[kb/Block\|Block]] **utilise** → TLA+ — 0.95
+
+**Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]], [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ### TPU {#TPU}
 
@@ -12274,7 +12282,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (875)
+## CONCEPT (876)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18254,6 +18262,16 @@
 - **permet** → [[kb/_entites-mineures#de-rendre-un-script-idempotent-et-déployable-sur-plusieurs-espaces-de-travail\|de rendre un script idempotent et déployable sur plusieurs espaces de travail]] (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2026-08/notion-as-code-2026-08-03\|How to use Notion as Code]]
+
+### identité déléguée d'agent {#identité-déléguée-d'agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Modèle d'autorisation où l'agent possède sa propre clé et signe son travail lui-même, tandis que le credential signé par son propriétaire atteste qui l'a autorisé et sous quelles conditions ; l'autorisation n'efface pas la paternité, ce qui rend la révocation et l'attribution indépendantes de l'identité humaine
+
+- **résout** → [[kb/_entites-mineures#l'usage-des-identifiants-d'un-humain-par-un-bot,-et-permet-de-révoquer-un-agent-compromis-sans-remplacer-l'identité-humaine\|l'usage des identifiants d'un humain par un bot, et permet de révoquer un agent compromis sans remplacer l'identité humaine]] (AFFIRMATION) — 0.95
+
+**Fiches** : [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ### identité opératoire {#identité-opératoire}
 

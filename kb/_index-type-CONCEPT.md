@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 904 entités de type CONCEPT
+> 905 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -678,6 +678,7 @@
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] — description: Tendance des LLMs à assumer sans valider (1 occ., 1 fiches)
 - [[kb/_entites-mineures#idea-generator-executor-judge\|idea generator / executor / judge]] — définition: Réduction du rôle humain face à un agent qui code seul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#identifiant-de-ressource-logique\|identifiant de ressource logique]] — définition: Identifiant choisi par l'auteur d'un script déclaratif, distinct de l'identifiant réel de la plateforme, et relié à lui par une table de correspondance produite au premier déploiement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#identité-déléguée-d'agent\|identité déléguée d'agent]] — définition: Modèle d'autorisation où l'agent possède sa propre clé et signe son travail lui-même, tandis que le credential signé par son propriétaire atteste qui l'a autorisé et sous quelles conditions ; l'autorisation n'efface pas la paternité, ce qui rend la révocation et l'attribution indépendantes de l'identité humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] — définition: « Je sais concevoir des architectures complexes » — définition de soi par la compétence, opposée à l'identité statutaire (« je suis manager ») (1 occ., 1 fiches)
 - [[kb/_entites-mineures#iframes-sandboxées\|iframes sandboxées]] — rôle: Mécanisme d'isolation sécurisée des composants UI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#immutabilité\|immutabilité]] — domaine: Architecture logicielle, sauvegarde de données (1 occ., 1 fiches)
