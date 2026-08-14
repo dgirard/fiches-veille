@@ -1,6 +1,6 @@
 # Nvidia
 
-> **Type** : ORGANISATION | 9 relations | 4 fiches sources
+> **Type** : ORGANISATION | 10 relations | 4 fiches sources
 
 ## Attributs
 
@@ -43,6 +43,7 @@
 ## Relations (comme objet)
 
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → Nvidia — 0.95
+- [[kb/Mistral-AI\|Mistral AI]] **utilise** → Nvidia — 0.88
 
 ## Fiches sources
 

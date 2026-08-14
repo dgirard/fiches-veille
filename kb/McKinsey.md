@@ -1,6 +1,6 @@
 # McKinsey
 
-> **Type** : ORGANISATION | 11 relations | 1 fiches sources
+> **Type** : ORGANISATION | 12 relations | 1 fiches sources
 
 ## Attributs
 
@@ -31,6 +31,8 @@
 
 - « $3-5T revenus commerce agentique global d'ici 2030 » (AFFIRMATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+- « 5 200 milliards de dollars de capex datacenter nécessaires d'ici 2030 pour absorber la demande mondiale d'IA » (MESURE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - « 5 millions d'humanoïdes en usine en 2040 (vs ~200 en 2026) » (MESURE) — 0.85, DYNAMIQUE
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 

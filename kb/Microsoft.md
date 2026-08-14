@@ -1,12 +1,13 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 17 relations | 6 fiches sources
+> **Type** : ORGANISATION | 18 relations | 7 fiches sources
 
 ## Attributs
 
 - **métrique distinctive** : Bad Developer Days (BDDs)
 - **participation** : 27% capital OpenAI Group PBC
 - **produit partenaire** : Copilot
+- **rôle** : Locataire d'ancrage des datacenters européens de Mistral AI depuis juillet 2026 : loue de la capacité pour sa propre demande cloud et IA, dé-risquant la construction. Deux tiers des clients de Mistral travaillent déjà avec Microsoft (Arthur Mensch, WSJ)
 - **secteur** : Plateforme logicielle / IA / Cloud
 - **trésorerie** : 80 milliards de dollars
 
@@ -64,6 +65,8 @@
 
 - [[kb/_entites-mineures#Bad-Developer-Days\|Bad Developer Days]] (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
+- « la capacité des datacenters européens de Mistral, louée pour servir sa propre demande cloud et IA » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[kb/_entites-mineures#NVIDIA-Vera-Rubin\|NVIDIA Vera Rubin]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
@@ -78,6 +81,7 @@
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+- [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
 - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]

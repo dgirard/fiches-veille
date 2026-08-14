@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 375 entités de type ORGANISATION
+> 377 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -112,10 +112,12 @@
 - [[kb/_entites-mineures#EACA-(European-Association-of-Communication-Agencies)\|EACA (European Association of Communication Agencies)]] — secteur: Association européenne des agences de communication. Charley Stoney en est CEO. Endorsement institutionnel européen du rapport VoxComm (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ENISA\|ENISA]] — catégorie: Agence européenne cybersécurité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EXL\|EXL]] — valorisation: 6 milliards de dollars (1 occ., 1 fiches)
+- [[kb/_entites-mineures#EcoDataCenter\|EcoDataCenter]] — rôle: Partenaire suédois de Mistral AI pour un site de 23 MW en énergie renouvelable et refroidissement avancé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elee\|Elee]] — secteur: Conseil achats IT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Embabel\|Embabel]] — secteur: Plateforme IA agentic basée sur JVM, démontre l'approche DICE (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Epita\|Epita]] — secteur: École d'ingénieurs informatique française (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] — catégorie: École d'informatique, France (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Epoch-AI\|Epoch AI]] — rôle: Institut de recherche cité comme contre-expertise indépendante : chiffre un datacenter IA d'un gigawatt à environ 38 milliards de dollars de capex initial, serveurs et GPU en tête (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Equal-Experts\|Equal Experts]] — secteur: Consulting CD / engineering (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] — secteur: E-commerce / Marketplace artisanale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evercore-ISI\|Evercore ISI]] — rôle: Maison d'analyse côté vendeur ; énumère quatre voies de monétisation de l'IA chez Block, toutes de forme logicielle classique, aucune indexée sur le résultat (1 occ., 1 fiches)
@@ -214,12 +216,12 @@
 - [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (1 occ., 1 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
-- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (7 occ., 6 fiches)
+- [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (8 occ., 7 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] — secteur: Développement logiciel / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MindStudio-Team\|MindStudio Team]] — rôle: Auteur de l'explainer, plateforme d'orchestration de workflows multi-modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (5 occ., 5 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] — secteur: Chaîne YouTube + coaching ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)
@@ -357,7 +359,7 @@
 - [[kb/_entites-mineures#Yahoo-Finance\|Yahoo Finance]] — rôle: source média financier (1 occ., 1 fiches)
 - [[kb/YouTube-organisation\|YouTube]] — secteur: Plateforme vidéo / Éducation en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Z-AI\|Z AI]] — secteur: Labo IA (Zhipu AI, Chine), créateur de la famille GLM (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Z.ai\|Z.ai]] — secteur: Modèles de fondation chinois (open-weights) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Z.ai\|Z.ai]] — secteur: Laboratoire d'IA chinois, anciennement Zhipu, éditeur du modèle open-weights GLM-5.2 (2 occ., 2 fiches)
 - [[kb/ZML\|ZML]] — profil: Startup parisienne (fondée 2023), ~20 pers., ~20 M$ levés ; framework d'inférence homonyme (Apache-2.0, >90 % Zig) (1 occ., 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] — secteur: Automatisation / Orchestration IA (4 occ., 3 fiches)
 - [[kb/Zed\|Zed]] — positionnement: Éditeur à l'origine d'ACP ; défend l'optionalité de fournisseur comme protection contre le risque tarifaire, pas seulement comme argument d'interopérabilité (1 occ., 1 fiches)

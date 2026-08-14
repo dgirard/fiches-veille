@@ -1,11 +1,11 @@
 # GLM-5.2
 
-> **Type** : TECHNOLOGIE | 13 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 15 relations | 5 fiches sources
 
 ## Attributs
 
 - **catégorie** : Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité
-- **rôle** : Modèle co-auteur du manifeste
+- **rôle** : Modèle open-weights du laboratoire chinois Z.ai, premier modèle tiers hébergé par Mistral AI sous contrôles régionaux européens et SLA maison — pièce centrale du repositionnement en couche de distribution souveraine
 - **tarif** : ~$1,40 / $4,40 le M tokens ; ~1/6 du frontier ; poids ouverts (MIT)
 
 ## Relations (comme sujet)
@@ -51,6 +51,8 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Z-AI\|Z AI]] **a_créé** → GLM-5.2 — 0.98
+- [[kb/Mistral-AI\|Mistral AI]] **utilise** → GLM-5.2 — 0.95
+- [[kb/_entites-mineures#Z.ai\|Z.ai]] **publie** → GLM-5.2 — 0.94
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **surpasse** → GLM-5.2 — 0.92
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] **surpasse** → GLM-5.2 — 0.90
 
@@ -59,4 +61,5 @@
 - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
+- [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]

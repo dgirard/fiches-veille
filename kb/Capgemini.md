@@ -1,6 +1,6 @@
 # Capgemini
 
-> **Type** : ORGANISATION | 7 relations | 1 fiches sources
+> **Type** : ORGANISATION | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,11 @@
   - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 - « près de 20 % de réduction des incidents et interruptions de service » (MESURE) — 0.93, DYNAMIQUE
   - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
+
+### soutient
+
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.88, DYNAMIQUE
+  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### utilise
 

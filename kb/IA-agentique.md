@@ -1,6 +1,6 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 16 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 4 fiches sources
 
 ## Attributs
 
@@ -36,6 +36,8 @@
 
 - [[kb/_entites-mineures#apprentissage-traditionnel-des-architectes-par-l'écriture-de-code\|apprentissage traditionnel des architectes par l'écriture de code]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- « la viabilité de l'inférence auto-hébergée : au-delà d'environ 100 milliards de paramètres denses, et avec des modèles au trillion de paramètres et un volume croissant de tokens, le on-premise devient intenable » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### s_applique_à
 

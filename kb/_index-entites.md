@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3077 entités
+> 3084 entités
 
 ## #
 
@@ -1043,6 +1043,7 @@
 - [[kb/_entites-mineures#E2B\|E2B]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#EACA-(European-Association-of-Communication-Agencies)\|EACA (European Association of Communication Agencies)]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Ebony-Louis\|Ebony Louis]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#EcoDataCenter\|EcoDataCenter]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Economie-de-la-computation\|Economie de la computation]] (CONCEPT, 1 fiches)
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#edge-computing\|edge computing]] (TECHNOLOGIE, 1 fiches)
@@ -1086,6 +1087,7 @@
 - [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Epita\|Epita]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Epitech-Paris\|Epitech Paris]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Epoch-AI\|Epoch AI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Equal-Experts\|Equal Experts]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Eric-Maxwell\|Eric Maxwell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] (PERSONNE, 1 fiches)
@@ -1102,6 +1104,7 @@
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Etsy\|Etsy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] (DOCUMENT, 2 fiches)
+- [[kb/_entites-mineures#European-Compute-Unit\|European Compute Unit]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Evals\|Evals]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] (METHODOLOGIE, 1 fiches)
@@ -1288,7 +1291,7 @@
 - [[kb/GKG\|GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] (ORGANISATION, 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 1 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 4 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 5 fiches)
 - [[kb/_entites-mineures#Glory\|Glory]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Go\|Go]] (TECHNOLOGIE, 1 fiches)
@@ -1858,13 +1861,14 @@
 - [[kb/_entites-mineures#Mexican-standoff\|Mexican standoff]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#MGX\|MGX]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Michael-Nuñez\|Michael Nuñez]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] (ORGANISATION, 2 fiches)
-- [[kb/Microsoft\|Microsoft]] (ORGANISATION, 6 fiches)
+- [[kb/Microsoft\|Microsoft]] (ORGANISATION, 7 fiches)
 - [[kb/_entites-mineures#Microsoft-Amplifier\|Microsoft Amplifier]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Microsoft-Copilot\|Microsoft Copilot]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] (ORGANISATION, 1 fiches)
@@ -1885,8 +1889,9 @@
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#MIRI\|MIRI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] (ORGANISATION, 1 fiches)
-- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 5 fiches)
+- [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION, 6 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#MIT\|MIT]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] (ORGANISATION, 1 fiches)
@@ -2250,6 +2255,7 @@
 - [[kb/_entites-mineures#principe-Visibility\|principe Visibility]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Principes-d'Influence\|Principes d'Influence]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#principes-de-persuasion-Cialdini\|principes de persuasion Cialdini]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Priority-Tier\|Priority Tier]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#private-evals\|private evals]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Problem-framing-analysis-planning-strategic-prioritization\|Problem framing / analysis planning / strategic prioritization]] (METHODOLOGIE, 1 fiches)
@@ -2625,7 +2631,7 @@
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] (CONCEPT, 2 fiches)
 - [[kb/SpaceX\|SpaceX]] (ORGANISATION, 1 fiches)
@@ -2852,6 +2858,7 @@
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] (PERSONNE, 1 fiches)
 - [[kb/Tim-Williams\|Tim Williams]] (PERSONNE, 1 fiches)
+- [[kb/Timothée-Lacroix\|Timothée Lacroix]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Tinker\|Tinker]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Tissu-d'équipe-(fabric)\|Tissu d'équipe (fabric)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE, 2 fiches)
@@ -3086,7 +3093,7 @@
 ## Z
 
 - [[kb/_entites-mineures#Z-AI\|Z AI]] (ORGANISATION, 1 fiches)
-- [[kb/_entites-mineures#Z.ai\|Z.ai]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Z.ai\|Z.ai]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Zach-Gleicher\|Zach Gleicher]] (PERSONNE, 1 fiches)
 - [[kb/Zapier-organisation\|Zapier]] (ORGANISATION, 3 fiches)
 - [[kb/Zapier-technologie\|Zapier]] (TECHNOLOGIE, 1 fiches)

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 717 entités de type TECHNOLOGIE
+> 719 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -222,7 +222,7 @@
 - [[kb/GDPVal-technologie\|GDPVal]] — définition: Benchmark OpenAI mesurant performance modèles sur 44 occupations humaines, 80%+ win rate atteint en quelques mois (avril 2026) (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
 - [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
-- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (4 occ., 4 fiches)
+- [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (5 occ., 5 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-5.6-Sol\|GPT 5.6 Sol]] — incident: Serait « went rogue » : évasion du sandbox de test, piratage de Hugging Face (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPT-3\|GPT-3]] — catégorie: Modèle de langage (1 occ., 1 fiches)
@@ -398,6 +398,7 @@
 - [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Ministral-3\|Ministral 3]] — rôle: Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] — définition: Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mobile-Android-workflow-CI\|Mobile Android workflow CI]] — description: Produit interne Raiffeisen — pipeline auto plan / implementation / test pour mobile, redesign complet du SDLC mobile (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modal\|Modal]] — categorie: Infrastructure sandbox agents (1 occ., 1 fiches)
@@ -470,6 +471,7 @@
 - [[kb/_entites-mineures#Playwright\|Playwright]] — catégorie: MCP pour tests d'applications web (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plugin-marketplace-Intercom\|Plugin marketplace Intercom]] — métriques: 153 contributeurs, 267 skills en 3 mois, 31% R&D active (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Policy-Bot\|Policy Bot]] — catégorie: GPT custom Moderna pour répondre sur les policies internes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Priority-Tier\|Priority Tier]] — définition: Palier de service de Mistral AI en préversion publique (août 2026) : niveaux de service engagés, quotas sur mesure et SLA de disponibilité pour les charges critiques. Mistral revendique être le seul laboratoire européen à offrir à la fois le choix de région de traitement et un palier adossé à un SLA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Product-Sans\|Product Sans]] — date_création: 2015 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] — audience: Abonnés Google US Ultra (1 occ., 1 fiches)
 - [[kb/Project-Jules\|Project Jules]] — catégorie: Agent de codage proactif autonome (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 383 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-12
+> 384 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-14
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **12** [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. · Deep Research — Buzz, buzz.xyz, Block
 - **12** [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12. · Deep Research — ChatGPT Desktop, Claude Desktop, version web
+- **11** [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte. · VentureBeat — Mistral AI, souveraineté numérique, souveraineté IA
 - **11** [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte. · X (article long format) — Forward Deployed Engineer, FDE, ingénieur déployé chez le client
 - **07** [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement. · Didier Girard (X) — Shieldstral, Shieldstral 1.0 3B, Mistral AI
 - **06** [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce : · Google Developers Blog — Agent Plugins, Agent Plugins 1.0.0, spécification ouverte
@@ -806,6 +807,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de dépôts graphifiés)](fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06.md) — **Safi Shamsi** — mainteneur déclaré en pied de page (*« © 2026 Graphify. Built in the open. Maintained by Safi Shamsi »*), également créateur de la skill graphify et fondateur de **Graphify Labs** (Y Combinator S26). Le site est donc une **propriété officielle du projet**, non un site tiers.
 - [Efficient Tokens & Effective Teams in Buzz](fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06.md) — - **Atish Patel** — *« Building AI solutions @ Block »*. Auteur unique.
@@ -908,6 +910,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [L'IA fait tomber les murs entre les métiers](fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01.md) — **SFEIR** — ESN française « AI Only » (~850 ingénieurs, 8 agences France & Benelux). Voix éditoriale du cabinet (byline « SFEIR »).
 - [Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents](fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30.md) — SFEIR (voix éditoriale du cabinet, article non signé individuellement) — construit sur Addy Osmani (Google) ; cite Martin Monperrus, Paula Hingel (Augment Code), DORA/Google Cloud, Jason Clinton (Anthropic), l'équipe Engineering de Compare the Market
@@ -1007,6 +1010,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte.
 - [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
 - [The state of open source AI (v1.0.1, juillet 2026)](fiches/2026-07/mozilla-state-of-open-source-ai-2026-07.md) — **Mozilla** — éditeur du rapport, avec une introduction signée **Raffi Krikorian**, *Chief Technology Officer*. Données issues de sources tierces créditées (Artificial Analysis, Epoch AI, OpenRouter, LMArena) et d'une **enquête propre menée avec SlashData** (*Mozilla / SlashData 2026 developer survey*, n = 1 410 sur la question des freins).
 - [Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes](fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24.md) — **SFEIR** (recherche interne / deep research). Document non signé nominativement — préparation éditoriale pour le blog SFEIR, dans la ligne souveraineté/adoption du cabinet (cf. [[sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22]]). Base factuelle équilibrée (arguments **et** contre-arguments), références numérotées.
@@ -1029,20 +1033,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 383 fiches
-- **Par année** : 2026 (206) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 384 fiches
+- **Par année** : 2026 (207) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 137
   - Architecture & Construction : 49
   - Transformation & Adoption : 79
   - Qualité & Sécurité : 37
-  - Économie & Marché : 74
+  - Économie & Marché : 75
   - Philosophie & Société : 22
-  - Stratégie & Frameworks : 21
+  - Stratégie & Frameworks : 22
   - Outils & Plateformes : 45
   - Recherche & Éducation : 10
   - Produits & Services : 11
-  - Politique & Régulation : 19
+  - Politique & Régulation : 20
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)
@@ -1063,7 +1067,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Kent Beck (3)
   - Jesse Vincent (3)
   - Cobus Greyling (3)
-  - Safi Shamsi (2)
+  - Michael Nuñez (2)
 - **Sources (top 20)** :
   - Anthropic (13)
   - SFEIR (12)
@@ -1077,6 +1081,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - One Useful Thing (4)
   - Addy Osmani (3)
   - a16z (3)
+  - VentureBeat (2)
   - Block Engineering (2)
   - Cloudflare (2)
   - The New Stack (2)
@@ -1084,4 +1089,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
   - The Batch / DeepLearning.AI (2)
-  - Finout (2)

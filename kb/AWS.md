@@ -1,6 +1,6 @@
 # AWS
 
-> **Type** : ORGANISATION | 4 relations | 2 fiches sources
+> **Type** : ORGANISATION | 5 relations | 2 fiches sources
 
 ## Attributs
 
@@ -27,6 +27,10 @@
 
 - [[kb/Kiro\|Kiro]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+
+## Relations (comme objet)
+
+- [[kb/Mistral-AI\|Mistral AI]] **concurrence** → AWS — 0.85
 
 ## Fiches sources
 

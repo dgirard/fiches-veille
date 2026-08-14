@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2631 entités avec moins de 3 triples/fiches
+> 2637 entités avec moins de 3 triples/fiches
 
-## PERSONNE (371)
+## PERSONNE (372)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2348,6 +2348,16 @@
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
 
+### Michael Nuñez {#Michael-Nuñez}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Journaliste VentureBeat spécialisé IA et infrastructure ; auteur de l'entretien exclusif sous embargo avec Timothée Lacroix, et de la mise à l'échelle des annonces par des estimations tierces
+
+- **affirme_que** → [[kb/_entites-mineures#dès-qu'un-agent-IA-va-chercher-le-web-ouvert,-la-souveraineté-devient-une-décision-de-configuration-plutôt-qu'un-défaut\|dès qu'un agent IA va chercher le web ouvert, la souveraineté devient une décision de configuration plutôt qu'un défaut]] (CITATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+
 ### Michael Schrage {#Michael-Schrage}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3705,7 +3715,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (281)
+## ORGANISATION (283)
 
 ### 10x {#10x}
 
@@ -3822,9 +3832,11 @@
 
 ### ASML {#ASML}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Entreprise néerlandaise de lithographie semi-conducteur, mentionnée par Mensch comme exemple d'extrémité amont de la chaîne de valeur IA
+
+- **soutient** → [[kb/Mistral-AI\|Mistral AI]] (ORGANISATION) — 0.90
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -4549,6 +4561,16 @@
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
+### EcoDataCenter {#EcoDataCenter}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Partenaire suédois de Mistral AI pour un site de 23 MW en énergie renouvelable et refroidissement avancé
+
+- [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → EcoDataCenter — 0.90
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+
 ### Elee {#Elee}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4589,6 +4611,16 @@
 - **catégorie** : École d'informatique, France
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
+
+### Epoch AI {#Epoch-AI}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Institut de recherche cité comme contre-expertise indépendante : chiffre un datacenter IA d'un gigawatt à environ 38 milliards de dollars de capex initial, serveurs et GPU en tête
+
+- **mesure** → [[kb/_entites-mineures#environ-38-milliards-de-dollars-de-capex-initial-pour-un-datacenter-IA-d'un-gigawatt,-serveurs-et-GPU-représentant-la-majorité-du-coût\|environ 38 milliards de dollars de capex initial pour un datacenter IA d'un gigawatt, serveurs et GPU représentant la majorité du coût]] (MESURE) — 0.92
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### Equal Experts {#Equal-Experts}
 
@@ -6409,13 +6441,14 @@
 
 ### Z.ai {#Z.ai}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
-- **secteur** : Modèles de fondation chinois (open-weights)
+- **secteur** : Laboratoire d'IA chinois, anciennement Zhipu, éditeur du modèle open-weights GLM-5.2
 
 - **publie** → [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE) — 0.98
+- **publie** → [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.94
 
-**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
+**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]], [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### Zillow {#Zillow}
 
@@ -6546,7 +6579,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (576)
+## TECHNOLOGIE (578)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9675,6 +9708,18 @@
 
 **Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 
+### Mistral Regional Endpoints {#Mistral-Regional-Endpoints}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié
+
+- **permet** → [[kb/_entites-mineures#d'épingler-l'inférence-et-ses-traitements-associés-à-une-région-choisie,-Europe-ou-États-Unis\|d'épingler l'inférence et ses traitements associés à une région choisie, Europe ou États-Unis]] (AFFIRMATION) — 0.95
+
+- [[kb/Mistral-AI\|Mistral AI]] **publie** → Mistral Regional Endpoints — 0.96
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+
 ### Mistral Small 3.1 {#Mistral-Small-3.1}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10271,6 +10316,18 @@
 - **catégorie** : GPT custom Moderna pour répondre sur les policies internes
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
+
+### Priority Tier {#Priority-Tier}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Palier de service de Mistral AI en préversion publique (août 2026) : niveaux de service engagés, quotas sur mesure et SLA de disponibilité pour les charges critiques. Mistral revendique être le seul laboratoire européen à offrir à la fois le choix de région de traitement et un palier adossé à un SLA
+
+- **permet** → [[kb/_entites-mineures#des-niveaux-de-service-engagés,-des-quotas-sur-mesure-et-un-SLA-de-disponibilité-pour-les-charges-critiques,-en-préversion-publique\|des niveaux de service engagés, des quotas sur mesure et un SLA de disponibilité pour les charges critiques, en préversion publique]] (AFFIRMATION) — 0.93
+
+- [[kb/Mistral-AI\|Mistral AI]] **publie** → Priority Tier — 0.94
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### Product Sans {#Product-Sans}
 
@@ -12439,7 +12496,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (880)
+## CONCEPT (881)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14203,6 +14260,19 @@
 - **description** : Faux negatif (manquer une maladie) vs faux positif (diagnostiquer un sain comme malade) -- le systeme punit davantage le premier
 
 **Fiches** : [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
+
+### European Compute Unit {#European-Compute-Unit}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Unité d'engagement créée par Mistral AI (août 2026) : créance pluriannuelle sur de la capacité de calcul à construire, fongible entre inférence, entraînement, adaptation de modèles et Kubernetes managé. Visée d'engagement de cinq ans sans sortie anticipée — « There is no getting out ». Fonctionne comme un pré-achat de capacité garantissant le financement d'infrastructure, à la manière d'un contrat d'achat d'électricité
+
+- **permet** → [[kb/_entites-mineures#de-convertir-un-engagement-pluriannuel-d'entreprise-en-créance-fongible-sur-de-la-capacité-à-construire,-dépensable-en-inférence,-entraînement,-adaptation-de-modèles-ou-Kubernetes-managé\|de convertir un engagement pluriannuel d'entreprise en créance fongible sur de la capacité à construire, dépensable en inférence, entraînement, adaptation de modèles ou Kubernetes managé]] (AFFIRMATION) — 0.94
+- **est_instance_de** → [[kb/_entites-mineures#pré-achat-de-capacité-servant-de-garantie-au-financement-d'infrastructure,-sur-le-modèle-d'un-contrat-d'achat-d'électricité-plutôt-que-d'un-contrat-cloud\|pré-achat de capacité servant de garantie au financement d'infrastructure, sur le modèle d'un contrat d'achat d'électricité plutôt que d'un contrat cloud]] (AFFIRMATION) — 0.88
+
+- [[kb/Mistral-AI\|Mistral AI]] **a_créé** → European Compute Unit — 0.95
+
+**Fiches** : [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### Evals {#Evals}
 
@@ -19780,13 +19850,16 @@
 
 ### souveraineté numérique {#souveraineté-numérique}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **domaine** : Stratégie des États face à la concentration IA
+- **définition** : Dans ce dossier, propriété qui se qualifie couche par couche : le modèle open-weights reste réversible, l'inférence régionale est configurable, mais l'engagement de capacité pluriannuel est irréversible par conception. Le point de fuite pratique n'est pas la région d'exécution mais l'outillage de l'agent — appels d'outils et recherche web hors région
+
+- **s_applique_à** → [[kb/_entites-mineures#la-configuration-d'une-application-agentique-plutôt-qu'à-la-seule-région-d'exécution,-puisque-les-appels-d'outils-comme-la-recherche-web-peuvent-sortir-de-la-région-choisie\|la configuration d'une application agentique plutôt qu'à la seule région d'exécution, puisque les appels d'outils comme la recherche web peuvent sortir de la région choisie]] (AFFIRMATION) — 0.90
 
 - [[kb/_entites-mineures#concentration-du-capital-Big-Tech\|concentration du capital Big Tech]] **réduit** → souveraineté numérique — 0.88
 
-**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
+**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]], [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
 ### souveraineté par étages {#souveraineté-par-étages}
 

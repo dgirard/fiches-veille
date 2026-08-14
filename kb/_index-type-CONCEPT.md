@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 909 entités de type CONCEPT
+> 910 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -214,6 +214,7 @@
 - [[kb/_entites-mineures#Entreprise-bionique\|Entreprise bionique]] — horizon: 2030 — fusion humain-technologie, IA omniprésente et invisible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ephemeral-Intelligence-Gap\|Ephemeral Intelligence Gap]] — définition: Perte de connaissance quand les sessions d'agents se terminent ; redécouverte en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Erreur-de-type-I-et-II-(contexte-medical)\|Erreur de type I et II (contexte medical)]] — description: Faux negatif (manquer une maladie) vs faux positif (diagnostiquer un sain comme malade) -- le systeme punit davantage le premier (1 occ., 1 fiches)
+- [[kb/_entites-mineures#European-Compute-Unit\|European Compute Unit]] — définition: Unité d'engagement créée par Mistral AI (août 2026) : créance pluriannuelle sur de la capacité de calcul à construire, fongible entre inférence, entraînement, adaptation de modèles et Kubernetes managé. Visée d'engagement de cinq ans sans sortie anticipée — « There is no getting out ». Fonctionne comme un pré-achat de capacité garantissant le financement d'infrastructure, à la manière d'un contrat d'achat d'électricité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Evals\|Evals]] — définition: Jeu de données pour mesurer la performance de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|Explosion cambrienne des Skills]] — description: Prédiction d'adoption massive et diversifiée des Claude Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FOMO-d'agents-24-7\|FOMO d'agents 24/7]] — définition: Pression psychologique : "every hour I'm not at the keyboard is an hour an agent could be earning for me" — inversion de la logique deep work (1 occ., 1 fiches)
@@ -828,7 +829,7 @@
 - [[kb/_entites-mineures#sophisme-de-McNamara\|sophisme de McNamara]] — définition: Écarter le non-quantifiable comme non pertinent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)
-- [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] — description: Réduction de la dépendance aux outils IA américains (2 occ., 2 fiches)
 - [[kb/_entites-mineures#spans-of-control\|spans of control]] — définition: Nombre de subordonnés qu'un manager peut superviser efficacement (1 occ., 1 fiches)

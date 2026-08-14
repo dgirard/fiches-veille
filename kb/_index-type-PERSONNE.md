@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 490 entités de type PERSONNE
+> 492 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -318,6 +318,7 @@
 - [[kb/_entites-mineures#Meng-Huang\|Meng Huang]] — rôle: Engineering Manager chez Uber, responsable équipe Security/Identity infrastructure agent (1 occ., 1 fiches)
 - [[kb/Meng-To\|Meng To]] — rôle: Designer fondateur Design+Code, créateur Aura/New Form/Dream Cut, francophone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] — rôle: Directeur OSTP (Office of Science and Technology Policy) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Michael-Nuñez\|Michael Nuñez]] — rôle: Journaliste VentureBeat spécialisé IA et infrastructure ; auteur de l'entretien exclusif sous embargo avec Timothée Lacroix, et de la mise à l'échelle des annonces par des estimations tierces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] — affiliation: MIT Sloan (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] — rôle: CEO de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] — rôle: Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap (1 occ., 1 fiches)
@@ -453,6 +454,7 @@
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/Tim-Williams\|Tim Williams]] — rôle: Founder Ignition Consulting Group. Auteur du foreword du rapport VoxComm. Aphorismes "incentives matter", "you are not in the service business" (1 occ., 1 fiches)
+- [[kb/Timothée-Lacroix\|Timothée Lacroix]] — rôle: Cofondateur et CTO de Mistral AI ; porte publiquement la thèse que l'inférence auto-hébergée devient intenable au-delà d'environ 100 milliards de paramètres denses, et assume l'irréversibilité des engagements ECU (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tobias-Lütke\|Tobias Lütke]] — rôle: CEO Shopify, créateur QMD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tom-Brow\|Tom Brow]] — rôle: Ingénieur chez Block, auteur du billet « A Buzz on your phone » (29 juillet 2026) sur l'application mobile : pas d'hébergement d'agents, signature des messages, appairage QR depuis le desktop, aucun SDK d'analytics et suppression des métadonnées EXIF (1 occ., 1 fiches)
 - [[kb/Tony-Seale\|Tony Seale]] — rôle: Évangéliste knowledge graph, auteur LinkedIn The Knowledge Graph Guy (2 occ., 2 fiches)
