@@ -70,7 +70,7 @@ La filiation vient de l'**image** : Stable Diffusion et DALL-E ont quitté l'aut
 | Google | ORGANISATION | a_créé | Diffusion Gemma | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Diffusion Gemma | TECHNOLOGIE | est_instance_de | modèles de langage par diffusion | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Diffusion Gemma | TECHNOLOGIE | est_variante_de | Gemma 2 | TECHNOLOGIE | 0.9 | STATIQUE | déclaré_article |
-| Diffusion Gemma | TECHNOLOGIE | utilise | diffusion masquée (absorbing diffusion) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Diffusion Gemma | TECHNOLOGIE | utilise | diffusion masquée | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Diffusion Gemma | TECHNOLOGIE | utilise | attention bidirectionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | modèles de langage par diffusion | TECHNOLOGIE | s_oppose_à | génération autorégressive | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | modèles de langage par diffusion | TECHNOLOGIE | améliore | parallélisme de génération | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |

@@ -13,7 +13,7 @@
 
 ### est_basé_sur
 
-- Jupyter kernel (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/_entites-mineures#Jupyter\|Jupyter]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 
 ### mesure

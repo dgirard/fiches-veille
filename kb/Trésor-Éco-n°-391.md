@@ -1,6 +1,6 @@
 # Trésor-Éco n° 391
 
-> **Type** : DOCUMENT | 6 relations | 1 fiches sources
+> **Type** : DOCUMENT | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,10 @@
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 - « investir dans l'IA pour soutenir la compétitivité et éviter un décrochage face à la concurrence internationale » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#DG-Trésor\|DG Trésor]] **publie** → Trésor-Éco n° 391 — 0.99
 
 ## Fiches sources
 

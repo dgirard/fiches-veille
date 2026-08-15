@@ -180,7 +180,11 @@ tranchées après l'audit KG du 2026-08-15 :
 - **Corollaire de nommage** : quand un article et le concept qu'il introduit
   portent le même nom, préfixer le DOCUMENT — `article Cognitive Surrender`
   (DOCUMENT) vs `Cognitive Surrender` (CONCEPT). Sans cela, les deux entités
-  fusionnent sur un type contradictoire.
+  fusionnent sur un type contradictoire. Le check (h) **exempte** ce cas : un
+  nom de triple typé `DOCUMENT` ou `EVENEMENT` dont toutes les entités déclarées
+  voisines portent un autre type applique cette règle, il ne dérive pas. Le
+  recouvrement de noms redevient une dérive si les deux côtés ont le **même**
+  type (deux DOCUMENT dont l'un est une variante de l'autre).
 
 ### Homonymes de types différents
 

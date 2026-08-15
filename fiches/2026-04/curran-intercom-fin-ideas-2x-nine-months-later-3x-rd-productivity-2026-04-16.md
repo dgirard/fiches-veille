@@ -121,7 +121,7 @@ Le cas Intercom complète Stripe Minions, StrongDM Software Factory et le compil
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Darragh Curran | PERSONNE | dirige | R&D Intercom | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Darragh Curran | PERSONNE | dirige | Intercom | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Intercom | ORGANISATION | mesure | 3× productivité R&D en 16 mois | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Darragh Curran | PERSONNE | affirme_que | engagement public de doubler la productivité R&D en 12 mois | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
 | Darragh Curran | PERSONNE | affirme_que | "All technical work is becoming agent-first" | CITATION | 0.98 | DYNAMIQUE | déclaré_article |
@@ -135,14 +135,14 @@ Le cas Intercom complète Stripe Minions, StrongDM Software Factory et le compil
 | Token spending | CONCEPT | améliore | gains individuels productivité | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Intercom | ORGANISATION | a_créé | Skills-Based Plugin Architecture | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Plugin marketplace privé | TECHNOLOGIE | permet | distribution de 267 skills Claude Code spécialisés | CONCEPT | 0.96 | STATIQUE | déclaré_article |
-| 153 contributeurs Intercom | PERSONNE | a_créé | 267 skills en 3 mois | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| contributeurs R&D (153) | PERSONNE | a_créé | 267 skills en 3 mois | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Brian Scanlan | PERSONNE | publie | thread viral plugin ecosystem | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
-| Employés Intercom (1100 en pic) | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| employés (1100 en pic) | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | R&D | CONCEPT | est_instance_de | factory for producing high-quality increments | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Darragh Curran | PERSONNE | recommande | embrasser les métriques imparfaites plutôt que la paralysie analytique | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | Productivity Tiering | METHODOLOGIE | mesure | progression minimal → elite agentic tool usage | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Intercom | ORGANISATION | mesure | merge auto-approuvé Claude Code médian à 14,6 min | MESURE | 0.95 | STATIQUE | déclaré_article |
-| Cormac | PERSONNE | a_créé | data analytics platform Intercom (Streamlit-Snowflake) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Cormac | PERSONNE | a_créé | data analytics platform (Streamlit-Snowflake) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Ramp | ORGANISATION | converge_avec | Intercom | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 
 ### Entités

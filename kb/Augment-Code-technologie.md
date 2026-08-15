@@ -12,12 +12,12 @@
 
 ### est_basé_sur
 
-- [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 
 ### est_instance_de
 
-- partenaire stratégique IA (CONCEPT) — 0.88, DYNAMIQUE
+- partenaire stratégique (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 
 ### publie

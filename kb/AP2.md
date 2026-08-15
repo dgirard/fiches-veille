@@ -1,6 +1,6 @@
 # AP2
 
-> **Type** : TECHNOLOGIE | 8 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 1 fiches sources
 
 ## Attributs
 
@@ -28,7 +28,11 @@
 
 - licence Apache 2.0 (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
-- Google API Key (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#Agent-Development-Kit\|Agent Development Kit]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
+- [[kb/Gemini-2.5-Flash\|Gemini 2.5 Flash]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+  - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
+- clé d'API (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 - [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]

@@ -94,9 +94,9 @@ Le succès démontrera la viabilité d'une **voie européenne** dans le domaine 
 | CEA | ORGANISATION | affirme_que | RISC-V garantit la souveraineté technologique | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | RISC-V | TECHNOLOGIE | réduit | dépendances propriétaires | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | ExpressIF 3 | TECHNOLOGIE | réduit | consommation énergétique à l'échelle du milliwatt | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| CEA | ORGANISATION | a_créé | écosystème logiciel RISC-V | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| CEA | ORGANISATION | a_créé | RISC-V | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | France | LIEU | soutient | conception de puces domestiques | CONCEPT | 0.82 | DYNAMIQUE | inféré |
-| stratégie industrielle CEA | METHODOLOGIE | est_basé_sur | souveraineté technologique européenne | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| CEA | METHODOLOGIE | est_basé_sur | souveraineté technologique européenne | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

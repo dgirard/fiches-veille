@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 38 relations | 22 fiches sources
+> **Type** : METHODOLOGIE | 41 relations | 22 fiches sources
 
 ## Attributs
 
@@ -49,7 +49,7 @@
   - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - explosion volume code (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
-- Vibe Coding Hangover (CONCEPT) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#Vibe-Coding-Hangover\|Vibe Coding Hangover]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - transformation des incertitudes UX en spécifications (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-11/klaassen-teach-ai-think-senior-engineer-every-2025-11-07\|Teach Your AI to Think Like a Senior Engineer]]
@@ -102,10 +102,13 @@
 - [[kb/_entites-mineures#spec-coding\|spec coding]] **s_oppose_à** → vibe coding — 0.95
 - [[kb/_entites-mineures#Gene-Kim\|Gene Kim]] **utilise** → vibe coding — 0.93
 - [[kb/compounding-teams\|compounding teams]] **s_oppose_à** → vibe coding — 0.92
-- niveau Autopilot **converge_avec** → vibe coding — 0.90
+- [[kb/_entites-mineures#Autopilot\|Autopilot]] **converge_avec** → vibe coding — 0.90
 - [[kb/_entites-mineures#Agentic-engineering\|agentic engineering]] **est_variante_de** → vibe coding — 0.90
 - [[kb/Vibe-Reviewing\|Vibe Reviewing]] **s_oppose_à** → vibe coding — 0.90
+- Vibe Check **résout** → vibe coding — 0.88
+- [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] **s_applique_à** → vibe coding — 0.88
 - seniors et staff engineers **s_oppose_à** → vibe coding — 0.87
+- [[kb/Dario-Amodei\|Dario Amodei]] **affine** → vibe coding — 0.85
 
 ## Fiches sources
 

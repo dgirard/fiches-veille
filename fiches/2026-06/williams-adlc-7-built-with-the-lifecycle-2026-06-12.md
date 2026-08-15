@@ -88,3 +88,4 @@ Côté adoption, il rejette le big-bang : commencer par la prosecution des PRs e
 | séquencement d'adoption | METHODOLOGIE | ordre | Prosecution des PRs → rails/tests → interrogation → parallélisme + distillation | AJOUT |
 | replace trust with structure | CONCEPT | rôle | Formule-somme des sept volets : confiance → structure → mesure | AJOUT |
 | ADLC Toolkit | TECHNOLOGIE | livraison | github.com/voodootikigod/adlc, package @adlc/core (npm) | AJOUT |
+| ADLC | METHODOLOGIE | catégorie | Cycle dont le toolkit et le paquet @adlc/core sont les implémentations | AJOUT |

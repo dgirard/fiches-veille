@@ -74,8 +74,8 @@ Limites reconnues : plafond de complexité des mécaniques, dégradation de la c
 | Genie 3 | TECHNOLOGIE | concurrence | OpenAI Sora | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Genie 3 | TECHNOLOGIE | concurrence | Runway Gen-3 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Genie 3 | TECHNOLOGIE | permet | prototypage rapide de jeux | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
-| world model | CONCEPT | améliore | développement de jeux vidéo | CONCEPT | 0.82 | ATEMPOREL | inféré |
-| Google DeepMind | ORGANISATION | fait_partie_de | Google | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
+| world model latent | CONCEPT | améliore | développement de jeux vidéo | CONCEPT | 0.82 | ATEMPOREL | inféré |
+| Google DeepMind | ORGANISATION | fait_partie_de | Google DeepMind | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
 | Genie 3 | TECHNOLOGIE | utilise | contrôle par actions | CONCEPT | 0.88 | STATIQUE | déclaré_article |
 
 ### Entités

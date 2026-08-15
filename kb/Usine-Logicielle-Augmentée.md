@@ -1,6 +1,6 @@
 # Usine Logicielle Augmentée
 
-> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -20,7 +20,7 @@
 
 ### permet
 
-- retour du cycle en V prédictible (CONCEPT) — 0.94, ATEMPOREL
+- [[kb/_entites-mineures#Cycle-en-V-prédictible\|Cycle en V prédictible]] (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### remplace
@@ -31,6 +31,7 @@
 ## Relations (comme objet)
 
 - [[kb/Wescale\|Wescale]] **a_créé** → Usine Logicielle Augmentée — 0.97
+- [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] **est_instance_de** → Usine Logicielle Augmentée — 0.97
 
 ## Fiches sources
 

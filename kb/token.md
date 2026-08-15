@@ -1,6 +1,6 @@
 # token
 
-> **Type** : CONCEPT | 3 relations | 2 fiches sources
+> **Type** : CONCEPT | 4 relations | 2 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,11 @@
 - unité fondamentale de consommation LLM (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
 - unité économique de l'intelligence artificielle (CONCEPT) — 0.97, ATEMPOREL
+  - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+
+### mesure
+
+- « 10% de la valeur dans l'électron / 90% ailleurs » (MESURE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### remplace

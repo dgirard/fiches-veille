@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#Nova\|Nova]] (TECHNOLOGIE) — 0.96, STATIQUE
+- [[kb/Nova\|Nova]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
 ### mesure

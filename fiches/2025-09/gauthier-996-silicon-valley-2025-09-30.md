@@ -61,7 +61,7 @@ L'article n'élude pas le revers. Adrian Kinnersley, dirigeant d'une société d
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | 996 | CONCEPT | observé_dans | Silicon Valley | LIEU | 0.95 | DYNAMIQUE | déclaré_article |
-| 996 | CONCEPT | s_inspire_de | culture de travail chinoise 996 | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| 996 | CONCEPT | s_inspire_de | 996 | CONCEPT | 0.9 | STATIQUE | déclaré_article |
 | 996 | CONCEPT | est_basé_sur | crainte que l'IAG rende obsolètes ceux qui ne se sont pas enrichis à temps | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 | Daksh Gupta | PERSONNE | dirige | Greptile | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Daksh Gupta | PERSONNE | affirme_que | "pas d'alcool, pas de drogue, 996, de la gym, courir loin, se marier tôt, surveiller son sommeil, manger des steaks et des œufs" | CITATION | 0.95 | STATIQUE | déclaré_article |

@@ -72,7 +72,7 @@ Les illustrations couvrent de nombreux domaines : en santé, réduire la durée 
 | Donald T. Campbell | PERSONNE | a_créé | loi de Campbell | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | Robert Lucas | PERSONNE | a_créé | critique de Lucas | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | effet cobra | CONCEPT | est_instance_de | incitation perverse | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| loi de Goodhart | CONCEPT | s_applique_à | h-index comme mesure de réputation scientifique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| loi de Goodhart | CONCEPT | s_applique_à | h-index | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | loi de Goodhart | CONCEPT | s_applique_à | objectifs de tests COVID au Royaume-Uni | CONCEPT | 0.87 | STATIQUE | déclaré_article |
 | No Child Left Behind | DOCUMENT | observé_dans | passages de classe sans maîtrise réelle | CONCEPT | 0.84 | STATIQUE | déclaré_article |
 | Jon Danielsson | PERSONNE | s_applique_à | modélisation du risque financier | CONCEPT | 0.82 | STATIQUE | déclaré_article |

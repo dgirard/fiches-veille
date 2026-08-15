@@ -65,9 +65,9 @@ Les leviers opérationnels — **guardrails**, **model routing** intelligent, wo
 | Sohrab Hosseini | PERSONNE | publie | FinOps for AI Agents (Orq.ai) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | coût des agents IA | CONCEPT | est_basé_sur | comportement runtime | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Sohrab Hosseini | PERSONNE | affirme_que | le FinOps traditionnel est insuffisant pour les agents IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Agent FinOps | METHODOLOGIE | mesure | cost per outcome | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Agent FinOps | METHODOLOGIE | utilise | 3 couches de signaux (coût, opérationnel, business) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Agent FinOps | METHODOLOGIE | est_basé_sur | cycle Experiment-Deploy-Operate-Improve | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Agent FinOps (Orq.ai) | METHODOLOGIE | mesure | cost per outcome | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agent FinOps (Orq.ai) | METHODOLOGIE | utilise | 3 couches de signaux (coût, opérationnel, business) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Agent FinOps (Orq.ai) | METHODOLOGIE | est_basé_sur | cycle Experiment-Deploy-Operate-Improve | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | guardrails | CONCEPT | permet | adoption à l'échelle prévisible | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Sohrab Hosseini | PERSONNE | mesure | moins de 30% des entreprises ont un monitoring coût-valeur suffisant | MESURE | 0.90 | STATIQUE | déclaré_article |
 | Sohrab Hosseini | PERSONNE | mesure | 80% des entreprises utilisent la GenAI en 2026 | MESURE | 0.90 | STATIQUE | déclaré_article |

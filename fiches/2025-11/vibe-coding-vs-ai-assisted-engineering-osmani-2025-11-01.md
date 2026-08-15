@@ -76,7 +76,7 @@ Au final, le post plaide pour une **approche équilibrée et informée** de l'IA
 | équipe FAANG | ORGANISATION | mesure | 30% d'augmentation de vitesse | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Vibe Coding | METHODOLOGIE | permet | dette technique | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | AI-Assisted Engineering | METHODOLOGIE | utilise | IA comme multiplicateur de force | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Addy Osmani | PERSONNE | s_oppose_à | conflation vibe coding / engineering | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | s_oppose_à | conflation des deux pratiques | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | l'ingénieur humain conserve la responsabilité de l'architecture | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | l'IA est comme un développeur junior, utile mais jamais sans supervision | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Vibe Coding | METHODOLOGIE | s_oppose_à | AI-Assisted Engineering | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |

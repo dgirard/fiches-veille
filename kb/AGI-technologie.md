@@ -1,6 +1,6 @@
 # AGI
 
-> **Type** : TECHNOLOGIE | 2 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 3 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/AGI-concept\|AGI (CONCEPT)]]
 
@@ -19,6 +19,10 @@
 
 - objectif des grands laboratoires IA (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#Arvind-Narayanan\|Arvind Narayanan]] **s_oppose_à** → AGI — 0.85
 
 ## Fiches sources
 

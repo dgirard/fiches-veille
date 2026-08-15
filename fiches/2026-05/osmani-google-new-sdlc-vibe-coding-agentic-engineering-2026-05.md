@@ -88,7 +88,7 @@ Le développeur oscille entre **conductor** (temps réel, in-IDE) et **orchestra
 | Agent Skills | METHODOLOGIE | réduit | context rot des prompts surchargés | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | harness | CONCEPT | permet | transformer un modèle brut en agent capable de finir une tâche | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | The New SDLC With Vibe Coding | DOCUMENT | affirme_que | la plupart des échecs d'agents sont des échecs de configuration du harness | AFFIRMATION | 0.91 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | réduit | durée de la phase d'implémentation du SDLC | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA | TECHNOLOGIE | réduit | durée de la phase d'implémentation | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | modèle de l'usine | METHODOLOGIE | affirme_que | le livrable du développeur n'est pas le code mais le système qui produit le code | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | evals | METHODOLOGIE | s_applique_à | vérification des comportements non déterministes des agents | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Andrej Karpathy | PERSONNE | a_créé | vibe coding | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
@@ -115,3 +115,5 @@ Le développeur oscille entre **conductor** (temps réel, in-IDE) et **orchestra
 | problème des 80 % | CONCEPT | définition | L'IA génère ~80 % du code ; les 20 % restants exigent un contexte profond | AJOUT |
 | conductor vs orchestrator | CONCEPT | définition | Deux modes du dev : temps réel in-IDE vs délégation async multi-agents | AJOUT |
 | Google Agents CLI | TECHNOLOGIE | catégorie | Outil CLI bundlant des skills ADK (create/playground/eval/deploy) | AJOUT |
+| Google | ORGANISATION | rôle | Éditeur de l'Agents CLI et employeur de l'auteur | AJOUT |
+| SDLC | METHODOLOGIE | catégorie | Cycle de développement dont l'article décrit la recomposition agentique | AJOUT |

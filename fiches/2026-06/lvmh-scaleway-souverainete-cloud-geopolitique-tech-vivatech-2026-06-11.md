@@ -75,13 +75,13 @@ Damien Lucas constate une **bascule du marché vers l'Europe qui s'accélère**,
 | Damien Lucas | PERSONNE | dirige | Scaleway | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Franck Le Moal | PERSONNE | travaille_chez | LVMH | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Scaleway | TECHNOLOGIE | est_instance_de | cloud provider européen | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Scaleway | TECHNOLOGIE | permet | protection contre un kill switch et les lois extraterritoriales | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Scaleway | TECHNOLOGIE | permet | kill switch | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Franck Le Moal | PERSONNE | affirme_que | c'est fini la vie où on pouvait travailler avec une solution mondiale unique | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
 | géopolitique de la tech | CONCEPT | permet | régionalisation du SI en trois plaques (US, Europe, Chine) | CONCEPT | 0.9 | DYNAMIQUE | inféré |
 | LVMH | ORGANISATION | utilise | Google Cloud (data, depuis 2021) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | LVMH | ORGANISATION | utilise | Alibaba Cloud (Chine, ~25 maisons) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | LVMH | ORGANISATION | recommande | une approche hybride et autonome plutôt que « souveraine » | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
-| LVMH | ORGANISATION | utilise | Scaleway (données sensibles, e-commerce européen, cybersécurité) | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
+| LVMH | ORGANISATION | utilise | Scaleway | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | Damien Lucas | PERSONNE | affirme_que | 1 € dépensé chez Scaleway = 68 centimes restent dans l'économie européenne (vs < 20 centimes chez un hyperscaler US) | MESURE | 0.9 | STATIQUE | déclaré_article |
 | Damien Lucas | PERSONNE | affirme_que | le réveil du marché vers le cloud européen est là et s'accélère | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | Scaleway | TECHNOLOGIE | s_applique_à | la couche IaaS et PaaS (sans verticalisation) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

@@ -1,6 +1,6 @@
 # git worktrees
 
-> **Type** : METHODOLOGIE | 5 relations | 4 fiches sources
+> **Type** : METHODOLOGIE | 7 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/git-worktrees-technologie\|git worktrees (TECHNOLOGIE)]]
 
@@ -24,7 +24,9 @@
 
 - [[kb/Jesse-Vincent\|Jesse Vincent]] **recommande** → git worktrees — 0.97
 - [[kb/Claude-Code\|Claude Code]] **utilise** → git worktrees — 0.97
+- [[kb/_entites-mineures#amorriscode\|amorriscode]] **a_créé** → git worktrees — 0.95
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] **utilise** → git worktrees — 0.95
+- [[kb/Superpowers\|Superpowers]] **permet** → git worktrees — 0.92
 
 ## Fiches sources
 

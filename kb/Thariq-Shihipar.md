@@ -34,14 +34,14 @@
 
 ### recommande
 
-- HTML comme format de sortie par défaut (METHODOLOGIE) — 0.98, ATEMPOREL
+- [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - « ne pas documenter ce que Claude sait déjà » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
 ### s_oppose_à
 
-- skill-ification prématurée du pattern HTML (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#Anti-skill-ification\|Anti-skill-ification]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
 ### travaille_chez

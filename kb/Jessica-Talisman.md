@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#Ontology-Pipeline-Framework\|Ontology Pipeline Framework]] (METHODOLOGIE) — 0.97, STATIQUE
+- [[kb/Ontology-Pipeline\|Ontology Pipeline]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 - [[kb/_entites-mineures#Contextually-LLC\|Contextually LLC]] (ORGANISATION) — 0.96, DYNAMIQUE
   - [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]

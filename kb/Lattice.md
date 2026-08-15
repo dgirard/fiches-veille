@@ -19,7 +19,7 @@
 
 ### converge_avec
 
-- [[kb/Compound-Engineering\|Compound Engineering]] (METHODOLOGIE) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#Convergence-Lattice-↔-Compound-Engineering\|Convergence Lattice ↔ Compound Engineering]] (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 - Superpowers (Vincent) (TECHNOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
@@ -28,7 +28,7 @@
 
 ### est_basé_sur
 
-- architecture trois tiers (Atoms / Molecules / Refiners) (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Architecture-trois-tiers-Lattice\|Architecture trois-tiers Lattice]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
 ### est_instance_de
@@ -38,7 +38,7 @@
 
 ### fait_partie_de
 
-- famille des skills frameworks 2026 (CONCEPT) — 0.94, DYNAMIQUE
+- [[kb/_entites-mineures#Famille-skills-frameworks-2026\|Famille skills frameworks 2026]] (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 - réseau éditorial martinfowler.com (ORGANISATION) — 0.89, DYNAMIQUE
   - [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]

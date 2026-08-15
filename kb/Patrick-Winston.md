@@ -13,14 +13,14 @@
 
 - [[kb/_entites-mineures#Formule-K×P×t\|formule K×P×t]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
-- étoile de Winston (5 S) (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Étoile-de-Winston\|Étoile de Winston]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
 
 ### recommande
 
 - techniques de communication orale (METHODOLOGIE) — 0.99, STATIQUE
   - [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
-- empowerment promise au démarrage (METHODOLOGIE) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Empowerment-promise\|Empowerment promise]] (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
 
 ### s_oppose_à

@@ -85,7 +85,7 @@ Dans un thread X de **six observations**, **Dean W. Ball** — analyste de polit
 | Dean W. Ball | PERSONNE | prédit | l'administration Trump créera un risque réglementaire (soft law / FUD) sur l'usage des modèles chinois à poids ouverts, sans « interdire l'open source » | AFFIRMATION | 0.8 | DYNAMIQUE | déclaré_article |
 | FUD réglementaire | METHODOLOGIE | permet | dissuader les entreprises régulées d'utiliser les modèles chinois à poids ouverts | AFFIRMATION | 0.75 | ATEMPOREL | inféré |
 | Dean W. Ball | PERSONNE | affirme_que | les modèles à poids ouverts de cette capacité rendent le monde un peu plus dangereux, sans que ce soit encore perceptible | AFFIRMATION | 0.75 | STATIQUE | déclaré_article |
-| Kimi | TECHNOLOGIE | est_instance_de | modèle frontier open-weights | CONCEPT | 0.85 | STATIQUE | inféré |
+| Kimi | TECHNOLOGIE | est_instance_de | open-weights | CONCEPT | 0.85 | STATIQUE | inféré |
 
 ### Entités
 

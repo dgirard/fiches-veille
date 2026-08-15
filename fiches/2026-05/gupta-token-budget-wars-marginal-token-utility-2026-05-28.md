@@ -187,7 +187,7 @@ Concept canonique : ***marginal token utility*** = *« the business value create
 | Jaya Gupta | PERSONNE | prédit | le token-to-outcome attribution sera acheté comme une transformation (McKinsey + Palantir + top-down CEO) | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
 | Charlie Munger | PERSONNE | affirme_que | « show me the incentive and I will show you the outcome » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
 | @tuning_engines | PERSONNE | affirme_que | « tokens will basically have to be managed like headcount » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
-| Model hierarchies | CONCEPT | permet | contrôle d'accès par rôle sur les modèles (quel utilisateur peut utiliser quel modèle) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Model hierarchies (gouvernance tokens) | CONCEPT | permet | contrôle d'accès par rôle sur les modèles (quel utilisateur peut utiliser quel modèle) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Techniques de gestion FTE | METHODOLOGIE | s_applique_à | la gestion des tokens | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
 | Token Budget Wars | DOCUMENT | converge_avec | Bain cross-system labor, Ng pricing power, DORA ROI, Foundation Capital Context Graphs | DOCUMENT | 0.90 | DYNAMIQUE | inféré |
 

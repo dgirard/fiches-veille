@@ -80,14 +80,16 @@ Sa phrase de chute synthétise : *"AI doesn't replace the need for software engi
 | Paradoxe de Jevons | CONCEPT | s_applique_à | code généré par IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Dave Farley | PERSONNE | affirme_que | l'IA tend aux grands sauts (giant leaps) | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Bon engineering | CONCEPT | est_basé_sur | petits pas réversibles avec feedback rapide | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Dave Farley | PERSONNE | recommande | ATDD comme spécification exécutable | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
+| Dave Farley | PERSONNE | recommande | ATDD (Acceptance Test-Driven Development) | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | Deployment pipeline | METHODOLOGIE | est_instance_de | arbitre de qualité (humain ou IA) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Vibe coding | METHODOLOGIE | s_oppose_à | Continuous Delivery | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 | Bob Martin | PERSONNE | affirme_que | « the only way to go fast is to go well » | CITATION | 0.95 | STATIQUE | déclaré_article |
 | Dave Farley | PERSONNE | affirme_que | l'IA peut supprimer des tests trop couplés à l'implémentation sans validation humaine | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Test suite | TECHNOLOGIE | est_instance_de | arbitre unique de la qualité du code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Manuel Pais | PERSONNE | publie | cours CD vers fast flow | DOCUMENT | 0.92 | DYNAMIQUE | déclaré_article |
-| Equal Experts, Transfig, Octopus Deploy | ORGANISATION | collabore_avec | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Equal Experts | ORGANISATION | collabore_avec | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Transfig | ORGANISATION | collabore_avec | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Octopus Deploy | ORGANISATION | collabore_avec | Modern Software Engineering | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

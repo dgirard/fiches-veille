@@ -52,7 +52,7 @@ La présentation se termine sur le backlash réel : 60% des organisations résis
 | Steve Yegge | PERSONNE | prédit | mort de l'IDE traditionnel | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Gene Kim | PERSONNE | utilise | vibe coding | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Dario Amodei | PERSONNE | affirme_que | le vibe coding est une conversation itérative qui résulte en IA écrivant votre code | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Dario Amodei | PERSONNE | affine | définition du vibe coding | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Dario Amodei | PERSONNE | affine | vibe coding | CONCEPT | 0.85 | STATIQUE | déclaré_article |
 | Steve Yegge | PERSONNE | affirme_que | l'écart de productivité 10x crée des alarmes RH | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | 60% des organisations | CONCEPT | s_oppose_à | adoption agents IA | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
 | NoDev | CONCEPT | remplace | NoOps | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |

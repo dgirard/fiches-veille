@@ -36,7 +36,7 @@
 
 ### est_instance_de
 
-- optimiste déterminé (CONCEPT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
 ### prédit

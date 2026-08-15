@@ -67,11 +67,11 @@ Le guide est étayé de données : 70 % du temps dev passé à comprendre du cod
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Augment Code | ORGANISATION | publie | How AI Changes the SDLC: A Six-Stage Guide | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Paula Hingel | PERSONNE | a_créé | How AI Changes the SDLC: A Six-Stage Guide | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
-| agents IA | TECHNOLOGIE | améliore | débit de certaines étapes du SDLC | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| agents IA | TECHNOLOGIE | améliore | débit des étapes | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | SDLC AI-native | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
 | agents IA | TECHNOLOGIE | affirme_que | l'adoption inégale accroît le risque d'instabilité sans frontières de revue redessinées | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | DORA 2025 | DOCUMENT | mesure | adoption IA positivement liée au débit mais négativement à la stabilité de livraison | MESURE | 0.92 | STATIQUE | déclaré_article |
-| specification-driven development | METHODOLOGIE | réduit | validation circulaire des tests IA | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
+| specification-driven development | METHODOLOGIE | réduit | validation circulaire | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
 | revue humaine d'architecture | METHODOLOGIE | résout | vibe architecting | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | validation circulaire | CONCEPT | s_oppose_à | vérification du besoin réel par les tests | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
 | CLI Augment | TECHNOLOGIE | mesure | 51,80 % sur SWE-bench Pro (fév. 2026) | MESURE | 0.88 | STATIQUE | déclaré_article |
@@ -96,3 +96,4 @@ Le guide est étayé de données : 70 % du temps dev passé à comprendre du cod
 | DORA 2025 | DOCUMENT | apport | Corrélation IA : + débit / + performance produit, − stabilité de livraison | AJOUT |
 | CLI Augment | TECHNOLOGIE | performance | 51,80 % sur SWE-bench Pro (fév. 2026, top publié alors) | AJOUT |
 | érosion du pipeline junior | CONCEPT | risque | Automatiser les tâches fondatrices plus vite que la refonte des rôles juniors rétrécit le vivier de seniors | AJOUT |
+| SDLC | METHODOLOGIE | catégorie | Cycle classique en six étapes dont l'article dérive la variante AI-native | AJOUT |

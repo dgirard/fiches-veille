@@ -91,8 +91,8 @@ Article de **Paul Sawers** pour **The New Stack**, publié le **16 juin 2026** :
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| The New Stack | ORGANISATION | publie | Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Paul Sawers | PERSONNE | a_créé | Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
+| The New Stack | ORGANISATION | publie | article de Paul Sawers (16 juin 2026) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Paul Sawers | PERSONNE | a_créé | article de Paul Sawers (16 juin 2026) | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | remplace | le changement de facturation de l'Agent SDK par une suspension, le jour même de son entrée en vigueur | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | « We're pausing the changes to Claude Agent SDK usage described below. For now, nothing has changed. » | CITATION | 0.96 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | les abonnements n'ont pas été conçus pour les schémas d'usage des outils tiers | CITATION | 0.95 | STATIQUE | déclaré_article |
@@ -113,10 +113,11 @@ Article de **Paul Sawers** pour **The New Stack**, publié le **16 juin 2026** :
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect | DOCUMENT | catégorie | Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire | AJOUT |
+| article de Paul Sawers (16 juin 2026) | DOCUMENT | catégorie | Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire | AJOUT |
 | crédit Agent SDK | CONCEPT | statut | Annoncé pour le 15 juin 2026, suspendu le jour même ; aucune date de reprise annoncée, Anthropic déclarant travailler à une révision du plan | MISE_A_JOUR |
 | Paul Sawers | PERSONNE | rôle | Journaliste tech, signe pour The New Stack ; trace le sourçage en cascade du chiffre de subvention 15-30× | AJOUT |
 | Conductor | TECHNOLOGIE | définition | Outil de codage multi-agent bâti sur le Claude Agent SDK, contraint de démentir auprès de ses clients après la suspension | AJOUT |
 | Matthew Diakonov | PERSONNE | rôle | Ingénieur et entrepreneur, auteur de l'analyse estimant à 15-30× la subvention de l'usage agentique par l'abonnement Claude | AJOUT |
 | GitHub Copilot | TECHNOLOGIE | évolution tarifaire | Modèle forfaitaire de premium requests retiré en juin 2026 au profit d'une facturation au token, malgré les protestations | AJOUT |
 | Boris Cherny | PERSONNE | rôle | Head of Claude Code chez Anthropic ; auteur de l'aveu que les abonnements n'ont pas été conçus pour les schémas d'usage des outils tiers | MISE_A_JOUR |
+| GitHub | ORGANISATION | rôle | Éditeur de Copilot, cité comme point de comparaison tarifaire | AJOUT |

@@ -180,14 +180,14 @@ Osmani propose **deux concepts neufs** : ***Comprehension Debt*** (l'écart croi
 | Addy Osmani | PERSONNE | affirme_que | Cognitive Surrender = "borrowing model's confidence as substitute for personal understanding" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Steven Shaw | PERSONNE | publie | étude 1372 participants Wharton UPenn | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Gideon Nave | PERSONNE | publie | étude 1372 participants Wharton UPenn | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
-| Étude Shaw Nave | DOCUMENT | mesure | 73% d'acceptation de réponses IA fausses | MESURE | 0.97 | STATIQUE | déclaré_article |
+| Étude Shaw & Nave | DOCUMENT | mesure | 73% d'acceptation de réponses IA fausses | MESURE | 0.97 | STATIQUE | déclaré_article |
 | MIT Your Brain on ChatGPT | DOCUMENT | mesure | réduction connectivité neuronale chez rédacteurs IA-assistés | MESURE | 0.96 | STATIQUE | déclaré_article |
 | Anthropic Skill-Formation Research | DOCUMENT | mesure | 17% de baisse de compréhension chez ingénieurs générant via IA | MESURE | 0.96 | STATIQUE | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | les throughput metrics ne distinguent pas understood work de rubber-stamped work | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Confidence transfer | CONCEPT | permet | déclarations IA institutionnellement crédibles même si inventées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Compositional path dependency | CONCEPT | permet | chaque surrender rend le suivant plus probable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Comprehension Debt | CONCEPT | est_instance_de | écart croissant entre volume code et compréhension humaine | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Cognitive Surrender | CONCEPT | permet | accumulation de la Comprehension Debt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Cognitive Surrender | CONCEPT | permet | Comprehension Debt | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Mutual Amplification | CONCEPT | est_instance_de | boucle coopérative prompts↔output↔meilleurs prompts | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | 5 heuristiques personnelles anti-surrender | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | recommande | 6 garde-fous structurels organisationnels | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
@@ -195,8 +195,8 @@ Osmani propose **deux concepts neufs** : ***Comprehension Debt*** (l'écart croi
 | Addy Osmani | PERSONNE | recommande | solo keyboard time régulier | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | "thinking with AI vs not thinking at all remains entirely human" | CITATION | 0.98 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | la posture de l'opérateur (pas l'outil lui-même) détermine offloading vs surrender | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
-| Cognitive Surrender (Osmani) | CONCEPT | affine | "outsource thinking but not understanding" (Karpathy) | CONCEPT | 0.92 | ATEMPOREL | inféré |
-| Cognitive Surrender (Osmani) | CONCEPT | est_variante_de | Brain Fry (BCG) à l'échelle individuelle | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Cognitive Surrender | CONCEPT | affine | "outsource thinking but not understanding" (Karpathy) | CONCEPT | 0.92 | ATEMPOREL | inféré |
+| Cognitive Surrender | CONCEPT | est_variante_de | Brain Fry (BCG) à l'échelle individuelle | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Anthropic Skill-Formation Research | DOCUMENT | converge_avec | étude juniors deskilling citée par Sun NYT | DOCUMENT | 0.91 | STATIQUE | inféré |
 
 ### Entités

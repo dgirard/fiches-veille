@@ -60,7 +60,7 @@ L'article conclut que le taux de cache hit doit être surveillé comme l'uptime,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| architecture Claude Code | TECHNOLOGIE | est_basé_sur | Prompt caching | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | est_basé_sur | Prompt caching | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Cache | CONCEPT | est_basé_sur | correspondance de préfixe | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
 | System prompt | CONCEPT | utilise | ordre statique puis dynamique | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Modification du system prompt | CONCEPT | réduit | cache de la conversation | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |

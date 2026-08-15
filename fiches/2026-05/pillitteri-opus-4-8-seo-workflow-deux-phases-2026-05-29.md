@@ -115,13 +115,13 @@ Quatre erreurs courantes ferment l'article : ne pas vérifier les chiffres (*tru
 | dérive du contexte | CONCEPT | réduit | qualité du contenu SEO | CONCEPT | 0.9 | ATEMPOREL | inféré |
 | Phase 2 production | METHODOLOGIE | est_basé_sur | Model Context Protocol | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | permet | connexion de Claude à GSC / Ahrefs / GA4 | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
-| stack MCP minimum | TECHNOLOGIE | utilise | GSC MCP / Ahrefs MCP / GA4 MCP | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| stack MCP minimum | TECHNOLOGIE | utilise | stack MCP minimum | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | s_applique_à | Semrush et Ahrefs (couche par-dessus, pas substitut) | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | Pasquale Pillitteri | PERSONNE | référence | content engineering de Ryan Law (Ahrefs) | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| workflow MCP | METHODOLOGIE | mesure | draft prêt à publier en 6-12 min | MESURE | 0.92 | STATIQUE | déclaré_article |
-| adoption du workflow MCP | CONCEPT | améliore | productivité de +45 % | CONCEPT | 0.85 | STATIQUE | déclaré_article |
-| Opus 4.8 | TECHNOLOGIE | mesure | 68,1 % F1 GraphWalks à 1M tokens | MESURE | 0.92 | STATIQUE | déclaré_article |
-| Opus 4.8 | TECHNOLOGIE | améliore | raisonnement long contexte vs Opus 4.7 | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| workflow outillé | METHODOLOGIE | mesure | draft prêt à publier en 6-12 min | MESURE | 0.92 | STATIQUE | déclaré_article |
+| adoption du workflow | CONCEPT | améliore | productivité de +45 % | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Claude Opus 4.8 | TECHNOLOGIE | mesure | 68,1 % F1 GraphWalks à 1M tokens | MESURE | 0.92 | STATIQUE | déclaré_article |
+| Claude Opus 4.8 | TECHNOLOGIE | améliore | raisonnement long contexte vs Opus 4.7 | CONCEPT | 0.9 | STATIQUE | déclaré_article |
 | Haiku 4.5 | TECHNOLOGIE | s_applique_à | meta descriptions et alt text | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Sonnet 4.6 | TECHNOLOGIE | s_applique_à | production SEO récurrente | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Pasquale Pillitteri | PERSONNE | affirme_que | le modèle SEO le plus puissant ne fonctionne qu'à l'intérieur d'un système | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
@@ -138,6 +138,7 @@ Quatre erreurs courantes ferment l'article : ne pas vérifier les chiffres (*tru
 | stack MCP minimum | TECHNOLOGIE | composition | GSC (mcp-gsc 500+⭐) + Ahrefs officiel (98⭐) + GA4 | AJOUT |
 | modelcontextprotocol/servers | TECHNOLOGIE | métrique | 86 440 étoiles, 10 000+ serveurs actifs | AJOUT |
 | loop hebdomadaire | METHODOLOGIE | résultat | +45 % productivité, draft 6-12 min | AJOUT |
-| benchmarks Opus 4.8 | CONCEPT | valeurs | SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % | AJOUT |
+| benchmarks du modèle | CONCEPT | valeurs | SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % | AJOUT |
 | routage de modèles | METHODOLOGIE | règle | Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches | AJOUT |
 | content gap paid-organic | CONCEPT | cas | 2 742 termes gaspillés / 351 opportunités en 90 s | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Protocole d'outillage dont l'article fixe la pile minimale utile au workflow | AJOUT |

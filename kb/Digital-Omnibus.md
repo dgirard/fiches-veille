@@ -17,7 +17,7 @@
 
 ### remplace
 
-- fondations RGPD (CONCEPT) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#RGPD\|RGPD]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?]]
 
 ### réduit

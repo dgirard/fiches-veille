@@ -80,7 +80,7 @@ La vision finale est celle de centaines de millions d'agents accédant à des ce
 | Agents IA | TECHNOLOGIE | remplace | modèle publicitaire internet | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | StackOverflow | ORGANISATION | mesure | -75% de vues depuis GPT-4 | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 | AgentCash | TECHNOLOGIE | permet | balance unique + découverte marchands | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Tim Berners-Lee | PERSONNE | a_créé | code HTTP 402 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Tim Berners-Lee | PERSONNE | a_créé | HTTP 402 | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Agents computer-use | TECHNOLOGIE | surpasse | défenses jardins clos | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
 | Protocoles ouverts | CONCEPT | permet | émergence Facebook Google Amazon | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 

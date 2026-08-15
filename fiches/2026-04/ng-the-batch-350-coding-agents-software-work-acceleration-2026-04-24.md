@@ -98,7 +98,7 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Andrew Ng | PERSONNE | affirme_que | les coding agents accélèrent le frontend plus que le backend, l'infra et la recherche | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | dirige | DeepLearning.AI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| DeepLearning.AI | ORGANISATION | publie | The Batch numéro 350 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| DeepLearning.AI | ORGANISATION | publie | The Batch | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Coding agents | TECHNOLOGIE | améliore | frontend development | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Coding agents | TECHNOLOGIE | utilise | TypeScript et JavaScript | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Andrew Ng | PERSONNE | affirme_que | l'infrastructure est peu accélérée par les LLMs actuels | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
@@ -113,11 +113,12 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 | McKinsey | ORGANISATION | prédit | 5 millions d'humanoïdes en usine en 2040 (vs ~200 en 2026) | MESURE | 0.85 | DYNAMIQUE | déclaré_article |
 | Mouvement anti-data-center | CONCEPT | s_oppose_à | projets data-centers US (~64 Md$ bloqués mai 2024 – mars 2025) | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | Maine | LIEU | publie | moratoire data centers ≥20MW jusqu'en 2027 | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
-| The Batch numéro 350 | DOCUMENT | référence | cocktail molotov au domicile de Sam Altman (SF) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
-| Christina Lu | PERSONNE | a_créé | assistant axis et activation capping | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| The Batch | DOCUMENT | référence | cocktail molotov au domicile de Sam Altman (SF) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
+| Christina Lu | PERSONNE | a_créé | Assistant axis | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Christina Lu | PERSONNE | a_créé | Activation capping | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Activation capping | METHODOLOGIE | réduit | jailbreaks Qwen3 32B de 83% à 41% | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Activation capping | METHODOLOGIE | permet | préservation des performances IFEval, GSM8k, MMLU-Pro, EQ-Bench | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Hiérarchie d'accélération de Ng | CONCEPT | converge_avec | verifiability framework de Karpathy | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Hiérarchie d'accélération | CONCEPT | converge_avec | verifiability framework de Karpathy | CONCEPT | 0.85 | ATEMPOREL | inféré |
 
 ### Entités
 

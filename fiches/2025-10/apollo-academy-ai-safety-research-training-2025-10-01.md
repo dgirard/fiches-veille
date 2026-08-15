@@ -101,8 +101,8 @@ Les métriques de succès incluent : publications de recherche des alumni, place
 | Apollo Academy | ORGANISATION | collabore_avec | DeepMind | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
 | alumni Apollo | PERSONNE | publie | recherches NeurIPS et ICML | DOCUMENT | 0.88 | STATIQUE | déclaré_article |
 | recherche alignement IA | CONCEPT | utilise | formation accélérée chercheurs | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
-| interprétabilité | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| scalable oversight | CONCEPT | fait_partie_de | curriculum Apollo Academy | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| interprétabilité | CONCEPT | fait_partie_de | curriculum | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| scalable oversight | CONCEPT | fait_partie_de | curriculum | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Apollo Academy | ORGANISATION | mesure | taux admission 5-15% | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités

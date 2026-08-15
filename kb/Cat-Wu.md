@@ -15,7 +15,7 @@
 
 ### fait_partie_de
 
-- équipe fondatrice Claude Code (CONCEPT) — 0.97, STATIQUE
+- équipe fondatrice (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
 ### recommande

@@ -232,12 +232,12 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | Boris Cherny | PERSONNE | affirme_que | "coding is solved" | CITATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | il n'a pas écrit une seule ligne de code en 2026 | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | mesure | 150 PRs en une journée (record) | MESURE | 0.97 | STATIQUE | déclaré_article |
-| Anthropic Labs | ORGANISATION | a_créé | Claude Code, MCP, app desktop | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | Claude Code, MCP, app desktop | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Mike Krieger | PERSONNE | dirige | round 2 Anthropic Labs | EVENEMENT | 0.96 | DYNAMIQUE | déclaré_article |
 | Opus 4 | TECHNOLOGIE | permet | exponential growth Claude Code en mai 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 | /loop | TECHNOLOGIE | utilise | cron pour repeat jobs | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | "loops are the future" | CITATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Routines | TECHNOLOGIE | est_variante_de | /loop (équivalent serveur) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Routines | TECHNOLOGIE | est_variante_de | /loop | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Hamilton Helmer | PERSONNE | a_créé | framework 7 Powers | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | AI | TECHNOLOGIE | réduit | importance de switching costs et process power | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | network effects, scale economies et cornered resources restent inchangés à l'ère IA | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
@@ -249,7 +249,7 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | Boris Cherny | PERSONNE | affirme_que | l'avantage d'Anthropic est organisationnel et processuel, pas technologique | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Modèle aligné | CONCEPT | réduit | importance du harness (prompt injection, permission modes, human-in-loop) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | "best person to write accounting software is an accountant" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | publie | Routines (server-side loops) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Routines | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | TypeScript et React | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | utilise | setup iOS-first multi-session multi-agent | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 
@@ -258,15 +258,15 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Boris Cherny | PERSONNE | rôle | Créateur Claude Code (Anthropic), déclare 100% du code généré par modèle, setup iOS-first, 150 PRs/jour record | MISE_A_JOUR |
-| Anthropic Labs | ORGANISATION | description | Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded | AJOUT |
+| Anthropic | ORGANISATION | description | Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded | AJOUT |
 | Round 2 Anthropic Labs | EVENEMENT | description | Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram) | AJOUT |
-| /loop slash command | TECHNOLOGIE | description | Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique | AJOUT |
-| Routines (Anthropic) | TECHNOLOGIE | description | Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé | AJOUT |
+| /loop | TECHNOLOGIE | description | Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique | AJOUT |
+| Routines | TECHNOLOGIE | description | Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé | AJOUT |
 | Product overhang | CONCEPT | définition | Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code | AJOUT |
 | 7 Powers Helmer | METHODOLOGIE | définition | Framework stratégie d'entreprise de Hamilton Helmer : 7 modes de pouvoir (switching costs, process power, network effects, scale economies, cornered resources, branding, counter-positioning) | AJOUT |
 | Réordonnancement 7 Powers à l'ère IA | CONCEPT | description | AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés | AJOUT |
 | Analogie Gutenberg / Software | CONCEPT | description | 1400s 10% littéracie → 70% en quelques siècles, livre 100× moins cher en 50 ans. Software suivra le même pattern, plus rapide que 50 ans | AJOUT |
-| Inflection Opus 4 mai 2025 | EVENEMENT | description | Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF | AJOUT |
+| inflexion de mai 2025 | EVENEMENT | description | Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF | AJOUT |
 | 100% code généré (Cherny) | EVENEMENT | description | Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code | AJOUT |
 | Anthropic agents-to-agents Slack | CONCEPT | description | Pratique interne Anthropic : Claude agents communiquent over Slack avec autres Claude agents pour résoudre des unknowns en runtime | AJOUT |
 | Setup iOS-first Cherny | METHODOLOGIE | description | Travail principal depuis iPhone via Claude app onglet code, 5-10 sessions, few hundred agents day / few thousand night, /loop primitive principale | AJOUT |

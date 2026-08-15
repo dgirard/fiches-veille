@@ -59,7 +59,7 @@ Les chercheurs positionnent l'Iceberg Index comme un "bac à sable" d'expérimen
 | IA | TECHNOLOGIE | remplace | 11.7% de la main-d'œuvre américaine | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Oak Ridge National Laboratory | ORGANISATION | permet | puissance calcul supercalculateur Frontier | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | MIT | ORGANISATION | collabore_avec | Oak Ridge National Laboratory | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Tennessee | ORGANISATION | utilise | Iceberg Index dans plan IA | CONCEPT | 0.88 | STATIQUE | déclaré_article |
+| Tennessee | ORGANISATION | utilise | Iceberg Index | CONCEPT | 0.88 | STATIQUE | déclaré_article |
 | Iceberg Index | TECHNOLOGIE | mesure | 32 000 compétences cartographiées dans 923 professions | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | partie cachée impact IA | CONCEPT | mesure | 9.5% main-d'œuvre (fonctions routinières) | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 | automatisation IA | TECHNOLOGIE | observé_dans | régions rurales | LIEU | 0.85 | DYNAMIQUE | déclaré_article |

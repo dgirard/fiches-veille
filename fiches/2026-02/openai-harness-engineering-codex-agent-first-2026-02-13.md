@@ -73,10 +73,10 @@ L'article affirme un shift fondamental du rôle de l'ingénieur : celui-ci ne co
 | Codex | TECHNOLOGIE | mesure | 1500 pull requests fusionnées en 5 mois | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Harness engineering | METHODOLOGIE | est_basé_sur | Ingénierie de contexte | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Harness engineering | METHODOLOGIE | est_basé_sur | Contraintes architecturales | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Harness engineering | METHODOLOGIE | est_basé_sur | Garbage collection | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Harness engineering | METHODOLOGIE | est_basé_sur | Garbage collection (code) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Contraintes architecturales | CONCEPT | utilise | Couches de dépendances Types→Config→Repo→Service→Runtime→UI | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Linters custom | TECHNOLOGIE | permet | Instructions de correction dans contexte agent | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Garbage collection | CONCEPT | permet | PRs de refactoring auto-mergées | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Garbage collection (code) | CONCEPT | permet | PRs de refactoring auto-mergées | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Martin Fowler | PERSONNE | affirme_que | Harness engineering est un cadrage précieux | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Codex | TECHNOLOGIE | utilise | GPT-5 | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Conception d'environnements pour agents | CONCEPT | remplace | écriture manuelle de code par l'ingénieur | CONCEPT | 0.92 | DYNAMIQUE | inféré |

@@ -55,7 +55,7 @@
 
 ### collabore_avec
 
-- commission d'enquête vulnérabilités numériques Assemblée nationale (audition sous serment) (ORGANISATION) — 0.99, STATIQUE
+- [[kb/_entites-mineures#commission-d'enquête-vulnérabilités-numériques\|commission d'enquête vulnérabilités numériques]] (ORGANISATION) — 0.99, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - Guillaume Lample et Timothée Lacroix (cofondation 28 avril 2023) (PERSONNE) — 0.99, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
@@ -85,7 +85,7 @@
 
 ### recommande
 
-- souveraineté comme levier pas isolationnisme (METHODOLOGIE) — 0.98, ATEMPOREL
+- [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - utiliser commande publique comme levier stratégique (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]

@@ -107,17 +107,17 @@ Côté **distribution**, Anthropic range ses skills dans `./.claude/skills` ; el
 | Anthropic | ORGANISATION | publie | Lessons from building Claude Code: How we use skills | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | fait_partie_de | équipe Claude Code | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Skill | CONCEPT | est_instance_de | dossier d'instructions scripts et ressources | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| système de fichiers d'une skill | CONCEPT | est_instance_de | progressive disclosure | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | utilise | une taxonomie de 9 catégories de skills | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Skill | CONCEPT | est_instance_de | progressive disclosure | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| Anthropic | ORGANISATION | utilise | taxonomie 9 catégories de skills | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | affirme_que | la section Gotchas est le contenu à plus fort signal d'une skill | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| champ description d'une skill | CONCEPT | permet | le déclenchement de la skill par le modèle | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| champ description | CONCEPT | permet | Skill | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | helper scripts | CONCEPT | permet | de consacrer les turns du modèle à la composition | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| variable CLAUDE_PLUGIN_DATA | TECHNOLOGIE | permet | un répertoire stable de mémoire persistante | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| hooks de skill | TECHNOLOGIE | s_applique_à | la seule durée d'invocation de la skill | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| CLAUDE_PLUGIN_DATA | TECHNOLOGIE | permet | un répertoire stable de mémoire persistante | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| hooks conditionnels | TECHNOLOGIE | s_applique_à | Skill | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | utilise | un marketplace interne par PR pour distribuer les skills | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | hook PreToolUse | TECHNOLOGIE | mesure | l'usage des skills | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | recommande | ne pas documenter ce que Claude sait déjà | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| AskUserQuestion | TECHNOLOGIE | permet | de collecter la configuration manquante d'une skill | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| AskUserQuestion | TECHNOLOGIE | permet | Skill | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -83,13 +83,13 @@ Osman reconnaît la réalité des risques (CBRN, cyber, vol de poids) mais souti
 | Ahmad Osman | PERSONNE | affirme_que | "A refusal is annoying. Silent degradation is poisonous." | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | concurrence | OpenAI | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | "révocation de l'accès API d'OpenAI (août 2025) et restriction de Windsurf" | AFFIRMATION | 0.87 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | publie | Responsible Scaling Policy (RSP) | DOCUMENT | 0.9 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Responsible Scaling Policy | DOCUMENT | 0.9 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | "le RSP a influencé California SB 53, le NY RAISE Act et l'EU AI Act" | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | Dario Amodei | PERSONNE | dirige | Anthropic | ORGANISATION | 0.95 | DYNAMIQUE | inféré |
 | Dario Amodei | PERSONNE | affirme_que | "I don't trust China at all" | CITATION | 0.9 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | campagnes de distillation industrielle par DeepSeek, Moonshot, MiniMax (fév. 2026) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
 | IA open source | CONCEPT | permet | souveraineté opérationnelle et épistémique | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| IA locale (Buy a GPU) | CONCEPT | réduit | moat et lock-in d'Anthropic | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| IA locale | CONCEPT | réduit | Anthropic | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Claude's Constitution | DOCUMENT | affirme_que | "Anthropic a l'autorité finale sur le comportement de Claude" | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | Ahmad Osman | PERSONNE | recommande | financer des labs open frontier occidentaux et des stacks locaux | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | mesure | règlement copyright de 1,5 Md$ (~500 000 titres, ≥3 000 $/œuvre) | MESURE | 0.85 | STATIQUE | déclaré_article |

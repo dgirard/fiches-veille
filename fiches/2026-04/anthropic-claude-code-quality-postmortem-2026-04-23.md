@@ -71,11 +71,11 @@ Tous les problèmes ont été résolus au 20 avril avec la version 2.1.116. Anth
 | Bug prompt caching | EVENEMENT | permet | cache misses en cascade et perte de contexte | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | l'en-tête clear_thinking_20251015 devait s'exécuter une seule fois sur les sessions inactives | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | l'en-tête clear_thinking_20251015 se déclenchait à chaque tour suivant (bug) | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
-| Opus 4.7 Code Review | TECHNOLOGIE | résout | identification rétrospective du bug de cache | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
-| Opus 4.7 Code Review | TECHNOLOGIE | surpasse | Opus 4.6 | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Contrainte verbosité prompt système | CONCEPT | mesure | baisse de 3% d'intelligence (tests d'ablation) | MESURE | 0.95 | STATIQUE | déclaré_article |
+| Opus 4.7 | TECHNOLOGIE | résout | identification rétrospective du bug de cache | EVENEMENT | 0.93 | STATIQUE | déclaré_article |
+| Opus 4.7 | TECHNOLOGIE | surpasse | Opus 4.6 | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Contrainte verbosité | CONCEPT | mesure | baisse de 3% d'intelligence (tests d'ablation) | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | publie | réinitialisation des limites d'utilisation de tous les abonnés (23 avril) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | a_créé | compte @ClaudeDevs sur X | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | a_créé | @ClaudeDevs | ORGANISATION | 0.90 | STATIQUE | déclaré_article |
 | Remontées utilisateurs /feedback | METHODOLOGIE | permet | identification et résolution des bugs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | l'API Claude n'a jamais été affectée par les trois incidents | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 

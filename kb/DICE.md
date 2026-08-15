@@ -1,6 +1,6 @@
 # DICE
 
-> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,7 @@
 ## Relations (comme objet)
 
 - [[kb/Rod-Johnson\|Rod Johnson]] **a_créé** → DICE — 0.99
+- [[kb/_entites-mineures#Embabel\|Embabel]] **utilise** → DICE — 0.90
 - [[kb/MCP\|MCP]] **s_oppose_à** → DICE — 0.75
 
 ## Fiches sources

@@ -97,10 +97,10 @@ Cette étude confirme une tendance lourde de 2026 : pour le code, les approches 
 | Compare the Market | ORGANISATION | affirme_que | le code exige une compréhension structurelle, pas une similarité sémantique | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | RAG | TECHNOLOGIE | réduit | qualité de la revue de code IA (bruit vectoriel contre-productif) | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | GKG | TECHNOLOGIE | permet | identification précise des appelants, signatures, hiérarchies de code | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| évaluation empirique revue de code IA | EVENEMENT | utilise | MLflow sur Databricks | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| évaluation empirique revue de code IA | EVENEMENT | utilise | MLflow | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | évaluation empirique revue de code IA | EVENEMENT | mesure | 79 merge requests évaluées | MESURE | 0.95 | STATIQUE | déclaré_article |
-| Compare the Market | ORGANISATION | a_créé | sidecar Docker CI/CD pour GKG | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
-| sidecar Docker CI/CD pour GKG | TECHNOLOGIE | utilise | serveur MCP local | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Compare the Market | ORGANISATION | a_créé | GKG | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| GKG | TECHNOLOGIE | utilise | serveur MCP local | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | GKG | TECHNOLOGIE | mesure | coût 4× baseline avec améliorations mesurables | MESURE | 0.93 | STATIQUE | déclaré_article |
 
 ### Entités

@@ -1,6 +1,6 @@
 # graphify.net
 
-> **Type** : TECHNOLOGIE | 10 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
 
 ## Attributs
 
@@ -16,7 +16,7 @@
 
 ### est_variante_de
 
-- graphify.com (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/graphify.net\|graphify.net]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]]
 
 ### mesure
@@ -54,6 +54,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] **publie** → graphify.net — 0.95
+- [[kb/graphify.net\|graphify.net]] **est_variante_de** → graphify.net — 0.90
 
 ## Fiches sources
 

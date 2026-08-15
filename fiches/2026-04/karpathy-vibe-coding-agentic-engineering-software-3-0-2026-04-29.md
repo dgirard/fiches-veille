@@ -96,7 +96,7 @@ Les agents sont des **interns** avec recall excellent mais sans *taste* — l'hu
 | LLM | TECHNOLOGIE | est_instance_de | programmable computer | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Nanobanana | TECHNOLOGIE | remplace | MenuGen | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Nanobanana | TECHNOLOGIE | fait_partie_de | Gemini | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
-| Jagged intelligence | CONCEPT | est_basé_sur | verifiability (RL sur domaines vérifiables) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Jagged intelligence | CONCEPT | est_basé_sur | Verifiability | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Frontier labs | ORGANISATION | utilise | RL environments | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Andrej Karpathy | PERSONNE | affirme_que | Opus 4.7 refactorise 100k lignes mais échoue sur la question du car wash à 50m | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 | Vibe coding | METHODOLOGIE | permet | démocratisation du software development (raise the floor) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
@@ -127,3 +127,4 @@ Les agents sont des **interns** avec recall excellent mais sans *taste* — l'hu
 | Opus 4.7 | TECHNOLOGIE | capabilité | Refactor 100k lignes, find zero days — mais jagged sur questions simples | AJOUT |
 | AI Startup School | EVENEMENT | catégorie | Conférence où Sam Altman et Karpathy ont parlé (référence "AIN") | AJOUT |
 | December 2025 transition | EVENEMENT | description | Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin | AJOUT |
+| LLM | TECHNOLOGIE | catégorie | Brique générative de la Software 3.0, distincte des bases de connaissances qui l'alimentent | AJOUT |

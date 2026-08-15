@@ -68,7 +68,7 @@ L'intérêt de l'article n'est pas l'éditorial mais la méthode : un codage sys
 | The New York Times | ORGANISATION | mesure | ~19 % des >600 engagements de Musk tenus comme promis | MESURE | 0.93 | STATIQUE | déclaré_article |
 | The New York Times | ORGANISATION | affirme_que | le taux de promesses tenues de Musk décline (75 % en 2015 → <50 % en 2020) | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Elon Musk | PERSONNE | dirige | SpaceX | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| SpaceX | ORGANISATION | publie | IPO SPCX au Nasdaq | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| SpaceX | ORGANISATION | publie | IPO SPCX | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | IPO SPCX | EVENEMENT | mesure | valorisation visée ~1,75-1,8 billion de dollars | MESURE | 0.9 | STATIQUE | déclaré_article |
 | Elon Musk | PERSONNE | prédit | une colonie d'un million de personnes sur Mars | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Elon Musk | PERSONNE | prédit | un robotaxi Tesla pleinement autonome fin 2025 | AFFIRMATION | 0.86 | STATIQUE | déclaré_article |
@@ -77,7 +77,7 @@ L'intérêt de l'article n'est pas l'éditorial mais la méthode : un codage sys
 | SpaceX | ORGANISATION | affirme_que | le calendrier et la faisabilité de chantiers majeurs sont actuellement indéterminables | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |
 | Starlink | TECHNOLOGIE | fait_partie_de | SpaceX | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
 | The New York Times | ORGANISATION | recommande | distinguer le récit (promesse) de la livraison mesurée avant d'investir | AFFIRMATION | 0.82 | ATEMPOREL | inféré |
-| track record de Musk | CONCEPT | s_applique_à | valorisation de l'IPO SpaceX | CONCEPT | 0.84 | ATEMPOREL | inféré |
+| track record de Musk | CONCEPT | s_applique_à | IPO SPCX | CONCEPT | 0.84 | ATEMPOREL | inféré |
 
 ### Entités
 

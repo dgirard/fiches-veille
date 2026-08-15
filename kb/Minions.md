@@ -1,6 +1,6 @@
 # Minions
 
-> **Type** : TECHNOLOGIE | 8 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 2 fiches sources
 
 ## Attributs
 
@@ -26,9 +26,9 @@
 - [[kb/devboxes\|devboxes]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- goose (fork) (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- [[kb/goose\|goose]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- [[kb/_entites-mineures#fichiers-de-règles-partagés\|fichiers de règles partagés]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+- [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 - maximum de 2 cycles CI (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
@@ -36,6 +36,7 @@
 ## Relations (comme objet)
 
 - [[kb/Stripe\|Stripe]] **a_créé** → Minions — 0.98
+- [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Minions — 0.90
 
 ## Fiches sources
 

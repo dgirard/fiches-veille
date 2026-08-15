@@ -101,12 +101,12 @@ Dans ce billet du **7 juin 2026**, **Mark Dembo** (Head of Solutions – Develop
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Mark Dembo | PERSONNE | publie | BYO Agent with M5Stack Stick 3 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Mark Dembo | PERSONNE | travaille_chez | Cloudflare | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Mark Dembo | PERSONNE | a_créé | agent IA DIY sur M5Stack Stick 3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Mark Dembo | PERSONNE | a_créé | BYO Agent with M5Stack Stick 3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Mark Dembo | PERSONNE | s_inspire_de | Steve Ruiz | PERSONNE | 0.9 | STATIQUE | déclaré_article |
 | Mark Dembo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Cloudflare Agents SDK | TECHNOLOGIE | permet | le pattern Code Mode (l'agent écrit et exécute du code) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| agent IA DIY sur M5Stack Stick 3 | TECHNOLOGIE | utilise | données publiques via fetch() (Wikipedia) | CONCEPT | 0.9 | STATIQUE | déclaré_article |
-| MCP OAuth | TECHNOLOGIE | permet | la connexion de l'agent à Todoist (50 outils) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Cloudflare Agents SDK | TECHNOLOGIE | permet | Code Mode | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| BYO Agent with M5Stack Stick 3 | TECHNOLOGIE | utilise | données publiques via fetch() (Wikipedia) | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| MCP (OAuth) | TECHNOLOGIE | permet | la connexion de l'agent à Todoist (50 outils) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | 50 outils Todoist | TECHNOLOGIE | permet | bloat de contexte et risque de blast radius | CONCEPT | 0.9 | STATIQUE | déclaré_article |
 | Mark Dembo | PERSONNE | recommande | gouvernance par outil Always allow / Ask for approval / Disable (défaut deny) | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Mark Dembo | PERSONNE | affirme_que | « I did not even look at the code once » | CITATION | 0.95 | STATIQUE | déclaré_article |
@@ -128,3 +128,4 @@ Dans ce billet du **7 juin 2026**, **Mark Dembo** (Head of Solutions – Develop
 | gouvernance d'outils MCP | METHODOLOGIE | définition | Always allow / Ask for approval / Disable, classifieur LLM, défaut deny | AJOUT |
 | zero blast radius | CONCEPT | définition | Faible surface de risque justifiant l'absence de revue de code | AJOUT |
 | idea generator / executor / judge | CONCEPT | définition | Réduction du rôle humain face à un agent qui code seul | AJOUT |
+| Cloudflare | ORGANISATION | rôle | Fournisseur de la plateforme d'exécution et du SDK d'agents utilisés pour le montage | AJOUT |

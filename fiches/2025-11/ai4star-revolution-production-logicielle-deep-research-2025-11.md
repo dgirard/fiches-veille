@@ -340,7 +340,7 @@ Analyse stratégique deep research examinant transformation fondamentale industr
 | Zup | ORGANISATION | a_créé | StackSpot | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | StackSpot | TECHNOLOGIE | utilise | agents IA développement | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Gartner | ORGANISATION | a_créé | AIOps | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| GenAI Landing Zone | CONCEPT | utilise | six piliers AI4* | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| GenAI Landing Zone | CONCEPT | utilise | AI4* | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | NIST AI RMF | METHODOLOGIE | s_applique_à | planification projet IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | FinOps pour IA | CONCEPT | réduit | mise à échelle IA | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | industrie logicielle | CONCEPT | converge_avec | main-d'œuvre agentique | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |

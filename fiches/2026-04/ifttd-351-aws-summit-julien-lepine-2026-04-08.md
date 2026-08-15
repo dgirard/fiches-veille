@@ -85,11 +85,11 @@ Côté organisation : **AI DLC** remplace les sprints par des **Bolts** pluri-qu
 | Kiro | TECHNOLOGIE | utilise | Claude Opus | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Matt Garman | PERSONNE | publie | standardisation d'AWS sur Kiro (annonce re:Invent) | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
 | Kent Beck | PERSONNE | affirme_que | « 99 % de ma valeur est devenue inutile, mais le 1 % restant a fait ×1000 » | CITATION | 0.95 | STATIQUE | déclaré_article |
-| DynamoDB | TECHNOLOGIE | utilise | TLA+ (modélisation formelle) | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| DynamoDB | TECHNOLOGIE | utilise | TLA+ | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | modélisation formelle | METHODOLOGIE | permet | garantie déterministe d'invariants système | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | raisonnement automatisé | TECHNOLOGIE | permet | validation déterministe et prouvée des décisions d'agents | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Julien Lépine | PERSONNE | affirme_que | la responsabilité d'une action d'agent incombe à la personne qui l'opère | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
-| Amazon | ORGANISATION | utilise | blameless post-mortem | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Amazon Web Services | ORGANISATION | utilise | blameless post-mortem | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | AI DLC | METHODOLOGIE | remplace | Scrum (sprints de 2-3 semaines) | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Bolt | METHODOLOGIE | est_variante_de | sprint | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | IA générative | TECHNOLOGIE | améliore | productivité des fonctions PM / PO / Scrum Master | CONCEPT | 0.86 | DYNAMIQUE | déclaré_article |

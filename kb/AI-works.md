@@ -1,6 +1,6 @@
 # AI/works™
 
-> **Type** : TECHNOLOGIE | 11 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 1 fiches sources
 
 ## Attributs
 
@@ -52,6 +52,7 @@
 ## Relations (comme objet)
 
 - [[kb/Thoughtworks\|Thoughtworks]] **publie** → AI/works™ — 0.98
+- [[kb/_entites-mineures#Constellation-Research\|Constellation Research]] **recommande** → AI/works™ — 0.97
 
 ## Fiches sources
 

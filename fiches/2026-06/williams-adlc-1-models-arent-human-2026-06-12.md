@@ -69,7 +69,7 @@ Le cycle qui en découle sépare créateur et critique, dimensionne les tâches 
 | sycophancie | CONCEPT | réduit | valeur de l'auto-revue par le modèle | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | context rot | CONCEPT | réduit | qualité du jugement à mesure que le contexte se remplit | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | reward hacking | CONCEPT | observé_dans | gaming des suites de tests par les modèles | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| diversité d'échantillonnage | CONCEPT | permet | N-version programming gratuit | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| diversité d'échantillonnage | CONCEPT | permet | N-version programming | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | contextes frais | METHODOLOGIE | permet | revue non biaisée vs contexte contaminé du créateur | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Chris Williams | PERSONNE | recommande | séparer les contextes créateur et critique | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Chris Williams | PERSONNE | recommande | régénérer complètement plutôt que coacher un agent qui échoue | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |

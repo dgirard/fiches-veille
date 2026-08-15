@@ -62,7 +62,7 @@ En conclusion, a16z anticipe que cette transformation créera d'immenses opportu
 | Cursor | ORGANISATION | mesure | 500M$ ARR | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Windsurf | ORGANISATION | fait_partie_de | Google | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | a_créé | Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | améliore | marché des outils de développement IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | marché des outils de développement | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | IA | TECHNOLOGIE | améliore | productivité développeur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | développement logiciel IA | CONCEPT | mesure | marché de 3 billions de dollars | MESURE | 0.85 | STATIQUE | déclaré_article |
 | GitHub Copilot | TECHNOLOGIE | fait_partie_de | stack de développement IA | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
@@ -85,3 +85,4 @@ En conclusion, a16z anticipe que cette transformation créera d'immenses opportu
 | vibe coding | METHODOLOGIE | définition | Développement logiciel par langage naturel sans coder | AJOUT |
 | développement logiciel IA | CONCEPT | marché estimé | 3 billions de dollars (valeur économique) | AJOUT |
 | stack de développement IA | CONCEPT | phases | Planification, Code, Revue, QA, Documentation | AJOUT |
+| IA | TECHNOLOGIE | catégorie | Technologie structurant la pile de développement décrite par l'analyse | AJOUT |

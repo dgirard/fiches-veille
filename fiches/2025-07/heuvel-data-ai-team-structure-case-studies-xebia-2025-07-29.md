@@ -92,8 +92,8 @@ Van den Heuvel insiste qu'aucun design unique ne convient universellement. Chaqu
 | analytics translator | CONCEPT | réduit | charge cognitive équipes data | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | maturité AI | CONCEPT | permet | structure organisationnelle optimale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | AI solution life cycle | CONCEPT | permet | évolution topologie équipe | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
-| data engineering platform team | CONCEPT | permet | data-as-a-service | CONCEPT | 0.89 | DYNAMIQUE | déclaré_article |
-| ML engineering enabling team | CONCEPT | améliore | déploiement modèles en production | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| platform team | CONCEPT | permet | data-as-a-service | CONCEPT | 0.89 | DYNAMIQUE | déclaré_article |
+| enabling team | CONCEPT | améliore | déploiement modèles en production | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Community of Practice | CONCEPT | remplace | équipe physique développement connaissances | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités

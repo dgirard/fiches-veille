@@ -15,7 +15,7 @@
 
 ### réduit
 
-- composants absorbés par base platform (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Base-platform\|Base platform]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
 ### utilise

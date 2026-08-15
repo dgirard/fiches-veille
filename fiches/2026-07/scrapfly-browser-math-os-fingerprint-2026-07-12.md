@@ -106,7 +106,7 @@ Article de **Scrapfly Engineering** (12 juillet 2026) sur un canal de *fingerpri
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Scrapfly | ORGANISATION | publie | Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Scrapfly | ORGANISATION | publie | Your Browser Does Math Differently on Every OS | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | IEEE 754 | CONCEPT | s_applique_à | le stockage d'un double, sans exiger l'arrondi correct des fonctions transcendantes | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | libm de plateforme | TECHNOLOGIE | permet | d'identifier le système d'exploitation d'un navigateur par la différence d'arrondi d'une fonction transcendante | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Math.tanh | TECHNOLOGIE | mesure | trois valeurs distinctes sur glibc, libsystem_m et UCRT pour l'entrée 0.8 | MESURE | 0.95 | DYNAMIQUE | déclaré_article |

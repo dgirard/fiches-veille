@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- migration cursor.com du CMS vers Markdown (EVENEMENT) — 0.97, STATIQUE
+- [[kb/migration-cursor.com\|migration cursor.com]] (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
 
 ### affirme_que

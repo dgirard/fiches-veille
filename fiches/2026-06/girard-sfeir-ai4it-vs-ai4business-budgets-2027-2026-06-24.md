@@ -79,11 +79,11 @@ Quatre recommandations COMEX : financer l'AI4IT d'abord (payback < 1 an), budgé
 | Didier Girard | PERSONNE | dirige | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Didier Girard | PERSONNE | publie | AI4IT vs AI4Business : le renversement (article SFEIR) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | c'est l'AI4IT, et non l'AI4Business, qui crée la valeur mesurable en 2026 | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
-| AI4IT | CONCEPT | surpasse | AI4Business (sur la valeur créée prouvée) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| AI4IT | CONCEPT | surpasse | AI4Business | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | l'IA excelle là où la sortie est un texte structuré vérifiable avec une boucle de feedback immédiate (le code se vérifie tout seul) | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Didier Girard | PERSONNE | s_oppose_à | la méthode de l'étude MIT (95 % des pilotes sans ROI) | DOCUMENT | 0.9 | STATIQUE | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | le symptôme est vrai même quand le chiffre est faux | CITATION | 0.92 | ATEMPOREL | déclaré_article |
-| blocage de l'AI4Business | CONCEPT | est_basé_sur | problème hayékien (information tacite et distribuée) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| AI4Business | CONCEPT | est_basé_sur | problème hayékien (information tacite et distribuée) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Salesforce | ORGANISATION | mesure | +151 % d'Effective Output et migration 18× plus rapide | MESURE | 0.93 | STATIQUE | déclaré_article |
 | AWS | ORGANISATION | mesure | redéveloppement de Bedrock par 6 personnes en 72 jours (vs 30 / 18 mois) | MESURE | 0.92 | STATIQUE | déclaré_article |
 | coût d'inférence | CONCEPT | mesure | divisé par ~280 en deux ans (Stanford AI Index) | MESURE | 0.9 | STATIQUE | déclaré_article |

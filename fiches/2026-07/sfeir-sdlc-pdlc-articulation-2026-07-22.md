@@ -82,7 +82,7 @@ SFEIR clarifie deux cadres souvent confondus. Le **SDLC** (Software Development 
 | approche spec-driven | METHODOLOGIE | permet | rendre poreuse la frontière PDLC/SDLC : la spécification produit devient directement exécutable par des agents | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | recommande | une DSI doit instrumenter la jonction produit, exiger des spécifications exécutables et refuser le rôle de fournisseur de features | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | à mesure que le code devient une commodité, la marge se déplace vers le jugement produit et la gouvernance | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| cycle SFEIR à 11 phases | METHODOLOGIE | résout | le versant ingénierie (SDLC augmenté) ; le levier suivant est l'articulation SDLC/PDLC | AFFIRMATION | 0.82 | DYNAMIQUE | déclaré_article |
+| cycle à 11 phases | METHODOLOGIE | résout | le versant ingénierie (SDLC augmenté) ; le levier suivant est l'articulation SDLC/PDLC | AFFIRMATION | 0.82 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 
@@ -99,4 +99,4 @@ SFEIR clarifie deux cadres souvent confondus. Le **SDLC** (Software Development 
 | Andrew Ng | PERSONNE | rôle | Rapporte (AI Startup School, juil. 2025) l'inversion possible du ratio PM/ingénieurs de 1:4 vers 2:1 sous l'effet de la compression du SDLC par l'IA | MISE_A_JOUR |
 | Rapport DORA 2025 | DOCUMENT | mesure | Enquête Google Cloud (~5 000 pros, 90 % d'adoption IA) : corrélation positive au débit, négative à la stabilité (corrélations, non causalités) | MISE_A_JOUR |
 | approche spec-driven | METHODOLOGIE | principe | Spec-driven development : l'artefact de conception PDLC alimente directement le SDLC et devient exécutable par des agents, rendant poreuse la frontière entre les deux cycles | MISE_A_JOUR |
-| cycle SFEIR à 11 phases | METHODOLOGIE | rôle | Cadre maison SFEIR (« Concevoir et fabriquer à l'ère de l'agentique ») avec la Software Factory 10x : règle le versant ingénierie (SDLC augmenté), l'articulation SDLC/PDLC étant le levier suivant | MISE_A_JOUR |
+| cycle à 11 phases | METHODOLOGIE | rôle | Cadre maison SFEIR (« Concevoir et fabriquer à l'ère de l'agentique ») avec la Software Factory 10x : règle le versant ingénierie (SDLC augmenté), l'articulation SDLC/PDLC étant le levier suivant | MISE_A_JOUR |

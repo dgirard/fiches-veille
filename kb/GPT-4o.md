@@ -11,7 +11,7 @@
 
 ### permet
 
-- planification de scénarios (METHODOLOGIE) — 0.83, DYNAMIQUE
+- [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] (METHODOLOGIE) — 0.83, DYNAMIQUE
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 
 ## Relations (comme objet)

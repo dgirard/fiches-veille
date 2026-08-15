@@ -73,11 +73,11 @@ Les réactions se divisent entre traditionalistes, pragmatiques et enthousiastes
 | Kent Beck | PERSONNE | s_oppose_à | Vibe Coding | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Kent Beck | PERSONNE | affirme_que | TDD reste pertinent à l'ère de l'IA | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
 | Vibe Coding | METHODOLOGIE | s_oppose_à | validation systématique | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | permet | accumulation accélérée de dette technique sans tests | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | permet | dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Test-Driven Development | METHODOLOGIE | améliore | développement assisté par IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Kent Beck | PERSONNE | recommande | approches hybrides | METHODOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | Vibe Coding | METHODOLOGIE | s_applique_à | prototypage expérimental | CONCEPT | 0.82 | ATEMPOREL | inféré |
-| discipline logicielle | CONCEPT | réduit | accumulation de dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| discipline logicielle | CONCEPT | réduit | dette technique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

@@ -70,7 +70,8 @@ Ng conclut que, les agents accélérant le développement, de plus en plus d'ing
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Peter Steinberger | PERSONNE | a_créé | OpenClaw | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Loop engineering | METHODOLOGIE | observé_dans | réseaux sociaux (buzzphrase virale) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
-| Boucle de codage agentique | METHODOLOGIE | utilise | product specification et evals | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Boucle de codage agentique | METHODOLOGIE | utilise | Product specification | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Boucle de codage agentique | METHODOLOGIE | utilise | Evals | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Boucle de codage agentique | METHODOLOGIE | permet | agent codant/testant/itérant sans intervention (~1 h) | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Boucle de feedback développeur | METHODOLOGIE | s_applique_à | orientation de l'agent par le développeur (~heures) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Coding agent | TECHNOLOGIE | réduit | temps de QA manuelle du développeur | CONCEPT | 0.9 | DYNAMIQUE | déclaré_article |

@@ -80,7 +80,7 @@ Ce qui distingue ce livre dans un domaine encombré : l'expérience pédagogique
 | Machine Learning Fundamentals | DOCUMENT | s_applique_à | étudiants et ingénieurs logiciel | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Sebastian Raschka | PERSONNE | publie | Ahead of AI | DOCUMENT | 0.90 | DYNAMIQUE | déclaré_article |
 | PyTorch | TECHNOLOGIE | est_instance_de | framework principal pour ML pratique | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Lightning AI | ORGANISATION | a_créé | framework simplifiant PyTorch | TECHNOLOGIE | 0.88 | DYNAMIQUE | inféré |
+| Lightning AI | ORGANISATION | a_créé | framework de haut niveau | TECHNOLOGIE | 0.88 | DYNAMIQUE | inféré |
 
 ### Entités
 

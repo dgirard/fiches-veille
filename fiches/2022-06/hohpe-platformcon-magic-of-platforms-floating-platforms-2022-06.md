@@ -204,7 +204,7 @@ Conclusion : architecture = série de décisions non-triviales ; les expliciter,
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Gregor Hohpe | PERSONNE | travaille_chez | Amazon Web Services | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Gregor Hohpe | PERSONNE | publie | The Software Architect Elevator | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Gregor Hohpe | PERSONNE | publie | Platform Strategy (Leanpub) | DOCUMENT | 0.95 | DYNAMIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | publie | Platform Strategy | DOCUMENT | 0.95 | DYNAMIQUE | déclaré_article |
 | Gregor Hohpe | PERSONNE | publie | The Magic of Platforms (keynote PlatformCon 2022) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Standards | CONCEPT | améliore | innovation et créativité | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Incendie Baltimore 1904 | EVENEMENT | soutient | nécessité des standards de coupling | CONCEPT | 0.95 | STATIQUE | déclaré_article |
@@ -218,10 +218,10 @@ Conclusion : architecture = série de décisions non-triviales ; les expliciter,
 | Shared responsibility | CONCEPT | observé_dans | AWS Shared Responsibility Model | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | IT Service Management traditionnelle | CONCEPT | s_oppose_à | plateforme low-friction | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Plateforme évolutive | METHODOLOGIE | surpasse | plateforme anticipative | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| Floating platform | CONCEPT | réduit | composants absorbés par base platform | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Sinking platform | CONCEPT | converge_avec | capacités de base platform qui montent | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Floating platform | CONCEPT | réduit | Base platform | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Sinking platform | CONCEPT | converge_avec | Base platform | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Floating platform | CONCEPT | utilise | communication explicite stakeholders | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Fruit salad | CONCEPT | surpasse | fruit basket | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Fruit salad vs fruit basket | CONCEPT | surpasse | Fruit salad vs fruit basket | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Plateforme | CONCEPT | utilise | composants proportionnés bite-sized | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Gregor Hohpe | PERSONNE | affirme_que | l'architecture est une série de décisions non-triviales | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Floating platform | CONCEPT | converge_avec | doctrine harness engineering 2026 | METHODOLOGIE | 0.88 | DYNAMIQUE | inféré |

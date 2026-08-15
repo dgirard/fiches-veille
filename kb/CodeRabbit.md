@@ -1,6 +1,6 @@
 # CodeRabbit
 
-> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -22,6 +22,10 @@
 
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
+
+## Relations (comme objet)
+
+- [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] **améliore** → CodeRabbit — 0.90
 
 ## Fiches sources
 

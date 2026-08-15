@@ -100,23 +100,23 @@ Pièce académique pivot 2026, citée dès avril par Les Echos. Elle transforme 
 | Julie Bedard | PERSONNE | publie | When Using AI Leads to Brain Fry | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Boston Consulting Group | ORGANISATION | a_créé | étude 1488 salariés US sur AI brain fry | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | AI brain fry | CONCEPT | est_instance_de | fatigue cognitive aiguë liée à l'oversight intensif d'IA | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| AI brain fry | CONCEPT | s_oppose_à | burnout | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| AI brain fry | CONCEPT | s_oppose_à | Burnout vs Brain fry | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Étude BCG HBR mars 2026 | DOCUMENT | mesure | 14% des AI-using workers expérimentent du brain fry | MESURE | 0.98 | STATIQUE | déclaré_article |
 | Étude BCG HBR mars 2026 | DOCUMENT | mesure | Marketing 26% brain fry vs Legal 6% | MESURE | 0.97 | STATIQUE | déclaré_article |
 | AI oversight élevé | CONCEPT | mesure | +14% mental effort, +12% mental fatigue, +19% information overload | MESURE | 0.97 | ATEMPOREL | déclaré_article |
 | AI brain fry | CONCEPT | mesure | +33% decision fatigue, +11% minor errors, +39% major errors | MESURE | 0.97 | ATEMPOREL | déclaré_article |
 | AI brain fry | CONCEPT | mesure | intent to leave de 25 à 34 pourcent | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Productivité multi-outils IA | CONCEPT | mesure | pic de productivité à 3 outils simultanés | MESURE | 0.95 | ATEMPOREL | déclaré_article |
-| AI pour tâches répétitives | METHODOLOGIE | réduit | burnout (-15%) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| AI pour tâches répétitives | METHODOLOGIE | réduit | Burnout vs Brain fry | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Manager qui répond aux questions IA | METHODOLOGIE | réduit | mental fatigue (-15%) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | AI orphan tax | CONCEPT | mesure | +5% mental fatigue quand manager attend autonomie totale | MESURE | 0.93 | ATEMPOREL | déclaré_article |
 | Org valorise work-life balance | METHODOLOGIE | réduit | mental fatigue (-28%) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Steve Yegge | PERSONNE | publie | Gas Town orchestration swarm Claude Code | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Steve Yegge | PERSONNE | publie | Gas Town | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Francesco Bonacci | PERSONNE | a_créé | Cua AI | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Francesco Bonacci | PERSONNE | publie | Vibe Coding Paralysis post X | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Meta | ORGANISATION | utilise | lignes de code générées par IA comme métrique de performance | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| BCG | ORGANISATION | recommande | 70% des efforts de transformation IA dédiés aux people et processes | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| BCG | ORGANISATION | recommande | développer skills problem framing analysis planning strategic prioritization | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| BCG Henderson Institute | ORGANISATION | recommande | 70% des efforts de transformation IA dédiés aux people et processes | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| BCG Henderson Institute | ORGANISATION | recommande | développer skills problem framing analysis planning strategic prioritization | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Gabriella Rosen Kellerman | PERSONNE | a_créé | Tomorrowmind | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | délégation à l'IA | METHODOLOGIE | s_applique_à | Toil | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 

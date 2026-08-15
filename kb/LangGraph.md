@@ -1,6 +1,6 @@
 # LangGraph
 
-> **Type** : TECHNOLOGIE | 3 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 4 fiches sources
 
 ## Attributs
 
@@ -21,6 +21,10 @@
 
 - « état d'agent durable, inspectable et portable (checkpointing, reprise après crash) » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+
+## Relations (comme objet)
+
+- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **remplace** → LangGraph — 0.85
 
 ## Fiches sources
 

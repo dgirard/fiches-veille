@@ -1,6 +1,6 @@
 # Replit
 
-> **Type** : ORGANISATION | 11 relations | 6 fiches sources
+> **Type** : ORGANISATION | 12 relations | 6 fiches sources
 
 > **Même entité, autre type** : [[kb/Replit-technologie\|Replit (TECHNOLOGIE)]]
 
@@ -46,6 +46,7 @@
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] **dirige** → Replit — 0.98
 - [[kb/_entites-mineures#Jason-Lemkin\|Jason Lemkin]] **utilise** → Replit — 0.97
 - perte base de données production **observé_dans** → Replit — 0.96
+- [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] **dirige** → Replit — 0.95
 - [[kb/_entites-mineures#Sears-Home-Services\|Sears Home Services]] **utilise** → Replit — 0.93
 - [[kb/_entites-mineures#Zillow\|Zillow]] **utilise** → Replit — 0.92
 

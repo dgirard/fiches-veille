@@ -107,7 +107,7 @@ La Banque Mondiale publie la première étude rigoureuse (RCT) évaluant l'impac
 | Programme de tutorat IA | METHODOLOGIE | mesure | 3.2 EYOS par $100 investis | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Programme de tutorat IA | METHODOLOGIE | résout | Bloom two-sigma problem | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Microsoft Copilot | TECHNOLOGIE | est_basé_sur | retrieval practice | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Programme de tutorat IA | METHODOLOGIE | observé_dans | Benin City (9 écoles secondaires publiques) | LIEU | 0.99 | STATIQUE | déclaré_article |
+| Programme de tutorat IA | METHODOLOGIE | observé_dans | Benin City | LIEU | 0.99 | STATIQUE | déclaré_article |
 | crise mondiale de l'apprentissage | CONCEPT | mesure | 70% des enfants de 10 ans dans les PRFM ne lisent pas au niveau requis | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | enseignants | PERSONNE | est_instance_de | force multiplier | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 

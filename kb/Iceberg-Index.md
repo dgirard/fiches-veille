@@ -1,6 +1,6 @@
 # Iceberg Index
 
-> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#MIT\|MIT]] **a_créé** → Iceberg Index — 0.98
+- [[kb/_entites-mineures#Tennessee\|Tennessee]] **utilise** → Iceberg Index — 0.88
 - [[kb/_entites-mineures#Utah\|Utah]] **utilise** → Iceberg Index — 0.82
 
 ## Fiches sources

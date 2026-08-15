@@ -34,7 +34,7 @@
 
 ### utilise
 
-- Claude Code (quotidiennement depuis 1 an) (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
 ## Fiches sources

@@ -57,7 +57,7 @@
 
 ### soutient
 
-- arguments antitrust contre Google (CONCEPT) — 0.82, DYNAMIQUE
+- arguments antitrust (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
 ### utilise

@@ -1,9 +1,10 @@
 # LLM
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 3 fiches sources
 
 ## Attributs
 
+- **catégorie** : Brique générative de la Software 3.0, distincte des bases de connaissances qui l'alimentent
 - **usage Netflix** : découverte de titres, compréhension des préférences
 
 ## Relations (comme sujet)
@@ -41,4 +42,6 @@
 
 ## Fiches sources
 
+- [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
+- [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]

@@ -92,11 +92,11 @@ L'article cite les sponsors de la fondation (Accenture, Booking.com, Google Clou
 | consommation IA | CONCEPT | converge_avec | l'évolution du cloud des années 2010 | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Goldman Sachs | ORGANISATION | prédit | usage mondial de tokens ×24 d'ici 2030 (120 M de milliards/mois) | MESURE | 0.92 | STATIQUE | déclaré_article |
 | J.R. Storment | PERSONNE | affirme_que | l'efficacité des tokens est une préoccupation de niveau PDG | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| Tokenomics Foundation | ORGANISATION | affine | la spécification FOCUS | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
+| Tokenomics Foundation | ORGANISATION | affine | spécification FOCUS | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | affirme_que | le FinOps vise à optimiser l'efficience plus qu'à réduire les coûts | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | efficience IA | CONCEPT | est_basé_sur | le coût rapporté à l'impact métier | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Olivier Rafal | PERSONNE | recommande | repenser le Target Operating Model pour l'ère agentique | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| sandwich teams | CONCEPT | remplace | double pizza teams | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | Target Operating Model | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| double pizza teams → sandwich teams | CONCEPT | remplace | double pizza teams → sandwich teams | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | affirme_que | « une SDLC dopée à l'IA se contentera d'amplifier les problèmes et de vous aider juste à aller plus vite… dans le mur » | CITATION | 0.9 | ATEMPOREL | déclaré_article |
 | WeNvision | ORGANISATION | recommande | co-construire la gouvernance financière et le modèle opérationnel agentique | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 

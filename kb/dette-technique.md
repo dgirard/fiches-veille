@@ -1,6 +1,6 @@
 # dette technique
 
-> **Type** : CONCEPT | 5 relations | 4 fiches sources
+> **Type** : CONCEPT | 7 relations | 4 fiches sources
 
 ## Attributs
 
@@ -12,6 +12,8 @@
 ## Relations (comme objet)
 
 - [[kb/vibe-coding\|vibe coding]] **permet** → dette technique — 0.95
+- [[kb/IA\|IA]] **permet** → dette technique — 0.90
+- discipline logicielle **réduit** → dette technique — 0.90
 - code review IA **réduit** → dette technique — 0.88
 - [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **réduit** → dette technique — 0.88
 - [[kb/agents-IA\|agents IA]] **permet** → dette technique — 0.85

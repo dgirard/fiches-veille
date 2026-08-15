@@ -26,7 +26,7 @@
 
 ### publie
 
-- The Great Flattening (DOCUMENT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#The-Great-Flattening-(Vorflux)\|The Great Flattening (Vorflux)]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
 ## Fiches sources

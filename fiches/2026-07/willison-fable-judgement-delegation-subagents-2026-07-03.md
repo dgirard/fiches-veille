@@ -71,8 +71,8 @@ Le verdict est empirique et mesuré : « *So far it seems to be working well. I'
 | Fable | TECHNOLOGIE | permet | décision contextuelle sur l'écriture des tests (jugement du modèle) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Simon Willison | PERSONNE | utilise | délégation des tâches de code à des subagents à modèle moins puissant | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Délégation à des subagents | METHODOLOGIE | utilise | model override (Sonnet, Haiku) | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Délégation à des subagents | METHODOLOGIE | réduit | consommation de tokens Fable | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_créé | fichier mémoire delegate-coding-to-subagents.md | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| Délégation à des subagents | METHODOLOGIE | réduit | Fable | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_créé | Fichier mémoire | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Fichier mémoire | DOCUMENT | affirme_que | "implementation work rarely needs the top-tier model; judgment, review, and synthesis stay with the main loop" | CITATION | 0.92 | ATEMPOREL | déclaré_article |
 | Sonnet | TECHNOLOGIE | s_applique_à | implémentation substantielle de code | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Haiku | TECHNOLOGIE | s_applique_à | éditions triviales ou mécaniques | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |

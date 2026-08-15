@@ -90,14 +90,14 @@ Les acknowledgements rendent hommage à la communauté Jupyter et son impact dep
 | Deepnote | TECHNOLOGIE | remplace | Jupyter | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | utilise | format .deepnote | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | format .deepnote | TECHNOLOGIE | remplace | format .ipynb | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Deepnote | TECHNOLOGIE | est_basé_sur | Jupyter kernel | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Deepnote | TECHNOLOGIE | est_basé_sur | Jupyter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | utilise | AI agent natif | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Deepnote | ORGANISATION | mesure | 500 000 utilisateurs | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | s_applique_à | VS Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | s_applique_à | Cursor | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | s_applique_à | Windsurf | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | @deepnote/blocks | TECHNOLOGIE | permet | types de blocs notebooks | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| @deepnote/convert | TECHNOLOGIE | permet | conversion notebooks Jupyter ↔ Deepnote | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| @deepnote/convert | TECHNOLOGIE | permet | conversion bidirectionnelle de notebooks | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Deepnote | TECHNOLOGIE | utilise | exécution réactive | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | Johnny Carrot | PERSONNE | collabore_avec | Deepnote | ORGANISATION | 0.85 | DYNAMIQUE | déclaré_article |
 | Deepnote Cloud | TECHNOLOGIE | permet | collaboration temps réel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |

@@ -109,7 +109,7 @@ Reste une observation stratégique : **un éditeur d'outil qui construit l'annua
 | graphify.net | TECHNOLOGIE | s_applique_à | une matrice de contenu sujet par outil, produite au rythme des sorties du marché | AFFIRMATION | 0.88 | DYNAMIQUE | inféré |
 | éditeur d'outil construisant l'annuaire de sa catégorie | CONCEPT | permet | d'occuper la requête d'évaluation avant ses concurrents | AFFIRMATION | 0.85 | ATEMPOREL | inféré |
 | graphify.net | TECHNOLOGIE | s_oppose_à | sa propre revendication de neutralité, en mettant en avant la skill de son auteur | AFFIRMATION | 0.85 | DYNAMIQUE | inféré |
-| graphify.net | TECHNOLOGIE | est_variante_de | graphify.com | TECHNOLOGIE | 0.9 | DYNAMIQUE | inféré |
+| graphify.net | TECHNOLOGIE | est_variante_de | graphify.net | TECHNOLOGIE | 0.9 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -120,3 +120,4 @@ Reste une observation stratégique : **un éditeur d'outil qui construit l'annua
 | Safi Shamsi | PERSONNE | rôle | Créateur de graphify et de Graphify Labs ; maintient également le site d'annuaire graphify.net, distinct de la plateforme commerciale graphify.com | MISE_A_JOUR |
 | grille d'évaluation d'un serveur MCP | CONCEPT | définition | Cinq critères de décision proposés par graphify.net : transport, runtime, clients supportés, effort de mise en place et risques d'accès | AJOUT |
 | annuaire d'outils tenu par un éditeur | CONCEPT | définition | Position où le fournisseur d'un outil édite le comparateur de sa propre catégorie, occupant la requête d'évaluation tout en y figurant comme option | AJOUT |
+| graphify | METHODOLOGIE | catégorie | Skill open source présentée par le site, distincte du site lui-même | AJOUT |

@@ -69,7 +69,7 @@ Au board, Mathieu ne parle jamais technique mais expérience client et ROI ; il 
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Mathieu Grymonprez | PERSONNE | dirige | Digital Tech and Data Adeo | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Mathieu Grymonprez | PERSONNE | dirige | Adeo | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Mathieu Grymonprez | PERSONNE | travaille_chez | Adeo | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Adeo | ORGANISATION | affirme_que | "On ne va pas se refaire avoir (après le Retail Apocalypse)" | CITATION | 0.88 | STATIQUE | déclaré_article |
 | Transformation IA | METHODOLOGIE | est_basé_sur | culture et structure simultanées | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |

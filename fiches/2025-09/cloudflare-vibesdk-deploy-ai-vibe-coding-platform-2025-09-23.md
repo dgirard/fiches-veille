@@ -92,7 +92,7 @@ Cloudflare open-source VibeSDK avec la même philosophie que le Workers runtime 
 | VibeSDK | TECHNOLOGIE | utilise | Gemini models | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | AI Gateway | TECHNOLOGIE | permet | multi-model support | CONCEPT | 0.93 | STATIQUE | déclaré_article |
 | Cloudflare Sandboxes | TECHNOLOGIE | permet | isolation du code généré par IA | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Workers for Platforms | TECHNOLOGIE | permet | déploiement à grande échelle de Cloudflare Workers | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Workers for Platforms | TECHNOLOGIE | permet | déploiement à grande échelle | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | vibe coding | METHODOLOGIE | améliore | développement logiciel | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | VibeSDK | TECHNOLOGIE | permet | déploiement one-click | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | AI Gateway | TECHNOLOGIE | réduit | coûts inference | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |

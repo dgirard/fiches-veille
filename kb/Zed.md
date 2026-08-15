@@ -25,7 +25,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users\|What Anthropic's New Claude Billing Means for Zed Users]] (DOCUMENT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
 - [[kb/_entites-mineures#Terminal-Threads\|Terminal Threads]] (TECHNOLOGIE) — 0.88, STATIQUE
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]

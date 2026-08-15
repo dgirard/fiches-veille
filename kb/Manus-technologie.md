@@ -28,7 +28,7 @@
 
 ### observé_dans
 
-- Singapour (relocalisée depuis la Chine mi-2025) (LIEU) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Singapour\|Singapour]] (LIEU) — 0.95, STATIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
 ### surpasse

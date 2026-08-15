@@ -56,14 +56,15 @@ Les implications pratiques sont importantes : la pratique répandue du persona p
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Generative AI Labs (Wharton) | ORGANISATION | publie | étude personas et précision IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Generative AI Labs | ORGANISATION | publie | étude personas et précision IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | publie | étude personas et précision IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Lilach Mollick | PERSONNE | publie | étude personas et précision IA | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | étude personas et précision IA | DOCUMENT | affirme_que | les personas experts n'améliorent pas la précision factuelle des LLM | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | personas faible connaissance | CONCEPT | réduit | performance des LLM | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Gemini 2.0 Flash | TECHNOLOGIE | mesure | amélioration modeste avec personas experts (MMLU-Pro) | MESURE | 0.85 | STATIQUE | déclaré_article |
 | persona Toddler | CONCEPT | réduit | performance dans 4/6 modèles | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| étude personas et précision IA | DOCUMENT | utilise | 6 modèles sur GPQA Diamond et MMLU-Pro | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| étude personas et précision IA | DOCUMENT | utilise | GPQA Diamond | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| étude personas et précision IA | DOCUMENT | utilise | MMLU-Pro | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | étude personas et précision IA | DOCUMENT | affirme_que | la correspondance domaine-persona n'améliore pas la performance de manière consistante | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | refus de répondre avec personas hors domaine | CONCEPT | observé_dans | modèles Gemini Flash | TECHNOLOGIE | 0.82 | DYNAMIQUE | déclaré_article |
 

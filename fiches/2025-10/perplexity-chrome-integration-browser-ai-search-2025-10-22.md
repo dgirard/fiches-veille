@@ -97,7 +97,7 @@ L'intégration représente un **jalon significatif** dans la compétition de rec
 | Perplexity | ORGANISATION | réduit | friction d'adoption | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Perplexity | TECHNOLOGIE | permet | réponses synthétisées par IA | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | contrôle antitrust | CONCEPT | s_applique_à | Google | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Perplexity | ORGANISATION | soutient | arguments antitrust contre Google | CONCEPT | 0.82 | DYNAMIQUE | inféré |
+| Perplexity | ORGANISATION | soutient | arguments antitrust | CONCEPT | 0.82 | DYNAMIQUE | inféré |
 | tech media | ORGANISATION | prédit | Google répondra par l'intégration de Gemini dans la recherche | AFFIRMATION | 0.80 | DYNAMIQUE | inféré |
 | Intégration Chrome Perplexity | EVENEMENT | permet | nouveau paradigme de recherche web | CONCEPT | 0.88 | STATIQUE | déclaré_article |
 | Perplexity | TECHNOLOGIE | référence | sources d'information | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |

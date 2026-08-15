@@ -191,13 +191,13 @@ Hryhorii Tatsyi, CTO de **Raiffeisen Bank Ukraine** (~900 ingénieurs IT), publi
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Hryhorii Tatsyi | PERSONNE | publie | AI didn't make our engineers just faster | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Hryhorii Tatsyi | PERSONNE | dirige | Raiffeisen Bank Ukraine (IT, en tant que CTO) | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
+| Hryhorii Tatsyi | PERSONNE | dirige | Raiffeisen Bank Ukraine | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Raiffeisen Bank Ukraine | ORGANISATION | mesure | ~900 ingénieurs IT | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
 | Raiffeisen Bank Ukraine | ORGANISATION | réduit | effectif de 75 personnes (dont 64 ingénieurs) en 12 mois | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Raiffeisen Bank Ukraine | ORGANISATION | mesure | adoption IA de 62% à 83% | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Onboarding Raiffeisen | CONCEPT | mesure | passage de 60-90 jours à ~40 jours | MESURE | 0.94 | STATIQUE | déclaré_article |
 | Onboarding ~40 jours | CONCEPT | converge_avec | données Anthropic 82→40 jours | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| Copilot-only, Multi-outils, Claude-on-corporate-stack | CONCEPT | fait_partie_de | Trois archétypes ingénieurs | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Copilot-only, Multi-outils, Claude-on-corporate-stack | CONCEPT | fait_partie_de | Trois archétypes ingénieurs IA | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Claude sur stack corporate | CONCEPT | mesure | volume code ×4.5 | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
 | Multi-outils | CONCEPT | mesure | story-points ×1.5-3 | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
 | Copilot-only | CONCEPT | mesure | PRs +10-25% | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
@@ -210,9 +210,9 @@ Hryhorii Tatsyi, CTO de **Raiffeisen Bank Ukraine** (~900 ingénieurs IT), publi
 | Shift-left Security Plugin | TECHNOLOGIE | réduit | secrets exposés de 82% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | DevPortal Backstage | TECHNOLOGIE | réduit | temps résolution incidents critiques de 68% | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | DRAIF MCP | TECHNOLOGIE | s_applique_à | Data Lake 10 000 tables en text-to-SQL | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| DRAIF MCP embedding fine-tuné | TECHNOLOGIE | surpasse | modèles OpenAI (×2) | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
+| DRAIF MCP | TECHNOLOGIE | surpasse | modèles OpenAI (×2) | TECHNOLOGIE | 0.91 | DYNAMIQUE | déclaré_article |
 | Call Evaluation | TECHNOLOGIE | mesure | >97% précision transcription | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
-| Groupe Raiffeisen (RBI) | ORGANISATION | recommande | Call Evaluation (élu meilleur produit du groupe) | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
+| Groupe Raiffeisen (RBI) | ORGANISATION | recommande | Call Evaluation | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | Incidents bloquants Raiffeisen | CONCEPT | mesure | −70% | MESURE | 0.94 | STATIQUE | déclaré_article |
 | Alertes sécurité haute sévérité résolues | CONCEPT | mesure | +155% | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Hryhorii Tatsyi | PERSONNE | affirme_que | "AI expanded our production possibility frontier" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
@@ -249,3 +249,4 @@ Hryhorii Tatsyi, CTO de **Raiffeisen Bank Ukraine** (~900 ingénieurs IT), publi
 | Production possibility frontier (IA) | CONCEPT | définition | Métaphore microéconomique Tatsyi — l'IA ne fait pas mieux la même chose, elle agrandit l'ensemble des possibles ; capacité libérée à allouer délibérément | AJOUT |
 | Freed capacity allocation | CONCEPT | définition | Réallocation délibérée de la capacité libérée par IA vers (1) features, (2) stabilité, (3) remboursement dette technique | AJOUT |
 | Case study banque européenne régulée IA | CONCEPT | description | Tatsyi/Raiffeisen Bank Ukraine 2026-05 — corpus encore rare en 2026 où dominent les retours Silicon Valley (Cherny, Curran, Stripe) ; complémentaire Frizzo (individuel) et Wescale (cabinet FR) | AJOUT |
+| AI | TECHNOLOGIE | rôle | Objet du retour d'expérience : déplace la frontière des possibles de production, ne se contente pas d'accélérer | AJOUT |

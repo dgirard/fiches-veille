@@ -98,3 +98,4 @@ Au-delà d'interfaces plus jolies : une **révolution de l'accessibilité** (« 
 | Andrew Harvard | PERSONNE | rôle | Contributeur MCP-UI / Block | AJOUT |
 | Shopify | ORGANISATION | secteur | E-commerce | AJOUT |
 | iframes sandboxées | CONCEPT | rôle | Mécanisme d'isolation sécurisée des composants UI | AJOUT |
+| MCP | TECHNOLOGIE | catégorie | Protocole sous-jacent dont MCP-UI étend la surface vers l'interface graphique | AJOUT |

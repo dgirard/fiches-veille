@@ -76,7 +76,7 @@ L'AISI conclut que la progression rapide des capacites cyber fait partie d'une t
 | Crystal Peak Security | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 | Irregular | ORGANISATION | collabore_avec | AISI UK | ORGANISATION | 0.88 | DYNAMIQUE | déclaré_article |
 | AISI UK | ORGANISATION | a_créé | jailbreak universel | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| jailbreak universel | CONCEPT | surpasse | safeguards GPT-5.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| jailbreak universel | CONCEPT | surpasse | GPT-5.5 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | publie | GPT-5.5-Cyber | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | capacites cyber offensives | CONCEPT | est_basé_sur | ameliorations autonomie et raisonnement | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | AISI UK | ORGANISATION | affirme_que | les capacites cyber offensives vont continuer a croitre avec les prochains modeles | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |

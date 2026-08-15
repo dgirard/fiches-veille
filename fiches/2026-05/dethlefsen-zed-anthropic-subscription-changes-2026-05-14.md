@@ -87,7 +87,7 @@ Billet publié sur le blog **Zed** le **14 mai 2026** par **Franciska Dethlefsen
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Zed | ORGANISATION | publie | What Anthropic's New Claude Billing Means for Zed Users | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Zed | ORGANISATION | publie | billet Zed sur la facturation Claude | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Franciska Dethlefsen | PERSONNE | travaille_chez | Zed | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | publie | une scission de la facturation de l'abonnement Claude en deux pools, first-party et SDK tiers | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | crédits Agent SDK mensuels de 20 $ (Pro), 100 $ (Max 5x) et 200 $ (Max 20x) | MESURE | 0.95 | STATIQUE | déclaré_article |
@@ -107,7 +107,7 @@ Billet publié sur le blog **Zed** le **14 mai 2026** par **Franciska Dethlefsen
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| What Anthropic's New Claude Billing Means for Zed Users | DOCUMENT | catégorie | Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension | AJOUT |
+| billet Zed sur la facturation Claude | DOCUMENT | catégorie | Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension | AJOUT |
 | crédit Agent SDK | CONCEPT | définition | Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu | AJOUT |
 | Zed | ORGANISATION | positionnement | Éditeur à l'origine d'ACP ; défend l'optionalité de fournisseur comme protection contre le risque tarifaire, pas seulement comme argument d'interopérabilité | MISE_A_JOUR |
 | Franciska Dethlefsen | PERSONNE | rôle | Head of growth and marketing chez Zed Industries ; autrice de la communication produit sur la facturation Claude | AJOUT |

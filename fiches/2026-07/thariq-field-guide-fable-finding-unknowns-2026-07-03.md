@@ -71,13 +71,13 @@ Preuve à l'appui : la **vidéo de lancement de Fable**, montée entièrement av
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Thariq Shihipar | PERSONNE | travaille_chez | équipe Claude Code (Anthropic) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | affirme_que | "Fable est le premier modèle où la qualité du travail est plafonnée par ma capacité à clarifier ses inconnues" | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Finding Your Unknowns | METHODOLOGIE | s_applique_à | travail avec Claude Fable 5 | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Finding Your Unknowns | METHODOLOGIE | s_applique_à | Claude Fable 5 | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Finding Your Unknowns | METHODOLOGIE | est_basé_sur | "la carte n'est pas le territoire" | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Matrice des inconnues | CONCEPT | fait_partie_de | Finding Your Unknowns | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | Thariq Shihipar | PERSONNE | affirme_que | "reducing and planning for your unknowns is THE skill of agentic coding" | CITATION | 0.94 | ATEMPOREL | déclaré_article |
-| Blindspot pass | METHODOLOGIE | permet | expliciter les unknown unknowns avant l'implémentation | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Blindspot pass | METHODOLOGIE | permet | Unknowns | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Brainstorms & prototypes | METHODOLOGIE | permet | verbaliser tôt les unknown knowns (moins cher qu'en implémentation) | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| References (code source) | METHODOLOGIE | résout | l'incapacité à décrire ce qu'on veut en détail | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| References | METHODOLOGIE | résout | l'incapacité à décrire ce qu'on veut en détail | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Claude Design | TECHNOLOGIE | utilise | lecture du code sous-jacent d'un module (pas seulement la capture) | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | implementation-notes.md | DOCUMENT | permet | journaliser les déviations pendant l'implémentation | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Quizzes | METHODOLOGIE | améliore | la compréhension réelle d'un changement avant le merge | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |

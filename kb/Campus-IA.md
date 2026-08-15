@@ -1,6 +1,6 @@
 # Campus IA
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -22,7 +22,9 @@
 
 ## Relations (comme objet)
 
-- MGX (fonds souverain Abu Dhabi) + Nvidia **soutient** → Campus IA — 0.97
+- [[kb/_entites-mineures#MGX\|MGX]] **soutient** → Campus IA — 0.97
+- [[kb/Nvidia\|Nvidia]] **soutient** → Campus IA — 0.97
+- [[kb/Mistral-AI\|Mistral AI]] **fait_partie_de** → Campus IA — 0.96
 
 ## Fiches sources
 

@@ -121,16 +121,16 @@ Aux juniors enfin : *"il y a des postes à prendre — à condition de devenir c
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Didier Girard | PERSONNE | dirige | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Didier Girard | PERSONNE | travaille_chez | SFEIR | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Rémi Jacquet | PERSONNE | dirige | Cast Software France | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Rémi Jacquet | PERSONNE | a_créé | Think Tank DSI Cast Software | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | mesure | une centaine de DSI membres en 2026 (contre quelques-uns en 2023) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | collabore_avec | Cigref | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | collabore_avec | Epita | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | dirige | Cast Software | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
+| Rémi Jacquet | PERSONNE | a_créé | Think Tank DSI | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
+| Think Tank DSI | ORGANISATION | mesure | une centaine de DSI membres en 2026 (contre quelques-uns en 2023) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI | ORGANISATION | collabore_avec | Cigref | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI | ORGANISATION | collabore_avec | Epita | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | écrire du code est devenu un anti-pattern | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | l'IA produit du code de meilleure qualité que la plupart des ingénieurs | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | IA générative | TECHNOLOGIE | surpasse | ingénieur humain (2× à 10× plus efficace) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Rémi Jacquet | PERSONNE | affirme_que | le développeur devient chef d'orchestre, manager d'agents spécialisés et juge de paix | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Bolt (1h - demi-journée) | METHODOLOGIE | remplace | Sprint de 14 jours | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Bolt | METHODOLOGIE | remplace | Sprint de 14 jours | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Didier Girard | PERSONNE | affirme_que | la Pizza Team de 8-10 personnes ne fonctionne plus à l'ère agentique | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
 | SFEIR | ORGANISATION | mesure | 1 000 personnes pour une capacité de production de 10 000 | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | Product Engineer | CONCEPT | est_basé_sur | valeur créée pour un usage | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
@@ -147,7 +147,7 @@ Aux juniors enfin : *"il y a des postes à prendre — à condition de devenir c
 | Rémi Jacquet | PERSONNE | affirme_que | plus l'IA est forte plus on baisse la garde | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Analyse déterministe | METHODOLOGIE | réduit | risques de l'IA probabiliste | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | DRH | CONCEPT | permet | transformation IA des DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Think Tank DSI Cast Software | ORGANISATION | affine | Software Development Lifecycle | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Think Tank DSI | ORGANISATION | affine | Software Development Lifecycle | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Rémi Jacquet | PERSONNE | recommande | la maîtrise des fondamentaux d'architecture logicielle pour les juniors | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
 | BFM Business | ORGANISATION | publie | Tech & Co Business | EVENEMENT | 0.99 | DYNAMIQUE | déclaré_article |
 | BFM Business | ORGANISATION | affirme_que | SpaceX envisagerait de racheter Cursor (rumeur à valider) | AFFIRMATION | 0.70 | DYNAMIQUE | déclaré_article |

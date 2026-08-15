@@ -97,11 +97,11 @@ Le prolongement maison est **le cliquet**, rattaché à Compound-1 : toute écha
 | SFEIR | ORGANISATION | affirme_que | la qualité logicielle ne se lit plus dans le code mais dans l'anneau de contraintes qui entoure l'agent | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 | anneau de contraintes | CONCEPT | est_basé_sur | Addy Osmani | PERSONNE | 0.97 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | affine | anneau de contraintes | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| anneau de contraintes | CONCEPT | fait_partie_de | cycle SFEIR à 11 phases | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| anneau de contraintes | CONCEPT | fait_partie_de | cycle à 11 phases | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | back-pressure | CONCEPT | fait_partie_de | anneau de contraintes | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | "on ne confie à une boucle que l'autonomie qu'on sait vérifier à faible coût et de façon fiable, pas un pouce de plus" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | le goulot n'a jamais été la génération mais la vérification : accélérer la génération ne fait qu'épaissir le tas au col de la vérification | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
-| phase Review (SDLC) | CONCEPT | fait_partie_de | cycle SFEIR à 11 phases | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| phase Review (SDLC) | CONCEPT | fait_partie_de | cycle à 11 phases | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | "Review instrumente. Ship décide." — Review livre un faisceau de preuves opposable, Ship décide sur les preuves et non sur le diff intégral | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | placer le gate humain sur Review ferait de l'attention humaine le point de contrôle d'une génération qui scale, plafonnant le débit au nombre de diffs qu'un senior peut lire dans une journée | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | s_oppose_à | The End of Code Review: Coding Agents Supersede Human Inspection | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
@@ -137,4 +137,4 @@ Le prolongement maison est **le cliquet**, rattaché à Compound-1 : toute écha
 | comprehension debt | CONCEPT | application | Dimension « compréhensibilité » de l'anneau : dette systématiquement omise parce qu'elle ne casse pas la CI ; remède peu coûteux = journal de décision de l'agent attaché à la PR | MISE_A_JOUR |
 | Addy Osmani | PERSONNE | contribution | Auteur du diagramme de l'anneau de contraintes (LinkedIn, 30 juillet 2026) et de l'essai Software Factories, Light and Dark d'où viennent la back-pressure, la comprehension debt et la longueur exploitable des boucles | MISE_A_JOUR |
 | Software Factories, Light and Dark | DOCUMENT | statut | Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire | AJOUT |
-| cycle SFEIR à 11 phases | METHODOLOGIE | gates | Trois gates humains inviolables — Define (l'intention), Plan (l'architecture), Ship (l'acceptation avant livraison) ; Review en est délibérément exclue pour ne pas plafonner le débit sur l'attention humaine | MISE_A_JOUR |
+| cycle à 11 phases | METHODOLOGIE | gates | Trois gates humains inviolables — Define (l'intention), Plan (l'architecture), Ship (l'acceptation avant livraison) ; Review en est délibérément exclue pour ne pas plafonner le débit sur l'attention humaine | MISE_A_JOUR |

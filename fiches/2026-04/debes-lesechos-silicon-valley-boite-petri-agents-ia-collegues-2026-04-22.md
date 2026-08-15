@@ -92,7 +92,7 @@ Pièce-pivot 2026 sur la vie quotidienne avec les agents IA, qui acte simultané
 | Eric Pantera | PERSONNE | travaille_chez | Swile | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Eric Pantera | PERSONNE | affirme_que | les écarts d'usage IA entre Meta et Montpellier ne sont pas significatifs | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Jérémy Chapeau | PERSONNE | travaille_chez | SubImage | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Jérémy Chapeau | PERSONNE | a_créé | agent Jarvis personnel | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Jérémy Chapeau | PERSONNE | a_créé | Jarvis (agent perso) | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Patrick Joubert | PERSONNE | dirige | Rippletide | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Patrick Joubert | PERSONNE | affirme_que | le facteur limitant est la cognition humaine | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Siddhant Khare | PERSONNE | affirme_que | l'IA réduit les coûts de production mais augmente ceux de coordination et vérification | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |

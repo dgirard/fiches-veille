@@ -1,10 +1,11 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 121 relations | 38 fiches sources
+> **Type** : ORGANISATION | 122 relations | 42 fiches sources
 
 ## Attributs
 
 - **accusation** : « Régime de permission » vendant la cognition comme infrastructure
+- **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
 - **positionnement** : Topologie inverse de celle de Mistral : garde-fou logé dans les poids, Claude Fable 5 public avec mesures de sécurité et Claude Mythos 5 sans, réservé aux cyberdéfenseurs approuvés du Project Glasswing
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
@@ -35,11 +36,13 @@
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
-- [[kb/_entites-mineures#Skills-Claude\|Skills Claude]] (TECHNOLOGIE) — 0.98, STATIQUE
+- [[kb/Skills-Claude\|Skills Claude]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
+- Claude Code, MCP, app desktop (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
-- compte @ClaudeDevs sur X (ORGANISATION) — 0.90, STATIQUE
+- [[kb/_entites-mineures#@ClaudeDevs\|@ClaudeDevs]] (ORGANISATION) — 0.90, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 
 ### affirme_que
@@ -135,7 +138,7 @@
 
 - Code Execution Tool sandboxé (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
-- crédits SLA aux clients impactés (CONCEPT) — 0.90, STATIQUE
+- [[kb/_entites-mineures#crédits-SLA\|crédits SLA]] (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 
 ### prédit
@@ -165,7 +168,7 @@
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
-- [[kb/_entites-mineures#étude-transformation-travail-par-IA\|étude transformation travail par IA]] (DOCUMENT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#v1-skills\|/v1/skills]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
@@ -181,21 +184,19 @@
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
-- Routines (server-side loops) (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Routines\|Routines]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - réinitialisation des limites d'utilisation de tous les abonnés (23 avril) (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - « une scission de la facturation de l'abonnement Claude en deux pools, first-party et SDK tiers » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
-- données Anthropic Economic Index (DOCUMENT) — 0.94, STATIQUE
-  - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 - « Fable 5 et Mythos 5 le 9 juin 2026, avec garde-fous cybersécurité durcis » (AFFIRMATION) — 0.94, STATIQUE
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - étude junior engineers deskilling AI agents (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - Building Effective Agents (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
-- Responsible Scaling Policy (RSP) (DOCUMENT) — 0.90, STATIQUE
+- [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### recommande
@@ -210,7 +211,7 @@
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
-- rétention des données 30 jours pour la classe Mythos (CONCEPT) — 0.85, DYNAMIQUE
+- [[kb/_entites-mineures#classe-Mythos\|classe Mythos]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - standards industrie biais politique (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
@@ -248,7 +249,7 @@
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
-- une taxonomie de 9 catégories de skills (CONCEPT) — 0.92, STATIQUE
+- [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
@@ -283,8 +284,9 @@
 - administration Trump **s_oppose_à** → Anthropic — 0.90
 - recours collectif envisagé en Californie **s_oppose_à** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
+- [[kb/_entites-mineures#IA-locale\|IA locale]] **réduit** → Anthropic — 0.88
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
-- [[kb/GitHub\|GitHub]] **converge_avec** → Anthropic — 0.85
+- [[kb/GitHub-organisation\|GitHub]] **converge_avec** → Anthropic — 0.85
 - [[kb/OpenAI\|OpenAI]] **concurrence** → Anthropic — 0.82
 
 ## Fiches sources
@@ -298,14 +300,17 @@
 - [[fiches/2025-12/anthropic-interviewer-ai-workforce-study-2025-12-04\|Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI]]
 - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
+- [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 - [[fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01\|Apollo Academy: Training the Next Generation of AI Safety Researchers]]
 - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
+- [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
+- [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
@@ -324,6 +329,7 @@
 - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
+- [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]

@@ -177,16 +177,16 @@ Bain & Company, 100 billion SaaS opportunity, cross-system labor, agentic AI pri
 | Greg Fiore | PERSONNE | publie | The $100-Billion SaaS Opportunity | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
 | Bain & Company | ORGANISATION | mesure | marché cross-system labor ~100 Md$ US (~200 Md$ étendu) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Bain & Company | ORGANISATION | mesure | capture actuelle du cross-system labor : 10% (4-6 Md$) | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
-| Agentic AI | TECHNOLOGIE | remplace | coordination cross-system labor | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Agentic AI | TECHNOLOGIE | remplace | Cross-system labor | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Bain & Company | ORGANISATION | affirme_que | l'avantage concurrentiel se déplace du system of record ownership vers le cross-workflow decision context | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Output verifiability, consequence of failure, digitized knowledge, integration complexity, process variability, physical world dependency | CONCEPT | fait_partie_de | Six facteurs d'automatisation | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| Output verifiability, consequence of failure, digitized knowledge, integration complexity, process variability, physical world dependency | CONCEPT | fait_partie_de | Six facteurs d'automatisation (Bain) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Bain & Company | ORGANISATION | mesure | potentiel d'automatisation customer support : 40-60% | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Bain & Company | ORGANISATION | mesure | potentiel d'automatisation legal : 20-30% | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Autonomous customer issue resolution cross-system | CONCEPT | observé_dans | Sierra | ORGANISATION | 0.94 | DYNAMIQUE | déclaré_article |
 | Cross-function employee request coordination | CONCEPT | observé_dans | Glean | ORGANISATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Cursor | ORGANISATION | mesure | ARR doublé en un trimestre, atteignant 2 Md$ | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Accumulated execution data | CONCEPT | est_instance_de | moat durable agentic AI | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Bain & Company | ORGANISATION | recommande | playbook 3 phases Assessment + Strategic Positioning + Execution | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
+| Bain & Company | ORGANISATION | recommande | Playbook 3 phases (Bain) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Bain & Company | ORGANISATION | recommande | redesign des data foundations pour l'agent readiness | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | The $100-Billion SaaS Opportunity | DOCUMENT | converge_avec | DORA ROI 2026, Foundation Capital Context Graphs, Seale Semantic Agent, Talisman Ontology Pipeline | DOCUMENT | 0.93 | DYNAMIQUE | inféré |
 | Bain & Company | ORGANISATION | publie | software industry in the age of AI (série 5 volets) | DOCUMENT | 0.95 | STATIQUE | déclaré_article |

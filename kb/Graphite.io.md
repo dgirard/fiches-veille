@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- outil de recherche de questions AEO (TECHNOLOGIE) — 0.90, STATIQUE
+- outil de recherche de questions (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 
 ### affirme_que

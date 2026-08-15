@@ -62,7 +62,7 @@ Debois trace un parallèle explicite avec DevOps, qu'il a cofondé en 2009. La d
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Patrick Debois | PERSONNE | a_créé | Context Development Lifecycle | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Patrick Debois | PERSONNE | a_créé | Tessl | ORGANISATION | 0.90 | DYNAMIQUE | inféré |
-| Patrick Debois | PERSONNE | a_créé | DevOps (terme) | CONCEPT | 0.85 | STATIQUE | généré_assistant |
+| Patrick Debois | PERSONNE | a_créé | DevOps | CONCEPT | 0.85 | STATIQUE | généré_assistant |
 | phase Générer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | phase Évaluer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | phase Distribuer | CONCEPT | fait_partie_de | Context Development Lifecycle | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |

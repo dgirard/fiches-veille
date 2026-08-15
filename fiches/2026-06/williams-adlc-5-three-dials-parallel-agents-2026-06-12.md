@@ -64,7 +64,7 @@ Enfin, la précision sans introspection : plutôt que de poser des questions de 
 | orchestration multi-agents | METHODOLOGIE | affirme_que | coût, temps mural et précision sont trois cadrans couplés | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Chris Williams | PERSONNE | affirme_que | le control flow est du code, le jugement vient des modèles | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | scripts déterministes | METHODOLOGIE | surpasse | modèles frontier pour les décisions d'ordonnancement | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
-| orchestration multi-agents | METHODOLOGIE | utilise | quatre lanes (Contract Desk, Builder Pool, Prosecution Pool, Integrator) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| orchestration multi-agents | METHODOLOGIE | utilise | quatre lanes | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Builder Pool | CONCEPT | utilise | single-writer par partition | METHODOLOGIE | 0.89 | ATEMPOREL | déclaré_article |
 | routing de modèle | METHODOLOGIE | est_basé_sur | rail density, escalation ladder, DAG float | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
 | merge-forecast | METHODOLOGIE | prédit | conflits de merge avant le lancement du travail | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |

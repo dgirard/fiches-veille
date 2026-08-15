@@ -41,7 +41,7 @@
 
 ### recommande
 
-- tests ARA obligatoires avant déploiement frontier (METHODOLOGIE) — 0.92, STATIQUE
+- [[kb/_entites-mineures#ARA\|ARA]] (METHODOLOGIE) — 0.92, STATIQUE
   - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
 
 ### remplace

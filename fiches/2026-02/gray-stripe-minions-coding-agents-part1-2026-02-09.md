@@ -72,9 +72,11 @@ Le modèle Stripe illustre une vision mature du développement assisté par IA :
 | devboxes | TECHNOLOGIE | permet | isolation et autonomie des agents | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Stripe | ORGANISATION | utilise | shift feedback left | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | fichiers de règles partagés | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| fichiers de règles partagés | METHODOLOGIE | s_applique_à | Minions, Cursor et Claude Code | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| fichiers de règles partagés | METHODOLOGIE | s_applique_à | Minions | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| fichiers de règles partagés | METHODOLOGIE | s_applique_à | Cursor | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| fichiers de règles partagés | METHODOLOGIE | s_applique_à | Claude Code | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Stripe | ORGANISATION | mesure | codebase de centaines de millions de lignes | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
-| Stripe | ORGANISATION | utilise | Ruby avec Sorbet | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Stripe | ORGANISATION | utilise | Sorbet | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Minions | TECHNOLOGIE | utilise | maximum de 2 cycles CI | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités

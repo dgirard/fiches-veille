@@ -1,6 +1,6 @@
 # Jack Dorsey
 
-> **Type** : PERSONNE | 5 relations | 1 fiches sources
+> **Type** : PERSONNE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -24,7 +24,9 @@
 
 ### référence
 
-- Opus 4.6 + Codex 5.3 comme cause de la restructuration Block (TECHNOLOGIE) — 0.96, STATIQUE
+- Codex 5.3 (TECHNOLOGIE) — 0.96, STATIQUE
+  - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+- [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
 ## Fiches sources

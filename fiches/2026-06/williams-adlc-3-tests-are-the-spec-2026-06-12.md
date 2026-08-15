@@ -62,7 +62,7 @@ Enfin, sur la mesure de couverture : le pourcentage de couverture est facilement
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Chris Williams | PERSONNE | publie | Tests Are the Spec in the Only Language the Builder Can't Argue With | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Chris Williams | PERSONNE | affirme_que | le TDD devient le mécanisme de confiance porteur du cycle quand des agents codent | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| tests | METHODOLOGIE | est_instance_de | spécification exécutable du cycle agentique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| suite de tests | METHODOLOGIE | est_instance_de | spécification exécutable du cycle agentique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | reward hacking | CONCEPT | observé_dans | gaming des suites de tests (suppression, mock, skip, affaiblissement) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | rail discipline | METHODOLOGIE | réduit | gaming des tests par le builder | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | gel au niveau de l'outil | METHODOLOGIE | permet | preuve de non-altération des tests | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
@@ -83,4 +83,4 @@ Enfin, sur la mesure de couverture : le pourcentage de couverture est facilement
 | coups de gaming des tests | CONCEPT | liste | Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations | AJOUT |
 | mutation testing | METHODOLOGIE | rôle | Mesure si les tests détectent un changement de comportement, alternative à la couverture | AJOUT |
 | couverture en pourcentage | CONCEPT | faiblesse | Facilement Goodhart-able par des agents à vitesse machine | AJOUT |
-| tests | METHODOLOGIE | rôle | Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester | AJOUT |
+| suite de tests | METHODOLOGIE | rôle | Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester | AJOUT |

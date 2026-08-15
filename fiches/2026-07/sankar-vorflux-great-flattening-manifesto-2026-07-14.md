@@ -67,16 +67,16 @@ L'essai reconnaît que les prédictions d'aplatissement organisationnel ont un h
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Prasanna Sankar | PERSONNE | publie | The Great Flattening | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Prasanna Sankar | PERSONNE | publie | The Great Flattening (Vorflux) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Prasanna Sankar | PERSONNE | a_créé | Vorflux | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Prasanna Sankar | PERSONNE | a_créé | Rippling | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Prasanna Sankar | PERSONNE | affirme_que | "the models got superhuman at programming, genuinely superhuman right now" | CITATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Prasanna Sankar | PERSONNE | affirme_que | le goulot d'étranglement a basculé du code vers l'encodage du jugement dans les agent harnesses | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Vorflux | TECHNOLOGIE | s_oppose_à | modèle copilot (approbation manuelle à chaque tour) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Vorflux | TECHNOLOGIE | permet | autopilote logiciel avec agents frais à contexte propre | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| Y Combinator | ORGANISATION | soutient | Vorflux (lead $15M seed) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Peak XV Partners | ORGANISATION | soutient | Vorflux ($15M seed) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Alliance DAO | ORGANISATION | soutient | Vorflux ($15M seed) | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| Y Combinator | ORGANISATION | soutient | Vorflux | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Peak XV Partners | ORGANISATION | soutient | Vorflux | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Alliance DAO | ORGANISATION | soutient | Vorflux | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | agent harness | CONCEPT | améliore | organisation ingénierie (planning, design, architecture, review, exécution) | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 | self-profiling | CONCEPT | s_applique_à | ingénieurs extrayant leurs frameworks de décision tacites | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | modèles frontière codage | TECHNOLOGIE | réduit | importance de la production de code manuelle | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |

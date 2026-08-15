@@ -66,13 +66,13 @@ Cette pièce, en plaçant la fusion HR+IT au cœur d'une stratégie d'organisati
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Moderna | ORGANISATION | a_créé | People and Digital Technology | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Tracey Franklin | PERSONNE | dirige | People and Digital Technology | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Tracey Franklin | PERSONNE | est_instance_de | Chief People and Digital Technology Officer | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Tracey Franklin | PERSONNE | est_instance_de | rôle de directeur People & Digital Technology | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
 | Tracey Franklin | PERSONNE | affirme_que | le modèle séparant talent et technologie est obsolète | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Tracey Franklin | PERSONNE | recommande | Architect the flow of work | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Work planning | METHODOLOGIE | remplace | workforce planning et technology planning | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Moderna | ORGANISATION | a_créé | 3000+ GPTs custom | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Moderna | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Ask HR GPT | TECHNOLOGIE | permet | routage des questions employés vers GPTs spécialisés | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Ask HR | TECHNOLOGIE | permet | routage des questions employés vers GPTs spécialisés | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Tracey Franklin | PERSONNE | prédit | une organisation adaptative humains+agents en 2030 | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Moderna | ORGANISATION | mesure | 5 000 employés | MESURE | 0.98 | DYNAMIQUE | déclaré_article |
 | Moderna | ORGANISATION | mesure | 3,2 milliards de dollars de revenus | MESURE | 0.95 | DYNAMIQUE | déclaré_article |

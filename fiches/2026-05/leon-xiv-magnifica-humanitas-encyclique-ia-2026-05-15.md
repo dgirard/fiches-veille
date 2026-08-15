@@ -280,26 +280,28 @@ Document majeur du Magistère social 2026, à la jonction Doctrine sociale ↔ �
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Léon XIV | PERSONNE | publie | Magnifica Humanitas | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
-| Magnifica Humanitas | DOCUMENT | référence | 15 mai 2026, 135e anniversaire de Rerum Novarum | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
+| Magnifica Humanitas | DOCUMENT | référence | publication de l'encyclique (15 mai 2026) | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
 | Léon XIV | PERSONNE | s_inspire_de | Léon XIII | PERSONNE | 0.97 | STATIQUE | inféré |
 | Léon XIV | PERSONNE | est_instance_de | premier pape américain | CONCEPT | 0.99 | STATIQUE | inféré |
 | Léon XIV | PERSONNE | est_instance_de | 267e pape, élu le 8 mai 2025 | CONCEPT | 0.99 | STATIQUE | inféré |
 | Magnifica Humanitas | DOCUMENT | fait_partie_de | Doctrine sociale de l'Église | METHODOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | Magnifica Humanitas | DOCUMENT | s_applique_à | protection personne humaine à l'ère IA | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
-| Magnifica Humanitas | DOCUMENT | est_basé_sur | icônes Babel et Néhémie | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Magnifica Humanitas | DOCUMENT | est_basé_sur | Babel (icône biblique) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Magnifica Humanitas | DOCUMENT | est_basé_sur | Néhémie (icône biblique) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | affirme_que | l'IA est davantage cultivée que construite | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
-| Léon XIV | PERSONNE | s_oppose_à | l'alignement comme réponse suffisante | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | s_oppose_à | Alignement (critique léonienne) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | affirme_que | une IA plus morale ne sert à rien si cette morale est décidée par une poignée de personnes | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | recommande | désarmer l'IA | METHODOLOGIE | 0.99 | ATEMPOREL | déclaré_article |
 | désarmer l'IA | METHODOLOGIE | est_basé_sur | soustraction de l'IA à la compétition armée économique et cognitive | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | s_oppose_à | nouveaux monopoles de l'IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Léon XIV | PERSONNE | s_oppose_à | travail invisible des microtravailleurs | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
+| Léon XIV | PERSONNE | s_oppose_à | Travail invisible (microtravailleurs) | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
 | Léon XIV | PERSONNE | s_oppose_à | exploitation des enfants extracteurs de terres rares | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| Léon XIV | PERSONNE | a_créé | colonialisme des données (concept) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | a_créé | Colonialisme des données | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | données sanitaires populations | CONCEPT | est_instance_de | nouvelles terres rares du pouvoir | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Léon XIV | PERSONNE | s_oppose_à | transhumanisme et posthumanisme | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| véritable plus qu'humain | CONCEPT | est_instance_de | grâce et humanisme chrétien | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Léon XIV | PERSONNE | s_oppose_à | agents moraux artificiels dans décisions létales | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | s_oppose_à | Transhumanisme (critique léonienne) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | s_oppose_à | Posthumanisme (critique léonienne) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Plus qu'humain (selon Léon XIV) | CONCEPT | est_instance_de | grâce et humanisme chrétien | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | s_oppose_à | Agents moraux artificiels (refus) | CONCEPT | 0.99 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | affirme_que | aucun algorithme ne peut rendre la guerre moralement acceptable | AFFIRMATION | 0.99 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | recommande | trois critères discernement armes IA | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | trois critères armes IA | METHODOLOGIE | est_basé_sur | responsabilité traçable + délai jugement moral + protection civils | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
@@ -308,11 +310,11 @@ Document majeur du Magistère social 2026, à la jonction Doctrine sociale ↔ �
 | Léon XIV | PERSONNE | s_oppose_à | déqualification des travailleurs par l'IA | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | Léon XIV | PERSONNE | s_inspire_de | Jean-Paul II Redemptor hominis 1979 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | critère évaluation IA | CONCEPT | est_instance_de | rendre la vie plus humaine et plus digne | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Magnifica Humanitas | DOCUMENT | est_basé_sur | Antiqua et nova (DDF + DCE, 14 janvier 2025) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Magnifica Humanitas | DOCUMENT | est_basé_sur | Quo vadis humanitas (CTI, 9 février 2026) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Magnifica Humanitas | DOCUMENT | est_basé_sur | Antiqua et nova | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Magnifica Humanitas | DOCUMENT | est_basé_sur | Quo vadis, humanitas ? | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Léon XIV | PERSONNE | affirme_que | il demande pardon au nom de l'Église pour la complicité passée avec l'esclavage | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Magnifica Humanitas | DOCUMENT | s_applique_à | tous les hommes et femmes de bonne volonté | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
-| Léon XIV | PERSONNE | référence | deux cités d'Augustin | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Léon XIV | PERSONNE | référence | Deux cités (Augustin) | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | affirme_que | l'ère de l'IA n'échappe pas à la règle des deux cités | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | recommande | désarmer les mots | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 | IA + sciences cognitives + nanotechnologie + robotique + biotechnologie | TECHNOLOGIE | soutient | paradigme technocratique | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
@@ -322,7 +324,7 @@ Document majeur du Magistère social 2026, à la jonction Doctrine sociale ↔ �
 | Léon XIV | PERSONNE | recommande | dépassement de la théorie de la guerre juste | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Magnifica Humanitas | DOCUMENT | recommande | programme quadripartite foi + charité + espérance + prière | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Marie | PERSONNE | est_instance_de | poétesse et prophétesse de la rédemption | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Magnificat | CONCEPT | est_instance_de | chant de l'espérance de la civilisation de l'amour | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Magnificat (Lc 1, 46-55) | CONCEPT | est_instance_de | Civilisation de l'amour | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | IA modernes | TECHNOLOGIE | est_basé_sur | paramètres culturels des concepteurs et formateurs | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Léon XIV | PERSONNE | recommande | contrôle humain effectif sur décision létale | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
 

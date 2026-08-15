@@ -252,8 +252,8 @@ description: >
 | hyperresearch | METHODOLOGIE | utilise | Unpaywall | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | hyperresearch | METHODOLOGIE | utilise | Europe PMC | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | note rescued | CONCEPT | affirme_que | ni le titre, ni les auteurs, ni le corps ne proviennent de l'URL déclarée en source | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| vault hyperresearch | CONCEPT | est_basé_sur | markdown comme source de vérité et index SQLite reconstructible comme cache | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| vault hyperresearch | CONCEPT | converge_avec | l'architecture médaillon d'un corpus de veille en fichiers | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| hyperresearch | CONCEPT | est_basé_sur | markdown comme source de vérité et index SQLite reconstructible comme cache | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| hyperresearch | CONCEPT | converge_avec | l'architecture médaillon d'un corpus de veille en fichiers | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | score de qualité de source | CONCEPT | est_basé_sur | type de source, utilité constatée, autorité de citation avec rétractations, et centralité PageRank interne | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | vérification | CONCEPT | s_oppose_à | le paramétrage par registre, qui module les critiques mais jamais le contrôle des citations | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | hyperresearch | METHODOLOGIE | affirme_que | le gate de lint attrape les défaillances structurelles mais ne garantit pas l'exactitude factuelle | CITATION | 0.95 | ATEMPOREL | déclaré_article |

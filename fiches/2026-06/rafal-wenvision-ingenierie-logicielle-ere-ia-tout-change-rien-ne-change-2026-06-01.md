@@ -104,7 +104,7 @@ Conclusion : l'accélération rend les fondamentaux non négociables ; le défi 
 | Olivier Rafal | PERSONNE | affirme_que | l'IA n'abolit aucune phase du SDLC, elle les intensifie | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | affirme_que | « tous ces relâchements que le rythme humain absorbait tant bien que mal deviennent, à la vitesse de l'IA, des défauts industriels » | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | recommande | trois gates inviolables (spécification, planification, revue) | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| capitalisation à chaque cycle | METHODOLOGIE | réduit | de 30% les itérations de correction après ~10 cycles | CONCEPT | 0.9 | STATIQUE | déclaré_article |
+| capitalisation | METHODOLOGIE | réduit | de 30% les itérations de correction après ~10 cycles | CONCEPT | 0.9 | STATIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | affirme_que | « plus l'exécution est rapide, plus le cadre doit être strict » | CITATION | 0.95 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | affirme_que | le vibe-coding est intenable en entreprise | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | mesure | coût IA ~10 € par heure par poste augmenté | MESURE | 0.88 | DYNAMIQUE | déclaré_article |

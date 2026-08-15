@@ -66,7 +66,7 @@ Hezarkhani répond aux critiques évidentes (risque de baisse de qualité, infla
 | salaire fixe | CONCEPT | s_oppose_à | productivité augmentée par IA | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | modèle 10x | METHODOLOGIE | permet | attraction de talents élite | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Arman Hezarkhani | PERSONNE | affirme_que | les incitations traditionnelles sont obsolètes | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Stratège | CONCEPT | réduit | inflation des Story Points | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Stratège | CONCEPT | réduit | Story Points | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | 10x engineers | CONCEPT | utilise | agents IA multiples | TECHNOLOGIE | 0.80 | DYNAMIQUE | déclaré_article |
 
 ### Entités
@@ -77,3 +77,5 @@ Hezarkhani répond aux critiques évidentes (risque de baisse de qualité, infla
 | 10x | ORGANISATION | secteur | Services d'ingénierie logicielle | AJOUT |
 | Story Points | METHODOLOGIE | catégorie | Système de rémunération à la performance | AJOUT |
 | Stratège | CONCEPT | rôle | PM technique validant qualité et scoping | AJOUT |
+| 10x engineers | CONCEPT | catégorie | Figure de l'ingénieur très productif, à distinguer de l'entreprise 10x | AJOUT |
+| modèle 10x | METHODOLOGIE | catégorie | Schéma de rémunération à la performance appliqué aux ingénieurs | AJOUT |

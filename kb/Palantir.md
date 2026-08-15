@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.85, STATIQUE
+- [[kb/_entites-mineures#Forward-Deployed-Engineering-(FDE)\|Forward Deployed Engineering (FDE)]] (METHODOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
 ### mesure

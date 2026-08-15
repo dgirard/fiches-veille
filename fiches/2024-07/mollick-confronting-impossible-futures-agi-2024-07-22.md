@@ -67,10 +67,10 @@ En conclusion, Mollick plaide pour reconnaître le changement inévitable et pre
 | AGI | TECHNOLOGIE | est_instance_de | objectif des grands laboratoires IA | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | loi de Moore | CONCEPT | est_instance_de | prophétie autoréalisatrice technologique | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | planification multi-scénarios | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Arvind Narayanan | PERSONNE | s_oppose_à | timelines AGI courtes | CONCEPT | 0.85 | STATIQUE | déclaré_article |
+| Arvind Narayanan | PERSONNE | s_oppose_à | AGI | CONCEPT | 0.85 | STATIQUE | déclaré_article |
 | sondage informaticiens 2023 | DOCUMENT | mesure | AGI prévue en moyenne pour 2047, 10% de probabilité avant 2027 | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Claude 3.5 | TECHNOLOGIE | soutient | capacités IA actuelles impressionnantes | CONCEPT | 0.88 | STATIQUE | déclaré_article |
-| GPT-4o | TECHNOLOGIE | permet | planification de scénarios | METHODOLOGIE | 0.83 | DYNAMIQUE | déclaré_article |
+| GPT-4o | TECHNOLOGIE | permet | planification multi-scénarios | METHODOLOGIE | 0.83 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | publie | Co-Intelligence | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités

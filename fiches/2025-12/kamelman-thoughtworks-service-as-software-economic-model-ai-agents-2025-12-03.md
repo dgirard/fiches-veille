@@ -202,10 +202,10 @@ SaS / Agentic systems
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Matt Kamelman | PERSONNE | publie | Service-as-Software: A new economic model | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Thoughtworks | ORGANISATION | publie | article Kamelman 2025-12-03 | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
-| Service-as-Software (SaS) | CONCEPT | remplace | SaaS dans l'âge des agents IA | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Service-as-Software | CONCEPT | remplace | SaaS | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
 | SaaS | CONCEPT | permet | tools enabling humans | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Service-as-Software | CONCEPT | permet | outcomes via automated reasoning | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Pricing SaS | CONCEPT | est_basé_sur | demonstrated alignment and impact | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Pricing SaS | CONCEPT | est_basé_sur | "Pay based on demonstrated alignment and impact" | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Pricing SaS | CONCEPT | remplace | pricing par seats or features | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | dynamic goals + memory + autonomous coordination | CONCEPT | fait_partie_de | Systèmes agentic SaS | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | interpretable/auditable + aligned with human goals + trained/iterated real time | CONCEPT | fait_partie_de | Cognitive Contract | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
@@ -215,19 +215,19 @@ SaS / Agentic systems
 | Financial agent SaS | TECHNOLOGIE | permet | modélisation prévisions | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Operations agent SaS | TECHNOLOGIE | permet | triage des demandes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | mainframes → client-server → web/cloud → SaS | CONCEPT | fait_partie_de | évolution informatique | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Cognitive contract historique | CONCEPT | affirme_que | humans had to instruct the machine | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Cognitive contract agentic | CONCEPT | affirme_que | humans + machines collaborate | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Cognitive Contract | CONCEPT | affirme_que | humans had to instruct the machine | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
+| Cognitive Contract | CONCEPT | affirme_que | humans + machines collaborate | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Bilan Kamelman SaS | CONCEPT | prédit | bascules outcome-based Sternfels McKinsey, VoxComm/Mandese, Bain Rule of 40, Bain cross-system labor | AFFIRMATION | 0.94 | DYNAMIQUE | inféré |
-| Bilan Kamelman SaS | CONCEPT | converge_avec | bascules sectorielles consulting + agences + SaaS + enterprise | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Cognitive Orchestrator (Kamelman) | CONCEPT | converge_avec | Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents, Habert PROJ-AI Decision Records | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Cognitive Contract (Kamelman) | CONCEPT | converge_avec | Talisman Ontology Pipeline Refresh AI augment not replace, Karpathy outsource thinking not understanding, Osmani Cognitive Surrender | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| Bilan Kamelman SaS | CONCEPT | converge_avec | bascules sectorielles | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Cognitive Orchestrator | CONCEPT | converge_avec | Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents, Habert PROJ-AI Decision Records | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Cognitive Contract | CONCEPT | converge_avec | Talisman Ontology Pipeline Refresh AI augment not replace, Karpathy outsource thinking not understanding, Osmani Cognitive Surrender | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | Matt Kamelman | PERSONNE | rôle | Auteur Thoughtworks blog, formalisateur du concept Service-as-Software (SaS) en décembre 2025. Profil public peu documenté hors Thoughtworks | AJOUT |
-| Service-as-Software (SaS) | CONCEPT | définition | Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026 | AJOUT |
+| Service-as-Software | CONCEPT | définition | Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026 | AJOUT |
 | Cognitive Contract | CONCEPT | définition | Métaphore Kamelman pour le contrat implicite humain-machine. Trois principes : (1) interpretable and auditable ; (2) aligned with human goals ; (3) trained and iterated in real time. Le contrat évolue de "humans instruct machine" (mainframes → cloud) vers "humans + machines collaborate" (agentic) | AJOUT |
 | Cognitive Orchestrator | CONCEPT | définition | Nouveau rôle organisationnel formalisé par Kamelman. Trois fonctions : (a) feedback loop design ; (b) managing uncertainty with guardrails (business rules + circuit breakers) ; (c) measuring alignment via score quantifiable. Convergence avec Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents | AJOUT |
 | 3 capacités agentic SaS | CONCEPT | définition | (1) Operating dynamically based on goals not fixed workflows ; (2) Retaining memory across interactions ; (3) Autonomously coordinating across tools and APIs. Grille de design des systèmes agentic en production | AJOUT |
@@ -236,4 +236,5 @@ SaS / Agentic systems
 | "Pay based on demonstrated alignment and impact" | CONCEPT | source | Formule canonique Kamelman pricing SaS — succession aux modèles per-seat/per-feature. À mobiliser pour discussions pricing CFO | AJOUT |
 | Pivot conceptuel cluster outcome-based 2025-2026 | CONCEPT | description | Kamelman/Thoughtworks (déc 2025) précède chronologiquement et unifie conceptuellement les manifestations sectorielles : Sternfels/McKinsey (consulting, jan 2026), VoxComm/Mandese (agences, mars 2026), Bain Rule of 40 (SaaS, avril 2026), Bain cross-system labor (enterprise, mai 2026) | AJOUT |
 | Convergence cognitive orchestrator / agent supervisor | CONCEPT | description | Pattern transversal 2026 : un nouveau rôle organisationnel émerge, nommé différemment (cognitive orchestrator chez Kamelman, agent harness engineer chez Osmani, agent supervisor chez Mornati, juge stratégique/manager d'agents chez Wescale, six zones doctrine chez Habert) avec trois fonctions invariantes : feedback design, guardrails, alignment measurement | AJOUT |
-| Thoughtworks blog Generative AI section | DOCUMENT | description | Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 | AJOUT |
+| blog Generative AI (Thoughtworks) | DOCUMENT | description | Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 | AJOUT |
+| SaaS | CONCEPT | catégorie | Modèle antérieur vendant des outils à l'abonnement, opposé terme à terme au Service-as-Software | AJOUT |

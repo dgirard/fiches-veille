@@ -16,7 +16,7 @@
 
 ### s_applique_à
 
-- validation permissions subagents (CONCEPT) — 0.85, DYNAMIQUE
+- [[kb/subagents-concept\|subagents]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
 ## Relations (comme objet)

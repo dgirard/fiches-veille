@@ -66,7 +66,7 @@ En conclusion, le système Superpowers représente un changement de paradigme da
 | Anthropic | ORGANISATION | publie | système de plugins Claude Code | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | utilise | workflow Brainstorm-Plan-Implement | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | utilise | RED/GREEN TDD | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | permet | création automatique de git worktrees | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Superpowers | TECHNOLOGIE | permet | git worktrees | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Jesse Vincent | PERSONNE | utilise | principes de persuasion Cialdini | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | principes de persuasion Cialdini | CONCEPT | améliore | fiabilité des agents IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Superpowers | TECHNOLOGIE | permet | dispatching vers sous-agents | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |

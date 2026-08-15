@@ -1,6 +1,6 @@
 # xAI
 
-> **Type** : ORGANISATION | 3 relations | 3 fiches sources
+> **Type** : ORGANISATION | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -12,13 +12,14 @@
 
 ### publie
 
-- release x-algorithm du 15 mai 2026 (EVENEMENT) — 0.99, STATIQUE
+- release open-source du 15 mai 2026 (EVENEMENT) — 0.99, STATIQUE
   - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
-- x-algorithm (release open-source) (TECHNOLOGIE) — 0.99, STATIQUE
+- [[kb/x-algorithm\|x-algorithm]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
 ## Relations (comme objet)
 
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → xAI — 0.92
 - [[kb/SpaceX\|SpaceX]] **utilise** → xAI — 0.90
 
 ## Fiches sources

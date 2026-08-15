@@ -1,6 +1,6 @@
 # AI Mode
 
-> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -15,7 +15,7 @@
 
 ### réduit
 
-- pertinence du SEO traditionnel (CONCEPT) — 0.87, DYNAMIQUE
+- [[kb/_entites-mineures#SEO\|SEO]] (CONCEPT) — 0.87, DYNAMIQUE
   - [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 
 ### s_oppose_à
@@ -31,6 +31,7 @@
 ## Relations (comme objet)
 
 - [[kb/Google\|Google]] **publie** → AI Mode — 0.99
+- [[kb/_entites-mineures#Google-One-AI-Premium\|Google One AI Premium]] **permet** → AI Mode — 0.93
 - questions de copyright **s_applique_à** → AI Mode — 0.82
 
 ## Fiches sources

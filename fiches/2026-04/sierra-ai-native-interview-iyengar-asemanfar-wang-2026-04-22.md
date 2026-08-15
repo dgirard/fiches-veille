@@ -63,7 +63,7 @@ Les apprentissages : on recrute pour les forces, pas pour l'absence de faiblesse
 | AI-native onsite | METHODOLOGIE | est_basé_sur | Plan Build Review | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | AI-native onsite | METHODOLOGIE | remplace | coding interviews algorithmiques | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Entretien de system design | METHODOLOGIE | remplace | phone screen coding | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Sierra | ORGANISATION | utilise | debugging interview (pilote) | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Sierra | ORGANISATION | utilise | Debugging interview | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Iyengar Asemanfar Wang | PERSONNE | affirme_que | les agents de codage transforment le rôle d'ingénieur de "construire la machine" vers "designer et affiner la machine" | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | fait_partie_de | Agents de codage | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
 | Codex | TECHNOLOGIE | fait_partie_de | Agents de codage | TECHNOLOGIE | 0.97 | ATEMPOREL | déclaré_article |

@@ -78,7 +78,7 @@
 
 ### prédit
 
-- crise de sens au travail (CONCEPT) — 0.96, DYNAMIQUE
+- [[kb/_entites-mineures#crise-de-sens\|crise de sens]] (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 - « la prochaine génération de modèles dépassera en moyenne les experts humains » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
@@ -141,12 +141,12 @@
 
 - systèmes agentiques actuels (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
-- vision West Coast (automatisation rapide) (CONCEPT) — 0.92, STATIQUE
+- [[kb/_entites-mineures#Vision-West-Coast-(IA)\|Vision West Coast (IA)]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
 ### soutient
 
-- vision East Coast (transformation lente fragmentée) (CONCEPT) — 0.94, STATIQUE
+- [[kb/_entites-mineures#Vision-East-Coast-(IA)\|Vision East Coast (IA)]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
 ### travaille_chez

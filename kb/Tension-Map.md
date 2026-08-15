@@ -10,7 +10,7 @@
 
 ### est_basé_sur
 
-- Analysis of Competing Hypotheses (METHODOLOGIE) — 0.85, ATEMPOREL
+- [[kb/_entites-mineures#Analysis-of-Competing-Hypotheses-(ACH)\|Analysis of Competing Hypotheses (ACH)]] (METHODOLOGIE) — 0.85, ATEMPOREL
   - [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
 ### s_applique_à

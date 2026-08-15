@@ -69,8 +69,8 @@ Sur le recrutement, Cherny valorise l'humilité et la pensée first principles p
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | est_basé_sur | terminal chat CLI | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Demande latente | CONCEPT | s_applique_à | développement produit Claude Code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| architecture Claude Code | TECHNOLOGIE | s_inspire_de | Bitter Lesson | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Demande latente | CONCEPT | s_applique_à | Claude Code | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | s_inspire_de | Bitter Lesson | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | productivité ingénieur | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | +150% productivité par ingénieur | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | prédit | disparition du titre software engineer | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |

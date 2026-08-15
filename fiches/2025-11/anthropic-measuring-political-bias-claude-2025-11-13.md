@@ -246,3 +246,4 @@ Centrage américain (pas de contextes internationaux), single-turn uniquement, d
 | Paired Prompts method | METHODOLOGIE | catégorie | Évaluation biais politique IA | AJOUT |
 | character training | METHODOLOGIE | catégorie | Entraînement par renforcement traits personnalité | AJOUT |
 | political-neutrality-eval | TECHNOLOGIE | url | https://github.com/anthropics/political-neutrality-eval | AJOUT |
+| Llama 4 | TECHNOLOGIE | rôle | Famille de modèles ouverts servant de point de comparaison, dont Maverick est la variante testée | AJOUT |

@@ -15,7 +15,7 @@
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 - synchronisation par fichiers verrou (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
-- GCC (oracle de référence) (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#GCC\|GCC]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ## Relations (comme objet)

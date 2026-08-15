@@ -25,7 +25,7 @@
 
 ### remplace
 
-- coordination cross-system labor (CONCEPT) — 0.96, ATEMPOREL
+- [[kb/_entites-mineures#Cross-system-labor\|Cross-system labor]] (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 - chatbots passifs (TECHNOLOGIE) — 0.91, DYNAMIQUE
   - [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]

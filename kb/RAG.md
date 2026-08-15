@@ -22,7 +22,7 @@
 
 ### résout
 
-- fenêtres de contexte limitées (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#fenêtres-de-contexte\|fenêtres de contexte]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
 ### utilise

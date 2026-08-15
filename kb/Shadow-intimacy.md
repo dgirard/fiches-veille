@@ -15,7 +15,7 @@
 
 ### réduit
 
-- développement du jugement professionnel (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#jugement-professionnel\|Jugement professionnel]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 - signaux d'alerte précoce perçus par le manager (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]

@@ -80,6 +80,31 @@ class TestDeriveNommage(unittest.TestCase):
         _, status, _ = cc.check_derive_nommage(self.r.root)
         self.assertEqual(status, cc.OK)
 
+    def test_document_homonyme_de_son_sujet_exempte(self):
+        # Convention d'ontologie : `article X` (DOCUMENT) coexiste avec `X`
+        # (CONCEPT) — le recouvrement de noms est prescrit, pas subi.
+        self.r.fiche = FICHE.replace(
+            "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |",
+            "| article Cognitive Surrender | DOCUMENT | décrit | B | TECHNOLOGIE |"
+        ).replace("| A | ORGANISATION | x | y | AJOUT |",
+                  "| Cognitive Surrender | CONCEPT | x | y | AJOUT |")
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            self.r.fiche, encoding="utf-8")
+        _, status, _ = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_document_variante_d_un_document_signale(self):
+        # Même type des deux côtés : l'exemption ne s'applique pas.
+        self.r.fiche = FICHE.replace(
+            "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |",
+            "| article Cognitive Surrender | DOCUMENT | décrit | B | TECHNOLOGIE |"
+        ).replace("| A | ORGANISATION | x | y | AJOUT |",
+                  "| Cognitive Surrender | DOCUMENT | x | y | AJOUT |")
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            self.r.fiche, encoding="utf-8")
+        _, status, _ = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.WARN)
+
     def test_objet_epistemique_ignore(self):
         self.r.fiche = FICHE.replace(
             "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |",

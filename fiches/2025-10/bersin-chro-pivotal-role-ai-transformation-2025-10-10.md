@@ -112,3 +112,4 @@ Bersin signe ainsi la pièce qui transforme l'anecdote Moderna en **signal indus
 | Superworker | CONCEPT | définition | Concept Bersin : employé augmenté par l'IA, mode bottom-up | AJOUT |
 | Supermanager | CONCEPT | définition | Concept Bersin : nouveau modèle de leadership pour l'ère IA | AJOUT |
 | 4 stratégies AI transformation CHRO | METHODOLOGIE | structure | (1) AI Readiness, (2) Technology Platforms, (3) Hiring/Redeployment, (4) Supermanagers | AJOUT |
+| The Josh Bersin Company | ORGANISATION | rôle | Cabinet d'analyse RH éditeur de la note, distinct de son fondateur | AJOUT |

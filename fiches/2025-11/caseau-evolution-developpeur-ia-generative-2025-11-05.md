@@ -89,7 +89,7 @@ Cette vision équilibrée reconnaît l'impact transformateur de l'IA tout en pr�
 | systèmes logiciels futurs | CONCEPT | s_applique_à | humains et agents autonomes | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | services backend flexibles | TECHNOLOGIE | remplace | interfaces SaaS | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Computer System Engineers | CONCEPT | a_créé | architectures backbone | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Solutions Engineers | CONCEPT | utilise | agents en langage naturel | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Solutions Engineers | CONCEPT | utilise | agents conversationnels | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Citizen Developers | CONCEPT | utilise | systèmes sophistiqués sans compétences IT | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Yves Caseau | PERSONNE | affirme_que | la transition agentique est surestimée par les discours technologiques | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | Yves Caseau | PERSONNE | affirme_que | l'impact des legacy systems est sous-estimé | AFFIRMATION | 0.87 | DYNAMIQUE | déclaré_article |

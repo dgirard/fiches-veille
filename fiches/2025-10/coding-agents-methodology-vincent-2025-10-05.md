@@ -65,7 +65,7 @@ En conclusion, la méthodologie de Jesse Vincent démontre qu'une utilisation ef
 | session architecte | CONCEPT | permet | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | session implémenteur | CONCEPT | utilise | plan d'implémentation | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | CodeRabbit | TECHNOLOGIE | permet | revue de code automatisée | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
-| coderabbit-review-helper | TECHNOLOGIE | améliore | intégration CodeRabbit | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| coderabbit-review-helper | TECHNOLOGIE | améliore | CodeRabbit | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | CLAUDE.md | TECHNOLOGIE | réduit | déviation du plan | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | role-playing | METHODOLOGIE | améliore | Claude Code | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
 | TDD | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

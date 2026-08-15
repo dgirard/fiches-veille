@@ -131,8 +131,8 @@ Publié dans **ACM Queue** le 20 juillet 2026 par **Joseph Valente** et **Michal
 | enterprise world model | CONCEPT | est_basé_sur | les entrepôts RH et de gestion de projet de l'entreprise | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | reasoning engine | TECHNOLOGIE | permet | un verdict allow / deny / challenge qui devient lui-même un attribut réutilisable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | alignement intention utilisateur / intention agent | CONCEPT | réduit | les risques d'injection de prompt | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| challenges | CONCEPT | s_oppose_à | le blocage binaire « access denied » du modèle hérité | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| containments | CONCEPT | s_applique_à | la révocation durable d'accès, parfois levée après entretien du salarié et de son manager | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
+| challenges et containments | CONCEPT | s_oppose_à | le blocage binaire « access denied » du modèle hérité | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
+| challenges et containments | CONCEPT | s_applique_à | la révocation durable d'accès, parfois levée après entretien du salarié et de son manager | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | préprocessing des attributs | CONCEPT | permet | de tenir le budget de latence à l'accès en front-loadant l'inférence | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Beyond Zero | CONCEPT | s_applique_à | les accès via front-end, API, MCP ou tout autre chemin | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Valente et Zalewski | PERSONNE | recommande | des standards d'identité agentique rendant chaque action attribuable à un agent, un utilisateur contrôlant et une tâche | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |

@@ -1,6 +1,6 @@
 # Google DeepMind
 
-> **Type** : ORGANISATION | 13 relations | 4 fiches sources
+> **Type** : ORGANISATION | 14 relations | 4 fiches sources
 
 ## Attributs
 
@@ -22,7 +22,7 @@
 
 ### fait_partie_de
 
-- [[kb/Google\|Google]] (ORGANISATION) — 0.99, STATIQUE
+- [[kb/Google-DeepMind\|Google DeepMind]] (ORGANISATION) — 0.99, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### prédit
@@ -43,9 +43,10 @@
 
 ## Relations (comme objet)
 
+- [[kb/Google-DeepMind\|Google DeepMind]] **fait_partie_de** → Google DeepMind — 0.99
 - [[kb/_entites-mineures#Google-Labs\|Google Labs]] **collabore_avec** → Google DeepMind — 0.97
 - [[kb/_entites-mineures#Kevin-Hou\|Kevin Hou]] **travaille_chez** → Google DeepMind — 0.96
-- équipe dirigeante Windsurf **travaille_chez** → Google DeepMind — 0.95
+- équipe dirigeante **travaille_chez** → Google DeepMind — 0.95
 - [[kb/_entites-mineures#Simmer\|Simmer]] **fait_partie_de** → Google DeepMind — 0.90
 
 ## Fiches sources

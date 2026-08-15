@@ -133,7 +133,7 @@ Article HBR classique transposant les frameworks de management stratégique (Por
 | Andy Wu | PERSONNE | travaille_chez | Harvard Business School | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Harvard Business Review | ORGANISATION | publie | The Gen AI Playbook for Organizations | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Framework 4 quadrants | METHODOLOGIE | utilise | coût d'erreur × type de connaissance | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| No Regrets Zone | CONCEPT | recommande | déploiement immédiat IA générative | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| No Regrets Zone | CONCEPT | recommande | IA générative | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Human-First Zone | CONCEPT | recommande | autorité décisionnelle humaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Quality Control Zone | CONCEPT | utilise | human-in-the-loop | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Paradoxe d'Accès | CONCEPT | affirme_que | l'avantage concurrentiel vient du déploiement différencié | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |

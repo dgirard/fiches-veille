@@ -67,10 +67,10 @@ Cette note **Trésor-Éco n° 391** (DG Trésor, juin 2026) propose une revue pr
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| DG Trésor | ORGANISATION | publie | Trésor-Éco n° 391 « L'IA, quels effets sur l'emploi ? » | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| DG Trésor | ORGANISATION | publie | Trésor-Éco n° 391 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Trésor-Éco n° 391 | DOCUMENT | affirme_que | l'IA n'a pas d'effet agrégé mesurable sur l'emploi à ce stade, faute de recul et d'adoption | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | IA générative | TECHNOLOGIE | permet | des gains de productivité individuels de +14 % (service client) à +26 % (développeurs) | MESURE | 0.9 | STATIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | réduit | la demande de travail via l'effet de déplacement (substitution de tâches) | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| IA générative | TECHNOLOGIE | réduit | effet de déplacement | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | effet de productivité | CONCEPT | s_oppose_à | effet de déplacement | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | approche task-based | CONCEPT | mesure | l'exposition d'un métier à l'IA par décomposition en tâches | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | élasticité-prix de la demande | CONCEPT | permet | de déterminer si les gains de productivité augmentent ou réduisent l'emploi d'un métier | AFFIRMATION | 0.87 | ATEMPOREL | déclaré_article |

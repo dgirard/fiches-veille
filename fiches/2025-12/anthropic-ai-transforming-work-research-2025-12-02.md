@@ -59,7 +59,7 @@ Anthropic en tire des chantiers internes — nouveaux modèles de mentorat, main
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Anthropic | ORGANISATION | publie | étude transformation travail par IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | étude sur la transformation du travail | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | productivité ingénieurs logiciels | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | 132 ingénieurs et chercheurs enquêtés, 53 entretiens | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | s_applique_à | 60% du travail des employés | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
@@ -81,5 +81,5 @@ Anthropic en tire des chantiers internes — nouveaux modèles de mentorat, main
 | Claude Code | TECHNOLOGIE | catégorie | Agent de codage CLI | AJOUT |
 | Claude Sonnet 4 | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
 | Claude Opus 4 | TECHNOLOGIE | catégorie | Modèle de langage | AJOUT |
-| étude transformation travail par IA | DOCUMENT | date | août 2025 | AJOUT |
-| étude transformation travail par IA | DOCUMENT | participants | 132 enquêtés, 53 entretiens | AJOUT |
+| étude sur la transformation du travail | DOCUMENT | date | août 2025 | AJOUT |
+| étude sur la transformation du travail | DOCUMENT | participants | 132 enquêtés, 53 entretiens | AJOUT |

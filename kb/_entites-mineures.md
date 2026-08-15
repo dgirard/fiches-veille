@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2642 entités avec moins de 3 triples/fiches
+> 2634 entités avec moins de 3 triples/fiches
 
-## PERSONNE (372)
+## PERSONNE (370)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -182,7 +182,7 @@
 - **rôle** : CEO de Replit
 
 - **dirige** → [[kb/Replit-organisation\|Replit]] (ORGANISATION) — 0.98
-- **utilise** → séparation dev/prod automatique (METHODOLOGIE) — 0.95
+- **utilise** → [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
 
@@ -311,7 +311,7 @@
 
 - **rôle** : Chercheur indépendant, développeur C#
 
-- **a_créé** → infrastructure contexte codifié 3 tiers (METHODOLOGIE) — 0.98
+- **a_créé** → [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE) — 0.98
 - **affirme_que** → « constitution basique améliore output dès jour 1 » (AFFIRMATION) — 0.94
 
 **Fiches** : [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
@@ -382,7 +382,7 @@
 
 - **affiliation** : Chercheur indépendant, timelines AGI longues
 
-- **s_oppose_à** → timelines AGI courtes (CONCEPT) — 0.85
+- **s_oppose_à** → [[kb/AGI-concept\|AGI]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 
@@ -677,7 +677,7 @@
 
 - **rôle** : Head of AI Products and Platforms chez Moderna
 
-- **dirige** → AI Products and Platforms chez Moderna (ORGANISATION) — 0.97
+- **dirige** → AI Products and Platforms (ORGANISATION) — 0.97
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
 
@@ -780,11 +780,12 @@
 
 ### Christina Lu {#Christina-Lu}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : Chercheuse MATS / Oxford, en collaboration Anthropic
 
-- **a_créé** → assistant axis et activation capping (METHODOLOGIE) — 0.95
+- **a_créé** → [[kb/_entites-mineures#Activation-capping\|Activation capping]] (METHODOLOGIE) — 0.95
+- **a_créé** → [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
@@ -814,7 +815,7 @@
 
 - **rôle** : Team lead Intercom du data analytics platform (Streamlit-Snowflake, prototype février → adoption généralisée)
 
-- **a_créé** → data analytics platform Intercom (Streamlit-Snowflake) (TECHNOLOGIE) — 0.92
+- **a_créé** → data analytics platform (Streamlit-Snowflake) (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
 
@@ -892,7 +893,7 @@
 
 - **rôle** : Économiste MIT, thèse new industries will emerge (contrepoint underclass)
 
-- **s_oppose_à** → thèse permanent underclass (CONCEPT) — 0.90
+- **s_oppose_à** → [[kb/_entites-mineures#Permanent-underclass\|Permanent underclass]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
@@ -916,9 +917,11 @@
 
 ### David Heinemeier Hansson (DHH) {#David-Heinemeier-Hansson-(DHH)}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : Créateur Ruby on Rails, fondateur Basecamp/HEY, vainqueur 24h du Mans 82e édition, auteur essai "TDD is dead. Long live testing." (2014)
+
+- **publie** → TDD is dead. Long live testing. (article original, 2014) (DOCUMENT) — 0.97
 
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] **s_oppose_à** → David Heinemeier Hansson (DHH) — 0.96
 
@@ -960,28 +963,19 @@
 
 - **rôle** : Pollster Démocrate, stratégiste messaging IA pour 2028
 
-- **recommande** → federal jobs guarantee comme messaging gagnant (METHODOLOGIE) — 0.95
+- **recommande** → [[kb/_entites-mineures#Federal-jobs-guarantee\|Federal jobs guarantee]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
-### David Wallace-Wells {#David-Wallace-Wells}
-
-**Type** : PERSONNE | 2 relations | 1 fiches
-
-- **rôle** : Staff writer NYT Magazine, journaliste américain reconnu pour climat (livre The Uninhabitable Earth 2019), ancien deputy editor New York Magazine. Auteur article-pivot AI Populism mai 2026
-
-- **publie** → A.I. Populism Is Here. And No One Is Ready. (DOCUMENT) — 0.97
-- **affirme_que** → « les cinq labs IA sont les "new faces of American oligarchy" » (AFFIRMATION) — 0.95
-
-**Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
-
 ### Dean Ball {#Dean-Ball}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : Policy wonk, architecte original de l'AI policy de l'administration Trump. Citation prophétique Palantir Foundation Yale "AI as governments" + "giant acid vat"
 
 - **prédit** → « "It will not be A.I. in government. It's going to be A.I. as governments." » (CITATION) — 0.95
+
+- [[kb/David-Wallace-Wells\|David Wallace-Wells]] **référence** → Dean Ball — 0.96
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
@@ -1148,7 +1142,7 @@
 
 - **rôle** : AI Value Realization Lead Americas Google Cloud, ex-McKinsey 8 ans, Master Financial Engineering Michigan, co-auteur DORA ROI 2026
 
-- **travaille_chez** → Google Cloud Americas (ORGANISATION) — 0.95
+- **travaille_chez** → [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -1537,7 +1531,7 @@
 - **rôle** : Journaliste indépendante (Substack), couvre IA et Silicon Valley culture
 
 - **publie** → Silicon Valley Is Bracing for a Permanent Underclass (DOCUMENT) — 0.99
-- **a_créé** → concept "A.I. populism's warning shots" (CONCEPT) — 0.96
+- **a_créé** → [[kb/_entites-mineures#Warning-shots-(AI-populism)\|Warning shots (AI populism)]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
@@ -1619,7 +1613,7 @@
 
 - **rôle** : Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology
 
-- **a_créé** → concept diffusion marathon (vs winner-take-all race) (CONCEPT) — 0.95
+- **a_créé** → [[kb/_entites-mineures#Diffusion-marathon\|Diffusion marathon]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
@@ -1800,7 +1794,7 @@
 - **rôle** : Ingénieur senior chez SubImage (cybersécurité, France→SF)
 
 - **travaille_chez** → [[kb/_entites-mineures#SubImage\|SubImage]] (ORGANISATION) — 0.95
-- **a_créé** → agent Jarvis personnel (TECHNOLOGIE) — 0.93
+- **a_créé** → [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
@@ -2249,7 +2243,7 @@
 
 - **rôle** : Sr Staff Engineer chez Uber, co-auteur principal de l'article *Solving the Identity Crisis for AI Agents* (2026-05-21)
 
-- **travaille_chez** → Uber (Sr Staff Engineer) (ORGANISATION) — 0.98
+- **travaille_chez** → [[kb/Uber-Engineering\|Uber Engineering]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -2334,7 +2328,7 @@
 
 - **rôle** : Engineering Manager chez Uber, responsable équipe Security/Identity infrastructure agent
 
-- **travaille_chez** → Uber (Engineering Manager) (ORGANISATION) — 0.98
+- **travaille_chez** → [[kb/Uber-Engineering\|Uber Engineering]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -2406,7 +2400,7 @@
 
 - **rôle** : VP IA, Replit
 
-- **dirige** → équipe IA de Replit (ORGANISATION) — 0.95
+- **dirige** → [[kb/Replit-organisation\|Replit]] (ORGANISATION) — 0.95
 - **a_créé** → troisième dimension accessibilité (CONCEPT) — 0.85
 
 - [[kb/Replit-organisation\|Replit]] **emploie** → Michele Catasta — 0.95
@@ -2490,7 +2484,7 @@
 - **rôle** : Lead DORA team Google Cloud, co-auteur multiples DORA reports + 97 Things Every Cloud Engineer Should Know (O'Reilly 2020)
 
 - **publie** → [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT) — 0.98
-- **dirige** → [[kb/_entites-mineures#DORA-team\|DORA team]] (ORGANISATION) — 0.96
+- **dirige** → [[kb/DORA\|DORA]] (ORGANISATION) — 0.96
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]], [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
@@ -2643,7 +2637,7 @@
 
 - **rôle** : Journaliste tech, signe pour The New Stack ; trace le sourçage en cascade du chiffre de subvention 15-30×
 
-- **a_créé** → [[kb/_entites-mineures#Anthropic-pauses-Claude-Agent-SDK-subscription-change-on-day-it-was-due-to-take-effect\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]] (DOCUMENT) — 0.96
+- **a_créé** → [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] (DOCUMENT) — 0.96
 - **affirme_que** → « entre contrôle à l'export, projet d'introduction en bourse et baisses de prix supposées chez OpenAI, Anthropic cherche à retenir sa base de développeurs » (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
@@ -2751,7 +2745,7 @@
 
 - **rôle** : Staff Software Engineer chez Uber, co-auteur
 
-- **travaille_chez** → Uber (Staff Software Engineer) (ORGANISATION) — 0.98
+- **travaille_chez** → [[kb/Uber-Engineering\|Uber Engineering]] (ORGANISATION) — 0.98
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -2842,7 +2836,7 @@
 
 - **rôle** : Analyste CIA, auteur de la méthodologie ACH
 
-- **a_créé** → Analysis of Competing Hypotheses (METHODOLOGIE) — 0.97
+- **a_créé** → [[kb/_entites-mineures#Analysis-of-Competing-Hypotheses-(ACH)\|Analysis of Competing Hypotheses (ACH)]] (METHODOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
@@ -2898,14 +2892,6 @@
 - **a_créé** → [[kb/_entites-mineures#critique-de-Lucas\|critique de Lucas]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
-
-### Rohit (@rohit4verse) {#Rohit-(@rohit4verse)}
-
-**Type** : PERSONNE | 0 relations | 1 fiches
-
-- **rôle** : Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap
-
-**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
 ### Roman Gushchin {#Roman-Gushchin}
 
@@ -3102,7 +3088,7 @@
 
 - **rôle** : Ingénieur #2 Claude Code, créateur subagents
 
-- **a_créé** → Claude Code subagents (TECHNOLOGIE) — 0.97
+- **a_créé** → [[kb/subagents-technologie\|subagents]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
@@ -3197,11 +3183,12 @@
 
 ### Srinivas Tallapragada {#Srinivas-Tallapragada}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : President & Chief Engineering and Customer Success Officer, Salesforce
 
-- **dirige** → Salesforce Engineering (ORGANISATION) — 0.97
+- **dirige** → [[kb/Salesforce\|Salesforce]] (ORGANISATION) — 0.97
+- **affirme_que** → « la qualité bénéficie de la vitesse » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
@@ -3336,11 +3323,13 @@
 
 ### Ted Chiang {#Ted-Chiang}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 1 fiches
 
 - **rôle** : Écrivain de science-fiction américain, auteur essai BuzzFeed News 2017 sur superintelligence comme no-holds-barred capitalism — citation canonique mobilisée par Wallace-Wells 2026
 
 - **affirme_que** → « "When Silicon Valley tries to imagine superintelligence, what it comes up with is no-holds-barred capitalism" (2017) » (CITATION) — 0.97
+
+- [[kb/David-Wallace-Wells\|David Wallace-Wells]] **référence** → Ted Chiang — 0.96
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
@@ -3435,7 +3424,7 @@
 
 - **rôle** : Auteur Evil Martians, co-rédacteur Chronicles AI-assisted engineers burning out (mai 2026)
 
-- **publie** → [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] (DOCUMENT) — 0.97
+- **publie** → [[kb/AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] (DOCUMENT) — 0.97
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
@@ -3459,11 +3448,13 @@
 
 **Fiches** : [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 
-### Ursula Lübbert-Passing PhD {#Ursula-Lübbert-Passing-PhD}
+### Ursula Lübbert-Passing {#Ursula-Lübbert-Passing}
 
-**Type** : PERSONNE | 0 relations | 1 fiches
+**Type** : PERSONNE | 1 relations | 1 fiches
 
 - **rôle** : AI Value Realization Lead EMEA Google Cloud, 20 ans benchmarking + value advisory, PhD effort estimation software projects
+
+- **travaille_chez** → [[kb/Google-Cloud\|Google Cloud]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -3512,7 +3503,7 @@
 
 - **rôle** : Créateur du terme harness engineering, post Anatomy of an Agent Harness
 
-- **a_créé** → harness engineering (terme) (METHODOLOGIE) — 0.97
+- **a_créé** → [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE) — 0.97
 - **a_créé** → équation Agent = Model + Harness (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
@@ -3680,7 +3671,7 @@
 
 - **rôle** : Membre équipe Claude Code, auteur du support natif worktrees
 
-- **a_créé** → support natif des git worktrees (TECHNOLOGIE) — 0.95
+- **a_créé** → [[kb/git-worktrees-technologie\|git worktrees]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
@@ -3716,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (279)
 
 ### 10x {#10x}
 
@@ -3762,10 +3753,12 @@
 
 ### @ClaudeDevs {#@ClaudeDevs}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **description** : Compte officiel de communication produit Claude Code
 - **plateforme** : X (Twitter)
+
+- [[kb/Anthropic\|Anthropic]] **a_créé** → @ClaudeDevs — 0.90
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 
@@ -3781,9 +3774,11 @@
 
 ### ADEME {#ADEME}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Agence de la transition écologique française, partenaire de Mistral pour l'ACV des modèles
+
+- [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → ADEME — 0.96
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -3805,7 +3800,7 @@
 
 - **rôle** : Autorité nationale sécurité systèmes information
 
-- **a_créé** → qualification SecNumCloud (CONCEPT) — 0.98
+- **a_créé** → [[kb/SecNumCloud\|SecNumCloud]] (CONCEPT) — 0.98
 
 - [[kb/Vincent-Strubel\|Vincent Strubel]] **dirige** → ANSSI — 0.98
 
@@ -3851,13 +3846,14 @@
 
 ### Adeo {#Adeo}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 1 fiches
 
 - **secteur** : Retail bricolage / habitat (Leroy Merlin, Obramat, Weldom), actionnariat familial non coté
 
 - **affirme_que** → « "On ne va pas se refaire avoir (après le Retail Apocalypse)" » (CITATION) — 0.88
 
 - [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] **travaille_chez** → Adeo — 0.98
+- [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] **dirige** → Adeo — 0.97
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
@@ -3942,11 +3938,12 @@
 
 ### Amazon Web Services {#Amazon-Web-Services}
 
-**Type** : ORGANISATION | 3 relations | 2 fiches
+**Type** : ORGANISATION | 4 relations | 2 fiches
 
 - **secteur** : Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans)
 
 - **utilise** → [[kb/Kiro\|Kiro]] (TECHNOLOGIE) — 0.96
+- **utilise** → [[kb/_entites-mineures#Blameless-post-mortem\|blameless post-mortem]] (METHODOLOGIE) — 0.92
 
 - [[kb/_entites-mineures#Julien-Lépine\|Julien Lépine]] **travaille_chez** → Amazon Web Services — 0.99
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] **travaille_chez** → Amazon Web Services — 0.97
@@ -3984,16 +3981,6 @@
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
-### Anthropic Labs {#Anthropic-Labs}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
-
-- **a_créé** → Claude Code, MCP, app desktop (TECHNOLOGIE) — 0.97
-
-**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
-
 ### Anthropic Threat Intelligence {#Anthropic-Threat-Intelligence}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4025,20 +4012,20 @@
 
 ### BCG {#BCG}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 0 relations | 1 fiches
 
 - **secteur** : Cabinet de conseil en stratégie
-
-- **recommande** → « 70% des efforts de transformation IA dédiés aux people et processes » (AFFIRMATION) — 0.95
-- **recommande** → « développer skills problem framing analysis planning strategic prioritization » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
 ### BCG Henderson Institute {#BCG-Henderson-Institute}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : Think tank de recherche BCG
+
+- **recommande** → « 70% des efforts de transformation IA dédiés aux people et processes » (AFFIRMATION) — 0.95
+- **recommande** → « développer skills problem framing analysis planning strategic prioritization » (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
@@ -4143,9 +4130,11 @@
 
 ### CERT-FR {#CERT-FR}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **rôle** : Centre réponse incidents cybersécurité France
+
+- localisation des données en UE **permet** → CERT-FR — 0.85
 
 **Fiches** : [[fiches/2026-01/strubel-secnumcloud-anssi-linkedin-2026-01-06\|SecNumCloud en (pas si) bref]]
 
@@ -4220,18 +4209,20 @@
 - **secteur** : Grande distribution / Software Factory
 
 - [[kb/Alexandre-Mogère\|Alexandre Mogère]] **travaille_chez** → Carrefour France — 0.99
-- Software Factory Carrefour France **fait_partie_de** → Carrefour France — 0.97
+- [[kb/Software-Factory\|Software Factory]] **fait_partie_de** → Carrefour France — 0.97
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 
 ### Cast Software {#Cast-Software}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **positionnement_2026** : Harness Engineering / analyse déterministe
 - **secteur** : Éditeur logiciel français — analyse de code et logiciels
 
 - **recommande** → [[kb/Harness-engineering\|harness engineering]] (METHODOLOGIE) — 0.95
+
+- [[kb/Rémi-Jacquet\|Rémi Jacquet]] **dirige** → Cast Software — 0.99
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
@@ -4253,7 +4244,7 @@
 - **rôle_dans_émission** : partenaire du think tank Cast Software
 - **secteur** : Club / association française des DSI de grandes entreprises
 
-- Think Tank DSI Cast Software **collabore_avec** → Cigref — 0.90
+- Think Tank DSI **collabore_avec** → Cigref — 0.90
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
@@ -4317,7 +4308,7 @@
 
 - **secteur** : Firme d'analystes Silicon Valley dirigée par R. "Ray" Wang, focus CXO / future of business and technology
 
-- **recommande** → AI/works™ (reconnaissance analyste) (TECHNOLOGIE) — 0.97
+- **recommande** → [[kb/AI-works\|AI/works™]] (TECHNOLOGIE) — 0.97
 - **affirme_que** → « l'approche spec-driven lifecycle change l'économie du software » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
@@ -4334,9 +4325,11 @@
 
 ### CoreWeave {#CoreWeave}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **rôle** : acteur du réseau circulaire d'investissements IA
+
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → CoreWeave — 0.92
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 
@@ -4356,7 +4349,7 @@
 
 - **rôle** : Équipe métier (trésorerie) ; détentrice de la connaissance et des données (GL Oracle)
 
-- **est_instance_de** → Crowd (framework Leader-Lab-Crowd) (CONCEPT) — 0.85
+- **est_instance_de** → [[kb/_entites-mineures#Framework-Leader-Lab-Crowd\|framework Leader-Lab-Crowd]] (CONCEPT) — 0.85
 
 - [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] **collabore_avec** → Cornell Treasury Operations — 0.97
 
@@ -4414,19 +4407,9 @@
 
 - **secteur** : Administration économique (Ministère de l'Économie) — série d'analyse Trésor-Éco
 
-- **publie** → Trésor-Éco n° 391 « L'IA, quels effets sur l'emploi ? » (DOCUMENT) — 0.99
+- **publie** → [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] (DOCUMENT) — 0.99
 
 **Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
-
-### DORA team {#DORA-team}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **rôle** : Recherche software delivery performance, Google Cloud, lignée 2020 ROI DevOps → 2025 State of AI-assisted Software Development → 2026 ROI of AI-assisted Software Development
-
-- [[kb/_entites-mineures#Nathen-Harvey\|Nathen Harvey]] **dirige** → DORA team — 0.96
-
-**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
 ### DSI {#DSI}
 
@@ -4475,8 +4458,8 @@
 
 - **secteur** : Éducation IA / médias techniques
 
-- **publie** → The Batch numéro 350 (DOCUMENT) — 0.99
-- **publie** → The Batch n°352 (8 mai 2026) (DOCUMENT) — 0.99
+- **publie** → [[kb/_entites-mineures#The-Batch\|The Batch]] (DOCUMENT) — 0.99
+- **publie** → [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] (DOCUMENT) — 0.99
 
 - [[kb/Andrew-Ng\|Andrew Ng]] **dirige** → DeepLearning.AI — 0.97
 
@@ -4610,7 +4593,7 @@
 
 - **secteur** : Plateforme IA agentic basée sur JVM, démontre l'approche DICE
 
-- **utilise** → approche DICE (METHODOLOGIE) — 0.90
+- **utilise** → [[kb/DICE\|DICE]] (METHODOLOGIE) — 0.90
 
 - [[kb/Rod-Johnson\|Rod Johnson]] **a_créé** → Embabel — 0.99
 
@@ -4623,7 +4606,7 @@
 - **rôle_dans_émission** : participe au think tank Cast Software, repense ses cursus
 - **secteur** : École d'ingénieurs informatique française
 
-- Think Tank DSI Cast Software **collabore_avec** → Epita — 0.92
+- Think Tank DSI **collabore_avec** → Epita — 0.92
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
@@ -4647,9 +4630,11 @@
 
 ### Equal Experts {#Equal-Experts}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Consulting CD / engineering
+
+- **collabore_avec** → [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
@@ -4716,9 +4701,11 @@
 
 ### FIG (agence) {#FIG-(agence)}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **description** : Cas étude Mandese — agence ayant decoupled pricing from staffing
+
+- **utilise** → decoupled pricing from staffing (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
@@ -4728,7 +4715,7 @@
 
 - **rôle** : Régulateur de la concurrence aux États-Unis
 
-- **s_applique_à** → coordination OpenAI-Neuralink (CONCEPT) — 0.82
+- **s_applique_à** → coordination des conseils (CONCEPT) — 0.82
 
 **Fiches** : [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
 
@@ -4779,6 +4766,16 @@
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 
+### Fournisseurs CX legacy {#Fournisseurs-CX-legacy}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Éditeurs historiques du service client, en conflit d'incitations avec la tarification à l'outcome
+
+- **s_oppose_à** → efficacité de leur propre IA (réduit les sièges) (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
+
 ### GENIAL {#GENIAL}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4791,9 +4788,11 @@
 
 ### Generative AI Labs {#Generative-AI-Labs}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **affiliation** : The Wharton School, University of Pennsylvania
+
+- **publie** → étude personas et précision IA (DOCUMENT) — 0.98
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
@@ -4805,7 +4804,7 @@
 
 - **s_oppose_à** → code généré par IA (CONCEPT) — 0.98
 
-- équipe Claude Code **recommande** → Ghostty — 0.88
+- équipe produit **recommande** → Ghostty — 0.88
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]], [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
@@ -4831,12 +4830,11 @@
 
 ### Google Cloud EMEA {#Google-Cloud-EMEA}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Cloud / Marketing B2B
 
 - [[kb/Guillaume-Roques\|Guillaume Roques]] **travaille_chez** → Google Cloud EMEA — 0.99
-- Ursula Lübbert-Passing **travaille_chez** → Google Cloud EMEA — 0.95
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
 
@@ -4922,7 +4920,7 @@
 - **nom complet** : Hong Kong University Data Science
 
 - **a_créé** → [[kb/LightRAG\|LightRAG]] (TECHNOLOGIE) — 0.99
-- **utilise** → [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
+- **utilise** → [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2024-10/lightrag-simple-fast-rag-hkuds-2024-10-08\|HKUDS/LightRAG: -EMNLP2025- "LightRAG: Simple and Fast Retrieval-Augmented Generation"]]
 
@@ -5162,7 +5160,7 @@
 
 - **secteur** : Outils IA / frameworks PyTorch
 
-- **a_créé** → framework simplifiant PyTorch (TECHNOLOGIE) — 0.88
+- **a_créé** → framework de haut niveau (TECHNOLOGIE) — 0.88
 
 - [[kb/Sebastian-Raschka\|Sebastian Raschka]] **travaille_chez** → Lightning AI — 0.97
 
@@ -5230,9 +5228,11 @@
 
 ### MGX {#MGX}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Fonds souverain d'Abu Dhabi, investisseur principal Campus IA
+
+- **soutient** → [[kb/Campus-IA\|Campus IA]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -5292,16 +5292,6 @@
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
 
-### McKinsey & Company {#McKinsey-&-Company}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **secteur** : Cabinet conseil top-tier mondial fondé 1926, 100 ans en 2026, ~60 000 people (40 000 humains + 20 000 agents IA en janvier 2026)
-
-- [[kb/Bob-Sternfels\|Bob Sternfels]] **dirige** → McKinsey & Company — 0.97
-
-**Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
-
 ### Mechanical Orchard {#Mechanical-Orchard}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5322,9 +5312,11 @@
 
 ### MediaPost {#MediaPost}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Publication trade industry advertising/marketing/media. Section Media 3.0 commentaire éditorial
+
+- [[kb/Joe-Mandese\|Joe Mandese]] **dirige** → MediaPost — 0.96
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
@@ -5442,12 +5434,14 @@
 
 ### Modern Software Engineering {#Modern-Software-Engineering}
 
-**Type** : ORGANISATION | 2 relations | 1 fiches
+**Type** : ORGANISATION | 4 relations | 1 fiches
 
 - **secteur** : Chaîne YouTube + coaching ingénierie logicielle
 
 - [[kb/Dave-Farley\|Dave Farley]] **dirige** → Modern Software Engineering — 0.98
-- Equal Experts, Transfig, Octopus Deploy **collabore_avec** → Modern Software Engineering — 0.93
+- [[kb/_entites-mineures#Equal-Experts\|Equal Experts]] **collabore_avec** → Modern Software Engineering — 0.93
+- [[kb/_entites-mineures#Octopus-Deploy\|Octopus Deploy]] **collabore_avec** → Modern Software Engineering — 0.93
+- Transfig **collabore_avec** → Modern Software Engineering — 0.93
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
@@ -5594,9 +5588,11 @@
 
 ### Octopus Deploy {#Octopus-Deploy}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Outil de déploiement CD multi-cloud / on-prem / Kubernetes
+
+- **collabore_avec** → [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] (ORGANISATION) — 0.93
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
@@ -5648,12 +5644,14 @@
 
 ### Oracle {#Oracle}
 
-**Type** : ORGANISATION | 1 relations | 2 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
 - **rôle** : acteur du réseau circulaire d'investissements IA
 - **secteur** : Éditeur logiciel / Cloud
 
 - **mesure** → « hausse tarifaire 8-12% » (MESURE) — 0.92
+
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → Oracle — 0.92
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]], [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 
@@ -5738,7 +5736,7 @@
 
 - **rôle** : Terrain de l'expérience « The Cybernetic Teammate » (professionnels R&D et commerce, défis d'innovation produit réels)
 
-- **observé_dans** → The Cybernetic Teammate (791 professionnels R&D et commerce) (DOCUMENT) — 0.93
+- **observé_dans** → [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] (DOCUMENT) — 0.93
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
@@ -5922,9 +5920,11 @@
 
 ### SitePoint {#SitePoint}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **secteur** : Média technique développeurs
+
+- **publie** → Analyse TCO LLM 2026 (DOCUMENT) — 0.97
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis]]
 
@@ -6144,9 +6144,21 @@
 
 - **initiative** : AI Workforce Action Plan
 
-- **utilise** → Iceberg Index dans plan IA (CONCEPT) — 0.88
+- **utilise** → [[kb/Iceberg-Index\|Iceberg Index]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
+
+### Tesla {#Tesla}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Constructeur dont le robot Optimus sert d'exemple de valorisation adossée à une promesse
+
+- **a_créé** → [[kb/_entites-mineures#Tesla-Optimus\|Tesla Optimus]] (TECHNOLOGIE) — 0.92
+
+- [[kb/Elon-Musk\|Elon Musk]] **dirige** → Tesla — 0.95
+
+**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
 ### Tessl {#Tessl}
 
@@ -6205,6 +6217,16 @@
 
 **Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
+### The Josh Bersin Company {#The-Josh-Bersin-Company}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Cabinet d'analyse RH éditeur de la note, distinct de son fondateur
+
+- **a_créé** → [[kb/_entites-mineures#Talent-Density\|Talent Density]] (CONCEPT) — 0.95
+
+**Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
+
 ### The Strategy Stack {#The-Strategy-Stack}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6248,14 +6270,6 @@
 - **s_applique_à** → « l'activation et la désactivation de fonctionnalités sans redéploiement » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
-
-### Uber Engineering {#Uber-Engineering}
-
-**Type** : ORGANISATION | 0 relations | 1 fiches
-
-- **catégorie** : Équipe d'ingénierie Uber, publie blog technique sur uber.com/blog, déploie infrastructure agent identity en production pour milliers d'agents internes
-
-**Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
 ### University of Wisconsin-Madison {#University-of-Wisconsin-Madison}
 
@@ -6303,7 +6317,7 @@
 
 - **secteur** : AI coaching pour entreprises Fortune 500
 
-- **a_créé** → sommet AI & the Workforce: The Adoption Gap (EVENEMENT) — 0.95
+- **a_créé** → [[kb/_entites-mineures#AI-&-the-Workforce-The-Adoption-Gap\|AI & the Workforce: The Adoption Gap]] (EVENEMENT) — 0.95
 
 - [[kb/_entites-mineures#Parker-Mitchell\|Parker Mitchell]] **dirige** → Valence — 0.95
 
@@ -6387,6 +6401,16 @@
 
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
+### X {#X}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Réseau social opéré par xAI, dont x-algorithm est le dépôt de recommandation en production
+
+- **utilise** → feature-switch service interne pour gérer FAVORITE_WEIGHT, REPLY_WEIGHT etc. (TECHNOLOGIE) — 0.95
+
+**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
 ### Xebia {#Xebia}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6405,7 +6429,7 @@
 - **type** : Accélérateur de startups
 
 - **soutient** → [[kb/Weave\|Weave]] (ORGANISATION) — 0.98
-- **soutient** → Vorflux (lead $15M seed) (TECHNOLOGIE) — 0.97
+- **soutient** → [[kb/_entites-mineures#Vorflux\|Vorflux]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 
@@ -6450,9 +6474,11 @@
 
 ### commission d'enquête vulnérabilités numériques {#commission-d'enquête-vulnérabilités-numériques}
 
-**Type** : ORGANISATION | 0 relations | 1 fiches
+**Type** : ORGANISATION | 1 relations | 1 fiches
 
 - **catégorie** : Commission d'enquête de l'Assemblée nationale française, présidée par Philippe Latombe (MoDem, Vendée), examine les dépendances numériques de la France
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **collabore_avec** → commission d'enquête vulnérabilités numériques — 0.99
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -6528,14 +6554,6 @@
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
-### équipe Data Science & Data Engineering Anthropic {#équipe-Data-Science-&-Data-Engineering-Anthropic}
-
-**Type** : ORGANISATION | 0 relations | 1 fiches
-
-- **membres** : Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry
-
-**Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
-
 ### équipe FAANG {#équipe-FAANG}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6546,7 +6564,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (575)
+## TECHNOLOGIE (576)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6589,11 +6607,15 @@
 
 **Fiches** : [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 
-### /loop slash command {#loop-slash-command}
+### /loop {#loop}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **description** : Slash-command Claude Code utilisant cron pour planifier des repeat jobs (every minute/5min/day) — primitive d'architecture agentique
+
+- **utilise** → cron pour repeat jobs (CONCEPT) — 0.97
+
+- [[kb/_entites-mineures#Routines\|Routines]] **est_variante_de** → /loop — 0.95
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 
@@ -6661,7 +6683,7 @@
 
 - **type** : CLI tool + API Node.js
 
-- **permet** → conversion notebooks Jupyter ↔ Deepnote (CONCEPT) — 0.95
+- **permet** → conversion bidirectionnelle de notebooks (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 
@@ -6687,7 +6709,7 @@
 
 - **catégorie** : Agent-to-Agent standard émergent (référencé sur GitHub) pour les communications inter-agents
 
-- [[kb/_entites-mineures#Standardized-A2A-Client\|Standardized A2A Client]] **utilise** → A2A Protocol — 0.95
+- [[kb/Standardized-A2A-Client\|Standardized A2A Client]] **utilise** → A2A Protocol — 0.95
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -6752,9 +6774,11 @@
 
 ### AI Guard {#AI-Guard}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Composant Uber au sein de l'AI Gateway pour la redaction des données sensibles avant envoi aux LLM externes
+
+- [[kb/AI-Gateway\|AI Gateway]] **utilise** → AI Guard — 0.95
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -6886,6 +6910,17 @@
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
+### Agent {#Agent}
+
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+
+- **catégorie** : Brique commune aux cinq projets de la feuille de route, par opposition au simple wrapper d'API
+
+- **est_basé_sur** → the loop (boucle autonome orientée but) (CONCEPT) — 0.95
+- **converge_avec** → onboarding d'un stagiaire (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+
 ### Agent Communication Protocol {#Agent-Communication-Protocol}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -6902,7 +6937,7 @@
 
 - **acronyme** : ADK
 
-- samples AP2 **utilise** → Agent Development Kit — 0.97
+- [[kb/AP2\|AP2]] **utilise** → Agent Development Kit — 0.97
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
@@ -6918,11 +6953,13 @@
 
 ### Agent Registry {#Agent-Registry}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Source of truth Uber pour les mappings agent↔workload — utilisé par STS pour vérifier l'autorisation des agents
 
 - **est_instance_de** → source of truth pour mappings agent↔workload (CONCEPT) — 0.98
+
+- [[kb/STS-(Security-Token-Service)\|STS (Security Token Service)]] **utilise** → Agent Registry — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -6950,9 +6987,11 @@
 
 ### Agent2Agent (A2A) {#Agent2Agent-(A2A)}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Protocole inter-agents
+
+- **utilise** → [[kb/Interactions-API\|Interactions API]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2025-12/google-deepmind-interactions-api-gemini-agents-2025-12-11\|Interactions API: A unified foundation for models and agents]]
 
@@ -7042,7 +7081,7 @@
 
 - **permet** → keyword data / parent topic / SERP overview (CONCEPT) — 0.92
 
-- pipeline de content engineering **utilise** → Ahrefs MCP — 0.93
+- [[kb/content-engineering\|content engineering]] **utilise** → Ahrefs MCP — 0.93
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
@@ -7158,9 +7197,11 @@
 
 ### AppWorld {#AppWorld}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **type** : benchmark agent multi-tâches
+
+- [[kb/ACE\|ACE]] **améliore** → AppWorld — 0.93
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
@@ -7176,9 +7217,11 @@
 
 ### Ask HR {#Ask-HR}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : GPT centralisé Moderna routant les questions HR vers GPTs spécialisés
+
+- **permet** → routage des questions employés vers GPTs spécialisés (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
 
@@ -7194,11 +7237,12 @@
 
 ### Aura {#Aura}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Plateforme génération design agentique avec gallery design.md + remix
 
 - [[kb/Meng-To\|Meng To]] **a_créé** → Aura — 0.97
+- [[kb/_entites-mineures#Google-Stitch\|Google Stitch]] **concurrence** → Aura — 0.88
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
@@ -7256,9 +7300,11 @@
 
 ### BERT en C {#BERT-en-C}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Implémentation BERT 700 lignes
+
+- [[kb/Claude-Code\|Claude Code]] **a_créé** → BERT en C — 0.95
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
@@ -7339,9 +7385,11 @@
 
 ### CLAUDE_PLUGIN_DATA {#CLAUDE_PLUGIN_DATA}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **usage** : Répertoire stable pour mémoire persistante (logs/JSON append-only)
+
+- **permet** → un répertoire stable de mémoire persistante (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -7357,11 +7405,13 @@
 
 ### Call Evaluation {#Call-Evaluation}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **description** : Produit interne Raiffeisen — analyse transcription audio >97% précision + redesign scripts data-driven ; élu meilleur produit du groupe RBI (passage filiale → groupe)
 
 - **mesure** → « >97% précision transcription » (MESURE) — 0.93
+
+- Groupe Raiffeisen (RBI) **recommande** → Call Evaluation — 0.94
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
@@ -7382,7 +7432,7 @@
 
 - **catégorie** : SDK pour applications ChatGPT intégrées
 
-- **utilise** → OAuth 2.1 provider (CONCEPT) — 0.95
+- **utilise** → [[kb/_entites-mineures#OAuth-2.1\|OAuth 2.1]] (CONCEPT) — 0.95
 
 - [[kb/OpenAI\|OpenAI]] **publie** → ChatGPT Apps SDK — 0.98
 
@@ -7401,13 +7451,12 @@
 
 ### ChatGPT Enterprise {#ChatGPT-Enterprise}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Plateforme GenAI entreprise (OpenAI)
 
 - [[kb/Moderna\|Moderna]] **utilise** → ChatGPT Enterprise — 0.98
 - [[kb/_entites-mineures#Dose-ID\|Dose ID]] **est_basé_sur** → ChatGPT Enterprise — 0.95
-- Entreprises regulees **utilise** → ChatGPT Enterprise — 0.95
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
 
@@ -7533,6 +7582,16 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### Claude Opus 4.5 {#Claude-Opus-4.5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Version antérieure servant de point de comparaison à Opus 4.6 sur l'expérience
+
+- [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] **surpasse** → Claude Opus 4.5 — 0.96
+
+**Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
+
 ### Claude Opus 4.6 {#Claude-Opus-4.6}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -7541,7 +7600,7 @@
 - **consommation** : 2 milliards tokens entrée, 140 millions tokens sortie
 
 - **a_créé** → [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE) — 0.99
-- **surpasse** → Claude Opus 4.5 (TECHNOLOGIE) — 0.96
+- **surpasse** → [[kb/_entites-mineures#Claude-Opus-4.5\|Claude Opus 4.5]] (TECHNOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
@@ -7615,7 +7674,7 @@
 
 - **usage** : WebSocket + Dynamic Worker execution → Code Mode
 
-- **permet** → le pattern Code Mode (l'agent écrit et exécute du code) (CONCEPT) — 0.92
+- **permet** → [[kb/_entites-mineures#Code-Mode\|Code Mode]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
@@ -7625,7 +7684,7 @@
 
 - **catégorie** : Outil d'analyse du trafic web
 
-- **mesure** → utilisation markdown par crawlers IA (CONCEPT) — 0.90
+- **mesure** → utilisation par les crawlers IA (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
@@ -7693,9 +7752,11 @@
 
 ### Codex SDK {#Codex-SDK}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Harness-as-a-Service OpenAI
+
+- **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
@@ -7760,7 +7821,7 @@
 - **catégorie** : Outil MCP pour accès aux connaissances à jour
 - **usage** : Consultation documentation officielle
 
-- **fait_partie_de** → SuperClaude MCP integration (TECHNOLOGIE) — 0.93
+- **fait_partie_de** → intégration MCP (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
@@ -7862,11 +7923,12 @@
 
 ### DRAIF MCP {#DRAIF-MCP}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **description** : Produit interne Raiffeisen — text-to-SQL sur Data Lake 10 000 tables ; embedding fine-tuné ×2 modèles OpenAI
 
 - **s_applique_à** → Data Lake 10 000 tables en text-to-SQL (CONCEPT) — 0.93
+- **surpasse** → modèles OpenAI (×2) (TECHNOLOGIE) — 0.91
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
@@ -8035,9 +8097,11 @@
 
 ### Dream Cut {#Dream-Cut}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Mac app de Meng To en développement (révélation prochaine)
+
+- [[kb/Meng-To\|Meng To]] **a_créé** → Dream Cut — 0.93
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
@@ -8067,7 +8131,7 @@
 
 - **échelle** : >5 000 milliards de requêtes/heure ; vérifié par modélisation formelle
 
-- **utilise** → TLA+ (modélisation formelle) (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
@@ -8087,7 +8151,7 @@
 
 - **catégorie** : Modèle de transcription propriétaire
 
-- Voxtral Small **concurrence** → ElevenLabs Scribe — 0.93
+- [[kb/Voxtral-Small\|Voxtral Small]] **concurrence** → ElevenLabs Scribe — 0.93
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
@@ -8119,11 +8183,13 @@
 
 ### Fable {#Fable}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Modèle premium de codage (Claude Code) capable de jugement autonome
 
 - **permet** → décision contextuelle sur l'écriture des tests (jugement du modèle) (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#Délégation-à-des-subagents\|Délégation à des subagents]] **réduit** → Fable — 0.90
 
 **Fiches** : [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
@@ -8195,17 +8261,21 @@
 
 ### GCC {#GCC}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Oracle de référence pour répartition des tâches
+
+- [[kb/agents-parallèles\|agents parallèles]] **utilise** → GCC — 0.95
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ### GPQA Diamond {#GPQA-Diamond}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Benchmark questions PhD
+
+- étude personas et précision IA **utilise** → GPQA Diamond — 0.95
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
@@ -8341,9 +8411,11 @@
 
 ### Gas Town {#Gas-Town}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Plateforme open source d'orchestration de swarms d'agents Claude Code en parallèle. Lancée 1er janvier 2026 par Steve Yegge
+
+- [[kb/Steve-Yegge\|Steve Yegge]] **publie** → Gas Town — 0.97
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
@@ -8368,15 +8440,23 @@
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
 
+### Gemini 2.0 Flash-Lite {#Gemini-2.0-Flash-Lite}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Génération précédente servant de point de comparaison de qualité et de latence
+
+- [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **surpasse** → Gemini 2.0 Flash-Lite — 0.95
+
+**Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+
 ### Gemini 2.5 {#Gemini-2.5}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **capacité** : 1M tokens de contexte
 
 - **mesure** → « 1M tokens de contexte » (MESURE) — 0.95
-
-- [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **fait_partie_de** → Gemini 2.5 — 0.99
 
 **Fiches** : [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
@@ -8433,9 +8513,11 @@
 
 ### Gemini Developer API {#Gemini-Developer-API}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : API d'accès aux modèles Gemini
+
+- **utilise** → prompts et code utilisateurs (collecte pour entraînement) (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 
@@ -8493,7 +8575,7 @@
 
 ### GenBI {#GenBI}
 
-**Type** : TECHNOLOGIE | 6 relations | 1 fiches
+**Type** : TECHNOLOGIE | 7 relations | 1 fiches
 
 - **catégorie** : Generative Business Intelligence
 
@@ -8504,6 +8586,7 @@
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] **fait_partie_de** → GenBI — 0.90
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] **fait_partie_de** → GenBI — 0.90
 - [[kb/_entites-mineures#SQL-Agent\|SQL Agent]] **fait_partie_de** → GenBI — 0.90
+- [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] **s_applique_à** → GenBI — 0.88
 
 **Fiches** : [[fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23\|Small Bets, Big Impact: Building GenBI at a Fortune 100 (Northwestern Mutual)]]
 
@@ -8526,7 +8609,7 @@
 
 - **s_oppose_à** → code généré par IA (CONCEPT) — 0.98
 
-- équipe Claude Code **recommande** → Ghostty — 0.88
+- équipe produit **recommande** → Ghostty — 0.88
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]], [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
@@ -8562,9 +8645,11 @@
 
 ### GitHub Spark {#GitHub-Spark}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Plateforme génération d'applications full-stack par langage naturel
+
+- [[kb/GitHub-organisation\|GitHub]] **publie** → GitHub Spark — 0.97
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
@@ -8582,11 +8667,12 @@
 
 ### Gmail API {#Gmail-API}
 
-**Type** : TECHNOLOGIE | 3 relations | 2 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **contrainte** : Rate limit 2000 emails par batch
 
 - **mesure** → « limite de débit à 2000 emails » (MESURE) — 0.95
+- **s_applique_à** → opérations bulk (CONCEPT) — 0.93
 
 - [[kb/Cora\|Cora]] **utilise** → Gmail API — 0.92
 - [[kb/_entites-mineures#email-agent\|email agent]] **utilise** → Gmail API — 0.90
@@ -8680,13 +8766,13 @@
 
 - **rôle** : Accès prioritaire à AI Mode en phase Labs
 
-- **permet** → accès à AI Mode (Labs) (CONCEPT) — 0.93
+- **permet** → [[kb/AI-Mode\|AI Mode]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 
 ### Google Sans {#Google-Sans}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
 
 - **date_création** : 2018
 
@@ -8694,22 +8780,25 @@
 - **s_applique_à** → 20+ systèmes d'écriture (CONCEPT) — 0.92
 
 - [[kb/_entites-mineures#Google-Sans-Text\|Google Sans Text]] **est_variante_de** → Google Sans — 0.93
+- design piloté par les besoins **s_applique_à** → Google Sans — 0.88
 
 **Fiches** : [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 
 ### Google Sans Code {#Google-Sans-Code}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **date_création** : 2025
 
-- **remplace** → Google Sans Mono pour le code (TECHNOLOGIE) — 0.90
+- **remplace** → [[kb/_entites-mineures#Google-Sans-Code\|Google Sans Code]] (TECHNOLOGIE) — 0.90
+
+- [[kb/_entites-mineures#Google-Sans-Code\|Google Sans Code]] **remplace** → Google Sans Code — 0.90
 
 **Fiches** : [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 
 ### Google Sans Flex {#Google-Sans-Flex}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **catégorie** : Police variable
 - **date_open_source** : 2025
@@ -8717,6 +8806,7 @@
 - **permet** → 6 axes variables (CONCEPT) — 0.95
 
 - [[kb/Google\|Google]] **a_créé** → Google Sans Flex — 0.97
+- [[kb/Google\|Google]] **publie** → Google Sans Flex — 0.95
 
 **Fiches** : [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 
@@ -8746,7 +8836,7 @@
 
 - **catégorie** : Outil Google de génération design avec infinite canvas (version 3.1)
 
-- **concurrence** → Aura sur la génération design agentique (TECHNOLOGIE) — 0.88
+- **concurrence** → [[kb/_entites-mineures#Aura\|Aura]] (TECHNOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
@@ -8756,7 +8846,7 @@
 
 - **description** : Puces custom Google pour IA, avantage structurel vs concurrents dépendants Nvidia
 
-- [[kb/Nvidia\|Nvidia]] **concurrence** → Google TPU — 0.95
+- [[kb/Google\|Google]] **a_créé** → Google TPU — 0.95
 
 **Fiches** : [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 
@@ -8821,22 +8911,23 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
-### Grox {#Grox}
+### Grounding with Google Search {#Grounding-with-Google-Search}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
-- **rôle** : Service offline de content understanding (classifieurs spam/safety/PTOS/banger + embedder multimodal v5), écrit vers feature store
+- **rôle** : Outil d'ancrage factuel disponible pour le modèle, facturé séparément
 
-- **est_instance_de** → service offline (hors hot path) (CONCEPT) — 0.99
-- **utilise** → feature store (écriture) (TECHNOLOGIE) — 0.98
+- [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **utilise** → Grounding with Google Search — 0.97
 
-**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+**Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### HTTP 402 {#HTTP-402}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **description** : Code statut Payment Required créé en 1997, jamais implémenté
+
+- Tim Berners-Lee **a_créé** → HTTP 402 — 0.92
 
 **Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
 
@@ -8903,17 +8994,6 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
-### Home Mixer {#Home-Mixer}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **rôle** : Orchestrateur Rust request-time du pipeline For You feed (hydrate → source → filter → score → select → filter)
-
-- **dirige** → pipeline For You feed (orchestration) (METHODOLOGIE) — 0.99
-- **utilise** → [[kb/Rust\|Rust]] (TECHNOLOGIE) — 0.98
-
-**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
-
 ### HubSpot Customer Platform {#HubSpot-Customer-Platform}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8960,12 +9040,14 @@
 
 ### IA de codage {#IA-de-codage}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **effet** : Augmentation de productivité, transformation du métier
 
-- **améliore** → productivité du programmeur (CONCEPT) — 0.95
+- **améliore** → [[kb/_entites-mineures#programmeur\|programmeur]] (CONCEPT) — 0.95
 - **permet** → abstraction du travail de programmation (CONCEPT) — 0.93
+
+- [[kb/_entites-mineures#programmeur\|programmeur]] **utilise** → IA de codage — 0.96
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
 
@@ -8979,12 +9061,14 @@
 
 ### IDE {#IDE}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **categorie** : Environnement developpement integre
 
 - **résout** → limitations cognitives humaines (CONCEPT) — 0.95
 - **converge_avec** → modèle hybride déterministe/non-déterministe (CONCEPT) — 0.82
+
+- [[kb/CLI\|CLI]] **remplace** → IDE — 0.90
 
 **Fiches** : [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]]
 
@@ -9062,9 +9146,11 @@
 
 ### Jarvis (agent perso) {#Jarvis-(agent-perso)}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man)
+
+- [[kb/_entites-mineures#Jérémy-Chapeau\|Jérémy Chapeau]] **a_créé** → Jarvis (agent perso) — 0.93
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
@@ -9092,29 +9178,33 @@
 
 ### Jira {#Jira}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Outil de gestion de projet traditionnel
 
 - [[kb/Linear\|Linear]] **concurrence** → Jira — 0.95
+- [[kb/Linear\|Linear]] **surpasse** → Jira — 0.90
 
 **Fiches** : [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
 ### Jotunn8 {#Jotunn8}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Processeur IA de VSORA intégrant la couche ZML
+
+- [[kb/ZML\|ZML]] **fait_partie_de** → Jotunn8 — 0.85
 
 **Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### Jupyter {#Jupyter}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **année_lancement** : 2013
 - **catégorie** : Notebook data science (référence historique)
 
+- [[kb/Deepnote\|Deepnote]] **est_basé_sur** → Jupyter — 0.97
 - [[kb/Deepnote\|Deepnote]] **remplace** → Jupyter — 0.95
 
 **Fiches** : [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
@@ -9145,7 +9235,7 @@
 
 - **catégorie** : Modèle chinois à poids ouverts (Moonshot AI) ; jugé par Ball à parité avec les meilleurs modèles publics du T1 2026 en codage agentique, mais gourmand en tokens (coût réel d'inférence incertain)
 
-- **est_instance_de** → modèle frontier open-weights (CONCEPT) — 0.85
+- **est_instance_de** → [[kb/open-weights\|open-weights]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
@@ -9290,7 +9380,7 @@
 
 - **mesure** → « utilisation par 70% des employés McKinsey » (MESURE) — 0.92
 
-- [[kb/McKinsey\|McKinsey]] **a_créé** → Lilli — 0.94
+- [[kb/McKinsey-&-Company\|McKinsey & Company]] **a_créé** → Lilli — 0.94
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
@@ -9353,6 +9443,16 @@
 - [[kb/NuExtract\|NuExtract]] **est_basé_sur** → Llama 3 70B — 0.90
 
 **Fiches** : [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
+
+### Llama 4 {#Llama-4}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Famille de modèles ouverts servant de point de comparaison, dont Maverick est la variante testée
+
+- **mesure** → « 66 % even-handedness » (MESURE) — 0.95
+
+**Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
 ### Llama 4 Maverick {#Llama-4-Maverick}
 
@@ -9427,9 +9527,11 @@
 
 ### MCP (OAuth) {#MCP-(OAuth)}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **usage** : Connexion de l'agent à Todoist (50 outils)
+
+- **permet** → la connexion de l'agent à Todoist (50 outils) (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
@@ -9440,7 +9542,7 @@
 - **catégorie** : Policy enforcement point Uber pour l'invocation des MCP tools — décisions d'accès tool-level basées sur l'actor chain complète
 
 - **est_instance_de** → policy enforcement point pour invocation outils (CONCEPT) — 0.97
-- **utilise** → actor chain [user1, oncall-agent, investigation-agent] (CONCEPT) — 0.97
+- **utilise** → [[kb/_entites-mineures#actor-chain\|actor chain]] (CONCEPT) — 0.97
 
 - Investigation Agent **utilise** → MCP Gateway — 0.96
 
@@ -9508,18 +9610,21 @@
 
 ### MLflow {#MLflow}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Plateforme d'évaluation utilisée sur Databricks pour l'évaluation des 4 approches
+
+- évaluation empirique revue de code IA **utilise** → MLflow — 0.93
 
 **Fiches** : [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 
 ### MMLU-Pro {#MMLU-Pro}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Benchmark questions professionnelles
 
+- étude personas et précision IA **utilise** → MMLU-Pro — 0.95
 - questions de valeur incertaine **fait_partie_de** → MMLU-Pro — 0.92
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
@@ -9532,7 +9637,7 @@
 - **disponibilité** : GitHub (open-source)
 
 - **permet** → simulation de transactions marketplace entre agents IA (CONCEPT) — 0.97
-- **utilise** → [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.97
+- **utilise** → [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.97
 
 - [[kb/Microsoft\|Microsoft]] **a_créé** → Magentic Marketplace — 0.98
 - [[kb/Microsoft\|Microsoft]] **publie** → Magentic Marketplace — 0.98
@@ -9550,6 +9655,18 @@
 - [[kb/Block\|Block]] **publie** → Managerbot — 0.95
 
 **Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+
+### Markdown {#Markdown}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Format de base dont Markdown for Agents fixe l'usage pour les agents
+
+- **surpasse** → HTML (TECHNOLOGIE) — 0.97
+
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **utilise** → Markdown — 0.92
+
+**Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
 ### Markdown for Agents {#Markdown-for-Agents}
 
@@ -9773,6 +9890,18 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
 
+### Muse Spark 1.1 {#Muse-Spark-1.1}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Version précédente du modèle, point de comparaison des gains annoncés
+
+- **permet** → « de générer les environnements et de noter les solutions ayant servi à entraîner Muse Spark 1.2 » (AFFIRMATION) — 0.90
+
+- [[kb/Muse-Spark-1.2\|Muse Spark 1.2]] **est_variante_de** → Muse Spark 1.1 — 0.95
+
+**Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
 ### MutedKeywordFilter {#MutedKeywordFilter}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -9783,11 +9912,13 @@
 
 ### Mythos {#Mythos}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Modèle/outil cyber-offensif évoqué par la commission, probablement codename Claude/Anthropic, capable de découvrir vulnérabilités — référence implicite à AISI UK GPT-5.5 evaluation
 
 - **permet** → découverte de vulnérabilités cyber (CONCEPT) — 0.92
+
+- modèles Mistral **permet** → Mythos — 0.90
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -9817,7 +9948,7 @@
 
 - **catégorie** : Protocole d'agentic web (Networked Agents and Decentralized AI) — projet MIT
 
-- **est_instance_de** → protocole d'Agentic Web (CONCEPT) — 0.92
+- **est_instance_de** → [[kb/_entites-mineures#Agentic-Web\|Agentic Web]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
@@ -9910,13 +10041,14 @@
 
 ### Next.js 16 {#Next.js-16}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
 
 - **catégorie** : Framework React — Vercel
 
 - connection() **fait_partie_de** → Next.js 16 — 0.98
 - forbidden() **fait_partie_de** → Next.js 16 — 0.98
 - [[kb/_entites-mineures#use-cache\|use cache]] **fait_partie_de** → Next.js 16 — 0.98
+- [[kb/Vercel\|Vercel]] **a_créé** → Next.js 16 — 0.97
 
 **Fiches** : [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
@@ -9931,20 +10063,6 @@
 - [[kb/Google\|Google]] **utilise** → NotebookLM — 0.95
 
 **Fiches** : [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]], [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
-
-### Nova {#Nova}
-
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
-
-- **catégorie** : Plateforme d'agents de codage interne Dropbox
-- **métrique** : ~1 PR sur 12 chez Dropbox
-
-- **mesure** → « ~1 PR sur 12 chez Dropbox » (MESURE) — 0.95
-- **s_applique_à** → migrations / flaky tests / bug investigation / dependency updates (CONCEPT) — 0.90
-
-- [[kb/Dropbox\|Dropbox]] **a_créé** → Nova — 0.96
-
-**Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
 ### NuExtract-large {#NuExtract-large}
 
@@ -10006,11 +10124,12 @@
 
 ### OAuth 2.1 {#OAuth-2.1}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **rôle** : Protocole d'authentification provider-side
 
 - ChatGPT App **utilise** → OAuth 2.1 — 0.97
+- [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] **utilise** → OAuth 2.1 — 0.95
 
 **Fiches** : [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
@@ -10047,9 +10166,11 @@
 
 ### OpenAI Agents SDK {#OpenAI-Agents-SDK}
 
-**Type** : TECHNOLOGIE | 0 relations | 2 fiches
+**Type** : TECHNOLOGIE | 1 relations | 2 fiches
 
 - **catégorie** : SDK d'agents OpenAI
+
+- **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
@@ -10144,14 +10265,15 @@
 
 ### Opus 4.6 {#Opus-4.6}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Modèle de langage Anthropic
 - **reasoning_effort_défaut** : high (après correction)
 
 - **mesure** → « scores très différents selon le harnais utilisé (Terminal Bench 2.0) » (MESURE) — 0.88
 
-- Opus 4.7 Code Review **surpasse** → Opus 4.6 — 0.90
+- [[kb/Jack-Dorsey\|Jack Dorsey]] **référence** → Opus 4.6 — 0.96
+- [[kb/Opus-4.7\|Opus 4.7]] **surpasse** → Opus 4.6 — 0.90
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]], [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
@@ -10450,13 +10572,14 @@
 
 ### RISC-V {#RISC-V}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
 - **type** : Architecture de jeu d'instructions ouverte
 
 - **réduit** → dépendances propriétaires (CONCEPT) — 0.93
 
 - [[kb/ExpressIF-3\|ExpressIF 3]] **est_basé_sur** → RISC-V — 0.98
+- [[kb/CEA\|CEA]] **a_créé** → RISC-V — 0.85
 
 **Fiches** : [[fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01\|CEA unveils ExpressIF 3: RISC-V AI SoC for Edge Computing]]
 
@@ -10492,11 +10615,12 @@
 
 ### Redis {#Redis}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Base de données en mémoire
 
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **a_créé** → Redis — 0.99
+- [[kb/Claude-Code\|Claude Code]] **résout** → Redis — 0.92
 
 **Fiches** : [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
@@ -10546,11 +10670,15 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
-### Routines (Anthropic) {#Routines-(Anthropic)}
+### Routines {#Routines}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **description** : Équivalent serveur de /loop : agents tournant côté Anthropic même quand laptop fermé
+
+- **est_variante_de** → [[kb/_entites-mineures#loop\|/loop]] (TECHNOLOGIE) — 0.95
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Routines — 0.95
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 
@@ -10642,11 +10770,12 @@
 
 ### SKILL.md {#SKILL-md}
 
-**Type** : TECHNOLOGIE | 1 relations | 2 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **rôle** : Fichier de configuration d'un skill
 
 - [[kb/Agent-Skills\|Agent Skills]] **utilise** → SKILL.md — 0.95
+- [[kb/Superpowers\|Superpowers]] **utilise** → SKILL.md — 0.95
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]], [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
 
@@ -10662,9 +10791,11 @@
 
 ### SKOS OWL RDF SPARQL {#SKOS-OWL-RDF-SPARQL}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **description** : Standards W3C référencés Talisman pour valider taxonomies/ontologies. Connaissance de ces standards = baseline méthodologique semantic engineer
+
+- [[kb/Ontology-Pipeline\|Ontology Pipeline]] **utilise** → SKOS OWL RDF SPARQL — 0.96
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 
@@ -10689,20 +10820,35 @@
 
 **Fiches** : [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
+### SPIFFE {#SPIFFE}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Standard d'identité de charge de travail dont SPIRE est l'implémentation de référence et le SVID le document d'identité
+
+- [[kb/_entites-mineures#SPIFFE-Verifiable-IDs-(SVID)\|SPIFFE Verifiable IDs (SVID)]] **fait_partie_de** → SPIFFE — 0.97
+
+**Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
+
 ### SPIFFE Verifiable IDs (SVID) {#SPIFFE-Verifiable-IDs-(SVID)}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Identités workload cryptographiquement signées définies par le standard SPIFFE, récupérées depuis SPIRE et utilisées comme base pour les JWT STS
+
+- **fait_partie_de** → [[kb/_entites-mineures#SPIFFE\|SPIFFE]] (TECHNOLOGIE) — 0.97
+
+- workloads Uber **utilise** → SPIFFE Verifiable IDs (SVID) — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
 ### SPIRE {#SPIRE}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Provider de credentials workload (CNCF graduated), implémentation de référence du standard SPIFFE — utilisé par Uber pour émettre des SVIDs aux workloads
 
+- **fait_partie_de** → CNCF (projet graduated) (ORGANISATION) — 0.97
 - **permet** → workload credentials signés cryptographiquement (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
@@ -10726,16 +10872,6 @@
 - [[kb/n8n-workflows\|n8n-workflows]] **utilise** → SQLite FTS5 — 0.95
 
 **Fiches** : [[fiches/2025-08/n8n-workflows-2000-collection-agents-ia-2025-08-14\|Collection de workflows N8n pour création d'agents IA]]
-
-### STS (Security Token Service) {#STS-(Security-Token-Service)}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Service Uber d'émission de JWT short-lived, audience-scoped, single-hop — TTL en minutes, P99 latency <40ms
-
-- **permet** → émission de JWT short-lived scopés single-hop (CONCEPT) — 0.98
-
-**Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
 ### SWE-Bench Pro {#SWE-Bench-Pro}
 
@@ -10837,9 +10973,11 @@
 
 ### Shotcut {#Shotcut}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Éditeur vidéo open-source recommandé comme fork pour le projet 3
+
+- [[kb/Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] **recommande** → Shotcut — 0.90
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
@@ -10881,19 +11019,6 @@
 - **catégorie** : Logiciel de design
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design: Operating Procedure for Steve Jobs-Level Obsession with Perfection]]
-
-### Skills Claude {#Skills-Claude}
-
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
-
-- **catégorie** : Système de contexte dynamique activé à la demande
-
-- **résout** → [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] (CONCEPT) — 0.95
-- **permet** → contexte dynamique à la demande (CONCEPT) — 0.94
-
-- [[kb/Anthropic\|Anthropic]] **a_créé** → Skills Claude — 0.98
-
-**Fiches** : [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 
 ### Skills-Based Plugin Architecture {#Skills-Based-Plugin-Architecture}
 
@@ -10945,9 +11070,11 @@
 
 ### Solario {#Solario}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Plateforme/produit Wescale, construite avec sa propre méthodologie ("Solario sur Solario")
+
+- [[kb/Wescale\|Wescale]] **a_créé** → Solario — 0.96
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -10973,9 +11100,11 @@
 
 ### Sorbet {#Sorbet}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Système de vérification de types pour Ruby
+
+- [[kb/Stripe\|Stripe]] **utilise** → Sorbet — 0.95
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 
@@ -11067,17 +11196,6 @@
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
-### Standardized A2A Client {#Standardized-A2A-Client}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **catégorie** : SDK Uber implémentant l'A2A protocol, automatise les échanges STS et la propagation de l'actor chain — pattern *secure path = easiest path*
-
-- **permet** → automatisation des échanges STS et propagation actor chain (CONCEPT) — 0.97
-- **utilise** → [[kb/_entites-mineures#A2A-Protocol\|A2A protocol]] (TECHNOLOGIE) — 0.95
-
-**Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
-
 ### Starlink {#Starlink}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11139,7 +11257,7 @@
 
 ### TLA+ {#TLA+}
 
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **catégorie** : Langage de modélisation formelle (états, transitions, invariants)
 - **usage** : Employé par Block pour spécifier et model-checker le protocole de stockage Git de Buzz : durabilité, reconstruction et poussées concurrentes, sous réserve de trois garanties explicites du magasin d'objets
@@ -11147,16 +11265,18 @@
 - **permet** → « de model-checker la durabilité, la reconstruction et les poussées concurrentes du protocole de stockage Git de Buzz » (AFFIRMATION) — 0.94
 
 - [[kb/Block\|Block]] **utilise** → TLA+ — 0.95
+- [[kb/_entites-mineures#DynamoDB\|DynamoDB]] **utilise** → TLA+ — 0.93
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]], [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
 ### TPU {#TPU}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **fabricant** : Google / Broadcom
 
 - [[kb/Google\|Google]] **a_créé** → TPU — 0.97
+- [[kb/Nvidia\|Nvidia]] **concurrence** → TPU — 0.95
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
@@ -11198,7 +11318,7 @@
 
 - **usage** : Recherche web primaire (Deep Research)
 
-- **fait_partie_de** → SuperClaude MCP integration (TECHNOLOGIE) — 0.93
+- **fait_partie_de** → intégration MCP (TECHNOLOGIE) — 0.93
 
 **Fiches** : [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
@@ -11245,9 +11365,11 @@
 
 ### Tesla Optimus {#Tesla-Optimus}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Robot humanoïde
+
+- [[kb/_entites-mineures#Tesla\|Tesla]] **a_créé** → Tesla Optimus — 0.92
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
@@ -11299,17 +11421,6 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **a_créé** → Thinkroom — 0.85
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
-
-### Thunder {#Thunder}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **rôle** : Service Rust in-memory Kafka-fed, lookups sub-ms des posts in-network récents
-
-- **permet** → lookups sub-ms des posts récents in-network (CONCEPT) — 0.99
-- **utilise** → Kafka (TECHNOLOGIE) — 0.98
-
-**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
 ### Tinker {#Tinker}
 
@@ -11451,7 +11562,7 @@
 
 ### Vorflux {#Vorflux}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 6 relations | 1 fiches
 
 - **catégorie** : Autopilote pour le software engineering — agents cloud à contexte propre, modèle propre, tâche permanente
 - **financement** : $15M seed, Y Combinator (lead), Peak XV Partners, Alliance DAO — juillet 2026
@@ -11460,8 +11571,21 @@
 - **s_oppose_à** → modèle copilot (approbation manuelle à chaque tour) (CONCEPT) — 0.93
 
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] **a_créé** → Vorflux — 0.98
+- [[kb/_entites-mineures#Y-Combinator\|Y Combinator]] **soutient** → Vorflux — 0.97
+- Peak XV Partners **soutient** → Vorflux — 0.95
+- Alliance DAO **soutient** → Vorflux — 0.93
 
 **Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
+
+### Voxtral Mini Transcribe {#Voxtral-Mini-Transcribe}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Variante de transcription pure de la famille Voxtral, la moins chère du lot
+
+- **surpasse** → OpenAI Whisper (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ### Web Artifacts Builder {#Web-Artifacts-Builder}
 
@@ -11489,7 +11613,7 @@
 
 - **catégorie** : Modèle ASR open source (OpenAI)
 
-- Voxtral Small **surpasse** → Whisper large-v3 — 0.96
+- [[kb/Voxtral-Small\|Voxtral Small]] **surpasse** → Whisper large-v3 — 0.96
 
 **Fiches** : [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
@@ -11531,7 +11655,7 @@
 
 - **catégorie** : Déploiement Workers à grande échelle
 
-- **permet** → déploiement à grande échelle de Cloudflare Workers (CONCEPT) — 0.95
+- **permet** → déploiement à grande échelle (CONCEPT) — 0.95
 
 - [[kb/VibeSDK\|VibeSDK]] **utilise** → Workers for Platforms — 0.97
 
@@ -11609,9 +11733,11 @@
 
 ### agents troisième génération (B3) {#agents-troisième-génération-(B3)}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Agent autonome longue durée
+
+- **mesure** → « plus d'une heure d'autonomie » (MESURE) — 0.85
 
 **Fiches** : [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Building the Future of Autonomous Coding: Autonomy Is All You Need]]
 
@@ -11644,17 +11770,19 @@
 
 - **catégorie** : Skill maître d'orchestration éditoriale
 
-- **utilise** → les skill files éditoriaux (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/_entites-mineures#skill-files\|skill files]] (TECHNOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
 ### bots de codage {#bots-de-codage}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **usage** : Génération de code supervisée par humain
 
 - **remplace** → écriture ligne par ligne (METHODOLOGIE) — 0.92
+
+- [[kb/_entites-mineures#programmeur\|programmeur]] **utilise** → bots de codage — 0.97
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
 
@@ -11776,7 +11904,7 @@
 
 - **auteur** : Jesse Vincent
 
-- **améliore** → intégration CodeRabbit (TECHNOLOGIE) — 0.90
+- **améliore** → [[kb/CodeRabbit\|CodeRabbit]] (TECHNOLOGIE) — 0.90
 
 - [[kb/Jesse-Vincent\|Jesse Vincent]] **a_créé** → coderabbit-review-helper — 0.98
 
@@ -11821,9 +11949,11 @@
 
 ### cursor.com {#cursor.com}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Site web Cursor
+
+- **mesure** → « 2x plus rapide après migration » (MESURE) — 0.90
 
 **Fiches** : [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
 
@@ -11921,9 +12051,11 @@
 
 ### hooks conditionnels {#hooks-conditionnels}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **usage** : Activés seulement le temps de la skill (ex. blocage commandes destructrices)
+
+- **s_applique_à** → [[kb/Skill\|Skill]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -12200,9 +12332,11 @@
 
 ### semantic layer {#semantic-layer}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Définitions compilées de métriques/dimensions, source de confiance n°1
+
+- agent analytics **utilise** → semantic layer — 0.93
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
@@ -12262,9 +12396,12 @@
 
 ### skill files {#skill-files}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **quantité** : ~23, un par étape éditoriale
+
+- [[kb/content-engineering\|content engineering]] **utilise** → skill files — 0.95
+- [[kb/_entites-mineures#blog-pipeline\|blog-pipeline]] **utilise** → skill files — 0.94
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
@@ -12292,19 +12429,23 @@
 
 ### spécification FOCUS {#spécification-FOCUS}
 
-**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Standard open source étendu pour la transparence des coûts IA
+
+- [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] **affine** → spécification FOCUS — 0.90
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
 ### stack MCP minimum {#stack-MCP-minimum}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
 - **composition** : GSC (mcp-gsc 500+⭐) + Ahrefs officiel (98⭐) + GA4
 
-- **utilise** → GSC MCP / Ahrefs MCP / GA4 MCP (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/_entites-mineures#stack-MCP-minimum\|stack MCP minimum]] (TECHNOLOGIE) — 0.93
+
+- [[kb/_entites-mineures#stack-MCP-minimum\|stack MCP minimum]] **utilise** → stack MCP minimum — 0.93
 
 **Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
@@ -12388,16 +12529,6 @@
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
-### x-algorithm {#x-algorithm}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Algorithme For You feed de X publié en open-source sous `xai-org/x-algorithm` le 15 mai 2026, ~4 composants Rust+Python/JAX
-
-- Home Mixer + Thunder + Phoenix + Grox **fait_partie_de** → x-algorithm — 0.99
-
-**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
-
 ### x402 {#x402}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -12428,7 +12559,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (893)
+## CONCEPT (892)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -12474,9 +12605,11 @@
 
 ### "AI wholesale taxonomy generation = liability disguised as asset" {#AI-wholesale-taxonomy-generation-=-liability-disguised-as-asset}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **source** : Aphorisme normatif Talisman Refresh 2026 — distinction pivot AI accélérateur vs AI remplacement
+
+- génération de taxonomie en gros par IA **permet** → "AI wholesale taxonomy generation = liability disguised as asset" — 0.96
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 
@@ -12506,9 +12639,11 @@
 
 ### "Pay based on demonstrated alignment and impact" {#Pay-based-on-demonstrated-alignment-and-impact}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **source** : Formule canonique Kamelman pricing SaS — succession aux modèles per-seat/per-feature. À mobiliser pour discussions pricing CFO
+
+- Pricing SaS **est_basé_sur** → "Pay based on demonstrated alignment and impact" — 0.96
 
 **Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
@@ -12567,6 +12702,16 @@
 - **description** : Marché US cross-system labor automatable par agents IA. ~200 Md$ étendu CAN/EU/AU/NZ. 4-6 Md$ capturés (10%), >90 Md$ à conquérir. Distribution : Sales 20 + COGS 26 + R&D 6-12 + support 6-12 + finance 6-12 Md$
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
+
+### 10x engineers {#10x-engineers}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Figure de l'ingénieur très productif, à distinguer de l'entreprise 10x
+
+- **utilise** → agents IA multiples (TECHNOLOGIE) — 0.80
+
+**Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering]]
 
 ### 10×+ multiplier (tail élite) {#10×+-multiplier-(tail-élite)}
 
@@ -12682,9 +12827,11 @@
 
 ### AI jobapalooza {#AI-jobapalooza}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Concept Ng — création de jobs IA et adjacents
+
+- [[kb/Andrew-Ng\|Andrew Ng]] **a_créé** → AI jobapalooza — 0.95
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
@@ -12734,20 +12881,26 @@
 
 ### AI4* {#AI4}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **catégorie** : Cadre stratégique transformation logicielle par IA
 
 - **améliore** → production logicielle (CONCEPT) — 0.95
 - **améliore** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.95
 
+- [[kb/_entites-mineures#GenAI-Landing-Zone\|GenAI Landing Zone]] **utilise** → AI4* — 0.90
+
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]], [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
 ### AI4Business {#AI4Business}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : IA déversée dans les processus métier (ventes, support, finance, opérations)
+
+- **est_basé_sur** → problème hayékien (information tacite et distribuée) (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#AI4IT\|AI4IT]] **surpasse** → AI4Business — 0.92
 
 **Fiches** : [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 
@@ -12787,7 +12940,7 @@
 
 - **définition** : IA appliquée à la production du système d'information (code, SDLC, usine logicielle)
 
-- **surpasse** → AI4Business (sur la valeur créée prouvée) (CONCEPT) — 0.92
+- **surpasse** → [[kb/_entites-mineures#AI4Business\|AI4Business]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 
@@ -12809,19 +12962,23 @@
 
 ### ARA {#ARA}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Autonomous Replication and Adaptation — capacité d'un agent IA à se répliquer sans assistance humaine
 
 - **est_instance_de** → seuil critique de capacité IA dangereuse (CONCEPT) — 0.94
 
+- [[kb/METR\|METR]] **recommande** → ARA — 0.92
+
 **Fiches** : [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
 
 ### ARR {#ARR}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **problème** : Définitions multiples et conflictuelles entre équipes
+
+- fragmentation des sources de vérité **observé_dans** → ARR — 0.93
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 
@@ -12883,21 +13040,21 @@
 
 - **enjeu** : Leadership et gestion du risque
 
-- **utilise** → approche méthodique et progressive (METHODOLOGIE) — 0.94
-
 - Leadership dirigeant **permet** → Adoption IA en entreprise — 0.92
+- Aversion au risque **réduit** → Adoption IA en entreprise — 0.90
 
 **Fiches** : [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 
 ### Agent {#Agent}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **niveau** : 3 — exécution pas-à-pas avec approbation
 
 - **est_basé_sur** → the loop (boucle autonome orientée but) (CONCEPT) — 0.95
+- **converge_avec** → onboarding d'un stagiaire (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
+**Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]], [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Agent readiness data foundations {#Agent-readiness-data-foundations}
 
@@ -12909,9 +13066,11 @@
 
 ### Agent-Language Fit {#Agent-Language-Fit}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Capacité langage à servir collaboration humain-LLM
+
+- [[kb/TypeScript\|TypeScript]] **surpasse** → Agent-Language Fit — 0.95
 
 **Fiches** : [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Rapport de Recherche : Analyse de l'Adéquation des Langages de Programmation au Spec Drive Development]]
 
@@ -12933,9 +13092,12 @@
 
 ### Agentic Web {#Agentic-Web}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Vision où des agents IA coordonnent à travers organisations et plateformes, remplaçant les SaaS statiques
+
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] **est_instance_de** → Agentic Web — 0.92
+- [[kb/_entites-mineures#NANDA\|NANDA]] **est_instance_de** → Agentic Web — 0.92
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
@@ -12951,9 +13113,11 @@
 
 ### Agents moraux artificiels (refus) {#Agents-moraux-artificiels-(refus)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Refus catégorique (n. 198) : *« Il n'est donc pas acceptable de confier à des systèmes artificiels des décisions mortelles ou, en tout cas, irréversibles. Aucun algorithme capable de rendre la guerre moralement acceptable »*
+
+- [[kb/Léon-XIV\|Léon XIV]] **s_oppose_à** → Agents moraux artificiels (refus) — 0.99
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -12967,19 +13131,23 @@
 
 ### Alignement (critique léonienne) {#Alignement-(critique-léonienne)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Léon XIV (n. 107) : la moralisation de l'IA ne suffit pas — il faut le droit démocratique de débattre du code éthique. *« Une IA plus morale ne sert à rien si cette morale est décidée par une poignée de personnes »*
+
+- [[kb/Léon-XIV\|Léon XIV]] **s_oppose_à** → Alignement (critique léonienne) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
 ### Alignement des incitations {#Alignement-des-incitations}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Principe central : le fournisseur n'est payé qu'au résultat (« we get paid only when we complete a task ») — skin in the game structurel
 
 - **observé_dans** → Seconde Guerre mondiale (EVENEMENT) — 0.88
+
+- [[kb/Outcome-based-pricing\|Outcome-based pricing]] **permet** → Alignement des incitations — 0.95
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
 
@@ -13077,9 +13245,11 @@
 
 ### Anti-skill-ification {#Anti-skill-ification}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Refus de figer un pattern contextuel en skill prématurée
+
+- [[kb/Thariq-Shihipar\|Thariq Shihipar]] **s_oppose_à** → Anti-skill-ification — 0.95
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
@@ -13123,9 +13293,11 @@
 
 ### Architecture trois-tiers Lattice {#Architecture-trois-tiers-Lattice}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Atoms (guardrails mono-principe) → Molecules (workflows multi-étapes composant atoms) → Refiners (interviews guidées customisant atoms par projet)
+
+- [[kb/Lattice\|Lattice]] **est_basé_sur** → Architecture trois-tiers Lattice — 0.97
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -13147,25 +13319,31 @@
 
 ### Ascenseur de l'Architecte {#Ascenseur-de-l'Architecte}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **métaphore** : L'architecte navigue de la salle des machines (technique) au penthouse (stratégie)
+
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **a_créé** → Ascenseur de l'Architecte — 0.92
 
 **Fiches** : [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### Assistant {#Assistant}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **niveau** : 6 — proactif, always-on
+
+- **utilise** → agents proactifs always-on (TECHNOLOGIE) — 0.91
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Assistant axis {#Assistant-axis}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Vecteur d'adhésion au persona assistant entraîné
+
+- [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] **a_créé** → Assistant axis — 0.95
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
@@ -13187,17 +13365,24 @@
 
 ### Atoms (Lattice) {#Atoms-(Lattice)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **exemples** : Clean code, architecture, DDD, secure coding, test quality, design-first approach
+
+- **est_instance_de** → guardrails mono-principe (CONCEPT) — 0.96
+
+- [[kb/_entites-mineures#Molecules-(Lattice)\|Molecules (Lattice)]] **utilise** → Atoms (Lattice) — 0.96
+- [[kb/_entites-mineures#Refiners-(Lattice)\|Refiners (Lattice)]] **affine** → Atoms (Lattice) — 0.95
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
 ### Autopilot {#Autopilot}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **niveau** : 4 — outcome décrit, revue du résultat final
+
+- **converge_avec** → [[kb/vibe-coding\|vibe coding]] (METHODOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
@@ -13221,17 +13406,22 @@
 
 ### Babel (icône biblique) {#Babel-(icône-biblique)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Tour de Babel (Gn 11, 1-9) — symbolique d'uniformité technologique, profit, absolutisation de l'humain, langage unique qui prétend tout traduire en données. Premier pôle de la dialectique structurante de Magnifica Humanitas
+
+- [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **est_basé_sur** → Babel (icône biblique) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
 ### Base platform {#Base-platform}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Plateforme sous-jacente (typiquement cloud public AWS/GCP/Azure, Kubernetes, ou modèle LLM en 2026) sur laquelle se construit la plateforme métier. **Croît dans le temps**, déclenche la décision floating vs sinking
+
+- [[kb/Floating-platform\|Floating platform]] **réduit** → Base platform — 0.97
+- [[kb/_entites-mineures#Sinking-platform\|Sinking platform]] **converge_avec** → Base platform — 0.96
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
@@ -13256,24 +13446,13 @@
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
-### Big Tech {#Big-Tech}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **free_cash_flow_annuel** : 300 milliards de dollars combinés
-
-- **mesure** → « 500 milliards de dollars de trésorerie » (MESURE) — 0.95
-- **a_créé** → barrières à l'entrée pour l'IA (CONCEPT) — 0.93
-
-**Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
-
 ### Bitter Lesson {#Bitter-Lesson}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
 
 - **auteur** : Rich Sutton
 
-- architecture Claude Code **s_inspire_de** → Bitter Lesson — 0.93
+- [[kb/Claude-Code\|Claude Code]] **s_inspire_de** → Bitter Lesson — 0.93
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 
@@ -13351,9 +13530,12 @@
 
 ### Burnout vs Brain fry {#Burnout-vs-Brain-fry}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **distinction** : Burnout = émotionnel (allégé par IA sur tâches répétitives -15%) ; Brain fry = cognitif aigu (aggravé par oversight intensif)
+
+- [[kb/AI-brain-fry\|AI brain fry]] **s_oppose_à** → Burnout vs Brain fry — 0.97
+- AI pour tâches répétitives **réduit** → Burnout vs Brain fry — 0.95
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
@@ -13475,17 +13657,21 @@
 
 ### Cinq oligarques IA américains {#Cinq-oligarques-IA-américains}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Sam Altman (OpenAI), Dario Amodei (Anthropic), Elon Musk (xAI), Mark Zuckerberg (Meta), Demis Hassabis (Google DeepMind). Wallace-Wells les qualifie de "new faces of American oligarchy", "several widely described as sociopaths"
+
+- Sam Altman + Dario Amodei + Elon Musk + Mark Zuckerberg + Demis Hassabis **fait_partie_de** → Cinq oligarques IA américains — 0.97
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
 ### Cinq piliers de valeur (DORA) {#Cinq-piliers-de-valeur-(DORA)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Productivity → User Experience → Cost Efficiency → Developer Experience → Business Growth. Du plus direct (productivity) au plus indirect (business growth = cumulated business value)
+
+- Productivity, User Experience, Cost Efficiency, Developer Experience, Business Growth **fait_partie_de** → Cinq piliers de valeur (DORA) — 0.96
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -13517,11 +13703,26 @@
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
+### Code {#Code}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **catégorie** : Traité comme un passif à maintenir et non comme un actif produit — d'où la taxe de vérification
+
+- **est_instance_de** → liability not asset (CONCEPT) — 0.94
+- **affirme_que** → « quand le code devient une commodité, la valeur migre vers l'intention, l'architecture et le contrôle » (AFFIRMATION) — 0.88
+
+- [[kb/_entites-mineures#Verification-tax\|Verification tax]] **est_basé_sur** → Code — 0.95
+
+**Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
 ### Code Mode {#Code-Mode}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : L'agent écrit et exécute du code pour accomplir sa tâche
+
+- [[kb/_entites-mineures#Cloudflare-Agents-SDK\|Cloudflare Agents SDK]] **permet** → Code Mode — 0.92
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
@@ -13537,9 +13738,11 @@
 
 ### Code domaine / bounded context / cœur hexagone {#Code-domaine-bounded-context-cœur-hexagone}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Référence DDD (Domain-Driven Design) + hexagonal architecture (Cockburn) — noyau fonctionnel d'une application. Eveillard estime ce code à 30% max de codebase et y voit le périmètre principal du TDD
+
+- [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] **s_applique_à** → Code domaine / bounded context / cœur hexagone — 0.94
 
 **Fiches** : [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
 
@@ -13559,55 +13762,36 @@
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
-### Cognitive Contract {#Cognitive-Contract}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **définition** : Métaphore Kamelman pour le contrat implicite humain-machine. Trois principes : (1) interpretable and auditable ; (2) aligned with human goals ; (3) trained and iterated in real time. Le contrat évolue de "humans instruct machine" (mainframes → cloud) vers "humans + machines collaborate" (agentic)
-
-- interpretable/auditable + aligned with human goals + trained/iterated real time **fait_partie_de** → Cognitive Contract — 0.96
-
-**Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
-
 ### Cognitive Offloading {#Cognitive-Offloading}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Mode sain : déléguer le "comment" tout en gardant le jugement sur les résultats — capacité d'évaluation indépendante maintenue
 
-- **s_oppose_à** → [[kb/_entites-mineures#Cognitive-Surrender\|Cognitive Surrender]] (CONCEPT) — 0.97
+- **s_oppose_à** → [[kb/Cognitive-Surrender\|Cognitive Surrender]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 
 ### Cognitive Orchestrator {#Cognitive-Orchestrator}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Nouveau rôle organisationnel formalisé par Kamelman. Trois fonctions : (a) feedback loop design ; (b) managing uncertainty with guardrails (business rules + circuit breakers) ; (c) measuring alignment via score quantifiable. Convergence avec Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents
 
 - **est_instance_de** → nouveau rôle organisationnel (CONCEPT) — 0.95
+- **converge_avec** → Osmani Agent Harness Engineering, Mornati Agent Supervisor, Wescale Juge Stratégique + Manager d'Agents, Habert PROJ-AI Decision Records (CONCEPT) — 0.93
 
 - feedback loop design + guardrails management + measuring alignment **fait_partie_de** → Cognitive Orchestrator — 0.96
 
 **Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
-### Cognitive Surrender {#Cognitive-Surrender}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **définition** : Mode toxique : accepter l'output IA en bloc sans former de raisonnement parallèle ; "borrowing the model's confidence as substitute for personal understanding"
-
-- **permet** → accumulation de la Comprehension Debt (CONCEPT) — 0.95
-
-- [[kb/_entites-mineures#Cognitive-Offloading\|Cognitive Offloading]] **s_oppose_à** → Cognitive Surrender — 0.97
-
-**Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
-
 ### Cognitive surrender (réponse) {#Cognitive-surrender-(réponse)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Pratique de rester dans la boucle décisionnelle via lisibilité HTML
+
+- [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] **résout** → Cognitive surrender (réponse) — 0.90
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
@@ -13621,9 +13805,11 @@
 
 ### Colonialisme des données {#Colonialisme-des-données}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Concept léonien (n. 178) : nouvelle forme de domination qui s'approprie les données plutôt que les corps, transforme les vies en informations exploitables — *« nouvelles terres rares du pouvoir »*
+
+- [[kb/Léon-XIV\|Léon XIV]] **a_créé** → Colonialisme des données — 0.97
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -13657,13 +13843,14 @@
 
 ### Comprehension Debt {#Comprehension-Debt}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **application** : Dimension « compréhensibilité » de l'anneau : dette systématiquement omise parce qu'elle ne casse pas la CI ; remède peu coûteux = journal de décision de l'agent attaché à la PR
 - **définition** : Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt"
 
 - **est_instance_de** → écart croissant entre volume code et compréhension humaine (CONCEPT) — 0.96
 
+- [[kb/Cognitive-Surrender\|Cognitive Surrender]] **permet** → Comprehension Debt — 0.95
 - compréhensibilité **réduit** → Comprehension Debt — 0.94
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
@@ -13684,7 +13871,7 @@
 
 - **description** : Cycle vertueux : contexte → moins d'hallucinations → confiance → vitesse de livraison
 
-- **est_basé_sur** → contexte riche réduisant les hallucinations (CONCEPT) — 0.93
+- **est_basé_sur** → [[kb/_entites-mineures#contexte\|contexte]] (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
 
@@ -13747,9 +13934,11 @@
 
 ### Convergence Lattice ↔ Compound Engineering {#Convergence-Lattice-↔-Compound-Engineering}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Pipelines isomorphes (lattice-init→design-blueprint→code-forge→review ↔ ce:brainstorm→ce:plan→ce:work→ce:review), living context layer (.lattice/ ↔ docs/plans+solutions+brainstorms), 3 principes Lattice ↔ 3 choix doctrinaux CE, design-first commun. Sans lignage déclaré dans aucun sens — convergence indépendante sur le vocabulaire stable 2026.
+
+- [[kb/Lattice\|Lattice]] **converge_avec** → Convergence Lattice ↔ Compound Engineering — 0.93
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -13763,9 +13952,12 @@
 
 ### Convergence services intellectuels billable → outcome {#Convergence-services-intellectuels-billable-→-outcome}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **description** : Pattern industriel 2026 : consulting (McKinsey/Sternfels 60k people 20k agents), agences (VoxComm/MediaPost), SaaS (Bain Rule of 40 → 30) basculent simultanément du time-and-materials vers outcome-based pricing
+
+- **converge_avec** → bascule du time-and-materials vers l'outcome-based pricing (CONCEPT) — 0.93
+- **converge_avec** → Sternfels McKinsey 60000 = 40000 humains + 20000 agents, Bain Rule of 40 outcome-based pricing, Bain cross-system labor 100 Md$ (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
@@ -13867,9 +14059,11 @@
 
 ### Cross-system labor {#Cross-system-labor}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Travail humain de coordination entre systèmes (ERP, spreadsheet, free-text, judgment calls) — 100 Md$ US encore non capturé à 90%, automatisable par agentic AI
+
+- [[kb/IA-agentique\|IA agentique]] **remplace** → Cross-system labor — 0.96
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
@@ -13975,17 +14169,21 @@
 
 ### Deux cités (Augustin) {#Deux-cités-(Augustin)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Matrice théologique de Magnifica Humanitas : *« deux amours ont fait deux cités : l'amour de soi jusqu'au mépris de Dieu, la cité terrestre ; l'amour de Dieu jusqu'au mépris de soi, la cité céleste »* (De civitate Dei XIV, 28) — relue à l'ère IA comme Babel vs Jérusalem
+
+- [[kb/Léon-XIV\|Léon XIV]] **référence** → Deux cités (Augustin) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
 ### DevOps Engineers {#DevOps-Engineers}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **origine** : Évolution du rôle de sysadmin après virtualisation
+
+- **remplace** → Sysadmins (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
 
@@ -14007,19 +14205,19 @@
 
 ### Diffusion marathon {#Diffusion-marathon}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **source** : Concept Jeffrey Ding (politologue) mobilisé par Wallace-Wells — l'IA comme general-purpose technology où la diffusion compte plus que l'état de l'art, vs winner-take-all race
+
+- [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] **a_créé** → Diffusion marathon — 0.95
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
 ### Distillation {#Distillation}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 0 relations | 1 fiches
 
 - **position auteur** : Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure »
-
-- **réduit** → coûts de service en interne (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -14045,9 +14243,11 @@
 
 ### Drift {#Drift}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Hallucination causée par manque d'injection de contexte rigoureuse entre sollicitations agent
+
+- Manque d'injection de contexte **permet** → Drift — 0.93
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -14196,11 +14396,13 @@
 
 ### Evals {#Evals}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Jeu de données pour mesurer la performance de l'agent
 
 - **s_applique_à** → vérification des comportements non déterministes des agents (CONCEPT) — 0.90
+
+- [[kb/Boucle-de-codage-agentique\|Boucle de codage agentique]] **utilise** → Evals — 0.93
 
 **Fiches** : [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
@@ -14234,9 +14436,11 @@
 
 ### Famille skills frameworks 2026 {#Famille-skills-frameworks-2026}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **composants** : Lattice (techygarg), Superpowers (Vincent), Skills (Anthropic), PROJ-AI (Habert WEnvision), Skills-Based Plugin Architecture (Curran/Intercom), Usine Logicielle Augmentée (Wescale), Compound Engineering (Every / Shipper / Klaassen)
+
+- [[kb/Lattice\|Lattice]] **fait_partie_de** → Famille skills frameworks 2026 — 0.94
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -14305,9 +14509,13 @@
 
 ### Frame vs Framer {#Frame-vs-Framer}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Distinction épistémique Shipper — les benchmarks mesurent la performance *dans* un frame (cadrage spécifique), les framers humains *changent* de frame quand le précédent est saturé. *« The frame is not the framer. »*
+
+- **s_oppose_à** → [[kb/_entites-mineures#Frame-vs-Framer\|Frame vs Framer]] (CONCEPT) — 0.97
+
+- [[kb/_entites-mineures#Frame-vs-Framer\|Frame vs Framer]] **s_oppose_à** → Frame vs Framer — 0.97
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
 
@@ -14321,25 +14529,25 @@
 
 ### Fruit salad vs fruit basket {#Fruit-salad-vs-fruit-basket}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Métaphore Hohpe pour distinguer plateforme = collection juxtaposée de capacités (basket) vs assemblage proportionné bite-sized où les composants interagissent (salad). *« Per-kilo price for fruit salad is higher than for fruit basket. »*
 
+- **surpasse** → [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] (CONCEPT) — 0.95
+
+- [[kb/_entites-mineures#Fruit-salad-vs-fruit-basket\|Fruit salad vs fruit basket]] **surpasse** → Fruit salad vs fruit basket — 0.95
+
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
-
-### GW (gigawatt) {#GW-(gigawatt)}
-
-**Type** : CONCEPT | 0 relations | 1 fiches
-
-- **définition** : Unité d'investissement infrastructure IA — 1 GW = 50 Md$ sur 5 ans = 20 Md$ tokens/an, ~100 hectares emprise, 50% marge brute fournisseur
-
-**Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### Garbage collection (code) {#Garbage-collection-(code)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Tâches récurrentes de scan et correction automatique de déviations
+
+- **permet** → PRs de refactoring auto-mergées (CONCEPT) — 0.88
+
+- [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → Garbage collection (code) — 0.95
 
 **Fiches** : [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 
@@ -14369,7 +14577,7 @@
 
 - **catégorie** : Architecture de référence gouvernée
 
-- **utilise** → six piliers AI4* (CONCEPT) — 0.90
+- **utilise** → [[kb/_entites-mineures#AI4\|AI4*]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
@@ -14422,11 +14630,13 @@
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
-### Governance ontology (Talisman) {#Governance-ontology-(Talisman)}
+### Governance ontology {#Governance-ontology}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : "The engineering practice that keeps an ontology coherent across change" — ongoing engineering, pas post-project documentation. Ajout 2026 au framework initial
+
+- **est_instance_de** → ongoing engineering practice (pas post-project documentation) (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 
@@ -14493,15 +14703,19 @@
 - **définition** : Tout ce qui n'est pas le modèle dans un agent, incluant outils et logique d'exécution
 
 - **est_instance_de** → Tout ce qui n'est pas le modèle dans un agent (CONCEPT) — 0.98
-- **converge_avec** → Ontologie (symétrie structurelle) (CONCEPT) — 0.92
+- **converge_avec** → [[kb/Ontologie\|Ontologie]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
-### Harness-as-a-Service (HaaS) {#Harness-as-a-Service-(HaaS)}
+### Harness-as-a-Service {#Harness-as-a-Service}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut.
+
+- [[kb/Claude-Agent-SDK\|Claude Agent SDK]] **fait_partie_de** → Harness-as-a-Service — 0.95
+- [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] **fait_partie_de** → Harness-as-a-Service — 0.95
+- [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] **fait_partie_de** → Harness-as-a-Service — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
@@ -14531,17 +14745,21 @@
 
 ### Hiérarchie d'accélération {#Hiérarchie-d'accélération}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Frontend > Backend > Infra > Recherche (Ng 2026)
+
+- **converge_avec** → verifiability framework de Karpathy (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
 ### Human-AI system integrator {#Human-AI-system-integrator}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Nouveau rôle prédit pour les développeurs post-IA
+
+- **remplace** → Développeurs (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
 
@@ -14567,9 +14785,12 @@
 
 ### IA (amplificateur) {#IA-(amplificateur)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **principe** : amplifie forces et faiblesses existantes
+
+- **améliore** → livraison logicielle (throughput) (CONCEPT) — 0.90
+- **réduit** → stabilité livraison logicielle (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
@@ -14601,9 +14822,11 @@
 
 ### IA locale {#IA-locale}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **slogan** : « Buy a GPU » = exit power / déclaration d'indépendance
+
+- **réduit** → [[kb/Anthropic\|Anthropic]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -14653,9 +14876,11 @@
 
 ### Instant Checkout {#Instant-Checkout}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **statut** : Disponible sur Etsy et Walmart aux États-Unis en 2025
+
+- [[kb/Agentic-Commerce-Protocol\|Agentic Commerce Protocol]] **permet** → Instant Checkout — 0.95
 
 **Fiches** : [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 
@@ -14700,13 +14925,15 @@
 
 ### J-Curve of AI value realization {#J-Curve-of-AI-value-realization}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 4 relations | 1 fiches
 
 - **définition** : Trajectoire d'adoption IA : creux productivité temporaire (learning curve + verification tax + pipeline adaptation) avant croissance exponentielle. Métaphore "tuition cost of transformation" à budgéter explicitement
 
 - **est_instance_de** → trajectoire à creux de productivité initial puis croissance exponentielle (CONCEPT) — 0.96
 
-- Learning curve + verification tax + pipeline adaptation **fait_partie_de** → J-Curve of AI value realization — 0.95
+- Learning curve **fait_partie_de** → J-Curve of AI value realization — 0.95
+- Pipeline adaptation **fait_partie_de** → J-Curve of AI value realization — 0.95
+- [[kb/_entites-mineures#Verification-tax\|Verification tax]] **fait_partie_de** → J-Curve of AI value realization — 0.95
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -14732,7 +14959,7 @@
 
 - **exemple** : Opus 4.7 refactorise 100k lignes mais conseille de marcher 50m au car wash
 
-- **est_basé_sur** → verifiability (RL sur domaines vérifiables) (CONCEPT) — 0.94
+- **est_basé_sur** → [[kb/_entites-mineures#Verifiability\|Verifiability]] (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 
@@ -14764,9 +14991,11 @@
 
 ### Juge Stratégique {#Juge-Stratégique}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Nouveau rôle humain : intervient là où le jugement est irremplaçable, prime sur l'écriture de code
+
+- **remplace** → rôle de producteur de code du développeur (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -14861,9 +15090,11 @@
 
 ### MIN_VIDEO_DURATION_MS {#MIN_VIDEO_DURATION_MS}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Seuil hard gate : si video_duration_ms ≤ MIN_VIDEO_DURATION_MS, vqv_score est remplacé par 0 dans la somme pondérée (pas de soft penalty)
+
+- vqv_score **est_basé_sur** → MIN_VIDEO_DURATION_MS — 0.98
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
@@ -14879,9 +15110,11 @@
 
 ### Magnificat (Lc 1, 46-55) {#Magnificat-(Lc-1,-46-55)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Chant de Marie devant Élisabeth — relu par Léon XIV (n. 243-245) comme *« hymne le plus puissant et le plus novateur jamais prononcé »* qui révèle le *« dessein transformateur de l'économie chrétienne »* — clôture du programme spirituel
+
+- **est_instance_de** → [[kb/_entites-mineures#Civilisation-de-l'amour\|Civilisation de l'amour]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -14895,17 +15128,21 @@
 
 ### Manager d'agents {#Manager-d'agents}
 
-**Type** : CONCEPT | 0 relations | 2 fiches
+**Type** : CONCEPT | 1 relations | 2 fiches
 
 - **définition** : Nouveau rôle développeur : orchestrer et calibrer des agents IA spécialisés
+
+- **remplace** → rôle de producteur de code du développeur (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]], [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### Marges agences 30% → 10% {#Marges-agences-30%-→-10%}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Donnée Mandese MediaPost — chute marges historiques agences. Critique méthodologique commenters : 30% historique probablement gonflé, réel 12-15%. À vérifier
+
+- **mesure** → « 30% (golden age) → 10% (current average) » (MESURE) — 0.91
 
 **Fiches** : [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
@@ -14973,11 +15210,13 @@
 
 ### Model Behavior {#Model-Behavior}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Discipline de conception comportement IA
 
 - **est_instance_de** → discipline émergente (CONCEPT) — 0.88
+
+- non-ingénieurs **fait_partie_de** → Model Behavior — 0.85
 
 **Fiches** : [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
@@ -14991,9 +15230,11 @@
 
 ### Model hierarchies (gouvernance tokens) {#Model-hierarchies-(gouvernance-tokens)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Contrôle d'accès par rôle appliqué aux modèles : quel utilisateur a le droit d'utiliser quel modèle (Opus/Sonnet/Haiku) — pendant gouvernance du routage. Pont vers Uber agent identity et le slot Gouvernance
+
+- **permet** → contrôle d'accès par rôle sur les modèles (quel utilisateur peut utiliser quel modèle) (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
 
@@ -15009,9 +15250,11 @@
 
 ### Molecules (Lattice) {#Molecules-(Lattice)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **exemples** : Design, implement, refactor, fix, review — workflows multi-étapes
+
+- **utilise** → [[kb/_entites-mineures#Atoms-(Lattice)\|Atoms (Lattice)]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -15099,7 +15342,7 @@
 
 - **caractéristiques** : faible coût d'erreur + connaissance explicite
 
-- **recommande** → déploiement immédiat IA générative (CONCEPT) — 0.95
+- **recommande** → [[kb/IA-générative\|IA générative]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
 
@@ -15115,9 +15358,11 @@
 
 ### Néhémie (icône biblique) {#Néhémie-(icône-biblique)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Reconstruction des murs de Jérusalem (Ne 2-6) — symbolique de responsabilité partagée pierre par pierre, écoute, coordination des familles, Dieu au centre. Second pôle de la dialectique structurante
+
+- [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **est_basé_sur** → Néhémie (icône biblique) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -15131,9 +15376,11 @@
 
 ### OON_WEIGHT_FACTOR {#OON_WEIGHT_FACTOR}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Multiplicateur < 1 appliqué au score des candidats out-of-network (oon_scorer.rs:20-23), codification de "followers matter" — valeur numérique externe au release
+
+- OON Scorer **utilise** → OON_WEIGHT_FACTOR — 0.99
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
@@ -15154,17 +15401,6 @@
 - **remplace** → [[kb/_entites-mineures#Two-pizza-teams\|Two pizza teams]] (CONCEPT) — 0.80
 
 **Fiches** : [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
-
-### Ontologie {#Ontologie}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **définition** : Interface de compréhension de la donnée définissant entités, propriétés et relations
-
-- **permet** → définition de ce qui existe, ses propriétés et relations (CONCEPT) — 0.95
-- **permet** → raisonnement machine sur sémantique métier (CONCEPT) — 0.95
-
-**Fiches** : [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
 ### Ontologie comme backbone IA {#Ontologie-comme-backbone-IA}
 
@@ -15212,9 +15448,11 @@
 
 ### Overhiring pandémique 2020-2022 {#Overhiring-pandémique-2020-2022}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Phénomène recadré en "efficience IA" lors des layoffs
+
+- Récit "efficience IA" **remplace** → Overhiring pandémique 2020-2022 — 0.92
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
@@ -15278,12 +15516,14 @@
 
 ### Permanent underclass {#Permanent-underclass}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Théorie virale 2026 : fenêtre limitée pour bâtir richesse avant que IA/robotique remplacent intégralement le travail humain, figeant les positions de classe
 
 - **est_instance_de** → théorie virale 2026 sur le déclassement par l'IA (CONCEPT) — 0.95
 - **est_instance_de** → policy choice (CONCEPT) — 0.94
+
+- [[kb/_entites-mineures#David-Autor\|David Autor]] **s_oppose_à** → Permanent underclass — 0.90
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
@@ -15339,17 +15579,21 @@
 
 ### Plus qu'humain (selon Léon XIV) {#Plus-qu'humain-(selon-Léon-XIV)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Le véritable *« plus qu'humain »* n'est pas le transhumanisme mais la grâce — *« nous parvenons à être pleinement humains quand nous sommes plus qu'humains, quand nous permettons à Dieu de nous conduire au-delà de nous-mêmes »* (n. 128)
+
+- **est_instance_de** → grâce et humanisme chrétien (CONCEPT) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
 ### Position no-headcount-reduction (DORA) {#Position-no-headcount-reduction-(DORA)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **source** : Recommandation normative explicite DORA : ne pas réduire l'effectif, réinvestir la capacité libérée. Justifié par (a) impact moral, (b) institutional knowledge, (c) incentive structure préservée
+
+- **s_oppose_à** → Tatsyi −75 personnes mais réallocation délibérée (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -15363,9 +15607,11 @@
 
 ### Posthumanisme (critique léonienne) {#Posthumanisme-(critique-léonienne)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Courant qui critique l'anthropocentrisme et envisage hybridation humain/machine/environnement, *« franchissement de seuil »* évolutif — refusé par Léon XIV comme conduisant à des *« sacrifices nécessaires »* des plus fragiles (n. 117)
+
+- [[kb/Léon-XIV\|Léon XIV]] **s_oppose_à** → Posthumanisme (critique léonienne) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -15472,7 +15718,7 @@
 - **réduit** → recalcul du prefill (CONCEPT) — 0.97
 - **réduit** → Coût d'entrée (CONCEPT) — 0.85
 
-- architecture Claude Code **est_basé_sur** → Prompt caching — 0.98
+- [[kb/Claude-Code\|Claude Code]] **est_basé_sur** → Prompt caching — 0.98
 - [[kb/GPT-5.6\|GPT-5.6]] **utilise** → Prompt caching — 0.90
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
@@ -15497,9 +15743,11 @@
 
 ### Purple gradient meme {#Purple-gradient-meme}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Signal négatif de design générique post-vibe-coding
+
+- **est_instance_de** → signal de design générique à fuir (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
@@ -15551,9 +15799,11 @@
 
 ### RGPD {#RGPD}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **catégorie** : Règlement européen protection données
+
+- [[kb/Digital-Omnibus\|Digital Omnibus]] **remplace** → RGPD — 0.95
 
 **Fiches** : [[fiches/2025-11/derouet-rgpd-revision-discrete-digital-omnibus-2025-11-13\|Enquête : la révision discrète du RGPD – qui y gagne, qui y perd ?]]
 
@@ -15579,7 +15829,7 @@
 
 - **définition** : Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé.
 
-- **est_basé_sur** → traçabilité de chaque règle AGENTS.md à un échec passé (CONCEPT) — 0.95
+- **est_basé_sur** → [[kb/AGENTS-md\|AGENTS.md]] (CONCEPT) — 0.95
 
 - [[kb/_entites-mineures#cliquet-de-l'anneau\|cliquet de l'anneau]] **est_basé_sur** → Ratchet principle — 0.95
 - [[kb/Harness-engineering\|Harness engineering]] **est_basé_sur** → Ratchet principle — 0.95
@@ -15606,9 +15856,11 @@
 
 ### Refiners (Lattice) {#Refiners-(Lattice)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **rôle** : Interviews guidées produisant standards projet-spécifiques qui customisent le comportement des atoms
+
+- **affine** → [[kb/_entites-mineures#Atoms-(Lattice)\|Atoms (Lattice)]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -15630,9 +15882,11 @@
 
 ### Review quality at scale {#Review-quality-at-scale}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Tension Frizzo : reviewer à 3-5× le volume risque le skimming, pratiques qualité historiques supposaient rythme humain
+
+- Volume 3-5× **réduit** → Review quality at scale — 0.93
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
@@ -15656,9 +15910,11 @@
 
 ### Rule of 40 {#Rule-of-40}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Métrique canonique SaaS depuis ~2015 : growth rate + profit margin ≥ 40%. Sous double pression IA en 2026 (headwinds variable costs + tailwinds productivity/EBITDA)
+
+- **converge_avec** → DORA ROI 2026 verification tax, Cherny 7 Powers reordering, Menlo Ventures State of Generative AI (CONCEPT) — 0.92
 
 - Headwinds + tailwinds IA 2026 **s_applique_à** → Rule of 40 — 0.96
 
@@ -15684,24 +15940,38 @@
 
 ### SEO {#SEO}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **impact** : Redéfinition complète face à la génération de contenu
 - **statut** : En déclin face à l'AEO
 
 - [[kb/AEO\|AEO]] **remplace** → SEO — 0.92
+- [[kb/AI-Mode\|AI Mode]] **réduit** → SEO — 0.87
 
 **Fiches** : [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]], [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 
 ### SKILL.md {#SKILL-md}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **description** : Fichiers markdown servant d'instructions structurées pour agents
 
 - [[kb/Agent-Skills\|Agent Skills]] **utilise** → SKILL.md — 0.95
+- [[kb/Superpowers\|Superpowers]] **utilise** → SKILL.md — 0.95
 
 **Fiches** : [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]], [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
+
+### SaaS {#SaaS}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **catégorie** : Modèle antérieur vendant des outils à l'abonnement, opposé terme à terme au Service-as-Software
+
+- **permet** → tools enabling humans (CONCEPT) — 0.95
+
+- [[kb/_entites-mineures#Service-as-Software\|Service-as-Software]] **remplace** → SaaS — 0.96
+
+**Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
 ### Sabotage as a Service {#Sabotage-as-a-Service}
 
@@ -15713,9 +15983,11 @@
 
 ### Sample 12.5% time saved {#Sample-12.5%-time-saved}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Estimation conservatrice DORA (~ 1h/8h jour) ; littérature range 40-150 min/jour. Choix de plancher défendable financièrement face à un CFO sceptique
+
+- Ratios praticiens 3-5× (Frizzo, Wescale, Curran, Tatsyi) **surpasse** → Sample 12.5% time saved — 0.93
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 
@@ -15775,13 +16047,14 @@
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
-### Service-as-Software (SaS) {#Service-as-Software-(SaS)}
+### Service-as-Software {#Service-as-Software}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026
 
-- **remplace** → SaaS dans l'âge des agents IA (CONCEPT) — 0.96
+- **permet** → outcomes via automated reasoning (CONCEPT) — 0.96
+- **remplace** → [[kb/_entites-mineures#SaaS\|SaaS]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
@@ -15815,9 +16088,11 @@
 
 ### Shelfware {#Shelfware}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Sièges/licences payés annuellement mais non utilisés — gaspillage caractéristique du seat-based pricing
+
+- Seat-based pricing **permet** → Shelfware — 0.94
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
 
@@ -15845,7 +16120,7 @@
 
 - **définition** : Anti-pattern d'évolution — on garde la plateforme identique malgré la croissance de la base platform, on duplique ce que la base offre nativement, on **coule** sous le poids de maintenance. Métaphore : sous-marin
 
-- **converge_avec** → capacités de base platform qui montent (CONCEPT) — 0.96
+- **converge_avec** → [[kb/_entites-mineures#Base-platform\|Base platform]] (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
@@ -15866,17 +16141,6 @@
 - **détail** : DOCS/ (raw inputs), IDEAS/ (hypothèses), DR/ (Decision Records 7 dim), OUT/ (livrables), DOCTRINE/ (gouvernance), AGENT/ (slash-commands + traces)
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|PROJ-AI — pour que vos projets ne s'arrêtent plus au livrable (Un repo, un agent, un IDE — pourquoi PROJ-AI ?)]]
-
-### Skill {#Skill}
-
-**Type** : CONCEPT | 2 relations | 1 fiches
-
-- **définition** : Dossier (instructions + scripts + ressources + config + hooks) découvrable par l'agent
-
-- **est_instance_de** → dossier d'instructions scripts et ressources (CONCEPT) — 0.95
-- **est_instance_de** → « procédure écrite une fois et rejouée à l'identique, créée dès la troisième répétition » (AFFIRMATION) — 0.94
-
-**Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
 ### Skill issue reframe {#Skill-issue-reframe}
 
@@ -15910,7 +16174,7 @@
 
 - **rôle futur** : Programmer en langage naturel, orchestrer agents
 
-- **utilise** → agents en langage naturel (CONCEPT) — 0.93
+- **utilise** → agents conversationnels (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
@@ -15931,15 +16195,17 @@
 - **rôle** : PM technique validant qualité et scoping
 
 - **mesure** → travail ingénieur (CONCEPT) — 0.88
-- **réduit** → inflation des Story Points (CONCEPT) — 0.85
+- **réduit** → [[kb/_entites-mineures#Story-Points\|Story Points]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering]]
 
 ### Success is silent failures are verbose {#Success-is-silent-failures-are-verbose}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue
+
+- Hooks **est_basé_sur** → Success is silent failures are verbose — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
@@ -15955,13 +16221,14 @@
 
 ### Super Spec {#Super-Spec}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Spécification dynamique unifiée (architecture + workflows + sécurité + données + UX) servant de source of truth, mise à jour automatiquement en production
 
 - **s_applique_à** → architecture + workflows + sécurité + données + UX (spécification unifiée) (CONCEPT) — 0.97
 
 - [[kb/AI-works\|AI/works™]] **utilise** → Super Spec — 0.98
+- [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] **affine** → Super Spec — 0.96
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
@@ -16015,9 +16282,11 @@
 
 ### TCO (Total Cost of Ownership) {#TCO-(Total-Cost-of-Ownership)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **rôle** : Cadre de décision local vs cloud
+
+- **surpasse** → Prix au token (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis]]
 
@@ -16035,7 +16304,7 @@
 
 - **définition** : Concept Bersin : nouveau process de talent management combinant pay, titles, redeployment
 
-- The Josh Bersin Company **a_créé** → Talent Density — 0.95
+- [[kb/_entites-mineures#The-Josh-Bersin-Company\|The Josh Bersin Company]] **a_créé** → Talent Density — 0.95
 
 **Fiches** : [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
@@ -16057,14 +16326,6 @@
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
-### Tension DORA-prescriptif vs McKinsey-descriptif {#Tension-DORA-prescriptif-vs-McKinsey-descriptif}
-
-**Type** : CONCEPT | 0 relations | 1 fiches
-
-- **description** : DORA ROI 2026 recommande "do not adopt headcount-reduction strategy" (norme a priori) ; McKinsey assume publiquement réduction (200 postes) + remplacement par 20 000 agents (pratique a posteriori). Pivot de débat COMEX
-
-**Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
-
 ### Tension DORA-prescriptif vs Tatsyi-descriptif {#Tension-DORA-prescriptif-vs-Tatsyi-descriptif}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16072,6 +16333,14 @@
 - **description** : DORA recommande cou (norme a priori) ; Tatsyi/Raiffeisen rapporte −75 personnes avec réallocation délibérée (descriptif a posteriori). Les deux positions ne sont pas inconciliables — à utiliser comme pivot de débat COMEX
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### Tension prescriptif vs descriptif {#Tension-prescriptif-vs-descriptif}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **description** : DORA ROI 2026 recommande "do not adopt headcount-reduction strategy" (norme a priori) ; McKinsey assume publiquement réduction (200 postes) + remplacement par 20 000 agents (pratique a posteriori). Pivot de débat COMEX
+
+**Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
 ### Tensions non résolues (Frizzo) {#Tensions-non-résolues-(Frizzo)}
 
@@ -16111,9 +16380,11 @@
 
 ### Tier 2 Agents spécialisés {#Tier-2-Agents-spécialisés}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Domain experts — 19 specs, 9300 lignes
+
+- **fait_partie_de** → [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] (METHODOLOGIE) — 0.96
 
 - 19 spécifications domain experts **fait_partie_de** → Tier 2 Agents spécialisés — 0.96
 
@@ -16185,9 +16456,11 @@
 
 ### Transhumanisme (critique léonienne) {#Transhumanisme-(critique-léonienne)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Courant qui imagine un renforcement de l'humain par technologies (biomédecine, ingénierie, algorithmes) avec ambition d'accroître performances/capacités — *« archipel d'îles conceptuelles »* relié à un *« océan de présupposés »* (n. 116)
+
+- [[kb/Léon-XIV\|Léon XIV]] **s_oppose_à** → Transhumanisme (critique léonienne) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -16203,9 +16476,11 @@
 
 ### Travail invisible (microtravailleurs) {#Travail-invisible-(microtravailleurs)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Étiquetage de données, modération de contenus, apprentissage des modèles — *« jeunes, pour la majorité des femmes, qui travaillent laborieusement pour un salaire de misère »* (n. 173)
+
+- [[kb/Léon-XIV\|Léon XIV]] **s_oppose_à** → Travail invisible (microtravailleurs) — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -16231,9 +16506,11 @@
 
 ### Trois archétypes ingénieurs IA {#Trois-archétypes-ingénieurs-IA}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : (1) Copilot-only +10-25% PRs ; (2) Multi-outils story-points ×1.5-3, scope cross-repo +50-80% ; (3) Claude-on-corporate-stack volume code ×4.5, scope radicalement élargi
+
+- Copilot-only, Multi-outils, Claude-on-corporate-stack **fait_partie_de** → Trois archétypes ingénieurs IA — 0.95
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
@@ -16281,17 +16558,22 @@
 
 ### Unknowns {#Unknowns}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Écart entre la carte (prompts/contexte) et le territoire (codebase/réel)
+
+- [[kb/_entites-mineures#Blindspot-pass\|Blindspot pass]] **permet** → Unknowns — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
 ### Unreasonable effectiveness {#Unreasonable-effectiveness}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Lignée rhétorique Wigner-Karpathy appliquée à HTML pour agents
+
+- **converge_avec** → design.md de Meng To (HTML = finished dish) (CONCEPT) — 0.93
+- **résout** → comprehension debt d'Osmani (réponse opérationnelle) (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
@@ -16333,21 +16615,34 @@
 
 ### Verifiability {#Verifiability}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Cadre expliquant pourquoi LLMs peakent en math/code (RL training) et stagnent ailleurs
+
+- [[kb/_entites-mineures#Jagged-intelligence\|Jagged intelligence]] **est_basé_sur** → Verifiability — 0.94
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 
 ### Verification tax {#Verification-tax}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Coût caché de review/audit du code généré par IA — augmente avec volume généré, peut éroder les gains de productivité bruts
 
-- **est_basé_sur** → volume de code généré par IA (CONCEPT) — 0.95
+- **est_basé_sur** → [[kb/_entites-mineures#Code\|Code]] (CONCEPT) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#J-Curve-of-AI-value-realization\|J-Curve of AI value realization]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### Vibe Coding Hangover {#Vibe-Coding-Hangover}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Contrecoup qualité constaté après une phase de génération non revue
+
+- [[kb/vibe-coding\|Vibe Coding]] **permet** → Vibe Coding Hangover — 0.90
+
+**Fiches** : [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
 ### Vibe Coding Paralysis {#Vibe-Coding-Paralysis}
 
@@ -16370,25 +16665,32 @@
 
 ### Vision East Coast (IA) {#Vision-East-Coast-(IA)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Position épistémique : transformation lente, fragmentée, médiée par les humains, contrainte par la *jaggedness* des capacités et la complexité organisationnelle
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **soutient** → Vision East Coast (IA) — 0.94
 
 **Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
 ### Vision West Coast (IA) {#Vision-West-Coast-(IA)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : Position épistémique : automatisation massive et rapide dès que les capacités atteignent un seuil ; singularité plus ou moins abrupte
+
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **s_oppose_à** → Vision West Coast (IA) — 0.92
 
 **Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
 ### Warning shots (AI populism) {#Warning-shots-(AI-populism)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **source** : Formule Jasmine Sun (NYT Opinion 2026-04-30) reprise par Wallace-Wells — les attaques contre Altman comme avertissement violent d'un mouvement plus large
+
+- [[kb/David-Wallace-Wells\|David Wallace-Wells]] **référence** → Warning shots (AI populism) — 0.96
+- [[kb/_entites-mineures#Jasmine-Sun\|Jasmine Sun]] **a_créé** → Warning shots (AI populism) — 0.96
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
@@ -16420,19 +16722,24 @@
 
 ### Workflows {#Workflows}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **niveau** : 5 — harnesses, agentic engineering
+
+- **est_basé_sur** → harnesses autour des agents (CONCEPT) — 0.92
+- **permet** → la bascule vers l'agentic engineering (METHODOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
 ### Writing muscle atrophy {#Writing-muscle-atrophy}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Métaphore corporelle Frizzo : le code manuel devient effortful après usage prolongé d'agents
 
 - **converge_avec** → étude Anthropic junior engineers deskilling (CONCEPT) — 0.91
+
+- Usage prolongé d'agents **réduit** → Writing muscle atrophy — 0.93
 
 **Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
@@ -16446,17 +16753,21 @@
 
 ### Zeno's paradox of AI {#Zeno's-paradox-of-AI}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Métaphore Shipper — Achille (IA) court vers la tortue (humain) mais la tortue *« is alive to a specific moment »*, elle bouge en permanence vers de nouveaux problèmes, Achille ne la rattrape jamais
+
+- **s_applique_à** → gap structurel modèle-humain (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
 
 ### `panic!("Not implemented: to_thrift for ...")` stubs {#`panic!(-Not-implemented-to_thrift-for-...-)`-stubs}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Marqueurs présents dans candidate_features.rs et user_features.rs — confirment que le release public ne tourne pas end-to-end contre les services internes X
+
+- **fait_partie_de** → candidate_features.rs / user_features.rs (TECHNOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
@@ -16482,11 +16793,15 @@
 
 ### actor chain {#actor-chain}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 4 relations | 1 fiches
 
 - **définition** : Liste vérifiable de tous les participants à une requête multi-hop (user + agents intermédiaires) transportée dans le JWT — permet des décisions d'accès tool-level basées sur l'historique complet
 
+- **fait_partie_de** → JWT Uber (TECHNOLOGIE) — 0.97
 - **permet** → décisions accès tool-level basées sur historique requête (CONCEPT) — 0.97
+
+- [[kb/_entites-mineures#MCP-Gateway\|MCP Gateway]] **utilise** → actor chain — 0.97
+- [[kb/Standardized-A2A-Client\|Standardized A2A Client]] **permet** → actor chain — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -16576,7 +16891,7 @@
 - **définition** : Ensemble des sept dimensions de contrainte mécanisées autour d'un agent (correction, sécurité, performance, accessibilité, maintenabilité, efficience économique, compréhensibilité), reliées par la règle de back-pressure ; ne sort que la production qui franchit chaque porte
 
 - **est_basé_sur** → [[kb/Addy-Osmani\|Addy Osmani]] (PERSONNE) — 0.97
-- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#cycle-à-11-phases\|cycle à 11 phases]] (METHODOLOGIE) — 0.95
 
 - [[kb/_entites-mineures#back-pressure\|back-pressure]] **fait_partie_de** → anneau de contraintes — 0.96
 - [[kb/SFEIR\|SFEIR]] **affine** → anneau de contraintes — 0.96
@@ -16700,9 +17015,11 @@
 
 ### autonomie intellectuelle {#autonomie-intellectuelle}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **enjeu** : Condition de la dignité humaine et de la responsabilité morale
+
+- [[kb/_entites-mineures#externalisation-cognitive\|externalisation cognitive]] **réduit** → autonomie intellectuelle — 0.92
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
@@ -16771,7 +17088,7 @@
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
-### benchmarks Opus 4.8 {#benchmarks-Opus-4.8}
+### benchmarks du modèle {#benchmarks-du-modèle}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
 
@@ -16816,9 +17133,11 @@
 
 ### boundary-spanning {#boundary-spanning}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Mécanisme par lequel l'IA aide un professionnel à raisonner au-delà de son domaine d'origine, effaçant les silos fonctionnels
+
+- [[kb/IA-générative\|IA générative]] **permet** → boundary-spanning — 0.93
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
@@ -16897,19 +17216,24 @@
 
 ### capital humain {#capital-humain}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Savoir, jugement, relations, ingéniosité et reconnaissance de patterns des personnes
+
+- [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] **permet** → capital humain — 0.92
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
 ### capital token {#capital-token}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Capacité IA que la firme bâtit et possède
 
-- **est_basé_sur** → boucle d'apprentissage propriétaire de la firme (CONCEPT) — 0.88
+- **est_basé_sur** → [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] (CONCEPT) — 0.88
+
+- [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] **permet** → capital token — 0.92
+- agence humaine **permet** → capital token — 0.90
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
@@ -16956,17 +17280,22 @@
 
 ### challenges et containments {#challenges-et-containments}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Challenges = frictions réversibles et granulaires (justification, clé de sécurité, approbation, selfie) ; containments = révocations durables, parfois levées seulement après entretien du salarié et de son manager
+
+- **s_applique_à** → « la révocation durable d'accès, parfois levée après entretien du salarié et de son manager » (AFFIRMATION) — 0.90
+- **s_oppose_à** → « le blocage binaire « access denied » du modèle hérité » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### champ description {#champ-description}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **finalité** : Déclencheur de routage pour le modèle, pas résumé humain
+
+- **permet** → [[kb/Skill\|Skill]] (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -16986,11 +17315,13 @@
 
 ### changement de plateforme {#changement-de-plateforme}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **pattern** : mainframe → PC → web → mobile → IA
 
 - **est_instance_de** → pattern historique récurrent (CONCEPT) — 0.93
+
+- startups **utilise** → changement de plateforme — 0.90
 
 **Fiches** : [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|The AI Platform Shift: Redefining What Software Is, and How Leaders Should Respond]]
 
@@ -17044,11 +17375,12 @@
 
 ### classe Mythos {#classe-Mythos}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Famille de modèles Anthropic les plus capables
 
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **est_instance_de** → classe Mythos — 0.95
+- [[kb/Anthropic\|Anthropic]] **recommande** → classe Mythos — 0.85
 
 **Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
@@ -17252,7 +17584,7 @@
 
 - **description** : Confiance construite par transparence, non par marketing
 
-- **est_basé_sur** → transparence (CONCEPT) — 0.95
+- **est_basé_sur** → [[kb/_entites-mineures#transparence\|transparence]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 
@@ -17317,9 +17649,14 @@
 
 ### contexte {#contexte}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **description** : Connaissance du dépôt, des conventions et de l'architecture par l'IA
+
+- **s_oppose_à** → [[kb/_entites-mineures#contexte\|contexte]] (METHODOLOGIE) — 0.88
+
+- [[kb/_entites-mineures#Confidence-Flywheel\|Confidence Flywheel]] **est_basé_sur** → contexte — 0.93
+- [[kb/_entites-mineures#contexte\|contexte]] **s_oppose_à** → contexte — 0.88
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
 
@@ -17397,7 +17734,7 @@
 - **permet** → designs génériques et prévisibles (CONCEPT) — 0.93
 - **permet** → designs frontend génériques (CONCEPT) — 0.90
 
-- [[kb/_entites-mineures#Skills-Claude\|Skills Claude]] **résout** → convergence distributionnelle — 0.95
+- [[kb/Skills-Claude\|Skills Claude]] **résout** → convergence distributionnelle — 0.95
 - [[kb/Claude-Skills\|Claude Skills]] **résout** → convergence distributionnelle — 0.92
 
 **Fiches** : [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]], [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
@@ -17457,7 +17794,7 @@
 
 - **définition** : Coût par ticket résolu / tâche complétée / heure économisée
 
-- Agent FinOps **mesure** → cost per outcome — 0.96
+- [[kb/Agent-FinOps-(Orq.ai)\|Agent FinOps (Orq.ai)]] **mesure** → cost per outcome — 0.96
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
@@ -17582,10 +17919,11 @@
 
 ### crise de sens {#crise-de-sens}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Perte de sens du travail face à l'IA
 
+- [[kb/Ethan-Mollick\|Ethan Mollick]] **prédit** → crise de sens — 0.96
 - [[kb/_entites-mineures#The-Button\|The Button]] **permet** → crise de sens — 0.95
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
@@ -17633,9 +17971,11 @@
 
 ### crédits SLA {#crédits-SLA}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **usage** : compensation et reconstruction de confiance
+
+- [[kb/Anthropic\|Anthropic]] **permet** → crédits SLA — 0.90
 
 **Fiches** : [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 
@@ -17664,7 +18004,7 @@
 - **description** : Rendre plus facile ce que les gens font déjà
 - **source** : Observation des usages imprévus ("abuse") par les utilisateurs avancés
 
-- **s_applique_à** → développement produit Claude Code (METHODOLOGIE) — 0.95
+- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
@@ -17690,9 +18030,11 @@
 
 ### diffusion masquée {#diffusion-masquée}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Absorbing diffusion : masquage progressif puis débruitage itératif réversible
+
+- [[kb/Diffusion-Gemma\|Diffusion Gemma]] **utilise** → diffusion masquée — 0.92
 
 **Fiches** : [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
@@ -17770,17 +18112,23 @@
 
 ### double pizza teams → sandwich teams {#double-pizza-teams-→-sandwich-teams}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **signification** : Recomposition des équipes à l'ère agentique (signal US)
+
+- **remplace** → [[kb/_entites-mineures#double-pizza-teams-→-sandwich-teams\|double pizza teams → sandwich teams]] (CONCEPT) — 0.85
+
+- [[kb/_entites-mineures#double-pizza-teams-→-sandwich-teams\|double pizza teams → sandwich teams]] **remplace** → double pizza teams → sandwich teams — 0.85
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
 ### draft prêt à publier {#draft-prêt-à-publier}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **métrique** : 6 à 12 minutes par article
+
+- [[kb/content-engineering\|content engineering]] **permet** → draft prêt à publier — 0.94
 
 **Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
@@ -17938,11 +18286,12 @@
 
 ### effet de déplacement {#effet-de-déplacement}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Canal par lequel l'automatisation de tâches réduit la demande de travail (substitution)
 
 - [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] **s_oppose_à** → effet de déplacement — 0.90
+- [[kb/IA-générative\|IA générative]] **réduit** → effet de déplacement — 0.88
 
 **Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 
@@ -18001,19 +18350,22 @@
 
 ### enabling team {#enabling-team}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Topologie Team Topologies
 
 - **fait_partie_de** → [[kb/_entites-mineures#Team-Topologies\|Team Topologies]] (METHODOLOGIE) — 0.97
+- **améliore** → déploiement modèles en production (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
 ### end-to-end lineage {#end-to-end-lineage}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Traçabilité complète des décisions et actions des agents IA pour audit et compliance
+
+- [[kb/Control-Plane\|Control Plane]] **permet** → end-to-end lineage — 0.95
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
@@ -18041,11 +18393,13 @@
 
 ### escalation {#escalation}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : remontée volontaire d'un problème bloquant vers les leaders
 
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] **réduit** → escalation — 0.94
+- [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] **s_oppose_à** → escalation — 0.87
+- [[kb/_entites-mineures#WIP-limits\|WIP limits]] **réduit** → escalation — 0.85
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
@@ -18082,7 +18436,7 @@
 
 - **domaine** : Noétique, philosophie de la technique
 
-- **réduit** → autonomie intellectuelle individuelle (CONCEPT) — 0.92
+- **réduit** → [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
@@ -18124,27 +18478,33 @@
 
 ### fenêtres de contexte {#fenêtres-de-contexte}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **évolution** : 8K tokens (2022) → 2M tokens (2025)
 
 - **mesure** → « passage de 8K à 2M tokens » (MESURE) — 0.97
 
+- [[kb/RAG\|RAG]] **résout** → fenêtres de contexte — 0.95
+
 **Fiches** : [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
 ### financement en flux {#financement-en-flux}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **principe** : Budget mensuel continu plutôt qu'investissement ponctuel
+
+- [[kb/Olivier-Rafal\|Olivier Rafal]] **recommande** → financement en flux — 0.90
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 
 ### follow_author_score {#follow_author_score}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Prédiction Phoenix (index 13) "ce post fera-t-il gagner un follower à son auteur" — nouveau signal first-class 2026
+
+- [[kb/x-algorithm\|x-algorithm]] **utilise** → follow_author_score — 0.97
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
@@ -18160,17 +18520,22 @@
 
 ### fonds de pension Europe (absence) {#fonds-de-pension-Europe-(absence)}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA
+
+- **permet** → recours aux investisseurs étrangers (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### forces invariantes {#forces-invariantes}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **liste** : Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme
+
+- [[kb/_entites-mineures#design-patterns\|design patterns]] **est_basé_sur** → forces invariantes — 0.88
+- [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] **affine** → forces invariantes — 0.87
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
@@ -18360,9 +18725,11 @@
 
 ### h-index {#h-index}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **rôle** : Exemple : mesure de réputation érodée par son usage comme cible
+
+- [[kb/loi-de-Goodhart\|loi de Goodhart]] **s_applique_à** → h-index — 0.88
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
@@ -18616,13 +18983,14 @@
 
 ### jagged frontier {#jagged-frontier}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **définition** : Carte irrégulière des forces/faiblesses des IA par domaine
 
 - **affirme_que** → « les capacités de l'IA ont des limites invisibles et imprévisibles » (AFFIRMATION) — 0.93
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → jagged frontier — 0.97
+- [[kb/GDPval\|GDPval]] **mesure** → jagged frontier — 0.95
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]], [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 
@@ -18636,12 +19004,14 @@
 
 ### jugement professionnel {#jugement-professionnel}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **principe** : Se bâtit lentement en faisant le travail ; « la chose la plus chère que connaît l'entreprise », pas une soft skill
 - **rôle** : Savoir s'arrêter pour refactoriser — ce qui distingue le pro
 
 - **permet** → de distinguer l'ingénieur expérimenté du novice (CONCEPT) — 0.90
+
+- [[kb/Shadow-intimacy\|Shadow intimacy]] **réduit** → jugement professionnel — 0.90
 
 **Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]], [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
 
@@ -18657,11 +19027,13 @@
 
 ### kill switch {#kill-switch}
 
-**Type** : CONCEPT | 1 relations | 2 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **définition** : Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental
 
 - **résout** → dépense agent anormale (CONCEPT) — 0.90
+
+- [[kb/Scaleway-technologie\|Scaleway]] **permet** → kill switch — 0.92
 
 **Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]], [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
@@ -18990,9 +19362,11 @@
 
 ### no consultant crowds {#no-consultant-crowds}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Anti-positioning explicite vs grands intégrateurs (Accenture, Capgemini, TCS, etc.) — modèle technologists + plateforme vs bodies-on-seats
+
+- [[kb/Thoughtworks\|Thoughtworks]] **s_oppose_à** → no consultant crowds — 0.93
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
@@ -19004,7 +19378,7 @@
 - **rôle** : Septième force introduite par les systèmes agentiques
 
 - **observé_dans** → [[kb/LLM\|LLM]] (TECHNOLOGIE) — 0.93
-- **affine** → les six forces invariantes des patterns (CONCEPT) — 0.87
+- **affine** → [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
@@ -19060,11 +19434,23 @@
 
 ### optimisme déterminé {#optimisme-déterminé}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **opposé** : Optimisme indéterminé (avenir passif)
 
-- **s_oppose_à** → optimisme indéterminé (CONCEPT) — 0.90
+- **s_oppose_à** → [[kb/_entites-mineures#optimisme-indéterminé\|optimisme indéterminé]] (CONCEPT) — 0.90
+
+- [[kb/Marc-Andreessen\|Marc Andreessen]] **est_instance_de** → optimisme déterminé — 0.97
+
+**Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
+
+### optimisme indéterminé {#optimisme-indéterminé}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Posture opposée à l'optimisme déterminé : attendre un futur meilleur sans plan pour l'obtenir
+
+- [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] **s_oppose_à** → optimisme indéterminé — 0.90
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
@@ -19192,7 +19578,7 @@
 
 - **position** : Phase 5 du cycle SFEIR, entre Verify et Compound-1, délibérément hors des trois gates humains (Define, Plan, Ship) ; livrable = un faisceau de preuves opposable, la décision revenant au gate Ship
 
-- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.97
+- **fait_partie_de** → [[kb/_entites-mineures#cycle-à-11-phases\|cycle à 11 phases]] (METHODOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
@@ -19208,9 +19594,11 @@
 
 ### pierre philosophale {#pierre-philosophale}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **origine** : Rêve alchimiste — transmutation de matériaux ordinaires
+
+- [[kb/IA\|IA]] **est_instance_de** → pierre philosophale — 0.92
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
@@ -19268,11 +19656,12 @@
 
 ### platform team {#platform-team}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **catégorie** : Topologie Team Topologies
 
 - **fait_partie_de** → [[kb/_entites-mineures#Team-Topologies\|Team Topologies]] (METHODOLOGIE) — 0.97
+- **permet** → data-as-a-service (CONCEPT) — 0.89
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
@@ -19288,21 +19677,24 @@
 
 ### portes humaines {#portes-humaines}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **définition** : Define, Plan, Ship — points de décision non négociables réservés à l'humain
 
-- **fait_partie_de** → [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] (METHODOLOGIE) — 0.95
+- **fait_partie_de** → [[kb/_entites-mineures#cycle-à-11-phases\|cycle à 11 phases]] (METHODOLOGIE) — 0.95
+
+- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] **utilise** → portes humaines — 0.93
 
 **Fiches** : [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 
 ### pression surengagement {#pression-surengagement}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **mécanisme** : dire oui = aucun coût immédiat ; dire non = risque politique immédiat
 
 - **soutient** → dire oui (CONCEPT) — 0.95
+- **permet** → coûts différés absorbés par les équipes (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
@@ -19382,7 +19774,7 @@
 
 - **définition** : Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code
 
-- genèse de Claude Code **est_basé_sur** → product overhang — 0.88
+- genèse du produit **est_basé_sur** → product overhang — 0.88
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]], [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
@@ -19404,12 +19796,14 @@
 
 ### programmeur {#programmeur}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **évolution** : De codeur ligne par ligne à orchestrateur/superviseur IA
 
-- **utilise** → bots de codage (orchestration en parallèle) (TECHNOLOGIE) — 0.97
-- **utilise** → IA de codage (supervision) (TECHNOLOGIE) — 0.96
+- **utilise** → [[kb/_entites-mineures#bots-de-codage\|bots de codage]] (TECHNOLOGIE) — 0.97
+- **utilise** → [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE) — 0.96
+
+- [[kb/_entites-mineures#IA-de-codage\|IA de codage]] **améliore** → programmeur — 0.95
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
 
@@ -19494,9 +19888,11 @@
 
 ### quatre lanes {#quatre-lanes}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **composition** : Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel)
+
+- [[kb/orchestration-multi-agents\|orchestration multi-agents]] **utilise** → quatre lanes — 0.90
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
@@ -19631,9 +20027,11 @@
 
 ### récompense visible de l'adoption IA {#récompense-visible-de-l'adoption-IA}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois
+
+- récupération de 100 000 $ **est_instance_de** → récompense visible de l'adoption IA — 0.82
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
 
@@ -19755,13 +20153,15 @@
 
 ### shadow AI {#shadow-AI}
 
-**Type** : CONCEPT | 2 relations | 2 fiches
+**Type** : CONCEPT | 3 relations | 2 fiches
 
 - **définition** : Usage massif de l'IA par les employés sans déclaration au management
 - **risque** : Usage non gouverné né de la démocratisation de la GenAI
 
 - **est_instance_de** → usage IA caché par les employés (CONCEPT) — 0.95
 - **mesure** → « environ 40% des dépenses applicatives IA » (MESURE) — 0.82
+
+- démocratisation de la GenAI **permet** → shadow AI — 0.90
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]], [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 
@@ -19865,7 +20265,7 @@
 
 - **s_applique_à** → « la configuration d'une application agentique plutôt qu'à la seule région d'exécution, puisque les appels d'outils comme la recherche web peuvent sortir de la région choisie » (AFFIRMATION) — 0.90
 
-- concentration du capital Big Tech **réduit** → souveraineté numérique — 0.88
+- [[kb/Big-Tech\|Big Tech]] **réduit** → souveraineté numérique — 0.88
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]], [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
@@ -19884,7 +20284,7 @@
 - **description** : Réduction de la dépendance aux outils IA américains
 - **domaine** : Politique industrielle et géopolitique des semi-conducteurs
 
-- stratégie industrielle CEA **est_basé_sur** → souveraineté technologique européenne — 0.88
+- [[kb/CEA\|CEA]] **est_basé_sur** → souveraineté technologique européenne — 0.88
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **soutient** → souveraineté technologique européenne — 0.85
 
 **Fiches** : [[fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01\|CEA unveils ExpressIF 3: RISC-V AI SoC for Edge Computing]], [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
@@ -19949,17 +20349,21 @@
 
 ### subagents / agent teams {#subagents-agent-teams}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : Agents scopés gérant des workstreams parallèles, en équipe
+
+- **permet** → parallélisation des workstreams (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
 ### suite de tests indépendante du langage {#suite-de-tests-indépendante-du-langage}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **rôle** : Tests de Bun écrits en TypeScript (60 624 tests, 1,39 M expect(), 0 supprimé, 6 plateformes) → filet permettant de merger 1 M de lignes générées par LLM
+
+- réécriture de Bun en Rust **utilise** → suite de tests indépendante du langage — 0.92
 
 **Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
@@ -20106,9 +20510,11 @@
 
 ### taxonomie 9 catégories de skills {#taxonomie-9-catégories-de-skills}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **liste** : Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops
+
+- [[kb/Anthropic\|Anthropic]] **utilise** → taxonomie 9 catégories de skills — 0.92
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -20150,14 +20556,6 @@
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
-### token economics {#token-economics}
-
-**Type** : CONCEPT | 0 relations | 1 fiches
-
-- **KPIs** : Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI
-
-**Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
-
 ### token spend mal dirigé {#token-spend-mal-dirigé}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20188,11 +20586,14 @@
 
 ### traces {#traces}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Enregistrement séquence étapes agents au runtime
 
 - **remplace** → code comme documentation (CONCEPT) — 0.95
+- **résout** → non-déterminisme des agents (CONCEPT) — 0.92
+
+- debugging agents **est_basé_sur** → traces — 0.93
 
 **Fiches** : [[fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10\|In software, the code documents the app. In AI, the traces do.]]
 
@@ -20202,9 +20603,19 @@
 
 - **définition** : Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin
 
-- **s_applique_à** → valorisation de l'IPO SpaceX (CONCEPT) — 0.84
+- **s_applique_à** → [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] (CONCEPT) — 0.84
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
+
+### transparence {#transparence}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **catégorie** : Principe général dont la transparence des sauvegardes est un cas d'application
+
+- [[kb/_entites-mineures#confiance-logicielle\|confiance logicielle]] **est_basé_sur** → transparence — 0.95
+
+**Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 
 ### transparence des sauvegardes {#transparence-des-sauvegardes}
 
@@ -20250,10 +20661,11 @@
 
 ### tutoriels IA YouTube {#tutoriels-IA-YouTube}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **volume** : 500k+ vidéos publiées 2024-2025
 
+- **observé_dans** → [[kb/YouTube-technologie\|YouTube]] (TECHNOLOGIE) — 0.99
 - **mesure** → « 2,5 milliards de vues annuelles » (MESURE) — 0.88
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]
@@ -20272,17 +20684,21 @@
 
 ### usage augmentatif {#usage-augmentatif}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : collaboration homme-IA
+
+- [[kb/_entites-mineures#usage-directif\|usage directif]] **surpasse** → usage augmentatif — 0.92
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
 ### usage directif {#usage-directif}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **définition** : tâche entièrement déléguée à Claude
+
+- **surpasse** → [[kb/_entites-mineures#usage-augmentatif\|usage augmentatif]] (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
@@ -20308,7 +20724,7 @@
 
 ### validation circulaire {#validation-circulaire}
 
-**Type** : CONCEPT | 3 relations | 2 fiches
+**Type** : CONCEPT | 4 relations | 2 fiches
 
 - **définition** : Mode d'échec où l'agent qui écrit le code écrit aussi les tests qui le valident : la CI est verte sans back-pressure réelle — « un miroir, pas un anneau de contraintes »
 
@@ -20316,6 +20732,7 @@
 - **s_oppose_à** → vérification du besoin réel par les tests (CONCEPT) — 0.86
 
 - [[kb/Augment-Code-organisation\|Augment Code]] **référence** → validation circulaire — 0.94
+- specification-driven development **réduit** → validation circulaire — 0.89
 
 **Fiches** : [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]], [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]]
 
@@ -20413,12 +20830,13 @@
 
 ### web conversationnel {#web-conversationnel}
 
-**Type** : CONCEPT | 2 relations | 1 fiches
+**Type** : CONCEPT | 3 relations | 1 fiches
 
 - **définition** : Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA
 
 - **est_basé_sur** → [[kb/_entites-mineures#services-headless\|services headless]] (CONCEPT) — 0.87
 
+- [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] **est_instance_de** → web conversationnel — 0.98
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] **permet** → web conversationnel — 0.95
 
 **Fiches** : [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
@@ -20445,9 +20863,11 @@
 
 ### world model latent {#world-model-latent}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **rôle** : Représentation compressée de la physique d'un environnement
+
+- **améliore** → développement de jeux vidéo (CONCEPT) — 0.82
 
 - [[kb/Genie-3\|Genie 3]] **est_basé_sur** → world model latent — 0.95
 
@@ -20481,9 +20901,12 @@
 
 ### Électricité {#Électricité}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 1 fiches
 
 - **rôle** : facteur de sensibilité du break-even
+
+- **s_applique_à** → Point de break-even (CONCEPT) — 0.92
+- **mesure** → « break-even repoussé de 40 à 60 % en volume quotidien » (MESURE) — 0.90
 
 **Fiches** : [[fiches/2026-03/sitepoint-local-llms-vs-cloud-tco-break-even-2026-03-05\|Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis]]
 
@@ -20497,9 +20920,11 @@
 
 ### Étoile de Winston {#Étoile-de-Winston}
 
-**Type** : CONCEPT | 0 relations | 1 fiches
+**Type** : CONCEPT | 1 relations | 1 fiches
 
 - **description** : 5 S : Symbol, Slogan, Surprise, Salient idea, Story
+
+- [[kb/Patrick-Winston\|Patrick Winston]] **a_créé** → Étoile de Winston — 0.95
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
 
@@ -20552,16 +20977,6 @@
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
 
-### économie circulaire IA {#économie-circulaire-IA}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **montant estimé** : 1 trillion de dollars
-
-- **s_applique_à** → OpenAI, Nvidia, AMD, Oracle, CoreWeave, xAI (ORGANISATION) — 0.92
-
-**Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
-
 ### économie de la fenêtre de contexte {#économie-de-la-fenêtre-de-contexte}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -20589,6 +21004,14 @@
 - risque d'épuisement professionnel **observé_dans** → économie des créateurs — 0.85
 
 **Fiches** : [[fiches/2025-10/youtube-educational-content-ai-tutorials-explosion-2025-10-01\|YouTube's AI Tutorial Explosion: Democratizing Technical Education at Scale]]
+
+### économie des jetons {#économie-des-jetons}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **KPIs** : Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI
+
+**Fiches** : [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
 
 ### écosystème frontière {#écosystème-frontière}
 
@@ -20677,7 +21100,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (359)
+## METHODOLOGIE (356)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -20880,7 +21303,7 @@
 
 - **structure** : Feuille de route en 4 phases
 
-- **utilise** → adoption IA en 4 phases (CONCEPT) — 0.98
+- **utilise** → adoption en 4 phases (CONCEPT) — 0.98
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 
@@ -20908,38 +21331,36 @@
 
 ### ATDD (Acceptance Test-Driven Development) {#ATDD-(Acceptance-Test-Driven-Development)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Spécification exécutable au niveau acceptance, recommandée par Farley pour cadrer les agents IA
+
+- [[kb/Dave-Farley\|Dave Farley]] **recommande** → ATDD (Acceptance Test-Driven Development) — 0.94
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
 ### Action-targeted content design {#Action-targeted-content-design}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Recommandation : chaque post nomme l'action cible parmi les 19 (target_action: click / vqv / dm_share / follow / reply...), mesurer success par action distribution per post, pas impressions totales
+
+- [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] **recommande** → Action-targeted content design — 0.96
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
 ### Activation capping {#Activation-capping}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **catégorie** : Contrainte d'outputs à l'inférence pour stabiliser persona
 
 - **réduit** → jailbreaks Qwen3 32B de 83% à 41% (CONCEPT) — 0.96
 - **permet** → préservation des performances IFEval, GSM8k, MMLU-Pro, EQ-Bench (CONCEPT) — 0.94
 
+- [[kb/_entites-mineures#Christina-Lu\|Christina Lu]] **a_créé** → Activation capping — 0.95
+
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
-
-### Agent FinOps (Orq.ai) {#Agent-FinOps-(Orq.ai)}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **principe** : Cost per outcome via comportement runtime
-
-**Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
 ### Agent employees {#Agent-employees}
 
@@ -20967,9 +21388,14 @@
 
 ### Analysis of Competing Hypotheses (ACH) {#Analysis-of-Competing-Hypotheses-(ACH)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **source** : Richards Heuer (CIA) — méthodologie d'évaluation parallèle d'hypothèses concurrentes, ancêtre méthodologique de la Tension Map
+
+- **fait_partie_de** → méthodologie d'analyse de la CIA (METHODOLOGIE) — 0.96
+
+- [[kb/_entites-mineures#Richards-Heuer\|Richards Heuer]] **a_créé** → Analysis of Competing Hypotheses (ACH) — 0.97
+- [[kb/Tension-Map\|Tension Map]] **est_basé_sur** → Analysis of Competing Hypotheses (ACH) — 0.85
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
@@ -21022,17 +21448,21 @@
 
 ### Author distribution playbook {#Author-distribution-playbook}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Recommandation : audit cadence vs author-diversity decay, remplacer stacked single-account drumbeats par multi-account amplification (brand + employés) — chaque post entre au position=0 pour son auteur
+
+- [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] **recommande** → Author distribution playbook — 0.96
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
 ### Autonomous enterprise workflow agent {#Autonomous-enterprise-workflow-agent}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **niveau** : Master — event-driven, multi-agent delegation, self-healing, audit trail, RBAC, observability, HITL, workflow learning, cost management
+
+- **permet** → démonstration d'orchestration production-grade (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
@@ -21046,9 +21476,11 @@
 
 ### Ben vs Alice (case study) {#Ben-vs-Alice-(case-study)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Cadre narratif Chepurin/Turner — Ben (4h traditional, satisfaction) vs Alice (2h AI-assisted, intensité cognitive concentrée + remplit temps libéré, pas de satisfaction). Outil pédagogique pour discuter charge cognitive cachée
+
+- Remplissage du temps libéré par plus de tâches **observé_dans** → Ben vs Alice (case study) — 0.94
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
@@ -21058,7 +21490,7 @@
 
 - **définition** : Analyse d'incident centrée système/mécanisme, pas faute individuelle
 
-- [[kb/Amazon\|Amazon]] **utilise** → Blameless post-mortem — 0.92
+- [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] **utilise** → Blameless post-mortem — 0.92
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
@@ -21068,7 +21500,7 @@
 
 - **usage** : Faire expliciter par Claude ses unknown unknowns dans une zone inconnue
 
-- **permet** → expliciter les unknown unknowns avant l'implémentation (CONCEPT) — 0.90
+- **permet** → [[kb/_entites-mineures#Unknowns\|Unknowns]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
@@ -21085,10 +21517,11 @@
 
 ### Bolt {#Bolt}
 
-**Type** : METHODOLOGIE | 1 relations | 2 fiches
+**Type** : METHODOLOGIE | 2 relations | 2 fiches
 
 - **définition** : Unité de travail courte (1h à demi-journée) qui remplace le sprint Scrum de 14 jours
 
+- **remplace** → Sprint de 14 jours (METHODOLOGIE) — 0.93
 - **est_variante_de** → sprint (METHODOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
@@ -21169,9 +21602,11 @@
 
 ### Civilisation de l'amour {#Civilisation-de-l'amour}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Concept inauguré par saint Paul VI (1970) — projet exigeant qui traduit la charité en structures de justice, donne forme institutionnelle à la fraternité, transforme l'interdépendance subie en solidarité voulue (n. 186-187)
+
+- [[kb/_entites-mineures#Magnificat-(Lc-1,-46-55)\|Magnificat (Lc 1, 46-55)]] **est_instance_de** → Civilisation de l'amour — 0.95
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -21250,17 +21685,6 @@
 
 **Fiches** : [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
-### Control Plane {#Control-Plane}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **rôle** : Orchestration + gouvernance des agents IA — cost transparency, active guardrails, end-to-end lineage
-
-- **utilise** → AI agents (orchestration et gouvernance) (TECHNOLOGIE) — 0.96
-- **permet** → cost transparency + active guardrails + end-to-end lineage (CONCEPT) — 0.95
-
-**Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
-
 ### Corpus persistence {#Corpus-persistence}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -21283,9 +21707,11 @@
 
 ### Cursor for video editors {#Cursor-for-video-editors}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **niveau** : Advanced — multimodal AI (vision + audio), intent translation, scene detection, EDL, undo with reasoning
+
+- **permet** → démonstration du multimodal AI + tool integration (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
@@ -21301,9 +21727,11 @@
 
 ### Cycle en V prédictible {#Cycle-en-V-prédictible}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **retour** : Restauration de l'engagement périmètre/coût/délai contre l'agilité Scrum jugée défaillante
+
+- [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] **permet** → Cycle en V prédictible — 0.94
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -21329,10 +21757,12 @@
 
 ### Debugging interview {#Debugging-interview}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **objectif** : Capter compétence 1→N sur codebase existant
 - **statut** : En pilote chez Sierra
+
+- [[kb/Sierra\|Sierra]] **utilise** → Debugging interview — 0.92
 
 **Fiches** : [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 
@@ -21348,9 +21778,11 @@
 
 ### Decision Records 7 dimensions {#Decision-Records-7-dimensions}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Decision Records scorés sur 7 dimensions, traces tous choix structurants du projet
+
+- **utilise** → scoring sur 7 dimensions (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|PROJ-AI — pour que vos projets ne s'arrêtent plus au livrable (Un repo, un agent, un IDE — pourquoi PROJ-AI ?)]]
 
@@ -21366,19 +21798,23 @@
 
 ### Demand-led marketing {#Demand-led-marketing}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **description** : Budget piloté par ROI et demande en temps réel
 
 - **remplace** → [[kb/_entites-mineures#Budget-marketing-fixe\|budget marketing fixe]] (CONCEPT) — 0.95
 
+- [[kb/IA\|IA]] **est_instance_de** → Demand-led marketing — 0.93
+
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
 
 ### Design system HTML de référence {#Design-system-HTML-de-référence}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Fichier HTML unique servant de blueprint stylistique inter-fichiers
+
+- **permet** → cohérence stylistique cross-fichiers (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
@@ -21396,11 +21832,12 @@
 
 ### DevOps {#DevOps}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Méthodologie intégrant développement et opérations
 
 - [[kb/_entites-mineures#CDLC\|CDLC]] **s_inspire_de** → DevOps — 0.92
+- [[kb/Patrick-Debois\|Patrick Debois]] **a_créé** → DevOps — 0.85
 
 **Fiches** : [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|The Context Development Lifecycle: Optimizing Context for AI Coding Agents]]
 
@@ -21487,7 +21924,7 @@
 - **définition** : Confier l'écriture de code à un subagent à modèle moins puissant, le modèle principal gardant jugement/review/synthèse
 
 - **utilise** → model override (Sonnet, Haiku) (TECHNOLOGIE) — 0.92
-- **réduit** → consommation de tokens Fable (CONCEPT) — 0.90
+- **réduit** → [[kb/_entites-mineures#Fable\|Fable]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
@@ -21516,17 +21953,21 @@
 
 ### Empowerment promise {#Empowerment-promise}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Déclarer ce que l'audience saura à la fin
+
+- [[kb/Patrick-Winston\|Patrick Winston]] **recommande** → Empowerment promise — 0.97
 
 **Fiches** : [[fiches/2019-01/winston-how-to-speak-mit-communication-2019-01-04\|How To Speak]]
 
 ### Entretien de débogage {#Entretien-de-débogage}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Revue et amélioration d'une codebase avec PR brouillon en itérant avec des agents de codage (pilote)
+
+- [[kb/Sierra\|Sierra]] **utilise** → Entretien de débogage — 0.90
 
 **Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
@@ -21552,9 +21993,11 @@
 
 ### Federal jobs guarantee {#Federal-jobs-guarantee}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Politique populaire selon Shor, plus efficace que UBI pour répondre au permanent underclass
+
+- [[kb/_entites-mineures#David-Shor\|David Shor]] **recommande** → Federal jobs guarantee — 0.95
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
@@ -21602,7 +22045,7 @@
 
 - **définition** : Processus itératif de découverte des inconnues (avant/pendant/après) pour guider Fable
 
-- **s_applique_à** → travail avec Claude Fable 5 (TECHNOLOGIE) — 0.95
+- **s_applique_à** → [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE) — 0.95
 - **est_basé_sur** → « "la carte n'est pas le territoire" » (AFFIRMATION) — 0.93
 
 - [[kb/_entites-mineures#Matrice-des-inconnues\|Matrice des inconnues]] **fait_partie_de** → Finding Your Unknowns — 0.90
@@ -21611,9 +22054,12 @@
 
 ### Forward Deployed Engineering (FDE) {#Forward-Deployed-Engineering-(FDE)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **définition** : Équipes d'ingénieurs déployés chez le client pour intégrer / customiser les modèles IA. Originellement Palantir, adopté par OpenAI, Anthropic, autres labos frontaliers
+
+- AI labs **utilise** → Forward Deployed Engineering (FDE) — 0.97
+- [[kb/Palantir\|Palantir]] **a_créé** → Forward Deployed Engineering (FDE) — 0.85
 
 **Fiches** : [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 
@@ -21640,7 +22086,7 @@
 
 ### Framework Leader-Lab-Crowd {#Framework-Leader-Lab-Crowd}
 
-**Type** : METHODOLOGIE | 2 relations | 2 fiches
+**Type** : METHODOLOGIE | 4 relations | 2 fiches
 
 - **source** : Ethan Mollick — *Making AI Work: Leadership, Lab, and Crowd*
 - **structure** : Trois cercles : dirigeants fluents, lab HR/business, masse des power users cachés
@@ -21648,14 +22094,18 @@
 - **permet** → écriture du AI-HR playbook (CONCEPT) — 0.95
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **a_créé** → Framework Leader-Lab-Crowd — 0.97
+- [[kb/Cornell-AI-Innovation-Hub\|Cornell AI Innovation Hub]] **est_instance_de** → Framework Leader-Lab-Crowd — 0.85
+- [[kb/_entites-mineures#Cornell-Treasury-Operations\|Cornell Treasury Operations]] **est_instance_de** → Framework Leader-Lab-Crowd — 0.85
 
 **Fiches** : [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]], [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
 ### Fuel-Adoption-Output-Impact {#Fuel-Adoption-Output-Impact}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Modèle de mesure de productivité en 4 étages
+
+- **remplace** → PR throughput comme signal unique (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
@@ -21686,7 +22136,7 @@
 
 - **domaine** : gestion incidents et fiabilité
 
-- culture post-mortem Anthropic **s_inspire_de** → Google SRE — 0.75
+- culture post-mortem **s_inspire_de** → Google SRE — 0.75
 
 **Fiches** : [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 
@@ -21696,18 +22146,10 @@
 
 - **définition** : Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée
 
-- **est_instance_de** → innovation centrale de l'Usine Logicielle Augmentée (CONCEPT) — 0.97
+- **est_instance_de** → [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (CONCEPT) — 0.97
 - **est_instance_de** → barrière à l'entrée réelle (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
-
-### HTML (format de sortie agent) {#HTML-(format-de-sortie-agent)}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **catégorie** : Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs)
-
-**Fiches** : [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
 ### Hiring refactoring par projets adversariels {#Hiring-refactoring-par-projets-adversariels}
 
@@ -21844,9 +22286,13 @@
 
 ### Mode ask vs mode generation {#Mode-ask-vs-mode-generation}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **définition** : Recommandation Chepurin/Turner — préférer interroger le modèle (mode pédagogique) à le laisser générer (mode délégation), pour maintenir l'engagement cognitif
+
+- **surpasse** → [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] (METHODOLOGIE) — 0.92
+
+- [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] **surpasse** → Mode ask vs mode generation — 0.92
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
@@ -21882,17 +22328,21 @@
 
 ### Métriques DORA {#Métriques-DORA}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Lead Time + fréquence de déploiement, remplacent la vélocité comme indicateurs de performance
+
+- **remplace** → vélocité (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### N-version programming {#N-version-programming}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **nature** : Plusieurs implémentations indépendantes comparées, rendu gratuit par la diversité d'échantillonnage
+
+- diversité d'échantillonnage **permet** → N-version programming — 0.88
 
 **Fiches** : [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
 
@@ -21926,23 +22376,13 @@
 
 **Fiches** : [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
-### Ontology Pipeline Framework {#Ontology-Pipeline-Framework}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Framework Talisman 5 étapes (controlled vocabulary → metadata standards → taxonomy → thesaurus → ontology → knowledge graph) + Refresh 2026 ajoute Governance + AI Partnership. Validé sur 6 institutions / 10 ans. Principe : "the work cannot be skipped"
-
-- **observé_dans** → 6 institutions sur 10 ans (validation) (CONCEPT) — 0.93
-
-- [[kb/Jessica-Talisman\|Jessica Talisman]] **a_créé** → Ontology Pipeline Framework — 0.97
-
-**Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
-
 ### Outcome-based (modèle économique IA) {#Outcome-based-(modèle-économique-IA)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier
+
+- **permet** → alignement du paiement sur les KPIs métier (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
@@ -22068,9 +22508,14 @@
 
 ### Pipeline Lattice {#Pipeline-Lattice}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
 
 - **séquence** : lattice-init → design-blueprint → code-forge → review (+ refactor-safely, bug-fix en écarts)
+
+- **est_basé_sur** → [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] (CONCEPT) — 0.96
+- **converge_avec** → pipeline ce:brainstorm → ce:plan → ce:work → ce:review (isomorphisme) (METHODOLOGIE) — 0.91
+
+- [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] **est_basé_sur** → Pipeline Lattice — 0.96
 
 **Fiches** : [[fiches/2026-05/techygarg-lattice-composable-ai-skills-atoms-molecules-refiners-2026-05-05\|Lattice — Composable AI skills that teach assistants structured thinking (design-first, context-aware,…]]
 
@@ -22097,15 +22542,17 @@
 
 - **rôle** : fondation pour débloquer valeur IA
 
-- **permet** → adoption IA réussie (CONCEPT) — 0.93
+- **permet** → adoption réussie (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ### Playbook 3 phases (Bain) {#Playbook-3-phases-(Bain)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness
+
+- [[kb/Bain-&-Company\|Bain & Company]] **recommande** → Playbook 3 phases (Bain) — 0.94
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
@@ -22155,9 +22602,11 @@
 
 ### Quality Gates {#Quality-Gates}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Validation automatisée qualité code
+
+- [[kb/Itamar-Friedman\|Itamar Friedman]] **recommande** → Quality Gates — 0.88
 
 **Fiches** : [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|The State of AI Code Quality: Hype vs. Reality]]
 
@@ -22206,17 +22655,21 @@
 
 ### References {#References}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **principe** : La meilleure référence est du code source (même dans un autre langage)
+
+- **résout** → l'incapacité à décrire ce qu'on veut en détail (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
 ### Reverse Engineering with AI/works™ {#Reverse-Engineering-with-AI-works}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : Ingestion legacy codebases → reconstruction business logic → génération validated as-is specifications
+
+- **permet** → transformation des legacy codebases en as-is specifications (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
@@ -22234,7 +22687,7 @@
 
 - **rôle** : AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté
 
-- **affine** → Super Spec (mise à jour continue) (CONCEPT) — 0.96
+- **affine** → [[kb/_entites-mineures#Super-Spec\|Super Spec]] (CONCEPT) — 0.96
 - **permet** → régénération du code impacté (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
@@ -22259,9 +22712,11 @@
 
 ### SaaS à crédits {#SaaS-à-crédits}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis)
+
+- [[kb/Delos-Intelligence\|Delos Intelligence]] **utilise** → SaaS à crédits — 0.90
 
 **Fiches** : [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
@@ -22322,9 +22777,11 @@
 
 ### Six facteurs d'automatisation (Bain) {#Six-facteurs-d'automatisation-(Bain)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency
+
+- Output verifiability, consequence of failure, digitized knowledge, integration complexity, process variability, physical world dependency **fait_partie_de** → Six facteurs d'automatisation (Bain) — 0.96
 
 **Fiches** : [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
@@ -22405,19 +22862,22 @@
 
 ### Story Points {#Story-Points}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Système de rémunération à la performance
 
 - [[kb/_entites-mineures#10x\|10x]] **utilise** → Story Points — 0.95
+- [[kb/_entites-mineures#Stratège\|Stratège]] **réduit** → Story Points — 0.85
 
 **Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering]]
 
 ### Stress-testing (Pawlowski) {#Stress-testing-(Pawlowski)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **description** : Questions adversariales systématiques : ce qui invalidirait, hypothèses faibles, ce que disputeraient des compétiteurs sceptiques
+
+- **affine** → interprétations (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
@@ -22454,12 +22914,11 @@
 
 ### TDD {#TDD}
 
-**Type** : METHODOLOGIE | 4 relations | 2 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
 - **cycle** : Red → Green → Refactor, un test à la fois
 - **description** : Test-Driven Development, pratique recommandée dans le workflow
 
-- **s_applique_à** → code du domaine, bounded context, cœur hexagone (CONCEPT) — 0.94
 - **améliore** → qualité du code (CONCEPT) — 0.92
 
 - [[kb/Kent-Beck\|Kent Beck]] **utilise** → TDD — 0.98
@@ -22469,9 +22928,11 @@
 
 ### Target Operating Model {#Target-Operating-Model}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **enjeu** : À repenser pour l'ère agentique (équipes, process, culture data, métier)
+
+- [[kb/Olivier-Rafal\|Olivier Rafal]] **recommande** → Target Operating Model — 0.90
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
@@ -22511,11 +22972,12 @@
 
 ### Test-Driven Development {#Test-Driven-Development}
 
-**Type** : METHODOLOGIE | 4 relations | 2 fiches
+**Type** : METHODOLOGIE | 5 relations | 2 fiches
 
 - **abréviation** : TDD
 - **définition** : Méthodologie où les tests guident l'écriture du code — j'écris à chaque fois un peu de code "en réaction" à un nouveau test. À distinguer de Test-first (écriture tous tests avant code)
 
+- **s_applique_à** → [[kb/_entites-mineures#Code-domaine-bounded-context-cœur-hexagone\|Code domaine / bounded context / cœur hexagone]] (CONCEPT) — 0.94
 - **améliore** → développement assisté par IA (CONCEPT) — 0.88
 
 - [[kb/Kent-Beck\|Kent Beck]] **a_créé** → Test-Driven Development — 0.99
@@ -22631,9 +23093,11 @@
 
 ### Triade ingrédients/recette/plat fini {#Triade-ingrédients-recette-plat-fini}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Cadre Meng To : skills/design.md/HTML
+
+- Triade Meng **est_basé_sur** → Triade ingrédients/recette/plat fini — 0.97
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
@@ -22675,11 +23139,13 @@
 
 ### Voyage du Héros {#Voyage-du-Héros}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **usage** : Keynote longue, Masterclass
 
 - **s_applique_à** → Keynote longue (CONCEPT) — 0.90
+
+- audience **est_instance_de** → Voyage du Héros — 0.90
 
 **Fiches** : [[fiches/2026-02/synthese-prompts-formats-talks-deep-research-2026-02\|Synthèse : Architectures Narratives & Formats de Conférence - Guide Pratique et Prompts]]
 
@@ -22689,7 +23155,7 @@
 
 - **objectif** : contraindre le travail en cours pour limiter surengagement
 
-- **réduit** → pression d'escalation (CONCEPT) — 0.85
+- **réduit** → [[kb/_entites-mineures#escalation\|escalation]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
@@ -22741,17 +23207,22 @@
 
 ### Workflow Reference→Iterate→Remix {#Workflow-Reference→Iterate→Remix}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : 9 étapes Meng To pour design agentique de qualité
+
+- Workflow Meng **est_basé_sur** → Workflow Reference→Iterate→Remix — 0.96
+- Iteration **s_oppose_à** → Workflow Reference→Iterate→Remix — 0.94
 
 **Fiches** : [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
 ### Zero Trust Architecture {#Zero-Trust-Architecture}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **catégorie** : Doctrine sécurité Uber (et industrie) — chaque requête vérifiée indépendamment, pas de confiance implicite — étendue par l'architecture agent identity
+
+- architecture Uber **est_basé_sur** → Zero Trust Architecture — 0.97
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -22829,7 +23300,7 @@
 
 - **catégorie** : Déploiement incrémental entreprise
 
-- **s_applique_à** → déploiement GenBI (TECHNOLOGIE) — 0.88
+- **s_applique_à** → [[kb/_entites-mineures#GenBI\|GenBI]] (TECHNOLOGIE) — 0.88
 
 **Fiches** : [[fiches/2025-11/bord-northwestern-mutual-genbi-enterprise-2025-11-23\|Small Bets, Big Impact: Building GenBI at a Fortune 100 (Northwestern Mutual)]]
 
@@ -22916,22 +23387,13 @@
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
-### boucle d'apprentissage {#boucle-d'apprentissage}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **définition** : Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme
-
-- **permet** → la composition du capital humain et du capital token (CONCEPT) — 0.92
-- **est_instance_de** → IP de la firme (CONCEPT) — 0.90
-
-**Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
-
 ### boucle d'auto-vérification {#boucle-d'auto-vérification}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Boucle de confiance donnée à Claude (tests + build + lint + e2e sur un vrai environnement de dev) ; condition de passage de l'étape 1 à l'étape 2
+
+- **permet** → « le passage de l'étape 1 (Assisted) à l'étape 2 (Parallel) » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
@@ -22978,9 +23440,11 @@
 
 ### capitalisation {#capitalisation}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **résultat** : −30% d'itérations de correction après ~10 cycles
+
+- **réduit** → de 30% les itérations de correction après ~10 cycles (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
 
@@ -23023,14 +23487,6 @@
 - [[kb/Replit-Agent\|Replit Agent]] **s_oppose_à** → code freeze — 0.98
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
-
-### content engineering {#content-engineering}
-
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
-
-- **définition** : Industrialisation du process éditorial via skills + MCP
-
-**Fiches** : [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
 ### correction harvesting {#correction-harvesting}
 
@@ -23075,21 +23531,40 @@
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
+### cycle à 11 phases {#cycle-à-11-phases}
+
+**Type** : METHODOLOGIE | 5 relations | 2 fiches
+
+- **gates** : Trois gates humains inviolables — Define (l'intention), Plan (l'architecture), Ship (l'acceptation avant livraison) ; Review en est délibérément exclue pour ne pas plafonner le débit sur l'attention humaine
+- **rôle** : Cadre maison SFEIR (« Concevoir et fabriquer à l'ère de l'agentique ») avec la Software Factory 10x : règle le versant ingénierie (SDLC augmenté), l'articulation SDLC/PDLC étant le levier suivant
+
+- **converge_avec** → [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.92
+- **résout** → « le versant ingénierie (SDLC augmenté) ; le levier suivant est l'articulation SDLC/PDLC » (AFFIRMATION) — 0.82
+
+- [[kb/_entites-mineures#phase-Review-(SDLC)\|phase Review (SDLC)]] **fait_partie_de** → cycle à 11 phases — 0.97
+- [[kb/_entites-mineures#anneau-de-contraintes\|anneau de contraintes]] **fait_partie_de** → cycle à 11 phases — 0.95
+- [[kb/_entites-mineures#portes-humaines\|portes humaines]] **fait_partie_de** → cycle à 11 phases — 0.95
+
+**Fiches** : [[fiches/2026-07/sfeir-code-review-anneau-contraintes-2026-07-30\|Code review dans le SDLC augmenté : l'anneau de contraintes autour des agents]], [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
 ### design patterns {#design-patterns}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Mécanisme de transmission du jugement architectural
 
 - **permet** → transmission du jugement architectural entre générations (CONCEPT) — 0.92
+- **est_basé_sur** → [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
 ### distillation (Mensch) {#distillation-(Mensch)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Technique de réduction de coûts : entraîner un petit modèle avec un gros — **n'est pas** rattrapage technologique, nécessite toujours d'entraîner les gros modèles en propre
+
+- **réduit** → coûts de service en interne (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -23158,9 +23633,11 @@
 
 ### egress allowlisting {#egress-allowlisting}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **rôle** : VM distantes à sortie réseau restreinte pour contenir le blast radius
+
+- **réduit** → le blast radius d'un agent prompt-injecté (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
@@ -23192,18 +23669,6 @@
 - **seuil** : ~90% requis pour autoriser un agent, cible ~100%, ground truth figé
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
-
-### fichiers de règles partagés {#fichiers-de-règles-partagés}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **portée** : Minions, Cursor, Claude Code
-
-- **s_applique_à** → Minions, Cursor et Claude Code (TECHNOLOGIE) — 0.90
-
-- [[kb/Minions\|Minions]] **utilise** → fichiers de règles partagés — 0.92
-
-**Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 
 ### filtrage par le contexte {#filtrage-par-le-contexte}
 
@@ -23255,9 +23720,11 @@
 
 ### framework Leadership-Lab-Crowd {#framework-Leadership-Lab-Crowd}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **catégorie** : Modèle de transformation IA organisationnelle
+
+- **utilise** → innovation ambidextre (CONCEPT) — 0.95
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → framework Leadership-Lab-Crowd — 0.99
 
@@ -23469,6 +23936,17 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|The Lifecycle That Gets Cheaper Every Run]]
 
+### modèle 10x {#modèle-10x}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Schéma de rémunération à la performance appliqué aux ingénieurs
+
+- **s_inspire_de** → rémunération commerciale (CONCEPT) — 0.90
+- **permet** → attraction de talents élite (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering]]
+
 ### modèle Centaur {#modèle-Centaur}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -23636,11 +24114,12 @@
 
 ### planification multi-scénarios {#planification-multi-scénarios}
 
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
 
 - **application** : Plateau, croissance linéaire, exponentielle, AGI
 
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → planification multi-scénarios — 0.95
+- [[kb/GPT-4o\|GPT-4o]] **permet** → planification multi-scénarios — 0.83
 
 **Fiches** : [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 
@@ -23670,7 +24149,7 @@
 
 - **principe** : Orienter vers le bon fichier de référence selon la situation
 
-- système de fichiers d'une skill **est_instance_de** → progressive disclosure — 0.93
+- [[kb/Skill\|Skill]] **est_instance_de** → progressive disclosure — 0.93
 
 **Fiches** : [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -23699,7 +24178,7 @@
 
 - **structure** : hook → exploration → dialogue → pratique → flashcard FSRS
 
-- **s_applique_à** → formation Claude Code (CONCEPT) — 0.97
+- **s_applique_à** → [[kb/Claude-Code\|Claude Code]] (CONCEPT) — 0.97
 
 **Fiches** : [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 
@@ -23787,6 +24266,27 @@
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
 
+### revue de code agentique {#revue-de-code-agentique}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Revue conduite par des agents, opposée terme à terme à la revue humaine
+
+- **s_applique_à** → métriques DORA (lead time, deployment frequency, MTTR) (CONCEPT) — 0.82
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
+
+### revue de code humaine {#revue-de-code-humaine}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Inspection par un pair, dont l'article conteste la tenue face au débit agentique
+
+- agents de codage **surpasse** → revue de code humaine — 0.90
+- [[kb/pipeline-de-vérification-adversariale-multi-agents\|pipeline de vérification adversariale multi-agents]] **remplace** → revue de code humaine — 0.90
+
+**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
+
 ### revue de code rigoureuse {#revue-de-code-rigoureuse}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -23809,9 +24309,11 @@
 
 ### routage SIEM {#routage-SIEM}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne
+
+- **permet** → auditabilité et détection de menace interne (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
@@ -23903,17 +24405,21 @@
 
 ### skills (analytics) {#skills-(analytics)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **impact** : Précision 21% → 95%+ (≈99% sur certains domaines)
+
+- **améliore** → la précision de 21% à plus de 95% (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
 ### souveraineté comme levier {#souveraineté-comme-levier}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Doctrine Mensch : ne pas penser souveraineté comme isolationnisme mais comme capacité d'avoir des cartes à jouer dans la négociation commerciale et géopolitique
+
+- [[kb/Arthur-Mensch\|Arthur Mensch]] **recommande** → souveraineté comme levier — 0.98
 
 **Fiches** : [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
@@ -23929,6 +24435,16 @@
 - [[kb/Kiro\|Kiro]] **utilise** → spec coding — 0.98
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+
+### suite de tests {#suite-de-tests}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester
+
+- **est_instance_de** → spécification exécutable du cycle agentique (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
 ### suppression des token limits {#suppression-des-token-limits}
 
@@ -23947,7 +24463,7 @@
 - **définition** : Contrôles mappés sur 3 menaces + 4 stratégies transverses, un « Enduring Principle » par étape
 
 - **s_applique_à** → [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.92
-- **est_basé_sur** → le framework Zero Trust for Agents (CONCEPT) — 0.90
+- **est_basé_sur** → [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] (CONCEPT) — 0.90
 
 - [[kb/Anthropic\|Anthropic]] **améliore** → sécurité du SDLC AI-native — 0.93
 
@@ -23955,9 +24471,11 @@
 
 ### séparation dev/prod {#séparation-dev-prod}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **objectif** : Empêcher l'accès de l'IA aux bases de données de production
+
+- [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] **utilise** → séparation dev/prod — 0.95
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
 
@@ -23989,31 +24507,23 @@
 
 **Fiches** : [[fiches/2025-11/catasta-replit-future-autonomous-coding-2025-11-23\|Building the Future of Autonomous Coding: Autonomy Is All You Need]]
 
-### tests {#tests}
-
-**Type** : METHODOLOGIE | 1 relations | 1 fiches
-
-- **rôle** : Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester
-
-- **est_instance_de** → spécification exécutable du cycle agentique (CONCEPT) — 0.90
-
-**Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
-
 ### tests unitaires obligatoires {#tests-unitaires-obligatoires}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **contrainte** : Indépendants du processus de génération de code
 
-- **améliore** → qualité code IA (CONCEPT) — 0.85
+- **améliore** → qualité du code généré (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
 ### three-layer framework (Uber) {#three-layer-framework-(Uber)}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Vision long terme Uber : (1) Identity & Trust Foundation, (2) Dynamic Access Control, (3) Unified Enforcement Plane — architecture cible cohérente identity + risk + policy
+
+- [[kb/Uber-Engineering\|Uber Engineering]] **recommande** → three-layer framework (Uber) — 0.95
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -24150,9 +24660,11 @@
 
 ### échelle en 8 niveaux {#échelle-en-8-niveaux}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
 
 - **définition** : Chatbot→Copilot→Agent→Autopilot→Workflows→Assistant→Multi-agent→Orchestrator
+
+- **est_basé_sur** → délégation et confiance croissantes (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
@@ -24186,9 +24698,11 @@
 
 ### AI & the Workforce: The Adoption Gap {#AI-&-the-Workforce-The-Adoption-Gap}
 
-**Type** : EVENEMENT | 0 relations | 1 fiches
+**Type** : EVENEMENT | 1 relations | 1 fiches
 
 - **description** : Sommet virtuel Valence avec keynote Mollick (juillet 2025)
+
+- [[kb/_entites-mineures#Valence\|Valence]] **a_créé** → AI & the Workforce: The Adoption Gap — 0.95
 
 **Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 
@@ -24222,9 +24736,11 @@
 
 ### Cas marketing tech +349%/+38% {#Cas-marketing-tech-+349%-+38%}
 
-**Type** : EVENEMENT | 0 relations | 1 fiches
+**Type** : EVENEMENT | 1 relations | 1 fiches
 
 - **source** : Cas client Bain — AI costs +349% / revenue +38% sur un an. Illustre le risque coût AI non maîtrisé
+
+- **mesure** → « +349% AI costs / +38% revenue sur un an » (MESURE) — 0.93
 
 **Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
 
@@ -24238,17 +24754,21 @@
 
 ### Contrainte verbosité {#Contrainte-verbosité}
 
-**Type** : EVENEMENT | 0 relations | 1 fiches
+**Type** : EVENEMENT | 1 relations | 1 fiches
 
 - **impact_mesuré** : -3% intelligence (Opus 4.6 et 4.7)
+
+- **mesure** → « baisse de 3% d'intelligence (tests d'ablation) » (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 
 ### DX Annual 2026 {#DX-Annual-2026}
 
-**Type** : EVENEMENT | 0 relations | 1 fiches
+**Type** : EVENEMENT | 1 relations | 1 fiches
 
 - **catégorie** : Conférence productivité développeur
+
+- billet Dropbox **est_basé_sur** → DX Annual 2026 — 0.90
 
 **Fiches** : [[fiches/2026-05/dropbox-okumura-beyond-code-generation-engineering-productivity-ai-agents-2026-05-28\|Beyond code generation: rethinking engineering productivity in the age of AI agents]]
 
@@ -24296,11 +24816,14 @@
 
 ### IPO SPCX {#IPO-SPCX}
 
-**Type** : EVENEMENT | 1 relations | 1 fiches
+**Type** : EVENEMENT | 3 relations | 1 fiches
 
 - **détail** : Introduction au Nasdaq, ~135 $/action, valorisation ~1,75-1,8 billion $
 
 - **mesure** → « valorisation visée ~1,75-1,8 billion de dollars » (MESURE) — 0.90
+
+- [[kb/SpaceX\|SpaceX]] **publie** → IPO SPCX — 0.95
+- [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] **s_applique_à** → IPO SPCX — 0.84
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
@@ -24311,14 +24834,6 @@
 - **résultat** : Fix + learning + test de régression + doctrine AGENTS.md (classe de défaillance retirée)
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
-
-### Inflection Opus 4 mai 2025 {#Inflection-Opus-4-mai-2025}
-
-**Type** : EVENEMENT | 0 relations | 1 fiches
-
-- **description** : Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF
-
-**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 
 ### Intégration Chrome Perplexity {#Intégration-Chrome-Perplexity}
 
@@ -24355,14 +24870,6 @@
 - **description** : Programme volontaire de départ McKinsey avril 2024 — 9 mois de salaire offerts, mécanisme de réduction effectif douce
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
-
-### One-year retrospective Claude Code {#One-year-retrospective-Claude-Code}
-
-**Type** : EVENEMENT | 0 relations | 1 fiches
-
-- **description** : Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×)
-
-**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
 ### PlatformCon 2022 {#PlatformCon-2022}
 
@@ -24524,7 +25031,7 @@
 
 - **facteurs** : layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation
 
-- **s_oppose_à** → règles idéalisées d'escalation (CONCEPT) — 0.87
+- **s_oppose_à** → [[kb/_entites-mineures#escalation\|escalation]] (CONCEPT) — 0.87
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
@@ -24561,6 +25068,14 @@
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]], [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
+### inflexion de mai 2025 {#inflexion-de-mai-2025}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF
+
+**Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+
 ### migration 33 endpoints {#migration-33-endpoints}
 
 **Type** : EVENEMENT | 0 relations | 1 fiches
@@ -24569,21 +25084,33 @@
 
 **Fiches** : [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
+### rétrospective d'un an {#rétrospective-d'un-an}
+
+**Type** : EVENEMENT | 0 relations | 1 fiches
+
+- **description** : Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×)
+
+**Fiches** : [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
+
 ## LIEU (5)
 
 ### Benin City {#Benin-City}
 
-**Type** : LIEU | 0 relations | 1 fiches
+**Type** : LIEU | 1 relations | 1 fiches
 
 - **pays** : Nigeria
 
+- [[kb/Programme-de-tutorat-IA\|Programme de tutorat IA]] **observé_dans** → Benin City — 0.99
+
 **Fiches** : [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
-### Loudon County data centers {#Loudon-County-data-centers}
+### Loudon County {#Loudon-County}
 
-**Type** : LIEU | 0 relations | 1 fiches
+**Type** : LIEU | 1 relations | 1 fiches
 
 - **description** : Loudon County (Northern Virginia, ground zero data centers US) — data centers généreront $1,3 Md sur $2,9 Md revenus fiscaux 2027 (~45%). Tension dépendance fiscale vs opposition publique
+
+- **mesure** → « ~45% des revenus fiscaux 2027 issus des data centers » (MESURE) — 0.94
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
@@ -24599,12 +25126,14 @@
 
 ### Singapour {#Singapour}
 
-**Type** : LIEU | 1 relations | 2 fiches
+**Type** : LIEU | 2 relations | 2 fiches
 
 - **région** : Asie du Sud-Est, pays à revenu élevé
 - **rôle** : Hub neutre pour relocalisation
 
 - **mesure** → « usage Claude par habitant parmi les plus élevés » (MESURE) — 0.93
+
+- [[kb/Manus-organisation\|Manus]] **observé_dans** → Singapour — 0.95
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]], [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
@@ -24618,7 +25147,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (114)
+## DOCUMENT (112)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24626,7 +25155,7 @@
 
 - **définition** : Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$)
 
-- Rohit **publie** → 2026 AI engineer roadmap — 0.97
+- [[kb/Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] **publie** → 2026 AI engineer roadmap — 0.97
 
 **Fiches** : [[fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04\|the 2026 ai engineer roadmap]]
 
@@ -24650,11 +25179,13 @@
 
 ### ADR {#ADR}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 1 fiches
 
 - **nature** : Architecture Decision Record (docs/adr/), créé sous 3 critères
 
-- **fait_partie_de** → docs/adr/ (CONCEPT) — 0.88
+- **fait_partie_de** → [[kb/_entites-mineures#ADR\|ADR]] (CONCEPT) — 0.88
+
+- [[kb/_entites-mineures#ADR\|ADR]] **fait_partie_de** → ADR — 0.88
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
@@ -24680,25 +25211,14 @@
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 
-### AI-assisted engineers are burning out {#AI-assisted-engineers-are-burning-out}
-
-**Type** : DOCUMENT | 2 relations | 1 fiches
-
-- **description** : Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions
-
-- [[kb/Ivan-Chepurin\|Ivan Chepurin]] **publie** → AI-assisted engineers are burning out — 0.97
-- [[kb/_entites-mineures#Travis-Turner\|Travis Turner]] **publie** → AI-assisted engineers are burning out — 0.97
-
-**Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
-
 ### After Automation {#After-Automation}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **description** : Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath
 
-- **converge_avec** → Ng No AI Jobpocalypse + Tatsyi Raiffeisen + Curran Intercom + Mollick FDE (CONCEPT) — 0.92
-- **s_oppose_à** → Sun NYT Permanent Underclass + Wallace-Wells AI Populism (tension productive) (CONCEPT) — 0.91
+- **converge_avec** → convergence des retours d'expérience (CONCEPT) — 0.92
+- **s_oppose_à** → tension productive avec les tribunes NYT (CONCEPT) — 0.91
 
 - [[kb/Dan-Shipper\|Dan Shipper]] **publie** → After Automation — 0.98
 
@@ -24759,22 +25279,13 @@
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 
-### Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect {#Anthropic-pauses-Claude-Agent-SDK-subscription-change-on-day-it-was-due-to-take-effect}
-
-**Type** : DOCUMENT | 2 relations | 1 fiches
-
-- **catégorie** : Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire
-
-- The New Stack **publie** → Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect — 0.98
-- [[kb/_entites-mineures#Paul-Sawers\|Paul Sawers]] **a_créé** → Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect — 0.96
-
-**Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
-
 ### Antiqua et nova {#Antiqua-et-nova}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **catégorie** : Note conjointe Dicastère pour la Doctrine de la Foi + Dicastère pour la Culture et l'Éducation (14 janvier 2025) sur l'IA — source magistérielle prochaine la plus citée dans Magnifica Humanitas
+
+- [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **est_basé_sur** → Antiqua et nova — 0.98
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -24788,21 +25299,16 @@
 
 ### BYO Agent with M5Stack Stick 3 {#BYO-Agent-with-M5Stack-Stick-3}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **catégorie** : Billet de bricolage / REX exploratoire
 
+- **utilise** → données publiques via fetch() (Wikipedia) (CONCEPT) — 0.90
+
 - [[kb/Mark-Dembo\|Mark Dembo]] **publie** → BYO Agent with M5Stack Stick 3 — 0.97
+- [[kb/Mark-Dembo\|Mark Dembo]] **a_créé** → BYO Agent with M5Stack Stick 3 — 0.96
 
 **Fiches** : [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
-
-### Bain série 5 volets software age of AI {#Bain-série-5-volets-software-age-of-AI}
-
-**Type** : DOCUMENT | 0 relations | 1 fiches
-
-- **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
-
-**Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
 
 ### Beyond Zero: Enterprise security for the AI era {#Beyond-Zero-Enterprise-security-for-the-AI-era}
 
@@ -24856,17 +25362,20 @@
 
 - **rôle** : Pointe vers les CONTEXT.md/docs/adr de chaque bounded context
 
-- **référence** → CONTEXT.md de chaque bounded context (DOCUMENT) — 0.87
+- **référence** → [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] (DOCUMENT) — 0.87
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
 ### CONTEXT.md {#CONTEXT-md}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **nature** : Glossaire du vocabulaire métier (sans détails d'implémentation)
 
 - **est_instance_de** → glossaire du domaine (CONCEPT) — 0.92
+
+- [[kb/grill-with-docs\|grill-with-docs]] **permet** → CONTEXT.md — 0.90
+- [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] **référence** → CONTEXT.md — 0.87
 
 **Fiches** : [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
@@ -24951,11 +25460,13 @@
 
 ### Fichier mémoire {#Fichier-mémoire}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 1 fiches
 
 - **chemin** : ~/.claude/projects/<projet>/memory/delegate-coding-to-subagents.md (type: feedback)
 
 - **affirme_que** → « "implementation work rarely needs the top-tier model; judgment, review, and synthesis stay with the main loop" » (CITATION) — 0.92
+
+- [[kb/Claude-Code\|Claude Code]] **a_créé** → Fichier mémoire — 0.95
 
 **Fiches** : [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
@@ -25016,9 +25527,11 @@
 
 ### HBR study 2026 cognitive exhaustion {#HBR-study-2026-cognitive-exhaustion}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Étude Harvard Business Review 2026 confirmant *« cognitive exhaustion from intensive oversight of AI agents is both real and significant »* — citée par Chepurin/Turner
+
+- **soutient** → cognitive exhaustion AI oversight (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
@@ -25036,7 +25549,7 @@
 
 - **catégorie** : REX ingénierie data (Enterprise AI, blog Anthropic)
 
-- équipe Data Science Anthropic **publie** → How Anthropic enables self-service data analytics with Claude — 0.97
+- [[kb/équipe-Data-Science-&-Data-Engineering-Anthropic\|équipe Data Science & Data Engineering Anthropic]] **publie** → How Anthropic enables self-service data analytics with Claude — 0.97
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
@@ -25074,9 +25587,11 @@
 
 ### IA et emploi : le vrai risque, c'est le décrochage {#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **catégorie** : Point de vue SFEIR (23 juil. 2026) commentant Trésor-Éco n°391
+
+- [[kb/SFEIR\|SFEIR]] **publie** → IA et emploi : le vrai risque, c'est le décrochage — 0.98
 
 **Fiches** : [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
@@ -25104,12 +25619,14 @@
 
 ### L'IA fait tomber les murs entre les métiers {#L'IA-fait-tomber-les-murs-entre-les-métiers}
 
-**Type** : DOCUMENT | 2 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **catégorie** : Point de vue SFEIR (1er août 2026) reliant l'expérience P&G et le rapport OpenAI à la bascule SBO du cabinet
 
 - **référence** → [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] (DOCUMENT) — 0.98
 - **référence** → [[kb/Work-at-the-Frontier\|Work at the Frontier]] (DOCUMENT) — 0.98
+
+- [[kb/SFEIR\|SFEIR]] **publie** → L'IA fait tomber les murs entre les métiers — 0.98
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
@@ -25156,12 +25673,14 @@
 
 ### Learning {#Learning}
 
-**Type** : DOCUMENT | 2 relations | 1 fiches
+**Type** : DOCUMENT | 3 relations | 1 fiches
 
 - **définition** : 1 markdown = 1 problème résolu sous docs/solutions/<category>/, frontmatter orienté recherche
 
 - **fait_partie_de** → [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] (DOCUMENT) — 0.95
 - **est_basé_sur** → frontmatter conçu pour la recherche (grep-first) (CONCEPT) — 0.92
+
+- [[kb/ce-compound\|ce:compound]] **permet** → Learning — 0.93
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
@@ -25261,19 +25780,23 @@
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
-### Pew Research 2025 inquiétude IA {#Pew-Research-2025-inquiétude-IA}
+### Pew Research 2025 {#Pew-Research-2025}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Étude Pew Research 2025 — 50% Américains plus inquiets qu'enthousiastes IA, seulement 10% plus enthousiastes. Écart 40 points "yawning gap" Wallace-Wells
+
+- **mesure** → « 50% Américains plus inquiets vs 10% plus enthousiastes IA » (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 
 ### Platform Strategy {#Platform-Strategy}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Livre en cours d'écriture par Gregor Hohpe (Leanpub), sous-titre *Accelerating Innovation Through Harmonization and Reuse*
+
+- [[kb/Gregor-Hohpe\|Gregor Hohpe]] **publie** → Platform Strategy — 0.95
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
@@ -25297,9 +25820,11 @@
 
 ### Quo vadis, humanitas ? {#Quo-vadis,-humanitas}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **catégorie** : Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas
+
+- [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] **est_basé_sur** → Quo vadis, humanitas ? — 0.97
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
@@ -25313,11 +25838,13 @@
 
 **Fiches** : [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
 
-### Refresh 2026 Ontology Pipeline {#Refresh-2026-Ontology-Pipeline}
+### Refresh 2026 {#Refresh-2026}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques
+
+- **affine** → [[kb/Ontology-Pipeline\|Ontology Pipeline]] (METHODOLOGIE) — 0.96
 
 **Fiches** : [[fiches/2026-05/talisman-modern-data-101-ontology-pipeline-refresh-2026-05-04\|The Ontology Pipeline™, Refresh: Where We Were, Where We Are, and Where We're Headed]]
 
@@ -25331,9 +25858,11 @@
 
 ### Responsible Scaling Policy {#Responsible-Scaling-Policy}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **portée** : Aurait influencé SB 53, NY RAISE Act, EU AI Act
+
+- [[kb/Anthropic\|Anthropic]] **publie** → Responsible Scaling Policy — 0.90
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
@@ -25431,18 +25960,24 @@
 
 ### The Batch {#The-Batch}
 
-**Type** : DOCUMENT | 0 relations | 2 fiches
+**Type** : DOCUMENT | 2 relations | 2 fiches
 
 - **type** : Newsletter hebdomadaire IA, numéro 350
 - **éditeur** : DeepLearning.AI (newsletter, issue 359)
+
+- **référence** → cocktail molotov au domicile de Sam Altman (SF) (EVENEMENT) — 0.92
+
+- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] **publie** → The Batch — 0.99
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]], [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
 ### The Batch n°352 {#The-Batch-n°352}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **type** : Newsletter hebdomadaire IA, 8 mai 2026
+
+- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] **publie** → The Batch n°352 — 0.99
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
@@ -25505,9 +26040,11 @@
 
 ### The Great Flattening (Vorflux) {#The-Great-Flattening-(Vorflux)}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Essai-manifeste de Prasanna Sankar (14 juillet 2026) : les modèles de codage sont surhumains, le goulot d'étranglement bascule vers le harness, l'org chart change de forme
+
+- [[kb/Prasanna-Sankar\|Prasanna Sankar]] **publie** → The Great Flattening (Vorflux) — 0.98
 
 **Fiches** : [[fiches/2026-07/sankar-vorflux-great-flattening-manifesto-2026-07-14\|The Great Flattening]]
 
@@ -25530,14 +26067,6 @@
 - [[kb/Mozilla\|Mozilla]] **publie** → The state of open source AI — 0.98
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
-
-### Thoughtworks blog Generative AI section {#Thoughtworks-blog-Generative-AI-section}
-
-**Type** : DOCUMENT | 0 relations | 1 fiches
-
-- **description** : Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025
-
-**Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
 ### Token Budget Wars {#Token-Budget-Wars}
 
@@ -25582,49 +26111,75 @@
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
-### What Anthropic's New Claude Billing Means for Zed Users {#What-Anthropic's-New-Claude-Billing-Means-for-Zed-Users}
+### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
 
-- **catégorie** : Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension
-
-- [[kb/Zed\|Zed]] **publie** → What Anthropic's New Claude Billing Means for Zed Users — 0.98
-
-**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
-
-### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
-
-**Type** : DOCUMENT | 0 relations | 1 fiches
-
 - **référence** : Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure
+
+- [[kb/Scrapfly\|Scrapfly]] **publie** → Your Browser Does Math Differently on Every OS — 0.97
 
 **Fiches** : [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
 
 ### Zero Trust for Agents {#Zero-Trust-for-Agents}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **rôle** : Framework Anthropic dont ce billet est le compagnon d'implémentation
 
+- [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
+
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### article de Paul Sawers (16 juin 2026) {#article-de-Paul-Sawers-(16-juin-2026)}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire
+
+- The New Stack **publie** → article de Paul Sawers (16 juin 2026) — 0.98
+- [[kb/_entites-mineures#Paul-Sawers\|Paul Sawers]] **a_créé** → article de Paul Sawers (16 juin 2026) — 0.96
+
+**Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
+
+### billet Zed sur la facturation Claude {#billet-Zed-sur-la-facturation-Claude}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension
+
+- [[kb/Zed\|Zed]] **publie** → billet Zed sur la facturation Claude — 0.98
+
+**Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+
+### blog Generative AI (Thoughtworks) {#blog-Generative-AI-(Thoughtworks)}
+
+**Type** : DOCUMENT | 0 relations | 1 fiches
+
+- **description** : Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025
+
+**Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
 ### docs/solutions/ {#docs-solutions}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 1 fiches
 
 - **census** : 35 learnings, 6 catégories, skill-design en tête (20)
 
 - [[kb/_entites-mineures#Learning\|Learning]] **fait_partie_de** → docs/solutions/ — 0.95
+- [[kb/Compounding-Knowledge-Lifecycle\|Compounding Knowledge Lifecycle]] **est_basé_sur** → docs/solutions/ — 0.94
 
 **Fiches** : [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
 ### draft-klrc-aiagent-auth-01 {#draft-klrc-aiagent-auth-01}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 1 fiches
 
 - **catégorie** : Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber
 
 - **s_applique_à** → authentification et autorisation des agents IA (CONCEPT) — 0.94
+
+- [[kb/Uber-Engineering\|Uber Engineering]] **converge_avec** → draft-klrc-aiagent-auth-01 — 0.96
 
 **Fiches** : [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
@@ -25643,9 +26198,11 @@
 
 ### guide CPO FinOps (Finout) {#guide-CPO-FinOps-(Finout)}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **structure** : 4 parties : LLM workflows → RAG → agents → agentique
+
+- [[kb/Finout\|Finout]] **publie** → guide CPO FinOps (Finout) — 0.97
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
 
@@ -25690,13 +26247,13 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
-### rapport interne x-algorithm growth {#rapport-interne-x-algorithm-growth}
+### série 5 volets software age of AI {#série-5-volets-software-age-of-AI}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
 
-- **rôle** : Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques
+- **description** : Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor
 
-**Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+**Fiches** : [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
 
 ### Étude BCG HBR mars 2026 {#Étude-BCG-HBR-mars-2026}
 
@@ -25721,19 +26278,21 @@
 
 ### Étude Shaw & Nave {#Étude-Shaw-&-Nave}
 
-**Type** : DOCUMENT | 0 relations | 1 fiches
+**Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **description** : Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur
 
+- **mesure** → « 73% d'acceptation de réponses IA fausses » (MESURE) — 0.97
+
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 
-### étude transformation travail par IA {#étude-transformation-travail-par-IA}
+### étude sur la transformation du travail {#étude-sur-la-transformation-du-travail}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **date** : août 2025
 - **participants** : 132 enquêtés, 53 entretiens
 
-- [[kb/Anthropic\|Anthropic]] **publie** → étude transformation travail par IA — 0.98
+- [[kb/Anthropic\|Anthropic]] **publie** → étude sur la transformation du travail — 0.98
 
 **Fiches** : [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]

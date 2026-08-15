@@ -78,12 +78,12 @@ L'article conclut que l'écosystème est encore très jeune mais prometteur, ave
 | ChatGPT App | TECHNOLOGIE | utilise | widgets iframes | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Gadget | ORGANISATION | recommande | StreamableHTTPServerTransport | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | OpenAI | ORGANISATION | publie | ChatGPT Apps SDK | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| ChatGPT Apps SDK | TECHNOLOGIE | utilise | OAuth 2.1 provider | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| ChatGPT Apps SDK | TECHNOLOGIE | utilise | OAuth 2.1 | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Vite | TECHNOLOGIE | améliore | développement widgets ChatGPT | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | window.openai | TECHNOLOGIE | permet | authentification gratuite | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | CORS | CONCEPT | s_oppose_à | développement ChatGPT Apps | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | MCP Inspector | TECHNOLOGIE | améliore | débogage MCP | METHODOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
-| Gadget | ORGANISATION | s_oppose_à | exemples officiels OpenAI | CONCEPT | 0.88 | STATIQUE | inféré |
+| Gadget | ORGANISATION | s_oppose_à | OpenAI | CONCEPT | 0.88 | STATIQUE | inféré |
 
 ### Entités
 

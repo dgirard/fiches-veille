@@ -12,7 +12,7 @@
 
 - [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
-- Solario en utilisant Solario (dogfooding) (TECHNOLOGIE) — 0.96, STATIQUE
+- [[kb/_entites-mineures#Solario\|Solario]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### affirme_que

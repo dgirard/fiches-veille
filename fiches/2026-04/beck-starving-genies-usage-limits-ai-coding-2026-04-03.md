@@ -73,7 +73,7 @@ L'article se conclut sur une ironie douce : Beck dit « croire totalement » qu'
 | Power users | CONCEPT | utilise | abonnements premium grand public (sous contrainte des plafonds) | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Développeurs | CONCEPT | utilise | API avec pricing au compteur | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Distillation, caching, routage, silicon custom | TECHNOLOGIE | réduit | coût de l'inférence IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Google | ORGANISATION | a_créé | TPU (puces custom) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | a_créé | Google TPU | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | surpasse | concurrents dépendants des allocations GPU Nvidia | CONCEPT | 0.85 | DYNAMIQUE | inféré |
 | Anthropic | ORGANISATION | utilise | limites d'usage simultanées | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Phase Expand | CONCEPT | est_instance_de | croissance en escalier avec ressources limitantes | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
@@ -91,3 +91,4 @@ L'article se conclut sur une ironie douce : Beck dit « croire totalement » qu'
 | Nvidia H100 | TECHNOLOGIE | description | GPU haute performance pour inférence IA, ressource rare et disputée | AJOUT |
 | Google TPU | TECHNOLOGIE | description | Puces custom Google pour IA, avantage structurel vs concurrents dépendants Nvidia | AJOUT |
 | Distillation de modèles | TECHNOLOGIE | description | Technique réduisant les coûts d'inférence en transférant les connaissances d'un grand modèle vers un plus petit | AJOUT |
+| Google | ORGANISATION | rôle | Concepteur des TPU, cité pour son avantage de coût d'inférence | AJOUT |

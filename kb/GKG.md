@@ -1,6 +1,6 @@
 # GKG
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -36,6 +36,12 @@
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 - [[kb/_entites-mineures#Kuzu\|Kuzu]] (TECHNOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
+- serveur MCP local (TECHNOLOGIE) — 0.92, ATEMPOREL
+  - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
+
+## Relations (comme objet)
+
+- [[kb/Compare-the-Market\|Compare the Market]] **a_créé** → GKG — 0.92
 
 ## Fiches sources
 

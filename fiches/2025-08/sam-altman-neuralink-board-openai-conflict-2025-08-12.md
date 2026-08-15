@@ -77,7 +77,7 @@ Les réactions sont vivement partagées : enthousiasme des transhumanistes et de
 | Neuralink | ORGANISATION | a_créé | interface cerveau-ordinateur | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | OpenAI | ORGANISATION | converge_avec | Neuralink | ORGANISATION | 0.85 | DYNAMIQUE | inféré |
 | FDA | ORGANISATION | s_applique_à | Neuralink | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
-| FTC | ORGANISATION | s_applique_à | coordination OpenAI-Neuralink | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
+| FTC | ORGANISATION | s_applique_à | coordination des conseils | CONCEPT | 0.82 | DYNAMIQUE | déclaré_article |
 | interface cerveau-ordinateur | TECHNOLOGIE | permet | données neurales | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | données neurales | CONCEPT | s_oppose_à | vie privée cognitive | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | nomination Sam Altman au conseil Neuralink | EVENEMENT | a_créé | conflit d'intérêts | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |

@@ -72,7 +72,7 @@ Johnson conclut que l'intégration du domaine est primordiale pour libérer la p
 | Andrej Karpathy | PERSONNE | a_créé | context engineering | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | DICE | METHODOLOGIE | utilise | modèle de domaine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | modèle de domaine | CONCEPT | améliore | intégration systèmes existants | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Embabel | ORGANISATION | utilise | approche DICE | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Embabel | ORGANISATION | utilise | DICE | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | s_oppose_à | DICE | METHODOLOGIE | 0.75 | ATEMPOREL | inféré |
 | Martin Fowler | PERSONNE | a_créé | bounded contexts | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | bounded contexts | CONCEPT | fait_partie_de | modèle de domaine | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |

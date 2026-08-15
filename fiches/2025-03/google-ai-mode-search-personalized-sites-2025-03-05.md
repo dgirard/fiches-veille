@@ -90,8 +90,8 @@ L'annonce d'AI Mode signale la **vision de Google pour le futur de la recherche*
 | AI Mode | TECHNOLOGIE | utilise | query fan-out | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | query fan-out | METHODOLOGIE | améliore | couverture de recherche | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | AI Mode | TECHNOLOGIE | s_oppose_à | modèle économique web traditionnel | CONCEPT | 0.85 | DYNAMIQUE | inféré |
-| AI Mode | TECHNOLOGIE | réduit | pertinence du SEO traditionnel | CONCEPT | 0.87 | DYNAMIQUE | inféré |
-| Google One AI Premium | TECHNOLOGIE | permet | accès à AI Mode (Labs) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| AI Mode | TECHNOLOGIE | réduit | SEO | CONCEPT | 0.87 | DYNAMIQUE | inféré |
+| Google One AI Premium | TECHNOLOGIE | permet | AI Mode | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | questions de copyright | CONCEPT | s_applique_à | AI Mode | TECHNOLOGIE | 0.82 | ATEMPOREL | inféré |
 | Google | ORGANISATION | concurrence | Microsoft Bing / Perplexity | ORGANISATION | 0.78 | DYNAMIQUE | inféré |
 

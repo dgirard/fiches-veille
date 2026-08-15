@@ -132,11 +132,11 @@ Quatre failure modes guettent : questions vagues produisant des outputs polis ma
 | Multi-agent setup | METHODOLOGIE | permet | productive disagreement | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Raw signals | CONCEPT | surpasse | polished summaries | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Question précise | CONCEPT | améliore | qualité de l'analyse | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Stress-testing | METHODOLOGIE | affine | interprétations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Stress-testing (Pawlowski) | METHODOLOGIE | affine | interprétations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Corpus persistence | METHODOLOGIE | permet | compounding analytical value | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Tension Map | METHODOLOGIE | est_basé_sur | Analysis of Competing Hypotheses | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
-| Richards Heuer | PERSONNE | a_créé | Analysis of Competing Hypotheses | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Analysis of Competing Hypotheses | METHODOLOGIE | fait_partie_de | méthodologie d'analyse de la CIA | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Tension Map | METHODOLOGIE | est_basé_sur | Analysis of Competing Hypotheses (ACH) | METHODOLOGIE | 0.85 | ATEMPOREL | inféré |
+| Richards Heuer | PERSONNE | a_créé | Analysis of Competing Hypotheses (ACH) | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Analysis of Competing Hypotheses (ACH) | METHODOLOGIE | fait_partie_de | méthodologie d'analyse de la CIA | METHODOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | Vague initial questions | CONCEPT | permet | outputs polis mais superficiels | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Decision Mode | METHODOLOGIE | permet | conversion des tensions en décisions stratégiques | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Marché | CONCEPT | est_instance_de | dynamic strain-field | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

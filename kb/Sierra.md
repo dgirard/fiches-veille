@@ -41,11 +41,11 @@
 
 - recrutement pour les forces (spikes) plutôt qu'absence de faiblesses (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
-- debugging interview (pilote) (METHODOLOGIE) — 0.92, DYNAMIQUE
+- [[kb/_entites-mineures#Debugging-interview\|Debugging interview]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 - optimisation continue de la performance de l'agent (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
-- entretien de débogage avec codebase et PR (pilote) (METHODOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#Entretien-de-débogage\|Entretien de débogage]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]

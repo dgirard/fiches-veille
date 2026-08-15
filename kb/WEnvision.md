@@ -61,7 +61,7 @@
 
 ### soutient
 
-- déploiement Almia (CONCEPT) — 0.85, DYNAMIQUE
+- [[kb/Almia\|Almia]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ### utilise

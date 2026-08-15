@@ -1,6 +1,6 @@
 # The Cybernetic Teammate
 
-> **Type** : DOCUMENT | 4 relations | 1 fiches sources
+> **Type** : DOCUMENT | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers\|L'IA fait tomber les murs entre les métiers]] **référence** → The Cybernetic Teammate — 0.98
+- [[kb/_entites-mineures#Procter-&-Gamble\|Procter & Gamble]] **observé_dans** → The Cybernetic Teammate — 0.93
 
 ## Fiches sources
 

@@ -78,7 +78,7 @@ Deux points renforcent l'argument. D'abord le rôle du **contexte** : grâce au 
 | article | DOCUMENT | référence | paradoxe de la productivité de Solow (1987) | CITATION | 0.88 | ATEMPOREL | déclaré_article |
 | Teamwork Graph | TECHNOLOGIE | améliore | précision de l'IA (+44 %) avec −48 % de tokens | MESURE | 0.87 | DYNAMIQUE | déclaré_article |
 | cadre de mesure à 4 dimensions | METHODOLOGIE | s_applique_à | Speed, Efficiency, Quality, Satisfaction | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
-| équipes Atlassian internes | ORGANISATION | surpasse | clients externes (1,35× plus de PR assistées mergées) | MESURE | 0.85 | STATIQUE | déclaré_article |
+| Atlassian | ORGANISATION | surpasse | clients externes (1,35× plus de PR assistées mergées) | MESURE | 0.85 | STATIQUE | déclaré_article |
 
 ### Entités
 

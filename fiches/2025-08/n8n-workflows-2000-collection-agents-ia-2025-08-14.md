@@ -99,3 +99,4 @@ Les workflows couvrent des scenarios variés : automatisation de réponses email
 | Docker | TECHNOLOGIE | usage | Déploiement multi-plateforme (amd64, arm64) | AJOUT |
 | GitHub Pages | TECHNOLOGIE | usage | Interface web de recherche en ligne | AJOUT |
 | automatisation d'agents IA | CONCEPT | bénéfice | Réduction du temps de développement | AJOUT |
+| GitHub | TECHNOLOGIE | rôle | Hébergeur du dépôt de workflows, dont Pages sert la documentation | AJOUT |

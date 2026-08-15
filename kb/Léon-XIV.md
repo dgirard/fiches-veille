@@ -1,6 +1,6 @@
 # Léon XIV
 
-> **Type** : PERSONNE | 28 relations | 1 fiches sources
+> **Type** : PERSONNE | 29 relations | 1 fiches sources
 
 ## Attributs
 
@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- colonialisme des données (concept) (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Colonialisme-des-données\|Colonialisme des données]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
 ### affirme_que
@@ -57,7 +57,7 @@
 
 ### référence
 
-- deux cités d'Augustin (CONCEPT) — 0.98, ATEMPOREL
+- [[kb/_entites-mineures#Deux-cités-(Augustin)\|Deux cités (Augustin)]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] (PERSONNE) — 0.96, STATIQUE
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
@@ -73,13 +73,15 @@
 
 ### s_oppose_à
 
-- agents moraux artificiels dans décisions létales (CONCEPT) — 0.99, ATEMPOREL
+- [[kb/_entites-mineures#Agents-moraux-artificiels-(refus)\|Agents moraux artificiels (refus)]] (CONCEPT) — 0.99, ATEMPOREL
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
-- l'alignement comme réponse suffisante (CONCEPT) — 0.98, ATEMPOREL
+- [[kb/_entites-mineures#Alignement-(critique-léonienne)\|Alignement (critique léonienne)]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
-- transhumanisme et posthumanisme (CONCEPT) — 0.98, ATEMPOREL
+- [[kb/_entites-mineures#Posthumanisme-(critique-léonienne)\|Posthumanisme (critique léonienne)]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
-- travail invisible des microtravailleurs (CONCEPT) — 0.98, DYNAMIQUE
+- [[kb/_entites-mineures#Transhumanisme-(critique-léonienne)\|Transhumanisme (critique léonienne)]] (CONCEPT) — 0.98, ATEMPOREL
+  - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
+- [[kb/_entites-mineures#Travail-invisible-(microtravailleurs)\|Travail invisible (microtravailleurs)]] (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 - déqualification des travailleurs par l'IA (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]

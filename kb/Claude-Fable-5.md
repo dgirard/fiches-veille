@@ -1,6 +1,6 @@
 # Claude Fable 5
 
-> **Type** : TECHNOLOGIE | 15 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 5 fiches sources
 
 ## Attributs
 
@@ -58,6 +58,7 @@
 
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Fable 5 — 0.99
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Fable 5 — 0.98
+- [[kb/_entites-mineures#Finding-Your-Unknowns\|Finding Your Unknowns]] **s_applique_à** → Claude Fable 5 — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **utilise** → Claude Fable 5 — 0.95
 
 ## Fiches sources

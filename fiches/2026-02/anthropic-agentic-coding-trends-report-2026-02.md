@@ -59,7 +59,7 @@ Le rapport insiste sur un paradoxe central : bien que les développeurs utilisen
 | Fountain | ORGANISATION | mesure | screening 50% plus rapide | MESURE | 0.95 | STATIQUE | déclaré_article |
 | TELUS | ORGANISATION | mesure | 500 000 heures économisées grâce à l'IA | MESURE | 0.96 | STATIQUE | déclaré_article |
 | Zapier | ORGANISATION | utilise | 800+ agents internes | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Augment Code | TECHNOLOGIE | est_basé_sur | Claude | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| Augment Code | TECHNOLOGIE | est_basé_sur | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Augment Code | TECHNOLOGIE | réduit | délai projet de 4-8 mois à 2 semaines | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | codage agentique | CONCEPT | améliore | cycle de développement logiciel (compression semaines → heures) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | agents IA | TECHNOLOGIE | remplace | tâches d'implémentation code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |

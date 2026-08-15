@@ -1,6 +1,6 @@
 # Raiffeisen Bank Ukraine
 
-> **Type** : ORGANISATION | 5 relations | 1 fiches sources
+> **Type** : ORGANISATION | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -27,6 +27,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/Hryhorii-Tatsyi\|Hryhorii Tatsyi]] **dirige** → Raiffeisen Bank Ukraine — 0.97
 - Retour des architectes seniors au développement actif **observé_dans** → Raiffeisen Bank Ukraine — 0.92
 
 ## Fiches sources

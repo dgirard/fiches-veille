@@ -48,7 +48,7 @@
 
 - [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
-- Ruby avec Sorbet (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#Sorbet\|Sorbet]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]

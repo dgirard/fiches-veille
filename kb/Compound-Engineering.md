@@ -78,11 +78,11 @@
 
 ## Relations (comme objet)
 
+- revue de code obligatoire **fait_partie_de** → Compound Engineering — 0.98
 - [[kb/Every\|Every]] **utilise** → Compound Engineering — 0.98
 - [[kb/Dan-Shipper\|Dan Shipper]] **a_créé** → Compound Engineering — 0.95
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **a_créé** → Compound Engineering — 0.95
 - [[kb/_entites-mineures#Trevin-Chow\|Trevin Chow]] **dirige** → Compound Engineering — 0.95
-- [[kb/Lattice\|Lattice]] **converge_avec** → Compound Engineering — 0.93
 - Fidelity Two **améliore** → Compound Engineering — 0.88
 - [[kb/Loop-Engineering\|Loop Engineering]] **converge_avec** → Compound Engineering — 0.82
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **converge_avec** → Compound Engineering — 0.82

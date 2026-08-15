@@ -1,6 +1,6 @@
 # Boucle de codage agentique
 
-> **Type** : METHODOLOGIE | 3 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
 
 ## Attributs
 
@@ -20,7 +20,9 @@
 
 ### utilise
 
-- product specification et evals (CONCEPT) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#Evals\|Evals]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
+- Product specification (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
 ## Fiches sources

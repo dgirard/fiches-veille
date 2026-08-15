@@ -56,10 +56,11 @@ La consequence est un changement fondamental du role du developpeur : la compete
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Cobus Greyling | PERSONNE | affirme_que | IDE devient optionnel pour agents | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| CLI | TECHNOLOGIE | remplace | IDE pour agents IA | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| CLI | TECHNOLOGIE | remplace | IDE | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | CLI | TECHNOLOGIE | remplace | MCP comme interface agents | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | Prompts | CONCEPT | remplace | frameworks orchestration | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| CLAUDE.md | TECHNOLOGIE | remplace | LangGraph et CrewAI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | remplace | LangGraph | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | remplace | CrewAI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Cobus Greyling | PERSONNE | affirme_que | un agent IA n'a pas les limitations cognitives humaines | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | IDE | TECHNOLOGIE | résout | limitations cognitives humaines | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | effondrement couche environnement | CONCEPT | observé_dans | Claude Code | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |

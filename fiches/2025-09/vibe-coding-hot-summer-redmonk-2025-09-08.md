@@ -63,9 +63,9 @@ En conclusion, le "Hot Vibe Code Summer" a été une période d'expérimentation
 | perte base de données production | EVENEMENT | observé_dans | Replit | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
 | fuites de données | EVENEMENT | observé_dans | MCP | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Windsurf | ORGANISATION | fait_partie_de | Cognition | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| équipe dirigeante Windsurf | PERSONNE | travaille_chez | Google DeepMind | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
+| équipe dirigeante | PERSONNE | travaille_chez | Google DeepMind | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | AWS | ORGANISATION | a_créé | Kiro | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| GitHub | ORGANISATION | publie | Spark | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| GitHub | ORGANISATION | publie | GitHub Spark | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Austin Parker | PERSONNE | recommande | observabilité du code généré par IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | vibe coding | METHODOLOGIE | améliore | accessibilité du développement logiciel | CONCEPT | 0.90 | ATEMPOREL | inféré |
 
@@ -89,3 +89,4 @@ En conclusion, le "Hot Vibe Code Summer" a été une période d'expérimentation
 | GitHub Spark | TECHNOLOGIE | catégorie | Plateforme génération d'applications full-stack par langage naturel | AJOUT |
 | Austin Parker | PERSONNE | affiliation | Honeycomb, directeur Open Source | AJOUT |
 | Kate Holterhoff | PERSONNE | affiliation | RedMonk, analyste | AJOUT |
+| GitHub | ORGANISATION | rôle | Éditeur de Spark, l'un des outils de la vague vibe coding recensée | AJOUT |

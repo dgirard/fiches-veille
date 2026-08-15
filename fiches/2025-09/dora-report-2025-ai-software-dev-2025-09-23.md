@@ -54,14 +54,14 @@ En conclusion, le rapport DORA 2025 fournit une feuille de route stratégique po
 | Derek DeBellis | PERSONNE | publie | Rapport DORA 2025 | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Google Cloud | ORGANISATION | publie | Rapport DORA 2025 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Rapport DORA 2025 | DOCUMENT | affirme_que | l'IA amplifie les dynamiques d'équipe existantes | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | améliore | livraison logicielle (throughput) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | réduit | stabilité livraison logicielle | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Platform Engineering | METHODOLOGIE | permet | adoption IA réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| IA (amplificateur) | TECHNOLOGIE | améliore | livraison logicielle (throughput) | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| IA (amplificateur) | TECHNOLOGIE | réduit | stabilité livraison logicielle | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| Platform Engineering | METHODOLOGIE | permet | adoption réussie | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | DORA AI Capabilities Model | METHODOLOGIE | affirme_que | il existe sept archétypes d'équipes, des défis fondamentaux aux high achievers harmonieux | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Rapport DORA 2025 | DOCUMENT | est_basé_sur | 5000 enquêtes professionnels | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | Rapport DORA 2025 | DOCUMENT | recommande | transformation organisationnelle | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Centrage utilisateur | CONCEPT | améliore | impact positif IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Architecture faiblement couplée | CONCEPT | améliore | gains liés à l'IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Centrage utilisateur | CONCEPT | améliore | impact positif mesuré | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Architecture faiblement couplée | CONCEPT | améliore | gains de productivité | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

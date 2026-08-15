@@ -97,3 +97,5 @@ Mistral AI prévoit d'introduire **segmentation des locuteurs, annotations audio
 | Whisper large-v3 | TECHNOLOGIE | catégorie | Modèle ASR open source (OpenAI) | AJOUT |
 | ElevenLabs Scribe | TECHNOLOGIE | catégorie | Modèle de transcription propriétaire | AJOUT |
 | Inworld | ORGANISATION | secteur | IA vocale / TTS | AJOUT |
+| Voxtral Mini Transcribe | TECHNOLOGIE | rôle | Variante de transcription pure de la famille Voxtral, la moins chère du lot | AJOUT |
+| Voxtral Small | TECHNOLOGIE | rôle | Variante 24 B de la famille Voxtral, destinée au déploiement à l'échelle | AJOUT |

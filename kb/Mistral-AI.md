@@ -32,7 +32,7 @@
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - Stellantis + TotalEnergies + BNP Paribas + MACGM (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- ADEME (ACV des modèles) (ORGANISATION) — 0.96, STATIQUE
+- [[kb/_entites-mineures#ADEME\|ADEME]] (ORGANISATION) — 0.96, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - Luxembourg (administration centrale) (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
@@ -55,7 +55,7 @@
 
 ### fait_partie_de
 
-- Campus IA (actionnaire très minoritaire) (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- [[kb/Campus-IA\|Campus IA]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### mesure

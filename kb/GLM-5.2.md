@@ -24,7 +24,7 @@
 
 - modèle à poids ouverts (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
-- modèle frontier open-weights (CONCEPT) — 0.82, STATIQUE
+- [[kb/open-weights\|open-weights]] (CONCEPT) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### mesure

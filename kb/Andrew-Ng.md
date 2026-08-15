@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- concept "AI jobapalooza" (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#AI-jobapalooza\|AI jobapalooza]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
 ### affirme_que

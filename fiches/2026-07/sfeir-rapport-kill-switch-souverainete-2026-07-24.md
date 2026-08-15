@@ -77,12 +77,12 @@ Ce **rapport de recherche interne SFEIR** est la base factuelle d'un futur artic
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| SFEIR | ORGANISATION | publie | Rapport de recherche « AI Kill Switch Act » : souveraineté, seuils et so what | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
-| rapport SFEIR kill switch | DOCUMENT | affine | AI Kill Switch Act | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
+| SFEIR | ORGANISATION | publie | rapport de recherche kill switch | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
+| rapport de recherche kill switch | DOCUMENT | affine | AI Kill Switch Act | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
 | AI Kill Switch Act | DOCUMENT | s_applique_à | covered entity ≥ 500 M$ de revenu IA ET covered technology > 100 M$ de compute (seuils cumulatifs) | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
 | AI Kill Switch Act | DOCUMENT | permet | au secrétaire du DHS, via la CISA, d'ordonner throttling, suspension ou arrêt d'un modèle frontier | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
-| rapport SFEIR kill switch | DOCUMENT | affirme_que | l'incident OpenAI/Hugging Face, survenu en red-teaming, ne déclencherait pas l'autorité d'urgence du texte | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
-| rapport SFEIR kill switch | DOCUMENT | affirme_que | la thèse « barrière très basse » est fausse au sens strict mais vraie par l'effet domino sur les clients | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
+| rapport de recherche kill switch | DOCUMENT | affirme_que | l'incident OpenAI/Hugging Face, survenu en red-teaming, ne déclencherait pas l'autorité d'urgence du texte | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
+| rapport de recherche kill switch | DOCUMENT | affirme_que | la thèse « barrière très basse » est fausse au sens strict mais vraie par l'effet domino sur les clients | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | coupure de Fable 5 et Mythos 5 | EVENEMENT | affirme_que | un « kill switch de fait » est déjà une réalité opérationnelle (19 jours de coupure mondiale, juin 2026) | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 | Department of Commerce | ORGANISATION | a_créé | ordre d'export coupant Fable 5 et Mythos 5 (lettre Lutnick → Amodei) | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | gating des modèles US fermés | CONCEPT | permet | le report de la demande vers l'open-weight chinois non « killable » (paradoxe du kill switch) | AFFIRMATION | 0.85 | DYNAMIQUE | déclaré_article |
@@ -90,14 +90,14 @@ Ce **rapport de recherche interne SFEIR** est la base factuelle d'un futur artic
 | Cloud Act | DOCUMENT | s_applique_à | souveraineté numérique européenne (accès extraterritorial US) | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | AWS, Microsoft, Google | ORGANISATION | mesure | 70 % du marché cloud européen (fournisseurs EU ~15 %) | MESURE | 0.88 | STATIQUE | déclaré_article |
 | Cato Institute | ORGANISATION | s_oppose_à | un pouvoir gouvernemental d'arrêt des modèles (risque de capture réglementaire) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
-| rapport SFEIR kill switch | DOCUMENT | recommande | une architecture multi-modèles avec bascule réellement testée et des clauses de continuité/réversibilité | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| rapport SFEIR kill switch | DOCUMENT | s_oppose_à | l'attribution à Ars Technica de l'angle « pouvoir donné à Trump » sans vérification directe | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
+| rapport de recherche kill switch | DOCUMENT | recommande | une architecture multi-modèles avec bascule réellement testée et des clauses de continuité/réversibilité | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
+| rapport de recherche kill switch | DOCUMENT | s_oppose_à | l'attribution à Ars Technica de l'angle « pouvoir donné à Trump » sans vérification directe | AFFIRMATION | 0.82 | STATIQUE | déclaré_article |
 
 ### Entités
 
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
-| rapport SFEIR kill switch | DOCUMENT | catégorie | Rapport de recherche interne SFEIR (prep éditoriale) sur l'AI Kill Switch Act, angle souveraineté EU | AJOUT |
+| rapport de recherche kill switch | DOCUMENT | catégorie | Rapport de recherche interne SFEIR (prep éditoriale) sur l'AI Kill Switch Act, angle souveraineté EU | AJOUT |
 | AI Kill Switch Act | DOCUMENT | disposition | Section 2220F du Homeland Security Act ; autorité DHS via CISA ; sanctions 2 M$/j (général) et 20 M$/j (urgence) | MISE_A_JOUR |
 | covered entity | CONCEPT | définition | Entité opérant/mettant à dispo une covered technology et tirant ≥ 500 M$ (affiliés inclus) de revenu IA | AJOUT |
 | covered technology | CONCEPT | définition | Système d'IA entraîné avec un compute dont le coût dépasse 100 M$ au prix marché du cloud US | AJOUT |

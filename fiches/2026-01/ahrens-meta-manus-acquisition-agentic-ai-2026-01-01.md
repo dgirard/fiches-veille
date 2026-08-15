@@ -70,7 +70,7 @@ Xiao Hong rejoint Meta comme Vice-Président avec son équipe, apportant une exp
 | Manus | ORGANISATION | mesure | valorisation de 2 milliards USD | MESURE | 0.98 | STATIQUE | déclaré_article |
 | Xiao Hong | PERSONNE | a_créé | Manus | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
 | Xiao Hong | PERSONNE | travaille_chez | Meta | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Manus | ORGANISATION | observé_dans | Singapour (relocalisée depuis la Chine mi-2025) | LIEU | 0.95 | STATIQUE | déclaré_article |
+| Manus | ORGANISATION | observé_dans | Singapour | LIEU | 0.95 | STATIQUE | déclaré_article |
 | Manus | ORGANISATION | utilise | architecture multi-agents | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Manus | ORGANISATION | surpasse | OpenAI Deep Research | TECHNOLOGIE | 0.80 | STATIQUE | déclaré_article |
 | Meta | ORGANISATION | prédit | intégration de Manus dans WhatsApp, Messenger, Instagram | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |

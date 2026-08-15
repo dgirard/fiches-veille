@@ -10,7 +10,7 @@
 
 ### permet
 
-- alignement des incitations fournisseur-client (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#Alignement-des-incitations\|Alignement des incitations]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
 
 ### remplace

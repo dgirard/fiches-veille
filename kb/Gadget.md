@@ -20,7 +20,7 @@
 
 ### s_oppose_à
 
-- exemples officiels OpenAI (CONCEPT) — 0.88, STATIQUE
+- [[kb/OpenAI\|OpenAI]] (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
 
 ## Fiches sources

@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- évaluations Next.js 16 (METHODOLOGIE) — 0.97, STATIQUE
+- [[kb/_entites-mineures#Next.js-16\|Next.js 16]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
 ### est_instance_de

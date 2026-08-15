@@ -80,7 +80,7 @@ Chaque leçon intègre un hook socratique provocateur, une exploration guidée, 
 | Enterprise Policy | CONCEPT | fait_partie_de | système de mémoire hiérarchique | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | MCP | TECHNOLOGIE | permet | connexion à outils externes | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | mode headless | METHODOLOGIE | permet | intégration CI/CD | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
-| pédagogie socratique | METHODOLOGIE | s_applique_à | formation Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| pédagogie socratique | METHODOLOGIE | s_applique_à | Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | hooks | TECHNOLOGIE | s_applique_à | événements PreToolUse et PostToolUse | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | FSRS | METHODOLOGIE | permet | mémorisation espacée des flashcards | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 

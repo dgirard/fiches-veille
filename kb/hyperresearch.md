@@ -1,6 +1,6 @@
 # hyperresearch
 
-> **Type** : METHODOLOGIE | 12 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 14 relations | 1 fiches sources
 
 ## Attributs
 
@@ -16,6 +16,16 @@
 - « le gate de lint attrape les défaillances structurelles mais ne garantit pas l'exactitude factuelle » (CITATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 - « une skill unique de 1200 lignes se fait évincer du contexte et l'orchestrateur en oublie silencieusement des étapes » (CITATION) — 0.95, STATIQUE
+  - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
+### converge_avec
+
+- l'architecture médaillon d'un corpus de veille en fichiers (CONCEPT) — 0.85, ATEMPOREL
+  - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
+
+### est_basé_sur
+
+- « markdown comme source de vérité et index SQLite reconstructible comme cache » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ### mesure

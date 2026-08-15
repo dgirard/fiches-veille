@@ -75,7 +75,7 @@ Dans ce point de vue publié sur sfeir.com (23 juillet 2026), **SFEIR** commente
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| SFEIR | ORGANISATION | publie | IA et emploi : le vrai risque, c'est le décrochage (article) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| SFEIR | ORGANISATION | publie | IA et emploi : le vrai risque, c'est le décrochage | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | SFEIR (article) | DOCUMENT | référence | Trésor-Éco n° 391 (DG Trésor) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | le vrai risque de l'IA sur l'emploi est le décrochage compétitif (non-adoption), pas la destruction d'emplois | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | paradoxe de Jevons | CONCEPT | s_applique_à | la demande de code (élasticité > 1 chez les développeurs) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

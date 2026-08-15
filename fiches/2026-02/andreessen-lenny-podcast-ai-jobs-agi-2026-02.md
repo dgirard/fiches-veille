@@ -62,14 +62,14 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage dans ce podcast ave
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Marc Andreessen | PERSONNE | affirme_que | la force de travail mondiale rétrécit indéfiniment | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Marc Andreessen | PERSONNE | affirme_que | l'IA arrive au bon moment face au déclin démographique | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
-| IA | TECHNOLOGIE | est_instance_de | pierre philosophale réalisée | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | est_instance_de | pierre philosophale | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | IA | TECHNOLOGIE | permet | transmutation du sable en pensée | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Marc Andreessen | PERSONNE | affirme_que | l'absence d'IA à l'école est un scandale | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
 | agents IA | TECHNOLOGIE | améliore | agence des enfants | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Mexican standoff | CONCEPT | réduit | avancement du développement produit | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Marc Andreessen | PERSONNE | affirme_que | l'AGI a trois définitions possibles (thèse PhD, auto-amélioration, évidence a posteriori) | AFFIRMATION | 0.94 | DYNAMIQUE | déclaré_article |
 | AGI | CONCEPT | est_basé_sur | capacité auto-amélioration | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Marc Andreessen | PERSONNE | est_instance_de | optimiste déterminé | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Marc Andreessen | PERSONNE | est_instance_de | optimisme déterminé | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | optimisme déterminé | CONCEPT | s_oppose_à | optimisme indéterminé | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Lenny Rachitsky | PERSONNE | collabore_avec | Marc Andreessen | PERSONNE | 0.99 | STATIQUE | déclaré_article |
 | Marc Andreessen | PERSONNE | a_créé | Andreessen Horowitz | ORGANISATION | 0.99 | STATIQUE | généré_assistant |
@@ -88,3 +88,4 @@ Marc Andreessen, co-fondateur d'Andreessen Horowitz, partage dans ce podcast ave
 | optimisme déterminé | CONCEPT | opposé | Optimisme indéterminé (avenir passif) | AJOUT |
 | pierre philosophale | CONCEPT | origine | Rêve alchimiste — transmutation de matériaux ordinaires | AJOUT |
 | déclin démographique | CONCEPT | portée | Mondial, permanent selon Andreessen | AJOUT |
+| optimisme indéterminé | CONCEPT | catégorie | Posture opposée à l'optimisme déterminé : attendre un futur meilleur sans plan pour l'obtenir | AJOUT |

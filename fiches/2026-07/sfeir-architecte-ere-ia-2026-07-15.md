@@ -66,7 +66,7 @@ En conclusion, l'IA n'est pas une menace mais un catalyseur : elle décharge l'a
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | SFEIR | ORGANISATION | s_inspire_de | Gregor Hohpe | PERSONNE | 0.95 | STATIQUE | déclaré_article |
 | Gregor Hohpe | PERSONNE | a_créé | The Software Architect Elevator | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Gregor Hohpe | PERSONNE | a_créé | métaphore de l'Ascenseur de l'Architecte | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Gregor Hohpe | PERSONNE | a_créé | Ascenseur de l'Architecte | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | l'architecte moderne devient un amplificateur d'intelligence plutôt qu'un oracle technique | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | Amplificateur d'intelligence | CONCEPT | remplace | architecte Oracle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | IA générative | TECHNOLOGIE | permet | génération de code et de conception à la demande | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |

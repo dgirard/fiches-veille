@@ -127,7 +127,7 @@ Analogie finale : "Vous n'embaucheriez pas un VP sur ses seuls scores au SAT. Ne
 | Ethan Mollick | PERSONNE | affirme_que | les benchmarks standards échouent à mesurer la performance tâche-spécifique | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | questions de valeur incertaine | CONCEPT | fait_partie_de | MMLU-Pro | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | publie | GDPval paper | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| GDPval | METHODOLOGIE | mesure | Jagged Frontier des capacités IA | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| GDPval | METHODOLOGIE | mesure | Jagged Frontier | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Claude 4.5 Sonnet | TECHNOLOGIE | surpasse | autres modèles en écriture | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Claude | TECHNOLOGIE | surpasse | ChatGPT en conseil financier | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
 | biais pro-risque dans évaluation idées | CONCEPT | observé_dans | Grok | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
@@ -154,3 +154,4 @@ Analogie finale : "Vous n'embaucheriez pas un VP sur ses seuls scores au SAT. Ne
 | OpenAI | ORGANISATION | secteur | IA / Recherche | AJOUT |
 | Simon Willison | PERSONNE | rôle | Practitioner IA, développeur, blogger | AJOUT |
 | GuacaDrone | CONCEPT | rôle | Cas test révélateur de biais d'évaluation des modèles | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle soumis à l'entretien, dont 4.5 Sonnet est la version testée | AJOUT |

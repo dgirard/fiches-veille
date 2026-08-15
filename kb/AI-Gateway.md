@@ -22,7 +22,7 @@
 
 ### utilise
 
-- AI Guard pour data redaction (CONCEPT) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#AI-Guard\|AI Guard]] (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
 ## Relations (comme objet)

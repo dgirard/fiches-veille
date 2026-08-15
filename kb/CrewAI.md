@@ -1,6 +1,6 @@
 # CrewAI
 
-> **Type** : TECHNOLOGIE | 1 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 2 relations | 3 fiches sources
 
 ## Attributs
 
@@ -13,6 +13,10 @@
 
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
+
+## Relations (comme objet)
+
+- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **remplace** → CrewAI — 0.85
 
 ## Fiches sources
 

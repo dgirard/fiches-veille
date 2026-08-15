@@ -91,3 +91,5 @@ Côté SDLC, il relie la revue aux métriques DORA : accélérer le débit de re
 | SWE-bench | DOCUMENT | rôle | Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) | AJOUT |
 | fausse sécurité | CONCEPT | définition | Illusion de qualité produite par la relecture humaine du code des agents | AJOUT |
 | property-based testing | METHODOLOGIE | rôle | Complément de vérification face aux limites du test automatisé classique | AJOUT |
+| revue de code agentique | METHODOLOGIE | catégorie | Revue conduite par des agents, opposée terme à terme à la revue humaine | AJOUT |
+| revue de code humaine | METHODOLOGIE | catégorie | Inspection par un pair, dont l'article conteste la tenue face au débit agentique | AJOUT |

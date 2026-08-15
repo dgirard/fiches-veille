@@ -66,7 +66,7 @@
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 - JSON-RPC 2.0 sur stdio (TECHNOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
-- Markdown (TECHNOLOGIE) — 0.92, ATEMPOREL
+- [[kb/_entites-mineures#Markdown\|Markdown]] (TECHNOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 - HTTP ou WebSocket pour les agents distants (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]

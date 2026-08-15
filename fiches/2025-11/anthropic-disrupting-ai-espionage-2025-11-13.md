@@ -231,3 +231,4 @@ Conseil aux équipes sécurité : expérimenter l'IA en défense (automatisation
 | capacités agentiques IA | CONCEPT | impact | Attaque autonome à 80-90% sans supervision humaine | AJOUT |
 | vibe hacking | CONCEPT | contexte | Précédent été 2025 — humains encore en boucle | AJOUT |
 | Anthropic Threat Intelligence | ORGANISATION | rôle | Analyse des données d'investigation via Claude | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle détourné dans la campagne décrite, distinct de l'agent Claude Code | AJOUT |

@@ -99,25 +99,25 @@ L'article s'articule directement avec **Meng To `design.md`** (HTML = "finished 
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Thariq Shihipar | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | fait_partie_de | équipe Claude Code | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| Thariq Shihipar | PERSONNE | recommande | HTML comme format de sortie par défaut | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
-| HTML | TECHNOLOGIE | remplace | Markdown pour artefacts agentiques longs | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Thariq Shihipar | PERSONNE | recommande | HTML (format de sortie agent) | METHODOLOGIE | 0.98 | ATEMPOREL | déclaré_article |
+| HTML (format de sortie agent) | TECHNOLOGIE | remplace | Markdown pour artefacts agentiques longs | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Thariq Shihipar | PERSONNE | affirme_que | Markdown devient restrictif au-delà de ~100 lignes | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
-| HTML | TECHNOLOGIE | permet | densité d'information (tables, CSS, SVG, scripts, canvas) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| HTML | TECHNOLOGIE | permet | interactivité bidirectionnelle (sliders, copy as prompt) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| HTML | TECHNOLOGIE | améliore | taux de lecture des specs et rapports | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| HTML | TECHNOLOGIE | résout | cognitive surrender / comprehension debt (lisibilité retrouvée) | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| HTML (format de sortie agent) | TECHNOLOGIE | permet | densité d'information (tables, CSS, SVG, scripts, canvas) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| HTML (format de sortie agent) | TECHNOLOGIE | permet | interactivité bidirectionnelle (sliders, copy as prompt) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| HTML (format de sortie agent) | TECHNOLOGIE | améliore | taux de lecture des specs et rapports | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| HTML (format de sortie agent) | TECHNOLOGIE | résout | Cognitive surrender (réponse) | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Claude Code | TECHNOLOGIE | utilise | codebase + MCP + git history + Chrome | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Opus 4.7 | TECHNOLOGIE | utilise | 1MM context window | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| 1MM context Opus 4.7 | CONCEPT | permet | absorption du coût tokens supplémentaire du HTML | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| 1MM context Opus 4.7 | CONCEPT | permet | HTML (format de sortie agent) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Throwaway HTML editor | METHODOLOGIE | utilise | export copy as JSON / markdown / prompt | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Thariq Shihipar | PERSONNE | s_oppose_à | skill-ification prématurée du pattern HTML | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Thariq Shihipar | PERSONNE | s_oppose_à | Anti-skill-ification | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Thariq Shihipar | PERSONNE | affirme_que | les diffs HTML sont bruyants et difficiles à reviewer (downside assumé) | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Génération HTML | METHODOLOGIE | mesure | 2-4× plus lente que Markdown | MESURE | 0.88 | ATEMPOREL | déclaré_article |
-| Frontend design plugin | TECHNOLOGIE | permet | production de HTML stylé par Claude | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Design system HTML unique | METHODOLOGIE | permet | cohérence stylistique cross-fichiers | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Article HTML effectiveness | DOCUMENT | converge_avec | design.md de Meng To (HTML = finished dish) | CONCEPT | 0.93 | ATEMPOREL | inféré |
-| Article HTML effectiveness | DOCUMENT | résout | comprehension debt d'Osmani (réponse opérationnelle) | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| Claude Code | TECHNOLOGIE | permet | artefacts HTML pour specs, PR, rapports, éditeurs jetables | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
+| HTML (format de sortie agent) | METHODOLOGIE | mesure | 2-4× plus lente que Markdown | MESURE | 0.88 | ATEMPOREL | déclaré_article |
+| Frontend design plugin | TECHNOLOGIE | permet | HTML (format de sortie agent) | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Design system HTML de référence | METHODOLOGIE | permet | cohérence stylistique cross-fichiers | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| Unreasonable effectiveness | DOCUMENT | converge_avec | design.md de Meng To (HTML = finished dish) | CONCEPT | 0.93 | ATEMPOREL | inféré |
+| Unreasonable effectiveness | DOCUMENT | résout | comprehension debt d'Osmani (réponse opérationnelle) | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Claude Code | TECHNOLOGIE | permet | HTML (format de sortie agent) | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | emploie | Thariq Shihipar | PERSONNE | 0.97 | DYNAMIQUE | déclaré_article |
 
 ### Entités

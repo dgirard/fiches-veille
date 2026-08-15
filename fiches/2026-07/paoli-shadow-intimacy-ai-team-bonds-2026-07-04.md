@@ -71,7 +71,7 @@ Remède : **nommer** — *shadow intimacy*, par analogie au Shadow IT — puis *
 | Shadow intimacy | CONCEPT | est_variante_de | Shadow IT | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | Shadow intimacy | CONCEPT | réduit | transfert de savoir tacite entre pairs | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Shadow intimacy | CONCEPT | réduit | signaux d'alerte précoce perçus par le manager | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| Shadow intimacy | CONCEPT | réduit | développement du jugement professionnel | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Shadow intimacy | CONCEPT | réduit | Jugement professionnel | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Pew Research | ORGANISATION | mesure | environ un travailleur américain sur cinq utilise l'IA au travail | MESURE | 0.9 | DYNAMIQUE | déclaré_article |
 | MIT Media Lab | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.9 | STATIQUE | déclaré_article |
 | MIT Media Lab | ORGANISATION | mesure | attachement émotionnel au modèle corrélé à plus de solitude et de dépendance | MESURE | 0.9 | STATIQUE | déclaré_article |

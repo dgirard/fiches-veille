@@ -70,7 +70,7 @@ Boris Cherny, créateur de Claude Code, partage dix conseils d'utilisation direc
 | Boris Cherny | PERSONNE | publie | conseils équipe Claude Code | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | a_créé | Claude Code | TECHNOLOGIE | 0.99 | DYNAMIQUE | inféré |
 | Claude Code | TECHNOLOGIE | utilise | git worktrees | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| amorriscode | PERSONNE | a_créé | support natif des git worktrees | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| amorriscode | PERSONNE | a_créé | git worktrees | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Claude Desktop app | TECHNOLOGIE | utilise | git worktrees | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | recommande | Plan mode | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Plan mode | METHODOLOGIE | améliore | qualité implémentation | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
@@ -79,8 +79,8 @@ Boris Cherny, créateur de Claude Code, partage dix conseils d'utilisation direc
 | Claude Code | TECHNOLOGIE | utilise | Slack MCP | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | BigQuery | TECHNOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | subagents | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| équipe Claude Code | ORGANISATION | recommande | Ghostty | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| Opus 4.5 | TECHNOLOGIE | s_applique_à | validation permissions subagents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| équipe produit | ORGANISATION | recommande | Ghostty | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Opus 4.5 | TECHNOLOGIE | s_applique_à | subagents | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

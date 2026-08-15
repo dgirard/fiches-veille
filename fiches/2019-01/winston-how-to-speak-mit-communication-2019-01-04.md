@@ -77,8 +77,8 @@ La clôture est cruciale : ne jamais dire « merci » (mouvement faible suggéra
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Patrick Winston | PERSONNE | recommande | techniques de communication orale | METHODOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Patrick Winston | PERSONNE | a_créé | formule K×P×t | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Patrick Winston | PERSONNE | recommande | empowerment promise au démarrage | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
-| Patrick Winston | PERSONNE | a_créé | étoile de Winston (5 S) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Patrick Winston | PERSONNE | recommande | Empowerment promise | METHODOLOGIE | 0.97 | ATEMPOREL | déclaré_article |
+| Patrick Winston | PERSONNE | a_créé | Étoile de Winston | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Tableau noir | TECHNOLOGIE | surpasse | slides pour enseigner | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Neurones miroirs | CONCEPT | permet | efficacité tableau noir et props | CONCEPT | 0.80 | ATEMPOREL | déclaré_article |
 | Processeur linguistique unique | CONCEPT | réduit | lecture et écoute simultanées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |

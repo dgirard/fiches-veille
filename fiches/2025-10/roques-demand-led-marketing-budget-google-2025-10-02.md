@@ -80,7 +80,7 @@ Le message central : le succès marketing en 2026 dépend de l'adoption de ce mo
 | Guillaume Roques | PERSONNE | recommande | KPI financièrement pertinents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Meridian | TECHNOLOGIE | s_applique_à | Marketing Mix Modeling | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Performance Max | TECHNOLOGIE | améliore | campagnes publicitaires en temps réel | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | est_instance_de | moteur stratégique du demand-led marketing | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| IA | TECHNOLOGIE | est_instance_de | Demand-led marketing | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | First-party data | CONCEPT | permet | flywheel IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | CMO | CONCEPT | collabore_avec | CFO | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Google Analytics | TECHNOLOGIE | permet | suivi complet du parcours client | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |

@@ -56,18 +56,18 @@ L'enseignement central, qui sert de titre-conclusion : **les points de break-eve
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Points de break-even 2026 | CONCEPT | mesure | −40 % par rapport aux points de break-even 2024 | MESURE | 0.95 | STATIQUE | déclaré_article |
-| TCO | CONCEPT | surpasse | Prix au token | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| TCO (Total Cost of Ownership) | CONCEPT | surpasse | Prix au token | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Token de sortie | CONCEPT | mesure | coût 4 à 5× celui du token d'entrée | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Coût du token | CONCEPT | est_basé_sur | Modèle | CONCEPT | 0.93 | ATEMPOREL | inféré |
 | Claude 4 Opus | TECHNOLOGIE | mesure | 15 $ entrée / 75 $ sortie par M tokens | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
 | GPT-4.1 nano | TECHNOLOGIE | mesure | 0,10 $ entrée / 0,40 $ sortie par M tokens | MESURE | 0.96 | DYNAMIQUE | déclaré_article |
 | LLM local | TECHNOLOGIE | mesure | parité atteinte à partir de 15-20 M tokens/jour | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
-| Prix de l'électricité | CONCEPT | s_applique_à | Point de break-even | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Tarifs UE électricité | CONCEPT | mesure | break-even repoussé de 40 à 60 % en volume quotidien | MESURE | 0.90 | STATIQUE | déclaré_article |
+| Électricité | CONCEPT | s_applique_à | Point de break-even | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Électricité | CONCEPT | mesure | break-even repoussé de 40 à 60 % en volume quotidien | MESURE | 0.90 | STATIQUE | déclaré_article |
 | RTX 5090 | TECHNOLOGIE | mesure | 1 999 $ MSRP | MESURE | 0.94 | DYNAMIQUE | déclaré_article |
 | Palier lourd local | CONCEPT | mesure | 7,15 $ par M tokens sur 36 mois | MESURE | 0.88 | DYNAMIQUE | déclaré_article |
 | Prompt caching | METHODOLOGIE | réduit | Coût d'entrée | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| SitePoint Team | ORGANISATION | publie | Analyse TCO LLM 2026 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| SitePoint | ORGANISATION | publie | Analyse TCO LLM 2026 | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -61,7 +61,7 @@ La question politique dépasse le texte lui-même : l'Europe choisit-elle de mai
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Digital Omnibus | EVENEMENT | remplace | fondations RGPD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| Digital Omnibus | EVENEMENT | remplace | RGPD | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Digital Omnibus | EVENEMENT | affine | données sensibles (Art. 9) | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Digital Omnibus | EVENEMENT | affine | intérêt légitime (Art. 6) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Digital Omnibus | EVENEMENT | réduit | droits individuels | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |

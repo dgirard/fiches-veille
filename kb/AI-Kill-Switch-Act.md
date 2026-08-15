@@ -39,7 +39,7 @@
 
 - [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] **a_créé** → AI Kill Switch Act — 0.95
 - [[kb/_entites-mineures#Ted-Lieu\|Ted Lieu]] **a_créé** → AI Kill Switch Act — 0.95
-- [[kb/rapport-SFEIR-kill-switch\|rapport SFEIR kill switch]] **affine** → AI Kill Switch Act — 0.92
+- [[kb/rapport-de-recherche-kill-switch\|rapport de recherche kill switch]] **affine** → AI Kill Switch Act — 0.92
 - Brad Carson **soutient** → AI Kill Switch Act — 0.90
 
 ## Fiches sources

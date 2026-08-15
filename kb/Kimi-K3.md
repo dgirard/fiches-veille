@@ -19,7 +19,7 @@
 
 ### est_instance_de
 
-- modèle frontier open-weights (CONCEPT) — 0.92, STATIQUE
+- [[kb/open-weights\|open-weights]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### mesure

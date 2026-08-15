@@ -66,10 +66,10 @@ L'article se conclut en qualifiant cette évolution de "masterclass en design pi
 | Google Sans Text | TECHNOLOGIE | est_variante_de | Google Sans | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Google Sans Flex | TECHNOLOGIE | permet | 6 axes variables | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Google | ORGANISATION | affirme_que | Google Sans Mono a échoué pour l'usage en programmation | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
-| Google Sans Code | TECHNOLOGIE | remplace | Google Sans Mono pour le code | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| Google | ORGANISATION | publie | Google Sans Flex en open source | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Google Sans Code | TECHNOLOGIE | remplace | Google Sans Code | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Google | ORGANISATION | publie | Google Sans Flex | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Google Sans | TECHNOLOGIE | s_applique_à | 20+ systèmes d'écriture | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| design piloté par les besoins | METHODOLOGIE | s_applique_à | évolution Google Sans | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| design piloté par les besoins | METHODOLOGIE | s_applique_à | Google Sans | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

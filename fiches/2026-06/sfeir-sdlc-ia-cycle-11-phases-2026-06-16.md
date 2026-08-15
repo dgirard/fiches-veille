@@ -79,7 +79,7 @@ L'article revendique une **convergence industrielle** avec l'ADLC (deux gates, �
 | SFEIR | ORGANISATION | publie | Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | a_créé | cycle SFEIR à 11 phases | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
-| cycle SFEIR à 11 phases | METHODOLOGIE | utilise | trois portes humaines (Define, Plan, Ship) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| cycle SFEIR à 11 phases | METHODOLOGIE | utilise | portes humaines | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | cycle SFEIR à 11 phases | METHODOLOGIE | utilise | deux moments de capitalisation (Compound-1, Compound-2) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | preuve d'exécution | METHODOLOGIE | réduit | la confiance accordée aux déclarations de l'agent | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | l'IA exécute des phases entières, elle n'assiste pas | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |

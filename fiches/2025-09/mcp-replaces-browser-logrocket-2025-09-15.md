@@ -54,16 +54,16 @@ Pour se préparer, les développeurs doivent se familiariser avec le fonctionnem
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | MCP | TECHNOLOGIE | remplace | navigateur web | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | est_instance_de | protocole ouvert | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | permet | accès structuré des agents IA aux outils et données | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | permet | accès structuré aux outils et données | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | agents IA | TECHNOLOGIE | utilise | outils externes | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | schémas structurés | CONCEPT | fait_partie_de | serveurs MCP | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | schémas structurés | CONCEPT | remplace | interfaces HTML/CSS | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | réduit | besoin de parsing HTML | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Peter Aideloje | PERSONNE | recommande | conception AI-first | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | MCP | TECHNOLOGIE | utilise | sécurité renforcée | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| API MCP | TECHNOLOGIE | améliore | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | améliore | compréhension machine | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Peter Aideloje | PERSONNE | publie | article MCP is replacing the browser | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Peter Aideloje | PERSONNE | recommande | adoption précoce de MCP | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| Peter Aideloje | PERSONNE | recommande | MCP | CONCEPT | 0.87 | STATIQUE | déclaré_article |
 
 ### Entités
 

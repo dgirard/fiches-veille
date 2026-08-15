@@ -78,7 +78,7 @@ Jude Gao de Vercel présente les résultats d'une évaluation comparative entre 
 | use cache | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | connection() | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | forbidden() | TECHNOLOGIE | fait_partie_de | Next.js 16 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
-| Vercel | ORGANISATION | a_créé | évaluations Next.js 16 | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Vercel | ORGANISATION | a_créé | Next.js 16 | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | documentation compressée | CONCEPT | réduit | contexte de 40 Ko à 8 Ko | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | skills | TECHNOLOGIE | mesure | non-invocation dans 56% des cas d'évaluation | MESURE | 0.99 | STATIQUE | déclaré_article |
 | CLAUDE.md | TECHNOLOGIE | est_variante_de | AGENTS.md | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |

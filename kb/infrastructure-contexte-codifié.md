@@ -1,6 +1,6 @@
 # infrastructure contexte codifié
 
-> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,11 @@
 - **métriques** : 283 sessions, 2801 prompts, 16522 tours autonomes
 
 ## Relations (comme sujet)
+
+### améliore
+
+- cohérence agents IA entre sessions (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 
 ### est_basé_sur
 
@@ -23,7 +28,8 @@
 
 ## Relations (comme objet)
 
-- agents spécialisés **fait_partie_de** → infrastructure contexte codifié — 0.96
+- [[kb/_entites-mineures#Aristidis-Vasilopoulos\|Aristidis Vasilopoulos]] **a_créé** → infrastructure contexte codifié — 0.98
+- [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] **fait_partie_de** → infrastructure contexte codifié — 0.96
 
 ## Fiches sources
 

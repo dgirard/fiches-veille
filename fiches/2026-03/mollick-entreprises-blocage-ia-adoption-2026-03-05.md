@@ -53,11 +53,11 @@ Ce post a genere un engagement massif (plus de 1 793 reactions, 288 commentaires
 | Ethan Mollick | PERSONNE | affirme_que | les departements IT/juridique bloquent encore l'IA dans de nombreuses entreprises | AFFIRMATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | travaille_chez | Wharton School | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | a_créé | Co-Intelligence | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
-| Entreprises regulees | CONCEPT | utilise | ChatGPT enterprise | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Entreprises regulees | CONCEPT | utilise | Claude enterprise | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Entreprises regulees | CONCEPT | utilise | Gemini enterprise | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Entreprises regulees | CONCEPT | utilise | ChatGPT | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Entreprises regulees | CONCEPT | utilise | Claude | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Entreprises regulees | CONCEPT | utilise | Gemini | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Leadership dirigeant | CONCEPT | permet | adoption IA en entreprise | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Aversion au risque | CONCEPT | réduit | adoption IA | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Aversion au risque | CONCEPT | réduit | Adoption IA en entreprise | CONCEPT | 0.90 | ATEMPOREL | inféré |
 | Departements IT/juridique | CONCEPT | utilise | reduction du risque | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | affirme_que | les modeles IA entreprise ne s'entrainent pas sur les donnees clients | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | fait_partie_de | outils IA deployes en entreprise | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |

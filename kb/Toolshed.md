@@ -1,6 +1,6 @@
 # Toolshed
 
-> **Type** : TECHNOLOGIE | 5 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 3 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,7 @@
 - [[kb/Stripe\|Stripe]] **a_créé** → Toolshed — 0.94
 - ~500 outils MCP **fait_partie_de** → Toolshed — 0.93
 - [[kb/Cloudflare\|Cloudflare]] **a_créé** → Toolshed — 0.90
+- [[kb/MCP\|MCP]] **fait_partie_de** → Toolshed — 0.88
 
 ## Fiches sources
 

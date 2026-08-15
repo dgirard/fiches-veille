@@ -1,6 +1,6 @@
 # migration cursor.com
 
-> **Type** : EVENEMENT | 4 relations | 1 fiches sources
+> **Type** : EVENEMENT | 5 relations | 1 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,10 @@
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
 - « 56 848$ économisés en coûts CDN » (MESURE) — 0.90, STATIQUE
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
+
+## Relations (comme objet)
+
+- [[kb/Lee-Robinson\|Lee Robinson]] **a_créé** → migration cursor.com — 0.97
 
 ## Fiches sources
 

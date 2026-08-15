@@ -82,12 +82,12 @@ Coût assumé : **5,9 Md tokens d'entrée non cachés + 690 M en sortie ≈ 165 
 | dynamic workflows | METHODOLOGIE | utilise | revue adversariale | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | revue adversariale | METHODOLOGIE | réduit | régressions du code généré par LLM | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | permet | ~64 Claude en parallèle pendant 11 jours (4 worktrees × 16) | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
-| réécriture de Bun en Rust | EVENEMENT | utilise | suite de tests TypeScript indépendante du langage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| réécriture de Bun en Rust | EVENEMENT | utilise | suite de tests indépendante du langage | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Jarred Sumner | PERSONNE | mesure | ~165 000 $ (5,9 Md tokens d'entrée non cachés, 690 M en sortie) pour la réécriture | MESURE | 0.9 | STATIQUE | déclaré_article |
 | Jarred Sumner | PERSONNE | recommande | corriger le processus qui génère le code plutôt que le code à la main | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Bun | TECHNOLOGIE | utilise | JavaScriptCore | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Bun | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
-| Bun (réécrit en Rust) | TECHNOLOGIE | améliore | démarrage de Claude Code de ~10 % sur Linux | MESURE | 0.85 | STATIQUE | déclaré_article |
+| Bun | TECHNOLOGIE | améliore | démarrage de Claude Code de ~10 % sur Linux | MESURE | 0.85 | STATIQUE | déclaré_article |
 | coverage-guided fuzzing | METHODOLOGIE | résout | bugs de parsers de Bun (100 Md exécutions → ~15 PRs) | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
 | Jarred Sumner | PERSONNE | affirme_que | one engineer can do a lot more today than a year ago | CITATION | 0.9 | ATEMPOREL | déclaré_article |
 

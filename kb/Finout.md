@@ -24,7 +24,7 @@
 
 ### publie
 
-- guide CPO FinOps des architectures IA (DOCUMENT) — 0.97, STATIQUE
+- [[kb/_entites-mineures#guide-CPO-FinOps-(Finout)\|guide CPO FinOps (Finout)]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
 
 ### recommande

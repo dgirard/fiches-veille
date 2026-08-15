@@ -81,3 +81,4 @@ Enfin, l'article met en lumière l'augmentation considérable de la surface d'at
 | non-déterminisme | CONCEPT | implication | rapprocher ingénierie logicielle des autres disciplines | AJOUT |
 | auto-complétion | METHODOLOGIE | outil_associé | GitHub Copilot | AJOUT |
 | agents navigateur | TECHNOLOGIE | statut_sécurité | fondamentalement défectueux selon Willison | AJOUT |
+| LLM | TECHNOLOGIE | catégorie | Brique générative dont l'article analyse le caractère non déterministe | AJOUT |

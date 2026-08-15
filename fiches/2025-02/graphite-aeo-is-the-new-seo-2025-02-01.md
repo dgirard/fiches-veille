@@ -61,7 +61,7 @@ Ce basculement oblige les entreprises à repenser radicalement leur stratégie d
 | règle des 5% | CONCEPT | s_applique_à | AEO | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Graphite.io | ORGANISATION | affirme_que | le Technical AEO génère peu d'impact | AFFIRMATION | 0.82 | ATEMPOREL | déclaré_article |
 | Share Of Answers | CONCEPT | remplace | SERP tracking | METHODOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
-| Graphite.io | ORGANISATION | a_créé | outil de recherche de questions AEO | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Graphite.io | ORGANISATION | a_créé | outil de recherche de questions | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | AEO | CONCEPT | utilise | contenu factuellement précis | CONCEPT | 0.91 | ATEMPOREL | inféré |
 
 ### Entités

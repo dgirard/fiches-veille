@@ -1,6 +1,6 @@
 # Nvidia
 
-> **Type** : ORGANISATION | 10 relations | 4 fiches sources
+> **Type** : ORGANISATION | 13 relations | 4 fiches sources
 
 ## Attributs
 
@@ -23,7 +23,7 @@
 
 ### concurrence
 
-- [[kb/_entites-mineures#Google-TPU\|Google TPU]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[kb/AMD\|AMD]] (ORGANISATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
@@ -35,6 +35,11 @@
 - [[kb/_entites-mineures#Nemotron-Nano-12B-v2-VL-FP8\|Nemotron-Nano-12B-v2-VL-FP8]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 
+### soutient
+
+- [[kb/Campus-IA\|Campus IA]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
+
 ### utilise
 
 - tokens comme primes (CONCEPT) — 0.75, DYNAMIQUE
@@ -43,6 +48,8 @@
 ## Relations (comme objet)
 
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → Nvidia — 0.95
+- [[kb/OpenAI\|OpenAI]] **utilise** → Nvidia — 0.95
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → Nvidia — 0.92
 - [[kb/Mistral-AI\|Mistral AI]] **utilise** → Nvidia — 0.88
 
 ## Fiches sources

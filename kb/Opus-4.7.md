@@ -1,6 +1,6 @@
 # Opus 4.7
 
-> **Type** : TECHNOLOGIE | 2 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,16 @@
 - **score_expert_pass1** : 48,6% (+-10,0%)
 
 ## Relations (comme sujet)
+
+### résout
+
+- identification rétrospective du bug de cache (EVENEMENT) — 0.93, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+
+### surpasse
+
+- [[kb/_entites-mineures#Opus-4.6\|Opus 4.6]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 
 ### utilise
 

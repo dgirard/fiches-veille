@@ -62,7 +62,7 @@ Bradley Shimmin de The Futurum Group avertit que les coûts pourraient augmenter
 | enquête adoption outils IA codage | DOCUMENT | mesure | 97% d'utilisation des outils IA au travail | MESURE | 0.98 | STATIQUE | déclaré_article |
 | Dion Hinchcliffe | PERSONNE | recommande | traiter le vibe coding comme une dépense de productivité essentielle | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Charlie Dai | PERSONNE | affirme_que | le coût cumulé peut égaler l'embauche d'un développeur pour les projets complexes | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
-| hausse des prix vibe coding | CONCEPT | s_applique_à | budgets DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| hausse des prix | CONCEPT | s_applique_à | budgets DSI | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | KVCache | TECHNOLOGIE | réduit | coût effectif par requête modèle | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Bradley Shimmin | PERSONNE | prédit | des coûts de vibe coding croissants avec l'expansion de la codebase | AFFIRMATION | 0.91 | DYNAMIQUE | déclaré_article |
 | The Futurum Group | ORGANISATION | emploie | Dion Hinchcliffe | PERSONNE | 0.99 | DYNAMIQUE | déclaré_article |

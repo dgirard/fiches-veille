@@ -74,7 +74,7 @@ Nicholas Carlini, chercheur de l'équipe Safeguards d'Anthropic, a dirigé une e
 | compilateur C en Rust | TECHNOLOGIE | mesure | 99% de réussite sur suites de tests | MESURE | 0.97 | STATIQUE | déclaré_article |
 | agents parallèles | METHODOLOGIE | utilise | Docker | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | agents parallèles | METHODOLOGIE | utilise | synchronisation par fichiers verrou | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| agents parallèles | METHODOLOGIE | utilise | GCC (oracle de référence) | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| agents parallèles | METHODOLOGIE | utilise | GCC | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | spécialisation par rôle | CONCEPT | améliore | agents parallèles | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | sécurité agents autonomes | CONCEPT | est_basé_sur | vérification humaine | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Nicholas Carlini | PERSONNE | affirme_que | la qualité des tests est critique pour les agents autonomes | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
@@ -98,3 +98,4 @@ Nicholas Carlini, chercheur de l'équipe Safeguards d'Anthropic, a dirigé une e
 | Linux 6.9 | TECHNOLOGIE | type | Noyau Linux | AJOUT |
 | sécurité agents autonomes | CONCEPT | risque | Déploiement de code non vérifié par humains | AJOUT |
 | spécialisation par rôle | CONCEPT | exemples | Déduplication, optimisation, critique design, documentation | AJOUT |
+| Claude Opus 4.5 | TECHNOLOGIE | rôle | Version antérieure servant de point de comparaison à Opus 4.6 sur l'expérience | AJOUT |

@@ -115,10 +115,10 @@ Problème n'est pas défaillance courage individuel mais design système récomp
 | cascade hiérarchique | CONCEPT | permet | amplification des dysfonctionnements | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
 | trip-wires automatiques | METHODOLOGIE | remplace | courage politique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | John Cutler | PERSONNE | recommande | démonstration immédiate de réduction de scope | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| WIP limits | METHODOLOGIE | réduit | pression d'escalation | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| contexte 2023-2025 | EVENEMENT | s_oppose_à | règles idéalisées d'escalation | CONCEPT | 0.87 | STATIQUE | déclaré_article |
+| WIP limits | METHODOLOGIE | réduit | escalation | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| contexte 2023-2025 | EVENEMENT | s_oppose_à | escalation | CONCEPT | 0.87 | STATIQUE | déclaré_article |
 | John Cutler | PERSONNE | recommande | forums légers récurrents | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
-| surengagement | CONCEPT | permet | coûts différés absorbés par les équipes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
+| pression surengagement | CONCEPT | permet | coûts différés absorbés par les équipes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | célébration du refus | METHODOLOGIE | soutient | protection de capacité | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
 
 ### Entités

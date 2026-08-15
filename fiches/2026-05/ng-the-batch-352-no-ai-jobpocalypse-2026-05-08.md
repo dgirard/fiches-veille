@@ -125,13 +125,13 @@ L'enjeu pour Ng n'est pas seulement intellectuel : protéger les décideurs et l
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Andrew Ng | PERSONNE | affirme_que | il n'y aura pas de jobpocalypse IA | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | dirige | DeepLearning.AI | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
-| DeepLearning.AI | ORGANISATION | publie | The Batch n°352 (8 mai 2026) | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| DeepLearning.AI | ORGANISATION | publie | The Batch n°352 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | affirme_que | trois moteurs structurels alimentent le narratif jobpocalypse | AFFIRMATION | 0.96 | STATIQUE | déclaré_article |
 | Labs IA | ORGANISATION | utilise | la narration transformative-disruptive | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Editeurs IA enterprise | ORGANISATION | utilise | salaires des employés remplacés comme ancre tarifaire | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Editeurs IA enterprise | ORGANISATION | mesure | 10 000$+/an facturés par client | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
 | Entreprises | ORGANISATION | affirme_que | les layoffs relèvent de l'"efficience IA" plutôt que de l'overhiring pandémique | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
-| Andrew Ng | PERSONNE | a_créé | concept "AI jobapalooza" | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Andrew Ng | PERSONNE | a_créé | AI jobapalooza | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Chômage US | CONCEPT | mesure | 4,3% en mai 2026 | MESURE | 0.99 | STATIQUE | déclaré_article |
 | Andrew Ng | PERSONNE | affirme_que | « AI disrupts work » | CITATION | 0.96 | ATEMPOREL | déclaré_article |
 | Andrew Ng | PERSONNE | affirme_que | AI jobapalooza = création de jobs en IA et champs adjacents | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
@@ -141,7 +141,7 @@ L'enjeu pour Ng n'est pas seulement intellectuel : protéger les décideurs et l
 | Édito Ng | DOCUMENT | converge_avec | case study Raiffeisen Bank Ukraine (Tatsyi) | CONCEPT | 0.88 | ATEMPOREL | inféré |
 | Édito Ng | DOCUMENT | converge_avec | thèse Karpathy Software 3.0 (nouveaux rôles) | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | Tech incentives | CONCEPT | soutient | narration transformative-disruptive des labs | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Récit "efficience IA" | CONCEPT | remplace | overhiring pandémique 2020-2022 comme explication des layoffs | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Récit "efficience IA" | CONCEPT | remplace | Overhiring pandémique 2020-2022 | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités
 

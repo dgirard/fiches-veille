@@ -1,6 +1,6 @@
 # goose
 
-> **Type** : TECHNOLOGIE | 8 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 7 fiches sources
 
 ## Attributs
 
@@ -38,6 +38,7 @@
 - [[kb/Block\|Block]] **a_créé** → goose — 0.98
 - [[kb/Block\|Block]] **publie** → goose — 0.97
 - [[kb/Block\|Block]] **utilise** → goose — 0.96
+- [[kb/Minions\|Minions]] **utilise** → goose — 0.96
 - [[kb/Minions\|Minions]] **est_basé_sur** → goose — 0.95
 
 ## Fiches sources

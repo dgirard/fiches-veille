@@ -66,7 +66,7 @@
 
 ### s_oppose_à
 
-- conflation vibe coding / engineering (CONCEPT) — 0.98, STATIQUE
+- conflation des deux pratiques (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
 ### travaille_chez

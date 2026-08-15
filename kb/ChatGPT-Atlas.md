@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- navigateur web conversationnel (CONCEPT) — 0.98, STATIQUE
+- [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 
 ### permet

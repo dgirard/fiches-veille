@@ -25,7 +25,7 @@
 
 ### est_instance_de
 
-- Chief People and Digital Technology Officer (CONCEPT) — 0.98, DYNAMIQUE
+- rôle de directeur People & Digital Technology (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
 
 ### prédit

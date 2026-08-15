@@ -21,7 +21,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] (DOCUMENT) — 0.97, STATIQUE
+- [[kb/AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
 ### recommande

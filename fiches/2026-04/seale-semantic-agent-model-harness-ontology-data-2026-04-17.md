@@ -74,7 +74,7 @@ Tony Seale, The Knowledge Graph Guy, identifie une déconnexion croissante dans 
 | Tony Seale | PERSONNE | publie | Semantic Agent post LinkedIn | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Tony Seale | PERSONNE | est_instance_de | The Knowledge Graph Guy (persona) | CONCEPT | 0.98 | DYNAMIQUE | déclaré_article |
 | Semantic Agent | CONCEPT | est_basé_sur | Model + Harness + Ontology + Data | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Harnais d'agent | CONCEPT | converge_avec | Ontologie (symétrie structurelle) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Harnais d'agent | CONCEPT | converge_avec | Ontologie | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Frameworks d'agents | TECHNOLOGIE | est_instance_de | Phase transitoire | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | LangGraph | TECHNOLOGIE | fait_partie_de | Frameworks d'agents | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | CrewAI | TECHNOLOGIE | fait_partie_de | Frameworks d'agents | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
@@ -83,7 +83,7 @@ Tony Seale, The Knowledge Graph Guy, identifie une déconnexion croissante dans 
 | Codex | TECHNOLOGIE | est_instance_de | Pattern modèle+harnais | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Ontologie | CONCEPT | permet | définition de ce qui existe, ses propriétés et relations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Modèles frontier | TECHNOLOGIE | est_instance_de | Commodité louée | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
-| Ontologie organisationnelle | CONCEPT | est_instance_de | Seul moat non-commoditisable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Ontologie | CONCEPT | est_instance_de | Seul moat non-commoditisable | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | affirme_que | les composants du harnais encodent des hypothèses qui vieillissent vite quand les modèles s'améliorent | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | Tony Seale | PERSONNE | affirme_que | des agents isolés sans modèle du monde partagé produisent de l'incohérence en combinaison | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Agents à l'échelle entreprise | CONCEPT | est_basé_sur | Modèle de domaine partagé | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |

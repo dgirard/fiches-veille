@@ -67,7 +67,7 @@ Le rapport conclut que le choix du langage influence directement l'efficacité d
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Andrej Karpathy | PERSONNE | soutient | Spec Drive Development | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| TypeScript | TECHNOLOGIE | surpasse | autres langages au classement Agent-Language Fit | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
+| TypeScript | TECHNOLOGIE | surpasse | Agent-Language Fit | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | TypeScript | TECHNOLOGIE | permet | typage graduel | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Rust | TECHNOLOGIE | réduit | efficacité du flux SDD (friction élevée) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Borrow Checker | TECHNOLOGIE | s_oppose_à | nature probabiliste LLM | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |

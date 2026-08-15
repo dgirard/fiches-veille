@@ -81,7 +81,7 @@ Verdict sans complaisance : c'est une **alpha**, pas pour la production ; le sup
 | LLMD | TECHNOLOGIE | s_applique_à | Design to Exit | METHODOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
 | ZML | ORGANISATION | collabore_avec | Scaleway | ORGANISATION | 0.9 | STATIQUE | déclaré_article |
 | ZML | ORGANISATION | collabore_avec | VSORA | ORGANISATION | 0.9 | STATIQUE | déclaré_article |
-| ZML | TECHNOLOGIE | fait_partie_de | processeur VSORA Jotunn8 | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
+| ZML | TECHNOLOGIE | fait_partie_de | Jotunn8 | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | Yann LeCun | PERSONNE | soutient | ZML | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
 | Solomon Hykes | PERSONNE | a_créé | Docker | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | LLMD | TECHNOLOGIE | concurrence | vLLM | TECHNOLOGIE | 0.85 | DYNAMIQUE | inféré |

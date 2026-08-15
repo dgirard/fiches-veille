@@ -24,7 +24,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] **utilise** → Rust — 0.99
-- [[kb/_entites-mineures#Home-Mixer\|Home Mixer]] **utilise** → Rust — 0.98
+- [[kb/Home-Mixer\|Home Mixer]] **utilise** → Rust — 0.98
 - [[kb/Bun\|Bun]] **utilise** → Rust — 0.97
 
 ## Fiches sources

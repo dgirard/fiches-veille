@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 22 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 4 fiches sources
 
 ## Attributs
 
@@ -35,7 +35,7 @@
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 - démocratisation création logicielle (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
-- le boundary-spanning : raisonner au-delà de son domaine d'origine (CONCEPT) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#boundary-spanning\|boundary-spanning]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « des gains de productivité individuels de +14 % (service client) à +26 % (développeurs) » (MESURE) — 0.90, STATIQUE
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
@@ -59,7 +59,7 @@
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « le coût et la durée du SDLC : implémentation de semaines à heures » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
-- la demande de travail via l'effet de déplacement (substitution de tâches) (CONCEPT) — 0.88, DYNAMIQUE
+- [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 - « l'emploi des juniors exposés (−16 % chez les 22-25 ans aux US) » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
@@ -71,6 +71,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/_entites-mineures#No-Regrets-Zone\|No Regrets Zone]] **recommande** → IA générative — 0.95
 - [[kb/_entites-mineures#Adobe-Photoshop\|Adobe Photoshop]] **utilise** → IA générative — 0.92
 - [[kb/IA-agentique\|IA agentique]] **surpasse** → IA générative — 0.90
 

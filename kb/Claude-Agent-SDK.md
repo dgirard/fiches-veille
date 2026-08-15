@@ -1,11 +1,18 @@
 # Claude Agent SDK
 
-> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
 
 ## Attributs
 
 - **catégorie** : SDK d'agents d'Anthropic
 - **rôle** : SDK pour construire et planifier des agents par programmation — levier clé de l'étape 4 (AI-native)
+
+## Relations (comme sujet)
+
+### fait_partie_de
+
+- [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
 ## Relations (comme objet)
 

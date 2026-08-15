@@ -165,17 +165,17 @@ Alexandre Frizzo publie sur LinkedIn Pulse, le 5 mai 2026, une tribune *one-year
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Alexandre Frizzo | PERSONNE | publie | A Year With Claude Code | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Alexandre Frizzo | PERSONNE | utilise | Claude Code (quotidiennement depuis 1 an) | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Alexandre Frizzo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Alexandre Frizzo | PERSONNE | affirme_que | "the new bottleneck is supervision" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Alexandre Frizzo | PERSONNE | mesure | productivité 3-5× sur usage quotidien | MESURE | 0.94 | STATIQUE | déclaré_article |
 | Alexandre Frizzo | PERSONNE | affirme_que | le métier de développeur a changé de forme, de l'écriture vers la supervision | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Usage prolongé d'agents | CONCEPT | réduit | writing muscle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Usage prolongé d'agents | CONCEPT | réduit | Writing muscle atrophy | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Context-switching multi-supervision | CONCEPT | réduit | deep flow state | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Code généré par agent | CONCEPT | réduit | ownership satisfaction | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Gloria Mark | PERSONNE | mesure | 23 min de récupération contexte par interruption | MESURE | 0.97 | STATIQUE | déclaré_article |
 | McKinsey | ORGANISATION | mesure | 500% productivité en flow state | MESURE | 0.93 | STATIQUE | déclaré_article |
 | FOMO d'agents 24/7 | CONCEPT | permet | pression psychologique permanente | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Volume 3-5× | CONCEPT | réduit | review quality | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Volume 3-5× | CONCEPT | réduit | Review quality at scale | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Alexandre Frizzo | PERSONNE | s_oppose_à | narratif "AI is bad" et uncritical enthusiasm | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | Bilan Frizzo | DOCUMENT | affine | déclaration "coding is solved" de Cherny | CONCEPT | 0.92 | DYNAMIQUE | inféré |
 | Productivité 3-5× | CONCEPT | converge_avec | Wescale X3-X4, Curran 3× (moyenne), DORA 2025 | CONCEPT | 0.93 | DYNAMIQUE | inféré |
@@ -201,6 +201,6 @@ Alexandre Frizzo publie sur LinkedIn Pulse, le 5 mai 2026, une tribune *one-year
 | 10×+ multiplier (tail élite) | CONCEPT | convergence | Cherny (2026-05, 150 PRs/jour record), Curran/Intercom top 5% (6× median au sein d'une organisation déjà à 3× = 18× baseline), Karpathy (2026-04-29, "peaks much higher than 10×"). Mythe à dégonfler : "X10 automatique pour tous", pas le X10 lui-même | AJOUT |
 | Position épistémique tierce (Frizzo) | CONCEPT | description | Refus simultané des narratifs "AI is bad" et "uncritical enthusiasm" ; tensions non résolues plutôt que conclusions ; gains réels + coûts réels | AJOUT |
 | Code is good but isn't quite mine | CONCEPT | source | Frizzo — érosion du sens psychologique de la création quand l'agent génère | AJOUT |
-| One-year retrospective Claude Code | EVENEMENT | description | Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) | AJOUT |
+| rétrospective d'un an | EVENEMENT | description | Format d'écriture (one-year usage assessment) qui devient courant en 2026 — Frizzo, Curran (Intercom 16 mois 3×) | AJOUT |
 | Tensions non résolues (Frizzo) | CONCEPT | détail | (1) FOMO, (2) Review quality at scale, (3) Skill atrophy — questions ouvertes que l'auteur pose sans trancher | AJOUT |
 | Bottleneck shift coding → supervision | CONCEPT | description | Le goulot d'étranglement n'est plus la production de code mais la supervision de l'output agent ; protéger le deep work est devenu irrelevant | AJOUT |

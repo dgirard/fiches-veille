@@ -18,7 +18,7 @@
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - « 80%+ win rate vs human professionals » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
-- Jagged Frontier des capacités IA (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#jagged-frontier\|Jagged Frontier]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - « 40-49% du niveau expert humain (avec extensive framing) » (MESURE) — 0.93, STATIQUE
   - [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]

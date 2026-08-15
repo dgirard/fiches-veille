@@ -1,6 +1,6 @@
 # Bain & Company
 
-> **Type** : ORGANISATION | 12 relations | 1 fiches sources
+> **Type** : ORGANISATION | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,10 +12,6 @@
 
 - « l'avantage concurrentiel se déplace du system of record ownership vers le cross-workflow decision context » (AFFIRMATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
-- « les SaaS leaders doivent choisir entre Financialize et Invest to Grow » (AFFIRMATION) — 0.95, DYNAMIQUE
-  - [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
-- « software penetration is topping out in some areas » (AFFIRMATION) — 0.92, DYNAMIQUE
-  - [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
 
 ### mesure
 
@@ -30,8 +26,6 @@
 
 ### publie
 
-- AI Brings Headwinds and Tailwinds to the Rule of 40 (DOCUMENT) — 0.97, STATIQUE
-  - [[fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04\|AI Brings Headwinds and Tailwinds to the Rule of 40]]
 - The $100-Billion SaaS Opportunity (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 - software industry in the age of AI (série 5 volets) (DOCUMENT) — 0.95, STATIQUE
@@ -41,7 +35,7 @@
 
 - « redesign des data foundations pour l'agent readiness » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
-- playbook 3 phases Assessment + Strategic Positioning + Execution (METHODOLOGIE) — 0.94, ATEMPOREL
+- [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05\|The $100-Billion SaaS Opportunity Hiding in Cross-System Labor]]
 
 ## Fiches sources

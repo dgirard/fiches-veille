@@ -64,7 +64,7 @@ Cette analyse a été explicitement référencée par Foundation Capital dans le
 | agents IA | TECHNOLOGIE | améliore | systèmes de record | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Jamin Ball | PERSONNE | prédit | les data warehouses/lakehouses deviennent des truth registries | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Jamin Ball | PERSONNE | prédit | Databricks deviendra un centre de gravité des agents IA | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
-| fragmentation des sources de vérité | CONCEPT | observé_dans | calcul de l'ARR | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| fragmentation des sources de vérité | CONCEPT | observé_dans | ARR | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | workflow quote-to-cash | METHODOLOGIE | utilise | données canoniques correctes | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Foundation Capital | ORGANISATION | référence | analyse Jamin Ball sur les systèmes de record | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
 | Jamin Ball | PERSONNE | affirme_que | les interfaces SaaS perdent en importance au profit des couches data | AFFIRMATION | 0.87 | DYNAMIQUE | inféré |

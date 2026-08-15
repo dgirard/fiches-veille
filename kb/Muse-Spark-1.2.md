@@ -16,7 +16,7 @@
 
 ### est_variante_de
 
-- Muse Spark 1.1 (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
 
 ### mesure

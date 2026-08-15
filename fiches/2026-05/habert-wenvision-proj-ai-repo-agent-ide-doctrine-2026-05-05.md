@@ -126,7 +126,7 @@ Cette pièce convergente avec **Wescale Usine Logicielle Augmentée** (2026-05-0
 | PROJ-AI | METHODOLOGIE | est_basé_sur | triade repo + agent + doctrine | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | PROJ-AI | METHODOLOGIE | utilise | six zones répertoires | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Cycle DPEV | METHODOLOGIE | est_basé_sur | Décider → Promettre → Exécuter → Vérifier | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Decision Records | METHODOLOGIE | utilise | scoring sur 7 dimensions | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Decision Records 7 dimensions | METHODOLOGIE | utilise | scoring sur 7 dimensions | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Agent IA | TECHNOLOGIE | utilise | doctrine avant chaque réponse | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | PROJ-AI | METHODOLOGIE | permet | double interface Studio + CLI/IDE | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | proj-ai-commons | TECHNOLOGIE | permet | bootstrap projet en 30 min vs 1 semaine | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |

@@ -92,8 +92,8 @@ Deux apports hors thèse. La lecture de l'incident agent-à-agent — un agent d
 | incident agent-à-agent | EVENEMENT | affirme_que | "un périmètre de sécurité qui repose sur une consigne dans un prompt n'est pas un périmètre" | CITATION | 0.96 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | recommande | tracer la frontière de sécurité autour des accès et des actions, jamais autour des instructions données au modèle | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | l'accès d'un agent aux autres agents fait partie de sa surface d'attaque | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| portes humaines | CONCEPT | fait_partie_de | cycle SFEIR à 11 phases | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| cycle SFEIR à 11 phases | METHODOLOGIE | converge_avec | SDLC AI-native | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
+| portes humaines | CONCEPT | fait_partie_de | cycle à 11 phases | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
+| cycle à 11 phases | METHODOLOGIE | converge_avec | SDLC AI-native | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
 | SFEIR | ORGANISATION | recommande | nommer les étapes, poser une menace par étape, décider palier par palier, journaliser chaque décision d'agent, échantillonner les approbations | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | s_oppose_à | transposition directe des chiffres d'Anthropic à une DSI avec vingt ans de système d'information | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Jason Clinton | PERSONNE | mesure | "la part des PR recevant des commentaires de revue substantiels est passée de 16 % à 54 %" | MESURE | 0.94 | STATIQUE | déclaré_article |

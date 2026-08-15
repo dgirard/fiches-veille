@@ -70,7 +70,7 @@ Cette structure documentaire met en évidence une stratégie de monétisation cl
 | Gemini CLI | TECHNOLOGIE | utilise | GitHub | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Gemini Code Assist for Individuals | TECHNOLOGIE | utilise | prompts et code utilisateurs (collecte pour entraînement) | CONCEPT | 0.99 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs Standard/Enterprise ne sont pas collectés | AFFIRMATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Gemini Developer API non payant | TECHNOLOGIE | utilise | prompts et code utilisateurs (collecte pour entraînement) | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
+| Gemini Developer API | TECHNOLOGIE | utilise | prompts et code utilisateurs (collecte pour entraînement) | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs de l'API Developer payante ne sont pas collectés | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | affirme_que | les prompts et code des utilisateurs Vertex AI GenAI API ne sont pas collectés | AFFIRMATION | 0.97 | DYNAMIQUE | déclaré_article |
 | services IA gratuits | CONCEPT | est_basé_sur | collecte de données pour entraînement | CONCEPT | 0.95 | ATEMPOREL | inféré |

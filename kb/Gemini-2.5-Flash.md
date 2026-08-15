@@ -10,8 +10,8 @@
 
 ## Relations (comme objet)
 
-- samples AP2 **utilise** → Gemini 2.5 Flash — 0.97
-- Voxtral Small **surpasse** → Gemini 2.5 Flash — 0.95
+- [[kb/AP2\|AP2]] **utilise** → Gemini 2.5 Flash — 0.97
+- [[kb/Voxtral-Small\|Voxtral Small]] **surpasse** → Gemini 2.5 Flash — 0.95
 
 ## Fiches sources
 

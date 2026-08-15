@@ -126,21 +126,23 @@ Lue dans le corpus 2025-2026, AI/works™ est la **mise en produit** de la doctr
 | AI/works™ | TECHNOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | utilise | Super Spec | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | Super Spec | CONCEPT | s_applique_à | architecture + workflows + sécurité + données + UX (spécification unifiée) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Runtime Ops | METHODOLOGIE | affine | Super Spec (mise à jour continue) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Runtime Ops | METHODOLOGIE | affine | Super Spec | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Runtime Ops | METHODOLOGIE | permet | régénération du code impacté | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Spec to Code | METHODOLOGIE | permet | génération de code testable | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Spec to Code | METHODOLOGIE | utilise | coordinated agents | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| Reverse Engineering | METHODOLOGIE | permet | transformation des legacy codebases en as-is specifications | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Reverse Engineering with AI/works™ | METHODOLOGIE | permet | transformation des legacy codebases en as-is specifications | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Control Plane | METHODOLOGIE | utilise | AI agents (orchestration et gouvernance) | TECHNOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
-| Control Plane | METHODOLOGIE | permet | cost transparency + active guardrails + end-to-end lineage | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Control Plane | METHODOLOGIE | permet | cost transparency | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Control Plane | METHODOLOGIE | permet | active guardrails | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Control Plane | METHODOLOGIE | permet | end-to-end lineage | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Thoughtworks | ORGANISATION | affirme_que | l'économie est le breakthrough d'AI/works™ | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | remplace | cycle build-run-rebuild | METHODOLOGIE | 0.94 | DYNAMIQUE | déclaré_article |
 | Thoughtworks | ORGANISATION | prédit | "systems finally stop aging" avec AI/works™ | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | réduit | token blowout | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | 3-3-3 methodology | METHODOLOGIE | permet | MVP en production en 3 mois | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Constellation Research | ORGANISATION | recommande | AI/works™ (reconnaissance analyste) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Constellation Research | ORGANISATION | recommande | AI/works™ | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Constellation Research | ORGANISATION | affirme_que | l'approche spec-driven lifecycle change l'économie du software | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Thoughtworks | ORGANISATION | s_oppose_à | consultant crowds (grands intégrateurs) | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Thoughtworks | ORGANISATION | s_oppose_à | no consultant crowds | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Thoughtworks | ORGANISATION | affirme_que | "stands on an engineering foundation rather than enthusiasm" | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | AI/works™ | TECHNOLOGIE | utilise | AWS + GCP + Azure + Databricks + Snowflake | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | AI/works™ | TECHNOLOGIE | utilise | Claude + DeepSeek + Gemini + Grok + OpenAI | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |

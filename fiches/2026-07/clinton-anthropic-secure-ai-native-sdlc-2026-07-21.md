@@ -100,18 +100,18 @@ La **gouvernance** ferme le dispositif : tiering par risque, **shadow mode** (re
 | SDLC AI-native | METHODOLOGIE | est_variante_de | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | inféré |
 | Anthropic | ORGANISATION | améliore | sécurité du SDLC AI-native | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | sécurité du SDLC AI-native | METHODOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| sécurité du SDLC AI-native | METHODOLOGIE | est_basé_sur | le framework Zero Trust for Agents | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| sécurité du SDLC AI-native | METHODOLOGIE | est_basé_sur | Zero Trust for Agents | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Claude | TECHNOLOGIE | observé_dans | SDLC AI-native | METHODOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | PSR (Project Security Review) | TECHNOLOGIE | utilise | Claude Opus | TECHNOLOGIE | 0.94 | STATIQUE | déclaré_article |
 | PSR (Project Security Review) | TECHNOLOGIE | utilise | MITRE ATT&CK | CONCEPT | 0.93 | STATIQUE | déclaré_article |
-| VM distantes à egress allowlisting | METHODOLOGIE | réduit | le blast radius d'un agent prompt-injecté | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| egress allowlisting | METHODOLOGIE | réduit | le blast radius d'un agent prompt-injecté | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | revue automatique de PR | METHODOLOGIE | mesure | commentaires substantiels passés de 16% à 54% des PR | MESURE | 0.92 | STATIQUE | déclaré_article |
 | processus automatiques actuels | METHODOLOGIE | affirme_que | ~un tiers des incidents claude.ai passés auraient été attrapés | AFFIRMATION | 0.88 | STATIQUE | déclaré_article |
 | DAST continu piloté par l'IA | METHODOLOGIE | mesure | plus de 500 vulnérabilités OSS high-severity trouvées en février | MESURE | 0.9 | STATIQUE | déclaré_article |
 | agent de réponse à incident | TECHNOLOGIE | utilise | trois permissions seulement (écrire docs, poster, lire logs prod) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | agent de réponse à incident | TECHNOLOGIE | s_oppose_à | déployer un fix en production | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Jason Clinton | PERSONNE | recommande | surveiller la communication agent-à-agent comme une interaction humaine | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| routage SIEM des actions d'agent | METHODOLOGIE | permet | auditabilité et détection de menace interne | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| routage SIEM | METHODOLOGIE | permet | auditabilité et détection de menace interne | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | shadow mode | METHODOLOGIE | permet | tester les relecteurs IA en commentaire-seul avant de leur faire confiance | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Jason Clinton | PERSONNE | affirme_que | le rôle de l'ingénieur sécu passe de surveiller des bugs à surveiller des boucles | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | sécurité qui ne scale pas | CONCEPT | s_oppose_à | la vélocité de développement (loi d'Amdahl) | CONCEPT | 0.85 | ATEMPOREL | inféré |
@@ -135,3 +135,5 @@ La **gouvernance** ferme le dispositif : tiering par risque, **shadow mode** (re
 | routage SIEM | METHODOLOGIE | définition | Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne | AJOUT |
 | trois menaces (SDLC agentique) | CONCEPT | liste | Agent prompt-injecté, supply-chain poisoning, vulns applicatives à volume ↑ | AJOUT |
 | Enduring Principle | CONCEPT | définition | Principe de sécu durable (vs implémentation périssable, car les modèles évoluent) | AJOUT |
+| Anthropic | ORGANISATION | rôle | Auteur du retour d'expérience et opérateur du SDLC décrit, où Claude écrit ~80 % du code fusionné | AJOUT |
+| SDLC | METHODOLOGIE | catégorie | Cycle de développement classique dont l'article dérive la variante AI-native, étape par étape | AJOUT |

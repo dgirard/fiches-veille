@@ -122,9 +122,9 @@ Le modèle est **granulaire** : distinction entre **résolutions simples** (une 
 | Agents IA | TECHNOLOGIE | permet | outcome-based pricing | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Outcome-based pricing | CONCEPT | s_applique_à | business outcomes tangibles (resolved conversation, saved cancellation, upsell, cross-sell) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Sierra | ORGANISATION | affirme_que | « If the conversation is unresolved, in most cases, there's no charge » | CITATION | 0.94 | ATEMPOREL | déclaré_article |
-| Outcome-based pricing | CONCEPT | permet | alignement des incitations fournisseur-client | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Outcome-based pricing | CONCEPT | permet | Alignement des incitations | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Salesforce | ORGANISATION | a_créé | modèle SaaS (seat-based) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Seat-based pricing | CONCEPT | permet | shelfware (sièges non utilisés payés) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Seat-based pricing | CONCEPT | permet | Shelfware | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | AWS et Snowflake | ORGANISATION | a_créé | consumption-based pricing | CONCEPT | 0.94 | STATIQUE | déclaré_article |
 | Fournisseurs CX legacy | ORGANISATION | s_oppose_à | efficacité de leur propre IA (réduit les sièges) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Résolution complexe | CONCEPT | est_variante_de | résolution simple (tarification différenciée) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
@@ -144,3 +144,4 @@ Le modèle est **granulaire** : distinction entre **résolutions simples** (une 
 | Conflit fournisseurs CX legacy | CONCEPT | définition | Les éditeurs dont le revenu dépend du seat-based sont en conflit avec l'efficacité de leur IA, qui réduit le nombre de sièges nécessaires | AJOUT |
 | Blended pricing | CONCEPT | définition | Modèle mixte combinant outcome-based (résolutions) et consumption-based (interactions de routage/accueil) | AJOUT |
 | Alignement des incitations | CONCEPT | définition | Principe central : le fournisseur n'est payé qu'au résultat (« we get paid only when we complete a task ») — skin in the game structurel | AJOUT |
+| Fournisseurs CX legacy | ORGANISATION | rôle | Éditeurs historiques du service client, en conflit d'incitations avec la tarification à l'outcome | AJOUT |

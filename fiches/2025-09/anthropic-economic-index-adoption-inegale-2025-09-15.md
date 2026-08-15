@@ -60,13 +60,13 @@ Le rapport conclut que les schémas inégaux d'adoption de l'IA risquent d'exace
 | Ruth Appel | PERSONNE | a_créé | Anthropic Economic Index | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Anthropic Economic Index | DOCUMENT | mesure | adoption géographique et entreprise de l'IA | CONCEPT | 0.96 | STATIQUE | déclaré_article |
 | adoption IA au travail | CONCEPT | mesure | 40% des employés américains | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
-| usage directif (délégation totale) | CONCEPT | surpasse | usage augmentatif (collaboration) | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| usage directif | CONCEPT | surpasse | usage augmentatif | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Singapour | LIEU | mesure | usage Claude par habitant parmi les plus élevés | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
 | Canada | LIEU | mesure | usage Claude par habitant parmi les plus élevés | MESURE | 0.91 | DYNAMIQUE | déclaré_article |
 | Washington D.C. | LIEU | surpasse | Californie | LIEU | 0.90 | DYNAMIQUE | déclaré_article |
 | entreprises clientes API | CONCEPT | mesure | 77% d'usages automatisés via API | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Anthropic Economic Index | DOCUMENT | prédit | l'adoption inégale de l'IA risque d'exacerber les inégalités économiques existantes | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | publie | données Anthropic Economic Index | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | publie | Anthropic Economic Index | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
 | accès aux données contextuelles | CONCEPT | est_instance_de | goulot d'étranglement déploiement entreprise | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Indice d'Utilisation de l'IA (AUI) | TECHNOLOGIE | mesure | corrélation usage-revenu entre pays | MESURE | 0.90 | STATIQUE | déclaré_article |
 

@@ -22,7 +22,7 @@
 
 ### s_oppose_à
 
-- burnout (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
 ## Fiches sources

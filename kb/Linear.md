@@ -25,7 +25,7 @@
 
 ### surpasse
 
-- Jira (parts de marché chez les startups) (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#Jira\|Jira]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
 ### utilise

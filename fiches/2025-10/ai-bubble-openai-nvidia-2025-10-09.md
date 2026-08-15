@@ -52,14 +52,19 @@ En conclusion, le marché de l'IA représente à la fois une promesse extraordin
 | Philippe Ensarguet | PERSONNE | référence | bulle IA | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | collabore_avec | Nvidia | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Nvidia | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | utilise | puces Nvidia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| OpenAI | ORGANISATION | utilise | Nvidia | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Philippe Ensarguet | PERSONNE | prédit | OpenAI non cash-flow positif avant 2030 | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 | Sam Altman | PERSONNE | dirige | destin économie mondiale IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Stacy Rasgon | PERSONNE | affirme_que | Sam Altman peut crasher l'économie mondiale | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | bulle IA | CONCEPT | est_variante_de | bulle dot-com | EVENEMENT | 0.88 | ATEMPOREL | inféré |
 | Lisa Su | PERSONNE | affirme_que | cycle vertueux de collaboration IA | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Greg Brockman | PERSONNE | affirme_que | cycle vertueux de collaboration IA | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
-| économie circulaire IA | CONCEPT | s_applique_à | OpenAI, Nvidia, AMD, Oracle, CoreWeave, xAI | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | OpenAI | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | Nvidia | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | AMD | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | Oracle | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | CoreWeave | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
+| économie circulaire IA | CONCEPT | s_applique_à | xAI | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Emily Forgash | PERSONNE | publie | article Bloomberg bulle IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Agnee Ghosh | PERSONNE | publie | article Bloomberg bulle IA | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 

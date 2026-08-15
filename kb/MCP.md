@@ -1,11 +1,11 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 18 relations | 12 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 14 fiches sources
 
 ## Attributs
 
 - **categorie** : Protocole exposition services pour agents
-- **catégorie** : Model Context Protocol
+- **catégorie** : Protocole d'outillage dont l'article fixe la pile minimale utile au workflow
 - **date_lancement** : Novembre 2024
 - **fonction** : Protocole de connecteurs portables (Codex ↔ Claude Code)
 - **forme_longue** : Model Context Protocol
@@ -16,14 +16,24 @@
 
 ## Relations (comme sujet)
 
+### améliore
+
+- compréhension machine (CONCEPT) — 0.91, ATEMPOREL
+  - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
+
 ### est_instance_de
 
 - protocole ouvert (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
+### fait_partie_de
+
+- [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
+
 ### permet
 
-- accès structuré des agents IA aux outils et données (CONCEPT) — 0.98, ATEMPOREL
+- accès structuré aux outils et données (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 - connexion à outils externes (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
@@ -31,11 +41,11 @@
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - connexion de Claude à GSC / Ahrefs / GA4 (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
-- connecteurs portables entre Codex et Claude Code (CONCEPT) — 0.88, ATEMPOREL
+- connecteurs portables (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - exposition services aux agents (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
-- intégration Gemini CLI (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
 ### remplace
@@ -66,13 +76,16 @@
 ## Relations (comme objet)
 
 - fuites de données **observé_dans** → MCP — 0.93
+- [[kb/Interactions-API\|Interactions API]] **utilise** → MCP — 0.93
 - [[kb/Claude-Skills\|Claude Skills]] **s_oppose_à** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
 - overhead de tokens excessif **observé_dans** → MCP — 0.88
+- [[kb/Peter-Aideloje\|Peter Aideloje]] **recommande** → MCP — 0.87
 - [[kb/Agent-Skills\|Agent Skills]] **converge_avec** → MCP — 0.85
 
 ## Fiches sources
 
+- [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
@@ -84,4 +97,5 @@
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
+- [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

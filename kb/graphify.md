@@ -1,10 +1,11 @@
 # graphify
 
-> **Type** : METHODOLOGIE | 14 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 14 relations | 2 fiches sources
 
 ## Attributs
 
 - **adoption** : Apache-2.0, paquet PyPI `graphifyy` ; dépôt créé le 3 avril 2026, 103 187 étoiles et 10 024 forks au 6 août 2026 ; branche par défaut v8, README en 33 langues
+- **catégorie** : Skill open source présentée par le site, distincte du site lui-même
 - **définition** : Skill et CLI transformant un projet multi-format en graphe de connaissance interrogeable : code parsé localement en AST tree-sitter sans modèle, prose et images traitées sémantiquement, chaque arête étiquetée selon sa provenance, sans index vectoriel
 
 ## Relations (comme sujet)
@@ -57,4 +58,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/graphify-net-annuaire-ia-coding-2026-08-06\|Graphify — Knowledge Graphs for AI Coding Assistants (site graphify.net : vitrine, annuaire d'outils et galerie de…]]
 - [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]

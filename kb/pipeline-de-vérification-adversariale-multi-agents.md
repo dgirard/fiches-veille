@@ -10,7 +10,7 @@
 
 ### remplace
 
-- revue de code humaine (METHODOLOGIE) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#revue-de-code-humaine\|revue de code humaine]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
 ### utilise

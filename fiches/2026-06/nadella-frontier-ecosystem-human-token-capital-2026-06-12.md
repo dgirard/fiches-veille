@@ -66,8 +66,9 @@ Nadella conclut par un avertissement d'économie politique : un monde où quelqu
 | Satya Nadella | PERSONNE | publie | A frontier without an ecosystem is not stable | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Satya Nadella | PERSONNE | affirme_que | chaque entreprise devra bâtir un capital humain et un capital token | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Satya Nadella | PERSONNE | affirme_que | le capital humain devient plus précieux à mesure que le capital token croît | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| agence humaine | CONCEPT | permet | la croissance du capital token | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| boucle d'apprentissage | METHODOLOGIE | permet | la composition du capital humain et du capital token | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| agence humaine | CONCEPT | permet | capital token | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| boucle d'apprentissage | METHODOLOGIE | permet | capital humain | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| boucle d'apprentissage | METHODOLOGIE | permet | capital token | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | boucle d'apprentissage | METHODOLOGIE | est_instance_de | IP de la firme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | private evals | METHODOLOGIE | mesure | l'amélioration d'un modèle sur les résultats métier | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | environnements de RL privés | METHODOLOGIE | utilise | traces réelles internes à l'organisation | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
@@ -77,7 +78,7 @@ Nadella conclut par un avertissement d'économie politique : un monde où quelqu
 | écosystème frontière | CONCEPT | s_oppose_à | captation de la valeur par quelques modèles | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Satya Nadella | PERSONNE | prédit | l'économie politique ne tolérera pas que quelques modèles captent toute la valeur | AFFIRMATION | 0.86 | ATEMPOREL | déclaré_article |
 | ère de l'IA | CONCEPT | s_inspire_de | analogie de la première mondialisation et du hollowing out industriel | CONCEPT | 0.83 | ATEMPOREL | déclaré_article |
-| capital token | CONCEPT | est_basé_sur | boucle d'apprentissage propriétaire de la firme | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| capital token | CONCEPT | est_basé_sur | boucle d'apprentissage | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 

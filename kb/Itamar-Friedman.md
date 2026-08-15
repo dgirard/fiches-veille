@@ -22,7 +22,7 @@
 
 ### recommande
 
-- Quality Gates automatisées (METHODOLOGIE) — 0.88, STATIQUE
+- [[kb/_entites-mineures#Quality-Gates\|Quality Gates]] (METHODOLOGIE) — 0.88, STATIQUE
   - [[fiches/2025-11/friedman-qodo-state-ai-code-quality-hype-reality-2025-11-23\|The State of AI Code Quality: Hype vs. Reality]]
 
 ## Fiches sources

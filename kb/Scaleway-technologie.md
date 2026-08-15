@@ -34,7 +34,7 @@
 
 ### permet
 
-- protection contre un kill switch et les lois extraterritoriales (CONCEPT) — 0.92, ATEMPOREL
+- [[kb/_entites-mineures#kill-switch\|kill switch]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 - « immunité au Cloud Act sous juridiction européenne » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
@@ -58,7 +58,7 @@
 - [[kb/_entites-mineures#Airbus\|Airbus]] **utilise** → Scaleway — 0.97
 - [[kb/ZML\|ZML]] **collabore_avec** → Scaleway — 0.90
 - France Télévisions **utilise** → Scaleway — 0.90
-- [[kb/LVMH\|LVMH]] **utilise** → Scaleway — 0.88
+- [[kb/LVMH\|LVMH]] **utilise** → Scaleway — 0.90
 - [[kb/Delos-Intelligence\|Delos Intelligence]] **utilise** → Scaleway — 0.85
 
 ## Fiches sources

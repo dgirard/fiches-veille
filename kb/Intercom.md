@@ -1,6 +1,6 @@
 # Intercom
 
-> **Type** : ORGANISATION | 10 relations | 1 fiches sources
+> **Type** : ORGANISATION | 11 relations | 1 fiches sources
 
 ## Attributs
 
@@ -37,6 +37,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/Darragh-Curran\|Darragh Curran]] **dirige** → Intercom — 0.97
 - Ramp **converge_avec** → Intercom — 0.88
 
 ## Fiches sources

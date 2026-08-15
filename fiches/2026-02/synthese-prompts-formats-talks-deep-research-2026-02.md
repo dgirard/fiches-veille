@@ -86,7 +86,7 @@ Ce document de synthèse fusionne les données sur l'ingénierie narrative et la
 | PAS | METHODOLOGIE | s_applique_à | Startup Pitch | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Kishōtenketsu | METHODOLOGIE | s_applique_à | Pecha Kucha et audiences asiatiques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | PREP | METHODOLOGIE | s_applique_à | réponses Panel | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| audience | CONCEPT | est_instance_de | héros (relation Yoda/Luke) | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| audience | CONCEPT | est_instance_de | Voyage du Héros | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | structure narrative | CONCEPT | est_basé_sur | temps disponible | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | design cognitif | METHODOLOGIE | recommande | 1 image = 1 idée | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 

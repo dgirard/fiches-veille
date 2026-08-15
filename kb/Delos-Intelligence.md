@@ -30,9 +30,9 @@
 
 ### utilise
 
-- modèle SaaS à crédits (1 crédit ≈ une requête simple) (METHODOLOGIE) — 0.90, ATEMPOREL
-  - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 - orchestration multi-modèles (GPT, Claude, Mistral, Gemini, Cohere, Llama) (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
+- [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 - [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]

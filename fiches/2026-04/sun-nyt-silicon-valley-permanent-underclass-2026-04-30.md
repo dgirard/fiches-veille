@@ -158,15 +158,16 @@ Thèse politique de Sun : la création d'un underclass est un **policy choice**,
 | Jack Clark | PERSONNE | dirige | Anthropic Institute | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | 30B$ ARR annualisé (avril 2026, vs 9B$ fin 2025) | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | réduit | ~50% des effectifs en mars 2026 | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Jack Dorsey | PERSONNE | référence | Opus 4.6 + Codex 5.3 comme cause de la restructuration Block | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Jack Dorsey | PERSONNE | référence | Opus 4.6 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
+| Jack Dorsey | PERSONNE | référence | Codex 5.3 | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
 | GDPVal | TECHNOLOGIE | mesure | 44 occupations humaines | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | GDPVal | TECHNOLOGIE | mesure | 80%+ win rate vs human professionals | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | St. Louis Fed | ORGANISATION | mesure | AI investments = 39% de la croissance US Q1-Q3 2025 | MESURE | 0.94 | STATIQUE | déclaré_article |
 | Mechanize | ORGANISATION | soutient | full automation of the economy | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| David Shor | PERSONNE | recommande | federal jobs guarantee comme messaging gagnant | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| David Shor | PERSONNE | recommande | Federal jobs guarantee | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Carl Benedikt Frey | PERSONNE | affirme_que | "the short run can be a lifetime" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Anton Korinek | PERSONNE | affirme_que | aucun job humain n'est invulnérable long-run | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| David Autor | PERSONNE | s_oppose_à | thèse permanent underclass | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
+| David Autor | PERSONNE | s_oppose_à | Permanent underclass | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | publie | étude junior engineers deskilling AI agents | DOCUMENT | 0.94 | STATIQUE | déclaré_article |
 | Silicon Valley Is Bracing for a Permanent Underclass | DOCUMENT | référence | tentative de firebombing du domicile de Sam Altman (avril 2026) | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Alex Karp | PERSONNE | affirme_que | "the country could blow up politically" | CITATION | 0.93 | STATIQUE | déclaré_article |
@@ -198,3 +199,5 @@ Thèse politique de Sun : la création d'un underclass est un **policy choice**,
 | Molly Kinder | PERSONNE | rôle | Senior fellow Brookings, parallèle white-collar / blue-collar narratives | AJOUT |
 | Tejal Patwardhan | PERSONNE | rôle | Lead frontier evaluations OpenAI, responsable GDPVal | AJOUT |
 | Firebombing Altman home avril 2026 | EVENEMENT | description | Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente | AJOUT |
+| Anthropic | ORGANISATION | rôle | Lab cité pour la dissonance entre son discours public sur l'emploi et sa croissance d'ARR | AJOUT |
+| Block | ORGANISATION | rôle | Entreprise dont la restructuration de mars 2026 sert de cas corporate à la tribune | AJOUT |

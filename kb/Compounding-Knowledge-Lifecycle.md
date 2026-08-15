@@ -15,7 +15,7 @@
 
 ### est_basé_sur
 
-- docs/solutions/ (mémoire qui compose) (DOCUMENT) — 0.94, ATEMPOREL
+- [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] (DOCUMENT) — 0.94, ATEMPOREL
   - [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
 ### recommande

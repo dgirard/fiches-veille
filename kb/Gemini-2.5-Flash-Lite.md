@@ -1,6 +1,6 @@
 # Gemini 2.5 Flash-Lite
 
-> **Type** : TECHNOLOGIE | 12 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 13 relations | 1 fiches sources
 
 ## Attributs
 
@@ -12,7 +12,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Gemini-2.5\|Gemini 2.5]] (TECHNOLOGIE) — 0.99, STATIQUE
+- [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### mesure
@@ -31,16 +31,17 @@
 
 ### surpasse
 
-- Gemini 2.0 Flash-Lite (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Gemini-2.0-Flash-Lite\|Gemini 2.0 Flash-Lite]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### utilise
 
-- Grounding with Google Search (TECHNOLOGIE) — 0.97, STATIQUE
+- [[kb/_entites-mineures#Grounding-with-Google-Search\|Grounding with Google Search]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ## Relations (comme objet)
 
+- [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] **fait_partie_de** → Gemini 2.5 Flash-Lite — 0.99
 - [[kb/Google\|Google]] **publie** → Gemini 2.5 Flash-Lite — 0.99
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] **utilise** → Gemini 2.5 Flash-Lite — 0.97
 - [[kb/_entites-mineures#Evertune\|Evertune]] **utilise** → Gemini 2.5 Flash-Lite — 0.97

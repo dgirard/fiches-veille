@@ -60,7 +60,7 @@ Il conclut en affirmant que construire un produit IA n'est pas juste une évolut
 | Model Behavior | CONCEPT | est_instance_de | discipline émergente | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | injection de prompt | CONCEPT | réduit | sécurité du navigateur IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | design UX | CONCEPT | résout | failles sécurité techniques | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| non-ingénieurs | CONCEPT | fait_partie_de | équipe Model Behavior | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| non-ingénieurs | CONCEPT | fait_partie_de | Model Behavior | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Dia | TECHNOLOGIE | utilise | confirmation explicite utilisateur | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 
 ### Entités

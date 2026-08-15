@@ -1,6 +1,6 @@
 # SuperClaude
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 1 fiches sources
 
 ## Attributs
 
@@ -28,6 +28,11 @@
 - 16 agents spécialisés (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 - 7 modes comportementaux (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
+
+### remplace
+
+- slash commands V1.x (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-07/superclaude-framework-config-claude-code-2025-07-01\|SuperClaude-Org/SuperClaude_Framework: A configuration framework that enhances Claude Code]]
 
 ### réduit

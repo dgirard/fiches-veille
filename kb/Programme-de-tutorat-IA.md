@@ -21,7 +21,7 @@
 
 ### observé_dans
 
-- Benin City (9 écoles secondaires publiques) (LIEU) — 0.99, STATIQUE
+- [[kb/_entites-mineures#Benin-City\|Benin City]] (LIEU) — 0.99, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
 ### résout

@@ -1,11 +1,11 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 54 relations | 21 fiches sources
+> **Type** : ORGANISATION | 56 relations | 22 fiches sources
 
 ## Attributs
 
 - **produit** : ChatGPT
-- **rôle** : Laboratoire d'IA de pointe (frontier propriétaire) ; employeur de Dean W. Ball depuis le 06/07/2026 (Head of Strategic Futures) — contexte de lecture de son plaidoyer anti-open-weights
+- **rôle** : Éditeur du rapport, dont Economic Research est l'équipe signataire
 - **secteur** : Labo IA frontalier, San Francisco
 - **statut financier** : non cash-flow positif avant fin de décennie
 - **statut_juridique** : OpenAI Group PBC (Public Benefit Corporation)
@@ -26,7 +26,7 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
-- détecteur ChatGPT (précision 99,9%) (TECHNOLOGIE) — 0.97, STATIQUE
+- détecteur de texte généré (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 
 ### affirme_que
@@ -116,7 +116,7 @@
 
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
-- puces Nvidia (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/Nvidia\|Nvidia]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 - Linters custom et tests structurels (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
@@ -137,8 +137,10 @@
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96
 - [[kb/Nvidia\|Nvidia]] **collabore_avec** → OpenAI — 0.95
 - [[kb/roon\|roon]] **travaille_chez** → OpenAI — 0.95
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → OpenAI — 0.92
 - [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] **collabore_avec** → OpenAI — 0.90
 - [[kb/Anthropic\|Anthropic]] **concurrence** → OpenAI — 0.90
+- [[kb/Gadget\|Gadget]] **s_oppose_à** → OpenAI — 0.88
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → OpenAI — 0.85
 - [[kb/Meta\|Meta]] **concurrence** → OpenAI — 0.85
 
@@ -161,6 +163,7 @@
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
+- [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]

@@ -68,7 +68,7 @@ Cette recherche ouvre la voie à des systèmes IA qui s'améliorent continuellem
 | ACE | METHODOLOGIE | est_basé_sur | Dynamic Cheatsheet | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | résout | brevity bias | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | résout | context collapse | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| ACE | METHODOLOGIE | améliore | AppWorld benchmark | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
+| ACE | METHODOLOGIE | améliore | AppWorld | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | Stanford University | ORGANISATION | collabore_avec | SambaNova Systems | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Stanford University | ORGANISATION | collabore_avec | UC Berkeley | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | ACE | METHODOLOGIE | utilise | Generator-Reflector-Curator | CONCEPT | 0.97 | STATIQUE | déclaré_article |

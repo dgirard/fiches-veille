@@ -1,6 +1,6 @@
 # Almia
 
-> **Type** : TECHNOLOGIE | 5 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -23,6 +23,7 @@
 
 - [[kb/AG2R-LA-MONDIALE\|AG2R LA MONDIALE]] **a_créé** → Almia — 0.99
 - [[kb/_entites-mineures#Pascal-Martinez\|Pascal Martinez]] **dirige** → Almia — 0.97
+- [[kb/WEnvision\|WEnvision]] **soutient** → Almia — 0.85
 
 ## Fiches sources
 

@@ -21,7 +21,7 @@
 
 ### permet
 
-- capture du vocabulaire métier dans CONTEXT.md (DOCUMENT) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] (DOCUMENT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/skill-pocock-grill-with-docs-2026-06\|grill-with-docs — « Grilling session that challenges your plan against the existing domain model, sharpens terminology,…]]
 
 ### recommande

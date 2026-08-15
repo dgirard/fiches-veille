@@ -78,7 +78,7 @@ Cette note vérifie une synthèse de veille sur **Delos Intelligence** (delos.so
 | synthèse fact-check Delos | DOCUMENT | affirme_que | la liste des business angels est confirmée mot pour mot par le communiqué de 20VC (pas une hallucination) | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
 | synthèse fact-check Delos | DOCUMENT | affirme_que | aucune Série A n'a été bouclée à ce jour, seulement annoncée comme intention visant mars 2026 | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | synthèse fact-check Delos | DOCUMENT | affirme_que | l'effectif de 50 personnes n'est pas sourçable ; chiffres attestés ~20 (avril 2025) puis ~40 (fin 2025) | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
-| Delos Intelligence | ORGANISATION | utilise | modèle SaaS à crédits (1 crédit ≈ une requête simple) | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| Delos Intelligence | ORGANISATION | utilise | SaaS à crédits | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | Delos Intelligence | ORGANISATION | utilise | orchestration multi-modèles (GPT, Claude, Mistral, Gemini, Cohere, Llama) | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | Delos Intelligence | ORGANISATION | utilise | Scaleway | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | Delos Intelligence | ORGANISATION | affirme_que | souveraineté 100 % Scaleway en cours de finalisation, calcul encore partiellement sur Azure France fin 2025 | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |

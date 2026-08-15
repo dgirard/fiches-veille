@@ -72,7 +72,7 @@ La recherche fournit une **base quantitative aux discussions de sécurité**, ju
 | METR | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | ARA | CONCEPT | est_instance_de | seuil critique de capacité IA dangereuse | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | GPT-4 | TECHNOLOGIE | surpasse | GPT-3.5 | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| METR | ORGANISATION | recommande | tests ARA obligatoires avant déploiement frontier | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| METR | ORGANISATION | recommande | ARA | METHODOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | METR | ORGANISATION | mesure | doublement des capacités IA autonomes tous les 7 mois | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | METR | ORGANISATION | collabore_avec | NIST AI Safety Institute Consortium | ORGANISATION | 0.91 | DYNAMIQUE | déclaré_article |
 | METR | ORGANISATION | collabore_avec | AI Security Institute | ORGANISATION | 0.91 | DYNAMIQUE | déclaré_article |

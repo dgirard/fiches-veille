@@ -81,7 +81,7 @@ C'est la **pièce conceptuelle** qui transforme l'anecdote Moderna en tendance d
 | Ethan Mollick | PERSONNE | recommande | 5 expérimentations RH-IA | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | AI-First Role Design | METHODOLOGIE | utilise | 2h d'augmentation IA avant fiche de poste | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Performance Review Redesign | METHODOLOGIE | utilise | feedback continu IA | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Valence | ORGANISATION | a_créé | sommet AI & the Workforce: The Adoption Gap | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
+| Valence | ORGANISATION | a_créé | AI & the Workforce: The Adoption Gap | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Parker Mitchell | PERSONNE | dirige | Valence | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | affirme_que | la fonction HR est le levier principal de la transformation IA | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 

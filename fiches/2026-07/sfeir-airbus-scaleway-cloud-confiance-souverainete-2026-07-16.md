@@ -75,7 +75,7 @@ Trois enseignements SFEIR : un **seuil de crédibilité** franchi (le souverain 
 | Scaleway | TECHNOLOGIE | permet | immunité au Cloud Act sous juridiction européenne | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Cloud Act | CONCEPT | s_applique_à | données détenues par une entreprise sous juridiction américaine où qu'elles soient stockées | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Scaleway | TECHNOLOGIE | concurrence | hyperscalers américains (Microsoft, Google, AWS) | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
-| accord Airbus-Scaleway | EVENEMENT | fait_partie_de | stratégie multicloud d'Airbus | METHODOLOGIE | 0.9 | STATIQUE | déclaré_article |
+| accord Airbus-Scaleway | EVENEMENT | fait_partie_de | stratégie multicloud | METHODOLOGIE | 0.9 | STATIQUE | déclaré_article |
 | Scaleway | TECHNOLOGIE | permet | IA souveraine sur données industrielles (calcul, entraînement, inférence en juridiction de confiance) | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Scaleway | TECHNOLOGIE | utilise | GPU | TECHNOLOGIE | 0.85 | ATEMPOREL | déclaré_article |
 | réversibilité | CONCEPT | permet | souveraineté durable au-delà du contrat signé | AFFIRMATION | 0.85 | ATEMPOREL | inféré |

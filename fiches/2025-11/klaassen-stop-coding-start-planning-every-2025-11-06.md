@@ -94,7 +94,7 @@ Klaassen conclut : planning est highest-leverage activity en AI-assisted develop
 | agent de planification Figma | TECHNOLOGIE | utilise | Puppeteer | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | planification Fidelity One | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Cora | ORGANISATION | a_créé | email bankruptcy feature | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| quotas Gmail API | CONCEPT | s_applique_à | opérations bulk | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Gmail API | CONCEPT | s_applique_à | opérations bulk | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | plans | CONCEPT | permet | connaissance institutionnelle | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités

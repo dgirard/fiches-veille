@@ -95,16 +95,16 @@ Deux images ancrent la pédagogie : le **parallèle de l'onboarding d'un stagiai
 | Mike Taylor | PERSONNE | publie | The Eight Levels of AI Adoption | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Laura Entis | PERSONNE | publie | The Eight Levels of AI Adoption | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Every | ORGANISATION | publie | The Eight Levels of AI Adoption | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| échelle en 8 niveaux d'adoption IA | METHODOLOGIE | est_basé_sur | délégation et confiance croissantes | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| échelle en 8 niveaux | METHODOLOGIE | est_basé_sur | délégation et confiance croissantes | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Mike Taylor | PERSONNE | affirme_que | un niveau plus élevé n'est pas nécessairement meilleur | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| niveau Autopilot | CONCEPT | converge_avec | vibe coding | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| niveau Workflows | CONCEPT | est_basé_sur | harnesses autour des agents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| niveau Workflows | CONCEPT | permet | la bascule vers l'agentic engineering | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
-| niveau Assistant | CONCEPT | utilise | agents proactifs always-on | TECHNOLOGIE | 0.91 | ATEMPOREL | déclaré_article |
+| Autopilot | CONCEPT | converge_avec | vibe coding | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| Workflows | CONCEPT | est_basé_sur | harnesses autour des agents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Workflows | CONCEPT | permet | la bascule vers l'agentic engineering | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
+| Assistant | CONCEPT | utilise | agents proactifs always-on | TECHNOLOGIE | 0.91 | ATEMPOREL | déclaré_article |
 | Mike Taylor | PERSONNE | affirme_que | le niveau Orchestrator est hautement expérimental | AFFIRMATION | 0.9 | DYNAMIQUE | déclaré_article |
 | knowledge workers | CONCEPT | utilise | niveaux 1 à 4 | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | ingénieurs | CONCEPT | utilise | niveaux 5 à 8 | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| développement d'un agent | CONCEPT | converge_avec | onboarding d'un stagiaire | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Agent | CONCEPT | converge_avec | onboarding d'un stagiaire | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | choix du bon niveau | CONCEPT | est_basé_sur | qualité / coût / fiabilité / enjeu de l'échec | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | capacité des modèles | CONCEPT | améliore | le niveau d'autonomie sûr | CONCEPT | 0.87 | ATEMPOREL | inféré |
 

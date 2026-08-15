@@ -22,7 +22,7 @@
 
 ### fait_partie_de
 
-- processeur VSORA Jotunn8 (TECHNOLOGIE) — 0.85, STATIQUE
+- [[kb/_entites-mineures#Jotunn8\|Jotunn8]] (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### publie

@@ -66,7 +66,7 @@ Bord conclut sur une réflexion économique : l'IA remet en cause le modèle de 
 | Metadata Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | RAG Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | SQL Agent | TECHNOLOGIE | fait_partie_de | GenBI | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
-| approche Crawl Walk Run | METHODOLOGIE | s_applique_à | déploiement GenBI | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| approche Crawl Walk Run | METHODOLOGIE | s_applique_à | GenBI | TECHNOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | IA | TECHNOLOGIE | s_oppose_à | modèle pricing par siège | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | RAG Agent | TECHNOLOGIE | résout | 80% demandes BI | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 

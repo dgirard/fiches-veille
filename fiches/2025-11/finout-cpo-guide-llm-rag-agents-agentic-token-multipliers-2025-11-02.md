@@ -62,7 +62,7 @@ Pour les **coding agents** — exemple canonique du tool-use — les conseils pr
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Finout | ORGANISATION | publie | guide CPO FinOps des architectures IA | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Finout | ORGANISATION | publie | guide CPO FinOps (Finout) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | systèmes agentiques | TECHNOLOGIE | permet | croissance exponentielle des coûts | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | chatbot en production | TECHNOLOGIE | mesure | 6× les tokens de la démo | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Cost Iceberg | CONCEPT | affirme_que | 80%+ du coût réel est caché | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |

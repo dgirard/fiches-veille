@@ -1,6 +1,6 @@
 # Atlassian
 
-> **Type** : ORGANISATION | 7 relations | 1 fiches sources
+> **Type** : ORGANISATION | 8 relations | 1 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,11 @@
 - « démarrer par une équipe (3-5 ingénieurs), pas un individu, et mesurer 2-3 mois après » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 - « passer des métriques d'usage (tokens) aux métriques d'impact » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
+
+### surpasse
+
+- « clients externes (1,35× plus de PR assistées mergées) » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 
 ## Relations (comme objet)

@@ -81,10 +81,10 @@ Au-delà du chiffre, le cas est un **contre-exemple** au récit « l'IA ne crée
 | pipeline de rapprochement des paiements non identifiés | TECHNOLOGIE | mesure | 100 % de précision au backtest avec la chaîne IA complète (vs 97 % en fuzzy-matching seul) | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Cornell AI Innovation Hub | ORGANISATION | mesure | 100 000 $ récupérés sur un premier lot (5 paiements, 23 départements contactés, 7 réponses) | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Cornell AI Innovation Hub | ORGANISATION | affirme_que | les noms de fournisseurs figurent sur 99 % des paiements non identifiés, contre moins de 4 % pour les numéros de facture | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
-| Cornell AI Innovation Hub | ORGANISATION | est_instance_de | Lab (framework Leader-Lab-Crowd) | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| Cornell Treasury Operations | ORGANISATION | est_instance_de | Crowd (framework Leader-Lab-Crowd) | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Cornell AI Innovation Hub | ORGANISATION | est_instance_de | framework Leader-Lab-Crowd | CONCEPT | 0.85 | ATEMPOREL | inféré |
+| Cornell Treasury Operations | ORGANISATION | est_instance_de | framework Leader-Lab-Crowd | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | Ethan Mollick | PERSONNE | recommande | récompenser les employés qui découvrent des usages transformationnels de l'IA | AFFIRMATION | 0.90 | ATEMPOREL | généré_assistant |
-| récupération de 100 000 $ | CONCEPT | est_instance_de | récompense visible de l'adoption IA (vivid win, Mollick) | CONCEPT | 0.82 | ATEMPOREL | généré_assistant |
+| récupération de 100 000 $ | CONCEPT | est_instance_de | récompense visible de l'adoption IA | CONCEPT | 0.82 | ATEMPOREL | généré_assistant |
 | Cornell AI Innovation Hub | ORGANISATION | recommande | une approche « contexte d'abord » (groundwork avant build) | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 
 ### Entités
@@ -103,3 +103,4 @@ Au-delà du chiffre, le cas est un **contre-exemple** au récit « l'IA ne crée
 | récompense visible de l'adoption IA | CONCEPT | définition | Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois | AJOUT |
 | escheatment | CONCEPT | contexte | Obligation légale (État de New York) de reverser à l'État les fonds non réclamés non résolus | AJOUT |
 | Kyriba | TECHNOLOGIE | usage | Système de gestion de trésorerie (TMS) — export des paiements non identifiés | AJOUT |
+| Claude Code | TECHNOLOGIE | rôle | Agent utilisé pour bâtir le pipeline de rapprochement, en Plan Mode d'abord | AJOUT |

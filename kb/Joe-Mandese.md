@@ -10,7 +10,7 @@
 
 ### dirige
 
-- MediaPost (rédaction) (ORGANISATION) — 0.96, DYNAMIQUE
+- [[kb/_entites-mineures#MediaPost\|MediaPost]] (ORGANISATION) — 0.96, DYNAMIQUE
   - [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
 ### publie

@@ -69,11 +69,11 @@ Anthropic a publié une **analyse post-mortem complète** à la suite d'une **pa
 | panne de service Claude | EVENEMENT | mesure | 47 000 utilisateurs actifs impactés | MESURE | 0.93 | STATIQUE | déclaré_article |
 | panne de service Claude | EVENEMENT | mesure | 3,2 millions de requêtes API échouées | MESURE | 0.93 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | publie | post-mortem technique détaillé | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Anthropic | ORGANISATION | permet | crédits SLA aux clients impactés | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Anthropic | ORGANISATION | permet | crédits SLA | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | utilise | tests de charge obligatoires | METHODOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | utilise | circuit breakers | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
 | post-mortem transparent | CONCEPT | améliore | confiance client long terme | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| culture post-mortem Anthropic | CONCEPT | s_inspire_de | Google SRE | METHODOLOGIE | 0.75 | ATEMPOREL | inféré |
+| culture post-mortem | CONCEPT | s_inspire_de | Google SRE | METHODOLOGIE | 0.75 | ATEMPOREL | inféré |
 | lacunes surveillance monitoring | CONCEPT | observé_dans | panne de service Claude | EVENEMENT | 0.92 | STATIQUE | déclaré_article |
 
 ### Entités

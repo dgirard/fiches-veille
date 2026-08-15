@@ -77,7 +77,7 @@ Les principes méthodologiques sous-jacents — TDD strict, YAGNI, DRY — tradu
 | Superpowers | TECHNOLOGIE | utilise | TDD rouge/vert strict | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | Superpowers | TECHNOLOGIE | s_applique_à | Claude Code | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | s_applique_à | Cursor | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
-| Superpowers | TECHNOLOGIE | utilise | fichiers SKILL.md | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Superpowers | TECHNOLOGIE | utilise | SKILL.md | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Superpowers | TECHNOLOGIE | utilise | mémoire conversationnelle SQLite | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | mesure | moins de 2k tokens injectés au démarrage | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
 | Superpowers | TECHNOLOGIE | mesure | 130k+ étoiles GitHub | MESURE | 0.85 | DYNAMIQUE | déclaré_article |

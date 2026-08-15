@@ -189,13 +189,13 @@ Structure de repo type :
 | grill-with-docs | METHODOLOGIE | s_inspire_de | Domain-Driven Design | METHODOLOGIE | 0.88 | ATEMPOREL | inféré |
 | grill-with-docs | METHODOLOGIE | améliore | précision et cohérence de la terminologie métier | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | réduit | dérives de terminologie et hypothèses non vérifiées | CONCEPT | 0.90 | ATEMPOREL | inféré |
-| grill-with-docs | METHODOLOGIE | permet | capture du vocabulaire métier dans CONTEXT.md | DOCUMENT | 0.90 | ATEMPOREL | déclaré_article |
+| grill-with-docs | METHODOLOGIE | permet | CONTEXT.md | DOCUMENT | 0.90 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | recommande | ne créer un ADR que si décision irréversible, surprenante et issue d'un vrai arbitrage | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | recommande | Create files lazily — only when you have something to write | CITATION | 0.93 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | affirme_que | CONTEXT.md should be totally devoid of implementation details | CITATION | 0.92 | ATEMPOREL | déclaré_article |
 | CONTEXT.md | DOCUMENT | est_instance_de | glossaire du domaine | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| ADR | DOCUMENT | fait_partie_de | docs/adr/ | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| CONTEXT-MAP.md | DOCUMENT | référence | CONTEXT.md de chaque bounded context | DOCUMENT | 0.87 | ATEMPOREL | déclaré_article |
+| ADR | DOCUMENT | fait_partie_de | ADR | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| CONTEXT-MAP.md | DOCUMENT | référence | CONTEXT.md | DOCUMENT | 0.87 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | s_applique_à | repos multi-domaines (bounded contexts DDD) | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | utilise | balises XML sémantiques séparant instruction et information de référence | CONCEPT | 0.86 | ATEMPOREL | déclaré_article |
 | grill-with-docs | METHODOLOGIE | utilise | modularisation par fichiers annexes (CONTEXT-FORMAT.md, ADR-FORMAT.md) | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |

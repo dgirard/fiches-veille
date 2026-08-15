@@ -1,6 +1,6 @@
 # Block
 
-> **Type** : ORGANISATION | 37 relations | 7 fiches sources
+> **Type** : ORGANISATION | 37 relations | 8 fiches sources
 
 ## Attributs
 
@@ -127,3 +127,4 @@
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+- [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]

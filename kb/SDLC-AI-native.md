@@ -35,7 +35,7 @@
 
 - [[kb/_entites-mineures#loi-d'Amdahl\|loi d'Amdahl]] **s_applique_à** → SDLC AI-native — 0.96
 - [[kb/SFEIR\|SFEIR]] **affine** → SDLC AI-native — 0.93
-- [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] **converge_avec** → SDLC AI-native — 0.92
+- [[kb/_entites-mineures#cycle-à-11-phases\|cycle à 11 phases]] **converge_avec** → SDLC AI-native — 0.92
 - [[kb/Claude-entite\|Claude]] **observé_dans** → SDLC AI-native — 0.90
 
 ## Fiches sources

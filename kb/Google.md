@@ -1,12 +1,13 @@
 # Google
 
-> **Type** : ORGANISATION | 49 relations | 16 fiches sources
+> **Type** : ORGANISATION | 48 relations | 20 fiches sources
 
 ## Attributs
 
 - **avantage_concurrentiel** : 3 à 4 générations d'avance en puces TPU
 - **mission** : Organiser l'information mondiale
 - **produit** : Gemini
+- **rôle** : Éditeur de l'Agents CLI et employeur de l'auteur
 - **secteur** : IA / DeepMind, créateur de Diffusion Gemma et de la famille Gemma
 - **trésorerie** : 100 milliards de dollars
 
@@ -32,12 +33,12 @@
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[kb/_entites-mineures#Antigravity\|Antigravity]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+- [[kb/_entites-mineures#Google-TPU\|Google TPU]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 - [[kb/_entites-mineures#Product-Sans\|Product Sans]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]]
-- TPU (puces custom) (TECHNOLOGIE) — 0.95, STATIQUE
-  - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 
 ### affirme_que
 
@@ -99,7 +100,7 @@
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 - [[kb/design-md\|design.md]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
-- Google Sans Flex en open source (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Google-Sans-Flex\|Google Sans Flex]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
@@ -130,7 +131,6 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Google-Chrome\|Google Chrome]] **fait_partie_de** → Google — 0.99
-- [[kb/Google-DeepMind\|Google DeepMind]] **fait_partie_de** → Google — 0.99
 - [[kb/Addy-Osmani\|Addy Osmani]] **travaille_chez** → Google — 0.98
 - [[kb/_entites-mineures#Joseph-Valente\|Joseph Valente]] **travaille_chez** → Google — 0.97
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
@@ -141,19 +141,23 @@
 
 ## Fiches sources
 
+- [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
+- [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 - [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 - [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
 - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
 - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
+- [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
+- [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]

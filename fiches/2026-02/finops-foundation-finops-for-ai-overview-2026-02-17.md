@@ -84,7 +84,7 @@ Limite notable : les **agents IA** ne sont pas encore traités comme catégorie 
 |--------|------|----------|--------|--------|
 | FinOps for AI Overview | DOCUMENT | type | Guide de référence officiel (CC BY 4.0) | AJOUT |
 | FinOps Foundation | ORGANISATION | secteur | Standardisation FinOps / Linux Foundation | AJOUT |
-| token economics | CONCEPT | KPIs | Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI | AJOUT |
+| économie des jetons | CONCEPT | KPIs | Cost Per Token, Cost Per Inference, Training Cost Efficiency, ROI | AJOUT |
 | MMLU | CONCEPT | usage | Benchmark d'alignement qualité-coût des modèles | AJOUT |
 | modèle Crawl-Walk-Run | METHODOLOGIE | phases | Crawl (fail fast) → Walk (automation) → Run (intégré) | AJOUT |
 | Framework FinOps | METHODOLOGIE | capacités | 14 capacités contrastées cloud vs IA | AJOUT |

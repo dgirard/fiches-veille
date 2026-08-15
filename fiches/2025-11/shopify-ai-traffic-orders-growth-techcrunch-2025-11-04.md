@@ -71,7 +71,7 @@ La stratégie de Shopify vise à positionner favorablement ses marchands alors q
 | Harley Finkelstein | PERSONNE | affirme_que | données millions marchands sont avantage compétitif | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 | Shopify | ORGANISATION | mesure | revenu de 2,84 milliards USD au Q3 2025 | MESURE | 0.99 | STATIQUE | déclaré_article |
 | Shopify | ORGANISATION | prédit | commerce agentique comme avenir du e-commerce | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| ChatGPT | TECHNOLOGIE | permet | trafic vers boutiques Shopify | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| ChatGPT | TECHNOLOGIE | permet | trafic vers les boutiques | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | commerce agentique | CONCEPT | améliore | parcours d'achat consommateurs | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | Shopify | ORGANISATION | affirme_que | IA est plus grand changement depuis Internet | AFFIRMATION | 0.97 | ATEMPOREL | déclaré_article |
 

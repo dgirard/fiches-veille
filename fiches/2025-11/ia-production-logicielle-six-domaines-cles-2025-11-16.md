@@ -55,7 +55,7 @@ Le document conclut par des recommandations stratégiques pour les dirigeants te
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | AI4* | CONCEPT | améliore | SDLC | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Vibe Coding | METHODOLOGIE | permet | Vibe Coding Hangover | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| Vibe Check | METHODOLOGIE | résout | problèmes qualité Vibe Coding | CONCEPT | 0.88 | DYNAMIQUE | inféré |
+| Vibe Check | METHODOLOGIE | résout | Vibe Coding | CONCEPT | 0.88 | DYNAMIQUE | inféré |
 | AI4Dev | CONCEPT | permet | transformation des développeurs en Guide Engineers | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | AI4Data | CONCEPT | permet | IA de confiance | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | AI4Cloud | CONCEPT | s_applique_à | crise FinOps pour IA | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
@@ -82,3 +82,4 @@ Le document conclut par des recommandations stratégiques pour les dirigeants te
 | GenAI Landing Zones | CONCEPT | catégorie | Architecture de référence déploiement IA | AJOUT |
 | Cielo | ORGANISATION | secteur | Services financiers | AJOUT |
 | Zup | ORGANISATION | secteur | Technologie | AJOUT |
+| Vibe Coding Hangover | CONCEPT | catégorie | Contrecoup qualité constaté après une phase de génération non revue | AJOUT |

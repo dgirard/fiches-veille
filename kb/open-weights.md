@@ -1,6 +1,6 @@
 # open-weights
 
-> **Type** : CONCEPT | 5 relations | 3 fiches sources
+> **Type** : CONCEPT | 8 relations | 3 fiches sources
 
 ## Attributs
 
@@ -30,6 +30,12 @@
 
 - « open source AI au sens OSI, qui exige en plus le code d'entraînement et la documentation des données » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
+## Relations (comme objet)
+
+- [[kb/Kimi-K3\|Kimi K3]] **est_instance_de** → open-weights — 0.92
+- [[kb/_entites-mineures#Kimi\|Kimi]] **est_instance_de** → open-weights — 0.85
+- [[kb/GLM-5.2\|GLM-5.2]] **est_instance_de** → open-weights — 0.82
 
 ## Fiches sources
 

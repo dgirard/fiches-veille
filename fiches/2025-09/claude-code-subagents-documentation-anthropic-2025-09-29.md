@@ -77,7 +77,7 @@ Les recommandations clés incluent : démarrer avec agents Claude-generated pour
 | Claude Code | TECHNOLOGIE | utilise | subagents | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | subagents | TECHNOLOGIE | utilise | context window séparé | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | subagents | TECHNOLOGIE | utilise | fichiers Markdown YAML frontmatter | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | permet | délégation de tâches aux subagents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
+| Claude Code | TECHNOLOGIE | permet | subagents | CONCEPT | 0.98 | ATEMPOREL | déclaré_article |
 | subagents | TECHNOLOGIE | améliore | préservation du contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Plan subagent | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Plan subagent | TECHNOLOGIE | s_applique_à | plan mode | METHODOLOGIE | 0.97 | STATIQUE | déclaré_article |

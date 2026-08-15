@@ -68,11 +68,11 @@ Chase conclut avec un avertissement : "Construire des agents sans observabilité
 | traces | CONCEPT | remplace | code comme documentation | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | décisions des agents IA | CONCEPT | observé_dans | modèle au runtime | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
 | code orchestration | CONCEPT | est_instance_de | échafaudage | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| debugging agents | METHODOLOGIE | est_basé_sur | inspection des traces | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
+| debugging agents | METHODOLOGIE | est_basé_sur | traces | METHODOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | testing agents | METHODOLOGIE | utilise | approches eval-driven | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | évaluation qualité | CONCEPT | remplace | monitoring uptime | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | observabilité | CONCEPT | permet | collaboration des équipes sur les décisions agents | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| comparaison traces | METHODOLOGIE | résout | non-déterminisme des agents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| traces | METHODOLOGIE | résout | non-déterminisme des agents | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 

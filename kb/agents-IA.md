@@ -27,7 +27,7 @@
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 - agence des enfants (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
-- débit de certaines étapes du SDLC (CONCEPT) — 0.90, ATEMPOREL
+- débit des étapes (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
 - longueur des tâches autonomes (croissance exponentielle) (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]

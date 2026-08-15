@@ -99,3 +99,4 @@ Le **21 juillet 2026**, **Mistral** et **Microsoft** annoncent un renforcement d
 | architecture multi-LLM souveraine | METHODOLOGIE | principe | Abstraire les modèles derrière une couche de routage et garder ses données en formats ouverts, pour transformer le choix de fournisseur en paramètre ; industrialisée par SFEIR via RAISE | AJOUT |
 | Robostral | TECHNOLOGIE | catégorie | Modèle de robotique de Mistral (Robostral Navigate, 8 juillet 2026) ; signal de verticalisation sectorielle | AJOUT |
 | arbitrage réglementaire | CONCEPT | principe | Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne) | AJOUT |
+| Microsoft | ORGANISATION | rôle | Partenaire industriel de Mistral, sans prise de participation au capital | AJOUT |

@@ -208,20 +208,20 @@ VoxComm, Redesigning the Agency Value Model, Brian Kessman, Lodestar Agency Cons
 | Charley Stoney | PERSONNE | dirige | EACA (European Association of Communication Agencies) | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Brian Kessman | PERSONNE | a_créé | Lodestar Agency Consulting | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Tim Williams | PERSONNE | a_créé | Ignition Consulting Group | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
-| Joe Mandese | PERSONNE | dirige | MediaPost (rédaction) | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Joe Mandese | PERSONNE | dirige | MediaPost | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
 | Joe Mandese | PERSONNE | publie | Billable Hours Are Dead AI Killed Them | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Outcome-based pricing | CONCEPT | remplace | Modèle billable hours agences | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Marges agences | CONCEPT | mesure | 30% (golden age) → 10% (current average) | MESURE | 0.91 | STATIQUE | déclaré_article |
+| Marges agences 30% → 10% | CONCEPT | mesure | 30% (golden age) → 10% (current average) | MESURE | 0.91 | STATIQUE | déclaré_article |
 | Créatifs | CONCEPT | mesure | ~5× output pour même rémunération qu'il y a 10 ans | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
 | Tim Williams | PERSONNE | affirme_que | incentives matter, hourly rate model = structural misalignment | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Tim Williams | PERSONNE | affirme_que | agencies don't sell services but solutions to business problems | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
 | Joe Mandese | PERSONNE | recommande | 4-shift framework outcome-based | METHODOLOGIE | 0.95 | ATEMPOREL | déclaré_article |
-| FIG | ORGANISATION | utilise | decoupled pricing from staffing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
+| FIG (agence) | ORGANISATION | utilise | decoupled pricing from staffing | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | 72andSunny | ORGANISATION | utilise | modular product menus | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Monks | ORGANISATION | utilise | single subscription combining talent + technology + improvement | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Charley Stoney | PERSONNE | recommande | découpler revenue et profit des staffing numbers | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Bilan VoxComm/MediaPost | CONCEPT | converge_avec | Sternfels McKinsey 60000 = 40000 humains + 20000 agents, Bain Rule of 40 outcome-based pricing, Bain cross-system labor 100 Md$ | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| Services intellectuels (consulting + agences + SaaS) | CONCEPT | converge_avec | bascule du time-and-materials vers l'outcome-based pricing | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Convergence services intellectuels billable → outcome | CONCEPT | converge_avec | Sternfels McKinsey 60000 = 40000 humains + 20000 agents, Bain Rule of 40 outcome-based pricing, Bain cross-system labor 100 Md$ | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| Convergence services intellectuels billable → outcome | CONCEPT | converge_avec | bascule du time-and-materials vers l'outcome-based pricing | CONCEPT | 0.93 | DYNAMIQUE | inféré |
 
 ### Entités
 

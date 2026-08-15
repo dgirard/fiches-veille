@@ -99,8 +99,8 @@ Rafal annonce enfin un **changement de paradigme** à faire accepter : *« on pa
 | plateforme d'IA générative | TECHNOLOGIE | est_basé_sur | orchestrateurs et API | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | orchestrateurs et API | TECHNOLOGIE | permet | de changer de LLM sans retoucher les applications | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Olivier Rafal | PERSONNE | recommande | considérer la plateforme GenAI elle-même comme un produit | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| Olivier Rafal | PERSONNE | recommande | financement en flux mensuel continu | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
-| démocratisation de la GenAI | CONCEPT | permet | shadow AI et fortes attentes vis-à-vis de la DSI | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| Olivier Rafal | PERSONNE | recommande | financement en flux | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
+| démocratisation de la GenAI | CONCEPT | permet | shadow AI | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | gouvernance GenAI | METHODOLOGIE | utilise | priorisation des produits par la valeur créée | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | agents Langchain | TECHNOLOGIE | remplace | programmation algorithmique classique | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 

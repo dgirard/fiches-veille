@@ -1,6 +1,6 @@
 # ChatGPT
 
-> **Type** : TECHNOLOGIE | 14 relations | 9 fiches sources
+> **Type** : TECHNOLOGIE | 15 relations | 10 fiches sources
 
 ## Attributs
 
@@ -30,7 +30,7 @@
 
 - achat conversationnel (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
-- trafic vers boutiques Shopify (CONCEPT) — 0.88, DYNAMIQUE
+- trafic vers les boutiques (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
 
 ### s_applique_à
@@ -57,6 +57,7 @@
 - [[kb/OpenAI\|OpenAI]] **a_créé** → ChatGPT — 0.98
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → ChatGPT — 0.95
 - [[kb/David-Perrin\|David Perrin]] **utilise** → ChatGPT — 0.95
+- Entreprises regulees **utilise** → ChatGPT — 0.95
 
 ## Fiches sources
 
@@ -68,4 +69,5 @@
 - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
 - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
+- [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]

@@ -72,12 +72,12 @@ Cette démocratisation du web conversationnel représente un tournant stratégiq
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | OpenAI | ORGANISATION | publie | ChatGPT Atlas | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
-| ChatGPT Atlas | TECHNOLOGIE | est_instance_de | navigateur web conversationnel | CONCEPT | 0.98 | STATIQUE | déclaré_article |
+| ChatGPT Atlas | TECHNOLOGIE | est_instance_de | web conversationnel | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | ChatGPT Atlas | TECHNOLOGIE | permet | web conversationnel | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | ChatGPT | TECHNOLOGIE | mesure | 700 millions d'utilisateurs hebdomadaires | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
 | ChatGPT | TECHNOLOGIE | mesure | 2,5 milliards de requêtes par jour | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
 | ChatGPT Atlas | TECHNOLOGIE | utilise | sites web | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
-| Agentic Commerce Protocol | TECHNOLOGIE | permet | Instant Checkout via ChatGPT | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| Agentic Commerce Protocol | TECHNOLOGIE | permet | Instant Checkout | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | Etsy | ORGANISATION | utilise | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Walmart | ORGANISATION | utilise | Agentic Commerce Protocol | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Olivier Rafal | PERSONNE | prédit | les interfaces d'entreprise deviendront conversationnelles | AFFIRMATION | 0.88 | ATEMPOREL | inféré |
@@ -97,3 +97,4 @@ Cette démocratisation du web conversationnel représente un tournant stratégiq
 | web conversationnel | CONCEPT | définition | Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA | AJOUT |
 | Instant Checkout | CONCEPT | statut | Disponible sur Etsy et Walmart aux États-Unis en 2025 | AJOUT |
 | services headless | CONCEPT | rôle | Architecture SI permettant aux agents IA d'accéder aux données de manière autonome | AJOUT |
+| ChatGPT | TECHNOLOGIE | catégorie | Assistant dont Atlas est la déclinaison navigateur | AJOUT |

@@ -1,6 +1,6 @@
 # Forward Deployed Engineering
 
-> **Type** : METHODOLOGIE | 7 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -28,7 +28,6 @@
 - [[kb/Palantir\|Palantir]] **utilise** → Forward Deployed Engineering — 0.96
 - [[kb/Anthropic\|Anthropic]] **utilise** → Forward Deployed Engineering — 0.90
 - [[kb/OpenAI\|OpenAI]] **utilise** → Forward Deployed Engineering — 0.90
-- [[kb/Palantir\|Palantir]] **a_créé** → Forward Deployed Engineering — 0.85
 
 ## Fiches sources
 

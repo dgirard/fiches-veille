@@ -72,10 +72,10 @@ Enfin, le **refresh** empêche la mémoire de mentir via trois contre-forces (re
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Compound engineering | METHODOLOGIE | affirme_que | "chaque unité de travail doit rendre la suivante plus facile" | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Compounding Knowledge Lifecycle | METHODOLOGIE | est_basé_sur | docs/solutions/ (mémoire qui compose) | DOCUMENT | 0.94 | ATEMPOREL | déclaré_article |
+| Compounding Knowledge Lifecycle | METHODOLOGIE | est_basé_sur | docs/solutions/ | DOCUMENT | 0.94 | ATEMPOREL | déclaré_article |
 | Learning | DOCUMENT | fait_partie_de | docs/solutions/ | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Learning | DOCUMENT | est_basé_sur | frontmatter conçu pour la recherche (grep-first) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| /ce-compound | TECHNOLOGIE | permet | capture d'une learning tant que le contexte est frais | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| /ce-compound | TECHNOLOGIE | permet | Learning | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | /ce-compound | TECHNOLOGIE | utilise | subagents (context analyzer, solution extractor, related-docs finder) | METHODOLOGIE | 0.9 | ATEMPOREL | déclaré_article |
 | learnings-researcher | METHODOLOGIE | permet | récupération grep-first aux points de décision (5 skills) | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | /ce-code-review | TECHNOLOGIE | utilise | learnings pour un verdict followed/violated contre le diff | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |

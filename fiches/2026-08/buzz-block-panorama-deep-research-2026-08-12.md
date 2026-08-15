@@ -117,7 +117,7 @@ Rapport de recherche interne du **12 août 2026** consolidant l'état public de 
 | Tamarin | TECHNOLOGIE | permet | de vérifier les propriétés d'autorisation de Buzz, ce qui est inhabituel pour un logiciel encore en version 0.5.x | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | Buzz | TECHNOLOGIE | s_oppose_à | l'autorisation fine par outil : l'appartenance au canal reste l'unité de permission, un agent dans un canal pouvant faire ce que font les membres | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | João Queirós | PERSONNE | affirme_que | l'appartenance à un canal n'est pas une autorisation fine par outil | CITATION | 0.94 | ATEMPOREL | déclaré_article |
-| agents Buzz | TECHNOLOGIE | utilise | un lancement en --dangerously-skip-permissions, hors bac à sable, sur la machine d'un humain | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
+| Buzz | TECHNOLOGIE | utilise | un lancement en --dangerously-skip-permissions, hors bac à sable, sur la machine d'un humain | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | affirme_que | l'agent peut tout faire, et la sécurité repose entièrement sur la restriction de qui peut lui donner des instructions | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Buzz | TECHNOLOGIE | s_oppose_à | l'observabilité de l'activité des agents : le workspace signale qu'un agent a reçu un message mais pas ce qu'il en fait, des agents ayant subi des kills OOM silencieux | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | journal d'audit signé | CONCEPT | permet | de prouver qui a fait quoi, sans empêcher un opérateur de relais compromis de supprimer des événements | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |

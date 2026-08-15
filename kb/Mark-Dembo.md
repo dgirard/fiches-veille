@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- agent IA DIY sur M5Stack Stick 3 (TECHNOLOGIE) — 0.96, STATIQUE
+- [[kb/_entites-mineures#BYO-Agent-with-M5Stack-Stick-3\|BYO Agent with M5Stack Stick 3]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
 ### affirme_que

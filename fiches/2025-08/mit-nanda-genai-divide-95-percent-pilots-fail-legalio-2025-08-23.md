@@ -82,8 +82,8 @@ Le rapport conclut : *"The GenAI Divide isn't inevitable. But bridging it requir
 | MIT NANDA | ORGANISATION | recommande | passer du build à l'achat (from building to buying) | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Back-office | CONCEPT | permet | meilleur ROI IA enterprise | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Agentic AI | TECHNOLOGIE | est_instance_de | phase suivante de l'IA enterprise | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| NANDA | TECHNOLOGIE | est_instance_de | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Model Context Protocol | TECHNOLOGIE | est_instance_de | protocole d'Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| NANDA | TECHNOLOGIE | est_instance_de | Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
+| Model Context Protocol | TECHNOLOGIE | est_instance_de | Agentic Web | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | MIT NANDA | ORGANISATION | affirme_que | le bottleneck de l'adoption IA enterprise est organisationnel, pas technologique | AFFIRMATION | 0.95 | ATEMPOREL | inféré |
 
 ### Entités

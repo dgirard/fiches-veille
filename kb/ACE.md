@@ -13,7 +13,7 @@
 
 ### améliore
 
-- AppWorld benchmark (TECHNOLOGIE) — 0.93, STATIQUE
+- [[kb/_entites-mineures#AppWorld\|AppWorld]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
 ### est_basé_sur

@@ -103,18 +103,18 @@ Greg conclut sur l'idée du **second brain design** : capturer l'inspiration cro
 | Meng To | PERSONNE | a_créé | Design+Code | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | Meng To | PERSONNE | a_créé | Aura | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Meng To | PERSONNE | a_créé | New Form | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| Meng To | PERSONNE | a_créé | Dream Cut (Mac app à venir) | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Meng To | PERSONNE | a_créé | Dream Cut | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Meng To | PERSONNE | affirme_que | la taste est le seul moat restant en design agentique | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Meng To | PERSONNE | mesure | ~500 000 $ dépensés en tokens | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Meng To | PERSONNE | mesure | 1000–10 000 itérations de prompts par produit | MESURE | 0.92 | DYNAMIQUE | déclaré_article |
-| Triade Meng | METHODOLOGIE | est_basé_sur | design.md = recette, HTML = plat fini, skills = ingrédients | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Triade Meng | METHODOLOGIE | est_basé_sur | Triade ingrédients/recette/plat fini | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Skills | TECHNOLOGIE | est_instance_de | prompts copyables réutilisables (63 dans New Form) | CONCEPT | 0.95 | STATIQUE | déclaré_article |
-| Purple gradient | CONCEPT | est_instance_de | signal de design générique à fuir | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Workflow Meng | METHODOLOGIE | est_basé_sur | Reference → design.md → Generate → Inspect → Systemize → Iterate → Remix → Expand → Export | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Iteration | METHODOLOGIE | s_oppose_à | Remix (90% vs 10% Meng) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Purple gradient meme | CONCEPT | est_instance_de | signal de design générique à fuir | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| Workflow Meng | METHODOLOGIE | est_basé_sur | Workflow Reference→Iterate→Remix | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Iteration | METHODOLOGIE | s_oppose_à | Workflow Reference→Iterate→Remix | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Greg Isenberg | PERSONNE | publie | The Greg Isenberg Show / podcast solo founders | EVENEMENT | 0.97 | DYNAMIQUE | déclaré_article |
 | Meng To | PERSONNE | mesure | passage de 3K à 15K MRR via le podcast Greg Isenberg | MESURE | 0.90 | STATIQUE | déclaré_article |
-| Google Stitch | TECHNOLOGIE | concurrence | Aura sur la génération design agentique | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
+| Google Stitch | TECHNOLOGIE | concurrence | Aura | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | design.md | TECHNOLOGIE | converge_avec | Software 3.0 (Karpathy) — context as programming lever | CONCEPT | 0.85 | ATEMPOREL | inféré |
 | design.md | TECHNOLOGIE | fait_partie_de | la famille agents.md / skills.md / soul.md (étendue au design) | CONCEPT | 0.92 | ATEMPOREL | inféré |
 | Judgment per minute | CONCEPT | remplace | pixel pushing dans le métier de designer agentique | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
@@ -144,3 +144,4 @@ Greg conclut sur l'idée du **second brain design** : capturer l'inspiration cro
 | Purple gradient meme | CONCEPT | catégorie | Signal négatif de design générique post-vibe-coding | AJOUT |
 | Workflow Reference→Iterate→Remix | METHODOLOGIE | catégorie | 9 étapes Meng To pour design agentique de qualité | AJOUT |
 | Taste as moat | CONCEPT | catégorie | Thèse Meng To — la taste est le seul moat dans l'âge agentique | AJOUT |
+| Google | ORGANISATION | rôle | Éditeur de Stitch, l'outil de génération d'interfaces cité comme point de comparaison | AJOUT |

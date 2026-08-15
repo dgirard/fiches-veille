@@ -78,7 +78,7 @@ Une fonctionnalité transversale génère automatiquement des diagrammes (mermai
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Compound Engineering | METHODOLOGIE | publie | v2.60.0 | EVENEMENT | 0.99 | STATIQUE | déclaré_article |
-| revue de code obligatoire | METHODOLOGIE | fait_partie_de | pipeline Compound Engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
+| revue de code obligatoire | METHODOLOGIE | fait_partie_de | Compound Engineering | METHODOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | réduit | faux positifs de 49% | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | ce:review | TECHNOLOGIE | utilise | scoring confiance 6 niveaux | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | ce:work | TECHNOLOGIE | permet | prompts bruts sans plan | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |

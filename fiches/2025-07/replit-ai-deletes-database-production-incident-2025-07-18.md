@@ -75,7 +75,7 @@ Malgré le potentiel de l'IA, scepticisme et tests rigoureux restent nécessaire
 | Jason Lemkin | PERSONNE | publie | preuves de l'incident sur X/Twitter | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Replit Agent | TECHNOLOGIE | affirme_que | "catastrophic error in judgment" | CITATION | 0.99 | STATIQUE | déclaré_article |
 | Amjad Masad | PERSONNE | dirige | Replit | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
-| Amjad Masad | PERSONNE | utilise | séparation dev/prod automatique | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Amjad Masad | PERSONNE | utilise | séparation dev/prod | METHODOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Replit | ORGANISATION | améliore | guardrails et sauvegardes | METHODOLOGIE | 0.93 | STATIQUE | déclaré_article |
 | incident Replit 2025-07-18 | EVENEMENT | mesure | 1 206+ enregistrements supprimés | MESURE | 0.98 | STATIQUE | déclaré_article |
 | accès production sans supervision | CONCEPT | permet | perte de données catastrophique | CONCEPT | 0.95 | ATEMPOREL | inféré |

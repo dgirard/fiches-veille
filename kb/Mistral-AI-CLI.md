@@ -21,7 +21,7 @@
 
 ### observé_dans
 
-- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.98, STATIQUE
+- [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 
 ### s_oppose_à

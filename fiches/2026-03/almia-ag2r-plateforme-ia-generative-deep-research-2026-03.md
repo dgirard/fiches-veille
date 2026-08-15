@@ -84,7 +84,7 @@ Almia s'inscrit dans un programme de transformation SI de 629 M€ sur six ans. 
 | Almia | TECHNOLOGIE | utilise | RAG par vectorisation | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Almia | TECHNOLOGIE | utilise | approche multi-LLM agnostique | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | AG2R LA MONDIALE | ORGANISATION | utilise | Champions IA | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| WEnvision | ORGANISATION | soutient | déploiement Almia | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| WEnvision | ORGANISATION | soutient | Almia | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | AXA | ORGANISATION | publie | Secure GPT | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Fabrice Heyries | PERSONNE | publie | stratégie Esprit de conquête | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | AG2R LA MONDIALE | ORGANISATION | mesure | 629 M€ investis dans la transformation SI sur 6 ans | MESURE | 0.97 | STATIQUE | déclaré_article |

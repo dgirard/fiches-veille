@@ -32,7 +32,7 @@
 
 ## Relations (comme objet)
 
-- tutoriels IA **observé_dans** → YouTube — 0.99
+- [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] **observé_dans** → YouTube — 0.99
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] **utilise** → YouTube — 0.95
 - [[kb/Andrej-Karpathy\|Andrej Karpathy]] **utilise** → YouTube — 0.95
 - [[kb/_entites-mineures#StatQuest\|StatQuest]] **utilise** → YouTube — 0.95

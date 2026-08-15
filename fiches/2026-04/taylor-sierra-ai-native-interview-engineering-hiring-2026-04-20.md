@@ -74,7 +74,7 @@ Les critères d'évaluation sont agnostiques au produit construit, et les entret
 | Phase Build | METHODOLOGIE | est_instance_de | session de 2 heures avec outils IA au choix | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Sierra | ORGANISATION | utilise | recrutement pour les forces (spikes) plutôt qu'absence de faiblesses | METHODOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Entretien de system design | METHODOLOGIE | remplace | phone screen codage | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| Sierra | ORGANISATION | utilise | entretien de débogage avec codebase et PR (pilote) | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Sierra | ORGANISATION | utilise | Entretien de débogage | METHODOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | Pensée produit | CONCEPT | surpasse | résolution algorithmique | CONCEPT | 0.90 | DYNAMIQUE | inféré |
 | Codex | TECHNOLOGIE | est_instance_de | catalyseur de la transformation de l'ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | est_instance_de | catalyseur de la transformation de l'ingénierie | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |

@@ -192,7 +192,7 @@ Shipper formalise le mécanisme par un **cycle de commodification en 5 temps** :
 | Fin (Intercom) | TECHNOLOGIE | résout | 65% conversations support | CONCEPT | 0.94 | DYNAMIQUE | déclaré_article |
 | AI | TECHNOLOGIE | réduit | valeur de la compétence humaine d'hier (commoditisation) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Commodification cycle | METHODOLOGIE | permet | régénération de la demande d'experts humains | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Frame | CONCEPT | s_oppose_à | Framer | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Frame vs Framer | CONCEPT | s_oppose_à | Frame vs Framer | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Modèles IA | TECHNOLOGIE | améliore | performance à l'intérieur des frames | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | Humains | CONCEPT | a_créé | nouveaux frames (changement de frame au-dessus des frames saturés) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | GPT-5.5 | TECHNOLOGIE | mesure | 62/100 au Senior Engineer benchmark | MESURE | 0.94 | STATIQUE | déclaré_article |
@@ -203,10 +203,10 @@ Shipper formalise le mécanisme par un **cycle de commodification en 5 temps** :
 | Agent employees | METHODOLOGIE | s_oppose_à | Human-AI collaboration | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Dan Shipper | PERSONNE | affirme_que | "humans are alive to a specific moment" | CITATION | 0.95 | ATEMPOREL | déclaré_article |
 | Modèles IA | TECHNOLOGIE | utilise | historical training data | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Zeno paradox of AI | CONCEPT | s_applique_à | gap structurel modèle-humain | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Dan Shipper | PERSONNE | s_oppose_à | narration AI white-collar bloodbath | CONCEPT | 0.93 | DYNAMIQUE | inféré |
-| After Automation | DOCUMENT | converge_avec | Ng No AI Jobpocalypse + Tatsyi Raiffeisen + Curran Intercom + Mollick FDE | CONCEPT | 0.92 | DYNAMIQUE | inféré |
-| After Automation | DOCUMENT | s_oppose_à | Sun NYT Permanent Underclass + Wallace-Wells AI Populism (tension productive) | CONCEPT | 0.91 | DYNAMIQUE | inféré |
+| Zeno's paradox of AI | CONCEPT | s_applique_à | gap structurel modèle-humain | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Dan Shipper | PERSONNE | s_oppose_à | narration white-collar bloodbath | CONCEPT | 0.93 | DYNAMIQUE | inféré |
+| After Automation | DOCUMENT | converge_avec | convergence des retours d'expérience | CONCEPT | 0.92 | DYNAMIQUE | inféré |
+| After Automation | DOCUMENT | s_oppose_à | tension productive avec les tribunes NYT | CONCEPT | 0.91 | DYNAMIQUE | inféré |
 
 ### Entités
 
@@ -225,3 +225,4 @@ Shipper formalise le mécanisme par un **cycle de commodification en 5 temps** :
 | GDPval | METHODOLOGIE | définition | Benchmark expert tasks — modèles atteignent 40-49% du niveau expert humain, mais nécessitent *extensive human framing* — la métrique elle-même est sous-spécifiée | AJOUT |
 | OpenClaw | TECHNOLOGIE | description | Projet (cité par Shipper) — 44 469 PRs en mai 2026 vs Kubernetes 5 200 PRs sur 2022 entier — preuve volumétrique du *« more work, not less »* | AJOUT |
 | Alive to a specific moment | CONCEPT | définition | Propriété humaine selon Shipper — vivre *« running wants, running concerns »* du présent. Les modèles peuvent inhabit cette perspective une fois prompted, mais pas avant | AJOUT |
+| AI | TECHNOLOGIE | rôle | Terme générique de l'essai, dont la valeur se déplace du frame vers le framer | AJOUT |

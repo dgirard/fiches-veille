@@ -71,7 +71,7 @@ Point de vue SFEIR : **l'open-weights change la question, pas seulement la répo
 | Moonshot AI | ORGANISATION | publie | Kimi K3 | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Yang Zhilin | PERSONNE | a_créé | Moonshot AI | ORGANISATION | 0.9 | STATIQUE | déclaré_article |
 | Moonshot AI | ORGANISATION | affirme_que | Kimi K3 compte ~2,8 trillions de paramètres, un contexte de 1M tokens et une architecture MoE à attention hybride (vendor-stated) | AFFIRMATION | 0.8 | STATIQUE | déclaré_article |
-| Kimi K3 | TECHNOLOGIE | est_instance_de | modèle frontier open-weights | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Kimi K3 | TECHNOLOGIE | est_instance_de | open-weights | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | Kimi K3 | TECHNOLOGIE | utilise | Kimi Delta Attention | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
 | Kimi Delta Attention | TECHNOLOGIE | améliore | décodage jusqu'à 6,3× plus rapide sur contextes de 1M tokens (revendiqué) | MESURE | 0.78 | STATIQUE | déclaré_article |
 | Kimi K3 | TECHNOLOGIE | remplace | Kimi K2.5 (fermé aux nouveaux, extinction au 31 août 2026) | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
@@ -83,7 +83,7 @@ Point de vue SFEIR : **l'open-weights change la question, pas seulement la répo
 | SFEIR | ORGANISATION | affirme_que | la couche des modèles se banalise et la valeur se déplace vers le système (Context Engineering, harnais, gouvernance des coûts) | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | les specs et scores de Kimi K3 sont auto-déclarés (vendor-stated) et à traiter comme des revendications, pas des faits mesurés | AFFIRMATION | 0.9 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | collabore_avec | Anthropic | ORGANISATION | 0.9 | DYNAMIQUE | déclaré_article |
-| GLM 5.2 | TECHNOLOGIE | est_instance_de | modèle frontier open-weights | CONCEPT | 0.82 | STATIQUE | déclaré_article |
+| GLM 5.2 | TECHNOLOGIE | est_instance_de | open-weights | CONCEPT | 0.82 | STATIQUE | déclaré_article |
 
 ### Entités
 

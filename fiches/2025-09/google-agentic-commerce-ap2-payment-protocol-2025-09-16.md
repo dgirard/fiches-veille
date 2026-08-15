@@ -73,10 +73,10 @@ Le projet est sous **licence Apache-2.0**, témoignant d'une approche ouverte et
 | AP2 | TECHNOLOGIE | permet | paiements IA sécurisés et interopérables | CONCEPT | 0.98 | STATIQUE | déclaré_article |
 | AP2 | TECHNOLOGIE | utilise | licence Apache-2.0 | CONCEPT | 0.99 | STATIQUE | déclaré_article |
 | protocol objects | CONCEPT | fait_partie_de | AP2 | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
-| samples AP2 | TECHNOLOGIE | utilise | Agent Development Kit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| samples AP2 | TECHNOLOGIE | utilise | Gemini 2.5 Flash | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | Agent Development Kit | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | Gemini 2.5 Flash | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | AP2 | TECHNOLOGIE | permet | intégration avec tout kit de développement d'agents | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| AP2 | TECHNOLOGIE | utilise | Google API Key | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| AP2 | TECHNOLOGIE | utilise | clé d'API | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | AP2 | TECHNOLOGIE | utilise | Vertex AI | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | google-agentic-commerce | ORGANISATION | prédit | la publication d'un package PyPI dédié | AFFIRMATION | 0.88 | DYNAMIQUE | déclaré_article |
 | AP2 | TECHNOLOGIE | fait_partie_de | agentic commerce | CONCEPT | 0.90 | ATEMPOREL | inféré |
@@ -97,3 +97,4 @@ Le projet est sous **licence Apache-2.0**, témoignant d'une approche ouverte et
 | Vertex AI | TECHNOLOGIE | usage recommandé | environnements de production | AJOUT |
 | agentic commerce | CONCEPT | définition | commerce géré de façon autonome par des agents IA | AJOUT |
 | protocol objects | CONCEPT | localisation | src/ap2/types | AJOUT |
+| Google | ORGANISATION | rôle | Éditeur du protocole, publié sous l'organisation GitHub google-agentic-commerce | AJOUT |

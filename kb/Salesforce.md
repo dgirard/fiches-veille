@@ -1,6 +1,6 @@
 # Salesforce
 
-> **Type** : ORGANISATION | 11 relations | 5 fiches sources
+> **Type** : ORGANISATION | 16 relations | 5 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,15 @@
 
 - modèle SaaS (seat-based) (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
+
+### affirme_que
+
+- « « we removed all token limits » » (CITATION) — 0.98, STATIQUE
+  - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+- « la sécurité agentique exige un modèle de sécurité fondamentalement différent » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+- « la qualité des fichiers CLAUDE.md pèse fortement sur la qualité de l'output agentique » (AFFIRMATION) — 0.86, ATEMPOREL
+  - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
 ### est_instance_de
 
@@ -44,6 +53,8 @@
 
 ### utilise
 
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 - IA interne à grande échelle (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 - état actuel pas état décisionnel (CONCEPT) — 0.90, DYNAMIQUE
@@ -52,6 +63,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Marc-Benioff\|Marc Benioff]] **dirige** → Salesforce — 0.98
+- [[kb/_entites-mineures#Srinivas-Tallapragada\|Srinivas Tallapragada]] **dirige** → Salesforce — 0.97
 - [[kb/HubSpot\|HubSpot]] **concurrence** → Salesforce — 0.90
 
 ## Fiches sources

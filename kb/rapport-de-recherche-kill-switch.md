@@ -1,6 +1,6 @@
-# rapport SFEIR kill switch
+# rapport de recherche kill switch
 
-> **Type** : DOCUMENT | 5 relations | 1 fiches sources
+> **Type** : DOCUMENT | 6 relations | 1 fiches sources
 
 ## Attributs
 
@@ -29,6 +29,10 @@
 
 - « l'attribution à Ars Technica de l'angle « pouvoir donné à Trump » sans vérification directe » (AFFIRMATION) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
+
+## Relations (comme objet)
+
+- [[kb/SFEIR\|SFEIR]] **publie** → rapport de recherche kill switch — 0.95
 
 ## Fiches sources
 

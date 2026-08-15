@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 17 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 14 fiches sources
 
 > **Même entité, autre type** : [[kb/Cursor-organisation\|Cursor (ORGANISATION)]]
 
@@ -55,6 +55,7 @@
 - [[kb/Linear\|Linear]] **utilise** → Cursor — 0.97
 - [[kb/Weave\|Weave]] **utilise** → Cursor — 0.92
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
+- [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Cursor — 0.90
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Cursor — 0.90
 - [[kb/Augmented-Craftsman\|Augmented Craftsman]] **utilise** → Cursor — 0.87
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **s_oppose_à** → Cursor — 0.80

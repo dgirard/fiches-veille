@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 105 relations | 48 fiches sources
+> **Type** : TECHNOLOGIE | 114 relations | 49 fiches sources
 
 ## Attributs
 
@@ -29,9 +29,9 @@
 
 ### a_créé
 
-- bibliothèque BERT en C (TECHNOLOGIE) — 0.95, STATIQUE
+- [[kb/_entites-mineures#BERT-en-C\|BERT en C]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
-- fichier mémoire delegate-coding-to-subagents.md (DOCUMENT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Fichier-mémoire\|Fichier mémoire]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 - documentation et fichiers de credentials volés (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
@@ -48,19 +48,21 @@
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 - [[kb/Every\|Every]] (ORGANISATION) — 0.92, STATIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
-- croissance revenus Anthropic (CONCEPT) — 0.90, STATIQUE
+- croissance des revenus (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - planification Fidelity One (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
 - productivité de développement (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
-- marché des outils de développement IA (CONCEPT) — 0.88, DYNAMIQUE
+- marché des outils de développement (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
 ### est_basé_sur
 
 - modèle Claude (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+- [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] (CONCEPT) — 0.98, ATEMPOREL
+  - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - terminal chat CLI (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - architecture en 7 couches (input, knowledge, integration, execution, output, observability, multi-agent) (CONCEPT) — 0.93, STATIQUE
@@ -116,9 +118,9 @@
 
 ### permet
 
-- délégation de tâches aux subagents (CONCEPT) — 0.98, ATEMPOREL
+- [[kb/subagents-concept\|subagents]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
-- artefacts HTML pour specs, PR, rapports, éditeurs jetables (METHODOLOGIE) — 0.96, ATEMPOREL
+- [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] (METHODOLOGIE) — 0.96, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - reconnaissance et exfiltration de données (METHODOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
@@ -138,7 +140,7 @@
 
 ### résout
 
-- défaillances timing TCP de Redis (TECHNOLOGIE) — 0.92, STATIQUE
+- [[kb/_entites-mineures#Redis\|Redis]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
 ### s_applique_à
@@ -147,6 +149,11 @@
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - utilisateurs non-techniques (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
+
+### s_inspire_de
+
+- [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] (CONCEPT) — 0.93, ATEMPOREL
+  - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 
 ### surpasse
 
@@ -191,7 +198,7 @@
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
-- header Accept text/markdown (CONCEPT) — 0.95, DYNAMIQUE
+- header Accept (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[kb/_entites-mineures#slash-commands\|slash commands]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
@@ -221,19 +228,25 @@
 - [[kb/Agent-Skills\|Agent Skills]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Rakuten\|Rakuten]] **utilise** → Claude Code — 0.98
+- [[kb/Augment-Code-technologie\|Augment Code]] **est_basé_sur** → Claude Code — 0.97
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Code — 0.97
+- [[kb/_entites-mineures#pédagogie-socratique\|pédagogie socratique]] **s_applique_à** → Claude Code — 0.97
 - [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → Claude Code — 0.97
 - [[kb/hyperresearch\|hyperresearch]] **utilise** → Claude Code — 0.97
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **utilise** → Claude Code — 0.97
+- [[kb/Salesforce\|Salesforce]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97
-- pipeline de content engineering **est_basé_sur** → Claude Code — 0.96
-- Employés Intercom (1100 en pic) **utilise** → Claude Code — 0.96
+- [[kb/content-engineering\|content engineering]] **est_basé_sur** → Claude Code — 0.96
+- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **s_applique_à** → Claude Code — 0.96
+- employés (1100 en pic) **utilise** → Claude Code — 0.96
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Claude Code — 0.96
 - [[kb/Cursor-technologie\|Cursor]] **converge_avec** → Claude Code — 0.95
 - [[kb/Boris-Cherny\|Boris Cherny]] **dirige** → Claude Code — 0.95
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Claude Code — 0.95
+- [[kb/_entites-mineures#demande-latente\|Demande latente]] **s_applique_à** → Claude Code — 0.95
+- [[kb/Alexandre-Frizzo\|Alexandre Frizzo]] **utilise** → Claude Code — 0.95
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
@@ -243,6 +256,7 @@
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **améliore** → Claude Code — 0.92
 - [[kb/_entites-mineures#goal\|/goal]] **fait_partie_de** → Claude Code — 0.92
 - [[kb/Codex\|Codex]] **concurrence** → Claude Code — 0.90
+- [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 
@@ -264,6 +278,7 @@
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
+- [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
 - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]

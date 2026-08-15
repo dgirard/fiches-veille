@@ -28,7 +28,7 @@
 
 - « de relier un agent à un commerçant (découverte, panier, paiement) » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
-- Instant Checkout via ChatGPT (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 - achats système-à-système (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]

@@ -71,7 +71,7 @@ Ensarguet conclut avec une observation puissante : "Les changements de plateform
 | Philippe Ensarguet | PERSONNE | recommande | architectures AI-native | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | IA | TECHNOLOGIE | améliore | la nature fondamentale du logiciel | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | changement de plateforme | CONCEPT | est_instance_de | pattern historique récurrent | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| startups | ORGANISATION | utilise | changements de plateforme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| startups | ORGANISATION | utilise | changement de plateforme | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | Perplexity | ORGANISATION | améliore | moteur de recherche | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | GitHub Copilot | TECHNOLOGIE | améliore | codage logiciel | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | logiciel IA-natif | CONCEPT | est_basé_sur | architecture composable et intent-driven | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

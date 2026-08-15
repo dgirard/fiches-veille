@@ -58,17 +58,17 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 | Edgar Kussberg | PERSONNE | publie | AI in the SDLC: Cutting Through the Hype | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | Edgar Kussberg | PERSONNE | travaille_chez | Sonar | ORGANISATION | 0.97 | DYNAMIQUE | déclaré_article |
 | IA | TECHNOLOGIE | s_applique_à | SDLC | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
-| adoption IA | CONCEPT | réduit | stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| adoption | CONCEPT | réduit | stabilité livraison | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | rapport DORA 2024 | DOCUMENT | affirme_que | une augmentation de 25% de l'adoption IA corrèle avec une baisse de 7,2% de la stabilité de livraison | AFFIRMATION | 0.95 | STATIQUE | déclaré_article |
-| assistants IA | TECHNOLOGIE | réduit | sécurité du code produit | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
+| assistants de code | TECHNOLOGIE | réduit | sécurité du code produit | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Stanford University | ORGANISATION | publie | étude sur assistants IA et vulnérabilités sécurité | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
-| dépendance excessive IA | CONCEPT | réduit | compétences développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
+| dépendance excessive | CONCEPT | réduit | compétences développeurs | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | code inutilisé | CONCEPT | permet | vulnérabilités sécurité | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | revue de code rigoureuse | METHODOLOGIE | réduit | dette technique | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 | Edgar Kussberg | PERSONNE | recommande | séparer la génération de code IA de l'assurance qualité IA via des outils différents | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| modèles IA | TECHNOLOGIE | est_basé_sur | bases de code open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
-| biais et vulnérabilités | CONCEPT | observé_dans | modèles IA | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
-| tests unitaires obligatoires | METHODOLOGIE | améliore | qualité code IA | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| modèles génératifs | TECHNOLOGIE | est_basé_sur | bases de code open-source | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| biais et vulnérabilités | CONCEPT | observé_dans | modèles génératifs | TECHNOLOGIE | 0.87 | DYNAMIQUE | déclaré_article |
+| tests unitaires obligatoires | METHODOLOGIE | améliore | qualité du code généré | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -84,3 +84,4 @@ En conclusion, l'IA est un outil puissant qui amplifie les capacités humaines, 
 | revue de code rigoureuse | METHODOLOGIE | objectif | Garantir qualité et sécurité du code généré par IA | AJOUT |
 | tests unitaires obligatoires | METHODOLOGIE | contrainte | Indépendants du processus de génération de code | AJOUT |
 | génération de code IA | CONCEPT | risque | Introduction de vulnérabilités et dégradation des compétences | AJOUT |
+| IA | TECHNOLOGIE | catégorie | Technologie dont l'article distingue les promesses des effets mesurés sur le cycle | AJOUT |

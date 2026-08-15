@@ -11,7 +11,7 @@
 
 ### permet
 
-- capture d'une learning tant que le contexte est frais (CONCEPT) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#Learning\|Learning]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
 ### utilise

@@ -62,7 +62,7 @@ En somme, Friedman plaide pour passer de la "génération naïve" à une **ingé
 | code review IA | METHODOLOGIE | réduit | dette technique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Itamar Friedman | PERSONNE | affirme_que | la qualité IA dépend à 80% du contexte | AFFIRMATION | 0.85 | STATIQUE | déclaré_article |
 | augmentation PRs | CONCEPT | permet | masquage baisse qualité et hausse rework | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Itamar Friedman | PERSONNE | recommande | Quality Gates automatisées | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
+| Itamar Friedman | PERSONNE | recommande | Quality Gates | METHODOLOGIE | 0.88 | STATIQUE | déclaré_article |
 
 ### Entités
 

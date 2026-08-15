@@ -1,6 +1,6 @@
 # AMD
 
-> **Type** : ORGANISATION | 3 relations | 3 fiches sources
+> **Type** : ORGANISATION | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -17,6 +17,7 @@
 ## Relations (comme objet)
 
 - [[kb/OpenAI\|OpenAI]] **collabore_avec** → AMD — 0.98
+- [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → AMD — 0.92
 - [[kb/Nvidia\|NVIDIA]] **concurrence** → AMD — 0.88
 
 ## Fiches sources

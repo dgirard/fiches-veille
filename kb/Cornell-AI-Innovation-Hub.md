@@ -25,7 +25,7 @@
 
 ### est_instance_de
 
-- Lab (framework Leader-Lab-Crowd) (CONCEPT) — 0.85, ATEMPOREL
+- [[kb/_entites-mineures#Framework-Leader-Lab-Crowd\|framework Leader-Lab-Crowd]] (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
 
 ### mesure

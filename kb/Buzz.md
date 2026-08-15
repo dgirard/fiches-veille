@@ -1,6 +1,6 @@
 # Buzz
 
-> **Type** : TECHNOLOGIE | 30 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 31 relations | 5 fiches sources
 
 ## Attributs
 
@@ -34,7 +34,7 @@
 - Slack (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
-- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+- [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### est_instance_de
@@ -104,6 +104,8 @@
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- « un lancement en --dangerously-skip-permissions, hors bac à sable, sur la machine d'un humain » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - « une suite de conformité que chaque backend de stockage objet doit passer, le résultat borné dépendant de trois garanties explicites » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 

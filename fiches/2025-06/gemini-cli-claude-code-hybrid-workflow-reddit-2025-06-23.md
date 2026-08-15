@@ -81,9 +81,9 @@ Les discussions mentionnent des préoccupations concernant l'usage potentiel des
 | Claude Code | TECHNOLOGIE | utilise | Gemini CLI | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | u/H9ejFGzpN2 | PERSONNE | affirme_que | Gemini CLI est actuellement gratuit | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | workflow hybride Gemini+Claude | METHODOLOGIE | réduit | consommation de la fenêtre de contexte Claude | CONCEPT | 0.93 | ATEMPOREL | inféré |
-| CLAUDE.md | TECHNOLOGIE | s_applique_à | comportement Claude Code | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| CLAUDE.md | TECHNOLOGIE | s_applique_à | Claude Code | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
 | u/casce | PERSONNE | a_créé | bash functions automatisation Gemini→Claude | TECHNOLOGIE | 0.88 | STATIQUE | déclaré_article |
-| MCP | TECHNOLOGIE | permet | intégration Gemini CLI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
+| MCP | TECHNOLOGIE | permet | Gemini CLI | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | orchestration multi-agents IA | CONCEPT | s_inspire_de | philosophie Unix | CONCEPT | 0.87 | ATEMPOREL | inféré |
 
 ### Entités

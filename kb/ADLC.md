@@ -1,9 +1,10 @@
 # ADLC
 
-> **Type** : METHODOLOGIE | 7 relations | 2 fiches sources
+> **Type** : METHODOLOGIE | 7 relations | 3 fiches sources
 
 ## Attributs
 
+- **catégorie** : Cycle dont le toolkit et le paquet @adlc/core sont les implémentations
 - **définition** : Agentic Development Lifecycle — cycle conçu autour des propriétés et défaillances des modèles
 - **principe** : Chaque phase trace à un mode de défaillance défendu ou une propriété exploitée
 - **rôle** : Cadre convergent (8 phases, 2 gates) cité comme découverte indépendante
@@ -38,3 +39,4 @@
 
 - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
 - [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
+- [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|The ADLC Toolkit]]

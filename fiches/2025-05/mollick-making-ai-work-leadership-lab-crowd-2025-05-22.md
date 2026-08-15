@@ -96,7 +96,7 @@ L'insight critique de Mollick : l'avantage compétitif appartient aux organisati
 | Ethan Mollick | PERSONNE | affirme_que | les gains individuels IA ne se traduisent pas en gains organisationnels | AFFIRMATION | 0.98 | ATEMPOREL | déclaré_article |
 | travailleurs américains | CONCEPT | utilise | IA | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
 | Secret Cyborgs | CONCEPT | est_basé_sur | incitations organisationnelles inadaptées | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Lab | CONCEPT | utilise | innovation ambidextre | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| framework Leadership-Lab-Crowd | CONCEPT | utilise | innovation ambidextre | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Wharton | ORGANISATION | a_créé | simulation business complexe | METHODOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Google Veo 3 | TECHNOLOGIE | permet | génération de vidéos à partir de texte | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 

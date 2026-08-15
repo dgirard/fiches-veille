@@ -71,7 +71,7 @@ Sur la base du feedback communautaire, **l'intégration des abonnements professi
 | Mathias Garcia | PERSONNE | a_créé | Mistral AI CLI | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Mistral AI CLI | TECHNOLOGIE | concurrence | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Mistral AI CLI | TECHNOLOGIE | est_basé_sur | Mistral AI | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | améliore | croissance revenus Anthropic | CONCEPT | 0.90 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | améliore | croissance des revenus | CONCEPT | 0.90 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | 4 milliards de dollars de revenus | MESURE | 0.88 | STATIQUE | déclaré_article |
 | Mistral AI CLI | TECHNOLOGIE | observé_dans | GitHub | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
 | Mistral AI CLI | TECHNOLOGIE | s_oppose_à | Cursor | TECHNOLOGIE | 0.80 | DYNAMIQUE | inféré |

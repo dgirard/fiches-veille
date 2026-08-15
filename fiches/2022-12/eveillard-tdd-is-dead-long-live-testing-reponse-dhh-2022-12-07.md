@@ -173,11 +173,11 @@ L'article est de **2022** (donc avant l'explosion coding agents) mais **résonne
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Mathieu Eveillard | PERSONNE | publie | TDD is dead. Long live testing. (réponse à DHH) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Mathieu Eveillard | PERSONNE | s_oppose_à | David Heinemeier Hansson (DHH) | PERSONNE | 0.96 | DYNAMIQUE | déclaré_article |
-| DHH | PERSONNE | publie | TDD is dead. Long live testing. (article original, 2014) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| David Heinemeier Hansson (DHH) | PERSONNE | publie | TDD is dead. Long live testing. (article original, 2014) | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Test-first | METHODOLOGIE | est_variante_de | Test-Driven Development | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Mathieu Eveillard | PERSONNE | affirme_que | DHH critique Test-first en l'appelant TDD | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Mathieu Eveillard | PERSONNE | affirme_que | le TDD n'est pas une religion, c'est un outil | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
-| TDD | METHODOLOGIE | s_applique_à | code du domaine, bounded context, cœur hexagone | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Test-Driven Development | METHODOLOGIE | s_applique_à | Code domaine / bounded context / cœur hexagone | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Mathieu Eveillard | PERSONNE | affirme_que | le code domaine TDD-pertinent représente 30% de la codebase au plus | AFFIRMATION | 0.91 | ATEMPOREL | déclaré_article |
 | Tests unitaires | CONCEPT | permet | feedback millisecondes + détection bug précoce | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Mathieu Eveillard | PERSONNE | affirme_que | les tests système ne remplacent pas les tests unitaires | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |

@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- pipeline de content engineering (METHODOLOGIE) — 0.96, STATIQUE
+- [[kb/content-engineering\|content engineering]] (METHODOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28\|How I Do Content Engineering With Claude Code]]
 
 ### affirme_que

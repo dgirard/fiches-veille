@@ -69,7 +69,7 @@ Les développeurs peuvent commencer à utiliser la **version stable** de Gemini 
 | Google | ORGANISATION | publie | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Logan Kilpatrick | PERSONNE | publie | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
 | Zach Gleicher | PERSONNE | publie | Gemini 2.5 Flash-Lite stable GA | EVENEMENT | 0.98 | STATIQUE | déclaré_article |
-| Gemini 2.5 Flash-Lite | TECHNOLOGIE | fait_partie_de | Gemini 2.5 | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
+| Gemini 2.5 Flash-Lite | TECHNOLOGIE | fait_partie_de | Gemini 2.5 Flash-Lite | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Gemini 2.5 Flash-Lite | TECHNOLOGIE | mesure | $0.10 / 1M tokens input, $0.40 / 1M tokens output | MESURE | 0.99 | DYNAMIQUE | déclaré_article |
 | Gemini 2.5 Flash-Lite | TECHNOLOGIE | surpasse | Gemini 2.0 Flash-Lite | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Gemini 2.5 Flash-Lite | TECHNOLOGIE | utilise | Grounding with Google Search | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
@@ -98,3 +98,5 @@ Les développeurs peuvent commencer à utiliser la **version stable** de Gemini 
 | HeyGen | ORGANISATION | secteur | Création avatars vidéo IA | AJOUT |
 | DocsHound | ORGANISATION | secteur | Documentation automatisée depuis démos produit | AJOUT |
 | Evertune | ORGANISATION | secteur | Analyse représentation marques dans LLMs | AJOUT |
+| Gemini 2.0 Flash-Lite | TECHNOLOGIE | rôle | Génération précédente servant de point de comparaison de qualité et de latence | AJOUT |
+| Grounding with Google Search | TECHNOLOGIE | rôle | Outil d'ancrage factuel disponible pour le modèle, facturé séparément | AJOUT |

@@ -20,7 +20,7 @@
 
 ### s_applique_à
 
-- h-index comme mesure de réputation scientifique (CONCEPT) — 0.88, DYNAMIQUE
+- [[kb/_entites-mineures#h-index\|h-index]] (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 - objectifs de tests COVID au Royaume-Uni (CONCEPT) — 0.87, STATIQUE
   - [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]

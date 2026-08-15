@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- Think Tank DSI Cast Software (ORGANISATION) — 0.97, STATIQUE
+- Think Tank DSI (ORGANISATION) — 0.97, STATIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ### affirme_que
@@ -23,7 +23,7 @@
 
 ### dirige
 
-- Cast Software France (ORGANISATION) — 0.99, DYNAMIQUE
+- [[kb/_entites-mineures#Cast-Software\|Cast Software]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ### mesure

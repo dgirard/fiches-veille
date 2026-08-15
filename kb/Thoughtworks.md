@@ -36,7 +36,7 @@
 
 ### s_oppose_à
 
-- consultant crowds (grands intégrateurs) (CONCEPT) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#no-consultant-crowds\|no consultant crowds]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ## Relations (comme objet)

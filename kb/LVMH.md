@@ -1,6 +1,6 @@
 # LVMH
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -29,9 +29,8 @@
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 - Alibaba Cloud (Chine, ~25 maisons) (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
-- Scaleway (données sensibles, e-commerce européen, cybersécurité) (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
-- [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE) — 0.88, STATIQUE
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
 
 ## Relations (comme objet)

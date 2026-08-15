@@ -1,6 +1,6 @@
 # skills
 
-> **Type** : CONCEPT | 12 relations | 4 fiches sources
+> **Type** : CONCEPT | 10 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/skills-technologie\|skills (TECHNOLOGIE)]]
 
@@ -10,11 +10,6 @@
 - **format** : Fichiers markdown (SKILL.md) persistants, testables et partageables
 
 ## Relations (comme sujet)
-
-### améliore
-
-- la précision de 21% à plus de 95% (CONCEPT) — 0.95, STATIQUE
-  - [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
 ### est_basé_sur
 
@@ -32,11 +27,6 @@
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 - « taux de réussite 79% (avec instructions explicites) » (MESURE) — 0.99, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
-
-### permet
-
-- capacités latentes des modèles (CONCEPT) — 0.90, ATEMPOREL
-  - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 
 ### réduit
 

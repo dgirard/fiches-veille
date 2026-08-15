@@ -69,7 +69,7 @@ Matthew Connelly, vice-doyen pour les initiatives IA à Columbia University, sig
 | Matthew Connelly | PERSONNE | affirme_que | entreprises IA mènent une prise de contrôle hostile de l'enseignement supérieur | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Anthropic | ORGANISATION | utilise | campus ambassadors | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Matthew Connelly | PERSONNE | affirme_que | Anthropic impose des frais exorbitants pour les comptes entreprise universitaires | AFFIRMATION | 0.93 | DYNAMIQUE | déclaré_article |
-| OpenAI | ORGANISATION | a_créé | détecteur ChatGPT (précision 99,9%) | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| OpenAI | ORGANISATION | a_créé | détecteur de texte généré | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | OpenAI | ORGANISATION | prédit | intégration dans infrastructure centrale de l'enseignement supérieur | AFFIRMATION | 0.90 | DYNAMIQUE | déclaré_article |
 | Roy Lee | PERSONNE | a_créé | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Andreessen Horowitz | ORGANISATION | soutient | Cluely | ORGANISATION | 0.98 | STATIQUE | déclaré_article |

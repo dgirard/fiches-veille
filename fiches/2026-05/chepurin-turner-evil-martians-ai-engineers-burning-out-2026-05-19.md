@@ -237,7 +237,7 @@ Les devs choisis pour **coder** font désormais un travail **différent** sans t
 | Travis Turner | PERSONNE | publie | AI-assisted engineers are burning out | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Evil Martians | ORGANISATION | publie | Chronicles AI-assisted engineers burning out | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Ivan Chepurin | PERSONNE | affirme_que | la productivité accélérée par l'IA cache un coût caché : le burnout développeur | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Remplissage du temps libéré par plus de tâches | CONCEPT | observé_dans | Alice (case study) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Remplissage du temps libéré par plus de tâches | CONCEPT | observé_dans | Ben vs Alice (case study) | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Ivan Chepurin | PERSONNE | affirme_que | le cycle craft (planning → crafting → result) est compressé en planning + review sans crafting | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
 | Review code | CONCEPT | remplace | Phase craft | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | Production de sens | CONCEPT | s_oppose_à | consommation de sens | CONCEPT | 0.92 | ATEMPOREL | inféré |
@@ -245,15 +245,15 @@ Les devs choisis pour **coder** font désormais un travail **différent** sans t
 | Ivan Chepurin | PERSONNE | affirme_que | « The model fills the silence before your own thinking has a chance to connect dots » | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | Ivan Chepurin | PERSONNE | affirme_que | « The more code is generated, the more code needs to be reviewed » | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Faible friction prompting | CONCEPT | permet | pivots constants sans scoping | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| HBR study 2026 | DOCUMENT | soutient | cognitive exhaustion AI oversight | CONCEPT | 0.95 | STATIQUE | déclaré_article |
+| HBR study 2026 cognitive exhaustion | DOCUMENT | soutient | cognitive exhaustion AI oversight | CONCEPT | 0.95 | STATIQUE | déclaré_article |
 | UC Berkeley research 2026 | DOCUMENT | affirme_que | les workers remplissent leurs pauses naturelles par des tâches IA | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
 | Ivan Chepurin | PERSONNE | recommande | Iteration max 3-4 | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
 | Craft hours AI-free | METHODOLOGIE | améliore | satisfaction professionnelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Mode ask | METHODOLOGIE | surpasse | mode generation | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Mode ask vs mode generation | METHODOLOGIE | surpasse | Mode ask vs mode generation | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Agent fine-tuning + guardrails | CONCEPT | est_instance_de | nouveau métier émergent | CONCEPT | 0.91 | DYNAMIQUE | déclaré_article |
-| AI-assisted engineers burning out | DOCUMENT | converge_avec | Osmani Cognitive Surrender + Frizzo Year Claude Code + Bedard BCG Brain Fry | DOCUMENT | 0.94 | DYNAMIQUE | inféré |
-| AI-assisted engineers burning out | DOCUMENT | converge_avec | Farley CD AI Trap (review bottleneck = Jevons paradox) | DOCUMENT | 0.91 | DYNAMIQUE | inféré |
-| AI-assisted engineers burning out | DOCUMENT | affine | Shipper After Automation (more work) | DOCUMENT | 0.90 | DYNAMIQUE | inféré |
+| AI-assisted engineers are burning out | DOCUMENT | converge_avec | Osmani Cognitive Surrender + Frizzo Year Claude Code + Bedard BCG Brain Fry | DOCUMENT | 0.94 | DYNAMIQUE | inféré |
+| AI-assisted engineers are burning out | DOCUMENT | converge_avec | Farley CD AI Trap (review bottleneck = Jevons paradox) | DOCUMENT | 0.91 | DYNAMIQUE | inféré |
+| AI-assisted engineers are burning out | DOCUMENT | affine | Shipper After Automation (more work) | DOCUMENT | 0.90 | DYNAMIQUE | inféré |
 
 ### Entités
 

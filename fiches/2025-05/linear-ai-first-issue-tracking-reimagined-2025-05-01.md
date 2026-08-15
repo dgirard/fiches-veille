@@ -92,7 +92,7 @@ Ce succès signale une tendance plus large : la prochaine génération d'outils 
 | Claude | TECHNOLOGIE | utilise | Linear MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | ChatGPT | TECHNOLOGIE | utilise | Linear MCP | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Linear | TECHNOLOGIE | utilise | Figma | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Linear | TECHNOLOGIE | surpasse | Jira (parts de marché chez les startups) | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
+| Linear | TECHNOLOGIE | surpasse | Jira | TECHNOLOGIE | 0.90 | DYNAMIQUE | déclaré_article |
 | outils AI-native | CONCEPT | remplace | outils legacy avec IA ajoutée | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités

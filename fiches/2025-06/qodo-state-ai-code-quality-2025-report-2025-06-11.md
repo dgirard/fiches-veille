@@ -79,14 +79,14 @@ Qodo conclut que libérer toute la valeur business de l'IA générative exige de
 | Itamar Friedman | PERSONNE | dirige | Qodo | ORGANISATION | 0.98 | DYNAMIQUE | déclaré_article |
 | Qodo | ORGANISATION | publie | State of AI Code Quality 2025 | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | State of AI Code Quality 2025 | DOCUMENT | est_basé_sur | sondage de 609 développeurs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Confidence Flywheel | CONCEPT | est_basé_sur | contexte riche réduisant les hallucinations | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| Confidence Flywheel | CONCEPT | est_basé_sur | contexte | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | State of AI Code Quality 2025 | DOCUMENT | affirme_que | le contexte est le facteur n°1 de la qualité et de la confiance | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | hallucinations IA | CONCEPT | réduit | confiance des développeurs | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | revue de code IA | METHODOLOGIE | améliore | qualité du code | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Qodo Merge | TECHNOLOGIE | permet | revue de code automatisée | METHODOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Qodo Gen | TECHNOLOGIE | permet | génération automatisée de tests | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | tests générés par IA | CONCEPT | améliore | confiance dans les suites de tests | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| sélection manuelle de contexte | METHODOLOGIE | s_oppose_à | apprentissage persistant du contexte | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
+| contexte | METHODOLOGIE | s_oppose_à | contexte | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | productivité IA | CONCEPT | converge_avec | amélioration de la qualité du code | CONCEPT | 0.91 | ATEMPOREL | déclaré_article |
 | Qodo | ORGANISATION | remplace | Codium | ORGANISATION | 0.96 | STATIQUE | déclaré_article |
 

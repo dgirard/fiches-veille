@@ -78,14 +78,14 @@ Ethan Mollick (Wharton) lance sur LinkedIn un test de cohérence à l'adresse de
 | roon | PERSONNE | travaille_chez | OpenAI | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
 | roon | PERSONNE | affirme_que | l'adoption de l'IA est un problème hayékien de flux d'information organisationnel | AFFIRMATION | 0.94 | STATIQUE | déclaré_article |
 | roon | PERSONNE | a_créé | Gentle Singularity | CONCEPT | 0.92 | STATIQUE | déclaré_article |
-| AI labs | ORGANISATION | utilise | équipes Forward Deployed Engineering | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
+| AI labs | ORGANISATION | utilise | Forward Deployed Engineering (FDE) | METHODOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | AI labs | ORGANISATION | prédit | remplacement majoritaire des cols blancs d'ici 2035 | AFFIRMATION | 0.93 | STATIQUE | déclaré_article |
 | Accenture | ORGANISATION | est_basé_sur | responsabilité contractuelle | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Ethan Mollick | PERSONNE | affirme_que | l'ASI peut être bloquée par un VP refusant de modifier son workflow Salesforce | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
-| Ethan Mollick | PERSONNE | soutient | vision East Coast (transformation lente fragmentée) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | s_oppose_à | vision West Coast (automatisation rapide) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | soutient | Vision East Coast (IA) | CONCEPT | 0.94 | STATIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | s_oppose_à | Vision West Coast (IA) | CONCEPT | 0.92 | STATIQUE | déclaré_article |
 | argument flux d'information organisationnel | CONCEPT | s_inspire_de | Friedrich Hayek | PERSONNE | 0.90 | STATIQUE | inféré |
-| Palantir | ORGANISATION | a_créé | Forward Deployed Engineering | METHODOLOGIE | 0.85 | STATIQUE | inféré |
+| Palantir | ORGANISATION | a_créé | Forward Deployed Engineering (FDE) | METHODOLOGIE | 0.85 | STATIQUE | inféré |
 | Sam Altman | PERSONNE | utilise | Gentle Singularity | CONCEPT | 0.88 | STATIQUE | inféré |
 | Praticiens et consultants | PERSONNE | affirme_que | la technologie est la partie facile | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 

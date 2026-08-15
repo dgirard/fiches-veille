@@ -109,3 +109,4 @@ Ultimement, la vision de Chehade se concentre sur la construction de systèmes q
 | déduplication | CONCEPT | domaine | Sauvegarde de données, optimisation stockage | AJOUT |
 | confiance logicielle | CONCEPT | description | Confiance construite par transparence, non par marketing | AJOUT |
 | Epitech Paris | ORGANISATION | catégorie | École d'informatique, France | AJOUT |
+| transparence | CONCEPT | catégorie | Principe général dont la transparence des sauvegardes est un cas d'application | AJOUT |

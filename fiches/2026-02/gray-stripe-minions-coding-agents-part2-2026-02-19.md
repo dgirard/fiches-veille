@@ -65,7 +65,7 @@ Gray conclut sur une philosophie transversale : les investissements consentis pa
 | Minions | TECHNOLOGIE | utilise | devboxes | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Devboxes | TECHNOLOGIE | est_basé_sur | AWS EC2 | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Devboxes | TECHNOLOGIE | mesure | disponibilité en 10 secondes | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
-| Minions | TECHNOLOGIE | utilise | goose (fork) | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Minions | TECHNOLOGIE | utilise | goose | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
 | Block | ORGANISATION | a_créé | goose | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Blueprints | METHODOLOGIE | utilise | nœuds déterministes et nœuds agents | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Stripe | ORGANISATION | utilise | format Cursor (règles) | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |

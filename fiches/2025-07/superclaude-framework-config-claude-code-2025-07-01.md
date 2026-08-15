@@ -81,9 +81,9 @@ L'installation flexible supporte trois écosystèmes : pipx (recommandé pour Li
 | SuperClaude-Org | ORGANISATION | publie | SuperClaude | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | NomenAK | PERSONNE | dirige | SuperClaude | TECHNOLOGIE | 0.85 | DYNAMIQUE | déclaré_article |
 | SuperClaude-Org | ORGANISATION | affirme_que | SuperClaude n'est pas affilié à Anthropic | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
-| Tavily | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| Context7 | TECHNOLOGIE | fait_partie_de | SuperClaude MCP integration | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
-| SuperClaude v2.0 | TECHNOLOGIE | remplace | slash commands V1.x | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Tavily | TECHNOLOGIE | fait_partie_de | intégration MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| Context7 | TECHNOLOGIE | fait_partie_de | intégration MCP | TECHNOLOGIE | 0.93 | DYNAMIQUE | déclaré_article |
+| SuperClaude | TECHNOLOGIE | remplace | slash commands V1.x | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 
 ### Entités
 

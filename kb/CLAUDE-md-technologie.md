@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-> **Type** : TECHNOLOGIE | 9 relations | 11 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 11 fiches sources
 
 > **Même entité, autre type** : [[kb/CLAUDE-md-document\|CLAUDE.md (DOCUMENT)]]
 
@@ -31,7 +31,9 @@
 
 ### remplace
 
-- LangGraph et CrewAI (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- [[kb/CrewAI\|CrewAI]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]]
+- [[kb/LangGraph\|LangGraph]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/greyling-cli-vs-ide-development-environment-collapse-2026-03-09\|CLI vs IDE — The Development Environment Is The Next Layer To Collapse]]
 
 ### réduit
@@ -51,7 +53,7 @@
 
 ### s_applique_à
 
-- comportement Claude Code (CONCEPT) — 0.96, DYNAMIQUE
+- [[kb/Claude-Code\|Claude Code]] (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
 ## Relations (comme objet)

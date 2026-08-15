@@ -135,27 +135,27 @@ Le thread se conclut sur un slogan darwinien : *"the replaceable: building wrapp
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Rohit | PERSONNE | publie | 2026 AI engineer roadmap | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
-| Rohit | PERSONNE | affirme_que | le gap salarial entre prompt engineer et systems architect atteint 150k$ en 2026 | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
-| Rohit | PERSONNE | affirme_que | les generic wrappers seront sherlockés par les big tech | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | publie | 2026 AI engineer roadmap | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | affirme_que | le gap salarial entre prompt engineer et systems architect atteint 150k$ en 2026 | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | affirme_que | les generic wrappers seront sherlockés par les big tech | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
 | Agent | TECHNOLOGIE | est_basé_sur | the loop (boucle autonome orientée but) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | AI mobile app SLM | METHODOLOGIE | permet | démonstration de edge AI + resource optimization | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Self-improving coding agent | METHODOLOGIE | permet | démonstration des agentic loops + production debugging | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Video editor agent | METHODOLOGIE | permet | démonstration du multimodal AI + tool integration | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| Cursor for video editors | METHODOLOGIE | permet | démonstration du multimodal AI + tool integration | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Personal life OS agent | METHODOLOGIE | permet | démonstration du deep context + privacy-first | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
-| Enterprise workflow agent | METHODOLOGIE | permet | démonstration d'orchestration production-grade | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Rohit | PERSONNE | recommande | Shotcut (fork d'éditeur vidéo open-source) | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
+| Autonomous enterprise workflow agent | METHODOLOGIE | permet | démonstration d'orchestration production-grade | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | recommande | Shotcut | TECHNOLOGIE | 0.90 | STATIQUE | déclaré_article |
 | Sliding window + semantic chunking | METHODOLOGIE | résout | gestion du context window mobile SLM | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Dynamic quantization | METHODOLOGIE | permet | adaptation du modèle au device (4-bit/8-bit) | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | Agentic loop | CONCEPT | est_basé_sur | plan-execute-test-reflect | METHODOLOGIE | 0.96 | ATEMPOREL | déclaré_article |
 | Memory hierarchy | METHODOLOGIE | utilise | short-term + long-term + failure memory | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Personal knowledge graph | TECHNOLOGIE | permet | deep context personnel | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | Event-driven architecture | METHODOLOGIE | permet | déclenchement des enterprise workflows | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Multi-agent delegation | METHODOLOGIE | utilise | orchestrator + agents spécialistes | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
+| délégation multi-agents | METHODOLOGIE | utilise | orchestrator + agents spécialistes | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | Audit trail immuable | METHODOLOGIE | permet | compliance + debugging | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Rohit | PERSONNE | recommande | build in public + tag pour amplification | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Rohit | PERSONNE | affirme_que | shipper des systèmes autonomes rend l'ingénieur unfireable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Rohit | PERSONNE | affirme_que | construire des wrappers rend l'ingénieur replaceable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | recommande | build in public + tag pour amplification | METHODOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | affirme_que | shipper des systèmes autonomes rend l'ingénieur unfireable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
+| Rohit (@rohit4verse) | PERSONNE | affirme_que | construire des wrappers rend l'ingénieur replaceable | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 
 ### Entités
 
@@ -173,3 +173,4 @@ Le thread se conclut sur un slogan darwinien : *"the replaceable: building wrapp
 | Shotcut | TECHNOLOGIE | catégorie | Éditeur vidéo open-source recommandé comme fork pour le projet 3 | AJOUT |
 | Sherlocking | CONCEPT | définition | Pratique des grandes plateformes (orig. Apple) absorbant les fonctionnalités d'apps tierces | AJOUT |
 | Replaceable vs Unfireable | CONCEPT | définition | Slogan : building wrappers (replaceable) vs shipping autonomous systems (unfireable) | AJOUT |
+| Agent | TECHNOLOGIE | catégorie | Brique commune aux cinq projets de la feuille de route, par opposition au simple wrapper d'API | AJOUT |

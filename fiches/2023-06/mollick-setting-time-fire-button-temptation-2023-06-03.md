@@ -93,7 +93,7 @@ Cette transformation ne nécessite aucune IA plus avancée que celle existant en
 | utilisation IA au travail | METHODOLOGIE | améliore | satisfaction au travail | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | mere ceremony | CONCEPT | est_basé_sur | tâches organisationnelles sans utilité | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | IA générative | TECHNOLOGIE | réduit | valeur des documents comme signaux | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
-| Ethan Mollick | PERSONNE | prédit | crise de sens au travail | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
+| Ethan Mollick | PERSONNE | prédit | crise de sens | CONCEPT | 0.96 | DYNAMIQUE | déclaré_article |
 | Adobe Photoshop | TECHNOLOGIE | utilise | IA générative | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Ethan Mollick | PERSONNE | recommande | redesign du travail par les leaders pour le monde IA | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 

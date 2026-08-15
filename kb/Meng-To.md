@@ -16,7 +16,7 @@
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 - [[kb/_entites-mineures#New-Form\|New Form]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
-- Dream Cut (Mac app à venir) (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#Dream-Cut\|Dream Cut]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
 ### affirme_que

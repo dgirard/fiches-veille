@@ -1,6 +1,6 @@
 # subagents
 
-> **Type** : CONCEPT | 12 relations | 4 fiches sources
+> **Type** : CONCEPT | 14 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/subagents-technologie\|subagents (TECHNOLOGIE)]]
 
@@ -27,8 +27,6 @@
   - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 - chaînage de workflows (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
-- parallélisation des workstreams (CONCEPT) — 0.88, ATEMPOREL
-  - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
 
 ### utilise
 
@@ -44,8 +42,11 @@
 ## Relations (comme objet)
 
 - [[kb/Claude-Code\|Claude Code]] **utilise** → subagents — 0.99
+- [[kb/Claude-Code\|Claude Code]] **permet** → subagents — 0.98
+- [[kb/_entites-mineures#Sid-Bidasaria\|Sid Bidasaria]] **a_créé** → subagents — 0.97
 - [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → subagents — 0.95
 - [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → subagents — 0.95
+- [[kb/Opus-4.5\|Opus 4.5]] **s_applique_à** → subagents — 0.85
 
 ## Fiches sources
 

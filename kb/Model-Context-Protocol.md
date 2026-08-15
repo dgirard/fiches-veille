@@ -13,7 +13,7 @@
 
 ### est_instance_de
 
-- protocole d'Agentic Web (CONCEPT) — 0.92, ATEMPOREL
+- [[kb/_entites-mineures#Agentic-Web\|Agentic Web]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
 
 ### fait_partie_de

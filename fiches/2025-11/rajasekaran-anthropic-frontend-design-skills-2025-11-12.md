@@ -67,7 +67,7 @@ L'insight stratégique central : "Les modèles ont souvent la capacité de faire
 | direction thématique | METHODOLOGIE | remplace | spécifications pixel par pixel | METHODOLOGIE | 0.88 | ATEMPOREL | déclaré_article |
 | typographie distinctive | CONCEPT | améliore | qualité designs générés | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | choix sûrs sans guidance | CONCEPT | observé_dans | Claude | TECHNOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
-| Skills | TECHNOLOGIE | permet | capacités latentes des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
+| Skills Claude | TECHNOLOGIE | permet | capacités latentes des modèles | CONCEPT | 0.90 | ATEMPOREL | inféré |
 
 ### Entités
 
@@ -78,3 +78,4 @@ L'insight stratégique central : "Les modèles ont souvent la capacité de faire
 | Skills Claude | TECHNOLOGIE | catégorie | Système de contexte dynamique activé à la demande | AJOUT |
 | Web Artifacts Builder | TECHNOLOGIE | catégorie | Skill permettant React/Tailwind/shadcn dans Claude | AJOUT |
 | convergence distributionnelle | CONCEPT | définition | Tendance des modèles vers des choix surreprésentés dans les données | AJOUT |
+| Claude | TECHNOLOGIE | catégorie | Modèle auquel les skills de design frontend sont attachées | AJOUT |

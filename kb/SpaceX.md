@@ -15,7 +15,7 @@
 
 ### publie
 
-- IPO SPCX au Nasdaq (EVENEMENT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
 ### utilise

@@ -1,9 +1,10 @@
 # Google Cloud
 
-> **Type** : ORGANISATION | 6 relations | 1 fiches sources
+> **Type** : ORGANISATION | 8 relations | 2 fiches sources
 
 ## Attributs
 
+- **rôle** : Éditeur du rapport avec l'équipe DORA ; l'équipe delta en signe l'analyse économique
 - **secteur** : Cloud / DevOps Research
 
 ## Relations (comme sujet)
@@ -29,8 +30,11 @@
 
 ## Relations (comme objet)
 
+- [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] **travaille_chez** → Google Cloud — 0.95
+- [[kb/_entites-mineures#Ursula-Lübbert-Passing\|Ursula Lübbert-Passing]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Google Cloud — 0.90
 
 ## Fiches sources
 
+- [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]

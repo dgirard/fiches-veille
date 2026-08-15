@@ -60,8 +60,8 @@ Cette itération rapide, rendue possible par les agents IA, accélère considér
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Boris Cherny | PERSONNE | a_créé | Claude Code | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | travaille_chez | Anthropic | ORGANISATION | 0.99 | DYNAMIQUE | déclaré_article |
-| Sid Bidasaria | PERSONNE | a_créé | Claude Code subagents | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Cat Wu | PERSONNE | fait_partie_de | équipe fondatrice Claude Code | CONCEPT | 0.97 | STATIQUE | déclaré_article |
+| Sid Bidasaria | PERSONNE | a_créé | subagents | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
+| Cat Wu | PERSONNE | fait_partie_de | équipe fondatrice | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | TypeScript | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Ink | TECHNOLOGIE | 0.98 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | Bun | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
@@ -69,7 +69,7 @@ Cette itération rapide, rendue possible par les agents IA, accélère considér
 | Claude Code | TECHNOLOGIE | est_basé_sur | modèle Claude | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | 90% du code Claude Code écrit par Claude Code | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Anthropic | ORGANISATION | mesure | augmentation 67% des pull requests | MESURE | 0.93 | STATIQUE | déclaré_article |
-| genèse de Claude Code | CONCEPT | est_basé_sur | product overhang | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| genèse du produit | CONCEPT | est_basé_sur | product overhang | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | système de permissions | CONCEPT | réduit | risque d'actions irréversibles | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Gergely Orosz | PERSONNE | publie | article Claude Code | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 

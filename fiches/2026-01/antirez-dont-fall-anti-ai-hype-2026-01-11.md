@@ -65,9 +65,9 @@ L'article conclut par une métaphore invitant les lecteurs à redécouvrir "le f
 | Salvatore Sanfilippo | PERSONNE | a_créé | Redis | TECHNOLOGIE | 0.99 | STATIQUE | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | utilise | Claude Code | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | affirme_que | l'IA va changer la programmation pour toujours | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| Claude Code | TECHNOLOGIE | a_créé | bibliothèque BERT en C | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | a_créé | BERT en C | TECHNOLOGIE | 0.95 | STATIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | améliore | Linenoise | TECHNOLOGIE | 0.93 | STATIQUE | déclaré_article |
-| Claude Code | TECHNOLOGIE | résout | défaillances timing TCP de Redis | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
+| Claude Code | TECHNOLOGIE | résout | Redis | TECHNOLOGIE | 0.92 | STATIQUE | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | recommande | exploration sérieuse outils IA | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
 | Salvatore Sanfilippo | PERSONNE | s_oppose_à | centralisation technologique | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | IA programmation | TECHNOLOGIE | améliore | productivité développeur | CONCEPT | 0.90 | ATEMPOREL | inféré |

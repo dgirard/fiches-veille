@@ -1,6 +1,6 @@
 # Gemini CLI
 
-> **Type** : TECHNOLOGIE | 8 relations | 5 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 5 fiches sources
 
 ## Attributs
 
@@ -12,7 +12,7 @@
 
 ### utilise
 
-- [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
+- [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
 
 ## Relations (comme objet)
@@ -24,6 +24,7 @@
 - [[kb/Claude-Code\|Claude Code]] **utilise** → Gemini CLI — 0.95
 - [[kb/Claude-Skills\|Claude Skills]] **s_applique_à** → Gemini CLI — 0.92
 - [[kb/Claude-Code\|Claude Code]] **surpasse** → Gemini CLI — 0.92
+- [[kb/MCP\|MCP]] **permet** → Gemini CLI — 0.85
 
 ## Fiches sources
 

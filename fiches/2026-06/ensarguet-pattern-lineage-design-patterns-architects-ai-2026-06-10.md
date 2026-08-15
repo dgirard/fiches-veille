@@ -72,9 +72,9 @@ Cette « pattern literacy » est la compétence résiliente, et la seule à enfi
 | Kent Beck | PERSONNE | a_créé | Hillside Group | ORGANISATION | 0.88 | STATIQUE | déclaré_article |
 | pattern literacy | METHODOLOGIE | s_applique_à | rôle d'architecte logiciel | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | IA agentique | TECHNOLOGIE | réduit | apprentissage traditionnel des architectes par l'écriture de code | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| design patterns agentiques | METHODOLOGIE | est_basé_sur | forces invariantes nommées depuis des décennies | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| design patterns | METHODOLOGIE | est_basé_sur | forces invariantes | CONCEPT | 0.88 | ATEMPOREL | inféré |
 | prompt chaining | METHODOLOGIE | est_variante_de | Pipes and Filters | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
-| non-déterminisme | CONCEPT | affine | les six forces invariantes des patterns | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
+| non-déterminisme | CONCEPT | affine | forces invariantes | CONCEPT | 0.87 | ATEMPOREL | déclaré_article |
 | Philippe Ensarguet | PERSONNE | affirme_que | le rôle d'architecte devient critique quand son pipeline de formation se brise | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | pattern literacy | METHODOLOGIE | converge_avec | mondes IT et réseau télécom | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Anthropic | ORGANISATION | publie | Building Effective Agents | DOCUMENT | 0.90 | STATIQUE | déclaré_article |
@@ -96,3 +96,4 @@ Cette « pattern literacy » est la compétence résiliente, et la seule à enfi
 | non-déterminisme | CONCEPT | rôle | Septième force introduite par les systèmes agentiques | AJOUT |
 | IA agentique | TECHNOLOGIE | rôle | Banalise le code, casse l'apprentissage traditionnel | AJOUT |
 | Anthropic | ORGANISATION | secteur | IA / Safety | AJOUT |
+| IA | TECHNOLOGIE | catégorie | Technologie générique dont la variante agentique éprouve la littératie des patterns | AJOUT |

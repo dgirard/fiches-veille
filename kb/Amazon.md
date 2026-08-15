@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 8 relations | 2 fiches sources
+> **Type** : ORGANISATION | 7 relations | 2 fiches sources
 
 ## Attributs
 
@@ -26,11 +26,6 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
-
-### utilise
-
-- [[kb/_entites-mineures#Blameless-post-mortem\|blameless post-mortem]] (METHODOLOGIE) — 0.92, DYNAMIQUE
-  - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
 ## Relations (comme objet)
 

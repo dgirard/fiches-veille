@@ -87,7 +87,7 @@ Trois risques **s'aggravent** avec la sophistication : la vérification reste hu
 | Claude Code | TECHNOLOGIE | utilise | Opus 4.8 | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
 | Skills | TECHNOLOGIE | réduit | coût de ré-explication du contexte projet | CONCEPT | 0.9 | ATEMPOREL | déclaré_article |
 | Mémoire externe | CONCEPT | permet | persistance de l'état entre runs | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| MCP | TECHNOLOGIE | permet | connecteurs portables entre Codex et Claude Code | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
+| MCP | TECHNOLOGIE | permet | connecteurs portables | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | Loop Engineering | METHODOLOGIE | affirme_que | "la dette de compréhension s'accélère avec des boucles plus rapides" | AFFIRMATION | 0.85 | ATEMPOREL | déclaré_article |
 | Conditions d'arrêt | CONCEPT | recommande | écriture comme des contrats (état, preuve, contraintes, budget) | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 

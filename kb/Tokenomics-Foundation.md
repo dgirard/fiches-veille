@@ -1,6 +1,6 @@
 # Tokenomics Foundation
 
-> **Type** : ORGANISATION | 9 relations | 2 fiches sources
+> **Type** : ORGANISATION | 10 relations | 2 fiches sources
 
 ## Attributs
 
@@ -10,8 +10,9 @@
 
 ### affine
 
-- la spécification FOCUS (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- [[kb/_entites-mineures#spécification-FOCUS\|spécification FOCUS]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
+- la spécification FOCUS (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
 
 ### affirme_que

@@ -126,11 +126,11 @@ Limites : repo encore jeune, validation d'adoption massive non établie, auteur 
 | techygarg | PERSONNE | a_créé | Lattice | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
 | Lattice | TECHNOLOGIE | est_instance_de | framework de skills composables | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Lattice | TECHNOLOGIE | s_applique_à | Claude Code et Cursor | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Lattice | TECHNOLOGIE | est_basé_sur | architecture trois tiers (Atoms / Molecules / Refiners) | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
-| Atoms | CONCEPT | est_instance_de | guardrails mono-principe | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Molecules | CONCEPT | utilise | atoms (composition en workflows multi-étapes) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
-| Refiners | CONCEPT | affine | comportement des atoms via interviews guidées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
-| Pipeline canonique Lattice | METHODOLOGIE | est_basé_sur | séquence lattice-init → design-blueprint → code-forge → review | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Lattice | TECHNOLOGIE | est_basé_sur | Architecture trois-tiers Lattice | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
+| Atoms (Lattice) | CONCEPT | est_instance_de | guardrails mono-principe | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Molecules (Lattice) | CONCEPT | utilise | Atoms (Lattice) | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
+| Refiners (Lattice) | CONCEPT | affine | Atoms (Lattice) | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| Pipeline Lattice | METHODOLOGIE | est_basé_sur | Pipeline Lattice | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | .lattice folder | TECHNOLOGIE | est_instance_de | living context layer projet | CONCEPT | 0.96 | ATEMPOREL | déclaré_article |
 | techygarg | PERSONNE | publie | série d'articles sur martinfowler.com | DOCUMENT | 0.93 | DYNAMIQUE | déclaré_article |
 | Lattice | TECHNOLOGIE | utilise | design-first progressive approach (5 niveaux, imposé) | METHODOLOGIE | 0.94 | ATEMPOREL | déclaré_article |
@@ -138,11 +138,11 @@ Limites : repo encore jeune, validation d'adoption massive non établie, auteur 
 | Lattice | TECHNOLOGIE | affirme_que | "Composability over monoliths" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Lattice | TECHNOLOGIE | affirme_que | "Living context over static config" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Lattice | TECHNOLOGIE | utilise | licence MIT | CONCEPT | 0.97 | STATIQUE | déclaré_article |
-| Lattice | TECHNOLOGIE | fait_partie_de | famille des skills frameworks 2026 | CONCEPT | 0.94 | DYNAMIQUE | inféré |
+| Lattice | TECHNOLOGIE | fait_partie_de | Famille skills frameworks 2026 | CONCEPT | 0.94 | DYNAMIQUE | inféré |
 | Lattice | TECHNOLOGIE | converge_avec | Superpowers (Vincent) | TECHNOLOGIE | 0.92 | ATEMPOREL | inféré |
 | Lattice | TECHNOLOGIE | converge_avec | PROJ-AI (Habert WEnvision) | METHODOLOGIE | 0.91 | ATEMPOREL | inféré |
-| Lattice | TECHNOLOGIE | converge_avec | Compound Engineering | METHODOLOGIE | 0.93 | ATEMPOREL | inféré |
-| Lattice pipeline | METHODOLOGIE | converge_avec | pipeline ce:brainstorm → ce:plan → ce:work → ce:review (isomorphisme) | METHODOLOGIE | 0.91 | ATEMPOREL | inféré |
+| Lattice | TECHNOLOGIE | converge_avec | Convergence Lattice ↔ Compound Engineering | METHODOLOGIE | 0.93 | ATEMPOREL | inféré |
+| Pipeline Lattice | METHODOLOGIE | converge_avec | pipeline ce:brainstorm → ce:plan → ce:work → ce:review (isomorphisme) | METHODOLOGIE | 0.91 | ATEMPOREL | inféré |
 | .lattice folder | TECHNOLOGIE | converge_avec | docs/plans + docs/solutions + docs/brainstorms (CE, isomorphisme) | TECHNOLOGIE | 0.90 | ATEMPOREL | inféré |
 | Lattice | TECHNOLOGIE | fait_partie_de | réseau éditorial martinfowler.com | ORGANISATION | 0.89 | DYNAMIQUE | inféré |
 

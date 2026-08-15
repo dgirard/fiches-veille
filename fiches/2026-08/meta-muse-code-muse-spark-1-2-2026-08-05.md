@@ -125,7 +125,7 @@ L'annonce vaut donc surtout comme **confirmation empirique** d'une thèse déjà
 | Muse Spark 1.2 | TECHNOLOGIE | mesure | 70,6 % sur le benchmark interne de Meta contre 79,4 % pour Opus 5 | MESURE | 0.92 | STATIQUE | déclaré_article |
 | Muse Spark 1.2 | TECHNOLOGIE | mesure | une accélération de noyau KDA de +68,7 %, quatrième derrière Opus 5, GPT 5.6 Sol et Opus 4.8 | MESURE | 0.92 | STATIQUE | déclaré_article |
 | comparaison de paires modèle et harnais | CONCEPT | s_oppose_à | une comparaison de modèles isolés, les deux benchmarks publics évaluant chaque modèle avec le harnais de son laboratoire | AFFIRMATION | 0.9 | ATEMPOREL | inféré |
-| gain de Muse Spark 1.1 à 1.2 | CONCEPT | mesure | 2,3 points sur le seul comparatif sans harnais indiqué, contre 6,7 points sur les comparatifs avec harnais | MESURE | 0.88 | STATIQUE | inféré |
+| gain entre versions | CONCEPT | mesure | 2,3 points sur le seul comparatif sans harnais indiqué, contre 6,7 points sur les comparatifs avec harnais | MESURE | 0.88 | STATIQUE | inféré |
 | Muse Code | TECHNOLOGIE | s_applique_à | l'optimisation itérative de noyaux GPU sur plus de 1 000 appels d'outils et jusqu'à 24 heures | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
 | interdiction d'importer une bibliothèque de noyaux tierce | CONCEPT | permet | de tester la réimplémentation d'un algorithme plutôt que l'enveloppement d'une implémentation existante | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Meta AI Research | ORGANISATION | affirme_que | ce lancement est une étape vers la frontière, des modèles plus grands et plus capables étant à venir | CITATION | 0.95 | DYNAMIQUE | déclaré_article |
@@ -142,3 +142,4 @@ L'annonce vaut donc surtout comme **confirmation empirique** d'une thèse déjà
 | agents d'arrière-plan persistants | CONCEPT | définition | Sous-agents spécialisés maintenus actifs pendant toute une session au lieu d'être créés par tâche, ce qui évite de refaire la même collecte d'information et laisse à l'agent le choix du moment où il remonte au principal | AJOUT |
 | journal d'événements d'agent | CONCEPT | définition | Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue | AJOUT |
 | Meta Internal Coding Bench | DOCUMENT | référence | Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points | AJOUT |
+| Muse Spark 1.1 | TECHNOLOGIE | rôle | Version précédente du modèle, point de comparaison des gains annoncés | AJOUT |

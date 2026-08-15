@@ -78,7 +78,7 @@ Côté capacités, **ingénierie logicielle** : Stripe rapporte que Fable 5 a «
 | Claude Mythos 5 | TECHNOLOGIE | améliore | design de protéines accéléré ~10× | MESURE | 0.88 | STATIQUE | déclaré_article |
 | Claude Mythos 5 | TECHNOLOGIE | surpasse | modèles spécialisés de design de protéines | TECHNOLOGIE | 0.85 | STATIQUE | déclaré_article |
 | Claude Fable 5 | TECHNOLOGIE | permet | agents autonomes sur tâches à long horizon | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| Anthropic | ORGANISATION | recommande | rétention des données 30 jours pour la classe Mythos | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
+| Anthropic | ORGANISATION | recommande | classe Mythos | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 
 ### Entités
 

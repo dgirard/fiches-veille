@@ -1,23 +1,11 @@
 # Opus 4.8
 
-> **Type** : TECHNOLOGIE | 5 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
 
 ## Attributs
 
 - **rôle** : Modèle utilisé via Claude Code (sorti peu avant)
 - **usage** : Modèle de fallback après l'incident Fable
-
-## Relations (comme sujet)
-
-### améliore
-
-- raisonnement long contexte vs Opus 4.7 (CONCEPT) — 0.90, STATIQUE
-  - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
-
-### mesure
-
-- « 68,1 % F1 GraphWalks à 1M tokens » (MESURE) — 0.92, STATIQUE
-  - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ## Relations (comme objet)
 

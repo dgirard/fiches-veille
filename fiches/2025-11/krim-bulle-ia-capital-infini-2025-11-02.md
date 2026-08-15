@@ -58,15 +58,15 @@ Enfin, Tariq Krim élargit la perspective au-delà du logiciel en soulignant le 
 | OpenAI | ORGANISATION | a_créé | OpenAI Group PBC | ORGANISATION | 0.98 | STATIQUE | déclaré_article |
 | Microsoft | ORGANISATION | mesure | 27% du capital d'OpenAI Group PBC détenus | MESURE | 0.97 | DYNAMIQUE | déclaré_article |
 | Microsoft | ORGANISATION | permet | infrastructure de calcul via Azure | TECHNOLOGIE | 0.96 | DYNAMIQUE | déclaré_article |
-| Nvidia | ORGANISATION | concurrence | Google TPU | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
+| Nvidia | ORGANISATION | concurrence | TPU | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
 | Google | ORGANISATION | a_créé | TPU | TECHNOLOGIE | 0.97 | DYNAMIQUE | déclaré_article |
 | Big Tech | CONCEPT | mesure | 500 milliards de dollars de trésorerie | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Big Tech | CONCEPT | a_créé | barrières à l'entrée pour l'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Tesla | ORGANISATION | a_créé | Optimus | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
+| Tesla | ORGANISATION | a_créé | Tesla Optimus | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | modèles économiques IA | CONCEPT | converge_avec | facturation au résultat | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
 | infrastructure IA | CONCEPT | s_oppose_à | bulle Internet de 2000 | EVENEMENT | 0.95 | STATIQUE | déclaré_article |
 | Mistral | ORGANISATION | mesure | levée de fonds visée de 6 milliards de dollars | MESURE | 0.90 | STATIQUE | déclaré_article |
-| concentration du capital Big Tech | CONCEPT | réduit | souveraineté numérique | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| Big Tech | CONCEPT | réduit | souveraineté numérique | CONCEPT | 0.88 | ATEMPOREL | inféré |
 
 ### Entités
 
@@ -87,3 +87,4 @@ Enfin, Tariq Krim élargit la perspective au-delà du logiciel en soulignant le 
 | bulle Internet de 2000 | EVENEMENT | indicateur | 97% de la fibre optique inutilisée | AJOUT |
 | souveraineté numérique | CONCEPT | domaine | Stratégie des États face à la concentration IA | AJOUT |
 | Mistral | ORGANISATION | secteur | IA / modèles de langage (Europe) | AJOUT |
+| Tesla | ORGANISATION | rôle | Constructeur dont le robot Optimus sert d'exemple de valorisation adossée à une promesse | AJOUT |

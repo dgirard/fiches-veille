@@ -26,7 +26,7 @@
 
 - dispatching vers sous-agents (METHODOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
-- création automatique de git worktrees (CONCEPT) — 0.92, STATIQUE
+- [[kb/git-worktrees-methodologie\|git worktrees]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 
 ### s_applique_à
@@ -40,10 +40,10 @@
 
 - [[kb/skills-concept\|skills]] (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
-- fichiers SKILL.md (CONCEPT) — 0.95, ATEMPOREL
-  - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
 - [[kb/_entites-mineures#RED-GREEN-TDD\|RED/GREEN TDD]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+- [[kb/_entites-mineures#SKILL-md\|SKILL.md]] (CONCEPT) — 0.95, ATEMPOREL
+  - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
 - TDD rouge/vert strict (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-04/vincent-superpowers-agentic-skills-framework-github-2026-04-02\|Superpowers: An agentic skills framework & software development methodology that works]]
 - [[kb/_entites-mineures#workflow-Brainstorm-Plan-Implement\|workflow Brainstorm-Plan-Implement]] (METHODOLOGIE) — 0.95, STATIQUE

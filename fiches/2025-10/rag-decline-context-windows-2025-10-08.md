@@ -56,7 +56,7 @@ En conclusion, l'article appelle à une réévaluation des architectures IA actu
 | Philippe Ensarguet | PERSONNE | affirme_que | le RAG est en déclin structurel | AFFIRMATION | 0.98 | STATIQUE | déclaré_article |
 | Nicolas Bustamante | PERSONNE | publie | The RAG Obituary | DOCUMENT | 0.97 | STATIQUE | déclaré_article |
 | Nicolas Bustamante | PERSONNE | dirige | Fintool | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| RAG | TECHNOLOGIE | résout | fenêtres de contexte limitées | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
+| RAG | TECHNOLOGIE | résout | fenêtres de contexte | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | cascade d'échecs en cinq étapes | CONCEPT | observé_dans | RAG | TECHNOLOGIE | 0.93 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | remplace | RAG | TECHNOLOGIE | 0.88 | DYNAMIQUE | déclaré_article |
 | Claude Code | TECHNOLOGIE | utilise | grep et glob | TECHNOLOGIE | 0.96 | STATIQUE | déclaré_article |

@@ -230,6 +230,13 @@ def _is_drift(triple_key: str, declared_key: str) -> bool:
     return difflib.SequenceMatcher(None, triple_key, declared_key).ratio() > 0.86
 
 
+# Types « porteurs » : un DOCUMENT ou un EVENEMENT est nommé d'après ce dont il
+# parle, donc son nom recouvre celui de son sujet. L'ontologie prescrit
+# explicitement cette coexistence (`article Cognitive Surrender` DOCUMENT vs
+# `Cognitive Surrender` CONCEPT) — ce n'est pas une dérive.
+TYPES_PORTEURS = {"DOCUMENT", "EVENEMENT"}
+
+
 def check_derive_nommage(root: Path) -> tuple[str, str, str]:
     """(h) Entité d'un triple qui est une variante d'une entité déclarée voisine.
 
@@ -239,24 +246,43 @@ def check_derive_nommage(root: Path) -> tuple[str, str, str]:
     signalée — la table Entités n'est pas un miroir des triples (cf.
     `docs/reference/ontologie-kg.md`), seule la variante d'un nom déjà déclaré
     dans la MÊME fiche traduit une perte.
+
+    Exemption : un nom de triple typé DOCUMENT ou EVENEMENT dont toutes les
+    entités déclarées voisines portent un autre type applique la règle de
+    désambiguïsation de l'ontologie (préfixer le document), pas une dérive.
     """
     fusion_map, _ = bk.load_entity_aliases(root / "scripts")
     total = 0
     fiches_touchees = []
     for p in sorted((root / "fiches").rglob("*.md")):
         triples, ents, fiche_id = bk.extract_graphe_connaissance(str(p))
-        declared = {bk.normalize_name(bk.apply_fusion_name(e.get("Entité", ""), fusion_map))
-                    for e in ents if e.get("Entité", "").strip()}
-        declared_keys = {_drift_key(d): d for d in declared}
-        noms = set()
+        declared = {}
+        for e in ents:
+            nom_e = bk.apply_fusion_name(e.get("Entité", "").strip(), fusion_map)
+            if nom_e:
+                declared.setdefault(bk.normalize_name(nom_e),
+                                    (nom_e, e.get("Type", "").strip()))
+        noms = {}
         for t in triples:
             for col, tcol in (("Sujet", "Type Sujet"), ("Objet", "Type Objet")):
                 nom = t.get(col, "").strip()
-                if nom and t.get(tcol, "").strip() not in bk.EPISTEMIC_TYPES:
-                    noms.add(bk.apply_fusion_name(nom, fusion_map))
-        n = sum(1 for nom in noms
-                if bk.normalize_name(nom) not in declared
-                and any(_is_drift(_drift_key(nom), dk) for dk in declared_keys))
+                typ = t.get(tcol, "").strip()
+                if nom and typ not in bk.EPISTEMIC_TYPES:
+                    noms[bk.apply_fusion_name(nom, fusion_map)] = typ
+
+        def _derive(nom: str, typ: str) -> bool:
+            if bk.normalize_name(nom) in declared:
+                return False
+            cle = _drift_key(nom)
+            proches = [dt for dn, dt in declared.values()
+                       if _is_drift(cle, _drift_key(dn))]
+            if not proches:
+                return False
+            if typ in TYPES_PORTEURS and all(dt != typ for dt in proches):
+                return False
+            return True
+
+        n = sum(1 for nom, typ in noms.items() if _derive(nom, typ))
         if n:
             total += n
             fiches_touchees.append((n, fiche_id))

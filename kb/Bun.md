@@ -1,6 +1,6 @@
 # Bun
 
-> **Type** : TECHNOLOGIE | 5 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 6 relations | 2 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,11 @@
 - **usage** : Build et packaging de Claude Code
 
 ## Relations (comme sujet)
+
+### améliore
+
+- « démarrage de Claude Code de ~10 % sur Linux » (MESURE) — 0.85, STATIQUE
+  - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
 ### fait_partie_de
 

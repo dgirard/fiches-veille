@@ -153,3 +153,4 @@ Premier volet de la série **Work at the Frontier** d'**OpenAI Economic Research
 | AI Jobs Transition Framework | DOCUMENT | référence | Cadre antérieur d'OpenAI Economic Research posant que de nombreux métiers vont se réorganiser plutôt que disparaître ; socle doctrinal du rapport sur le task crossover | AJOUT |
 | rétention de tâches propres | CONCEPT | définition | Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente | AJOUT |
 | signal avancé d'usage | CONCEPT | définition | Statut épistémique revendiqué pour les données d'usage IA : indicateur de recomposition des métiers visible avant les fiches de poste, les intitulés et les statistiques du marché du travail | AJOUT |
+| OpenAI | ORGANISATION | rôle | Éditeur du rapport, dont Economic Research est l'équipe signataire | AJOUT |

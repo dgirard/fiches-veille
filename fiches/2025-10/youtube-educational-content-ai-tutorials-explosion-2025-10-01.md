@@ -68,7 +68,7 @@ L'explosion crée des problèmes de trouvabilité : résultats de recherche satu
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| tutoriels IA | CONCEPT | observé_dans | YouTube | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
+| tutoriels IA YouTube | CONCEPT | observé_dans | YouTube | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
 | YouTube | ORGANISATION | améliore | éducation technique | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | YouTube | ORGANISATION | concurrence | éducation traditionnelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | Andrej Karpathy | PERSONNE | utilise | YouTube | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |

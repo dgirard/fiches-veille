@@ -105,11 +105,11 @@ Dans ce point de vue publié sur sfeir.com le 1er août 2026, **SFEIR** fait con
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| SFEIR | ORGANISATION | publie | L'IA fait tomber les murs entre les métiers (article) | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| SFEIR | ORGANISATION | publie | L'IA fait tomber les murs entre les métiers | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | L'IA fait tomber les murs entre les métiers | DOCUMENT | référence | The Cybernetic Teammate | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | L'IA fait tomber les murs entre les métiers | DOCUMENT | référence | Work at the Frontier | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | SFEIR | ORGANISATION | affirme_que | l'IA générative ne se contente pas d'accélérer le travail existant, elle redistribue qui fait quoi | AFFIRMATION | 0.96 | DYNAMIQUE | déclaré_article |
-| IA générative | TECHNOLOGIE | permet | le boundary-spanning : raisonner au-delà de son domaine d'origine | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
+| IA générative | TECHNOLOGIE | permet | boundary-spanning | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
 | The Cybernetic Teammate | DOCUMENT | mesure | un individu équipé d'IA atteint +0,37 σ vs individus seuls, contre +0,24 σ pour les équipes sans IA | MESURE | 0.95 | STATIQUE | déclaré_article |
 | The Cybernetic Teammate | DOCUMENT | mesure | équipe + IA triple environ la probabilité d'une solution classée dans le top 10 % | MESURE | 0.9 | STATIQUE | déclaré_article |
 | IA générative | TECHNOLOGIE | réduit | les silos fonctionnels (les solutions cessent d'être marquées par le métier d'origine) | AFFIRMATION | 0.92 | DYNAMIQUE | déclaré_article |
@@ -129,7 +129,7 @@ Dans ce point de vue publié sur sfeir.com le 1er août 2026, **SFEIR** fait con
 | Skill Based Organisation | METHODOLOGIE | permet | de rendre le task crossover visible, outillé et valorisé au lieu d'un bricolage informel | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | compétence opérationnelle | CONCEPT | remplace | l'identité statutaire par une identité opératoire | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | Deloitte | ORGANISATION | mesure | les organisations par compétences ont 98 % de chances supplémentaires d'être perçues comme d'excellents lieux de croissance | MESURE | 0.85 | STATIQUE | déclaré_article |
-| Procter & Gamble | ORGANISATION | observé_dans | The Cybernetic Teammate (791 professionnels R&D et commerce) | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
+| Procter & Gamble | ORGANISATION | observé_dans | The Cybernetic Teammate | DOCUMENT | 0.93 | STATIQUE | déclaré_article |
 
 ### Entités
 

@@ -61,7 +61,7 @@ Le cas démontre également que les agents performent mieux sur des bases de cod
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Lee Robinson | PERSONNE | a_créé | migration cursor.com du CMS vers Markdown | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | a_créé | migration cursor.com | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 | migration cursor.com | EVENEMENT | mesure | coût de 260,32$ en tokens | MESURE | 0.95 | STATIQUE | déclaré_article |
 | migration cursor.com | EVENEMENT | mesure | durée de 3 jours | MESURE | 0.95 | STATIQUE | déclaré_article |
 | migration cursor.com | EVENEMENT | mesure | 67 commits (+43K/-322K lignes) | MESURE | 0.93 | STATIQUE | déclaré_article |
@@ -70,7 +70,7 @@ Le cas démontre également que les agents performent mieux sur des bases de cod
 | Lee Robinson | PERSONNE | affirme_que | le coût des abstractions avec l'IA est très élevé | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | bases de code épurées | CONCEPT | améliore | agents de codage | TECHNOLOGIE | 0.88 | ATEMPOREL | inféré |
 | élimination complexité | CONCEPT | permet | économies opérationnelles | CONCEPT | 0.85 | ATEMPOREL | inféré |
-| build cursor.com | CONCEPT | mesure | 2x plus rapide après migration | MESURE | 0.90 | STATIQUE | déclaré_article |
+| cursor.com | CONCEPT | mesure | 2x plus rapide après migration | MESURE | 0.90 | STATIQUE | déclaré_article |
 
 ### Entités
 

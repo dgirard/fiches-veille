@@ -21,7 +21,7 @@
 
 ### utilise
 
-- quatre lanes (Contract Desk, Builder Pool, Prosecution Pool, Integrator) (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
 ## Relations (comme objet)

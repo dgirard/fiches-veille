@@ -15,7 +15,7 @@
 
 ### dirige
 
-- Raiffeisen Bank Ukraine (IT, en tant que CTO) (ORGANISATION) — 0.97, DYNAMIQUE
+- [[kb/Raiffeisen-Bank-Ukraine\|Raiffeisen Bank Ukraine]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ### publie

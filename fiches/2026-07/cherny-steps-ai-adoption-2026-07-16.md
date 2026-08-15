@@ -72,7 +72,7 @@ Sur le pilotage, Cherny écarte la métrique de vanité : l'usage mesure l'**act
 | Steps of AI Adoption | METHODOLOGIE | s_applique_à | adoption de l'IA agentique par une équipe d'ingénierie | CONCEPT | 0.95 | ATEMPOREL | déclaré_article |
 | Steps of AI Adoption | METHODOLOGIE | affirme_que | pour passer à l'étape suivante il faut casser le prochain goulet d'étranglement et bâtir de nouveaux garde-fous ; les tokens seuls ne suffisent pas | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
 | Steps of AI Adoption | METHODOLOGIE | affirme_que | l'axe structurant est l'ordre de grandeur d'agents piloté (0, ~1, ~10, ~100, ~1000+), transformant le rôle de pair programmer à VP pilotant par l'intention | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
-| boucle d'auto-vérification (tests + build + lint + e2e) | METHODOLOGIE | permet | le passage de l'étape 1 (Assisted) à l'étape 2 (Parallel) | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
+| boucle d'auto-vérification | METHODOLOGIE | permet | le passage de l'étape 1 (Assisted) à l'étape 2 (Parallel) | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | Auto mode | TECHNOLOGIE | réduit | les interruptions par prompts de permission bloquants | AFFIRMATION | 0.9 | ATEMPOREL | déclaré_article |
 | code review et security review automatiques | METHODOLOGIE | améliore | la confiance dans le code généré par les agents (activées par défaut dès l'étape 2) | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
 | étape 2 Parallel | CONCEPT | utilise | worktree isolation | TECHNOLOGIE | 0.9 | ATEMPOREL | déclaré_article |

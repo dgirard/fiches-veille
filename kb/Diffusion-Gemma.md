@@ -31,7 +31,7 @@
 
 - attention bidirectionnelle (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
-- diffusion masquée (absorbing diffusion) (CONCEPT) — 0.92, ATEMPOREL
+- [[kb/_entites-mineures#diffusion-masquée\|diffusion masquée]] (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ## Relations (comme objet)
