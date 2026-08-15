@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 53 relations | 21 fiches sources
+> **Type** : ORGANISATION | 54 relations | 21 fiches sources
 
 ## Attributs
 
@@ -140,6 +140,7 @@
 - [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] **collabore_avec** → OpenAI — 0.90
 - [[kb/Anthropic\|Anthropic]] **concurrence** → OpenAI — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → OpenAI — 0.85
+- [[kb/Meta\|Meta]] **concurrence** → OpenAI — 0.85
 
 ## Fiches sources
 

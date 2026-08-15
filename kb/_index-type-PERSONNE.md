@@ -292,7 +292,7 @@
 - [[kb/_entites-mineures#Marilyn-Strathern\|Marilyn Strathern]] — rôle: Anthropologue, autrice de la reformulation canonique (1997) (1 occ., 1 fiches)
 - [[kb/Mark-Dembo\|Mark Dembo]] — rôle: Head of Solutions – Developer Platform & AI chez Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] — rôle: Éditeur de news, Tom's Hardware (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: CEO Meta (1 occ., 1 fiches)
+- [[kb/Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: Fondateur et PDG de Meta ; auteur du manifeste « The Future is for Everyone » (10 août 2026), qui pose l'autonomisation individuelle, l'invention et l'équilibre des pouvoirs comme doctrine de la superintelligence, et soutient qu'il n'existe pas de superintelligence singulière bienveillante (2 occ., 2 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] — rôle: Journaliste signataire de la synthèse pour Courrier International (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] — rôle: Partner, McKinsey (1 occ., 1 fiches)

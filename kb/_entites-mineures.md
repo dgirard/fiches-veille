@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2644 entités avec moins de 3 triples/fiches
+> 2651 entités avec moins de 3 triples/fiches
 
-## PERSONNE (372)
+## PERSONNE (371)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2151,16 +2151,6 @@
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
 
-### Mark Zuckerberg {#Mark-Zuckerberg}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : CEO Meta
-
-- **soutient** → [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE) — 0.88
-
-**Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
-
 ### Martin Gauthier {#Martin-Gauthier}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -3715,7 +3705,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (283)
+## ORGANISATION (286)
 
 ### 10x {#10x}
 
@@ -3952,6 +3942,18 @@
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]], [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### America's Workforce Academy {#America's-Workforce-Academy}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Programme créé par Meta offrant une formation gratuite aux métiers du bâtiment et un emploi bien payé garanti dans les zones d'implantation de ses datacenters, en réponse à la pénurie de main-d'œuvre qualifiée
+
+- **permet** → [[kb/_entites-mineures#une-formation-gratuite-aux-métiers-du-bâtiment-avec-emploi-bien-payé-garanti-dans-les-zones-où-Meta-construit-des-datacenters\|une formation gratuite aux métiers du bâtiment avec emploi bien payé garanti dans les zones où Meta construit des datacenters]] (AFFIRMATION) — 0.90
+
+- [[kb/Meta\|Meta]] **publie** → America's Workforce Academy — 0.90
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+
 ### Americans for Responsible Innovation {#Americans-for-Responsible-Innovation}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4067,6 +4069,16 @@
 - **soutient** → [[kb/Manus-organisation\|Manus]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
+
+### Biohub {#Biohub}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Institut de recherche cité par Zuckerberg comme ayant déjà publié des modèles biologiques open source sur les cellules virtuelles et les protéines ; rattaché à l'objectif de prévenir ou guérir toutes les maladies dans le siècle
+
+- **publie** → [[kb/_entites-mineures#des-modèles-biologiques-open-source-sur-les-cellules-virtuelles-et-les-protéines-aidant-les-scientifiques-à-faire-de-nouvelles-découvertes-et-concevoir-de-nouveaux-médicaments\|des modèles biologiques open source sur les cellules virtuelles et les protéines aidant les scientifiques à faire de nouvelles découvertes et concevoir de nouveaux médicaments]] (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### Blaxel AI {#Blaxel-AI}
 
@@ -5350,6 +5362,16 @@
 - **secteur** : Infrastructure commerce agentique
 
 **Fiches** : [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
+
+### Meta Superintelligence Labs {#Meta-Superintelligence-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Entité de recherche de Meta présentée comme opérationnelle en août 2026, dont la mise en route conditionne la reprise annoncée de la publication de « certains » modèles open source
+
+- **fait_partie_de** → [[kb/Meta\|Meta]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### Michelin {#Michelin}
 
@@ -12511,7 +12533,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (886)
+## CONCEPT (890)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16765,6 +16787,16 @@
 
 **Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
+### auto-amélioration récursive {#auto-amélioration-récursive}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue
+
+- **s_applique_à** → [[kb/_entites-mineures#tout-laboratoire-de-pointe,-qui-prendra-intrinsèquement-du-retard-s'il-ne-dirige-pas-une-part-substantielle-de-sa-capacité-de-calcul-vers-l'auto-amélioration-de-ses-systèmes\|tout laboratoire de pointe, qui prendra intrinsèquement du retard s'il ne dirige pas une part substantielle de sa capacité de calcul vers l'auto-amélioration de ses systèmes]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+
 ### automatisation d'agents IA {#automatisation-d'agents-IA}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17236,6 +17268,18 @@
 - [[kb/Dean-W.-Ball\|Dean W. Ball]] **s_oppose_à** → communisme de l'IA — 0.85
 
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
+### community compact {#community-compact}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Engagement de Meta envers chaque communauté d'implantation de datacenter : emplois locaux bien payés, investissement dans les écoles et services publics, stabilité des prix de l'énergie, protection de l'environnement, adossé à un « Future Is For Everyone Fund ». Preuve avancée : 50 000 $ de prime aux enseignants de Richland Parish (Louisiane), autodéclaré
+
+- **permet** → [[kb/_entites-mineures#de-garantir-aux-communautés-d'implantation-des-emplois-locaux-bien-payés,-un-investissement-dans-les-écoles-et-services-publics,-la-stabilité-des-prix-de-l'énergie-et-la-protection-de-l'environnement,-avec-un-Future-Is-For-Everyone-Fund-dédié\|de garantir aux communautés d'implantation des emplois locaux bien payés, un investissement dans les écoles et services publics, la stabilité des prix de l'énergie et la protection de l'environnement, avec un Future Is For Everyone Fund dédié]] (AFFIRMATION) — 0.92
+
+- [[kb/Meta\|Meta]] **publie** → community compact — 0.92
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### complicated subsystem team {#complicated-subsystem-team}
 
@@ -19992,6 +20036,18 @@
 
 **Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
+### superintelligence personnelle {#superintelligence-personnelle}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Agent superintelligent aligné sur les objectifs et valeurs de son utilisateur plutôt que sur ceux de son fournisseur, travaillant en continu, doté d'un mode entièrement privé inaccessible même à l'éditeur. Positionnement revendiqué par Meta contre les labos construisant pour les entreprises, gouvernements et institutions
+
+- **permet** → [[kb/_entites-mineures#à-chaque-individu-de-disposer-d'un-agent-travaillant-en-continu-sur-ses-objectifs,-avec-un-mode-entièrement-privé-où-même-Meta-ne-peut-voir-ni-donner-accès-aux-informations,-sur-le-modèle-du-chiffrement-de-bout-en-bout-de-WhatsApp\|à chaque individu de disposer d'un agent travaillant en continu sur ses objectifs, avec un mode entièrement privé où même Meta ne peut voir ni donner accès aux informations, sur le modèle du chiffrement de bout en bout de WhatsApp]] (AFFIRMATION) — 0.94
+
+- [[kb/_entites-mineures#The-Future-is-for-Everyone\|The Future is for Everyone]] **référence** → superintelligence personnelle — 0.94
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
+
 ### supervision humaine {#supervision-humaine}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -20616,6 +20672,16 @@
 - **s_oppose_à** → [[kb/_entites-mineures#captation-de-la-valeur-par-quelques-modèles\|captation de la valeur par quelques modèles]] (CONCEPT) — 0.88
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+
+### équilibre des pouvoirs {#équilibre-des-pouvoirs}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Doctrine de sûreté selon laquelle la protection contre les risques de l'IA ne vient pas de l'alignement d'un système unique mais de la distribution large de la superintelligence, des acteurs aux intérêts concurrents se contrôlant mutuellement. Démontrée par analogie (avocat, cybersécurité, entreprise) plutôt qu'empiriquement ; ne traite pas le cas des capacités asymétriques
+
+- **résout** → [[kb/_entites-mineures#la-sûreté-de-la-superintelligence,-non-comme-problème-technique-d'alignement-mais-comme-problème-de-répartition-du-pouvoir-entre-individus,-entreprises,-gouvernements-et-systèmes-IA\|la sûreté de la superintelligence, non comme problème technique d'alignement mais comme problème de répartition du pouvoir entre individus, entreprises, gouvernements et systèmes IA]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### érosion du pipeline junior {#érosion-du-pipeline-junior}
 
@@ -24651,7 +24717,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (114)
+## DOCUMENT (115)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -25524,6 +25590,18 @@
 - [[kb/SFEIR\|SFEIR]] **s_oppose_à** → The End of Code Review: Coding Agents Supersede Human Inspection — 0.93
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
+
+### The Future is for Everyone {#The-Future-is-for-Everyone}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **définition** : Manifeste doctrinal de Meta publié le 10 août 2026 sur un domaine dédié de meta.com, signé « – Mark », ~6 500 mots : philosophie politique de la superintelligence, roadmap produit et recommandations de politique publique en un seul texte, avec un sourcing quasi inexistant des faits allégués
+
+- **référence** → [[kb/_entites-mineures#superintelligence-personnelle\|superintelligence personnelle]] (CONCEPT) — 0.94
+
+- [[kb/Meta\|Meta]] **publie** → The Future is for Everyone — 0.97
+
+**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### The GenAI Divide State of AI in Business 2025 {#The-GenAI-Divide-State-of-AI-in-Business-2025}
 

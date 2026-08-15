@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 915 entités de type CONCEPT
+> 919 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -493,6 +493,7 @@
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] — définition: Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus (1 occ., 1 fiches)
+- [[kb/_entites-mineures#auto-amélioration-récursive\|auto-amélioration récursive]] — définition: Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#automatisation-d'agents-IA\|automatisation d'agents IA]] — bénéfice: Réduction du temps de développement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-(vs-souveraineté)\|autonomie (vs souveraineté)]] — définition: Posture LVMH : hybridation multicloud + indépendance, mot « souveraineté » récusé car ambigu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] — enjeu: Condition de la dignité humaine et de la responsabilité morale (1 occ., 1 fiches)
@@ -544,6 +545,7 @@
 - [[kb/commerce-agentique\|commerce agentique]] — statut: Émergent, en accélération (2 occ., 2 fiches)
 - [[kb/_entites-mineures#commerce-conversationnel\|commerce conversationnel]] — catégorie: Nouveau paradigme e-commerce via IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#communisme-de-l'IA\|communisme de l'IA]] — définition: IA traitée non comme produit de marché mais comme « bien public » / « infrastructure publique numérique » fournie par l'État — issue probable d'un monde dominé par les poids ouverts, position prêtée à la Chine ; jugée « dystopique » par Ball (1 occ., 1 fiches)
+- [[kb/_entites-mineures#community-compact\|community compact]] — définition: Engagement de Meta envers chaque communauté d'implantation de datacenter : emplois locaux bien payés, investissement dans les écoles et services publics, stabilité des prix de l'énergie, protection de l'environnement, adossé à un « Future Is For Everyone Fund ». Preuve avancée : 50 000 $ de prime aux enseignants de Richland Parish (Louisiane), autodéclaré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#comportement-parahuman\|comportement parahuman]] — définition: Réponses sociales IA mimant comportement humain sans conscience (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compounding-correctness\|compounding correctness]] — opposé: compounding error (1 occ., 1 fiches)
@@ -843,6 +845,7 @@
 - [[kb/subagents-concept\|subagents]] — usage: Instances Claude parallèles se challengeant mutuellement pour code review (2 occ., 2 fiches)
 - [[kb/_entites-mineures#subagents-agent-teams\|subagents / agent teams]] — définition: Agents scopés gérant des workstreams parallèles, en équipe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suite-de-tests-indépendante-du-langage\|suite de tests indépendante du langage]] — rôle: Tests de Bun écrits en TypeScript (60 624 tests, 1,39 M expect(), 0 supprimé, 6 plateformes) → filet permettant de merger 1 M de lignes générées par LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#superintelligence-personnelle\|superintelligence personnelle]] — définition: Agent superintelligent aligné sur les objectifs et valeurs de son utilisateur plutôt que sur ceux de son fournisseur, travaillant en continu, doté d'un mode entièrement privé inaccessible même à l'éditeur. Positionnement revendiqué par Meta contre les labos construisant pour les entreprises, gouvernements et institutions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#supervision-humaine\|supervision humaine]] — rôle: Garde-fou dans le déploiement responsable de l'IA agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] — description: Tendance des LLMs à créer abstractions inutiles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#surface-d'écriture-non-résolue\|surface d'écriture non résolue]] — définition: Couche permission et identité du stack agentique, désignée comme le point non résolu : lire est outillé, écrire ne l'est pas (1 occ., 1 fiches)
@@ -910,6 +913,7 @@
 - [[kb/_entites-mineures#économie-de-la-leçon\|économie de la leçon]] — principe: Payée une fois, puis rétrogradée de détection probabiliste à prévention déterministe gratuite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-des-créateurs\|économie des créateurs]] — modèles: publicité, sponsoring, cours, Patreon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écosystème-frontière\|écosystème frontière]] — définition: Diffusion large de la valeur IA à chaque entreprise, secteur et pays (1 occ., 1 fiches)
+- [[kb/_entites-mineures#équilibre-des-pouvoirs\|équilibre des pouvoirs]] — définition: Doctrine de sûreté selon laquelle la protection contre les risques de l'IA ne vient pas de l'alignement d'un système unique mais de la distribution large de la superintelligence, des acteurs aux intérêts concurrents se contrôlant mutuellement. Démontrée par analogie (avocat, cybersécurité, entreprise) plutôt qu'empiriquement ; ne traite pas le cas des capacités asymétriques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#érosion-du-pipeline-junior\|érosion du pipeline junior]] — risque: Automatiser les tâches fondatrices plus vite que la refonte des rôles juniors rétrécit le vivier de seniors (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étape-0-Gated\|étape 0 Gated]] — caractérisation: 0 agent ; accès IA verrouillé/process-heavy, modèles anciens, pas de gouvernance MCP ni d'infra d'hébergement du code Claude ; goulet = sécurité/approbations legacy + obsession cost-per-token ; produit : Claude.ai chat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étape-1-Assisted\|étape 1 Assisted]] — caractérisation: ~1 agent ; « vous + un agent » (pair programming supervisé), sessions une à une, travail synchrone ; goulet = votre attention/relecture (faible confiance, pas d'auto-vérification) ; Plan mode, Claude Code Desktop/CLI/IDE (1 occ., 1 fiches)

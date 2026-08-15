@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3092 entités
+> 3100 entités
 
 ## #
 
@@ -267,6 +267,7 @@
 - [[kb/AMD\|AMD]] (ORGANISATION, 3 fiches)
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE, 1 fiches)
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 3 fiches)
+- [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#amorriscode\|amorriscode]] (PERSONNE, 1 fiches)
@@ -401,6 +402,7 @@
 - [[kb/_entites-mineures#Author-Diversity-Decay\|Author Diversity Decay]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AuthorSocialgraphFilter\|AuthorSocialgraphFilter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Auto-mode\|Auto mode]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#auto-amélioration-récursive\|auto-amélioration récursive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Auto-caching\|Auto-caching]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] (METHODOLOGIE, 1 fiches)
 - [[kb/AutoGen\|AutoGen]] (TECHNOLOGIE, 3 fiches)
@@ -457,6 +459,7 @@
 - [[kb/_entites-mineures#Big-Tech\|Big Tech]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bill-Chen\|Bill Chen]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Biohub\|Biohub]] (ORGANISATION, 1 fiches)
 - [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Bitter-Lesson\|Bitter Lesson]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Blameless-post-mortem\|Blameless post-mortem]] (METHODOLOGIE, 1 fiches)
@@ -720,6 +723,7 @@
 - [[kb/_entites-mineures#Commodification-cycle\|Commodification cycle]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#communautés-Discord-Reddit\|communautés Discord/Reddit]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#communisme-de-l'IA\|communisme de l'IA]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#community-compact\|community compact]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] (CONCEPT, 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] (CONCEPT, 1 fiches)
 - [[kb/Compaction-methodologie\|Compaction]] (METHODOLOGIE, 1 fiches)
@@ -1791,7 +1795,7 @@
 - [[kb/_entites-mineures#Marilyn-Strathern\|Marilyn Strathern]] (PERSONNE, 1 fiches)
 - [[kb/Mark-Dembo\|Mark Dembo]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] (PERSONNE, 1 fiches)
+- [[kb/Mark-Zuckerberg\|Mark Zuckerberg]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Markdown-for-Agents\|Markdown for Agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] (METHODOLOGIE, 1 fiches)
@@ -1856,10 +1860,11 @@
 - [[kb/_entites-mineures#merge-forecast\|merge-forecast]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Meridian\|Meridian]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] (ORGANISATION, 1 fiches)
-- [[kb/Meta\|Meta]] (ORGANISATION, 1 fiches)
+- [[kb/Meta\|Meta]] (ORGANISATION, 2 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Meta-Business-AI\|Meta Business AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Meta-Internal-Coding-Bench\|Meta Internal Coding Bench]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] (TECHNOLOGIE, 1 fiches)
 - [[kb/METR\|METR]] (ORGANISATION, 3 fiches)
@@ -2718,6 +2723,7 @@
 - [[kb/_entites-mineures#Super-Spec\|Super Spec]] (CONCEPT, 1 fiches)
 - [[kb/SuperClaude\|SuperClaude]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#SuperClaude-Org\|SuperClaude-Org]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#superintelligence-personnelle\|superintelligence personnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Supermanager\|Supermanager]] (CONCEPT, 1 fiches)
 - [[kb/Superpowers\|Superpowers]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Superpowers-Lab\|Superpowers Lab]] (TECHNOLOGIE, 1 fiches)
@@ -2822,6 +2828,7 @@
 - [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#The-Future-is-for-Everyone\|The Future is for Everyone]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-GenAI-Divide-State-of-AI-in-Business-2025\|The GenAI Divide State of AI in Business 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Great-Flattening-(Vorflux)\|The Great Flattening (Vorflux)]] (DOCUMENT, 1 fiches)
@@ -3138,6 +3145,7 @@
 - [[kb/_entites-mineures#écosystème-frontière\|écosystème frontière]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Éditions-Cybernetica\|Éditions Cybernetica]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Électricité\|Électricité]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#équilibre-des-pouvoirs\|équilibre des pouvoirs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#équipe-Data-Science-&-Data-Engineering-Anthropic\|équipe Data Science & Data Engineering Anthropic]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#équipe-FAANG\|équipe FAANG]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#érosion-du-pipeline-junior\|érosion du pipeline junior]] (CONCEPT, 1 fiches)
