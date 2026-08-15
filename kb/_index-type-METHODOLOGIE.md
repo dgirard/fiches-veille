@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 409 entités de type METHODOLOGIE
+> 411 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -187,6 +187,7 @@
 - [[kb/_entites-mineures#Roadmap-CapEx-→-OpEx\|Roadmap CapEx → OpEx]] — définition: Phase 1 Build context layer (CapEx : IDP + healthy data ecosystem + machine-readable docs) ; Phase 2 Empower human in loop (OpEx : context engineering + trust in AI) ; Phase 3 Validate via leading indicators (experiment frequency, deployment frequency) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] — rôle: AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SAO\|SAO]] — rôle: Stratégie de RL pour tâches long-horizon introduite avec GLM-5.2 (arXiv 2607.07508), reprise dans GLM-5.3 sous la forme « SAO with compaction » — c'est elle qui fait tenir les gains sur les tâches longues et pas seulement sur les courtes (1 occ., 1 fiches)
 - [[kb/SDLC\|SDLC]] — définition: Software Development Life Cycle : cadre normé (ISO/IEC/IEEE 12207) de production logicielle — besoins, conception, développement, tests/QA, déploiement, maintenance ; finalité « construire le logiciel correctement et de façon fiable » ; métriques DORA (10 occ., 10 fiches)
 - [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (4 occ., 4 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
@@ -387,6 +388,7 @@
 - [[kb/_entites-mineures#spec-coding\|spec coding]] — définition: Méthodologie transformant prompts en spécifications structurées, designs techniques et plans d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suite-de-tests\|suite de tests]] — rôle: Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suppression-des-token-limits\|suppression des token limits]] — nature: Levier organisationnel (retrait de friction) (1 occ., 1 fiches)
+- [[kb/synthèse-d'environnements-de-tâches\|synthèse d'environnements de tâches]] — définition: Pratique décrite par Z.ai pour lever le goulot du post-entraînement agentique : des agents de recherche convertissent des motifs de travail réel en environnements exécutables long-horizon à dépendances multi-étapes et état caché ; un agent juge tente chaque tâche pour vérifier qu'elle est résoluble ; les vérificateurs sont synthétisés sans accès à la solution de référence ; les trajectoires de solveur servent à découvrir puis fermer les raccourcis de récompense ; un vérificateur n'est retenu qu'après trois contrôles négatifs — oracle, no-op, unsolved-state. Reste dépendante d'un travail humain significatif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] — définition: Contrôles mappés sur 3 menaces + 4 stratégies transverses, un « Enduring Principle » par étape (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-dev-prod\|séparation dev/prod]] — objectif: Empêcher l'accès de l'IA aux bases de données de production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séquencement-d'adoption\|séquencement d'adoption]] — ordre: Prosecution des PRs → rails/tests → interrogation → parallélisme + distillation (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 114 relations | 49 fiches sources
+> **Type** : TECHNOLOGIE | 116 relations | 50 fiches sources
 
 ## Attributs
 
@@ -16,7 +16,7 @@
 - **produits_affectés** : Claude Code, Claude Agent SDK, Claude Cowork
 - **revenus** : 500M$ annuels (run-rate)
 - **revenus annualisés** : ~1 milliard $ (novembre 2025)
-- **rôle** : Harnais des dynamic workflows ; a maintenu ~64 Claude en parallèle 11 jours ; 11 rounds de revue de sécurité post-merge
+- **rôle** : Harnais d'évaluation de fait du billet : la version 2.1.207 est citée comme dépendance de mesure pour Terminal-Bench 2.1 et 3.0, Agents' Last Exam, CyberGym, ExploitGym, ExploitBench, PostTrainBench et SWE-Marathon — un laboratoire chinois y mesure son modèle et ceux de ses concurrents. Également cité comme client compatible de GLM-5.3
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
 - **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
@@ -82,6 +82,8 @@
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 - mode conducteur (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
+- « harnais d'évaluation agentique de référence, utilisé en version 2.1.207 par un laboratoire concurrent pour mesurer son propre modèle et ceux d'Anthropic et d'OpenAI » (AFFIRMATION) — 0.89, DYNAMIQUE
+  - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - catalyseur de la transformation de l'ingénierie (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
@@ -250,6 +252,7 @@
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
+- [[kb/GLM-5.3\|GLM-5.3]] **observé_dans** → Claude Code — 0.94
 - effondrement couche environnement **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93
@@ -311,3 +314,4 @@
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
+- [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 387 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-15
+> 388 fiches | 1975-12 → 2026-08-14 | généré le 2026-08-15
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **14** [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]). · Z.ai — GLM-5.3, GLM-5.2, Z.ai
 - **12** [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. · Deep Research — Buzz, buzz.xyz, Block
 - **12** [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12. · Deep Research — ChatGPT Desktop, Claude Desktop, version web
 - **12** [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*. · LinkedIn Pulse — Guillaume Dumortier, Growth Marketing Fit, LinkedIn Pulse
@@ -496,6 +497,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*.
 - [Agent Plugins package your skills, tools, and more](fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06.md) — Trois signataires, répartis sur trois entités Google — ce qui dit déjà quelque chose de la portée interne de l'annonce :
@@ -773,6 +775,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*.
@@ -947,6 +950,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
@@ -1023,6 +1027,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Le texte est signé du seul prénom (*« – Mark »*), daté du 10 août 2026, publié sur un domaine dédié de meta.com. **Il n'est pas signé « Meta » et ce choix est signifiant** : l'auteur alterne systématiquement **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*) et **« I » pour les affirmations contestables ou normatives** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« I predict that this will not only lead to much greater economic growth »*, *« My honest guess, and it is a guess »*). **Ce partage n'est pas un tic de style : il détermine ce qui engage Meta et ce qui n'engage que son dirigeant.** Les engagements produits et de gouvernance sont au « nous » ; **les propositions de politique publique sont au « je »**.
 - [Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres](fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07.md) — **Didier Girard** — auteur de la note, publiée sur son compte X. Écrit ici en **analyste de doctrine industrielle** plutôt qu'en testeur : il n'a pas déployé le modèle, il croise une **audition parlementaire** (Mensch, 13 mai), un **lancement produit** (Shieldstral, 4 août), un **rapport technique** (arXiv, 28 juillet) et un **contre-exemple concurrent** (Anthropic, 9 juin) pour montrer qu'ils forment une position cohérente. Deux marqueurs de posture : il **borne explicitement la valeur des chiffres** qu'il cite (aucune évaluation tierce) et il **termine par des règles opérationnelles** — l'analyse doit sortir avec sa traduction en décisions de déploiement.
@@ -1047,20 +1052,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 387 fiches
-- **Par année** : 2026 (210) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 388 fiches
+- **Par année** : 2026 (211) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 138
+  - Agents de codage IA & Skills : 139
   - Architecture & Construction : 50
   - Transformation & Adoption : 80
-  - Qualité & Sécurité : 39
+  - Qualité & Sécurité : 40
   - Économie & Marché : 77
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 23
-  - Outils & Plateformes : 46
+  - Outils & Plateformes : 47
   - Recherche & Éducation : 10
   - Produits & Services : 11
-  - Politique & Régulation : 21
+  - Politique & Régulation : 22
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)

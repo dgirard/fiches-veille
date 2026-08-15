@@ -1,10 +1,11 @@
 # Kimi K3
 
-> **Type** : TECHNOLOGIE | 9 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 2 fiches sources
 
 ## Attributs
 
 - **catégorie** : Modèle LLM frontier open-weights de Moonshot AI, lancé le 16/07/2026 ; MoE ~2,8T paramètres et contexte 1M tokens (vendor-stated), multimodal natif, raisonnement à effort maximal ; variantes K3 Max et K3 Swarm Max ; poids annoncés avant le 27/07/2026 (probable Modified MIT)
+- **rôle** : Modèle open-weights concurrent, principal point de comparaison du tableau : il devance GLM-5.3 sur Terminal Bench 2.1, DeepSWE v1.1, SWE-Marathon v1.1 et Toolathlon Verified, ce qui rend indécidable la revendication « most capable open-weights model for coding »
 
 ## Relations (comme sujet)
 
@@ -45,7 +46,9 @@
 ## Relations (comme objet)
 
 - [[kb/Moonshot-AI\|Moonshot AI]] **publie** → Kimi K3 — 0.97
+- [[kb/GLM-5.3\|GLM-5.3]] **concurrence** → Kimi K3 — 0.92
 
 ## Fiches sources
 
 - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
+- [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

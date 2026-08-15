@@ -1,6 +1,6 @@
 # Claude Opus 4.8
 
-> **Type** : TECHNOLOGIE | 3 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 3 fiches sources
 
 ## Attributs
 
@@ -24,6 +24,10 @@
 
 - [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+
+## Relations (comme objet)
+
+- [[kb/GLM-5.3\|GLM-5.3]] **surpasse** → Claude Opus 4.8 — 0.85
 
 ## Fiches sources
 

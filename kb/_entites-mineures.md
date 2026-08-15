@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2634 entités avec moins de 3 triples/fiches
+> 2645 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (279)
+## ORGANISATION (278)
 
 ### 10x {#10x}
 
@@ -3998,17 +3998,6 @@
 - [[kb/Fred-PLAIS\|Fred PLAIS]] **dirige** → Archie — 0.90
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
-
-### Artificial Analysis {#Artificial-Analysis}
-
-**Type** : ORGANISATION | 2 relations | 1 fiches
-
-- **rôle** : Plateforme d'évaluation indépendante de modèles IA (index Intelligence/Agentic, GDPval-AA, AA-Briefcase)
-
-- **publie** → [[kb/_entites-mineures#GDPval-AA\|GDPval-AA]] (DOCUMENT) — 0.90
-- **affirme_que** → « qu'un modèle open weights rivalise avec la frontière propriétaire sur le travail agentique est un vrai progrès » (AFFIRMATION) — 0.85
-
-**Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 
 ### BCG {#BCG}
 
@@ -6564,7 +6553,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (576)
+## TECHNOLOGIE (586)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7886,6 +7875,14 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
+### CyberGym {#CyberGym}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Benchmark de découverte de vulnérabilités partant du code source en boîte blanche, mesurant la capacité à identifier puis valider une faille en déclenchant le défaut. Évalué par Z.ai sur 1 507 tâches, Pass@1 en run unique. GLM-5.3 y obtient 84,5 %, meilleur score du tableau comparatif
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
 ### DFlash {#DFlash}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8173,6 +8170,22 @@
 
 **Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
 
+### ExploitBench {#ExploitBench}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Benchmark exigeant un raisonnement plus profond sur des vulnérabilités réelles et leur exploitation ; 41 tâches, 300 tours d'interaction maximum, score de couverture moyenné sur 3 révisions. GLM-5.3 y atteint 54,4 % contre 24,4 % pour GLM-5.2, loin derrière les modèles fermés (78,0 % et 76,5 %)
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### ExploitGym {#ExploitGym}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **définition** : Benchmark comptant les tâches d'exploitation complétées sous budgets de temps normalisés (2 h et 6 h), 869 tâches, Pass@1 en run unique. ⚠️ Les budgets ne sont pas des heures d'horloge : le temps d'inférence API est rescalé par le débit de chaque modèle (115 TPS pour GLM-5.3, 40 pour Kimi K3, 47 pour Qwen3.8-Max, source Artificial Analysis). GLM-5.3 : 105 et 130 tâches, contre 29 et 39 pour GLM-5.2
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
 ### FOCUS specification {#FOCUS-specification}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -8268,6 +8281,16 @@
 - [[kb/agents-parallèles\|agents parallèles]] **utilise** → GCC — 0.95
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
+
+### GLM Coding Plan {#GLM-Coding-Plan}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Abonnement codage de Z.ai passé en août 2026 à un système de quotas en points, comptés séparément pour l'entrée, l'entrée en cache et la sortie. Heures pleines 14h-18h UTC+8 du lundi au vendredi ; tout le reste, week-ends inclus, à 50 % du barème — soit, pour une équipe européenne, une fenêtre pleine correspondant à la matinée de travail
+
+- **utilise** → « un système de quotas en points comptés séparément pour l'entrée, l'entrée en cache et la sortie, les appels hors heures pleines — hors 14h-18h UTC+8 du lundi au vendredi — consommant 50 % du barème » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### GPQA Diamond {#GPQA-Diamond}
 
@@ -9081,6 +9104,16 @@
 - **utilise** → logs, télémétrie et configurations (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|What We Learned Deploying AI within Bloomberg’s Engineering Organization]]
+
+### IndexShare {#IndexShare}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Composant de traitement efficace du contexte long, publié par Z.ai avec GLM-5.2 (arXiv 2603.12201), pilier de la pile réutilisée pour GLM-5.3
+
+- [[kb/GLM-5.3\|GLM-5.3]] **utilise** → IndexShare — 0.90
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### Indice d'Utilisation de l'IA (AUI) {#Indice-d'Utilisation-de-l'IA-(AUI)}
 
@@ -11353,6 +11386,14 @@
 
 **Fiches** : [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
 
+### Terminal-Bench 3.0 {#Terminal-Bench-3.0}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Benchmark agentique en terminal sur lequel GLM-5.3 revendique l'état de l'art open-weights (28,3 contre 17,4 pour Kimi K3), après un passage de 4,6 à 28,3 en une génération de post-entraînement. Évalué via le harnais Claude Code 2.1.207, avg@3, 600 tours maximum, timeout 10 h. Le niveau absolu reste bas : plus de sept tâches sur dix échouent
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
 ### Terra {#Terra}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11678,6 +11719,40 @@
 - **usage** : Système de layout pour terminal (Meta)
 
 **Fiches** : [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
+
+### Z.ai Code Bench {#Z.ai-Code-Bench}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Benchmark interne et privé de Z.ai évaluant les agents de codage en scénarios utilisateur réalistes, dans des environnements de développement locaux complexes, sur deux dimensions : taux de complétion end-to-end et exactitude de checklist fine, à plusieurs niveaux d'effort. Porte la revendication centrale du billet (+50 % sur GLM-5.2). Privé par conception, pour limiter la contamination — donc non réplicable par un tiers
+
+- **réduit** → « le risque de contamination par les jeux de test publics, au prix de l'impossibilité pour un tiers de répliquer la mesure » (AFFIRMATION) — 0.88
+
+- [[kb/Z.ai\|Z.ai]] **a_créé** → Z.ai Code Bench — 0.95
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### Z.ai Security Disclosure Ledger {#Z.ai-Security-Disclosure-Ledger}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Registre de divulgation créé par Z.ai (août 2026) recensant les vulnérabilités trouvées par ses modèles : 2 436 constats suivis, 53 publiquement divulgués, 2 383 sous embargo, 1 097 de sévérité critique ou élevée, 269 projets open source touchés, plus ancienne faille introduite en 1981, durée de vie moyenne 26,6 ans. Enregistre projet affecté, sévérité, CVE le cas échéant et ancienneté. ⚠️ Le corps du billet qualifie les 1 097 de « medium-to-high » alors que la distribution du même encart donne critical 107 + high 990
+
+- **mesure** → « 2 436 constats suivis dont 53 publiquement divulgués et 2 383 sous embargo, 1 097 de sévérité critique ou élevée, la plus ancienne faille introduite en 1981 et une durée de vie moyenne de 26,6 ans avant découverte » (MESURE) — 0.94
+
+- [[kb/Z.ai\|Z.ai]] **a_créé** → Z.ai Security Disclosure Ledger — 0.94
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### ZCode {#ZCode}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Agent de codage maison de Z.ai (zcode.z.ai), positionné comme le meilleur véhicule pour GLM-5.3 : taux de cache revendiqué à plus de 98 % soit environ 30 % de tokens effectifs en plus, boost de quota 1,5× jusqu'au 31 août 2026, mode Goal qui planifie, code, teste et vérifie jusqu'à atteinte de la cible, et pilotage à distance des tâches longues via WeChat ou Feishu
+
+- **permet** → « un taux de cache revendiqué à plus de 98 %, un mode Goal qui planifie, code, teste et vérifie jusqu'à atteinte de la cible, et un pilotage à distance des tâches longues via WeChat ou Feishu » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### Zig {#Zig}
 
@@ -12427,6 +12502,19 @@
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
+### slime {#slime}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Framework open source de post-entraînement pour le passage à l'échelle du RL, développé par Z.ai (dépôt THUDM/slime), avec Megatron côté entraînement et SGLang côté rollout. Tient entraînement, rollout et buffer de données sur un seul flux, de sorte que les environnements se branchent comme de la génération de données. Gains annoncés sur le cycle GLM-5.3 : plus de 2,3× de débit RL end-to-end, écart de log-probabilités entraînement-rollout à 1e-7, multi-teacher OPD avec bascule dynamique et préchargement
+
+- **permet** → « de brancher maths, code, sandboxes, vérificateurs et environnements agentiques long-horizon comme de la génération de données plutôt que comme des modifications de la boucle d'entraînement, entraînement, rollout et buffer tenant sur un seul flux de données » (AFFIRMATION) — 0.93
+- **améliore** → « le débit d'entraînement RL end-to-end de plus de 2,3× sur les tâches de codage long-horizon, avec un écart moyen de log-probabilités entraînement-rollout contrôlé à 1e-7 » (MESURE) — 0.90
+
+- [[kb/GLM-5.3\|GLM-5.3]] **utilise** → slime — 0.95
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
 ### spécification FOCUS {#spécification-FOCUS}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12559,7 +12647,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (892)
+## CONCEPT (893)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19870,6 +19958,16 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
+### publication de poids ouverts {#publication-de-poids-ouverts}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dans ce dossier, décision de gouvernance traitée comme un calendrier plutôt que comme une procédure : Z.ai annonce les poids de GLM-5.3 « dans deux semaines, une fois l'évaluation de sûreté et le durcissement terminés », sans définir le durcissement, sans critère de non-publication, sans évaluateur tiers ni engagement de publier le rapport. Tension propre au cas : la publication des poids rend caduc de fait l'embargo pesant sur 2 383 vulnérabilités trouvées par le même modèle
+
+- **s_applique_à** → « un calendrier annoncé plutôt qu'à une procédure publiée : ni définition du durcissement, ni critère de non-publication, ni évaluateur tiers ne sont fournis » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
 ### puppy-dog junior developer {#puppy-dog-junior-developer}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -21100,7 +21198,7 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-## METHODOLOGIE (356)
+## METHODOLOGIE (357)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -22701,6 +22799,16 @@
 - **recommande** → « consacrer 70% de l'effort à l'humain dans la transformation IA » (AFFIRMATION) — 0.97
 
 **Fiches** : [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
+
+### SAO {#SAO}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Stratégie de RL pour tâches long-horizon introduite avec GLM-5.2 (arXiv 2607.07508), reprise dans GLM-5.3 sous la forme « SAO with compaction » — c'est elle qui fait tenir les gains sur les tâches longues et pas seulement sur les courtes
+
+- [[kb/GLM-5.3\|GLM-5.3]] **utilise** → SAO — 0.92
+
+**Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### STAR {#STAR}
 
@@ -25491,7 +25599,7 @@
 
 - **mesure** → « travail de connaissance économiquement valorisable en tâches multi-tours longue-horizon » (AFFIRMATION) — 0.90
 
-- [[kb/_entites-mineures#Artificial-Analysis\|Artificial Analysis]] **publie** → GDPval-AA — 0.90
+- [[kb/Artificial-Analysis\|Artificial Analysis]] **publie** → GDPval-AA — 0.90
 
 **Fiches** : [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 929 entités de type CONCEPT
+> 930 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -799,6 +799,7 @@
 - [[kb/_entites-mineures#protocol-objects\|protocol objects]] — localisation: src/ap2/types (1 occ., 1 fiches)
 - [[kb/_entites-mineures#provenance-d'arête\|provenance d'arête]] — définition: Étiquetage de chaque relation d'un graphe selon son origine — explicite dans la source, déduite par résolution, ou ambiguë — de sorte qu'un lecteur ou un agent sait ce qui a été lu et ce qui a été supposé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#provenance-footers\|provenance footers]] — définition: Traçabilité réponse : tier de source + fraîcheur + ownership (1 occ., 1 fiches)
+- [[kb/_entites-mineures#publication-de-poids-ouverts\|publication de poids ouverts]] — définition: Dans ce dossier, décision de gouvernance traitée comme un calendrier plutôt que comme une procédure : Z.ai annonce les poids de GLM-5.3 « dans deux semaines, une fois l'évaluation de sûreté et le durcissement terminés », sans définir le durcissement, sans critère de non-publication, sans évaluateur tiers ni engagement de publier le rapport. Tension propre au cas : la publication des poids rend caduc de fait l'embargo pesant sur 2 383 vulnérabilités trouvées par le même modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#puppy-dog-junior-developer\|puppy-dog junior developer]] — définition: Métaphore de l'IA : empressée, productive, brouillonne, sur-suggestive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pénurie-GPU\|pénurie GPU]] — impact: Maintien des prix des assistants IA à un niveau élevé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#quatre-lanes\|quatre lanes]] — composition: Contract Desk (frontier), Builder Pool (single-writer), Prosecution Pool (frais), Integrator (séquentiel) (1 occ., 1 fiches)
