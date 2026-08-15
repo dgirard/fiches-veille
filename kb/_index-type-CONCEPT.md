@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 910 entités de type CONCEPT
+> 915 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -573,6 +573,7 @@
 - [[kb/_entites-mineures#corriger-le-processus,-pas-le-code\|corriger le processus, pas le code]] — principe: Face à un bug/anti-pattern récurrent, éditer le workflow/prompt qui génère le code plutôt que corriger le fichier à la main (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
+- [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] — définition: Ensemble de documents décrivant ce que l'entreprise sait réellement — faits produit, positionnement, cibles et anti-cibles, règles de voix, preuves clients — tenu séparément de tout ce qui produit du contenu, chaque document ayant un propriétaire humain, une version et une date. Règle associée : rien de ce qui produit du contenu n'a le droit de contenir un fait, il doit le demander (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
@@ -610,6 +611,7 @@
 - [[kb/_entites-mineures#droit-de-sortie\|droit de sortie]] — définition: Capacité de quitter un fournisseur sans réécrire son système ; argument central en faveur des poids ouverts, adossé au coût constaté des sorties de cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dual-level-retrieval\|dual-level retrieval]] — description: Hybridation knowledge graphs + bases vectorielles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dwell_time-continuous\|dwell_time continuous]] — définition: Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form (1 occ., 1 fiches)
+- [[kb/_entites-mineures#déclaration-de-couverture\|déclaration de couverture]] — définition: Contrainte de format imposée à un vérificateur automatique : interdiction de renvoyer un « pass » nu, obligation de clore chaque rapport par le nombre d'affirmations contrôlées, le nombre réellement apparié à ses sources, celles hors de sa juridiction et celles possédées par aucune source du système. « Je ne peux pas vérifier ceci » devient un résultat de première classe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] — portée: Mondial, permanent selon Andreessen (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décrochage-compétitif\|décrochage compétitif]] — définition: Risque de long terme des économies/entreprises qui tarderaient à adopter l'IA (compétitif avant d'être social) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#décélérationnisme\|décélérationnisme]] — principe: Thèse selon laquelle les modèles à poids ouverts freinent l'investissement (capex) dans l'IA en rendant non rentable le service de modèles frontier propriétaires (1 occ., 1 fiches)
@@ -886,6 +888,8 @@
 - [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] — définition: Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] — définition: Visionnage vidéo qui clear le seuil de durée minimal — signal positif first-class introduit en 2026, n'existait pas en 2023 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#vérification-en-monde-clos\|vérification en monde clos]] — définition: Propriété structurelle de tout vérificateur automatique : il ne peut se prononcer que sur ce que ses sources couvrent. Confronté à une affirmation hors couverture, il ne trouve aucune contradiction et rend un verdict favorable indiscernable d'une vraie vérification — il certifie l'erreur au lieu de la manquer (1 occ., 1 fiches)
+- [[kb/_entites-mineures#vérification-inter-actifs\|vérification inter-actifs]] — définition: Contrôle de niveau lot lisant les actifs les uns contre les autres plutôt que contre la couche de vérité. Nécessaire parce que deux actifs individuellement corrects et traçables peuvent se contredire — une date dans le communiqué, une autre dans l'article de blog — rendant le lot inexpédiable, ce que la vérification par actif ne peut pas détecter par construction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#web-conversationnel\|web conversationnel]] — définition: Paradigme d'interaction numérique basé sur le dialogue naturel avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] — contrainte: HTML statique, SPA obligatoire, mis en cache à l'installation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workslop\|workslop]] — définition: Sortie de faible valeur produite par une adoption IA sans méthode (dette technique à vitesse industrielle) (2 occ., 2 fiches)
@@ -899,6 +903,7 @@
 - [[kb/_entites-mineures#écart-adoption-IA\|écart adoption IA]] — chiffre: 70% expérimentent, seulement 20% deviennent utilisateurs réguliers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écart-expérimentation-production\|écart expérimentation-production]] — nature: Problème structurel du déploiement enterprise des agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#écart-opérationnel\|écart opérationnel]] — définition: Retard structurel du stack ouvert sur la standardisation et la préparation entreprise, qui explique que l'adoption dépasse l'ouvert mais que la mise en production reste derrière (1 occ., 1 fiches)
+- [[kb/_entites-mineures#échec-silencieux\|échec silencieux]] — définition: Classe de risque propre aux systèmes à base de LLM : contrairement au logiciel traditionnel qui plante, ils continuent avec assurance à qualité réduite et produisent une sortie plausible. Cas rapporté : une constante vidée faisait supprimer tous les chiffres de tous les prompts pendant plusieurs releases, panne longtemps imputée à tort à la tendance du modèle à inventer des chiffres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-d'adoption\|échelle d'adoption]] — stades: 0 manuel → 5 cloud parallèle (CE débute au stade 3) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-circulaire-IA\|économie circulaire IA]] — montant estimé: 1 trillion de dollars (1 occ., 1 fiches)
 - [[kb/_entites-mineures#économie-de-la-fenêtre-de-contexte\|économie de la fenêtre de contexte]] — rôle: Contrainte structurante déplaçant l'attention du prompt vers le contexte (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3084 entités
+> 3092 entités
 
 ## #
 
@@ -815,6 +815,7 @@
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couche-anti-corruption-(ACL)\|Couche anti-corruption (ACL)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
@@ -1021,6 +1022,7 @@
 - [[kb/_entites-mineures#Dynamic-Spec-Development\|Dynamic Spec Development]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#dynamic-workflows\|dynamic workflows]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DynamoDB\|DynamoDB]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#déclaration-de-couverture\|déclaration de couverture]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#déclin-démographique\|déclin démographique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#décomposition-de-capacités\|décomposition de capacités]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#décrochage-compétitif\|décrochage compétitif]] (CONCEPT, 1 fiches)
@@ -1371,6 +1373,7 @@
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#grown-software\|grown software]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Growth-Marketing-Fit\|Growth Marketing Fit]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Grox\|Grox]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GSAP\|GSAP]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#GuacaDrone\|GuacaDrone]] (CONCEPT, 1 fiches)
@@ -1378,6 +1381,7 @@
 - [[kb/_entites-mineures#guide-CPO-FinOps-(Finout)\|guide CPO FinOps (Finout)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Guides-feedforward\|Guides feedforward]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Guido-Appenzeller\|Guido Appenzeller]] (PERSONNE, 1 fiches)
+- [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] (PERSONNE, 1 fiches)
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] (PERSONNE, 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] (PERSONNE, 1 fiches)
 - [[kb/Guillermo-Rauch\|Guillermo Rauch]] (PERSONNE, 1 fiches)
@@ -1789,6 +1793,7 @@
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Mark-Zuckerberg\|Mark Zuckerberg]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Markdown-for-Agents\|Markdown for Agents]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Marketing-Mix-Modeling\|Marketing Mix Modeling]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#marketplace-interne-Anthropic\|marketplace interne Anthropic]] (METHODOLOGIE, 1 fiches)
@@ -3005,6 +3010,8 @@
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#VS-Code\|VS Code]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#VSORA\|VSORA]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#vérification-en-monde-clos\|vérification en monde clos]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#vérification-inter-actifs\|vérification inter-actifs]] (CONCEPT, 1 fiches)
 ## W
 
 - [[kb/_entites-mineures#WAIC-2026\|WAIC 2026]] (EVENEMENT, 1 fiches)
@@ -3120,6 +3127,7 @@
 - [[kb/_entites-mineures#écart-adoption-IA\|écart adoption IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#écart-expérimentation-production\|écart expérimentation-production]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#écart-opérationnel\|écart opérationnel]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#échec-silencieux\|échec silencieux]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#échelle-d'adoption\|échelle d'adoption]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Échelle-de-maturité\|Échelle de maturité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#échelle-en-8-niveaux\|échelle en 8 niveaux]] (METHODOLOGIE, 1 fiches)

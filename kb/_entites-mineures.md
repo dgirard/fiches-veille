@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2637 entités avec moins de 3 triples/fiches
+> 2644 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (372)
 
@@ -6579,7 +6579,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (578)
+## TECHNOLOGIE (579)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9606,6 +9606,21 @@
 
 **Fiches** : [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 
+### Marketing AI OS {#Marketing-AI-OS}
+
+**Type** : TECHNOLOGIE | 5 relations | 1 fiches
+
+- **définition** : Système d'IA marketing interne bâti dans Claude (2026) : quatre couches — vérité, production, vérification, distribution interne —, une trentaine de skills contenu et vente, une douzaine de modules de source de vérité, sept agents dont six ne font que contrôler, un plugin terminal et une application navigateur portant la même connaissance, plus une orchestration enchaînant trois ou quatre actifs en un *campaign bundle*
+
+- **est_instance_de** → [[kb/_entites-mineures#système-interne-à-quatre-couches-—-vérité,-production,-vérification,-distribution-—-servant-une-équipe-marketing-d'une-soixantaine-de-personnes-avec-une-trentaine-de-skills,-une-douzaine-de-modules-de-source-de-vérité-et-sept-agents-dont-six-ne-font-que-contrôler\|système interne à quatre couches — vérité, production, vérification, distribution — servant une équipe marketing d'une soixantaine de personnes avec une trentaine de skills, une douzaine de modules de source de vérité et sept agents dont six ne font que contrôler]] (AFFIRMATION) — 0.94
+- **utilise** → [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.93
+
+- [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] **a_créé** → Marketing AI OS — 0.96
+- [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] **fait_partie_de** → Marketing AI OS — 0.94
+- [[kb/_entites-mineures#Growth-Marketing-Fit\|Growth Marketing Fit]] **publie** → Marketing AI OS — 0.85
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
+
 ### MegaBill {#MegaBill}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12496,7 +12511,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (881)
+## CONCEPT (886)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17495,6 +17510,17 @@
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
+### couche de vérité {#couche-de-vérité}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Ensemble de documents décrivant ce que l'entreprise sait réellement — faits produit, positionnement, cibles et anti-cibles, règles de voix, preuves clients — tenu séparément de tout ce qui produit du contenu, chaque document ayant un propriétaire humain, une version et une date. Règle associée : rien de ce qui produit du contenu n'a le droit de contenir un fait, il doit le demander
+
+- **fait_partie_de** → [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] (TECHNOLOGIE) — 0.94
+- **réduit** → [[kb/_entites-mineures#la-dérive-factuelle-un-fait-modifié-une-seule-fois-rend-correctes-les-trente-cinq-skills-dès-le-lendemain,-et-toute-affirmation-contestée-n'a-qu'un-document-propriétaire-et-qu'une-personne-à-interroger\|la dérive factuelle : un fait modifié une seule fois rend correctes les trente-cinq skills dès le lendemain, et toute affirmation contestée n'a qu'un document propriétaire et qu'une personne à interroger]] (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
+
 ### couche sémantique {#couche-sémantique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17835,6 +17861,17 @@
 - **définition** : Signal dwell mesuré en durée continue (index 18) en 2026, vs binaire dwelled/not-dwelled en 2023 — récompense les threads et long-form
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
+### déclaration de couverture {#déclaration-de-couverture}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Contrainte de format imposée à un vérificateur automatique : interdiction de renvoyer un « pass » nu, obligation de clore chaque rapport par le nombre d'affirmations contrôlées, le nombre réellement apparié à ses sources, celles hors de sa juridiction et celles possédées par aucune source du système. « Je ne peux pas vérifier ceci » devient un résultat de première classe
+
+- **résout** → [[kb/_entites-mineures#la-certification-en-monde-clos-le-vérificateur-ne-peut-pas-renvoyer-un-«-pass-»-nu-et-doit-énoncer-combien-d'affirmations-il-a-contrôlées,-combien-il-a-réellement-appariées-à-ses-sources,-lesquelles-ne-relevaient-pas-de-sa-juridiction-et-lesquelles-ne-sont-possédées-par-aucune-source-du-système\|la certification en monde clos : le vérificateur ne peut pas renvoyer un « pass » nu et doit énoncer combien d'affirmations il a contrôlées, combien il a réellement appariées à ses sources, lesquelles ne relevaient pas de sa juridiction et lesquelles ne sont possédées par aucune source du système]] (AFFIRMATION) — 0.94
+- **s_applique_à** → [[kb/_entites-mineures#tout-dispositif-de-LLM-juge-hors-marketing,-notamment-la-revue-de-code-automatisée-et-l'évaluation-de-sorties-générées\|tout dispositif de LLM-juge hors marketing, notamment la revue de code automatisée et l'évaluation de sorties générées]] (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
 
 ### déclin démographique {#déclin-démographique}
 
@@ -20370,6 +20407,27 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
+### vérification en monde clos {#vérification-en-monde-clos}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Propriété structurelle de tout vérificateur automatique : il ne peut se prononcer que sur ce que ses sources couvrent. Confronté à une affirmation hors couverture, il ne trouve aucune contradiction et rend un verdict favorable indiscernable d'une vraie vérification — il certifie l'erreur au lieu de la manquer
+
+- **observé_dans** → [[kb/_entites-mineures#un-vérificateur-de-faits-ayant-rendu-un-«-pass-»-sur-une-affirmation-portant-sur-un-produit-que-ses-sources-ne-couvraient-pas-rien-ne-la-contredisait,-donc-il-n'a-trouvé-aucun-problème-et-a-certifié-l'erreur-au-lieu-de-la-manquer\|un vérificateur de faits ayant rendu un « pass » sur une affirmation portant sur un produit que ses sources ne couvraient pas : rien ne la contredisait, donc il n'a trouvé aucun problème et a certifié l'erreur au lieu de la manquer]] (AFFIRMATION) — 0.95
+- **s_applique_à** → [[kb/_entites-mineures#tout-vérificateur-automatique-adossé-à-un-corpus-de-sources-fini,-qui-ne-peut-se-prononcer-que-sur-ce-qu'on-lui-a-fourni\|tout vérificateur automatique adossé à un corpus de sources fini, qui ne peut se prononcer que sur ce qu'on lui a fourni]] (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
+
+### vérification inter-actifs {#vérification-inter-actifs}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Contrôle de niveau lot lisant les actifs les uns contre les autres plutôt que contre la couche de vérité. Nécessaire parce que deux actifs individuellement corrects et traçables peuvent se contredire — une date dans le communiqué, une autre dans l'article de blog — rendant le lot inexpédiable, ce que la vérification par actif ne peut pas détecter par construction
+
+- **résout** → [[kb/_entites-mineures#la-contradiction-entre-actifs-d'un-même-lot-deux-actifs-peuvent-être-individuellement-corrects,-traçables-vers-de-vraies-sources-et-validés,-tout-en-se-contredisant,-ce-que-la-vérification-par-actif-ne-peut-pas-attraper-par-construction\|la contradiction entre actifs d'un même lot : deux actifs peuvent être individuellement corrects, traçables vers de vraies sources et validés, tout en se contredisant, ce que la vérification par actif ne peut pas attraper par construction]] (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
+
 ### web conversationnel {#web-conversationnel}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -20491,6 +20549,17 @@
 - **observé_dans** → [[kb/_entites-mineures#la-standardisation-et-l'enterprise-readiness,-colonnes-systématiquement-faibles-de-toutes-les-couches-du-stack-ouvert\|la standardisation et l'enterprise readiness, colonnes systématiquement faibles de toutes les couches du stack ouvert]] (AFFIRMATION) — 0.93
 
 **Fiches** : [[fiches/2026-07/mozilla-state-of-open-source-ai-2026-07\|The state of open source AI (v1.0.1, juillet 2026)]]
+
+### échec silencieux {#échec-silencieux}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Classe de risque propre aux systèmes à base de LLM : contrairement au logiciel traditionnel qui plante, ils continuent avec assurance à qualité réduite et produisent une sortie plausible. Cas rapporté : une constante vidée faisait supprimer tous les chiffres de tous les prompts pendant plusieurs releases, panne longtemps imputée à tort à la tendance du modèle à inventer des chiffres
+
+- **observé_dans** → [[kb/_entites-mineures#une-constante-censée-contenir-un-caractère-marqueur-invisible-vidée-en-chaîne-vide,-faisant-supprimer-par-une-étape-de-nettoyage-chaque-chiffre-de-chaque-prompt-pendant-un-nombre-indéterminé-de-releases,-sans-diff-visible-ni-erreur\|une constante censée contenir un caractère marqueur invisible vidée en chaîne vide, faisant supprimer par une étape de nettoyage chaque chiffre de chaque prompt pendant un nombre indéterminé de releases, sans diff visible ni erreur]] (AFFIRMATION) — 0.95
+- **permet** → [[kb/_entites-mineures#une-réponse-fausse,-plausible,-utilisée-sans-objection\|une réponse fausse, plausible, utilisée sans objection]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
 
 ### échelle d'adoption {#échelle-d'adoption}
 
@@ -24582,7 +24651,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (113)
+## DOCUMENT (114)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -24967,6 +25036,16 @@
 - [[kb/GenAI\|GenAI]] **observé_dans** → Glory — 0.85
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
+### Growth Marketing Fit {#Growth-Marketing-Fit}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Newsletter LinkedIn de Guillaume Dumortier (~1 300 abonnés en août 2026), support de publication du retour d'expérience sur le Marketing AI OS
+
+- **publie** → [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] (TECHNOLOGIE) — 0.85
+
+**Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
 
 ### HBR study 2026 cognitive exhaustion {#HBR-study-2026-cognitive-exhaustion}
 

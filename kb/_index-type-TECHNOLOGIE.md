@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 719 entités de type TECHNOLOGIE
+> 720 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -383,6 +383,7 @@
 - [[kb/_entites-mineures#Managerbot\|Managerbot]] — définition: Assistant IA destiné aux commerçants Square : marketing automatisé, analyse de marge et suggestions de correctifs opérationnels (1 occ., 1 fiches)
 - [[kb/Manus-technologie\|Manus]] — nature: Agent IA basé sur Claude (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Markdown-for-Agents\|Markdown for Agents]] — catégorie: Conversion HTML vers Markdown en edge (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] — définition: Système d'IA marketing interne bâti dans Claude (2026) : quatre couches — vérité, production, vérification, distribution interne —, une trentaine de skills contenu et vente, une douzaine de modules de source de vérité, sept agents dont six ne font que contrôler, un plugin terminal et une application navigateur portant la même connaissance, plus une orchestration enchaînant trois ou quatre actifs en un *campaign bundle* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MegaBill\|MegaBill]] — catégorie: Ingestion unifiée des factures fournisseurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MenuGen\|MenuGen]] — catégorie: App vibe-codée par Karpathy (photo menu → images plats), rendue obsolète par Nanobanana (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] — catégorie: Plateforme de gestion de catalogue Google (1 occ., 1 fiches)

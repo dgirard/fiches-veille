@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 492 entités de type PERSONNE
+> 493 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -180,6 +180,7 @@
 - [[kb/_entites-mineures#Greg-Isenberg\|Greg Isenberg]] — rôle: Host podcast indie founders / AI startups, ideabrowser.com (1 occ., 1 fiches)
 - [[kb/Gregor-Hohpe\|Gregor Hohpe]] — rôle: Architecte, auteur de The Software Architect Elevator ; cadre de référence (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Guido-Appenzeller\|Guido Appenzeller]] — rôle: Investisseur a16z, infrastructure IA (1 occ., 1 fiches)
+- [[kb/Guillaume-Dumortier\|Guillaume Dumortier]] — rôle: Auteur de la newsletter LinkedIn *Growth Marketing Fit* ; a conçu et exploité un système d'IA marketing interne (« Marketing AI OS ») pour une équipe d'une soixantaine de personnes, dont il publie le journal de pannes en août 2026 (1 occ., 1 fiches)
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] — rôle: Directeur performance achats, Elee (1 occ., 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] — rôle: Senior Director of Marketing, Google Cloud EMEA (1 occ., 1 fiches)
 - [[kb/Guillermo-Rauch\|Guillermo Rauch]] — rôle: CEO Vercel (1 occ., 1 fiches)
