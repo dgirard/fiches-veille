@@ -126,13 +126,40 @@ Quand l'objet d'un triple épistémique (`affirme_que`, `prédit`, `mesure`, `re
 ### Règles d'extraction
 
 - **Seuil de confiance minimum** : 0.70 — Les triples en dessous ne sont pas inclus
-- **Nombre cible** : 5 à 15 triples par fiche (ajuster selon la densité de l'article)
+- **Nombre cible** : **10 à 20 triples** par fiche (voir ci-dessous pour les fiches denses)
 - **Prédicats** : uniquement issus du registre fermé ci-dessus
 - **Prédicats épistémiques** (`affirme_que`, `prédit`, `recommande`, `mesure`) pour distinguer les faits des opinions ; leurs objets non-entités sont typés `AFFIRMATION`/`MESURE`/`CITATION`
 - **Noms d'entités** : restent dans leur langue d'origine (comme pour Authors)
 - **Tout le reste en français** : types, en-têtes de tableau, prédicats
 - Privilégier les relations **structurantes** (qui relient des entités majeures) aux relations anecdotiques
 - **En-tête du tableau Triples** : exactement `| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |` (avec l'accent sur `Prédicat`)
+
+### Densité : combien de triples par fiche
+
+Cible révisée le **2026-08-15** d'après la distribution réelle des 387 fiches du
+corpus. L'ancienne cible (5-15) datait d'avant la densification du corpus et
+n'était plus tenue par une fiche sur quatre : le plancher de 5 était **mort**
+(aucune fiche en dessous de 7) et le plafond de 15 était franchi par 105 fiches.
+
+| Repère | Valeur observée |
+|--------|-----------------|
+| minimum / maximum | 7 / 66 |
+| médiane | **14** |
+| quartiles (p25 – p75) | 12 – 16 |
+| p90 / p95 | 23 / 27 |
+| moyenne 2023-2025 → 2026 | 12,3 → **17,9** |
+
+- **10 à 20 triples** : bande normale, 83 % du corpus. Une fiche substantielle
+  **sous 10 triples** signale une extraction incomplète plus qu'un article pauvre.
+- **Jusqu'à ~30** : admis sans justification pour les articles réellement denses
+  — annonces produit à composants nommés, rapports de *deep research*, textes
+  doctrinaux longs. La densité de l'article commande, pas un quota.
+- **Au-delà de 30** : ce n'est pas interdit, c'est un **signal**. Vérifier que la
+  fiche ne traite pas deux sujets qui gagneraient à être séparés, et que les
+  triples ajoutés sont **structurants** et non anecdotiques (règle ci-dessus).
+
+Le lint ne vérifie pas ce nombre : c'est une règle éditoriale, pas un invariant
+mécanique.
 
 ### Table `### Entités` vs triples — ce qui doit y figurer
 
