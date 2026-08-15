@@ -1,6 +1,6 @@
 # Cloudflare Wallets
 
-> **Type** : TECHNOLOGIE | 6 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
 
 ## Attributs
 
@@ -34,6 +34,7 @@
 ## Relations (comme objet)
 
 - [[kb/Cloudflare\|Cloudflare]] **publie** → Cloudflare Wallets — 0.97
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] **concurrence** → Cloudflare Wallets — 0.88
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 404 entités de type METHODOLOGIE
+> 405 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -254,6 +254,7 @@
 - [[kb/_entites-mineures#analyse_d_erreurs\|analyse_d_erreurs]] — domaine: Développement systèmes IA agentiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] — définition: Dogfooding interne chez Anthropic ("ants" = employés) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#apprentissage-autodidacte\|apprentissage autodidacte]] — avantage: rythme libre, accessibilité mondiale, gratuité (1 occ., 1 fiches)
+- [[kb/approbation-humaine-par-transaction\|approbation humaine par transaction]] — définition: Règle de fonctionnement du portefeuille Link pour agents au lancement : chaque demande de dépense est revue et approuvée par la personne avant que le justificatif ne soit transmis à l'agent, sur le web ou dans l'application Link (2 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] — description: IA intégrée aux workflows cœur, non ajoutée superficiellement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-Crawl-Walk-Run\|approche Crawl Walk Run]] — catégorie: Déploiement incrémental entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#approche-multi-sessions\|approche multi-sessions]] — description: Séparation des rôles architecte/implémenteur entre deux instances Claude (1 occ., 1 fiches)

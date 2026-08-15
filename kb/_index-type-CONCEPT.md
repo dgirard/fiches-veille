@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 919 entités de type CONCEPT
+> 923 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -520,6 +520,7 @@
 - [[kb/_entites-mineures#capital-humain\|capital humain]] — définition: Savoir, jugement, relations, ingéniosité et reconnaissance de patterns des personnes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capital-token\|capital token]] — définition: Capacité IA que la firme bâtit et possède (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capitalisation-continue\|capitalisation continue]] — principe: Enrichissement progressif de la base de bonnes pratiques après chaque cycle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#carte-à-usage-unique\|carte à usage unique]] — rôle: Cale de compatibilité entre agents et rails de cartes existants : le marchand ne voit qu'une carte ordinaire, ce qui dispense d'attendre l'adoption d'un protocole de paiement machine-natif mais le prive de toute politique agent-aware (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cascade-hiérarchique\|cascade hiérarchique]] — direction: VP → Directors → Managers, chaque niveau amplifiant les problèmes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#caveats\|caveats]] — contenu: experience matters ; SEO informationnel ; pas de scale massif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#challenges-et-containments\|challenges et containments]] — définition: Challenges = frictions réversibles et granulaires (justification, clé de sécurité, approbation, selfie) ; containments = révocations durables, parfois levées seulement après entretien du salarié et de son manager (1 occ., 1 fiches)
@@ -562,6 +563,7 @@
 - [[kb/_entites-mineures#context-collapse\|context collapse]] — définition: dégradation du contexte sur itérations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#context-graph\|context graph]] — définition: Enregistrement structuré des traces de décision reliées entre entités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte\|contexte]] — description: Connaissance du dépôt, des conventions et de l'architecture par l'IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#contexte-de-transaction-fourni-par-l'agent\|contexte de transaction fourni par l'agent]] — définition: Obligation faite à l'agent de joindre la raison de la dépense à sa demande, afin que l'approbation humaine soit informée — pattern transposable à toute autorisation d'action irréversible (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-passif\|contexte passif]] — définition: Information injectée dans le prompt système sans décision d'invocation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contrat-de-portabilité-agent\|contrat de portabilité agent]] — définition: Équivalent agent du contrat applicatif PaaS : packager code+instructions+outils+mémoire+permissions+éval en une unité déployable, portable entre clouds (1 occ., 1 fiches)
 - [[kb/_entites-mineures#control-flow-is-code\|control flow is code]] — principe: L'ordonnancement est déterministe ; les modèles ne fournissent que le jugement (1 occ., 1 fiches)
@@ -701,12 +703,14 @@
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] — définition: Carte irrégulière des forces/faiblesses des IA par domaine (2 occ., 2 fiches)
 - [[kb/_entites-mineures#journal-d'événements-d'agent\|journal d'événements d'agent]] — définition: Trace locale append-only de chaque appel de modèle, exécution d'outil, approbation et édition, servant de source unique de vérité pour rejouer et reprendre une session interrompue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#jugement-professionnel\|jugement professionnel]] — rôle: Savoir s'arrêter pour refactoriser — ce qui distingue le pro (2 occ., 2 fiches)
+- [[kb/_entites-mineures#justificatif-de-paiement-scopé\|justificatif de paiement scopé]] — définition: Credential remis à l'agent après approbation — carte à usage unique ou Shared Payment Token — borné en montant, devise et marchand, de sorte que la perte maximale d'une transaction est fixée à l'émission (1 occ., 1 fiches)
 - [[kb/_entites-mineures#kill-switch\|kill switch]] — définition: Capacité technique de bridage ou d'extinction d'un système d'IA, activable sur ordre gouvernemental (2 occ., 2 fiches)
 - [[kb/_entites-mineures#kill-switch-de-fait\|kill switch de fait]] — définition: Capacité déjà démontrée de couper mondialement un modèle hébergé (précédent Anthropic, 19 jours) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#labellisation\|labellisation]] — définition: Attribution à l'IA de licenciements en réalité motivés par des difficultés structurelles ou post-Covid (2 occ., 2 fiches)
 - [[kb/_entites-mineures#langage-naturel\|langage naturel]] — limite: Pas toujours optimal comme langage de spécification (1 occ., 1 fiches)
 - [[kb/_entites-mineures#legacy\|legacy]] — traitement BMAD: cartographie, refactoring progressif, génération tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
+- [[kb/_entites-mineures#limites-de-dépense-sans-approbation\|limites de dépense sans approbation]] — statut: Capacité annoncée par Stripe le 29 avril 2026 mais non livrée : plafonds paramétrables et choix des cas où un agent agit sans revue humaine supplémentaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lint-de-patterns\|lint de patterns]] — définition: Vérification automatique de décisions d'architecture par analyse de l'arbre syntaxique (ast-grep), distincte du lint de syntaxe et du typecheck (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] — attributs: adaptatif, composable, intent-driven, context-aware, conversationnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] — statut: Modèle dominant historique, en déclin avec l'IA (1 occ., 1 fiches)

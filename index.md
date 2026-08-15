@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 386 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-15
+> 387 fiches | 1975-12 → 2026-08-12 | généré le 2026-08-15
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -149,6 +149,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **??** [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto · Substack (Fran Soto) — goût développeur, AI slop, jugement technique
 - **30** [Our evaluation of OpenAI's GPT-5.5 cyber capabilities](fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30.md) — AI Safety Institute (AISI UK) · AISI UK (gouv.) — cybersecurite offensive, evaluation modele IA, GPT-5.5
 - **30** [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) — Jasmine Sun (Ms. Sun écrit sur l'IA et la culture Silicon Valley sur Substack) · NYT Opinion (Jasmine Sun) — Jasmine Sun, NYT Opinion, permanent underclass
+- **29** [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte. · Stripe — Stripe, Link, portefeuille pour agents
 - **29** [Andrej Karpathy: From Vibe Coding to Agentic Engineering](fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29.md) — Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme "vibe coding") · YouTube AI Startup School (Andrej Karpathy) — Andrej Karpathy, vibe coding, agentic engineering
 - **29** [the 2026 ai engineer roadmap](fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04.md) — Rohit (@rohit4verse) — créateur de contenu IA sur X, vulgarisateur d'architecture et roadmaps de carrière en ingénierie IA. · X (Rohit @rohit4verse) — 2026 AI engineer roadmap, Rohit, rohit4verse
 - **28** [How I Do Content Engineering With Claude Code](fiches/2026-04/law-ahrefs-content-engineering-claude-code-2026-04-28.md) — **Ryan Law** — Director of Content Marketing chez **Ahrefs**. Praticien senior du content marketing SEO ; le billet est un retour d'expérience personnel (*« How I do… »*) publié sur le **blog Ahrefs** (ahrefs.com/blog) le **28 avril 2026**. · Ahrefs blog (Ryan Law) — content engineering, ingénierie de contenu, Claude Code
@@ -789,6 +790,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Solving the Identity Crisis for AI Agents](fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21.md) — **Matt Mathew** (Sr Staff Engineer), **Prasad Borole** (Staff Software Engineer), **Meng Huang** (Engineering Manager), **Sergey Burykin** (Sr Software Engineer), **Gaurav Goel** (Software Engineer II), **Bayard Walsh** (Software Engineer I). Tous chez **Uber**, équipe Security/Identity infrastructure responsable du déploiement de l'architecture d'identité agentique en production. Composition d'équipe représentative : un Engineering Manager, un Staff senior cadre, un Staff IC architecte, deux SWE séniors/intermédiaires, un SWE I — pattern classique d'une équipe Uber qui livre une plateforme transverse mission-critical.
 - [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto
 - [Our evaluation of OpenAI's GPT-5.5 cyber capabilities](fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30.md) — AI Safety Institute (AISI UK)
+- [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [An Update on Recent Claude Code Quality Reports](fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23.md) — Anthropic
 - [Comparing Context Retrieval Approaches for AI Code Review](fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06.md) — Équipe Engineering Compare the Market (Meerkat Careers, UK — site de comparaison d'assurances et services financiers).
 - [Signal over noise: rethinking what "contribution" means in the age of AI slop](fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04.md) — Philippe Ensarguet
@@ -849,6 +851,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)](fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08.md) — Andrew Ng (fondateur DeepLearning.AI, Stanford, ex-Google Brain, ex-Baidu, ex-Coursera)
 - [AI Brings Headwinds and Tailwinds to the Rule of 40](fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04.md) — **David Lipman, Greg Callahan, Daniel Goetz, George Sunderland** — partners et experts Bain & Company spécialistes industrie logicielle / SaaS / private equity software. Article publié en **avril 2026** sur bain.com/insights, **partie 1/5** d'une série Bain sur *"the software industry in the age of AI"*. La partie 2 (*The $100-Billion SaaS Opportunity Hiding in Cross-System Labor*, mai 2026) est dans le dossier de veille.
 - [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) — Jasmine Sun (Ms. Sun écrit sur l'IA et la culture Silicon Valley sur Substack)
+- [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [FinOps for AI Agents: A Four-Step Allocation Framework](fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27.md) — Finout (équipe, sans auteur nommé)
 - [FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale](fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15.md) — Sohrab Hosseini (co-fondateur, Orq.ai)
 - [Starving Genies](fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03.md) — Kent Beck
@@ -970,6 +973,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
 - [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8).
 - [What Anthropic's New Claude Billing Means for Zed Users](fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14.md) — **Franciska Dethlefsen** — head of growth and marketing chez **Zed Industries**. Le rôle est déterminant pour lire le texte : ce n'est pas un billet d'ingénierie mais une **communication de crise produit**, écrite le lendemain d'une annonce d'un fournisseur dont Zed dépend, à destination d'utilisateurs inquiets. La signature growth/marketing explique la structure (problème → options → réassurance) et le fait que l'argument protocolaire arrive en conclusion plutôt qu'en tête.
+- [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) — Thariq (@trq212)
 - [Plakar : la révolution française de la sauvegarde open source](fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01.md) — Deep Research Veille Interne
 - [Making Google Sans Flex](fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18.md) — Barbara Eldredge, Dave Crossland, Megan Lynch, Tobias Kunisch
@@ -1043,17 +1047,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 386 fiches
-- **Par année** : 2026 (209) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 387 fiches
+- **Par année** : 2026 (210) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 138
   - Architecture & Construction : 50
   - Transformation & Adoption : 80
-  - Qualité & Sécurité : 38
-  - Économie & Marché : 76
+  - Qualité & Sécurité : 39
+  - Économie & Marché : 77
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 23
-  - Outils & Plateformes : 45
+  - Outils & Plateformes : 46
   - Recherche & Éducation : 10
   - Produits & Services : 11
   - Politique & Régulation : 21

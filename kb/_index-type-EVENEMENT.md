@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 46 entités de type EVENEMENT
+> 47 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -30,6 +30,7 @@
 - [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] — nature: Programme cyberdéfense Anthropic + gouvernement US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] — catégorie: Recherche Google sur efficacité des équipes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Round-2-Anthropic-Labs\|Round 2 Anthropic Labs]] — description: Reformation de l'équipe Anthropic Labs sous direction de Mike Krieger (CPO Anthropic, ex-cofondateur Instagram) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Stripe-Sessions-2026\|Stripe Sessions 2026]] — rôle: Keynote Stripe où a été posée la thèse des agents comme participants actifs de l'économie d'Internet, dont cette annonce est la déclinaison produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tech-&-Co-Business\|Tech & Co Business]] — format: Émission BFM Business avec segment "Le débat" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tech.Rocks-Summit\|Tech.Rocks Summit]] — date: 1er décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] — date: 2026-02 (1 occ., 1 fiches)

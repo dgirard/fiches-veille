@@ -313,7 +313,7 @@
 - [[kb/_entites-mineures#Startups-AI-native\|Startups AI-native]] — caractéristique: Petite équipe générant des revenus massifs grâce au découplage taille/échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-Department\|State Department]] — secteur: Diplomatie américaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Strategize-Your-Career\|Strategize Your Career]] — type: Newsletter Substack pour ingénieurs logiciels (1 occ., 1 fiches)
-- [[kb/Stripe\|Stripe]] — secteur: Paiements / Fintech (5 occ., 5 fiches)
+- [[kb/Stripe\|Stripe]] — secteur: Paiements / Fintech (6 occ., 6 fiches)
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] — date_fondation: 14 juillet 2025 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#SubImage\|SubImage]] — secteur: Cybersécurité (Silicon Valley) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SuperClaude-Org\|SuperClaude-Org]] — type: Communauté open source (1 occ., 1 fiches)

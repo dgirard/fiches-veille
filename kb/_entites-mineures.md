@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2634 entités avec moins de 3 triples/fiches
+> 2642 entités avec moins de 3 triples/fiches
 
-## PERSONNE (371)
+## PERSONNE (372)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -838,6 +838,17 @@
 - **dirige** → [[kb/_entites-mineures#Greptile\|Greptile]] (ORGANISATION) — 0.95
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
+### Dan Hill {#Dan-Hill}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Product Manager Link Consumer Product chez Stripe, auteur de l'annonce du portefeuille Link pour agents (29 avril 2026)
+
+- **affirme_que** → « les protocoles de paiement machine-natifs gagnent encore en adoption, donc les agents doivent composer avec les moyens de paiement utilisés aujourd'hui » (CITATION) — 0.97
+- **travaille_chez** → [[kb/Stripe\|Stripe]] (ORGANISATION) — 0.96
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ### Dan Shapiro {#Dan-Shapiro}
 
@@ -6535,7 +6546,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (573)
+## TECHNOLOGIE (575)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9025,6 +9036,20 @@
 
 **Fiches** : [[fiches/2025-12/infographic-design-perfectionist-procedure-pastebin-2025-12-10\|Infographic Design: Operating Procedure for Steve Jobs-Level Obsession with Perfection]]
 
+### Issuing for agents {#Issuing-for-agents}
+
+**Type** : TECHNOLOGIE | 4 relations | 1 fiches
+
+- **définition** : Brique Stripe exposant les API Issuing pour construire des portefeuilles et cartes agentiques sur mesure : cartes virtuelles à usage unique, stockage de fonds, contrôles de dépense, permissions au niveau de la carte, antifraude à l'autorisation, visibilité temps réel
+
+- **permet** → « à une entreprise de bâtir son propre portefeuille agentique avec contrôles de dépense, permissions par carte et antifraude à l'autorisation » (AFFIRMATION) — 0.96
+- **s_applique_à** → « l'émission de cartes agentiques par les fintechs, les plateformes SaaS verticales et les places de marché » (AFFIRMATION) — 0.94
+
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] **est_basé_sur** → Issuing for agents — 0.97
+- [[kb/Stripe\|Stripe]] **publie** → Issuing for agents — 0.97
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
+
 ### JSON {#JSON}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10790,6 +10815,16 @@
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
+### Shared Payment Token {#Shared-Payment-Token}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Justificatif de paiement machine-natif, alternative à la carte à usage unique dans le portefeuille Link pour agents, scopable en montant, devise et marchand
+
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] **utilise** → Shared Payment Token — 0.95
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
+
 ### Shift-left Security Plugin {#Shift-left-Security-Plugin}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12393,7 +12428,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (889)
+## CONCEPT (893)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16888,6 +16923,19 @@
 
 **Fiches** : [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
+### carte à usage unique {#carte-à-usage-unique}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **rôle** : Cale de compatibilité entre agents et rails de cartes existants : le marchand ne voit qu'une carte ordinaire, ce qui dispense d'attendre l'adoption d'un protocole de paiement machine-natif mais le prive de toute politique agent-aware
+
+- **permet** → « à un agent de payer sans jamais accéder aux identifiants de paiement bruts du consommateur » (AFFIRMATION) — 0.97
+- **résout** → « l'incompatibilité entre agents et rails de paiement existants, sans attendre l'adoption d'un protocole machine-natif » (AFFIRMATION) — 0.90
+
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] **utilise** → carte à usage unique — 0.96
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
+
 ### cascade hiérarchique {#cascade-hiérarchique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17274,6 +17322,16 @@
 - **description** : Connaissance du dépôt, des conventions et de l'architecture par l'IA
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
+
+### contexte de transaction fourni par l'agent {#contexte-de-transaction-fourni-par-l'agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Obligation faite à l'agent de joindre la raison de la dépense à sa demande, afin que l'approbation humaine soit informée — pattern transposable à toute autorisation d'action irréversible
+
+- **permet** → « à l'humain d'approuver une dépense en comprenant ce qu'il autorise » (AFFIRMATION) — 0.95
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ### contexte passif {#contexte-passif}
 
@@ -18587,6 +18645,16 @@
 
 **Fiches** : [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]], [[fiches/2026-06/thomas-pragdave-failing-faster-code-rot-ai-velocity-2026-06-06\|Failing Faster]]
 
+### justificatif de paiement scopé {#justificatif-de-paiement-scopé}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Credential remis à l'agent après approbation — carte à usage unique ou Shared Payment Token — borné en montant, devise et marchand, de sorte que la perte maximale d'une transaction est fixée à l'émission
+
+- **réduit** → « la perte maximale d'une transaction agentique, le montant, la devise et le marchand étant bornés à l'émission » (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
+
 ### kill switch {#kill-switch}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -18641,6 +18709,16 @@
 - **catégorie** : Document signal d'effort et de soutien
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
+
+### limites de dépense sans approbation {#limites-de-dépense-sans-approbation}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **statut** : Capacité annoncée par Stripe le 29 avril 2026 mais non livrée : plafonds paramétrables et choix des cas où un agent agit sans revue humaine supplémentaire
+
+- **est_instance_de** → « une capacité annoncée mais non livrée au 29 avril 2026 » (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ### lint de patterns {#lint-de-patterns}
 
@@ -24088,7 +24166,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (43)
+## EVENEMENT (44)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -24325,6 +24403,16 @@
 - Mike Krieger **dirige** → Round 2 Anthropic Labs — 0.96
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+
+### Stripe Sessions 2026 {#Stripe-Sessions-2026}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **rôle** : Keynote Stripe où a été posée la thèse des agents comme participants actifs de l'économie d'Internet, dont cette annonce est la déclinaison produit
+
+- **référence** → [[kb/Link-wallet-for-agents\|Link wallet for agents]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29\|Giving agents the ability to pay]]
 
 ### Tech & Co Business {#Tech-&-Co-Business}
 

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 717 entités de type TECHNOLOGIE
+> 720 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -320,6 +320,7 @@
 - [[kb/_entites-mineures#Insights\|Insights]] — catégorie: Agent spécialisé données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Inter\|Inter]] — catégorie: Police typographique recommandée (1 occ., 1 fiches)
 - [[kb/Interactions-API\|Interactions API]] — catégorie: API unifiée modèles et agents (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Issuing-for-agents\|Issuing for agents]] — définition: Brique Stripe exposant les API Issuing pour construire des portefeuilles et cartes agentiques sur mesure : cartes virtuelles à usage unique, stockage de fonds, contrôles de dépense, permissions au niveau de la carte, antifraude à l'autorisation, visibilité temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#JSON\|JSON]] — catégorie: Format de sérialisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jarvis-(agent-perso)\|Jarvis (agent perso)]] — définition: Pratique courante dans la Valley : développeur qui construit son propre agent maître orchestrant les tâches (référence Iron Man) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#JavaScriptCore\|JavaScriptCore]] — rôle: Moteur JS (Safari) embarqué par Bun ; sa gestion GC croisée avec la mémoire manuelle Zig est la source de la classe de bugs visée (1 occ., 1 fiches)
@@ -355,6 +356,7 @@
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] — catégorie: Protocole de connexion aux outils IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linear-Sync-Engine\|Linear Sync Engine]] — attribut: Architecture haute performance temps réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] — catégorie: Bibliothèque édition ligne de commande (1 occ., 1 fiches)
+- [[kb/Link-wallet-for-agents\|Link wallet for agents]] — définition: Portefeuille Stripe lancé le 29 avril 2026 donnant à un agent un accès programmatique à Link par OAuth : sur demande de dépense approuvée par l'humain, l'agent reçoit une carte à usage unique ou un Shared Payment Token adossé aux moyens de paiement déjà enregistrés, sans jamais accéder aux identifiants bruts (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Linux\|Linux]] — catégorie: Noyau open source dirigé par Torvalds ; adopte officiellement une position non anti-IA (l'IA comme outil jugé sur son mérite technique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Linux-6.9\|Linux 6.9]] — type: Noyau Linux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Llama-3-70B\|Llama 3 70B]] — rôle: génération dataset entraînement (1 occ., 1 fiches)
@@ -444,7 +446,7 @@
 - [[kb/_entites-mineures#OpenAI-Sora\|OpenAI Sora]] — catégorie: Modèle de génération vidéo concurrent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenBSD\|OpenBSD]] — catégorie: Système d'exploitation Unix sécurisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenClaude\|OpenClaude]] — catégorie: Variante open / locale de Claude Code mentionnée par Meng (1 occ., 1 fiches)
-- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (3 occ., 3 fiches)
+- [[kb/OpenClaw\|OpenClaw]] — categorie: Agent IA persistant 24/7 (4 occ., 4 fiches)
 - [[kb/_entites-mineures#OpenSMTPD\|OpenSMTPD]] — catégorie: Serveur mail open-source pour Unix/OpenBSD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenSearch-protocol\|OpenSearch protocol]] — rôle: Protocole d'intégration moteurs de recherche alternatifs dans Chrome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Operator\|Operator]] — statut: Rebrandé en ChatGPT Agent (1 occ., 1 fiches)
@@ -530,6 +532,7 @@
 - [[kb/_entites-mineures#Semantic-Kernel\|Semantic Kernel]] — catégorie: Framework d'agents Microsoft (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sentry\|Sentry]] — catégorie: Outil de monitoring et reporting d'erreurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-Knowledge-Hub\|Service Knowledge Hub]] — description: Produit interne Raiffeisen — documentation auto-générée de 57 microservices via parsing Kubernetes, 83 releases/mois (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Shared-Payment-Token\|Shared Payment Token]] — définition: Justificatif de paiement machine-natif, alternative à la carte à usage unique dans le portefeuille Link pour agents, scopable en montant, devise et marchand (1 occ., 1 fiches)
 - [[kb/Shieldstral\|Shieldstral]] — définition: Classificateur de sécurité multimodal de Mistral AI (4 août 2026), 3,8 Md de paramètres réels, poids ouverts Apache 2.0, base Ministral 3 + encodeur vision Pixtral, 12 langues, 16 Go de VRAM en BF16 ; la politique de modération est fournie en langage naturel à l'inférence, pas apprise dans les poids (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Shift-left-Security-Plugin\|Shift-left Security Plugin]] — description: Produit interne Raiffeisen — détection vulnérabilités dans IDE avant commit ; −82% secrets exposés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Shotcut\|Shotcut]] — catégorie: Éditeur vidéo open-source recommandé comme fork pour le projet 3 (1 occ., 1 fiches)
