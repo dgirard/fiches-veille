@@ -104,6 +104,7 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 | Andrew Ng | PERSONNE | affirme_que | l'infrastructure est peu accélérée par les LLMs actuels | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
 | Andrew Ng | PERSONNE | affirme_que | le travail conceptuel de recherche reste majoritairement humain | AFFIRMATION | 0.90 | ATEMPOREL | inféré |
 | Z.ai | ORGANISATION | publie | GLM-5.1 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| GLM-5.1 | TECHNOLOGIE | est_variante_de | GLM | TECHNOLOGIE | 0.97 | STATIQUE | inféré |
 | GLM-5.1 | TECHNOLOGIE | utilise | architecture MoE 754B / 40B actifs | CONCEPT | 0.97 | STATIQUE | déclaré_article |
 | GLM-5.1 | TECHNOLOGIE | permet | tâches autonomes jusqu'à 8 heures | CONCEPT | 0.94 | ATEMPOREL | déclaré_article |
 | GLM-5.1 | TECHNOLOGIE | mesure | 58,4% sur SWE-Bench Pro (leader) | MESURE | 0.95 | STATIQUE | déclaré_article |
@@ -129,6 +130,7 @@ Enfin, des chercheurs (Christina Lu, MATS, Oxford, Anthropic) introduisent l'**"
 | DeepLearning.AI | ORGANISATION | secteur | Éducation IA / médias techniques | AJOUT |
 | Z.ai | ORGANISATION | secteur | Modèles de fondation chinois (open-weights) | AJOUT |
 | GLM-5.1 | TECHNOLOGIE | catégorie | Modèle MoE 754B/40B-actifs, licence MIT | AJOUT |
+| GLM | TECHNOLOGIE | définition | Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité | AJOUT |
 | Agility Robotics | ORGANISATION | secteur | Robotique humanoïde industrielle | AJOUT |
 | Digit | TECHNOLOGIE | catégorie | Robot humanoïde bipède 1m75 / 65kg | AJOUT |
 | Schaeffler | ORGANISATION | secteur | Pièces automobiles (Caroline du Sud, Allemagne) | AJOUT |

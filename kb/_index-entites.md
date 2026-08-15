@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3143 entités
+> 3144 entités
 
 ## #
 
@@ -1309,8 +1309,9 @@
 - [[kb/_entites-mineures#GitNexus\|GitNexus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GKG\|GKG]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] (ORGANISATION, 1 fiches)
+- [[kb/GLM\|GLM]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#GLM-Coding-Plan\|GLM Coding Plan]] (TECHNOLOGIE, 1 fiches)
-- [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 1 fiches)
+- [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE, 2 fiches)
 - [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE, 6 fiches)
 - [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Glory\|Glory]] (DOCUMENT, 1 fiches)

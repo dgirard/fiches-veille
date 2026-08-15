@@ -1,6 +1,6 @@
 # GLM-5.2
 
-> **Type** : TECHNOLOGIE | 17 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 19 relations | 6 fiches sources
 
 ## Attributs
 
@@ -27,6 +27,11 @@
 - [[kb/open-weights\|open-weights]] (CONCEPT) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
+### est_variante_de
+
+- [[kb/GLM\|GLM]] (TECHNOLOGIE) — 0.97, STATIQUE
+  - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+
 ### mesure
 
 - « 1524 Elo sur GDPval-AA (#3 au général, #1 open weights) » (MESURE) — 0.95, DYNAMIQUE
@@ -34,6 +39,11 @@
 - « tarif 1,40 $ / 4,40 $ par 1M tokens (entrée/sortie) » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 - « ~31 tours par tâche sur 1 999 matchs » (MESURE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
+
+### remplace
+
+- [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 
 ### surpasse

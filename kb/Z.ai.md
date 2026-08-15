@@ -1,6 +1,6 @@
 # Z.ai
 
-> **Type** : ORGANISATION | 13 relations | 4 fiches sources
+> **Type** : ORGANISATION | 14 relations | 4 fiches sources
 
 ## Attributs
 
@@ -43,6 +43,8 @@
 
 ### publie
 
+- [[kb/GLM\|GLM]] (TECHNOLOGIE) — 0.98, ATEMPOREL
+  - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 - [[kb/GLM-5.1\|GLM-5.1]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - [[kb/GLM-5.3\|GLM-5.3]] (TECHNOLOGIE) — 0.98, STATIQUE

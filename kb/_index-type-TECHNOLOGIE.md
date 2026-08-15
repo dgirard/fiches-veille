@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 742 entités de type TECHNOLOGIE
+> 743 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -225,8 +225,9 @@
 - [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] — catégorie: Plateformes d'orchestration d'agents (état machine, routage, graphes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] — rôle: Oracle de référence pour répartition des tâches (1 occ., 1 fiches)
 - [[kb/GKG\|GKG]] — définition: GitLab Knowledge Graph — parsing AST via Tree-sitter, graphe de connaissances code dans Kuzu, requêtes structurelles (appelants, hiérarchies, signatures) (1 occ., 1 fiches)
+- [[kb/GLM\|GLM]] — définition: Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#GLM-Coding-Plan\|GLM Coding Plan]] — définition: Abonnement codage de Z.ai passé en août 2026 à un système de quotas en points, comptés séparément pour l'entrée, l'entrée en cache et la sortie. Heures pleines 14h-18h UTC+8 du lundi au vendredi ; tout le reste, week-ends inclus, à 50 % du barème — soit, pour une équipe européenne, une fenêtre pleine correspondant à la matinée de travail (1 occ., 1 fiches)
-- [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (1 occ., 1 fiches)
+- [[kb/GLM-5.1\|GLM-5.1]] — catégorie: Modèle MoE 754B/40B-actifs, licence MIT (2 occ., 2 fiches)
 - [[kb/GLM-5.2\|GLM-5.2]] — catégorie: Modèle frontier open-weights de Z.ai ; pair de Kimi K3 sur le terrain open-weights, dont K3 relève le plafond de capacité (6 occ., 6 fiches)
 - [[kb/GLM-5.3\|GLM-5.3]] — définition: Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GPQA-Diamond\|GPQA Diamond]] — catégorie: Benchmark questions PhD (1 occ., 1 fiches)

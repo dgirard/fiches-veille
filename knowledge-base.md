@@ -1,14 +1,14 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=bb00b9e2050ef319f9a6277e4c6d32c362d479c1ac939446df5e9bf9c0dcc823 fiches=388 -->
-> 388 fiches | 3143 entités | 5943 triples | Généré le 2026-08-15
+<!-- manifest: sha256=648b49f8796e3413135e3fafa95b56729e7cdd9ada121fa9be317105ee35f1d9 fiches=388 -->
+> 388 fiches | 3144 entités | 5948 triples | Généré le 2026-08-15
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (494)
 - [[kb/_index-type-ORGANISATION\|ORGANISATION]] (383)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (742)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (743)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (930)
 - [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (411)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (47)
@@ -49,7 +49,7 @@
 - **utilise** : 689
 - **permet** : 557
 - **mesure** : 448
-- **publie** : 342
+- **publie** : 343
 - **a_créé** : 341
 - **recommande** : 269
 - **s_applique_à** : 237
@@ -59,13 +59,13 @@
 - **améliore** : 203
 - **est_instance_de** : 197
 - **fait_partie_de** : 188
-- **remplace** : 149
+- **remplace** : 150
 
 ### Distribution par type
 
 - **PERSONNE** : 494 (15.7%)
 - **ORGANISATION** : 383 (12.2%)
-- **TECHNOLOGIE** : 742 (23.6%)
+- **TECHNOLOGIE** : 743 (23.6%)
 - **CONCEPT** : 930 (29.6%)
 - **METHODOLOGIE** : 411 (13.1%)
 - **EVENEMENT** : 47 (1.5%)
@@ -74,5 +74,5 @@
 
 ### Déduplication
 
-- **Triples** : 6048 → 5943 (105 doublons)
-- **Entités** : 4130 → 3143 (987 doublons)
+- **Triples** : 6053 → 5948 (105 doublons)
+- **Entités** : 4134 → 3144 (990 doublons)

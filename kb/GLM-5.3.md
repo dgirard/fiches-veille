@@ -1,6 +1,6 @@
 # GLM-5.3
 
-> **Type** : TECHNOLOGIE | 15 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 1 fiches sources
 
 ## Attributs
 
@@ -16,6 +16,11 @@
 ### est_basé_sur
 
 - [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.96, STATIQUE
+  - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
+
+### est_variante_de
+
+- [[kb/GLM\|GLM]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
 ### mesure

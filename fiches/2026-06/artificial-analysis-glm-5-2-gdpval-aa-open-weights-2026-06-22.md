@@ -65,6 +65,8 @@ Le message porté par les chiffres est clair : qu'un modèle **open weights** à
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
 | Z AI | ORGANISATION | a_créé | GLM-5.2 | TECHNOLOGIE | 0.98 | STATIQUE | déclaré_article |
+| GLM-5.2 | TECHNOLOGIE | est_variante_de | GLM | TECHNOLOGIE | 0.97 | STATIQUE | inféré |
+| GLM-5.2 | TECHNOLOGIE | remplace | GLM-5.1 | TECHNOLOGIE | 0.95 | STATIQUE | inféré |
 | GLM-5.2 | TECHNOLOGIE | mesure | 1524 Elo sur GDPval-AA (#3 au général, #1 open weights) | MESURE | 0.95 | DYNAMIQUE | déclaré_article |
 | Claude Fable 5 | TECHNOLOGIE | surpasse | GLM-5.2 | TECHNOLOGIE | 0.92 | DYNAMIQUE | déclaré_article |
 | Claude Opus 4.8 | TECHNOLOGIE | surpasse | GLM-5.2 | TECHNOLOGIE | 0.9 | DYNAMIQUE | déclaré_article |
@@ -84,6 +86,8 @@ Le message porté par les chiffres est clair : qu'un modèle **open weights** à
 | Entité | Type | Attribut | Valeur | Action |
 |--------|------|----------|--------|--------|
 | GLM-5.2 | TECHNOLOGIE | catégorie | LLM à poids ouverts, MoE 753 Mds/40 Mds actifs, raisonnement, contexte 1M, MIT, sorti 2026-06-16 | AJOUT |
+| GLM-5.1 | TECHNOLOGIE | rôle | Release précédente de la famille GLM, que GLM-5.2 remplace en juin 2026 | AJOUT |
+| GLM | TECHNOLOGIE | définition | Famille de modèles de langage à poids ouverts du laboratoire chinois Z.ai (ex-Zhipu AI). Entité parente des releases GLM-5.1, GLM-5.2 et GLM-5.3, qui en sont les variantes datées ; les caractéristiques propres à chaque release restent portées par sa propre entité | AJOUT |
 | Z AI | ORGANISATION | secteur | Labo IA (Zhipu AI, Chine), créateur de la famille GLM | AJOUT |
 | Artificial Analysis | ORGANISATION | rôle | Plateforme d'évaluation indépendante de modèles IA (index Intelligence/Agentic, GDPval-AA, AA-Briefcase) | AJOUT |
 | GDPval-AA | DOCUMENT | rôle | Benchmark de travail de connaissance réel/agentique (Elo, multi-tours, livrables rendus) | AJOUT |
