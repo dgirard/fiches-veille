@@ -90,6 +90,43 @@ class TestDeriveNommage(unittest.TestCase):
         self.assertEqual(status, cc.OK)
 
 
+class TestKbThematiquesFlags(unittest.TestCase):
+    """(d) périmètre `flags` : critère exclusif, insensible aux mots-clés."""
+
+    def setUp(self):
+        self.r = _Repo()
+        (self.r.root / "kb-x.md").write_text(
+            "# KB X\n\n> 0 fiches | Généré le 2026-06-01\n", encoding="utf-8")
+        self._sauv = dict(cc.KB_THEMATIQUES)
+        cc.KB_THEMATIQUES.clear()
+        cc.KB_THEMATIQUES["kb-x.md"] = {"themes": set(), "keywords": [],
+                                        "flags": {"skill"}}
+
+    def tearDown(self):
+        cc.KB_THEMATIQUES.clear()
+        cc.KB_THEMATIQUES.update(self._sauv)
+        self.r.cleanup()
+
+    def _fiche(self, frontmatter=""):
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            frontmatter + FICHE, encoding="utf-8")
+
+    def test_fiche_hors_flag_ignoree(self):
+        # Le mot « skill » dans le titre ne suffit plus : seul le flag compte.
+        self._fiche()
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            FICHE.replace("## Titre Article\nTitre", "## Titre Article\nUne skill"),
+            encoding="utf-8")
+        _, status, _ = cc.check_kb_thematiques(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_fiche_flaggee_comptee(self):
+        self._fiche("---\nfiche_type: skill\n---\n")
+        _, status, detail = cc.check_kb_thematiques(self.r.root)
+        self.assertEqual(status, cc.WARN)
+        self.assertIn("kb-x.md: 1", detail)
+
+
 class TestCatalogueFreshness(unittest.TestCase):
     def setUp(self):
         self.r = _Repo()

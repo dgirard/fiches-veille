@@ -37,9 +37,13 @@ KB_THEMATIQUES = {
         "themes": {"economie-marche", "produits-services"},
         "keywords": ["commerce agentique", "agentic commerce", "mcp-ui"],
     },
+    # `flags` (optionnel) : critère EXCLUSIF — thèmes et mots-clés sont ignorés.
+    # kb-skills.md est alimentée par les seules fiches `fiche_type: skill` ; la
+    # sélection par mot-clé « skill » y remontait tout article citant le mot.
     "kb-skills.md": {
-        "themes": {"agents-codage-ia-skills"},
-        "keywords": ["skill", "skill.md"],
+        "themes": set(),
+        "keywords": [],
+        "flags": {"skill"},
     },
     "kb-souverainete.md": {
         "themes": set(),
@@ -120,9 +124,14 @@ def check_kb_thematiques(root: Path) -> tuple[str, str, str]:
             continue
         since = m.group(1)
         kws = [k.lower() for k in perim["keywords"]]
+        flags = perim.get("flags")
         n = 0
         for r in records:
             if r["date"] <= since:
+                continue
+            if flags:
+                if flags & set(r["flags"]):
+                    n += 1
                 continue
             hay = (r["titre"] + " " + r["veille_courte"] + " "
                    + " ".join(r["keywords"])).lower()
