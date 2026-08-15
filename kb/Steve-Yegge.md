@@ -22,7 +22,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Gas-Town-orchestration-swarm-Claude-Code\|Gas Town orchestration swarm Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
+- Gas Town orchestration swarm Claude Code (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
 ### travaille_chez

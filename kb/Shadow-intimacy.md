@@ -10,16 +10,16 @@
 
 ### est_variante_de
 
-- [[kb/_entites-mineures#Shadow-IT\|Shadow IT]] (CONCEPT) — 0.85, ATEMPOREL
+- [[kb/_entites-mineures#shadow-IT\|Shadow IT]] (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
 ### réduit
 
-- [[kb/_entites-mineures#développement-du-jugement-professionnel\|développement du jugement professionnel]] (CONCEPT) — 0.90, ATEMPOREL
+- développement du jugement professionnel (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
-- [[kb/_entites-mineures#signaux-d'alerte-précoce-perçus-par-le-manager\|signaux d'alerte précoce perçus par le manager]] (CONCEPT) — 0.90, ATEMPOREL
+- signaux d'alerte précoce perçus par le manager (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
-- [[kb/_entites-mineures#transfert-de-savoir-tacite-entre-pairs\|transfert de savoir tacite entre pairs]] (CONCEPT) — 0.90, ATEMPOREL
+- transfert de savoir tacite entre pairs (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/paoli-shadow-intimacy-ai-team-bonds-2026-07-04\|AI Replacement Is the Easy Fear. Losing Your Team Is the Real One.]]
 
 ## Relations (comme objet)

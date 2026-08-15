@@ -1,6 +1,8 @@
 # Windsurf
 
-> **Type** : ORGANISATION | 5 relations | 1 fiches sources
+> **Type** : ORGANISATION | 5 relations | 5 fiches sources
+
+> **Même entité, autre type** : [[kb/Windsurf-technologie\|Windsurf (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -24,3 +26,7 @@
 ## Fiches sources
 
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
+- [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+- [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
+- [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
+- [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

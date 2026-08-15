@@ -15,7 +15,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#AAIF\|AAIF]] (ORGANISATION) — 0.93, DYNAMIQUE
+- AAIF (ORGANISATION) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 
 ### mesure

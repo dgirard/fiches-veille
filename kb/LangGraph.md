@@ -12,7 +12,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 - [[kb/_entites-mineures#LangSmith\|LangSmith]] (TECHNOLOGIE) — 0.82, DYNAMIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]

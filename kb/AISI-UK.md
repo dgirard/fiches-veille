@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#jailbreak-universel\|jailbreak universel]] (CONCEPT) — 0.97, STATIQUE
+- jailbreak universel (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
 ### affirme_que
@@ -20,7 +20,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#evaluation-des-capacites-cyber-de-GPT-5.5\|evaluation des capacites cyber de GPT-5.5]] (DOCUMENT) — 0.99, STATIQUE
+- evaluation des capacites cyber de GPT-5.5 (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
 ## Relations (comme objet)

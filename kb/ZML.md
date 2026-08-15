@@ -17,12 +17,12 @@
 
 ### est_variante_de
 
-- [[kb/_entites-mineures#Apache-2.0-(open-source)\|Apache-2.0 (open source)]] (CONCEPT) — 0.90, STATIQUE
+- Apache-2.0 (open source) (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#processeur-VSORA-Jotunn8\|processeur VSORA Jotunn8]] (TECHNOLOGIE) — 0.85, STATIQUE
+- processeur VSORA Jotunn8 (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
 ### publie

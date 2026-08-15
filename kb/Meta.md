@@ -44,14 +44,14 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#liens-opérationnels-avec-Chine\|liens opérationnels avec Chine]] (CONCEPT) — 0.90, STATIQUE
+- liens opérationnels avec Chine (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
 ### utilise
 
 - « une structure de gouvernance donnant à son conseil d'administration indépendant le pouvoir d'approuver les critères de sûreté de publication des modèles et de vérifier la conformité de chaque publication, alors que Meta reste une entreprise contrôlée par son fondateur » (AFFIRMATION) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
-- [[kb/_entites-mineures#lignes-de-code-générées-par-IA-comme-métrique-de-performance\|lignes de code générées par IA comme métrique de performance]] (METHODOLOGIE) — 0.93, DYNAMIQUE
+- lignes de code générées par IA comme métrique de performance (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
 ## Relations (comme objet)

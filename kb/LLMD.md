@@ -29,7 +29,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#API-compatible-OpenAI\|API compatible OpenAI]] (CONCEPT) — 0.95, ATEMPOREL
+- API compatible OpenAI (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 - [[kb/ZML\|ZML]] (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]

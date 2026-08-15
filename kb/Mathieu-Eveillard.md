@@ -21,7 +21,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#TDD-is-dead.-Long-live-testing.-(réponse-à-DHH)\|TDD is dead. Long live testing. (réponse à DHH)]] (DOCUMENT) — 0.97, STATIQUE
+- TDD is dead. Long live testing. (réponse à DHH) (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2022-12/eveillard-tdd-is-dead-long-live-testing-reponse-dhh-2022-12-07\|TDD is dead. Long live testing. (Une contre-argumentation point à point à l'article phare de David Heinemeier Hansson,…]]
 
 ### s_oppose_à

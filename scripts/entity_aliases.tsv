@@ -7,6 +7,9 @@
 # DISTINCT : l'entité `variante` reste distincte ; `cible` = suffixe de nom de
 #          fichier forcé (rare — les collisions même-nom/type-différent sont déjà
 #          résolues automatiquement par suffixe de type). `type` = type concerné.
+#          `cible` = `-` : aucun renommage, la ligne sert seulement à acter
+#          l'arbitrage « homonymes légitimes » et à sortir la paire du rapport
+#          de quasi-doublons.
 #
 # Les collisions de fichiers case-insensitive non résolues (ni par suffixe de
 # type automatique, ni par cette table) font ÉCHOUER le build en listant la paire.
@@ -23,3 +26,22 @@ Software Development Life Cycle	FUSION	SDLC	METHODOLOGIE
 AI-driven SDLC	FUSION	SDLC AI-native	METHODOLOGIE
 AI-native SDLC	FUSION	SDLC AI-native	METHODOLOGIE
 Co-work	FUSION	Cowork	TECHNOLOGIE
+# — Arbitrages de l'audit KG du 2026-08-15 (quasi-doublons déclarés) —
+gemini-cli	FUSION	Gemini CLI	TECHNOLOGIE
+vibe-coding	FUSION	vibe coding	METHODOLOGIE
+Les Echos	FUSION	Les Échos	ORGANISATION
+Z AI	FUSION	Z.ai	ORGANISATION
+GDPVal	FUSION	GDPval	METHODOLOGIE
+Champions IA	FUSION	champions IA	CONCEPT
+/ce-compound	FUSION	ce:compound	TECHNOLOGIE
+# Homonymes légitimes : ARC (Alignment Research Center) ≠ Arc (navigateur de
+# The Browser Company) ; `~/.claude/skills` (répertoire) ≠ Claude Skills (produit).
+ARC	DISTINCT	-	ORGANISATION
+~/.claude/skills	DISTINCT	-	TECHNOLOGIE
+# — Variantes côté triples (la FUSION s'applique aussi aux colonnes Sujet/Objet) —
+IA generative	FUSION	IA générative	TECHNOLOGIE
+StackOverflow	FUSION	Stack Overflow	ORGANISATION
+licence Apache-2.0	FUSION	licence Apache 2.0	CONCEPT
+Desalignement incitatif	FUSION	Désalignement incitatif	CONCEPT
+coûts_inférence	FUSION	coûts inference	CONCEPT
+rôle_développeur	FUSION	rôle développeur	CONCEPT

@@ -24,14 +24,14 @@
 
 ### permet
 
-- [[kb/_entites-mineures#function-calling-depuis-la-voix\|function-calling depuis la voix]] (CONCEPT) — 0.97, STATIQUE
+- function-calling depuis la voix (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
-- [[kb/_entites-mineures#Q&A-et-résumé-audio-intégrés\|Q&A et résumé audio intégrés]] (CONCEPT) — 0.97, STATIQUE
+- Q&A et résumé audio intégrés (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ### utilise
 
-- [[kb/_entites-mineures#licence-Apache-2.0\|licence Apache 2.0]] (CONCEPT) — 0.99, STATIQUE
+- licence Apache 2.0 (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-07/voxtral-mistral-ai-speech-understanding-2025-07-15\|Voxtral - Mistral AI]]
 
 ## Relations (comme objet)

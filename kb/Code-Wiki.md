@@ -12,12 +12,12 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#productivité-développeur\|productivité développeur]] (CONCEPT) — 0.92, ATEMPOREL
+- productivité développeur (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
 
 ### permet
 
-- [[kb/_entites-mineures#diagrammes-d'architecture\|diagrammes d'architecture]] (CONCEPT) — 0.95, DYNAMIQUE
+- diagrammes d'architecture (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/google-code-wiki-accelerating-code-understanding-2025-11-13\|Introducing Code Wiki: Accelerating your code understanding]]
 
 ### remplace

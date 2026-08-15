@@ -16,7 +16,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#AOL-du-commerce-agentique\|AOL du commerce agentique]] (CONCEPT) — 0.88, ATEMPOREL
+- AOL du commerce agentique (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-03/ragsdale-merit-open-agentic-commerce-protocols-2026-03-19\|The Age of Open Agentic Commerce]]
 
 ### mesure
@@ -28,9 +28,9 @@
 
 - « de relier un agent à un commerçant (découverte, panier, paiement) » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
-- [[kb/_entites-mineures#Instant-Checkout-via-ChatGPT\|Instant Checkout via ChatGPT]] (CONCEPT) — 0.95, STATIQUE
+- Instant Checkout via ChatGPT (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
-- [[kb/_entites-mineures#achats-système-à-système\|achats système-à-système]] (CONCEPT) — 0.90, DYNAMIQUE
+- achats système-à-système (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
 
 ## Relations (comme objet)
@@ -39,7 +39,7 @@
 - [[kb/Stripe\|Stripe]] **a_créé** → Agentic Commerce Protocol — 0.97
 - [[kb/Amazon\|Amazon]] **s_oppose_à** → Agentic Commerce Protocol — 0.97
 - [[kb/_entites-mineures#Etsy\|Etsy]] **utilise** → Agentic Commerce Protocol — 0.93
-- [[kb/_entites-mineures#Walmart\|Walmart]] **utilise** → Agentic Commerce Protocol — 0.93
+- Walmart **utilise** → Agentic Commerce Protocol — 0.93
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] **concurrence** → Agentic Commerce Protocol — 0.92
 
 ## Fiches sources

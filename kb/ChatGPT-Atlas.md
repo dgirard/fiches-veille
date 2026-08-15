@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#navigateur-web-conversationnel\|navigateur web conversationnel]] (CONCEPT) — 0.98, STATIQUE
+- navigateur web conversationnel (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 
 ### permet
@@ -20,7 +20,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#sites-web\|sites web]] (CONCEPT) — 0.96, DYNAMIQUE
+- sites web (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 
 ## Relations (comme objet)

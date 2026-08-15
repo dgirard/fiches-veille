@@ -17,11 +17,11 @@
   - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
-- [[kb/_entites-mineures#Tesla-Autopilot\|Tesla Autopilot]] (TECHNOLOGIE) — 0.98, STATIQUE
+- Tesla Autopilot (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 - [[kb/context-engineering\|context engineering]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
-- [[kb/_entites-mineures#agentic-engineering\|agentic engineering]] (METHODOLOGIE) — 0.85, STATIQUE
+- [[kb/_entites-mineures#Agentic-engineering\|agentic engineering]] (METHODOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
 ### affirme_que
@@ -46,7 +46,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#refonte-du-hiring-par-gros-projets-adversariels\|refonte du hiring par gros projets adversariels]] (METHODOLOGIE) — 0.93, ATEMPOREL
+- refonte du hiring par gros projets adversariels (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
 
 ### soutient

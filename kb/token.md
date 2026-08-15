@@ -11,14 +11,14 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#unité-fondamentale-de-consommation-LLM\|unité fondamentale de consommation LLM]] (CONCEPT) — 0.97, ATEMPOREL
+- unité fondamentale de consommation LLM (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
-- [[kb/_entites-mineures#unité-économique-de-l'intelligence-artificielle\|unité économique de l'intelligence artificielle]] (CONCEPT) — 0.97, ATEMPOREL
+- unité économique de l'intelligence artificielle (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### remplace
 
-- [[kb/_entites-mineures#heure-comme-unite-de-facturation\|heure comme unite de facturation]] (CONCEPT) — 0.85, DYNAMIQUE
+- heure comme unite de facturation (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
 
 ## Fiches sources

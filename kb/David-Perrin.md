@@ -17,7 +17,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#L'Intelligence-Artificielle-et-le-monopsychisme\|L'Intelligence Artificielle et le monopsychisme]] (DOCUMENT) — 0.99, STATIQUE
+- L'Intelligence Artificielle et le monopsychisme (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/ia-monopsychisme-serres-averroes-aquin-2025-10-11\|L'Intelligence Artificielle et le monopsychisme : Michel Serres, Averroès et Thomas d'Aquin]]
 
 ### utilise

@@ -21,7 +21,7 @@
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 - [[kb/_entites-mineures#Cowork\|Cowork]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
-- [[kb/_entites-mineures#Electron\|Electron]] (TECHNOLOGIE) — 0.88, ATEMPOREL
+- Electron (TECHNOLOGIE) — 0.88, ATEMPOREL
   - [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
 
 ## Fiches sources

@@ -23,7 +23,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#consommation-énergétique-à-l'échelle-du-milliwatt\|consommation énergétique à l'échelle du milliwatt]] (CONCEPT) — 0.88, STATIQUE
+- consommation énergétique à l'échelle du milliwatt (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01\|CEA unveils ExpressIF 3: RISC-V AI SoC for Edge Computing]]
 
 ### s_applique_à
@@ -33,7 +33,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#accélérateurs-de-réseaux-de-neurones\|accélérateurs de réseaux de neurones]] (TECHNOLOGIE) — 0.95, STATIQUE
+- accélérateurs de réseaux de neurones (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/cea-expressif-3-riscv-ai-soc-embedded-2025-10-01\|CEA unveils ExpressIF 3: RISC-V AI SoC for Edge Computing]]
 
 ## Relations (comme objet)

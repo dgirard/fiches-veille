@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#couche-de-découverte-de-la-pile-agentique\|couche de découverte de la pile agentique]] (CONCEPT) — 0.90, ATEMPOREL
+- couche de découverte de la pile agentique (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### permet

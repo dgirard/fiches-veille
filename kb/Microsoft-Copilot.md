@@ -10,7 +10,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#apprentissage-de-l'anglais\|apprentissage de l'anglais]] (CONCEPT) — 0.97, STATIQUE
+- apprentissage de l'anglais (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-12/worldbank-chalkboards-chatbots-genai-education-nigeria-2025-12\|From Chalkboards to Chatbots: Evaluating the Impact of Generative AI on Learning Outcomes in Nigeria]]
 
 ### est_basé_sur

@@ -15,7 +15,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#startup-française-d'IA-générative-B2B\|startup française d'IA générative B2B]] (CONCEPT) — 0.95, DYNAMIQUE
+- startup française d'IA générative B2B (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 
 ### mesure
@@ -30,9 +30,9 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#modèle-SaaS-à-crédits-(1-crédit-≈-une-requête-simple)\|modèle SaaS à crédits (1 crédit ≈ une requête simple)]] (METHODOLOGIE) — 0.90, ATEMPOREL
+- modèle SaaS à crédits (1 crédit ≈ une requête simple) (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
-- [[kb/_entites-mineures#orchestration-multi-modèles-(GPT,-Claude,-Mistral,-Gemini,-Cohere,-Llama)\|orchestration multi-modèles (GPT, Claude, Mistral, Gemini, Cohere, Llama)]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- orchestration multi-modèles (GPT, Claude, Mistral, Gemini, Cohere, Llama) (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
 - [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20\|Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)]]
@@ -42,9 +42,9 @@
 - [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] **a_créé** → Delos Intelligence — 0.95
 - [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] **a_créé** → Delos Intelligence — 0.95
 - [[kb/_entites-mineures#20VC\|20VC]] **collabore_avec** → Delos Intelligence — 0.92
-- [[kb/_entites-mineures#Groupe-Casino\|Groupe Casino]] **utilise** → Delos Intelligence — 0.90
-- [[kb/_entites-mineures#Shiseido\|Shiseido]] **utilise** → Delos Intelligence — 0.90
-- [[kb/_entites-mineures#TotalEnergies\|TotalEnergies]] **utilise** → Delos Intelligence — 0.90
+- Groupe Casino **utilise** → Delos Intelligence — 0.90
+- Shiseido **utilise** → Delos Intelligence — 0.90
+- TotalEnergies **utilise** → Delos Intelligence — 0.90
 
 ## Fiches sources
 

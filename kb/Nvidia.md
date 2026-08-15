@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#écosystème-software\|écosystème software]] (CONCEPT) — 0.97, DYNAMIQUE
+- écosystème software (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 - [[kb/_entites-mineures#hardware-moat\|hardware moat]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
@@ -37,7 +37,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#tokens-comme-primes\|tokens comme primes]] (CONCEPT) — 0.75, DYNAMIQUE
+- tokens comme primes (CONCEPT) — 0.75, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ## Relations (comme objet)

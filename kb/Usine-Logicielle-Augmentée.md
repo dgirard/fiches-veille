@@ -10,7 +10,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#six-lignes-de-fabrication\|six lignes de fabrication]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Six-lignes-de-fabrication\|six lignes de fabrication]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### est_variante_de
@@ -20,12 +20,12 @@
 
 ### permet
 
-- [[kb/_entites-mineures#retour-du-cycle-en-V-prédictible\|retour du cycle en V prédictible]] (CONCEPT) — 0.94, ATEMPOREL
+- retour du cycle en V prédictible (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ### remplace
 
-- [[kb/_entites-mineures#Scrum-agilité\|Scrum / agilité]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+- Scrum / agilité (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
 ## Relations (comme objet)

@@ -39,7 +39,7 @@
   - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
-- [[kb/_entites-mineures#compte-@ClaudeDevs-sur-X\|compte @ClaudeDevs sur X]] (ORGANISATION) — 0.90, STATIQUE
+- compte @ClaudeDevs sur X (ORGANISATION) — 0.90, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 
 ### affirme_que
@@ -71,14 +71,14 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#étape-Test-(CI)-reconstruite-comme-goulot-identifié\|étape Test (CI) reconstruite comme goulot identifié]] (CONCEPT) — 0.94, STATIQUE
+- étape Test (CI) reconstruite comme goulot identifié (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### collabore_avec
 
-- [[kb/_entites-mineures#gouvernement-américain\|gouvernement américain]] (ORGANISATION) — 0.88, DYNAMIQUE
+- gouvernement américain (ORGANISATION) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
 ### concurrence
@@ -101,7 +101,7 @@
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - « 30B$ ARR annualisé (avril 2026, vs 9B$ fin 2025) » (MESURE) — 0.97, DYNAMIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
-- [[kb/_entites-mineures#biais-politique-Claude\|biais politique Claude]] (CONCEPT) — 0.97, DYNAMIQUE
+- biais politique Claude (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - « 90% du code Claude Code écrit par Claude Code » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
@@ -113,7 +113,7 @@
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
 - « augmentation 67% des pull requests » (MESURE) — 0.93, STATIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
-- [[kb/_entites-mineures#cache-hit-rate\|cache hit rate]] (CONCEPT) — 0.93, DYNAMIQUE
+- cache hit rate (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 - « +150% productivité par ingénieur » (MESURE) — 0.92, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
@@ -133,9 +133,9 @@
 
 ### permet
 
-- [[kb/_entites-mineures#Code-Execution-Tool-sandboxé\|Code Execution Tool sandboxé]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+- Code Execution Tool sandboxé (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
-- [[kb/_entites-mineures#crédits-SLA-aux-clients-impactés\|crédits SLA aux clients impactés]] (CONCEPT) — 0.90, STATIQUE
+- crédits SLA aux clients impactés (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 
 ### prédit
@@ -151,7 +151,7 @@
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
-- [[kb/_entites-mineures#documentation-subagents-Claude-Code\|documentation subagents Claude Code]] (DOCUMENT) — 0.99, STATIQUE
+- documentation subagents Claude Code (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
@@ -161,7 +161,7 @@
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[kb/Claude-Fable-5\|Claude Fable 5]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
-- [[kb/_entites-mineures#post-mortem-qualité-Claude-Code-avril-2026\|post-mortem qualité Claude Code avril 2026]] (DOCUMENT) — 0.98, STATIQUE
+- post-mortem qualité Claude Code avril 2026 (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
@@ -171,31 +171,31 @@
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
-- [[kb/_entites-mineures#code-évaluation-open-source\|code évaluation open-source]] (TECHNOLOGIE) — 0.97, STATIQUE
+- code évaluation open-source (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - [[kb/_entites-mineures#Lessons-from-building-Claude-Code-How-we-use-skills\|Lessons from building Claude Code: How we use skills]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
-- [[kb/_entites-mineures#système-de-plugins-Claude-Code\|système de plugins Claude Code]] (TECHNOLOGIE) — 0.96, STATIQUE
+- système de plugins Claude Code (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
-- [[kb/_entites-mineures#Routines-(server-side-loops)\|Routines (server-side loops)]] (TECHNOLOGIE) — 0.95, STATIQUE
+- Routines (server-side loops) (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
-- [[kb/_entites-mineures#réinitialisation-des-limites-d'utilisation-de-tous-les-abonnés-(23-avril)\|réinitialisation des limites d'utilisation de tous les abonnés (23 avril)]] (EVENEMENT) — 0.95, STATIQUE
+- réinitialisation des limites d'utilisation de tous les abonnés (23 avril) (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - « une scission de la facturation de l'abonnement Claude en deux pools, first-party et SDK tiers » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
-- [[kb/_entites-mineures#données-Anthropic-Economic-Index\|données Anthropic Economic Index]] (DOCUMENT) — 0.94, STATIQUE
+- données Anthropic Economic Index (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 - « Fable 5 et Mythos 5 le 9 juin 2026, avec garde-fous cybersécurité durcis » (AFFIRMATION) — 0.94, STATIQUE
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
-- [[kb/_entites-mineures#étude-junior-engineers-deskilling-AI-agents\|étude junior engineers deskilling AI agents]] (DOCUMENT) — 0.94, STATIQUE
+- étude junior engineers deskilling AI agents (DOCUMENT) — 0.94, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
-- [[kb/_entites-mineures#Building-Effective-Agents\|Building Effective Agents]] (DOCUMENT) — 0.90, STATIQUE
+- Building Effective Agents (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
-- [[kb/_entites-mineures#Responsible-Scaling-Policy-(RSP)\|Responsible Scaling Policy (RSP)]] (DOCUMENT) — 0.90, STATIQUE
+- Responsible Scaling Policy (RSP) (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### recommande
@@ -204,15 +204,15 @@
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
-- [[kb/_entites-mineures#planner-generator-evaluator-split\|planner generator evaluator split]] (METHODOLOGIE) — 0.95, ATEMPOREL
+- planner generator evaluator split (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
-- [[kb/_entites-mineures#automatisation-SOC-et-défense-IA\|automatisation SOC et défense IA]] (CONCEPT) — 0.93, DYNAMIQUE
+- automatisation SOC et défense IA (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
-- [[kb/_entites-mineures#rétention-des-données-30-jours-pour-la-classe-Mythos\|rétention des données 30 jours pour la classe Mythos]] (CONCEPT) — 0.85, DYNAMIQUE
+- rétention des données 30 jours pour la classe Mythos (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
-- [[kb/_entites-mineures#standards-industrie-biais-politique\|standards industrie biais politique]] (CONCEPT) — 0.85, DYNAMIQUE
+- standards industrie biais politique (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
 ### remplace
@@ -231,7 +231,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#release-de-Claude-Mythos-(refus-public-avril-2026)\|release de Claude Mythos (refus public avril 2026)]] (EVENEMENT) — 0.96, STATIQUE
+- release de Claude Mythos (refus public avril 2026) (EVENEMENT) — 0.96, STATIQUE
   - [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
 - « le routage de requêtes d'utilisateurs tiers via des identifiants Free, Pro ou Max » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
@@ -248,15 +248,15 @@
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
-- [[kb/_entites-mineures#une-taxonomie-de-9-catégories-de-skills\|une taxonomie de 9 catégories de skills]] (CONCEPT) — 0.92, STATIQUE
+- une taxonomie de 9 catégories de skills (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
-- [[kb/_entites-mineures#limites-d'usage-simultanées\|limites d'usage simultanées]] (CONCEPT) — 0.90, DYNAMIQUE
+- limites d'usage simultanées (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
-- [[kb/_entites-mineures#tests-de-charge-obligatoires\|tests de charge obligatoires]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+- tests de charge obligatoires (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
-- [[kb/_entites-mineures#un-marketplace-interne-par-PR-pour-distribuer-les-skills\|un marketplace interne par PR pour distribuer les skills]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+- un marketplace interne par PR pour distribuer les skills (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/_entites-mineures#circuit-breakers\|circuit breakers]] (TECHNOLOGIE) — 0.87, DYNAMIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
@@ -280,8 +280,8 @@
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
-- [[kb/_entites-mineures#administration-Trump\|administration Trump]] **s_oppose_à** → Anthropic — 0.90
-- [[kb/_entites-mineures#recours-collectif-envisagé-en-Californie\|recours collectif envisagé en Californie]] **s_oppose_à** → Anthropic — 0.90
+- administration Trump **s_oppose_à** → Anthropic — 0.90
+- recours collectif envisagé en Californie **s_oppose_à** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/GitHub\|GitHub]] **converge_avec** → Anthropic — 0.85

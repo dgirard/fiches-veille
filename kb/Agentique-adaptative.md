@@ -10,13 +10,13 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#mémoire-organisationnelle-intelligente\|mémoire organisationnelle intelligente]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Mémoire-organisationnelle-intelligente\|mémoire organisationnelle intelligente]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
-- [[kb/_entites-mineures#transparence-du-raisonnement\|transparence du raisonnement]] (CONCEPT) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Transparence-du-raisonnement\|transparence du raisonnement]] (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
-- [[kb/_entites-mineures#collaboration-cognitive-des-agents\|collaboration cognitive des agents]] (CONCEPT) — 0.96, ATEMPOREL
+- collaboration cognitive des agents (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
-- [[kb/_entites-mineures#supervision-adaptative\|supervision adaptative]] (CONCEPT) — 0.96, ATEMPOREL
+- [[kb/_entites-mineures#Supervision-adaptative\|supervision adaptative]] (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
 
 ## Relations (comme objet)

@@ -16,19 +16,19 @@
 
 ### permet
 
-- [[kb/_entites-mineures#scalabilité-multi-agents-à-faible-coût\|scalabilité multi-agents à faible coût]] (CONCEPT) — 0.90, DYNAMIQUE
+- scalabilité multi-agents à faible coût (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax M2: NextGen Experiences for Code Generation]]
 
 ### résout
 
-- [[kb/_entites-mineures#perturbations-d'environnement\|perturbations d'environnement]] (CONCEPT) — 0.88, STATIQUE
+- perturbations d'environnement (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax M2: NextGen Experiences for Code Generation]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax M2: NextGen Experiences for Code Generation]]
-- [[kb/_entites-mineures#Reinforcement-Learning-avec-experts-humains\|Reinforcement Learning avec experts humains]] (METHODOLOGIE) — 0.92, STATIQUE
+- Reinforcement Learning avec experts humains (METHODOLOGIE) — 0.92, STATIQUE
   - [[fiches/2025-11/song-minimax-m2-model-2025-11-23\|MiniMax M2: NextGen Experiences for Code Generation]]
 
 ## Relations (comme objet)

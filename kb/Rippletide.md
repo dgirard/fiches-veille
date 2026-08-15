@@ -15,9 +15,9 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#compliance-by-design\|compliance by design]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- compliance by design (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
-- [[kb/_entites-mineures#governance-by-design\|governance by design]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- governance by design (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]]
 
 ## Relations (comme objet)

@@ -1,6 +1,8 @@
 # Qodo
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 4 relations | 2 fiches sources
+
+> **Même entité, autre type** : [[kb/Qodo-organisation\|Qodo (ORGANISATION)]]
 
 ## Attributs
 
@@ -10,7 +12,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#code-généré-IA\|code généré IA]] (CONCEPT) — 0.88, DYNAMIQUE
+- code généré IA (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
 ### publie
@@ -20,7 +22,7 @@
 
 ### remplace
 
-- [[kb/_entites-mineures#Codium\|Codium]] (ORGANISATION) — 0.96, STATIQUE
+- Codium (ORGANISATION) — 0.96, STATIQUE
   - [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
 
 ## Relations (comme objet)
@@ -30,3 +32,4 @@
 ## Fiches sources
 
 - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
+- [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]

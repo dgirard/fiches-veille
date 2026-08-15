@@ -16,12 +16,12 @@
 
 ### permet
 
-- [[kb/_entites-mineures#rattraper-une-erreur-avant-qu'elle-se-propage\|rattraper une erreur avant qu'elle se propage]] (CONCEPT) — 0.87, ATEMPOREL
+- rattraper une erreur avant qu'elle se propage (CONCEPT) — 0.87, ATEMPOREL
   - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#chaînage-des-agents-et-anticipation-de-leurs-échecs\|chaînage des agents et anticipation de leurs échecs]] (CONCEPT) — 0.86, ATEMPOREL
+- chaînage des agents et anticipation de leurs échecs (CONCEPT) — 0.86, ATEMPOREL
   - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
 ## Fiches sources

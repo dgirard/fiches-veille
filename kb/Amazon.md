@@ -12,7 +12,7 @@
 
 - [[kb/_entites-mineures#Rufus-AI\|Rufus AI]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
-- [[kb/_entites-mineures#Buy-for-Me-(système-propriétaire)\|Buy for Me (système propriétaire)]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- Buy for Me (système propriétaire) (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
 
 ### publie
@@ -29,7 +29,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#blameless-post-mortem\|blameless post-mortem]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+- [[kb/_entites-mineures#Blameless-post-mortem\|blameless post-mortem]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
 ## Relations (comme objet)

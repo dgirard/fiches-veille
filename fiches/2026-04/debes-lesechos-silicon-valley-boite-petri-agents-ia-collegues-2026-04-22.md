@@ -100,7 +100,7 @@ Pièce-pivot 2026 sur la vie quotidienne avec les agents IA, qui acte simultané
 | Julie Bedard | PERSONNE | publie | sondage BCG dans Harvard Business Review mars 2026 | DOCUMENT | 0.95 | STATIQUE | déclaré_article |
 | Sondage BCG HBR mars 2026 | DOCUMENT | mesure | 14% des salariés dépassés par le rythme imposé par l'IA | MESURE | 0.95 | STATIQUE | déclaré_article |
 | Brain fry | CONCEPT | est_instance_de | surchauffe cérébrale liée à l'usage intensif d'IA | CONCEPT | 0.93 | ATEMPOREL | déclaré_article |
-| Token-max | CONCEPT | est_instance_de | classement interne valorisant les plus gros utilisateurs d'IA en entreprise | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
+| Token-max | METHODOLOGIE | est_instance_de | classement interne valorisant les plus gros utilisateurs d'IA en entreprise | METHODOLOGIE | 0.92 | ATEMPOREL | déclaré_article |
 | Claude Code | TECHNOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Codex | TECHNOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | Multitâches 5 onglets agents | METHODOLOGIE | observé_dans | quotidien des développeurs Silicon Valley | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |

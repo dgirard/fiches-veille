@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#How-AI-Changes-the-SDLC-A-Six-Stage-Guide\|How AI Changes the SDLC: A Six-Stage Guide]] (DOCUMENT) — 0.93, STATIQUE
+- How AI Changes the SDLC: A Six-Stage Guide (DOCUMENT) — 0.93, STATIQUE
   - [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
 
 ### recommande

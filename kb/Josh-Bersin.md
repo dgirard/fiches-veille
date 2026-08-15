@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#4-stratégies-de-transformation-IA-chez-les-CHRO\|4 stratégies de transformation IA chez les CHRO]] (METHODOLOGIE) — 0.95, ATEMPOREL
+- 4 stratégies de transformation IA chez les CHRO (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
 ### affirme_que
@@ -22,7 +22,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#40+-CHRO-en-Asie-(Grab,-DBS-Singapore,-Hitachi,-TSMC,-SAP,-LinkedIn)\|40+ CHRO en Asie (Grab, DBS Singapore, Hitachi, TSMC, SAP, LinkedIn)]] (PERSONNE) — 0.92, STATIQUE
+- 40+ CHRO en Asie (Grab, DBS Singapore, Hitachi, TSMC, SAP, LinkedIn) (PERSONNE) — 0.92, STATIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
 ## Fiches sources

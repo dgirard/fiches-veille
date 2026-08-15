@@ -22,9 +22,9 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#modèle-à-poids-ouverts\|modèle à poids ouverts]] (CONCEPT) — 0.95, STATIQUE
+- modèle à poids ouverts (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
-- [[kb/_entites-mineures#modèle-frontier-open-weights\|modèle frontier open-weights]] (CONCEPT) — 0.82, STATIQUE
+- modèle frontier open-weights (CONCEPT) — 0.82, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### mesure
@@ -40,19 +40,19 @@
 
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
-- [[kb/_entites-mineures#Gemini-3.5-Flash\|Gemini 3.5 Flash]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+- Gemini 3.5 Flash (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 
 ### utilise
 
-- [[kb/_entites-mineures#architecture-Mixture-of-Experts-(753-Mds-params-40-Mds-actifs)\|architecture Mixture of Experts (753 Mds params / 40 Mds actifs)]] (CONCEPT) — 0.90, STATIQUE
+- architecture Mixture of Experts (753 Mds params / 40 Mds actifs) (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Z-AI\|Z AI]] **a_créé** → GLM-5.2 — 0.98
+- [[kb/Z.ai\|Z.ai]] **a_créé** → GLM-5.2 — 0.98
 - [[kb/Mistral-AI\|Mistral AI]] **utilise** → GLM-5.2 — 0.95
-- [[kb/_entites-mineures#Z.ai\|Z.ai]] **publie** → GLM-5.2 — 0.94
+- [[kb/Z.ai\|Z.ai]] **publie** → GLM-5.2 — 0.94
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **surpasse** → GLM-5.2 — 0.92
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] **surpasse** → GLM-5.2 — 0.90
 

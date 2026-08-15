@@ -18,7 +18,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#analyse-Jamin-Ball-sur-les-systèmes-de-record\|analyse Jamin Ball sur les systèmes de record]] (DOCUMENT) — 0.90, STATIQUE
+- analyse Jamin Ball sur les systèmes de record (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 
 ## Relations (comme objet)

@@ -11,7 +11,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#cycle-Planifier-Déléguer-Évaluer-Codifier\|cycle Planifier-Déléguer-Évaluer-Codifier]] (METHODOLOGIE) — 0.95, STATIQUE
+- cycle Planifier-Déléguer-Évaluer-Codifier (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 
 ### fait_partie_de
@@ -21,11 +21,11 @@
 
 ### permet
 
-- [[kb/_entites-mineures#review-multi-agents-P1-P2-P3\|review multi-agents P1/P2/P3]] (CONCEPT) — 0.95, DYNAMIQUE
+- review multi-agents P1/P2/P3 (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
-- [[kb/_entites-mineures#génération-d'issues-GitHub-complètes\|génération d'issues GitHub complètes]] (CONCEPT) — 0.92, DYNAMIQUE
+- génération d'issues GitHub complètes (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
-- [[kb/_entites-mineures#revues-de-code-multi-agents\|revues de code multi-agents]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- revues de code multi-agents (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 
 ### réduit
@@ -35,14 +35,14 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#Claude-Code,-Cursor,-Codex\|Claude Code, Cursor, Codex]] (TECHNOLOGIE) — 0.94, DYNAMIQUE
+- Claude Code, Cursor, Codex (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
 - [[kb/_entites-mineures#Droid-Factory\|Droid/Factory]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 
 ### utilise
 
-- [[kb/_entites-mineures#12-subagents-parallèles-pour-review\|12 subagents parallèles pour review]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- 12 subagents parallèles pour review (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-12/shipper-klaassen-compound-engineering-every-agents-2025-12-11\|Compound Engineering: How Every Codes With Agents]]
 
 ## Relations (comme objet)

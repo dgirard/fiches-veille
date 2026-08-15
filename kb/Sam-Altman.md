@@ -19,7 +19,7 @@
 
 - [[kb/OpenAI\|OpenAI]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
-- [[kb/_entites-mineures#destin-économie-mondiale-IA\|destin économie mondiale IA]] (CONCEPT) — 0.85, DYNAMIQUE
+- destin économie mondiale IA (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 
 ### observé_dans

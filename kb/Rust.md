@@ -16,7 +16,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#efficacité-du-flux-SDD-(friction-élevée)\|efficacité du flux SDD (friction élevée)]] (CONCEPT) — 0.92, ATEMPOREL
+- efficacité du flux SDD (friction élevée) (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-01/sdd-langages-programmation-ia-deep-research-2026-01\|Rapport de Recherche : Analyse de l'Adéquation des Langages de Programmation au Spec Drive Development]]
 - « use-after-free, double-free et fuites mémoire (erreurs de compilation en safe Rust) » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]

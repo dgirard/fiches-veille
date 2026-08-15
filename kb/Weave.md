@@ -12,7 +12,7 @@
 
 ### mesure
 
-- [[kb/_entites-mineures#travail-d'ingénierie-par-IA\|travail d'ingénierie par IA]] (CONCEPT) — 0.97, STATIQUE
+- travail d'ingénierie par IA (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]
 - « 16% d'augmentation de livraisons chez les clients après 2 mois » (MESURE) — 0.88, STATIQUE
   - [[fiches/2023-10/workweave-loom-ai-team-comms-y-combinator-2023-10-01\|Workweave: The Loom of AI Team Communication]]

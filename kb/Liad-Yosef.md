@@ -16,7 +16,7 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#UI-work-group-MCP\|UI work group MCP]] (ORGANISATION) — 0.97, DYNAMIQUE
+- UI work group MCP (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]]
 
 ### travaille_chez

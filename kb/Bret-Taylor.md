@@ -20,7 +20,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#The-AI-native-interview\|The AI-native interview]] (DOCUMENT) — 0.95, STATIQUE
+- The AI-native interview (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
 ## Fiches sources

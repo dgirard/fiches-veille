@@ -24,7 +24,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#titulaire-d'un-master-en-informatique\|titulaire d'un master en informatique]] (CONCEPT) — 0.92, STATIQUE
+- titulaire d'un master en informatique (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 
 ### prédit

@@ -26,7 +26,7 @@
 
 - [[kb/_entites-mineures#world-model-latent\|world model latent]] (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
-- [[kb/_entites-mineures#vidéos-de-jeux-vidéo-platformer\|vidéos de jeux vidéo platformer]] (CONCEPT) — 0.90, STATIQUE
+- vidéos de jeux vidéo platformer (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### est_instance_de
@@ -36,11 +36,11 @@
 
 ### permet
 
-- [[kb/_entites-mineures#génération-vidéo-interactive-contrôlable\|génération vidéo interactive contrôlable]] (CONCEPT) — 0.97, STATIQUE
+- génération vidéo interactive contrôlable (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
-- [[kb/_entites-mineures#compréhension-émergente-de-la-physique\|compréhension émergente de la physique]] (CONCEPT) — 0.88, STATIQUE
+- compréhension émergente de la physique (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
-- [[kb/_entites-mineures#prototypage-rapide-de-jeux\|prototypage rapide de jeux]] (CONCEPT) — 0.87, ATEMPOREL
+- prototypage rapide de jeux (CONCEPT) — 0.87, ATEMPOREL
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
 ### remplace
@@ -55,7 +55,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#11-milliards-de-paramètres\|11 milliards de paramètres]] (CONCEPT) — 0.92, STATIQUE
+- 11 milliards de paramètres (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 - [[kb/_entites-mineures#contrôle-par-actions\|contrôle par actions]] (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]

@@ -18,7 +18,7 @@
 
 - [[kb/_entites-mineures#@adlc-core\|@adlc/core]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|The ADLC Toolkit]]
-- [[kb/_entites-mineures#outils-npx-à-exit-codes-déterministes-(0-pass-2-gate-échoué)\|outils npx à exit codes déterministes (0 pass / 2 gate échoué)]] (TECHNOLOGIE) — 0.89, STATIQUE
+- outils npx à exit codes déterministes (0 pass / 2 gate échoué) (TECHNOLOGIE) — 0.89, STATIQUE
   - [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|The ADLC Toolkit]]
 
 ## Relations (comme objet)

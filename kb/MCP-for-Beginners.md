@@ -23,7 +23,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#développeurs-débutants-et-intermédiaires\|développeurs débutants et intermédiaires]] (CONCEPT) — 0.92, STATIQUE
+- développeurs débutants et intermédiaires (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 
 ### utilise
@@ -32,7 +32,7 @@
   - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 - [[kb/_entites-mineures#Visual-Studio-Code\|Visual Studio Code]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
-- [[kb/_entites-mineures#retours-d'early-adopters\|retours d'early adopters]] (CONCEPT) — 0.85, STATIQUE
+- retours d'early adopters (CONCEPT) — 0.85, STATIQUE
   - [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 
 ## Relations (comme objet)

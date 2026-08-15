@@ -11,7 +11,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#AWS-EC2\|AWS EC2]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- AWS EC2 (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 
 ### mesure
@@ -21,12 +21,12 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#environnement-QA\|environnement QA]] (CONCEPT) — 0.95, DYNAMIQUE
+- environnement QA (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 
 ### permet
 
-- [[kb/_entites-mineures#isolation-et-autonomie-des-agents\|isolation et autonomie des agents]] (CONCEPT) — 0.90, ATEMPOREL
+- isolation et autonomie des agents (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 
 ## Relations (comme objet)

@@ -1,6 +1,8 @@
 # Compaction
 
-> **Type** : METHODOLOGIE | 4 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 4 relations | 2 fiches sources
+
+> **Même entité, autre type** : [[kb/Compaction-concept\|Compaction (CONCEPT)]]
 
 ## Attributs
 
@@ -15,7 +17,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#Historique-de-conversation\|Historique de conversation]] (CONCEPT) — 0.95, ATEMPOREL
+- Historique de conversation (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 
 ### résout
@@ -25,9 +27,10 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#même-system-prompt-et-outils\|même system prompt et outils]] (CONCEPT) — 0.96, ATEMPOREL
+- même system prompt et outils (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
 ## Fiches sources
 
+- [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]

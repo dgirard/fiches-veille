@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#systeme-de-fichiers-pour-agents\|systeme de fichiers pour agents]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- systeme de fichiers pour agents (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
 
 ### affirme_que

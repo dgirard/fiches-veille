@@ -26,7 +26,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#lacunes-surveillance-monitoring\|lacunes surveillance monitoring]] **observé_dans** → panne de service Claude — 0.92
+- lacunes surveillance monitoring **observé_dans** → panne de service Claude — 0.92
 
 ## Fiches sources
 

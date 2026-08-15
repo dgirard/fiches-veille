@@ -17,7 +17,7 @@
 
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
-- [[kb/_entites-mineures#OpenTelemetry\|OpenTelemetry]] (TECHNOLOGIE) — 0.90, ATEMPOREL
+- OpenTelemetry (TECHNOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ## Fiches sources

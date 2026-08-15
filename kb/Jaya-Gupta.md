@@ -37,7 +37,7 @@
 
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-05/gupta-token-budget-wars-marginal-token-utility-2026-05-28\|Token Budget Wars]]
-- [[kb/_entites-mineures#thèse-context-graphs\|thèse context graphs]] (CONCEPT) — 0.95, STATIQUE
+- thèse context graphs (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
 
 ### travaille_chez

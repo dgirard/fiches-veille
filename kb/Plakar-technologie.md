@@ -1,6 +1,8 @@
 # Plakar
 
-> **Type** : TECHNOLOGIE | 12 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 12 relations | 2 fiches sources
+
+> **Même entité, autre type** : [[kb/Plakar-organisation\|Plakar (ORGANISATION)]]
 
 ## Attributs
 
@@ -10,7 +12,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#performances-S3-(60x,-14-min-→-13-sec)\|performances S3 (60x, 14 min → 13 sec)]] (CONCEPT) — 0.88, STATIQUE
+- performances S3 (60x, 14 min → 13 sec) (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
 
 ### est_basé_sur
@@ -22,7 +24,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Linux-Foundation-et-CNCF\|Linux Foundation et CNCF]] (ORGANISATION) — 0.97, DYNAMIQUE
+- Linux Foundation et CNCF (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
 
 ### mesure
@@ -50,4 +52,5 @@
 
 ## Fiches sources
 
+- [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]

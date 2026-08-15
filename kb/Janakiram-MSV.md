@@ -22,7 +22,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Forbes\|Forbes]] (ORGANISATION) — 0.99, DYNAMIQUE
+- Forbes (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 
 ### recommande

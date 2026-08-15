@@ -17,7 +17,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#151-millions-de-travailleurs-américains\|151 millions de travailleurs américains]] (CONCEPT) — 0.95, DYNAMIQUE
+- 151 millions de travailleurs américains (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/mit-iceberg-index-ai-workforce-impact-cnbc-2025-11-26\|MIT study finds AI can already replace 11.7% of U.S. workforce]]
 
 ## Relations (comme objet)

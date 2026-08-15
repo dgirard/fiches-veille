@@ -15,7 +15,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#docs-solutions-(mémoire-qui-compose)\|docs/solutions/ (mémoire qui compose)]] (DOCUMENT) — 0.94, ATEMPOREL
+- docs/solutions/ (mémoire qui compose) (DOCUMENT) — 0.94, ATEMPOREL
   - [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
 ### recommande
@@ -25,7 +25,7 @@
 
 ### résout
 
-- [[kb/_entites-mineures#wiki-rot-(postmortems-non-relus)\|wiki rot (postmortems non relus)]] (CONCEPT) — 0.90, ATEMPOREL
+- wiki rot (postmortems non relus) (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/klaassen-thinkroom-compounding-knowledge-lifecycle-2026-07-02\|The Compounding Knowledge Lifecycle — Agent Guide]]
 
 ## Fiches sources

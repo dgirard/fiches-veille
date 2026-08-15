@@ -24,17 +24,17 @@
 
 ### publie
 
-- [[kb/_entites-mineures#A-Year-With-Claude-Code\|A Year With Claude Code]] (DOCUMENT) — 0.97, STATIQUE
+- A Year With Claude Code (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#narratif-AI-is-bad-et-uncritical-enthusiasm\|narratif "AI is bad" et uncritical enthusiasm]] (CONCEPT) — 0.96, STATIQUE
+- narratif "AI is bad" et uncritical enthusiasm (CONCEPT) — 0.96, STATIQUE
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
 ### utilise
 
-- [[kb/_entites-mineures#Claude-Code-(quotidiennement-depuis-1-an)\|Claude Code (quotidiennement depuis 1 an)]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- Claude Code (quotidiennement depuis 1 an) (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 
 ## Fiches sources

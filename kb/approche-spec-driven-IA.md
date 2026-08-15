@@ -10,7 +10,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#100%-code-généré-par-IA\|100% code généré par IA]] (CONCEPT) — 0.92, DYNAMIQUE
+- 100% code généré par IA (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/keli-ia-generative-code-100-percent-approche-2025-11-05\|Approche fonctionnelle pour l'IA générative en développement : 100% de code généré]]
 
 ### s_applique_à

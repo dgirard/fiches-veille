@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#agent-de-codage-autonome\|agent de codage autonome]] (CONCEPT) — 0.90, STATIQUE
+- agent de codage autonome (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
 ### utilise

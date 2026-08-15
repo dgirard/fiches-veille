@@ -25,7 +25,7 @@
   - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 - « maximiser le travail non fait par le modèle » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
-- [[kb/_entites-mineures#imposer-un-format-de-sortie-défini\|imposer un format de sortie défini]] (CONCEPT) — 0.92, ATEMPOREL
+- imposer un format de sortie défini (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
 ### s_applique_à

@@ -15,7 +15,7 @@
 
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-01/nrf-2026-commerce-agentique-ucp-deep-research-2026-01-13\|NRF 2026 : Retail's Big Show – Document de Référence : Commerce Agentique, Universal Commerce Protocol et…]]
-- [[kb/_entites-mineures#politique-IA-prioritaire\|politique IA prioritaire]] (CONCEPT) — 0.95, STATIQUE
+- politique IA prioritaire (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Making AI Work: Leadership, Lab, and Crowd]]
 - [[kb/Scout\|Scout]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]

@@ -25,9 +25,9 @@
 
 ### prédit
 
-- [[kb/_entites-mineures#annonce-officielle-Anthropic-des-Skills\|annonce officielle Anthropic des Skills]] (EVENEMENT) — 0.97, STATIQUE
+- annonce officielle Anthropic des Skills (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
-- [[kb/_entites-mineures#explosion-cambrienne-des-Skills\|explosion cambrienne des Skills]] (CONCEPT) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#Explosion-cambrienne-des-Skills\|explosion cambrienne des Skills]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 
 ### publie
@@ -49,9 +49,9 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#délégation-des-tâches-de-code-à-des-subagents-à-modèle-moins-puissant\|délégation des tâches de code à des subagents à modèle moins puissant]] (METHODOLOGIE) — 0.95, STATIQUE
+- délégation des tâches de code à des subagents à modèle moins puissant (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
-- [[kb/_entites-mineures#test-pelican-sur-vélo\|test pelican sur vélo]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- test pelican sur vélo (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 
 ## Fiches sources

@@ -40,13 +40,13 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#tree-sitter\|tree-sitter]] (TECHNOLOGIE) — 0.97, ATEMPOREL
+- [[kb/_entites-mineures#Tree-sitter\|tree-sitter]] (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 - [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 - [[kb/_entites-mineures#NetworkX\|NetworkX]] (TECHNOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
-- [[kb/_entites-mineures#faster-whisper-pour-transcrire-vidéo-et-audio-localement\|faster-whisper pour transcrire vidéo et audio localement]] (TECHNOLOGIE) — 0.90, ATEMPOREL
+- faster-whisper pour transcrire vidéo et audio localement (TECHNOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-08/skill-shamsi-graphify-2026-08-06\|graphify — « Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A…]]
 
 ## Relations (comme objet)

@@ -29,7 +29,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#enquêtes-IA-actuelles\|enquêtes IA actuelles]] (CONCEPT) — 0.94, STATIQUE
+- enquêtes IA actuelles (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
 ### travaille_chez

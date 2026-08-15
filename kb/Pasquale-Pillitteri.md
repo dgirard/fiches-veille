@@ -20,7 +20,7 @@
 
 ### référence
 
-- [[kb/_entites-mineures#content-engineering-de-Ryan-Law-(Ahrefs)\|content engineering de Ryan Law (Ahrefs)]] (METHODOLOGIE) — 0.95, STATIQUE
+- content engineering de Ryan Law (Ahrefs) (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ## Fiches sources

@@ -25,7 +25,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#Paved-Path\|Paved Path]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- Paved Path (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|What We Learned Deploying AI within Bloomberg’s Engineering Organization]]
 
 ## Relations (comme objet)

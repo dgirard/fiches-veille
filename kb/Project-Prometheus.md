@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#robotique-lunaire\|robotique lunaire]] (TECHNOLOGIE) — 0.80, DYNAMIQUE
+- robotique lunaire (TECHNOLOGIE) — 0.80, DYNAMIQUE
   - [[fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17\|Jeff Bezos is reportedly becoming a CEO again—and it's for a $6.2 billion AI startup called 'Project Prometheus']]
 
 ### collabore_avec
@@ -26,7 +26,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#ingénierie-et-manufacturing\|ingénierie et manufacturing]] (CONCEPT) — 0.92, DYNAMIQUE
+- ingénierie et manufacturing (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/lichtenberg-fortune-bezos-project-prometheus-ai-startup-2025-11-17\|Jeff Bezos is reportedly becoming a CEO again—and it's for a $6.2 billion AI startup called 'Project Prometheus']]
 
 ## Relations (comme objet)

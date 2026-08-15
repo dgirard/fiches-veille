@@ -15,9 +15,9 @@
 
 ### permet
 
-- [[kb/_entites-mineures#génération-de-schémas-Avro\|génération de schémas Avro]] (CONCEPT) — 0.95, DYNAMIQUE
+- génération de schémas Avro (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
-- [[kb/_entites-mineures#génération-de-schémas-GraphQL\|génération de schémas GraphQL]] (CONCEPT) — 0.95, DYNAMIQUE
+- génération de schémas GraphQL (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
 ## Fiches sources

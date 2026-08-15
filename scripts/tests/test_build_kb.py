@@ -84,6 +84,30 @@ class TestEntityWikilink(unittest.TestCase):
         link = bk.entity_wikilink("Petite Entité", "CONCEPT", {}, {})
         self.assertIn("_entites-mineures#", link)
 
+    def test_entite_jamais_declaree_en_texte_brut(self):
+        # Nom vu dans un triple mais absent des tables `### Entités` : pas
+        # d'ancre écrite par le build → texte brut, jamais un lien mort.
+        link = bk.entity_wikilink("Fantôme", "CONCEPT", {}, {}, {})
+        self.assertEqual(link, "Fantôme")
+
+    def test_ancre_derivee_du_nom_canonique(self):
+        # Le triple orthographie « Prompt engineering », la table déclare
+        # « prompt engineering » : une seule ancre, celle du nom canonique.
+        anchors = {"prompt engineering": "prompt-engineering"}
+        link = bk.entity_wikilink("Prompt engineering", "CONCEPT", {}, {}, anchors)
+        self.assertIn("_entites-mineures#prompt-engineering\\|", link)
+
+
+class TestMergeFichesByName(unittest.TestCase):
+    def test_homonymes_partagent_les_fiches_sources(self):
+        ents = [{"name": "Cursor", "type": "ORGANISATION", "fiches": ["f1"]},
+                {"name": "Cursor", "type": "TECHNOLOGIE", "fiches": ["f2", "f3"]},
+                {"name": "Autre", "type": "CONCEPT", "fiches": ["f9"]}]
+        bk.merge_fiches_by_name(ents)
+        self.assertEqual(ents[0]["fiches"], ["f1", "f2", "f3"])
+        self.assertEqual(ents[1]["fiches"], ["f1", "f2", "f3"])
+        self.assertEqual(ents[2]["fiches"], ["f9"])
+
 
 class TestAliasesTable(unittest.TestCase):
     def test_fusion_et_distinct(self):
@@ -102,6 +126,42 @@ class TestQuasiDoublons(unittest.TestCase):
         ents = [{"name": "vibe coding"}, {"name": "vibe-coding"}, {"name": "Autre"}]
         rep = bk.quasi_duplicate_report(ents)
         self.assertTrue(any("vibe coding" in r and "vibe-coding" in r for r in rep))
+
+    def test_paire_arbitree_distinct_silencieuse(self):
+        # `ARC` (organisation) vs `Arc` (navigateur) : arbitrage déjà rendu dans
+        # entity_aliases.tsv → le doctor ne doit plus le réclamer.
+        ents = [{"name": "ARC", "type": "ORGANISATION"},
+                {"name": "Arc", "type": "TECHNOLOGIE"}]
+        self.assertTrue(bk.quasi_duplicate_report(ents))
+        self.assertEqual(bk.quasi_duplicate_report(ents, {("arc", "organisation"): "-"}), [])
+
+    def test_distinct_tiret_ne_renomme_pas(self):
+        majors = [{"name": "Arc", "type": "TECHNOLOGIE"}]
+        pages, _ = bk.build_entity_index(majors, {("arc", "technologie"): "-"})
+        self.assertEqual(pages[("arc", "technologie")], "Arc")
+
+
+class TestGardeEpistemique(unittest.TestCase):
+    """Un objet épistémique n'est pas une entité : jamais de wikilink (U-audit)."""
+
+    def _triple(self, type_objet):
+        return {"sujet": "X", "type_sujet": "CONCEPT", "predicat": "affirme_que",
+                "objet": "une proposition", "type_objet": type_objet,
+                "confiance": 0.9, "temporalite": "ATEMPOREL", "fiches": [], "sources": []}
+
+    def test_page_mineure_ne_lie_pas_une_affirmation(self):
+        ent = {"name": "X", "type": "CONCEPT", "attributes": {}, "fiches": [], "occurrences": 1}
+        page = bk.generate_minor_entities_page(
+            [ent], [self._triple("AFFIRMATION")], {}, {}, {}, {}, {}, {"x": "X"})
+        self.assertIn("« une proposition »", page)
+        self.assertNotIn("_entites-mineures#une-proposition", page)
+
+    def test_page_majeure_ne_lie_pas_une_mesure(self):
+        ent = {"name": "X", "type": "CONCEPT", "attributes": {}, "fiches": [], "occurrences": 1}
+        page = bk.generate_entity_page(
+            ent, [self._triple("MESURE")], [], {}, {}, {}, {}, {})
+        self.assertIn("« une proposition »", page)
+        self.assertNotIn("[[kb/_entites-mineures#une-proposition", page)
 
 
 class TestManifest(unittest.TestCase):

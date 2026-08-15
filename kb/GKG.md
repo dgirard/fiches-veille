@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#GitLab-Knowledge-Graph\|GitLab Knowledge Graph]] (TECHNOLOGIE) — 0.97, ATEMPOREL
+- GitLab Knowledge Graph (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 
 ### mesure
@@ -22,7 +22,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#identification-précise-des-appelants,-signatures,-hiérarchies-de-code\|identification précise des appelants, signatures, hiérarchies de code]] (CONCEPT) — 0.95, ATEMPOREL
+- identification précise des appelants, signatures, hiérarchies de code (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 
 ### surpasse

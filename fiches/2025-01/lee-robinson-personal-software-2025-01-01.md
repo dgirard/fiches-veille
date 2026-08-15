@@ -44,7 +44,7 @@ Cette tendance donne le pouvoir à divers professionnels (designers, marketeurs,
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Lee Robinson | PERSONNE | publie | Personal Software | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
+| Lee Robinson | PERSONNE | publie | article Personal Software | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
 | IA | TECHNOLOGIE | améliore | création logicielle | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
 | personal software | CONCEPT | remplace | logiciel taille unique | CONCEPT | 0.93 | DYNAMIQUE | déclaré_article |
 | personal software | CONCEPT | est_basé_sur | IA | TECHNOLOGIE | 0.95 | ATEMPOREL | déclaré_article |

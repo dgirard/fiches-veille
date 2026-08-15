@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#certification-Certified-FinOps-for-AI\|certification Certified FinOps for AI]] (CONCEPT) — 0.92, STATIQUE
+- certification Certified FinOps for AI (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-02/finops-foundation-finops-for-ai-overview-2026-02-17\|FinOps for AI Overview]]
 
 ### mesure

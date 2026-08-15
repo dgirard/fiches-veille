@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#navigateur-AI-Native\|navigateur AI Native]] (CONCEPT) — 0.95, STATIQUE
+- navigateur AI Native (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
 ### remplace
@@ -20,7 +20,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#confirmation-explicite-utilisateur\|confirmation explicite utilisateur]] (CONCEPT) — 0.90, DYNAMIQUE
+- confirmation explicite utilisateur (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/mody-browser-company-arc-dia-ai-native-2025-11-23\|From Arc to Dia: Lessons learned in building AI Browser]]
 
 ## Relations (comme objet)

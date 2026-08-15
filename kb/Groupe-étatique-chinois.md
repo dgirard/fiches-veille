@@ -10,7 +10,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#~30-organisations-mondiales\|~30 organisations mondiales]] (CONCEPT) — 0.97, STATIQUE
+- ~30 organisations mondiales (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 
 ### utilise

@@ -15,12 +15,12 @@
 
 ### permet
 
-- [[kb/_entites-mineures#développement-agent-IA\|développement agent IA]] (CONCEPT) — 0.97, ATEMPOREL
+- développement agent IA (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 
 ### recommande
 
-- [[kb/_entites-mineures#construction-MVP-focalisée\|construction MVP focalisée]] (CONCEPT) — 0.93, ATEMPOREL
+- construction MVP focalisée (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 
 ### utilise
@@ -30,7 +30,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#How-to-Build-an-Agent\|How to Build an Agent]] **recommande** → framework 6 étapes — 0.98
+- How to Build an Agent **recommande** → framework 6 étapes — 0.98
 
 ## Fiches sources
 

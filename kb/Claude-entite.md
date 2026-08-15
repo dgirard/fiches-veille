@@ -14,7 +14,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#développement-logiciel\|développement logiciel]] (CONCEPT) — 0.92, ATEMPOREL
+- développement logiciel (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 
 ### observé_dans
@@ -24,19 +24,19 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#profondeur-continuité-corpus\|profondeur / continuité corpus]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- profondeur / continuité corpus (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
 ### surpasse
 
-- [[kb/_entites-mineures#ChatGPT-en-conseil-financier\|ChatGPT en conseil financier]] (TECHNOLOGIE) — 0.87, DYNAMIQUE
+- ChatGPT en conseil financier (TECHNOLOGIE) — 0.87, DYNAMIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Linear-MCP\|Linear MCP]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
-- [[kb/_entites-mineures#thinking-API\|thinking API]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- thinking API (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 
 ## Relations (comme objet)
@@ -56,9 +56,9 @@
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **utilise** → Claude — 0.95
 - [[kb/David-Thomas\|David Thomas]] **utilise** → Claude — 0.95
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] **utilise** → Claude — 0.93
-- [[kb/_entites-mineures#temps-de-raisonnement\|temps de raisonnement]] **améliore** → Claude — 0.92
+- temps de raisonnement **améliore** → Claude — 0.92
 - [[kb/GPT-5.6\|GPT-5.6]] **concurrence** → Claude — 0.92
-- [[kb/_entites-mineures#choix-sûrs-sans-guidance\|choix sûrs sans guidance]] **observé_dans** → Claude — 0.92
+- choix sûrs sans guidance **observé_dans** → Claude — 0.92
 - [[kb/Weave\|Weave]] **utilise** → Claude — 0.92
 - [[kb/Kimi-K3\|Kimi K3]] **concurrence** → Claude — 0.85
 

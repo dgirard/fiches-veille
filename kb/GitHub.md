@@ -15,14 +15,14 @@
 
 ### permet
 
-- [[kb/_entites-mineures#mémoire-produit-(version-history-des-artefacts)\|mémoire produit (version history des artefacts)]] (CONCEPT) — 0.88, ATEMPOREL
+- mémoire produit (version history des artefacts) (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
 ### publie
 
-- [[kb/_entites-mineures#enquête-adoption-outils-IA-codage\|enquête adoption outils IA codage]] (DOCUMENT) — 0.98, STATIQUE
+- enquête adoption outils IA codage (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
-- [[kb/_entites-mineures#Spark\|Spark]] (TECHNOLOGIE) — 0.97, STATIQUE
+- Spark (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
 ### remplace

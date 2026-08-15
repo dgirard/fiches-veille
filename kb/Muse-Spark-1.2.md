@@ -16,7 +16,7 @@
 
 ### est_variante_de
 
-- [[kb/_entites-mineures#Muse-Spark-1.1\|Muse Spark 1.1]] (TECHNOLOGIE) — 0.95, STATIQUE
+- Muse Spark 1.1 (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
 
 ### mesure
@@ -34,7 +34,7 @@
 
 - [[kb/Meta-AI-Research\|Meta AI Research]] **publie** → Muse Spark 1.2 — 0.97
 - [[kb/Muse-Code\|Muse Code]] **utilise** → Muse Spark 1.2 — 0.96
-- [[kb/_entites-mineures#Opus-5\|Opus 5]] **surpasse** → Muse Spark 1.2 — 0.95
+- Opus 5 **surpasse** → Muse Spark 1.2 — 0.95
 
 ## Fiches sources
 

@@ -15,7 +15,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#tribune-sur-le-harness-engineering-dans-Les-Échos\|tribune sur le harness engineering dans Les Échos]] (DOCUMENT) — 0.95, STATIQUE
+- tribune sur le harness engineering dans Les Échos (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ### travaille_chez

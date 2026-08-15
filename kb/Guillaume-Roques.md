@@ -15,12 +15,12 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Fixed-marketing-budgets-are-holding-you-back\|Fixed marketing budgets are holding you back]] (DOCUMENT) — 0.99, STATIQUE
+- Fixed marketing budgets are holding you back (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
 
 ### recommande
 
-- [[kb/_entites-mineures#KPI-financièrement-pertinents\|KPI financièrement pertinents]] (CONCEPT) — 0.92, ATEMPOREL
+- KPI financièrement pertinents (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
 
 ### travaille_chez

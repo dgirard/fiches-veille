@@ -42,7 +42,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#narration-AI-white-collar-bloodbath\|narration AI white-collar bloodbath]] (CONCEPT) — 0.93, DYNAMIQUE
+- narration AI white-collar bloodbath (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/shipper-every-after-automation-frame-framer-2026-05-21\|After Automation]]
 
 ## Fiches sources

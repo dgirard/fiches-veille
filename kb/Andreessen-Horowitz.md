@@ -18,7 +18,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Top-100-Gen-AI-Consumer-Apps\|Top 100 Gen AI Consumer Apps]] (DOCUMENT) — 0.99, DYNAMIQUE
+- Top 100 Gen AI Consumer Apps (DOCUMENT) — 0.99, DYNAMIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 
 ### soutient

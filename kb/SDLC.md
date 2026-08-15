@@ -29,7 +29,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#modes-de-défaillance-humains-(ego,-fatigue,-oubli)\|modes de défaillance humains (ego, fatigue, oubli)]] (CONCEPT) — 0.90, ATEMPOREL
+- modes de défaillance humains (ego, fatigue, oubli) (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
 
 ## Relations (comme objet)
@@ -45,7 +45,7 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **s_applique_à** → SDLC — 0.92
 - [[kb/ADLC\|ADLC]] **s_oppose_à** → SDLC — 0.92
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] **affine** → SDLC — 0.90
-- [[kb/_entites-mineures#Think-Tank-DSI-Cast-Software\|Think Tank DSI Cast Software]] **affine** → SDLC — 0.90
+- Think Tank DSI Cast Software **affine** → SDLC — 0.90
 - [[kb/Compound-Engineering\|Compound Engineering]] **est_instance_de** → SDLC — 0.88
 - [[kb/Software-Factory\|Software Factory]] **est_variante_de** → SDLC — 0.88
 - [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] **est_variante_de** → SDLC — 0.88

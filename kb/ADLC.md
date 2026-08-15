@@ -26,7 +26,7 @@
 
 - [[kb/SDLC\|SDLC]] (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
-- [[kb/_entites-mineures#revue-humaine-de-diff-complet-au-delà-de-500-lignes\|revue humaine de diff complet au-delà de 500 lignes]] (CONCEPT) — 0.90, ATEMPOREL
+- revue humaine de diff complet au-delà de 500 lignes (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Two Human Gates and Everything Between Is Machine-Checked]]
 
 ## Relations (comme objet)

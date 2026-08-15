@@ -13,7 +13,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#AppWorld-benchmark\|AppWorld benchmark]] (TECHNOLOGIE) — 0.93, STATIQUE
+- AppWorld benchmark (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
 ### est_basé_sur
@@ -23,7 +23,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#latence-d'adaptation\|latence d'adaptation]] (CONCEPT) — 0.92, STATIQUE
+- latence d'adaptation (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
 ### résout
@@ -35,14 +35,14 @@
 
 ### surpasse
 
-- [[kb/_entites-mineures#IBM-CUGA\|IBM-CUGA]] (TECHNOLOGIE) — 0.88, STATIQUE
+- IBM-CUGA (TECHNOLOGIE) — 0.88, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
 ### utilise
 
 - [[kb/_entites-mineures#Generator-Reflector-Curator\|Generator-Reflector-Curator]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
-- [[kb/_entites-mineures#DeepSeek-V3.1\|DeepSeek-V3.1]] (TECHNOLOGIE) — 0.85, STATIQUE
+- DeepSeek-V3.1 (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 
 ## Relations (comme objet)

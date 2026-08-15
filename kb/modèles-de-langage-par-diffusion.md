@@ -10,12 +10,12 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#parallélisme-de-génération\|parallélisme de génération]] (CONCEPT) — 0.88, ATEMPOREL
+- parallélisme de génération (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ### permet
 
-- [[kb/_entites-mineures#infilling-et-génération-sous-contraintes\|infilling et génération sous contraintes]] (CONCEPT) — 0.90, ATEMPOREL
+- infilling et génération sous contraintes (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ### s_inspire_de

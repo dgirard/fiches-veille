@@ -1,6 +1,8 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 17 relations | 13 fiches sources
+> **Type** : TECHNOLOGIE | 17 relations | 14 fiches sources
+
+> **Même entité, autre type** : [[kb/Cursor-organisation\|Cursor (ORGANISATION)]]
 
 ## Attributs
 
@@ -24,7 +26,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#outils-de-codage-IA\|outils de codage IA]] (CONCEPT) — 0.93, STATIQUE
+- outils de codage IA (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 
 ### mesure
@@ -36,7 +38,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#nouvelle-politique-tarifaire\|nouvelle politique tarifaire]] (CONCEPT) — 0.98, DYNAMIQUE
+- nouvelle politique tarifaire (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
@@ -59,6 +61,7 @@
 
 ## Fiches sources
 
+- [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
 - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]

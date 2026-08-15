@@ -36,7 +36,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#optimiste-déterminé\|optimiste déterminé]] (CONCEPT) — 0.97, STATIQUE
+- optimiste déterminé (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
 ### prédit
@@ -46,7 +46,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Software-is-eating-the-world\|"Software is eating the world"]] (EVENEMENT) — 0.99, STATIQUE
+- "Software is eating the world" (EVENEMENT) — 0.99, STATIQUE
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
 
 ## Relations (comme objet)

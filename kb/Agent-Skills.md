@@ -14,7 +14,7 @@
 
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
-- [[kb/_entites-mineures#autonomie-agents\|autonomie agents]] (CONCEPT) — 0.88, DYNAMIQUE
+- autonomie agents (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 
 ### converge_avec
@@ -24,17 +24,17 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#chargement-minimal-à-la-demande\|chargement minimal à la demande]] (CONCEPT) — 0.96, ATEMPOREL
+- chargement minimal à la demande (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 
 ### permet
 
-- [[kb/_entites-mineures#gestion-du-contexte-dynamique-par-progressive-disclosure\|gestion du contexte dynamique par progressive disclosure]] (CONCEPT) — 0.92, ATEMPOREL
+- gestion du contexte dynamique par progressive disclosure (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
 ### réduit
 
-- [[kb/_entites-mineures#context-rot-des-prompts-surchargés\|context rot des prompts surchargés]] (CONCEPT) — 0.88, ATEMPOREL
+- context rot des prompts surchargés (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
 ### s_applique_à

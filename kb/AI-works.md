@@ -10,24 +10,24 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#Usine-Logicielle-Augmentée-(Wescale-2026-05),-équivalent-commercial\|Usine Logicielle Augmentée (Wescale 2026-05), équivalent commercial]] (CONCEPT) — 0.84, DYNAMIQUE
+- Usine Logicielle Augmentée (Wescale 2026-05), équivalent commercial (CONCEPT) — 0.84, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#Service-as-Software-(Kamelman-2025-12)\|Service-as-Software (Kamelman 2025-12)]] (CONCEPT) — 0.86, DYNAMIQUE
+- Service-as-Software (Kamelman 2025-12) (CONCEPT) — 0.86, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
-- [[kb/_entites-mineures#harness-engineering-(Böckeler-2026-04),-productisé\|harness engineering (Böckeler 2026-04), productisé]] (CONCEPT) — 0.82, DYNAMIQUE
+- harness engineering (Böckeler 2026-04), productisé (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#plateforme-de-développement-agentique\|plateforme de développement agentique]] (CONCEPT) — 0.98, ATEMPOREL
+- plateforme de développement agentique (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ### remplace
 
-- [[kb/_entites-mineures#cycle-build-run-rebuild\|cycle build-run-rebuild]] (METHODOLOGIE) — 0.94, DYNAMIQUE
+- cycle build-run-rebuild (METHODOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ### réduit
@@ -44,9 +44,9 @@
 
 - [[kb/_entites-mineures#Super-Spec\|Super Spec]] (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
-- [[kb/_entites-mineures#AWS-+-GCP-+-Azure-+-Databricks-+-Snowflake\|AWS + GCP + Azure + Databricks + Snowflake]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+- AWS + GCP + Azure + Databricks + Snowflake (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
-- [[kb/_entites-mineures#Claude-+-DeepSeek-+-Gemini-+-Grok-+-OpenAI\|Claude + DeepSeek + Gemini + Grok + OpenAI]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
+- Claude + DeepSeek + Gemini + Grok + OpenAI (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ## Relations (comme objet)

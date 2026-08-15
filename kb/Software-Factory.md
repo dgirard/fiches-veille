@@ -11,7 +11,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#specs-et-scenarios\|specs et scenarios]] (CONCEPT) — 0.95, ATEMPOREL
+- specs et scenarios (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
 ### est_variante_de
@@ -21,7 +21,7 @@
 
 ### remplace
 
-- [[kb/_entites-mineures#développement-humain-interactif\|développement humain interactif]] (CONCEPT) — 0.93, ATEMPOREL
+- développement humain interactif (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
 ## Relations (comme objet)

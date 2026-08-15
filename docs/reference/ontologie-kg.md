@@ -134,6 +134,41 @@ Quand l'objet d'un triple épistémique (`affirme_que`, `prédit`, `mesure`, `re
 - Privilégier les relations **structurantes** (qui relient des entités majeures) aux relations anecdotiques
 - **En-tête du tableau Triples** : exactement `| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |` (avec l'accent sur `Prédicat`)
 
+### Table `### Entités` vs triples — ce qui doit y figurer
+
+**La table `### Entités` n'est pas un miroir des triples.** Elle est le registre
+des entités que la fiche **qualifie** (un attribut, une action) ; un nom peut
+donc apparaître dans un triple sans y figurer, et c'est normal. Conséquences,
+tranchées après l'audit KG du 2026-08-15 :
+
+- **Seules les entités déclarées ont une page `kb/` ou une ancre dans
+  `kb/_entites-mineures.md`.** Un nom vu uniquement dans un triple est rendu en
+  **texte brut** par le générateur — jamais en wikilink. (Émettre un lien vers
+  une ancre non écrite produisait 2 131 liens morts.)
+- **En revanche, une variante d'un nom déjà déclaré dans la MÊME fiche est une
+  erreur** : les triples qui disent `Uber` là où la table déclare
+  `Uber Engineering` scindent une entité en deux. Le doctor le signale
+  (check `h. dérive nommage Triples↔Entités`). Utiliser **le même libellé** des
+  deux côtés ; réserver les précisions au champ `Valeur`.
+- **Corollaire de nommage** : quand un article et le concept qu'il introduit
+  portent le même nom, préfixer le DOCUMENT — `article Cognitive Surrender`
+  (DOCUMENT) vs `Cognitive Surrender` (CONCEPT). Sans cela, les deux entités
+  fusionnent sur un type contradictoire.
+
+### Homonymes de types différents
+
+La règle « typer selon le rôle » (ORGANISATION vs TECHNOLOGIE) produit
+volontairement deux entités de même nom — c'est **conforme**, pas une erreur. La
+dédup groupe par `(nom, type)` et génère deux pages (`Cursor-organisation`,
+`Cursor-technologie`), mais les **relations sont indexées par nom seul** : les
+deux pages portent donc les mêmes relations, la même liste de fiches sources, et
+se citent mutuellement (« Même entité, autre type »).
+
+Un homonyme qui n'est **pas** la même entité (`ARC` l'Alignment Research Center
+vs `Arc` le navigateur) s'arbitre par une ligne `DISTINCT` dans
+`scripts/entity_aliases.tsv` (cible `-` si aucun renommage de fichier n'est
+nécessaire) — ce qui le sort aussi du rapport de quasi-doublons du doctor.
+
 ## Fiches de Skills (format spécial)
 
 Une **skill** (capacité réutilisable décrite par un `SKILL.md`, ex. les skills Claude Code / agents) n'est **pas** un article : sa valeur tient dans son **fonctionnement réutilisable**, pas dans une opinion datée. Les fiches de skills suivent donc un format dérivé, **compatible avec le pipeline** (gate Bronze + `build_knowledge_base.py`) : on conserve les **10 sections canoniques dans l'ordre** et on **insère un bloc Skill** de 4 sections juste avant `## GrapheDeConnaissance` (qui reste 10ᵉ et dernière).

@@ -15,14 +15,14 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#politique-monétaire-du-Royaume-Uni\|politique monétaire du Royaume-Uni]] (CONCEPT) — 0.92, STATIQUE
+- politique monétaire du Royaume-Uni (CONCEPT) — 0.92, STATIQUE
   - [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#h-index-comme-mesure-de-réputation-scientifique\|h-index comme mesure de réputation scientifique]] (CONCEPT) — 0.88, DYNAMIQUE
+- h-index comme mesure de réputation scientifique (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
-- [[kb/_entites-mineures#objectifs-de-tests-COVID-au-Royaume-Uni\|objectifs de tests COVID au Royaume-Uni]] (CONCEPT) — 0.87, STATIQUE
+- objectifs de tests COVID au Royaume-Uni (CONCEPT) — 0.87, STATIQUE
   - [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
 ## Relations (comme objet)

@@ -15,17 +15,17 @@
 
 ### permet
 
-- [[kb/_entites-mineures#tâches-autonomes-jusqu'à-8-heures\|tâches autonomes jusqu'à 8 heures]] (CONCEPT) — 0.94, ATEMPOREL
+- tâches autonomes jusqu'à 8 heures (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
 ### utilise
 
-- [[kb/_entites-mineures#architecture-MoE-754B-40B-actifs\|architecture MoE 754B / 40B actifs]] (CONCEPT) — 0.97, STATIQUE
+- architecture MoE 754B / 40B actifs (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Z.ai\|Z.ai]] **publie** → GLM-5.1 — 0.98
+- [[kb/Z.ai\|Z.ai]] **publie** → GLM-5.1 — 0.98
 
 ## Fiches sources
 

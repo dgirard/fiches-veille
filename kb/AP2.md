@@ -19,16 +19,16 @@
 
 ### permet
 
-- [[kb/_entites-mineures#paiements-IA-sécurisés-et-interopérables\|paiements IA sécurisés et interopérables]] (CONCEPT) — 0.98, STATIQUE
+- paiements IA sécurisés et interopérables (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
-- [[kb/_entites-mineures#intégration-avec-tout-kit-de-développement-d'agents\|intégration avec tout kit de développement d'agents]] (CONCEPT) — 0.95, ATEMPOREL
+- intégration avec tout kit de développement d'agents (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
 ### utilise
 
-- [[kb/_entites-mineures#licence-Apache-2.0\|licence Apache-2.0]] (CONCEPT) — 0.99, STATIQUE
+- licence Apache 2.0 (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
-- [[kb/_entites-mineures#Google-API-Key\|Google API Key]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- Google API Key (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 - [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]

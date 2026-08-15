@@ -31,7 +31,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#agents-autonomes-sur-tâches-à-long-horizon\|agents autonomes sur tâches à long horizon]] (CONCEPT) — 0.90, ATEMPOREL
+- agents autonomes sur tâches à long horizon (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - « réécriture mécanique de Bun de Zig vers Rust en 11 jours » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
@@ -49,7 +49,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#classifieurs-de-sécurité\|classifieurs de sécurité]] (TECHNOLOGIE) — 0.93, STATIQUE
+- classifieurs de sécurité (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]

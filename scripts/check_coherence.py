@@ -9,11 +9,13 @@ check est STALE ou FAIL (WARN et SKIP n'échouent pas).
 
 Checks : (a) fraîcheur catalogue, (b) fraîcheur KB, (c) bijection
 catalogue↔fiches, (d) retard des KB thématiques, (e) quasi-doublons d'entités,
-(f) bloc stats README, (g) raw-data (best-effort). Stdlib uniquement.
+(f) bloc stats README, (g) raw-data (best-effort), (h) dérive de nommage
+Triples↔Entités. Stdlib uniquement.
 """
 
 from __future__ import annotations
 
+import difflib
 import re
 import sys
 from pathlib import Path
@@ -139,8 +141,15 @@ def check_quasi_doublons(root: Path) -> tuple[str, str, str]:
         _, ents, fid = bk.extract_graphe_connaissance(str(p))
         for e in ents:
             all_e.append((e, fid))
+    # Mêmes fusions que le build, sinon le doctor réclame des arbitrages déjà
+    # rendus dans entity_aliases.tsv.
+    fusion_map, distinct_map = bk.load_entity_aliases(root / "scripts")
+    for e, _fid in all_e:
+        entry = fusion_map.get(bk.normalize_name(e.get("Entité", "")))
+        if entry:
+            e["Entité"], e["Type"] = entry
     unique = bk.deduplicate_entities(all_e)
-    rep = bk.quasi_duplicate_report(unique)
+    rep = bk.quasi_duplicate_report(unique, distinct_map)
     if not rep:
         return "e. quasi-doublons entités", OK, ""
     return ("e. quasi-doublons entités", WARN,
@@ -178,8 +187,81 @@ def check_raw_data(root: Path) -> tuple[str, str, str]:
     return "g. raw-data (local)", WARN, f"{len(missing)} fiche(s) sans raw archivé"
 
 
+def _drift_key(name: str) -> str:
+    """Clé de comparaison d'un nom d'entité : parenthèses et ponctuation retirées."""
+    s = re.sub(r"\(.*?\)", " ", name)
+    s = re.sub(r"[^\w\s]", " ", s, flags=re.UNICODE).lower()
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _is_sublist(petit: list[str], grand: list[str]) -> bool:
+    """`petit` est-il une suite contiguë de mots de `grand` ?"""
+    n = len(petit)
+    return any(grand[i:i + n] == petit for i in range(len(grand) - n + 1))
+
+
+def _is_drift(triple_key: str, declared_key: str) -> bool:
+    """Le nom d'un triple est-il une variante d'une entité déclarée de la fiche ?
+
+    Containment au **mot** près, jamais au caractère : « Uber » ⊂ « Uber
+    Engineering » est une dérive, mais « B » ⊄ « Uber » (la sous-chaîne nue
+    ferait matcher n'importe quel nom court dans n'importe quel nom long).
+    """
+    if not triple_key or not declared_key:
+        return False
+    if triple_key == declared_key:
+        return True
+    a, b = triple_key.split(), declared_key.split()
+    if _is_sublist(a, b) or _is_sublist(b, a):
+        return True
+    # Typo / accent / séparateur : exiger une longueur minimale, sinon les noms
+    # de 2-3 caractères (IA, ACP, 996…) se ressemblent tous.
+    if min(len(triple_key), len(declared_key)) < 5:
+        return False
+    return difflib.SequenceMatcher(None, triple_key, declared_key).ratio() > 0.86
+
+
+def check_derive_nommage(root: Path) -> tuple[str, str, str]:
+    """(h) Entité d'un triple qui est une variante d'une entité déclarée voisine.
+
+    Ex. les triples disent `Uber` là où la table `### Entités` déclare
+    `Uber Engineering` : la dédup les traite comme deux entités distinctes et le
+    savoir se scinde. Une entité de triple **absente** de la table n'est pas
+    signalée — la table Entités n'est pas un miroir des triples (cf.
+    `docs/reference/ontologie-kg.md`), seule la variante d'un nom déjà déclaré
+    dans la MÊME fiche traduit une perte.
+    """
+    fusion_map, _ = bk.load_entity_aliases(root / "scripts")
+    total = 0
+    fiches_touchees = []
+    for p in sorted((root / "fiches").rglob("*.md")):
+        triples, ents, fiche_id = bk.extract_graphe_connaissance(str(p))
+        declared = {bk.normalize_name(bk.apply_fusion_name(e.get("Entité", ""), fusion_map))
+                    for e in ents if e.get("Entité", "").strip()}
+        declared_keys = {_drift_key(d): d for d in declared}
+        noms = set()
+        for t in triples:
+            for col, tcol in (("Sujet", "Type Sujet"), ("Objet", "Type Objet")):
+                nom = t.get(col, "").strip()
+                if nom and t.get(tcol, "").strip() not in bk.EPISTEMIC_TYPES:
+                    noms.add(bk.apply_fusion_name(nom, fusion_map))
+        n = sum(1 for nom in noms
+                if bk.normalize_name(nom) not in declared
+                and any(_is_drift(_drift_key(nom), dk) for dk in declared_keys))
+        if n:
+            total += n
+            fiches_touchees.append((n, fiche_id))
+    if not total:
+        return "h. dérive nommage Triples↔Entités", OK, ""
+    fiches_touchees.sort(reverse=True)
+    tete = " ; ".join(f"{fid} ({n})" for n, fid in fiches_touchees[:3])
+    return ("h. dérive nommage Triples↔Entités", WARN,
+            f"{total} variante(s) dans {len(fiches_touchees)} fiche(s) : {tete}")
+
+
 CHECKS_FULL = [check_catalogue, check_kb, check_bijection, check_kb_thematiques,
-               check_quasi_doublons, check_readme, check_raw_data]
+               check_quasi_doublons, check_readme, check_raw_data,
+               check_derive_nommage]
 
 
 def run(root: Path, catalogue_only: bool = False) -> int:

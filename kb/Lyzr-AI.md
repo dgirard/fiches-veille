@@ -20,7 +20,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#catalogue-de-34-agents-IA-en-production\|catalogue de 34 agents IA en production]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- catalogue de 34 agents IA en production (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/lyzr-ai-agent-tracker-use-cases-catalog-2025-11-12\|Live Agent Tracker - AI Agents we're building for our customers]]
 
 ## Fiches sources

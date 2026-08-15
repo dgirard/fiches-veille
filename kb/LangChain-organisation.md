@@ -1,6 +1,8 @@
 # LangChain
 
-> **Type** : ORGANISATION | 8 relations | 3 fiches sources
+> **Type** : ORGANISATION | 8 relations | 4 fiches sources
+
+> **Même entité, autre type** : [[kb/LangChain-technologie\|LangChain (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -24,12 +26,12 @@
 
 ### permet
 
-- [[kb/_entites-mineures#prototypage-agents-IA\|prototypage agents IA]] (METHODOLOGIE) — 0.80, DYNAMIQUE
+- prototypage agents IA (METHODOLOGIE) — 0.80, DYNAMIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
 
 ### publie
 
-- [[kb/_entites-mineures#How-to-Build-an-Agent\|How to Build an Agent]] (DOCUMENT) — 0.98, STATIQUE
+- How to Build an Agent (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 
 ## Relations (comme objet)
@@ -42,3 +44,4 @@
 - [[fiches/2026-01/chase-langchain-traces-document-ai-agents-2026-01-10\|In software, the code documents the app. In AI, the traces do.]]
 - [[fiches/2025-07/langchain-how-to-build-agent-guide-2025-07-09\|How to Build an Agent]]
 - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
+- [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]

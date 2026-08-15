@@ -1,6 +1,6 @@
 # personal software
 
-> **Type** : CONCEPT | 5 relations | 1 fiches sources
+> **Type** : CONCEPT | 4 relations | 1 fiches sources
 
 ## Attributs
 
@@ -10,7 +10,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#expérience-utilisateur-individuelle\|expérience utilisateur individuelle]] (CONCEPT) — 0.90, ATEMPOREL
+- expérience utilisateur individuelle (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
 
 ### est_basé_sur
@@ -20,17 +20,13 @@
 
 ### permet
 
-- [[kb/_entites-mineures#innovation\|innovation]] (CONCEPT) — 0.88, ATEMPOREL
+- innovation (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
 
 ### remplace
 
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
-
-## Relations (comme objet)
-
-- [[kb/Lee-Robinson\|Lee Robinson]] **publie** → personal software — 0.98
 
 ## Fiches sources
 

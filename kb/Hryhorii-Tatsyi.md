@@ -15,17 +15,17 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#Raiffeisen-Bank-Ukraine-(IT,-en-tant-que-CTO)\|Raiffeisen Bank Ukraine (IT, en tant que CTO)]] (ORGANISATION) — 0.97, DYNAMIQUE
+- Raiffeisen Bank Ukraine (IT, en tant que CTO) (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ### publie
 
-- [[kb/_entites-mineures#AI-didn't-make-our-engineers-just-faster\|AI didn't make our engineers just faster]] (DOCUMENT) — 0.97, STATIQUE
+- AI didn't make our engineers just faster (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ### recommande
 
-- [[kb/_entites-mineures#mesurer-ce-que-les-ingénieurs-construisent-qui-n'existait-pas\|mesurer ce que les ingénieurs construisent qui n'existait pas]] (METHODOLOGIE) — 0.95, ATEMPOREL
+- mesurer ce que les ingénieurs construisent qui n'existait pas (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ## Fiches sources

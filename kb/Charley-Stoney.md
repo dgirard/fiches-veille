@@ -22,7 +22,7 @@
 
 ### soutient
 
-- [[kb/_entites-mineures#Redesigning-the-Agency-Value-Model\|Redesigning the Agency Value Model]] (DOCUMENT) — 0.95, STATIQUE
+- Redesigning the Agency Value Model (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-03/voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03\|Redesigning the Agency Value Model (rapport VoxComm 95 pages, mars 2026) + Billable Hours Are Dead, AI Killed Them,…]]
 
 ## Fiches sources

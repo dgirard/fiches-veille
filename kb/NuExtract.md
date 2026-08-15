@@ -16,19 +16,19 @@
 
 ### permet
 
-- [[kb/_entites-mineures#extraction-structurée-JSON\|extraction structurée JSON]] (CONCEPT) — 0.97, DYNAMIQUE
+- extraction structurée JSON (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ### réduit
 
-- [[kb/_entites-mineures#coûts-d'inférence\|coûts d'inférence]] (CONCEPT) — 0.90, ATEMPOREL
+- coûts d'inférence (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ### utilise
 
-- [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.98, STATIQUE
+- licence MIT (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
-- [[kb/_entites-mineures#dataset-C4\|dataset C4]] (TECHNOLOGIE) — 0.92, STATIQUE
+- dataset C4 (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2024-06/numind-nuextract-foundation-model-structured-extraction-2024-06-24\|NuExtract: A Foundation Model for Structured Extraction]]
 
 ## Relations (comme objet)

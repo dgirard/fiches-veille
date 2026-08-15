@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#agent-IA-DIY-sur-M5Stack-Stick-3\|agent IA DIY sur M5Stack Stick 3]] (TECHNOLOGIE) — 0.96, STATIQUE
+- agent IA DIY sur M5Stack Stick 3 (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
 ### affirme_que
@@ -27,12 +27,12 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#gouvernance-par-outil-Always-allow-Ask-for-approval-Disable-(défaut-deny)\|gouvernance par outil Always allow / Ask for approval / Disable (défaut deny)]] (METHODOLOGIE) — 0.92, ATEMPOREL
+- gouvernance par outil Always allow / Ask for approval / Disable (défaut deny) (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
 ### s_inspire_de
 
-- [[kb/_entites-mineures#Steve-Ruiz\|Steve Ruiz]] (PERSONNE) — 0.90, STATIQUE
+- Steve Ruiz (PERSONNE) — 0.90, STATIQUE
   - [[fiches/2026-06/dembo-byo-agent-m5stack-tinkering-opus-cloudflare-2026-06-07\|BYO Agent with M5Stack Stick 3]]
 
 ### travaille_chez

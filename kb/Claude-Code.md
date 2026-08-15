@@ -29,69 +29,69 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#bibliothèque-BERT-en-C\|bibliothèque BERT en C]] (TECHNOLOGIE) — 0.95, STATIQUE
+- bibliothèque BERT en C (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
-- [[kb/_entites-mineures#fichier-mémoire-delegate-coding-to-subagents-md\|fichier mémoire delegate-coding-to-subagents.md]] (DOCUMENT) — 0.95, STATIQUE
+- fichier mémoire delegate-coding-to-subagents.md (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
-- [[kb/_entites-mineures#documentation-et-fichiers-de-credentials-volés\|documentation et fichiers de credentials volés]] (CONCEPT) — 0.94, STATIQUE
+- documentation et fichiers de credentials volés (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
-- [[kb/_entites-mineures#vidéo-de-lancement-de-Fable\|vidéo de lancement de Fable]] (DOCUMENT) — 0.90, STATIQUE
+- [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|vidéo de lancement de Fable]] (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
 ### améliore
 
-- [[kb/_entites-mineures#productivité-ingénieur\|productivité ingénieur]] (CONCEPT) — 0.97, DYNAMIQUE
+- productivité ingénieur (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
-- [[kb/_entites-mineures#productivité-ingénieurs-logiciels\|productivité ingénieurs logiciels]] (CONCEPT) — 0.95, DYNAMIQUE
+- productivité ingénieurs logiciels (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#Linenoise\|Linenoise]] (TECHNOLOGIE) — 0.93, STATIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 - [[kb/Every\|Every]] (ORGANISATION) — 0.92, STATIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
-- [[kb/_entites-mineures#croissance-revenus-Anthropic\|croissance revenus Anthropic]] (CONCEPT) — 0.90, STATIQUE
+- croissance revenus Anthropic (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
-- [[kb/_entites-mineures#planification-Fidelity-One\|planification Fidelity One]] (CONCEPT) — 0.90, DYNAMIQUE
+- planification Fidelity One (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
-- [[kb/_entites-mineures#productivité-de-développement\|productivité de développement]] (CONCEPT) — 0.90, DYNAMIQUE
+- productivité de développement (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
-- [[kb/_entites-mineures#marché-des-outils-de-développement-IA\|marché des outils de développement IA]] (CONCEPT) — 0.88, DYNAMIQUE
+- marché des outils de développement IA (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#modèle-Claude\|modèle Claude]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
+- modèle Claude (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
-- [[kb/_entites-mineures#terminal-chat-CLI\|terminal chat CLI]] (CONCEPT) — 0.95, STATIQUE
+- terminal chat CLI (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
-- [[kb/_entites-mineures#architecture-en-7-couches-(input,-knowledge,-integration,-execution,-output,-observability,-multi-agent)\|architecture en 7 couches (input, knowledge, integration, execution, output, observability, multi-agent)]] (CONCEPT) — 0.93, STATIQUE
+- architecture en 7 couches (input, knowledge, integration, execution, output, observability, multi-agent) (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
-- [[kb/_entites-mineures#Post-entraînement-avec-harnais-dans-la-boucle\|Post-entraînement avec harnais dans la boucle]] (CONCEPT) — 0.85, DYNAMIQUE
+- Post-entraînement avec harnais dans la boucle (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#agent-terminal-first\|agent terminal-first]] (CONCEPT) — 0.99, STATIQUE
+- agent terminal-first (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
-- [[kb/_entites-mineures#Pattern-modèle+harnais\|Pattern modèle+harnais]] (CONCEPT) — 0.92, DYNAMIQUE
+- Pattern modèle+harnais (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
-- [[kb/_entites-mineures#agent-général-d'automatisation\|agent général d'automatisation]] (CONCEPT) — 0.90, ATEMPOREL
+- agent général d'automatisation (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
-- [[kb/_entites-mineures#IA-pour-votre-OS\|IA pour votre OS]] (CONCEPT) — 0.90, ATEMPOREL
+- IA pour votre OS (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
-- [[kb/_entites-mineures#mode-conducteur\|mode conducteur]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- mode conducteur (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
-- [[kb/_entites-mineures#catalyseur-de-la-transformation-de-l'ingénierie\|catalyseur de la transformation de l'ingénierie]] (CONCEPT) — 0.88, DYNAMIQUE
+- catalyseur de la transformation de l'ingénierie (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-04/taylor-sierra-ai-native-interview-engineering-hiring-2026-04-20\|The AI-native interview]]
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Agents-de-codage\|Agents de codage]] (TECHNOLOGIE) — 0.97, ATEMPOREL
+- Agents de codage (TECHNOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
-- [[kb/_entites-mineures#coding-assistants-à-allouer\|coding assistants à allouer]] (CONCEPT) — 0.95, DYNAMIQUE
+- coding assistants à allouer (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]
-- [[kb/_entites-mineures#premiere-vague-agents-de-codage\|premiere vague agents de codage]] (CONCEPT) — 0.95, STATIQUE
+- premiere vague agents de codage (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
-- [[kb/_entites-mineures#outils-IA-deployes-en-entreprise\|outils IA deployes en entreprise]] (CONCEPT) — 0.90, DYNAMIQUE
+- outils IA deployes en entreprise (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 
 ### mesure
@@ -111,24 +111,24 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#quotidien-des-développeurs-Silicon-Valley\|quotidien des développeurs Silicon Valley]] (CONCEPT) — 0.93, DYNAMIQUE
+- quotidien des développeurs Silicon Valley (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
 
 ### permet
 
-- [[kb/_entites-mineures#délégation-de-tâches-aux-subagents\|délégation de tâches aux subagents]] (CONCEPT) — 0.98, ATEMPOREL
+- délégation de tâches aux subagents (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
-- [[kb/_entites-mineures#artefacts-HTML-pour-specs,-PR,-rapports,-éditeurs-jetables\|artefacts HTML pour specs, PR, rapports, éditeurs jetables]] (METHODOLOGIE) — 0.96, ATEMPOREL
+- artefacts HTML pour specs, PR, rapports, éditeurs jetables (METHODOLOGIE) — 0.96, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
-- [[kb/_entites-mineures#reconnaissance-et-exfiltration-de-données\|reconnaissance et exfiltration de données]] (METHODOLOGIE) — 0.96, STATIQUE
+- reconnaissance et exfiltration de données (METHODOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
-- [[kb/_entites-mineures#livraison-de-produit-de-bout-en-bout-par-un-seul-contributeur\|livraison de produit de bout en bout par un seul contributeur]] (CONCEPT) — 0.90, DYNAMIQUE
+- livraison de produit de bout en bout par un seul contributeur (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
-- [[kb/_entites-mineures#travail-supplémentaire-(27%)\|travail supplémentaire (27%)]] (CONCEPT) — 0.90, DYNAMIQUE
+- travail supplémentaire (27%) (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - « ~64 Claude en parallèle pendant 11 jours (4 worktrees × 16) » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
-- [[kb/_entites-mineures#développeurs-full-stack\|développeurs full-stack]] (CONCEPT) — 0.88, DYNAMIQUE
+- développeurs full-stack (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 
 ### remplace
@@ -138,14 +138,14 @@
 
 ### résout
 
-- [[kb/_entites-mineures#défaillances-timing-TCP-de-Redis\|défaillances timing TCP de Redis]] (TECHNOLOGIE) — 0.92, STATIQUE
+- défaillances timing TCP de Redis (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#60%-du-travail-des-employés\|60% du travail des employés]] (CONCEPT) — 0.90, DYNAMIQUE
+- 60% du travail des employés (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
-- [[kb/_entites-mineures#utilisateurs-non-techniques\|utilisateurs non-techniques]] (CONCEPT) — 0.90, DYNAMIQUE
+- utilisateurs non-techniques (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
 ### surpasse
@@ -160,7 +160,7 @@
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[kb/TypeScript\|TypeScript]] (TECHNOLOGIE) — 0.99, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
-- [[kb/_entites-mineures#Fenêtre-de-contexte-de-1-million-de-tokens\|Fenêtre de contexte de 1 million de tokens]] (CONCEPT) — 0.98, DYNAMIQUE
+- Fenêtre de contexte de 1 million de tokens (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 - [[kb/_entites-mineures#Ink\|Ink]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
@@ -175,9 +175,9 @@
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[kb/_entites-mineures#Sonnet-4.5\|Sonnet 4.5]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
-- [[kb/_entites-mineures#TypeScript-et-React\|TypeScript et React]] (TECHNOLOGIE) — 0.97, STATIQUE
+- TypeScript et React (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
-- [[kb/_entites-mineures#grep-et-glob\|grep et glob]] (TECHNOLOGIE) — 0.96, STATIQUE
+- grep et glob (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[kb/_entites-mineures#Plan-subagent\|Plan subagent]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
@@ -187,23 +187,23 @@
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
-- [[kb/_entites-mineures#codebase-+-MCP-+-git-history-+-Chrome\|codebase + MCP + git history + Chrome]] (CONCEPT) — 0.95, DYNAMIQUE
+- codebase + MCP + git history + Chrome (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
-- [[kb/_entites-mineures#header-Accept-text-markdown\|header Accept text/markdown]] (CONCEPT) — 0.95, DYNAMIQUE
+- header Accept text/markdown (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
 - [[kb/_entites-mineures#slash-commands\|slash commands]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] (TECHNOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
-- [[kb/_entites-mineures#abonnement-Claude-Pro-Max\|abonnement Claude Pro/Max]] (CONCEPT) — 0.93, DYNAMIQUE
+- abonnement Claude Pro/Max (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[kb/_entites-mineures#Bash\|Bash]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 - [[kb/_entites-mineures#Slack-MCP\|Slack MCP]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
-- [[kb/_entites-mineures#Memory-tool\|Memory tool]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- Memory tool (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[kb/Opus-4.8\|Opus 4.8]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
@@ -217,7 +217,7 @@
 - [[kb/Cat-Wu\|Cat Wu]] **a_créé** → Claude Code — 0.98
 - [[kb/SuperClaude\|SuperClaude]] **améliore** → Claude Code — 0.98
 - [[kb/plugin-Compound-Engineering\|plugin Compound Engineering]] **fait_partie_de** → Claude Code — 0.98
-- [[kb/_entites-mineures#Trois-incidents-de-dégradation-qualité\|Trois incidents de dégradation qualité]] **observé_dans** → Claude Code — 0.98
+- Trois incidents de dégradation qualité **observé_dans** → Claude Code — 0.98
 - [[kb/Agent-Skills\|Agent Skills]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Superpowers\|Superpowers]] **s_applique_à** → Claude Code — 0.98
 - [[kb/Rakuten\|Rakuten]] **utilise** → Claude Code — 0.98
@@ -227,8 +227,8 @@
 - [[kb/infrastructure-contexte-codifié\|infrastructure contexte codifié]] **utilise** → Claude Code — 0.97
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **utilise** → Claude Code — 0.97
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] **utilise** → Claude Code — 0.97
-- [[kb/_entites-mineures#pipeline-de-content-engineering\|pipeline de content engineering]] **est_basé_sur** → Claude Code — 0.96
-- [[kb/_entites-mineures#Employés-Intercom-(1100-en-pic)\|Employés Intercom (1100 en pic)]] **utilise** → Claude Code — 0.96
+- pipeline de content engineering **est_basé_sur** → Claude Code — 0.96
+- Employés Intercom (1100 en pic) **utilise** → Claude Code — 0.96
 - [[kb/_entites-mineures#Legora\|Legora]] **utilise** → Claude Code — 0.96
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] **utilise** → Claude Code — 0.96
 - [[kb/Cursor-technologie\|Cursor]] **converge_avec** → Claude Code — 0.95
@@ -237,7 +237,7 @@
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
-- [[kb/_entites-mineures#effondrement-couche-environnement\|effondrement couche environnement]] **observé_dans** → Claude Code — 0.93
+- effondrement couche environnement **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#sur-ingénierie\|sur-ingénierie]] **observé_dans** → Claude Code — 0.93
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **améliore** → Claude Code — 0.92

@@ -21,12 +21,12 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#marché-des-agents-autonomes\|marché des agents autonomes]] (CONCEPT) — 0.90, DYNAMIQUE
+- marché des agents autonomes (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 
 ### permet
 
-- [[kb/_entites-mineures#interaction-directe-avec-UI\|interaction directe avec UI]] (CONCEPT) — 0.96, STATIQUE
+- interaction directe avec UI (CONCEPT) — 0.96, STATIQUE
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 
 ### remplace

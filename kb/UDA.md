@@ -21,12 +21,12 @@
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 - [[kb/_entites-mineures#Sphere\|Sphere]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
-- [[kb/_entites-mineures#connexion-des-domain-models-aux-conteneurs-de-données\|connexion des domain models aux conteneurs de données]] (CONCEPT) — 0.95, DYNAMIQUE
+- connexion des domain models aux conteneurs de données (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
 ### résout
 
-- [[kb/_entites-mineures#duplication-des-modèles\|duplication des modèles]] (CONCEPT) — 0.97, ATEMPOREL
+- duplication des modèles (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
 ## Relations (comme objet)

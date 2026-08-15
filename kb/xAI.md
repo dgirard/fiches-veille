@@ -12,9 +12,9 @@
 
 ### publie
 
-- [[kb/_entites-mineures#release-x-algorithm-du-15-mai-2026\|release x-algorithm du 15 mai 2026]] (EVENEMENT) — 0.99, STATIQUE
+- release x-algorithm du 15 mai 2026 (EVENEMENT) — 0.99, STATIQUE
   - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
-- [[kb/_entites-mineures#x-algorithm-(release-open-source)\|x-algorithm (release open-source)]] (TECHNOLOGIE) — 0.99, STATIQUE
+- x-algorithm (release open-source) (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
 ## Relations (comme objet)

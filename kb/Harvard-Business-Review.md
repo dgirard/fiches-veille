@@ -10,7 +10,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#The-Gen-AI-Playbook-for-Organizations\|The Gen AI Playbook for Organizations]] (DOCUMENT) — 0.99, STATIQUE
+- The Gen AI Playbook for Organizations (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
 
 ## Fiches sources

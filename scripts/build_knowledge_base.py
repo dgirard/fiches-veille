@@ -250,6 +250,22 @@ def apply_fusion_name(name: str, fusion_map: dict) -> str:
     return entry[0] if entry else name
 
 
+def merge_fiches_by_name(entities: list[dict]) -> None:
+    """Unifie **en place** la liste des fiches sources des homonymes de types différents.
+
+    La dédup groupe par (nom, type) — conforme à la règle « typer selon le rôle »
+    de l'ontologie — mais les relations, elles, sont indexées par **nom seul**.
+    Sans cette unification, `Cursor-organisation` affichait les 17 relations de
+    `Cursor` en n'annonçant qu'1 fiche source sur 14. Les attributs restent
+    propres à chaque type (ils qualifient le rôle, pas l'entité).
+    """
+    by_name = defaultdict(set)
+    for e in entities:
+        by_name[normalize_name(e["name"])] |= set(e["fiches"])
+    for e in entities:
+        e["fiches"] = sorted(by_name[normalize_name(e["name"])])
+
+
 def build_fiche_metadata(fiches_dir: Path) -> tuple[dict, dict]:
     """Construit les index fiche_id → chemin relatif et fiche_id → alias.
 
@@ -295,7 +311,7 @@ def build_entity_index(major_entities: list[dict],
         if base.lower() in RESERVED_FILENAMES:
             base = base + "-entite"
         override = distinct_map.get((nname, ntype))
-        if override:
+        if override and override != "-":
             filename = f"{base}-{override}"
         elif len(names_types[nname]) > 1:
             filename = f"{base}-{ntype}"
@@ -346,14 +362,27 @@ def _quasi_key(name: str) -> str:
     return re.sub(r"[\s\-_/]+", "", s)
 
 
-def quasi_duplicate_report(entities: list[dict]) -> list[str]:
+def quasi_duplicate_report(entities: list[dict],
+                           distinct_map: dict | None = None) -> list[str]:
     """Groupes d'entités dont les noms se ressemblent (jamais fusionnés
-    automatiquement — arbitrage humain via entity_aliases.tsv)."""
+    automatiquement — arbitrage humain via entity_aliases.tsv).
+
+    Un groupe dont au moins un membre porte une ligne DISTINCT a déjà été
+    arbitré (homonymes légitimes, ex. `ARC` l'organisation vs `Arc` le
+    navigateur) : il n'est plus signalé. Sans cette sortie, le doctor réclamait
+    indéfiniment un arbitrage déjà rendu.
+    """
+    distinct_map = distinct_map or {}
     groups = defaultdict(set)
+    arbitres = set()
     for e in entities:
-        groups[_quasi_key(e["name"])].add(e["name"])
+        k = _quasi_key(e["name"])
+        groups[k].add(e["name"])
+        if (normalize_name(e["name"]), normalize_name(e.get("type", ""))) in distinct_map:
+            arbitres.add(k)
     return [f"{k} : " + " / ".join(sorted(names))
-            for k, names in sorted(groups.items()) if len(names) > 1]
+            for k, names in sorted(groups.items())
+            if len(names) > 1 and k not in arbitres]
 
 
 # ─── Classification entités majeures / mineures ─────────────────────────────
@@ -397,13 +426,23 @@ def compute_incoming_triples(triples: list[dict]) -> dict:
 
 
 def entity_wikilink(name: str, etype: str, entity_pages: dict,
-                    major_types: dict) -> str:
+                    major_types: dict, minor_anchors: dict | None = None) -> str:
     """Génère un wikilink vers une entité, en tenant compte du type.
 
-    entity_pages: {(nname, ntype): filename} pour les majeures.
-    major_types:  {nname: {ntype, …}} — types majeurs connus pour ce nom.
+    entity_pages:  {(nname, ntype): filename} pour les majeures.
+    major_types:   {nname: {ntype, …}} — types majeurs connus pour ce nom.
+    minor_anchors: {nname: ancre} — ancres réellement écrites dans
+                   `_entites-mineures.md`, indexées par nom normalisé.
     Le type du triple aiguille vers la bonne page quand un nom porte plusieurs
     types ; sinon on retombe sur la seule page majeure du nom, ou l'ancre mineure.
+
+    Deux liens morts sont évités ici. (1) Un nom rencontré dans un triple mais
+    **jamais déclaré** en `### Entités` n'a ni page ni ancre : rendu en texte
+    brut (cf. `docs/reference/ontologie-kg.md`, « Table Entités vs triples »).
+    (2) L'ancre est dérivée du **nom canonique** de l'entité dédupliquée, pas de
+    l'orthographe du triple : « Prompt engineering » dans un triple et « prompt
+    engineering » dans la table Entités désignent la même ancre.
+    `minor_anchors=None` conserve l'ancien comportement (compat appels partiels).
     """
     nname, ntype = normalize_name(name), normalize_name(etype)
     if nname in major_types:
@@ -414,7 +453,12 @@ def entity_wikilink(name: str, etype: str, entity_pages: dict,
             first_type = sorted(major_types[nname])[0]
             filename = entity_pages[(nname, first_type)]
         return f"[[kb/{filename}\\|{name}]]"
-    anchor = entity_to_filename(name)
+    if minor_anchors is None:
+        anchor = entity_to_filename(name)
+    elif nname in minor_anchors:
+        anchor = minor_anchors[nname]
+    else:
+        return name
     return f"[[kb/_entites-mineures#{anchor}\\|{name}]]"
 
 
@@ -431,7 +475,7 @@ def fiche_wikilink(fiche_id: str, fiche_paths: dict, fiche_aliases: dict) -> str
 def generate_entity_page(entity: dict, subject_triples: list[dict],
                          object_triples: list[dict], entity_pages: dict,
                          major_types: dict, fiche_paths: dict,
-                         fiche_aliases: dict) -> str:
+                         fiche_aliases: dict, minor_anchors: dict | None = None) -> str:
     """Génère le contenu d'une page entité individuelle."""
     lines = []
     name = entity["name"]
@@ -442,6 +486,20 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
     lines.append("")
     lines.append(f"> **Type** : {etype} | {total_relations} relations | {len(entity['fiches'])} fiches sources")
     lines.append("")
+
+    # Pages sœurs : même nom, autre type (règle « typer selon le rôle » de
+    # l'ontologie). Les relations sont indexées par nom seul et donc identiques
+    # d'une page à l'autre — le lien évite de faire croire à deux entités.
+    siblings = sorted(t for t in major_types.get(normalize_name(name), set())
+                      if t != normalize_name(etype))
+    if siblings:
+        links = ", ".join(
+            f"[[kb/{entity_pages[(normalize_name(name), t)]}\\|{name} ({t.upper()})]]"
+            for t in siblings if (normalize_name(name), t) in entity_pages
+        )
+        if links:
+            lines.append(f"> **Même entité, autre type** : {links}")
+            lines.append("")
 
     # Attributs
     if entity["attributes"]:
@@ -470,7 +528,8 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
                 if t["type_objet"] in EPISTEMIC_TYPES:
                     obj_link = f"« {t['objet']} »"
                 else:
-                    obj_link = entity_wikilink(t["objet"], t["type_objet"], entity_pages, major_types)
+                    obj_link = entity_wikilink(t["objet"], t["type_objet"],
+                                               entity_pages, major_types, minor_anchors)
                 conf = f"{t['confiance']:.2f}"
                 temp = t["temporalite"]
                 line = f"- {obj_link} ({t['type_objet']}) — {conf}, {temp}"
@@ -485,7 +544,8 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
         lines.append("## Relations (comme objet)")
         lines.append("")
         for t in sorted(object_triples, key=lambda t: (-t["confiance"], t["predicat"])):
-            subj_link = entity_wikilink(t["sujet"], t["type_sujet"], entity_pages, major_types)
+            subj_link = entity_wikilink(t["sujet"], t["type_sujet"],
+                                        entity_pages, major_types, minor_anchors)
             lines.append(f"- {subj_link} **{t['predicat']}** → {name} — {t['confiance']:.2f}")
         lines.append("")
 
@@ -503,7 +563,7 @@ def generate_entity_page(entity: dict, subject_triples: list[dict],
 def generate_minor_entities_page(minor_entities: list[dict], triples: list[dict],
                                  incoming: dict, entity_pages: dict,
                                  major_types: dict, fiche_paths: dict,
-                                 fiche_aliases: dict) -> str:
+                                 fiche_aliases: dict, minor_anchors: dict | None = None) -> str:
     """Génère la page des entités mineures, groupées par type."""
     lines = []
     lines.append("# Entités mineures")
@@ -555,14 +615,22 @@ def generate_minor_entities_page(minor_entities: list[dict], triples: list[dict]
             # Relations comme sujet (compact)
             if subj_triples:
                 for t in sorted(subj_triples, key=lambda t: -t["confiance"]):
-                    obj_link = entity_wikilink(t["objet"], t["type_objet"], entity_pages, major_types)
+                    # Même garde que `generate_entity_page` : un objet épistémique
+                    # (AFFIRMATION/MESURE/CITATION) n'est pas une entité et n'a
+                    # donc ni page ni ancre — le lier produisait un lien mort.
+                    if t["type_objet"] in EPISTEMIC_TYPES:
+                        obj_link = f"« {t['objet']} »"
+                    else:
+                        obj_link = entity_wikilink(t["objet"], t["type_objet"],
+                                                   entity_pages, major_types, minor_anchors)
                     lines.append(f"- **{t['predicat']}** → {obj_link} ({t['type_objet']}) — {t['confiance']:.2f}")
                 lines.append("")
 
             # Relations comme objet (compact)
             if obj_triples:
                 for t in sorted(obj_triples, key=lambda t: -t["confiance"]):
-                    subj_link = entity_wikilink(t["sujet"], t["type_sujet"], entity_pages, major_types)
+                    subj_link = entity_wikilink(t["sujet"], t["type_sujet"],
+                                                entity_pages, major_types, minor_anchors)
                     lines.append(f"- {subj_link} **{t['predicat']}** → {e['name']} — {t['confiance']:.2f}")
                 lines.append("")
 
@@ -797,14 +865,13 @@ def main():
                 fusions_appliquees += 1
         for t, _fid in all_triples:
             for col in ("Sujet", "Objet"):
-                entry = fusion_map.get(normalize_name(t.get(col, "")))
-                if entry:
-                    t[col] = entry[0]
+                t[col] = apply_fusion_name(t.get(col, ""), fusion_map)
         print(f"Fusions d'alias appliquées : {fusions_appliquees}")
 
     # 2. Déduplique entités et triples (inchangé)
     print("Déduplication des entités...")
     unique_entities = deduplicate_entities(all_entities)
+    merge_fiches_by_name(unique_entities)
 
     print("Déduplication des triples...")
     unique_triples = deduplicate_triples(all_triples)
@@ -834,6 +901,12 @@ def main():
     # Index des pages d'entités majeures (collisions résolues, blocantes sinon).
     entity_pages, major_types = build_entity_index(major_entities, distinct_map)
 
+    # Noms ayant réellement une ancre dans `_entites-mineures.md`. Tout autre nom
+    # rencontré dans un triple (jamais déclaré en `### Entités`) est rendu en
+    # texte brut plutôt qu'en lien mort.
+    minor_anchors = {normalize_name(e["name"]): entity_to_filename(e["name"])
+                     for e in minor_entities}
+
     # Entités par type (pour indexes)
     entities_by_type = defaultdict(list)
     for e in unique_entities:
@@ -861,7 +934,7 @@ def main():
         obj_triples = incoming.get(nname, [])
         files[f"kb/{filename}.md"] = generate_entity_page(
             e, subj_triples, obj_triples, entity_pages, major_types,
-            fiche_paths, fiche_aliases
+            fiche_paths, fiche_aliases, minor_anchors
         )
 
     # Index par type
@@ -886,7 +959,7 @@ def main():
     # Entités mineures
     files["kb/_entites-mineures.md"] = generate_minor_entities_page(
         minor_entities, unique_triples, incoming, entity_pages, major_types,
-        fiche_paths, fiche_aliases
+        fiche_paths, fiche_aliases, minor_anchors
     )
 
     # 7. Écriture + nettoyage
@@ -898,7 +971,7 @@ def main():
     sans_kg = total_fiches - num_fiches
     if sans_kg:
         print(f"\n⚠ Complétude : {sans_kg} fiche(s) sans GrapheDeConnaissance.")
-    quasi = quasi_duplicate_report(unique_entities)
+    quasi = quasi_duplicate_report(unique_entities, distinct_map)
     if quasi:
         print(f"\n⚠ Quasi-doublons d'entités ({len(quasi)}) — arbitrer via "
               f"entity_aliases.tsv :")

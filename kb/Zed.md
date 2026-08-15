@@ -48,7 +48,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Franciska-Dethlefsen\|Franciska Dethlefsen]] **travaille_chez** → Zed — 0.95
-- [[kb/_entites-mineures#JetBrains\|JetBrains]] **collabore_avec** → Zed — 0.90
+- JetBrains **collabore_avec** → Zed — 0.90
 
 ## Fiches sources
 

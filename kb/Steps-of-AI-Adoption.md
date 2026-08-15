@@ -17,7 +17,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#adoption-de-l'IA-agentique-par-une-équipe-d'ingénierie\|adoption de l'IA agentique par une équipe d'ingénierie]] (CONCEPT) — 0.95, ATEMPOREL
+- adoption de l'IA agentique par une équipe d'ingénierie (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
 
 ## Relations (comme objet)

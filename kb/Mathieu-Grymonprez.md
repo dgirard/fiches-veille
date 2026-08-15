@@ -10,7 +10,7 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#Digital-Tech-and-Data-Adeo\|Digital Tech and Data Adeo]] (ORGANISATION) — 0.97, DYNAMIQUE
+- Digital Tech and Data Adeo (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
 ### recommande

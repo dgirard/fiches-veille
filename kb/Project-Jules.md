@@ -10,19 +10,19 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#collaboration-multi-agents\|collaboration multi-agents]] (CONCEPT) — 0.85, DYNAMIQUE
+- collaboration multi-agents (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#agent-de-codage-proactif\|agent de codage proactif]] (CONCEPT) — 0.95, DYNAMIQUE
+- agent de codage proactif (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
 
 ### utilise
 
-- [[kb/_entites-mineures#mémoire-persistante-éditable\|mémoire persistante éditable]] (CONCEPT) — 0.88, DYNAMIQUE
+- mémoire persistante éditable (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
-- [[kb/_entites-mineures#agent-critique-adversarial\|agent critique adversarial]] (CONCEPT) — 0.85, DYNAMIQUE
+- agent critique adversarial (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/korevec-google-proactive-agents-jules-2025-11-23\|Proactive Agents: Doing the Dishes Without Being Asked]]
 
 ## Relations (comme objet)

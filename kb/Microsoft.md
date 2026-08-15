@@ -27,12 +27,12 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#modèle-de-leadership-pour-l'IA\|modèle de leadership pour l'IA]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- modèle de leadership pour l'IA (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#AAIF\|AAIF]] (ORGANISATION) — 0.93, DYNAMIQUE
+- AAIF (ORGANISATION) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 
 ### mesure
@@ -46,7 +46,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#infrastructure-de-calcul-via-Azure\|infrastructure de calcul via Azure]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- infrastructure de calcul via Azure (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
 ### publie
@@ -58,12 +58,12 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#embauches-division-consulting\|embauches division consulting]] (CONCEPT) — 0.95, STATIQUE
+- embauches division consulting (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
 ### utilise
 
-- [[kb/_entites-mineures#Bad-Developer-Days\|Bad Developer Days]] (METHODOLOGIE) — 0.97, DYNAMIQUE
+- Bad Developer Days (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 - « la capacité des datacenters européens de Mistral, louée pour servir sa propre demande cloud et IA » (AFFIRMATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]

@@ -38,7 +38,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#planification-avec-IA\|planification avec IA]] (METHODOLOGIE) — 0.97, STATIQUE
+- planification avec IA (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
 
 ### travaille_chez

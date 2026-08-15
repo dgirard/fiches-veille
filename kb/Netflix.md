@@ -23,7 +23,7 @@
 
 - [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
-- [[kb/_entites-mineures#recherche-vocale\|recherche vocale]] (CONCEPT) — 0.88, DYNAMIQUE
+- recherche vocale (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ### utilise
@@ -34,7 +34,7 @@
   - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 - [[kb/_entites-mineures#principe-Model-Once-Represent-Everywhere\|principe "Model Once Represent Everywhere"]] (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
-- [[kb/_entites-mineures#outils-publicitaires-dopés-à-l'IA\|outils publicitaires dopés à l'IA]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- outils publicitaires dopés à l'IA (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 
 ## Relations (comme objet)

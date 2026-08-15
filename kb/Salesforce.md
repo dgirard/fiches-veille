@@ -12,12 +12,12 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#modèle-SaaS-(seat-based)\|modèle SaaS (seat-based)]] (CONCEPT) — 0.95, STATIQUE
+- modèle SaaS (seat-based) (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#modèle-d'adoption-IA-enterprise\|modèle d'adoption IA enterprise]] (CONCEPT) — 0.85, DYNAMIQUE
+- modèle d'adoption IA enterprise (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 
 ### mesure
@@ -29,24 +29,24 @@
 
 ### permet
 
-- [[kb/_entites-mineures#redéfinition-des-rôles-des-employés\|redéfinition des rôles des employés]] (CONCEPT) — 0.85, DYNAMIQUE
+- redéfinition des rôles des employés (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 
 ### réduit
 
-- [[kb/_entites-mineures#4-000-postes-de-support-client\|4 000 postes de support client]] (CONCEPT) — 0.97, STATIQUE
+- 4 000 postes de support client (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
 
 ### soutient
 
-- [[kb/_entites-mineures#preuve-de-concept-IA-enterprise\|preuve de concept IA enterprise]] (CONCEPT) — 0.87, STATIQUE
+- preuve de concept IA enterprise (CONCEPT) — 0.87, STATIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
 
 ### utilise
 
-- [[kb/_entites-mineures#IA-interne-à-grande-échelle\|IA interne à grande échelle]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- IA interne à grande échelle (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-06/salesforce-ai-30-50-percent-work-benioff-2025-06-26\|AI is doing 30% to 50% of the work at Salesforce now]]
-- [[kb/_entites-mineures#état-actuel-pas-état-décisionnel\|état actuel pas état décisionnel]] (CONCEPT) — 0.90, DYNAMIQUE
+- état actuel pas état décisionnel (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
 
 ## Relations (comme objet)

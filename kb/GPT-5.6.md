@@ -20,12 +20,12 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#FinOps-de-l'IA\|FinOps de l'IA]] (METHODOLOGIE) — 0.82, ATEMPOREL
+- FinOps de l'IA (METHODOLOGIE) — 0.82, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### utilise
 
-- [[kb/_entites-mineures#prompt-caching\|prompt caching]] (CONCEPT) — 0.90, ATEMPOREL
+- [[kb/_entites-mineures#Prompt-caching\|prompt caching]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ## Relations (comme objet)

@@ -26,7 +26,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#Iteration-max-3-4\|Iteration max 3-4]] (METHODOLOGIE) — 0.94, ATEMPOREL
+- Iteration max 3-4 (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/chepurin-turner-evil-martians-ai-engineers-burning-out-2026-05-19\|AI-assisted engineers are burning out, is this fine?]]
 
 ## Fiches sources

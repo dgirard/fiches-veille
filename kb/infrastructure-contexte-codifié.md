@@ -11,7 +11,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#architecture-3-tiers-hot-warm-cold\|architecture 3 tiers hot/warm/cold]] (CONCEPT) — 0.95, ATEMPOREL
+- architecture 3 tiers hot/warm/cold (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24\|Codified Context: Infrastructure for AI Agents in a Complex Codebase]]
 
 ### utilise
@@ -23,7 +23,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#agents-spécialisés\|agents spécialisés]] **fait_partie_de** → infrastructure contexte codifié — 0.96
+- agents spécialisés **fait_partie_de** → infrastructure contexte codifié — 0.96
 
 ## Fiches sources
 

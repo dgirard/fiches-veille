@@ -31,7 +31,7 @@
 
 ### concurrence
 
-- [[kb/_entites-mineures#Slack\|Slack]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- Slack (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[kb/GitHub\|GitHub]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
@@ -39,7 +39,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#workspace-collaboratif-humains-agents-auto-hébergeable\|workspace collaboratif humains-agents auto-hébergeable]] (CONCEPT) — 0.96, ATEMPOREL
+- workspace collaboratif humains-agents auto-hébergeable (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 

@@ -10,17 +10,17 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#doctrine-harness-engineering-2026\|doctrine harness engineering 2026]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+- doctrine harness engineering 2026 (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
 ### réduit
 
-- [[kb/_entites-mineures#composants-absorbés-par-base-platform\|composants absorbés par base platform]] (CONCEPT) — 0.97, ATEMPOREL
+- composants absorbés par base platform (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
 ### utilise
 
-- [[kb/_entites-mineures#communication-explicite-stakeholders\|communication explicite stakeholders]] (CONCEPT) — 0.95, ATEMPOREL
+- communication explicite stakeholders (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
 ## Fiches sources

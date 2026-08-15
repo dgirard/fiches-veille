@@ -42,19 +42,19 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Prosecution,-Not-Code-Review\|Prosecution, Not Code Review]] (DOCUMENT) — 0.97, STATIQUE
+- Prosecution, Not Code Review (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Prosecution, Not Code Review]]
-- [[kb/_entites-mineures#Stop-Running-the-SDLC-on-Models-That-Aren't-Human\|Stop Running the SDLC on Models That Aren't Human]] (DOCUMENT) — 0.97, STATIQUE
+- Stop Running the SDLC on Models That Aren't Human (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-1-models-arent-human-2026-06-12\|Stop Running the SDLC on Models That Aren't Human]]
-- [[kb/_entites-mineures#Tests-Are-the-Spec-in-the-Only-Language-the-Builder-Can't-Argue-With\|Tests Are the Spec in the Only Language the Builder Can't Argue With]] (DOCUMENT) — 0.97, STATIQUE
+- Tests Are the Spec in the Only Language the Builder Can't Argue With (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
-- [[kb/_entites-mineures#The-ADLC-Toolkit\|The ADLC Toolkit]] (DOCUMENT) — 0.97, STATIQUE
+- The ADLC Toolkit (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-7-built-with-the-lifecycle-2026-06-12\|The ADLC Toolkit]]
-- [[kb/_entites-mineures#The-Lifecycle-That-Gets-Cheaper-Every-Run\|The Lifecycle That Gets Cheaper Every Run]] (DOCUMENT) — 0.97, STATIQUE
+- The Lifecycle That Gets Cheaper Every Run (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-6-lifecycle-gets-cheaper-2026-06-12\|The Lifecycle That Gets Cheaper Every Run]]
-- [[kb/_entites-mineures#Three-Dials-Parallel-Agents-Without-Merge-Hell\|Three Dials: Parallel Agents Without Merge Hell]] (DOCUMENT) — 0.97, STATIQUE
+- Three Dials: Parallel Agents Without Merge Hell (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
-- [[kb/_entites-mineures#Two-Human-Gates-and-Everything-Between-Is-Machine-Checked\|Two Human Gates and Everything Between Is Machine-Checked]] (DOCUMENT) — 0.97, STATIQUE
+- Two Human Gates and Everything Between Is Machine-Checked (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/williams-adlc-2-two-human-gates-2026-06-12\|Two Human Gates and Everything Between Is Machine-Checked]]
 
 ### recommande

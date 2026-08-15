@@ -17,12 +17,12 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#The-Knowledge-Graph-Guy-(persona)\|The Knowledge Graph Guy (persona)]] (CONCEPT) — 0.98, DYNAMIQUE
+- The Knowledge Graph Guy (persona) (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
 ### publie
 
-- [[kb/_entites-mineures#Semantic-Agent-post-LinkedIn\|Semantic Agent post LinkedIn]] (DOCUMENT) — 0.99, STATIQUE
+- Semantic Agent post LinkedIn (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
 ### recommande

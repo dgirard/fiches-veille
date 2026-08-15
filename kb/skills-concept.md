@@ -1,6 +1,8 @@
 # skills
 
-> **Type** : CONCEPT | 12 relations | 2 fiches sources
+> **Type** : CONCEPT | 12 relations | 4 fiches sources
+
+> **Même entité, autre type** : [[kb/skills-technologie\|skills (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -11,17 +13,17 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#la-précision-de-21%-à-plus-de-95%\|la précision de 21% à plus de 95%]] (CONCEPT) — 0.95, STATIQUE
+- la précision de 21% à plus de 95% (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#fichiers-SKILL-md\|fichiers SKILL.md]] (TECHNOLOGIE) — 0.95, STATIQUE
+- fichiers SKILL.md (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#prompts-copyables-réutilisables-(63-dans-New-Form)\|prompts copyables réutilisables (63 dans New Form)]] (CONCEPT) — 0.95, STATIQUE
+- prompts copyables réutilisables (63 dans New Form) (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
 
 ### mesure
@@ -33,22 +35,22 @@
 
 ### permet
 
-- [[kb/_entites-mineures#capacités-latentes-des-modèles\|capacités latentes des modèles]] (CONCEPT) — 0.90, ATEMPOREL
+- capacités latentes des modèles (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-11/rajasekaran-anthropic-frontend-design-skills-2025-11-12\|Improving frontend design through Skills]]
 
 ### réduit
 
-- [[kb/_entites-mineures#coût-de-ré-explication-du-contexte-projet\|coût de ré-explication du contexte projet]] (CONCEPT) — 0.90, ATEMPOREL
+- coût de ré-explication du contexte projet (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 
 ### s_inspire_de
 
-- [[kb/_entites-mineures#livres-techniques\|livres techniques]] (CONCEPT) — 0.88, ATEMPOREL
+- livres techniques (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 
 ### surpasse
 
-- [[kb/_entites-mineures#baseline-sans-documentation\|baseline sans documentation]] (CONCEPT) — 0.97, STATIQUE
+- baseline sans documentation (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
 ## Relations (comme objet)
@@ -59,5 +61,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+- [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
 - [[fiches/2026-03/trivedy-langchain-anatomy-agent-harness-2026-03-10\|The Anatomy of an Agent Harness]]

@@ -27,7 +27,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#surveiller-la-communication-agent-à-agent-comme-une-interaction-humaine\|surveiller la communication agent-à-agent comme une interaction humaine]] (METHODOLOGIE) — 0.90, ATEMPOREL
+- surveiller la communication agent-à-agent comme une interaction humaine (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 
 ### travaille_chez

@@ -25,7 +25,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#narratif-agents-remplacent-tout\|narratif "agents remplacent tout"]] (CONCEPT) — 0.96, DYNAMIQUE
+- narratif "agents remplacent tout" (CONCEPT) — 0.96, DYNAMIQUE
   - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
 
 ## Fiches sources

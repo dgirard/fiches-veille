@@ -10,7 +10,7 @@
 
 ### remplace
 
-- [[kb/_entites-mineures#individual-contributor-traditionnel\|individual contributor traditionnel]] (CONCEPT) — 0.90, DYNAMIQUE
+- individual contributor traditionnel (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
 
 ### utilise

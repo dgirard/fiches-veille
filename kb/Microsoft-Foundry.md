@@ -16,19 +16,19 @@
 
 ### est_variante_de
 
-- [[kb/_entites-mineures#Azure-AI-Foundry\|Azure AI Foundry]] (TECHNOLOGIE) — 0.90, STATIQUE
+- Azure AI Foundry (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### utilise
 
-- [[kb/_entites-mineures#Entra-Agent-ID\|Entra Agent ID]] (TECHNOLOGIE) — 0.90, STATIQUE
+- Entra Agent ID (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ## Relations (comme objet)
 
 - [[kb/Amazon-Bedrock-AgentCore\|Amazon Bedrock AgentCore]] **converge_avec** → Microsoft Foundry — 0.95
-- [[kb/_entites-mineures#Mistral-Medium-3.5\|Mistral Medium 3.5]] **fait_partie_de** → Microsoft Foundry — 0.92
-- [[kb/_entites-mineures#Mistral-OCR-4\|Mistral OCR 4]] **fait_partie_de** → Microsoft Foundry — 0.90
+- Mistral Medium 3.5 **fait_partie_de** → Microsoft Foundry — 0.92
+- Mistral OCR 4 **fait_partie_de** → Microsoft Foundry — 0.90
 
 ## Fiches sources
 

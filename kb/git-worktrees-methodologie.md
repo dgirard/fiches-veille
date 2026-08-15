@@ -1,6 +1,8 @@
 # git worktrees
 
-> **Type** : METHODOLOGIE | 5 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 5 relations | 4 fiches sources
+
+> **Même entité, autre type** : [[kb/git-worktrees-technologie\|git worktrees (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -10,12 +12,12 @@
 
 ### permet
 
-- [[kb/_entites-mineures#isolation-des-tâches\|isolation des tâches]] (CONCEPT) — 0.95, ATEMPOREL
+- isolation des tâches (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 
 ### résout
 
-- [[kb/_entites-mineures#collisions-de-fichiers-entre-agents-parallèles\|collisions de fichiers entre agents parallèles]] (CONCEPT) — 0.94, ATEMPOREL
+- collisions de fichiers entre agents parallèles (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 
 ## Relations (comme objet)
@@ -26,4 +28,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
+- [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
+- [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]

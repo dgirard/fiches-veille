@@ -15,7 +15,7 @@
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
-- [[kb/_entites-mineures#métaphore-de-l'Ascenseur-de-l'Architecte\|métaphore de l'Ascenseur de l'Architecte]] (CONCEPT) — 0.92, STATIQUE
+- métaphore de l'Ascenseur de l'Architecte (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### affirme_que
@@ -41,11 +41,11 @@
 
 ### publie
 
-- [[kb/_entites-mineures#The-Magic-of-Platforms-(keynote-PlatformCon-2022)\|The Magic of Platforms (keynote PlatformCon 2022)]] (DOCUMENT) — 0.98, STATIQUE
+- The Magic of Platforms (keynote PlatformCon 2022) (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
-- [[kb/_entites-mineures#Platform-Strategy-(Leanpub)\|Platform Strategy (Leanpub)]] (DOCUMENT) — 0.95, DYNAMIQUE
+- Platform Strategy (Leanpub) (DOCUMENT) — 0.95, DYNAMIQUE
   - [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
 ### recommande

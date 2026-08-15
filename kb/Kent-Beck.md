@@ -37,9 +37,9 @@
 
 - [[kb/_entites-mineures#Agile-Manifesto\|Agile Manifesto]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era]]
-- [[kb/_entites-mineures#Starving-Genies\|Starving Genies]] (DOCUMENT) — 0.98, STATIQUE
+- Starving Genies (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
-- [[kb/_entites-mineures#Augmented-Coding-Beyond-the-Vibes\|Augmented Coding: Beyond the Vibes]] (DOCUMENT) — 0.90, STATIQUE
+- Augmented Coding: Beyond the Vibes (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
 
 ### recommande
@@ -58,7 +58,7 @@
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
 - [[kb/_entites-mineures#Tidy-First\|Tidy First]] (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
-- [[kb/_entites-mineures#codage-augmenté-quotidien\|codage augmenté quotidien]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- codage augmenté quotidien (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 
 ## Fiches sources

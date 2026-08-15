@@ -10,7 +10,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#fichiers-Markdown\|fichiers Markdown]] (TECHNOLOGIE) — 0.98, STATIQUE
+- fichiers Markdown (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 
 ### fait_partie_de
@@ -20,7 +20,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#consommation-de-tokens\|consommation de tokens]] (CONCEPT) — 0.93, ATEMPOREL
+- consommation de tokens (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 
 ### résout
@@ -30,13 +30,13 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#docx\|docx]] (TECHNOLOGIE) — 0.99, STATIQUE
+- docx (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
-- [[kb/_entites-mineures#pdf\|pdf]] (TECHNOLOGIE) — 0.99, STATIQUE
+- pdf (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
-- [[kb/_entites-mineures#pptx\|pptx]] (TECHNOLOGIE) — 0.99, STATIQUE
+- pptx (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
-- [[kb/_entites-mineures#xlsx\|xlsx]] (TECHNOLOGIE) — 0.99, STATIQUE
+- xlsx (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
@@ -50,13 +50,13 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#environnement-de-codage-avec-accès-filesystem\|environnement de codage avec accès filesystem]] (CONCEPT) — 0.97, ATEMPOREL
+- environnement de codage avec accès filesystem (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
-- [[kb/_entites-mineures#scripts-Python\|scripts Python]] (TECHNOLOGIE) — 0.97, STATIQUE
+- scripts Python (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
 - [[kb/_entites-mineures#pypdf\|pypdf]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
-- [[kb/_entites-mineures#chargement-contexte-dynamique\|chargement contexte dynamique]] (METHODOLOGIE) — 0.92, ATEMPOREL
+- chargement contexte dynamique (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]
 - [[kb/_entites-mineures#React\|React]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]

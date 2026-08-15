@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#cadre-de-minimisation-des-regrets\|cadre de minimisation des regrets]] (METHODOLOGIE) — 0.92, STATIQUE
+- cadre de minimisation des regrets (METHODOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-03/ralmuto-rebuttal-andreessen-introspection-history-2026-03-17\|Rebuttal to Marc Andreessen on Introspection]]
 
 ### affirme_que

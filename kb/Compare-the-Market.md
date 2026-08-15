@@ -10,9 +10,9 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#évaluation-empirique-revue-de-code-IA\|évaluation empirique revue de code IA]] (EVENEMENT) — 0.95, STATIQUE
+- évaluation empirique revue de code IA (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
-- [[kb/_entites-mineures#sidecar-Docker-CI-CD-pour-GKG\|sidecar Docker CI/CD pour GKG]] (TECHNOLOGIE) — 0.92, STATIQUE
+- sidecar Docker CI/CD pour GKG (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2026-03/comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06\|Comparing Context Retrieval Approaches for AI Code Review]]
 
 ### affirme_que

@@ -23,20 +23,20 @@
 
 ### collabore_avec
 
-- [[kb/_entites-mineures#DINUM-+-Caisse-des-dépôts-+-France-Travail\|DINUM + Caisse des dépôts + France Travail]] (ORGANISATION) — 0.97, DYNAMIQUE
+- DINUM + Caisse des dépôts + France Travail (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - [[kb/Microsoft\|Microsoft]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
-- [[kb/_entites-mineures#ministère-des-Armées-français\|ministère des Armées français]] (ORGANISATION) — 0.97, DYNAMIQUE
+- ministère des Armées français (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#Stellantis-+-TotalEnergies-+-BNP-Paribas-+-MACGM\|Stellantis + TotalEnergies + BNP Paribas + MACGM]] (ORGANISATION) — 0.97, DYNAMIQUE
+- Stellantis + TotalEnergies + BNP Paribas + MACGM (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#ADEME-(ACV-des-modèles)\|ADEME (ACV des modèles)]] (ORGANISATION) — 0.96, STATIQUE
+- ADEME (ACV des modèles) (ORGANISATION) — 0.96, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#Luxembourg-(administration-centrale)\|Luxembourg (administration centrale)]] (ORGANISATION) — 0.95, DYNAMIQUE
+- Luxembourg (administration centrale) (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#ministère-des-Armées\|ministère des Armées]] (ORGANISATION) — 0.95, DYNAMIQUE
+- ministère des Armées (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 - [[kb/_entites-mineures#EcoDataCenter\|EcoDataCenter]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
@@ -55,7 +55,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Campus-IA-(actionnaire-très-minoritaire)\|Campus IA (actionnaire très minoritaire)]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- Campus IA (actionnaire très minoritaire) (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### mesure
@@ -116,9 +116,9 @@
 - [[kb/Timothée-Lacroix\|Timothée Lacroix]] **travaille_chez** → Mistral AI — 0.98
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] **est_basé_sur** → Mistral AI — 0.96
 - [[kb/_entites-mineures#ASML\|ASML]] **soutient** → Mistral AI — 0.90
-- [[kb/_entites-mineures#Amadeus\|Amadeus]] **soutient** → Mistral AI — 0.88
+- Amadeus **soutient** → Mistral AI — 0.88
 - [[kb/Capgemini\|Capgemini]] **soutient** → Mistral AI — 0.88
-- [[kb/_entites-mineures#CMA-CGM\|CMA CGM]] **soutient** → Mistral AI — 0.88
+- CMA CGM **soutient** → Mistral AI — 0.88
 
 ## Fiches sources
 

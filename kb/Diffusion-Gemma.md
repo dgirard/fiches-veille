@@ -12,7 +12,7 @@
 
 - [[kb/modèles-de-langage-par-diffusion\|modèles de langage par diffusion]] (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
-- [[kb/_entites-mineures#modèle-à-poids-ouverts\|modèle à poids ouverts]] (CONCEPT) — 0.95, STATIQUE
+- modèle à poids ouverts (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ### est_variante_de
@@ -29,9 +29,9 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#attention-bidirectionnelle\|attention bidirectionnelle]] (CONCEPT) — 0.93, ATEMPOREL
+- attention bidirectionnelle (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
-- [[kb/_entites-mineures#diffusion-masquée-(absorbing-diffusion)\|diffusion masquée (absorbing diffusion)]] (CONCEPT) — 0.92, ATEMPOREL
+- diffusion masquée (absorbing diffusion) (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
 
 ## Relations (comme objet)

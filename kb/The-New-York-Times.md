@@ -20,7 +20,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Elon-Musk-Promises.-Here's-How-Often-He-Delivers.\|Elon Musk Promises. Here's How Often He Delivers.]] (DOCUMENT) — 0.95, STATIQUE
+- Elon Musk Promises. Here's How Often He Delivers. (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
 ### recommande

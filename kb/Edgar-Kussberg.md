@@ -10,7 +10,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#AI-in-the-SDLC-Cutting-Through-the-Hype\|AI in the SDLC: Cutting Through the Hype]] (DOCUMENT) — 0.98, STATIQUE
+- AI in the SDLC: Cutting Through the Hype (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
 ### recommande

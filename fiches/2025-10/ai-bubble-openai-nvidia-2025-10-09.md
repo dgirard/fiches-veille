@@ -56,7 +56,7 @@ En conclusion, le marché de l'IA représente à la fois une promesse extraordin
 | Philippe Ensarguet | PERSONNE | prédit | OpenAI non cash-flow positif avant 2030 | AFFIRMATION | 0.92 | STATIQUE | déclaré_article |
 | Sam Altman | PERSONNE | dirige | destin économie mondiale IA | CONCEPT | 0.85 | DYNAMIQUE | déclaré_article |
 | Stacy Rasgon | PERSONNE | affirme_que | Sam Altman peut crasher l'économie mondiale | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
-| bulle IA | CONCEPT | est_variante_de | bulle dot-com | CONCEPT | 0.88 | ATEMPOREL | inféré |
+| bulle IA | CONCEPT | est_variante_de | bulle dot-com | EVENEMENT | 0.88 | ATEMPOREL | inféré |
 | Lisa Su | PERSONNE | affirme_que | cycle vertueux de collaboration IA | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | Greg Brockman | PERSONNE | affirme_que | cycle vertueux de collaboration IA | AFFIRMATION | 0.90 | STATIQUE | déclaré_article |
 | économie circulaire IA | CONCEPT | s_applique_à | OpenAI, Nvidia, AMD, Oracle, CoreWeave, xAI | ORGANISATION | 0.92 | DYNAMIQUE | déclaré_article |

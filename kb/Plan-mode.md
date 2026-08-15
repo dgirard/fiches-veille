@@ -14,19 +14,19 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#qualité-implémentation\|qualité implémentation]] (CONCEPT) — 0.90, ATEMPOREL
+- qualité implémentation (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
 ### permet
 
-- [[kb/_entites-mineures#stabilité-du-cache\|stabilité du cache]] (CONCEPT) — 0.96, ATEMPOREL
+- stabilité du cache (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
-- [[kb/_entites-mineures#exploration-read-only-avant-code\|exploration read-only avant code]] (CONCEPT) — 0.93, ATEMPOREL
+- exploration read-only avant code (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
 ### utilise
 
-- [[kb/_entites-mineures#EnterPlanMode-ExitPlanMode-comme-outils\|EnterPlanMode/ExitPlanMode comme outils]] (TECHNOLOGIE) — 0.95, STATIQUE
+- EnterPlanMode/ExitPlanMode comme outils (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
 ## Relations (comme objet)

@@ -20,12 +20,12 @@
 
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
-- [[kb/_entites-mineures#adoption-IA-chez-Moderna\|adoption IA chez Moderna]] (METHODOLOGIE) — 0.95, STATIQUE
+- adoption IA chez Moderna (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/bersin-chro-pivotal-role-ai-transformation-2025-10-10\|The Pivotal Role Of Chief HR Officer in AI Transformation]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#Chief-People-and-Digital-Technology-Officer\|Chief People and Digital Technology Officer]] (CONCEPT) — 0.98, DYNAMIQUE
+- Chief People and Digital Technology Officer (CONCEPT) — 0.98, DYNAMIQUE
   - [[fiches/2025-06/unleash-franklin-moderna-hr-it-merger-architect-flow-work-2025-06-27\|Why Moderna merged HR and IT to better 'architect the flow of work']]
 
 ### prédit

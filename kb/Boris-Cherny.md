@@ -80,7 +80,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#conseils-équipe-Claude-Code\|conseils équipe Claude Code]] (DOCUMENT) — 0.98, STATIQUE
+- conseils équipe Claude Code (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 
 ### recommande
@@ -105,15 +105,15 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#5-agents-parallèles\|5 agents parallèles]] (METHODOLOGIE) — 0.97, DYNAMIQUE
+- 5 agents parallèles (METHODOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
 - [[kb/Opus-4.5\|Opus 4.5]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
-- [[kb/_entites-mineures#setup-iOS-first-multi-session-multi-agent\|setup iOS-first multi-session multi-agent]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- setup iOS-first multi-session multi-agent (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
 - [[kb/subagents-concept\|subagents]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
-- [[kb/_entites-mineures#subagents-spécialisés-(code-simplifier,-verify-app)\|subagents spécialisés (code-simplifier, verify-app)]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- subagents spécialisés (code-simplifier, verify-app) (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
 
 ## Relations (comme objet)

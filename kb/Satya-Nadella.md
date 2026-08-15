@@ -27,7 +27,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#A-frontier-without-an-ecosystem-is-not-stable\|A frontier without an ecosystem is not stable]] (DOCUMENT) — 0.97, STATIQUE
+- A frontier without an ecosystem is not stable (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
 ### recommande

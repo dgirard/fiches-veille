@@ -2,6 +2,8 @@
 
 > **Type** : ORGANISATION | 12 relations | 2 fiches sources
 
+> **Même entité, autre type** : [[kb/Plakar-technologie\|Plakar (TECHNOLOGIE)]]
+
 ## Attributs
 
 - **catégorie** : Startup open-source, outil de sauvegarde de données
@@ -11,7 +13,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#performances-S3-(60x,-14-min-→-13-sec)\|performances S3 (60x, 14 min → 13 sec)]] (CONCEPT) — 0.88, STATIQUE
+- performances S3 (60x, 14 min → 13 sec) (CONCEPT) — 0.88, STATIQUE
   - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
 
 ### est_basé_sur
@@ -23,7 +25,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Linux-Foundation-et-CNCF\|Linux Foundation et CNCF]] (ORGANISATION) — 0.97, DYNAMIQUE
+- Linux Foundation et CNCF (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01\|Plakar : la révolution française de la sauvegarde open source]]
 
 ### mesure

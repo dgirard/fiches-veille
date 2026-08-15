@@ -19,7 +19,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#modèle-frontier-open-weights\|modèle frontier open-weights]] (CONCEPT) — 0.92, STATIQUE
+- modèle frontier open-weights (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### mesure
@@ -29,7 +29,7 @@
 
 ### remplace
 
-- [[kb/_entites-mineures#Kimi-K2.5-(fermé-aux-nouveaux,-extinction-au-31-août-2026)\|Kimi K2.5 (fermé aux nouveaux, extinction au 31 août 2026)]] (TECHNOLOGIE) — 0.85, STATIQUE
+- Kimi K2.5 (fermé aux nouveaux, extinction au 31 août 2026) (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
 ### réduit

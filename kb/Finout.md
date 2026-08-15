@@ -24,12 +24,12 @@
 
 ### publie
 
-- [[kb/_entites-mineures#guide-CPO-FinOps-des-architectures-IA\|guide CPO FinOps des architectures IA]] (DOCUMENT) — 0.97, STATIQUE
+- guide CPO FinOps des architectures IA (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
 
 ### recommande
 
-- [[kb/_entites-mineures#framework-d'allocation-FinOps-en-4-étapes\|framework d'allocation FinOps en 4 étapes]] (METHODOLOGIE) — 0.97, STATIQUE
+- framework d'allocation FinOps en 4 étapes (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]
 - « une logique d'allocation éditable par l'équipe FinOps sans intervention de l'ingénierie » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]

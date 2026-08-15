@@ -10,7 +10,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#alignement-d'équipe\|alignement d'équipe]] (CONCEPT) — 0.88, ATEMPOREL
+- alignement d'équipe (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
 ### est_basé_sur

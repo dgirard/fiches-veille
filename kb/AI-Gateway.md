@@ -10,19 +10,19 @@
 
 ### permet
 
-- [[kb/_entites-mineures#médiation-des-appels-LLM-externes-avec-guardrails\|médiation des appels LLM externes avec guardrails]] (CONCEPT) — 0.96, ATEMPOREL
+- médiation des appels LLM externes avec guardrails (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
-- [[kb/_entites-mineures#multi-model-support\|multi-model support]] (CONCEPT) — 0.93, STATIQUE
+- multi-model support (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
 ### réduit
 
-- [[kb/_entites-mineures#coûts-inference\|coûts inference]] (CONCEPT) — 0.90, ATEMPOREL
+- coûts inference (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
 ### utilise
 
-- [[kb/_entites-mineures#AI-Guard-pour-data-redaction\|AI Guard pour data redaction]] (CONCEPT) — 0.95, ATEMPOREL
+- AI Guard pour data redaction (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-05/uber-engineering-agent-identity-crisis-zero-trust-spire-2026-05-21\|Solving the Identity Crisis for AI Agents]]
 
 ## Relations (comme objet)

@@ -10,7 +10,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#fatigue-cognitive-aiguë-liée-à-l'oversight-intensif-d'IA\|fatigue cognitive aiguë liée à l'oversight intensif d'IA]] (CONCEPT) — 0.98, ATEMPOREL
+- fatigue cognitive aiguë liée à l'oversight intensif d'IA (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
 ### mesure
@@ -22,7 +22,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#burnout\|burnout]] (CONCEPT) — 0.97, ATEMPOREL
+- burnout (CONCEPT) — 0.97, ATEMPOREL
   - [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
 ## Fiches sources

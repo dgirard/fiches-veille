@@ -17,7 +17,7 @@
 
 - [[kb/_entites-mineures#McKinsey-&-Company\|McKinsey & Company]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
-- [[kb/_entites-mineures#McKinsey-&-Company-(depuis-2021)\|McKinsey & Company (depuis 2021)]] (ORGANISATION) — 0.95, DYNAMIQUE
+- McKinsey & Company (depuis 2021) (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
 ### prédit

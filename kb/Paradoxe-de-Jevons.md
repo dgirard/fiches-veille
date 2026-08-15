@@ -19,11 +19,11 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#code-généré-par-IA\|code généré par IA]] (CONCEPT) — 0.92, ATEMPOREL
+- code généré par IA (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
-- [[kb/_entites-mineures#la-demande-de-code-(élasticité-1-chez-les-développeurs)\|la demande de code (élasticité > 1 chez les développeurs)]] (CONCEPT) — 0.92, ATEMPOREL
+- la demande de code (élasticité > 1 chez les développeurs) (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
-- [[kb/_entites-mineures#productivité-vibe-coding\|productivité vibe coding]] (CONCEPT) — 0.88, ATEMPOREL
+- productivité vibe coding (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
 
 ## Fiches sources

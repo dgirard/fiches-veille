@@ -69,7 +69,7 @@ Enfin, sur la mesure de couverture : le pourcentage de couverture est facilement
 | Chris Williams | PERSONNE | affirme_que | une contrainte dans le prompt est une requête, une contrainte dans l'outil est un fait | CITATION | 0.94 | ATEMPOREL | déclaré_article |
 | contextes d'écriture séparés | METHODOLOGIE | réduit | héritage des hypothèses du code par l'agent de test | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | audit adversarial de tests | METHODOLOGIE | s_applique_à | détection des tests vides (« fail if feature deleted ? ») | CONCEPT | 0.89 | ATEMPOREL | déclaré_article |
-| mutation testing | METHODOLOGIE | surpasse | couverture en pourcentage | METHODOLOGIE | 0.90 | ATEMPOREL | déclaré_article |
+| mutation testing | METHODOLOGIE | surpasse | couverture en pourcentage | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
 | couverture en pourcentage | CONCEPT | observé_dans | métrique Goodhart-able à vitesse machine | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
 | phase Rail | METHODOLOGIE | fait_partie_de | cycle agentique en huit phases | METHODOLOGIE | 0.90 | ATEMPOREL | inféré |
 

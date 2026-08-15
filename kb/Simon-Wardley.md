@@ -34,7 +34,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#court-termisme-managérial-licenciements-IA\|court-termisme managérial licenciements IA]] (CONCEPT) — 0.90, ATEMPOREL
+- court-termisme managérial licenciements IA (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
 
 ## Fiches sources

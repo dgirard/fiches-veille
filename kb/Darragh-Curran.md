@@ -17,7 +17,7 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#R&D-Intercom\|R&D Intercom]] (ORGANISATION) — 0.97, DYNAMIQUE
+- R&D Intercom (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-04/curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16\|2× – nine months later: We did it]]
 
 ### recommande

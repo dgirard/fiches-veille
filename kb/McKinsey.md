@@ -38,12 +38,12 @@
 
 ### publie
 
-- [[kb/_entites-mineures#offre-de-départ-9-mois-de-salaire-(avril-2024)\|offre de départ 9 mois de salaire (avril 2024)]] (EVENEMENT) — 0.93, STATIQUE
+- offre de départ 9 mois de salaire (avril 2024) (EVENEMENT) — 0.93, STATIQUE
   - [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
 ### réduit
 
-- [[kb/_entites-mineures#effectif-technologique-(200-postes,-novembre-2024)\|effectif technologique (200 postes, novembre 2024)]] (CONCEPT) — 0.93, STATIQUE
+- effectif technologique (200 postes, novembre 2024) (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
 ## Relations (comme objet)

@@ -13,7 +13,7 @@
 
 - « données détenues par une entreprise sous juridiction américaine où qu'elles soient stockées » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-airbus-scaleway-cloud-confiance-souverainete-2026-07-16\|Airbus choisit Scaleway pour son « cloud de confiance » : la souveraineté à l'épreuve de l'industrie stratégique]]
-- [[kb/_entites-mineures#souveraineté-numérique-européenne-(accès-extraterritorial-US)\|souveraineté numérique européenne (accès extraterritorial US)]] (CONCEPT) — 0.85, ATEMPOREL
+- souveraineté numérique européenne (accès extraterritorial US) (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ## Fiches sources

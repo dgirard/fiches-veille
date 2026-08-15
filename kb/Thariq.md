@@ -20,7 +20,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Guide-gestion-sessions-Claude-Code-1M\|Guide gestion sessions Claude Code 1M]] (DOCUMENT) — 0.99, STATIQUE
+- Guide gestion sessions Claude Code 1M (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]
 
 ### recommande

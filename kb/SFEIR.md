@@ -108,13 +108,13 @@
 
 ### publie
 
-- [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage-(article)\|IA et emploi : le vrai risque, c'est le décrochage (article)]] (DOCUMENT) — 0.98, STATIQUE
+- IA et emploi : le vrai risque, c'est le décrochage (article) (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
-- [[kb/_entites-mineures#L'IA-fait-tomber-les-murs-entre-les-métiers-(article)\|L'IA fait tomber les murs entre les métiers (article)]] (DOCUMENT) — 0.98, STATIQUE
+- L'IA fait tomber les murs entre les métiers (article) (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
-- [[kb/_entites-mineures#Un-SDLC-piloté-par-l'IA-le-cycle-SFEIR-à-11-phases\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases]] (DOCUMENT) — 0.97, STATIQUE
+- Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/sfeir-sdlc-ia-cycle-11-phases-2026-06-16\|Un SDLC piloté par l'IA : le cycle SFEIR à 11 phases (et pourquoi l'industrie y converge)]]
-- [[kb/_entites-mineures#Rapport-de-recherche-«-AI-Kill-Switch-Act-»-souveraineté,-seuils-et-so-what\|Rapport de recherche « AI Kill Switch Act » : souveraineté, seuils et so what]] (DOCUMENT) — 0.95, STATIQUE
+- Rapport de recherche « AI Kill Switch Act » : souveraineté, seuils et so what (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|Rapport de recherche — « AI Kill Switch Act » : souveraineté, seuils et « so what » pour les entreprises européennes]]
 
 ### recommande

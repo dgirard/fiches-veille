@@ -62,13 +62,13 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#JSON-RPC-sur-stdio\|JSON-RPC sur stdio]] (TECHNOLOGIE) — 0.95, ATEMPOREL
+- JSON-RPC sur stdio (TECHNOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
-- [[kb/_entites-mineures#JSON-RPC-2.0-sur-stdio\|JSON-RPC 2.0 sur stdio]] (TECHNOLOGIE) — 0.94, ATEMPOREL
+- JSON-RPC 2.0 sur stdio (TECHNOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
-- [[kb/_entites-mineures#Markdown\|Markdown]] (TECHNOLOGIE) — 0.92, ATEMPOREL
+- Markdown (TECHNOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
-- [[kb/_entites-mineures#HTTP-ou-WebSocket-pour-les-agents-distants\|HTTP ou WebSocket pour les agents distants]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- HTTP ou WebSocket pour les agents distants (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
 ## Relations (comme objet)
@@ -77,10 +77,10 @@
 - [[kb/Zed\|Zed]] **a_créé** → Agent Client Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Agent Client Protocol — 0.95
 - [[kb/_entites-mineures#buzz-acp\|buzz-acp]] **utilise** → Agent Client Protocol — 0.95
-- [[kb/_entites-mineures#JetBrains\|JetBrains]] **utilise** → Agent Client Protocol — 0.92
-- [[kb/_entites-mineures#Zed-Industries\|Zed Industries]] **a_créé** → Agent Client Protocol — 0.90
+- JetBrains **utilise** → Agent Client Protocol — 0.92
+- Zed Industries **a_créé** → Agent Client Protocol — 0.90
 - [[kb/_entites-mineures#ACP-Registry\|ACP Registry]] **fait_partie_de** → Agent Client Protocol — 0.88
-- [[kb/_entites-mineures#Nous-Research\|Nous Research]] **utilise** → Agent Client Protocol — 0.88
+- Nous Research **utilise** → Agent Client Protocol — 0.88
 
 ## Fiches sources
 

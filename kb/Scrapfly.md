@@ -15,7 +15,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS,-and-Anti-Bot-Systems-Read-the-Bits\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]] (DOCUMENT) — 0.97, STATIQUE
+- Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-07/scrapfly-browser-math-os-fingerprint-2026-07-12\|Your Browser Does Math Differently on Every OS, and Anti-Bot Systems Read the Bits]]
 
 ### recommande

@@ -14,9 +14,9 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#moteur-de-recherche\|moteur de recherche]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- moteur de recherche (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
-- [[kb/_entites-mineures#plateforme-commerce\|plateforme commerce]] (CONCEPT) — 0.92, DYNAMIQUE
+- plateforme commerce (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
 
 ### mesure
@@ -28,18 +28,18 @@
 
 ### permet
 
-- [[kb/_entites-mineures#achat-conversationnel\|achat conversationnel]] (CONCEPT) — 0.88, DYNAMIQUE
+- achat conversationnel (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
-- [[kb/_entites-mineures#trafic-vers-boutiques-Shopify\|trafic vers boutiques Shopify]] (CONCEPT) — 0.88, DYNAMIQUE
+- trafic vers boutiques Shopify (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#itération-structuration\|itération / structuration]] (METHODOLOGIE) — 0.94, DYNAMIQUE
+- itération / structuration (METHODOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
-- [[kb/_entites-mineures#recommandations-produits\|recommandations produits]] (CONCEPT) — 0.92, DYNAMIQUE
+- recommandations produits (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
-- [[kb/_entites-mineures#comparaison-de-prix\|comparaison de prix]] (CONCEPT) — 0.90, DYNAMIQUE
+- comparaison de prix (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|The future is already here: 73% of consumers are already using AI for online shopping]]
 
 ### surpasse

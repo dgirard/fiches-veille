@@ -18,12 +18,12 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#partenariat-humain-agent-sur-cinq-étapes\|partenariat humain-agent sur cinq étapes]] (CONCEPT) — 0.90, ATEMPOREL
+- partenariat humain-agent sur cinq étapes (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 
 ### permet
 
-- [[kb/_entites-mineures#ancrage-des-gates-de-sécurité-entre-deux-étapes-nommées\|ancrage des gates de sécurité entre deux étapes nommées]] (CONCEPT) — 0.95, ATEMPOREL
+- ancrage des gates de sécurité entre deux étapes nommées (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 
 ### utilise

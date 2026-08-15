@@ -26,7 +26,7 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
-- [[kb/_entites-mineures#détecteur-ChatGPT-(précision-99,9%)\|détecteur ChatGPT (précision 99,9%)]] (TECHNOLOGIE) — 0.97, STATIQUE
+- détecteur ChatGPT (précision 99,9%) (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 
 ### affirme_que
@@ -44,7 +44,7 @@
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
 - [[kb/_entites-mineures#Samsung\|Samsung]] (ORGANISATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
-- [[kb/_entites-mineures#gouvernement-américain-(preview-pré-déploiement-sous-Executive-Order)\|gouvernement américain (preview pré-déploiement sous Executive Order)]] (ORGANISATION) — 0.85, STATIQUE
+- gouvernement américain (preview pré-déploiement sous Executive Order) (ORGANISATION) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
 ### concurrence
@@ -82,7 +82,7 @@
   - [[fiches/2025-07/openai-chatgpt-agent-launch-announcement-2025-07-17\|Introducing ChatGPT Agent]]
 - [[kb/ChatGPT-Atlas\|ChatGPT Atlas]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
-- [[kb/_entites-mineures#Harness-engineering-leveraging-Codex-in-an-agent-first-world\|Harness engineering: leveraging Codex in an agent-first world]] (DOCUMENT) — 0.99, STATIQUE
+- Harness engineering: leveraging Codex in an agent-first world (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - [[kb/_entites-mineures#ChatGPT-Apps-SDK\|ChatGPT Apps SDK]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-10/gadget-chatgpt-apps-sdk-guide-2025-10-10\|Everything you need to know about building ChatGPT apps]]
@@ -92,11 +92,11 @@
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - [[kb/AGENTS-md\|AGENTS.md]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
-- [[kb/_entites-mineures#données-d'usage-ChatGPT\|données d'usage ChatGPT]] (DOCUMENT) — 0.97, STATIQUE
+- données d'usage ChatGPT (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
-- [[kb/_entites-mineures#GDPval-paper\|GDPval paper]] (DOCUMENT) — 0.97, STATIQUE
+- GDPval paper (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
-- [[kb/_entites-mineures#étude-capacités-agents-IA\|étude capacités agents IA]] (DOCUMENT) — 0.95, STATIQUE
+- étude capacités agents IA (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[kb/Agent-Plugins\|Agent Plugins]] (TECHNOLOGIE) — 0.90, STATIQUE
   - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
@@ -109,16 +109,16 @@
 
 ### soutient
 
-- [[kb/_entites-mineures#nomination-Sam-Altman-au-conseil-Neuralink\|nomination Sam Altman au conseil Neuralink]] (EVENEMENT) — 0.90, STATIQUE
+- nomination Sam Altman au conseil Neuralink (EVENEMENT) — 0.90, STATIQUE
   - [[fiches/2025-08/sam-altman-neuralink-board-openai-conflict-2025-08-12\|Sam Altman Joins Neuralink Board: Ethical and Competitive Concerns Arise]]
 
 ### utilise
 
 - [[kb/_entites-mineures#AMD-Instinct-MI450\|AMD Instinct MI450]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
-- [[kb/_entites-mineures#puces-Nvidia\|puces Nvidia]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- puces Nvidia (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
-- [[kb/_entites-mineures#Linters-custom-et-tests-structurels\|Linters custom et tests structurels]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+- Linters custom et tests structurels (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
@@ -131,7 +131,7 @@
 - [[kb/Sam-Altman\|Sam Altman]] **dirige** → OpenAI — 0.98
 - [[kb/Elon-Musk\|Elon Musk]] **a_créé** → OpenAI — 0.97
 - [[kb/Elon-Musk\|Elon Musk]] **s_oppose_à** → OpenAI — 0.97
-- [[kb/_entites-mineures#Chris-Lehane\|Chris Lehane]] **travaille_chez** → OpenAI — 0.97
+- Chris Lehane **travaille_chez** → OpenAI — 0.97
 - [[kb/Dean-W.-Ball\|Dean W. Ball]] **travaille_chez** → OpenAI — 0.97
 - [[kb/AMD\|AMD]] **collabore_avec** → OpenAI — 0.96
 - [[kb/METR\|METR]] **collabore_avec** → OpenAI — 0.96

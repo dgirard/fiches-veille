@@ -22,7 +22,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#FinOps-for-AI-Agents-(Orq.ai)\|FinOps for AI Agents (Orq.ai)]] (DOCUMENT) — 0.97, STATIQUE
+- FinOps for AI Agents (Orq.ai) (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
 
 ## Fiches sources

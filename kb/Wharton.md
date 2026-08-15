@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#simulation-business-complexe\|simulation business complexe]] (METHODOLOGIE) — 0.90, STATIQUE
+- simulation business complexe (METHODOLOGIE) — 0.90, STATIQUE
   - [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Making AI Work: Leadership, Lab, and Crowd]]
 
 ## Relations (comme objet)

@@ -17,7 +17,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#The-AI-native-SDLC-is-paying-off\|The AI-native SDLC is paying off]] (DOCUMENT) — 0.97, STATIQUE
+- The AI-native SDLC is paying off (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-05/atlassian-ai-native-sdlc-paying-off-rovo-dev-2026-05-31\|The AI-native SDLC is paying off: 19% more PRs and 2–3 hours saved per developer per week]]
 
 ### recommande

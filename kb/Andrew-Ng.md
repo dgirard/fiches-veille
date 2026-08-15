@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#concept-AI-jobapalooza\|concept "AI jobapalooza"]] (CONCEPT) — 0.95, STATIQUE
+- concept "AI jobapalooza" (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 
 ### affirme_que
@@ -45,7 +45,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#3-boucles-clés-de-développement-produit-0-to-1\|3 boucles clés de développement produit 0-to-1]] (METHODOLOGIE) — 0.96, STATIQUE
+- 3 boucles clés de développement produit 0-to-1 (METHODOLOGIE) — 0.96, STATIQUE
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 - [[kb/_entites-mineures#analyse_d_erreurs\|analyse_d_erreurs]] (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]

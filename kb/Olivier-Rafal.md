@@ -59,13 +59,13 @@
 
 - « considérer la plateforme GenAI elle-même comme un produit » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
-- [[kb/_entites-mineures#trois-gates-inviolables-(spécification,-planification,-revue)\|trois gates inviolables (spécification, planification, revue)]] (METHODOLOGIE) — 0.93, ATEMPOREL
+- trois gates inviolables (spécification, planification, revue) (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
-- [[kb/_entites-mineures#financement-en-flux-mensuel-continu\|financement en flux mensuel continu]] (CONCEPT) — 0.90, ATEMPOREL
+- financement en flux mensuel continu (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
-- [[kb/_entites-mineures#ingénieurs-d'intégration-et-compétences-cloud-plutôt-que-data-scientists\|ingénieurs d'intégration et compétences cloud plutôt que data scientists]] (CONCEPT) — 0.90, ATEMPOREL
+- ingénieurs d'intégration et compétences cloud plutôt que data scientists (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
-- [[kb/_entites-mineures#repenser-le-Target-Operating-Model-pour-l'ère-agentique\|repenser le Target Operating Model pour l'ère agentique]] (METHODOLOGIE) — 0.90, ATEMPOREL
+- repenser le Target Operating Model pour l'ère agentique (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
 ### travaille_chez

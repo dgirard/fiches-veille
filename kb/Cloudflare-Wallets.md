@@ -28,7 +28,7 @@
 
 - [[kb/_entites-mineures#x402\|x402]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
-- [[kb/_entites-mineures#stablecoin\|stablecoin]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- stablecoin (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
 ## Relations (comme objet)

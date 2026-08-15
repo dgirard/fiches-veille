@@ -42,11 +42,11 @@
 
 - [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
-- [[kb/_entites-mineures#Europe-PMC\|Europe PMC]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- Europe PMC (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 - « modèles Anthropic Opus et Sonnet via un roster de seize sous-agents » (AFFIRMATION) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
-- [[kb/_entites-mineures#Unpaywall\|Unpaywall]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- Unpaywall (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
 ## Relations (comme objet)

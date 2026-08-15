@@ -42,6 +42,54 @@ class _Repo:
         shutil.rmtree(self.root, ignore_errors=True)
 
 
+class TestDeriveNommage(unittest.TestCase):
+    """(h) variante d'un nom déjà déclaré dans la même fiche."""
+
+    def setUp(self):
+        self.r = _Repo()
+        (self.r.root / "scripts").mkdir(exist_ok=True)
+
+    def tearDown(self):
+        self.r.cleanup()
+
+    def _ecrire(self, sujet_triple, entite_declaree):
+        self.r.fiche = FICHE.replace(
+            "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |",
+            f"| {sujet_triple} | ORGANISATION | a_créé | B | TECHNOLOGIE |"
+        ).replace("| A | ORGANISATION | x | y | AJOUT |",
+                  f"| {entite_declaree} | ORGANISATION | x | y | AJOUT |")
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            self.r.fiche, encoding="utf-8")
+
+    def test_variante_detectee(self):
+        # Le triple dit « Uber », la table déclare « Uber Engineering ».
+        self._ecrire("Uber", "Uber Engineering")
+        _, status, detail = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.WARN)
+        self.assertIn("a-2026-06-15", detail)
+
+    def test_nom_identique_ok(self):
+        self._ecrire("Uber", "Uber")
+        _, status, _ = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_entite_simplement_non_declaree_non_signalee(self):
+        # « Uber » sans parenté avec « Zalando » : la table Entités n'est pas un
+        # miroir des triples → aucun signalement.
+        self._ecrire("Uber", "Zalando")
+        _, status, _ = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_objet_epistemique_ignore(self):
+        self.r.fiche = FICHE.replace(
+            "| A | ORGANISATION | a_créé | B | TECHNOLOGIE |",
+            "| A | ORGANISATION | affirme_que | A est rentable | AFFIRMATION |")
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            self.r.fiche, encoding="utf-8")
+        _, status, _ = cc.check_derive_nommage(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+
 class TestCatalogueFreshness(unittest.TestCase):
     def setUp(self):
         self.r = _Repo()

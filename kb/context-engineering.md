@@ -14,9 +14,9 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#prompt-engineering\|prompt engineering]] (METHODOLOGIE) — 0.95, ATEMPOREL
+- [[kb/_entites-mineures#Prompt-Engineering\|prompt engineering]] (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
-- [[kb/_entites-mineures#qualité-du-code-généré-par-IA\|qualité du code généré par IA]] (CONCEPT) — 0.93, ATEMPOREL
+- qualité du code généré par IA (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
 
 ### remplace

@@ -17,7 +17,7 @@
 
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION) — 0.90, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]
-- [[kb/_entites-mineures#Microsoft-Dynamics\|Microsoft Dynamics]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+- Microsoft Dynamics (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]
 
 ### utilise

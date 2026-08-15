@@ -34,19 +34,19 @@
 
 - [[kb/orchestration-multi-agents\|orchestration multi-agents]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
-- [[kb/_entites-mineures#déploiement-cloud,-on-premise-et-hybride\|déploiement cloud, on-premise et hybride]] (CONCEPT) — 0.93, DYNAMIQUE
+- déploiement cloud, on-premise et hybride (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
 
 ### publie
 
-- [[kb/_entites-mineures#analyse-ChatGPT-Atlas\|analyse ChatGPT Atlas]] (DOCUMENT) — 0.98, STATIQUE
+- analyse ChatGPT Atlas (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|ChatGPT Atlas démocratise le Web conversationnel]]
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
 ### recommande
 
-- [[kb/_entites-mineures#co-construire-la-gouvernance-financière-et-le-modèle-opérationnel-agentique\|co-construire la gouvernance financière et le modèle opérationnel agentique]] (METHODOLOGIE) — 0.88, DYNAMIQUE
+- co-construire la gouvernance financière et le modèle opérationnel agentique (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/rafal-wenvision-tokenomics-foundation-finops-ia-2026-06-04\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]]
 
 ### résout
@@ -56,17 +56,17 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#déploiement-production-agents-IA\|déploiement production agents IA]] (CONCEPT) — 0.97, STATIQUE
+- déploiement production agents IA (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
 
 ### soutient
 
-- [[kb/_entites-mineures#déploiement-Almia\|déploiement Almia]] (CONCEPT) — 0.85, DYNAMIQUE
+- déploiement Almia (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ### utilise
 
-- [[kb/_entites-mineures#gouvernance-et-sécurité\|gouvernance et sécurité]] (CONCEPT) — 0.95, STATIQUE
+- gouvernance et sécurité (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-10/wenvision-ai-agents-enterprise-deployment-2025-10-01\|Wenvision: Enterprise AI Agent Deployment Platform]]
 
 ## Relations (comme objet)

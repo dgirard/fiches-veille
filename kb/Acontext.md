@@ -12,9 +12,9 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#projet-open-source\|projet open source]] (CONCEPT) — 0.97, DYNAMIQUE
+- projet open source (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
-- [[kb/_entites-mineures#plateforme-de-données-contextuelles\|plateforme de données contextuelles]] (CONCEPT) — 0.95, DYNAMIQUE
+- plateforme de données contextuelles (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ### mesure
@@ -24,14 +24,14 @@
 
 ### permet
 
-- [[kb/_entites-mineures#auto-apprentissage-des-agents\|auto-apprentissage des agents]] (CONCEPT) — 0.90, DYNAMIQUE
+- auto-apprentissage des agents (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
-- [[kb/_entites-mineures#observabilité-des-agents\|observabilité des agents]] (CONCEPT) — 0.90, DYNAMIQUE
+- observabilité des agents (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 
 ### utilise
 
-- [[kb/_entites-mineures#Python-et-JavaScript-TypeScript\|Python et JavaScript/TypeScript]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+- Python et JavaScript/TypeScript (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
 - [[kb/_entites-mineures#distillation-de-compétences\|distillation de compétences]] (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-12/memodb-acontext-context-data-platform-agents-2025-12-11\|Acontext: Context Data Platform for Cloud-Native AI Agents]]
@@ -39,7 +39,7 @@
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#memodb-io\|memodb-io]] **a_créé** → Acontext — 0.97
-- [[kb/_entites-mineures#ingénierie-contextuelle\|ingénierie contextuelle]] **fait_partie_de** → Acontext — 0.88
+- ingénierie contextuelle **fait_partie_de** → Acontext — 0.88
 
 ## Fiches sources
 

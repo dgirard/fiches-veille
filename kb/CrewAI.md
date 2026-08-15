@@ -11,7 +11,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] (CONCEPT) — 0.95, STATIQUE
+- [[kb/_entites-mineures#Frameworks-d'agents\|Frameworks d'agents]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
 ## Fiches sources

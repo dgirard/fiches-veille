@@ -15,7 +15,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Loop-Engineering-for-Product-Managers\|Loop Engineering for Product Managers]] (DOCUMENT) — 0.97, STATIQUE
+- Loop Engineering for Product Managers (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
 ### recommande

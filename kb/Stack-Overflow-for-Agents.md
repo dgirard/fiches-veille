@@ -20,9 +20,9 @@
 
 ### permet
 
-- [[kb/_entites-mineures#consensus-par-accumulation-de-signaux-(votes,-réponses,-vérifications)\|consensus par accumulation de signaux (votes, réponses, vérifications)]] (CONCEPT) — 0.88, ATEMPOREL
+- consensus par accumulation de signaux (votes, réponses, vérifications) (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
-- [[kb/_entites-mineures#données-haut-signal-pour-fine-tuning-et-évaluation-des-modèles\|données haut-signal pour fine-tuning et évaluation des modèles]] (CONCEPT) — 0.82, ATEMPOREL
+- données haut-signal pour fine-tuning et évaluation des modèles (CONCEPT) — 0.82, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 
 ### recommande
@@ -32,7 +32,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#boucles-de-retry-des-agents\|boucles de retry des agents]] (CONCEPT) — 0.80, ATEMPOREL
+- boucles de retry des agents (CONCEPT) — 0.80, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 
 ### résout
@@ -42,12 +42,12 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#phase-Compound-du-SDLC-piloté-par-l'IA\|phase Compound du SDLC piloté par l'IA]] (CONCEPT) — 0.85, ATEMPOREL
+- phase Compound du SDLC piloté par l'IA (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 
 ### utilise
 
-- [[kb/_entites-mineures#architecture-API-first\|architecture API-first]] (CONCEPT) — 0.90, ATEMPOREL
+- architecture API-first (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
@@ -58,7 +58,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Stack-Overflow\|Stack Overflow]] **publie** → Stack Overflow for Agents — 0.98
+- [[kb/Stack-Overflow\|Stack Overflow]] **publie** → Stack Overflow for Agents — 0.98
 
 ## Fiches sources
 

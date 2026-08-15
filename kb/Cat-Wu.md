@@ -15,7 +15,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#équipe-fondatrice-Claude-Code\|équipe fondatrice Claude Code]] (CONCEPT) — 0.97, STATIQUE
+- équipe fondatrice Claude Code (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
 ### recommande
@@ -31,7 +31,7 @@
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code]]
-- [[kb/_entites-mineures#équipe-Claude-Code\|équipe Claude Code]] (ORGANISATION) — 0.95, DYNAMIQUE
+- équipe Claude Code (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
 
 ## Relations (comme objet)

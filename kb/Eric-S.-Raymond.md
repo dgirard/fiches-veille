@@ -37,7 +37,7 @@
 
 - [[kb/Codex\|Codex]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
-- [[kb/_entites-mineures#tests-de-régression\|tests de régression]] (METHODOLOGIE) — 0.90, DYNAMIQUE
+- tests de régression (METHODOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
 
 ## Fiches sources

@@ -1,6 +1,8 @@
 # Manus
 
-> **Type** : ORGANISATION | 11 relations | 2 fiches sources
+> **Type** : ORGANISATION | 11 relations | 4 fiches sources
+
+> **Même entité, autre type** : [[kb/Manus-technologie\|Manus (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -26,17 +28,17 @@
 
 ### observé_dans
 
-- [[kb/_entites-mineures#Singapour-(relocalisée-depuis-la-Chine-mi-2025)\|Singapour (relocalisée depuis la Chine mi-2025)]] (LIEU) — 0.95, STATIQUE
+- Singapour (relocalisée depuis la Chine mi-2025) (LIEU) — 0.95, STATIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
 ### surpasse
 
-- [[kb/_entites-mineures#OpenAI-Deep-Research\|OpenAI Deep Research]] (TECHNOLOGIE) — 0.80, STATIQUE
+- OpenAI Deep Research (TECHNOLOGIE) — 0.80, STATIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
 ### utilise
 
-- [[kb/_entites-mineures#architecture-multi-agents\|architecture multi-agents]] (CONCEPT) — 0.93, DYNAMIQUE
+- architecture multi-agents (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 
 ## Relations (comme objet)
@@ -51,3 +53,5 @@
 
 - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
 - [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]]
+- [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
+- [[fiches/2025-05/mollick-making-ai-work-leadership-lab-crowd-2025-05-22\|Making AI Work: Leadership, Lab, and Crowd]]

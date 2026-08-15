@@ -26,7 +26,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#On-the-Folly-of-Rewarding-A,-While-Hoping-for-B\|On the Folly of Rewarding A, While Hoping for B]] (DOCUMENT) — 0.98, STATIQUE
+- On the Folly of Rewarding A, While Hoping for B (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
 
 ## Fiches sources

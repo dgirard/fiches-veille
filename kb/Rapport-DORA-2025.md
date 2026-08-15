@@ -17,7 +17,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#5000-enquêtes-professionnels\|5000 enquêtes professionnels]] (CONCEPT) — 0.98, STATIQUE
+- 5000 enquêtes professionnels (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ### mesure
@@ -27,7 +27,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#transformation-organisationnelle\|transformation organisationnelle]] (CONCEPT) — 0.95, STATIQUE
+- transformation organisationnelle (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
 
 ## Relations (comme objet)

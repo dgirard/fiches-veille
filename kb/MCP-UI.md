@@ -10,7 +10,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#accessibilité-agents-IA\|accessibilité agents IA]] (CONCEPT) — 0.87, ATEMPOREL
+- accessibilité agents IA (CONCEPT) — 0.87, ATEMPOREL
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 
 ### est_basé_sur
@@ -21,22 +21,22 @@
 
 ### permet
 
-- [[kb/_entites-mineures#préservation-de-l'expérience-de-marque\|préservation de l'expérience de marque]] (CONCEPT) — 0.88, ATEMPOREL
+- préservation de l'expérience de marque (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
-- [[kb/_entites-mineures#préservation-de-l'identité-de-marque\|préservation de l'identité de marque]] (CONCEPT) — 0.88, ATEMPOREL
+- préservation de l'identité de marque (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
-- [[kb/_entites-mineures#recomposition-du-web-fragmenté-en-atomes-d'UI\|recomposition du web fragmenté en atomes d'UI]] (CONCEPT) — 0.88, ATEMPOREL
+- recomposition du web fragmenté en atomes d'UI (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-10/mcp-ui-conference-monday-liad-yosef-2025-10-18\|MCP-UI: The Future of Agentic Interfaces (Conference Talk)]]
-- [[kb/_entites-mineures#interfaces-UI-génératives-personnalisées\|interfaces UI génératives personnalisées]] (CONCEPT) — 0.85, ATEMPOREL
+- interfaces UI génératives personnalisées (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 - [[kb/_entites-mineures#générative-UI\|générative UI]] (CONCEPT) — 0.82, ATEMPOREL
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 
 ### remplace
 
-- [[kb/_entites-mineures#interfaces-textuelles\|interfaces textuelles]] (CONCEPT) — 0.92, ATEMPOREL
+- interfaces textuelles (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
-- [[kb/_entites-mineures#interfaces-textuelles-des-agents-IA\|interfaces textuelles des agents IA]] (CONCEPT) — 0.92, ATEMPOREL
+- interfaces textuelles des agents IA (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 
 ### résout

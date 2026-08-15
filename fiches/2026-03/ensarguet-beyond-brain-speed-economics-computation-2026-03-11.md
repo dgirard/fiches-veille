@@ -67,7 +67,7 @@ En conclusion, il recommande trois actions : experimenter la tarification outcom
 | IA generative | TECHNOLOGIE | réduit | cout de l'execution cognitive | CONCEPT | 0.95 | DYNAMIQUE | déclaré_article |
 | IA agentique | TECHNOLOGIE | s_applique_à | coordination et orchestration | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
 | moment kilowatt-heure | CONCEPT | observé_dans | economie de la connaissance | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| modele outcome-based | CONCEPT | remplace | Modele jours-homme | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
+| modele outcome-based | METHODOLOGIE | remplace | Modele jours-homme | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |
 | Paradoxe de Jevons | CONCEPT | prédit | demande infinie quand cout execution tend vers zero | AFFIRMATION | 0.90 | ATEMPOREL | déclaré_article |
 | Valeur computation | CONCEPT | est_basé_sur | qualite compute x contexte donnees x orchestration | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
 | IA agentique | TECHNOLOGIE | s_oppose_à | organigramme et middle management | CONCEPT | 0.88 | DYNAMIQUE | déclaré_article |

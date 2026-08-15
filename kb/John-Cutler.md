@@ -20,14 +20,14 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Why-Teams-Don't-Escalate\|Why Teams Don't Escalate]] (DOCUMENT) — 0.99, STATIQUE
+- Why Teams Don't Escalate (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
 ### recommande
 
 - [[kb/_entites-mineures#forums-légers-récurrents\|forums légers récurrents]] (METHODOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
-- [[kb/_entites-mineures#démonstration-immédiate-de-réduction-de-scope\|démonstration immédiate de réduction de scope]] (METHODOLOGIE) — 0.90, ATEMPOREL
+- démonstration immédiate de réduction de scope (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
 ### travaille_chez

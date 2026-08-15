@@ -18,24 +18,24 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#protocole-ouvert\|protocole ouvert]] (CONCEPT) — 0.97, STATIQUE
+- protocole ouvert (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
 ### permet
 
-- [[kb/_entites-mineures#accès-structuré-des-agents-IA-aux-outils-et-données\|accès structuré des agents IA aux outils et données]] (CONCEPT) — 0.98, ATEMPOREL
+- accès structuré des agents IA aux outils et données (CONCEPT) — 0.98, ATEMPOREL
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
-- [[kb/_entites-mineures#connexion-à-outils-externes\|connexion à outils externes]] (CONCEPT) — 0.95, DYNAMIQUE
+- connexion à outils externes (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
-- [[kb/_entites-mineures#interaction-standardisée-avec-systèmes-externes\|interaction standardisée avec systèmes externes]] (CONCEPT) — 0.95, DYNAMIQUE
+- interaction standardisée avec systèmes externes (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
-- [[kb/_entites-mineures#connexion-de-Claude-à-GSC-Ahrefs-GA4\|connexion de Claude à GSC / Ahrefs / GA4]] (CONCEPT) — 0.94, DYNAMIQUE
+- connexion de Claude à GSC / Ahrefs / GA4 (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
-- [[kb/_entites-mineures#connecteurs-portables-entre-Codex-et-Claude-Code\|connecteurs portables entre Codex et Claude Code]] (CONCEPT) — 0.88, ATEMPOREL
+- connecteurs portables entre Codex et Claude Code (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
-- [[kb/_entites-mineures#exposition-services-aux-agents\|exposition services aux agents]] (CONCEPT) — 0.88, ATEMPOREL
+- exposition services aux agents (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
-- [[kb/_entites-mineures#intégration-Gemini-CLI\|intégration Gemini CLI]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+- intégration Gemini CLI (TECHNOLOGIE) — 0.85, DYNAMIQUE
   - [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
 ### remplace
@@ -45,12 +45,12 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#besoin-de-parsing-HTML\|besoin de parsing HTML]] (CONCEPT) — 0.92, ATEMPOREL
+- besoin de parsing HTML (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#Semrush-et-Ahrefs-(couche-par-dessus,-pas-substitut)\|Semrush et Ahrefs (couche par-dessus, pas substitut)]] (TECHNOLOGIE) — 0.90, ATEMPOREL
+- Semrush et Ahrefs (couche par-dessus, pas substitut) (TECHNOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ### s_oppose_à
@@ -60,15 +60,15 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#sécurité-renforcée\|sécurité renforcée]] (CONCEPT) — 0.93, ATEMPOREL
+- sécurité renforcée (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#fuites-de-données\|fuites de données]] **observé_dans** → MCP — 0.93
+- fuites de données **observé_dans** → MCP — 0.93
 - [[kb/Claude-Skills\|Claude Skills]] **s_oppose_à** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
-- [[kb/_entites-mineures#overhead-de-tokens-excessif\|overhead de tokens excessif]] **observé_dans** → MCP — 0.88
+- overhead de tokens excessif **observé_dans** → MCP — 0.88
 - [[kb/Agent-Skills\|Agent Skills]] **converge_avec** → MCP — 0.85
 
 ## Fiches sources

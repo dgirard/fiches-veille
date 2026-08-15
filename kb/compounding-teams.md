@@ -25,7 +25,7 @@
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[kb/_entites-mineures#Kubernetes\|Kubernetes]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
-- [[kb/_entites-mineures#frontières-modulaires\|frontières modulaires]] (CONCEPT) — 0.89, ATEMPOREL
+- frontières modulaires (CONCEPT) — 0.89, ATEMPOREL
   - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 
 ## Fiches sources

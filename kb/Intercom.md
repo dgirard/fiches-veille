@@ -37,7 +37,7 @@
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Ramp\|Ramp]] **converge_avec** → Intercom — 0.88
+- Ramp **converge_avec** → Intercom — 0.88
 
 ## Fiches sources
 

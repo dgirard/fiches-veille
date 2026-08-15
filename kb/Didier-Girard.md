@@ -45,7 +45,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#AI4IT-vs-AI4Business-le-renversement-(article-SFEIR)\|AI4IT vs AI4Business : le renversement (article SFEIR)]] (DOCUMENT) — 0.98, STATIQUE
+- AI4IT vs AI4Business : le renversement (article SFEIR) (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 
 ### recommande
@@ -65,7 +65,7 @@
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#la-méthode-de-l'étude-MIT-(95-%-des-pilotes-sans-ROI)\|la méthode de l'étude MIT (95 % des pilotes sans ROI)]] (DOCUMENT) — 0.90, STATIQUE
+- la méthode de l'étude MIT (95 % des pilotes sans ROI) (DOCUMENT) — 0.90, STATIQUE
   - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 
 ### travaille_chez

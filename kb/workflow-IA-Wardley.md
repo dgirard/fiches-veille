@@ -10,7 +10,7 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#product-managers-ERP-BI\|product managers ERP/BI]] (CONCEPT) — 0.88, ATEMPOREL
+- product managers ERP/BI (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
 
 ### utilise

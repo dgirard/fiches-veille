@@ -17,7 +17,7 @@
 
 - [[kb/BMAD\|BMAD]] (METHODOLOGIE) — 0.99, STATIQUE
   - [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment]]
-- [[kb/_entites-mineures#gemini-cli\|gemini-cli]] (TECHNOLOGIE) — 0.98, STATIQUE
+- [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment]]
 - [[kb/_entites-mineures#Stitch\|Stitch]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-03/mornati-developer-coding-agents-bmad-experiment-2026-03-14\|What is a Developer When We Use Coding Agents? My 1-Day BMAD Experiment]]

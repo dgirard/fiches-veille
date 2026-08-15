@@ -26,12 +26,12 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#Group-Chief-Digital-&-Information-Officer\|Group Chief Digital & Information Officer]] (CONCEPT) — 0.99, DYNAMIQUE
+- Group Chief Digital & Information Officer (CONCEPT) — 0.99, DYNAMIQUE
   - [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
 ### publie
 
-- [[kb/_entites-mineures#réflexion-sur-l'évolution-du-développeur\|réflexion sur l'évolution du développeur]] (DOCUMENT) — 0.98, STATIQUE
+- réflexion sur l'évolution du développeur (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
 
 ### soutient

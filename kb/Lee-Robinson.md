@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#migration-cursor.com-du-CMS-vers-Markdown\|migration cursor.com du CMS vers Markdown]] (EVENEMENT) — 0.97, STATIQUE
+- migration cursor.com du CMS vers Markdown (EVENEMENT) — 0.97, STATIQUE
   - [[fiches/2025-12/robinson-coding-agents-complexity-budgets-cursor-2025-12\|Coding Agents & Complexity Budgets]]
 
 ### affirme_que
@@ -22,7 +22,7 @@
 
 ### publie
 
-- [[kb/personal-software\|Personal Software]] (DOCUMENT) — 0.98, STATIQUE
+- article Personal Software (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
 
 ### travaille_chez

@@ -11,7 +11,7 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#AGENTS.md-et-systèmes-de-skills\|AGENTS.md et systèmes de skills]] (CONCEPT) — 0.82, DYNAMIQUE
+- AGENTS.md et systèmes de skills (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
 
 ### est_basé_sur
@@ -28,12 +28,12 @@
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#projets-brownfield\|projets brownfield]] (CONCEPT) — 0.90, DYNAMIQUE
+- projets brownfield (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
 
 ### utilise
 
-- [[kb/_entites-mineures#fichiers-Markdown-pour-les-spécifications\|fichiers Markdown pour les spécifications]] (CONCEPT) — 0.93, DYNAMIQUE
+- fichiers Markdown pour les spécifications (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/google-conductor-context-driven-development-gemini-cli-2025-12-17\|Conductor: Introducing context-driven development for Gemini CLI]]
 
 ## Relations (comme objet)

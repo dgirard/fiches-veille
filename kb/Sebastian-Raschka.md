@@ -11,7 +11,7 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#chercheur-spécialisé-en-LLM\|chercheur spécialisé en LLM]] (CONCEPT) — 0.96, STATIQUE
+- chercheur spécialisé en LLM (CONCEPT) — 0.96, STATIQUE
   - [[fiches/2024-04/raschka-ml-fundamentals-book-hands-on-2024-04-01\|Machine Learning Fundamentals: A Hands-On Guide]]
 
 ### publie

@@ -25,7 +25,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#licence-MIT\|licence MIT]] (CONCEPT) — 0.99, STATIQUE
+- licence MIT (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-01/forrestchang-andrej-karpathy-skills-claude-code-2026-01-27\|Andrej Karpathy Skills for Claude Code]]

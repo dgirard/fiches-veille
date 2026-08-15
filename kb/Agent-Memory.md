@@ -15,20 +15,20 @@
 
 ### permet
 
-- [[kb/_entites-mineures#apprentissage-persistant\|apprentissage persistant]] (CONCEPT) — 0.92, ATEMPOREL
+- apprentissage persistant (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
-- [[kb/_entites-mineures#corruption-mémoire\|corruption mémoire]] (CONCEPT) — 0.88, ATEMPOREL
+- corruption mémoire (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
 ### utilise
 
-- [[kb/_entites-mineures#opérations-lecture-écriture\|opérations lecture-écriture]] (CONCEPT) — 0.95, ATEMPOREL
+- opérations lecture-écriture (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
-- [[kb/_entites-mineures#mémoire-procédurale\|mémoire procédurale]] (CONCEPT) — 0.90, ATEMPOREL
+- mémoire procédurale (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
-- [[kb/_entites-mineures#mémoire-sémantique\|mémoire sémantique]] (CONCEPT) — 0.90, ATEMPOREL
+- mémoire sémantique (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
-- [[kb/_entites-mineures#mémoire-épisodique\|mémoire épisodique]] (CONCEPT) — 0.90, ATEMPOREL
+- mémoire épisodique (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
 ## Fiches sources

@@ -12,7 +12,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#codage-logiciel\|codage logiciel]] (CONCEPT) — 0.88, DYNAMIQUE
+- codage logiciel (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|The AI Platform Shift: Redefining What Software Is, and How Leaders Should Respond]]
 
 ### fait_partie_de

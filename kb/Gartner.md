@@ -11,7 +11,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#AIOps\|AIOps]] (CONCEPT) — 0.95, STATIQUE
+- AIOps (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 
 ### mesure

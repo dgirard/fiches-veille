@@ -15,7 +15,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#déploiement-one-click\|déploiement one-click]] (CONCEPT) — 0.98, STATIQUE
+- déploiement one-click (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 
 ### utilise

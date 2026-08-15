@@ -1,6 +1,8 @@
 # Perplexity
 
-> **Type** : ORGANISATION | 12 relations | 4 fiches sources
+> **Type** : ORGANISATION | 12 relations | 5 fiches sources
+
+> **Même entité, autre type** : [[kb/Perplexity-technologie\|Perplexity (TECHNOLOGIE)]]
 
 ## Attributs
 
@@ -10,12 +12,12 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#compétition-d'inscriptions-sur-campus-(2024)\|compétition d'inscriptions sur campus (2024)]] (EVENEMENT) — 0.95, STATIQUE
+- compétition d'inscriptions sur campus (2024) (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 
 ### améliore
 
-- [[kb/_entites-mineures#moteur-de-recherche\|moteur de recherche]] (CONCEPT) — 0.88, DYNAMIQUE
+- moteur de recherche (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|The AI Platform Shift: Redefining What Software Is, and How Leaders Should Respond]]
 
 ### concurrence
@@ -35,27 +37,27 @@
 
 ### permet
 
-- [[kb/_entites-mineures#réponses-synthétisées-par-IA\|réponses synthétisées par IA]] (CONCEPT) — 0.95, DYNAMIQUE
+- réponses synthétisées par IA (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
 ### réduit
 
-- [[kb/_entites-mineures#friction-d'adoption\|friction d'adoption]] (CONCEPT) — 0.92, STATIQUE
+- friction d'adoption (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
 ### référence
 
-- [[kb/_entites-mineures#sources-d'information\|sources d'information]] (CONCEPT) — 0.93, DYNAMIQUE
+- sources d'information (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
 ### s_applique_à
 
-- [[kb/_entites-mineures#Discovery-expansion\|Discovery / expansion]] (METHODOLOGIE) — 0.94, DYNAMIQUE
+- Discovery / expansion (METHODOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-03/pawlowski-strategy-stack-ai-market-research-tension-map-2026-03-30\|How to Use AI for Market Research (Step-by-Step Guide) — AI Market Research Tension Map]]
 
 ### soutient
 
-- [[kb/_entites-mineures#arguments-antitrust-contre-Google\|arguments antitrust contre Google]] (CONCEPT) — 0.82, DYNAMIQUE
+- arguments antitrust contre Google (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 
 ### utilise
@@ -71,5 +73,6 @@
 
 - [[fiches/2025-10/ai-platform-shift-ensarguet-2025-10-15\|The AI Platform Shift: Redefining What Software Is, and How Leaders Should Respond]]
 - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
+- [[fiches/2025-02/graphite-aeo-is-the-new-seo-2025-02-01\|Answer Engine Optimization (AEO) Is The New SEO]]
 - [[fiches/2025-10/perplexity-chrome-integration-browser-ai-search-2025-10-22\|Perplexity Integrates Directly into Chrome Browser, Challenging Google Search Dominance]]
 - [[fiches/2025-11/shopify-ai-traffic-orders-growth-techcrunch-2025-11-04\|Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x]]

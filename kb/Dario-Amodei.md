@@ -10,7 +10,7 @@
 
 ### affine
 
-- [[kb/_entites-mineures#définition-du-vibe-coding\|définition du vibe coding]] (CONCEPT) — 0.85, STATIQUE
+- définition du vibe coding (CONCEPT) — 0.85, STATIQUE
   - [[fiches/2025-11/yegge-kim-year-ide-died-vibe-coding-2025-11-23\|2026: The Year the IDE Died & Vibe Coding]]
 
 ### affirme_que

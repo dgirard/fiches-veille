@@ -22,19 +22,19 @@
 
 ### résout
 
-- [[kb/_entites-mineures#fenêtres-de-contexte-limitées\|fenêtres de contexte limitées]] (CONCEPT) — 0.95, ATEMPOREL
+- fenêtres de contexte limitées (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 
 ### utilise
 
-- [[kb/_entites-mineures#vector-databases\|vector databases]] (TECHNOLOGIE) — 0.93, ATEMPOREL
+- [[kb/_entites-mineures#Vector-Databases\|vector databases]] (TECHNOLOGIE) — 0.93, ATEMPOREL
   - [[fiches/2025-11/monigatti-rag-to-agent-memory-evolution-2025-11-03\|The Evolution from RAG to Agentic RAG to Agent Memory]]
 
 ## Relations (comme objet)
 
 - [[kb/_entites-mineures#Agentic-RAG\|Agentic RAG]] **est_basé_sur** → RAG — 0.97
 - [[kb/GKG\|GKG]] **surpasse** → RAG — 0.97
-- [[kb/_entites-mineures#cascade-d'échecs-en-cinq-étapes\|cascade d'échecs en cinq étapes]] **observé_dans** → RAG — 0.93
+- cascade d'échecs en cinq étapes **observé_dans** → RAG — 0.93
 - [[kb/IA-agentique\|IA agentique]] **remplace** → RAG — 0.90
 - [[kb/Claude-Code\|Claude Code]] **remplace** → RAG — 0.88
 - [[kb/Enterprise-Knowledge-Fabric\|Enterprise Knowledge Fabric]] **surpasse** → RAG — 0.88

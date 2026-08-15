@@ -31,12 +31,12 @@
 
 ### surpasse
 
-- [[kb/_entites-mineures#Gemini-2.0-Flash-Lite\|Gemini 2.0 Flash-Lite]] (TECHNOLOGIE) — 0.95, STATIQUE
+- Gemini 2.0 Flash-Lite (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ### utilise
 
-- [[kb/_entites-mineures#Grounding-with-Google-Search\|Grounding with Google Search]] (TECHNOLOGIE) — 0.97, STATIQUE
+- Grounding with Google Search (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 
 ## Relations (comme objet)

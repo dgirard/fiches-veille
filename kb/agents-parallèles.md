@@ -13,9 +13,9 @@
 
 - [[kb/_entites-mineures#Docker\|Docker]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
-- [[kb/_entites-mineures#synchronisation-par-fichiers-verrou\|synchronisation par fichiers verrou]] (METHODOLOGIE) — 0.97, STATIQUE
+- synchronisation par fichiers verrou (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
-- [[kb/_entites-mineures#GCC-(oracle-de-référence)\|GCC (oracle de référence)]] (TECHNOLOGIE) — 0.95, STATIQUE
+- GCC (oracle de référence) (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
 ## Relations (comme objet)

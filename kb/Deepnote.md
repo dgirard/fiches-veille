@@ -13,7 +13,7 @@
 
 ### est_basé_sur
 
-- [[kb/_entites-mineures#Jupyter-kernel\|Jupyter kernel]] (TECHNOLOGIE) — 0.97, STATIQUE
+- Jupyter kernel (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 
 ### mesure
@@ -37,13 +37,13 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#licence-Apache-2.0\|licence Apache-2.0]] (CONCEPT) — 0.99, STATIQUE
+- licence Apache 2.0 (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 - [[kb/_entites-mineures#format-.deepnote\|format .deepnote]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
-- [[kb/_entites-mineures#AI-agent-natif\|AI agent natif]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- AI agent natif (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
-- [[kb/_entites-mineures#exécution-réactive\|exécution réactive]] (CONCEPT) — 0.90, STATIQUE
+- exécution réactive (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
 
 ## Relations (comme objet)

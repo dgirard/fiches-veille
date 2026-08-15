@@ -1,6 +1,6 @@
 # IA générative
 
-> **Type** : TECHNOLOGIE | 21 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 22 relations | 4 fiches sources
 
 ## Attributs
 
@@ -18,53 +18,55 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#développement-logiciel-interne\|développement logiciel interne]] (CONCEPT) — 0.97, DYNAMIQUE
+- développement logiciel interne (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
-- [[kb/_entites-mineures#productivité-développeurs\|productivité développeurs]] (CONCEPT) — 0.95, DYNAMIQUE
+- productivité développeurs (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
-- [[kb/_entites-mineures#structures-organisationnelles\|structures organisationnelles]] (CONCEPT) — 0.93, DYNAMIQUE
+- structures organisationnelles (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11\|The Gen AI Playbook for Organizations]]
-- [[kb/_entites-mineures#vitesse-d'exécution-des-ingénieurs\|vitesse d'exécution des ingénieurs]] (CONCEPT) — 0.93, ATEMPOREL
+- vitesse d'exécution des ingénieurs (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
-- [[kb/_entites-mineures#productivité-des-fonctions-PM-PO-Scrum-Master\|productivité des fonctions PM / PO / Scrum Master]] (CONCEPT) — 0.86, DYNAMIQUE
+- productivité des fonctions PM / PO / Scrum Master (CONCEPT) — 0.86, DYNAMIQUE
   - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
 ### permet
 
-- [[kb/_entites-mineures#contributions-plausibles-sans-effort-ni-compréhension\|contributions plausibles sans effort ni compréhension]] (CONCEPT) — 0.97, DYNAMIQUE
+- contributions plausibles sans effort ni compréhension (CONCEPT) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
-- [[kb/_entites-mineures#démocratisation-création-logicielle\|démocratisation création logicielle]] (CONCEPT) — 0.94, DYNAMIQUE
+- démocratisation création logicielle (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2025-11/greyling-software-cost-collapse-permissionless-2025-11-04\|The Next Collapsing Tech Cost Is Software Itself]]
-- [[kb/_entites-mineures#le-boundary-spanning-raisonner-au-delà-de-son-domaine-d'origine\|le boundary-spanning : raisonner au-delà de son domaine d'origine]] (CONCEPT) — 0.93, ATEMPOREL
+- le boundary-spanning : raisonner au-delà de son domaine d'origine (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « des gains de productivité individuels de +14 % (service client) à +26 % (développeurs) » (MESURE) — 0.90, STATIQUE
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
-- [[kb/_entites-mineures#génération-de-code-et-de-conception-à-la-demande\|génération de code et de conception à la demande]] (CONCEPT) — 0.90, ATEMPOREL
+- génération de code et de conception à la demande (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 
 ### remplace
 
-- [[kb/_entites-mineures#signal-d'effort-écrit\|signal d'effort écrit]] (CONCEPT) — 0.94, DYNAMIQUE
+- signal d'effort écrit (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
 ### réduit
 
-- [[kb/_entites-mineures#temps-de-prototypage-(semaines-→-heures)\|temps de prototypage (semaines → heures)]] (CONCEPT) — 0.95, DYNAMIQUE
+- cout de l'execution cognitive (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
+- temps de prototypage (semaines → heures) (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
-- [[kb/_entites-mineures#valeur-des-documents-comme-signaux\|valeur des documents comme signaux]] (CONCEPT) — 0.93, DYNAMIQUE
+- valeur des documents comme signaux (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 - « les silos fonctionnels (les solutions cessent d'être marquées par le métier d'origine) » (AFFIRMATION) — 0.92, DYNAMIQUE
   - [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 - « le coût et la durée du SDLC : implémentation de semaines à heures » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
-- [[kb/_entites-mineures#la-demande-de-travail-via-l'effet-de-déplacement-(substitution-de-tâches)\|la demande de travail via l'effet de déplacement (substitution de tâches)]] (CONCEPT) — 0.88, DYNAMIQUE
+- la demande de travail via l'effet de déplacement (substitution de tâches) (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
 - « l'emploi des juniors exposés (−16 % chez les 22-25 ans aux US) » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-07/sfeir-ia-emploi-risque-decrochage-2026-07-23\|IA et emploi : le vrai risque, c'est le décrochage]]
 
 ### surpasse
 
-- [[kb/_entites-mineures#ingénieur-humain-(2×-à-10×-plus-efficace)\|ingénieur humain (2× à 10× plus efficace)]] (CONCEPT) — 0.90, DYNAMIQUE
+- ingénieur humain (2× à 10× plus efficace) (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
 ## Relations (comme objet)

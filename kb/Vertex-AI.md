@@ -11,7 +11,7 @@
 
 ### permet
 
-- [[kb/_entites-mineures#sélection-du-modèle-selon-le-besoin\|sélection du modèle selon le besoin]] (CONCEPT) — 0.88, DYNAMIQUE
+- sélection du modèle selon le besoin (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
 ## Relations (comme objet)

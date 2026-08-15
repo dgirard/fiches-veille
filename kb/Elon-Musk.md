@@ -19,7 +19,7 @@
 
 - [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
-- [[kb/_entites-mineures#Tesla\|Tesla]] (ORGANISATION) — 0.95, DYNAMIQUE
+- Tesla (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
 ### prédit

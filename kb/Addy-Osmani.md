@@ -12,7 +12,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#distinction-mode-conducteur-vs-orchestrateur\|distinction mode conducteur vs orchestrateur]] (CONCEPT) — 0.97, STATIQUE
+- distinction mode conducteur vs orchestrateur (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-11/osmani-conductors-orchestrators-agentic-coding-2025-11-01\|Conductors to Orchestrators: The Future of Agentic Coding]]
 - [[kb/The-New-SDLC-With-Vibe-Coding\|The New SDLC With Vibe Coding]] (DOCUMENT) — 0.95, STATIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
@@ -42,31 +42,31 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Cognitive-Surrender\|Cognitive Surrender]] (DOCUMENT) — 0.99, STATIQUE
+- article Cognitive Surrender (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
-- [[kb/_entites-mineures#guide-specs-agents-IA\|guide specs agents IA]] (DOCUMENT) — 0.98, STATIQUE
+- guide specs agents IA (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 - [[kb/Loop-Engineering\|Loop Engineering]] (METHODOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 
 ### recommande
 
-- [[kb/_entites-mineures#5-heuristiques-personnelles-anti-surrender\|5 heuristiques personnelles anti-surrender]] (METHODOLOGIE) — 0.97, ATEMPOREL
+- 5 heuristiques personnelles anti-surrender (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
-- [[kb/_entites-mineures#6-garde-fous-structurels-organisationnels\|6 garde-fous structurels organisationnels]] (METHODOLOGIE) — 0.97, ATEMPOREL
+- 6 garde-fous structurels organisationnels (METHODOLOGIE) — 0.97, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
-- [[kb/_entites-mineures#PRs-~100-lignes-max\|PRs ~100 lignes max]] (METHODOLOGIE) — 0.94, ATEMPOREL
+- PRs ~100 lignes max (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
-- [[kb/_entites-mineures#solo-keyboard-time-régulier\|solo keyboard time régulier]] (METHODOLOGIE) — 0.94, ATEMPOREL
+- solo keyboard time régulier (METHODOLOGIE) — 0.94, ATEMPOREL
   - [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
 - « traiter les agents IA comme des stagiaires compétents » (AFFIRMATION) — 0.88, ATEMPOREL
   - [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#conflation-vibe-coding-engineering\|conflation vibe coding / engineering]] (CONCEPT) — 0.98, STATIQUE
+- conflation vibe coding / engineering (CONCEPT) — 0.98, STATIQUE
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
 ### travaille_chez

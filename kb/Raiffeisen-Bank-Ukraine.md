@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#sept-produits-IA-inédits-en-12-mois\|sept produits IA inédits en 12 mois]] (CONCEPT) — 0.96, STATIQUE
+- sept produits IA inédits en 12 mois (CONCEPT) — 0.96, STATIQUE
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ### mesure
@@ -22,12 +22,12 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#effectif-de-75-personnes-(dont-64-ingénieurs)-en-12-mois\|effectif de 75 personnes (dont 64 ingénieurs) en 12 mois]] (CONCEPT) — 0.95, STATIQUE
+- effectif de 75 personnes (dont 64 ingénieurs) en 12 mois (CONCEPT) — 0.95, STATIQUE
   - [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
 
 ## Relations (comme objet)
 
-- [[kb/_entites-mineures#Retour-des-architectes-seniors-au-développement-actif\|Retour des architectes seniors au développement actif]] **observé_dans** → Raiffeisen Bank Ukraine — 0.92
+- Retour des architectes seniors au développement actif **observé_dans** → Raiffeisen Bank Ukraine — 0.92
 
 ## Fiches sources
 

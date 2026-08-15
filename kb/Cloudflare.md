@@ -36,7 +36,7 @@
 
 ### s_inspire_de
 
-- [[kb/_entites-mineures#l'appariement-entre-URL-et-adresse-IP-dans-le-DNS\|l'appariement entre URL et adresse IP dans le DNS]] (CONCEPT) — 0.90, ATEMPOREL
+- l'appariement entre URL et adresse IP dans le DNS (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
 ### s_oppose_à

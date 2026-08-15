@@ -26,11 +26,11 @@
 - [[kb/devboxes\|devboxes]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- [[kb/_entites-mineures#goose-(fork)\|goose (fork)]] (TECHNOLOGIE) — 0.96, DYNAMIQUE
+- goose (fork) (TECHNOLOGIE) — 0.96, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
 - [[kb/_entites-mineures#fichiers-de-règles-partagés\|fichiers de règles partagés]] (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
-- [[kb/_entites-mineures#maximum-de-2-cycles-CI\|maximum de 2 cycles CI]] (CONCEPT) — 0.90, DYNAMIQUE
+- maximum de 2 cycles CI (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 
 ## Relations (comme objet)

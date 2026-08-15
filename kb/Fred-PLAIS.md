@@ -24,7 +24,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#AI-made-your-engineers-fast.-Too-fast-to-leave-room-for-the-rest-of-the-org-to-think.\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]] (DOCUMENT) — 0.97, STATIQUE
+- AI made your engineers fast. Too fast to leave room for the rest of the org to think. (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
 ### recommande

@@ -1,20 +1,20 @@
 # Knowledge Base — Veille Technologique
 
-<!-- manifest: sha256=1a3d1d638bbe4e06dfe63bc4059d992cebdac4c86ea7835dcbfe0dd8230ce74f fiches=386 -->
-> 386 fiches | 3100 entités | 5853 triples | Généré le 2026-08-15
+<!-- manifest: sha256=5bcad9e9eb1f9478c16e97e9b32044697db9b9e38111b902a52ef5840e8a93ad fiches=386 -->
+> 386 fiches | 3093 entités | 5853 triples | Généré le 2026-08-15
 
 ## Navigation
 
 - [[kb/_index-entites\|Index alphabétique]]
 - [[kb/_index-type-PERSONNE\|PERSONNE]] (493)
-- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (380)
-- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (720)
+- [[kb/_index-type-ORGANISATION\|ORGANISATION]] (378)
+- [[kb/_index-type-TECHNOLOGIE\|TECHNOLOGIE]] (717)
 - [[kb/_index-type-CONCEPT\|CONCEPT]] (919)
-- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (406)
+- [[kb/_index-type-METHODOLOGIE\|METHODOLOGIE]] (404)
 - [[kb/_index-type-EVENEMENT\|EVENEMENT]] (46)
 - [[kb/_index-type-LIEU\|LIEU]] (5)
 - [[kb/_index-type-DOCUMENT\|DOCUMENT]] (131)
-- [[kb/_entites-mineures\|Entités mineures]] (2645)
+- [[kb/_entites-mineures\|Entités mineures]] (2634)
 
 ## Entités les plus connectées
 
@@ -27,7 +27,7 @@
 | [[kb/OpenAI\|OpenAI]] | ORGANISATION | 54 | 21 |
 | [[kb/Google\|Google]] | ORGANISATION | 49 | 16 |
 | [[kb/Mistral-AI\|Mistral AI]] | ORGANISATION | 42 | 6 |
-| [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 38 | 21 |
+| [[kb/vibe-coding\|vibe coding]] | METHODOLOGIE | 38 | 22 |
 | [[kb/Block\|Block]] | ORGANISATION | 37 | 7 |
 | [[kb/Boris-Cherny\|Boris Cherny]] | PERSONNE | 35 | 11 |
 | [[kb/IA\|IA]] | TECHNOLOGIE | 35 | 4 |
@@ -64,10 +64,10 @@
 ### Distribution par type
 
 - **PERSONNE** : 493 (15.9%)
-- **ORGANISATION** : 380 (12.3%)
-- **TECHNOLOGIE** : 720 (23.2%)
-- **CONCEPT** : 919 (29.6%)
-- **METHODOLOGIE** : 406 (13.1%)
+- **ORGANISATION** : 378 (12.2%)
+- **TECHNOLOGIE** : 717 (23.2%)
+- **CONCEPT** : 919 (29.7%)
+- **METHODOLOGIE** : 404 (13.1%)
 - **EVENEMENT** : 46 (1.5%)
 - **LIEU** : 5 (0.2%)
 - **DOCUMENT** : 131 (4.2%)
@@ -75,4 +75,4 @@
 ### Déduplication
 
 - **Triples** : 5956 → 5853 (103 doublons)
-- **Entités** : 4036 → 3100 (936 doublons)
+- **Entités** : 4036 → 3093 (943 doublons)

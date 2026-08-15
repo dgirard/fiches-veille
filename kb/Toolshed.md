@@ -10,9 +10,9 @@
 ## Relations (comme objet)
 
 - [[kb/Stripe\|Stripe]] **utilise** → Toolshed — 0.97
-- [[kb/_entites-mineures#400+-outils-MCP\|400+ outils MCP]] **fait_partie_de** → Toolshed — 0.96
+- 400+ outils MCP **fait_partie_de** → Toolshed — 0.96
 - [[kb/Stripe\|Stripe]] **a_créé** → Toolshed — 0.94
-- [[kb/_entites-mineures#~500-outils-MCP\|~500 outils MCP]] **fait_partie_de** → Toolshed — 0.93
+- ~500 outils MCP **fait_partie_de** → Toolshed — 0.93
 - [[kb/Cloudflare\|Cloudflare]] **a_créé** → Toolshed — 0.90
 
 ## Fiches sources

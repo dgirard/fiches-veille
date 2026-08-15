@@ -10,9 +10,9 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#qualité-du-code\|qualité du code]] (CONCEPT) — 0.96, ATEMPOREL
+- qualité du code (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
-- [[kb/_entites-mineures#nombre-de-décisions-conséquentes-par-heure\|nombre de décisions conséquentes par heure]] (CONCEPT) — 0.91, ATEMPOREL
+- nombre de décisions conséquentes par heure (CONCEPT) — 0.91, ATEMPOREL
   - [[fiches/2025-06/augmented-coding-beyond-vibes-kent-beck-2025-06-25\|Augmented Coding: Beyond the Vibes - by Kent Beck]]
 
 ### s_oppose_à

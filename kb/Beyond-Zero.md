@@ -20,7 +20,7 @@
 
 ### converge_avec
 
-- [[kb/_entites-mineures#la-doctrine-d'identité-agentique-de-Uber-(actor-chain,-tokens-single-hop)\|la doctrine d'identité agentique de Uber (actor chain, tokens single-hop)]] (CONCEPT) — 0.82, DYNAMIQUE
+- la doctrine d'identité agentique de Uber (actor chain, tokens single-hop) (CONCEPT) — 0.82, DYNAMIQUE
   - [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
 
 ### est_basé_sur

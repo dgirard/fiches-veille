@@ -31,12 +31,12 @@
 
 - [[kb/AI-works\|AI/works™]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
-- [[kb/_entites-mineures#article-Kamelman-2025-12-03\|article Kamelman 2025-12-03]] (DOCUMENT) — 0.96, STATIQUE
+- article Kamelman 2025-12-03 (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#consultant-crowds-(grands-intégrateurs)\|consultant crowds (grands intégrateurs)]] (CONCEPT) — 0.93, DYNAMIQUE
+- consultant crowds (grands intégrateurs) (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
 
 ## Relations (comme objet)

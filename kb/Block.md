@@ -90,7 +90,7 @@
 
 ### réduit
 
-- [[kb/_entites-mineures#~50%-des-effectifs-en-mars-2026\|~50% des effectifs en mars 2026]] (CONCEPT) — 0.97, STATIQUE
+- ~50% des effectifs en mars 2026 (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 - « ses effectifs d'environ 4 000 personnes, soit ~40 %, lors d'une réorganisation centrée sur l'IA six mois plus tôt » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]

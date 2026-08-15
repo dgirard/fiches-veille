@@ -233,7 +233,7 @@ Cherny raconte la **genèse de Claude Code** comme un récit pré-PMF assumé. I
 | Boris Cherny | PERSONNE | affirme_que | il n'a pas écrit une seule ligne de code en 2026 | AFFIRMATION | 0.97 | STATIQUE | déclaré_article |
 | Boris Cherny | PERSONNE | mesure | 150 PRs en une journée (record) | MESURE | 0.97 | STATIQUE | déclaré_article |
 | Anthropic Labs | ORGANISATION | a_créé | Claude Code, MCP, app desktop | TECHNOLOGIE | 0.97 | STATIQUE | déclaré_article |
-| Mike Krieger | PERSONNE | dirige | round 2 Anthropic Labs | ORGANISATION | 0.96 | DYNAMIQUE | déclaré_article |
+| Mike Krieger | PERSONNE | dirige | round 2 Anthropic Labs | EVENEMENT | 0.96 | DYNAMIQUE | déclaré_article |
 | Opus 4 | TECHNOLOGIE | permet | exponential growth Claude Code en mai 2025 | EVENEMENT | 0.97 | STATIQUE | déclaré_article |
 | /loop | TECHNOLOGIE | utilise | cron pour repeat jobs | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Boris Cherny | PERSONNE | affirme_que | "loops are the future" | CITATION | 0.96 | DYNAMIQUE | déclaré_article |

@@ -17,7 +17,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#environnement-persistant-24-7\|environnement persistant 24/7]] (CONCEPT) — 0.92, DYNAMIQUE
+- environnement persistant 24/7 (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
 
 ## Relations (comme objet)

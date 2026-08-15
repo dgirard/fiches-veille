@@ -40,13 +40,13 @@
 
 - [[kb/Toolshed\|Toolshed]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
-- [[kb/_entites-mineures#Ruby-avec-Sorbet\|Ruby avec Sorbet]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- Ruby avec Sorbet (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 - [[kb/_entites-mineures#shift-feedback-left\|shift feedback left]] (METHODOLOGIE) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
-- [[kb/_entites-mineures#format-Cursor-(règles)\|format Cursor (règles)]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+- format Cursor (règles) (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
-- [[kb/_entites-mineures#Pre-push-hooks-et-blueprints\|Pre-push hooks et blueprints]] (METHODOLOGIE) — 0.92, DYNAMIQUE
+- Pre-push hooks et blueprints (METHODOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 
 ## Fiches sources

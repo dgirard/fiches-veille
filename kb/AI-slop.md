@@ -11,12 +11,12 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#code-compilable-mais-dégradant-à-long-terme\|code compilable mais dégradant à long terme]] (CONCEPT) — 0.95, ATEMPOREL
+- code compilable mais dégradant à long terme (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04\|Developer Taste: Separating Good Code from AI Slop]]
 
 ### permet
 
-- [[kb/_entites-mineures#burnout-des-mainteneurs\|burnout des mainteneurs]] (CONCEPT) — 0.92, DYNAMIQUE
+- burnout des mainteneurs (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
 
 ## Fiches sources

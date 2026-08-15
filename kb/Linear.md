@@ -20,12 +20,12 @@
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#outil-de-gestion-de-projet-AI-first\|outil de gestion de projet AI-first]] (CONCEPT) — 0.99, STATIQUE
+- outil de gestion de projet AI-first (CONCEPT) — 0.99, STATIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
 ### surpasse
 
-- [[kb/_entites-mineures#Jira-(parts-de-marché-chez-les-startups)\|Jira (parts de marché chez les startups)]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+- Jira (parts de marché chez les startups) (TECHNOLOGIE) — 0.90, DYNAMIQUE
   - [[fiches/2025-05/linear-ai-first-issue-tracking-reimagined-2025-05-01\|Linear: AI-First Issue Tracking Reimagined]]
 
 ### utilise

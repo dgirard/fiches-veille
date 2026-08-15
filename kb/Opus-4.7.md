@@ -12,7 +12,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#1MM-context-window\|1MM context window]] (CONCEPT) — 0.97, STATIQUE
+- 1MM context window (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
 ## Relations (comme objet)

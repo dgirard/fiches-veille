@@ -26,7 +26,7 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#ATDD-comme-spécification-exécutable\|ATDD comme spécification exécutable]] (METHODOLOGIE) — 0.94, DYNAMIQUE
+- ATDD comme spécification exécutable (METHODOLOGIE) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
 
 ## Fiches sources

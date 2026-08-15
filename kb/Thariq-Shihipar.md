@@ -23,7 +23,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#équipe-Claude-Code\|équipe Claude Code]] (ORGANISATION) — 0.97, DYNAMIQUE
+- équipe Claude Code (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
@@ -34,23 +34,23 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#HTML-comme-format-de-sortie-par-défaut\|HTML comme format de sortie par défaut]] (METHODOLOGIE) — 0.98, ATEMPOREL
+- HTML comme format de sortie par défaut (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 - « ne pas documenter ce que Claude sait déjà » (AFFIRMATION) — 0.92, ATEMPOREL
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#skill-ification-prématurée-du-pattern-HTML\|skill-ification prématurée du pattern HTML]] (CONCEPT) — 0.95, ATEMPOREL
+- skill-ification prématurée du pattern HTML (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
 
 ### travaille_chez
 
 - [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.97, DYNAMIQUE
   - [[fiches/2026-05/shihipar-claude-code-html-unreasonable-effectiveness-markdown-2026-05-10\|Using Claude Code: The Unreasonable Effectiveness of HTML]]
-- [[kb/_entites-mineures#équipe-Claude-Code\|équipe Claude Code]] (ORGANISATION) — 0.95, DYNAMIQUE
+- équipe Claude Code (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/willison-fable-judgement-delegation-subagents-2026-07-03\|Fable's judgement]]
-- [[kb/_entites-mineures#équipe-Claude-Code-(Anthropic)\|équipe Claude Code (Anthropic)]] (ORGANISATION) — 0.95, DYNAMIQUE
+- équipe Claude Code (Anthropic) (ORGANISATION) — 0.95, DYNAMIQUE
   - [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
 ## Relations (comme objet)

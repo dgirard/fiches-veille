@@ -17,7 +17,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#Tech-predictions-for-2026-and-beyond\|Tech predictions for 2026 and beyond]] (DOCUMENT) — 0.98, STATIQUE
+- Tech predictions for 2026 and beyond (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
 
 ### travaille_chez

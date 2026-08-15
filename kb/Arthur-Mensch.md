@@ -55,9 +55,9 @@
 
 ### collabore_avec
 
-- [[kb/_entites-mineures#commission-d'enquête-vulnérabilités-numériques-Assemblée-nationale-(audition-sous-serment)\|commission d'enquête vulnérabilités numériques Assemblée nationale (audition sous serment)]] (ORGANISATION) — 0.99, STATIQUE
+- commission d'enquête vulnérabilités numériques Assemblée nationale (audition sous serment) (ORGANISATION) — 0.99, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#Guillaume-Lample-et-Timothée-Lacroix-(cofondation-28-avril-2023)\|Guillaume Lample et Timothée Lacroix (cofondation 28 avril 2023)]] (PERSONNE) — 0.99, STATIQUE
+- Guillaume Lample et Timothée Lacroix (cofondation 28 avril 2023) (PERSONNE) — 0.99, STATIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### dirige
@@ -85,20 +85,20 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#souveraineté-comme-levier-pas-isolationnisme\|souveraineté comme levier pas isolationnisme]] (METHODOLOGIE) — 0.98, ATEMPOREL
+- souveraineté comme levier pas isolationnisme (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#utiliser-commande-publique-comme-levier-stratégique\|utiliser commande publique comme levier stratégique]] (METHODOLOGIE) — 0.98, ATEMPOREL
+- utiliser commande publique comme levier stratégique (METHODOLOGIE) — 0.98, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#droit-de-regard-fournisseur-IA-sur-usage-militaire\|droit de regard fournisseur IA sur usage militaire]] (CONCEPT) — 0.96, ATEMPOREL
+- droit de regard fournisseur IA sur usage militaire (CONCEPT) — 0.96, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#récit-US-dévaluant-la-régulation-EU-internalisé-par-les-Européens\|récit US dévaluant la régulation EU internalisé par les Européens]] (CONCEPT) — 0.95, DYNAMIQUE
+- récit US dévaluant la régulation EU internalisé par les Européens (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#compensation-carbone\|compensation carbone]] (CONCEPT) — 0.94, ATEMPOREL
+- compensation carbone (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
-- [[kb/_entites-mineures#marketing-de-la-peur-de-concurrent-américain\|marketing de la peur de concurrent américain]] (CONCEPT) — 0.94, DYNAMIQUE
+- marketing de la peur de concurrent américain (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/mensch-mistral-commission-enquete-vulnerabilites-numeriques-souverainete-ia-2026-05-13\|Arthur Mensch (MistralAI) devant la commission d'enquête sur les vulnérabilités numériques — compte de l'Assemblée…]]
 
 ## Fiches sources

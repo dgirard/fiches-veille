@@ -21,7 +21,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#Champions-IA\|Champions IA]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/_entites-mineures#champions-IA\|champions IA]] (METHODOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-03/almia-ag2r-plateforme-ia-generative-deep-research-2026-03\|RAPPORT D'ANALYSE — ALMIA : La plateforme d'IA générative d'AG2R LA MONDIALE]]
 
 ## Fiches sources

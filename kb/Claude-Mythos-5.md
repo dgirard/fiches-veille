@@ -26,7 +26,7 @@
 
 ### surpasse
 
-- [[kb/_entites-mineures#modèles-spécialisés-de-design-de-protéines\|modèles spécialisés de design de protéines]] (TECHNOLOGIE) — 0.85, STATIQUE
+- modèles spécialisés de design de protéines (TECHNOLOGIE) — 0.85, STATIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
 ## Relations (comme objet)

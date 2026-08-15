@@ -45,7 +45,7 @@
 
 ### publie
 
-- [[kb/_entites-mineures#The-pattern-lineage\|The pattern lineage]] (DOCUMENT) — 0.98, STATIQUE
+- The pattern lineage (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
 ### recommande

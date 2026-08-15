@@ -11,7 +11,7 @@
 
 ### améliore
 
-- [[kb/_entites-mineures#raisonnement-long-contexte-vs-Opus-4.7\|raisonnement long contexte vs Opus 4.7]] (CONCEPT) — 0.90, STATIQUE
+- raisonnement long contexte vs Opus 4.7 (CONCEPT) — 0.90, STATIQUE
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ### mesure

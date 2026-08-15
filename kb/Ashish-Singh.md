@@ -10,7 +10,7 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#New-Engineering-Disciplines-for-the-AI-Era-Part-3-KDLC\|New Engineering Disciplines for the AI Era Part 3: KDLC]] (DOCUMENT) — 0.96, STATIQUE
+- New Engineering Disciplines for the AI Era Part 3: KDLC (DOCUMENT) — 0.96, STATIQUE
   - [[fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28\|New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle]]
 
 ### affirme_que

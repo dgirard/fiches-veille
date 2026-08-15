@@ -10,12 +10,12 @@
 
 ### a_créé
 
-- [[kb/_entites-mineures#évaluations-Next.js-16\|évaluations Next.js 16]] (METHODOLOGIE) — 0.97, STATIQUE
+- évaluations Next.js 16 (METHODOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 
 ### est_instance_de
 
-- [[kb/_entites-mineures#infrastructure-pour-agents-autonomes\|infrastructure pour agents autonomes]] (CONCEPT) — 0.83, DYNAMIQUE
+- infrastructure pour agents autonomes (CONCEPT) — 0.83, DYNAMIQUE
   - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 
 ### publie

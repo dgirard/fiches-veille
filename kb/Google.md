@@ -36,7 +36,7 @@
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#Projet-Aristotle\|Projet Aristotle]] (EVENEMENT) — 0.95, STATIQUE
   - [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]]
-- [[kb/_entites-mineures#TPU-(puces-custom)\|TPU (puces custom)]] (TECHNOLOGIE) — 0.95, STATIQUE
+- TPU (puces custom) (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 
 ### affirme_que
@@ -66,12 +66,12 @@
 
 ### concurrence
 
-- [[kb/_entites-mineures#Microsoft-Bing-Perplexity\|Microsoft Bing / Perplexity]] (ORGANISATION) — 0.78, DYNAMIQUE
+- Microsoft Bing / Perplexity (ORGANISATION) — 0.78, DYNAMIQUE
   - [[fiches/2025-03/google-ai-mode-search-personalized-sites-2025-03-05\|Expanding AI Overviews and introducing AI Mode]]
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#AAIF\|AAIF]] (ORGANISATION) — 0.93, DYNAMIQUE
+- AAIF (ORGANISATION) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 
 ### mesure
@@ -89,7 +89,7 @@
   - [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
 - [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-04/gemini-cli-tos-privacy-google-2025-04-17\|Gemini CLI: Terms of Service and Privacy Notice]]
-- [[kb/_entites-mineures#guide-Demand-Led-Marketing-budget-2026\|guide Demand-Led Marketing budget 2026]] (DOCUMENT) — 0.99, STATIQUE
+- guide Demand-Led Marketing budget 2026 (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 - [[kb/Beyond-Zero\|Beyond Zero]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
@@ -99,7 +99,7 @@
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 - [[kb/design-md\|design.md]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-05/isenberg-meng-to-google-design-md-design-team-in-a-file-2026-05-06\|Google's Design.md is a design team in a file (Greg Isenberg × Meng To)]]
-- [[kb/_entites-mineures#Google-Sans-Flex-en-open-source\|Google Sans Flex en open source]] (TECHNOLOGIE) — 0.95, STATIQUE
+- Google Sans Flex en open source (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-12/google-sans-flex-font-evolution-design-2025-12-18\|Making Google Sans Flex]]
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
@@ -115,7 +115,7 @@
 
 ### surpasse
 
-- [[kb/_entites-mineures#concurrents-dépendants-des-allocations-GPU-Nvidia\|concurrents dépendants des allocations GPU Nvidia]] (CONCEPT) — 0.85, DYNAMIQUE
+- concurrents dépendants des allocations GPU Nvidia (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
 - « OpenAI et Anthropic sur la conscience de la prod » (AFFIRMATION) — 0.80, DYNAMIQUE
   - [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
@@ -124,7 +124,7 @@
 
 - [[kb/_entites-mineures#NotebookLM\|NotebookLM]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
-- [[kb/_entites-mineures#milliards-de-requêtes-de-recherche\|milliards de requêtes de recherche]] (CONCEPT) — 0.94, STATIQUE
+- milliards de requêtes de recherche (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
 
 ## Relations (comme objet)
@@ -136,7 +136,7 @@
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] **travaille_chez** → Google — 0.97
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Google — 0.93
 - [[kb/Block\|Block]] **collabore_avec** → Google — 0.90
-- [[kb/_entites-mineures#contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90
+- [[kb/_entites-mineures#Contrôle-antitrust\|contrôle antitrust]] **s_applique_à** → Google — 0.90
 - [[kb/google-agentic-commerce\|google-agentic-commerce]] **fait_partie_de** → Google — 0.85
 
 ## Fiches sources

@@ -10,7 +10,7 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#3-boucles-de-développement-produit\|3 boucles de développement produit]] (METHODOLOGIE) — 0.92, ATEMPOREL
+- 3 boucles de développement produit (METHODOLOGIE) — 0.92, ATEMPOREL
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
 ### permet
@@ -20,7 +20,7 @@
 
 ### utilise
 
-- [[kb/_entites-mineures#product-specification-et-evals\|product specification et evals]] (CONCEPT) — 0.93, ATEMPOREL
+- product specification et evals (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
 
 ## Fiches sources

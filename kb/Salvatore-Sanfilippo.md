@@ -21,14 +21,14 @@
 
 ### recommande
 
-- [[kb/_entites-mineures#exploration-sérieuse-outils-IA\|exploration sérieuse outils IA]] (METHODOLOGIE) — 0.90, ATEMPOREL
+- exploration sérieuse outils IA (METHODOLOGIE) — 0.90, ATEMPOREL
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 - « voter pour des gouvernements soutenant les personnes affectées par l'automatisation » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
 ### s_oppose_à
 
-- [[kb/_entites-mineures#centralisation-technologique\|centralisation technologique]] (CONCEPT) — 0.88, DYNAMIQUE
+- centralisation technologique (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 
 ### utilise

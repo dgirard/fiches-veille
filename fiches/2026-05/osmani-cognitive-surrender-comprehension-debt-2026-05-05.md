@@ -175,7 +175,7 @@ Osmani propose **deux concepts neufs** : ***Comprehension Debt*** (l'écart croi
 
 | Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
 |-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Addy Osmani | PERSONNE | publie | Cognitive Surrender | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
+| Addy Osmani | PERSONNE | publie | article Cognitive Surrender | DOCUMENT | 0.99 | STATIQUE | déclaré_article |
 | Cognitive Offloading | CONCEPT | s_oppose_à | Cognitive Surrender | CONCEPT | 0.97 | ATEMPOREL | déclaré_article |
 | Addy Osmani | PERSONNE | affirme_que | Cognitive Surrender = "borrowing model's confidence as substitute for personal understanding" | CITATION | 0.97 | ATEMPOREL | déclaré_article |
 | Steven Shaw | PERSONNE | publie | étude 1372 participants Wharton UPenn | DOCUMENT | 0.96 | STATIQUE | déclaré_article |
