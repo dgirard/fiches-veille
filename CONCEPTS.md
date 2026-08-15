@@ -40,6 +40,12 @@ L'assertion élémentaire du graphe, reliant un sujet à un objet par un prédic
 Un objet qui n'est pas une [[Entité]] mais une proposition, un chiffre ou un verbatim se type comme tel et n'entre jamais dans la table des entités.
 
 ### Quasi-doublon
-Deux noms d'[[Entité]] assez proches pour désigner probablement la même chose (casse, accents, séparateurs). Ils sont **signalés à chaque build, jamais fusionnés automatiquement** : l'arbitrage est humain, parce qu'une fusion à l'aveugle détruit une désambiguïsation légitime.
+Deux noms d'[[Entité]] assez proches pour désigner probablement la même chose (casse, accents, séparateurs), observés **à l'échelle du corpus**. Ils sont **signalés à chaque build, jamais fusionnés automatiquement** : l'arbitrage est humain, parce qu'une fusion à l'aveugle détruit une désambiguïsation légitime.
 
 Le rapport ne voit que la **fragmentation** — un même objet éclaté sur plusieurs noms. Il est structurellement aveugle à la **conflation** — plusieurs objets sous un seul nom —, qui ne produit qu'une entité et donc rien à comparer.
+*À ne pas confondre avec :* [[Dérive de nommage]], qui est la même fragmentation observée **à l'intérieur d'une seule fiche**.
+
+### Dérive de nommage
+Un [[Triple]] qui désigne une [[Entité]] par une variante du nom sous lequel la **même fiche** la déclare — un qualificatif ajouté, une parenthèse, un pluriel. La déduplication traitant les deux libellés comme deux entités, le savoir de la fiche se scinde entre deux pages sans que rien ne le signale au lecteur.
+
+Trois issues, et une seule est un renommage : **aligner** le triple sur le nom déclaré quand le référent est le même (la précision descend en attribut) ; **déclarer** l'entité quand le référent est réellement distinct d'un voisin de nom ; **éclater** le triple quand la cellule portait plusieurs entités à la fois — auquel cas ce n'était pas une dérive mais un triple malformé. Déclarer est sûr sur un nom propre et piégeux sur un mot courant : un générique déclaré fait dériver toute phrase qui le contient, si bien que le stock ne décroît qu'en mesurant après chaque vague de corrections. Enfin, un DOCUMENT ou un EVENEMENT porte normalement le nom de ce dont il parle : ce recouvrement-là applique la règle de désambiguïsation et n'est pas une dérive, sauf si les deux côtés portent le même type.
