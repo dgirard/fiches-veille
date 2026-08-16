@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3155 entités
+> 3162 entités
 
 ## #
 
@@ -180,6 +180,7 @@
 - [[kb/_entites-mineures#AI-Daily-Brief\|AI Daily Brief]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-DLC\|AI DLC]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AI-engineering\|AI engineering]] (METHODOLOGIE, 1 fiches)
+- [[kb/AI-Engineering-Skills-Map\|AI Engineering Skills Map]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#AI-Expert-Suite\|AI Expert Suite]] (TECHNOLOGIE, 1 fiches)
 - [[kb/AI-Gateway\|AI Gateway]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#AI-governance-assurance\|AI governance / assurance]] (METHODOLOGIE, 1 fiches)
@@ -288,7 +289,7 @@
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] (PERSONNE, 2 fiches)
-- [[kb/Andrew-Ng\|Andrew Ng]] (PERSONNE, 5 fiches)
+- [[kb/Andrew-Ng\|Andrew Ng]] (PERSONNE, 6 fiches)
 - [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] (PERSONNE, 1 fiches)
@@ -324,6 +325,7 @@
 - [[kb/_entites-mineures#App-d'apprentissage-du-clavier\|App d'apprentissage du clavier]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Apprenticeship-model-collapse\|Apprenticeship model collapse]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-autodidacte\|apprentissage autodidacte]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#apprentissage-continu\|apprentissage continu]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#apprentissage-statistique\|apprentissage statistique]] (CONCEPT, 1 fiches)
 - [[kb/approbation-humaine-par-transaction\|approbation humaine par transaction]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#approche-AI-native\|approche AI-native]] (METHODOLOGIE, 1 fiches)
@@ -751,6 +753,7 @@
 - [[kb/_entites-mineures#Computer-System-Engineers\|Computer System Engineers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Computer-Use\|Computer Use]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#compétence-opérationnelle\|compétence opérationnelle]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#compétences-d'AI-engineering\|compétences d'AI engineering]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#condition-d'arrêt-(stop-condition)\|condition d'arrêt (stop condition)]] (CONCEPT, 1 fiches)
 - [[kb/Conductor\|Conductor]] (TECHNOLOGIE, 2 fiches)
@@ -763,6 +766,7 @@
 - [[kb/_entites-mineures#Confucius\|Confucius]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#conscience-situationnelle\|conscience situationnelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Constellation-Research\|Constellation Research]] (ORGANISATION, 1 fiches)
+- [[kb/construction-et-déploiement-d'applications-IA\|construction et déploiement d'applications IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#consumer-welfare\|consumer welfare]] (CONCEPT, 1 fiches)
 - [[kb/content-engineering\|content engineering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#content-gap-paid-organic\|content gap paid-organic]] (CONCEPT, 1 fiches)
@@ -929,7 +933,7 @@
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#deepagents\|deepagents]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION, 1 fiches)
+- [[kb/DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] (ORGANISATION, 1 fiches)
 - [[kb/Deepnote\|Deepnote]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] (TECHNOLOGIE, 1 fiches)
@@ -1158,6 +1162,7 @@
 - [[kb/_entites-mineures#FastAPI\|FastAPI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#FastCDC\|FastCDC]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#fausse-sécurité\|fausse sécurité]] (CONCEPT, 1 fiches)
+- [[kb/façonner-la-construction\|façonner la construction]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FDA\|FDA]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#feature-factory\|feature factory]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#feature-switch-parameter-service\|feature-switch parameter service]] (CONCEPT, 1 fiches)
@@ -1193,6 +1198,7 @@
 - [[kb/_entites-mineures#follow_author_score\|follow_author_score]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#FOMO-d'agents-24-7\|FOMO d'agents 24/7]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#fondamentaux-de-programmation\|fondamentaux de programmation]] (CONCEPT, 1 fiches)
+- [[kb/fondamentaux-du-génie-logiciel\|fondamentaux du génie logiciel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#fondations-open-source\|fondations open source]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] (CONCEPT, 1 fiches)
@@ -2869,7 +2875,7 @@
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Architect-Elevator\|The Architect Elevator]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] (DOCUMENT, 1 fiches)
-- [[kb/_entites-mineures#The-Batch\|The Batch]] (DOCUMENT, 2 fiches)
+- [[kb/The-Batch\|The Batch]] (DOCUMENT, 3 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Browser-Company\|The Browser Company]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] (CONCEPT, 1 fiches)
@@ -3010,6 +3016,7 @@
 - [[kb/_entites-mineures#usine-logicielle\|usine logicielle]] (CONCEPT, 1 fiches)
 - [[kb/Usine-Logicielle-Augmentée\|Usine Logicielle Augmentée]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Utah\|Utah]] (ORGANISATION, 1 fiches)
+- [[kb/utilisation-des-agents-de-codage\|utilisation des agents de codage]] (CONCEPT, 1 fiches)
 ## V
 
 - [[kb/_entites-mineures#Valence\|Valence]] (ORGANISATION, 1 fiches)

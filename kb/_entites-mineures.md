@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (278)
+## ORGANISATION (277)
 
 ### 10x {#10x}
 
@@ -4440,19 +4440,6 @@
 - **utilise** → RFID end-to-end (puce en entrée de chaîne industrielle) (TECHNOLOGIE) — 0.92
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
-
-### DeepLearning.AI {#DeepLearning.AI}
-
-**Type** : ORGANISATION | 3 relations | 1 fiches
-
-- **secteur** : Éducation IA / médias techniques
-
-- **publie** → [[kb/_entites-mineures#The-Batch\|The Batch]] (DOCUMENT) — 0.99
-- **publie** → [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] (DOCUMENT) — 0.99
-
-- [[kb/Andrew-Ng\|Andrew Ng]] **dirige** → DeepLearning.AI — 0.97
-
-**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 
 ### DeepMind {#DeepMind}
 
@@ -12693,7 +12680,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (895)
+## CONCEPT (897)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17050,6 +17037,17 @@
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
+### apprentissage continu {#apprentissage-continu}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **rôle** : Socle non numéroté que Ng place sous les quatre compétences. Sa formulation opérationnelle est plus utile que le slogan : tenir des routines d'essai de nouveaux outils et faire évoluer ses workflows à mesure que les bonnes pratiques changent — soit un temps à budgéter, pas une disposition d'esprit à souhaiter
+
+- **fait_partie_de** → [[kb/AI-Engineering-Skills-Map\|AI Engineering Skills Map]] (DOCUMENT) — 0.93
+- **s_applique_à** → « les quatre compétences comme socle commun, l'IA continuant de changer vite » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
+
 ### apprentissage statistique {#apprentissage-statistique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17693,6 +17691,17 @@
 - **remplace** → « l'identité statutaire par une identité opératoire » (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
+### compétences d'AI engineering {#compétences-d'AI-engineering}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Catégorie que Ng substitue délibérément au rôle d'« AI Engineer » : un socle attendu de tous les développeurs — full-stack, data, DevOps, machine learning — et non une spécialité signalée par un titre de poste, sur le modèle du cloud, que tous pratiquent et que peu portent dans leur intitulé. Conséquence RH : la voie réaliste est la requalification de l'existant plutôt que le recrutement d'un profil rare ; conséquence commerciale : le marché de la formation passe d'une niche à l'ensemble des développeurs
+
+- **fait_partie_de** → [[kb/AI-Engineering-Skills-Map\|AI Engineering Skills Map]] (DOCUMENT) — 0.95
+- **s_applique_à** → « tous les développeurs — full-stack, data, DevOps, machine learning et AI engineers — et non à une spécialité identifiée par un titre de poste » (AFFIRMATION) — 0.95
+
+**Fiches** : [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 
 ### condition d'arrêt (stop condition) {#condition-d'arrêt-(stop-condition)}
 
@@ -25326,7 +25335,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (114)
+## DOCUMENT (113)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26158,26 +26167,13 @@
 
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
 
-### The Batch {#The-Batch}
-
-**Type** : DOCUMENT | 2 relations | 2 fiches
-
-- **type** : Newsletter hebdomadaire IA, numéro 350
-- **éditeur** : DeepLearning.AI (newsletter, issue 359)
-
-- **référence** → cocktail molotov au domicile de Sam Altman (SF) (EVENEMENT) — 0.92
-
-- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] **publie** → The Batch — 0.99
-
-**Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]], [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
-
 ### The Batch n°352 {#The-Batch-n°352}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
 
 - **type** : Newsletter hebdomadaire IA, 8 mai 2026
 
-- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] **publie** → The Batch n°352 — 0.99
+- [[kb/DeepLearning.AI\|DeepLearning.AI]] **publie** → The Batch n°352 — 0.99
 
 **Fiches** : [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 

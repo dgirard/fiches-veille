@@ -1,12 +1,13 @@
 # Index — DOCUMENT
 
-> 133 entités de type DOCUMENT
+> 134 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] — rôle: Papier décrivant la conception de Cordis, publié par le projet cordiverse et mis en lien de navigation principal sur la page de lancement de DeepSeek Harness, au même rang que le dépôt GitHub et la documentation développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
+- [[kb/AI-Engineering-Skills-Map\|AI Engineering Skills Map]] — définition: Carte des compétences d'AI engineering présentée par Andrew Ng le 14 août 2026 sur X et dans The Batch n°366, adossée à une analyse non publiée de plus de 10 000 offres d'emploi, des dizaines d'entretiens structurés et des sondages. Quatre compétences : construire et déployer des applications IA, fondamentaux du génie logiciel, utilisation des agents de codage, façonner la construction — plus un socle d'apprentissage continu. Double destinataire déclaré : développeurs qui priorisent leur apprentissage, employeurs qui recrutent. ⚠️ Aucun résultat chiffré, aucune pondération, aucune sous-compétence publiée ; la carte détaillée est annoncée pour de futurs billets. C'est l'annonce d'une carte, pas la carte (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Jobs-Transition-Framework\|AI Jobs Transition Framework]] — référence: Cadre antérieur d'OpenAI Economic Research posant que de nombreux métiers vont se réorganiser plutôt que disparaître ; socle doctrinal du rapport sur le task crossover (1 occ., 1 fiches)
 - [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] — catégorie: Projet de loi US (2026) imposant des kill switches et un pouvoir fédéral d'arrêt des systèmes d'IA dangereux (2 occ., 2 fiches)
@@ -94,7 +95,7 @@
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (2 occ., 2 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
-- [[kb/_entites-mineures#The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (2 occ., 2 fiches)
+- [[kb/The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (3 occ., 3 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)
 - [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] — référence: Dell'Acqua, Ayoubi, Lifshitz, Sadun, E. Mollick, L. Mollick, Han, Goldman, Nair, Taub, Lakhani — Organization Science 37(4), 2026, p. 1217-1242 ; expérience préenregistrée chez P&G (791 prof. selon SFEIR, 776 dans le working paper NBER w33641 de mars 2025) (1 occ., 1 fiches)

@@ -39,18 +39,18 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 389 fiches
-- **Par année** : 2026 (212) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 390 fiches
+- **Par année** : 2026 (213) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 140
+  - Agents de codage IA & Skills : 141
   - Architecture & Construction : 51
-  - Transformation & Adoption : 80
+  - Transformation & Adoption : 81
   - Qualité & Sécurité : 40
   - Économie & Marché : 78
   - Philosophie & Société : 23
-  - Stratégie & Frameworks : 23
+  - Stratégie & Frameworks : 24
   - Outils & Plateformes : 48
-  - Recherche & Éducation : 10
+  - Recherche & Éducation : 11
   - Produits & Services : 11
   - Politique & Régulation : 22
 - **Auteurs (top 20)** :
@@ -62,13 +62,13 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
   - Boris Cherny (5)
+  - Andrew Ng (4)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
   - Didier Girard (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
-  - Andrew Ng (3)
   - Dan Shipper (3)
   - Kent Beck (3)
   - Jesse Vincent (3)
@@ -85,6 +85,7 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
+  - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
   - VentureBeat (2)
@@ -94,7 +95,6 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
-  - The Batch / DeepLearning.AI (2)
 
 <!-- stats:end -->
 

@@ -99,7 +99,7 @@
 - [[kb/Decagon\|Decagon]] — positionnement: Éditeur d'agents IA de service client (San Francisco) revendiquant un modèle de livraison piloté par le produit : escalades transformées en exigences plutôt qu'en patchs, deux tiers du travail de déploiement automatisés via Duet, premier AOP lancé en quelques jours chez de grands comptes (chiffres auto-déclarés, août 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] — particularité: Producteur d'une grande partie de ses produits → RFID end-to-end (1 occ., 1 fiches)
 - [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] — rôle: Auteur du rapport ; applique un format What / So What / Now What et consacre une section entière à l'audit de ce que l'enquête n'a pas pu confirmer, motif par motif (2 occ., 2 fiches)
-- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (1 occ., 1 fiches)
+- [[kb/DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (2 occ., 2 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] — rôle: partenaire mentorat (1 occ., 1 fiches)
 - [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (2 occ., 4 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] — secteur: Conseil / Audit (1 occ., 1 fiches)

@@ -32,7 +32,7 @@
 - [[kb/_entites-mineures#Andrew-Carton\|Andrew Carton]] — rôle: Collègue chercheur de Mollick (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Churchill\|Andrew Churchill]] — rôle: Co-fondateur & CTO, ex-employé #1 chez Causal, MIT CS+Math (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
-- [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (5 occ., 5 fiches)
+- [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] — rôle: CEO Amazon ; a chiffré les gains d'Amazon Q (« 4 500 années de développement », 260 M$/an) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] — rôle: Professeur, Harvard Business School (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] — domaine: Sciences comportementales (1 occ., 1 fiches)

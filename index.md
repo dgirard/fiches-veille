@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 389 fiches | 1975-12 → 2026-08-14 | généré le 2026-08-16
+> 390 fiches | 1975-12 → 2026-08-14 | généré le 2026-08-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **14** [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**. · The Batch / DeepLearning.AI — AI Engineering Skills Map, carte des compétences, Andrew Ng
 - **14** [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]). · Z.ai — GLM-5.3, GLM-5.2, Z.ai
 - **13** [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]). · DeepSeek — DeepSeek Harness, dsh, @deepseek-ai/dsh
 - **12** [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. · Deep Research — Buzz, buzz.xyz, Block
@@ -498,6 +499,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
@@ -695,6 +697,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
@@ -928,6 +931,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus avec [[nunez-cherny-claude-code-workflow-venturebeat-2026-01-05]]. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce** — et fait suite à un entretien de juin avec le même interlocuteur, référencé dans le texte.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas** (**ex-Palantir**), d'où la profondeur du récit Palantir dans le texte.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Le texte est signé du seul prénom (*« – Mark »*), daté du 10 août 2026, publié sur un domaine dédié de meta.com. **Il n'est pas signé « Meta » et ce choix est signifiant** : l'auteur alterne systématiquement **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*) et **« I » pour les affirmations contestables ou normatives** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« I predict that this will not only lead to much greater economic growth »*, *« My honest guess, and it is a guess »*). **Ce partage n'est pas un tic de style : il détermine ce qui engage Meta et ce qui n'engage que son dirigeant.** Les engagements produits et de gouvernance sont au « nous » ; **les propositions de politique publique sont au « je »**.
@@ -1005,6 +1009,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Recherche & Éducation
 
+- [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Diffusion Language Models Explained: How Google's Diffusion Gemma Works](fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12.md) — MindStudio Team
 - [Traité d'Architecture Narrative et de Rhétorique de Conférence : Guide Global des Formats et des Structures de Communication](fiches/2026-02/guide-comparatif-formats-conference-narrations-deep-research-2026-02.md) — Deep Research Veille Interne
@@ -1057,18 +1062,18 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 389 fiches
-- **Par année** : 2026 (212) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 390 fiches
+- **Par année** : 2026 (213) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 140
+  - Agents de codage IA & Skills : 141
   - Architecture & Construction : 51
-  - Transformation & Adoption : 80
+  - Transformation & Adoption : 81
   - Qualité & Sécurité : 40
   - Économie & Marché : 78
   - Philosophie & Société : 23
-  - Stratégie & Frameworks : 23
+  - Stratégie & Frameworks : 24
   - Outils & Plateformes : 48
-  - Recherche & Éducation : 10
+  - Recherche & Éducation : 11
   - Produits & Services : 11
   - Politique & Régulation : 22
 - **Auteurs (top 20)** :
@@ -1080,13 +1085,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
   - Boris Cherny (5)
+  - Andrew Ng (4)
   - Kieran Klaassen (4)
   - Olivier Rafal (4)
   - OpenAI (4)
   - Didier Girard (3)
   - Thariq Shihipar (3)
   - Simon Willison (3)
-  - Andrew Ng (3)
   - Dan Shipper (3)
   - Kent Beck (3)
   - Jesse Vincent (3)
@@ -1103,6 +1108,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
+  - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
   - VentureBeat (2)
@@ -1112,4 +1118,3 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
   - CIO-Online (Olivier Rafal) (2)
-  - The Batch / DeepLearning.AI (2)

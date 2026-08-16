@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 41 relations | 22 fiches sources
+> **Type** : METHODOLOGIE | 42 relations | 22 fiches sources
 
 ## Attributs
 
@@ -74,6 +74,8 @@
   - [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 - planification avec IA (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]]
+- « la qualité du résultat lorsqu'il est pratiqué par un développeur inexpérimenté, qui ignore les arbitrages faits par son agent et ne sait donc pas quel contexte lui donner » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 - validation systématique (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era]]
 - [[kb/_entites-mineures#Continuous-Delivery\|Continuous Delivery]] (METHODOLOGIE) — 0.88, ATEMPOREL

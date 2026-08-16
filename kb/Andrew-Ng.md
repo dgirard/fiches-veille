@@ -1,11 +1,11 @@
 # Andrew Ng
 
-> **Type** : PERSONNE | 15 relations | 5 fiches sources
+> **Type** : PERSONNE | 17 relations | 6 fiches sources
 
 ## Attributs
 
 - **affiliation** : DeepLearning.AI
-- **rôle** : Rapporte (AI Startup School, juil. 2025) l'inversion possible du ratio PM/ingénieurs de 1:4 vers 2:1 sous l'effet de la compression du SDLC par l'IA
+- **rôle** : Fondateur de DeepLearning.AI, cofondateur de Coursera et de Google Brain, general partner d'AI Fund. Quatrième fiche du corpus en cinq mois sur l'effet de l'IA sur le travail des développeurs : la carte des compétences d'août 2026 clôt un argument commencé en avril (hiérarchie d'accélération par type de travail), poursuivi en mai (pas d'apocalypse de l'emploi mais un « jobapalooza » aux compétences en évolution) et en juin (les ingénieurs endossent un rôle partiel de product management). Déclare lui-même que son organisation enseigne les compétences qu'il cartographie
 
 ## Relations (comme sujet)
 
@@ -20,6 +20,8 @@
   - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 - « les coding agents accélèrent le frontend plus que le backend, l'infra et la recherche » (AFFIRMATION) — 0.98, STATIQUE
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
+- « il faut parler de compétences d'AI engineering plutôt que du rôle d'AI Engineer, parce que tous les développeurs devraient savoir travailler avec le cloud alors que seul un petit nombre porte le titre de Cloud engineer » (CITATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 - « trois moteurs structurels alimentent le narratif jobpocalypse » (AFFIRMATION) — 0.96, STATIQUE
   - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 - « « AI disrupts work » » (CITATION) — 0.96, ATEMPOREL
@@ -39,9 +41,15 @@
 
 ### dirige
 
-- [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION) — 0.97, DYNAMIQUE
+- [[kb/DeepLearning.AI\|DeepLearning.AI]] (ORGANISATION) — 0.97, DYNAMIQUE
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
   - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
   - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
+
+### publie
+
+- [[kb/AI-Engineering-Skills-Map\|AI Engineering Skills Map]] (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 
 ### recommande
 
@@ -55,6 +63,7 @@
 ## Fiches sources
 
 - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+- [[fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14\|The AI Engineering Skills Map]]
 - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - [[fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08\|The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)]]
 - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (The Batch, Issue 359 — « Dear friends » letter)]]
