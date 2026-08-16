@@ -101,7 +101,7 @@
 - [[kb/Deep-Research-Veille-Interne\|Deep Research Veille Interne]] — rôle: Auteur du rapport ; applique un format What / So What / Now What et consacre une section entière à l'audit de ce que l'enquête n'a pas pu confirmer, motif par motif (2 occ., 2 fiches)
 - [[kb/_entites-mineures#DeepLearning.AI\|DeepLearning.AI]] — secteur: Éducation IA / médias techniques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepMind\|DeepMind]] — rôle: partenaire mentorat (1 occ., 1 fiches)
-- [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (1 occ., 3 fiches)
+- [[kb/DeepSeek-organisation\|DeepSeek]] — origine: Chine (2 occ., 4 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] — secteur: Conseil / Audit (1 occ., 1 fiches)
 - [[kb/Delos-Intelligence\|Delos Intelligence]] — profil: Startup française d'IA générative B2B (delos.so), SAS immatriculée le 02/07/2023 (RCS Paris 977 575 612), siège Paris ; plateforme d'orchestration multi-modèles à crédits ; 200+ entreprises clientes (1 occ., 1 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] — secteur: Gouvernement américain (1 occ., 1 fiches)

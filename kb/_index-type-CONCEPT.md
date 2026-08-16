@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 930 entités de type CONCEPT
+> 933 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -251,7 +251,7 @@
 - [[kb/_entites-mineures#Hapax-legomenon\|Hapax legomenon]] — description: Slide volontairement illisible, autorisé une seule fois par présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnachabilité\|Harnachabilité]] — définition: Degré auquel une codebase est apte au harnachage par des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] — définition: Tout ce qui n'est pas le modèle dans un agent, incluant outils et logique d'exécution (1 occ., 1 fiches)
-- [[kb/Harness\|Harness]] — catégorie: Couche abstraction agent (outils, prompts, mémoire, sécurité) (2 occ., 2 fiches)
+- [[kb/Harness\|Harness]] — catégorie: Couche abstraction agent (outils, prompts, mémoire, sécurité) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] — définition: Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Headcount-reinvestment-capacity\|Headcount reinvestment capacity]] — définition: Capacité libérée par productivité IA = équivalent free headcount à réinvestir dans innovation. Calcul : Staff size × Salary × Net time saved per developer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Headwinds-AI\|Headwinds AI]] — définition: (1) Slowing market growth — software penetration topping out ; (2) Rising AI infrastructure/inference/model access costs introduisant variable costs dans businesses historiquement high-margin (1 occ., 1 fiches)
@@ -586,6 +586,7 @@
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] — liste: Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations (1 occ., 1 fiches)
+- [[kb/_entites-mineures#couture-de-capacité\|couture de capacité]] — définition: Traduction de *capability seam* : capacité substituable définie par trois rôles conçus ensemble — une Service Definition qui déclare l'interface, un Service Provider qui l'implémente, un Consumer qui l'utilise, le plus souvent un outil exposé au modèle. Un seul rôle ne fait pas une couture. C'est le mécanisme par lequel un remplacement de fournisseur change tout le produit, sans fork (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] — faiblesse: Facilement Goodhart-able par des agents à vitesse machine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#covered-entity\|covered entity]] — définition: Entité opérant/mettant à dispo une covered technology et tirant ≥ 500 M$ (affiliés inclus) de revenu IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#covered-technology\|covered technology]] — définition: Système d'IA entraîné avec un compute dont le coût dépasse 100 M$ au prix marché du cloud US (1 occ., 1 fiches)
@@ -716,6 +717,7 @@
 - [[kb/_entites-mineures#lettre-de-recommandation\|lettre de recommandation]] — catégorie: Document signal d'effort et de soutien (1 occ., 1 fiches)
 - [[kb/_entites-mineures#limites-de-dépense-sans-approbation\|limites de dépense sans approbation]] — statut: Capacité annoncée par Stripe le 29 avril 2026 mais non livrée : plafonds paramétrables et choix des cas où un agent agit sans revue humaine supplémentaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#lint-de-patterns\|lint de patterns]] — définition: Vérification automatique de décisions d'architecture par analyse de l'arbre syntaxique (ast-grep), distincte du lint de syntaxe et du typecheck (1 occ., 1 fiches)
+- [[kb/log-de-session-append-only\|log de session append-only]] — définition: Journal en ajout seul qui est la source du contexte vu par le modèle dans DeepSeek Harness — et non son compte rendu : l'historique modèle en est projeté par `deriveMessages()`, et fork, reprise, transcripts, télémétrie et persistance en dérivent tous. Invariant associé, asserté à l'exécution : tout ce qui atteint une requête modèle doit être reconstructible depuis le journal, de sorte qu'un nouvel input visible du modèle exige un nouvel événement de session. Un tour rejeté sans aucun step est lui-même journalisé, pour que la tentative reste visible. ⚠️ Format non stabilisé en préversion (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] — attributs: adaptatif, composable, intent-driven, context-aware, conversationnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] — statut: Modèle dominant historique, en déclin avec l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#loi-d'Amdahl\|loi d'Amdahl]] — application: Appliquée au SDLC AI-native : le débit du système reste celui de son étape la plus lente — ×8 de code produit ne multiplie rien si la revue reste séquentielle et humaine (1 occ., 1 fiches)
@@ -878,6 +880,7 @@
 - [[kb/_entites-mineures#token-spend-mal-dirigé\|token spend mal dirigé]] — enjeu: ESR relie la mauvaise utilisation des LLMs à des « milliards de dollars gaspillés » — la variance d'usage (clarté/précision) comme facteur de ROI, pas l'outil seul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tokenomics\|tokenomics]] — définition: Couche économique complète de l'IA : production → consommation → monétisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#topologie-du-garde-fou\|topologie du garde-fou]] — définition: Choix d'architecture désignant l'endroit où réside la sûreté d'un système d'IA : dans les poids du modèle (l'éditeur définit la politique et arbitre les exemptions) ou dans un composant séparé et auto-hébergeable (le déployeur définit la politique et en porte la responsabilité) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#tout-est-plugin\|tout est plugin]] — définition: Principe d'architecture revendiqué par DeepSeek Harness : aucun cœur privilégié à patcher, toute capacité est un plugin monté à côté des autres et remplaçable depuis la configuration — y compris l'adaptateur de modèle, le registre d'outils, le journal de session et la boucle d'agent elle-même. Vérifiable en une commande : `dsh --profile web --dump-config` imprime l'arbre réellement démarré, dont toute ligne peut être remplacée par un patch (1 occ., 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] — définition: Enregistrement séquence étapes agents au runtime (1 occ., 1 fiches)
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] — définition: Taux historique de promesses tenues (~19 % sur >600 engagements), en déclin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#transparence\|transparence]] — catégorie: Principe général dont la transparence des sauvegardes est un cas d'application (1 occ., 1 fiches)

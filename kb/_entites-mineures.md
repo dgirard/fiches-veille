@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2645 entités avec moins de 3 triples/fiches
+> 2653 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -6553,7 +6553,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (586)
+## TECHNOLOGIE (590)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7842,6 +7842,19 @@
 
 **Fiches** : [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 
+### Cordis {#Cordis}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. ⚠️ Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas
+
+- **permet** → « de faire contribuer des services, des événements typés et des effets réversibles à un contexte partagé, chaque enregistrement se dénouant au démontage de son plugin — « there is no privileged core to patch » » (AFFIRMATION) — 0.94
+- **est_basé_sur** → [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] (DOCUMENT) — 0.92
+
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] **est_basé_sur** → Cordis — 0.98
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
 ### Cornell AI Gateway {#Cornell-AI-Gateway}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7977,6 +7990,16 @@
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] **est_basé_sur** → DeepSeek-V3.1-Terminus — 0.98
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+
+### DeepSeek-V4-Pro {#DeepSeek-V4-Pro}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Modèle de DeepSeek passé en disponibilité générale le 13 août 2026 (`DeepSeek-V4-Pro-0813`), le jour même de la publication du harnais : niveaux d'effort de raisonnement low, high et max, support natif du format OpenAI Responses API avec intégration optimisée pour Codex, disponible en application, en web (« Expert Mode ») et en API. Nouvelle grille tarifaire heures pleines / heures creuses au 16 août 2026 à 16:00 UTC
+
+- [[kb/DeepSeek-organisation\|DeepSeek]] **publie** → DeepSeek-V4-Pro — 0.95
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### Deepnote Cloud {#Deepnote-Cloud}
 
@@ -12226,6 +12249,17 @@
 
 **Fiches** : [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
 
+### mode Code {#mode-Code}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Mode d'exécution de DeepSeek Harness reprenant toutes les capacités du mode Standard, mais exposant les outils via le Code Mode SDK afin que le modèle combine des opérations multi-étapes dans un unique programme TypeScript plutôt qu'en tours d'appels d'outils successifs
+
+- **fait_partie_de** → [[kb/DeepSeek-Harness\|DeepSeek Harness]] (TECHNOLOGIE) — 0.95
+- **permet** → « d'exposer les outils via le Code Mode SDK pour que le modèle combine des opérations multi-étapes dans un seul programme TypeScript » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
 ### modelcontextprotocol/servers {#modelcontextprotocol-servers}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -12294,6 +12328,18 @@
 - [[kb/vibe-coding\|vibe coding]] **est_basé_sur** → orchestration agentique — 0.95
 
 **Fiches** : [[fiches/2025-11/caseau-evolution-developpeur-ia-generative-2025-11-05\|L'IA dévore le logiciel : évolution du métier de développeur]]
+
+### pi-ai {#pi-ai}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek
+
+- **permet** → « de déclarer un gateway OpenAI-compatible, un serveur auto-hébergé ou un fournisseur plus récent que le catalogue installé comme de la configuration plutôt que comme un changement de code » (AFFIRMATION) — 0.92
+
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] **utilise** → pi-ai — 0.93
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### plateforme d'IA générative {#plateforme-d'IA-générative}
 
@@ -12647,7 +12693,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (893)
+## CONCEPT (895)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17933,6 +17979,19 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-3-tests-are-the-spec-2026-06-12\|Tests Are the Spec in the Only Language the Builder Can't Argue With]]
 
+### couture de capacité {#couture-de-capacité}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Traduction de *capability seam* : capacité substituable définie par trois rôles conçus ensemble — une Service Definition qui déclare l'interface, un Service Provider qui l'implémente, un Consumer qui l'utilise, le plus souvent un outil exposé au modèle. Un seul rôle ne fait pas une couture. C'est le mécanisme par lequel un remplacement de fournisseur change tout le produit, sans fork
+
+- **affirme_que** → « une capacité substituable n'existe que si ses trois rôles sont conçus ensemble — Service Definition, Service Provider et Consumer — un seul rôle ne faisant pas une couture » (AFFIRMATION) — 0.93
+- **permet** → « qu'un seul remplacement de fournisseur change tout le produit : systèmes de fichiers et sous-processus partageant un même monde d'exécution, les pointer vers un sandbox distant y déplace Bash, PTY et LSP sans fork de fournisseur » (AFFIRMATION) — 0.92
+
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] **utilise** → couture de capacité — 0.94
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
 ### couverture en pourcentage {#couverture-en-pourcentage}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -20681,6 +20740,18 @@
 - **s_applique_à** → « le choix d'architecture entre une sûreté logée dans les poids et une sûreté déportée dans un composant séparé » (AFFIRMATION) — 0.92
 
 **Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
+
+### tout est plugin {#tout-est-plugin}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Principe d'architecture revendiqué par DeepSeek Harness : aucun cœur privilégié à patcher, toute capacité est un plugin monté à côté des autres et remplaçable depuis la configuration — y compris l'adaptateur de modèle, le registre d'outils, le journal de session et la boucle d'agent elle-même. Vérifiable en une commande : `dsh --profile web --dump-config` imprime l'arbre réellement démarré, dont toute ligne peut être remplacée par un patch
+
+- **s_applique_à** → « toute capacité d'agent — modèles, outils, skills, sessions, sandboxes, stockage, boucles, ordonnancement et interface — chacune sélectionnable, remplaçable ou extensible par configuration sans modifier le code source du harnais » (AFFIRMATION) — 0.96
+
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] **utilise** → tout est plugin — 0.97
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### traces {#traces}
 
@@ -25255,7 +25326,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (112)
+## DOCUMENT (114)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -25276,6 +25347,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → 2026 Agentic Coding Trends Report — 0.99
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
+
+### A Programming Paradigm for Spatiotemporal Composability {#A-Programming-Paradigm-for-Spatiotemporal-Composability}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Papier décrivant la conception de Cordis, publié par le projet cordiverse et mis en lien de navigation principal sur la page de lancement de DeepSeek Harness, au même rang que le dépôt GitHub et la documentation développeur
+
+- [[kb/_entites-mineures#Cordis\|Cordis]] **est_basé_sur** → A Programming Paradigm for Spatiotemporal Composability — 0.92
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### AA-Briefcase {#AA-Briefcase}
 
@@ -25989,6 +26070,17 @@
 - **rôle** : Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles)
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
+
+### Safe Use Policy {#Safe-Use-Policy}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **définition** : Politique d'usage liée en pied de page de la page produit de DeepSeek Harness, sensiblement plus directe que l'argumentaire : l'outil est décrit comme *locally-first* et capable d'exécuter du code sur la machine de l'utilisateur, les garde-fous des modèles de fondation contre l'injection de prompt sont qualifiés de basiques, et l'agent peut exécuter des commandes embarquées dans le contenu qu'il lit même lorsqu'elles contredisent la tâche assignée. Six précautions recommandées, dont la revue préalable de tout plugin, serveur MCP, Skill ou Hook installé — ce qui tempère l'invitation à composer librement
+
+- **affirme_que** → « l'agent peut, dans certains cas, exécuter des commandes embarquées dans le contenu qu'il lit, même lorsque ces commandes entrent en conflit avec la tâche assignée » (CITATION) — 0.95
+- **recommande** → « une machine virtuelle dédiée, la vérification des sorties, l'absence d'information confidentielle, une approbation humaine pour toute opération à effet significatif, le découpage des instructions complexes en opérations isolées, et de n'installer que des plugins, serveurs MCP, Skills et Hooks issus de sources fiables et revues » (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### Sinks, Not Pipes {#Sinks,-Not-Pipes}
 

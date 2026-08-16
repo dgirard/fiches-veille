@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 743 entités de type TECHNOLOGIE
+> 749 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -126,7 +126,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] — prix: 15 $/75 $ par M tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
-- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (56 occ., 50 fiches)
+- [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (57 occ., 51 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
@@ -172,6 +172,7 @@
 - [[kb/_entites-mineures#Control-Tower\|Control Tower]] — catégorie: Couche centralisée de gouvernance d'agents (Orq.ai) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] — catégorie: Assistant IA Microsoft (1 occ., 1 fiches)
 - [[kb/Cora\|Cora]] — catégorie: Assistant email / chief of staff IA, produit Every (4 occ., 4 fiches)
+- [[kb/_entites-mineures#Cordis\|Cordis]] — définition: Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. ⚠️ Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cowork\|Cowork]] — description: Claude Code en version GUI, construit en 10 jours (2 occ., 2 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
@@ -186,9 +187,11 @@
 - [[kb/_entites-mineures#Data-Mesh\|Data Mesh]] — rôle: Plateforme de mouvement de données dans l'écosystème Netflix (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daytona\|Daytona]] — categorie: Infrastructure sandbox agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deep-Research\|Deep Research]] — fonctionnement: Recherche web extensive de 10-15 minutes (1 occ., 2 fiches)
-- [[kb/DeepSeek-technologie\|DeepSeek]] — catégorie: Modèle open-weights chinois (part doublée sur OpenRouter) (2 occ., 3 fiches)
+- [[kb/DeepSeek-technologie\|DeepSeek]] — catégorie: Modèle open-weights chinois (part doublée sur OpenRouter) (2 occ., 4 fiches)
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] — définition: Harnais d'agent de codage open source (MIT) publié par DeepSeek le 13 août 2026 en developer preview, commande `dsh`, écrit en TypeScript, bâti sur le noyau Cordis vendoré. Architecture « everything is a plugin » : modèles, outils, skills, sessions, sandboxes, stockage, boucles, ordonnancement et interface sont substituables par configuration. Journal de session append-only comme source unique du contexte modèle, avec invariant runtime « model-visible means logged ». Quatre modes : Standard, Code, Minimal, Creator. Démarrage par `npx @deepseek-ai/dsh web`, Web UI sur 127.0.0.1:3080. ⚠️ Aucune promesse de compatibilité : SESSION_FORMAT_VERSION à 0, backends rejetant les anciens formats sur disque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] — catégorie: Grand modèle de langage (prédécesseur) (1 occ., 1 fiches)
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] — architecture: Mixture-of-experts, 685B paramètres, ~37B actifs (2 occ., 1 fiches)
+- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] — rôle: Modèle de DeepSeek passé en disponibilité générale le 13 août 2026 (`DeepSeek-V4-Pro-0813`), le jour même de la publication du harnais : niveaux d'effort de raisonnement low, high et max, support natif du format OpenAI Responses API avec intégration optimisée pour Codex, disponible en application, en web (« Expert Mode ») et en API. Nouvelle grille tarifaire heures pleines / heures creuses au 16 août 2026 à 16:00 UTC (1 occ., 1 fiches)
 - [[kb/Deepnote\|Deepnote]] — catégorie: Notebook data science AI-first (4 occ., 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] — catégorie: Plateforme cloud collaborative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] — éditeur: Google (1 occ., 1 fiches)
@@ -697,6 +700,8 @@
 - [[kb/_entites-mineures#machine-learning\|machine learning]] — impact coût: réduction de 200 000 $ à 10 000 $ par projet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mcpui.dev\|mcpui.dev]] — catégorie: Site communautaire guides et exemples (1 occ., 1 fiches)
 - [[kb/_entites-mineures#middle-management-agents\|middle management agents]] — rôle: Agents intermédiaires entre orchestrateur principal et agents d'exécution (1 occ., 1 fiches)
+- [[kb/_entites-mineures#mode-Code\|mode Code]] — définition: Mode d'exécution de DeepSeek Harness reprenant toutes les capacités du mode Standard, mais exposant les outils via le Code Mode SDK afin que le modèle combine des opérations multi-étapes dans un unique programme TypeScript plutôt qu'en tours d'appels d'outils successifs (1 occ., 1 fiches)
+- [[kb/mode-Minimal\|mode Minimal]] — définition: Mode d'exécution de DeepSeek Harness réduit à deux outils — un bash persistant et `str_replace_editor` — livré explicitement pour évaluer des modèles dans un environnement minimal. Enjeu de marché : reprendre la définition du harnais de mesure, alors que Claude Code s'est imposé en 2026 comme harnais d'évaluation de référence y compris chez les laboratoires concurrents. ⚠️ Aucun score publié au 13 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modelcontextprotocol-servers\|modelcontextprotocol/servers]] — métrique: 86 440 étoiles, 10 000+ serveurs actifs (1 occ., 1 fiches)
 - [[kb/modèles-de-langage-par-diffusion\|modèles de langage par diffusion]] — catégorie: Paradigme de génération par raffinement itératif d'une séquence masquée/bruitée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mpp\|mpp]] — description: Protocole micropaiement par Tempo + Stripe (1 occ., 1 fiches)
@@ -706,6 +711,7 @@
 - [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] — positionnement: Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pi-ai\|pi-ai]] — rôle: Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek (1 occ., 1 fiches)
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] — catégorie: Pipeline Python en 3 étapes, exposé comme skill `/treasury` dans Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-d'IA-générative\|plateforme d'IA générative]] — architecture: Orchestrateurs + API = indépendance modèle (anti lock-in) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#plateforme-déploiement-agents-IA-enterprise\|plateforme déploiement agents IA enterprise]] — capacités: Orchestration, gouvernance, monitoring, gestion coûts (1 occ., 1 fiches)

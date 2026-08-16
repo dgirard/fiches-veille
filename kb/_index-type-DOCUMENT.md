@@ -1,9 +1,10 @@
 # Index — DOCUMENT
 
-> 131 entités de type DOCUMENT
+> 133 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] — rôle: Papier décrivant la conception de Cordis, publié par le projet cordiverse et mis en lien de navigation principal sur la page de lancement de DeepSeek Harness, au même rang que le dépôt GitHub et la documentation développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] — rôle: Éval agentique de travail de connaissance d'Artificial Analysis (GLM-5.2 #3, top open weights) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ADR\|ADR]] — nature: Architecture Decision Record (docs/adr/), créé sous 3 critères (1 occ., 1 fiches)
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
@@ -84,6 +85,7 @@
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] — portée: Aurait influencé SB 53, NY RAISE Act, EU AI Act (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — rôle: Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Safe-Use-Policy\|Safe Use Policy]] — définition: Politique d'usage liée en pied de page de la page produit de DeepSeek Harness, sensiblement plus directe que l'argumentaire : l'outil est décrit comme *locally-first* et capable d'exécuter du code sur la machine de l'utilisateur, les garde-fous des modèles de fondation contre l'injection de prompt sont qualifiés de basiques, et l'agent peut exécuter des commandes embarquées dans le contenu qu'il lit même lorsqu'elles contredisent la tâche assignée. Six précautions recommandées, dont la revue préalable de tout plugin, serveur MCP, Skill ou Hook installé — ce qui tempère l'invitation à composer librement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sinks,-Not-Pipes\|Sinks, Not Pipes]] — catégorie: Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] — statut: Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 116 relations | 50 fiches sources
+> **Type** : TECHNOLOGIE | 118 relations | 51 fiches sources
 
 ## Attributs
 
@@ -117,6 +117,8 @@
 
 - quotidien des développeurs Silicon Valley (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
+- « le dépôt de DeepSeek Harness, qui embarque un CLAUDE.md et un répertoire .claude/skills aux côtés d'AGENTS.md » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
 ### permet
 
@@ -262,6 +264,7 @@
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
+- [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
 
 ## Fiches sources
 
@@ -282,6 +285,7 @@
 - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 - [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
 - [[fiches/2026-06/cornell-ai-hub-100k-unidentified-payments-2026-06-15\|How Cornell Recovered $100,000 in Unidentified Payments With AI]]
+- [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 - [[fiches/2025-12/every-compound-engineering-plugin-github-2025-12-10\|Compounding Engineering Plugin - Official Claude Code Plugin for Systematic Development]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]

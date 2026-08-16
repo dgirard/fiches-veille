@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3144 entités
+> 3155 entités
 
 ## #
 
@@ -70,6 +70,7 @@
 - [[kb/_entites-mineures#@tuning_engines\|@tuning_engines]] (PERSONNE, 1 fiches)
 ## A
 
+- [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#A.I.-Productivity-Index\|A.I. Productivity Index]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#A2A\|A2A]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] (TECHNOLOGIE, 1 fiches)
@@ -637,7 +638,7 @@
 - [[kb/_entites-mineures#Claude-4-Opus\|Claude 4 Opus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] (TECHNOLOGIE, 3 fiches)
-- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 50 fiches)
+- [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE, 51 fiches)
 - [[kb/_entites-mineures#Claude-Code-Plan-Mode\|Claude Code Plan Mode]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Code-skills\|Claude Code skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE, 1 fiches)
@@ -810,6 +811,7 @@
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] (CONCEPT, 1 fiches)
 - [[kb/Cora\|Cora]] (TECHNOLOGIE, 4 fiches)
+- [[kb/_entites-mineures#Cordis\|Cordis]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#CoreWeave\|CoreWeave]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Corgi\|Corgi]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Cormac\|Cormac]] (PERSONNE, 1 fiches)
@@ -835,6 +837,7 @@
 - [[kb/_entites-mineures#coupure-de-Fable-5-et-Mythos-5\|coupure de Fable 5 et Mythos 5]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Cour-suprême-chinoise\|Cour suprême chinoise]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Courrier-International\|Courrier International]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#couture-de-capacité\|couture de capacité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couverture-en-pourcentage\|couverture en pourcentage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#covered-entity\|covered entity]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#covered-technology\|covered technology]] (CONCEPT, 1 fiches)
@@ -931,10 +934,12 @@
 - [[kb/Deepnote\|Deepnote]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DeepResearch-Bench\|DeepResearch-Bench]] (DOCUMENT, 1 fiches)
-- [[kb/DeepSeek-organisation\|DeepSeek]] (ORGANISATION, 3 fiches)
-- [[kb/DeepSeek-technologie\|DeepSeek]] (TECHNOLOGIE, 3 fiches)
+- [[kb/DeepSeek-organisation\|DeepSeek]] (ORGANISATION, 4 fiches)
+- [[kb/DeepSeek-technologie\|DeepSeek]] (TECHNOLOGIE, 4 fiches)
+- [[kb/DeepSeek-Harness\|DeepSeek Harness]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#DeepSeek-V3.1-Terminus\|DeepSeek-V3.1-Terminus]] (TECHNOLOGIE, 1 fiches)
 - [[kb/DeepSeek-V3.2-Exp\|DeepSeek-V3.2-Exp]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Deloitte\|Deloitte]] (ORGANISATION, 1 fiches)
 - [[kb/Delos-Intelligence\|Delos Intelligence]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] (TECHNOLOGIE, 1 fiches)
@@ -1428,7 +1433,7 @@
 - [[kb/_entites-mineures#Harnachabilité\|Harnachabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#harnais\|harnais]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] (CONCEPT, 1 fiches)
-- [[kb/Harness\|Harness]] (CONCEPT, 2 fiches)
+- [[kb/Harness\|Harness]] (CONCEPT, 3 fiches)
 - [[kb/Harness-engineering\|Harness engineering]] (METHODOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT, 1 fiches)
@@ -1760,6 +1765,7 @@
 - [[kb/_entites-mineures#Lock-in-de-l'intelligence-d'entreprise\|Lock-in de l'intelligence d'entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#LOCOMO\|LOCOMO]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Lodestar-Agency-Consulting\|Lodestar Agency Consulting]] (ORGANISATION, 1 fiches)
+- [[kb/log-de-session-append-only\|log de session append-only]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Logan-Kilpatrick\|Logan Kilpatrick]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#logiciel-IA-natif\|logiciel IA-natif]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#logiciel-taille-unique\|logiciel taille unique]] (CONCEPT, 1 fiches)
@@ -1940,7 +1946,9 @@
 - [[kb/_entites-mineures#Mobile-Android-workflow-CI\|Mobile Android workflow CI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Modal\|Modal]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Mode-ask-vs-mode-generation\|Mode ask vs mode generation]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#mode-Code\|mode Code]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] (METHODOLOGIE, 1 fiches)
+- [[kb/mode-Minimal\|mode Minimal]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Model-Behavior\|Model Behavior]] (CONCEPT, 1 fiches)
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] (TECHNOLOGIE, 7 fiches)
 - [[kb/_entites-mineures#Model-Context-Protocol-(MCP)\|Model Context Protocol (MCP)]] (TECHNOLOGIE, 1 fiches)
@@ -2227,6 +2235,7 @@
 - [[kb/_entites-mineures#philosophie-Unix\|philosophie Unix]] (CONCEPT, 1 fiches)
 - [[kb/Phoenix\|Phoenix]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Phoenix-checkpoint-released\|Phoenix checkpoint released]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#pi-ai\|pi-ai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pierre-de-la-Grand'rive\|Pierre de la Grand'rive]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#pierre-philosophale\|pierre philosophale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#pilotes-IA-entreprise\|pilotes IA entreprise]] (CONCEPT, 1 fiches)
@@ -2504,6 +2513,7 @@
 - [[kb/_entites-mineures#SaaS\|SaaS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Safe-Use-Policy\|Safe Use Policy]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] (PERSONNE, 2 fiches)
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] (TECHNOLOGIE, 1 fiches)
@@ -2937,6 +2947,7 @@
 - [[kb/TOON\|TOON]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#topologie-du-garde-fou\|topologie du garde-fou]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#tout-est-plugin\|tout est plugin]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#TPU\|TPU]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#traces\|traces]] (CONCEPT, 1 fiches)
 - [[kb/Tracey-Franklin\|Tracey Franklin]] (PERSONNE, 1 fiches)
