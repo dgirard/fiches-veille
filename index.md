@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 391 fiches | 1975-12 → 2026-08-18 | généré le 2026-08-19
+> 392 fiches | 1975-12 → 2026-08-18 | généré le 2026-08-19
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **18** [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé.** Le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise, et le champ *Tags* aussi. Publié sur **`block.xyz/inside`**, le blog **corporate**, et non sur `engineering.block.xyz`. · Block — Berd, Block, open source
 - **18** [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche. · Block Engineering — Buzz, Buzz Projects, Block
 - **14** [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**. · The Batch / DeepLearning.AI — AI Engineering Skills Map, carte des compétences, Andrew Ng
 - **14** [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]). · Z.ai — GLM-5.3, GLM-5.2, Z.ai
@@ -500,6 +501,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé.** Le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise, et le champ *Tags* aussi. Publié sur **`block.xyz/inside`**, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
@@ -700,6 +702,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé.** Le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise, et le champ *Tags* aussi. Publié sur **`block.xyz/inside`**, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
 - [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*.
@@ -962,6 +965,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé.** Le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise, et le champ *Tags* aussi. Publié sur **`block.xyz/inside`**, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]).
@@ -1028,6 +1032,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Produits & Services
 
+- [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé.** Le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise, et le champ *Tags* aussi. Publié sur **`block.xyz/inside`**, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Block explores how to price AI](fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06.md) — **Justin Bachman** — Senior Reporter, **Payments Dive** (groupe Industry Dive). Journaliste sectoriel paiements ; signe ici un **Dive Brief**, format court en deux temps (*Dive Brief* = les faits du jour, *Dive Insight* = le contexte) qui compile une conférence de résultats, une lettre aux actionnaires, un communiqué et trois notes d'analystes.
 - [Introducing Muse Code and Muse Spark 1.2](fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05.md) — **Meta AI Research** — publication institutionnelle sans auteur nommé, sur `research.meta.ai`. Le billet renvoie à un **rapport** pour la méthodologie d'évaluation, non repris ici.
 - [Fact-checking : synthèse sur Delos (Delos Intelligence / delos.so)](fiches/2026-07/delos-intelligence-fact-check-levee-2026-07-20.md) — Synthèse de veille (fact-checking) — sources primaires : blog 20VC (Alexandre Dewez), delos.so, registres officiels ; presse : Le Monde Informatique, L'Usine Nouvelle, FrenchWeb, Le JDD
@@ -1067,19 +1072,19 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 391 fiches
-- **Par année** : 2026 (214) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 392 fiches
+- **Par année** : 2026 (215) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 142
+  - Agents de codage IA & Skills : 143
   - Architecture & Construction : 52
-  - Transformation & Adoption : 81
+  - Transformation & Adoption : 82
   - Qualité & Sécurité : 41
   - Économie & Marché : 78
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 24
-  - Outils & Plateformes : 49
+  - Outils & Plateformes : 50
   - Recherche & Éducation : 11
-  - Produits & Services : 11
+  - Produits & Services : 12
   - Politique & Régulation : 22
 - **Auteurs (top 20)** :
   - SFEIR (13)

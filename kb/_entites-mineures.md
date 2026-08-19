@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2666 entités avec moins de 3 triples/fiches
+> 2679 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (277)
+## ORGANISATION (278)
 
 ### 10x {#10x}
 
@@ -3856,6 +3856,20 @@
 - [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] **dirige** → Adeo — 0.97
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
+
+### Agentic AI Foundation {#Agentic-AI-Foundation}
+
+**Type** : ORGANISATION | 4 relations | 2 fiches
+
+- **rôle** : Hôte vendor-neutral de goose, aux côtés de MCP et AGENTS.md, sous la Linux Foundation
+
+- **fait_partie_de** → [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] (ORGANISATION) — 0.96
+
+- [[kb/goose\|goose]] **fait_partie_de** → Agentic AI Foundation — 0.95
+- [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] **publie** → Agentic AI Foundation — 0.92
+- [[kb/Model-Context-Protocol\|Model Context Protocol]] **fait_partie_de** → Agentic AI Foundation — 0.90
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]], [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### Agentic AI Foundation (AAIF) {#Agentic-AI-Foundation-(AAIF)}
 
@@ -5144,7 +5158,7 @@
 
 ### Linux Foundation {#Linux-Foundation}
 
-**Type** : ORGANISATION | 3 relations | 2 fiches
+**Type** : ORGANISATION | 4 relations | 2 fiches
 
 - **rôle** : Organisation porteuse (open standards)
 - **secteur** : Gouvernance open source
@@ -5153,6 +5167,7 @@
 - **publie** → [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (TECHNOLOGIE) — 0.92
 
 - AAIF **fait_partie_de** → Linux Foundation — 0.97
+- [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] **fait_partie_de** → Linux Foundation — 0.96
 
 **Fiches** : [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]], [[fiches/2026-06/tokenomics-foundation-linux-finops-token-economics-about-2026-06-03\|About — Tokenomics Foundation (a Linux Foundation project)]]
 
@@ -6540,7 +6555,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (594)
+## TECHNOLOGIE (593)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6984,15 +6999,17 @@
 
 ### Agentic AI Foundation {#Agentic-AI-Foundation}
 
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **historique** : Fondation Linux Foundation annoncée déc. 2025 ; projets fondateurs MCP (Anthropic), goose (Block), AGENTS.md (OpenAI) ; AWS/Google/Microsoft membres platine ; A2A versé par Google
 
-- [[kb/goose\|goose]] **fait_partie_de** → Agentic AI Foundation — 0.93
+- **fait_partie_de** → [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] (ORGANISATION) — 0.96
+
+- [[kb/goose\|goose]] **fait_partie_de** → Agentic AI Foundation — 0.95
 - [[kb/_entites-mineures#Linux-Foundation\|Linux Foundation]] **publie** → Agentic AI Foundation — 0.92
 - [[kb/Model-Context-Protocol\|Model Context Protocol]] **fait_partie_de** → Agentic AI Foundation — 0.90
 
-**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]], [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### Agentic Commerce Suite {#Agentic-Commerce-Suite}
 
@@ -7403,14 +7420,16 @@
 
 ### Cash App {#Cash-App}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 3 relations | 2 fiches
 
 - **rôle** : Application de paiement grand public de Block ; support de Moneybot et du boîtier NFC Tags
+
+- **fait_partie_de** → [[kb/Block\|Block]] (ORGANISATION) — 0.96
 
 - [[kb/Block\|Block]] **utilise** → Cash App — 0.95
 - [[kb/_entites-mineures#Moneybot\|Moneybot]] **s_applique_à** → Cash App — 0.95
 
-**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]], [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
 ### ChatGPT Apps SDK {#ChatGPT-Apps-SDK}
 
@@ -11194,19 +11213,6 @@
 
 **Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]], [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
 
-### Square {#Square}
-
-**Type** : TECHNOLOGIE | 3 relations | 1 fiches
-
-- **rôle** : Service d'encaissement pour commerçants de Block ; support de Managerbot et point d'entrée du partenariat avec Google, dont une expérience conversationnelle de découverte et de commande dans Google Maps
-
-- **collabore_avec** → Google Maps (TECHNOLOGIE) — 0.92
-- **permet** → « de découvrir un restaurant et de passer commande en posant des questions, depuis Google Maps » (AFFIRMATION) — 0.92
-
-- [[kb/Block\|Block]] **utilise** → Square — 0.95
-
-**Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
-
 ### Stable Diffusion {#Stable-Diffusion}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12721,7 +12727,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (906)
+## CONCEPT (919)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14791,6 +14797,16 @@
 - **source** : Métaphore Dean Ball — l'IA dissolvant les institutions médiatrices (presse, syndicats, universités, partis) qui forment le tissu social américain
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+
+### Gloopies {#Gloopies}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Collection phare de personnages animés de Berd servant d'avatars d'agents
+
+- **fait_partie_de** → [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### Governance ontology {#Governance-ontology}
 
@@ -17346,6 +17362,16 @@
 
 **Fiches** : [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
 
+### boîte de saisie vide {#boîte-de-saisie-vide}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Interface d'agent par défaut qui ne révèle ni configuration, ni outils, ni différence entre agents
+
+- [[kb/Berd\|Berd]] **s_oppose_à** → boîte de saisie vide — 0.88
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### brevity bias {#brevity-bias}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17577,6 +17603,16 @@
 
 **Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
+### client de bureau pour agents {#client-de-bureau-pour-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Couche d'expérience unifiée au-dessus de plusieurs modèles et harnais — projets, contexte, sessions, configuration
+
+- [[kb/Berd\|Berd]] **est_instance_de** → client de bureau pour agents — 0.96
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### cliquet de l'anneau {#cliquet-de-l'anneau}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -17791,6 +17827,16 @@
 - **est_basé_sur** → [[kb/_entites-mineures#transparence\|transparence]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
+
+### confiance vérifiable dans un agent {#confiance-vérifiable-dans-un-agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Confiance fondée sur ce que l'utilisateur peut inspecter — outils, permissions, contexte — et non sur l'apparence
+
+- [[kb/_entites-mineures#lisibilité-de-la-configuration-d'agent\|lisibilité de la configuration d'agent]] **améliore** → confiance vérifiable dans un agent — 0.82
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### conflit d'intérêts {#conflit-d'intérêts}
 
@@ -18225,6 +18271,16 @@
 
 **Fiches** : [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]], [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
+### design comme différenciateur {#design-comme-différenciateur}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Doctrine Block : apporter le design à une catégorie qui n'en avait pas change qui se sent invité à l'utiliser
+
+- **observé_dans** → [[kb/Square\|Square]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### dette technique sociétale {#dette-technique-sociétale}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18254,6 +18310,16 @@
 - [[kb/Diffusion-Gemma\|Diffusion Gemma]] **utilise** → diffusion masquée — 0.92
 
 **Fiches** : [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
+
+### distinguabilité des agents {#distinguabilité-des-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Capacité à identifier un agent parmi d'autres ; condition nécessaire mais non suffisante de sa compréhension
+
+- [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] **permet** → distinguabilité des agents — 0.92
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### distribution en haltère {#distribution-en-haltère}
 
@@ -18785,6 +18851,16 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
+### fragmentation des interfaces d'agents {#fragmentation-des-interfaces-d'agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Multiplication des interfaces, systèmes de configuration et modes de gestion du contexte entre agents concurrents
+
+- [[kb/Berd\|Berd]] **résout** → fragmentation des interfaces d'agents — 0.92
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### freins au passage à l'échelle de l'IA agentique {#freins-au-passage-à-l'échelle-de-l'IA-agentique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19139,6 +19215,21 @@
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
+### identité visuelle d'agent {#identité-visuelle-d'agent}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Donner à un agent une apparence distinctive pour le rendre reconnaissable parmi d'autres
+- **limite** : Résout la distinguabilité, pas la lisibilité : ne dit rien des outils, permissions ni contexte actif
+
+- **permet** → [[kb/_entites-mineures#distinguabilité-des-agents\|distinguabilité des agents]] (CONCEPT) — 0.92
+- **s_oppose_à** → [[kb/_entites-mineures#lisibilité-de-la-configuration-d'agent\|lisibilité de la configuration d'agent]] (CONCEPT) — 0.80
+
+- [[kb/Berd\|Berd]] **utilise** → identité visuelle d'agent — 0.95
+- [[kb/_entites-mineures#Gloopies\|Gloopies]] **fait_partie_de** → identité visuelle d'agent — 0.93
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### iframes sandboxées {#iframes-sandboxées}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19351,6 +19442,18 @@
 - **définition** : Vérification automatique de décisions d'architecture par analyse de l'arbre syntaxique (ast-grep), distincte du lint de syntaxe et du typecheck
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
+
+### lisibilité de la configuration d'agent {#lisibilité-de-la-configuration-d'agent}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Capacité d'un utilisateur à voir comment un agent est configuré, quel contexte et quels outils lui sont disponibles
+
+- **améliore** → [[kb/_entites-mineures#confiance-vérifiable-dans-un-agent\|confiance vérifiable dans un agent]] (CONCEPT) — 0.82
+
+- [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] **s_oppose_à** → lisibilité de la configuration d'agent — 0.80
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### logiciel IA-natif {#logiciel-IA-natif}
 
@@ -20226,6 +20329,16 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
+### reconstruction du contexte à chaque tâche {#reconstruction-du-contexte-à-chaque-tâche}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Coût récurrent de réinstaller le contexte de travail faute de projets persistants
+
+- [[kb/Berd\|Berd]] **réduit** → reconstruction du contexte à chaque tâche — 0.91
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### renversement AI4IT / AI4Business {#renversement-AI4IT-AI4Business}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20772,6 +20885,16 @@
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
 
+### séparation client / boucle d'agent {#séparation-client-boucle-d'agent}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Le client tient l'expérience et la configuration, le runtime tient la boucle d'exécution ; frontière protocolaire
+
+- [[kb/Agent-Client-Protocol\|Agent Client Protocol]] **permet** → séparation client / boucle d'agent — 0.94
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
 ### séparation générateur-critique {#séparation-générateur-critique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -20932,6 +21055,26 @@
 - [[kb/Plakar-organisation\|Plakar]] **permet** → transparence des sauvegardes — 0.97
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
+
+### travail collaboratif humains-agents {#travail-collaboratif-humains-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Phase partagée : équipier ajouté, artefact publié, décision expliquée, trace conservée
+
+- [[kb/Buzz\|Buzz]] **s_applique_à** → travail collaboratif humains-agents — 0.94
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
+### travail solo avec agents {#travail-solo-avec-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Phase privée — recherche, expérimentation, mise en forme — avant que le travail soit prêt à être partagé
+
+- [[kb/Berd\|Berd]] **s_applique_à** → travail solo avec agents — 0.94
+
+**Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### triade Models/Memory/Knowledge {#triade-Models-Memory-Knowledge}
 

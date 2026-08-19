@@ -1,11 +1,12 @@
 # goose
 
-> **Type** : TECHNOLOGIE | 9 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 8 fiches sources
 
 ## Attributs
 
 - **catégorie** : Harness d'agent open source (Block)
 - **créateur** : Block (anciennement Square)
+- **gouvernance** : Transféré à l'Agentic AI Foundation — dépôt `github.com/aaif-goose/goose`
 - **généalogie** : Framework d'agent open source de Block lancé le 28 janvier 2025 sous Apache 2.0 par son Open Source Program Office, contribué en décembre 2025 à l'Agentic AI Foundation de la Linux Foundation aux côtés de MCP et d'AGENTS.md ; ancêtre conceptuel de Buzz, plus de 27 000 étoiles et 350 contributeurs
 - **rôle** : Système d'IA interne de Block construit deux ans avant août 2026, présenté comme agnostique : il intègre différents modèles commerciaux pour l'usage des employés
 - **éditeur** : Block, Inc.
@@ -19,7 +20,8 @@
 
 ### fait_partie_de
 
-- [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (ORGANISATION) — 0.93, DYNAMIQUE
+- [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] (ORGANISATION) — 0.95, DYNAMIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 
 ### permet
@@ -37,12 +39,14 @@
 
 - [[kb/Block\|Block]] **a_créé** → goose — 0.98
 - [[kb/Block\|Block]] **publie** → goose — 0.97
+- [[kb/Berd\|Berd]] **utilise** → goose — 0.97
 - [[kb/Block\|Block]] **utilise** → goose — 0.96
 - [[kb/Minions\|Minions]] **utilise** → goose — 0.96
 - [[kb/Minions\|Minions]] **est_basé_sur** → goose — 0.95
 
 ## Fiches sources
 
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]

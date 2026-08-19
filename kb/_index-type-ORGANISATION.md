@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 383 entités de type ORGANISATION
+> 384 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -21,6 +21,7 @@
 - [[kb/_entites-mineures#Academy-of-Management-Journal\|Academy of Management Journal]] — type: Revue academique de reference en sciences du management (1 occ., 1 fiches)
 - [[kb/Accenture\|Accenture]] — valorisation boursière: 155 milliards de dollars (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Adeo\|Adeo]] — secteur: Retail bricolage / habitat (Leroy Merlin, Obramat, Weldom), actionnariat familial non coté (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Agentic-AI-Foundation\|Agentic AI Foundation]] — rôle: Hôte vendor-neutral de goose, aux côtés de MCP et AGENTS.md, sous la Linux Foundation (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] — date_création: 9 décembre 2025 (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Agility-Robotics\|Agility Robotics]] — secteur: Robotique humanoïde industrielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ahrefs\|Ahrefs]] — secteur: SEO / content marketing (outil de référence) (1 occ., 1 fiches)
@@ -51,7 +52,7 @@
 - [[kb/_entites-mineures#Benchmark\|Benchmark]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Biohub\|Biohub]] — rôle: Institut de recherche cité par Zuckerberg comme ayant déjà publié des modèles biologiques open source sur les cellules virtuelles et les protéines ; rattaché à l'objectif de prévenir ou guérir toutes les maladies dans le siècle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Blaxel-AI\|Blaxel AI]] — secteur: Start-up IA Silicon Valley (1 occ., 1 fiches)
-- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (9 occ., 9 fiches)
+- [[kb/Block\|Block]] — secteur: Technologie financière (ex-Square) (10 occ., 10 fiches)
 - [[kb/Bloomberg\|Bloomberg]] — secteur: Finance / Données de marché (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] — secteur: Aérospatiale commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] — secteur: Conseil en stratégie (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Buzz
 
-> **Type** : TECHNOLOGIE | 33 relations | 6 fiches sources
+> **Type** : TECHNOLOGIE | 35 relations | 7 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,7 @@
 - **limites de sécurité** : Autorisation à la maille du canal et non par outil ou action ; agents lancés en --dangerously-skip-permissions hors bac à sable ; pas d'observabilité de l'activité des agents ; journal signé tamper-evident mais non tamper-resistant ; messages non chiffrés de bout en bout sur le relais hébergé
 - **maturité** : Version 0.4.21 ou 0.4.22 au lancement selon les sources, puis 0.5.x ; dépôt créé le 6 mars 2026, premières releases publiques le 3 mai 2026, lancement public le 21 juillet 2026. Environ 25 900 étoiles GitHub à la mi-août 2026. Binaires Windows non signés, docs éparses, UI de forge Git précoce ; aucun prix publié pour l'hébergement géré
 - **positionnement** : Présenté aux actionnaires comme un système interne de collaboration d'agents, de communication et de dépôts de code destiné à réduire les délais de coordination — cadrage productivité, complémentaire du cadrage ouverture protocolaire (Apache-2.0, Nostr, ACP) documenté ailleurs dans ce corpus
+- **rôle** : Destination déclarée des enseignements de Berd : l'espace partagé humains+agents
 - **statut** : Workspace humains+agents sur Nostr, en bêta au 18 août 2026
 - **stockage Git** : Dépôts stockés en packfiles immuables adressés par contenu sur stockage objet, plus un pointeur de manifeste mutable avancé par compare-and-swap conditionnel qui constitue le point de commit ; protocole spécifié en TLA+ et model-checké, avec suite de conformité obligatoire par backend
 - **vérification formelle** : Spécification d'isolation multi-tenant mécanisée en TLA+, propriétés d'autorisation vérifiées en Tamarin, protocole de stockage Git model-checké — niveau de formalisme inhabituel pour une version 0.x, mais portant sur l'identité et le stockage, non sur l'autorisation d'outil
@@ -42,6 +43,11 @@
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - [[kb/GitHub-technologie\|GitHub]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
+
+### est_basé_sur
+
+- [[kb/Berd\|Berd]] (TECHNOLOGIE) — 0.85, DYNAMIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### est_instance_de
 
@@ -83,6 +89,8 @@
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 - « Claude Code, Codex, modèles ouverts et modèles locaux, avec leurs abonnements existants » (AFFIRMATION) — 0.94, DYNAMIQUE
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+- [[kb/_entites-mineures#travail-collaboratif-humains-agents\|travail collaboratif humains-agents]] (CONCEPT) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
 ### s_oppose_à
 
@@ -122,6 +130,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]

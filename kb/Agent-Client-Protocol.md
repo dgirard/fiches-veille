@@ -1,12 +1,12 @@
 # Agent Client Protocol
 
-> **Type** : TECHNOLOGIE | 24 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 26 relations | 4 fiches sources
 
 ## Attributs
 
 - **définition** : Protocole ouvert reliant un client (éditeur) à un agent de codage ; JSON-RPC 2.0 sur stdio, Apache-2.0, introduit par Zed en août 2025 — le « LSP des agents ». Alias « ACP » (homonyme, à ne jamais employer seul)
 - **gouvernance** : Site liant Zed Industries et JetBrains au même niveau, avec ACP Registry, RFDs, Community, Publications, Updates et Brand ; bibliothèques Kotlin, Java, Python, Rust, TypeScript
-- **rôle** : Protocole d'interopérabilité client↔agent accepté par Buzz : tout agent qui le parle peut travailler dans le workspace, aux côtés de Claude Code, Codex et goose
+- **rôle** : Frontière entre le client de bureau Berd et le runtime goose
 - **spécification** : Deux modes de transport : agents locaux en JSON-RPC sur stdio, agents distants en HTTP ou WebSocket (support en cours) ; réutilise les représentations JSON de MCP ; Markdown par défaut ; versions v1 (Latest) et v2 (Draft)
 
 ## Relations (comme sujet)
@@ -34,6 +34,8 @@
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « de changer d'agent ou de fournisseur sans changer d'éditeur » (AFFIRMATION) — 0.94, ATEMPOREL
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+- [[kb/_entites-mineures#séparation-client-boucle-d'agent\|séparation client / boucle d'agent]] (CONCEPT) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - « l'affichage de diffs et autres éléments d'UX propres au codage agentique » (AFFIRMATION) — 0.90, ATEMPOREL
   - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
 
@@ -73,6 +75,7 @@
 
 ## Relations (comme objet)
 
+- [[kb/Berd\|Berd]] **utilise** → Agent Client Protocol — 0.97
 - [[kb/Zed\|Zed]] **utilise** → Agent Client Protocol — 0.96
 - [[kb/Zed\|Zed]] **a_créé** → Agent Client Protocol — 0.95
 - [[kb/Buzz\|Buzz]] **utilise** → Agent Client Protocol — 0.95
@@ -85,5 +88,6 @@
 ## Fiches sources
 
 - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction]]
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]

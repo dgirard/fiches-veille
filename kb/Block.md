@@ -1,6 +1,6 @@
 # Block
 
-> **Type** : ORGANISATION | 40 relations | 9 fiches sources
+> **Type** : ORGANISATION | 49 relations | 10 fiches sources
 
 ## Attributs
 
@@ -15,14 +15,21 @@
 - [[kb/_entites-mineures#Agentic-AI-Foundation-(AAIF)\|Agentic AI Foundation (AAIF)]] (ORGANISATION) — 0.98, STATIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[kb/goose\|Goose]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
   - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 
 ### affirme_que
 
+- « "The avatars make the agent recognizable. Its role, skills, and tools make it useful." » (CITATION) — 0.98, ATEMPOREL
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+- « "we didn't need another model or agent harness, we needed a consistent environment around them" » (CITATION) — 0.97, STATIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - « "we are already exploring ideas around agent trust protocols informed by past behavior" » (CITATION) — 0.96, DYNAMIQUE
   - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+- « "Work with an agent often begins alone. But work rarely stays private." » (CITATION) — 0.96, ATEMPOREL
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - « au-delà d'un certain tier les modèles sont indiscernables sur ces tâches, si bien que choisir entre eux n'est plus une décision de qualité mais une décision de budget » (CITATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « une équipe doit contrôler ses propres identités d'agents, son historique et son travail, indépendamment de tout fournisseur ou plateforme » (AFFIRMATION) — 0.95, ATEMPOREL
@@ -33,6 +40,8 @@
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
 - « une tâche courte n'a pas assez de structure pour être divisée, et ajouter des agents ne fait qu'acheter le coût de l'expliquer deux fois » (CITATION) — 0.94, ATEMPOREL
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+- « « le caractère d'un agent est à la fois visuel et fonctionnel : des agents peuvent avoir l'air distincts parce qu'ils le sont » » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - « en 2026 le logiciel est devenu bon marché mais pas le goût, les choix de design étant la partie difficile » (CITATION) — 0.92, ATEMPOREL
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
 
@@ -63,11 +72,15 @@
 
 ### prédit
 
+- « « ce qui a été appris sur Berd nourrira la suite du travail sur Buzz : commencer seul, puis passer en multijoueur » » (AFFIRMATION) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - « que la supériorité de l'agent solo sur les tâches courtes pourrait s'inverser si les modèles sont entraînés à mieux collaborer » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
 ### publie
 
+- [[kb/Berd\|Berd]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[kb/Buzz\|Buzz]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
@@ -105,7 +118,7 @@
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/_entites-mineures#Cash-App\|Cash App]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
-- [[kb/_entites-mineures#Square\|Square]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+- [[kb/Square\|Square]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 - [[kb/_entites-mineures#TLA+\|TLA+]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12\|Buzz (buzz.xyz) — Rapport de recherche pour présentation]]
@@ -118,13 +131,17 @@
 - [[kb/Jack-Dorsey\|Jack Dorsey]] **dirige** → Block — 0.98
 - [[kb/Thomas-Petersen\|Thomas Petersen]] **travaille_chez** → Block — 0.97
 - [[kb/Tyler-Longwell\|Tyler Longwell]] **travaille_chez** → Block — 0.97
+- [[kb/_entites-mineures#Cash-App\|Cash App]] **fait_partie_de** → Block — 0.96
+- [[kb/Square\|Square]] **fait_partie_de** → Block — 0.96
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] **travaille_chez** → Block — 0.96
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] **travaille_chez** → Block — 0.96
+- [[kb/Berd\|Berd]] **observé_dans** → Block — 0.95
 - [[kb/_entites-mineures#Bradley-Axen\|Bradley Axen]] **travaille_chez** → Block — 0.95
 - [[kb/_entites-mineures#Leigh-Maddock\|Leigh Maddock]] **travaille_chez** → Block — 0.95
 
 ## Fiches sources
 
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]

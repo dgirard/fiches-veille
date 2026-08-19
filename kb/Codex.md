@@ -1,10 +1,11 @@
 # Codex
 
-> **Type** : TECHNOLOGIE | 16 relations | 7 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 8 fiches sources
 
 ## Attributs
 
 - **catégorie** : Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code
+- **rôle** : Agent tiers cité comme faisant partie de l'outillage fragmenté observé chez Block
 
 ## Relations (comme sujet)
 
@@ -69,6 +70,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2025-11/chen-fioca-openai-future-proof-coding-agents-2025-11-23\|Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
