@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 390 fiches | 1975-12 → 2026-08-14 | généré le 2026-08-16
+> 391 fiches | 1975-12 → 2026-08-18 | généré le 2026-08-19
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **18** [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche. · Block Engineering — Buzz, Buzz Projects, Block
 - **14** [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**. · The Batch / DeepLearning.AI — AI Engineering Skills Map, carte des compétences, Andrew Ng
 - **14** [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]). · Z.ai — GLM-5.3, GLM-5.2, Z.ai
 - **13** [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]). · DeepSeek — DeepSeek Harness, dsh, @deepseek-ai/dsh
@@ -499,6 +500,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Signature institutionnelle la plus régulière du corpus sur la question « ce que l'IA fait au travail des développeurs » : c'est sa **quatrième fiche** après [[ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24]] (hiérarchie d'accélération par type de travail logiciel), [[ng-the-batch-352-no-ai-jobpocalypse-2026-05-08]] (« There Will Be No AI Jobpocalypse ») et [[ng-thebatch-359-3-product-development-loops-2026-06-26]] (les trois boucles du développement produit). Le texte est signé, à la première personne, et écrit *« with my team »* — le travail d'analyse est collectif, l'attribution est individuelle ; **aucun collaborateur n'est nommé**.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]).
@@ -643,6 +645,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to write.](fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12.md) — **Guillaume Dumortier** — auteur de la newsletter LinkedIn **Growth Marketing Fit** (~1 300 abonnés à la publication de l'article). Il écrit ici en **praticien-constructeur** : il a passé *« une longue partie de cette année »* à bâtir et exploiter le système décrit pour une équipe marketing d'une soixantaine de personnes. La légende de l'illustration précise le socle technique — *« A custom-built Marketing AI OS within Claude »*.
@@ -781,6 +784,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
@@ -958,6 +962,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**. Auteur unique, signataire du billet ; **absent du corpus jusqu'ici** — c'est sa première fiche.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Le billet est **institutionnel et non signé** : pas d'auteur nommé, pas de chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Le « nous » est celui de l'entreprise. Z.ai est déjà présent au corpus comme éditeur de **GLM-5.2** ([[artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22]]) et comme **premier modèle tiers hébergé par Mistral AI** sous contrôles régionaux européens ([[nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11]]).
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. La page produit est **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog associé, aucun papier technique DeepSeek. Le « nous » n'apparaît qu'une fois, dans la dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. DeepSeek est déjà présent au corpus comme éditeur de modèles ([[deepseek-openai-amd-finetuning-batch-323-2025-10-15]]) et comme repère de la concurrence sino-américaine ([[xi-waic2026-gouvernance-mondiale-ia-2026-07-17]]).
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation.
@@ -1062,17 +1067,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 390 fiches
-- **Par année** : 2026 (213) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 391 fiches
+- **Par année** : 2026 (214) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 141
-  - Architecture & Construction : 51
+  - Agents de codage IA & Skills : 142
+  - Architecture & Construction : 52
   - Transformation & Adoption : 81
-  - Qualité & Sécurité : 40
+  - Qualité & Sécurité : 41
   - Économie & Marché : 78
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 24
-  - Outils & Plateformes : 48
+  - Outils & Plateformes : 49
   - Recherche & Éducation : 11
   - Produits & Services : 11
   - Politique & Régulation : 22
@@ -1108,11 +1113,11 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
+  - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
   - VentureBeat (2)
-  - Block Engineering (2)
   - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)

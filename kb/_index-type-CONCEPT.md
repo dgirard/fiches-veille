@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 939 entités de type CONCEPT
+> 948 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -498,11 +498,13 @@
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] — définition: Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus (1 occ., 1 fiches)
+- [[kb/_entites-mineures#authentification-Git-par-clé-Nostr\|authentification Git par clé Nostr]] — définition: Une seule paire de clés pour la conversation et le dépôt — ni jeton dédié, ni compte GitHub tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#auto-amélioration-récursive\|auto-amélioration récursive]] — définition: Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#automatisation-d'agents-IA\|automatisation d'agents IA]] — bénéfice: Réduction du temps de développement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-(vs-souveraineté)\|autonomie (vs souveraineté)]] — définition: Posture LVMH : hybridation multicloud + indépendance, mot « souveraineté » récusé car ambigu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] — enjeu: Condition de la dignité humaine et de la responsabilité morale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-technique\|autonomie technique]] — redéfinition: savoir quand, quoi et pourquoi coder (1 occ., 1 fiches)
+- [[kb/_entites-mineures#autorisation-ex-ante-des-agents\|autorisation ex ante des agents]] — définition: Restriction préalable de ce qu'un agent a le droit de faire — explicitement écartée par le billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#avantage-concurrentiel\|avantage concurrentiel]] — localisation: Composants positionnés à gauche de la carte (Genèse / Sur mesure) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#avantage-concurrentiel-durable\|avantage concurrentiel durable]] — contexte: Objectif final de l'adoption IA à grande échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#axe-Y-Wardley\|axe Y Wardley]] — définition: Proximité client : haut = visible, bas = infrastructure (1 occ., 1 fiches)
@@ -663,7 +665,9 @@
 - [[kb/fondamentaux-du-génie-logiciel\|fondamentaux du génie logiciel]] — définition: Deuxième compétence de la carte, et la plus contre-cyclique : dans une carte des compétences IA, elle occupe le second rang. L'argument n'est pas la nostalgie mais la reconnaissance des arbitrages — coût, scalabilité, fiabilité, vitesse, sécurité, vie privée — que l'agent effectue à la place du développeur. Un développeur inexpérimenté qui vibe code échoue moins parce qu'il code mal que parce qu'il ne sait pas quel contexte donner à son agent. Corollaire de gestion : l'IA déplace la valeur du senior de l'exécution vers l'arbitrage, elle ne la supprime pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#fonds-de-pension-Europe-(absence)\|fonds de pension Europe (absence)]] — définition: Lacune structurelle des marchés de capitaux européens — force le recours aux investisseurs étrangers (US, Moyen-Orient) pour les méga-projets infrastructure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#forces-invariantes\|forces invariantes]] — liste: Couplage/cohésion, frontière d'abstraction, isolation des pannes, gouvernance de l'état, indirection, boucle de rétroaction, non-déterminisme (1 occ., 1 fiches)
+- [[kb/_entites-mineures#forge-logicielle-souveraine\|forge logicielle souveraine]] — définition: Forge vivant sur un relais possédé, dont les identités et les événements appartiennent à l'utilisateur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#foundation-model\|foundation model]] — coût: Plusieurs mois + millions d'euros + données massives (1 occ., 1 fiches)
+- [[kb/_entites-mineures#fragmentation-de-l'outillage-de-développement\|fragmentation de l'outillage de développement]] — définition: Dispersion du bug, de la discussion, de la branche, de la CI, de la revue et des notes de version entre outils distincts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#freins-au-passage-à-l'échelle-de-l'IA-agentique\|freins au passage à l'échelle de l'IA agentique]] — liste: Systèmes existants complexes, données insuffisamment matures, gouvernance, sécurité, coûts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#frontière-de-confiance\|frontière de confiance]] — définition: Périmètre des permissions qu'un client obtient sur la machine de l'utilisateur ; un client desktop doté d'accès aux fichiers, à l'écran et à l'exécution de code élargit ce périmètre là où un navigateur reste gouvernable par SSO, DLP et CASB (1 occ., 1 fiches)
 - [[kb/_entites-mineures#garde-fou-(guardrail)\|garde-fou (guardrail)]] — principe: Contrôle qui rend l'output d'agent digne de confiance (revues auto, sandboxing, budget/cost caps, SSO/RBAC, standards CLAUDE.md/Skills) ; à bâtir à chaque montée d'étape, en pair du goulet cassé (1 occ., 1 fiches)
@@ -690,6 +694,7 @@
 - [[kb/_entites-mineures#hardware-moat\|hardware moat]] — nature: Barrière stratégique vendor lock-in matériel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#harnais\|harnais]] — rôle: Règles agentiques adaptées au contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hill-climbing-machine\|hill climbing machine]] — rôle: Métaphore de la boucle d'apprentissage qui compose dans le temps (1 occ., 1 fiches)
+- [[kb/_entites-mineures#historique-de-contribution-vérifiable\|historique de contribution vérifiable]] — définition: Historique signé attaché à une clé, présenté comme portable entre projets et réseaux (2 occ., 1 fiches)
 - [[kb/_entites-mineures#homonymie-de-sigle\|homonymie de sigle]] — définition: Défaut d'indexation où un acronyme porté par plusieurs entités distinctes est traité comme une entité unique, fusionnant des corpus sans intersection technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#honest-loss-account\|honest loss account]] — sacrifices: Élégance en un passage, intuition transversale, latence, refactors long-horizon ; ~5 % du travail à supervision max (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hygiène-de-code\|hygiène de code]] — marqueurs de décomposition: Duplication, solutions locales, sur-conditionnement, cas particuliers (1 occ., 1 fiches)
@@ -804,6 +809,7 @@
 - [[kb/_entites-mineures#proposal-bias\|proposal bias]] — définition: Préférence vitesse sur exhaustivité dans sélection de vendeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#propriétés-exploitables\|propriétés exploitables]] — liste: E1 diversité d'échantillonnage, E2 sycophancie chartée pour réfuter, E3 absence d'ego, E4 contextes frais, E5 coût de révision quasi nul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#protocol-objects\|protocol objects]] — localisation: src/ap2/types (1 occ., 1 fiches)
+- [[kb/_entites-mineures#protocoles-de-confiance-des-agents\|protocoles de confiance des agents]] — statut: Piste de recherche déclarée par Block — aucun critère, schéma ni calendrier publié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#provenance-d'arête\|provenance d'arête]] — définition: Étiquetage de chaque relation d'un graphe selon son origine — explicite dans la source, déduite par résolution, ou ambiguë — de sorte qu'un lecteur ou un agent sait ce qui a été lu et ce qui a été supposé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#provenance-footers\|provenance footers]] — définition: Traçabilité réponse : tier de source + fraîcheur + ownership (1 occ., 1 fiches)
 - [[kb/_entites-mineures#publication-de-poids-ouverts\|publication de poids ouverts]] — définition: Dans ce dossier, décision de gouvernance traitée comme un calendrier plutôt que comme une procédure : Z.ai annonce les poids de GLM-5.3 « dans deux semaines, une fois l'évaluation de sûreté et le durcissement terminés », sans définir le durcissement, sans critère de non-publication, sans évaluateur tiers ni engagement de publier le rapport. Tension propre au cas : la publication des poids rend caduc de fait l'embargo pesant sur 2 383 vulnérabilités trouvées par le même modèle (1 occ., 1 fiches)
@@ -815,6 +821,7 @@
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] — source: Recherche Google sur l'optimisation long terme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rationalité-limitée\|rationalité limitée]] — définition: Décideurs opèrent avec informations incomplètes et capacités cognitives finies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] — statut: fonctionnalité IA de recherche membre (1 occ., 1 fiches)
+- [[kb/_entites-mineures#reconstruction-a-posteriori-du-contexte\|reconstruction a posteriori du contexte]] — définition: Coût de retrouver après coup pourquoi une décision a été prise ; ce que la liaison projet↔canal prétend supprimer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#renversement-AI4IT-AI4Business\|renversement AI4IT / AI4Business]] — définition: Inversion 2024→2026 : la valeur prouvée migre des processus métier vers la production logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#replace-trust-with-structure\|replace trust with structure]] — rôle: Formule-somme des sept volets : confiance → structure → mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ressource-naturelle-(métaphore-Mensch)\|ressource naturelle (métaphore Mensch)]] — définition: Cadre conceptuel de Mensch : l'IA est une ressource naturelle (électricité → tokens), le datacenter est une mine, le token est une commodité — justifie politique industrielle lourde (1 occ., 1 fiches)
@@ -851,6 +858,7 @@
 - [[kb/_entites-mineures#souveraineté\|souveraineté]] — principe: Propriété d'architecture (non un label) qui se qualifie dépendance par dépendance ; à décomposer en quatre couches — modèle, exécution, infrastructure, relation commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-(Delos)\|souveraineté (Delos)]] — état: Hébergement Scaleway + chiffrement TLS/AES-256, données non utilisées pour l'entraînement ; mais calcul encore partiellement sur Azure France fin 2025, bascule 100 % Scaleway visée début 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-numérique\|souveraineté numérique]] — domaine: Stratégie des États face à la concentration IA (2 occ., 2 fiches)
+- [[kb/_entites-mineures#souveraineté-organisationnelle\|souveraineté organisationnelle]] — précision: Propriété des événements et droit de sortie, distincts de la disponibilité et de la résistance à l'altération (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-par-étages\|souveraineté par étages]] — principe: La maîtrise durable suppose de garder ouvertes trois couches — infrastructure, plateforme, modèle ; le contrat Airbus sécurise la première, la réversibilité de l'IA reste à jouer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-technologique-européenne\|souveraineté technologique européenne]] — description: Réduction de la dépendance aux outils IA américains (2 occ., 2 fiches)
 - [[kb/_entites-mineures#spans-of-control\|spans of control]] — définition: Nombre de subordonnés qu'un manager peut superviser efficacement (1 occ., 1 fiches)
@@ -941,3 +949,4 @@
 - [[kb/_entites-mineures#étape-3-Supervised-autonomy\|étape 3 Supervised autonomy]] — caractérisation: ~100 agents ; rôle = manager de managers (arbre org), Claude écrit presque tout, maintenance en continu en fond ; goulet = confiance dans la boucle + débit décisionnel + efficacité des tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étape-4-AI-native\|étape 4 AI-native]] — caractérisation: ~1000+ agents ; rôle = VP pilotant par l'intention, boucle fermée où Claude lance la plupart des agents, supervision par exception ; goulet = identifier/automatiser le travail à l'échelle + garde-fous par type ; Claude Agent SDK (1 occ., 1 fiches)
 - [[kb/_entites-mineures#évolution-Genèse-Marchandise\|évolution Genèse-Marchandise]] — étapes: Genèse → Sur mesure → Produit → Marchandise (1 occ., 1 fiches)
+- [[kb/_entites-mineures#événement-Nostr-signé\|événement Nostr signé]] — portée: Push, revue, approbation et fusion ; porte l'agent auteur et l'humain qui l'a autorisé (1 occ., 1 fiches)

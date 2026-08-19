@@ -39,17 +39,17 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 390 fiches
-- **Par année** : 2026 (213) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 391 fiches
+- **Par année** : 2026 (214) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 141
-  - Architecture & Construction : 51
+  - Agents de codage IA & Skills : 142
+  - Architecture & Construction : 52
   - Transformation & Adoption : 81
-  - Qualité & Sécurité : 40
+  - Qualité & Sécurité : 41
   - Économie & Marché : 78
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 24
-  - Outils & Plateformes : 48
+  - Outils & Plateformes : 49
   - Recherche & Éducation : 11
   - Produits & Services : 11
   - Politique & Régulation : 22
@@ -85,11 +85,11 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - Ethan Mollick (4)
   - GitHub (4)
   - One Useful Thing (4)
+  - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
   - VentureBeat (2)
-  - Block Engineering (2)
   - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)

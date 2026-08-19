@@ -1,11 +1,11 @@
 # Block
 
-> **Type** : ORGANISATION | 37 relations | 8 fiches sources
+> **Type** : ORGANISATION | 40 relations | 9 fiches sources
 
 ## Attributs
 
 - **positionnement** : Groupe de paiement (Cash App, Square, Afterpay) qui déploie l'IA côté produit et côté interne sans avoir choisi de modèle de prix : au T2 2026, profit brut +25 % à 3,2 Md$ pour des revenus +10 %, après une réorganisation centrée sur l'IA ayant supprimé ~4 000 postes (~40 % des effectifs)
-- **rôle** : Éditeur de Goose (agent open source) et de Buzz ; publie sous Apache-2.0 avec relay auto-hébergeable
+- **rôle** : Éditeur de Buzz ; troisième signature interne sur le produit en un mois
 - **secteur** : Technologie financière (ex-Square)
 
 ## Relations (comme sujet)
@@ -21,6 +21,8 @@
 
 ### affirme_que
 
+- « "we are already exploring ideas around agent trust protocols informed by past behavior" » (CITATION) — 0.96, DYNAMIQUE
+  - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 - « au-delà d'un certain tier les modèles sont indiscernables sur ces tâches, si bien que choisir entre eux n'est plus une décision de qualité mais une décision de budget » (CITATION) — 0.95, ATEMPOREL
   - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 - « une équipe doit contrôler ses propres identités d'agents, son historique et son travail, indépendamment de tout fournisseur ou plateforme » (AFFIRMATION) — 0.95, ATEMPOREL
@@ -71,6 +73,8 @@
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+- [[kb/Buzz-Projects\|Buzz Projects]] (TECHNOLOGIE) — 0.98, STATIQUE
+  - [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 - [[kb/goose\|goose]] (TECHNOLOGIE) — 0.97, STATIQUE
   - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz!]]
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
@@ -112,6 +116,7 @@
 ## Relations (comme objet)
 
 - [[kb/Jack-Dorsey\|Jack Dorsey]] **dirige** → Block — 0.98
+- [[kb/Thomas-Petersen\|Thomas Petersen]] **travaille_chez** → Block — 0.97
 - [[kb/Tyler-Longwell\|Tyler Longwell]] **travaille_chez** → Block — 0.97
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] **travaille_chez** → Block — 0.96
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] **travaille_chez** → Block — 0.96
@@ -127,4 +132,5 @@
 - [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
 - [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
+- [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 - [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]

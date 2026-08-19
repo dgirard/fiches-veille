@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2653 entités avec moins de 3 triples/fiches
+> 2666 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -6540,7 +6540,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (590)
+## TECHNOLOGIE (594)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7358,6 +7358,16 @@
 - [[kb/HubSpot\|HubSpot]] **a_créé** → Breeze — 0.97
 
 **Fiches** : [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]
+
+### Buzz Desktop {#Buzz-Desktop}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Client où Projects est exposé sous l'onglet Experiments
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **observé_dans** → Buzz Desktop — 0.94
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### CLAUDE_PLUGIN_DATA {#CLAUDE_PLUGIN_DATA}
 
@@ -11101,6 +11111,16 @@
 
 **Fiches** : [[fiches/2025-06/yamini-rangan-hubspot-ceo-ai-transformation-2025-06-17\|HubSpot CEO Yamini Rangan on AI-Driven Customer Relationship Transformation]]
 
+### Smart HTTP {#Smart-HTTP}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Transport de fetch/clone/pull/push vers un dépôt Buzz
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **utilise** → Smart HTTP — 0.95
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
 ### SoGPT {#SoGPT}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11983,6 +12003,16 @@
 
 **Fiches** : [[fiches/2026-08/cloudflare-wallets-agentic-commerce-2026-08-04\|Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet]]
 
+### clé Nostr {#clé-Nostr}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Identité unique : signe les messages et les pushes Git
+
+- **permet** → [[kb/_entites-mineures#authentification-Git-par-clé-Nostr\|authentification Git par clé Nostr]] (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
 ### coderabbit-review-helper {#coderabbit-review-helper}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -12106,13 +12136,14 @@
 
 ### git {#git}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
-- **rôle** : Infrastructure de versioning utilisée par systèmes IA autonomes
+- **rôle** : Dépôts standards hébergés sur le relais, sans wrapper propriétaire
 
+- [[kb/Buzz-Projects\|Buzz Projects]] **utilise** → git — 0.97
 - [[kb/compounding-teams\|compounding teams]] **utilise** → git — 0.97
 
-**Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]]
+**Fiches** : [[fiches/2025-09/compounding-teams-schillace-2025-09-28\|I have seen the compounding teams]], [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### harness export AWS {#harness-export-AWS}
 
@@ -12385,6 +12416,16 @@
 - **permet** → « un verdict allow / deny / challenge qui devient lui-même un attribut réutilisable » (AFFIRMATION) — 0.92
 
 **Fiches** : [[fiches/2026-07/valente-zalewski-beyond-zero-enterprise-security-ai-era-2026-07-20\|Beyond Zero: Enterprise security for the AI era]]
+
+### relais Buzz {#relais-Buzz}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **limite** : Source de vérité unique — la souveraineté promise est un droit de sortie, pas une redondance
+
+- [[kb/_entites-mineures#souveraineté-organisationnelle\|souveraineté organisationnelle]] **s_applique_à** → relais Buzz — 0.88
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### remote DOM {#remote-DOM}
 
@@ -12680,7 +12721,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (897)
+## CONCEPT (906)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17117,6 +17158,16 @@
 
 **Fiches** : [[fiches/2026-08/skill-gibbs-hyperresearch-2026-08-03\|hyperresearch — « The Most Powerful Deep Research Harness » / « Agent-driven research knowledge base. Agents collect,…]]
 
+### authentification Git par clé Nostr {#authentification-Git-par-clé-Nostr}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Une seule paire de clés pour la conversation et le dépôt — ni jeton dédié, ni compte GitHub tiers
+
+- [[kb/_entites-mineures#clé-Nostr\|clé Nostr]] **permet** → authentification Git par clé Nostr — 0.94
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
 ### auto-amélioration récursive {#auto-amélioration-récursive}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17164,6 +17215,16 @@
 - **est_basé_sur** → comprendre quand et pourquoi coder (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
+
+### autorisation ex ante des agents {#autorisation-ex-ante-des-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Restriction préalable de ce qu'un agent a le droit de faire — explicitement écartée par le billet
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **s_oppose_à** → autorisation ex ante des agents — 0.85
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### avantage concurrentiel {#avantage-concurrentiel}
 
@@ -18695,6 +18756,17 @@
 
 **Fiches** : [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
 
+### forge logicielle souveraine {#forge-logicielle-souveraine}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Forge vivant sur un relais possédé, dont les identités et les événements appartiennent à l'utilisateur
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **est_instance_de** → forge logicielle souveraine — 0.93
+- [[kb/Buzz\|Buzz]] **affine** → forge logicielle souveraine — 0.84
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
 ### foundation model {#foundation-model}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -18702,6 +18774,16 @@
 - **coût** : Plusieurs mois + millions d'euros + données massives
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
+
+### fragmentation de l'outillage de développement {#fragmentation-de-l'outillage-de-développement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dispersion du bug, de la discussion, de la branche, de la CI, de la revue et des notes de version entre outils distincts
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **résout** → fragmentation de l'outillage de développement — 0.90
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### freins au passage à l'échelle de l'IA agentique {#freins-au-passage-à-l'échelle-de-l'IA-agentique}
 
@@ -18946,6 +19028,20 @@
 - **rôle** : Métaphore de la boucle d'apprentissage qui compose dans le temps
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
+
+### historique de contribution vérifiable {#historique-de-contribution-vérifiable}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Historique signé attaché à une clé, présenté comme portable entre projets et réseaux
+- **limite** : Prouve ce qui a été fait, jamais ce qui ne l'a pas été : exhaustivité et registre négatif non garantis
+
+- **est_basé_sur** → [[kb/_entites-mineures#événement-Nostr-signé\|événement Nostr signé]] (CONCEPT) — 0.95
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **permet** → historique de contribution vérifiable — 0.93
+- [[kb/_entites-mineures#protocoles-de-confiance-des-agents\|protocoles de confiance des agents]] **est_basé_sur** → historique de contribution vérifiable — 0.88
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### homonymie de sigle {#homonymie-de-sigle}
 
@@ -20010,6 +20106,16 @@
 
 **Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
 
+### protocoles de confiance des agents {#protocoles-de-confiance-des-agents}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **statut** : Piste de recherche déclarée par Block — aucun critère, schéma ni calendrier publié
+
+- **est_basé_sur** → [[kb/_entites-mineures#historique-de-contribution-vérifiable\|historique de contribution vérifiable]] (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
 ### provenance d'arête {#provenance-d'arête}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -20109,6 +20215,16 @@
 - [[kb/Netflix\|Netflix]] **permet** → recherche en langage naturel — 0.90
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
+### reconstruction a posteriori du contexte {#reconstruction-a-posteriori-du-contexte}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Coût de retrouver après coup pourquoi une décision a été prise ; ce que la liaison projet↔canal prétend supprimer
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **réduit** → reconstruction a posteriori du contexte — 0.90
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### renversement AI4IT / AI4Business {#renversement-AI4IT-AI4Business}
 
@@ -20434,6 +20550,18 @@
 - [[kb/Big-Tech\|Big Tech]] **réduit** → souveraineté numérique — 0.88
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]], [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
+
+### souveraineté organisationnelle {#souveraineté-organisationnelle}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **précision** : Propriété des événements et droit de sortie, distincts de la disponibilité et de la résistance à l'altération
+
+- **s_applique_à** → [[kb/_entites-mineures#relais-Buzz\|relais Buzz]] (TECHNOLOGIE) — 0.88
+
+- [[kb/Buzz-Projects\|Buzz Projects]] **s_applique_à** → souveraineté organisationnelle — 0.90
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ### souveraineté par étages {#souveraineté-par-étages}
 
@@ -21277,6 +21405,16 @@
 - [[kb/Wardley-Mapping\|Wardley Mapping]] **utilise** → évolution Genèse-Marchandise — 0.96
 
 **Fiches** : [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
+
+### événement Nostr signé {#événement-Nostr-signé}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **portée** : Push, revue, approbation et fusion ; porte l'agent auteur et l'humain qui l'a autorisé
+
+- [[kb/_entites-mineures#historique-de-contribution-vérifiable\|historique de contribution vérifiable]] **est_basé_sur** → événement Nostr signé — 0.95
+
+**Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
 ## METHODOLOGIE (357)
 

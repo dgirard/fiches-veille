@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 494 entités de type PERSONNE
+> 495 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -453,6 +453,7 @@
 - [[kb/_entites-mineures#Thibaut-de-la-Grand'rive\|Thibaut de la Grand'rive]] — rôle: Cofondateur/directeur commercial-Président de Delos (IÉSEG) ; annonce en déc. 2025 vouloir lever une Série A de plusieurs dizaines de M€ d'ici mars 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thierry-Derouet\|Thierry Derouet]] — rôle: Journaliste IT for Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-Bouret\|Thomas Bouret]] — rôle: Patron de Mathieu Grymonprez (a suivi 6 h de cours IA) (1 occ., 1 fiches)
+- [[kb/Thomas-Petersen\|Thomas Petersen]] — rôle: Principal Designer & Builder chez Block ; première fiche du corpus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thomas-d'Aquin\|Thomas d'Aquin]] — époque: Théologien scolastique (XIIIe siècle) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tim-Tully\|Tim Tully]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/Tim-Williams\|Tim Williams]] — rôle: Founder Ignition Consulting Group. Auteur du foreword du rapport VoxComm. Aphorismes "incentives matter", "you are not in the service business" (1 occ., 1 fiches)
