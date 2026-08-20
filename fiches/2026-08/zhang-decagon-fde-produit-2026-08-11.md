@@ -48,47 +48,69 @@ Dirigeant d'éditeur argumentant pour le modèle économique de son propre produ
 
 ## Pense-betes
 
-- **Le test à retenir, en quatre questions (format revue trimestrielle).** C'est la valeur transportable de l'article, indépendante de Decagon :
-  | Question | Ce qu'elle discrimine |
-  |---|---|
-  | Le bespoke est-il dans **l'environnement du client** ou dans **les trous de votre produit** ? | légitimité du sur-mesure |
-  | Le dernier kilomètre est-il **irréductible** ou **simplement non construit** ? | fatalité vs dette |
-  | Vos FDE **découvrent**-ils ou **absorbent**-ils ? | découverte vs amortissement |
-  | Qu'est-ce qui a été **mis dans le produit** la dernière fois qu'un FDE est rentré du terrain ? | preuve, pas intention |
-  → La quatrième est la seule **vérifiable**. Les trois premières s'auto-répondent avantageusement ; celle-là exige un artefact. **C'est la question à poser.**
+- **Date / source** : **11 août 2026**, article long format sur **X** par **Jesse Zhang**, CEO de Decagon.
+- **Cadrage clé** : la règle tient en une phrase — *« Le piège, ce n'est pas de commencer. C'est de ne pas s'arrêter. »*
 
-- **La règle en une phrase** : ***« Le piège, ce n'est pas de commencer. C'est de ne pas s'arrêter. »*** Et le mécanisme qui explique pourquoi on ne s'arrête pas est le meilleur passage du texte : **garder les FDE est plus facile à chaque sprint pris isolément**. Le FDE permet *« d'éviter tous les arbitrages produit difficiles »* — on ne décide jamais ce que le produit fait, laquelle de deux demandes client gagne, où s'arrête la surface de configuration. *« Personne n'a à dire non à personne. »* **La dérive ne vient d'aucune mauvaise décision ; elle vient de l'absence de décision, répétée.** À relier au coût caché : *« Chaque correctif bespoke sur le terrain est une décision produit que vous avez choisi de ne pas prendre. »*
+### Le test en quatre questions
 
-- **La distinction que l'article introduit et qu'il faut importer telle quelle : FDE ≠ implémentation.**
-  | | FDE | Implémentation |
-  |---|---|---|
-  | Objet | **découverte** d'une spec inconnue | **exécution** contre une spec connue |
-  | Exemple | s'asseoir dans la pièce, regarder le produit casser | *« construire l'intégration dans leur système de ticketing »* |
-  | Sortie attendue | des **primitives produit** | un **livrable client** |
-  → *« Regrouper les deux sous un même titre est la façon dont une entreprise se convainc qu'une org de services qui grossit est un investissement produit. »* **Le test d'inventaire** : compter, dans une équipe étiquetée FDE, la part de travail qui est en fait de l'implémentation. Zhang ajoute que cette moitié-là est celle que les modèles absorbent : *« une bonne partie de ce que faisait une équipe d'implémentation en 2023 devient quelque chose que le produit fait lui-même. »*
+Valeur transportable de l'article, indépendante de Decagon — format revue trimestrielle :
 
-- **La généalogie Palantir, à connaître comme cas d'école du « services → produit ».** Séquence : déploiements **Gotham** bespoke (CIA, NSA, unités de renseignement militaire, milieu des années 2000) → encodage des problèmes rencontrés en **primitives de plateforme** — *ontologie, modèles d'objets, permissions, moteurs de workflow, traçabilité de provenance* → **Foundry**, vendable commercialement → Apollo, AIP → standardisation, **marge brute dans les 80 %**, bascule vers une **vente par comptes**, FDE réabsorbés dans l'ingénierie cœur. Deux détails qui font la démonstration : Palantir a **assumé la critique de « glorified consultancy » pendant près de vingt ans** (Lonsdale reconnaît que l'observation était *vraie*), et **refusait les contrats** où le client voulait juste *« Accenture avec un meilleur logiciel »*. **La ligne à retenir : *« La FDE team n'était pas le modèle économique. C'était la façon de construire le bon produit. »*** Voir aussi [[mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10]] où la même org FDE sert d'indicateur inversé, et [[hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06]] sur la remontée des cas particuliers en primitives.
+| Question | Ce qu'elle discrimine |
+|---|---|
+| Le bespoke est-il dans **l'environnement du client** ou dans **les trous de votre produit** ? | légitimité du sur-mesure |
+| Le dernier kilomètre est-il **irréductible** ou **simplement non construit** ? | fatalité vs dette |
+| Vos FDE **découvrent**-ils ou **absorbent**-ils ? | découverte vs amortissement |
+| Qu'est-ce qui a été **mis dans le produit** la dernière fois qu'un FDE est rentré du terrain ? | preuve, pas intention |
 
-- **La contre-épreuve directe du test de Mollick.** Dans [[mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10]] (mai 2026), Ethan Mollick pose : *on saura que les labos croient à l'ASI le jour où ils **dissoudront** leurs équipes FDE* — et constate qu'ils les **recrutent**. Zhang, trois mois plus tard, décrit précisément l'autre mouvement à l'échelle d'une startup : **le produit mange le travail de déploiement** (deux tiers, dit-il). Les deux textes utilisent **le même indicateur** — la taille de l'org FDE comme mesure de ce que le produit ne sait pas encore faire —, l'un pour douter d'un discours, l'autre pour revendiquer un progrès. **Et ils ne se contredisent pas** : Zhang confirme le diagnostic de Mollick (*« nothing about the underlying economics has changed »*) sur le **fait** de la mode FDE, et il note lui-même qu'**Anthropic et OpenAI** ont monté des bras de déploiement calqués sur Palantir. **L'indicateur reste valide ; c'est sa lecture qui diffère selon qu'on regarde un labo ou un éditeur.**
+La quatrième est la seule **vérifiable** : les trois premières s'auto-répondent avantageusement, celle-là exige un artefact.
 
-- **La raison pour laquelle les FDE sont pertinents *maintenant*, et sa date de péremption.** L'argument : en 2015, construire un CRM SaaS ne demandait **aucune découverte de workflow** — vingt ans de pratique avaient déjà défini ce qu'est un pipeline, une étape, une passation de lead. En 2026, un agent IA pour la comptabilité **n'a pas de workflow établi**, *« parce que littéralement personne n'en a jamais utilisé un »*. Corollaire important : **le client ne peut pas vous dire ce qu'il veut, parce que la chose qu'il voudrait n'a pas encore de forme**. → **Le FDE n'est justifié que par la nouveauté de la catégorie.** Dès que la forme se stabilise, la justification tombe — et le compteur tourne.
+### Le mécanisme de la dérive
 
-- **Les deux chiffres de l'article, et comment les citer.**
-  | Chiffre annoncé | Ce qui manque | Usage acceptable |
-  |---|---|---|
-  | *« Deux tiers du travail de déploiement se fait de façon autonome via **Duet** »* | **définition du dénominateur** (« deployment work » : heures ? tickets ? étapes ?), périmètre, période, méthode | « Decagon **déclare** », jamais « Decagon a mesuré » |
-  | *« Quelques jours en moyenne pour lancer le premier **AOP**, même pour grandes banques, compagnies aériennes, télécos »* | **le sigle AOP n'est pas développé** dans le texte ; ni le point de départ du chronomètre, ni la taille de l'échantillon | à citer comme **revendication commerciale datée** |
-  → Ce sont des **assertions de dirigeant sur X**, le jour où il défend son modèle. Même hygiène que pour la lettre aux actionnaires de [[paymentsdive-block-dorsey-pricing-ia-2026-08-06]] : **la source et la date font partie du chiffre**.
+Garder les FDE est plus facile à chaque sprint pris isolément : le FDE permet *« d'éviter tous les arbitrages produit difficiles »* — on ne décide jamais ce que le produit fait, laquelle de deux demandes client gagne, où s'arrête la surface de configuration. *« Personne n'a à dire non à personne. »* La dérive ne vient d'aucune mauvaise décision mais de l'absence de décision, répétée. Coût associé : *« Chaque correctif bespoke sur le terrain est une décision produit que vous avez choisi de ne pas prendre. »*
 
-- **Les deux constantes que Decagon dit entendre chez ses clients entreprise** — utiles au-delà du service client :
-  1. **Vitesse d'itération.** *« Livrer un agent IA n'est pas un one-shot ; il faut le régler et le mettre à jour en permanence. Si chaque ajustement demande de l'ingénierie, ce sera bien trop lent et cher pour passer à l'échelle. »* → **argument structurel contre le FDE permanent** : ce n'est pas une question de marge, c'est une question de **latence de boucle**.
-  2. **Verrouillage fournisseur et souveraineté.** *« Vu l'expérience des organisations avec le SaaS, personne ne veut être enfermé chez un fournisseur et dépendant de ses ressources. »* → une org FDE **est** une dépendance, du point de vue du client. À rapprocher de kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03 et thoughtworks-aiworks-agentic-development-platform-2026-05-12, qui poussent l'autre modèle.
+### FDE ≠ implémentation
 
-- **L'arbitrage assumé, et son coût court terme.** Decagon dit avoir choisi de **ne pas bricoler sur le terrain** quand ç'aurait été plus rapide, et de **transformer les escalades en exigences plutôt qu'en patchs** — *« ce qui prend du temps à court terme »*. **La formule à garder pour une revue d'architecture : escalade → exigence, pas escalade → patch.** Et la contrepartie honnête, rarement dite : *« très peu de startups peuvent signer d'entrée les deals à huit chiffres que Palantir obtenait »*, ce qui rend l'économie du FDE **encore moins soutenable pour elles que pour Palantir**.
+| | FDE | Implémentation |
+|---|---|---|
+| Objet | **découverte** d'une spec inconnue | **exécution** contre une spec connue |
+| Exemple | s'asseoir dans la pièce, regarder le produit casser | *« construire l'intégration dans leur système de ticketing »* |
+| Sortie attendue | des **primitives produit** | un **livrable client** |
 
-- **La limite d'applicabilité, énoncée par l'auteur lui-même.** L'approche produit tient chez Decagon parce que le service client est *« à gros volume, répétable et décomposable »*. **Ces trois adjectifs sont la condition.** Un domaine à faible volume, non répétable et non décomposable (intégration industrielle, systèmes réglementés sur mesure) ne bascule pas dans le même sens. **Ne pas transporter la conclusion sans transporter la condition.**
+*« Regrouper les deux sous un même titre est la façon dont une entreprise se convainc qu'une org de services qui grossit est un investissement produit. »* Test d'inventaire : compter, dans une équipe étiquetée FDE, la part de travail qui relève en fait de l'implémentation. Zhang ajoute que c'est cette moitié-là que les modèles absorbent — *« une bonne partie de ce que faisait une équipe d'implémentation en 2023 devient quelque chose que le produit fait lui-même »*.
 
-- **Méta / à relier** : sur le déplacement de la valeur du service vers le produit, kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03, bain-100b-saas-opportunity-cross-system-labor-agentic-ai-2026-05, voxcomm-mediapost-redesigning-agency-value-model-billable-hours-dead-2026-03 ; sur la tarification qui découle du modèle de livraison, greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10 et paymentsdive-block-dorsey-pricing-ia-2026-08-06 ; sur les agents de service client comme marché, curran-intercom-fin-ideas-2x-nine-months-later-3x-rd-productivity-2026-04-16 ; sur l'IA agentique dans les opérations d'entreprise et les cabinets, ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25 et sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14.
+### La généalogie Palantir, cas d'école du « services → produit »
+
+Déploiements **Gotham** bespoke (CIA, NSA, renseignement militaire, milieu des années 2000) → encodage des problèmes rencontrés en **primitives de plateforme** (ontologie, modèles d'objets, permissions, moteurs de workflow, traçabilité de provenance) → **Foundry**, vendable commercialement → Apollo, AIP → standardisation, **marge brute dans les 80 %**, bascule vers une vente par comptes, FDE réabsorbés dans l'ingénierie cœur.
+
+Deux détails qui font la démonstration : Palantir a assumé la critique de *« glorified consultancy »* pendant près de vingt ans — Lonsdale reconnaissant que l'observation était exacte — et **refusait les contrats** où le client voulait seulement *« Accenture avec un meilleur logiciel »*. Ligne à retenir : *« La FDE team n'était pas le modèle économique. C'était la façon de construire le bon produit. »*
+
+### Contre-épreuve : le même indicateur, deux lectures
+
+En mai 2026, [[mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10]] posait qu'on saurait que les labos croient à l'ASI le jour où ils **dissoudront** leurs équipes FDE — et constatait qu'ils les recrutent. Zhang décrit trois mois plus tard le mouvement inverse à l'échelle d'une startup : le produit mange le travail de déploiement. Les deux textes utilisent le même indicateur — la taille de l'org FDE comme mesure de ce que le produit ne sait pas encore faire —, l'un pour douter d'un discours, l'autre pour revendiquer un progrès. Ils ne se contredisent pas : Zhang confirme le fait de la mode FDE et note lui-même qu'Anthropic et OpenAI ont monté des bras de déploiement calqués sur Palantir.
+
+### Pourquoi maintenant, et la date de péremption
+
+En 2015, construire un CRM SaaS ne demandait aucune découverte de workflow — vingt ans de pratique avaient défini ce qu'est un pipeline, une étape, une passation de lead. En 2026, un agent IA pour la comptabilité n'a pas de workflow établi, *« parce que littéralement personne n'en a jamais utilisé un »*. Corollaire : le client ne peut pas dire ce qu'il veut, parce que la chose qu'il voudrait n'a pas encore de forme. Le FDE n'est donc justifié que par la **nouveauté de la catégorie** ; dès que la forme se stabilise, la justification tombe.
+
+### Les deux chiffres, et comment les citer
+
+| Chiffre annoncé | Ce qui manque | Usage acceptable |
+|---|---|---|
+| *« Deux tiers du travail de déploiement se fait de façon autonome via Duet »* | définition du dénominateur (heures ? tickets ? étapes ?), périmètre, période, méthode | *« Decagon déclare »*, jamais *« Decagon a mesuré »* |
+| *« Quelques jours en moyenne pour lancer le premier AOP, même pour grandes banques, compagnies aériennes, télécos »* | le sigle **AOP n'est pas développé** ; ni point de départ du chronomètre, ni taille d'échantillon | revendication commerciale datée |
+
+Ce sont des assertions de dirigeant sur X, le jour où il défend son modèle : la source et la date font partie du chiffre.
+
+### Les deux constantes entendues chez les clients entreprise
+
+1. **Vitesse d'itération** — *« Livrer un agent IA n'est pas un one-shot ; il faut le régler et le mettre à jour en permanence. Si chaque ajustement demande de l'ingénierie, ce sera bien trop lent et cher pour passer à l'échelle. »* Argument structurel contre le FDE permanent : question de latence de boucle, non de marge.
+2. **Verrouillage fournisseur** — *« Vu l'expérience des organisations avec le SaaS, personne ne veut être enfermé chez un fournisseur et dépendant de ses ressources. »* Une org FDE **est** une dépendance, du point de vue du client.
+
+### L'arbitrage assumé et sa limite
+
+Decagon dit avoir choisi de ne pas bricoler sur le terrain quand ç'aurait été plus rapide, et de **transformer les escalades en exigences plutôt qu'en patchs** — *« ce qui prend du temps à court terme »*. Formule à garder en revue d'architecture : escalade → exigence, pas escalade → patch. Contrepartie honnête : *« très peu de startups peuvent signer d'entrée les deals à huit chiffres que Palantir obtenait »*, ce qui rend l'économie du FDE encore moins soutenable pour elles.
+
+**Limite d'applicabilité énoncée par l'auteur** : l'approche produit tient chez Decagon parce que le service client est *« à gros volume, répétable et décomposable »*. Ces trois adjectifs sont la condition — un domaine à faible volume, non répétable et non décomposable ne bascule pas dans le même sens. Ne pas transporter la conclusion sans transporter la condition.
 
 ## RésuméDe400mots
 

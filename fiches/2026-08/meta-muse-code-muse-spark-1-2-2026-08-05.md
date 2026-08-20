@@ -44,49 +44,59 @@ Meta AI Research, Muse Code, Muse Spark 1.2, agent de codage terminal, bêta, ha
 
 ## Pense-betes
 
-- **Ce qui est lancé** : **Muse Code** (bêta), agent de codage en terminal installé par `curl -fsSL https://dev.meta.ai/install.sh | bash` sur macOS et Linux, et **Muse Spark 1.2**, modèle disponible dans Muse Code et dans **Meta Model API**.
+- **Date / source** : **5 août 2026**, Meta AI Research, annonce non signée. **Muse Code** (bêta), agent de codage en terminal installé par `curl -fsSL https://dev.meta.ai/install.sh | bash` sur macOS et Linux, et **Muse Spark 1.2**, disponible dans Muse Code et dans Meta Model API.
+- **Cadrage clé** : aucun chiffre n'apparaît dans le texte — les quatre comparatifs sont des images matricielles. Les valeurs ci-dessous ont été relevées par lecture visuelle des PNG.
 
-- **Le résultat d'ensemble, absent du texte et lisible seulement dans les images** — Meta perd ses quatre comparatifs :
-  | Comparatif | Vainqueur | Muse Spark 1.2 | Rang |
-  |---|---|---|---|
-  | Terminal-Bench 2.1 | Opus 5 + Claude Code — **86,7 %** | 82,9 % | 2ᵉ / 6 |
-  | DeepSWE 1.1 | Opus 5 + Claude Code — **65,0 %** | 59,3 % | 3ᵉ / 6 |
-  | **Meta Internal Coding Bench** | Opus 5 — **79,4 %** | 70,6 % | 2ᵉ / 5 |
-  | Étude de cas KDA (accélération) | Opus 5 — **+74,0 %** | +68,7 % | **4ᵉ / 6** |
-  → **Sur son propre benchmark propriétaire, Meta se place à 8,8 points derrière Opus 5.** Et sur l'étude de cas qu'elle a choisie pour vitrine, elle passe aussi derrière GPT 5.6 Sol (+71,2 %) et derrière **la génération précédente d'Anthropic**, Opus 4.8 (+69,6 %). C'est le fait central de l'annonce, et il faut aller lire les PNG pour le trouver.
+### Les quatre comparatifs
 
-- **Le gain modèle est plus faible qu'annoncé, et le harnais explique le reste** — la lecture la plus utile de ces chiffres :
-  - Sur **Terminal-Bench** et **DeepSWE**, la 1.1 est évaluée avec **`mini-swe-agent`** et la 1.2 avec **Muse Code**. L'écart affiché (76,2 → 82,9, soit **+6,7 points**) mélange donc **progrès du modèle et progrès du harnais**.
-  - Sur le **benchmark interne**, seul tableau où **aucun harnais n'est indiqué**, l'écart 1.1 → 1.2 tombe à **68,3 → 70,6, soit +2,3 points**.
-  → **Le modèle progresse d'environ deux points ; le reste vient de l'outillage autour de lui.** Meta le dit d'ailleurs à demi-mot en revendiquant le co-entraînement *« to maximize harness compatibility »*. **Aucune de ces comparaisons n'est modèle contre modèle : ce sont des paires modèle + harnais.**
+| Comparatif | Vainqueur | Muse Spark 1.2 | Rang |
+|---|---|---|---|
+| Terminal-Bench 2.1 | Opus 5 + Claude Code — **86,7 %** | 82,9 % | 2ᵉ / 6 |
+| DeepSWE 1.1 | Opus 5 + Claude Code — **65,0 %** | 59,3 % | 3ᵉ / 6 |
+| **Meta Internal Coding Bench** | Opus 5 — **79,4 %** | 70,6 % | 2ᵉ / 5 |
+| Étude de cas KDA (accélération) | Opus 5 — **+74,0 %** | +68,7 % | **4ᵉ / 6** |
 
-- **Et cela valide empiriquement la thèse de Mozilla, à trois semaines d'intervalle** : [[mozilla-state-of-open-source-ai-2026-07]] écrivait *« the model is eating the harness »*, constatait que *« on every model where both appear, the lab's own harness now wins »*, et formulait le mécanisme — *« a harness tuned tightly to one lab's weights becomes a fitted component of that lab's product… the tighter the tuning, the less swappable the weights underneath. **Lock-in arrives as a side effect of optimization.** »* **Muse Code + Muse Spark 1.2 est exactement cet objet** : Meta annonce explicitement avoir entraîné le modèle *avec* le harnais pour maximiser leur compatibilité. Le tableau de Terminal-Bench le montre en creux — chaque modèle y est mesuré avec le harnais de son propre laboratoire.
+Sur son propre benchmark propriétaire, Meta se place à 8,8 points derrière Opus 5 ; sur l'étude de cas choisie pour vitrine, elle passe aussi derrière GPT 5.6 Sol (+71,2 %) et derrière la génération précédente d'Anthropic, Opus 4.8 (+69,6 %).
 
-- **Le journal d'événements — la meilleure idée d'ingénierie du billet** : *« a local event log in which every model call, tool run, approval, and edit is appended »*, source unique de vérité qui rend le runtime *« replay-exact and restart-safe »*. Après un plantage, l'agent reprend **exactement** où il s'était arrêté, ce qui autorise les tâches longues. → **Convergence directe avec le manifeste de run et la commande `run resume` d'[[skill-gibbs-hyperresearch-2026-08-03]]**, où le manifeste est décrit comme *« your durable memory »*. Deux équipes indépendantes arrivent au même dispositif : **le contexte ne survit pas, un journal sur disque si.**
+### Le gain modèle est plus faible qu'affiché
 
-- **Les agents d'arrière-plan persistants — une rupture avec le modèle dominant** : au lieu d'être créés pour une tâche puis détruits, ils *« remain active throughout each session »*, ce qui évite *« redundant information gathering »*, décide **eux-mêmes** quand remonter au principal, et réduit *« latency and the need for steering »*. → À rapprocher du constat inverse de Hugo Lassiège sur les sous-agents jetables — *« je les utilise de moins en moins, les agents récents font eux-mêmes des délégations assez ciblées »* ([[lassiege-usine-logicielle-heure-ia-2026-07-28]]). **Deux réponses opposées au même problème** : Lassiège délègue moins, Meta délègue à des agents qui ne meurent plus.
+Sur Terminal-Bench et DeepSWE, la 1.1 est évaluée avec **`mini-swe-agent`** et la 1.2 avec **Muse Code** : l'écart affiché (76,2 → 82,9, soit **+6,7 points**) mélange progrès du modèle et progrès du harnais. Sur le benchmark interne, seul tableau où aucun harnais n'est indiqué, l'écart 1.1 → 1.2 tombe à **68,3 → 70,6, soit +2,3 points**. Aucune de ces comparaisons n'est modèle contre modèle : ce sont des paires **modèle + harnais**, chaque modèle étant mesuré avec le harnais de son propre laboratoire.
 
-- **`/grill` est livrée d'origine, et le nom n'est pas un hasard** : *« /grill stress-tests that plan until it holds up »*. C'est très exactement la fonction de la skill `grill-with-docs` de Matt Pocock, fichée dans ce corpus depuis juin ([[skill-pocock-grill-with-docs-2026-06]]) — une interview adversariale qui met un plan à l'épreuve avant l'implémentation. **Un pattern né dans la communauté des skills arrive préinstallé chez un laboratoire de frontière.** Signal de maturation : les bonnes pratiques de harnais deviennent des primitives produit.
+Cela valide empiriquement, à trois semaines d'intervalle, le mécanisme décrit par [[mozilla-state-of-open-source-ai-2026-07]] — *« a harness tuned tightly to one lab's weights becomes a fitted component of that lab's product… Lock-in arrives as a side effect of optimization »* — Meta annonçant explicitement avoir co-entraîné le modèle avec le harnais *« to maximize harness compatibility »*.
 
-- **Le triptyque livré** — `/plan` (plan **soumis à approbation**), `/grill` (mise à l'épreuve), `/goal` (poursuite de l'objectif) — décrit une boucle **plan → contestation → exécution** avec un **gate humain** à la première étape. C'est la forme canonique documentée par osmani-agent-harness-engineering-2026-04-19, désormais empaquetée.
+### Le journal d'événements
 
-- **Auto-amélioration, à lire précisément** : *« We also used Muse Spark 1.1 to generate challenging coding environments and instruction-following templates. The model then graded candidate solutions… producing a scalable training dataset for Muse Spark 1.2. »* → **C'est la 1.1 qui génère les environnements *et* qui note**, la 1.2 étant le produit de ce jeu de données. Le sujet de *« the model »* est ambigu et certaines reprises l'ont lu comme la 1.2 ; la lecture naturelle est la 1.1, seule nommée. **Boucle de distillation d'une génération sur elle-même**, dont la limite connue est qu'elle ne peut enseigner que ce que la génération précédente sait déjà évaluer.
+*« A local event log in which every model call, tool run, approval, and edit is appended »*, source unique de vérité rendant le runtime *« replay-exact and restart-safe »* : après un plantage, l'agent reprend exactement où il s'était arrêté, ce qui autorise les tâches longues. Convergence directe avec le manifeste de run et la commande `run resume` de [[skill-gibbs-hyperresearch-2026-08-03]]. Deux équipes indépendantes arrivent au même dispositif : le contexte ne survit pas, un journal sur disque si.
 
-- **Étude de cas noyaux GPU — le protocole est plus intéressant que le résultat** : optimisation itérative sur **plus de 1 000 appels d'outils, jusqu'à 24 heures**, sur les noyaux **KDA** et **MLA** pour GPU **NVIDIA Hopper**. Le modèle écrit, compile, profile et améliore progressivement. **Contrainte notable** : *« Models were prohibited from importing third-party kernel libraries such as FLA directly »* — il fallait réimplémenter l'algorithme en Triton, pas envelopper une implémentation existante. **C'est ce qui rend le test honnête**, et c'est le genre de garde-fou qui manque à beaucoup de démonstrations d'agents.
-  - Sur **KDA** : noyau de préparation parallèle par blocs plus balayage séquentiel inter-blocs, avec re-centrage de la décroissance cumulative au milieu du bloc.
-  - Sur **MLA** : pipeline Triton à deux noyaux, réutilisant le latent KV partagé comme K et comme V, mesuré à taille de lot 1, 64 têtes, séquence 8 192, dimension latente 512.
-  - **KDA est l'attention linéaire de Kimi** (cf. sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16) : Meta fait donc optimiser par son agent le noyau d'une architecture concurrente open-weights. Détail savoureux et révélateur de la circulation des architectures.
+### Agents d'arrière-plan persistants
 
-- **Trois réserves de méthode sur les graphiques** :
-  1. **Aucun chiffre n'apparaît dans le texte.** Les quatre comparatifs sont des **images matricielles** sans données textuelles ni libellé d'accessibilité chiffré. Un lecteur pressé, un agrégateur ou un agent qui lit la page **ne voit aucun résultat**. Les valeurs de cette fiche ont été relevées par lecture visuelle des PNG.
-  2. **L'axe des ordonnées du graphique KDA est non linéaire**, ce que Meta signale honnêtement (*« Axis Spaced Linearly In X »*, graduations 0-27-43-53-60-65-69-72-75 %). L'échelle **dilate le haut de la plage**, ce qui accentue visuellement les écarts entre les modèles de tête — au détriment de Meta, en l'occurrence.
-  3. **Les configurations comparées ne sont pas homogènes** : `max` pour Opus 5 et GPT 5.6 Terra, `high` pour Grok 4.5 et Gemini 3.6 Flash, rien pour Muse Spark. Et Grok est absent du benchmark interne, GPT 5.6 Sol n'apparaît que dans l'étude de cas. **La composition du panel change d'un graphique à l'autre.**
+Au lieu d'être créés pour une tâche puis détruits, ils *« remain active throughout each session »*, ce qui évite *« redundant information gathering »*, leur permet de décider eux-mêmes quand remonter au principal, et réduit *« latency and the need for steering »*. À rapprocher du constat inverse de [[lassiege-usine-logicielle-heure-ia-2026-07-28]] sur les sous-agents jetables (*« je les utilise de moins en moins »*) : deux réponses opposées au même problème — déléguer moins, ou déléguer à des agents qui ne meurent plus.
 
-- **Le benchmark interne est invérifiable** : *« Meta Internal Coding Bench »* n'est pas public, sa composition n'est pas décrite dans le billet, et Meta y mesure ses concurrents. Le fait qu'elle y **perde** rend le chiffre plus crédible qu'un score flatteur — mais un benchmark propriétaire reste non reproductible.
+### Les trois skills livrées
 
-- **Ce que l'annonce ne dit pas** : ni prix, ni limites d'usage, ni licence du modèle, ni ouverture des poids — rupture notable avec la tradition Llama de Meta, sur laquelle le billet est muet. Rien non plus sur les langages supportés, la taille de contexte, ni les garanties de confidentialité du code envoyé.
+`/plan` (plan **soumis à approbation**), **`/grill`** (*« stress-tests that plan until it holds up »*), `/goal`. La boucle décrite est **plan → contestation → exécution** avec un gate humain à la première étape. `/grill` reprend la fonction d'une skill communautaire déjà fichée : un pattern né dans la communauté arrive préinstallé chez un laboratoire de frontière.
 
-- **Méta / à relier** : confirmation empirique du mécanisme de verrouillage par optimisation décrit dans mozilla-state-of-open-source-ai-2026-07 ; journal d'événements et reprise à rapprocher de skill-gibbs-hyperresearch-2026-08-03 ; `/grill` préinstallé face à skill-pocock-grill-with-docs-2026-06 ; doctrine du harnais dans osmani-agent-harness-engineering-2026-04-19 et lassiege-usine-logicielle-heure-ia-2026-07-28 ; concurrents cités dans sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13 et cherny-wu-reflecting-year-claude-code-2026-07-17 ; noyau KDA et architecture Kimi dans sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16.
+### Auto-amélioration, à lire précisément
+
+*« We also used Muse Spark 1.1 to generate challenging coding environments and instruction-following templates. The model then graded candidate solutions… producing a scalable training dataset for Muse Spark 1.2. »* C'est la **1.1** qui génère les environnements et qui note, la 1.2 étant le produit de ce jeu de données — le sujet de *« the model »* est ambigu et certaines reprises l'ont lu comme la 1.2. Boucle de distillation d'une génération sur elle-même, dont la limite connue est qu'elle ne peut enseigner que ce que la génération précédente sait déjà évaluer.
+
+### Étude de cas noyaux GPU : le protocole vaut mieux que le résultat
+
+Optimisation itérative sur **plus de 1 000 appels d'outils, jusqu'à 24 heures**, sur les noyaux **KDA** et **MLA** pour GPU NVIDIA Hopper ; le modèle écrit, compile, profile et améliore. Contrainte notable : *« Models were prohibited from importing third-party kernel libraries such as FLA directly »* — il fallait réimplémenter l'algorithme en Triton, non envelopper une implémentation existante. C'est ce qui rend le test honnête.
+
+Sur KDA : noyau de préparation parallèle par blocs plus balayage séquentiel inter-blocs, avec re-centrage de la décroissance cumulative au milieu du bloc. Sur MLA : pipeline Triton à deux noyaux réutilisant le latent KV partagé comme K et comme V, mesuré à taille de lot 1, 64 têtes, séquence 8 192, dimension latente 512. **KDA est l'attention linéaire de Kimi** : Meta fait donc optimiser par son agent le noyau d'une architecture concurrente open-weights.
+
+### Trois réserves de méthode sur les graphiques
+
+1. **Aucun chiffre dans le texte** : images matricielles sans données textuelles ni libellé d'accessibilité chiffré. Un agrégateur, ou un agent qui lit la page, ne voit aucun résultat.
+2. **L'axe des ordonnées du graphique KDA est non linéaire**, ce que Meta signale honnêtement (*« Axis Spaced Linearly In X »*, graduations 0-27-43-53-60-65-69-72-75 %). L'échelle dilate le haut de la plage et accentue visuellement les écarts entre modèles de tête — au détriment de Meta.
+3. **Les configurations comparées ne sont pas homogènes** : `max` pour Opus 5 et GPT 5.6 Terra, `high` pour Grok 4.5 et Gemini 3.6 Flash, rien pour Muse Spark. Grok est absent du benchmark interne, GPT 5.6 Sol n'apparaît que dans l'étude de cas : la composition du panel change d'un graphique à l'autre.
+
+Le *« Meta Internal Coding Bench »* n'est pas public et sa composition n'est pas décrite ; Meta y mesure ses concurrents. Le fait qu'elle y perde rend le chiffre plus crédible qu'un score flatteur, mais un benchmark propriétaire reste non reproductible.
+
+### Ce que l'annonce ne dit pas
+
+Ni prix, ni limites d'usage, ni licence du modèle, ni ouverture des poids — rupture notable avec la tradition Llama, sur laquelle le billet est muet. Rien non plus sur les langages supportés, la taille de contexte, ni les garanties de confidentialité du code envoyé.
 
 ## RésuméDe400mots
 

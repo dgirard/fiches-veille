@@ -53,51 +53,67 @@ skill, graphe de connaissance, knowledge graph, AST, tree-sitter, analyse statiq
 
 ## Pense-betes
 
-- **Nature** : skill `/graphify` + CLI Python, Apache-2.0, distribuée en PyPI sous le nom **`graphifyy`** (deux *y*, le temps de récupérer `graphify`). Installation `uv tool install graphifyy && graphify install`. Fonctionne dans Claude Code, Cursor, Codex, Gemini CLI, GitHub Copilot et une quinzaine d'autres clients.
+- **Nature** : skill `/graphify` + CLI Python, Apache-2.0, distribuée en PyPI sous le nom **`graphifyy`** (deux *y*, le temps de récupérer `graphify`). `uv tool install graphifyy && graphify install`. Fonctionne dans Claude Code, Cursor, Codex, Gemini CLI, GitHub Copilot et une quinzaine d'autres clients.
+- **Cadrage clé** : le graphe remplace le grep — on demande une relation, pas une occurrence de chaîne.
 
-- **Les trois partis pris, et ils se tiennent** :
-  1. **Le code est parsé localement, sans LLM.** AST tree-sitter, déterministe, *« nothing leaves your machine »*. Un corpus purement code ne demande **aucune clé d'API** et tourne hors ligne. Documents, PDF et images passent en revanche par un modèle.
-  2. **Chaque arête porte sa provenance.** `EXTRACTED` = explicite dans la source ; `INFERRED` = résolue par graphify ; `AMBIGUOUS` dans le rapport. *« You always know what was found vs guessed. »*
-  3. **Pas d'index vectoriel.** Ni embeddings ni magasin de vecteurs : un graphe qu'on traverse.
-  → **Les trois se renforcent** : le déterminisme rend le coût nul, le coût nul rend la reconstruction fréquente possible, et l'étiquetage des arêtes rend le résultat auditable. C'est la même famille de raisonnement que l'exécutable qui bat la consigne dans [[lassiege-usine-logicielle-heure-ia-2026-07-28]].
+### Les trois partis pris, et pourquoi ils se tiennent
 
-- **Le graphe remplace le grep, et c'est l'argument d'usage** : `query "<question>"` rend un sous-graphe pour une question en langue naturelle, `path A B` trace le chemin entre deux entités, `explain X` déplie le voisinage d'un concept. L'exemple du README est parlant : `path "FastAPI" "ModelField"` rend un chemin en trois sauts avec le type de chaque arête. **On demande une relation, pas une occurrence de chaîne.** C'est exactement le bénéfice que Hugo Lassiège attribue à GitNexus dans [[lassiege-usine-logicielle-heure-ia-2026-07-28]] — *« chercher un flux d'exécution plutôt que grepper un nom de fonction »*, et *« le vrai sujet c'est pas la vitesse, c'est de détecter tous les effets de bord »*.
+1. **Le code est parsé localement, sans LLM** — AST tree-sitter, déterministe, *« nothing leaves your machine »*. Un corpus purement code ne demande aucune clé d'API et tourne hors ligne ; documents, PDF et images passent en revanche par un modèle.
+2. **Chaque arête porte sa provenance** — `EXTRACTED` (explicite dans la source), `INFERRED` (résolue par graphify), `AMBIGUOUS` dans le rapport : *« You always know what was found vs guessed. »*
+3. **Pas d'index vectoriel** — ni embeddings ni magasin de vecteurs, un graphe qu'on traverse.
 
-- **Le tableau de benchmarks, lu correctement — la ligne qui compte n'est pas une victoire** :
-  | Benchmark | Métrique | graphify | Champ |
-  |---|---|---|---|
-  | LOCOMO (n=300) | recall@10 | **0,497** | supermemory 0,149 · mem0 0,048 |
-  | LOCOMO (n=300) | exactitude QA | 45,3 % | **supermemory 49,7 %** · mem0 27,3 % |
-  | LongMemEval-S (n=50) | exactitude QA | 76 % | **à égalité** avec un RAG dense |
-  | Construction du graphe | crédits LLM | **0** | facturé au token ailleurs |
-  → **graphify domine largement le rappel, perd en exactitude QA, égale le RAG dense sur le second benchmark, et construit son graphe gratuitement.** Le différenciateur défendable est donc **le coût et la traçabilité, pas la qualité de réponse**. Présenter graphify comme « meilleur que le RAG » serait une surinterprétation que ses propres chiffres démentent. Protocole crédité : même harnais, même modèle, mêmes budgets, juge validé en aveugle contre un second juge (**90,6 % d'accord, kappa de Cohen 0,81**).
+Les trois se renforcent : le déterminisme rend le coût nul, le coût nul rend la reconstruction fréquente possible, et l'étiquetage des arêtes rend le résultat auditable.
 
-- **À rapprocher du seul chiffre comparable du corpus** : Compare the Market mesurait un graphe AST à **~70 %** contre **~58 %** pour un RAG vectoriel sur 79 merge requests, le RAG faisant **pire que pas de contexte du tout** (cf. [[comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06]], repris dans [[sfeir-code-review-anneau-contraintes-2026-07-30]]). **Deux mesures indépendantes convergent sur la supériorité du graphe structuré pour le code** — et graphify ajoute que la construction ne coûte rien.
+### Les benchmarks, lus correctement
 
-- **Couverture des sources — plus large que « du code »** : 36 grammaires tree-sitter couvrant ~40 langages (jusqu'à CUDA, Metal, Zig, Elixir, Julia, Dart, SystemVerilog, Delphi, Fortran), plus **SQL**, **Terraform/HCL**, **Apex Salesforce**, les **configurations MCP** (`.mcp.json`, `claude_desktop_config.json` — extrait serveurs, paquets et variables d'environnement requises), les **manifestes de paquets** (`pyproject.toml`, `go.mod`, `pom.xml` — un nœud canonique par paquet, donc un hub unique), Office, Google Workspace, PDF, images, vidéo et audio. **Graphifier ses propres configurations MCP** est un usage inattendu et immédiatement utile pour cartographier sa surface d'outillage.
+| Benchmark | Métrique | graphify | Champ |
+|---|---|---|---|
+| LOCOMO (n=300) | recall@10 | **0,497** | supermemory 0,149 · mem0 0,048 |
+| LOCOMO (n=300) | exactitude QA | 45,3 % | **supermemory 49,7 %** · mem0 27,3 % |
+| LongMemEval-S (n=50) | exactitude QA | 76 % | **à égalité** avec un RAG dense |
+| Construction du graphe | crédits LLM | **0** | facturé au token ailleurs |
 
-- **Le « pourquoi » extrait comme objet de première classe** : les commentaires `# NOTE:`, `# WHY:`, `# HACK:`, les docstrings et le raisonnement de conception présent dans la documentation deviennent **des nœuds séparés reliés au code qu'ils expliquent**. → **L'intention est traitée comme une entité du graphe**, ce qui répond directement à la dette de compréhension : on peut demander *pourquoi* et non seulement *quoi*.
+graphify domine largement le rappel, **perd en exactitude QA**, égale le RAG dense sur le second benchmark, et construit son graphe gratuitement. Le différenciateur défendable est donc le **coût et la traçabilité**, non la qualité de réponse : présenter graphify comme « meilleur que le RAG » serait démenti par ses propres chiffres. Protocole crédité : même harnais, même modèle, mêmes budgets, juge validé en aveugle contre un second juge (90,6 % d'accord, kappa de Cohen 0,81).
 
-- **Fraîcheur du graphe, trois mécanismes** : cache SHA256 (seuls les fichiers changés sont retraités), `--watch` (reconstruction instantanée sur sauvegarde d'un fichier de code, **AST seul, sans LLM** ; les documents et images notifient qu'un `--update` est nécessaire), et `graphify hook install` (**hook post-commit**, sans processus d'arrière-plan). Le mode `--watch` est explicitement justifié pour les flux multi-agents : *« the graph stays current between waves automatically »*.
+À rapprocher du seul chiffre comparable du corpus : Compare the Market mesurait un graphe AST à ~70 % contre ~58 % pour un RAG vectoriel sur 79 merge requests, le RAG faisant pire que pas de contexte du tout — voir [[comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06]]. Deux mesures indépendantes convergent sur la supériorité du graphe structuré pour le code.
 
-- **Sorties pour agents** : `--wiki` produit des articles de style encyclopédique par communauté avec un `index.md`, *« point any agent at index.md and it can navigate the knowledge base by reading files instead of parsing JSON »*. Et `--mcp` démarre un serveur MCP stdio. Exports Obsidian, GraphML (Gephi, yEd), Neo4j (cypher), SVG. → **Le graphe est fait pour être lu par une machine, avec plusieurs portes d'entrée selon l'outil.** Même intention que le markdown servi aux agents dans martinho-allen-cloudflare-markdown-for-agents-2026-02-12.
+### Interrogation et couverture
 
-- **Vie privée — la frontière est fine, il faut la connaître** :
-  - **Local** : code (tree-sitter), vidéo et audio (faster-whisper). Un corpus code seul tourne **hors ligne**, et `--code-only` force ce mode sur un dépôt mixte.
-  - **Envoyé au modèle** : documents, PDF, images. En mode headless, une clé d'API est requise, avec une **chaîne de priorité automatique** (Gemini → Kimi → Claude → OpenAI → DeepSeek → Azure → Bedrock → Ollama). **Kimi route vers des serveurs Moonshot AI en Chine** — le README le signale, et `--backend ollama` donne le mode entièrement local.
-  - **Pas de télémétrie**, pas de suivi d'usage.
-  - **Mais un journal de requêtes est écrit par défaut** dans `~/.cache/graphify-queries.log` (horodatage, question, corpus, nœuds rendus, durée). Les sous-graphes ne sont pas stockés. Désactivation par `GRAPHIFY_QUERY_LOG_DISABLE=1`. **Local, mais actif sans opt-in** : à connaître avant un déploiement en contexte sensible.
+`query "<question>"` rend un sous-graphe pour une question en langue naturelle, `path A B` trace le chemin entre deux entités, `explain X` déplie le voisinage d'un concept. L'exemple du README : `path "FastAPI" "ModelField"` rend un chemin en trois sauts avec le type de chaque arête. Même bénéfice que celui attribué à GitNexus dans [[lassiege-usine-logicielle-heure-ia-2026-07-28]].
 
-- **Deux pièges documentaires du dépôt lui-même** :
-  1. **La branche `main` est périmée.** Elle porte un README de l'ère **v1** (7 Ko) qui décrit *« a Claude Code skill »* mono-client, met en avant l'argument **« 71,5× moins de tokens »** sur un corpus Karpathy de 52 fichiers, et pointe encore `safishamsi/graphify`. La branche par défaut est **v8** (57 Ko), qui décrit un produit multi-client et met en avant les benchmarks LOCOMO/LongMemEval. **Lire v8, jamais `main`.**
-  2. **Le nom du paquet** : `pip install graphifyy` (deux *y*). La CLI et la commande de skill restent `graphify`.
+Couverture plus large que « du code » : 36 grammaires tree-sitter (~40 langages, jusqu'à CUDA, Metal, Zig, Elixir, Julia, Dart, SystemVerilog, Fortran), plus SQL, Terraform/HCL, Apex Salesforce, les **configurations MCP** (`.mcp.json`, `claude_desktop_config.json` — serveurs, paquets et variables d'environnement requises), les manifestes de paquets (`pyproject.toml`, `go.mod`, `pom.xml`, un nœud canonique par paquet), Office, Google Workspace, PDF, images, vidéo et audio. Graphifier ses propres configurations MCP est un usage inattendu et immédiatement utile pour cartographier sa surface d'outillage.
 
-- **Modèle économique, à voir venir** : la skill open source est la porte d'entrée d'une **plateforme commerciale** sur `graphify.com` — *« the always-on layer… applies the same graph approach to your entire working context: meetings, files, docs, and code, updating continuously in the background »*, en liste d'attente, essai gratuit annoncé. **Open source local d'un côté, service continu hébergé de l'autre** : schéma classique, à intégrer dans toute décision d'adoption.
+### Le « pourquoi » comme objet de première classe
 
-- **La traction demande une lecture prudente** : **103 187 étoiles en quatre mois** est un rythme exceptionnel, même pour un outil viral. Le chiffre est celui que rend l'API GitHub le 6 août 2026 ; il ne dit rien de l'usage réel, et le site officiel du projet en affiche encore **3 700** (cf. graphify-net-annuaire-ia-coding-2026-08-06), signe que la communication n'a pas suivi. **Citer l'étoile comme signal d'attention, jamais comme mesure d'adoption.**
+Les commentaires `# NOTE:`, `# WHY:`, `# HACK:`, les docstrings et le raisonnement de conception présent dans la documentation deviennent des **nœuds séparés reliés au code qu'ils expliquent**. L'intention est traitée comme une entité du graphe : on peut demander *pourquoi*, non seulement *quoi*.
 
-- **Méta / à relier** : même famille que skill-gibbs-hyperresearch-2026-08-03 (magasin persistant, provenance, sortie lisible par un agent), mais sur le code plutôt que sur la recherche documentaire ; réalise en produit ce que Hugo Lassiège obtient de GitNexus dans lassiege-usine-logicielle-heure-ia-2026-07-28 ; convergence chiffrée avec comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06 et sfeir-code-review-anneau-contraintes-2026-07-30 sur graphe AST contre RAG vectoriel ; s'inscrit dans le contexte codifié de vasilopoulos-codified-context-infrastructure-ai-agents-2026-02-24 et les plateformes de contexte de memodb-acontext-context-data-platform-agents-2025-12-11 ; parenté de forme avec les autres fiches de skill, skill-pocock-grill-with-docs-2026-06 ; mécanique des skills dans agent-skills-anthropic-2025-10-16, shihipar-claude-code-lessons-building-skills-2026-06-03 et vincent-superpowers-agentic-skills-framework-github-2026-04-02.
-  **Désambiguïsation** : le site `graphify.net` est une propriété distincte de `graphify.com` (la plateforme commerciale) — voir la fiche dédiée.
+### Fraîcheur et sorties
+
+Trois mécanismes de fraîcheur : cache SHA256 (seuls les fichiers changés sont retraités), `--watch` (reconstruction instantanée sur sauvegarde, **AST seul, sans LLM** ; documents et images notifient qu'un `--update` est nécessaire), et `graphify hook install` (hook post-commit, sans processus d'arrière-plan). Le mode `--watch` est justifié pour les flux multi-agents : *« the graph stays current between waves automatically »*.
+
+Sorties pour agents : `--wiki` produit des articles par communauté avec un `index.md` — *« point any agent at index.md and it can navigate the knowledge base by reading files instead of parsing JSON »* — et `--mcp` démarre un serveur MCP stdio. Exports Obsidian, GraphML, Neo4j (cypher), SVG.
+
+### Vie privée, frontière fine
+
+| Traitement | Où |
+|---|---|
+| Code (tree-sitter), vidéo et audio (faster-whisper) | **local** ; `--code-only` force ce mode sur un dépôt mixte |
+| Documents, PDF, images | **envoyés au modèle** ; chaîne de priorité automatique Gemini → Kimi → Claude → OpenAI → DeepSeek → Azure → Bedrock → Ollama |
+
+**Kimi route vers des serveurs Moonshot AI en Chine** — le README le signale, et `--backend ollama` donne le mode entièrement local. Pas de télémétrie ni de suivi d'usage, mais un **journal de requêtes écrit par défaut** dans `~/.cache/graphify-queries.log` (horodatage, question, corpus, nœuds rendus, durée ; les sous-graphes ne sont pas stockés). Désactivation par `GRAPHIFY_QUERY_LOG_DISABLE=1`. Local, mais actif sans opt-in : à connaître avant un déploiement en contexte sensible.
+
+### Deux pièges documentaires du dépôt
+
+1. **La branche `main` est périmée** : elle porte un README de l'ère v1 (7 Ko) décrivant *« a Claude Code skill »* mono-client, met en avant l'argument « 71,5× moins de tokens » sur un corpus de 52 fichiers, et pointe encore `safishamsi/graphify`. La branche par défaut est **v8** (57 Ko). Lire v8, jamais `main`.
+2. **Le nom du paquet** : `pip install graphifyy` avec deux *y* ; la CLI et la commande de skill restent `graphify`.
+
+### Modèle économique et traction
+
+La skill open source est la porte d'entrée d'une plateforme commerciale sur `graphify.com` — *« the always-on layer… applies the same graph approach to your entire working context: meetings, files, docs, and code, updating continuously in the background »*, en liste d'attente. Open source local d'un côté, service continu hébergé de l'autre.
+
+**103 187 étoiles en quatre mois** est un rythme exceptionnel, mais le chiffre ne dit rien de l'usage réel, et le site officiel du projet en affiche encore 3 700 — signe que la communication n'a pas suivi. Citer l'étoile comme signal d'attention, jamais comme mesure d'adoption.
+
+**Désambiguïsation** : le site `graphify.net` est une propriété distincte de `graphify.com`, la plateforme commerciale.
 
 ## RésuméDe400mots
 
