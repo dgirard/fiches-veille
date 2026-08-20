@@ -4,7 +4,7 @@
 
 ## Attributs
 
-- **définition** : Mode d'exécution de DeepSeek Harness réduit à deux outils — un bash persistant et `str_replace_editor` — livré explicitement pour évaluer des modèles dans un environnement minimal. Enjeu de marché : reprendre la définition du harnais de mesure, alors que Claude Code s'est imposé en 2026 comme harnais d'évaluation de référence y compris chez les laboratoires concurrents. ⚠️ Aucun score publié au 13 août 2026
+- **définition** : Mode d'exécution de DeepSeek Harness réduit à deux outils — un bash persistant et `str_replace_editor` — livré explicitement pour évaluer des modèles dans un environnement minimal. Enjeu de marché : reprendre la définition du harnais de mesure, alors que Claude Code s'est imposé en 2026 comme harnais d'évaluation de référence y compris chez les laboratoires concurrents. Aucun score publié au 13 août 2026
 
 ## Relations (comme sujet)
 

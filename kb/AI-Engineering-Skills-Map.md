@@ -4,7 +4,7 @@
 
 ## Attributs
 
-- **définition** : Carte des compétences d'AI engineering présentée par Andrew Ng le 14 août 2026 sur X et dans The Batch n°366, adossée à une analyse non publiée de plus de 10 000 offres d'emploi, des dizaines d'entretiens structurés et des sondages. Quatre compétences : construire et déployer des applications IA, fondamentaux du génie logiciel, utilisation des agents de codage, façonner la construction — plus un socle d'apprentissage continu. Double destinataire déclaré : développeurs qui priorisent leur apprentissage, employeurs qui recrutent. ⚠️ Aucun résultat chiffré, aucune pondération, aucune sous-compétence publiée ; la carte détaillée est annoncée pour de futurs billets. C'est l'annonce d'une carte, pas la carte
+- **définition** : Carte des compétences d'AI engineering présentée par Andrew Ng le 14 août 2026 sur X et dans The Batch n°366, adossée à une analyse non publiée de plus de 10 000 offres d'emploi, des dizaines d'entretiens structurés et des sondages. Quatre compétences : construire et déployer des applications IA, fondamentaux du génie logiciel, utilisation des agents de codage, façonner la construction — plus un socle d'apprentissage continu. Double destinataire déclaré : développeurs qui priorisent leur apprentissage, employeurs qui recrutent. Aucun résultat chiffré, aucune pondération, aucune sous-compétence publiée ; la carte détaillée est annoncée pour de futurs billets. C'est l'annonce d'une carte, pas la carte
 
 ## Relations (comme sujet)
 

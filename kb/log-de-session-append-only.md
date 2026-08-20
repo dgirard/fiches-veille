@@ -4,7 +4,7 @@
 
 ## Attributs
 
-- **définition** : Journal en ajout seul qui est la source du contexte vu par le modèle dans DeepSeek Harness — et non son compte rendu : l'historique modèle en est projeté par `deriveMessages()`, et fork, reprise, transcripts, télémétrie et persistance en dérivent tous. Invariant associé, asserté à l'exécution : tout ce qui atteint une requête modèle doit être reconstructible depuis le journal, de sorte qu'un nouvel input visible du modèle exige un nouvel événement de session. Un tour rejeté sans aucun step est lui-même journalisé, pour que la tentative reste visible. ⚠️ Format non stabilisé en préversion
+- **définition** : Journal en ajout seul qui est la source du contexte vu par le modèle dans DeepSeek Harness — et non son compte rendu : l'historique modèle en est projeté par `deriveMessages()`, et fork, reprise, transcripts, télémétrie et persistance en dérivent tous. Invariant associé, asserté à l'exécution : tout ce qui atteint une requête modèle doit être reconstructible depuis le journal, de sorte qu'un nouvel input visible du modèle exige un nouvel événement de session. Un tour rejeté sans aucun step est lui-même journalisé, pour que la tentative reste visible. Format non stabilisé en préversion
 
 ## Relations (comme sujet)
 

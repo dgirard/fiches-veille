@@ -7862,7 +7862,7 @@
 
 **Type** : TECHNOLOGIE | 3 relations | 1 fiches
 
-- **définition** : Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. ⚠️ Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas
+- **définition** : Framework de composition par plugins du projet tiers cordiverse, noyau de DeepSeek Harness et vendoré dans son dépôt (avec cosmokit, hmr, loader, schemastery, timer et cinq autres modules) selon un manifeste et une procédure de synchronisation. Les plugins contribuent services, événements typés et effets réversibles à un contexte partagé ; le montage, le démontage et les dépendances sont gérés par le noyau, et les enregistrements se dénouent au déchargement du plugin. Point de dépendance externe : l'argument central du produit repose sur un projet que DeepSeek ne contrôle pas
 
 - **permet** → « de faire contribuer des services, des événements typés et des effets réversibles à un contexte partagé, chaque enregistrement se dénouant au démontage de son plugin — « there is no privileged core to patch » » (AFFIRMATION) — 0.94
 - **est_basé_sur** → [[kb/_entites-mineures#A-Programming-Paradigm-for-Spatiotemporal-Composability\|A Programming Paradigm for Spatiotemporal Composability]] (DOCUMENT) — 0.92
@@ -8221,7 +8221,7 @@
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
 
-- **définition** : Benchmark comptant les tâches d'exploitation complétées sous budgets de temps normalisés (2 h et 6 h), 869 tâches, Pass@1 en run unique. ⚠️ Les budgets ne sont pas des heures d'horloge : le temps d'inférence API est rescalé par le débit de chaque modèle (115 TPS pour GLM-5.3, 40 pour Kimi K3, 47 pour Qwen3.8-Max, source Artificial Analysis). GLM-5.3 : 105 et 130 tâches, contre 29 et 39 pour GLM-5.2
+- **définition** : Benchmark comptant les tâches d'exploitation complétées sous budgets de temps normalisés (2 h et 6 h), 869 tâches, Pass@1 en run unique. Les budgets ne sont pas des heures d'horloge : le temps d'inférence API est rescalé par le débit de chaque modèle (115 TPS pour GLM-5.3, 40 pour Kimi K3, 47 pour Qwen3.8-Max, source Artificial Analysis). GLM-5.3 : 105 et 130 tâches, contre 29 et 39 pour GLM-5.2
 
 **Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
@@ -11772,7 +11772,7 @@
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
-- **définition** : Registre de divulgation créé par Z.ai (août 2026) recensant les vulnérabilités trouvées par ses modèles : 2 436 constats suivis, 53 publiquement divulgués, 2 383 sous embargo, 1 097 de sévérité critique ou élevée, 269 projets open source touchés, plus ancienne faille introduite en 1981, durée de vie moyenne 26,6 ans. Enregistre projet affecté, sévérité, CVE le cas échéant et ancienneté. ⚠️ Le corps du billet qualifie les 1 097 de « medium-to-high » alors que la distribution du même encart donne critical 107 + high 990
+- **définition** : Registre de divulgation créé par Z.ai (août 2026) recensant les vulnérabilités trouvées par ses modèles : 2 436 constats suivis, 53 publiquement divulgués, 2 383 sous embargo, 1 097 de sévérité critique ou élevée, 269 projets open source touchés, plus ancienne faille introduite en 1981, durée de vie moyenne 26,6 ans. Enregistre projet affecté, sévérité, CVE le cas échéant et ancienneté. Le corps du billet qualifie les 1 097 de « medium-to-high » alors que la distribution du même encart donne critical 107 + high 990
 
 - **mesure** → « 2 436 constats suivis dont 53 publiquement divulgués et 2 383 sous embargo, 1 097 de sévérité critique ou élevée, la plus ancienne faille introduite en 1981 et une durée de vie moyenne de 26,6 ans avant découverte » (MESURE) — 0.94
 
@@ -12609,7 +12609,7 @@
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
 
-- **composition** : GSC (mcp-gsc 500+⭐) + Ahrefs officiel (98⭐) + GA4
+- **composition** : GSC (mcp-gsc 500+) + Ahrefs officiel (98) + GA4
 
 - **utilise** → [[kb/_entites-mineures#stack-MCP-minimum\|stack MCP minimum]] (TECHNOLOGIE) — 0.93
 

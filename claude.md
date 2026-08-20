@@ -49,6 +49,62 @@ Dix sections, **dans cet ordre** (gelé) :
 prédicats du graphe). Restent en langue d'origine : Titre Article, URL, noms
 d'auteurs, noms d'entités.
 
+## Registre éditorial de la fiche (norme « ère juin 2026 »)
+
+La fiche **restitue et situe** ; elle ne plaide pas contre l'article. Norme
+mesurée sur `fiches/2026-06/` (38 fiches). S'applique à toute fiche nouvelle ou
+réécrite.
+
+**Règles dures** (par fiche) : marqueurs ⭐ / ⭐⭐ / ⚠️ **≤ 2** ; wikilinks dans
+`## Pense-betes` **≤ 4**, dans `## Veille` **≤ 2**.
+
+**Volumes indicatifs par section** (moyennes de l'ère juin, en caractères) :
+
+| Section | Cible | Dérive constatée en août |
+|---------|-------|--------------------------|
+| `## Veille` | ~1 450 | 3 451 (×2,4) |
+| `## Authors` | **~130** — nom, fonction, support. Rien de plus. | 1 551 (**×12,2**) |
+| `## Ton` | ~1 550 | 2 776 (×1,8) |
+| `## Pense-betes` | ~3 300 | 10 850 (×3,3) |
+| `## Keywords` | ~500 | 1 371 (×2,7) |
+| `## RésuméDe400mots` | 400 mots | 2 866 (×1,00 — **stable**) |
+| `## GrapheDeConnaissance` | ~3 800 | 8 669 (×2,3) |
+
+⚠️ **Pourquoi ce tableau existe.** `## RésuméDe400mots` est la **seule** section
+qui n'a pas dérivé entre février et août 2026. La seule différence : sa
+contrainte chiffrée est **écrite dans son nom**. Toutes les sections sans
+contrainte écrite ont enflé d'un facteur 1,8 à 12. Une cible non écrite n'est
+pas tenue.
+
+⚠️ **La longueur n'est pas le critère.** L'ère juin va de 311 à 3 639
+caractères : une source dense (encyclique, rapport de recherche, spécification)
+justifie une restitution longue. Ce qui distingue une fiche conforme d'une fiche
+dérivée, c'est le **registre**, mesurable par le nombre de marqueurs.
+
+**Ce que fait `## Veille`**, dans cet ordre : situer la source (auteur, fonction
+affichée, support, date, volume) → restituer les apports en les étiquetant
+(`(A)`/`(B)`, `(1)`/`(2)`) → citer le texte en *italique* → rapprocher du corpus
+en une phrase finale. Gras sur les entités et les chiffres, jamais sur un
+jugement.
+
+**Proscrit** — dérive constatée en août 2026 :
+
+- Le procédé **« le sujet annoncé est X, le vrai sujet est Y »**, sous toutes ses
+  variantes (« le vrai sujet », « ce que le texte ne dit pas », « lecture
+  corpus-only »). Une réserve factuelle se pose en une phrase, à sa place, sans
+  mise en scène.
+- Le **procès d'intention** : inférer un intérêt commercial, un désalignement ou
+  une dissimulation. On rapporte ce qui est écrit et ce qui est absent ; on
+  n'attribue pas de motif.
+- Le **tableau de citabilité** des signatures d'un même éditeur, et le comptage
+  « Nième texte de X en un mois ».
+- La **thèse dans le message de commit**. Format attendu :
+  `fiche: Auteur — « Titre » (date), <descriptif neutre de l'apport>`.
+
+⚠️ Cette norme n'est pas décorative. Sans elle, chaque fiche imite les dernières
+fiches lues et `## Veille` enfle d'un cran par génération : **139 caractères en
+février 2026 → 3 478 en août, ×25**. Le garde-fou est ici, pas dans le modèle.
+
 ## Frontmatter éditorial (registre fermé)
 
 Chaque fiche porte un frontmatter YAML validé par le lint. **Clés autorisées

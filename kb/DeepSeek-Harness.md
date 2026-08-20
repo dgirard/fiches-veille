@@ -4,7 +4,7 @@
 
 ## Attributs
 
-- **définition** : Harnais d'agent de codage open source (MIT) publié par DeepSeek le 13 août 2026 en developer preview, commande `dsh`, écrit en TypeScript, bâti sur le noyau Cordis vendoré. Architecture « everything is a plugin » : modèles, outils, skills, sessions, sandboxes, stockage, boucles, ordonnancement et interface sont substituables par configuration. Journal de session append-only comme source unique du contexte modèle, avec invariant runtime « model-visible means logged ». Quatre modes : Standard, Code, Minimal, Creator. Démarrage par `npx @deepseek-ai/dsh web`, Web UI sur 127.0.0.1:3080. ⚠️ Aucune promesse de compatibilité : SESSION_FORMAT_VERSION à 0, backends rejetant les anciens formats sur disque
+- **définition** : Harnais d'agent de codage open source (MIT) publié par DeepSeek le 13 août 2026 en developer preview, commande `dsh`, écrit en TypeScript, bâti sur le noyau Cordis vendoré. Architecture « everything is a plugin » : modèles, outils, skills, sessions, sandboxes, stockage, boucles, ordonnancement et interface sont substituables par configuration. Journal de session append-only comme source unique du contexte modèle, avec invariant runtime « model-visible means logged ». Quatre modes : Standard, Code, Minimal, Creator. Démarrage par `npx @deepseek-ai/dsh web`, Web UI sur 127.0.0.1:3080. Aucune promesse de compatibilité : SESSION_FORMAT_VERSION à 0, backends rejetant les anciens formats sur disque
 
 ## Relations (comme sujet)
 

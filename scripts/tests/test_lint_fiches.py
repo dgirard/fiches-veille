@@ -95,6 +95,55 @@ class TestFicheValide(unittest.TestCase):
         self.assertEqual(lint_text(fiche, "fiche-pad"), [])
 
 
+class TestRegistreEditorial(unittest.TestCase):
+    """Norme « ère juin 2026 » : la fiche restitue, elle ne plaide pas.
+
+    Sans ces bornes, chaque fiche imite les dernières lues et le volume enfle
+    d'un cran par génération (cf. « Registre éditorial » dans CLAUDE.md)."""
+
+    @staticmethod
+    def _avec(section: str, contenu: str) -> str:
+        """Fiche conforme dont une seule section reçoit `contenu`."""
+        return _fiche().replace(
+            {"Veille": "## Veille\nRésumé synthétique.",
+             "Pense-betes": "## Pense-betes\n- note"}[section],
+            f"## {section}\n{contenu}",
+        )
+
+    def test_deux_marqueurs_toleres(self):
+        fiche = self._avec("Veille", "Un point ⭐ et une réserve ⚠️.")
+        self.assertEqual(lint_text(fiche, "f"), [])
+
+    def test_trois_marqueurs_refuses(self):
+        fiche = self._avec("Veille", "⭐ un ⚠️ deux ⭐ trois.")
+        v = lint_text(fiche, "f")
+        self.assertEqual(len(v), 1)
+        self.assertIn("3 marqueurs", v[0])
+
+    def test_marqueur_double_compte_pour_deux(self):
+        """⭐⭐ vaut deux occurrences : c'est la densité qui est bornée."""
+        fiche = self._avec("Veille", "⭐⭐ thèse.")
+        self.assertEqual(lint_text(fiche, "f"), [])
+
+    def test_quatre_wikilinks_pense_betes_toleres(self):
+        liens = " ".join(f"[[fiche-{i}-2026-01-01]]" for i in range(4))
+        self.assertEqual(lint_text(self._avec("Pense-betes", liens), "f"), [])
+
+    def test_wikilinks_pense_betes_plafonnes(self):
+        liens = " ".join(f"[[fiche-{i}-2026-01-01]]" for i in range(5))
+        v = lint_text(self._avec("Pense-betes", liens), "f")
+        self.assertEqual(len(v), 1)
+        self.assertIn("5 wikilinks", v[0])
+        self.assertIn("Pense-betes", v[0])
+
+    def test_wikilinks_veille_plafonnes_plus_bas(self):
+        liens = " ".join(f"[[fiche-{i}-2026-01-01]]" for i in range(3))
+        v = lint_text(self._avec("Veille", liens), "f")
+        self.assertEqual(len(v), 1)
+        self.assertIn("3 wikilinks", v[0])
+        self.assertIn("Veille", v[0])
+
+
 class TestViolationsPredicats(unittest.TestCase):
 
     def test_predicat_hors_registre(self):

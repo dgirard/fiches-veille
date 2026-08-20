@@ -4,7 +4,7 @@
 
 ## Attributs
 
-- **définition** : Quatrième compétence de la carte (*shaping the build*) : les agents livrant de mieux en mieux un spec clair, le travail de l'ingénieur se déplace vers la décision de son contenu. Exige sens produit, compréhension du contexte métier et des objectifs client, capacité à identifier des opportunités et à conduire un projet — notamment l'arbitrage entre livrer vite un MVP à tester et ralentir pour construire soigneusement. ⚠️ La plus dépendante du contexte organisationnel des quatre : là où le spec est contraint par la réglementation ou le contrat, il n'est pas à la main de l'ingénieur
+- **définition** : Quatrième compétence de la carte (*shaping the build*) : les agents livrant de mieux en mieux un spec clair, le travail de l'ingénieur se déplace vers la décision de son contenu. Exige sens produit, compréhension du contexte métier et des objectifs client, capacité à identifier des opportunités et à conduire un projet — notamment l'arbitrage entre livrer vite un MVP à tester et ralentir pour construire soigneusement. La plus dépendante du contexte organisationnel des quatre : là où le spec est contraint par la réglementation ou le contrat, il n'est pas à la main de l'ingénieur
 
 ## Relations (comme sujet)
 

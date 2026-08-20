@@ -63,7 +63,7 @@ Claude Opus 4.8, SEO IA, workflow en deux phases, stratégie vs production, tabl
 ### Phase 2 — Production (chaîne de montage, Opus 4.8 + MCP)
 
 - Chaque décision **ancrée live** via **MCP** (≠ coller une capture GSC).
-- **Stack MCP minimum** : **GSC** (AminForou/mcp-gsc, 500+ ⭐) + **Ahrefs officiel** (98 ⭐) + **GA4**. Repo `modelcontextprotocol/servers` = **86 440 ⭐**, **10 000+ serveurs**, 97M dl SDK/mois.
+- **Stack MCP minimum** : **GSC** (AminForou/mcp-gsc, 500+ ) + **Ahrefs officiel** (98 ) + **GA4**. Repo `modelcontextprotocol/servers` = **86 440 **, **10 000+ serveurs**, 97M dl SDK/mois.
 - **Loop hebdo** : 1 prompt → données live → brief (top 10 SERP + GSC + Ahrefs) → H2/H3 → texte → densité → titres.
 - **+45 % productivité**, draft **6-12 min** (réf. **Ryan Law / Ahrefs**, 23 skills). Mention **Dynamic Workflows** (1 000 subagents).
 
@@ -135,7 +135,7 @@ Quatre erreurs courantes ferment l'article : ne pas vérifier les chiffres (*tru
 | workflow SEO en deux phases | METHODOLOGIE | définition | Stratégie one-off visuelle + production pipeline MCP | AJOUT |
 | dérive du contexte | CONCEPT | définition | Mélange d'intentions → glissement vers best practices génériques | AJOUT |
 | Model Context Protocol | TECHNOLOGIE | catégorie | Standard ouvert d'accès live aux outils/données (Anthropic, nov. 2024) | AJOUT |
-| stack MCP minimum | TECHNOLOGIE | composition | GSC (mcp-gsc 500+⭐) + Ahrefs officiel (98⭐) + GA4 | AJOUT |
+| stack MCP minimum | TECHNOLOGIE | composition | GSC (mcp-gsc 500+) + Ahrefs officiel (98) + GA4 | AJOUT |
 | modelcontextprotocol/servers | TECHNOLOGIE | métrique | 86 440 étoiles, 10 000+ serveurs actifs | AJOUT |
 | loop hebdomadaire | METHODOLOGIE | résultat | +45 % productivité, draft 6-12 min | AJOUT |
 | benchmarks du modèle | CONCEPT | valeurs | SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % | AJOUT |

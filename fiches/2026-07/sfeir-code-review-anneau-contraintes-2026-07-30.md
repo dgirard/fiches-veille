@@ -38,41 +38,70 @@ SFEIR (voix éditoriale du cabinet, article non signé individuellement) — con
 
 ## Pense-betes
 
-- **Nature de la fiche** : c'est un **article de cadre**, pas une source primaire de résultats. La valeur propre au texte tient en trois points, tout le reste est de la synthèse sourcée : (1) **Review hors des gates humains** et le partage « Review instrumente / Ship décide » ; (2) **le rattachement du cliquet à Compound-1** comme phase qui en a la charge ; (3) le chiffre maison − 30 %. Ne pas re-citer via cette fiche les chiffres d'Anthropic ou de Compare the Market : aller aux fiches sources.
-- ⚠️ **Deux sources d'Osmani citées ne sont PAS dans le corpus** et sont les meilleurs candidats d'ajout après cette fiche : *Set the constraints around your agents* (LinkedIn, **30 juillet 2026** — c'est le diagramme d'origine) et surtout ***Software Factories, Light and Dark*** (addyosmani.com, juillet 2026), qui porte à lui seul **trois** des concepts structurants repris ici — le principe de back-pressure, la *comprehension debt* opérationnalisée, et la longueur exploitable des boucles (3 à 10 étapes, perte de fil au-delà d'une vingtaine). Le corpus contient la *comprehension debt* via [[osmani-cognitive-surrender-comprehension-debt-2026-05-05]] et le *ratchet* via [[osmani-agent-harness-engineering-2026-04-19]], mais pas l'essai qui les relie à la métaphore de l'usine éclairée / non éclairée.
-- ⚠️ **Variance de citation à connaître** : SFEIR référence Monperrus sous le titre *« The End of Code Review: How AI Agents Supersede Human Code Review »*. Le titre porté par la fiche du corpus (arXiv 2606.13175) est *« The End of Code Review: Coding Agents Supersede Human Inspection »*. Même papier, même date (11 juin 2026) ; c'est le libellé SFEIR qui dérive. Utiliser le titre arXiv en citation formelle.
-- **La grille dimension par dimension est l'actif réutilisable n° 1** — un tableau à deux colonnes directement transposable en spécification de phase Review, dimension → contrainte mécanisable → jugement humain résiduel :
-  - **Correction** : unitaires, propriété, mutation, oracle vert/rouge → *l'acceptation fonctionnelle*
-  - **Sécurité** : SAST/DAST, dépendances, secrets, revue agentique dédiée → *l'arbitrage du risque résiduel*
-  - **Performance** : budget perf, charge, régression mesurée → *la définition du SLO*
-  - **Accessibilité** : axe, contraste, clavier → *l'expérience réellement vécue*
-  - **Maintenabilité** : couverture, complexité, rayon d'impact, frontières de composants → *la dette architecturale assumée*
-  - **Compréhensibilité** : l'agent consigne ce qu'il a tenté **et ce qu'il a écarté**, journal de décision attaché à la PR → *la reconstruction de l'intention*
-  - **Efficience économique** : budget tokens/compute par tâche, coût par changement → *le TCO et l'arbitrage CapEx/OpEx*
-  - **Back-pressure** (la règle qui relie les sept) : autonomie ≤ vérifiabilité à faible coût → *où placer l'interrupteur*
-- **L'argument d'architecture le plus fort, à réutiliser tel quel en comité** : si Review portait le gate humain, « le point de contrôle du système serait l'attention humaine, une ressource finie qui ne scale pas, face à une capacité de génération qui, elle, scale » — donc **le col ne s'élargirait jamais**, et « vous auriez bâti un pipeline dont le débit maximal est le nombre de diffs qu'un senior peut lire avant la fin de la journée ». C'est l'argument qui justifie de *déplacer* le gate vers Ship plutôt que de *supprimer* l'humain.
-- **Distinction opératoire à retenir** : Review a un **livrable** (un faisceau de preuves opposable), Ship a une **décision** — « et cette décision se prend sur les preuves, pas sur le diff intégral ».
-- **La dimension oubliée, et pourquoi** : la **compréhensibilité** est systématiquement omise « parce qu'elle ne casse pas la CI ». Le remède est le moins cher de la grille et le moins appliqué — demander à l'agent d'écrire ce qu'il a tenté et écarté, puisque « la relecture d'une PR agentique est la première fois qu'un humain reconstruit le *pourquoi* ». Formule à garder : **« l'intention n'est pas perdue, elle est jetée »**.
-- **La validation circulaire, mode d'échec à nommer devant une équipe** : l'agent écrit le code, le même agent écrit les tests, la CI est verte → « un miroir, pas un anneau ». Terme emprunté à Augment Code ([[hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08]]) ; la mesure du phénomène vient de DORA 2025 (adoption IA corrélée **positivement au débit** et **négativement à la stabilité** quand les fondations ne suivent pas). Question de diagnostic n° 2 de l'article, la plus rentable des cinq : *« vos tests sont-ils écrits par l'agent qui écrit le code ? »*
-- **Critère de qualification d'une boucle autonome** (checklist à cinq entrées, réutilisable) : le contrôle doit être **peu coûteux, à haute fréquence, difficile à contourner, immédiat et non dérivant**. Qualifient : oracle vert/rouge, porte de typage, tests de propriété, relecteur agentique doté d'une rubrique réelle. Corollaire à ne pas perdre : **les boucles courtes se vérifient mieux que les longues** (un agent tient 3 à 10 étapes, perd le fil au-delà d'une vingtaine) — « une boucle qui s'étale cache ses erreurs dans les coins ».
-- **Où garder la lumière allumée** : bugs subtils invisibles aux tests, rayons d'impact larges, décisions structurant un an de travail — nommément **authentification, facturation, contrat d'API public**. Et l'avertissement de gouvernance : « le vrai risque est de régler tous les interrupteurs pareil » (tout éteint → démontage quatre mois plus tard ; tout allumé → plus de livraison).
-- **Le cliquet, prolongement propre à SFEIR** : « **toute échappée devient une contrainte** » — un défaut qui a franchi l'anneau ne se corrige pas seulement dans le code, il se **referme dans l'anneau** (test, règle de lint, rubrique de revue, garde-fou de harnais), au **Compound-1**, avec mémoire rechargée au Plan du cycle suivant. C'est le *ratchet principle* d'Osmani (chaque erreur devient une règle, cf. [[osmani-agent-harness-engineering-2026-04-19]]) **branché sur une phase du cycle qui en a explicitement la charge** — c'est là, et pas ailleurs, que le cadre SFEIR ajoute quelque chose au schéma emprunté. Deux formules : « une checklist s'écrit une fois et se périme, l'anneau s'épaissit à chaque cycle » et « **un bug vu deux fois n'est pas un bug, c'est un trou dans le système** ».
-- ⚠️ **Chiffre à manier avec précaution** : **− 30 % d'itérations de correction après dix cycles** est étiqueté *Mesuré · SFEIR*, matière first-party 2026 — **aucun protocole, périmètre, taille d'échantillon ni définition d'« itération de correction » n'est donné**. C'est le seul chiffre propre de l'article et il soutient sa thèse la plus commercialement utile (l'anneau comme actif qui s'apprécie). Ne pas le réemployer en clientèle sans le qualifier.
-- **Aphorisme économique à garder** : l'anneau est « le seul actif de la chaîne qui **s'apprécie pendant que les modèles se déprécient** » — argument d'investissement (le harnais survit au changement de modèle) à rapprocher de la doctrine harness engineering.
-- **L'efficience économique dans une grille de *qualité*** : le point est théoriquement intéressant et défendu en une phrase — « un budget de tokens par tâche est une contrainte au même titre qu'un budget de performance, et il produit la même vertu, **borner l'autonomie par le coût de la vérifier** ». C'est la jonction FinOps ↔ qualité, complémentaire de l'angle « tiering par risque = politique FinOps » de la fiche du 26 juillet.
-- **Métadonnées** : publié le **30 juillet 2026**, non signé (voix cabinet), tags du site `sdlc`, `ia-agentique`, `software-factory`, `harness-engineering`, `code-review`. Huit sources numérotées avec étiquettes de statut. **Publication le jour même du post Osmani commenté** — turnaround remarquable, à considérer comme un fait de veille en soi (le cabinet suit le fil LinkedIn d'Osmani en temps réel et le convertit en épisode de série). L'article renvoie à un texte SFEIR **absent du corpus** : *Code review à l'ère de l'IA : du créateur au vérificateur* (1ᵉʳ avril 2026) — candidat d'ajout, déjà repéré dans la fiche du 26 juillet.
-- **Articulation dossier veille** :
-  - **Cadre maison, à lire d'abord** : [[sfeir-sdlc-ia-cycle-11-phases-2026-06-16]] (les 11 phases et les 3 gates — indispensable pour situer « phase 5, entre Verify et Compound-1 ») et [[sfeir-sdlc-pdlc-articulation-2026-07-22]].
-  - **Fiche jumelle, même semaine** : [[sfeir-anthropic-sdlc-ai-native-securise-2026-07-26]] — les cinq mécanismes anti-cercle repris ici en sont l'objet ; celle-ci porte la *spécification de la phase*, celle-là la *condition de possibilité du cycle*.
-  - **Source des chiffres Anthropic** : [[clinton-anthropic-secure-ai-native-sdlc-2026-07-21]] (16 % → 54 %, un tiers des incidents, mode ombre, tiering par risque, SIEM).
-  - **Osmani, socle conceptuel** : [[osmani-agent-harness-engineering-2026-04-19]] (harnais, *ratchet principle*) et [[osmani-cognitive-surrender-comprehension-debt-2026-05-05]] (*comprehension debt*, PR ~100 lignes, review au standard junior) — la dimension « compréhensibilité » de l'anneau est exactement le garde-fou structurel que Cognitive Surrender réclamait.
-  - **Position antagoniste assumée** : [[monperrus-end-of-code-review-agents-supersede-2026-06-11]] — SFEIR prend le diagnostic, refuse la conclusion.
-  - **Cadre voisin, à comparer sur le nombre de gates** : [[williams-adlc-2-two-human-gates-2026-06-12]] (**deux** gates humains) contre les **trois** de SFEIR ; [[williams-adlc-4-prosecution-not-code-review-2026-06-12]] (la revue comme instruction à charge, même bascule vers la preuve) ; [[williams-adlc-3-tests-are-the-spec-2026-06-12]] (le test comme langage que le constructeur ne peut pas discuter — la formule d'Osmani sur « les contraintes que le modèle ne peut pas discuter » en est le décalque) ; [[williams-adlc-6-lifecycle-gets-cheaper-2026-06-12]] (le cycle qui s'améliore à chaque run = le cliquet).
-  - **Validation circulaire et effet miroir** : [[hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08]], [[dora-report-2025-ai-software-dev-2025-09-23]], [[dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21]].
-  - **Contexte pour un relecteur IA** : [[comparethemarket-context-retrieval-ai-code-review-gkg-rag-2026-03-06]] — la source du ~70 % (graphe AST) vs ~58 % (RAG) sur 79 MR ; à lire avant de bâtir une revue agentique sur du RAG vectoriel.
-  - **Métaphore de l'usine** : [[mccarthy-strongdm-software-factory-agentic-moment-2026-02-06]] et [[wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03]] — « l'usine sans lumière » vient de *Software Factories, Light and Dark*.
-  - **FinOps token (dimension efficience économique)** : [[tokenomics-foundation-linux-finops-token-economics-about-2026-06-03]], [[gupta-token-budget-wars-marginal-token-utility-2026-05-28]], [[beck-starving-genies-usage-limits-ai-coding-2026-04-03]].
-  - **Bascule du créateur au vérificateur** : [[exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07]].
+- **Date / source** : **30 juillet 2026**, SFEIR, non signé (voix cabinet), tags `sdlc`, `ia-agentique`, `software-factory`, `harness-engineering`, `code-review`. Huit sources numérotées avec étiquettes de statut.
+- **Nature** : **article de cadre**, non source primaire de résultats. Trois apports propres ; tout le reste est synthèse sourcée. Ne pas re-citer par cette fiche les chiffres d'Anthropic ou de Compare the Market — aller aux fiches sources.
+
+### Les trois apports propres
+
+1. **Review hors des gates humains**, avec le partage *« Review instrumente / Ship décide »*.
+2. **Le rattachement du cliquet à Compound-1** comme phase qui en a explicitement la charge.
+3. Le chiffre maison **− 30 %**.
+
+### La grille dimension par dimension
+
+Transposable telle quelle en spécification de phase Review : dimension → contrainte mécanisable → jugement humain résiduel.
+
+| Dimension | Contrainte mécanisable | Jugement humain résiduel |
+|---|---|---|
+| Correction | unitaires, propriété, mutation, oracle vert/rouge | l'acceptation fonctionnelle |
+| Sécurité | SAST/DAST, dépendances, secrets, revue agentique dédiée | l'arbitrage du risque résiduel |
+| Performance | budget perf, charge, régression mesurée | la définition du SLO |
+| Accessibilité | axe, contraste, clavier | l'expérience réellement vécue |
+| Maintenabilité | couverture, complexité, rayon d'impact, frontières de composants | la dette architecturale assumée |
+| Compréhensibilité | l'agent consigne ce qu'il a tenté **et ce qu'il a écarté**, journal de décision attaché à la PR | la reconstruction de l'intention |
+| Efficience économique | budget tokens/compute par tâche, coût par changement | le TCO, l'arbitrage CapEx/OpEx |
+
+Règle qui relie les sept : **back-pressure** — autonomie ≤ vérifiabilité à faible coût — dont le jugement résiduel est *où placer l'interrupteur*.
+
+### L'argument d'architecture
+
+Si Review portait le gate humain, *« le point de contrôle du système serait l'attention humaine, une ressource finie qui ne scale pas, face à une capacité de génération qui, elle, scale »* : le col ne s'élargirait jamais, et *« vous auriez bâti un pipeline dont le débit maximal est le nombre de diffs qu'un senior peut lire avant la fin de la journée »*. C'est ce qui justifie de **déplacer** le gate vers Ship plutôt que de supprimer l'humain. Distinction opératoire : Review a un **livrable** (un faisceau de preuves opposable), Ship a une **décision** — *« et cette décision se prend sur les preuves, pas sur le diff intégral »*.
+
+### La dimension oubliée
+
+La **compréhensibilité** est systématiquement omise *« parce qu'elle ne casse pas la CI »*. Le remède est le moins cher de la grille et le moins appliqué : demander à l'agent d'écrire ce qu'il a tenté et écarté, puisque *« la relecture d'une PR agentique est la première fois qu'un humain reconstruit le pourquoi »*. Formule à garder : *« l'intention n'est pas perdue, elle est jetée »*. C'est le garde-fou structurel que réclamait [[osmani-cognitive-surrender-comprehension-debt-2026-05-05]].
+
+### La validation circulaire
+
+L'agent écrit le code, le même agent écrit les tests, la CI est verte : *« un miroir, pas un anneau »*. Mesure du phénomène par DORA 2025 — adoption IA corrélée **positivement au débit** et **négativement à la stabilité** quand les fondations ne suivent pas. Question de diagnostic la plus rentable de l'article : *« vos tests sont-ils écrits par l'agent qui écrit le code ? »*
+
+### Critère de qualification d'une boucle autonome
+
+Le contrôle doit être **peu coûteux, à haute fréquence, difficile à contourner, immédiat et non dérivant**. Qualifient : oracle vert/rouge, porte de typage, tests de propriété, relecteur agentique doté d'une rubrique réelle. Corollaire : les boucles courtes se vérifient mieux que les longues — un agent tient 3 à 10 étapes et perd le fil au-delà d'une vingtaine ; *« une boucle qui s'étale cache ses erreurs dans les coins »*.
+
+Où garder la lumière allumée : bugs subtils invisibles aux tests, rayons d'impact larges, décisions structurant un an de travail — nommément **authentification, facturation, contrat d'API public**. Avertissement de gouvernance : *« le vrai risque est de régler tous les interrupteurs pareil »* — tout éteint mène au démontage quatre mois plus tard, tout allumé à l'arrêt des livraisons.
+
+### Le cliquet, prolongement propre à SFEIR
+
+*« Toute échappée devient une contrainte »* : un défaut qui a franchi l'anneau ne se corrige pas seulement dans le code, il se **referme dans l'anneau** (test, règle de lint, rubrique de revue, garde-fou de harnais), au **Compound-1**, avec mémoire rechargée au Plan du cycle suivant. C'est le *ratchet principle* d'Osmani branché sur une phase du cycle qui en a la charge. Deux formules : *« une checklist s'écrit une fois et se périme, l'anneau s'épaissit à chaque cycle »* et *« un bug vu deux fois n'est pas un bug, c'est un trou dans le système »*. Argument d'investissement associé : l'anneau est *« le seul actif de la chaîne qui s'apprécie pendant que les modèles se déprécient »*.
+
+### Le chiffre maison
+
+**− 30 % d'itérations de correction après dix cycles**, étiqueté *Mesuré · SFEIR*, matière first-party 2026. Aucun protocole, périmètre, taille d'échantillon ni définition d'« itération de correction » n'est donné. C'est le seul chiffre propre de l'article et il soutient sa thèse la plus commercialement utile. Ne pas le réemployer sans le qualifier.
+
+### L'efficience économique dans une grille de qualité
+
+*« Un budget de tokens par tâche est une contrainte au même titre qu'un budget de performance, et il produit la même vertu, borner l'autonomie par le coût de la vérifier. »* Jonction FinOps ↔ qualité.
+
+### Variance de citation à connaître
+
+SFEIR référence Monperrus sous le titre *« The End of Code Review: How AI Agents Supersede Human Code Review »*. Le titre porté par le corpus (arXiv 2606.13175) est *« The End of Code Review: Coding Agents Supersede Human Inspection »*. Même papier, même date (11 juin 2026) ; c'est le libellé SFEIR qui dérive — utiliser le titre arXiv en citation formelle. SFEIR prend le diagnostic de [[monperrus-end-of-code-review-agents-supersede-2026-06-11]] et en refuse la conclusion.
+
+### Sources citées absentes du corpus, candidates à l'ajout
+
+Deux textes d'Osmani : *Set the constraints around your agents* (LinkedIn, **30 juillet 2026** — le diagramme d'origine) et surtout ***Software Factories, Light and Dark*** (addyosmani.com, juillet 2026), qui porte à lui seul trois des concepts structurants repris ici : le principe de back-pressure, la *comprehension debt* opérationnalisée, et la longueur exploitable des boucles. Également absent : *Code review à l'ère de l'IA : du créateur au vérificateur* (SFEIR, 1er avril 2026).
+
+**Fait de veille à noter** : publication le jour même du post Osmani commenté.
 
 ## RésuméDe400mots
 

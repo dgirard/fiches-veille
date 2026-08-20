@@ -6,7 +6,7 @@ source: "Block Engineering"
 
 ## Veille
 
-Billet de benchmarks **Block** du **6 août 2026** sur **Buzz** (le workspace humains+agents lancé le 21 juillet, cf. [[longwell-block-buzz-workspace-agents-nostr-2026-07-21]]) : « quelle est l'équipe d'agents **la moins chère qui réussit de façon fiable** ? ». ⭐⭐ **Le titre promet une méthode de composition d'équipe ; le résultat le plus intéressant est un résultat NÉGATIF que l'article publie quand même** : sur **Terminal-Bench 2.1**, **douze compositions d'équipe** ont été testées — paires, triades, essaims bon marché sous un modèle *frontier* — et ***aucune*** n'a battu **l'agent solo** à prix équivalent. Explication donnée : une tâche qui finit en minutes *« n'a pas assez de structure pour être divisée »*, et *« More agents mostly buys you the cost of explaining it twice »*. ⭐ **L'inversion arrive avec l'horizon** : sur **Long-Horizon Terminal-Bench** (une tâche = des heures de travail, 44 tâches, même chef **GPT-5.6 Sol** en effort *high*), le solo termine **15 tâches / 59,1 %**, +2 QuickBees **19 / 64,1 %**, +1 QuickBee +1 WorkerBee **19 / 69,5 %**, **+2 WorkerBees 20 / 71,5 %** — soit **+12,4 pts**, dont **11,4 pts viennent des tâches terminées en plus**. *« Same seats, opposite result, because the work is a different shape. »* ⚠️ Ces runs LHTB ont été faits **à 3× le timeout** (y compris le solo), la coordination ajoutant de la surcharge. ⭐⭐ **Le deuxième fait remarquable, et il est publié par un acteur qui n'y avait aucun intérêt** : sur Terminal-Bench 2.1 en solo, **Opus 5 en effort *xhigh* est le run le plus cher (140,63 $) et marque 75,0 %** — *moins* que six runs allant de 20,08 $ à 109,82 $, tous entre 79,5 % et 88,4 %. Cause déclarée : **sur-raisonnement → 17 des 88 tâches ont tapé le mur du timeout**. ⚠️ **C'est donc autant un artefact de harness qu'un jugement sur le modèle** — mais l'enseignement pratique tient : *« Paying more stops helping, then starts hurting. »* ⭐ **La conclusion économique est la phrase à retenir** : entre les six meilleurs runs, **5,5× d'écart de prix pour 8,9 pts d'écart de score**, un ex æquo à cette taille d'échantillon → *« choosing between them is not a quality decision at all. It is a budget decision. »* **La taxonomie proposée** (vocabulaire *ad hoc* du billet, assumé comme tel) : **QuickBee** (rapide et bon marché : builds, captures d'écran, suite de tests, tri de première passe — GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux — **à faire tourner en effort max/xhigh/high**), **WorkerBee** (le polyvalent, assez de jugement pour porter un sous-ensemble complet sans surveillance — GPT-5.6 Terra, Gemini 3.6 Flash, modèles ouverts — **high/xhigh**), **SmartBee** (tient la vue d'ensemble, tranche, absorbe les escalades — Claude Opus 5, Kimi K3, GPT-5.6 Sol — **effort medium**), et **l'humain « honorary bee »** : *« The most expensive bee on the team, and the slowest. Also still the smartest. »* ⭐ **Le contre-intuitif sur l'effort de raisonnement** : Luna passe de *medium* (1,61 $ / 57,3 %) à *high* (4,98 $ / 75,0 %) — **plus performant en devenant utilisable**, pour un coût qui reste dérisoire face au reste du tableau → *« on a cheap model, reasoning tokens are the best deal available »*. Inversement, un SmartBee en *medium* suffit à la plupart des tâches. **Deux formes d'équipe** : la **Hive** (équipe permanente d'agents nommés qui accumulent une mémoire de **vos** préférences — *« The tenth time, briefing it is faster than briefing a person »*) et le **Swarm** (équipe jetable qui accumule une mémoire **du projet**, supprimée à la fin). **Le témoignage à retenir** : **Leigh Maddock (ingénieur Block) déclare avoir migré plus de 2 000 apps/projets** avec un Swarm — un Coordinateur, 1 à 10 Migrateurs parallèles, un Vérificateur indépendant — le coordinateur absorbant la majorité des escalades. ⭐ **La règle d'architecture qui en découle** : faire escalader les WorkerBees **vers un coordinateur SmartBee, pas vers l'humain** — *« The human stops being middleware and goes back to being the last reviewer. »* Tout tourne sur **Harbor**, contre de vrais agents Buzz sur un relais **live**, **une tentative par tâche, sans retry**, prix au **2026-07-30**.
+Billet de benchmarks **Block Engineering** du **6 août 2026**, signé **Atish Patel**, portant sur **Buzz** — le workspace humains + agents lancé le 21 juillet — et posant une question de coût : quelle est l'équipe d'agents **la moins chère qui réussit de façon fiable** ? Trois résultats. **(A) Un résultat négatif, publié en entier** : sur **Terminal-Bench 2.1**, **douze compositions d'équipe** (paires, triades, essaims bon marché sous un modèle *frontier*) ont été opposées à l'agent solo autour duquel chacune était construite, et **aucune ne l'a devancé à prix équivalent**. L'explication est structurelle — une tâche qui finit en minutes *« n'a pas assez de structure pour être divisée »*, et *« More agents mostly buys you the cost of explaining it twice »*. **(B) L'horizon retourne le résultat** : sur **Long-Horizon Terminal-Bench** (44 tâches, une tâche valant des heures de travail, même chef **GPT-5.6 Sol** en effort *high*), le solo termine 15 tâches pour 59,1 %, +2 QuickBees 19 pour 64,1 %, +1 QuickBee +1 WorkerBee 19 pour 69,5 %, **+2 WorkerBees 20 pour 71,5 %** — soit **+12,4 points**, dont 11,4 proviennent des tâches menées à leur terme. *« Same seats, opposite result, because the work is a different shape. »* Ces runs ont été conduits à **3× le timeout**, solo compris. **(C) Le prix cesse d'acheter de la qualité au-delà d'un seuil** : en solo sur Terminal-Bench 2.1, **Opus 5 en effort *xhigh* est le run le plus cher (140,63 $) pour 75,0 %**, derrière six runs allant de 20,08 $ à 109,82 $ et de 79,5 % à 88,4 % — cause déclarée, un sur-raisonnement ayant conduit 17 des 88 tâches au timeout. Entre les six meilleurs runs, **5,5× d'écart de prix pour 8,9 points d'écart de score** : *« choosing between them is not a quality decision at all. It is a budget decision. »* Le billet propose une taxonomie assumée comme *ad hoc* — **QuickBee**, **WorkerBee**, **SmartBee**, plus l'humain *« honorary bee »* — et deux formes d'équipe, la **Hive** permanente qui mémorise vos préférences et le **Swarm** jetable qui mémorise le projet. Conditions : tout tourne sur **Harbor**, contre de vrais agents Buzz sur un relais **live**, **une tentative par tâche, sans retry**, prix arrêtés au **2026-07-30**.
 
 ## Titre Article
 
@@ -22,74 +22,106 @@ https://engineering.block.xyz/blog/effective-teams-buzz
 
 ## Keywords
 
-Buzz, Block, équipes d'agents, composition d'équipe, multi-agents, orchestration, QuickBee, WorkerBee, SmartBee, honorary bee, taxonomie de tiers, tier de modèle, Hive, Swarm, équipe permanente, équipe jetable, mémoire de persona, mémoire de projet, persona, siège plutôt que session, escalade, coordinateur, vérificateur indépendant, humain middleware, dernier relecteur, Terminal-Bench 2.1, Long-Horizon Terminal-Bench, LHTB, Harbor, relais live, résultat négatif, tâches longues, horizon long, tâches courtes, structure divisible, surcoût de coordination, timeout, mur d'horloge, sur-raisonnement, over-reasoning, effort de raisonnement, effort medium, effort high, effort xhigh, effort max, tokens de raisonnement, coût par tâche, décision de budget, écart de prix, plafond de score, rendement décroissant, GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, Claude Opus 5, Gemini 3.6 Flash, DeepSeek V4 Flash, Kimi K3, modèles locaux, modèles ouverts, abonnement Claude Code, Codex, multi-fournisseurs, migration de masse, 2000 apps, Leigh Maddock, Atish Patel, revue de PR, triage de tests instables, flaky test, engineering.block.xyz
+Buzz, Block, équipes d'agents, composition d'équipe, multi-agents, orchestration, QuickBee, WorkerBee, SmartBee, honorary bee, taxonomie de tiers, Hive, Swarm, équipe permanente, équipe jetable, mémoire de persona, mémoire de projet, siège plutôt que session, escalade, coordinateur, vérificateur indépendant, humain middleware, dernier relecteur, Terminal-Bench 2.1, Long-Horizon Terminal-Bench, LHTB, Harbor, relais live, résultat négatif, tâches longues, structure divisible, surcoût de coordination, timeout, sur-raisonnement, effort de raisonnement, effort medium, effort high, effort xhigh, tokens de raisonnement, coût par tâche, décision de budget, rendement décroissant, GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, Claude Opus 5, Gemini 3.6 Flash, DeepSeek V4 Flash, Kimi K3, modèles locaux, abonnement Claude Code, Codex, multi-fournisseurs, migration de masse, Leigh Maddock, Atish Patel, revue de PR, triage de test instable
 
 ## Authors
 
-- **Atish Patel** — *« Building AI solutions @ Block »*. Auteur unique.
-- **Leigh Maddock** — Engineer @ Block, cité en encadré pour le témoignage de migration (2 000+ apps/projets).
+- **Atish Patel** — *« Building AI solutions @ Block »*, auteur unique du billet, publié le **6 août 2026** sur `engineering.block.xyz`.
+- **Leigh Maddock** — Engineer @ Block, cité en encadré pour un témoignage de migration (2 000+ apps/projets).
 
-**Position d'énonciation** : ⭐ **billet de benchmarks écrit par l'éditeur du produit mesuré** — le conflit d'intérêt est structurel, et c'est précisément ce qui rend deux passages notables. D'abord la publication d'un **résultat négatif sur sa propre fonctionnalité phare** (les équipes d'agents perdent contre le solo sur les tâches courtes). Ensuite l'insistance sur le fait que **les modèles ne sont pas de Block** — la mention est répétée trois fois, avec attribution complète (*OpenAI, Anthropic, Google, DeepSeek, Moonshot AI*) : Block se positionne en **arbitre neutre** parce qu'il ne vend aucun modèle, seulement la pièce où ils travaillent. ⚠️ À lire avec la précaution correspondante : la métrique optimisée par le billet (*« le moins cher qui réussit »*) est exactement celle qui valorise un **workspace multi-fournisseurs**.
+Billet de benchmarks écrit par l'éditeur du produit mesuré. Deux éléments à porter avec cette réserve : Block publie un **résultat négatif sur sa propre fonctionnalité phare**, et rappelle trois fois que **les modèles ne sont pas les siens** (OpenAI, Anthropic, Google, DeepSeek, Moonshot AI) — la métrique optimisée, *« le moins cher qui réussit »*, étant aussi celle qui valorise un workspace multi-fournisseurs.
 
 ## Ton
 
-**Profil** : billet de benchmarks à visée prescriptive, registre **ingénieur pragmatique**, structuré comme un guide d'achat. Public : équipes qui exploitent déjà plusieurs agents et regardent leur facture d'inférence.
+**Profil** : billet de benchmarks à visée prescriptive, registre ingénieur pragmatique, structuré comme un guide d'achat. Public : équipes qui exploitent déjà plusieurs agents et regardent leur facture d'inférence.
 
-**Style** : ouverture par un **TL;DR de sept lignes** (chaque ligne = un conseil + son chiffre), puis alternance conseil → graphique → lecture du graphique. Trois traits :
+**Style** : ouverture par un **TL;DR de sept lignes**, chaque ligne associant un conseil et son chiffre, puis alternance conseil → graphique → lecture du graphique. La métaphore apicole est poussée jusqu'à devenir une taxonomie utilisable (QuickBee, WorkerBee, SmartBee, *honorary bee*), avec illustrations, et le billet désamorce lui-même l'effet de jargon : *« Note: Hive and Swarm are blog-specific terms we coined »*. L'objectif déclaré de cette grille est explicite — *« The tier + recommended effort helps you remove the noisy model releases »* : raisonner en tiers pour cesser de suivre chaque sortie de modèle. L'honnêteté est mise en scène et tenue : *« the first answer was not the one we were hoping for »*, suivi du résultat négatif publié en entier, et des astérisques annotant les anomalies du tableau (Opus 5 en timeout, Kimi K3 et DeepSeek V4 Flash ne gérant pas l'effort *medium*). Le coût est présenté comme un problème social interne : *« Paying frontier prices for the first one is how you end up explaining a inference bill in a meeting you did not want to attend. »*
 
-1. **⭐ La métaphore apicole poussée jusqu'à devenir une taxonomie utilisable.** *QuickBee / WorkerBee / SmartBee / honorary bee* avec illustrations (lunettes de course, casque de chantier, cravate). Le billet **désamorce lui-même** l'effet de jargon : *« Note: Hive and Swarm are blog-specific terms we coined »*. La blague sert un objectif déclaré : *« The tier + recommended effort helps you remove the noisy model releases »* — **raisonner en tiers pour cesser de suivre chaque sortie de modèle**.
-2. **L'honnêteté mise en scène.** *« the first answer was not the one we were hoping for »*, puis le résultat négatif publié en entier. Idem pour les astérisques du tableau (Opus 5 a *timeout*, Kimi K3 et DeepSeek V4 Flash ne gèrent pas *medium*). C'est le trait qui rend le reste crédible.
-3. **La menace budgétaire comme argument.** *« Paying frontier prices for the first one is how you end up explaining a inference bill in a meeting you did not want to attend. »* Registre : le coût comme problème social interne, pas comme ligne de compte.
+**Formules-marqueurs** :
+- ***« Right bee. Right team. Right task. »***
+- ***« Stop being middleware »*** · ***« Stop babysitting AI »***
+- ***« Paying more stops helping, then starts hurting »***
+- ***« it is not a quality decision at all. It is a budget decision »***
+- ***« Same seats, opposite result, because the work is a different shape »***
+- ***« More agents mostly buys you the cost of explaining it twice »***
+- ***« on a cheap model, reasoning tokens are the best deal available »***
+- ***« the failure mode of agent tooling is not that the work is bad, it is that every ambiguity becomes a notification »***
 
-**Formules-marqueurs** : *« Right bee. Right team. Right task. »*, *« Stop being middleware »*, *« Stop babysitting AI »*, *« Paying more stops helping, then starts hurting »*, *« it is not a quality decision at all. It is a budget decision »*, *« Same seats, opposite result, because the work is a different shape »*, *« More agents mostly buys you the cost of explaining it twice »*, *« on a cheap model, reasoning tokens are the best deal available »*, *« the failure mode of agent tooling is not that the work is bad, it is that every ambiguity becomes a notification »*.
-
-**Position épistémique** : ⭐ **inhabituellement bien bornée pour un billet vendeur**. Les conditions sont posées (Harbor, agents Buzz réels sur relais live, **une tentative par tâche, sans retry**, prix au 2026-07-30, LHTB à 3× le timeout, *« None of the results below were measured on a stripped-down test rig »*), les anomalies sont annotées, et une conclusion est explicitement présentée comme provisoire : *« This might change if models are trained on better collaboration. »* ⚠️ **Ce qui manque** : aucun intervalle de confiance, **n=1 par tâche**, aucun coût publié pour les équipes LHTB (on sait seulement qu'elles coûtent plus cher), et la comparaison d'équipes ne varie qu'un seul chef.
+**Position épistémique** : inhabituellement bien bornée pour un billet d'éditeur. Les conditions sont posées (Harbor, agents Buzz réels sur relais live, une tentative par tâche sans retry, prix au 2026-07-30, LHTB à 3× le timeout, *« None of the results below were measured on a stripped-down test rig »*), les anomalies sont annotées, et une conclusion est donnée pour provisoire : *« This might change if models are trained on better collaboration. »* Manquent en revanche tout intervalle de confiance, le coût des équipes LHTB, et la variation du chef dans la comparaison d'équipes ; **n=1 par tâche**.
 
 ## Pense-betes
 
-- **⭐⭐ Le résultat à retenir avant tout le reste, parce qu'il contredit le discours ambiant sur le multi-agents** : sur **Terminal-Bench 2.1**, **douze compositions** (paires, triades, essaims bon marché sous chef *frontier*) ont été opposées à l'agent solo autour duquel chacune était construite. ***Aucune n'a devancé le SmartBee solo à prix équivalent.*** La raison est structurelle, pas conjoncturelle : une tâche qui finit en minutes **n'a pas assez de structure à diviser**, et *« More agents mostly buys you the cost of explaining it twice. »* → **Règle opérationnelle** : ne pas monter d'équipe pour du travail court et bien spécifié. C'est le contre-poids empirique à l'enthousiasme du billet de lancement ([[longwell-block-buzz-workspace-agents-nostr-2026-07-21]]).
+- **Date / source** : **6 août 2026**, `engineering.block.xyz`, signé **Atish Patel**. Mesures sur **Harbor**, agents Buzz réels sur relais live, **une tentative par tâche, sans retry**, prix au **2026-07-30**.
+- **Cadrage clé** : la question posée n'est pas « quelle est la meilleure équipe » mais « quelle est la moins chère qui réussit de façon fiable ». Tous les résultats en découlent.
 
-- **⭐⭐ L'horizon est la variable qui retourne le résultat.** Sur **Long-Horizon Terminal-Bench** (44 tâches, une tâche = des heures, chef **GPT-5.6 Sol** en *high* pour tous les rosters) :
-  | Roster | Tâches finies /44 | Score |
-  |---|---|---|
-  | SmartBee solo | 15 | 59,1 % |
-  | + 2 QuickBees | 19 | 64,1 % |
-  | + 1 QuickBee + 1 WorkerBee | 19 | 69,5 % |
-  | **+ 2 WorkerBees** | **20** | **71,5 %** |
-  → **+12,4 pts**, dont **11,4 pts sont des complétions supplémentaires** — l'équipe ne fait pas *mieux*, elle **va au bout**. *« Same seats, opposite result, because the work is a different shape. »* ⚠️ **Trois précautions** : runs à **3× le timeout** (solo inclus) ; **le coût des équipes n'est pas publié**, seulement qu'il est supérieur ; **n=1 par tâche**. Le critère de décision proposé reste bon : l'équipe vaut son surcoût *« when the alternative is a human picking up unfinished work »*.
+### Résultat négatif sur les tâches courtes
 
-- **⭐⭐ Le chiffre le plus inconfortable du tableau, publié par un acteur sans intérêt à le publier** : sur Terminal-Bench 2.1 en solo, **Opus 5 en effort *xhigh* = 140,63 $, 75,0 %** — le run **le plus cher** et **battu par six runs à 20,08–109,82 $** (79,5–88,4 %). Cause déclarée : **sur-raisonnement → timeout sur 17 des 88 tâches**. ⚠️⚠️ **Ne pas surinterpréter** : c'est d'abord un **artefact de mur d'horloge**, donc une propriété *du couple modèle × harness × timeout*, pas une mesure de capacité brute. GPT-5.6 Sol présenterait le même travers en plus petit. **Ce qui reste vrai et actionnable** : *« Paying more stops helping, then starts hurting »*, et **un SmartBee en effort *medium* suffit pour la plupart des tâches** — la recommandation officielle du billet.
+Sur **Terminal-Bench 2.1**, douze compositions — paires, triades, essaims bon marché sous chef *frontier* — opposées à l'agent solo autour duquel chacune était construite : **aucune ne l'a devancé à prix équivalent**. Raison donnée comme structurelle : une tâche qui finit en minutes n'a pas assez de structure à diviser, et *« More agents mostly buys you the cost of explaining it twice. »* Règle qui en découle : ne pas monter d'équipe pour du travail court et bien spécifié. Contrepoids empirique au billet de lancement [[longwell-block-buzz-workspace-agents-nostr-2026-07-21]].
 
-- **⭐ Le contre-intuitif sur l'effort, valable en sens inverse selon le tier.** Sur un **modèle bon marché**, monter l'effort est le meilleur achat disponible : **Luna medium = 1,61 $ / 57,3 %** → **Luna high = 4,98 $ / 75,0 %**, *« moves to usable while being cheaper »* que tout le haut du tableau. Sur un **modèle frontier**, monter l'effort **coûte et dégrade**. D'où la grille :
-  | Tier | Effort recommandé | Travail |
-  |---|---|---|
-  | QuickBee | **max / xhigh / high** | builds, captures d'écran, suite de tests, tri de première passe |
-  | WorkerBee | **high / xhigh** | un sous-ensemble complet de bout en bout, sans surveillance |
-  | SmartBee | **medium** | vue d'ensemble, arbitrages, absorption des escalades |
-  → **À tester sur votre propre outillage avant de généraliser** : le point d'inversion dépend de vos timeouts.
+### L'horizon retourne le résultat
 
-- **⭐ La conclusion économique, à citer telle quelle en comité** : parmi les six meilleurs runs, **5,5× d'écart de prix pour 8,9 pts d'écart de score** — un ex æquo à cette taille d'échantillon. *« Everything from Terra at medium effort upward is the same agent as far as these tasks can tell. Which is good news, because it means choosing between them is not a quality decision at all. It is a budget decision. »* ⚠️ Portée limitée à **ce benchmark, ces prix (2026-07-30), ce harness** — mais l'idée qu'**un plateau de qualité existe au-dessus d'un certain tier** est le levier de négociation le plus concret du billet.
+Long-Horizon Terminal-Bench, 44 tâches, chef GPT-5.6 Sol en effort *high* pour tous les rosters :
 
-- **⭐ Deux formes d'équipe, à distinguer par ce dont la mémoire doit se souvenir** :
-  - **Hive** — équipe **permanente** d'agents nommés, chacun avec un rôle et une mémoire de **vos** préférences. L'argument est cumulatif : *« The second time it reviews your peer's code it knows which nits you wave off. The tenth time, briefing it is faster than briefing a person. »*
-  - **Swarm** — équipe **jetable** pour un projet à début et fin (migration, montée de framework, gros refactor), qui accumule une mémoire **du projet** et de ses cas particuliers, puis est **supprimée**.
-  → **Le critère de choix** : *le sujet à mémoriser est-il vous, ou le projet ?* C'est un principe de conception de mémoire d'agent réutilisable hors Buzz. Prérequis assumé : l'agent est **un siège, pas une session** (nom, persona, mémoire, présence propre dans le canal).
+| Roster | Tâches finies /44 | Score |
+|---|---|---|
+| SmartBee solo | 15 | 59,1 % |
+| + 2 QuickBees | 19 | 64,1 % |
+| + 1 QuickBee + 1 WorkerBee | 19 | 69,5 % |
+| **+ 2 WorkerBees** | **20** | **71,5 %** |
 
-- **⭐⭐ La topologie qui fait la différence en exploitation : l'escalade remonte au coordinateur, pas à vous.** Le diagnostic est excellent — *« The failure mode of agent tooling is not that the work is bad, it is that every ambiguity becomes a notification. »* Le SmartBee coordinateur absorbe l'ordinaire (test instable, import ambigu, config déplacée) et **écrit les réponses humaines en mémoire**, si bien que **le Swarm devient moins cher à superviser avec le temps**. *« The human stops being middleware and goes back to being the last reviewer. »* → **Question de qualification à poser à tout outil multi-agents** : *où remontent les escalades, et l'outil apprend-il de mes réponses ?*
++12,4 points, dont **11,4 sont des complétions supplémentaires** : l'équipe ne fait pas mieux, elle va au bout. Trois précautions : runs à 3× le timeout (solo inclus), coût des équipes non publié, n=1 par tâche. Critère de décision proposé par le billet : l'équipe vaut son surcoût *« when the alternative is a human picking up unfinished work »*.
 
-- **Le témoignage à vérifier mais trop gros pour être ignoré** — **Leigh Maddock, Engineer @ Block** : *« I migrated over 2000 apps/projects using Buzz and a Swarm of agents »*, topologie **1 Coordinateur + 1 à 10 Migrateurs parallèles + 1 Vérificateur indépendant**, le coordinateur traitant la majorité des escalades. ⚠️ **Témoignage, pas mesure** : ni durée, ni coût, ni taux d'échec, ni définition de « migré ». **Le motif reste transposable** — c'est le même patron que les *minions* one-shot de Stripe ([[gray-stripe-minions-coding-agents-part1-2026-02-09]], [[gray-stripe-minions-coding-agents-part2-2026-02-19]]), avec en plus **le vérificateur indépendant** et **la mémoire d'escalade**.
+### Le plafond de rendement du prix
 
-- **Compositions prêtes à l'emploi données par le billet** :
-  - **Revue de PR** — SmartBee qui relit la PR + QuickBee qui build en local et produit les captures d'écran.
-  - **Triage de test instable** — QuickBee qui relance les tests et collecte les preuves + SmartBee qui lit les preuves et tranche.
-  - **Travail court** — un seul agent, avec éventuellement un QuickBee sur des tâches **connexes mais différentes** (builds, screenshots, tests), pas sur des morceaux de la même tâche.
-  → Le dénominateur commun : **le tier cher lit et décide, le tier bon marché exécute et rassemble les preuves.**
+En solo sur Terminal-Bench 2.1, **Opus 5 en effort *xhigh* = 140,63 $ pour 75,0 %**, soit le run le plus cher, devancé par six runs entre 20,08 $ et 109,82 $ (79,5 % à 88,4 %). Cause déclarée : sur-raisonnement, avec 17 des 88 tâches au timeout. C'est d'abord un artefact de mur d'horloge — une propriété du couple modèle × harnais × timeout, non une mesure de capacité brute. Ce qui reste actionnable : *« Paying more stops helping, then starts hurting »*, et un SmartBee en effort *medium* suffit pour la plupart des tâches.
 
-- **⭐ Le point stratégique qui explique pourquoi Block publie ces chiffres** : Buzz accepte **vos abonnements Claude Code et Codex**, des modèles ouverts, des modèles locaux. *« You are not locked into one provider or forced to give every job to the most expensive model out of laziness. »* La composition type proposée est explicitement **tri-fournisseurs** : Claude Code/Opus 5 en SmartBee, Codex/GPT-5.6 Terra en WorkerBee, un modèle local en QuickBee. ⚠️ **Lire le billet à travers cet intérêt** : la thèse « le meilleur modèle n'est pas toujours le bon » est vraie *et* commercialement utile à qui vend la pièce plutôt que le modèle. Voir aussi la stratégie de tarification IA de Block : [[paymentsdive-block-dorsey-pricing-ia-2026-08-06]].
+Parmi les six meilleurs runs : **5,5× d'écart de prix pour 8,9 points d'écart de score**, que le billet traite comme un ex æquo à cette taille d'échantillon. *« Everything from Terra at medium effort upward is the same agent as far as these tasks can tell. Which is good news, because it means choosing between them is not a quality decision at all. It is a budget decision. »* Portée limitée à ce benchmark, ces prix et ce harnais.
 
-- **Conditions expérimentales — à recopier si vous rejouez l'exercice** : **Harbor**, vrais agents Buzz sur **relais live** (*« None of the results below were measured on a stripped-down test rig »*), **une tentative par tâche, sans retry**, avec timeouts ; **LHTB à 3× le timeout**, solo compris ; prix au **2026-07-30** ; **Kimi K3 et DeepSeek V4 Flash ne supportent pas l'effort *medium***. ⚠️ **Aucun intervalle de confiance, n=1** : le billet reconnaît d'ailleurs l'ex æquo entre six runs comme un effet de taille d'échantillon. Traiter ces chiffres comme des **ordres de grandeur**, pas comme un classement.
+### Effort de raisonnement : l'arbitrage s'inverse selon le tier
 
-- **La réserve de fond que le billet formule lui-même** : *« One agent is good enough for short, well-specified tasks. **This might change if models are trained on better collaboration.** »* → **Le résultat négatif n'est pas une loi** : il mesure des modèles entraînés à travailler seuls. À rejouer à chaque génération de modèles.
+Sur un modèle bon marché, monter l'effort est le meilleur achat : **Luna medium = 1,61 $ / 57,3 %** → **Luna high = 4,98 $ / 75,0 %**. Sur un modèle frontier, monter l'effort coûte et dégrade.
+
+| Tier | Effort recommandé | Travail | Exemples cités |
+|---|---|---|---|
+| **QuickBee** | max / xhigh / high | builds, captures d'écran, suite de tests, tri de première passe | GPT-5.6 Luna, DeepSeek V4 Flash, modèles locaux |
+| **WorkerBee** | high / xhigh | un sous-ensemble complet de bout en bout, sans surveillance | GPT-5.6 Terra, Gemini 3.6 Flash, modèles ouverts |
+| **SmartBee** | medium | vue d'ensemble, arbitrages, absorption des escalades | Claude Opus 5, Kimi K3, GPT-5.6 Sol |
+| **Humain** | — | *« The most expensive bee on the team, and the slowest. Also still the smartest. »* | — |
+
+Le point d'inversion dépend des timeouts locaux : à retester avant de généraliser.
+
+### Hive ou Swarm : que doit mémoriser l'équipe ?
+
+- **Hive** — équipe **permanente** d'agents nommés, chacun avec un rôle et une mémoire de **vos** préférences. Argument cumulatif : *« The second time it reviews your peer's code it knows which nits you wave off. The tenth time, briefing it is faster than briefing a person. »*
+- **Swarm** — équipe **jetable** pour un projet à début et fin (migration, montée de framework, gros refactor), qui accumule une mémoire **du projet** puis est supprimée.
+
+Critère de choix : le sujet à mémoriser est-il vous, ou le projet ? Prérequis assumé : l'agent est **un siège, pas une session** — nom, persona, mémoire, présence propre dans le canal.
+
+### Topologie d'escalade
+
+Diagnostic : *« The failure mode of agent tooling is not that the work is bad, it is that every ambiguity becomes a notification. »* Le SmartBee coordinateur absorbe l'ordinaire (test instable, import ambigu, config déplacée) et **écrit les réponses humaines en mémoire**, de sorte que le Swarm devient moins cher à superviser avec le temps. *« The human stops being middleware and goes back to being the last reviewer. »* Question de qualification à poser à tout outil multi-agents : où remontent les escalades, et l'outil apprend-il des réponses ?
+
+### Témoignage de migration
+
+**Leigh Maddock**, Engineer @ Block : *« I migrated over 2000 apps/projects using Buzz and a Swarm of agents »*, avec 1 coordinateur, 1 à 10 migrateurs parallèles et 1 vérificateur indépendant, le coordinateur traitant la majorité des escalades. Témoignage et non mesure : ni durée, ni coût, ni taux d'échec, ni définition de « migré ». Le motif reste transposable — même patron que les *minions* one-shot décrits dans [[gray-stripe-minions-coding-agents-part1-2026-02-09]], avec en plus le vérificateur indépendant et la mémoire d'escalade.
+
+### Compositions prêtes à l'emploi
+
+| Cas | Composition |
+|---|---|
+| Revue de PR | SmartBee qui relit la PR + QuickBee qui build en local et produit les captures |
+| Triage de test instable | QuickBee qui relance les tests et collecte les preuves + SmartBee qui tranche |
+| Travail court | un seul agent, éventuellement un QuickBee sur des tâches connexes mais différentes |
+
+Dénominateur commun : le tier cher lit et décide, le tier bon marché exécute et rassemble les preuves.
+
+### Position commerciale
+
+Buzz accepte les abonnements **Claude Code** et **Codex**, des modèles ouverts et des modèles locaux : *« You are not locked into one provider or forced to give every job to the most expensive model out of laziness. »* La composition type proposée est explicitement tri-fournisseurs. La thèse « le meilleur modèle n'est pas toujours le bon » est vraie et commercialement utile à qui vend la pièce plutôt que le modèle. Voir aussi [[paymentsdive-block-dorsey-pricing-ia-2026-08-06]].
+
+### Conditions expérimentales, à recopier si l'exercice est rejoué
+
+Harbor ; agents Buzz réels sur relais live (*« None of the results below were measured on a stripped-down test rig »*) ; une tentative par tâche, sans retry, avec timeouts ; LHTB à 3× le timeout, solo compris ; prix au 2026-07-30 ; Kimi K3 et DeepSeek V4 Flash ne supportent pas l'effort *medium*. Aucun intervalle de confiance, n=1 — le billet reconnaît lui-même l'ex æquo entre six runs comme un effet de taille d'échantillon. Traiter ces chiffres comme des ordres de grandeur.
 
 ## RésuméDe400mots
 

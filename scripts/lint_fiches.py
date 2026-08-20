@@ -219,6 +219,41 @@ def lint_text(text: str, nom: str) -> list[str]:
                 if action not in {"AJOUT", "MISE_A_JOUR", "INVALIDATION"}:
                     v.append(f"{nom} : entité {n} — action invalide « {action} »")
 
+    # 6. Registre éditorial (norme « ère juin 2026 », cf. CLAUDE.md)
+    v.extend(_lint_registre(text, nom))
+
+    return v
+
+
+MAX_MARQUEURS = 2
+MAX_WIKILINKS_PENSE_BETES = 4
+MAX_WIKILINKS_VEILLE = 2
+_MARQUEUR_RE = re.compile("⭐|⚠️")
+
+
+def _lint_registre(text: str, nom: str) -> list[str]:
+    """Règles dures du registre éditorial : densité de marqueurs et de wikilinks.
+
+    La fiche restitue et situe ; elle ne plaide pas. Sans ces bornes, chaque
+    fiche imite les dernières lues et le volume enfle d'un cran par génération
+    (139 caractères de « ## Veille » en février 2026, 3 478 en août).
+    Les cibles de longueur restent indicatives et ne sont pas vérifiées ici.
+    """
+    v: list[str] = []
+    lines = skip_frontmatter(text.splitlines())
+
+    n = len(_MARQUEUR_RE.findall("\n".join(lines)))
+    if n > MAX_MARQUEURS:
+        v.append(f"{nom} : {n} marqueurs ⭐/⚠️ (maximum {MAX_MARQUEURS}) — "
+                 f"registre argumentatif, cf. « Registre éditorial » dans CLAUDE.md")
+
+    sections = split_sections(lines)
+    for sec, plafond in (("Pense-betes", MAX_WIKILINKS_PENSE_BETES),
+                         ("Veille", MAX_WIKILINKS_VEILLE)):
+        w = sections.get(sec, "").count("[[")
+        if w > plafond:
+            v.append(f"{nom} : {w} wikilinks dans « ## {sec} » (maximum {plafond})")
+
     return v
 
 
