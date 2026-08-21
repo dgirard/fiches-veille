@@ -30,9 +30,14 @@ Le contrôle de cohérence exécuté avant tout commit ou toute lecture du corpu
 ## Graphe de connaissance
 
 ### Entité
-Le nœud du graphe : une chose nommée (personne, organisation, technologie, concept…) qui reçoit sa propre page dans la [[KB générée]]. Une entité est identifiée par le **couple nom + type**, jamais par le nom seul — deux homonymes de types différents restent donc distincts et sont séparés automatiquement.
+Le nœud du graphe : une chose nommée (personne, organisation, technologie, concept…) qui reçoit une page dans la [[KB générée]] — sa propre page si elle est assez citée, sinon une section d'une page collective (voir [[Entité mineure]]). Une entité est identifiée par le **couple nom + type**, jamais par le nom seul — deux homonymes de types différents restent donc distincts et sont séparés automatiquement.
 
 Son nom canonique est le **nom complet développé** ; un sigle n'est jamais un nom d'entité, seulement un alias porté en attribut. La raison est asymétrique : deux entités de **même type** qui partageraient un sigle fusionneraient silencieusement en une seule page, et c'est la seule collision qu'aucun contrôle automatique ne rattrape.
+
+### Entité mineure
+Une [[Entité]] trop peu citée pour justifier sa propre page : elle est regroupée avec ses semblables dans une page collective de la [[KB générée]], où elle occupe une ancre plutôt qu'un fichier. Le partage est automatique et se rejoue à chaque build — une entité franchit le seuil dans un sens ou dans l'autre au fil des fiches ajoutées.
+
+« Assez citée » se mesure de deux façons, dont une seule suffit : être sujet d'assez de triples, ou apparaître dans assez de fiches distinctes. Une entité peut donc être majeure en n'étant citée que par une seule fiche, si celle-ci l'assertait abondamment. Conséquence pour la récupération : lister les pages de la KB ne voit que les entités majeures, alors que l'index alphabétique des entités les couvre toutes — c'est lui, et non la liste des fichiers, qui répond à « cette entité existe-t-elle ? ».
 
 ### Triple
 L'assertion élémentaire du graphe, reliant un sujet à un objet par un prédicat issu d'un **registre fermé** — on choisit le prédicat le plus proche, on n'en invente jamais. Chaque triple porte aussi sa confiance, sa temporalité et sa **source épistémique** (énoncé par l'article, inféré, ou ajouté par l'assistant), ce qui permet de lire un fait rapporté autrement qu'une déduction.
