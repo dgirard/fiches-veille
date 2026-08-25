@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 968 entités de type CONCEPT
+> 969 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -895,6 +895,7 @@
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] — définition: Source canonique de vérité, pas une catégorie produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
+- [[kb/_entites-mineures#sélection-de-composant\|sélection de composant]] — rôle: Point d'appui amont : décider de la version avant que le risque n'entre dans l'application (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-client-boucle-d'agent\|séparation client / boucle d'agent]] — définition: Le client tient l'expérience et la configuration, le runtime tient la boucle d'exécution ; frontière protocolaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-des-tâches\|séparation des tâches]] — invariant: L'agent qui produit le code n'a aucun chemin pour l'approuver ; la protection de branche exige un code owner humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)

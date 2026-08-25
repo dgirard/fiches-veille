@@ -1,12 +1,13 @@
 # Index — PERSONNE
 
-> 497 entités de type PERSONNE
+> 498 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@trq212\|@trq212]] — rôle: Ingénieur équipe Claude Code, Anthropic (2 occ., 2 fiches)
 - [[kb/_entites-mineures#@tuning_engines\|@tuning_engines]] — rôle: Compte X (« DevSecFinOps for the Agentic Era ») répondant au thread ; propose de gérer les tokens comme des effectifs (headcount), des model hierarchies (RBAC sur modèles) et l'application des techniques de gestion FTE aux tokens (1 occ., 1 fiches)
 - [[kb/Aaron-Levie\|Aaron Levie]] — role: CEO de Box (2 occ., 2 fiches)
+- [[kb/Aaron-Linskens\|Aaron Linskens]] — rôle: Technical writer chez Sonatype, auteur du billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] — rôle: Cloud developer advocate Google Cloud, Spring Boot/Angular, app modernization + AI code assistance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)

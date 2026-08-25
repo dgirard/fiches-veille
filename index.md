@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 394 fiches | 1975-12 → 2026-08-24 | généré le 2026-08-25
+> 395 fiches | 1975-12 → 2026-08-24 | généré le 2026-08-25
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -11,6 +11,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
 - **21** [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif. · Anthropic (blog claude.com) — SDLC AI-native, cycle de vie logiciel, plays
 - **18** [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`. · Block — Berd, Block, open source
+- **18** [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur. · Sonatype — chaîne d'approvisionnement logicielle, software supply chain, Sonatype Research Labs
 - **18** [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur. · Block Engineering — Buzz, Buzz Projects, Block
 - **14** [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin). · The Batch / DeepLearning.AI — AI Engineering Skills Map, carte des compétences, Andrew Ng
 - **14** [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source. · Z.ai — GLM-5.3, GLM-5.2, Z.ai
@@ -506,6 +507,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
+- [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source.
@@ -793,6 +795,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Qualité & Sécurité
 
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
+- [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source.
 - [Buzz (buzz.xyz) — Rapport de recherche pour présentation](fiches/2026-08/buzz-block-panorama-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit le **12 août 2026** en préparation d'une présentation. Aucune URL publique ; source archivée dans `raw-data/`.
@@ -974,6 +977,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Outils & Plateformes
 
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
+- [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. Page produit **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog ni papier technique associé. Le « nous » n'apparaît qu'une fois, en dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. Publiée le **13 août 2026**. La page est rendue en JavaScript : `curl` sur l'URL renvoie **HTTP 202 avec un corps vide**, le texte n'existant qu'après exécution du bundle. Deux documents de politique sont liés en pied de page — *Safe Use Policy* et *Data Processing Statement*.
@@ -1080,17 +1084,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 394 fiches
-- **Par année** : 2026 (217) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 395 fiches
+- **Par année** : 2026 (218) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 145
+  - Agents de codage IA & Skills : 146
   - Architecture & Construction : 53
   - Transformation & Adoption : 82
-  - Qualité & Sécurité : 42
+  - Qualité & Sécurité : 43
   - Économie & Marché : 78
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 26
-  - Outils & Plateformes : 50
+  - Outils & Plateformes : 51
   - Recherche & Éducation : 11
   - Produits & Services : 12
   - Politique & Régulation : 22

@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 386 entités de type ORGANISATION
+> 388 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -306,6 +306,8 @@
 - [[kb/_entites-mineures#Société-Générale\|Société Générale]] — secteur: Banque (1 occ., 1 fiches)
 - [[kb/Solstice-Lab\|Solstice Lab]] — secteur: recherche appliquée systèmes multi-agents IA (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonar\|Sonar]] — secteur: Qualité et sécurité code (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sonatype\|Sonatype]] — secteur: Éditeur de sécurité de la chaîne d'approvisionnement logicielle (1 occ., 1 fiches)
+- [[kb/Sonatype-Research-Labs\|Sonatype Research Labs]] — apport: Étude longitudinale sur 49 mois (juin 2022 — juin 2026) d'une cohorte fixe d'applications d'entreprise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
 - [[kb/SpaceX\|SpaceX]] — secteur: Spatial / satellites / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)

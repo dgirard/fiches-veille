@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3217 entités
+> 3228 entités
 
 ## #
 
@@ -76,6 +76,7 @@
 - [[kb/_entites-mineures#A2A-Protocol\|A2A Protocol]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AA-Briefcase\|AA-Briefcase]] (DOCUMENT, 1 fiches)
 - [[kb/Aaron-Levie\|Aaron Levie]] (PERSONNE, 2 fiches)
+- [[kb/Aaron-Linskens\|Aaron Linskens]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Aaron-Wanjala\|Aaron Wanjala]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Abhishek-Kankani\|Abhishek Kankani]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ablation-testing\|ablation testing]] (METHODOLOGIE, 1 fiches)
@@ -733,6 +734,7 @@
 - [[kb/_entites-mineures#Cognitive-surrender-(réponse)\|Cognitive surrender (réponse)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Cognizant\|Cognizant]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Coherence-neighborhood\|Coherence neighborhood]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#cohorte-fixe-d'applications\|cohorte fixe d'applications]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#cohérence-d'empreinte\|cohérence d'empreinte]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#cohérence-temporelle\|cohérence temporelle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#collaboration-humain-IA\|collaboration humain-IA]] (CONCEPT, 1 fiches)
@@ -1894,6 +1896,7 @@
 - [[kb/_entites-mineures#Matthew-Diakonov\|Matthew Diakonov]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#mauvaise-configuration-load-balancer\|mauvaise configuration load balancer]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Maven\|Maven]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Max-Schrems\|Max Schrems]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] (PERSONNE, 1 fiches)
@@ -2109,6 +2112,7 @@
 - [[kb/Nova\|Nova]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#noyau-ontologique\|noyau ontologique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#npm\|npm]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NRF-2026\|NRF 2026]] (EVENEMENT, 1 fiches)
 - [[kb/NuExtract\|NuExtract]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#NuExtract-large\|NuExtract-large]] (TECHNOLOGIE, 1 fiches)
@@ -2396,6 +2400,7 @@
 - [[kb/_entites-mineures#Purple-gradient-meme\|Purple gradient meme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pylon\|Pylon]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#pypdf\|pypdf]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#PyPI\|PyPI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Pyramide-de-tests\|Pyramide de tests]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Python\|Python]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#PyTorch\|PyTorch]] (TECHNOLOGIE, 1 fiches)
@@ -2607,6 +2612,7 @@
 - [[kb/_entites-mineures#Secret-Cyborgs\|Secret Cyborgs]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#section-Gotchas\|section Gotchas]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Secure-GPT\|Secure GPT]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Self-improving-coding-agent\|Self-improving coding agent]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#self-profiling\|self-profiling]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#self-supervised-learning\|self-supervised learning]] (METHODOLOGIE, 1 fiches)
@@ -2724,6 +2730,9 @@
 - [[kb/Solstice-Lab\|Solstice Lab]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sonar\|Sonar]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Sonatype\|Sonatype]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Sonatype-Guide\|Sonatype Guide]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Sonatype-Research-Labs\|Sonatype Research Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Sonnet\|Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sonnet-4.5\|Sonnet 4.5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sophie-Neary\|Sophie Neary]] (PERSONNE, 1 fiches)
@@ -2852,6 +2861,7 @@
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#sélection-de-composant\|sélection de composant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Sénèque\|Sénèque]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#séparation-client-boucle-d'agent\|séparation client / boucle d'agent]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#séparation-des-tâches\|séparation des tâches]] (CONCEPT, 1 fiches)
@@ -2919,6 +2929,7 @@
 - [[kb/Thariq\|Thariq]] (PERSONNE, 1 fiches)
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] (PERSONNE, 4 fiches)
 - [[kb/_entites-mineures#The-AI-Journal\|The AI Journal]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#The-Architect-Elevator\|The Architect Elevator]] (ORGANISATION, 1 fiches)

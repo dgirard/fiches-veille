@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 761 entités de type TECHNOLOGIE
+> 765 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -409,6 +409,7 @@
 - [[kb/_entites-mineures#Markdown\|Markdown]] — catégorie: Format de base dont Markdown for Agents fixe l'usage pour les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Markdown-for-Agents\|Markdown for Agents]] — catégorie: Conversion HTML vers Markdown en edge (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Marketing-AI-OS\|Marketing AI OS]] — définition: Système d'IA marketing interne bâti dans Claude (2026) : quatre couches — vérité, production, vérification, distribution interne —, une trentaine de skills contenu et vente, une douzaine de modules de source de vérité, sept agents dont six ne font que contrôler, un plugin terminal et une application navigateur portant la même connaissance, plus une orchestration enchaînant trois ou quatre actifs en un *campaign bundle* (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Maven\|Maven]] — mesure: Version moins risquée déjà disponible dans 62,2 % des sélections vulnérables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MegaBill\|MegaBill]] — catégorie: Ingestion unifiée des factures fournisseurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MenuGen\|MenuGen]] — catégorie: App vibe-codée par Karpathy (photo menu → images plats), rendue obsolète par Nanobanana (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merchant-Center\|Merchant Center]] — catégorie: Plateforme de gestion de catalogue Google (1 occ., 1 fiches)
@@ -503,6 +504,7 @@
 - [[kb/_entites-mineures#Project-Genie\|Project Genie]] — audience: Abonnés Google US Ultra (1 occ., 1 fiches)
 - [[kb/Project-Jules\|Project Jules]] — catégorie: Agent de codage proactif autonome (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Puppeteer\|Puppeteer]] — catégorie: MCP pour automatisation de navigateur (2 occ., 2 fiches)
+- [[kb/_entites-mineures#PyPI\|PyPI]] — mesure: Version moins risquée déjà disponible dans 34,3 % des sélections vulnérables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PyTorch\|PyTorch]] — catégorie: Framework deep learning (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Python\|Python]] — avantage_SDD: Vélocité maximale, meilleure compréhension modèles (1 occ., 1 fiches)
 - [[kb/QMD\|QMD]] — catégorie: Moteur de recherche local pour documents markdown (5 occ., 1 fiches)
@@ -575,6 +577,7 @@
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] — catégorie: Outil IA interne Société Générale (1 occ., 1 fiches)
 - [[kb/Sol\|Sol]] — positionnement: Flagship (tâches dures, coding long-horizon, cyber, science) ; modes « max » et « ultra » (agents parallèles) ; 5 $/30 $ par M tokens ; variante Sol Pro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solario\|Solario]] — catégorie: Plateforme/produit Wescale, construite avec sa propre méthodologie ("Solario sur Solario") (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sonatype-Guide\|Sonatype Guide]] — fonction: Porte l'intelligence de composant (risque, versions plus sûres, politique) au moment du choix, y compris pour les assistants IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonnet\|Sonnet]] — usage: Implémentation substantielle de code (model override) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sonnet-4.5\|Sonnet 4.5]] — usage: modèle par défaut, équilibré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sorbet\|Sorbet]] — catégorie: Système de vérification de types pour Ruby (1 occ., 1 fiches)
@@ -721,6 +724,7 @@
 - [[kb/n8n-workflows\|n8n-workflows]] — nombre de workflows: 4 343 (4 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-IA\|navigateur IA]] — positionnement: Troisième terme possible du duel desktop/web : le critique le plus virulent de Claude Desktop utilise Claude dans le navigateur d'OpenAI, ce qui déplace la question du client natif vers la surface de navigation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#navigateur-web\|navigateur web]] — statut: remplacé progressivement par MCP (1 occ., 1 fiches)
+- [[kb/_entites-mineures#npm\|npm]] — mesure: Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#orchestration-agentique\|orchestration agentique]] — statut: Vecteur principal de l'évolution du vibe coding (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pi-ai\|pi-ai]] — rôle: Bibliothèque tierce (`@earendil-works/pi-ai`) derrière l'adaptateur `dsh-llm-pi-ai`, second fournisseur LLM livré avec DeepSeek Harness aux côtés de l'adaptateur DeepSeek natif. Une instance détient un dictionnaire de profils par route ; une route absente du catalogue se déclare intégralement, de sorte qu'un gateway OpenAI-compatible ou un serveur auto-hébergé relève de la configuration et non du code. C'est la preuve vérifiable que le harnais n'est pas verrouillé sur les modèles DeepSeek (1 occ., 1 fiches)
 - [[kb/pipeline-de-rapprochement-des-paiements-non-identifiés\|pipeline de rapprochement des paiements non identifiés]] — catégorie: Pipeline Python en 3 étapes, exposé comme skill `/treasury` dans Claude Code (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 141 entités de type DOCUMENT
+> 143 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -88,12 +88,14 @@
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — rôle: Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Safe-Use-Policy\|Safe Use Policy]] — définition: Politique d'usage liée en pied de page de la page produit de DeepSeek Harness, sensiblement plus directe que l'argumentaire : l'outil est décrit comme *locally-first* et capable d'exécuter du code sur la machine de l'utilisateur, les garde-fous des modèles de fondation contre l'injection de prompt sont qualifiés de basiques, et l'agent peut exécuter des commandes embarquées dans le contenu qu'il lit même lorsqu'elles contredisent la tâche assignée. Six précautions recommandées, dont la revue préalable de tout plugin, serveur MCP, Skill ou Hook installé — ce qui tempère l'invitation à composer librement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] — format: Billet de blog ~1 300 mots restituant l'étude, publié le 18 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sinks,-Not-Pipes\|Sinks, Not Pipes]] — catégorie: Essai de Hohpe sur le code « boîte noire » à l'ère de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-Factories,-Light-and-Dark\|Software Factories, Light and Dark]] — statut: Essai d'Addy Osmani (addyosmani.com, juillet 2026) — source des trois concepts structurants repris par SFEIR ; absent du corpus de veille, candidat d'ajout prioritaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#State-of-AI-Code-Quality-2025\|State of AI Code Quality 2025]] — catégorie: Rapport de recherche industrielle, 609 développeurs sondés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (2 occ., 2 fiches)
+- [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] — rôle: Rapport complet portant les données sous-jacentes, non reproduites dans le billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] — format: Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2698 entités avec moins de 3 triples/fiches
+> 2707 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (279)
+## ORGANISATION (280)
 
 ### 10x {#10x}
 
@@ -5971,6 +5971,18 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
+### Sonatype {#Sonatype}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Éditeur de sécurité de la chaîne d'approvisionnement logicielle
+
+- **publie** → [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] (DOCUMENT) — 0.97
+
+- [[kb/Sonatype-Research-Labs\|Sonatype Research Labs]] **fait_partie_de** → Sonatype — 0.92
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### Sourcegraph {#Sourcegraph}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6564,7 +6576,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (596)
+## TECHNOLOGIE (600)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9818,6 +9830,14 @@
 
 **Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
 
+### Maven {#Maven}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 62,2 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### MegaBill {#MegaBill}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -10582,6 +10602,14 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]], [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
+### PyPI {#PyPI}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 34,3 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### PyTorch {#PyTorch}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -11198,6 +11226,16 @@
 - [[kb/Wescale\|Wescale]] **a_créé** → Solario — 0.96
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
+
+### Sonatype Guide {#Sonatype-Guide}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **fonction** : Porte l'intelligence de composant (risque, versions plus sûres, politique) au moment du choix, y compris pour les assistants IA
+
+- **s_applique_à** → point de sélection du composant, y compris dans les flux assistés par IA (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### Sonnet {#Sonnet}
 
@@ -12381,6 +12419,14 @@
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 
+### npm {#npm}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### orchestration agentique {#orchestration-agentique}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12765,7 +12811,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (926)
+## CONCEPT (927)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20962,6 +21008,16 @@
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
 
+### sélection de composant {#sélection-de-composant}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Point d'appui amont : décider de la version avant que le risque n'entre dans l'application
+
+- **réduit** → travail de remédiation en aval (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### séparation client / boucle d'agent {#séparation-client-boucle-d'agent}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -21667,7 +21723,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (358)
+## METHODOLOGIE (359)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24067,6 +24123,18 @@
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
 
+### cohorte fixe d'applications {#cohorte-fixe-d'applications}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Même ensemble d'applications suivi en continu, pour que les variations reflètent le parc et non le portefeuille clients ; effectif non communiqué
+
+- **permet** → isoler l'évolution du parc plutôt que celle du portefeuille clients (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] **est_basé_sur** → cohorte fixe d'applications — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### correction harvesting {#correction-harvesting}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -25736,7 +25804,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (120)
+## DOCUMENT (122)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26502,6 +26570,20 @@
 
 **Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
+### Securing Software at the Speed of AI {#Securing-Software-at-the-Speed-of-AI}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **format** : Billet de blog ~1 300 mots restituant l'étude, publié le 18 août 2026
+
+- **affirme_que** → « la remédiation s'accélère alors que le risque accumulé par application augmente » (AFFIRMATION) — 0.94
+- **affirme_que** → « le profil de sécurité d'une application change sans que son code change » (AFFIRMATION) — 0.92
+
+- [[kb/_entites-mineures#Sonatype\|Sonatype]] **publie** → Securing Software at the Speed of AI — 0.97
+- [[kb/Aaron-Linskens\|Aaron Linskens]] **a_créé** → Securing Software at the Speed of AI — 0.94
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### Sinks, Not Pipes {#Sinks,-Not-Pipes}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -26559,6 +26641,16 @@
 - **mesure** → « la performance d'agents sur des tâches de terminal courtes, achevées en minutes » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]], [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
+### The AI-Era Software Assembly Line {#The-AI-Era-Software-Assembly-Line}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Rapport complet portant les données sous-jacentes, non reproduites dans le billet
+
+- **est_basé_sur** → [[kb/_entites-mineures#cohorte-fixe-d'applications\|cohorte fixe d'applications]] (METHODOLOGIE) — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### The AI-Native SDLC playbook {#The-AI-Native-SDLC-playbook}
 
