@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 756 entités de type TECHNOLOGIE
+> 761 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -287,6 +287,8 @@
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GitLab-Duo-Agent-Platform\|GitLab Duo Agent Platform]] — rôle: Plateforme de création et d'exploitation d'agents appartenant au client, ouverte aux agents tiers (1 occ., 1 fiches)
+- [[kb/_entites-mineures#GitLab-Orbit\|GitLab Orbit]] — rôle: Graphe de contexte couvrant le cycle de vie logiciel, interrogeable aussi par les agents tiers (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitNexus\|GitNexus]] — définition: Indexation d'un dépôt en graphe de symboles, relations et flux d'exécution, exposée par MCP ; sert à mesurer le rayon d'explosion d'une modification avant édition et à vérifier le périmètre réellement touché avant commit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gmail-API\|Gmail API]] — contrainte: Rate limit 2000 emails par batch (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Go\|Go]] — avantage_SDD: Compilation instantanée, syntaxe unique (1 occ., 1 fiches)
@@ -308,6 +310,7 @@
 - [[kb/_entites-mineures#Google-Veo-3\|Google Veo 3]] — catégorie: Outil de génération vidéo IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Vertex-AI-Agent-Builder\|Google Vertex AI Agent Builder]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gotham\|Gotham]] — définition: Produit initial de Palantir, vendu à la CIA, à la NSA et à des unités de renseignement militaire au milieu des années 2000 ; déploiements profondément sur mesure, construits pour répondre à une seule question de renseignement pour une seule unité (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Governance-for-Agents\|Governance for Agents]] — rôle: Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] — catégorie: Assistant LLM (X / anciennement Twitter) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] — score even-handedness: 96% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] — catégorie: Modèle LLM dont Phoenix (ranker X) est dérivé, base architecture transformer (1 occ., 1 fiches)
@@ -321,6 +324,7 @@
 - [[kb/_entites-mineures#Help-me-write\|Help me write]] — catégorie: Bouton IA intégré à Google Docs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hermes\|Hermes]] — catégorie: Agent IA personnel à mémoire (running gag « Hermès ») (2 occ., 2 fiches)
 - [[kb/Home-Mixer\|Home Mixer]] — rôle: Orchestrateur Rust request-time du pipeline For You feed (hydrate → source → filter → score → select → filter) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Honk\|Honk]] — rôle: Agent de codage en arrière-plan de Spotify ; vérification exposée aux agents sans révéler l'implémentation des vérificateurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#HubSpot-Customer-Platform\|HubSpot Customer Platform]] — catégorie: Plateforme unifiée CRM, marketing, vente, service (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] — catégorie: Plateforme de distribution de modèles (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] — catégorie: Outil motion design / framework (1 occ., 1 fiches)
@@ -417,7 +421,7 @@
 - [[kb/_entites-mineures#Microsoft-Office\|Microsoft Office]] — catégorie: Suite bureautique (1 occ., 1 fiches)
 - [[kb/MiniMax-M2\|MiniMax M2]] — catégorie: Modèle open-weight optimisé codage et agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] — rôle: Modèle co-auteur du manifeste (2 occ., 2 fiches)
-- [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (3 occ., 2 fiches)
+- [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Ministral-3\|Ministral 3]] — rôle: Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] — définition: Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié (1 occ., 1 fiches)
@@ -575,7 +579,7 @@
 - [[kb/_entites-mineures#Sonnet-4.5\|Sonnet 4.5]] — usage: modèle par défaut, équilibré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sorbet\|Sorbet]] — catégorie: Système de vérification de types pour Ruby (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sphere\|Sphere]] — fonction: Reporting opérationnel self-service UDA-powered (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Spotify\|Spotify]] — exemple: Service de streaming musical au stade Marchandise (1 occ., 2 fiches)
+- [[kb/Spotify-technologie\|Spotify]] — exemple: Service de streaming musical au stade Marchandise (1 occ., 2 fiches)
 - [[kb/Square\|Square]] — rôle: Service d'encaissement pour commerçants de Block ; support de Managerbot et point d'entrée du partenariat avec Google, dont une expérience conversationnelle de découverte et de commande dans Google Maps (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Stable-Diffusion\|Stable Diffusion]] — rôle: Précédent en génération d'image par diffusion ayant inspiré le texte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stablecoins\|Stablecoins]] — avantage: Coûts de transaction sub-cent (1 occ., 1 fiches)
@@ -679,6 +683,7 @@
 - [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] — auteur: Jesse Vincent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coding-agent\|coding agent]] — exemple: LLM appelle « execute code », lit output, continue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] — taille: 100 000 lignes de code (3 occ., 1 fiches)
+- [[kb/_entites-mineures#contrôle-de-source-nouvelle-génération\|contrôle de source nouvelle génération]] — mécanisme: Accès côté serveur permettant à un agent de récupérer ce que la tâche exige au lieu de déplacer le dépôt entier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] — catégorie: Agents IA coopérants utilisés par Spec to Code pour générer code depuis la Super Spec (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cursor.com\|cursor.com]] — catégorie: Site web Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#data-warehouse\|data warehouse]] — évolution: De miroir rétrospectif vers registre de vérité pour agents (1 occ., 1 fiches)

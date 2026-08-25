@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 962 entités de type CONCEPT
+> 968 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -117,6 +117,7 @@
 - [[kb/_entites-mineures#Brain-fry\|Brain fry]] — définition: Surchauffe cérébrale induite par l'usage intensif d'IA — symptômes : maux de tête, ralentissement de la prise de décision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Break-even-local-cloud\|Break-even local/cloud]] — évolution: −40 % entre 2024 et 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Budget-marketing-fixe\|Budget marketing fixe]] — problème: Plafonnement des campagnes performantes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Builder\|Builder]] — définition: Rôle élargi — ingénieur, designer, product manager, expert sécurité, marketeur ou expert métier — capable d'exprimer une intention, diriger des agents et évaluer le résultat (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Burnout-vs-Brain-fry\|Burnout vs Brain fry]] — distinction: Burnout = émotionnel (allégé par IA sur tâches répétitives -15%) ; Brain fry = cognitif aigu (aggravé par oversight intensif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CFO\|CFO]] — rôle: Directeur financier, interlocuteur clé du CMO (1 occ., 1 fiches)
 - [[kb/CLOUD-Act\|CLOUD Act]] — catégorie: Loi US 2018 d'accès extraterritorial aux données des fournisseurs américains (3 occ., 3 fiches)
@@ -591,6 +592,7 @@
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-outcome\|cost per outcome]] — définition: Coût par ticket résolu / tâche complétée / heure économisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-de-vérité\|couche de vérité]] — définition: Ensemble de documents décrivant ce que l'entreprise sait réellement — faits produit, positionnement, cibles et anti-cibles, règles de voix, preuves clients — tenu séparément de tout ce qui produit du contenu, chaque document ayant un propriétaire humain, une version et une date. Règle associée : rien de ce qui produit du contenu n'a le droit de contenir un fait, il doit le demander (1 occ., 1 fiches)
+- [[kb/_entites-mineures#couche-durable-d'entreprise\|couche durable d'entreprise]] — principe: Contexte, identité, politique, provenance, vérification et mémoire organisationnelle doivent survivre au modèle et à l'agent qui exécutent le travail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
@@ -601,6 +603,7 @@
 - [[kb/_entites-mineures#covered-technology\|covered technology]] — définition: Système d'IA entraîné avec un compute dont le coût dépasse 100 M$ au prix marché du cloud US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-API-LLM\|coût API LLM]] — nature: Coût financier direct par jeton consommé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-non-déterministe\|coût non-déterministe]] — cause: Contexte, retries, profondeur de boucle, variante de modèle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#coût-par-changement-accepté\|coût par changement accepté]] — définition: Unité économique proposée en remplacement du coût par ligne : durée et coût du changement généré jusqu'au changement accepté, décomposés par environnement, CI, revue, remédiation et gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-outcome\|coût par outcome]] — définition: Piloter le budget IA au coût d'un résultat (ticket résolu, feature livrée), pas au décompte de tokens (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coût-par-tâche\|coût par tâche]] — principe: Métrique FinOps qui prime sur le prix par token : un modèle plus cher au token peut coûter moins au total (moins d'étapes, moins de tokens sortie, moins de reprises) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#craft-artisanat-logiciel\|craft / artisanat logiciel]] — description: Mouvement post-Agile valorisant la qualité du code, les pratiques techniques (TDD, refactoring, pair programming) et la responsabilité individuelle de l'artisan. Position Eveillard et corpus FR (1 occ., 1 fiches)
@@ -652,6 +655,7 @@
 - [[kb/_entites-mineures#empreinte-mathématique-de-navigateur\|empreinte mathématique de navigateur]] — définition: Canal de fingerprinting exploitant le fait que les fonctions transcendantes ne sont pas correctement arrondies : la différence d'arrondi entre bibliothèques mathématiques identifie le système d'exploitation réel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enabling-team\|enabling team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
 - [[kb/_entites-mineures#end-to-end-lineage\|end-to-end lineage]] — définition: Traçabilité complète des décisions et actions des agents IA pour audit et compliance (1 occ., 1 fiches)
+- [[kb/_entites-mineures#enregistrement-gouvernable\|enregistrement gouvernable]] — principe: Markdown présenté comme interface aux agents, enregistrement structuré et gouverné en dessous : état, approbation, version de politique, déploiement résultant, requêtabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enterprise-world-model\|enterprise world model]] — définition: Représentation vivante de l'organisation (Qui / Quoi / Comment) générée par IA depuis les entrepôts RH et projet, servant les décisions d'autorisation — à ne pas confondre avec les world models génératifs type Genie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnement-brownfield\|environnement brownfield]] — description: Projet avec legacy code, contraintes architecturales et dette technique existantes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalation\|escalation]] — définition: remontée volontaire d'un problème bloquant vers les leaders (1 occ., 1 fiches)
@@ -898,6 +902,7 @@
 - [[kb/_entites-mineures#task-crossover\|task crossover]] — mesure: 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique (2 occ., 2 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#test-discovery-vs-absorption\|test discovery vs absorption]] — définition: Critère de décision proposé par Jesse Zhang pour évaluer une équipe FDE : le bespoke est-il dans l'environnement du client ou dans les trous du produit ; le dernier kilomètre est-il irréductible ou non construit ; les FDE découvrent-ils ou absorbent-ils ; et surtout, qu'est-ce qui a été intégré au produit au retour du dernier terrain — seule question vérifiable des quatre (1 occ., 1 fiches)
+- [[kb/_entites-mineures#théorie-des-contraintes\|théorie des contraintes]] — source: Goldratt, cité pour prédire que lever le goulot de la génération expose celui de la vérification et de la gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-organisationnelle\|théorie organisationnelle]] — domaine: Sciences des organisations, management (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tier-de-modèle\|tier de modèle]] — règle: Fonction du coût de détection d'une erreur, pas du prestige de la tâche (1 occ., 1 fiches)
 - [[kb/token\|token]] — définition: Unité économique de l'IA générative — chiffre entre 0 et ~65000 représentant quelques lettres, pixels ou son. 1 token ≈ une syllabe. 100 tokens ≈ une ligne de code (2 occ., 2 fiches)
@@ -915,6 +920,7 @@
 - [[kb/_entites-mineures#triade-Models-Memory-Knowledge\|triade Models/Memory/Knowledge]] — définition: « Models provide reasoning. Memory provides continuity. Knowledge provides understanding. » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#trois-cadrans\|trois cadrans]] — définition: Coût (modèle), temps mural (largeur de parallélisation), précision (qualité des contrats) — couplés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#trois-menaces-(SDLC-agentique)\|trois menaces (SDLC agentique)]] — liste: Agent prompt-injecté, supply-chain poisoning, vulns applicatives à volume ↑ (1 occ., 1 fiches)
+- [[kb/_entites-mineures#trois-modes-de-développement\|trois modes de développement]] — structure: Mode 1 légataire piloté par l'humain, mode 2 accélération agentique sous contrôle humain, mode 3 développement autonome ; coexistants et non séquentiels (1 occ., 1 fiches)
 - [[kb/_entites-mineures#truth-registry\|truth registry]] — rôle: Couche sémantique + gouvernance pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] — volume: 500k+ vidéos publiées 2024-2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] — principe: Décomposition fine des user stories pour réduire l'ambiguïté LLM (1 occ., 1 fiches)

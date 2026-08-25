@@ -153,7 +153,7 @@
 - [[kb/Orchestration-d'agents\|Orchestration d'agents]] — manque: Brique open source absente (registry, cycle de vie, permissions, skills) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Outcome-based-(modèle-économique-IA)\|Outcome-based (modèle économique IA)]] — description: Paiement sur KPIs atteints — modèle ROI fort, aligné sur la valeur métier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PAS\|PAS]] — structure: Problem, Agitate, Solve (1 occ., 1 fiches)
-- [[kb/_entites-mineures#PDLC\|PDLC]] — définition: Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#PDLC\|PDLC]] — définition: Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PREP\|PREP]] — structure: Point, Reason, Example, Point (1 occ., 1 fiches)
 - [[kb/PROJ-AI\|PROJ-AI]] — définition: Couche méthodologique légère pour rendre les projets collectifs transmissibles via repo+agent+doctrine ; transforme les projets en artefacts réutilisables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] — catégorie: Évaluation biais politique IA (1 occ., 1 fiches)

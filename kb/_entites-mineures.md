@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2686 entités avec moins de 3 triples/fiches
+> 2698 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (278)
+## ORGANISATION (279)
 
 ### 10x {#10x}
 
@@ -3983,6 +3983,16 @@
 - **rôle** : ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable
 
 **Fiches** : [[fiches/2026-07/arstechnica-ai-kill-switch-act-2026-07-23\|AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems]]
+
+### Amplitude {#Amplitude}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation
+
+- **mesure** → « PR triplées en six mois, bugs mensuels de 715 à 319, cycle de PR de 5,2 h à 44 min » (MESURE) — 0.91
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### Anthropic Institute {#Anthropic-Institute}
 
@@ -4797,6 +4807,16 @@
 - équipe produit **recommande** → Ghostty — 0.88
 
 **Fiches** : [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]], [[fiches/2026-02/ensarguet-signal-noise-contribution-ai-slop-open-source-2026-02-04\|Signal over noise: rethinking what "contribution" means in the age of AI slop]]
+
+### GitLab {#GitLab}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **positionnement** : Éditeur DevSecOps pariant sur une plateforme neutre en modèle et en cloud plutôt que sur un modèle propriétaire
+
+- **publie** → [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] (DOCUMENT) — 0.97
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### Glean {#Glean}
 
@@ -5971,17 +5991,6 @@
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
 
-### Spotify {#Spotify}
-
-**Type** : ORGANISATION | 2 relations | 2 fiches
-
-- **secteur** : Streaming musical / Technologie
-
-- **utilise** → IA pour résolution incidents (TECHNOLOGIE) — 0.88
-- **est_instance_de** → stade Marchandise (CONCEPT) — 0.87
-
-**Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]], [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
-
 ### Standard Chartered {#Standard-Chartered}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6555,7 +6564,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (592)
+## TECHNOLOGIE (596)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -8715,6 +8724,26 @@
 
 **Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
+### GitLab Duo Agent Platform {#GitLab-Duo-Agent-Platform}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Plateforme de création et d'exploitation d'agents appartenant au client, ouverte aux agents tiers
+
+- **permet** → créer, personnaliser et opérer des agents que l'organisation possède, sur les modèles et l'infrastructure de son choix (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
+### GitLab Orbit {#GitLab-Orbit}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Graphe de contexte couvrant le cycle de vie logiciel, interrogeable aussi par les agents tiers
+
+- **permet** → graphe de contexte reliant code, work items, pipelines, déploiements et signaux de production (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
 ### GitNexus {#GitNexus}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -8940,6 +8969,14 @@
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
+### Governance for Agents {#Governance-for-Agents}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
 ### Grok {#Grok}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -9055,6 +9092,18 @@
 - **catégorie** : Agent IA personnel à mémoire (running gag « Hermès »)
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
+
+### Honk {#Honk}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Agent de codage en arrière-plan de Spotify ; vérification exposée aux agents sans révéler l'implémentation des vérificateurs
+
+- **mesure** → « plus de 1 500 PR générées par IA et fusionnées en production » (MESURE) — 0.90
+
+- [[kb/Spotify-organisation\|Spotify]] **a_créé** → Honk — 0.94
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### HubSpot Customer Platform {#HubSpot-Customer-Platform}
 
@@ -11192,17 +11241,6 @@
 
 **Fiches** : [[fiches/2025-06/netflix-uda-unified-data-architecture-knowledge-graph-2025-06-12\|Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix]]
 
-### Spotify {#Spotify}
-
-**Type** : TECHNOLOGIE | 2 relations | 2 fiches
-
-- **exemple** : Service de streaming musical au stade Marchandise
-
-- **utilise** → IA pour résolution incidents (TECHNOLOGIE) — 0.88
-- **est_instance_de** → stade Marchandise (CONCEPT) — 0.87
-
-**Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]], [[fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01\|Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)]]
-
 ### Stable Diffusion {#Stable-Diffusion}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12048,6 +12086,16 @@
 
 **Fiches** : [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 
+### contrôle de source nouvelle génération {#contrôle-de-source-nouvelle-génération}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **mécanisme** : Accès côté serveur permettant à un agent de récupérer ce que la tâche exige au lieu de déplacer le dépôt entier
+
+- **mesure** → « exécution de tâche jusqu'à 50× plus rapide en test interne, avec beaucoup moins de données déplacées » (MESURE) — 0.85
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
 ### coordinated agents {#coordinated-agents}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12717,7 +12765,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (920)
+## CONCEPT (926)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -13685,6 +13733,14 @@
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] **remplace** → Budget marketing fixe — 0.95
 
 **Fiches** : [[fiches/2025-10/roques-demand-led-marketing-budget-google-2025-10-02\|Fixed marketing budgets are holding you back. Here's the fix]]
+
+### Builder {#Builder}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Rôle élargi — ingénieur, designer, product manager, expert sécurité, marketeur ou expert métier — capable d'exprimer une intention, diriger des agents et évaluer le résultat
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### Burnout vs Brain fry {#Burnout-vs-Brain-fry}
 
@@ -18049,6 +18105,16 @@
 
 **Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
 
+### couche durable d'entreprise {#couche-durable-d'entreprise}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **principe** : Contexte, identité, politique, provenance, vérification et mémoire organisationnelle doivent survivre au modèle et à l'agent qui exécutent le travail
+
+- **utilise** → contexte, identité, politique, provenance, vérification et mémoire organisationnelle persistant à travers les modèles (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
 ### couche sémantique {#couche-sémantique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18143,6 +18209,17 @@
 - **cause** : Contexte, retries, profondeur de boucle, variante de modèle
 
 **Fiches** : [[fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27\|FinOps for AI Agents: A Four-Step Allocation Framework]]
+
+### coût par changement accepté {#coût-par-changement-accepté}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Unité économique proposée en remplacement du coût par ligne : durée et coût du changement généré jusqu'au changement accepté, décomposés par environnement, CI, revue, remédiation et gouvernance
+
+- **s_applique_à** → « génération, environnement, contexte, vérification, revue, remédiation et gouvernance agrégés en une seule unité » (AFFIRMATION) — 0.93
+- **remplace** → coût par ligne de code (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### coût par outcome {#coût-par-outcome}
 
@@ -18641,6 +18718,16 @@
 - [[kb/Control-Plane\|Control Plane]] **permet** → end-to-end lineage — 0.95
 
 **Fiches** : [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]
+
+### enregistrement gouvernable {#enregistrement-gouvernable}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **principe** : Markdown présenté comme interface aux agents, enregistrement structuré et gouverné en dessous : état, approbation, version de politique, déploiement résultant, requêtabilité
+
+- **s_oppose_à** → « fichier Markdown committé, qui ne répond seul ni à l'approbation, ni à l'état, ni à la requête de masse » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### enterprise world model {#enterprise-world-model}
 
@@ -20945,6 +21032,17 @@
 
 **Fiches** : [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 
+### théorie des contraintes {#théorie-des-contraintes}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **source** : Goldratt, cité pour prédire que lever le goulot de la génération expose celui de la vérification et de la gouvernance
+
+- **prédit** → « les gains de temps hors goulot d'étranglement sont inutiles » (AFFIRMATION) — 0.90
+- **prédit** → « lever un goulot expose le suivant : accélérer la génération sans toucher CI, revue et validation déplace la file » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
 ### théorie organisationnelle {#théorie-organisationnelle}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -21099,6 +21197,16 @@
 - **liste** : Agent prompt-injecté, supply-chain poisoning, vulns applicatives à volume ↑
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### trois modes de développement {#trois-modes-de-développement}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **structure** : Mode 1 légataire piloté par l'humain, mode 2 accélération agentique sous contrôle humain, mode 3 développement autonome ; coexistants et non séquentiels
+
+- **s_oppose_à** → « courbe de maturité unique menant au développement autonome » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### truth registry {#truth-registry}
 
@@ -22858,15 +22966,17 @@
 
 ### PDLC {#PDLC}
 
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
 - **définition** : Product Development Life Cycle : cadre englobant de l'idéation/discovery au retrait du marché ; finalité « construire le bon produit et réussir » ; le SDLC en est le sous-ensemble logé sous la phase développement
+- **rôle** : Cadre vers lequel Staples voit converger le SDLC : l'intention métier entre, les agents la transforment en logiciel, vérification et gouvernance décident de la suite, la production réalimente la décision
 
+- **permet** → boucle continue de l'intention métier au logiciel vérifié, puis retour des résultats de production (CONCEPT) — 0.88
 - **s_oppose_à** → « PLC (product life cycle, Theodore Levitt 1965) : le PLC observe une courbe commerciale, le PDLC organise un travail de conception » (AFFIRMATION) — 0.85
 
 - [[kb/SDLC\|SDLC]] **fait_partie_de** → PDLC — 0.95
 
-**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+**Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]], [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### PREP {#PREP}
 
@@ -25626,7 +25736,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (119)
+## DOCUMENT (120)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26452,13 +26562,14 @@
 
 ### The AI-Native SDLC playbook {#The-AI-Native-SDLC-playbook}
 
-**Type** : DOCUMENT | 3 relations | 1 fiches
+**Type** : DOCUMENT | 4 relations | 1 fiches
 
 - **format** : Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026
 
 - **affirme_que** → « le goulot se déplace du build vers les étapes restées à vitesse humaine » (AFFIRMATION) — 0.94
 
 - [[kb/Anthropic\|Anthropic]] **publie** → The AI-Native SDLC playbook — 0.97
+- [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] **référence** → The AI-Native SDLC playbook — 0.96
 - [[kb/Louis-Claxton\|Louis Claxton]] **a_créé** → The AI-Native SDLC playbook — 0.95
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
@@ -26620,6 +26731,19 @@
 - [[kb/Claude-Code\|Claude Code]] **a_créé** → Vidéo de lancement de Fable — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### When code is abundant {#When-code-is-abundant}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **format** : Essai stratégique de ~39 000 caractères, 31 min de lecture annoncées, publié le 24 août 2026 en réponse au playbook d'Anthropic
+
+- **référence** → [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] (DOCUMENT) — 0.96
+
+- [[kb/_entites-mineures#GitLab\|GitLab]] **publie** → When code is abundant — 0.97
+- [[kb/Bill-Staples\|Bill Staples]] **a_créé** → When code is abundant — 0.96
+
+**Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 

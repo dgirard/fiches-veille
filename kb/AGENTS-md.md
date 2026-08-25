@@ -1,6 +1,6 @@
 # AGENTS.md
 
-> **Type** : TECHNOLOGIE | 6 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 7 relations | 3 fiches sources
 
 ## Attributs
 
@@ -16,6 +16,11 @@
   - [[fiches/2026-01/gao-vercel-agents-md-outperforms-skills-evals-2026-01-27\|AGENTS.md outperforms skills in our agent evals]]
 - « adoption par 60 000+ projets open source » (MESURE) — 0.93, DYNAMIQUE
   - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
+
+### permet
+
+- portabilité du contexte projet entre agents et fournisseurs (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### surpasse
 

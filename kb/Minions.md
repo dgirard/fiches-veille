@@ -1,9 +1,10 @@
 # Minions
 
-> **Type** : TECHNOLOGIE | 9 relations | 2 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 3 fiches sources
 
 ## Attributs
 
+- **apport** : Agents internes de Stripe cités comme illustration de gouvernance : boucle ouverte encadrée par du logiciel déterministe, environnements isolés, checks locaux avant push
 - **catégorie** : Agents de codage bout-en-bout one-shot
 - **volume** : 1 000+ PRs mergées par semaine
 
@@ -20,6 +21,8 @@
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 - « 1300+ PRs fusionnées par semaine » (MESURE) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
+- « plus de 1 000 PR fusionnées par semaine chez Stripe, entièrement écrites par des agents » (MESURE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
 
 ### utilise
 
@@ -42,3 +45,4 @@
 
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
 - [[fiches/2026-02/gray-stripe-minions-coding-agents-part2-2026-02-19\|Minions: Stripe's one-shot, end-to-end coding agents -- Part 2]]
+- [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]

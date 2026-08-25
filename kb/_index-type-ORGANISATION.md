@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 384 entités de type ORGANISATION
+> 386 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -33,6 +33,7 @@
 - [[kb/_entites-mineures#Amazon-Web-Services\|Amazon Web Services]] — secteur: Cloud / IA — hyperscaler (S3 lancé le 14 mars 2006, 20 ans) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] — rôle: Programme créé par Meta offrant une formation gratuite aux métiers du bâtiment et un emploi bien payé garanti dans les zones d'implantation de ses datacenters, en réponse à la pénurie de main-d'œuvre qualifiée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Amplitude\|Amplitude]] — apport: Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
 - [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (43 occ., 43 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
@@ -146,6 +147,7 @@
 - [[kb/_entites-mineures#Generative-AI-Labs\|Generative AI Labs]] — affiliation: The Wharton School, University of Pennsylvania (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — réaction: Bans permanents pour code généré par IA (1 occ., 2 fiches)
 - [[kb/GitHub-organisation\|GitHub]] — rôle: Éditeur de Copilot, cité comme point de comparaison tarifaire (2 occ., 5 fiches)
+- [[kb/_entites-mineures#GitLab\|GitLab]] — positionnement: Éditeur DevSecOps pariant sur une plateforme neutre en modèle et en cloud plutôt que sur un modèle propriétaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] — description: Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context) (1 occ., 1 fiches)
 - [[kb/Google\|Google]] — secteur: IA / DeepMind, créateur de Diffusion Gemma et de la famille Gemma (21 occ., 20 fiches)
 - [[kb/Google-Cloud\|Google Cloud]] — secteur: Cloud / DevOps Research (2 occ., 2 fiches)
@@ -307,7 +309,7 @@
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
 - [[kb/SpaceX\|SpaceX]] — secteur: Spatial / satellites / IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Spotify\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 2 fiches)
+- [[kb/Spotify-organisation\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 2 fiches)
 - [[kb/Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stanford\|Stanford]] — secteur: Recherche universitaire (1 occ., 1 fiches)
