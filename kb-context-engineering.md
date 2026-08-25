@@ -1,6 +1,6 @@
 # Knowledge Base — Context Engineering
 
-> 90 fiches | Période : Mai 2025 — Août 2026 | Généré le 2026-08-15
+> 93 fiches | Période : Mai 2025 — Août 2026 | Mis à jour le 2026-08-25
 
 ## Vue d'ensemble
 
@@ -32,7 +32,10 @@ nommées, des gates entre elles et des compteurs dessus. Quatre déplacements :
    test est suivi tout le temps. »* Même logique dans le *tool-locking* de
    hyperresearch (un patcheur verrouillé à `[Read, Edit]` **ne peut
    physiquement pas** réécrire), dans le principe du cliquet (« toute échappée
-   devient une contrainte ») et dans l'AST déterministe de graphify.
+   devient une contrainte ») et dans l'AST déterministe de graphify. Le
+   *playbook* Anthropic d'août en donne la formulation la plus nette — **la
+   skill conseille, le hook contraint** : *« the skill makes violations rare and
+   the hook makes them close to impossible »*.
 4. **Le coût devient une dimension de conception, pas une conséquence.** Le
    *Token Manifesto* (« You don't have a prompt problem. You have a
    context-window problem ») ; les benchmarks Block, qui montrent qu'au-delà
@@ -206,6 +209,27 @@ par sur-raisonnement et timeouts).
   devient *« un runtime d'agents avec accès à la machine »*, ce qui déplace la
   frontière de confiance. Sept chiffres largement repris sont **non
   confirmés** : la fragilité des sources est ici l'information.
+- **18 août 2026** — **Deux clients d'agents chez Block le même jour.** **Berd**
+  passe en open source et lègue six exigences à Buzz — *« private space, durable
+  context, recognizable agent identities, reusable skills, visible
+  configuration »* — sur une articulation en trois étages : **goose** le
+  *runtime* qui tient la boucle, **Berd** le client de bureau, l'**Agent Client
+  Protocol** entre les deux. **Buzz Projects** (Thomas Petersen) héberge une
+  forge Git **sur son propre relais**, où chaque *push*, revue, approbation et
+  fusion est un **événement Nostr signé** : la confiance passe de l'autorisation
+  *ex ante* à la preuve *ex post* — *« which agent produced it and which human
+  authorized that agent to act »* — sans garde-fous imposés.
+- **21 août 2026** — **The AI-Native SDLC playbook** (Louis Claxton, équipe
+  Applied AI d'Anthropic) : six étapes en **boucle**, chacune committant
+  l'artefact que lit la suivante (`intent.md` → `spec.md` → `plan.md` → le diff
+  et ses tests → la PR et ses constats → l'incident), la **chaîne de commits
+  tenant lieu de piste d'audit**. Le texte tranche le statut des contrôles — la
+  **skill est consultative**, le **hook est déterministe** — et pose la
+  séparation des tâches en invariant : l'agent qui écrit le code ne peut pas
+  l'approuver. Côté production, la **détection reste sans modèle** (bandes
+  1σ journal / 2σ diagnostic en lecture seule / 3σ proposition) et ce qu'elle
+  trouve **repart en `intent.md`**. Aucun résultat chiffré : le guide ne livre
+  que des indicateurs et nomme la source de chacun.
 
 ## Fiches sources
 
@@ -227,6 +251,7 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : cycles emboîtés, goulot déplacé vers la discovery, spécifications exécutables]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le rôle de l'architecte à l'ère de l'IA : d'Oracle à amplificateur d'intelligence, DDD comme garde-fou]]
 - [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|Le vérificateur en monde clos certifie ce qu'il ignore : interdire le « pass » nu, déclarer sa couverture]]
+- [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook (Claxton) : six étapes en boucle, un artefact committé par gate, skill consultative vs hook déterministe]]
 
 ### Usines logicielles & boucles
 
@@ -236,6 +261,7 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-06/ng-thebatch-359-3-product-development-loops-2026-06-26\|3 Key Product Development Loops (Ng) : trois boucles imbriquées, avantage de contexte des humains]]
 - [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz : aucune équipe ne bat le solo à horizon court, taxonomie QuickBee/WorkerBee/SmartBee]]
 - [[fiches/2026-07/longwell-block-buzz-workspace-agents-nostr-2026-07-21\|Buzz! — workspace humains+agents à canaux, chaque participant est une paire de clés Nostr]]
+- [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz (Petersen) : forge Git sur son propre relais, chaque push/revue/fusion est un événement Nostr signé]]
 
 ### Adoption, rôles & économie des tokens
 
@@ -248,6 +274,7 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-08/agentclientprotocol-introduction-2026-08-02\|Agent Client Protocol — Introduction : « ce que LSP a fait pour les langages », local stdio et distant HTTP/WebSocket]]
 - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport — « on n'indexe jamais un sigle seul »]]
 - [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins 1.0.0 : « The core problem isn't the components. It's the manifest », et ce que la v1 exclut]]
+- [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Berd passe en open source : goose le runtime, Berd le client, ACP entre les deux — et six exigences léguées à Buzz]]
 
 ### Skills — harnais de recherche, graphe de code, idéation
 
@@ -547,3 +574,5 @@ Deux corollaires d'architecture de cycle :
 26. **La qualité est plafonnée par la capacité à clarifier les inconnues du modèle** — « la carte n'est pas le territoire » (Shihipar)
 27. **Le manifeste, pas les composants** — skills et serveurs MCP sont portables ; la boîte dans laquelle on les met ne l'était pas (Agent Plugins 1.0.0)
 28. **On n'indexe jamais un sigle seul** — l'entité est le nom complet, le sigle n'est qu'un alias, et trois entités peuvent le porter (Girard)
+29. **La skill conseille, le hook contraint** — un contrôle consultatif rend la violation rare, un contrôle déterministe la rend quasi impossible ; une politique sans exception a besoin des deux, jamais de la seule skill (Claxton/Anthropic)
+30. **La confiance peut se prouver après coup plutôt que s'autoriser avant** — signer chaque geste (quel agent a produit le patch, quel humain l'a autorisé) est une alternative aux garde-fous imposés en amont (Petersen/Block)

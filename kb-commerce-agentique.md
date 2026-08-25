@@ -1,6 +1,6 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 14 fiches | Période : Février 2025 — Août 2026 | Généré le 2026-08-15
+> 14 fiches | Période : Février 2025 — Août 2026 | Revu le 2026-08-25 (généré le 2026-08-15, sans ajout)
 
 ## Vue d'ensemble
 

@@ -1,6 +1,6 @@
 # Knowledge Base — Souveraineté numérique (cloud, données, IA)
 
-> 18 fiches | Période : Janvier 2026 — Août 2026 | Généré le 2026-08-15
+> 19 fiches | Période : Janvier 2026 — Août 2026 | Mis à jour le 2026-08-25
 
 ## Vue d'ensemble
 
@@ -148,6 +148,17 @@ construit son propre verrou.
   met par ailleurs à héberger des **modèles ouverts tiers** (GLM-5.2 de Z.ai,
   laboratoire chinois) — passage d'éditeur de modèles à **couche de
   distribution souveraine**.
+- **18 août 2026** — **Buzz Projects** (Thomas Petersen, Block) : une **forge
+  logicielle hébergée sur son propre relais** — dépôts Git standard accessibles
+  *« over plain Smart HTTP, with no custom tooling or wrapper CLI required »*,
+  et une **clé Nostr comme identité unique** (*« the same npub that signs your
+  messages signs your pushes »*). C'est une réponse partielle et non
+  contractuelle à l'angle mort relevé par Janakiram un mois plus tôt : l'état,
+  les traces et l'**identité** cessent d'être détenus par le fournisseur. La
+  doctrine de confiance associée est **ex post** — *« no forced guardrails »*
+  d'un côté, chaque *push*, revue, approbation et fusion signé de l'autre. À
+  pondérer : le produit vit sous l'onglet **Experiments** et se qualifie six
+  fois de préliminaire.
 
 ## Fiches sources
 
@@ -180,6 +191,7 @@ construit son propre verrou.
 
 - [[fiches/2026-07/sfeir-rapport-kill-switch-souverainete-2026-07-24\|« AI Kill Switch Act » : seuils cumulatifs, mécanique d'élargissement et « so what » pour les entreprises européennes]]
 - [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Les trois hyperscalers convergent sur la même architecture d'agents — et aucun contrat de portabilité n'existe]]
+- [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz : forge Git sur son propre relais, identité npub portable, preuve ex post plutôt qu'autorisation ex ante]]
 
 ## Entités clés
 
