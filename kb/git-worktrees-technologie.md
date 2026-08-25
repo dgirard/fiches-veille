@@ -1,6 +1,6 @@
 # git worktrees
 
-> **Type** : TECHNOLOGIE | 7 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
 
 > **Même entité, autre type** : [[kb/git-worktrees-methodologie\|git worktrees (METHODOLOGIE)]]
 
@@ -15,6 +15,8 @@
 
 - isolation des tâches (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
+- sessions Claude Code parallèles isolées (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
 ### résout
 

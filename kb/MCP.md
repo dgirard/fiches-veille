@@ -1,6 +1,6 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 22 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 14 fiches sources
 
 ## Attributs
 
@@ -41,6 +41,8 @@
   - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - connexion de Claude à GSC / Ahrefs / GA4 (CONCEPT) — 0.94, DYNAMIQUE
   - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+- déploiement et rollback exposés comme outils cadrés par environnement (CONCEPT) — 0.89, ATEMPOREL
+  - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 - connecteurs portables (CONCEPT) — 0.88, ATEMPOREL
   - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - exposition services aux agents (CONCEPT) — 0.88, ATEMPOREL

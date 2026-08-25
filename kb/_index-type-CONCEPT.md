@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 961 entités de type CONCEPT
+> 962 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -892,6 +892,7 @@
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-client-boucle-d'agent\|séparation client / boucle d'agent]] — définition: Le client tient l'expérience et la configuration, le runtime tient la boucle d'exécution ; frontière protocolaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#séparation-des-tâches\|séparation des tâches]] — invariant: L'agent qui produit le code n'a aucun chemin pour l'approuver ; la protection de branche exige un code owner humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#task-crossover\|task crossover]] — mesure: 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique (2 occ., 2 fiches)

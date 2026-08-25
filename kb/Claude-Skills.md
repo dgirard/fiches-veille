@@ -1,10 +1,11 @@
 # Claude Skills
 
-> **Type** : TECHNOLOGIE | 21 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 4 fiches sources
 
 ## Attributs
 
 - **catégorie** : Instructions spécialisées à chargement dynamique
+- **rôle** : Contrôle consultatif portant la politique de l'organisation au moment où le code est écrit
 
 ## Relations (comme sujet)
 
@@ -42,6 +43,8 @@
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[kb/Gemini-CLI\|Gemini CLI]] (TECHNOLOGIE) — 0.92, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
+- politique appliquée pendant l'écriture du code (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
 ### s_oppose_à
 
@@ -71,9 +74,11 @@
 
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Skills — 0.99
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Skills — 0.99
+- [[kb/hooks\|hooks]] **améliore** → Claude Skills — 0.88
 
 ## Fiches sources
 
 - [[fiches/2025-11/claude-frontend-design-skills-anthropic-2025-11-12\|Improving Frontend Design through Skills]]
 - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - [[fiches/2025-10/claude-skills-document-manipulation-willison-2025-10-10\|Claude Skills: Exploring Anthropic's Document Manipulation Capabilities]]
+- [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]

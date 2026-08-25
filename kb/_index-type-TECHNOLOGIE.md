@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 755 entités de type TECHNOLOGIE
+> 756 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -109,7 +109,7 @@
 - [[kb/Buzz\|Buzz]] — définition: Espace de travail auto-hébergeable de Block (21 juillet 2026, Apache-2.0) bâti sur Nostr, où humains et agents partagent les mêmes canaux ; chaque participant est une paire de clés, chaque événement est signé dans un journal append-only (16 occ., 7 fiches)
 - [[kb/_entites-mineures#Buzz-Desktop\|Buzz Desktop]] — rôle: Client où Projects est exposé sous l'onglet Experiments (1 occ., 1 fiches)
 - [[kb/Buzz-Projects\|Buzz Projects]] — catégorie: Forge logicielle hébergée sur relais : multi-dépôts, git, PR, issues, historique de contribution (2 occ., 1 fiches)
-- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 11 fiches)
+- [[kb/CLAUDE-md-technologie\|CLAUDE.md]] — fonction: Fichier de configuration des instructions Claude Code (10 occ., 12 fiches)
 - [[kb/_entites-mineures#CLAUDE_PLUGIN_DATA\|CLAUDE_PLUGIN_DATA]] — usage: Répertoire stable pour mémoire persistante (logs/JSON append-only) (1 occ., 1 fiches)
 - [[kb/CLI\|CLI]] — rôle: Abstraction fondamentale agents codage (2 occ., 2 fiches)
 - [[kb/_entites-mineures#CLI-Augment\|CLI Augment]] — performance: 51,80 % sur SWE-bench Pro (fév. 2026, top publié alors) (1 occ., 1 fiches)
@@ -144,10 +144,11 @@
 - [[kb/_entites-mineures#Claude-Opus-4.6\|Claude Opus 4.6]] — catégorie: Modèle de langage frontier Anthropic (2 occ., 1 fiches)
 - [[kb/Claude-Opus-4.8\|Claude Opus 4.8]] — catégorie: Modèle Anthropic (sortie 28 mai 2026, 1M tokens) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude-Opus-5\|Claude Opus 5]] — résultat de benchmark: Sur Terminal-Bench 2.1 solo, en effort xhigh : run le plus cher du panel à 140,63 dollars pour 75,0 %, sous six runs moins chers, en raison d'un sur-raisonnement ayant provoqué le timeout de 17 tâches sur 88. Cité comme modèle de tier SmartBee, recommandé en effort medium (prix au 2026-07-30) (1 occ., 1 fiches)
-- [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (3 occ., 3 fiches)
+- [[kb/Claude-Skills\|Claude Skills]] — catégorie: Instructions spécialisées à chargement dynamique (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] — catégorie: LLM Anthropic (2 occ., 2 fiches)
+- [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] — catégorie: Interface utilisateur Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloud-Foundry\|Cloud Foundry]] — rôle: PaaS de référence (2011-2016) ; contrat applicatif, buildpacks, service brokers ; battu par Kubernetes, reconstruit via Korifi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloud-Native-Buildpacks\|Cloud Native Buildpacks]] — historique: Nés chez Heroku (2011) → projet Pivotal+Heroku (janv. 2018) → accepté CNCF (oct. 2018) ; « une idée PaaS a survécu à la plateforme qui l'a produite » (1 occ., 1 fiches)
@@ -537,7 +538,6 @@
 - [[kb/_entites-mineures#SKOS\|SKOS]] — standard: W3C - modélisation de connaissances pour PDM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SKOS-OWL-RDF-SPARQL\|SKOS OWL RDF SPARQL]] — description: Standards W3C référencés Talisman pour valider taxonomies/ontologies. Connaissance de ces standards = baseline méthodologique semantic engineer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SLMs\|SLMs]] — rôle: Backbone des systèmes agentiques scalables (1 occ., 1 fiches)
-- [[kb/_entites-mineures#SPEC-md\|SPEC.md]] — catégorie: Fichier spécification persistant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SPIFFE\|SPIFFE]] — catégorie: Standard d'identité de charge de travail dont SPIRE est l'implémentation de référence et le SVID le document d'identité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SPIFFE-Verifiable-IDs-(SVID)\|SPIFFE Verifiable IDs (SVID)]] — catégorie: Identités workload cryptographiquement signées définies par le standard SPIFFE, récupérées depuis SPIRE et utilisées comme base pour les JWT STS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SPIRE\|SPIRE]] — catégorie: Provider de credentials workload (CNCF graduated), implémentation de référence du standard SPIFFE — utilisé par Uber pour émettre des SVIDs aux workloads (1 occ., 1 fiches)
@@ -695,6 +695,7 @@
 - [[kb/graphify.net\|graphify.net]] — définition: Propriété éditoriale officielle du projet graphify : vitrine produit, annuaire comparatif de clients de codage IA et de serveurs MCP, et galerie de 100 dépôts publics déjà graphifiés (2 occ., 1 fiches)
 - [[kb/_entites-mineures#harness-export-AWS\|harness export AWS]] — rôle: Chemin d'export AWS : une commande transforme un harness configuré en code Strands (modèle, prompt, outils, mémoire, conteneur préservés), pointé vers un seul cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hook-PreToolUse\|hook PreToolUse]] — usage: Logue les invocations de skills pour mesurer l'usage (1 occ., 1 fiches)
+- [[kb/hooks\|hooks]] — rôle: Couche déterministe : autoriser, demander une approbation, ou bloquer l'action de l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#hooks-conditionnels\|hooks conditionnels]] — usage: Activés seulement le temps de la skill (ex. blocage commandes destructrices) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#html-effectiveness-gallery\|html-effectiveness gallery]] — catégorie: Site exemples de Shihipar (thariqs.github.io/html-effectiveness) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] — stade: Technologie en phase précoce (1 occ., 1 fiches)

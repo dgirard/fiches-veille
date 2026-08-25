@@ -1,6 +1,6 @@
 # DORA
 
-> **Type** : ORGANISATION | 8 relations | 1 fiches sources
+> **Type** : ORGANISATION | 9 relations | 1 fiches sources
 
 ## Attributs
 
@@ -14,6 +14,11 @@
   - [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 - « l'IA accélère l'accumulation de dette technique si l'organisation est en bottleneck » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
+
+### mesure
+
+- « performance de livraison, indicateur retardé du play CI/CD » (MESURE) — 0.85, ATEMPOREL
+  - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
 ### publie
 

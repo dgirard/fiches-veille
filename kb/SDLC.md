@@ -1,10 +1,10 @@
 # SDLC
 
-> **Type** : METHODOLOGIE | 19 relations | 10 fiches sources
+> **Type** : METHODOLOGIE | 19 relations | 11 fiches sources
 
 ## Attributs
 
-- **catégorie** : Cycle de développement classique dont l'article dérive la variante AI-native, étape par étape
+- **catégorie** : Cycle classique en six étapes dont l'article dérive la variante AI-native
 - **définition** : Software Development Life Cycle : cadre normé (ISO/IEC/IEEE 12207) de production logicielle — besoins, conception, développement, tests/QA, déploiement, maintenance ; finalité « construire le logiciel correctement et de façon fiable » ; métriques DORA
 - **phases** : Définir → construire → vérifier → déployer → maintenir (invariant)
 - **statut_2026** : En remise à plat complète (humain + organisationnel)
@@ -54,6 +54,7 @@
 
 - [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
+- [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - [[fiches/2026-06/hingel-augment-how-ai-changes-sdlc-six-stages-2026-06-08\|How AI Changes the SDLC: A Six-Stage Guide]]
 - [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]

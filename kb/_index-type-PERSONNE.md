@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 495 entités de type PERSONNE
+> 496 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -276,6 +276,7 @@
 - [[kb/_entites-mineures#Lisa-Orr\|Lisa Orr]] — rôle: Leader ingénierie chez Zapier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lisa-Su\|Lisa Su]] — rôle: PDG AMD (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Logan-Kilpatrick\|Logan Kilpatrick]] — rôle: Animateur Release Notes, Google DeepMind (2 occ., 2 fiches)
+- [[kb/Louis-Claxton\|Louis Claxton]] — rôle: Auteur du guide, équipe Applied AI d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Loïc-Lefloch\|Loïc Lefloch]] — rôle: Développeur senior OCTO Technology (1 occ., 1 fiches)
 - [[kb/Luc-Julia\|Luc Julia]] — rôle: Co-créateur Siri, VP Innovation Samsung, PhD Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lucas-Crespo\|Lucas Crespo]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 134 entités de type DOCUMENT
+> 140 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -27,7 +27,7 @@
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
-- [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Artefact vivant qui façonne l'agent, sujet à dérive, à versionner (1 occ., 11 fiches)
+- [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent (2 occ., 12 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
@@ -79,6 +79,7 @@
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] — nature: Vitrine partenaires de l'écosystème (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quinnipiac-IA-optimisme-par-revenu\|Quinnipiac IA optimisme par revenu]] — description: Polling Quinnipiac récent — seul bracket revenus >200k$/an a vue optimiste IA pour vie quotidienne. Donnée canonique inégalité de perception (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] — catégorie: Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas (1 occ., 1 fiches)
+- [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] — rôle: Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits (1 occ., 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Reflecting-on-a-year-of-Claude-Code\|Reflecting on a year of Claude Code]] — description: Vidéo LinkedIn (~47 s, Claude for Business, ~2026-07-17) : Cherny & Wu affirment que les rôles produit et ingénierie fusionnent ; l'IA favorise curiosité, goût produit, ownership end-to-end (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026\|Refresh 2026]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
@@ -93,6 +94,7 @@
 - [[kb/_entites-mineures#Série-Bain-software-industry-age-of-AI\|Série Bain software industry age of AI]] — description: Série 5 volets Bain & Company 2026 sur l'industrie du logiciel à l'ère IA. Volet 1 : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TIL-(Today-I-Learned)\|TIL (Today I Learned)]] — rôle: Trace de debug : système cassé → tentatives → fix → cause racine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Terminal-Bench-2.1\|Terminal-Bench 2.1]] — rôle: Benchmark workflows CLI où GPT-5.6 domine : Sol Ultra 91,9 %, Sol 88,8 %, Mythos 5 88 %, Fable 5 83,1 % (2 occ., 2 fiches)
+- [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] — format: Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
 - [[kb/The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (3 occ., 3 fiches)
@@ -118,6 +120,7 @@
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-Generative-AI-(Thoughtworks)\|blog Generative AI (Thoughtworks)]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
@@ -126,10 +129,13 @@
 - [[kb/_entites-mineures#guide-CPO-FinOps-(Finout)\|guide CPO FinOps (Finout)]] — structure: 4 parties : LLM workflows → RAG → agents → agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#implementation-notes-md\|implementation-notes.md]] — rôle: Fichier temporaire où l'agent journalise ses déviations pendant le build (1 occ., 1 fiches)
 - [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] — rôle: Formalisme fondateur de l'inspection de code, cible historique du papier (1 occ., 1 fiches)
+- [[kb/_entites-mineures#intent-md\|intent.md]] — rôle: Proto-spec écrite par l'auteur de l'idée : problème, résultat attendu, contraintes, questions ouvertes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#plan-md\|plan.md]] — rôle: Plan d'implémentation accepté : fichiers touchés, ordre du travail, risques, preuves attendues (1 occ., 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] — valeur: transparence radicale envers clients (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
 - [[kb/rapport-de-recherche-kill-switch\|rapport de recherche kill switch]] — catégorie: Rapport de recherche interne SFEIR (prep éditoriale) sur l'AI Kill Switch Act, angle souveraineté EU (1 occ., 1 fiches)
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] — rôle: Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques (1 occ., 1 fiches)
+- [[kb/_entites-mineures#spec-md\|spec.md]] — catégorie: Fichier spécification persistant (2 occ., 2 fiches)
 - [[kb/synthèse-fact-check-Delos\|synthèse fact-check Delos]] — définition: Note de vérification confrontant une veille sur Delos aux sources primaires (20VC, delos.so, registres) et à la presse ; gradue les verdicts (confirmé/partiel/spéculatif/non sourçable/auto-déclaré) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#série-5-volets-software-age-of-AI\|série 5 volets software age of AI]] — description: Série 5 brefs Bain & Company 2026. Volet 1 (avril 2026) : AI Brings Headwinds and Tailwinds to the Rule of 40. Volet 2 (mai 2026) : The $100-Billion SaaS Opportunity Hiding in Cross-System Labor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-BCG-HBR-mars-2026\|Étude BCG HBR mars 2026]] — méthodologie: 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming (1 occ., 1 fiches)

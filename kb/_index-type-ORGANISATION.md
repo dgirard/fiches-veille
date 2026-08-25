@@ -34,7 +34,7 @@
 - [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] — rôle: Programme créé par Meta offrant une formation gratuite aux métiers du bâtiment et un emploi bien payé garanti dans les zones d'implantation de ses datacenters, en réponse à la pénurie de main-d'œuvre qualifiée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (42 occ., 42 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (43 occ., 43 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/Apollo-Academy\|Apollo Academy]] — secteur: formation recherche sûreté IA (3 occ., 1 fiches)

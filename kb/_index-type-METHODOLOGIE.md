@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 411 entités de type METHODOLOGIE
+> 412 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -168,7 +168,7 @@
 - [[kb/_entites-mineures#Phase-Review\|Phase Review]] — description: Démo du produit construit, revue de code, discussion du chemin vers la production et usage de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pipeline-Lattice\|Pipeline Lattice]] — séquence: lattice-init → design-blueprint → code-forge → review (+ refactor-safely, bug-fix en écarts) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pizza-team\|Pizza team]] — définition: Équipe d'une dizaine de personnes (loi de Conway) ; autonomie, peu de mandats top-down (2 occ., 2 fiches)
-- [[kb/Plan-mode\|Plan mode]] — définition: Mode non-exécution pour planification et recherche codebase (6 occ., 6 fiches)
+- [[kb/Plan-mode\|Plan mode]] — définition: Mode non-exécution pour planification et recherche codebase (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] — définition: Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] — rôle: fondation pour débloquer valeur IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] — définition: (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness (1 occ., 1 fiches)
@@ -188,8 +188,8 @@
 - [[kb/_entites-mineures#Runtime-Ops\|Runtime Ops]] — rôle: AI-driven ops continu détectant le changement, mettant à jour la Super Spec, régénérant le code impacté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Règle-10-20-70\|Règle 10/20/70]] — répartition: 10% algorithmes, 20% plateforme/données, 70% humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SAO\|SAO]] — rôle: Stratégie de RL pour tâches long-horizon introduite avec GLM-5.2 (arXiv 2607.07508), reprise dans GLM-5.3 sous la forme « SAO with compaction » — c'est elle qui fait tenir les gains sur les tâches longues et pas seulement sur les courtes (1 occ., 1 fiches)
-- [[kb/SDLC\|SDLC]] — définition: Software Development Life Cycle : cadre normé (ISO/IEC/IEEE 12207) de production logicielle — besoins, conception, développement, tests/QA, déploiement, maintenance ; finalité « construire le logiciel correctement et de façon fiable » ; métriques DORA (10 occ., 10 fiches)
-- [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (4 occ., 4 fiches)
+- [[kb/SDLC\|SDLC]] — définition: Software Development Life Cycle : cadre normé (ISO/IEC/IEEE 12207) de production logicielle — besoins, conception, développement, tests/QA, déploiement, maintenance ; finalité « construire le logiciel correctement et de façon fiable » ; métriques DORA (11 occ., 11 fiches)
+- [[kb/SDLC-AI-native\|SDLC AI-native]] — définition: Cycle de dev compressé (prototypes + dogfooding) où Claude Code/Claude Tag écrit et relit la majorité du code ; mêmes étapes (Plan/Code/Test/Deploy/Monitor) que le SDLC classique (5 occ., 5 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] — structure: Situation, Task, Action, Result (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] — définition: Modèle où chaque requête IA est convertie en coût en crédits (∝ tokens entrée+sortie) ; toutes les applis incluses, seul le volume de crédits varie par forfait (Student 10 €, Explore 25 €, Advanced 45 €, Premium 80 €, Enterprise sur devis) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Self-improving-coding-agent\|Self-improving coding agent]] — niveau: Intermediate — agentic loops + memory hierarchy + reflection mechanism + sandboxing (1 occ., 1 fiches)
@@ -298,6 +298,7 @@
 - [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] — rôle: VM distantes à sortie réseau restreinte pour contenir le blast radius (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalade-agent-vers-agent\|escalade agent-vers-agent]] — définition: Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#evals-continues\|evals continues]] — déclenchement: Suite de 20 à 50 tâches réelles rejouée à chaque changement de configuration d'agent, plus incidents convertis en régressions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)

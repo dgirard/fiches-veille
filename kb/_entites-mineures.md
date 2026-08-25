@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2679 entités avec moins de 3 triples/fiches
+> 2686 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -6555,7 +6555,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (593)
+## TECHNOLOGIE (592)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10882,16 +10882,6 @@
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 
-### SPEC.md {#SPEC-md}
-
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
-
-- **catégorie** : Fichier spécification persistant
-
-- **permet** → cohérence cross-sessions (CONCEPT) — 0.90
-
-**Fiches** : [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
-
 ### SPIFFE {#SPIFFE}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12727,7 +12717,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (919)
+## CONCEPT (920)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16383,7 +16373,7 @@
 
 - **définition** : Principe HumanLayer : un hook ne renvoie rien si le check passe, injecte l'erreur dans la loop si ça échoue
 
-- Hooks **est_basé_sur** → Success is silent failures are verbose — 0.95
+- [[kb/hooks\|Hooks]] **est_basé_sur** → Success is silent failures are verbose — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
@@ -20895,6 +20885,16 @@
 
 **Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 
+### séparation des tâches {#séparation-des-tâches}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **invariant** : L'agent qui produit le code n'a aucun chemin pour l'approuver ; la protection de branche exige un code owner humain
+
+- **s_applique_à** → « l'agent qui écrit le code ne peut pas l'approuver » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
 ### séparation générateur-critique {#séparation-générateur-critique}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -21559,7 +21559,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (357)
+## METHODOLOGIE (358)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24131,6 +24131,16 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
+### evals continues {#evals-continues}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **déclenchement** : Suite de 20 à 50 tâches réelles rejouée à chaque changement de configuration d'agent, plus incidents convertis en régressions
+
+- **s_applique_à** → configuration d'agent versionnée, testée comme du code (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
 ### evals offline {#evals-offline}
 
 **Type** : METHODOLOGIE | 0 relations | 1 fiches
@@ -25616,7 +25626,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (113)
+## DOCUMENT (119)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26307,6 +26317,16 @@
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
+### REVIEW.md {#REVIEW-md}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits
+
+- **s_applique_à** → passes de revue bugs, sécurité et conformité au spec et au plan (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
 ### Reflecting on a year of Claude Code {#Reflecting-on-a-year-of-Claude-Code}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -26429,6 +26449,19 @@
 - **mesure** → « la performance d'agents sur des tâches de terminal courtes, achevées en minutes » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]], [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
+
+### The AI-Native SDLC playbook {#The-AI-Native-SDLC-playbook}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **format** : Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026
+
+- **affirme_que** → « le goulot se déplace du build vers les étapes restées à vitesse humaine » (AFFIRMATION) — 0.94
+
+- [[kb/Anthropic\|Anthropic]] **publie** → The AI-Native SDLC playbook — 0.97
+- [[kb/Louis-Claxton\|Louis Claxton]] **a_créé** → The AI-Native SDLC playbook — 0.95
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
 ### The American Experiment {#The-American-Experiment}
 
@@ -26619,6 +26652,16 @@
 
 **Fiches** : [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 
+### bands.yaml {#bands.yaml}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Config versionnée des bandes de contrôle production et des paliers d'autonomie associés
+
+- **permet** → paliers d'autonomie 1σ, 2σ, 3σ (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
 ### billet Zed sur la facturation Claude {#billet-Zed-sur-la-facturation-Claude}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -26704,6 +26747,28 @@
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
+### intent.md {#intent-md}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **rôle** : Proto-spec écrite par l'auteur de l'idée : problème, résultat attendu, contraintes, questions ouvertes
+
+- **fait_partie_de** → [[kb/SDLC-AI-native\|SDLC AI-native]] (METHODOLOGIE) — 0.92
+
+- [[kb/_entites-mineures#spec-md\|spec.md]] **est_basé_sur** → intent.md — 0.91
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
+### plan.md {#plan-md}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Plan d'implémentation accepté : fichiers touchés, ordre du travail, risques, preuves attendues
+
+- **est_basé_sur** → [[kb/_entites-mineures#spec-md\|spec.md]] (DOCUMENT) — 0.90
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
 ### post-mortem technique détaillé {#post-mortem-technique-détaillé}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -26723,6 +26788,20 @@
 - **affirme_que** → « une augmentation de 25% de l'adoption IA corrèle avec une baisse de 7,2% de la stabilité de livraison » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
+
+### spec.md {#spec-md}
+
+**Type** : DOCUMENT | 3 relations | 2 fiches
+
+- **catégorie** : Fichier spécification persistant
+- **rôle** : Spécification exigences + design produite en une session, contrainte par les skills, points de friction signalés
+
+- **est_basé_sur** → [[kb/_entites-mineures#intent-md\|intent.md]] (DOCUMENT) — 0.91
+- **permet** → cohérence cross-sessions (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#plan-md\|plan.md]] **est_basé_sur** → spec.md — 0.90
+
+**Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]], [[fiches/2026-01/osmani-how-write-good-spec-ai-agents-2026-01-13\|How to write a good spec for AI agents]]
 
 ### série 5 volets software age of AI {#série-5-volets-software-age-of-AI}
 
