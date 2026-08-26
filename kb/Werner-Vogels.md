@@ -1,10 +1,10 @@
 # Werner Vogels
 
-> **Type** : PERSONNE | 4 relations | 2 fiches sources
+> **Type** : PERSONNE | 5 relations | 3 fiches sources
 
 ## Attributs
 
-- **rôle** : CTO d'Amazon — « Everything fails all the time »
+- **rôle** : CTO d'Amazon, éditeur d'All Things Distributed ; signe l'introduction du billet
 
 ## Relations (comme sujet)
 
@@ -19,6 +19,8 @@
 
 - Tech predictions for 2026 and beyond (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
+- DuckDB and the changing physics of analytics (DOCUMENT) — 0.93, STATIQUE
+  - [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### travaille_chez
 
@@ -29,3 +31,4 @@
 
 - [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 - [[fiches/2025-11/vogels-tech-predictions-2026-allthingsdistributed-2025-11-25\|Tech predictions for 2026 and beyond]]
+- [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]

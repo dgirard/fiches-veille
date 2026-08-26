@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 395 fiches | 1975-12 → 2026-08-24 | généré le 2026-08-25
+> 396 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **26** [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon. · All Things Distributed (blog de Werner Vogels) — DuckDB, DuckLabs, acquisition AWS
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
 - **21** [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif. · Anthropic (blog claude.com) — SDLC AI-native, cycle de vie logiciel, plays
 - **18** [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`. · Block — Berd, Block, open source
@@ -653,6 +654,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. Page produit **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog ni papier technique associé. Le « nous » n'apparaît qu'une fois, en dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. Publiée le **13 août 2026**. La page est rendue en JavaScript : `curl` sur l'URL renvoie **HTTP 202 avec un corps vide**, le texte n'existant qu'après exécution du bundle. Deux documents de politique sont liés en pied de page — *Safe Use Policy* et *Data Processing Statement*.
@@ -840,6 +842,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. Page produit **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog ni papier technique associé. Le « nous » n'apparaît qu'une fois, en dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. Publiée le **13 août 2026**. La page est rendue en JavaScript : `curl` sur l'URL renvoie **HTTP 202 avec un corps vide**, le texte n'existant qu'après exécution du bundle. Deux documents de politique sont liés en pied de page — *Safe Use Policy* et *Data Processing Statement*.
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce**, et fait suite à un entretien de juin avec le même interlocuteur. Publié le **11 août 2026**.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas**, **ex-Palantir**, d'où la profondeur du récit Palantir. Publié le **11 août 2026**.
@@ -976,6 +979,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Outils & Plateformes
 
+- [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
@@ -1084,17 +1088,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 395 fiches
-- **Par année** : 2026 (218) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 396 fiches
+- **Par année** : 2026 (219) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 146
-  - Architecture & Construction : 53
+  - Architecture & Construction : 54
   - Transformation & Adoption : 82
   - Qualité & Sécurité : 43
-  - Économie & Marché : 78
+  - Économie & Marché : 79
   - Philosophie & Société : 23
   - Stratégie & Frameworks : 26
-  - Outils & Plateformes : 51
+  - Outils & Plateformes : 52
   - Recherche & Éducation : 11
   - Produits & Services : 12
   - Politique & Régulation : 22

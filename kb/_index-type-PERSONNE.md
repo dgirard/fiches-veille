@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 498 entités de type PERSONNE
+> 501 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -35,6 +35,7 @@
 - [[kb/_entites-mineures#Andrew-Harvard\|Andrew Harvard]] — rôle: Ingénieur Block, contributeur MCP-UI (2 occ., 2 fiches)
 - [[kb/Andrew-Ng\|Andrew Ng]] — affiliation: DeepLearning.AI (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Andy-Jassy\|Andy Jassy]] — rôle: CEO Amazon ; a chiffré les gains d'Amazon Q (« 4 500 années de développement », 260 M$/an) (1 occ., 1 fiches)
+- [[kb/Andy-Warfield\|Andy Warfield]] — rôle: Ingénieur du service S3 chez AWS, ancien contributeur au projet Xen, auteur du billet invité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Andy-Wu\|Andy Wu]] — rôle: Professeur, Harvard Business School (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angela-Duckworth\|Angela Duckworth]] — domaine: Sciences comportementales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Angie-Wang\|Angie Wang]] — rôle: Auteur article Sierra blog (1 occ., 1 fiches)
@@ -187,6 +188,7 @@
 - [[kb/Guillaume-Geudin\|Guillaume Geudin]] — rôle: Directeur performance achats, Elee (1 occ., 1 fiches)
 - [[kb/Guillaume-Roques\|Guillaume Roques]] — rôle: Senior Director of Marketing, Google Cloud EMEA (1 occ., 1 fiches)
 - [[kb/Guillermo-Rauch\|Guillermo Rauch]] — rôle: CEO Vercel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Hannes-Mühleisen\|Hannes Mühleisen]] — rôle: Co-créateur de DuckDB, ancien chercheur au CWI ; formule l'objectif « allowing anyone to work with data confidently » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Haoyu-Wang\|Haoyu Wang]] — rôle: Staff Software Engineer chez Google Cloud Data ; cosignataire de l'annonce, côté Data Agent Kit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harley-Finkelstein\|Harley Finkelstein]] — rôle: Président de Shopify (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harrison-Chase\|Harrison Chase]] — rôle: CEO LangChain (1 occ., 1 fiches)
@@ -295,6 +297,7 @@
 - [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] — rôle: Chercheuse en génie logiciel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marilyn-Strathern\|Marilyn Strathern]] — rôle: Anthropologue, autrice de la reformulation canonique (1997) (1 occ., 1 fiches)
 - [[kb/Mark-Dembo\|Mark Dembo]] — rôle: Head of Solutions – Developer Platform & AI chez Cloudflare (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mark-Raasveldt\|Mark Raasveldt]] — rôle: Co-créateur de DuckDB, ancien chercheur au CWI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] — rôle: Éditeur de news, Tom's Hardware (1 occ., 1 fiches)
 - [[kb/Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: Fondateur et PDG de Meta ; auteur du manifeste « The Future is for Everyone » (10 août 2026), qui pose l'autonomisation individuelle, l'invention et l'équilibre des pouvoirs comme doctrine de la superintelligence, et soutient qu'il n'existe pas de superintelligence singulière bienveillante (2 occ., 2 fiches)
 - [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)
@@ -481,7 +484,7 @@
 - [[kb/_entites-mineures#Wang-Yi\|Wang Yi]] — rôle: Ministre chinois des Affaires étrangères (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Webb-Wright\|Webb Wright]] — rôle: Contributing Writer, ZDNet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Wei-Zhou\|Wei Zhou]] — rôle: Head of AI utility research, SemiAnalysis (1 occ., 1 fiches)
-- [[kb/Werner-Vogels\|Werner Vogels]] — rôle: CTO d'Amazon — « Everything fails all the time » (2 occ., 2 fiches)
+- [[kb/Werner-Vogels\|Werner Vogels]] — rôle: CTO d'Amazon, éditeur d'All Things Distributed ; signe l'introduction du billet (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] — rôle: Auteur, employé Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Will-Papper\|Will Papper]] — rôle: Auteur de l'annonce Cloudflare Wallets sur le blog Cloudflare, Agents Week 2026 (1 occ., 1 fiches)
 - [[kb/Xi-Jinping\|Xi Jinping]] — rôle: Président de la République populaire de Chine (1 occ., 1 fiches)

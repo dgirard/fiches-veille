@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 388 entités de type ORGANISATION
+> 390 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -17,7 +17,7 @@
 - [[kb/_entites-mineures#ARC\|ARC]] — rôle: organisation recherche partenaire (1 occ., 2 fiches)
 - [[kb/_entites-mineures#ARC-Evals\|ARC Evals]] — relation: Ancien nom de METR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ASML\|ASML]] — secteur: Entreprise néerlandaise de lithographie semi-conducteur, mentionnée par Mensch comme exemple d'extrémité amont de la chaîne de valeur IA (1 occ., 1 fiches)
-- [[kb/AWS\|AWS]] — secteur: Cloud / Outils de développement (2 occ., 2 fiches)
+- [[kb/AWS\|AWS]] — secteur: Cloud / Outils de développement (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Academy-of-Management-Journal\|Academy of Management Journal]] — type: Revue academique de reference en sciences du management (1 occ., 1 fiches)
 - [[kb/Accenture\|Accenture]] — valorisation boursière: 155 milliards de dollars (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Adeo\|Adeo]] — secteur: Retail bricolage / habitat (Leroy Merlin, Obramat, Weldom), actionnariat familial non coté (1 occ., 1 fiches)
@@ -112,6 +112,8 @@
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] — secteur: Product management / Operating systems (1 occ., 1 fiches)
 - [[kb/Dropbox\|Dropbox]] — résultat: 90% adoption IA, +20% PRs fusionnés (2 occ., 2 fiches)
+- [[kb/_entites-mineures#DuckDB-Foundation\|DuckDB Foundation]] — rôle: Structure gardienne du projet open source DuckDB, maintenue après l'entrée de DuckLabs chez AWS (1 occ., 1 fiches)
+- [[kb/_entites-mineures#DuckLabs\|DuckLabs]] — statut: Équipe de développement de DuckDB, rejoint AWS comme filiale, reste basée à Amsterdam (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Duolingo\|Duolingo]] — secteur: Apprentissage des langues (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EACA-(European-Association-of-Communication-Agencies)\|EACA (European Association of Communication Agencies)]] — secteur: Association européenne des agences de communication. Charley Stoney en est CEO. Endorsement institutionnel européen du rapport VoxComm (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ENISA\|ENISA]] — catégorie: Agence européenne cybersécurité (1 occ., 1 fiches)

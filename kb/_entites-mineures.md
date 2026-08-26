@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2707 entités avec moins de 3 triples/fiches
+> 2722 entités avec moins de 3 triples/fiches
 
-## PERSONNE (370)
+## PERSONNE (372)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1398,6 +1398,16 @@
 
 **Fiches** : [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
+### Hannes Mühleisen {#Hannes-Mühleisen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-créateur de DuckDB, ancien chercheur au CWI ; formule l'objectif « allowing anyone to work with data confidently »
+
+- **a_créé** → [[kb/DuckDB\|DuckDB]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Haoyu Wang {#Haoyu-Wang}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2145,6 +2155,16 @@
 - **affine** → [[kb/loi-de-Goodhart\|loi de Goodhart]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
+
+### Mark Raasveldt {#Mark-Raasveldt}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-créateur de DuckDB, ancien chercheur au CWI
+
+- **a_créé** → [[kb/DuckDB\|DuckDB]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Mark Tyson {#Mark-Tyson}
 
@@ -3707,7 +3727,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (282)
 
 ### 10x {#10x}
 
@@ -4526,6 +4546,28 @@
 - [[kb/John-Cutler\|John Cutler]] **travaille_chez** → Dotwork — 0.97
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
+
+### DuckDB Foundation {#DuckDB-Foundation}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Structure gardienne du projet open source DuckDB, maintenue après l'entrée de DuckLabs chez AWS
+
+- **permet** → « maintien de DuckDB en open source sous licence MIT après l'entrée de DuckLabs chez AWS » (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### DuckLabs {#DuckLabs}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **statut** : Équipe de développement de DuckDB, rejoint AWS comme filiale, reste basée à Amsterdam
+
+- **fait_partie_de** → [[kb/AWS\|AWS]] (ORGANISATION) — 0.96
+
+- [[kb/AWS\|AWS]] **collabore_avec** → DuckLabs — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Duolingo {#Duolingo}
 
@@ -6576,7 +6618,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (600)
+## TECHNOLOGIE (609)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6912,6 +6954,14 @@
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
+### AWS Lambda {#AWS-Lambda}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Explorée comme primitive adaptée au lancement rapide de requêtes DuckDB
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Adobe Photoshop {#Adobe-Photoshop}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7190,6 +7240,16 @@
 - [[kb/Google\|Google]] **a_créé** → Antigravity — 0.95
 
 **Fiches** : [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+
+### Apache Iceberg {#Apache-Iceberg}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Format de table ouvert dont l'article vise l'élargissement hors du monde Spark
+
+- [[kb/_entites-mineures#extension-Iceberg-de-DuckDB\|extension Iceberg de DuckDB]] **utilise** → Apache Iceberg — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### App d'apprentissage du clavier {#App-d'apprentissage-du-clavier}
 
@@ -9789,6 +9849,16 @@
 
 **Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
+### MapReduce {#MapReduce}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Motif fonctionnel forçant les développeurs à exprimer le parallélisme explicitement ; l'auteur note qu'il s'agit plutôt de map/group-by-and-aggregate
+
+- **résout** → contrainte de bande passante d'I/O des grands jeux de données du début des années 2000 (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Markdown {#Markdown}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9995,6 +10065,16 @@
 - **exemples** : DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025)
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### MonetDB {#MonetDB}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Travaux du CWI ayant déplacé l'exécution de requêtes vers des lots de valeurs tenant en cache, le goulot étant passé du disque au CPU
+
+- [[kb/DuckDB\|DuckDB]] **est_basé_sur** → MonetDB — 0.87
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Monetization Gateway {#Monetization-Gateway}
 
@@ -10887,6 +10967,28 @@
 
 **Fiches** : [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
 
+### S3 {#S3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **contexte** : Service de stockage objet d'AWS, étendu par S3 Files, S3 Tables et S3 Vectors, dont l'équipe a observé l'embarquement de DuckDB chez ses clients
+
+- [[kb/_entites-mineures#S3-Tables\|S3 Tables]] **fait_partie_de** → S3 — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### S3 Tables {#S3-Tables}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Primitive de stockage tabulaire de S3 bâtie sur Iceberg, motivée par les clients Spark adoptant Iceberg
+
+- **fait_partie_de** → [[kb/_entites-mineures#S3\|S3]] (TECHNOLOGIE) — 0.95
+
+- [[kb/DuckDB\|DuckDB]] **s_applique_à** → S3 Tables — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### SDK Codex {#SDK-Codex}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11266,6 +11368,16 @@
 - [[kb/Stripe\|Stripe]] **utilise** → Sorbet — 0.95
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
+
+### Spark {#Spark}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Chaînage d'opérateurs à évaluation paresseuse et dataframes, décomposés par un planificateur en tâches distribuées
+
+- **utilise** → Resilient Distributed Datasets (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Sphere {#Sphere}
 
@@ -11814,6 +11926,16 @@
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
+### Xen {#Xen}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **contexte** : Hyperviseur issu des travaux doctoraux de l'auteur, tirant parti de l'abondance de CPU, mémoire et réseau sur un serveur unique
+
+- **s_inspire_de** → virtualisation des mainframes IBM des années 60 (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Yoga {#Yoga}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -12182,6 +12304,17 @@
 - [[kb/_entites-mineures#SLMs\|SLMs]] **utilise** → edge computing — 0.92
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
+
+### extension Iceberg de DuckDB {#extension-Iceberg-de-DuckDB}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **maturité** : Implémentation des spécifications Iceberg v2 et v3, sponsorisée par AWS, plus de 800 000 téléchargements hebdomadaires
+
+- **utilise** → [[kb/_entites-mineures#Apache-Iceberg\|Apache Iceberg]] (TECHNOLOGIE) — 0.95
+- **mesure** → « plus de 800 000 téléchargements par semaine » (MESURE) — 0.92
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### format .deepnote {#format-.deepnote}
 
@@ -12811,7 +12944,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (927)
+## CONCEPT (928)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19784,6 +19917,18 @@
 
 **Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
+### moteur analytique embarqué {#moteur-analytique-embarqué}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Moteur tournant en bibliothèque dans l'espace d'adressage de l'application, sur ses structures mémoire, sans service externe à l'autre bout d'un câble
+
+- **réduit** → surcoût de planification, d'expédition de tâches et d'aller-retour réseau du traitement distribué (CONCEPT) — 0.90
+
+- [[kb/DuckDB\|DuckDB]] **est_instance_de** → moteur analytique embarqué — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### multiplicateurs de tokens {#multiplicateurs-de-tokens}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -25804,7 +25949,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (122)
+## DOCUMENT (123)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26569,6 +26714,16 @@
 - **recommande** → « une machine virtuelle dédiée, la vérification des sorties, l'absence d'information confidentielle, une approbation humaine pour toute opération à effet significatif, le découpage des instructions complexes en opérations isolées, et de n'installer que des plugins, serveurs MCP, Skills et Hooks issus de sources fiables et revues » (AFFIRMATION) — 0.94
 
 **Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
+
+### Scalability! But at what COST? {#Scalability!-But-at-what-COST}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Papier de 2015 de Frank McSherry, Michael Isard et Derek Murray sur l'efficacité par cœur, dont l'épigraphe est attribuée à Paul Barham
+
+- **mesure** → « une implémentation mono-thread optimisée bat des systèmes de graphe distribués sur 128 cœurs, le distribué ne repassant devant qu'à 512 cœurs » (MESURE) — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Securing Software at the Speed of AI {#Securing-Software-at-the-Speed-of-AI}
 
