@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 47 entités de type EVENEMENT
+> 49 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -19,6 +19,7 @@
 - [[kb/_entites-mineures#Firebombing-Altman-home-avril-2026\|Firebombing Altman home avril 2026]] — description: Tentative d'incendie criminel du domicile Sam Altman, signal violence populiste anti-IA émergente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hausse-de-prix-des-tokens-Fable\|Hausse de prix des tokens Fable]] — temporalité: Annoncée imminente (« few days we have left before the prices go up ») au 2026-07-03 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IPO-SPCX\|IPO SPCX]] — détail: Introduction au Nasdaq, ~135 $/action, valorisation ~1,75-1,8 billion $ (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IPO-de-SpaceX\|IPO de SpaceX]] — calendrier: Cotation visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars ; conditionne l'exercice de l'option sur Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Incident-#714\|Incident #714]] — résultat: Fix + learning + test de régression + doctrine AGENTS.md (classe de défaillance retirée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] — date: 2025-10-22 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Métriques-PROJ-AI\|Métriques PROJ-AI]] — description: Sur 3 missions actives : onboarding 3 sem → 2 jours, traçabilité 30% → 100%, doc archi 6 sem → continu, archéologie PM 30% → négligeable (1 occ., 1 fiches)
@@ -37,6 +38,7 @@
 - [[kb/_entites-mineures#Webinar-19-mai-2026-(Curran)\|Webinar 19 mai 2026 (Curran)]] — description: Webinar public Curran sur la stratégie AI transformation, 9h PT / 17h GMT (1 occ., 1 fiches)
 - [[kb/_entites-mineures#White-House-U-turn-AI-policy-mai-2026\|White House U-turn AI policy mai 2026]] — description: Maison-Blanche signale virage majeur — proposition de forcer federal review de tous nouveaux modèles propriétaires avant release. Catalyseur : refus Anthropic Claude Mythos avril 2026. Articulation directe avec fiche AISI UK GPT-5.5/Mythos (1 occ., 1 fiches)
 - [[kb/_entites-mineures#accord-Mistral-Microsoft\|accord Mistral-Microsoft]] — catégorie: Partenariat industriel de plusieurs milliards de dollars annoncé le 21/07/2026 : compute Azure en Europe, modèles dans Foundry/Copilot Studio, Azure Local jusqu'au mode déconnecté ; sans nouvelle prise de participation au capital (1 occ., 1 fiches)
+- [[kb/_entites-mineures#accord-SpaceX-Cursor\|accord SpaceX-Cursor]] — structure: Annoncé le 21 avril 2026 : plancher de 10 milliards de dollars pour un partenariat de calcul, option d'achat à 60 milliards exerçable en titres cotés après l'introduction en bourse (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-Internet-de-2000\|bulle Internet de 2000]] — indicateur: 97% de la fibre optique inutilisée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-dot-com\|bulle dot-com]] — période: fin des années 1990 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)

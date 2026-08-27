@@ -1,11 +1,12 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 18 relations | 8 fiches sources
+> **Type** : ORGANISATION | 19 relations | 9 fiches sources
 
 ## Attributs
 
 - **métrique distinctive** : Bad Developer Days (BDDs)
 - **participation** : 27% capital OpenAI Group PBC
+- **position** : Aurait examiné l'acquisition de Cursor sans déposer d'offre ; doit désormais défendre GitHub Copilot face à un concurrent mieux capitalisé
 - **produit partenaire** : Copilot
 - **rôle** : Locataire d'ancrage des datacenters européens de Mistral AI depuis juillet 2026 : loue de la capacité pour sa propre demande cloud et IA, dé-risquant la construction. Deux tiers des clients de Mistral travaillent déjà avec Microsoft (Arthur Mensch, WSJ)
 - **secteur** : Plateforme logicielle / IA / Cloud
@@ -24,6 +25,8 @@
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 - « l'accord ne s'accompagne d'aucune nouvelle prise de participation de Microsoft au capital de Mistral (confirmé par Brad Smith) » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
+- « acquisition de Cursor examinée puis écartée, sans offre déposée » (AFFIRMATION) — 0.88, STATIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### améliore
 
@@ -78,6 +81,7 @@
 
 ## Fiches sources
 
+- [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 - [[fiches/2026-01/geudin-predateurs-budgets-it-logiciels-cloud-2026-01-26\|Logiciels et cloud : l'ère des prédateurs pour vos budgets IT]]
 - [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 - [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]

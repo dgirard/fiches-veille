@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 970 entités de type CONCEPT
+> 972 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -779,6 +779,7 @@
 - [[kb/_entites-mineures#opportunité-IA-agentique-services-et-conseil\|opportunité IA agentique services et conseil]] — taille estimée: +400 Md$ par an à horizon 2030 (estimation Capgemini) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-indéterminé\|optimisme indéterminé]] — catégorie: Posture opposée à l'optimisme déterminé : attendre un futur meilleur sans plan pour l'obtenir (1 occ., 1 fiches)
+- [[kb/_entites-mineures#option-d'achat-adossée-à-l'IPO\|option d'achat adossée à l'IPO]] — mécanisme: Plancher payé immédiatement, engagement lourd différé après cotation : achat de temps, d'optionalité IA et de récit de revenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] — définition: Gestion opérationnelle des processus métier augmentée par l'IA (BPO nouvelle génération) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
@@ -849,6 +850,7 @@
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rétention-de-tâches-propres\|rétention de tâches propres]] — définition: Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#rétention-nulle-de-données\|rétention nulle de données]] — enjeu: Clause contractuelle citée comme premier point à revérifier par les services achats, avec la déclaration des sous-traitants et l'identité du fournisseur (1 occ., 1 fiches)
 - [[kb/réversibilité\|réversibilité]] — principe: Capacité à exécuter/porter un modèle soi-même et à sortir de la captivité fournisseur ; rendue portable par l'open-weights des poids de Mistral (même logique que Kimi K3) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 2 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 775 entités de type TECHNOLOGIE
+> 778 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -82,7 +82,7 @@
 - [[kb/_entites-mineures#Amazon-Q-Developer\|Amazon Q Developer]] — distinction: Outil AWS fortement couplé aux services cloud, contrairement à Kiro (cloud-agnostic) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] — catégorie: Framework d'orchestration IA pour agents de codage (1 occ., 1 fiches)
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] — catégorie: Outil d'entretien automatisé par IA (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Antigravity\|Antigravity]] — catégorie: Plateforme human-in-the-loop Google (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Antigravity\|Antigravity]] — catégorie: Plateforme human-in-the-loop Google (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Apache-Iceberg\|Apache Iceberg]] — rôle: Format de table ouvert dont l'article vise l'élargissement hors du monde Spark (1 occ., 1 fiches)
 - [[kb/_entites-mineures#App-d'apprentissage-du-clavier\|App d'apprentissage du clavier]] — contexte: Exemple 0-to-1 construit par Ng le week-end (pour sa fille) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AppSignal\|AppSignal]] — catégorie: Système de tracking d'erreurs production (1 occ., 1 fiches)
@@ -167,6 +167,8 @@
 - [[kb/Codex\|Codex]] — catégorie: Agent de codage OpenAI (fusionné dans ChatGPT desktop, +ChatGPT Work) ; ~1 M à ~8 M utilisateurs actifs en 5 mois ; concurrent frontal de Claude Code (8 occ., 8 fiches)
 - [[kb/_entites-mineures#Codex-CLI\|Codex CLI]] — catégorie: Outil agent de codage compatible Skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Codex-SDK\|Codex SDK]] — catégorie: Harness-as-a-Service OpenAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Colossus\|Colossus]] — capacité: Cluster d'entraînement de xAI à Memphis, décrit par SpaceX comme équivalent à 1 million de GPU H100 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Composer\|Composer]] — rôle: Gamme de modèles de Cursor présentée comme la voie pour combler l'écart de capacité avec Anthropic et OpenAI ; Composer 2 décrit comme de niveau frontière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Computer-Use\|Computer Use]] — rôle: Capacité de pilotage de la machine par le modèle, en public beta depuis le 22 octobre 2024 ; exige les permissions système d'Accessibilité et d'enregistrement d'écran, ce qui en fait un point de décision de gouvernance (1 occ., 1 fiches)
 - [[kb/Conductor\|Conductor]] — catégorie: Extension Gemini CLI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Content-Signals\|Content Signals]] — catégorie: Framework de préférences de contenu (1 occ., 1 fiches)
@@ -182,7 +184,7 @@
 - [[kb/_entites-mineures#Cornell-AI-Gateway\|Cornell AI Gateway]] — catégorie: Passerelle IA gouvernée (données non utilisées pour l'entraînement externe, accès restreint, PII retirées) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cowork\|Cowork]] — description: Claude Code en version GUI, construit en 10 jours (2 occ., 2 fiches)
 - [[kb/CrewAI\|CrewAI]] — catégorie: Framework multi-agents collaboratifs (3 occ., 3 fiches)
-- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (13 occ., 14 fiches)
+- [[kb/Cursor-technologie\|Cursor]] — catégorie: Éditeur de code IA (14 occ., 15 fiches)
 - [[kb/_entites-mineures#Cursor-YOLO-mode\|Cursor YOLO mode]] — rôle: Révélateur de la capacité long-horizon des modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CyberGym\|CyberGym]] — définition: Benchmark de découverte de vulnérabilités partant du code source en boîte blanche, mesurant la capacité à identifier puis valider une faille en déclenchant le défaut. Évalué par Z.ai sur 1 507 tâches, Pass@1 en run unique. GLM-5.3 y obtient 84,5 %, meilleur score du tableau comparatif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DFlash\|DFlash]] — perf: Décodage spéculatif (block diffusion) ; ~6,17× sur Qwen3-8B (recherche), « jusqu'à 10× » annoncé (arXiv:2602.06036) (1 occ., 1 fiches)
@@ -286,7 +288,7 @@
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — catégorie: Emulateur de terminal, rendering synchronisé, 24-bit couleur (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Ghostwriter\|Ghostwriter]] — catégorie: Agent qui crée et optimise d'autres agents (1 occ., 1 fiches)
 - [[kb/GitHub-technologie\|GitHub]] — rôle: Référence implicite dont le billet se démarque (« colored squares on a profile ») (3 occ., 5 fiches)
-- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (7 occ., 7 fiches)
+- [[kb/GitHub-Copilot\|GitHub Copilot]] — catégorie: Exemple d'outil d'IA générative de code cité (8 occ., 8 fiches)
 - [[kb/_entites-mineures#GitHub-Copilot-Agent\|GitHub Copilot Agent]] — catégorie: Agent de codage autonome (mode orchestrateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Pages\|GitHub Pages]] — usage: Interface web de recherche en ligne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GitHub-Spark\|GitHub Spark]] — catégorie: Plateforme génération d'applications full-stack par langage naturel (1 occ., 1 fiches)
@@ -654,7 +656,7 @@
 - [[kb/_entites-mineures#Web-Artifacts-Builder\|Web Artifacts Builder]] — catégorie: Skill permettant React/Tailwind/shadcn dans Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Web-Bot-Auth\|Web Bot Auth]] — rôle: Mécanisme préexistant d'enregistrement d'identité d'agent par paire de clés, auquel Cloudflare Wallets ajoute une couche lisible par un humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] — catégorie: Modèle ASR open source (OpenAI) (1 occ., 1 fiches)
-- [[kb/Windsurf-technologie\|Windsurf]] — catégorie: Éditeur AI-native collaboratif (4 occ., 5 fiches)
+- [[kb/Windsurf-technologie\|Windsurf]] — catégorie: Éditeur AI-native collaboratif (5 occ., 6 fiches)
 - [[kb/_entites-mineures#WordLift\|WordLift]] — catégorie: Outil SEO sémantique et diffusion visuelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers\|Workers]] — catégorie: Produit Delos lancé ~juin 2026 ; objet de l'unique donnée d'ARR disponible (« 1 M$ en quelques jours », auto-déclarée, non auditée) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Workers-AI\|Workers AI]] — catégorie: Plateforme IA serverless (1 occ., 1 fiches)
@@ -771,6 +773,7 @@
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] — plateforme: GitHub (2 occ., 1 fiches)
 - [[kb/_entites-mineures#use-cache\|use cache]] — catégorie: Nouvelle API Next.js 16 absente des données d'entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] — catégorie: Framework d'inférence LLM (2 occ., 2 fiches)
+- [[kb/_entites-mineures#watsonx-Code-Assistant\|watsonx Code Assistant]] — cible: Outillage de codage d'IBM orienté industries régulées, hors base développeurs de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#window.openai\|window.openai]] — catégorie: Objet injecté dans iframe par OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#worktree-isolation\|worktree isolation]] — rôle: Isolation de chaque agent sur son propre worktree/git checkout pour orchestrer en parallèle sans collision (étapes 2-3) (1 occ., 1 fiches)
 - [[kb/x-algorithm\|x-algorithm]] — catégorie: Algorithme For You feed de X publié en open-source sous `xai-org/x-algorithm` le 15 mai 2026, ~4 composants Rust+Python/JAX (1 occ., 1 fiches)

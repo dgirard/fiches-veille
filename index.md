@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 396 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-26
+> 397 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-27
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -158,6 +158,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **??** [Developer Taste: Separating Good Code from AI Slop](fiches/2026-04/soto-developer-taste-ai-slop-strategizeyourcareer-2026-04.md) — Fran Soto · Substack (Fran Soto) — goût développeur, AI slop, jugement technique
 - **30** [Our evaluation of OpenAI's GPT-5.5 cyber capabilities](fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30.md) — AI Safety Institute (AISI UK) · AISI UK (gouv.) — cybersecurite offensive, evaluation modele IA, GPT-5.5
 - **30** [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) — Jasmine Sun (Ms. Sun écrit sur l'IA et la culture Silicon Valley sur Substack) · NYT Opinion (Jasmine Sun) — Jasmine Sun, NYT Opinion, permanent underclass
+- **29** [Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM](fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29.md) — Mitch Ashley, VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO. · Futurum Group (Market Coverage News) — SpaceX, Cursor, Anysphere
 - **29** [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte. · Stripe — Stripe, Link, portefeuille pour agents
 - **29** [Andrej Karpathy: From Vibe Coding to Agentic Engineering](fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29.md) — Andrej Karpathy (co-fondateur OpenAI, ex-Tesla Autopilot, créateur du terme "vibe coding") · YouTube AI Startup School (Andrej Karpathy) — Andrej Karpathy, vibe coding, agentic engineering
 - **29** [the 2026 ai engineer roadmap](fiches/2026-04/rohit4verse-2026-ai-engineer-roadmap-5-projects-2026-04.md) — Rohit (@rohit4verse) — créateur de contenu IA sur X, vulgarisateur d'architecture et roadmaps de carrière en ingénierie IA. · X (Rohit @rohit4verse) — 2026 AI engineer roadmap, Rohit, rohit4verse
@@ -880,6 +881,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [The Batch n°352 — "There Will Be No AI Jobpocalypse" (Andrew Ng)](fiches/2026-05/ng-the-batch-352-no-ai-jobpocalypse-2026-05-08.md) — Andrew Ng (fondateur DeepLearning.AI, Stanford, ex-Google Brain, ex-Baidu, ex-Coursera)
 - [AI Brings Headwinds and Tailwinds to the Rule of 40](fiches/2026-04/bain-ai-rule-of-40-headwinds-tailwinds-saas-2026-04.md) — **David Lipman, Greg Callahan, Daniel Goetz, George Sunderland** — partners et experts Bain & Company spécialistes industrie logicielle / SaaS / private equity software. Article publié en **avril 2026** sur bain.com/insights, **partie 1/5** d'une série Bain sur *"the software industry in the age of AI"*. La partie 2 (*The $100-Billion SaaS Opportunity Hiding in Cross-System Labor*, mai 2026) est dans le dossier de veille.
 - [Silicon Valley Is Bracing for a Permanent Underclass](fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30.md) — Jasmine Sun (Ms. Sun écrit sur l'IA et la culture Silicon Valley sur Substack)
+- [Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM](fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29.md) — Mitch Ashley, VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO.
 - [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [FinOps for AI Agents: A Four-Step Allocation Framework](fiches/2026-04/finout-finops-ai-agents-four-step-allocation-framework-2026-04-27.md) — Finout (équipe, sans auteur nommé)
 - [FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale](fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15.md) — Sohrab Hosseini (co-fondateur, Orq.ai)
@@ -970,6 +972,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [New Engineering Disciplines for the AI Era Part 3: KDLC — Knowledge Development Life Cycle](fiches/2026-06/singh-kdlc-knowledge-development-life-cycle-2026-06-28.md) — Ashish Singh
 - [Loop Engineering for Product Managers](fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21.md) — Shubham Saboo (@Saboo_Shubham_)
 - [How the X Algorithm Actually Works in 2026 — and What That Means for Growth](fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16.md) — Rapport interne **non signé** (typique des deliverables d'analyse interne / brouillon de livrable client). Sources primaires citées : (a) le repo public **`xai-org/x-algorithm`** (release 15 mai 2026), (b) les `README.md` du repo et de ses sous-modules (`home-mixer/`, `phoenix/`, `thunder/`, `grox/`), (c) le code source Rust (Home Mixer, Thunder) et Python/JAX (Phoenix, Grox) inspecté directement avec citations file:line. Le rapport est explicitement écrit en posture *"what we observe in the public source release, and what it implies for measurable growth interventions"* — registre de teardown analytique avec discipline d'honnêteté épistémique (section A.3 *"Honesty boundary"* listant exhaustivement ce qui n'est pas dérivable de l'OSS).
+- [Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM](fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29.md) — Mitch Ashley, VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO.
 - [La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle](fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11.md) — Deep Research Veille Interne
 - [The Gen AI Playbook for Organizations](fiches/2025-11/anand-wu-gen-ai-playbook-organizations-hbr-2025-11.md) — Bharat N. Anand (NYU Stern School of Business Dean), Andy Wu (Harvard Business School)
 - [Votre nouveau super-pouvoir : voir le jeu dans son ensemble (Wardley Mapping Expliqué)](fiches/2025-10/wardley-mapping-explique-guide-strategique-2025-10-01.md) — Recherche synthétique compilée (28 sources)
@@ -1011,6 +1014,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - [Announcing Stack Overflow for Agents](fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10.md) — David Gibson, Janice Manningham
 - [Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate](fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29.md) — **Pasquale Pillitteri** — Ingénieur informatique / développeur logiciel basé à **Palerme** (Italie), certifié Innovation Manager UNI 11814:2021. Auteur d'un blog tech actif (rubrique *Claude Code & Anthropic*), avec une newsletter hebdomadaire (~3,4k lecteurs). Article publié en version **FR** le **29 mai 2026** (lendemain de la sortie d'Opus 4.8).
 - [What Anthropic's New Claude Billing Means for Zed Users](fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14.md) — **Franciska Dethlefsen** — head of growth and marketing chez **Zed Industries**. Le rôle est déterminant pour lire le texte : ce n'est pas un billet d'ingénierie mais une **communication de crise produit**, écrite le lendemain d'une annonce d'un fournisseur dont Zed dépend, à destination d'utilisateurs inquiets. La signature growth/marketing explique la structure (problème → options → réassurance) et le fait que l'argument protocolaire arrive en conclusion plutôt qu'en tête.
+- [Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM](fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29.md) — Mitch Ashley, VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO.
 - [Giving agents the ability to pay](fiches/2026-04/hill-stripe-link-wallet-agents-issuing-2026-04-29.md) — **Dan Hill** — Product Manager, **Link Consumer Product** chez Stripe. Auteur de l'annonce sur le blog Stripe, rubrique *Product*. Le rattachement au produit *Link Consumer* est significatif : l'annonce est écrite depuis le **portefeuille grand public**, pas depuis l'équipe protocole ni depuis Issuing — ce qui explique que le consentement de l'utilisateur final structure tout le texte.
 - [Using Claude Code: Session Management & 1M Context](fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14.md) — Thariq (@trq212)
 - [Plakar : la révolution française de la sauvegarde open source](fiches/2026-01/plakar-sauvegarde-open-source-deep-research-2026-01.md) — Deep Research Veille Interne
@@ -1088,17 +1092,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 396 fiches
-- **Par année** : 2026 (219) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 397 fiches
+- **Par année** : 2026 (220) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 146
   - Architecture & Construction : 54
   - Transformation & Adoption : 82
   - Qualité & Sécurité : 43
-  - Économie & Marché : 79
+  - Économie & Marché : 80
   - Philosophie & Société : 23
-  - Stratégie & Frameworks : 26
-  - Outils & Plateformes : 52
+  - Stratégie & Frameworks : 27
+  - Outils & Plateformes : 53
   - Recherche & Éducation : 11
   - Produits & Services : 12
   - Politique & Régulation : 22

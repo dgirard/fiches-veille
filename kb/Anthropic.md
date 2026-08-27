@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 123 relations | 43 fiches sources
+> **Type** : ORGANISATION | 125 relations | 43 fiches sources
 
 ## Attributs
 
@@ -287,6 +287,8 @@
 - administration Trump **s_oppose_à** → Anthropic — 0.90
 - recours collectif envisagé en Californie **s_oppose_à** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
+- [[kb/AWS\|AWS]] **utilise** → Anthropic — 0.90
+- [[kb/_entites-mineures#Composer\|Composer]] **concurrence** → Anthropic — 0.89
 - [[kb/_entites-mineures#IA-locale\|IA locale]] **réduit** → Anthropic — 0.88
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/GitHub-organisation\|GitHub]] **converge_avec** → Anthropic — 0.85

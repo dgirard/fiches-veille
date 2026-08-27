@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 501 entités de type PERSONNE
+> 502 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -334,6 +334,7 @@
 - [[kb/_entites-mineures#Michele-Catasta\|Michele Catasta]] — rôle: VP IA, Replit (1 occ., 1 fiches)
 - [[kb/Mike-Taylor\|Mike Taylor]] — rôle: Co-auteur (Every), auteur AI/prompt (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] — rôle_précédent: CTO d'OpenAI (1 occ., 1 fiches)
+- [[kb/Mitch-Ashley\|Mitch Ashley]] — rôle: VP et responsable des pratiques CIO & Technology Buyers et Software Lifecycle Engineering chez The Futurum Group, ancien CIO et CTO (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Molly-Kinder\|Molly Kinder]] — rôle: Senior fellow Brookings, parallèle white-collar / blue-collar narratives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] — période: 1533-1592 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NLW\|NLW]] — rôle: Animateur AI Daily Brief (1 occ., 1 fiches)

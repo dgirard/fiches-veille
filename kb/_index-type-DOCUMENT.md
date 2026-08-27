@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 144 entités de type DOCUMENT
+> 145 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -120,6 +120,7 @@
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] — format: Essai stratégique de ~39 000 caractères, 31 min de lecture annoncées, publié le 24 août 2026 en réponse au playbook d'Anthropic (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] — format: Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2722 entités avec moins de 3 triples/fiches
+> 2732 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (372)
 
@@ -3727,7 +3727,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (282)
+## ORGANISATION (284)
 
 ### 10x {#10x}
 
@@ -4032,6 +4032,16 @@
 - **rôle** : Analyse des données d'investigation via Claude
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+
+### Anysphere {#Anysphere}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord
+
+- **a_créé** → [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Archie {#Archie}
 
@@ -5038,6 +5048,18 @@
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] **dirige** → HumanLayer — 0.92
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### IBM {#IBM}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **exposition** : La plus faible parmi les grands fournisseurs ; watsonx Code Assistant et Granite visent les secteurs régulés et les acheteurs gouvernance
+
+- **utilise** → [[kb/_entites-mineures#watsonx-Code-Assistant\|watsonx Code Assistant]] (TECHNOLOGIE) — 0.91
+
+- [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **s_oppose_à** → IBM — 0.95
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### IETF WIMSE working group {#IETF-WIMSE-working-group}
 
@@ -6255,13 +6277,17 @@
 
 ### The Futurum Group {#The-Futurum-Group}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
+- **positionnement** : Cabinet de recherche et de conseil ; déclare travailler avec des entreprises citées dans ses notes, l'auteur ne détenant aucune position en actions
 - **secteur** : Analyse / Conseil IT
 
 - **emploie** → [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] (PERSONNE) — 0.99
+- **publie** → [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] (DOCUMENT) — 0.96
 
-**Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+- [[kb/Mitch-Ashley\|Mitch Ashley]] **travaille_chez** → The Futurum Group — 0.96
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]], [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 
 ### The Intelligence Fabric {#The-Intelligence-Fabric}
 
@@ -6618,7 +6644,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (609)
+## TECHNOLOGIE (612)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7231,15 +7257,18 @@
 
 ### Antigravity {#Antigravity}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **catégorie** : Plateforme human-in-the-loop Google
+- **rôle** : Intégration verticale de Google (modèle, IDE, calcul TPU) depuis novembre 2025 ; question d'exécution : passer de l'aperçu gratuit à la distribution entreprise
 
 - **utilise** → [[kb/_entites-mineures#Human-in-the-loop\|human-in-the-loop]] (METHODOLOGIE) — 0.93
+- **permet** → « intégration verticale de Google sur le modèle, l'IDE et le calcul TPU depuis novembre 2025 » (AFFIRMATION) — 0.91
 
 - [[kb/Google\|Google]] **a_créé** → Antigravity — 0.95
+- [[kb/Google\|Google]] **utilise** → Antigravity — 0.93
 
-**Fiches** : [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]], [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
 
 ### Apache Iceberg {#Apache-Iceberg}
 
@@ -7845,6 +7874,30 @@
 - **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Colossus {#Colossus}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **capacité** : Cluster d'entraînement de xAI à Memphis, décrit par SpaceX comme équivalent à 1 million de GPU H100
+
+- **mesure** → « capacité d'entraînement équivalente à 1 million de GPU H100, à Memphis » (MESURE) — 0.92
+
+- [[kb/Cursor-technologie\|Cursor]] **utilise** → Colossus — 0.93
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
+### Composer {#Composer}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Gamme de modèles de Cursor présentée comme la voie pour combler l'écart de capacité avec Anthropic et OpenAI ; Composer 2 décrit comme de niveau frontière
+
+- **concurrence** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.89
+
+- [[kb/Cursor-technologie\|Cursor]] **a_créé** → Composer — 0.94
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Computer Use {#Computer-Use}
 
@@ -12894,6 +12947,16 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
+### watsonx Code Assistant {#watsonx-Code-Assistant}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **cible** : Outillage de codage d'IBM orienté industries régulées, hors base développeurs de Cursor
+
+- [[kb/_entites-mineures#IBM\|IBM]] **utilise** → watsonx Code Assistant — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### window.openai {#window.openai}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12944,7 +13007,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (928)
+## CONCEPT (930)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -20077,6 +20140,16 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 
+### option d'achat adossée à l'IPO {#option-d'achat-adossée-à-l'IPO}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **mécanisme** : Plancher payé immédiatement, engagement lourd différé après cotation : achat de temps, d'optionalité IA et de récit de revenus
+
+- **permet** → « reporter l'acquisition après cotation, éviter la mise à jour des dépôts confidentiels et payer en titres cotés » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### opérations de recherche parallèles {#opérations-de-recherche-parallèles}
 
 **Type** : CONCEPT | 2 relations | 1 fiches
@@ -20713,6 +20786,16 @@
 - **définition** : Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
+
+### rétention nulle de données {#rétention-nulle-de-données}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **enjeu** : Clause contractuelle citée comme premier point à revérifier par les services achats, avec la déclaration des sous-traitants et l'identité du fournisseur
+
+- **s_applique_à** → « contrats des clients entreprise de Cursor, remis en cause par le changement de substrat » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### sandboxed iframes {#sandboxed-iframes}
 
@@ -25480,7 +25563,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (44)
+## EVENEMENT (46)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -25628,6 +25711,16 @@
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] **s_applique_à** → IPO SPCX — 0.84
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
+
+### IPO de SpaceX {#IPO-de-SpaceX}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **calendrier** : Cotation visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars ; conditionne l'exercice de l'option sur Cursor
+
+- **mesure** → « introduction visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars » (MESURE) — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Incident #714 {#Incident-#714}
 
@@ -25797,6 +25890,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
+### accord SpaceX-Cursor {#accord-SpaceX-Cursor}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **structure** : Annoncé le 21 avril 2026 : plancher de 10 milliards de dollars pour un partenariat de calcul, option d'achat à 60 milliards exerçable en titres cotés après l'introduction en bourse
+
+- **remplace** → « tour de table de 2 milliards mené par Andreessen Horowitz, Thrive Capital et Nvidia à 50 milliards de valorisation » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### bulle Internet de 2000 {#bulle-Internet-de-2000}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -25949,7 +26052,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (123)
+## DOCUMENT (124)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26991,6 +27094,17 @@
 - [[kb/Bill-Staples\|Bill Staples]] **a_créé** → When code is abundant — 0.96
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
+### Why SpaceX-Cursor Works for Both {#Why-SpaceX-Cursor-Works-for-Both}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **format** : Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille
+
+- [[kb/Mitch-Ashley\|Mitch Ashley]] **a_créé** → Why SpaceX-Cursor Works for Both — 0.97
+- [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] **publie** → Why SpaceX-Cursor Works for Both — 0.96
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 
