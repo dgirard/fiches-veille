@@ -1,10 +1,10 @@
 # hooks
 
-> **Type** : TECHNOLOGIE | 4 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 2 fiches sources
 
 ## Attributs
 
-- **rôle** : Couche déterministe : autoriser, demander une approbation, ou bloquer l'action de l'agent
+- **rôle** : Commandes déclenchées à des points fixes du cycle de vie de Claude Code, servant de portes dures indépendantes de la décision du modèle
 
 ## Relations (comme sujet)
 
@@ -23,6 +23,11 @@
 - harness de l'agent (CONCEPT) — 0.94, ATEMPOREL
   - [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
+### permet
+
+- « portes dures s'exécutant à chaque fois quelle que soit la décision du modèle : lint bloquant, test avant commit, retrait des secrets » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### s_applique_à
 
 - événements PreToolUse et PostToolUse (CONCEPT) — 0.93, ATEMPOREL
@@ -31,3 +36,4 @@
 ## Fiches sources
 
 - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+- [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]

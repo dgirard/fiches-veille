@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 397 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-27
+> 398 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-28
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -11,6 +11,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **26** [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon. · All Things Distributed (blog de Werner Vogels) — DuckDB, DuckLabs, acquisition AWS
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
 - **21** [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif. · Anthropic (blog claude.com) — SDLC AI-native, cycle de vie logiciel, plays
+- **20** [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées. · Anthropic (blog claude.com) — Claude Code, jeunes pousses, everyone ships
 - **18** [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`. · Block — Berd, Block, open source
 - **18** [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur. · Sonatype — chaîne d'approvisionnement logicielle, software supply chain, Sonatype Research Labs
 - **18** [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur. · Block Engineering — Buzz, Buzz Projects, Block
@@ -508,6 +509,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
+- [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
@@ -712,6 +714,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »](fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12.md) — **Deep Research Veille Interne** — rapport non signé, produit par une enquête sourcée menée les **11-12 août 2026** et rendu le 12.
@@ -954,6 +957,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
+- [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce**, et fait suite à un entretien de juin avec le même interlocuteur. Publié le **11 août 2026**.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas**, **ex-Palantir**, d'où la profondeur du récit Palantir. Publié le **11 août 2026**.
@@ -1092,16 +1096,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 397 fiches
-- **Par année** : 2026 (220) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 398 fiches
+- **Par année** : 2026 (221) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 146
+  - Agents de codage IA & Skills : 147
   - Architecture & Construction : 54
-  - Transformation & Adoption : 82
+  - Transformation & Adoption : 83
   - Qualité & Sécurité : 43
   - Économie & Marché : 80
   - Philosophie & Société : 23
-  - Stratégie & Frameworks : 27
+  - Stratégie & Frameworks : 28
   - Outils & Plateformes : 53
   - Recherche & Éducation : 11
   - Produits & Services : 12
@@ -1142,9 +1146,9 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - Anthropic (blog claude.com) (2)
   - VentureBeat (2)
   - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
-  - CIO-Online (Olivier Rafal) (2)

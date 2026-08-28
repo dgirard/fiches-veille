@@ -1,6 +1,6 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 23 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 24 relations | 14 fiches sources
 
 ## Attributs
 
@@ -80,6 +80,7 @@
 - fuites de données **observé_dans** → MCP — 0.93
 - [[kb/Interactions-API\|Interactions API]] **utilise** → MCP — 0.93
 - [[kb/Claude-Skills\|Claude Skills]] **s_oppose_à** → MCP — 0.90
+- [[kb/_entites-mineures#everyone-ships\|everyone ships]] **utilise** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
 - overhead de tokens excessif **observé_dans** → MCP — 0.88
 - [[kb/Peter-Aideloje\|Peter Aideloje]] **recommande** → MCP — 0.87

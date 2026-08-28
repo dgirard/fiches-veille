@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 119 relations | 52 fiches sources
+> **Type** : TECHNOLOGIE | 120 relations | 53 fiches sources
 
 ## Attributs
 
@@ -21,6 +21,7 @@
 - **stack** : TypeScript, React terminal
 - **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
+- **usages rapportés** : Prototypage par des non-développeurs, revue de code, agents à but unique, analytique en libre-service, reconstruction assistée ; les fonctionnalités citées sont MCP, skills, CLAUDE.md, Code Review, hooks, dynamic workflows, mode plan
 - **version_corrigée** : v2.1.116 (20 avril 2026)
 - **versions** : `/goal` livré v2.1.139 (11 mai 2026), branche 2.1.x, Opus 4.8 par défaut
 - **éditeur** : Anthropic
@@ -141,6 +142,8 @@
   - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 - développeurs full-stack (CONCEPT) — 0.88, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- « distinguer un comportement de modèle d'un problème de harnais lors du triage produit, chez Emergent » (AFFIRMATION) — 0.87, DYNAMIQUE
+  - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### remplace
 
@@ -316,6 +319,7 @@
 - [[fiches/2025-10/rag-decline-context-windows-2025-10-08\|From RAG to Rigor Mortis: Why Retrieval-Augmented Generation looks like dying]]
 - [[fiches/2026-01/rauch-coding-agents-cli-abstraction-2026-01-02\|The fundamental coding agent abstraction is the CLI]]
 - [[fiches/2026-05/salesforce-tallapragada-how-engineering-became-agentic-2026-05-27\|How Salesforce Engineering Became Truly Agentic]]
+- [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 - [[fiches/2025-11/shipper-every-building-ai-native-company-2025-11-23\|How to build an AI-native company (even if your company is 50 years old)]]
 - [[fiches/2026-04/sierra-ai-native-interview-iyengar-asemanfar-wang-2026-04-22\|The AI-native interview]]
 - [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]

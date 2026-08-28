@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 145 entités de type DOCUMENT
+> 146 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -27,7 +27,7 @@
 - [[kb/_entites-mineures#Blueprint\|Blueprint]] — rôle: Pattern de design réutilisable multi-systèmes, exigence qualité maximale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] — catégorie: Titre Netflix (Brésil) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Build-a-Large-Language-Model-(From-Scratch)\|Build a Large Language Model (From Scratch)]] — type: Livre technique sur LLMs (1 occ., 1 fiches)
-- [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent (2 occ., 12 fiches)
+- [[kb/CLAUDE-md-document\|CLAUDE.md]] — rôle: Contexte de dépôt versionné : commandes, conventions, architecture, erreurs récurrentes de l'agent (2 occ., 13 fiches)
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
@@ -103,6 +103,7 @@
 - [[kb/The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (3 occ., 3 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] — format: Guide d'éditeur d'environ 31 500 caractères (5 min de lecture annoncées), publié le 20 août 2026, disponible en PDF, structuré en cinq règles et une checklist (1 occ., 1 fiches)
 - [[kb/The-Cybernetic-Teammate\|The Cybernetic Teammate]] — référence: Dell'Acqua, Ayoubi, Lifshitz, Sadun, E. Mollick, L. Mollick, Han, Goldman, Nair, Taub, Lakhani — Organization Science 37(4), 2026, p. 1217-1242 ; expérience préenregistrée chez P&G (791 prof. selon SFEIR, 776 dans le working paper NBER w33641 de mars 2025) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Eight-Levels-of-AI-Adoption\|The Eight Levels of AI Adoption]] — catégorie: Guide / maturity model d'adoption IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] — type: Position paper arXiv (cs.SE), 11 juin 2026, arXiv:2606.13175 (1 occ., 1 fiches)

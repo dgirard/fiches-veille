@@ -39,16 +39,16 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
 
 <!-- stats:begin -->
 
-- **Total** : 397 fiches
-- **Par année** : 2026 (220) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 398 fiches
+- **Par année** : 2026 (221) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 146
+  - Agents de codage IA & Skills : 147
   - Architecture & Construction : 54
-  - Transformation & Adoption : 82
+  - Transformation & Adoption : 83
   - Qualité & Sécurité : 43
   - Économie & Marché : 80
   - Philosophie & Société : 23
-  - Stratégie & Frameworks : 27
+  - Stratégie & Frameworks : 28
   - Outils & Plateformes : 53
   - Recherche & Éducation : 11
   - Produits & Services : 12
@@ -89,12 +89,12 @@ Ce dépôt contient une collection de fiches d'analyse d'articles techniques, or
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)
   - a16z (3)
+  - Anthropic (blog claude.com) (2)
   - VentureBeat (2)
   - Cloudflare (2)
   - The New Stack (2)
   - Netflix (2)
   - LinkedIn (Philippe Ensarguet) (2)
-  - CIO-Online (Olivier Rafal) (2)
 
 <!-- stats:end -->
 

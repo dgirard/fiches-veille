@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 502 entités de type PERSONNE
+> 503 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -328,6 +328,7 @@
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] — rôle: Directeur OSTP (Office of Science and Technology Policy) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Nuñez\|Michael Nuñez]] — rôle: Journaliste VentureBeat spécialisé IA et infrastructure ; auteur de l'entretien exclusif sous embargo avec Timothée Lacroix, et de la mise à l'échelle des annonces par des estimations tierces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Schrage\|Michael Schrage]] — affiliation: MIT Sloan (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Michael-Segner\|Michael Segner]] — rôle: Auteur du guide sur le blog claude.com ; fonction non affichée par la page (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michael-Truell\|Michael Truell]] — rôle: CEO de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michal-Zalewski\|Michal Zalewski]] — rôle: Distinguished Engineer chez Google, pilote la stratégie d'Alphabet Security ; alias lcamtuf, figure historique de la sécurité offensive, ex-CISO de Snap (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michel-Serres\|Michel Serres]] — dates: 1930-2019, philosophe français (1 occ., 1 fiches)

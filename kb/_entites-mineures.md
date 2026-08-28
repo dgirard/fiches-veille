@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2732 entités avec moins de 3 triples/fiches
+> 2750 entités avec moins de 3 triples/fiches
 
-## PERSONNE (372)
+## PERSONNE (373)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2383,6 +2383,16 @@
 
 **Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophy Eats AI: Why Your Business Needs an Ontological Core]]
 
+### Michael Segner {#Michael-Segner}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur du guide sur le blog claude.com ; fonction non affichée par la page
+
+- **a_créé** → [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] (DOCUMENT) — 0.96
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Michael Truell {#Michael-Truell}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3727,7 +3737,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (284)
+## ORGANISATION (297)
 
 ### 10x {#10x}
 
@@ -4053,6 +4063,16 @@
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
 
+### Artemis Security {#Artemis-Security}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Se présente comme entreprise nativement IA plutôt qu'entreprise utilisant l'IA ; vitesse attribuée à l'investissement en infrastructure de test, organisation du code et systèmes de connaissance
+
+- **mesure** → « plus de 6 000 pull requests par semaine » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### BCG {#BCG}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4217,6 +4237,16 @@
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 
+### Cainex {#Cainex}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Codage médical : boucle agent-auditeurs-instructions versionnées, back-test à juge sémantique ; « un mauvais code n'est pas une coquille, c'est un événement de facturation et de conformité »
+
+- **recommande** → « corriger le principe et non l'exemple, en plafonnant le nombre de spécificités qu'un changement peut introduire » (CITATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Canva {#Canva}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4291,6 +4321,27 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
+### Clay {#Clay}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Revues trimestrielles où les prototypes entrent au roadmap, agent de tri de bugs, agent d'analytique interne ; doctrine de reconstruction répétée
+
+- **mesure** → « 100 % du tri de bugs automatisé » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
+### ClickHouse {#ClickHouse}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Presque chaque étape du cycle transformée en boucle autonome ; agents de tests instables et de couverture manquante devenus 2e et 3e contributeurs du dépôt ; agents produits (console SQL, SRE) construits avec Claude Code
+
+- **mesure** → « deux agents à but unique — tests instables et couverture manquante — devenus 2e et 3e contributeurs du dépôt » (MESURE) — 0.93
+- **mesure** → « 30 % de fonctionnalités livrées en plus » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Cluely {#Cluely}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -4306,13 +4357,16 @@
 
 ### Cognition {#Cognition}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
+- **apport** : Pose comme mode de vie que ce qui est construit sera probablement mis au rebut sous six à douze mois
 - **produit_phare** : Devin
+
+- **affirme_que** → « ce qui est construit aujourd'hui sera très probablement mis au rebut sous six à douze mois » (CITATION) — 0.91
 
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Cognition — 0.97
 
-**Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]], [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
 ### Cognizant {#Cognizant}
 
@@ -4344,6 +4398,17 @@
 - **permet** → packages d'exportation IA sécurisés (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+
+### Commure {#Commure}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Sous-agents parallèles sur une initiative multi-tickets ; skill de démantèlement des feature flags déjà généralisés ; critère de fin d'une reconstruction
+
+- **affirme_que** → « une reconstruction n'est pas finie quand le nouveau chemin est livré, mais quand l'ancien a disparu » (CITATION) — 0.93
+- **observé_dans** → « une initiative d'environ 13 tickets menée par des sous-agents en parallèle, chacun propriétaire d'un ticket et de sa PR » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Constellation Research {#Constellation-Research}
 
@@ -4415,6 +4480,16 @@
 - **catégorie** : Média français de revue de presse internationale (rubrique Courrier Expat)
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
+### Crosby {#Crosby}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Outil amené aux juristes dans leurs propres environnements ; synthèse de milliers de documents juridiques par sous-agents
+
+- **affirme_que** → « les juristes portent les meilleures intuitions produit parce qu'ils sont les utilisateurs » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Crystal Peak Security {#Crystal-Peak-Security}
 
@@ -4650,6 +4725,17 @@
 - [[kb/Rod-Johnson\|Rod Johnson]] **a_créé** → Embabel — 0.99
 
 **Fiches** : [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
+
+### Emergent {#Emergent}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Amorçage de l'environnement de développement au premier jour par un fichier markdown que l'agent met à jour lui-même ; dépôt de skills partagé
+
+- **utilise** → dépôt GitHub de skills servant de base de connaissance partagée pour amorcer une session (CONCEPT) — 0.91
+- **affirme_que** → « vivre avec des fichiers de contexte légèrement périmés est acceptable si l'agent peut vérifier et se corriger vite » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Epita {#Epita}
 
@@ -5004,6 +5090,16 @@
 
 **Fiches** : [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
+### Heidi {#Heidi}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Suppression du téléphone arabe entre porteur d'idée et livraison ; revues de code automatisées contre des cadres techniques et de conformité vérifiés
+
+- **affirme_que** → « Claude Code fait s'effondrer la chaîne porteur d'idée → PM → designer → ingénieur où l'essence de l'idée se perd » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### HeyGen {#HeyGen}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -5013,6 +5109,14 @@
 - **utilise** → [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+
+### Higgsfield {#Higgsfield}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **apport** : Cycle d'intégration d'un nouveau modèle vidéo ou image — skills, evals, logique de routage, test en production — ramené de jours à heures
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Hillside Group {#Hillside-Group}
 
@@ -5689,6 +5793,17 @@
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
+### Omni {#Omni}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Canal Slack dédié aux prototypes, corollaire « tout le monde parle aux clients », inspiration de l'approche fichier plutôt qu'embedding
+
+- **s_inspire_de** → « approche fichier plutôt qu'embedding, évitant la complexité d'un pipeline RAG dans son propre produit » (AFFIRMATION) — 0.89
+- **mesure** → « productivité d'ingénierie multipliée par 2 à 3 » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Opascope {#Opascope}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5749,6 +5864,16 @@
 - **a_créé** → [[kb/_entites-mineures#Control-Tower\|Control Tower]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
+
+### Parahelp {#Parahelp}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Contributions produit d'employés non techniques, rapportées par un cofondateur non développeur
+
+- **observé_dans** → « des employés non techniques livrant des changements d'interface et des améliorations produit » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Parti communiste chinois {#Parti-communiste-chinois}
 
@@ -6329,6 +6454,14 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 
+### Translucent {#Translucent}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **apport** : Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Trump Administration {#Trump-Administration}
 
 **Type** : ORGANISATION | 2 relations | 1 fiches
@@ -6531,6 +6664,16 @@
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 
+### Zingage {#Zingage}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Invariants d'équipe écrits après une phase d'autonomie complète ayant produit du code plausible mais dérivant de l'architecture
+
+- **affirme_que** → « une autonomie complète accordée tôt produit du code plausible qui dérive de l'architecture, d'où l'écriture des invariants » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Zup {#Zup}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -6644,7 +6787,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (612)
+## TECHNOLOGIE (611)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9186,17 +9329,6 @@
 - **permet** → « d'exécuter ces benchmarks contre de vrais agents Buzz sur un relais live plutôt que sur un banc d'essai simplifié » (AFFIRMATION) — 0.91
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
-
-### Harvey {#Harvey}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **secteur** : IA juridique et services professionnels
-
-- **utilise** → [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.97
-- **s_applique_à** → services juridiques (CONCEPT) — 0.94
-
-**Fiches** : [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 
 ### Help me write {#Help-me-write}
 
@@ -21951,7 +22083,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (359)
+## METHODOLOGIE (363)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24250,6 +24382,16 @@
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
+### boucle d'auto-amélioration {#boucle-d'auto-amélioration}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **mécanisme** : Corrections d'experts remontées jusqu'aux instructions versionnées de l'agent, back-testées sur golden set et échantillons aléatoires, sous la règle « corriger le principe, pas l'exemple »
+
+- **utilise** → golden set et juge sémantique distinguant une vraie erreur d'un chemin valide différent (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### boucle d'auto-vérification {#boucle-d'auto-vérification}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -24269,6 +24411,16 @@
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → boucles de vérification multi-agents — 0.90
 
 **Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
+
+### build for rebuilding {#build-for-rebuilding}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Traiter fonctionnalités et échafaudages comme des coûts irrécupérables dès que la capacité des modèles change ; fin de reconstruction définie par la disparition de l'ancien chemin
+
+- **est_basé_sur** → « l'évolution continue de la capacité des modèles, qui rend peu de choses permanentes » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### cadre de mesure à 4 dimensions {#cadre-de-mesure-à-4-dimensions}
 
@@ -24554,6 +24706,17 @@
 - **seuil** : ~90% requis pour autoriser un agent, cible ~100%, ground truth figé
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### everyone ships {#everyone-ships}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **portée** : Ouverture du seul passage de 0 à 1 à toute l'organisation, la division du travail restant en place au-delà du prototype
+
+- **permet** → « à la personne qui comprend le problème de livrer la première version du correctif, le passage de 0 à 1 s'ouvrant à tous » (AFFIRMATION) — 0.93
+- **utilise** → [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### filtrage par le contexte {#filtrage-par-le-contexte}
 
@@ -25056,6 +25219,16 @@
 - **réduit** → sycophancie du reviewer (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Prosecution, Not Code Review]]
+
+### prototype dogfood productionize {#prototype-dogfood-productionize}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **boucle** : Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents
+
+- **permet** → « promouvoir un agent interne en produit client via l'API, le SDK ou Claude Managed Agents » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### pédagogie socratique {#pédagogie-socratique}
 
@@ -26052,7 +26225,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (124)
+## DOCUMENT (125)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26961,6 +27134,20 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → The Cathedral and the Bazaar — 0.98
 
 **Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
+
+### The Claude Code guide for startups {#The-Claude-Code-guide-for-startups}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **format** : Guide d'éditeur d'environ 31 500 caractères (5 min de lecture annoncées), publié le 20 août 2026, disponible en PDF, structuré en cinq règles et une checklist
+
+- **recommande** → « cinq règles : everyone ships, automate the tedium, trust but verify, build for rebuilding, prototype dogfood productionize » (AFFIRMATION) — 0.95
+- **est_basé_sur** → « entretiens avec plus d'une douzaine de jeunes pousses, quinze nommées » (AFFIRMATION) — 0.94
+
+- [[kb/Anthropic\|Anthropic]] **publie** → The Claude Code guide for startups — 0.96
+- [[kb/_entites-mineures#Michael-Segner\|Michael Segner]] **a_créé** → The Claude Code guide for startups — 0.96
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### The Eight Levels of AI Adoption {#The-Eight-Levels-of-AI-Adoption}
 

@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-> **Type** : DOCUMENT | 11 relations | 12 fiches sources
+> **Type** : DOCUMENT | 12 relations | 13 fiches sources
 
 > **Même entité, autre type** : [[kb/CLAUDE-md-technologie\|CLAUDE.md (TECHNOLOGIE)]]
 
@@ -54,6 +54,11 @@
 - contexte du dépôt lu à chaque session (CONCEPT) — 0.92, ATEMPOREL
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
+### s_oppose_à
+
+- « skills, réservées aux workflows procéduraux à la demande là où CLAUDE.md porte ce qui s'applique à chaque fois » (AFFIRMATION) — 0.92, ATEMPOREL
+  - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ## Relations (comme objet)
 
 - [[kb/andrej-karpathy-skills\|andrej-karpathy-skills]] **utilise** → CLAUDE.md — 0.98
@@ -72,3 +77,4 @@
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
 - [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
+- [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
