@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3217 entités
+> 3227 entités
 
 ## #
 
@@ -470,6 +470,7 @@
 - [[kb/Big-Tech\|Big Tech]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Bill-Chen\|Bill Chen]] (PERSONNE, 1 fiches)
+- [[kb/Bill-Gates\|Bill Gates]] (PERSONNE, 1 fiches)
 - [[kb/Bill-Staples\|Bill Staples]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Biohub\|Biohub]] (ORGANISATION, 1 fiches)
@@ -526,6 +527,7 @@
 - [[kb/_entites-mineures#Brainstorms-&-prototypes\|Brainstorms & prototypes]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Brasil-70-A-Saga-do-Tri\|Brasil 70: A Saga do Tri]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Break-even-local-cloud\|Break-even local/cloud]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Breakthrough-Energy\|Breakthrough Energy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Breeze\|Breeze]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Bret-Taylor\|Bret Taylor]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#brevity-bias\|brevity bias]] (CONCEPT, 1 fiches)
@@ -553,6 +555,7 @@
 
 - [[kb/_entites-mineures#cache_control\|cache_control]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#cadre-international-pour-l'IA\|cadre international pour l'IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Call-Evaluation\|Call Evaluation]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Camille-Fournier\|Camille Fournier]] (PERSONNE, 1 fiches)
@@ -750,6 +753,7 @@
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] (CONCEPT, 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] (CONCEPT, 2 fiches)
 - [[kb/Compaction-methodologie\|Compaction]] (METHODOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#compagnons-IA\|compagnons IA]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Compare-the-Market\|Compare the Market]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE, 1 fiches)
@@ -1282,6 +1286,7 @@
 - [[kb/_entites-mineures#gate\|gate]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gate-de-sortie-de-prosecution\|gate de sortie de prosecution]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#gates-déterministes\|gates déterministes]] (METHODOLOGIE, 1 fiches)
+- [[kb/Gates-Foundation\|Gates Foundation]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Gaurav-Goel\|Gaurav Goel]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#GCC\|GCC]] (TECHNOLOGIE, 1 fiches)
 - [[kb/GDPval\|GDPval]] (METHODOLOGIE, 3 fiches)
@@ -1519,6 +1524,7 @@
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Hugo-Lassiège\|Hugo Lassiège]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Human-Reserved\|Human Reserved]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Human-Sandwich\|Human Sandwich]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Human-AI-collaboration\|Human-AI collaboration]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Human-AI-system-integrator\|Human-AI system integrator]] (CONCEPT, 1 fiches)
@@ -1536,7 +1542,7 @@
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] (CONCEPT, 1 fiches)
 ## I
 
-- [[kb/IA\|IA]] (TECHNOLOGIE, 8 fiches)
+- [[kb/IA\|IA]] (TECHNOLOGIE, 9 fiches)
 - [[kb/_entites-mineures#IA-(amplificateur)\|IA (amplificateur)]] (CONCEPT, 1 fiches)
 - [[kb/IA-agentique\|IA agentique]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
@@ -2358,6 +2364,7 @@
 - [[kb/_entites-mineures#Product-Sans\|Product Sans]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Production-gouvernée\|Production gouvernée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Production-possibility-frontier-(IA)\|Production possibility frontier (IA)]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#productive-struggle\|productive struggle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Productivity-Tiering\|Productivity Tiering]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Productivité-3-5×-(médiane-committée)\|Productivité 3-5× (médiane committée)]] (CONCEPT, 1 fiches)
@@ -2516,6 +2523,7 @@
 - [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Robostral\|Robostral]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#robots-dextres\|robots dextres]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Rod-Johnson\|Rod Johnson]] (PERSONNE, 1 fiches)
 - [[kb/Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] (CONCEPT, 1 fiches)
@@ -2777,7 +2785,7 @@
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Standard-Operating-Procedure\|Standard Operating Procedure]] (CONCEPT, 1 fiches)
 - [[kb/Standardized-A2A-Client\|Standardized A2A Client]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#Stanford\|Stanford]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Stanford\|Stanford]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#Stanford-HAI\|Stanford HAI]] (ORGANISATION, 1 fiches)
 - [[kb/Stanford-University\|Stanford University]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#STAR\|STAR]] (METHODOLOGIE, 1 fiches)
@@ -2877,6 +2885,7 @@
 - [[kb/_entites-mineures#task_spam_detection.py\|task_spam_detection.py]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Taste-as-moat\|Taste as moat]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Tavily\|Tavily]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#taxe-sur-les-robots-et-les-tokens\|taxe sur les robots et les tokens]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#TDD\|TDD]] (METHODOLOGIE, 2 fiches)
@@ -3119,6 +3128,7 @@
 - [[kb/_entites-mineures#VivaTech\|VivaTech]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Vivek-Trivedy\|Vivek Trivedy]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Viz.ai\|Viz.ai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] (TECHNOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Vorflux\|Vorflux]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] (ORGANISATION, 1 fiches)

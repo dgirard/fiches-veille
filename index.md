@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 394 fiches | 1975-12 → 2026-08-24 | généré le 2026-08-25
+> 395 fiches | 1975-12 → 2026-08-26 | généré le 2026-08-30
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-08
 
+- **26** [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur. · Gates Notes — équité et IA, transition vers l'ère IA, substitution de la cognition
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
 - **21** [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif. · Anthropic (blog claude.com) — SDLC AI-native, cycle de vie logiciel, plays
 - **18** [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`. · Block — Berd, Block, open source
@@ -837,6 +838,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. Page produit **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog ni papier technique associé. Le « nous » n'apparaît qu'une fois, en dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. Publiée le **13 août 2026**. La page est rendue en JavaScript : `curl` sur l'URL renvoie **HTTP 202 avec un corps vide**, le texte n'existant qu'après exécution du bundle. Deux documents de politique sont liés en pied de page — *Safe Use Policy* et *Data Processing Statement*.
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce**, et fait suite à un entretien de juin avec le même interlocuteur. Publié le **11 août 2026**.
 - [To FDE, or not to FDE?](fiches/2026-08/zhang-decagon-fde-produit-2026-08-11.md) — **Jesse Zhang** — cofondateur et **CEO de Decagon** (agents IA de service client, San Francisco), 85 000 abonnés sur X, site personnel `jessezhang.org`. Il cite son cofondateur **Ashwin Sreenivas**, **ex-Palantir**, d'où la profondeur du récit Palantir. Publié le **11 août 2026**.
@@ -918,6 +920,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Texte signé du seul prénom (*« – Mark »*), publié le **10 août 2026** sur un domaine dédié de meta.com. La signature n'est pas « Meta », et l'alternance des pronoms est régulière : **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*), **« I » pour les affirmations normatives ou contestables** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« My honest guess, and it is a guess »*). Les engagements produits et de gouvernance sont au « nous », les propositions de politique publique au « je ».
 - [Reflecting on a year of Claude Code](fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17.md) — Boris Cherny (Head of Claude Code, Anthropic) et Cat Wu (Head of Product, Claude Code, Anthropic) — vidéo ~47 s publiée par Claude for Business sur LinkedIn, repartagée par Claude. Commentateurs cités : Omer K., Syed T., Andrei K. van Noordt, Kristóf Nagy, Natasha Egan, Natasha Newbold, Rehan Nazir, Noman A., Kevin Schoovaerts, Sunny Vara, Paul Breuler, Ron H., Mohammadjavad Sayadi, Chris Bounds, Mohamed Anis, Panny Malialis, David H., plebs.me, James Hutchinson, Dewayne J Grunden II, e.a. (28 commentaires de fond retenus sur 55).
 - [Some observations on Kimi (thread X)](fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17.md) — Dean W. Ball (Dean Woodley Ball, @deanwball sur X) — expert américain de premier plan en politique de l'IA et gouvernance des technologies émergentes. **Depuis le 6 juillet 2026 : Head of Strategic Futures chez OpenAI** (petite équipe sur la politique de l'IA de pointe — risques catastrophiques, auto-amélioration récursive, impact marché du travail, relations labos-États-société ; rend compte au Chief Strategy Officer Jason Kwon). Reste **Nonresident Senior Fellow** à la Foundation for American Innovation (FAI). **Parcours** : Senior Policy Advisor for AI and Emerging Technology à l'Office of Science and Technology Policy de la Maison Blanche (administration Trump), où il fut le **principal rédacteur d'America's AI Action Plan** ; Research Fellow au Mercatus Center (George Mason), Senior Program Manager à la Hoover Institution (Stanford), Manhattan Institute, ex-Executive Director de la Calvin Coolidge Presidential Foundation. Auteur de la newsletter **Hyperdimensional** (21 000+ abonnés) ; Visiting Lecturer à la Yale Law School (cours sur la gouvernance de l'IA de pointe). Diplômé d'Histoire de Hamilton College (2014, magna cum laude), ~33-34 ans, vit à Washington D.C. **Sensibilité** : libéral classique / libertarien, mais reconnaissant un rôle nécessaire de l'État face aux risques existentiels de l'IA. (Post X personnel ; date d'ajout à la veille : 2026-07-17.)
@@ -1055,6 +1058,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Politique & Régulation
 
+- [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source.
 - [Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.](fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11.md) — **Michael Nuñez** — journaliste **VentureBeat**, couvre l'IA et l'infrastructure ; déjà présent au corpus. L'article est bâti sur un **entretien exclusif avec Timothée Lacroix**, cofondateur et CTO de Mistral AI, conduit **avant l'annonce**, et fait suite à un entretien de juin avec le même interlocuteur. Publié le **11 août 2026**.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Texte signé du seul prénom (*« – Mark »*), publié le **10 août 2026** sur un domaine dédié de meta.com. La signature n'est pas « Meta », et l'alternance des pronoms est régulière : **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*), **« I » pour les affirmations normatives ou contestables** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« My honest guess, and it is a guess »*). Les engagements produits et de gouvernance sont au « nous », les propositions de politique publique au « je ».
@@ -1080,20 +1084,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 394 fiches
-- **Par année** : 2026 (217) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 395 fiches
+- **Par année** : 2026 (218) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 145
   - Architecture & Construction : 53
   - Transformation & Adoption : 82
   - Qualité & Sécurité : 42
-  - Économie & Marché : 78
-  - Philosophie & Société : 23
+  - Économie & Marché : 79
+  - Philosophie & Société : 24
   - Stratégie & Frameworks : 26
   - Outils & Plateformes : 50
   - Recherche & Éducation : 11
   - Produits & Services : 12
-  - Politique & Régulation : 22
+  - Politique & Régulation : 23
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (11)

@@ -1,6 +1,6 @@
 # Magnifica Humanitas
 
-> **Type** : DOCUMENT | 11 relations | 1 fiches sources
+> **Type** : DOCUMENT | 12 relations | 1 fiches sources
 
 ## Attributs
 
@@ -46,6 +46,7 @@
 ## Relations (comme objet)
 
 - [[kb/Léon-XIV\|Léon XIV]] **publie** → Magnifica Humanitas — 0.99
+- [[kb/Bill-Gates\|Bill Gates]] **référence** → Magnifica Humanitas — 0.92
 
 ## Fiches sources
 

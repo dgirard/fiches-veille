@@ -1,6 +1,6 @@
 # Microsoft
 
-> **Type** : ORGANISATION | 18 relations | 8 fiches sources
+> **Type** : ORGANISATION | 19 relations | 8 fiches sources
 
 ## Attributs
 
@@ -74,6 +74,7 @@
 
 - [[kb/Shopify\|Shopify]] **collabore_avec** → Microsoft — 0.98
 - [[kb/Satya-Nadella\|Satya Nadella]] **dirige** → Microsoft — 0.98
+- [[kb/Bill-Gates\|Bill Gates]] **a_créé** → Microsoft — 0.97
 - [[kb/Mistral-AI\|Mistral AI]] **collabore_avec** → Microsoft — 0.97
 
 ## Fiches sources

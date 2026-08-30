@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2698 entités avec moins de 3 triples/fiches
+> 2706 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (370)
 
@@ -3707,7 +3707,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (279)
+## ORGANISATION (280)
 
 ### 10x {#10x}
 
@@ -4122,6 +4122,16 @@
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **collabore_avec** → Boston Consulting Group — 0.95
 
 **Fiches** : [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
+
+### Breakthrough Energy {#Breakthrough-Energy}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Énergie propre bon marché, fondée par Bill Gates
+
+- [[kb/Bill-Gates\|Bill Gates]] **a_créé** → Breakthrough Energy — 0.93
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### Bytedance {#Bytedance}
 
@@ -6003,13 +6013,15 @@
 
 ### Stanford {#Stanford}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
+- **rôle** : Co-auteur (avec Carnegie Mellon) de l'étude sur plus de 1 100 utilisateurs de compagnons IA
 - **secteur** : Recherche universitaire
 
 - **emploie** → [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] (PERSONNE) — 0.95
+- **mesure** → « usage intense d'un compagnon IA associé à un ressenti dégradé (1 100+ utilisateurs) » (MESURE) — 0.86
 
-**Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)]]
+**Fiches** : [[fiches/2025-11/denisov-blanch-stanford-quantify-ai-roi-software-engineering-2025-11-23\|How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)]], [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### Stanford HAI {#Stanford-HAI}
 
@@ -6564,7 +6576,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (596)
+## TECHNOLOGIE (599)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -11665,6 +11677,17 @@
 
 **Fiches** : [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 
+### Viz.ai {#Viz.ai}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : Analyse de scanners pour détecter AVC et urgences, ~2 000 hôpitaux américains
+
+- **permet** → détection d'AVC et d'urgences par analyse de scanners (CONCEPT) — 0.92
+- **observé_dans** → « près de 2 000 hôpitaux américains » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
+
 ### Vorflux {#Vorflux}
 
 **Type** : TECHNOLOGIE | 6 relations | 1 fiches
@@ -12069,6 +12092,16 @@
 - **réduit** → temps de QA manuelle du développeur (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2025-11/finout-cpo-guide-llm-rag-agents-agentic-token-multipliers-2025-11-02\|FinOps in the Age of AI: A CPO's Guide to LLM Workflows, RAG, AI Agents, and Agentic Systems]]
+
+### compagnons IA {#compagnons-IA}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **risque** : Dépendance émotionnelle, absence de friction sociale formatrice
+
+- **s_applique_à** → développement social des enfants (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### compilateur C en Rust {#compilateur-C-en-Rust}
 
@@ -12513,6 +12546,14 @@
 
 **Fiches** : [[fiches/2026-03/chow-compound-engineering-v260-review-pipeline-2026-03-31\|Compound Engineering: 3/31/2026]]
 
+### robots dextres {#robots-dextres}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **maturité** : Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici fin 2029
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : TECHNOLOGIE | 1 relations | 2 fiches
@@ -12765,7 +12806,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (926)
+## CONCEPT (930)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14976,6 +15017,16 @@
 - **converge_avec** → verifiability framework de Karpathy (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
+
+### Human Reserved {#Human-Reserved}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Domaine de métiers volontairement soustraits à l'automatisation, par analogie avec les réserves naturelles
+
+- **réduit** → déplacement massif de travailleurs non reconvertibles (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### Human-AI system integrator {#Human-AI-system-integrator}
 
@@ -17440,6 +17491,16 @@
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] **référence** → bulle IA — 0.98
 
 **Fiches** : [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]], [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+
+### cadre international pour l'IA {#cadre-international-pour-l'IA}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Institution mondiale combinant inspection nucléaire, régulation aérienne et accords sur l'ozone
+
+- **s_inspire_de** → régime d'inspection nucléaire, régulation aérienne et accords sur l'ozone (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### campus ambassadors {#campus-ambassadors}
 
@@ -20210,6 +20271,16 @@
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]], [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 
+### productive struggle {#productive-struggle}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs
+
+- **améliore** → apprentissage des élèves (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
+
 ### productivité 10x-1000x {#productivité-10x-1000x}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -21011,6 +21082,16 @@
 - **observé_dans** → « les données d'usage de ChatGPT, comme signal avancé de la recomposition des métiers » (AFFIRMATION) — 0.90
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]], [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
+
+### taxe sur les robots et les tokens {#taxe-sur-les-robots-et-les-tokens}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Corriger l'incitation fiscale au remplacement du travail et financer le filet social
+
+- **s_oppose_à** → incitation fiscale au remplacement du travail humain (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### taxonomie 9 catégories de skills {#taxonomie-9-catégories-de-skills}
 

@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 56 relations | 22 fiches sources
+> **Type** : ORGANISATION | 57 relations | 22 fiches sources
 
 ## Attributs
 
@@ -138,6 +138,7 @@
 - [[kb/Nvidia\|Nvidia]] **collabore_avec** → OpenAI — 0.95
 - [[kb/roon\|roon]] **travaille_chez** → OpenAI — 0.95
 - [[kb/économie-circulaire-IA\|économie circulaire IA]] **s_applique_à** → OpenAI — 0.92
+- [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → OpenAI — 0.90
 - [[kb/_entites-mineures#MIT-Media-Lab\|MIT Media Lab]] **collabore_avec** → OpenAI — 0.90
 - [[kb/Anthropic\|Anthropic]] **concurrence** → OpenAI — 0.90
 - [[kb/Gadget\|Gadget]] **s_oppose_à** → OpenAI — 0.88

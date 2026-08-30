@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 968 entités de type CONCEPT
+> 972 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -259,6 +259,7 @@
 - [[kb/_entites-mineures#Headwinds-AI\|Headwinds AI]] — définition: (1) Slowing market growth — software penetration topping out ; (2) Rising AI infrastructure/inference/model access costs introduisant variable costs dans businesses historiquement high-margin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hiring-for-strengths\|Hiring for strengths]] — principe: Évaluer les spikes du candidat plutôt que l'absence de faiblesses (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hiérarchie-d'accélération\|Hiérarchie d'accélération]] — catégorie: Frontend > Backend > Infra > Recherche (Ng 2026) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Human-Reserved\|Human Reserved]] — définition: Domaine de métiers volontairement soustraits à l'automatisation, par analogie avec les réserves naturelles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-AI-system-integrator\|Human-AI system integrator]] — description: Nouveau rôle prédit pour les développeurs post-IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-First-Zone\|Human-First Zone]] — caractéristiques: coût d'erreur élevé + connaissance tacite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hypocrisie-organisationnelle\|Hypocrisie organisationnelle]] — description: Ecart delibere entre les objectifs declares et les objectifs reellement poursuivis par une organisation (1 occ., 1 fiches)
@@ -523,6 +524,7 @@
 - [[kb/_entites-mineures#boîte-de-saisie-vide\|boîte de saisie vide]] — définition: Interface d'agent par défaut qui ne révèle ni configuration, ni outils, ni différence entre agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#brevity-bias\|brevity bias]] — définition: compression excessive du contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bulle-IA\|bulle IA]] — analogie: canaux, chemins de fer, internet, dot-com (2 occ., 2 fiches)
+- [[kb/_entites-mineures#cadre-international-pour-l'IA\|cadre international pour l'IA]] — définition: Institution mondiale combinant inspection nucléaire, régulation aérienne et accords sur l'ozone (1 occ., 1 fiches)
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] — description: Étudiants payés par des entreprises IA pour promouvoir leurs outils (1 occ., 1 fiches)
 - [[kb/_entites-mineures#canonical-datasets\|canonical datasets]] — définition: Datasets single source-of-truth, owned, consumption-ready, discoverable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#capacités-agentiques-IA\|capacités agentiques IA]] — impact: Attaque autonome à 80-90% sans supervision humaine (1 occ., 1 fiches)
@@ -814,6 +816,7 @@
 - [[kb/_entites-mineures#principes-de-persuasion-Cialdini\|principes de persuasion Cialdini]] — source: Robert Cialdini, ouvrage Influence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#problème-des-80-%\|problème des 80 %]] — définition: L'IA génère ~80 % du code ; les 20 % restants exigent un contexte profond (1 occ., 1 fiches)
 - [[kb/_entites-mineures#product-overhang\|product overhang]] — définition: Concept Anthropic Labs : "the model can do all the stuff that no product has yet captured" — moteur de la stratégie Claude Code (2 occ., 2 fiches)
+- [[kb/_entites-mineures#productive-struggle\|productive struggle]] — définition: Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] — nature: Multiplication capacité individuelle par levier IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#produit-vs-projet\|produit vs projet]] — définition: Traiter la plateforme GenAI comme un produit financé en flux, pas un projet ponctuel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#programmeur\|programmeur]] — évolution: De codeur ligne par ligne à orchestrateur/superviseur IA (1 occ., 1 fiches)
@@ -900,6 +903,7 @@
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tarification-des-écritures-de-cache\|tarification des écritures de cache]] — définition: Cache writes facturés 1,25× l'entrée non cachée (première chez OpenAI) ; cache reads −90 %, TTL min 30 min ; surcoût au-delà de 272 k tokens (~10 $/45 $) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#task-crossover\|task crossover]] — mesure: 16,8 % des messages liés au travail et 43,5 % des messages métier-spécifiques, après retrait des 61,5 % d'usage générique (2 occ., 2 fiches)
+- [[kb/_entites-mineures#taxe-sur-les-robots-et-les-tokens\|taxe sur les robots et les tokens]] — rôle: Corriger l'incitation fiscale au remplacement du travail et financer le filet social (1 occ., 1 fiches)
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] — liste: Library/API, Verification, Data, Process, Scaffolding, Quality, CI/CD, Runbooks, Infra Ops (1 occ., 1 fiches)
 - [[kb/_entites-mineures#test-discovery-vs-absorption\|test discovery vs absorption]] — définition: Critère de décision proposé par Jesse Zhang pour évaluer une équipe FDE : le bespoke est-il dans l'environnement du client ou dans les trous du produit ; le dernier kilomètre est-il irréductible ou non construit ; les FDE découvrent-ils ou absorbent-ils ; et surtout, qu'est-ce qui a été intégré au produit au retour du dernier terrain — seule question vérifiable des quatre (1 occ., 1 fiches)
 - [[kb/_entites-mineures#théorie-des-contraintes\|théorie des contraintes]] — source: Goldratt, cité pour prédire que lever le goulot de la génération expose celui de la vérification et de la gouvernance (1 occ., 1 fiches)

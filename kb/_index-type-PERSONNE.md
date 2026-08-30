@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 497 entités de type PERSONNE
+> 498 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -71,6 +71,7 @@
 - [[kb/_entites-mineures#Bharat-N.-Anand\|Bharat N. Anand]] — rôle: Doyen, NYU Stern School of Business (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bharat-Ramamurti\|Bharat Ramamurti]] — rôle: Ex-deputy director NEC Biden, "China shock could happen over two years" (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bill-Chen\|Bill Chen]] — rôle: Product Manager, OpenAI (1 occ., 1 fiches)
+- [[kb/Bill-Gates\|Bill Gates]] — rôle: Cofondateur de Microsoft, président du conseil de la Gates Foundation (1 occ., 1 fiches)
 - [[kb/Bill-Staples\|Bill Staples]] — rôle: Directeur général de GitLab, auteur de l'essai ; la fonction n'est pas affichée par la page (1 occ., 1 fiches)
 - [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] — rôle: Distinguished Engineer, experte IA-assisted delivery chez Thoughtworks (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Bob-Martin\|Bob Martin]] — rôle: Évangéliste agile, auteur Clean Code (1 occ., 1 fiches)

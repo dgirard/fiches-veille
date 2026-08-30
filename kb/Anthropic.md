@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 123 relations | 43 fiches sources
+> **Type** : ORGANISATION | 124 relations | 43 fiches sources
 
 ## Attributs
 
@@ -282,6 +282,7 @@
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
+- [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → Anthropic — 0.90
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
 - administration Trump **s_oppose_à** → Anthropic — 0.90

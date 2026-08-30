@@ -1,11 +1,11 @@
 # IA
 
-> **Type** : TECHNOLOGIE | 33 relations | 8 fiches sources
+> **Type** : TECHNOLOGIE | 36 relations | 9 fiches sources
 
 ## Attributs
 
 - **catégorie** : Technologie générique dont la variante agentique éprouve la littératie des patterns
-- **impact** : Démocratise la création logicielle pour les non-développeurs
+- **impact** : Substitue la cognition humaine et touche simultanément tous les secteurs
 - **métaphore** : Pierre philosophale — transmutation du sable en pensée
 - **usage** : Optimisation des enchères, analytique prédictive, segmentation audience
 
@@ -27,6 +27,8 @@
   - [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
 - productivité développeur (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
+- conseil agricole dans les pays à faible revenu (CONCEPT) — 0.88, ATEMPOREL
+  - [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
 ### concurrence
 
@@ -55,6 +57,8 @@
   - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 - amplification écart de productivité ingénieurs (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2025-11/hezarkhani-10x-paying-engineers-salespeople-2025-11-23\|Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering]]
+- cyberattaques et bioterrorisme à moindre coût (CONCEPT) — 0.90, ATEMPOREL
+  - [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 - [[kb/dette-technique\|dette technique]] (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2024-10/kent-beck-vibe-coding-tdd-ai-assisted-dev-linkedin-2024-10-17\|Kent Beck on "Vibe Coding" vs Test-Driven Development in AI Era]]
 - définition de l'ontologie organisationnelle (CONCEPT) — 0.90, ATEMPOREL
@@ -81,6 +85,8 @@
   - [[fiches/2025-11/zhang-bloomberg-deploying-ai-engineering-2025-11-23\|What We Learned Deploying AI within Bloomberg’s Engineering Organization]]
 - durée de la phase d'implémentation (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-05/osmani-google-new-sdlc-vibe-coding-agentic-engineering-2026-05\|The New SDLC With Vibe Coding — From ad-hoc prompting to Agentic Engineering]]
+- emplois d'entrée et de milieu de carrière (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 - compétences techniques profondes (risque d'atrophie) (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - interactions de mentorat (CONCEPT) — 0.85, DYNAMIQUE
@@ -112,6 +118,7 @@
 - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 - [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
 - [[fiches/2026-06/ensarguet-pattern-lineage-design-patterns-architects-ai-2026-06-10\|The pattern lineage: Why fifty years of design patterns may hold the key to growing the architects AI cannot replace]]
+- [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 - [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 - [[fiches/2025-01/lee-robinson-personal-software-2025-01-01\|Personal Software]]
 - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]

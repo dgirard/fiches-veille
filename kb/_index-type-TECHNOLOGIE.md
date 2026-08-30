@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 761 entités de type TECHNOLOGIE
+> 764 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -329,7 +329,7 @@
 - [[kb/_entites-mineures#Hugging-Face\|Hugging Face]] — catégorie: Plateforme de distribution de modèles (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Hyperframes\|Hyperframes]] — catégorie: Outil motion design / framework (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hypergraph-Database\|Hypergraph Database]] — catégorie: base de données hypergraphe pour raisonnement agents (2 occ., 1 fiches)
-- [[kb/IA\|IA]] — impact: Démocratise la création logicielle pour les non-développeurs (8 occ., 8 fiches)
+- [[kb/IA\|IA]] — impact: Substitue la cognition humaine et touche simultanément tous les secteurs (9 occ., 9 fiches)
 - [[kb/IA-agentique\|IA agentique]] — description: IA autonome ou semi-autonome percevant, décidant et agissant (4 occ., 4 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] — effet: Augmentation de productivité, transformation du métier (1 occ., 1 fiches)
 - [[kb/IA-générative\|IA générative]] — catégorie: Technologie IA de génération de contenu (4 occ., 4 fiches)
@@ -636,6 +636,7 @@
 - [[kb/_entites-mineures#Visual-Studio-Code\|Visual Studio Code]] — usage: IDE pour labs pratiques MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vite\|Vite]] — usage: Bundler TypeScript/HMR pour widgets (1 occ., 1 fiches)
 - [[kb/_entites-mineures#VitePress\|VitePress]] — usage: Générateur de site statique pour documentation d'audit interactive (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Viz.ai\|Viz.ai]] — catégorie: Analyse de scanners pour détecter AVC et urgences, ~2 000 hôpitaux américains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vorflux\|Vorflux]] — catégorie: Autopilote pour le software engineering — agents cloud à contexte propre, modèle propre, tâche permanente (2 occ., 1 fiches)
 - [[kb/Voxtral\|Voxtral]] — catégorie: Modèle de compréhension vocale open source (5 occ., 1 fiches)
 - [[kb/_entites-mineures#Voxtral-Mini-Transcribe\|Voxtral Mini Transcribe]] — rôle: Variante de transcription pure de la famille Voxtral, la moins chère du lot (1 occ., 1 fiches)
@@ -682,6 +683,7 @@
 - [[kb/_entites-mineures#clé-Nostr\|clé Nostr]] — rôle: Identité unique : signe les messages et les pushes Git (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coderabbit-review-helper\|coderabbit-review-helper]] — auteur: Jesse Vincent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coding-agent\|coding agent]] — exemple: LLM appelle « execute code », lit output, continue (1 occ., 1 fiches)
+- [[kb/_entites-mineures#compagnons-IA\|compagnons IA]] — risque: Dépendance émotionnelle, absence de friction sociale formatrice (1 occ., 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] — taille: 100 000 lignes de code (3 occ., 1 fiches)
 - [[kb/_entites-mineures#contrôle-de-source-nouvelle-génération\|contrôle de source nouvelle génération]] — mécanisme: Accès côté serveur permettant à un agent de récupérer ce que la tâche exige au lieu de déplacer le dépôt entier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] — catégorie: Agents IA coopérants utilisés par Spec to Code pour générer code depuis la Super Spec (1 occ., 1 fiches)
@@ -736,6 +738,7 @@
 - [[kb/_entites-mineures#repo-profile-cache\|repo-profile cache]] — nature: Connaissance éphémère dérivée 1×/commit, partagée par 9 skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#repowire\|repowire]] — catégorie: Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] — description: Skill de résolution feedback PR avec clustering (1 occ., 1 fiches)
+- [[kb/_entites-mineures#robots-dextres\|robots dextres]] — maturité: Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici fin 2029 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 2 fiches)
 - [[kb/_entites-mineures#semantic-layer\|semantic layer]] — rôle: Définitions compilées de métriques/dimensions, source de confiance n°1 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#serveurs-MCP\|serveurs MCP]] — composants: outils, ressources, prompts (1 occ., 1 fiches)

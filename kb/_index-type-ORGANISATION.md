@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 386 entités de type ORGANISATION
+> 388 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -58,6 +58,7 @@
 - [[kb/_entites-mineures#Blue-Origin\|Blue Origin]] — secteur: Aérospatiale commerciale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boston-Consulting-Group\|Boston Consulting Group]] — secteur: Conseil en stratégie (1 occ., 1 fiches)
 - [[kb/Box\|Box]] — secteur: Cloud content management (San Francisco) (3 occ., 3 fiches)
+- [[kb/_entites-mineures#Breakthrough-Energy\|Breakthrough Energy]] — secteur: Énergie propre bon marché, fondée par Bill Gates (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bytedance\|Bytedance]] — secteur: Technologie / IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CAST\|CAST]] — secteur: Partenaire d'analyse de code legacy — cohérent avec capacité Reverse Engineering (1 occ., 1 fiches)
 - [[kb/CEA\|CEA]] — nom complet: Commissariat à l'énergie atomique et aux énergies alternatives (2 occ., 1 fiches)
@@ -144,6 +145,7 @@
 - [[kb/_entites-mineures#GENIAL\|GENIAL]] — secteur: Startup IA française (1 occ., 1 fiches)
 - [[kb/Gadget\|Gadget]] — secteur: Plateforme de développement full-stack (1 occ., 1 fiches)
 - [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil technologique (4 occ., 4 fiches)
+- [[kb/Gates-Foundation\|Gates Foundation]] — secteur: Philanthropie / santé mondiale, agriculture, éducation — 200 Md$ sur 20 ans, 19 restants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Generative-AI-Labs\|Generative AI Labs]] — affiliation: The Wharton School, University of Pennsylvania (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ghostty\|Ghostty]] — réaction: Bans permanents pour code généré par IA (1 occ., 2 fiches)
 - [[kb/GitHub-organisation\|GitHub]] — rôle: Éditeur de Copilot, cité comme point de comparaison tarifaire (2 occ., 5 fiches)
@@ -312,7 +314,7 @@
 - [[kb/Spotify-organisation\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 2 fiches)
 - [[kb/Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Stanford\|Stanford]] — secteur: Recherche universitaire (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Stanford\|Stanford]] — secteur: Recherche universitaire (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Stanford-HAI\|Stanford HAI]] — catégorie: Institut de recherche IA centré sur l'humain (1 occ., 1 fiches)
 - [[kb/Stanford-University\|Stanford University]] — secteur: Recherche IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Startups-AI-native\|Startups AI-native]] — caractéristique: Petite équipe générant des revenus massifs grâce au découplage taille/échelle (1 occ., 1 fiches)
