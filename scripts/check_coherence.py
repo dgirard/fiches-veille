@@ -33,9 +33,14 @@ KB_THEMATIQUES = {
         "themes": {"agents-codage-ia-skills"},
         "keywords": ["context engineering", "contexte", "mémoire", "memory"],
     },
+    # `economie-marche` a été retiré des thèmes le 2026-08-30 : trop large
+    # (fiscalité, emploi, prix des modèles), il remontait 60 fiches depuis
+    # janvier pour 14 réellement curées. Les deux fiches curées qu'il seul
+    # rattrapait sont récupérées par mots-clés. Rappel conservé : 14/14.
     "kb-commerce-agentique.md": {
-        "themes": {"economie-marche", "produits-services"},
-        "keywords": ["commerce agentique", "agentic commerce", "mcp-ui"],
+        "themes": {"produits-services"},
+        "keywords": ["commerce agentique", "agentic commerce", "mcp-ui",
+                     "commerce conversationnel", "e-commerce", "answer engine"],
     },
     # `flags` (optionnel) : critère EXCLUSIF — thèmes et mots-clés sont ignorés.
     # kb-skills.md est alimentée par les seules fiches `fiche_type: skill` ; la

@@ -115,6 +115,49 @@ class TestDeriveNommage(unittest.TestCase):
         self.assertEqual(status, cc.OK)
 
 
+class TestKbThematiquesPerimetre(unittest.TestCase):
+    """(d) le thème doit rester discriminant : un thème large ne doit pas
+    remonter une fiche hors sujet, mais un thème pertinent suffit seul."""
+
+    def setUp(self):
+        self.r = _Repo()
+        (self.r.root / "kb-x.md").write_text(
+            "# KB X\n\n> 0 fiches | Généré le 2026-06-01\n", encoding="utf-8")
+        self._sauv = dict(cc.KB_THEMATIQUES)
+        cc.KB_THEMATIQUES.clear()
+        cc.KB_THEMATIQUES["kb-x.md"] = {"themes": {"produits-services"},
+                                        "keywords": ["commerce agentique"]}
+
+    def tearDown(self):
+        cc.KB_THEMATIQUES.clear()
+        cc.KB_THEMATIQUES.update(self._sauv)
+        self.r.cleanup()
+
+    def _fiche(self, frontmatter="", corps=None):
+        (self.r.root / "fiches" / "2026-06" / "a-2026-06-15.md").write_text(
+            frontmatter + (corps or FICHE), encoding="utf-8")
+
+    def test_theme_hors_perimetre_ignore(self):
+        # Régression : `economie-marche` figurait dans le périmètre commerce
+        # agentique et y remontait toute fiche d'économie générale.
+        self._fiche("---\nthemes: [economie-marche]\n---\n")
+        _, status, _ = cc.check_kb_thematiques(self.r.root)
+        self.assertEqual(status, cc.OK)
+
+    def test_theme_du_perimetre_compte(self):
+        self._fiche("---\nthemes: [produits-services]\n---\n")
+        _, status, detail = cc.check_kb_thematiques(self.r.root)
+        self.assertEqual(status, cc.WARN)
+        self.assertIn("kb-x.md: 1", detail)
+
+    def test_mot_cle_seul_suffit(self):
+        # Le mot-clé rattrape une fiche hors thème : le `or` est délibéré.
+        self._fiche("---\nthemes: [economie-marche]\n---\n",
+                    FICHE.replace("## Keywords\nia", "## Keywords\ncommerce agentique"))
+        _, status, _ = cc.check_kb_thematiques(self.r.root)
+        self.assertEqual(status, cc.WARN)
+
+
 class TestKbThematiquesFlags(unittest.TestCase):
     """(d) périmètre `flags` : critère exclusif, insensible aux mots-clés."""
 
