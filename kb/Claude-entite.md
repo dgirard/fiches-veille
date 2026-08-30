@@ -49,7 +49,7 @@
 - [[kb/Replit-technologie\|Replit]] **utilise** → Claude — 0.98
 - [[kb/Manus-technologie\|Manus]] **est_basé_sur** → Claude — 0.97
 - [[kb/CodeRabbit\|CodeRabbit]] **utilise** → Claude — 0.97
-- [[kb/_entites-mineures#Harvey\|Harvey]] **utilise** → Claude — 0.97
+- [[kb/Harvey-technologie\|Harvey]] **utilise** → Claude — 0.97
 - [[kb/Anthropic\|Anthropic]] **recommande** → Claude — 0.95
 - [[kb/Ethan-Mollick\|Ethan Mollick]] **recommande** → Claude — 0.95
 - [[kb/Anthropic-Interviewer\|Anthropic Interviewer]] **utilise** → Claude — 0.95

@@ -1,13 +1,13 @@
 # git worktrees
 
-> **Type** : TECHNOLOGIE | 8 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/git-worktrees-methodologie\|git worktrees (METHODOLOGIE)]]
 
 ## Attributs
 
 - **fonction** : Isolation d'agents parallèles (répertoires/branches séparés, historique partagé)
-- **usage** : Parallélisme de sessions Claude, gain de productivité majeur
+- **usage** : Copie isolée du dépôt permettant de faire tourner une reconstruction à côté de la version courante et de comparer les evals avant fusion
 
 ## Relations (comme sujet)
 
@@ -17,6 +17,11 @@
   - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 - sessions Claude Code parallèles isolées (CONCEPT) — 0.90, ATEMPOREL
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
+
+### réduit
+
+- « coût d'une reconstruction, v2 tournant à côté de v1 avec fusion seulement si les evals de la nouvelle gagnent » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### résout
 
@@ -36,4 +41,5 @@
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[fiches/2025-10/coding-agents-methodology-vincent-2025-10-05\|How I'm using coding agents in September, 2025]]
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
+- [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]

@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 972 entités de type CONCEPT
+> 976 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -764,6 +764,7 @@
 - [[kb/_entites-mineures#monitoring-observabilité\|monitoring observabilité]] — métriques: Latence, débit, taux succès, coûts LLM, comportement agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#monopsychisme\|monopsychisme]] — définition: Thèse d'un intellect universel unique partagé par tous les humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#monétisation-par-les-coûts\|monétisation par les coûts]] — définition: Captation de la valeur d'une technologie par la réduction de la structure de coûts avant toute facturation au client ; rend soutenable un séquencement qualité → distribution → adoption → prix, mais suppose une marge de manœuvre sur les effectifs que toutes les entreprises n'ont pas (1 occ., 1 fiches)
+- [[kb/_entites-mineures#moteur-analytique-embarqué\|moteur analytique embarqué]] — définition: Moteur tournant en bibliothèque dans l'espace d'adressage de l'application, sur ses structures mémoire, sans service externe à l'autre bout d'un câble (1 occ., 1 fiches)
 - [[kb/_entites-mineures#multiplicateurs-de-tokens\|multiplicateurs de tokens]] — valeurs: 6× démo→prod, 5× agent, 5-10× coût réel, 30-200× optim (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mémoire-institutionnelle\|mémoire institutionnelle]] — mécanisme: Git history + agents spécialisés + docs/*.md (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mérite-technique\|mérite technique]] — principe de gouvernance: Critère de décision revendiqué du projet kernel : on adopte les outils (dont l'IA) sur leur valeur technique, « pas sur la peur des nouveaux outils » ni pour des raisons idéologiques (1 occ., 1 fiches)
@@ -780,6 +781,7 @@
 - [[kb/_entites-mineures#opportunité-IA-agentique-services-et-conseil\|opportunité IA agentique services et conseil]] — taille estimée: +400 Md$ par an à horizon 2030 (estimation Capgemini) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] — opposé: Optimisme indéterminé (avenir passif) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#optimisme-indéterminé\|optimisme indéterminé]] — catégorie: Posture opposée à l'optimisme déterminé : attendre un futur meilleur sans plan pour l'obtenir (1 occ., 1 fiches)
+- [[kb/_entites-mineures#option-d'achat-adossée-à-l'IPO\|option d'achat adossée à l'IPO]] — mécanisme: Plancher payé immédiatement, engagement lourd différé après cotation : achat de temps, d'optionalité IA et de récit de revenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-de-recherche-parallèles\|opérations de recherche parallèles]] — avantage: Plus rapide que planification séquentielle humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#opérations-intelligentes\|opérations intelligentes]] — définition: Gestion opérationnelle des processus métier augmentée par l'IA (BPO nouvelle génération) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] — définition: Prise en charge d'un produit de l'idée à la mise en monde (build + legal + marketing + sécurité) par un même contributeur augmenté par l'IA (1 occ., 1 fiches)
@@ -851,6 +853,7 @@
 - [[kb/_entites-mineures#récompense-visible-de-l'adoption-IA\|récompense visible de l'adoption IA]] — définition: Preuve tangible (ici 100 000 $) qui légitime et diffuse l'adoption, en retirant la corvée plutôt que les emplois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#récupération-active\|récupération active]] — définition: Invocation à la demande d'une ressource de connaissances par l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rétention-de-tâches-propres\|rétention de tâches propres]] — définition: Part des messages non génériques d'un métier classés dans son propre domaine — 53 % en ingénierie, 10 à 12 % en expérience client, RH, design et vente (1 occ., 1 fiches)
+- [[kb/_entites-mineures#rétention-nulle-de-données\|rétention nulle de données]] — enjeu: Clause contractuelle citée comme premier point à revérifier par les services achats, avec la déclaration des sous-traitants et l'identité du fournisseur (1 occ., 1 fiches)
 - [[kb/réversibilité\|réversibilité]] — principe: Capacité à exécuter/porter un modèle soi-même et à sortir de la captivité fournisseur ; rendue portable par l'open-weights des poids de Mistral (même logique que Kimi K3) (3 occ., 3 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 2 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
@@ -898,6 +901,7 @@
 - [[kb/_entites-mineures#systèmes-de-record\|systèmes de record]] — définition: Source canonique de vérité, pas une catégorie produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-agents-autonomes\|sécurité agents autonomes]] — risque: Déploiement de code non vérifié par humains (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sécurité-psychologique\|sécurité psychologique]] — rôle: Facteur clé d'adoption IA réussie (1 occ., 1 fiches)
+- [[kb/_entites-mineures#sélection-de-composant\|sélection de composant]] — rôle: Point d'appui amont : décider de la version avant que le risque n'entre dans l'application (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-client-boucle-d'agent\|séparation client / boucle d'agent]] — définition: Le client tient l'expérience et la configuration, le runtime tient la boucle d'exécution ; frontière protocolaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-des-tâches\|séparation des tâches]] — invariant: L'agent qui produit le code n'a aucun chemin pour l'approuver ; la protection de branche exige un code owner humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#séparation-générateur-critique\|séparation générateur-critique]] — définition: Appels LLM distincts aux system prompts opposés : générer sans évaluer, puis évaluer sans générer (1 occ., 1 fiches)

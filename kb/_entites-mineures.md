@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2706 entités avec moins de 3 triples/fiches
+> 2758 entités avec moins de 3 triples/fiches
 
-## PERSONNE (370)
+## PERSONNE (373)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1398,6 +1398,16 @@
 
 **Fiches** : [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 
+### Hannes Mühleisen {#Hannes-Mühleisen}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-créateur de DuckDB, ancien chercheur au CWI ; formule l'objectif « allowing anyone to work with data confidently »
+
+- **a_créé** → [[kb/DuckDB\|DuckDB]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Haoyu Wang {#Haoyu-Wang}
 
 **Type** : PERSONNE | 0 relations | 1 fiches
@@ -2146,6 +2156,16 @@
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
+### Mark Raasveldt {#Mark-Raasveldt}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Co-créateur de DuckDB, ancien chercheur au CWI
+
+- **a_créé** → [[kb/DuckDB\|DuckDB]] (TECHNOLOGIE) — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Mark Tyson {#Mark-Tyson}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -2362,6 +2382,16 @@
 - **publie** → question philosophie mange IA (CONCEPT) — 0.96
 
 **Fiches** : [[fiches/2025-05/seale-philosophy-eats-ai-ontological-core-2025-05-30\|Philosophy Eats AI: Why Your Business Needs an Ontological Core]]
+
+### Michael Segner {#Michael-Segner}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur du guide sur le blog claude.com ; fonction non affichée par la page
+
+- **a_créé** → [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] (DOCUMENT) — 0.96
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Michael Truell {#Michael-Truell}
 
@@ -3707,7 +3737,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (280)
+## ORGANISATION (298)
 
 ### 10x {#10x}
 
@@ -4013,6 +4043,16 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 
+### Anysphere {#Anysphere}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord
+
+- **a_créé** → [[kb/Cursor-technologie\|Cursor]] (TECHNOLOGIE) — 0.94
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### Archie {#Archie}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4022,6 +4062,16 @@
 - [[kb/Fred-PLAIS\|Fred PLAIS]] **dirige** → Archie — 0.90
 
 **Fiches** : [[fiches/2026-06/plais-ai-engineers-fast-bottleneck-upstream-2026-06-17\|AI made your engineers fast. Too fast to leave room for the rest of the org to think.]]
+
+### Artemis Security {#Artemis-Security}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Se présente comme entreprise nativement IA plutôt qu'entreprise utilisant l'IA ; vitesse attribuée à l'investissement en infrastructure de test, organisation du code et systèmes de connaissance
+
+- **mesure** → « plus de 6 000 pull requests par semaine » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### BCG {#BCG}
 
@@ -4197,6 +4247,16 @@
 
 **Fiches** : [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 
+### Cainex {#Cainex}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Codage médical : boucle agent-auditeurs-instructions versionnées, back-test à juge sémantique ; « un mauvais code n'est pas une coquille, c'est un événement de facturation et de conformité »
+
+- **recommande** → « corriger le principe et non l'exemple, en plafonnant le nombre de spécificités qu'un changement peut introduire » (CITATION) — 0.93
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Canva {#Canva}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -4271,6 +4331,27 @@
 
 **Fiches** : [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 
+### Clay {#Clay}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Revues trimestrielles où les prototypes entrent au roadmap, agent de tri de bugs, agent d'analytique interne ; doctrine de reconstruction répétée
+
+- **mesure** → « 100 % du tri de bugs automatisé » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
+### ClickHouse {#ClickHouse}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Presque chaque étape du cycle transformée en boucle autonome ; agents de tests instables et de couverture manquante devenus 2e et 3e contributeurs du dépôt ; agents produits (console SQL, SRE) construits avec Claude Code
+
+- **mesure** → « deux agents à but unique — tests instables et couverture manquante — devenus 2e et 3e contributeurs du dépôt » (MESURE) — 0.93
+- **mesure** → « 30 % de fonctionnalités livrées en plus » (MESURE) — 0.88
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Cluely {#Cluely}
 
 **Type** : ORGANISATION | 3 relations | 1 fiches
@@ -4286,13 +4367,16 @@
 
 ### Cognition {#Cognition}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
+- **apport** : Pose comme mode de vie que ce qui est construit sera probablement mis au rebut sous six à douze mois
 - **produit_phare** : Devin
+
+- **affirme_que** → « ce qui est construit aujourd'hui sera très probablement mis au rebut sous six à douze mois » (CITATION) — 0.91
 
 - [[kb/Windsurf-organisation\|Windsurf]] **fait_partie_de** → Cognition — 0.97
 
-**Fiches** : [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]], [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]
 
 ### Cognizant {#Cognizant}
 
@@ -4324,6 +4408,17 @@
 - **permet** → packages d'exportation IA sécurisés (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2025-07/white-house-americas-ai-action-plan-2025-07-23\|White House Unveils Americas AI Action Plan – The White House]]
+
+### Commure {#Commure}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Sous-agents parallèles sur une initiative multi-tickets ; skill de démantèlement des feature flags déjà généralisés ; critère de fin d'une reconstruction
+
+- **affirme_que** → « une reconstruction n'est pas finie quand le nouveau chemin est livré, mais quand l'ancien a disparu » (CITATION) — 0.93
+- **observé_dans** → « une initiative d'environ 13 tickets menée par des sous-agents en parallèle, chacun propriétaire d'un ticket et de sa PR » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Constellation Research {#Constellation-Research}
 
@@ -4395,6 +4490,16 @@
 - **catégorie** : Média français de revue de presse internationale (rubrique Courrier Expat)
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
+### Crosby {#Crosby}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Outil amené aux juristes dans leurs propres environnements ; synthèse de milliers de documents juridiques par sous-agents
+
+- **affirme_que** → « les juristes portent les meilleures intuitions produit parce qu'ils sont les utilisateurs » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Crystal Peak Security {#Crystal-Peak-Security}
 
@@ -4537,6 +4642,28 @@
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
 
+### DuckDB Foundation {#DuckDB-Foundation}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Structure gardienne du projet open source DuckDB, maintenue après l'entrée de DuckLabs chez AWS
+
+- **permet** → « maintien de DuckDB en open source sous licence MIT après l'entrée de DuckLabs chez AWS » (AFFIRMATION) — 0.94
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### DuckLabs {#DuckLabs}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **statut** : Équipe de développement de DuckDB, rejoint AWS comme filiale, reste basée à Amsterdam
+
+- **fait_partie_de** → [[kb/AWS\|AWS]] (ORGANISATION) — 0.96
+
+- [[kb/AWS\|AWS]] **collabore_avec** → DuckLabs — 0.97
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Duolingo {#Duolingo}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4608,6 +4735,17 @@
 - [[kb/Rod-Johnson\|Rod Johnson]] **a_créé** → Embabel — 0.99
 
 **Fiches** : [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
+
+### Emergent {#Emergent}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Amorçage de l'environnement de développement au premier jour par un fichier markdown que l'agent met à jour lui-même ; dépôt de skills partagé
+
+- **utilise** → dépôt GitHub de skills servant de base de connaissance partagée pour amorcer une session (CONCEPT) — 0.91
+- **affirme_que** → « vivre avec des fichiers de contexte légèrement périmés est acceptable si l'agent peut vérifier et se corriger vite » (CITATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Epita {#Epita}
 
@@ -4962,6 +5100,16 @@
 
 **Fiches** : [[fiches/2026-06/lvmh-scaleway-souverainete-cloud-geopolitique-tech-vivatech-2026-06-11\|LVMH × Scaleway sur VivaTech : géopolitique de la tech, autonomie européenne et cloud hybride régionalisé (entretien…]]
 
+### Heidi {#Heidi}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Suppression du téléphone arabe entre porteur d'idée et livraison ; revues de code automatisées contre des cadres techniques et de conformité vérifiés
+
+- **affirme_que** → « Claude Code fait s'effondrer la chaîne porteur d'idée → PM → designer → ingénieur où l'essence de l'idée se perd » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### HeyGen {#HeyGen}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -4971,6 +5119,14 @@
 - **utilise** → [[kb/Gemini-2.5-Flash-Lite\|Gemini 2.5 Flash-Lite]] (TECHNOLOGIE) — 0.97
 
 **Fiches** : [[fiches/2025-07/gemini-25-flash-lite-stable-ga-google-2025-07-22\|Gemini 2.5 Flash-Lite is now stable and generally available - Google Developers Blog]]
+
+### Higgsfield {#Higgsfield}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **apport** : Cycle d'intégration d'un nouveau modèle vidéo ou image — skills, evals, logique de routage, test en production — ramené de jours à heures
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Hillside Group {#Hillside-Group}
 
@@ -5006,6 +5162,18 @@
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] **dirige** → HumanLayer — 0.92
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### IBM {#IBM}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **exposition** : La plus faible parmi les grands fournisseurs ; watsonx Code Assistant et Granite visent les secteurs régulés et les acheteurs gouvernance
+
+- **utilise** → [[kb/_entites-mineures#watsonx-Code-Assistant\|watsonx Code Assistant]] (TECHNOLOGIE) — 0.91
+
+- [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] **s_oppose_à** → IBM — 0.95
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### IETF WIMSE working group {#IETF-WIMSE-working-group}
 
@@ -5635,6 +5803,17 @@
 
 **Fiches** : [[fiches/2026-01/sternfels-mckinsey-60000-people-20000-agents-officechai-2026-01-14\|McKinsey Now Has 60,000 People, But 20,000 Of Them Are AI Agents: McKinsey's Bob Sternfels]]
 
+### Omni {#Omni}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **apport** : Canal Slack dédié aux prototypes, corollaire « tout le monde parle aux clients », inspiration de l'approche fichier plutôt qu'embedding
+
+- **s_inspire_de** → « approche fichier plutôt qu'embedding, évitant la complexité d'un pipeline RAG dans son propre produit » (AFFIRMATION) — 0.89
+- **mesure** → « productivité d'ingénierie multipliée par 2 à 3 » (MESURE) — 0.87
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Opascope {#Opascope}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5695,6 +5874,16 @@
 - **a_créé** → [[kb/_entites-mineures#Control-Tower\|Control Tower]] (TECHNOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2026-04/orq-ai-finops-ai-agents-cost-per-outcome-hosseini-2026-04-15\|FinOps for AI Agents: How Enterprises Control Cost, Value, and Scale]]
+
+### Parahelp {#Parahelp}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Contributions produit d'employés non techniques, rapportées par un cofondateur non développeur
+
+- **observé_dans** → « des employés non techniques livrant des changements d'interface et des améliorations produit » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Parti communiste chinois {#Parti-communiste-chinois}
 
@@ -5981,6 +6170,18 @@
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
 
+### Sonatype {#Sonatype}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **secteur** : Éditeur de sécurité de la chaîne d'approvisionnement logicielle
+
+- **publie** → [[kb/_entites-mineures#Securing-Software-at-the-Speed-of-AI\|Securing Software at the Speed of AI]] (DOCUMENT) — 0.97
+
+- [[kb/Sonatype-Research-Labs\|Sonatype Research Labs]] **fait_partie_de** → Sonatype — 0.92
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### Sourcegraph {#Sourcegraph}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6213,13 +6414,17 @@
 
 ### The Futurum Group {#The-Futurum-Group}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 3 relations | 2 fiches
 
+- **positionnement** : Cabinet de recherche et de conseil ; déclare travailler avec des entreprises citées dans ses notes, l'auteur ne détenant aucune position en actions
 - **secteur** : Analyse / Conseil IT
 
 - **emploie** → [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] (PERSONNE) — 0.99
+- **publie** → [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] (DOCUMENT) — 0.96
 
-**Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
+- [[kb/Mitch-Ashley\|Mitch Ashley]] **travaille_chez** → The Futurum Group — 0.96
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]], [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 
 ### The Intelligence Fabric {#The-Intelligence-Fabric}
 
@@ -6260,6 +6465,14 @@
 - [[kb/_entites-mineures#Mira-Murati\|Mira Murati]] **a_créé** → Thinking Machines Lab — 0.98
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+
+### Translucent {#Translucent}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **apport** : Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### Trump Administration {#Trump-Administration}
 
@@ -6463,6 +6676,16 @@
 
 **Fiches** : [[fiches/2025-08/a16z-one-prompt-zero-engineers-internal-dev-2025-08-19\|One Prompt, Zero Engineers: Your New Internal Dev]]
 
+### Zingage {#Zingage}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **apport** : Invariants d'équipe écrits après une phase d'autonomie complète ayant produit du code plausible mais dérivant de l'architecture
+
+- **affirme_que** → « une autonomie complète accordée tôt produit du code plausible qui dérive de l'architecture, d'où l'écriture des invariants » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### Zup {#Zup}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -6576,7 +6799,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (599)
+## TECHNOLOGIE (614)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -6912,6 +7135,14 @@
 
 **Fiches** : [[fiches/2025-10/rippletide-agent-reliability-enterprise-architecture-2025-10-29\|Agent reliability: What's missing in Enterprise AI agent architecture?]], [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
 
+### AWS Lambda {#AWS-Lambda}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **rôle** : Explorée comme primitive adaptée au lancement rapide de requêtes DuckDB
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Adobe Photoshop {#Adobe-Photoshop}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7181,15 +7412,28 @@
 
 ### Antigravity {#Antigravity}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **catégorie** : Plateforme human-in-the-loop Google
+- **rôle** : Intégration verticale de Google (modèle, IDE, calcul TPU) depuis novembre 2025 ; question d'exécution : passer de l'aperçu gratuit à la distribution entreprise
 
 - **utilise** → [[kb/_entites-mineures#Human-in-the-loop\|human-in-the-loop]] (METHODOLOGIE) — 0.93
+- **permet** → « intégration verticale de Google sur le modèle, l'IDE et le calcul TPU depuis novembre 2025 » (AFFIRMATION) — 0.91
 
 - [[kb/Google\|Google]] **a_créé** → Antigravity — 0.95
+- [[kb/Google\|Google]] **utilise** → Antigravity — 0.93
 
-**Fiches** : [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]], [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+
+### Apache Iceberg {#Apache-Iceberg}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Format de table ouvert dont l'article vise l'élargissement hors du monde Spark
+
+- [[kb/_entites-mineures#extension-Iceberg-de-DuckDB\|extension Iceberg de DuckDB]] **utilise** → Apache Iceberg — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### App d'apprentissage du clavier {#App-d'apprentissage-du-clavier}
 
@@ -7785,6 +8029,30 @@
 - **fait_partie_de** → [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Colossus {#Colossus}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **capacité** : Cluster d'entraînement de xAI à Memphis, décrit par SpaceX comme équivalent à 1 million de GPU H100
+
+- **mesure** → « capacité d'entraînement équivalente à 1 million de GPU H100, à Memphis » (MESURE) — 0.92
+
+- [[kb/Cursor-technologie\|Cursor]] **utilise** → Colossus — 0.93
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
+### Composer {#Composer}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Gamme de modèles de Cursor présentée comme la voie pour combler l'écart de capacité avec Anthropic et OpenAI ; Composer 2 décrit comme de niveau frontière
+
+- **concurrence** → [[kb/Anthropic\|Anthropic]] (ORGANISATION) — 0.89
+
+- [[kb/Cursor-technologie\|Cursor]] **a_créé** → Composer — 0.94
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Computer Use {#Computer-Use}
 
@@ -9074,17 +9342,6 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
 
-### Harvey {#Harvey}
-
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
-
-- **secteur** : IA juridique et services professionnels
-
-- **utilise** → [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.97
-- **s_applique_à** → services juridiques (CONCEPT) — 0.94
-
-**Fiches** : [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
-
 ### Help me write {#Help-me-write}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9789,6 +10046,16 @@
 
 **Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
+### MapReduce {#MapReduce}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Motif fonctionnel forçant les développeurs à exprimer le parallélisme explicitement ; l'auteur note qu'il s'agit plutôt de map/group-by-and-aggregate
+
+- **résout** → contrainte de bande passante d'I/O des grands jeux de données du début des années 2000 (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Markdown {#Markdown}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -9829,6 +10096,14 @@
 - [[kb/_entites-mineures#Growth-Marketing-Fit\|Growth Marketing Fit]] **publie** → Marketing AI OS — 0.85
 
 **Fiches** : [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|I built a marketing AI operating system for a 60-person team. The most valuable thing in it is the part that refuses to…]]
+
+### Maven {#Maven}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 62,2 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### MegaBill {#MegaBill}
 
@@ -9987,6 +10262,16 @@
 - **exemples** : DeepSeek, Qwen, MiniMax, Kimi, Zhipu/GLM (frontière open 2025)
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### MonetDB {#MonetDB}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Travaux du CWI ayant déplacé l'exécution de requêtes vers des lots de valeurs tenant en cache, le goulot étant passé du disque au CPU
+
+- [[kb/DuckDB\|DuckDB]] **est_basé_sur** → MonetDB — 0.87
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Monetization Gateway {#Monetization-Gateway}
 
@@ -10594,6 +10879,14 @@
 
 **Fiches** : [[fiches/2025-11/klaassen-stop-coding-start-planning-every-2025-11-06\|Stop Coding and Start Planning]], [[fiches/2025-10/wu-cherny-use-claude-code-builders-every-2025-10-29\|How to Use Claude Code Like the People Who Built It]]
 
+### PyPI {#PyPI}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 34,3 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### PyTorch {#PyTorch}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -10870,6 +11163,28 @@
 - [[kb/Genie-3\|Genie 3]] **concurrence** → Runway Gen-3 — 0.85
 
 **Fiches** : [[fiches/2025-08/google-genie-3-video-generation-model-deepmind-2025-08-05\|Google DeepMind Unveils Genie 3: Revolutionary Interactive Video Generation Model]]
+
+### S3 {#S3}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **contexte** : Service de stockage objet d'AWS, étendu par S3 Files, S3 Tables et S3 Vectors, dont l'équipe a observé l'embarquement de DuckDB chez ses clients
+
+- [[kb/_entites-mineures#S3-Tables\|S3 Tables]] **fait_partie_de** → S3 — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### S3 Tables {#S3-Tables}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Primitive de stockage tabulaire de S3 bâtie sur Iceberg, motivée par les clients Spark adoptant Iceberg
+
+- **fait_partie_de** → [[kb/_entites-mineures#S3\|S3]] (TECHNOLOGIE) — 0.95
+
+- [[kb/DuckDB\|DuckDB]] **s_applique_à** → S3 Tables — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### SDK Codex {#SDK-Codex}
 
@@ -11211,6 +11526,16 @@
 
 **Fiches** : [[fiches/2026-05/wescale-usine-logicielle-augmentee-juge-strategique-2026-05-03\|Slider Augmented Dev — La chaîne de production augmentée : comprendre la révolution de la chaîne de production…]]
 
+### Sonatype Guide {#Sonatype-Guide}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **fonction** : Porte l'intelligence de composant (risque, versions plus sûres, politique) au moment du choix, y compris pour les assistants IA
+
+- **s_applique_à** → point de sélection du composant, y compris dans les flux assistés par IA (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### Sonnet {#Sonnet}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -11240,6 +11565,16 @@
 - [[kb/Stripe\|Stripe]] **utilise** → Sorbet — 0.95
 
 **Fiches** : [[fiches/2026-02/gray-stripe-minions-coding-agents-part1-2026-02-09\|Minions: Stripe's one-shot, end-to-end coding agents]]
+
+### Spark {#Spark}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **apport** : Chaînage d'opérateurs à évaluation paresseuse et dataframes, décomposés par un planificateur en tâches distribuées
+
+- **utilise** → Resilient Distributed Datasets (CONCEPT) — 0.94
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
 
 ### Sphere {#Sphere}
 
@@ -11799,6 +12134,16 @@
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
+### Xen {#Xen}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **contexte** : Hyperviseur issu des travaux doctoraux de l'auteur, tirant parti de l'abondance de CPU, mémoire et réseau sur un serveur unique
+
+- **s_inspire_de** → virtualisation des mainframes IBM des années 60 (CONCEPT) — 0.88
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### Yoga {#Yoga}
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
@@ -12178,6 +12523,17 @@
 
 **Fiches** : [[fiches/2025-10/greyling-nvidia-software-ecosystem-dominance-2025-10-30\|NVIDIA is moving beyond hardware to software ecosystem dominance]]
 
+### extension Iceberg de DuckDB {#extension-Iceberg-de-DuckDB}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **maturité** : Implémentation des spécifications Iceberg v2 et v3, sponsorisée par AWS, plus de 800 000 téléchargements hebdomadaires
+
+- **utilise** → [[kb/_entites-mineures#Apache-Iceberg\|Apache Iceberg]] (TECHNOLOGIE) — 0.95
+- **mesure** → « plus de 800 000 téléchargements par semaine » (MESURE) — 0.92
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### format .deepnote {#format-.deepnote}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -12413,6 +12769,14 @@
 - [[kb/MCP\|MCP]] **remplace** → navigateur web — 0.85
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
+
+### npm {#npm}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **mesure** : Version moins risquée déjà disponible dans 46,9 % des sélections vulnérables
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### orchestration agentique {#orchestration-agentique}
 
@@ -12756,6 +13120,16 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
+### watsonx Code Assistant {#watsonx-Code-Assistant}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **cible** : Outillage de codage d'IBM orienté industries régulées, hors base développeurs de Cursor
+
+- [[kb/_entites-mineures#IBM\|IBM]] **utilise** → watsonx Code Assistant — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### window.openai {#window.openai}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -12806,7 +13180,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (930)
+## CONCEPT (934)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -19799,6 +20173,18 @@
 
 **Fiches** : [[fiches/2026-08/paymentsdive-block-dorsey-pricing-ia-2026-08-06\|Block explores how to price AI]]
 
+### moteur analytique embarqué {#moteur-analytique-embarqué}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Moteur tournant en bibliothèque dans l'espace d'adressage de l'application, sur ses structures mémoire, sans service externe à l'autre bout d'un câble
+
+- **réduit** → surcoût de planification, d'expédition de tâches et d'aller-retour réseau du traitement distribué (CONCEPT) — 0.90
+
+- [[kb/DuckDB\|DuckDB]] **est_instance_de** → moteur analytique embarqué — 0.95
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
 ### multiplicateurs de tokens {#multiplicateurs-de-tokens}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19946,6 +20332,16 @@
 - [[kb/_entites-mineures#optimisme-déterminé\|optimisme déterminé]] **s_oppose_à** → optimisme indéterminé — 0.90
 
 **Fiches** : [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
+
+### option d'achat adossée à l'IPO {#option-d'achat-adossée-à-l'IPO}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **mécanisme** : Plancher payé immédiatement, engagement lourd différé après cotation : achat de temps, d'optionalité IA et de récit de revenus
+
+- **permet** → « reporter l'acquisition après cotation, éviter la mise à jour des dépôts confidentiels et payer en titres cotés » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### opérations de recherche parallèles {#opérations-de-recherche-parallèles}
 
@@ -20594,6 +20990,16 @@
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
 
+### rétention nulle de données {#rétention-nulle-de-données}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **enjeu** : Clause contractuelle citée comme premier point à revérifier par les services achats, avec la déclaration des sous-traitants et l'identité du fournisseur
+
+- **s_applique_à** → « contrats des clients entreprise de Cursor, remis en cause par le changement de substrat » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### sandboxed iframes {#sandboxed-iframes}
 
 **Type** : CONCEPT | 1 relations | 2 fiches
@@ -21032,6 +21438,16 @@
 - **améliore** → adoption IA durable (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
+
+### sélection de composant {#sélection-de-composant}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Point d'appui amont : décider de la version avant que le risque n'entre dans l'application
+
+- **réduit** → travail de remédiation en aval (CONCEPT) — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### séparation client / boucle d'agent {#séparation-client-boucle-d'agent}
 
@@ -21748,7 +22164,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (358)
+## METHODOLOGIE (363)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -24047,6 +24463,16 @@
 
 **Fiches** : [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 
+### boucle d'auto-amélioration {#boucle-d'auto-amélioration}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **mécanisme** : Corrections d'experts remontées jusqu'aux instructions versionnées de l'agent, back-testées sur golden set et échantillons aléatoires, sous la règle « corriger le principe, pas l'exemple »
+
+- **utilise** → golden set et juge sémantique distinguant une vraie erreur d'un chemin valide différent (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
+
 ### boucle d'auto-vérification {#boucle-d'auto-vérification}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -24066,6 +24492,16 @@
 - [[kb/Stack-Overflow-for-Agents\|Stack Overflow for Agents]] **utilise** → boucles de vérification multi-agents — 0.90
 
 **Fiches** : [[fiches/2026-06/stackoverflow-for-agents-knowledge-exchange-2026-06-10\|Announcing Stack Overflow for Agents]]
+
+### build for rebuilding {#build-for-rebuilding}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Traiter fonctionnalités et échafaudages comme des coûts irrécupérables dès que la capacité des modèles change ; fin de reconstruction définie par la disparition de l'ancien chemin
+
+- **est_basé_sur** → « l'évolution continue de la capacité des modèles, qui rend peu de choses permanentes » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### cadre de mesure à 4 dimensions {#cadre-de-mesure-à-4-dimensions}
 
@@ -24147,6 +24583,18 @@
 - [[kb/Replit-Agent\|Replit Agent]] **s_oppose_à** → code freeze — 0.98
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
+
+### cohorte fixe d'applications {#cohorte-fixe-d'applications}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Même ensemble d'applications suivi en continu, pour que les variations reflètent le parc et non le portefeuille clients ; effectif non communiqué
+
+- **permet** → isoler l'évolution du parc plutôt que celle du portefeuille clients (CONCEPT) — 0.90
+
+- [[kb/_entites-mineures#The-AI-Era-Software-Assembly-Line\|The AI-Era Software Assembly Line]] **est_basé_sur** → cohorte fixe d'applications — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
 ### correction harvesting {#correction-harvesting}
 
@@ -24339,6 +24787,17 @@
 - **seuil** : ~90% requis pour autoriser un agent, cible ~100%, ground truth figé
 
 **Fiches** : [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+
+### everyone ships {#everyone-ships}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **portée** : Ouverture du seul passage de 0 à 1 à toute l'organisation, la division du travail restant en place au-delà du prototype
+
+- **permet** → « à la personne qui comprend le problème de livrer la première version du correctif, le passage de 0 à 1 s'ouvrant à tous » (AFFIRMATION) — 0.93
+- **utilise** → [[kb/MCP\|MCP]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### filtrage par le contexte {#filtrage-par-le-contexte}
 
@@ -24841,6 +25300,16 @@
 - **réduit** → sycophancie du reviewer (CONCEPT) — 0.91
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Prosecution, Not Code Review]]
+
+### prototype dogfood productionize {#prototype-dogfood-productionize}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **boucle** : Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents
+
+- **permet** → « promouvoir un agent interne en produit client via l'API, le SDK ou Claude Managed Agents » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### pédagogie socratique {#pédagogie-socratique}
 
@@ -25348,7 +25817,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (44)
+## EVENEMENT (46)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -25496,6 +25965,16 @@
 - [[kb/_entites-mineures#track-record-de-Musk\|track record de Musk]] **s_applique_à** → IPO SPCX — 0.84
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
+
+### IPO de SpaceX {#IPO-de-SpaceX}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **calendrier** : Cotation visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars ; conditionne l'exercice de l'option sur Cursor
+
+- **mesure** → « introduction visée en juin 2026 à une valorisation rapportée de 1 750 milliards de dollars » (MESURE) — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Incident #714 {#Incident-#714}
 
@@ -25665,6 +26144,16 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-mistral-microsoft-souverainete-strategie-industrielle-2026-07-22\|Mistral ↔ Microsoft : un accord souverain, une stratégie industrielle encore illisible]]
 
+### accord SpaceX-Cursor {#accord-SpaceX-Cursor}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **structure** : Annoncé le 21 avril 2026 : plancher de 10 milliards de dollars pour un partenariat de calcul, option d'achat à 60 milliards exerçable en titres cotés après l'introduction en bourse
+
+- **remplace** → « tour de table de 2 milliards mené par Andreessen Horowitz, Thrive Capital et Nvidia à 50 milliards de valorisation » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### bulle Internet de 2000 {#bulle-Internet-de-2000}
 
 **Type** : EVENEMENT | 1 relations | 1 fiches
@@ -25817,7 +26306,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (120)
+## DOCUMENT (125)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26583,6 +27072,30 @@
 
 **Fiches** : [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
+### Scalability! But at what COST? {#Scalability!-But-at-what-COST}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Papier de 2015 de Frank McSherry, Michael Isard et Derek Murray sur l'efficacité par cœur, dont l'épigraphe est attribuée à Paul Barham
+
+- **mesure** → « une implémentation mono-thread optimisée bat des systèmes de graphe distribués sur 128 cœurs, le distribué ne repassant devant qu'à 512 cœurs » (MESURE) — 0.93
+
+**Fiches** : [[fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26\|DuckDB and the changing physics of analytics]]
+
+### Securing Software at the Speed of AI {#Securing-Software-at-the-Speed-of-AI}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **format** : Billet de blog ~1 300 mots restituant l'étude, publié le 18 août 2026
+
+- **affirme_que** → « la remédiation s'accélère alors que le risque accumulé par application augmente » (AFFIRMATION) — 0.94
+- **affirme_que** → « le profil de sécurité d'une application change sans que son code change » (AFFIRMATION) — 0.92
+
+- [[kb/_entites-mineures#Sonatype\|Sonatype]] **publie** → Securing Software at the Speed of AI — 0.97
+- [[kb/Aaron-Linskens\|Aaron Linskens]] **a_créé** → Securing Software at the Speed of AI — 0.94
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### Sinks, Not Pipes {#Sinks,-Not-Pipes}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -26641,6 +27154,16 @@
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]], [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]
 
+### The AI-Era Software Assembly Line {#The-AI-Era-Software-Assembly-Line}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **rôle** : Rapport complet portant les données sous-jacentes, non reproduites dans le billet
+
+- **est_basé_sur** → [[kb/_entites-mineures#cohorte-fixe-d'applications\|cohorte fixe d'applications]] (METHODOLOGIE) — 0.89
+
+**Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
+
 ### The AI-Native SDLC playbook {#The-AI-Native-SDLC-playbook}
 
 **Type** : DOCUMENT | 4 relations | 1 fiches
@@ -26692,6 +27215,20 @@
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] **a_créé** → The Cathedral and the Bazaar — 0.98
 
 **Fiches** : [[fiches/2026-07/raymond-llm-coding-empowering-2026-07-08\|What...what am I missing here? (post X sur les LLMs et le codage)]]
+
+### The Claude Code guide for startups {#The-Claude-Code-guide-for-startups}
+
+**Type** : DOCUMENT | 4 relations | 1 fiches
+
+- **format** : Guide d'éditeur d'environ 31 500 caractères (5 min de lecture annoncées), publié le 20 août 2026, disponible en PDF, structuré en cinq règles et une checklist
+
+- **recommande** → « cinq règles : everyone ships, automate the tedium, trust but verify, build for rebuilding, prototype dogfood productionize » (AFFIRMATION) — 0.95
+- **est_basé_sur** → « entretiens avec plus d'une douzaine de jeunes pousses, quinze nommées » (AFFIRMATION) — 0.94
+
+- [[kb/Anthropic\|Anthropic]] **publie** → The Claude Code guide for startups — 0.96
+- [[kb/_entites-mineures#Michael-Segner\|Michael Segner]] **a_créé** → The Claude Code guide for startups — 0.96
+
+**Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
 ### The Eight Levels of AI Adoption {#The-Eight-Levels-of-AI-Adoption}
 
@@ -26825,6 +27362,17 @@
 - [[kb/Bill-Staples\|Bill Staples]] **a_créé** → When code is abundant — 0.96
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
+### Why SpaceX-Cursor Works for Both {#Why-SpaceX-Cursor-Works-for-Both}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **format** : Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille
+
+- [[kb/Mitch-Ashley\|Mitch Ashley]] **a_créé** → Why SpaceX-Cursor Works for Both — 0.97
+- [[kb/_entites-mineures#The-Futurum-Group\|The Futurum Group]] **publie** → Why SpaceX-Cursor Works for Both — 0.96
+
+**Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 

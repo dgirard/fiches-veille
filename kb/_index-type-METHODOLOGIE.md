@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 412 entités de type METHODOLOGIE
+> 417 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -269,8 +269,10 @@
 - [[kb/augmented-coding\|augmented coding]] — définition: Codage assisté IA avec priorité qualité, tests et couverture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] — outil_associé: GitHub Copilot (1 occ., 1 fiches)
 - [[kb/boucle-d'apprentissage\|boucle d'apprentissage]] — définition: Système au-dessus des modèles où capital humain et token composent ; nouvelle IP de la firme (1 occ., 1 fiches)
+- [[kb/_entites-mineures#boucle-d'auto-amélioration\|boucle d'auto-amélioration]] — mécanisme: Corrections d'experts remontées jusqu'aux instructions versionnées de l'agent, back-testées sur golden set et échantillons aléatoires, sous la règle « corriger le principe, pas l'exemple » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-d'auto-vérification\|boucle d'auto-vérification]] — définition: Boucle de confiance donnée à Claude (tests + build + lint + e2e sur un vrai environnement de dev) ; condition de passage de l'étape 1 à l'étape 2 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucles-de-vérification-multi-agents\|boucles de vérification multi-agents]] — rôle: Mécanisme d'assurance qualité par consensus de pairs et vérification (1 occ., 1 fiches)
+- [[kb/_entites-mineures#build-for-rebuilding\|build for rebuilding]] — principe: Traiter fonctionnalités et échafaudages comme des coûts irrécupérables dès que la capacité des modèles change ; fin de reconstruction définie par la disparition de l'ancien chemin (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cadre-de-mesure-à-4-dimensions\|cadre de mesure à 4 dimensions]] — définition: Speed (PR throughput), Efficiency (heures gagnées), Quality (change failure rate), Satisfaction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#calibration-de-revue\|calibration de revue]] — méthode: Planter des bugs connus, mesurer recall et faux positifs de la stack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#candidate-isolation-attention\|candidate-isolation attention]] — définition: Masking pattern dans Phoenix ranking où candidats peuvent attendre le contexte user mais pas entre eux → scores batch-independent et cacheables (1 occ., 1 fiches)
@@ -279,6 +281,7 @@
 - [[kb/_entites-mineures#character-training\|character training]] — catégorie: Entraînement par renforcement traits personnalité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#clôture-de-spec\|clôture de spec]] — définition: Étape de fin de cycle où la spécification est mise à jour avec ce qui a réellement été construit — sans elle, les specs se périment en six mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#cohorte-fixe-d'applications\|cohorte fixe d'applications]] — définition: Même ensemble d'applications suivi en continu, pour que les variations reflètent le parc et non le portefeuille clients ; effectif non communiqué (1 occ., 1 fiches)
 - [[kb/content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
 - [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (6 occ., 6 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
@@ -300,6 +303,7 @@
 - [[kb/_entites-mineures#escalade-agent-vers-agent\|escalade agent-vers-agent]] — définition: Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-continues\|evals continues]] — déclenchement: Suite de 20 à 50 tâches réelles rejouée à chaque changement de configuration d'agent, plus incidents convertis en régressions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)
+- [[kb/_entites-mineures#everyone-ships\|everyone ships]] — portée: Ouverture du seul passage de 0 à 1 à toute l'organisation, la division du travail restant en place au-delà du prototype (1 occ., 1 fiches)
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)
 - [[kb/_entites-mineures#findings-vérifiés\|findings vérifiés]] — exigence: Reproduire le bug (test rouge, trace, input) avant toute action du builder (1 occ., 1 fiches)
@@ -311,7 +315,7 @@
 - [[kb/_entites-mineures#framework-métriques-guardrails\|framework métriques guardrails]] — catégorie: Output primaire + qualité + rework + santé équipe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gates-déterministes\|gates déterministes]] — nature: Compilateurs, suites de tests, validateurs intercalés entre phases pour remettre l'erreur à zéro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#gel-au-niveau-de-l'outil\|gel au niveau de l'outil]] — principe: Contrainte dans le prompt = requête ; contrainte dans l'outil = fait (1 occ., 1 fiches)
-- [[kb/git-worktrees-methodologie\|git worktrees]] — usage: Isolation de tâches parallèles sur une même base de code (1 occ., 4 fiches)
+- [[kb/git-worktrees-methodologie\|git worktrees]] — usage: Isolation de tâches parallèles sur une même base de code (1 occ., 5 fiches)
 - [[kb/_entites-mineures#gouvernance-d'outils-MCP\|gouvernance d'outils MCP]] — définition: Always allow / Ask for approval / Disable, classifieur LLM, défaut deny (1 occ., 1 fiches)
 - [[kb/_entites-mineures#governed-golden-paths\|governed golden paths]] — définition: Standardisation des pratiques dev IA via parcours gouvernés (paradigme Platform Engineering / IDP) (1 occ., 1 fiches)
 - [[kb/graphify\|graphify]] — catégorie: Skill open source présentée par le site, distincte du site lui-même (3 occ., 2 fiches)
@@ -361,6 +365,7 @@
 - [[kb/_entites-mineures#progressive-disclosure\|progressive disclosure]] — principe: Orienter vers le bon fichier de référence selon la situation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] — définition: Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer (1 occ., 1 fiches)
+- [[kb/_entites-mineures#prototype-dogfood-productionize\|prototype dogfood productionize]] — boucle: Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pédagogie-socratique\|pédagogie socratique]] — structure: hook → exploration → dialogue → pratique → flashcard FSRS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#query-fan-out\|query fan-out]] — description: Technique de recherches parallèles sur sous-sujets multiples (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rail-discipline\|rail discipline]] — règles: Contextes d'écriture séparés, gel mécanique au niveau outil, audits adversariaux (1 occ., 1 fiches)

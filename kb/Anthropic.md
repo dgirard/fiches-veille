@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 124 relations | 43 fiches sources
+> **Type** : ORGANISATION | 127 relations | 43 fiches sources
 
 ## Attributs
 
@@ -185,6 +185,8 @@
   - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 - système de plugins Claude Code (TECHNOLOGIE) — 0.96, STATIQUE
   - [[fiches/2025-10/superpowers-skills-coding-agents-vincent-2025-10-09\|Superpowers: How I'm using coding agents in October 2025]]
+- [[kb/_entites-mineures#The-Claude-Code-guide-for-startups\|The Claude Code guide for startups]] (DOCUMENT) — 0.96, STATIQUE
+  - [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 - [[kb/_entites-mineures#Routines\|Routines]] (TECHNOLOGIE) — 0.95, STATIQUE
@@ -288,6 +290,8 @@
 - administration Trump **s_oppose_à** → Anthropic — 0.90
 - recours collectif envisagé en Californie **s_oppose_à** → Anthropic — 0.90
 - [[kb/Thariq\|Thariq]] **travaille_chez** → Anthropic — 0.90
+- [[kb/AWS\|AWS]] **utilise** → Anthropic — 0.90
+- [[kb/_entites-mineures#Composer\|Composer]] **concurrence** → Anthropic — 0.89
 - [[kb/_entites-mineures#IA-locale\|IA locale]] **réduit** → Anthropic — 0.88
 - [[kb/Apollo-Academy\|Apollo Academy]] **collabore_avec** → Anthropic — 0.85
 - [[kb/GitHub-organisation\|GitHub]] **converge_avec** → Anthropic — 0.85

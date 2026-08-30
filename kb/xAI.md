@@ -1,6 +1,6 @@
 # xAI
 
-> **Type** : ORGANISATION | 4 relations | 3 fiches sources
+> **Type** : ORGANISATION | 6 relations | 4 fiches sources
 
 ## Attributs
 
@@ -9,6 +9,16 @@
 - **statut** : Fusionnée dans SpaceX (févr. 2026), pivot narratif vers l'IA
 
 ## Relations (comme sujet)
+
+### fait_partie_de
+
+- [[kb/SpaceX\|SpaceX]] (ORGANISATION) — 0.95, STATIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
+### mesure
+
+- « perte rapportée de 6,4 milliards de dollars en 2025 selon le Financial Times » (MESURE) — 0.90, STATIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### publie
 
@@ -25,5 +35,6 @@
 ## Fiches sources
 
 - [[fiches/2025-10/ai-bubble-openai-nvidia-2025-10-09\|Are We Building the Next AI Bubble? Insights from Bloomberg's 'OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of…]]
+- [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 - [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 - [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]

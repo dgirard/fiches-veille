@@ -1,6 +1,6 @@
 # Google
 
-> **Type** : ORGANISATION | 48 relations | 20 fiches sources
+> **Type** : ORGANISATION | 49 relations | 20 fiches sources
 
 ## Attributs
 
@@ -127,6 +127,8 @@
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - milliards de requêtes de recherche (CONCEPT) — 0.94, STATIQUE
   - [[fiches/2025-10/think-with-google-demand-led-marketing-budget-2026-2025-10-01\|Think with Google: Demand-Led Marketing - How to Build Your 2026 Budget]]
+- [[kb/_entites-mineures#Antigravity\|Antigravity]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ## Relations (comme objet)
 

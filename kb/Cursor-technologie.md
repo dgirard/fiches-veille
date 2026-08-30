@@ -1,6 +1,6 @@
 # Cursor
 
-> **Type** : TECHNOLOGIE | 18 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 23 relations | 15 fiches sources
 
 > **Même entité, autre type** : [[kb/Cursor-organisation\|Cursor (ORGANISATION)]]
 
@@ -8,14 +8,23 @@
 
 - **actualité_évoquée** : Rumeur de rachat par SpaceX (à valider)
 - **catégorie** : Éditeur de code IA
+- **position** : IDE assisté par IA détenu par Anysphere, utilisé par plus de la moitié du Fortune 500, positionné au-dessus de la couche modèle avec neutralité multi-modèles visible
 - **secteur** : Outils de codage IA
 
 ## Relations (comme sujet)
 
+### a_créé
+
+- [[kb/_entites-mineures#Composer\|Composer]] (TECHNOLOGIE) — 0.94, STATIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
+
 ### concurrence
 
-- [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+- [[kb/GitHub-Copilot\|GitHub Copilot]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
   - [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|2025: The State of Generative AI in the Enterprise]]
+- [[kb/Windsurf-technologie\|Windsurf]] (TECHNOLOGIE) — 0.88, DYNAMIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ### converge_avec
 
@@ -47,12 +56,16 @@
 
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.98, DYNAMIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
+- [[kb/_entites-mineures#Colossus\|Colossus]] (TECHNOLOGIE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
 ## Relations (comme objet)
 
 - [[kb/Deepnote\|Deepnote]] **s_applique_à** → Cursor — 0.98
 - [[kb/Kiro\|Kiro]] **concurrence** → Cursor — 0.97
 - [[kb/Linear\|Linear]] **utilise** → Cursor — 0.97
+- [[kb/SpaceX\|SpaceX]] **collabore_avec** → Cursor — 0.96
+- [[kb/_entites-mineures#Anysphere\|Anysphere]] **a_créé** → Cursor — 0.94
 - [[kb/Weave\|Weave]] **utilise** → Cursor — 0.92
 - [[kb/ADHD\|ADHD]] **s_applique_à** → Cursor — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Cursor — 0.90
@@ -64,6 +77,7 @@
 
 - [[fiches/2025-10/a16z-trillion-dollar-ai-dev-stack-2025-10-09\|The Trillion Dollar AI Software Development Stack]]
 - [[fiches/2026-07/akhouri-adhd-ideation-divergente-parallele-2026-07-20\|ADHD — a skill for agents (Parallel Divergent Ideation for Coding Agents)]]
+- [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 - [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
 - [[fiches/2026-05/bfmtv-tech-co-business-ia-developpeurs-disparaissent-2026-05-05\|IA : et si les développeurs disparaissaient ? — Tech & Co Business, Le débat (BFM Business, 05/05)]]
 - [[fiches/2025-11/deepnote-jupyter-successor-ai-first-github-2025-11-07\|Deepnote: the data notebook for the AI era]]
