@@ -738,7 +738,7 @@
 - [[kb/_entites-mineures#repo-profile-cache\|repo-profile cache]] — nature: Connaissance éphémère dérivée 1×/commit, partagée par 9 skills (1 occ., 1 fiches)
 - [[kb/_entites-mineures#repowire\|repowire]] — catégorie: Mesh-orchestrator open source, premier adoptant officiel d'ADHD (PR #313) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] — description: Skill de résolution feedback PR avec clustering (1 occ., 1 fiches)
-- [[kb/_entites-mineures#robots-dextres\|robots dextres]] — maturité: Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici fin 2029 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#robots-dextres\|robots dextres]] — maturité: Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici la fin de la décennie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — rôle: Isolation sécurité UI (1 occ., 2 fiches)
 - [[kb/_entites-mineures#semantic-layer\|semantic layer]] — rôle: Définitions compilées de métriques/dimensions, source de confiance n°1 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#serveurs-MCP\|serveurs MCP]] — composants: outils, ressources, prompts (1 occ., 1 fiches)

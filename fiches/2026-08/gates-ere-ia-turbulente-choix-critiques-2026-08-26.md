@@ -108,7 +108,7 @@ Il propose donc trois premières mesures. Bâtir un cadre institutionnel nationa
 | cadre international pour l'IA | CONCEPT | définition | Institution mondiale combinant inspection nucléaire, régulation aérienne et accords sur l'ozone | AJOUT |
 | IA | TECHNOLOGIE | impact | Substitue la cognition humaine et touche simultanément tous les secteurs | AJOUT |
 | compagnons IA | TECHNOLOGIE | risque | Dépendance émotionnelle, absence de friction sociale formatrice | AJOUT |
-| robots dextres | TECHNOLOGIE | maturité | Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici fin 2029 | AJOUT |
+| robots dextres | TECHNOLOGIE | maturité | Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici la fin de la décennie | AJOUT |
 | Viz.ai | TECHNOLOGIE | catégorie | Analyse de scanners pour détecter AVC et urgences, ~2 000 hôpitaux américains | AJOUT |
 | productive struggle | CONCEPT | définition | Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs | AJOUT |
 | Stanford | ORGANISATION | rôle | Co-auteur (avec Carnegie Mellon) de l'étude sur plus de 1 100 utilisateurs de compagnons IA | AJOUT |

@@ -12550,7 +12550,7 @@
 
 **Type** : TECHNOLOGIE | 0 relations | 1 fiches
 
-- **maturité** : Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici fin 2029
+- **maturité** : Développés surtout en Chine ; concurrence attendue sur des tâches physiques d'ici la fin de la décennie
 
 **Fiches** : [[fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26\|The turbulent AI era is here. The choices we make now are critical.]]
 
