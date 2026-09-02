@@ -65,36 +65,36 @@ Il propose donc trois premières mesures. Bâtir un cadre institutionnel nationa
 
 ### Triples
 
-| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
-|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| Bill Gates | PERSONNE | publie | The turbulent AI era is here | DOCUMENT | 0.98 | STATIQUE | déclaré_article |
-| Bill Gates | PERSONNE | a_créé | Microsoft | ORGANISATION | 0.97 | STATIQUE | déclaré_article |
-| Bill Gates | PERSONNE | dirige | Gates Foundation | ORGANISATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Bill Gates | PERSONNE | a_créé | Breakthrough Energy | ORGANISATION | 0.93 | STATIQUE | déclaré_article |
-| Bill Gates | PERSONNE | affirme_que | l'IA sera le plus grand égalisateur jamais inventé ou la pire source d'injustice | AFFIRMATION | 0.96 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | affirme_que | il n'existe aucun plan pour faciliter l'entrée dans l'ère de l'IA | AFFIRMATION | 0.95 | DYNAMIQUE | déclaré_article |
-| Bill Gates | PERSONNE | affirme_que | l'IA s'adapte aux humains au lieu d'exiger qu'ils s'adaptent à elle | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | prédit | la substitution de la cognition touchera droit, médecine, logiciel et industrie en une décennie | AFFIRMATION | 0.92 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | prédit | les robots dextres concurrenceront le travail physique d'ici la fin de la décennie | AFFIRMATION | 0.88 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | réduit | emplois d'entrée et de milieu de carrière | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| IA | TECHNOLOGIE | permet | cyberattaques et bioterrorisme à moindre coût | CONCEPT | 0.90 | ATEMPOREL | déclaré_article |
-| IA | TECHNOLOGIE | améliore | conseil agricole dans les pays à faible revenu | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| compagnons IA | TECHNOLOGIE | s_applique_à | développement social des enfants | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Stanford | ORGANISATION | mesure | usage intense d'un compagnon IA associé à un ressenti dégradé (1 100+ utilisateurs) | MESURE | 0.86 | STATIQUE | déclaré_article |
-| Bill Gates | PERSONNE | recommande | créer un cadre institutionnel national et international dédié à l'IA | AFFIRMATION | 0.95 | ATEMPOREL | déclaré_article |
-| cadre international pour l'IA | CONCEPT | s_inspire_de | régime d'inspection nucléaire, régulation aérienne et accords sur l'ozone | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | recommande | réserver certains métiers aux humains | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| Human Reserved | CONCEPT | réduit | déplacement massif de travailleurs non reconvertibles | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | recommande | taxer les tokens d'IA et les robots pour financer le filet social | AFFIRMATION | 0.94 | ATEMPOREL | déclaré_article |
-| taxe sur les robots et les tokens | CONCEPT | s_oppose_à | incitation fiscale au remplacement du travail humain | CONCEPT | 0.88 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | affirme_que | les entreprises d'IA ne doivent pas mener seules la définition des solutions | AFFIRMATION | 0.93 | ATEMPOREL | déclaré_article |
-| Bill Gates | PERSONNE | référence | Magnifica Humanitas | DOCUMENT | 0.92 | STATIQUE | déclaré_article |
-| Viz.ai | TECHNOLOGIE | permet | détection d'AVC et d'urgences par analyse de scanners | CONCEPT | 0.92 | ATEMPOREL | déclaré_article |
-| Viz.ai | TECHNOLOGIE | observé_dans | près de 2 000 hôpitaux américains | MESURE | 0.90 | DYNAMIQUE | déclaré_article |
-| Gates Foundation | ORGANISATION | mesure | 200 milliards de dollars à dépenser sur 20 ans, dont 19 restants | MESURE | 0.93 | DYNAMIQUE | déclaré_article |
-| Gates Foundation | ORGANISATION | collabore_avec | Anthropic | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| Gates Foundation | ORGANISATION | collabore_avec | OpenAI | ORGANISATION | 0.90 | DYNAMIQUE | déclaré_article |
-| productive struggle | CONCEPT | améliore | apprentissage des élèves | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
+| Sujet                             | Type Sujet   | Prédicat       | Objet                                                                                           | Type Objet   | Confiance | Temporalité | Source          |
+| --------------------------------- | ------------ | -------------- | ----------------------------------------------------------------------------------------------- | ------------ | --------- | ----------- | --------------- |
+| Bill Gates                        | PERSONNE     | publie         | The turbulent AI era is here                                                                    | DOCUMENT     | 0.98      | STATIQUE    | déclaré_article |
+| Bill Gates                        | PERSONNE     | a_créé         | Microsoft                                                                                       | ORGANISATION | 0.97      | STATIQUE    | déclaré_article |
+| Bill Gates                        | PERSONNE     | dirige         | Gates Foundation                                                                                | ORGANISATION | 0.95      | DYNAMIQUE   | déclaré_article |
+| Bill Gates                        | PERSONNE     | a_créé         | Breakthrough Energy                                                                             | ORGANISATION | 0.93      | STATIQUE    | déclaré_article |
+| Bill Gates                        | PERSONNE     | affirme_que    | l'IA sera le plus grand égalisateur jamais inventé ou la pire source d'injustice                | AFFIRMATION  | 0.96      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | affirme_que    | il n'existe aucun plan pour faciliter l'entrée dans l'ère de l'IA                               | AFFIRMATION  | 0.95      | DYNAMIQUE   | déclaré_article |
+| Bill Gates                        | PERSONNE     | affirme_que    | l'IA s'adapte aux humains au lieu d'exiger qu'ils s'adaptent à elle                             | AFFIRMATION  | 0.92      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | prédit         | la substitution de la cognition touchera droit, médecine, logiciel et industrie en une décennie | AFFIRMATION  | 0.92      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | prédit         | les robots dextres concurrenceront le travail physique d'ici la fin de la décennie              | AFFIRMATION  | 0.88      | ATEMPOREL   | déclaré_article |
+| IA                                | TECHNOLOGIE  | réduit         | emplois d'entrée et de milieu de carrière                                                       | CONCEPT      | 0.90      | DYNAMIQUE   | déclaré_article |
+| IA                                | TECHNOLOGIE  | permet         | cyberattaques et bioterrorisme à moindre coût                                                   | CONCEPT      | 0.90      | ATEMPOREL   | déclaré_article |
+| IA                                | TECHNOLOGIE  | améliore       | conseil agricole dans les pays à faible revenu                                                  | CONCEPT      | 0.88      | ATEMPOREL   | déclaré_article |
+| compagnons IA                     | TECHNOLOGIE  | s_applique_à   | développement social des enfants                                                                | CONCEPT      | 0.85      | ATEMPOREL   | déclaré_article |
+| Stanford                          | ORGANISATION | mesure         | usage intense d'un compagnon IA associé à un ressenti dégradé (1 100+ utilisateurs)             | MESURE       | 0.86      | STATIQUE    | déclaré_article |
+| Bill Gates                        | PERSONNE     | recommande     | créer un cadre institutionnel national et international dédié à l'IA                            | AFFIRMATION  | 0.95      | ATEMPOREL   | déclaré_article |
+| cadre international pour l'IA     | CONCEPT      | s_inspire_de   | régime d'inspection nucléaire, régulation aérienne et accords sur l'ozone                       | CONCEPT      | 0.88      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | recommande     | réserver certains métiers aux humains                                                           | AFFIRMATION  | 0.94      | ATEMPOREL   | déclaré_article |
+| Human Reserved                    | CONCEPT      | réduit         | déplacement massif de travailleurs non reconvertibles                                           | CONCEPT      | 0.85      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | recommande     | taxer les tokens d'IA et les robots pour financer le filet social                               | AFFIRMATION  | 0.94      | ATEMPOREL   | déclaré_article |
+| taxe sur les robots et les tokens | CONCEPT      | s_oppose_à     | incitation fiscale au remplacement du travail humain                                            | CONCEPT      | 0.88      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | affirme_que    | les entreprises d'IA ne doivent pas mener seules la définition des solutions                    | AFFIRMATION  | 0.93      | ATEMPOREL   | déclaré_article |
+| Bill Gates                        | PERSONNE     | référence      | Magnifica Humanitas                                                                             | DOCUMENT     | 0.92      | STATIQUE    | déclaré_article |
+| Viz.ai                            | TECHNOLOGIE  | permet         | détection d'AVC et d'urgences par analyse de scanners                                           | CONCEPT      | 0.92      | ATEMPOREL   | déclaré_article |
+| Viz.ai                            | TECHNOLOGIE  | observé_dans   | près de 2 000 hôpitaux américains                                                               | MESURE       | 0.90      | DYNAMIQUE   | déclaré_article |
+| Gates Foundation                  | ORGANISATION | mesure         | 200 milliards de dollars à dépenser sur 20 ans, dont 19 restants                                | MESURE       | 0.93      | DYNAMIQUE   | déclaré_article |
+| Gates Foundation                  | ORGANISATION | collabore_avec | Anthropic                                                                                       | ORGANISATION | 0.90      | DYNAMIQUE   | déclaré_article |
+| Gates Foundation                  | ORGANISATION | collabore_avec | OpenAI                                                                                          | ORGANISATION | 0.90      | DYNAMIQUE   | déclaré_article |
+| productive struggle               | CONCEPT      | améliore       | apprentissage des élèves                                                                        | CONCEPT      | 0.85      | ATEMPOREL   | déclaré_article |
 
 ### Entités
 

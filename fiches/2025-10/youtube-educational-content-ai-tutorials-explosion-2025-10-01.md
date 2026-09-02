@@ -66,21 +66,21 @@ L'explosion crée des problèmes de trouvabilité : résultats de recherche satu
 
 ### Triples
 
-| Sujet | Type Sujet | Prédicat | Objet | Type Objet | Confiance | Temporalité | Source |
-|-------|-----------|----------|-------|-----------|-----------|-------------|--------|
-| tutoriels IA YouTube | CONCEPT | observé_dans | YouTube | TECHNOLOGIE | 0.99 | DYNAMIQUE | déclaré_article |
-| YouTube | ORGANISATION | améliore | éducation technique | CONCEPT | 0.97 | DYNAMIQUE | déclaré_article |
-| YouTube | ORGANISATION | concurrence | éducation traditionnelle | CONCEPT | 0.92 | DYNAMIQUE | déclaré_article |
-| Andrej Karpathy | PERSONNE | utilise | YouTube | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| 3Blue1Brown | PERSONNE | utilise | YouTube | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| StatQuest | PERSONNE | utilise | YouTube | TECHNOLOGIE | 0.95 | DYNAMIQUE | déclaré_article |
-| créateurs de contenu | PERSONNE | utilise | expertise pédagogique | CONCEPT | 0.90 | DYNAMIQUE | déclaré_article |
-| tutoriels IA YouTube | CONCEPT | mesure | 2,5 milliards de vues annuelles | MESURE | 0.88 | STATIQUE | déclaré_article |
-| risque d'épuisement professionnel | CONCEPT | observé_dans | économie des créateurs | CONCEPT | 0.85 | ATEMPOREL | déclaré_article |
-| contenu de mauvaise qualité | CONCEPT | réduit | apprentissage autodidacte | METHODOLOGIE | 0.82 | ATEMPOREL | inféré |
-| YouTube | ORGANISATION | surpasse | production académique traditionnelle | CONCEPT | 0.87 | DYNAMIQUE | déclaré_article |
-| apprentissage autodidacte | METHODOLOGIE | utilise | YouTube | TECHNOLOGIE | 0.93 | DYNAMIQUE | inféré |
-| communautés Discord/Reddit | ORGANISATION | a_créé | parcours d'apprentissage curatés | CONCEPT | 0.80 | DYNAMIQUE | déclaré_article |
+| Sujet                             | Type Sujet   | Prédicat     | Objet                                | Type Objet   | Confiance | Temporalité | Source          |
+| --------------------------------- | ------------ | ------------ | ------------------------------------ | ------------ | --------- | ----------- | --------------- |
+| tutoriels IA YouTube              | CONCEPT      | observé_dans | YouTube                              | TECHNOLOGIE  | 0.99      | DYNAMIQUE   | déclaré_article |
+| YouTube                           | ORGANISATION | améliore     | éducation technique                  | CONCEPT      | 0.97      | DYNAMIQUE   | déclaré_article |
+| YouTube                           | ORGANISATION | concurrence  | éducation traditionnelle             | CONCEPT      | 0.92      | DYNAMIQUE   | déclaré_article |
+| Andrej Karpathy                   | PERSONNE     | utilise      | YouTube                              | TECHNOLOGIE  | 0.95      | DYNAMIQUE   | déclaré_article |
+| 3Blue1Brown                       | PERSONNE     | utilise      | YouTube                              | TECHNOLOGIE  | 0.95      | DYNAMIQUE   | déclaré_article |
+| StatQuest                         | PERSONNE     | utilise      | YouTube                              | TECHNOLOGIE  | 0.95      | DYNAMIQUE   | déclaré_article |
+| créateurs de contenu              | PERSONNE     | utilise      | expertise pédagogique                | CONCEPT      | 0.90      | DYNAMIQUE   | déclaré_article |
+| tutoriels IA YouTube              | CONCEPT      | mesure       | 2,5 milliards de vues annuelles      | MESURE       | 0.88      | STATIQUE    | déclaré_article |
+| risque d'épuisement professionnel | CONCEPT      | observé_dans | économie des créateurs               | CONCEPT      | 0.85      | ATEMPOREL   | déclaré_article |
+| contenu de mauvaise qualité       | CONCEPT      | réduit       | apprentissage autodidacte            | METHODOLOGIE | 0.82      | ATEMPOREL   | inféré          |
+| YouTube                           | ORGANISATION | surpasse     | production académique traditionnelle | CONCEPT      | 0.87      | DYNAMIQUE   | déclaré_article |
+| apprentissage autodidacte         | METHODOLOGIE | utilise      | YouTube                              | TECHNOLOGIE  | 0.93      | DYNAMIQUE   | inféré          |
+| communautés Discord/Reddit        | ORGANISATION | a_créé       | parcours d'apprentissage curatés     | CONCEPT      | 0.80      | DYNAMIQUE   | déclaré_article |
 
 ### Entités
 
