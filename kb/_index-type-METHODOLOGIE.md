@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 417 entités de type METHODOLOGIE
+> 423 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -307,6 +307,7 @@
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] — portée: Minions, Cursor, Claude Code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#filtrage-par-le-contexte\|filtrage par le contexte]] — critères: Lien aux issues, démonstration de compréhension, tests complets (1 occ., 1 fiches)
 - [[kb/_entites-mineures#findings-vérifiés\|findings vérifiés]] — exigence: Reproduire le bug (test rouge, trace, input) avant toute action du builder (1 occ., 1 fiches)
+- [[kb/_entites-mineures#fitness-functions\|fitness functions]] — rôle: Encodage exécutable des contraintes architecturales, posé après un design collectif plutôt que vérifié en revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#formulation-de-vision-précise\|formulation de vision précise]] — rôle: Articuler une intention assez précise pour qu'un agent l'exécute sans dérailler (1 occ., 1 fiches)
 - [[kb/_entites-mineures#forums-légers-récurrents\|forums légers récurrents]] — format: weekly sync permettant de remonter nuances sans jugement (1 occ., 1 fiches)
 - [[kb/framework-6-étapes\|framework 6 étapes]] — étapes: Définir, Concevoir SOP, MVP, Connecter, Tester, Déployer (1 occ., 1 fiches)
@@ -336,6 +337,7 @@
 - [[kb/_entites-mineures#marketing-demand-led\|marketing demand-led]] — principe: Budget aligné sur les signaux réels de demande client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#marketplace-interne-Anthropic\|marketplace interne Anthropic]] — mécanique: sandbox Slack → traction → promotion par PR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#merge-forecast\|merge-forecast]] — signaux: Scope de fichiers, rayon d'imports, co-changement historique, collisions de namespace (2 occ., 1 fiches)
+- [[kb/_entites-mineures#mob-programming\|mob programming]] — rôle: Dispositif de propriété collective, avec les sessions de design d'équipe au tableau, en amont de l'écriture ou de l'instruction donnée à l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#mode-headless\|mode headless]] — flag: -p (non-interactif, CI/CD) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#model-ratchet\|model ratchet]] — nature: Ré-audit post-release par modèles frontier ; cliquet qui ne recule pas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#modèle-10x\|modèle 10x]] — catégorie: Schéma de rémunération à la performance appliqué aux ingénieurs (1 occ., 1 fiches)
@@ -348,6 +350,7 @@
 - [[kb/_entites-mineures#orchestration-de-bots\|orchestration de bots]] — description: Gérer 10 bots en parallèle, débugger, affiner les specs (1 occ., 1 fiches)
 - [[kb/orchestration-multi-agents\|orchestration multi-agents]] — fonctions: Routage tâches, gestion état, récupération erreurs, exécution parallèle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#ordre-de-merge\|ordre de merge]] — séquence: Foundation → shared packages → apps (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pair-programming\|pair programming]] — rôle: Substitut proposé à la revue pour le transfert de connaissance et l'apprentissage des juniors, parce qu'il opère pendant le raisonnement et non après (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pattern-Committee\|pattern Committee]] — catégorie: architecture coordination agents (vote/consensus) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pattern-Hierarchical\|pattern Hierarchical]] — catégorie: architecture coordination agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pattern-Manager-Worker\|pattern Manager-Worker]] — catégorie: architecture coordination agents (1 occ., 1 fiches)
@@ -366,6 +369,7 @@
 - [[kb/_entites-mineures#property-based-testing\|property-based testing]] — rôle: Complément de vérification face aux limites du test automatisé classique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prosecution\|prosecution]] — définition: Revue de code conçue comme une accusation adversariale visant à réfuter, pas à évaluer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prototype-dogfood-productionize\|prototype dogfood productionize]] — boucle: Agent interne construit avec Claude Code, éprouvé en interne, puis promu en produit client via API, SDK ou Claude Managed Agents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pull-request\|pull request]] — critique: Contestée comme centre du processus de développement : construire, finir, emballer et transmettre avant d'avoir la conversation importante (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pédagogie-socratique\|pédagogie socratique]] — structure: hook → exploration → dialogue → pratique → flashcard FSRS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#query-fan-out\|query fan-out]] — description: Technique de recherches parallèles sur sous-sujets multiples (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rail-discipline\|rail discipline]] — règles: Contextes d'écriture séparés, gel mécanique au niveau outil, audits adversariaux (1 occ., 1 fiches)
@@ -373,11 +377,12 @@
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] — catégorie: Technique pédagogique basée sur la récupération active en mémoire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reviewers-mono-lentille\|reviewers mono-lentille]] — dimensions: Correction, sécurité, conformité de contrat, alignement spec, qualité des tests (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-adversariale\|revue adversariale]] — principe: Un 2ᵉ Claude en contexte séparé ne voyant que le diff, sommé de trouver pourquoi le code est faux ; 1 implémenteur / 2+ relecteurs / 1 fixer ; l'implémenteur ne relit pas (1 occ., 1 fiches)
-- [[kb/_entites-mineures#revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (1 occ., 1 fiches)
+- [[kb/revue-de-code\|revue de code]] — objectifs: Trouver les défauts, qualité, conformité, partage de connaissance (2 occ., 2 fiches)
 - [[kb/_entites-mineures#revue-de-code-IA\|revue de code IA]] — description: Revue automatisée de pull requests par agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-agentique\|revue de code agentique]] — catégorie: Revue conduite par des agents, opposée terme à terme à la revue humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-humaine\|revue de code humaine]] — catégorie: Inspection par un pair, dont l'article conteste la tenue face au débit agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#revue-de-code-rigoureuse\|revue de code rigoureuse]] — objectif: Garantir qualité et sécurité du code généré par IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#revue-par-exception\|revue par exception]] — définition: Réserver la revue humaine aux classes de changement où le jugement humain apporte, au lieu d'inspecter systématiquement chaque changement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#role-playing\|role-playing]] — objectif: Inciter Claude à évaluer critiquement les suggestions de revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-SIEM\|routage SIEM]] — définition: Log de chaque action d'agent (approbations, tool calls, messages) pour audit + menace interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — règle: Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches (1 occ., 1 fiches)
@@ -392,6 +397,7 @@
 - [[kb/_entites-mineures#skills-(analytics)\|skills (analytics)]] — impact: Précision 21% → 95%+ (≈99% sur certains domaines) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#souveraineté-comme-levier\|souveraineté comme levier]] — définition: Doctrine Mensch : ne pas penser souveraineté comme isolationnisme mais comme capacité d'avoir des cartes à jouer dans la négociation commerciale et géopolitique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spec-coding\|spec coding]] — définition: Méthodologie transformant prompts en spécifications structurées, designs techniques et plans d'implémentation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#stratification-par-risque\|stratification par risque]] — principe: Réserver l'attention humaine rare aux changements où le jugement et la redevabilité comptent, au lieu d'automatiser ou d'inspecter uniformément (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suite-de-tests\|suite de tests]] — rôle: Mécanisme de confiance porteur du cycle ; spec dans la langue que le builder ne peut contester (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suppression-des-token-limits\|suppression des token limits]] — nature: Levier organisationnel (retrait de friction) (1 occ., 1 fiches)
 - [[kb/synthèse-d'environnements-de-tâches\|synthèse d'environnements de tâches]] — définition: Pratique décrite par Z.ai pour lever le goulot du post-entraînement agentique : des agents de recherche convertissent des motifs de travail réel en environnements exécutables long-horizon à dépendances multi-étapes et état caché ; un agent juge tente chaque tâche pour vérifier qu'elle est résoluble ; les vérificateurs sont synthétisés sans accès à la solution de référence ; les trajectoires de solveur servent à découvrir puis fermer les raccourcis de récompense ; un vérificateur n'est retenu qu'après trois contrôles négatifs — oracle, no-op, unsolved-state. Reste dépendante d'un travail humain significatif (1 occ., 1 fiches)

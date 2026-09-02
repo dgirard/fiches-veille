@@ -1,6 +1,6 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 17 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 18 relations | 4 fiches sources
 
 ## Attributs
 
@@ -45,6 +45,8 @@
   - [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 - coordination et orchestration (CONCEPT) — 0.92, DYNAMIQUE
   - [[fiches/2026-03/ensarguet-beyond-brain-speed-economics-computation-2026-03-11\|Beyond Brain Speed: The Economics of Computation]]
+- « une dysfonction de revue préexistante qu'elle amplifie sans l'avoir créée » (AFFIRMATION) — 0.91, ATEMPOREL
+  - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### s_oppose_à
 

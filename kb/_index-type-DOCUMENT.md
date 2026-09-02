@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 147 entités de type DOCUMENT
+> 152 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -11,6 +11,7 @@
 - [[kb/AI-Index-Report-2025\|AI Index Report 2025]] — catégorie: Rapport annuel global sur l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Jobs-Transition-Framework\|AI Jobs Transition Framework]] — référence: Cadre antérieur d'OpenAI Economic Research posant que de nombreux métiers vont se réorganiser plutôt que disparaître ; socle doctrinal du rapport sur le task crossover (1 occ., 1 fiches)
 - [[kb/AI-Kill-Switch-Act\|AI Kill Switch Act]] — catégorie: Projet de loi US (2026) imposant des kill switches et un pouvoir fédéral d'arrêt des systèmes d'IA dangereux (2 occ., 2 fiches)
+- [[kb/_entites-mineures#AI-Where-It-Matters\|AI Where It Matters]] — nature: Recherche qualitative DX sur ce que les développeurs veulent et refusent de déléguer à l'IA en revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] — description: Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#After-Automation\|After Automation]] — description: Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath (1 occ., 1 fiches)
@@ -69,7 +70,9 @@
 - [[kb/_entites-mineures#MIT-Your-Brain-on-ChatGPT\|MIT Your Brain on ChatGPT]] — description: Étude de connectivité neuronale chez rédacteurs IA-assistés : connectivité réduite, mémoire affaiblie, capacité diminuée à reconstruire le raisonnement (1 occ., 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] — catégorie: Première encyclique sociale de Léon XIV (15 mai 2026), 245 paragraphes, 5 chapitres, sur la protection de la personne humaine à l'ère de l'IA — publiée pour le 135e anniversaire de Rerum Novarum (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] — rôle: Source parodiée (2001, 4 valeurs + 12 principes) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code\|Maybe We Shouldn't Be Reviewing All This Code]] — format: Billet d'environ 8 000 caractères publié le 2 septembre 2026, réponse explicite à l'édition d'Engineering Enablement de Brian Houck du 5 août (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Internal-Coding-Bench\|Meta Internal Coding Bench]] — référence: Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Modern-Code-Review\|Modern Code Review]] — référence: Bacchelli & Bird, ICSE 2013 ; source du chiffre des 14 % de commentaires liés aux défauts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] — catégorie: Page de référence (28 juil. 2026) décrivant en six couches un dispositif solo de développement à code quasi entièrement généré (1 occ., 1 fiches)
 - [[kb/One-Useful-Thing-document\|One Useful Thing]] — type: Newsletter Substack sur l'IA au travail (2 occ., 3 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
@@ -120,6 +123,7 @@
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#What-are-code-reviews-even-for\|What are code reviews even for?]] — format: Édition de newsletter d'environ 13 000 caractères, publiée le 5 août 2026, à l'origine de la réponse de Rachel Laycock un mois plus tard (1 occ., 1 fiches)
 - [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] — format: Essai stratégique de ~39 000 caractères, 31 min de lecture annoncées, publié le 24 août 2026 en réponse au playbook d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] — format: Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
@@ -148,4 +152,5 @@
 - [[kb/_entites-mineures#Étude-BCG-HBR-mars-2026\|Étude BCG HBR mars 2026]] — méthodologie: 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Business-Horizons\|Étude Business Horizons]] — thèse: Le contournement des collègues (workforce ChatGPT) érode le partage de connaissance intra-firme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] — description: Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#étude-Microsoft-2016-sur-la-revue-de-code\|étude Microsoft 2016 sur la revue de code]] — référence: Enquête auprès de 911 développeurs ; délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] — date: août 2025 (2 occ., 1 fiches)

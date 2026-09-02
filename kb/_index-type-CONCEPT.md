@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 982 entités de type CONCEPT
+> 984 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -520,6 +520,7 @@
 - [[kb/_entites-mineures#behavioral-observability\|behavioral observability]] — usage: Monitoring spécifique au comportement des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-du-modèle\|benchmarks du modèle]] — valeurs: SWE-bench 88,6 % / USAMO 96,7 % / GraphWalks 68,1 % (1 occ., 1 fiches)
 - [[kb/_entites-mineures#benchmarks-standards\|benchmarks standards]] — exemples: MMLU-Pro, AIME, GPQA, SWE-bench, ARC-AGI, METR (1 occ., 1 fiches)
+- [[kb/_entites-mineures#bikeshedding\|bikeshedding]] — définition: Dispute sur des points mineurs pendant que les problèmes sérieux restent inexaminés ; échec de revue documenté avant l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bottleneck-shifting\|bottleneck-shifting]] — définition: L'IA ne supprime pas les goulots, elle les déplace en aval (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boucle-cognitive\|boucle cognitive]] — rôle: Boucle inédite entre personnes et systèmes numériques propre à l'ère IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#boundary-objects\|boundary objects]] — définition: Artefacts structurés passés entre groupes pour transmettre du sens à travers les frontières (1 occ., 1 fiches)
@@ -624,6 +625,7 @@
 - [[kb/_entites-mineures#data-flywheel\|data flywheel]] — rôle: Boucle feedback temps réel pour fine-tuning (1 occ., 1 fiches)
 - [[kb/_entites-mineures#demande-latente\|demande latente]] — source: Observation des usages imprévus ("abuse") par les utilisateurs avancés (2 occ., 2 fiches)
 - [[kb/_entites-mineures#design-comme-différenciateur\|design comme différenciateur]] — définition: Doctrine Block : apporter le design à une catégorie qui n'en avait pas change qui se sent invité à l'utiliser (1 occ., 1 fiches)
+- [[kb/_entites-mineures#dette-cognitive-et-dette-d'intention\|dette cognitive et dette d'intention]] — définition: Écart croissant entre le comportement du système et la compréhension collective de son pourquoi ; se manifeste à l'incident, à la passation ou à la refonte (2 occ., 2 fiches)
 - [[kb/dette-technique\|dette technique]] — risque: Amplifié par IA sans discipline de test (4 occ., 4 fiches)
 - [[kb/_entites-mineures#dette-technique-sociétale\|dette technique sociétale]] — cause: décennies de coûts logiciels élevés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#deux-portes-humaines\|deux portes humaines]] — définition: P1 approbation de la spec (intention) et P6 acceptation comportementale (vérification) (1 occ., 1 fiches)

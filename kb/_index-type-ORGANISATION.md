@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 410 entités de type ORGANISATION
+> 411 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -104,7 +104,7 @@
 - [[kb/_entites-mineures#DG-Trésor\|DG Trésor]] — secteur: Administration économique (Ministère de l'Économie) — série d'analyse Trésor-Éco (1 occ., 1 fiches)
 - [[kb/DORA\|DORA]] — rôle: Recherche software delivery performance, Google Cloud, lignée 2020 ROI DevOps → 2025 State of AI-assisted Software Development → 2026 ROI of AI-assisted Software Development (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — contexte: grande entreprise, intégrateur de BMAD (1 occ., 2 fiches)
-- [[kb/_entites-mineures#DX\|DX]] — secteur: Plateforme Developer Experience / Métriques (2 occ., 2 fiches)
+- [[kb/DX\|DX]] — secteur: Plateforme Developer Experience / Métriques (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Databricks\|Databricks]] — secteur: Data lakehouse / plateforme IA (1 occ., 1 fiches)
 - [[kb/Decagon\|Decagon]] — positionnement: Éditeur d'agents IA de service client (San Francisco) revendiquant un modèle de livraison piloté par le produit : escalades transformées en exigences plutôt qu'en patchs, deux tiers du travail de déploiement automatisés via Duet, premier AOP lancé en quelques jours chez de grands comptes (chiffres auto-déclarés, août 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decathlon\|Decathlon]] — particularité: Producteur d'une grande partie de ses produits → RFID end-to-end (1 occ., 1 fiches)
@@ -235,7 +235,7 @@
 - [[kb/_entites-mineures#Meitu\|Meitu]] — secteur: Applications photo/vidéo IA (Chine) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Menlo-Ventures\|Menlo Ventures]] — secteur: Capital-risque (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — secteur: Infrastructure commerce agentique (1 occ., 1 fiches)
-- [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (2 occ., 2 fiches)
+- [[kb/Meta\|Meta]] — secteur: Réseaux sociaux / IA (3 occ., 3 fiches)
 - [[kb/Meta-AI-Research\|Meta AI Research]] — positionnement: Entre sur le marché de l'agent de codage en terminal après ses concurrents et l'assume, en publiant quatre comparatifs où son modèle ne prend jamais la tête, y compris sur son propre benchmark interne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] — rôle: Entité de recherche de Meta présentée comme opérationnelle en août 2026, dont la mise en route conditionne la reprise annoncée de la publication de « certains » modèles open source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
@@ -249,6 +249,7 @@
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Modern-Software-Engineering\|Modern Software Engineering]] — secteur: Chaîne YouTube + coaching ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/Moderna\|Moderna]] — secteur: Biotechnologie / mRNA medicines (2 occ., 1 fiches)
+- [[kb/_entites-mineures#Moderne\|Moderne]] — rôle: Hôte du panel Code Remix ; éditeur cité sans autre développement (1 occ., 1 fiches)
 - [[kb/Monday.com\|Monday.com]] — secteur: Gestion de projet / IA (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Monks\|Monks]] — description: Cas étude Mandese — agence ayant adopted single subscription combining talent + technology + improvement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Monzo-Bank\|Monzo Bank]] — défi: Opacité des données vendeurs d'outils IA (1 occ., 1 fiches)
@@ -360,7 +361,7 @@
 - [[kb/The-New-York-Times\|The New York Times]] — secteur: Presse / journalisme de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
-- [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (4 occ., 4 fiches)
+- [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (5 occ., 5 fiches)
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] — nature: Projet de la Linux Foundation, annoncé le 2026-06-03 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)

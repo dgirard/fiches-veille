@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 50 entités de type EVENEMENT
+> 51 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -10,6 +10,7 @@
 - [[kb/_entites-mineures#Bug-prompt-caching\|Bug prompt caching]] — période: 26 mars - 10 avril 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cas-marketing-tech-+349%-+38%\|Cas marketing tech +349%/+38%]] — source: Cas client Bain — AI costs +349% / revenue +38% sur un an. Illustre le risque coût AI non maîtrisé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cocktail-Molotov-+-tirs-Altman-avril-2026\|Cocktail Molotov + tirs Altman avril 2026]] — description: Avril 2026 — cocktail Molotov lancé sur propriété SF Sam Altman, puis quelques jours plus tard attaque par armes à feu sur sa maison. Événements documentés cités par Wallace-Wells comme "warning shots" du AI populism (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Code-Remix\|Code Remix]] — nature: Panel hébergé par Moderne où Laycock et Houck se sont publiquement opposés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] — impact_mesuré: -3% intelligence (Opus 4.6 et 4.7) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DX-Annual-2026\|DX Annual 2026]] — catégorie: Conférence productivité développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] — description: Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin (1 occ., 1 fiches)

@@ -1,9 +1,10 @@
 # Thoughtworks
 
-> **Type** : ORGANISATION | 10 relations | 4 fiches sources
+> **Type** : ORGANISATION | 11 relations | 5 fiches sources
 
 ## Attributs
 
+- **apport** : Cabinet dont l'autrice tire les principes invoqués : boucles de rétroaction courtes, pair programming, trunk-based development, fitness functions
 - **secteur** : Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring
 
 ## Relations (comme sujet)
@@ -43,10 +44,12 @@
 
 - [[kb/Birgitta-Böckeler\|Birgitta Böckeler]] **travaille_chez** → Thoughtworks — 0.98
 - [[kb/Martin-Fowler\|Martin Fowler]] **travaille_chez** → Thoughtworks — 0.97
+- [[kb/Rachel-Laycock\|Rachel Laycock]] **dirige** → Thoughtworks — 0.95
 
 ## Fiches sources
 
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]]
+- [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
 - [[fiches/2026-05/thoughtworks-aiworks-agentic-development-platform-2026-05-12\|AI/works™ by Thoughtworks — Thoughtworks' Agentic Development Platform / "We are doing it again for the AI era"]]

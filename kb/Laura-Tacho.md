@@ -20,7 +20,7 @@
 
 ### travaille_chez
 
-- [[kb/_entites-mineures#DX\|DX]] (ORGANISATION) — 0.98, DYNAMIQUE
+- [[kb/DX\|DX]] (ORGANISATION) — 0.98, DYNAMIQUE
   - [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]]
 
 ## Fiches sources
