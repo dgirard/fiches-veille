@@ -1,6 +1,6 @@
 # OpenAI
 
-> **Type** : ORGANISATION | 57 relations | 22 fiches sources
+> **Type** : ORGANISATION | 58 relations | 22 fiches sources
 
 ## Attributs
 
@@ -70,6 +70,11 @@
   - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - « participation jusqu'à 10% dans AMD » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
+
+### observé_dans
+
+- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT) — 0.96, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### prédit
 

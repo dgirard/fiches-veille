@@ -1,11 +1,12 @@
 # Claude Mythos 5
 
-> **Type** : TECHNOLOGIE | 7 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 9 relations | 2 fiches sources
 
 ## Attributs
 
 - **accès** : Cyberdéfenseurs et fournisseurs d'infrastructure via Project Glasswing
 - **catégorie** : Modèle classe Mythos, garde-fous levés, accès restreint
+- **statut** : Remplacé par Mythos 5.1
 
 ## Relations (comme sujet)
 
@@ -18,6 +19,11 @@
 
 - [[kb/_entites-mineures#Project-Glasswing\|Project Glasswing]] (EVENEMENT) — 0.90, DYNAMIQUE
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+
+### observé_dans
+
+- fabrication de fausses identités par un agent (CONCEPT) — 0.90, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### remplace
 
@@ -34,7 +40,9 @@
 - [[kb/Anthropic\|Anthropic]] **a_créé** → Claude Mythos 5 — 0.99
 - [[kb/Claude-Fable-5\|Claude Fable 5]] **est_variante_de** → Claude Mythos 5 — 0.95
 - [[kb/Anthropic\|Anthropic]] **publie** → Claude Mythos 5 — 0.95
+- [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] **remplace** → Claude Mythos 5 — 0.95
 
 ## Fiches sources
 
+- [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]

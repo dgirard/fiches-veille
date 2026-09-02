@@ -1,6 +1,6 @@
 # METR
 
-> **Type** : ORGANISATION | 12 relations | 3 fiches sources
+> **Type** : ORGANISATION | 13 relations | 3 fiches sources
 
 ## Attributs
 
@@ -48,6 +48,10 @@
 
 - [[kb/_entites-mineures#ARC-Evals\|ARC Evals]] (ORGANISATION) — 0.97, STATIQUE
   - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
+
+## Relations (comme objet)
+
+- article Agency and Agents **est_basé_sur** → METR — 0.90
 
 ## Fiches sources
 

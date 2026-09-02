@@ -1,11 +1,12 @@
 # Software Factory
 
-> **Type** : METHODOLOGIE | 6 relations | 1 fiches sources
+> **Type** : METHODOLOGIE | 8 relations | 2 fiches sources
 
 ## Attributs
 
 - **définition** : Développement non-interactif piloté par specs et scenarios sans intervention humaine
 - **métrique** : $1 000 en tokens par ingénieur humain par jour
+- **règle** : Nul humain n'écrit le code, nul humain ne le relit
 
 ## Relations (comme sujet)
 
@@ -13,6 +14,11 @@
 
 - specs et scenarios (CONCEPT) — 0.95, ATEMPOREL
   - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
+
+### est_instance_de
+
+- [[kb/_entites-mineures#dark-factory\|dark factory]] (CONCEPT) — 0.90, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### est_variante_de
 
@@ -33,7 +39,9 @@
 
 - [[kb/Justin-McCarthy\|Justin McCarthy]] **a_créé** → Software Factory — 0.97
 - [[kb/_entites-mineures#StrongDM-AI\|StrongDM AI]] **utilise** → Software Factory — 0.97
+- StrongDM **a_créé** → Software Factory — 0.90
 
 ## Fiches sources
 
 - [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
+- [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]

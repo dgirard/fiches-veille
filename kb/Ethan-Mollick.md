@@ -1,6 +1,6 @@
 # Ethan Mollick
 
-> **Type** : PERSONNE | 59 relations | 14 fiches sources
+> **Type** : PERSONNE | 66 relations | 15 fiches sources
 
 ## Attributs
 
@@ -22,6 +22,8 @@
   - [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]]
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] (CONCEPT) — 0.97, STATIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
+- [[kb/_entites-mineures#Twilight-Factory\|Twilight Factory]] (CONCEPT) — 0.94, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### affirme_que
 
@@ -41,10 +43,14 @@
   - [[fiches/2026-05/mollick-roon-asi-consulting-forward-deployed-engineering-2026-05-10\|You will know that the AI labs believe in ASI when -they dissolve their forward deployed engineering teams-]]
 - « un agent orchestrateur ne peut pas gérer un nombre illimité de sous-agents » (AFFIRMATION) — 0.96, ATEMPOREL
   - [[fiches/2026-02/mollick-organizational-theory-agentic-ai-spans-control-2026-02\|Organizational Theory Lessons for Agentic AI]]
+- « le Grader n'existait pas tel que les agents se le représentaient » (AFFIRMATION) — 0.95, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - « les benchmarks standards échouent à mesurer la performance tâche-spécifique » (AFFIRMATION) — 0.95, ATEMPOREL
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - « les organisations doivent planifier plusieurs scénarios AGI » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
+- « un agent peut planifier, s'ajuster et coordonner sans être conscient » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - « le vibes-based testing est insuffisant pour les organisations déployant l'IA à grande échelle » (AFFIRMATION) — 0.93, ATEMPOREL
   - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 - « les frontières organisationnelles deviennent poreuses et les entreprises devront repenser la division du travail » (AFFIRMATION) — 0.93, DYNAMIQUE
@@ -71,6 +77,8 @@
 
 - « 70% des employés expérimentent l'IA, seulement 20% utilisateurs réguliers » (MESURE) — 0.93, STATIQUE
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
+- « les IA produisent des idées viables mais très semblables entre elles » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - « ~15% d'adoption pour l'approche par mandat, avec comportements de contournement » (MESURE) — 0.82, STATIQUE
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
 - « ~40% d'adoption soutenue pour l'approche bottom-up » (MESURE) — 0.82, STATIQUE
@@ -82,6 +90,8 @@
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 - « la prochaine génération de modèles dépassera en moyenne les experts humains » (AFFIRMATION) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+- « retirer les décisions intéressantes aggrave la crise de formation des experts » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - « un risque de surproduction de contenu à faible valeur par les agents IA » (AFFIRMATION) — 0.85, ATEMPOREL
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 
@@ -98,6 +108,8 @@
   - [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 - analyse de l'évolution IA sur 3 ans (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-11/mollick-three-years-gpt3-gemini3-evolution-2025-11-18\|Three Years from GPT-3 to Gemini 3]]
+- article Agency and Agents (DOCUMENT) — 0.98, STATIQUE
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - Real AI Agents and Real Work (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] (DOCUMENT) — 0.95, STATIQUE
@@ -122,6 +134,8 @@
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
+- « faire remonter vers l'humain sur approbation, expertise, variance et intérêt » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - [[kb/Gemini-entite\|Gemini]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
   - [[fiches/2025-10/opinionated-guide-ai-mollick-2025-10-19\|An Opinionated Guide to Using AI Right Now]]
 - [[kb/_entites-mineures#planification-multi-scénarios\|planification multi-scénarios]] (METHODOLOGIE) — 0.95, STATIQUE
@@ -153,6 +167,7 @@
 
 - [[kb/Wharton-School\|Wharton School]] (ORGANISATION) — 0.99, DYNAMIQUE
   - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
+  - [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
   - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
   - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
@@ -176,6 +191,7 @@
 ## Fiches sources
 
 - [[fiches/2024-04/ethan-mollick-ai-adoption-organizational-change-substack-2024-04-02\|Ethan Mollick: Organizational AI Adoption Patterns and Change Management]]
+- [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 - [[fiches/2024-07/mollick-confronting-impossible-futures-agi-2024-07-22\|Confronting Impossible Futures]]
 - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 - [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]

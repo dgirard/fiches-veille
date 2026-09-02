@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 408 entités de type ORGANISATION
+> 410 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -35,7 +35,7 @@
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplitude\|Amplitude]] — apport: Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / éditeur de Claude Code (43 occ., 43 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / Safety (44 occ., 44 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] — rôle: Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord (1 occ., 1 fiches)
@@ -241,6 +241,7 @@
 - [[kb/_entites-mineures#Michelin\|Michelin]] — secteur: Industrie / Transformation numérique (2 occ., 2 fiches)
 - [[kb/Microsoft\|Microsoft]] — métrique distinctive: Bad Developer Days (BDDs) (10 occ., 9 fiches)
 - [[kb/_entites-mineures#Microsoft-Developer\|Microsoft Developer]] — secteur: Développement logiciel / IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Millennium\|Millennium]] — rôle: Partenaire d'accès anticipé, diagnostic d'un crash rare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MindStudio-Team\|MindStudio Team]] — rôle: Auteur de l'explainer, plateforme d'orchestration de workflows multi-modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
@@ -363,6 +364,7 @@
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] — nature: Projet de la Linux Foundation, annoncé le 2026-06-03 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)
+- [[kb/_entites-mineures#UK-AI-Security-Institute\|UK AI Security Institute]] — rôle: Auteur du stress test ayant révélé la fabrication de fausses identités (1 occ., 1 fiches)
 - [[kb/_entites-mineures#UNLEASH\|UNLEASH]] — secteur: Média HR-tech / futur du travail (1 occ., 1 fiches)
 - [[kb/Uber-Engineering\|Uber Engineering]] — catégorie: Équipe d'ingénierie Uber, publie blog technique sur uber.com/blog, déploie infrastructure agent identity en production pour milliers d'agents internes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#University-of-Wisconsin-Madison\|University of Wisconsin-Madison]] — type: Université américaine (1 occ., 1 fiches)

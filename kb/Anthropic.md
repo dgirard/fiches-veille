@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 127 relations | 43 fiches sources
+> **Type** : ORGANISATION | 132 relations | 44 fiches sources
 
 ## Attributs
 
@@ -11,7 +11,7 @@
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
 - **rôle** : A racheté Bun (déc. 2025) ; éditeur de Claude Fable 5 et Claude Code utilisés pour la réécriture
-- **secteur** : IA / éditeur de Claude Code
+- **secteur** : IA / Safety
 
 ## Relations (comme sujet)
 
@@ -60,8 +60,12 @@
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - « les composants du harnais encodent des hypothèses qui vieillissent vite quand les modèles s'améliorent » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
+- « Mythos 5.1 reste sous le palier de risque suivant de la Responsible Scaling Policy » (AFFIRMATION) — 0.92, STATIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+- « l'audit d'alignement couvre mal le long contexte, le multi-agent et les tâches impossibles » (AFFIRMATION) — 0.90, STATIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « les limites Pro et Max supposent un usage ordinaire et individuel de Claude Code et de l'Agent SDK » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
 - « "le RSP a influencé California SB 53, le NY RAISE Act et l'EU AI Act" » (AFFIRMATION) — 0.88, STATIQUE
@@ -82,7 +86,8 @@
 
 ### collabore_avec
 
-- gouvernement américain (ORGANISATION) — 0.88, DYNAMIQUE
+- gouvernement américain (ORGANISATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
   - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 
 ### concurrence
@@ -153,6 +158,10 @@
   - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 - [[kb/Agent-Skills\|Agent Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+- [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+- [[kb/Claude-Mythos-5.1\|Claude Mythos 5.1]] (TECHNOLOGIE) — 0.99, STATIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - [[kb/Claude-Skills\|Claude Skills]] (TECHNOLOGIE) — 0.99, STATIQUE
   - [[fiches/2025-10/claude-skills-bigger-than-mcp-willison-2025-10-16\|Claude Skills are awesome, maybe a bigger deal than MCP]]
 - documentation subagents Claude Code (DOCUMENT) — 0.99, STATIQUE
@@ -260,6 +269,8 @@
   - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
 - limites d'usage simultanées (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-04/beck-starving-genies-usage-limits-ai-coding-2026-04-03\|Starving Genies]]
+- [[kb/_entites-mineures#watermark-de-contenu-généré\|watermark de contenu généré]] (TECHNOLOGIE) — 0.90, DYNAMIQUE
+  - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - tests de charge obligatoires (METHODOLOGIE) — 0.88, DYNAMIQUE
   - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 - un marketplace interne par PR pour distribuer les skills (METHODOLOGIE) — 0.88, DYNAMIQUE
@@ -302,6 +313,7 @@
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
 - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]

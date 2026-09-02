@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 146 entités de type DOCUMENT
+> 147 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -129,6 +129,7 @@
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)
 - [[kb/_entites-mineures#blog-Generative-AI-(Thoughtworks)\|blog Generative AI (Thoughtworks)]] — description: Section dédiée du blog Thoughtworks publiant des articles conceptuels et techniques sur l'IA générative. Article Kamelman SaS publié dans cette section le 3 décembre 2025 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#carte-altimétrique-de-Vénus\|carte altimétrique de Vénus]] — statut: Publiée en Creative Commons, résolution 2-3 km sur un tiers de la planète (1 occ., 1 fiches)
 - [[kb/_entites-mineures#docs-solutions\|docs/solutions/]] — census: 35 learnings, 6 catégories, skill-design en tête (20) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#draft-klrc-aiagent-auth-01\|draft-klrc-aiagent-auth-01]] — catégorie: Draft IETF *AI Agent Authentication and Authorization* — spécification émergente alignée par Uber (1 occ., 1 fiches)
 - [[kb/_entites-mineures#enquête-shopping-IA-2025\|enquête shopping IA 2025]] — taille_échantillon: 5000+ répondants mondiaux (1 occ., 1 fiches)

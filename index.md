@@ -1,13 +1,18 @@
 # Veille Technologique
 
-> 399 fiches | 1975-12 → 2026-08-26 | généré le 2026-09-02
+> 401 fiches | 1975-12 → 2026-09-01 | généré le 2026-09-02
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Articles par mois
 
+### 2026-09
+
+- **01** [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle. · Anthropic — Claude Fable 5.1, Claude Mythos 5.1, modèle de fondation
+
 ### 2026-08
 
+- **31** [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack. · One Useful Thing — agentivité, agency, agents autonomes
 - **26** [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur. · Gates Notes — équité et IA, transition vers l'ère IA, substitution de la cognition
 - **26** [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon. · All Things Distributed (blog de Werner Vogels) — DuckDB, DuckLabs, acquisition AWS
 - **24** [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com. · GitLab (blog about.gitlab.com) — abondance du code, coût par changement accepté, théorie des contraintes
@@ -715,6 +720,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
@@ -801,6 +807,8 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Qualité & Sécurité
 
+- [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
+- [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
 - [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
@@ -847,6 +855,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [DeepSeek Harness developer preview: Everything is a plugin](fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13.md) — **DeepSeek** (DeepSeek AI, laboratoire chinois), en tant qu'institution. Page produit **non signée** : aucun auteur, aucun ingénieur mis en avant, aucun billet de blog ni papier technique associé. Le « nous » n'apparaît qu'une fois, en dernière phrase — *« We look forward to exploring the limits of intelligence with developers worldwide »*. Publiée le **13 août 2026**. La page est rendue en JavaScript : `curl` sur l'URL renvoie **HTTP 202 avec un corps vide**, le texte n'existant qu'après exécution du bundle. Deux documents de politique sont liés en pied de page — *Safe Use Policy* et *Data Processing Statement*.
@@ -958,6 +967,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Stratégie & Frameworks
 
+- [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
 - [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
@@ -1045,6 +1055,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Recherche & Éducation
 
+- [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
 - [Diffusion Language Models Explained: How Google's Diffusion Gemma Works](fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12.md) — MindStudio Team
@@ -1100,25 +1111,25 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 399 fiches
-- **Par année** : 2026 (222) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 401 fiches
+- **Par année** : 2026 (224) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 147
   - Architecture & Construction : 54
-  - Transformation & Adoption : 83
-  - Qualité & Sécurité : 43
-  - Économie & Marché : 81
+  - Transformation & Adoption : 84
+  - Qualité & Sécurité : 45
+  - Économie & Marché : 82
   - Philosophie & Société : 24
-  - Stratégie & Frameworks : 28
+  - Stratégie & Frameworks : 29
   - Outils & Plateformes : 53
-  - Recherche & Éducation : 11
+  - Recherche & Éducation : 12
   - Produits & Services : 12
   - Politique & Régulation : 23
 - **Auteurs (top 20)** :
   - SFEIR (13)
-  - Ethan Mollick (11)
+  - Ethan Mollick (12)
+  - Anthropic (9)
   - Deep Research Veille Interne (9)
-  - Anthropic (8)
   - Chris Williams (7)
   - Philippe Ensarguet (6)
   - Addy Osmani (6)
@@ -1136,16 +1147,16 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Cobus Greyling (3)
   - Michael Nuñez (2)
 - **Sources (top 20)** :
-  - Anthropic (13)
+  - Anthropic (14)
   - SFEIR (12)
   - Deep Research (9)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)
   - Google (7)
   - OpenAI (6)
+  - One Useful Thing (5)
   - Ethan Mollick (4)
   - GitHub (4)
-  - One Useful Thing (4)
   - Block Engineering (3)
   - The Batch / DeepLearning.AI (3)
   - Addy Osmani (3)

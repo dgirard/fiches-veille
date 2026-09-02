@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 976 entités de type CONCEPT
+> 982 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -183,6 +183,7 @@
 - [[kb/_entites-mineures#Cross-system-labor\|Cross-system labor]] — définition: Travail humain de coordination entre systèmes (ERP, spreadsheet, free-text, judgment calls) — 100 Md$ US encore non capturé à 90%, automatisable par agentic AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cross-workflow-decision-context\|Cross-workflow decision context]] — définition: Nouveau moat agentic AI Bain — capacité transversale de voir et agir à travers plusieurs systèmes intégrés. Remplace system of record ownership comme avantage concurrentiel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Customer-Lifetime-Value\|Customer Lifetime Value]] — catégorie: KPI financier marketing (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Cyber-Verification-Program\|Cyber Verification Program]] — nature: Programme d'accès vérifié pour la cyberdéfense (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cycle-craft-compressé\|Cycle craft compressé]] — définition: Mécanisme structurel Chepurin/Turner — *(planning → crafting → result)* compressé en *(planning → result)*. Production de sens (craft) remplacée par consommation de sens (review) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DRH\|DRH]] — rôle_2026: Pivot de la transformation IA des DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — évolution: De constructeur à gouverneur de plateforme technologique (1 occ., 2 fiches)
@@ -290,6 +291,7 @@
 - [[kb/_entites-mineures#LAYS\|LAYS]] — définition: Learning-Adjusted Years of Schooling — métrique d'efficacité éducative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#LOC\|LOC]] — évaluation: Mauvaise mesure de productivité développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Langage-ubiquitaire\|Langage ubiquitaire]] — usage IA: Dictionnaire de domaine injecté dans le contexte de l'IA (.clinerules, templates) ; base de system prompt (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Life-Sciences-Verification-Program\|Life Sciences Verification Program]] — nature: Programme d'accès vérifié sciences du vivant, monté avec le gouvernement US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Limites-d'usage-IA\|Limites d'usage IA]] — description: Plafonds imposés par fournisseurs IA segmentant utilisateurs en gratuit/premium/API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Living-decision-surface\|Living decision surface]] — définition: Modèle évolutif des dynamiques de marché maintenu comme système opérationnel, pas comme rapport statique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Lock-in-de-l'intelligence-d'entreprise\|Lock-in de l'intelligence d'entreprise]] — risque: Configuration agentique (« adeo.md ») captive d'un fournisseur (1 occ., 1 fiches)
@@ -436,6 +438,7 @@
 - [[kb/_entites-mineures#Tension-prescriptif-vs-descriptif\|Tension prescriptif vs descriptif]] — description: DORA ROI 2026 recommande "do not adopt headcount-reduction strategy" (norme a priori) ; McKinsey assume publiquement réduction (200 postes) + remplacement par 20 000 agents (pratique a posteriori). Pivot de débat COMEX (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tensions-non-résolues-(Frizzo)\|Tensions non résolues (Frizzo)]] — détail: (1) FOMO, (2) Review quality at scale, (3) Skill atrophy — questions ouvertes que l'auteur pose sans trancher (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Button\|The Button]] — catégorie: Métaphore d'accès trivial à l'IA générative (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Grader\|The Grader]] — statut: Système d'évaluation imaginé par les agents, sans existence conforme à leur représentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Theory-of-Constraints\|Theory of Constraints]] — application: L'IA accélère une étape qui n'était pas le bottleneck, donc déplace le problème ailleurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-1-Constitution\|Tier 1 Constitution]] — catégorie: Hot memory — fichier Markdown 660 lignes toujours chargé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tier-2-Agents-spécialisés\|Tier 2 Agents spécialisés]] — catégorie: Domain experts — 19 specs, 9300 lignes (1 occ., 1 fiches)
@@ -453,6 +456,7 @@
 - [[kb/_entites-mineures#Trifecta-Mortelle\|Trifecta Mortelle]] — définition: données privées + contenu non fiable + exfiltration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trois-archétypes-ingénieurs-IA\|Trois archétypes ingénieurs IA]] — définition: (1) Copilot-only +10-25% PRs ; (2) Multi-outils story-points ×1.5-3, scope cross-repo +50-80% ; (3) Claude-on-corporate-stack volume code ×4.5, scope radicalement élargi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trois-principes-Lattice\|Trois principes Lattice]] — détail: (1) Skills over prompts, (2) Composability over monoliths, (3) Living context over static config (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Twilight-Factory\|Twilight Factory]] — définition: Atelier agentique où un agent facilitateur décide quand impliquer un humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Two-pizza-teams\|Two pizza teams]] — taille: 8-10 personnes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ULP\|ULP]] — définition: Unit in the last place : plus petit écart représentable entre deux flottants voisins, unité dans laquelle se mesurent les divergences entre bibliothèques mathématiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Underclass-permanente-d'intelligence\|Underclass permanente d'intelligence]] — thèse: Hiérarchie de classes d'accès dans un monde frontière fermé (1 occ., 1 fiches)
@@ -616,6 +620,7 @@
 - [[kb/_entites-mineures#crédit-Agent-SDK\|crédit Agent SDK]] — définition: Pool de facturation séparé annoncé par Anthropic pour l'usage agent et SDK tiers (20 $ / 100 $ / 200 $ selon le plan), facturé au plein tarif API — annoncé pour le 15 juin 2026 puis suspendu (2 occ., 2 fiches)
 - [[kb/_entites-mineures#crédits-SLA\|crédits SLA]] — usage: compensation et reconstruction de confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] — durée: Modèles actuels capables de tourner 30h en continu (1 occ., 1 fiches)
+- [[kb/_entites-mineures#dark-factory\|dark factory]] — définition: Atelier où les machines font tant du travail que l'on peut éteindre les lumières (1 occ., 1 fiches)
 - [[kb/_entites-mineures#data-flywheel\|data flywheel]] — rôle: Boucle feedback temps réel pour fine-tuning (1 occ., 1 fiches)
 - [[kb/_entites-mineures#demande-latente\|demande latente]] — source: Observation des usages imprévus ("abuse") par les utilisateurs avancés (2 occ., 2 fiches)
 - [[kb/_entites-mineures#design-comme-différenciateur\|design comme différenciateur]] — définition: Doctrine Block : apporter le design à une catégorie qui n'en avait pas change qui se sent invité à l'utiliser (1 occ., 1 fiches)
@@ -932,6 +937,7 @@
 - [[kb/_entites-mineures#truth-registry\|truth registry]] — rôle: Couche sémantique + gouvernance pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] — volume: 500k+ vidéos publiées 2024-2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] — principe: Décomposition fine des user stories pour réduire l'ambiguïté LLM (1 occ., 1 fiches)
+- [[kb/_entites-mineures#tâches-impossibles\|tâches impossibles]] — effet: Déclencheur observé des comportements de contournement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-augmentatif\|usage augmentatif]] — définition: collaboration homme-IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-directif\|usage directif]] — définition: tâche entièrement déléguée à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)

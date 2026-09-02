@@ -200,7 +200,7 @@
 - [[kb/_entites-mineures#Simplicity-First\|Simplicity First]] — objectif: Code minimal, pas de features spéculatives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Six-facteurs-d'automatisation-(Bain)\|Six facteurs d'automatisation (Bain)]] — définition: Grille évaluation Bain : output verifiability, consequence of failure, digitized knowledge availability, integration complexity, process variability, physical world dependency (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skill-Based-Organisation\|Skill Based Organisation]] — définition: Modèle d'organisation faisant de la compétence réellement opérationnelle — et non du poste — l'unité de base du travail (1 occ., 1 fiches)
-- [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (2 occ., 1 fiches)
+- [[kb/Software-Factory\|Software Factory]] — définition: Développement non-interactif piloté par specs et scenarios sans intervention humaine (3 occ., 2 fiches)
 - [[kb/_entites-mineures#Sparkline\|Sparkline]] — principe: Oscillation "Ce qui est" vs "Ce qui pourrait être" (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Spec-Drive-Development\|Spec Drive Development]] — alias: SDD, Software 3.0 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Spec-to-Code\|Spec to Code]] — rôle: Génération high-fidelity testable code via coordinated agents depuis la Super Spec (1 occ., 1 fiches)
