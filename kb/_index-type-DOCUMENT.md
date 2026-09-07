@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 147 entités de type DOCUMENT
+> 148 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -35,7 +35,8 @@
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] — type: Livre, nommé meilleur livre 2024 par Amazon et The Economist (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] — type: Handbook de référence (Every Source Code + guide complet) (1 occ., 1 fiches)
-- [[kb/DORA-2025\|DORA 2025]] — apport: L'IA comme « amplificateur » des forces et dysfonctionnements (2 occ., 2 fiches)
+- [[kb/DORA-2025\|DORA 2025]] — apport: L'IA comme « amplificateur » des forces et dysfonctionnements (3 occ., 3 fiches)
+- [[kb/_entites-mineures#DataGen\|DataGen]] — catégorie: Podcast francophone tech/data animé par Robin Conquet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DeepResearch-Bench\|DeepResearch-Bench]] — référence: Classement public de harnais de deep research ; la position de tête revendiquée par hyperresearch est une projection prospective auto-administrée, validation tierce en attente (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EU-AI-Act\|EU AI Act]] — catégorie: Réglementation européenne sur l'IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Enterprise-Integration-Patterns\|Enterprise Integration Patterns]] — catégorie: Livre de référence de Hohpe (patterns d'intégration) (1 occ., 1 fiches)

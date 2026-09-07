@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 401 fiches | 1975-12 → 2026-09-01 | généré le 2026-09-02
+> 402 fiches | 1975-12 → 2026-09-06 | généré le 2026-09-07
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -8,6 +8,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### 2026-09
 
+- **06** [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon). · SFEIR — IA agentique, plateformisation, domaines métier exposés par API
 - **01** [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle. · Anthropic — Claude Fable 5.1, Claude Mythos 5.1, modèle de fondation
 
 ### 2026-08
@@ -663,6 +664,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [Projects in Buzz](fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18.md) — **Thomas Petersen** — *« Principal Designer & Builder »* chez **Block**, auteur unique et signataire du billet ; première apparition dans le corpus. Publié le **18 août 2026** sur le blog **Block Engineering**. Troisième signature Block sur Buzz en un mois, après Tyler Longwell (21 juillet) et Atish Patel (6 août), et la première non-ingénieur.
@@ -720,6 +722,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
 - [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
@@ -855,6 +858,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
@@ -1111,14 +1115,14 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 401 fiches
-- **Par année** : 2026 (224) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 402 fiches
+- **Par année** : 2026 (225) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 147
-  - Architecture & Construction : 54
-  - Transformation & Adoption : 84
+  - Architecture & Construction : 55
+  - Transformation & Adoption : 85
   - Qualité & Sécurité : 45
-  - Économie & Marché : 82
+  - Économie & Marché : 83
   - Philosophie & Société : 24
   - Stratégie & Frameworks : 29
   - Outils & Plateformes : 53
@@ -1148,7 +1152,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
   - Michael Nuñez (2)
 - **Sources (top 20)** :
   - Anthropic (14)
-  - SFEIR (12)
+  - SFEIR (13)
   - Deep Research (9)
   - LinkedIn (7)
   - voodootikigod.com (Chris Williams) (7)

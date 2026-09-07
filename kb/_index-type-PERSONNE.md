@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 504 entités de type PERSONNE
+> 506 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -310,7 +310,6 @@
 - [[kb/_entites-mineures#Martín-De-Simone\|Martín De Simone]] — rôle: Auteur principal, chercheur Banque Mondiale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mathias-Garcia\|Mathias Garcia]] — rôle: Étudiant HEC Paris, fondateur Presti, créateur Mistral AI CLI (1 occ., 1 fiches)
 - [[kb/Mathieu-Eveillard\|Mathieu Eveillard]] — rôle: Développeur / coach craft / formateur français, blog personnel mathieueveillard.com, services Accompagnement et Office hours, newsletter hebdomadaire (1 occ., 1 fiches)
-- [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] — rôle: Global CDO groupe Adeo (Digital Tech & Data), 26 ans dans la boîte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Garman\|Matt Garman]] — rôle: Directeur général (CEO) d'Amazon Web Services (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Kamelman\|Matt Kamelman]] — rôle: Auteur Thoughtworks blog, formalisateur du concept Service-as-Software (SaS) en décembre 2025. Profil public peu documenté hors Thoughtworks (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matt-Mathew\|Matt Mathew]] — rôle: Sr Staff Engineer chez Uber, co-auteur principal de l'article *Solving the Identity Crisis for AI Agents* (2026-05-21) (1 occ., 1 fiches)
@@ -319,6 +318,7 @@
 - [[kb/Matthew-Connelly\|Matthew Connelly]] — rôle: Vice-doyen pour les initiatives IA, Columbia University (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Diakonov\|Matthew Diakonov]] — rôle: Ingénieur et entrepreneur, auteur de l'analyse estimant à 15-30× la subvention de l'usage agentique par l'abonnement Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Matthew-Kropp\|Matthew Kropp]] — rôle: Managing Director & Senior Partner BCG, CTO BCG X, BCG Henderson Institute Fellow (1 occ., 1 fiches)
+- [[kb/Matthieu-Grymonprez\|Matthieu Grymonprez]] — rôle: Dirige le digital, la tech et la data du groupe Adeo (2 occ., 2 fiches)
 - [[kb/Max-Kanat-Alexander\|Max Kanat-Alexander]] — rôle: Executive Distinguished Engineer, Capital One (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Max-Schrems\|Max Schrems]] — rôle: Expert protection données / Activiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Max-Thilén\|Max Thilén]] — rôle: Analyste e-commerce, auteur guide Opascope (1 occ., 1 fiches)
@@ -395,8 +395,10 @@
 - [[kb/_entites-mineures#Robby-Stein\|Robby Stein]] — rôle: VP of Product, Google Search (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robert-Cialdini\|Robert Cialdini]] — rôle: Auteur des Principes d'Influence, co-auteur étude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Robert-Lucas\|Robert Lucas]] — rôle: Économiste, auteur de la critique de Lucas (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Robin-Conquet\|Robin Conquet]] — rôle: Animateur du podcast DataGen (1 occ., 1 fiches)
 - [[kb/Rod-Johnson\|Rod Johnson]] — rôle: Créateur Spring Framework, Fondateur Embabel (1 occ., 1 fiches)
 - [[kb/Rohit-(@rohit4verse)\|Rohit (@rohit4verse)]] — rôle: Créateur de contenu IA sur X, auteur de la 2026 AI engineer roadmap (1 occ., 1 fiches)
+- [[kb/Romain-Taillade\|Romain Taillade]] — rôle: Global CTO de Decathlon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Roman-Gushchin\|Roman Gushchin]] — rôle: Développeur kernel (linux.dev) ; défend dans le thread l'usage des LLM pour aider les mainteneurs, contre une position jugée « très anti-LLM » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Romano-Guardini\|Romano Guardini]] — rôle: Théologien et philosophe italo-allemand (1885-1968), auteur de *La fin des temps modernes* (1950) — cité par Léon XIV (n. 93) : *« L'homme moderne n'a pas reçu l'éducation nécessaire pour faire un bon usage de son pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rosalie-Zandona\|Rosalie Zandona]] — rôle: VP People & Culture chez SFEIR ; à l'origine de la bascule en Skill Based Organisation (1 occ., 1 fiches)

@@ -1,11 +1,12 @@
 # Harness engineering
 
-> **Type** : METHODOLOGIE | 10 relations | 4 fiches sources
+> **Type** : METHODOLOGIE | 11 relations | 5 fiches sources
 
 ## Attributs
 
 - **catégorie** : Pratique d'ingénierie pour construire la confiance dans les agents de codage
 - **définition** : Couche déterministe de contrôle, garde-fous, structuration des informations injectées à l'IA et vérification du code produit
+- **périmètre** : Environnement de développement, sandbox, skills sur lesquels les équipes construisent
 - **période_dominante** : 2026
 
 ## Relations (comme sujet)
@@ -25,6 +26,11 @@
 
 - [[kb/context-engineering\|Context engineering]] (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
+
+### permet
+
+- « démarrage agentique encadré (environnement de développement, sandbox, skills) » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### remplace
 
@@ -49,3 +55,4 @@
 - [[fiches/2026-04/boeckeler-harness-engineering-coding-agents-2026-04-02\|Harness engineering for coding agent users]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]
 - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]

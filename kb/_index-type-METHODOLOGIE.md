@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 417 entités de type METHODOLOGIE
+> 419 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -122,7 +122,7 @@
 - [[kb/_entites-mineures#Google-SRE\|Google SRE]] — domaine: gestion incidents et fiabilité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gouvernance-injectée\|Gouvernance injectée]] — définition: Couche "quasiment militaire" contraignant les agents — innovation centrale et barrière à l'entrée (1 occ., 1 fiches)
 - [[kb/HTML-(format-de-sortie-agent)\|HTML (format de sortie agent)]] — catégorie: Format préféré pour artefacts agentiques riches (specs, plans, rapports, éditeurs) (1 occ., 1 fiches)
-- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (5 occ., 4 fiches)
+- [[kb/Harness-engineering\|Harness engineering]] — catégorie: Pratique d'ingénierie pour construire la confiance dans les agents de codage (6 occ., 5 fiches)
 - [[kb/_entites-mineures#Hiring-refactoring-par-projets-adversariels\|Hiring refactoring par projets adversariels]] — exemple: Twitter clone agent vs 10 codecs red team — corroboration Sierra (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Hive\|Hive]] — définition: Équipe permanente de quelques agents nommés, chacun avec un rôle et une mémoire de persona qui accumule les préférences de l'utilisateur ; la valeur est cumulative, briefer l'agent devenant plus rapide que briefer une personne. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Human-Sandwich\|Human Sandwich]] — définition: Structure Shipper : Human (frame) → AI (execute) → Human (judge + extend). Valeur humaine déplacée vers les extrémités (1 occ., 1 fiches)
@@ -170,6 +170,7 @@
 - [[kb/_entites-mineures#Pizza-team\|Pizza team]] — définition: Équipe d'une dizaine de personnes (loi de Conway) ; autonomie, peu de mandats top-down (2 occ., 2 fiches)
 - [[kb/Plan-mode\|Plan mode]] — définition: Mode non-exécution pour planification et recherche codebase (7 occ., 7 fiches)
 - [[kb/_entites-mineures#Planner-Evaluator-split\|Planner-Evaluator split]] — définition: Pattern Anthropic : générateur et évaluateur séparés en agents distincts (les agents skewent positif sur leur propre travail) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Plateformisation\|Plateformisation]] — définition: Décomposition du SI en domaines métier plus petits exposés par API (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Platform-Engineering\|Platform Engineering]] — rôle: fondation pour débloquer valeur IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Playbook-3-phases-(Bain)\|Playbook 3 phases (Bain)]] — définition: (1) Assessment via 6 facteurs + sizing ; (2) Strategic Positioning data assets + adjacent workflows + actual operational maps ; (3) Execution build/buy/partner + restructure org + data foundations for agent readiness (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Principes-d'Influence\|Principes d'Influence]] — contenu: 7 principes : autorité, engagement, attrait, réciprocité, rareté, preuve sociale, unité (1 occ., 1 fiches)
@@ -213,6 +214,7 @@
 - [[kb/_entites-mineures#Sub-agents-maker-checker\|Sub-agents maker-checker]] — fonction: Vérificateur adversarial gardant le travail avant revue humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surgical-Changes\|Surgical Changes]] — objectif: Modifier uniquement le code lié à la demande (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Swarm\|Swarm]] — définition: Équipe jetable montée pour un projet borné (migration, montée de framework, gros refactor), qui accumule une mémoire partagée des cas particuliers du projet et est supprimée à la fin ; motif efficace : un SmartBee coordinateur, un pool de workers bon marché, un vérificateur indépendant, et une escalade qui remonte au coordinateur plutôt qu'à l'humain. Terme forgé par Block pour ce billet (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sécurité-par-zones\|Sécurité par zones]] — règle: Zéro agentique sur paiement, commande et supply chain ; feu vert là où le risque est nul (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TDD\|TDD]] — cycle: Red → Green → Refactor, un test à la fois (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Target-Operating-Model\|Target Operating Model]] — enjeu: À repenser pour l'ère agentique (équipes, process, culture data, métier) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Team-Topologies\|Team Topologies]] — auteurs: Matthew Skelton, Manuel Pais (1 occ., 1 fiches)
@@ -283,7 +285,7 @@
 - [[kb/_entites-mineures#code-freeze\|code freeze]] — définition: Gel des modifications de code et actions explicitement demandé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cohorte-fixe-d'applications\|cohorte fixe d'applications]] — définition: Même ensemble d'applications suivi en continu, pour que les variations reflètent le parc et non le portefeuille clients ; effectif non communiqué (1 occ., 1 fiches)
 - [[kb/content-engineering\|content engineering]] — définition: Industrialisation du process éditorial via skills + MCP (1 occ., 1 fiches)
-- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (6 occ., 6 fiches)
+- [[kb/context-engineering\|context engineering]] — définition: Fournir aux agents un contexte riche et structuré (6 types ; statique vs dynamique) (7 occ., 7 fiches)
 - [[kb/_entites-mineures#correction-harvesting\|correction harvesting]] — définition: Agents planifiés scannant les canaux pour drafter des fixes markdown (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cross-validation-multi-agents\|cross-validation multi-agents]] — objectif: Détecter incohérences et hallucinations entre agents IA (1 occ., 1 fiches)
 - [[kb/cycle-SFEIR-à-11-phases\|cycle SFEIR à 11 phases]] — définition: SDLC piloté par l'IA, phases 0-10, 3 portes humaines + 2 capitalisations (1 occ., 1 fiches)

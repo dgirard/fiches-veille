@@ -1,6 +1,6 @@
 # SFEIR
 
-> **Type** : ORGANISATION | 68 relations | 10 fiches sources
+> **Type** : ORGANISATION | 68 relations | 11 fiches sources
 
 ## Attributs
 
@@ -11,7 +11,7 @@
 - **positionnement** : « Amplifier l'IA plutôt que la subir » ; adoption comme levier vs pile de POCs
 - **posture** : Cabinet « AI Only », partenaire Google Cloud Premier ET Anthropic ; thèse : le modèle est une commodité, la valeur est dans le Context/Harness Engineering
 - **relation** : Groupe parent de WEnvision
-- **rôle** : Auteur de la synthèse (ESN / cabinet tech)
+- **rôle** : Éditeur de l'article (voix éditoriale du cabinet)
 - **secteur** : ESN / cabinet d'ingénierie logicielle (groupe SFEIR)
 
 ## Relations (comme sujet)
@@ -198,6 +198,7 @@
 - [[fiches/2026-06/girard-sfeir-ai4it-vs-ai4business-budgets-2027-2026-06-24\|AI4IT vs AI4Business : le renversement, et ce qu'il fait à vos budgets 2027]]
 - [[fiches/2025-10/habert-ia-agentique-production-2025-10-29\|IA agentique en production : les leçons de deux ans de déploiement]]
 - [[fiches/2026-06/rafal-wenvision-ingenierie-logicielle-ere-ia-tout-change-rien-ne-change-2026-06-01\|L'ingénierie logicielle à l'ère de l'IA : tout change... et rien ne change]]
+- [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 - [[fiches/2026-07/sfeir-anthropic-sdlc-ai-native-securise-2026-07-26\|Anthropic sécurise un SDLC où l'IA écrit 80 % du code : le cycle redevient le socle]]
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le Rôle de l'Architecte à l'Ère de l'Intelligence Artificielle]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]

@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2774 entités avec moins de 3 triples/fiches
+> 2778 entités avec moins de 3 triples/fiches
 
-## PERSONNE (373)
+## PERSONNE (374)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -2924,6 +2924,14 @@
 
 **Fiches** : [[fiches/1975-12/goodhart-law-mesure-cible-wikipedia-1975\|Goodhart's law]]
 
+### Robin Conquet {#Robin-Conquet}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Animateur du podcast DataGen
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
+
 ### Roman Gushchin {#Roman-Gushchin}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3738,7 +3746,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (300)
+## ORGANISATION (298)
 
 ### 10x {#10x}
 
@@ -3874,19 +3882,6 @@
 - **type** : Revue academique de reference en sciences du management
 
 **Fiches** : [[fiches/1975-12/kerr-folly-rewarding-a-hoping-b-academy-management-1975-12\|On the Folly of Rewarding A, While Hoping for B]]
-
-### Adeo {#Adeo}
-
-**Type** : ORGANISATION | 3 relations | 1 fiches
-
-- **secteur** : Retail bricolage / habitat (Leroy Merlin, Obramat, Weldom), actionnariat familial non coté
-
-- **affirme_que** → « "On ne va pas se refaire avoir (après le Retail Apocalypse)" » (CITATION) — 0.88
-
-- [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] **travaille_chez** → Adeo — 0.98
-- [[kb/Mathieu-Grymonprez\|Mathieu Grymonprez]] **dirige** → Adeo — 0.97
-
-**Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
 ### Agentic AI Foundation {#Agentic-AI-Foundation}
 
@@ -4570,16 +4565,6 @@
 - **secteur** : Data lakehouse / plateforme IA
 
 **Fiches** : [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
-
-### Decathlon {#Decathlon}
-
-**Type** : ORGANISATION | 1 relations | 1 fiches
-
-- **particularité** : Producteur d'une grande partie de ses produits → RFID end-to-end
-
-- **utilise** → RFID end-to-end (puce en entrée de chaîne industrielle) (TECHNOLOGIE) — 0.92
-
-**Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
 ### DeepMind {#DeepMind}
 
@@ -5327,13 +5312,14 @@
 
 ### Leroy Merlin {#Leroy-Merlin}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 2 fiches
 
-- **particularité** : Piloté au CA au mètre carré ; ne vend pas de matelas
+- **particularité** : Marketplace passée de 60 000 références en magasin à plusieurs millions en ligne
 
 - **mesure** → « chiffre d'affaires au mètre carré » (MESURE) — 0.90
+- **mesure** → « passage de 60 000 références en magasin à plusieurs millions en ligne » (MESURE) — 0.90
 
-**Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
+**Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]], [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### Les Échos {#Les-Échos}
 
@@ -13275,7 +13261,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (940)
+## CONCEPT (941)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14844,6 +14830,16 @@
 - [[kb/BMAD\|BMAD]] **s_applique_à** → DSI — 0.90
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]], [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
+
+### Data products certifiés {#Data-products-certifiés}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **usage** : Réponse d'Adeo aux 150 000 dashboards du self-service BI, avec data contracts
+
+- **résout** → prolifération de dashboards non gouvernés (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### Decision Layer {#Decision-Layer}
 
@@ -17044,6 +17040,18 @@
 
 **Fiches** : [[fiches/2026-04/ifttd-351-aws-summit-julien-lepine-2026-04-08\|IFTTD #351 - AWS Summit : Rester aux commandes des agents de code (avec Julien Lépine)]]
 
+### Sémantique data {#Sémantique-data}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **enjeu** : Une définition unique par concept métier, lisible par un agent ; attaque par verticales
+
+- **permet** → « exécution correcte des agents sur les concepts métier » (AFFIRMATION) — 0.90
+
+- [[kb/context-engineering\|Context engineering]] **s_applique_à** → Sémantique data — 0.88
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
+
 ### TCO (Total Cost of Ownership) {#TCO-(Total-Cost-of-Ownership)}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17621,13 +17629,15 @@
 
 ### agentic commerce {#agentic-commerce}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
-- **définition** : commerce géré de façon autonome par des agents IA
+- **définition** : L'agent du client devient un interlocuteur du retailer, après magasins, site et marketplace
+
+- **réduit** → maîtrise du parcours d'achat par le retailer (CONCEPT) — 0.88
 
 - [[kb/AP2\|AP2]] **fait_partie_de** → agentic commerce — 0.90
 
-**Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]]
+**Fiches** : [[fiches/2025-09/google-agentic-commerce-ap2-payment-protocol-2025-09-16\|google-agentic-commerce/AP2: Building a Secure and Interoperable Future for AI-Driven Payments]], [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### agents d'arrière-plan persistants {#agents-d'arrière-plan-persistants}
 
@@ -21250,20 +21260,6 @@
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
-### shadow AI {#shadow-AI}
-
-**Type** : CONCEPT | 3 relations | 2 fiches
-
-- **définition** : Usage massif de l'IA par les employés sans déclaration au management
-- **risque** : Usage non gouverné né de la démocratisation de la GenAI
-
-- **est_instance_de** → usage IA caché par les employés (CONCEPT) — 0.95
-- **mesure** → « environ 40% des dépenses applicatives IA » (MESURE) — 0.82
-
-- démocratisation de la GenAI **permet** → shadow AI — 0.90
-
-**Fiches** : [[fiches/2025-07/mollick-valence-ai-hr-playbook-leader-lab-crowd-2025-07-23\|Writing the AI-HR Playbook with Ethan Mollick]], [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
-
 ### shadow IT {#shadow-IT}
 
 **Type** : CONCEPT | 2 relations | 2 fiches
@@ -22324,7 +22320,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (363)
+## METHODOLOGIE (365)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -23762,6 +23758,19 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
+### Plateformisation {#Plateformisation}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **définition** : Décomposition du SI en domaines métier plus petits exposés par API
+
+- **permet** → « socle agentique : API de panier, API client, API de paiement avec le bon contrat » (AFFIRMATION) — 0.92
+
+- [[kb/Adeo\|Adeo]] **utilise** → Plateformisation — 0.93
+- [[kb/Decathlon\|Decathlon]] **utilise** → Plateformisation — 0.93
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
+
 ### Platform Engineering {#Platform-Engineering}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -24147,6 +24156,16 @@
 - **est_variante_de** → [[kb/_entites-mineures#Hive\|Hive]] (METHODOLOGIE) — 0.85
 
 **Fiches** : [[fiches/2026-08/patel-block-buzz-teams-tokens-benchmarks-2026-08-06\|Efficient Tokens & Effective Teams in Buzz]]
+
+### Sécurité par zones {#Sécurité-par-zones}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **règle** : Zéro agentique sur paiement, commande et supply chain ; feu vert là où le risque est nul
+
+- **s_applique_à** → « paiement, tunnel de commande et mouvements de supply chain » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### TDD {#TDD}
 
@@ -25977,7 +25996,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (47)
+## EVENEMENT (48)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -26078,6 +26097,16 @@
 - **description** : Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin
 
 **Fiches** : [[fiches/2026-04/karpathy-vibe-coding-agentic-engineering-software-3-0-2026-04-29\|Andrej Karpathy: From Vibe Coding to Agentic Engineering]]
+
+### Dev Summit Adeo Decathlon 2026 {#Dev-Summit-Adeo-Decathlon-2026}
+
+**Type** : EVENEMENT | 1 relations | 1 fiches
+
+- **périmètre** : Lille, 26-28 mai 2026, plus de 2 000 collaborateurs, premier Dev Summit commun
+
+- [[kb/_entites-mineures#DataGen\|DataGen]] **observé_dans** → Dev Summit Adeo Decathlon 2026 — 0.92
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### EMNLP2025 {#EMNLP2025}
 
@@ -26479,7 +26508,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (126)
+## DOCUMENT (127)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26759,6 +26788,16 @@
 - [[kb/Kieran-Klaassen\|Kieran Klaassen]] **publie** → Compound Engineering: The Definitive Guide — 0.98
 
 **Fiches** : [[fiches/2026-02/klaassen-compound-engineering-definitive-guide-every-2026-02-09\|Compound Engineering: The Definitive Guide]]
+
+### DataGen {#DataGen}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **catégorie** : Podcast francophone tech/data animé par Robin Conquet
+
+- **observé_dans** → [[kb/_entites-mineures#Dev-Summit-Adeo-Decathlon-2026\|Dev Summit Adeo Decathlon 2026]] (EVENEMENT) — 0.92
+
+**Fiches** : [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique]]
 
 ### DeepResearch-Bench {#DeepResearch-Bench}
 

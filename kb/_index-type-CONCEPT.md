@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 982 entités de type CONCEPT
+> 984 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -187,6 +187,7 @@
 - [[kb/_entites-mineures#Cycle-craft-compressé\|Cycle craft compressé]] — définition: Mécanisme structurel Chepurin/Turner — *(planning → crafting → result)* compressé en *(planning → result)*. Production de sens (craft) remplacée par consommation de sens (review) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DRH\|DRH]] — rôle_2026: Pivot de la transformation IA des DSI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DSI\|DSI]] — évolution: De constructeur à gouverneur de plateforme technologique (1 occ., 2 fiches)
+- [[kb/_entites-mineures#Data-products-certifiés\|Data products certifiés]] — usage: Réponse d'Adeo aux 150 000 dashboards du self-service BI, avec data contracts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decision-Layer\|Decision Layer]] — catégorie: couche raisonnement séparée de l'orchestration LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Decision-rationale\|Decision rationale]] — attribut: Un des actifs les plus périssables de l'entreprise : vit dans Slack, emails, escalation calls et la tête des gens qui partent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Design-drift\|Design drift]] — catégorie: Phénomène de dérive de cohérence design entre prompts successifs (1 occ., 1 fiches)
@@ -405,6 +406,7 @@
 - [[kb/_entites-mineures#Senior-architects-return-to-active-development\|Senior architects return to active development]] — source: Observation Tatsyi — convergence avec Cherny "best accountant writes accounting software" et Karpathy reduction friction to creation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-as-Software\|Service-as-Software]] — définition: Nouveau modèle économique succédant au SaaS. SaaS = software vendant des tools pour permettre aux humains de résoudre des problèmes ; SaS = software automatisant le raisonnement et vendant des outcomes. Pricing basé sur "demonstrated alignment and impact" plutôt que seats/features. Concept canonique 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Service-as-Software-(version-pricing)\|Service-as-Software (version pricing)]] — catégorie: Glissement tarifaire — ancrage salaires plutôt que SaaS (1 occ., 1 fiches)
+- [[kb/Shadow-AI\|Shadow AI]] — risque: Production agentique hors cadre → fragmentation du SI et réconciliation impossible (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Shadow-AI-economy\|Shadow AI economy]] — définition: Usage massif (90% des employés) d'outils IA personnels non sanctionnés par l'employeur (1 occ., 1 fiches)
 - [[kb/Shadow-intimacy\|Shadow intimacy]] — définition: Dépendance à l'IA qui se forme dans l'entreprise, hors de sa conscience, sans responsable désigné (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Share-Of-Answers\|Share Of Answers]] — définition: Fréquence d'apparition d'un produit dans les réponses IA (1 occ., 1 fiches)
@@ -429,6 +431,7 @@
 - [[kb/_entites-mineures#Supervision-adaptative\|Supervision adaptative]] — pilier: Pilier 4 de l'agentique adaptative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Superworker\|Superworker]] — définition: Concept Bersin : employé augmenté par l'IA, mode bottom-up (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Surcharge-cognitive\|Surcharge cognitive]] — risque: Burn-out à l'ère agentique ; un client réduit volontairement sa cadence de bolts (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Sémantique-data\|Sémantique data]] — enjeu: Une définition unique par concept métier, lisible par un agent ; attaque par verticales (1 occ., 1 fiches)
 - [[kb/_entites-mineures#TCO-(Total-Cost-of-Ownership)\|TCO (Total Cost of Ownership)]] — rôle: Cadre de décision local vs cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tailwinds-AI\|Tailwinds AI]] — définition: (1) Productivity sales/marketing/R&D ; (2) Transformations réussies = +10-25% EBITDA ; (3) Outcome-based pricing fixed seats → labor/operations ; (4) Incumbents avantage customer relationships + embedded workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Talent-Density\|Talent Density]] — définition: Concept Bersin : nouveau process de talent management combinant pay, titles, redeployment (1 occ., 1 fiches)
@@ -489,7 +492,7 @@
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
-- [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: commerce géré de façon autonome par des agents IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: L'agent du client devient un interlocuteur du retailer, après magasins, site et marketplace (2 occ., 2 fiches)
 - [[kb/_entites-mineures#agents-d'arrière-plan-persistants\|agents d'arrière-plan persistants]] — définition: Sous-agents spécialisés maintenus actifs pendant toute une session au lieu d'être créés par tâche, ce qui évite de refaire la même collecte d'information et laisse à l'agent le choix du moment où il remonte au principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] — rôle: Détection de communautés appliquée au graphe de code pour en dégager des sous-systèmes, avec labellisation sans modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ambient-authority\|ambient authority]] — définition: Vecteur d'attaque agentique : un agent se voit accorder les permissions complètes, souvent surprovisionnées, de son utilisateur humain — l'exfiltration ne requiert alors aucune escalade de privilèges (1 occ., 1 fiches)
@@ -870,7 +873,6 @@
 - [[kb/_entites-mineures#session-architecte\|session architecte]] — responsabilité: Conception, planification et revue du travail de l'implémenteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#session-implémenteur\|session implémenteur]] — responsabilité: Exécution du plan et écriture du code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#setting-time-on-fire\|setting time on fire]] — catégorie: Signalement d'effort par le temps consacré (1 occ., 1 fiches)
-- [[kb/_entites-mineures#shadow-AI\|shadow AI]] — risque: Usage non gouverné né de la démocratisation de la GenAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#shadow-IT\|shadow IT]] — description: Applications non gouvernées créées hors du contrôle IT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#share_via_dm-+-share_via_copy_link\|share_via_dm + share_via_copy_link]] — définition: Variantes share distinctes (indices 8, 9) qui mesurent le forward privé vs public, signaux haute valeur pour pricing teardowns / product comparisons / controversy forwarded privately (1 occ., 1 fiches)
 - [[kb/_entites-mineures#signal-avancé-d'usage\|signal avancé d'usage]] — définition: Statut épistémique revendiqué pour les données d'usage IA : indicateur de recomposition des métiers visible avant les fiches de poste, les intitulés et les statistiques du marché du travail (1 occ., 1 fiches)

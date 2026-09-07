@@ -1,6 +1,6 @@
 # Index — EVENEMENT
 
-> 50 entités de type EVENEMENT
+> 51 entités de type EVENEMENT
 
 - [[kb/_entites-mineures#100%-code-généré-(Cherny)\|100% code généré (Cherny)]] — description: Depuis octobre/novembre 2025, Cherny écrit 0% manuel — modèle écrit l'intégralité de son code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#200-postes-tech-supprimés-nov-2024\|200 postes tech supprimés nov 2024]] — description: Réduction d'effectif McKinsey nov 2024, ~0,5% des humains. Petit relatif vs ampleur déclaration mais signal directionnel (1 occ., 1 fiches)
@@ -13,6 +13,7 @@
 - [[kb/_entites-mineures#Contrainte-verbosité\|Contrainte verbosité]] — impact_mesuré: -3% intelligence (Opus 4.6 et 4.7) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DX-Annual-2026\|DX Annual 2026]] — catégorie: Conférence productivité développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#December-2025-transition\|December 2025 transition]] — description: Bascule observée par Karpathy : workflow agentique cohérent qui fonctionne enfin (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Dev-Summit-Adeo-Decathlon-2026\|Dev Summit Adeo Decathlon 2026]] — périmètre: Lille, 26-28 mai 2026, plus de 2 000 collaborateurs, premier Dev Summit commun (1 occ., 1 fiches)
 - [[kb/Digital-Omnibus\|Digital Omnibus]] — catégorie: Projet révision RGPD (156 pages) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#EMNLP2025\|EMNLP2025]] — type: Conférence majeure NLP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#FinOps-X-2026\|FinOps X 2026]] — date: 8-11 juin 2026, San Diego (1 occ., 1 fiches)
