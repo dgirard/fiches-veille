@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 506 entités de type PERSONNE
+> 508 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -141,6 +141,7 @@
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] — rôle: Lead CIO practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] — rôle: Psychologue social, auteur de la loi de Campbell (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ebony-Louis\|Ebony Louis]] — rôle: Developer Advocate, Block/Goose (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Ed-Zitron\|Ed Zitron]] — rôle: Critique de la bulle des capex IA ; monologues vidéo sans visuels (1 occ., 1 fiches)
 - [[kb/Edgar-Kussberg\|Edgar Kussberg]] — rôle: Group Product Manager, Sonar (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Edward-Tufte\|Edward Tufte]] — domaine: Visualisation de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Elliot-Greenwald\|Elliot Greenwald]] — rôle: Auteur du billet fondateur Sierra sur l'outcome-based pricing (10 déc. 2024) (1 occ., 1 fiches)
@@ -301,7 +302,7 @@
 - [[kb/_entites-mineures#Mark-Raasveldt\|Mark Raasveldt]] — rôle: Co-créateur de DuckDB, ancien chercheur au CWI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Tyson\|Mark Tyson]] — rôle: Éditeur de news, Tom's Hardware (1 occ., 1 fiches)
 - [[kb/Mark-Zuckerberg\|Mark Zuckerberg]] — rôle: Fondateur et PDG de Meta ; auteur du manifeste « The Future is for Everyone » (10 août 2026), qui pose l'autonomisation individuelle, l'invention et l'équilibre des pouvoirs comme doctrine de la superintelligence, et soutient qu'il n'existe pas de superintelligence singulière bienveillante (2 occ., 2 fiches)
-- [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Auteur et penseur du génie logiciel (3 occ., 3 fiches)
+- [[kb/Martin-Fowler\|Martin Fowler]] — rôle: Éditeur du site hôte, auteur du terme « infodeck », relecture éditoriale de l'article (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Martin-Gauthier\|Martin Gauthier]] — rôle: Journaliste signataire de la synthèse pour Courrier International (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Martin-Harrison\|Martin Harrison]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
 - [[kb/Martin-Monperrus\|Martin Monperrus]] — rôle: Chercheur en génie logiciel (KTH), auteur du papier (1 occ., 1 fiches)
@@ -449,6 +450,7 @@
 - [[kb/Steven-Kerr\|Steven Kerr]] — role: Chercheur en comportement organisationnel, Ohio State University (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Steven-Shaw\|Steven Shaw]] — rôle: Co-auteur étude Wharton/UPenn sur cognitive offloading vs surrender (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stéphane-Bancel\|Stéphane Bancel]] — rôle: CEO de Moderna (1 occ., 1 fiches)
+- [[kb/Sumeet-Gayathri-Moghe\|Sumeet Gayathri Moghe]] — rôle: Global head of culture and organisational design chez Thoughtworks ; ex-business analyst, product manager et consultant en transformation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sun-Tzu\|Sun Tzu]] — rôle: Source d'inspiration historique (stratégie militaire) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sundar-Pichai\|Sundar Pichai]] — rôle: CEO Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Swyx\|Swyx]] — rôle: Auteur graphique latence-autonomie agents (1 occ., 1 fiches)

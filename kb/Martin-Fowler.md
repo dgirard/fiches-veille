@@ -1,10 +1,10 @@
 # Martin Fowler
 
-> **Type** : PERSONNE | 7 relations | 3 fiches sources
+> **Type** : PERSONNE | 9 relations | 4 fiches sources
 
 ## Attributs
 
-- **rôle** : Auteur et penseur du génie logiciel
+- **rôle** : Éditeur du site hôte, auteur du terme « infodeck », relecture éditoriale de l'article
 
 ## Relations (comme sujet)
 
@@ -12,6 +12,8 @@
 
 - [[kb/_entites-mineures#bounded-contexts\|bounded contexts]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering Needs Domain Understanding]]
+- [[kb/_entites-mineures#Infodeck\|Infodeck]] (CONCEPT) — 0.92, STATIQUE
+  - [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### affirme_que
 
@@ -27,6 +29,11 @@
 - [[kb/_entites-mineures#Thoughtworks-Future-of-Software-Development-Retreat\|Thoughtworks Future of Software Development Retreat]] (EVENEMENT) — 0.98, STATIQUE
   - [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]]
 
+### référence
+
+- [[kb/_entites-mineures#Never-Send-The-Slides\|Never Send The Slides]] (DOCUMENT) — 0.90, STATIQUE
+  - [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
 ### s_oppose_à
 
 - enquêtes IA actuelles (CONCEPT) — 0.94, STATIQUE
@@ -41,4 +48,5 @@
 
 - [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]]
 - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+- [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 - [[fiches/2026-02/openai-harness-engineering-codex-agent-first-2026-02-13\|Harness engineering: leveraging Codex in an agent-first world]]

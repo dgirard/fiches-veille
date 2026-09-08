@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2778 entités avec moins de 3 triples/fiches
+> 2790 entités avec moins de 3 triples/fiches
 
-## PERSONNE (374)
+## PERSONNE (375)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1055,6 +1055,16 @@
 - **publie** → article MCP-UI agentic interfaces (DOCUMENT) — 0.98
 
 **Fiches** : [[fiches/2025-08/block-goose-mcp-ui-future-agentic-interfaces-2025-08-25\|Block's Goose and the Future of Agentic Interfaces via Model Context Protocol]], [[fiches/2025-08/mcp-ui-future-agentic-interfaces-goose-2025-08-25\|MCP-UI: The Future of Agentic Interfaces]]
+
+### Ed Zitron {#Ed-Zitron}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Critique de la bulle des capex IA ; monologues vidéo sans visuels
+
+- **utilise** → monologue vidéo sans visuels (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### Edward Tufte {#Edward-Tufte}
 
@@ -3746,7 +3756,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (298)
+## ORGANISATION (299)
 
 ### 10x {#10x}
 
@@ -4627,6 +4637,16 @@
 - [[kb/John-Cutler\|John Cutler]] **travaille_chez** → Dotwork — 0.97
 
 **Fiches** : [[fiches/2025-10/cutler-teams-dont-escalate-leaders-linkedin-2025-10-03\|Why Teams Don't Escalate (and What Leaders Can Do About It)]]
+
+### Duarte Design {#Duarte-Design}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **production** : Ebook « Slidedocs », catalogue de patterns de mise en page
+
+- **publie** → Slidedocs (DOCUMENT) — 0.90
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### DuckDB Foundation {#DuckDB-Foundation}
 
@@ -6806,7 +6826,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (620)
+## TECHNOLOGIE (623)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7469,6 +7489,17 @@
 - [[kb/ACE\|ACE]] **améliore** → AppWorld — 0.93
 
 **Fiches** : [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
+
+### Applications web interactives {#Applications-web-interactives}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **limite** : Pas de commentaire inline natif ; hébergement et durée de vie incertains ; sans état, utilité réduite
+
+- **réduit** → [[kb/_entites-mineures#Charge-cognitive\|Charge cognitive]] (CONCEPT) — 0.89
+- **s_oppose_à** → commentaire inline natif des wikis et documents collaboratifs (CONCEPT) — 0.85
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### Arc {#Arc}
 
@@ -9303,6 +9334,16 @@
 - **rôle** : Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt
 
 **Fiches** : [[fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24\|When code is abundant]]
+
+### Grammarly {#Grammarly}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Outil d'aide à l'écriture ; codifie un style et un niveau de lisibilité visé
+
+- **améliore** → lisibilité et style de l'écriture (CONCEPT) — 0.86
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### Grok {#Grok}
 
@@ -11533,6 +11574,18 @@
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|PROJ-AI — pour que vos projets ne s'arrêtent plus au livrable (Un repo, un agent, un IDE — pourquoi PROJ-AI ?)]]
 
+### Slideware {#Slideware}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **catégorie** : PowerPoint, Keynote, Canva, Google Slides — interface de mise en page ubiquitaire
+
+- **permet** → « mise en page accessible aux non-designers (calques, WYSIWYG) » (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Document-linéaire\|Document linéaire]] **surpasse** → Slideware — 0.90
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
 ### Smart CRM {#Smart-CRM}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13261,7 +13314,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (941)
+## CONCEPT (946)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14339,6 +14392,16 @@
 
 **Fiches** : [[fiches/2022-06/hohpe-platformcon-magic-of-platforms-floating-platforms-2022-06\|The Magic of Platforms]]
 
+### Charge cognitive {#Charge-cognitive}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **levier** : Chunking, interactions exploratoires, questions de réflexion
+
+- [[kb/_entites-mineures#Applications-web-interactives\|Applications web interactives]] **réduit** → Charge cognitive — 0.89
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
 ### Chatbot {#Chatbot}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -14970,6 +15033,17 @@
 - **mesure** → « médiane committée 3-5×, tail élite 10×+ » (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### Document linéaire {#Document-linéaire}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **vertu** : Force à faire le pont entre les sections ; artefact autoportant à faible contexte
+
+- **surpasse** → [[kb/_entites-mineures#Slideware\|Slideware]] (TECHNOLOGIE) — 0.90
+- **réduit** → « probabilité d'hallucination lors d'un résumé par LLM » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### Drift {#Drift}
 
@@ -15623,6 +15697,20 @@
 - **définition** : Les outils vendors externes réussissent 2x plus souvent que les builds internes
 
 **Fiches** : [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
+
+### Infodeck {#Infodeck}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Document mis en page dans une interface de slides, pour du « light reading » ; ni slideument ni support de présentation
+
+- **s_applique_à** → « contenu à longue durée de vie méritant un soin visuel » (AFFIRMATION) — 0.91
+
+- [[kb/Martin-Fowler\|Martin Fowler]] **a_créé** → Infodeck — 0.92
+- [[kb/_entites-mineures#Slidedoc\|Slidedoc]] **est_variante_de** → Infodeck — 0.90
+- [[kb/Thoughtworks\|Thoughtworks]] **utilise** → Infodeck — 0.88
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### Instant Checkout {#Instant-Checkout}
 
@@ -16483,6 +16571,16 @@
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
 
+### Présentation live {#Présentation-live}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **condition** : Réservée à la présence synchrone : influence, objections en temps réel, pitch, célébration
+
+- **s_applique_à** → « influence et traitement des objections en présence synchrone » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
 ### Public wealth fund {#Public-wealth-fund}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -16909,6 +17007,16 @@
 - **définition** : Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+
+### Slidedoc {#Slidedoc}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **origine** : Nom donné par Duarte Design à l'infodeck
+
+- **est_variante_de** → [[kb/_entites-mineures#Infodeck\|Infodeck]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### SmartBee {#SmartBee}
 
@@ -26508,7 +26616,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (127)
+## DOCUMENT (129)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -27145,6 +27253,17 @@
 
 **Fiches** : [[fiches/2026-07/lassiege-usine-logicielle-heure-ia-2026-07-28\|Mon usine logicielle à l'heure de l'IA]]
 
+### Never Send The Slides {#Never-Send-The-Slides}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **catégorie** : Série d'articles sur martinfowler.com ; « Do you even need a presentation? » en est le premier volet
+
+- [[kb/Sumeet-Gayathri-Moghe\|Sumeet Gayathri Moghe]] **publie** → Never Send The Slides — 0.97
+- [[kb/Martin-Fowler\|Martin Fowler]] **référence** → Never Send The Slides — 0.90
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
+
 ### PORTING.md / LIFETIMES.tsv {#PORTING.md-LIFETIMES.tsv}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -27409,6 +27528,16 @@
 - [[kb/Dean-W.-Ball\|Dean W. Ball]] **référence** → The Art of Not Being Governed — 0.90
 
 **Fiches** : [[fiches/2026-07/deanwball-open-weights-decelerationnistes-kimi-2026-07-17\|Some observations on Kimi (thread X)]]
+
+### The Async-First Playbook {#The-Async-First-Playbook}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **auteur** : Livre de Sumeet Gayathri Moghe ; sa bibliothèque de diagrammes a été faite sous Keynote
+
+- [[kb/Sumeet-Gayathri-Moghe\|Sumeet Gayathri Moghe]] **publie** → The Async-First Playbook — 0.90
+
+**Fiches** : [[fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08\|Do you even need a presentation?]]
 
 ### The Batch n°352 {#The-Batch-n°352}
 

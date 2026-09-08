@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 984 entités de type CONCEPT
+> 989 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -130,6 +130,7 @@
 - [[kb/_entites-mineures#Case-study-banque-européenne-régulée-IA\|Case study banque européenne régulée IA]] — description: Tatsyi/Raiffeisen Bank Ukraine 2026-05 — corpus encore rare en 2026 où dominent les retours Silicon Valley (Cherny, Curran, Stripe) ; complémentaire Frizzo (individuel) et Wescale (cabinet FR) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Caveat-20-80-(HABERT)\|Caveat 20/80 (HABERT)]] — source: "Technology is 20%, team discipline is 80%" — refus explicite solutionnisme technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Centralize-expertise-not-innovation\|Centralize expertise not innovation]] — définition: Principe canonique cité par Hohpe (attribué à Peter / Thoughtworks) — la plateforme évite la réinvention de la roue (expertise commune) mais laisse l'innovation aux équipes proches du client (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Charge-cognitive\|Charge cognitive]] — levier: Chunking, interactions exploratoires, questions de réflexion (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chatbot\|Chatbot]] — niveau: 1 — conversation sans contexte embarqué (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-clés-systémiques-d'adoption\|Cinq clés systémiques d'adoption]] — définition: Trust + Platform + Data + Users + Guardrails — capabilities organisationnelles qui transforment l'adoption en valeur financière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-collaboration-patterns-(Lattice)\|Cinq collaboration patterns (Lattice)]] — source: Série d'articles martinfowler.com par techygarg expliquant les patterns sous-jacents au framework (1 occ., 1 fiches)
@@ -202,6 +203,7 @@
 - [[kb/_entites-mineures#Distillation\|Distillation]] — position auteur: Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Distribution\|Distribution]] — rôle: Facteur clé de succès dans l'industrie tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Distribution-productivité-IA\|Distribution productivité IA]] — description: Hypothèse féconde : la distribution se resserre par le bas (Tatsyi : underperformers→baseline) ET s'élargit par le haut (Cherny 150 PRs/jour, Curran top 5% à 6× median, Karpathy "peaks much higher than 10×") — les deux phénomènes coexistent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Document-linéaire\|Document linéaire]] — vertu: Force à faire le pont entre les sections ; artefact autoportant à faible contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Drift\|Drift]] — définition: Hallucination causée par manque d'injection de contexte rigoureuse entre sollicitations agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Durable-generator\|Durable generator]] — définition: Qualification financière SaaS Financialize Bain — entreprise qui produit du cash stable et limité, sans innover. Métaphore industrielle générateur électrique vs moteur de croissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Démocratisation-automatisation-documentaire\|Démocratisation automatisation documentaire]] — description: Accès aux tâches d'automatisation sans compétences en programmation (1 occ., 1 fiches)
@@ -255,7 +257,7 @@
 - [[kb/_entites-mineures#Hapax-legomenon\|Hapax legomenon]] — description: Slide volontairement illisible, autorisé une seule fois par présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnachabilité\|Harnachabilité]] — définition: Degré auquel une codebase est apte au harnachage par des agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Harnais-d'agent\|Harnais d'agent]] — définition: Tout ce qui n'est pas le modèle dans un agent, incluant outils et logique d'exécution (1 occ., 1 fiches)
-- [[kb/Harness\|Harness]] — catégorie: Couche abstraction agent (outils, prompts, mémoire, sécurité) (3 occ., 3 fiches)
+- [[kb/Harness\|Harness]] — catégorie: Couche abstraction agent (outils, prompts, mémoire, sécurité) (4 occ., 4 fiches)
 - [[kb/_entites-mineures#Harness-as-a-Service\|Harness-as-a-Service]] — définition: Bascule industrielle des LLM APIs (completion) vers les harness APIs (runtime). SDK fournissant loop, tools, context, hooks, sandbox par défaut. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Headcount-reinvestment-capacity\|Headcount reinvestment capacity]] — définition: Capacité libérée par productivité IA = équivalent free headcount à réinvestir dans innovation. Calcul : Staff size × Salary × Net time saved per developer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Headwinds-AI\|Headwinds AI]] — définition: (1) Slowing market growth — software penetration topping out ; (2) Rising AI infrastructure/inference/model access costs introduisant variable costs dans businesses historiquement high-margin (1 occ., 1 fiches)
@@ -275,6 +277,7 @@
 - [[kb/_entites-mineures#IDP-as-product\|IDP as product]] — définition: Internal Developer Platform traité comme produit avec utilisateurs (devs ET agents IA), guardrails et UX réduisant cognitive load — primary connective tissue for AI value (DORA 2025 confirmé) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Imperfect-metrics-doctrine\|Imperfect metrics doctrine]] — source: Curran : "embrace potentially imperfect measures + monitor holistic outcomes" — anti-paralysie (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Implementation-advantage\|Implementation advantage]] — définition: Les outils vendors externes réussissent 2x plus souvent que les builds internes (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Infodeck\|Infodeck]] — définition: Document mis en page dans une interface de slides, pour du « light reading » ; ni slideument ni support de présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] — statut: Disponible sur Etsy et Walmart aux États-Unis en 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] — définition: Alternance dynamique pensée-action pour tâches long horizon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Introspection\|Introspection]] — catégorie: Pratique de conscience de soi et reconnaissance de patterns (1 occ., 1 fiches)
@@ -369,6 +372,7 @@
 - [[kb/_entites-mineures#Productized-solutions\|Productized solutions]] — définition: Concept Mandese — transformation des services agences en produits packagés reproductibles. Convergence avec Curran Skills-Based Plugin Architecture et Lattice atoms/molecules (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Programmation-supervisée\|Programmation supervisée]] — catégorie: Nouveau paradigme de développement avec agents IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prompt-caching\|Prompt caching]] — description: Mécanisme de réutilisation du prefill par correspondance de préfixe (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Présentation-live\|Présentation live]] — condition: Réservée à la présence synchrone : influence, objections en temps réel, pitch, célébration (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Public-wealth-fund\|Public wealth fund]] — définition: Fonds donnant à tous les citoyens une equity stake dans les A.I. companies (proposition OpenAI) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Purgatoire-des-pilotes-IA\|Purgatoire des pilotes IA]] — description: Investissements massifs en IA sans industrialisation ni passage à l'échelle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Purple-gradient-meme\|Purple gradient meme]] — catégorie: Signal négatif de design générique post-vibe-coding (1 occ., 1 fiches)
@@ -418,6 +422,7 @@
 - [[kb/_entites-mineures#Six-zones-PROJ-AI\|Six zones PROJ-AI]] — détail: DOCS/ (raw inputs), IDEAS/ (hypothèses), DR/ (Decision Records 7 dim), OUT/ (livrables), DOCTRINE/ (gouvernance), AGENT/ (slash-commands + traces) (1 occ., 1 fiches)
 - [[kb/Skill\|Skill]] — définition: Dossier (instructions + scripts + ressources + config + hooks) découvrable par l'agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Skill-issue-reframe\|Skill issue reframe]] — définition: Cadre HumanLayer : la plupart des échecs d'agent sont des problèmes de configuration, pas de poids du modèle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Slidedoc\|Slidedoc]] — origine: Nom donné par Duarte Design à l'infodeck (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SmartBee\|SmartBee]] — définition: Tier qui tient la vue d'ensemble, tranche et absorbe les escalades ; à appairer avec un QuickBee ou un WorkerBee pour ne pas brûler de tokens frontier sur du travail d'exécution. Modèles cités : Claude Opus 5, Kimi K3, GPT-5.6 Sol. Effort recommandé : medium (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Software-3.0\|Software 3.0]] — définition: Programmation = prompting d'un LLM-interpréteur, contexte = levier (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Solutions-Engineers\|Solutions Engineers]] — rôle futur: Programmer en langage naturel, orchestrer agents (1 occ., 1 fiches)

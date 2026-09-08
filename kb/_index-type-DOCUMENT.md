@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 148 entités de type DOCUMENT
+> 150 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -72,6 +72,7 @@
 - [[kb/_entites-mineures#Manifeste-Agile\|Manifeste Agile]] — rôle: Source parodiée (2001, 4 valeurs + 12 principes) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Meta-Internal-Coding-Bench\|Meta Internal Coding Bench]] — référence: Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mon-usine-logicielle-à-l'heure-de-l'IA\|Mon usine logicielle à l'heure de l'IA]] — catégorie: Page de référence (28 juil. 2026) décrivant en six couches un dispositif solo de développement à code quasi entièrement généré (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Never-Send-The-Slides\|Never Send The Slides]] — catégorie: Série d'articles sur martinfowler.com ; « Do you even need a presentation? » en est le premier volet (1 occ., 1 fiches)
 - [[kb/One-Useful-Thing-document\|One Useful Thing]] — type: Newsletter Substack sur l'IA au travail (2 occ., 3 fiches)
 - [[kb/_entites-mineures#PORTING.md-LIFETIMES.tsv\|PORTING.md / LIFETIMES.tsv]] — rôle: Artefacts de préparation générés par Claude : mapping patterns/types Zig→Rust, et lifetime tracé de chaque champ de struct (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pattern-doc\|Pattern doc]] — définition: Guidance généralisée depuis plusieurs learnings (plus de levier, plus de risque si périmé) (1 occ., 1 fiches)
@@ -101,6 +102,7 @@
 - [[kb/_entites-mineures#The-AI-Native-SDLC-playbook\|The AI-Native SDLC playbook]] — format: Guide de six étapes découpées en plays, ~40 min de lecture, publié le 21 août 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-American-Experiment\|The American Experiment]] — catégorie: Titre Netflix (US) utilisant la GenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Art-of-Not-Being-Governed\|The Art of Not Being Governed]] — rôle: Ouvrage de James Scott (peuples des collines « qui refusent d'être gouvernés ») ; analogie de Ball pour le « voile d'ingouvernabilité » de l'open-weights (1 occ., 1 fiches)
+- [[kb/_entites-mineures#The-Async-First-Playbook\|The Async-First Playbook]] — auteur: Livre de Sumeet Gayathri Moghe ; sa bibliothèque de diagrammes a été faite sous Keynote (1 occ., 1 fiches)
 - [[kb/The-Batch\|The Batch]] — type: Newsletter hebdomadaire IA, numéro 350 (3 occ., 3 fiches)
 - [[kb/_entites-mineures#The-Batch-n°352\|The Batch n°352]] — type: Newsletter hebdomadaire IA, 8 mai 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Cathedral-and-the-Bazaar\|The Cathedral and the Bazaar]] — rôle: Essai fondateur (1997/1999) d'ESR opposant développement « cathédrale » (centralisé/fermé) et « bazar » (décentralisé/ouvert) ; a popularisé le terme « open source » (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 410 entités de type ORGANISATION
+> 411 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -120,6 +120,7 @@
 - [[kb/_entites-mineures#DocsHound\|DocsHound]] — secteur: Documentation automatisée depuis démos produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dotwork\|Dotwork]] — secteur: Product management / Operating systems (1 occ., 1 fiches)
 - [[kb/Dropbox\|Dropbox]] — résultat: 90% adoption IA, +20% PRs fusionnés (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Duarte-Design\|Duarte Design]] — production: Ebook « Slidedocs », catalogue de patterns de mise en page (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DuckDB-Foundation\|DuckDB Foundation]] — rôle: Structure gardienne du projet open source DuckDB, maintenue après l'entrée de DuckLabs chez AWS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DuckLabs\|DuckLabs]] — statut: Équipe de développement de DuckDB, rejoint AWS comme filiale, reste basée à Amsterdam (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Duolingo\|Duolingo]] — secteur: Apprentissage des langues (1 occ., 1 fiches)
@@ -360,7 +361,7 @@
 - [[kb/The-New-York-Times\|The New York Times]] — secteur: Presse / journalisme de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
-- [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (4 occ., 4 fiches)
+- [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (5 occ., 5 fiches)
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] — nature: Projet de la Linux Foundation, annoncé le 2026-06-03 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 789 entités de type TECHNOLOGIE
+> 792 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -87,6 +87,7 @@
 - [[kb/_entites-mineures#App-d'apprentissage-du-clavier\|App d'apprentissage du clavier]] — contexte: Exemple 0-to-1 construit par Ng le week-end (pour sa fille) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AppSignal\|AppSignal]] — catégorie: Système de tracking d'erreurs production (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AppWorld\|AppWorld]] — type: benchmark agent multi-tâches (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Applications-web-interactives\|Applications web interactives]] — limite: Pas de commentaire inline natif ; hébergement et durée de vie incertains ; sans état, utilité réduite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Arc\|Arc]] — catégorie: Navigateur web (prédécesseur de Dia) (1 occ., 2 fiches)
 - [[kb/_entites-mineures#Artifactory\|Artifactory]] — rôle: Service partagé de téléchargement détourné en canal de messagerie entre agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ask-HR\|Ask HR]] — catégorie: GPT centralisé Moderna routant les questions HR vers GPTs spécialisés (1 occ., 1 fiches)
@@ -321,6 +322,7 @@
 - [[kb/_entites-mineures#Google-Vertex-AI-Agent-Builder\|Google Vertex AI Agent Builder]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gotham\|Gotham]] — définition: Produit initial de Palantir, vendu à la CIA, à la NSA et à des unités de renseignement militaire au milieu des années 2000 ; déploiements profondément sur mesure, construits pour répondre à une seule question de renseignement pour une seule unité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Governance-for-Agents\|Governance for Agents]] — rôle: Couche d'identité, politique, approbation et audit appliquée autour de l'agent plutôt que dans son prompt (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Grammarly\|Grammarly]] — catégorie: Outil d'aide à l'écriture ; codifie un style et un niveau de lisibilité visé (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok\|Grok]] — catégorie: Assistant LLM (X / anciennement Twitter) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Grok-4\|Grok 4]] — score even-handedness: 96% (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Grok-1\|Grok-1]] — catégorie: Modèle LLM dont Phoenix (ranker X) est dérivé, base architecture transformer (1 occ., 1 fiches)
@@ -586,6 +588,7 @@
 - [[kb/_entites-mineures#Skills-Based-Plugin-Architecture\|Skills-Based Plugin Architecture]] — description: Marketplace privé Intercom de configurations Claude Code spécialisées + auto-update plugins (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slack-MCP\|Slack MCP]] — catégorie: Intégration MCP pour correction de bugs depuis threads Slack (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Slash-commands-PROJ-AI\|Slash-commands PROJ-AI]] — exemples: /dr-create, /livrable-update — interface CLI/IDE pour utilisateurs tech (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Slideware\|Slideware]] — catégorie: PowerPoint, Keynote, Canva, Google Slides — interface de mise en page ubiquitaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Smart-CRM\|Smart CRM]] — catégorie: CRM IA de HubSpot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Smart-HTTP\|Smart HTTP]] — rôle: Transport de fetch/clone/pull/push vers un dépôt Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SoGPT\|SoGPT]] — catégorie: Outil IA interne Société Générale (1 occ., 1 fiches)
