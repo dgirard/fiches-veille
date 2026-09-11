@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 419 entités de type METHODOLOGIE
+> 420 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -57,6 +57,7 @@
 - [[kb/_entites-mineures#Boucle-de-feedback-développeur\|Boucle de feedback développeur]] — échelle: ~heures ; product spec/evals ↔ developer vision (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Boucle-de-feedback-externe\|Boucle de feedback externe]] — échelle: ~jours ; developer vision ↔ external feedback (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brainstorms-&-prototypes\|Brainstorms & prototypes]] — usage: Réagir tôt à des directions (ex. 4 designs HTML) pour capter les unknown knowns (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Breakout-Scale\|Breakout Scale]] — définition: Échelle en six catégories (Brookings) mesurant la portée d'une opération d'influence par migration inter-plateformes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CDLC\|CDLC]] — alias: Context Development Lifecycle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Chain-of-Thought\|Chain-of-Thought]] (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Change-Failure-Rate\|Change Failure Rate]] — catégorie: Métrique core ingénierie logicielle (1 occ., 1 fiches)

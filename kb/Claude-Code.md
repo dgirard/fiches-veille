@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 120 relations | 53 fiches sources
+> **Type** : TECHNOLOGIE | 121 relations | 54 fiches sources
 
 ## Attributs
 
@@ -20,6 +20,7 @@
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
 - **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
+- **usage adverse** : Skills pilotant les workflows d'un acteur d'espionnage ; utilisé aussi par une cyberpolice chinoise et une cellule d'armement yéménite
 - **usage_décrit** : Exécution de plans détaillés en Fidelity One et Two
 - **usages rapportés** : Prototypage par des non-développeurs, revue de code, agents à but unique, analytique en libre-service, reconstruction assistée ; les fonctionnalités citées sont MCP, skills, CLAUDE.md, Code Review, hooks, dynamic workflows, mode plan
 - **version_corrigée** : v2.1.116 (20 avril 2026)
@@ -270,6 +271,7 @@
 - [[kb/_entites-mineures#goal\|/goal]] **fait_partie_de** → Claude Code — 0.92
 - [[kb/Codex\|Codex]] **concurrence** → Claude Code — 0.90
 - [[kb/fichiers-de-règles-partagés\|fichiers de règles partagés]] **s_applique_à** → Claude Code — 0.90
+- [[kb/_entites-mineures#Midnight-Blizzard\|Midnight Blizzard]] **utilise** → Claude Code — 0.90
 - [[kb/_entites-mineures#Amplifier-framework\|Amplifier framework]] **est_basé_sur** → Claude Code — 0.88
 - [[kb/_entites-mineures#role-playing\|role-playing]] **améliore** → Claude Code — 0.85
 - [[kb/mode-Minimal\|mode Minimal]] **concurrence** → Claude Code — 0.82
@@ -284,6 +286,7 @@
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
 - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-01/antirez-dont-fall-anti-ai-hype-2026-01-11\|Don't fall into the anti-AI hype]]
 - [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]

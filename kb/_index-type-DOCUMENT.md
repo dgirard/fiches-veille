@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 150 entités de type DOCUMENT
+> 152 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -118,6 +118,7 @@
 - [[kb/The-Software-Architect-Elevator\|The Software Architect Elevator]] — description: Livre Gregor Hohpe (O'Reilly 2020) — communication architecte entre business et tech, source de plusieurs concepts du talk (3 occ., 3 fiches)
 - [[kb/The-Token-Manifesto\|The Token Manifesto]] — catégorie: Manifeste satirique (pastiche de l'Agile) sur l'efficacité des tokens (2 occ., 1 fiches)
 - [[kb/_entites-mineures#The-state-of-open-source-AI\|The state of open source AI]] — référence: Rapport récurrent de Mozilla, v1.0.1, juillet 2026 ; sept sections, données Artificial Analysis, Epoch AI, OpenRouter, LMArena et enquête Mozilla/SlashData 2026 (1 occ., 1 fiches)
+- [[kb/Threat-Intelligence-Report-septembre-2026\|Threat Intelligence Report septembre 2026]] — nature: Quatrième rapport de menaces d'Anthropic ; décembre 2025-août 2026 ; sept domaines ; ~36 000 mots avec indicateurs de compromission (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
@@ -143,6 +144,7 @@
 - [[kb/_entites-mineures#plan-md\|plan.md]] — rôle: Plan d'implémentation accepté : fichiers touchés, ordre du travail, risques, preuves attendues (1 occ., 1 fiches)
 - [[kb/_entites-mineures#post-mortem-technique-détaillé\|post-mortem technique détaillé]] — valeur: transparence radicale envers clients (1 occ., 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] — date: 2024 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#rapport-Disrupting-AI-espionage-novembre-2025\|rapport Disrupting AI espionage novembre 2025]] — statut: Rapport précédent, dont le modèle opératoire autonome est déclaré diffusé à toutes les classes d'acteurs (1 occ., 1 fiches)
 - [[kb/rapport-de-recherche-kill-switch\|rapport de recherche kill switch]] — catégorie: Rapport de recherche interne SFEIR (prep éditoriale) sur l'AI Kill Switch Act, angle souveraineté EU (1 occ., 1 fiches)
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] — rôle: Teardown analytique du release `xai-org/x-algorithm` 15 mai 2026, 4 audiences (personal/brand/framework/consulting), discipline d'honnêteté épistémique (refus de fabriquer des magnitudes), citations file:line systématiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#spec-md\|spec.md]] — catégorie: Fichier spécification persistant (2 occ., 2 fiches)

@@ -1,10 +1,11 @@
 # GLM-5.3
 
-> **Type** : TECHNOLOGIE | 16 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 16 relations | 2 fiches sources
 
 ## Attributs
 
 - **définition** : Modèle de Z.ai annoncé le 14 août 2026, bâti sur le même modèle de base que GLM-5.2 — tout le gain provient du post-entraînement. Revendique l'état de l'art open-weights sur Terminal-Bench 3.0 (28,3 contre 17,4 pour Kimi K3) et Agents' Last Exam (28,5), +50 % sur le benchmark interne Z.ai Code Bench, et l'état de l'art tous modèles sur CyberGym (84,5 %). Trois niveaux d'effort de raisonnement (low, high, max, défaut max) ; la désactivation du raisonnement n'est plus supportée. Poids annoncés pour deux semaines après le lancement
+- **statut** : Sa sortie a été précédée d'une campagne de Z.ai ciblant les capacités cyber de modèles américains
 
 ## Relations (comme sujet)
 
@@ -74,4 +75,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]

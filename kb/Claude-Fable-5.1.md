@@ -1,10 +1,11 @@
 # Claude Fable 5.1
 
-> **Type** : TECHNOLOGIE | 13 relations | 1 fiches sources
+> **Type** : TECHNOLOGIE | 14 relations | 2 fiches sources
 
 ## Attributs
 
 - **catégorie** : Modèle de fondation, disponibilité générale, identifiant API claude-fable-5-1
+- **contre-mesure** : Preserved thinking : les nouveaux comptes API ne peuvent plus modifier le contexte précédant le raisonnement
 - **tarification** : 10 $/M entrée, 50 $/M sortie, 0,25 $/M lectures de cache
 
 ## Relations (comme sujet)
@@ -52,6 +53,8 @@
 
 ### utilise
 
+- [[kb/_entites-mineures#preserved-thinking\|preserved thinking]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[kb/_entites-mineures#Enterprise-Frontier-Safeguards\|Enterprise Frontier Safeguards]] (TECHNOLOGIE) — 0.92, DYNAMIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - [[kb/_entites-mineures#mécanismes-anti-distillation\|mécanismes anti-distillation]] (TECHNOLOGIE) — 0.91, STATIQUE
@@ -64,3 +67,4 @@
 ## Fiches sources
 
 - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]

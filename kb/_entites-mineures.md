@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2790 entités avec moins de 3 triples/fiches
+> 2808 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (375)
 
@@ -3756,7 +3756,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (299)
+## ORGANISATION (303)
 
 ### 10x {#10x}
 
@@ -3975,6 +3975,16 @@
 - [[kb/_entites-mineures#Justin-Bangay\|Justin Bangay]] **travaille_chez** → Airbyte — 0.93
 
 **Fiches** : [[fiches/2026-04/debes-lesechos-silicon-valley-boite-petri-agents-ia-collegues-2026-04-22\|« On est dans une boîte de Petri » : la Silicon Valley, ce pays où les agents IA sont déjà des collègues]]
+
+### Alibaba {#Alibaba}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Plus grande campagne de distillation mesurée (GTG-16005) : 151 M d'échanges, 3 500 comptes, cible Qwen 3.5 à 3.7
+
+- **utilise** → [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] (CONCEPT) — 0.96
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### Allianz {#Allianz}
 
@@ -5585,6 +5595,16 @@
 
 **Fiches** : [[fiches/2025-07/mcp-for-beginners-microsoft-developer-youtube-2025-07-28\|MCP for Beginners - YouTube]]
 
+### Midnight Blizzard {#Midnight-Blizzard}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Groupe d'espionnage à nexus russe (GTG-20006) ; plus de 20 organisations ciblées, campagnes automatisées par IA
+
+- **utilise** → [[kb/Claude-Code\|Claude Code]] (TECHNOLOGIE) — 0.90
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### Millennium {#Millennium}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6145,6 +6165,16 @@
 
 **Fiches** : [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 
+### ShinyHunters {#ShinyHunters}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Collectif criminel de vol de données et d'extorsion (GTG-50014) ; affiliés opérant par agents
+
+- **utilise** → [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### SitePoint {#SitePoint}
 
 **Type** : ORGANISATION | 1 relations | 1 fiches
@@ -6673,6 +6703,16 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### Xiaomi {#Xiaomi}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Rejeu de sessions MiMo vers Claude (GTG-16008), 1 500 comptes, 400 000 échanges
+
+- **utilise** → [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] (CONCEPT) — 0.93
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### Y Combinator {#Y-Combinator}
 
 **Type** : ORGANISATION | 2 relations | 2 fiches
@@ -6826,7 +6866,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (623)
+## TECHNOLOGIE (629)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7881,6 +7921,18 @@
 - [[kb/Claude-Mythos-5\|Claude Mythos 5]] **remplace** → Claude Mythos Preview — 0.92
 
 **Fiches** : [[fiches/2026-06/anthropic-claude-fable-5-mythos-5-2026-06-09\|Claude Fable 5 and Claude Mythos 5]]
+
+### Claude Opus {#Claude-Opus}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **statut** : Versions 4.6, 4.7 et 4.8 ciblées par les campagnes de distillation ; Opus 5 rédige une demande de subvention orthopoxvirus sans blocage
+
+- [[kb/_entites-mineures#PSR-(Project-Security-Review)\|PSR (Project Security Review)]] **utilise** → Claude Opus — 0.94
+- [[kb/Kiro\|Kiro]] **utilise** → Claude Opus — 0.90
+- [[kb/_entites-mineures#Qwen\|Qwen]] **est_basé_sur** → Claude Opus — 0.88
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### Claude Opus 4 {#Claude-Opus-4}
 
@@ -9804,6 +9856,14 @@
 
 **Fiches** : [[fiches/2025-07/gartner-hype-cycle-genai-2025-critical-innovations-2025-07-29\|The 2025 Hype Cycle for GenAI Highlights Critical Innovations]]
 
+### Lakana 360 {#Lakana-360}
+
+**Type** : TECHNOLOGIE | 0 relations | 1 fiches
+
+- **nature** : Plateforme d'interception nationale pour le renseignement malien, conçue avec Claude, déployée sur site avec un LLM local
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### LangGraph Platform {#LangGraph-Platform}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -10809,7 +10869,7 @@
 
 - **rôle** : App de revue de sécu (Claude Opus + MITRE ATT&CK + knowledge index), auto-approbation low-risk
 
-- **utilise** → Claude Opus (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.94
 - **utilise** → MITRE ATT&CK (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
@@ -10851,6 +10911,16 @@
 - **catégorie** : Format pub étendu en accès programmatique
 
 **Fiches** : [[fiches/2026-07/netflix-q2-2026-genai-production-personnalisation-2026-07-16\|Netflix Q2 2026 Shareholder Letter — leveraging technology to improve every aspect of our service (zoom IA/GenAI)]]
+
+### PentAGI {#PentAGI}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Framework offensif agentique public reproduisant le scaffolding d'attaque autonome
+
+- **permet** → automatisation de la kill chain cyber (CONCEPT) — 0.90
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### Performance Max {#Performance-Max}
 
@@ -11018,6 +11088,16 @@
 - **permet** → revue de code automatisée (METHODOLOGIE) — 0.95
 
 **Fiches** : [[fiches/2025-06/qodo-state-ai-code-quality-2025-report-2025-06-11\|State of AI code quality in 2025 - Qodo]]
+
+### Qwen {#Qwen}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut** : Versions 3.5, 3.6 et 3.7 déclarées entraînées sur des traces de raisonnement extraites d'Opus 4.6 et 4.7
+
+- **est_basé_sur** → [[kb/_entites-mineures#Claude-Opus\|Claude Opus]] (TECHNOLOGIE) — 0.88
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### Qwen2.5-14b-2507 {#Qwen2.5-14b-2507}
 
@@ -12950,6 +13030,18 @@
 
 **Fiches** : [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 
+### preserved thinking {#preserved-thinking}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Mécanisme de Fable 5.1 empêchant les nouveaux comptes API d'altérer system prompt, outils ou messages précédant le raisonnement
+
+- **réduit** → [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] (CONCEPT) — 0.90
+
+- [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **utilise** → preserved thinking — 0.95
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### proj-ai-commons {#proj-ai-commons}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13206,6 +13298,16 @@
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
 
+### thinking signature {#thinking-signature}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Référence chiffrée renvoyée à la place du raisonnement brut pour limiter la distillation
+
+- [[kb/_entites-mineures#attaque-par-rejeu-inter-sessions\|attaque par rejeu inter-sessions]] **s_oppose_à** → thinking signature — 0.92
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### toon-format/toon {#toon-format-toon}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -13314,7 +13416,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (946)
+## CONCEPT (952)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15394,6 +15496,16 @@
 - **est_instance_de** → architecture de référence déploiement IA (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
+
+### Generative Threat Group {#Generative-Threat-Group}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Désignateur interne d'Anthropic (GTG-xxxxx) pour un acteur observé abusant de l'IA
+
+- [[kb/Anthropic\|Anthropic]] **utilise** → Generative Threat Group — 0.95
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### Generator-Reflector-Curator {#Generator-Reflector-Curator}
 
@@ -17872,6 +17984,19 @@
 
 **Fiches** : [[fiches/2025-11/chehade-human-layer-transparency-trust-2025-11-03\|The Human Layer with Gilles Chehade: Building Trust Through Transparency]]
 
+### attaque par rejeu inter-sessions {#attaque-par-rejeu-inter-sessions}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Sauvegarde de la thinking signature puis nouvelle session pour faire reconvertir la signature en trace de raisonnement complète
+
+- **s_oppose_à** → [[kb/_entites-mineures#thinking-signature\|thinking signature]] (TECHNOLOGIE) — 0.92
+
+- [[kb/DeepSeek-organisation\|DeepSeek]] **utilise** → attaque par rejeu inter-sessions — 0.93
+- [[kb/Moonshot-AI\|Moonshot AI]] **utilise** → attaque par rejeu inter-sessions — 0.93
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### attention humaine {#attention-humaine}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -18291,6 +18416,14 @@
 - **fait_partie_de** → charge cognitive existante (CONCEPT) — 0.92
 
 **Fiches** : [[fiches/2025-06/touilleur-express-ni-manager-ni-contributeur-2025-06-23\|Ni manager, ni contributeur individuel… - Le Touilleur Express]]
+
+### chaîne d'approvisionnement IA {#chaîne-d'approvisionnement-IA}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **statut** : Cible criminelle délibérée : clés d'API, jetons de session, bacs à sable, proxys et revendeurs
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### chaîne de valeur {#chaîne-de-valeur}
 
@@ -19080,6 +19213,19 @@
 - [[kb/Diffusion-Gemma\|Diffusion Gemma]] **utilise** → diffusion masquée — 0.92
 
 **Fiches** : [[fiches/2026-06/mindstudio-diffusion-language-models-gemma-2026-06-12\|Diffusion Language Models Explained: How Google's Diffusion Gemma Works]]
+
+### distillation illicite {#distillation-illicite}
+
+**Type** : CONCEPT | 4 relations | 1 fiches
+
+- **définition** : Campagne industrielle et couverte d'extraction des capacités d'un modèle, permise par des réseaux de comptes frauduleux
+
+- [[kb/_entites-mineures#Alibaba\|Alibaba]] **utilise** → distillation illicite — 0.96
+- [[kb/Z.ai\|Z.ai]] **utilise** → distillation illicite — 0.95
+- [[kb/_entites-mineures#Xiaomi\|Xiaomi]] **utilise** → distillation illicite — 0.93
+- [[kb/_entites-mineures#preserved-thinking\|preserved thinking]] **réduit** → distillation illicite — 0.90
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### distinguabilité des agents {#distinguabilité-des-agents}
 
@@ -20961,6 +21107,16 @@
 
 **Fiches** : [[fiches/2024-02/rafal-wenvision-ia-generative-produit-techno-pas-projet-2024-02-23\|L'IA générative est plus une affaire de produit technologique qu'un projet d'IA]]
 
+### programmes d'accès de confiance {#programmes-d'accès-de-confiance}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **rôle** : Voie recommandée par Anthropic pour servir les capacités biologiques de pointe, avec signaux de compte et rétention de données
+
+- [[kb/Anthropic\|Anthropic]] **recommande** → programmes d'accès de confiance — 0.94
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### programmeur {#programmeur}
 
 **Type** : CONCEPT | 3 relations | 1 fiches
@@ -22000,6 +22156,14 @@
 
 **Fiches** : [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
+### uplift {#uplift}
+
+**Type** : CONCEPT | 0 relations | 1 fiches
+
+- **définition** : Gain de capacité apporté par l'IA à un acteur, évalué en vitesse, échelle et profondeur
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ### usage augmentatif {#usage-augmentatif}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -22101,13 +22265,15 @@
 
 ### vibe hacking {#vibe-hacking}
 
-**Type** : CONCEPT | 1 relations | 1 fiches
+**Type** : CONCEPT | 2 relations | 2 fiches
 
 - **contexte** : Précédent été 2025 — humains encore en boucle
+- **définition** : L'opérateur fixe un but général et laisse l'agent évaluer l'environnement, scripter, exécuter et itérer jusqu'au résultat
 
+- [[kb/_entites-mineures#ShinyHunters\|ShinyHunters]] **utilise** → vibe hacking — 0.90
 - campagne espionnage autonome IA **est_basé_sur** → vibe hacking — 0.88
 
-**Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+**Fiches** : [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]], [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### vision en tunnel architecturale {#vision-en-tunnel-architecturale}
 
@@ -22428,7 +22594,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (365)
+## METHODOLOGIE (366)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -22893,6 +23059,16 @@
 - **permet** → verbaliser tôt les unknown knowns (moins cher qu'en implémentation) (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### Breakout Scale {#Breakout-Scale}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **définition** : Échelle en six catégories (Brookings) mesurant la portée d'une opération d'influence par migration inter-plateformes
+
+- [[kb/Anthropic\|Anthropic]] **utilise** → Breakout Scale — 0.95
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### CDLC {#CDLC}
 
@@ -26616,7 +26792,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (129)
+## DOCUMENT (130)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -27896,6 +28072,16 @@
 - **affirme_que** → « une augmentation de 25% de l'adoption IA corrèle avec une baisse de 7,2% de la stabilité de livraison » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
+
+### rapport Disrupting AI espionage novembre 2025 {#rapport-Disrupting-AI-espionage-novembre-2025}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **statut** : Rapport précédent, dont le modèle opératoire autonome est déclaré diffusé à toutes les classes d'acteurs
+
+- [[kb/Threat-Intelligence-Report-septembre-2026\|Threat Intelligence Report septembre 2026]] **affine** → rapport Disrupting AI espionage novembre 2025 — 0.92
+
+**Fiches** : [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 
 ### spec.md {#spec-md}
 

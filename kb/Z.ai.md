@@ -1,10 +1,11 @@
 # Z.ai
 
-> **Type** : ORGANISATION | 14 relations | 4 fiches sources
+> **Type** : ORGANISATION | 15 relations | 5 fiches sources
 
 ## Attributs
 
 - **positionnement** : Laboratoire d'IA chinois (ex-Zhipu AI), éditeur de la famille GLM. Publie en août 2026 un modèle revendiquant à la fois le frontier open-weights du codage et l'état de l'art sur la découverte de vulnérabilités, assorti d'un registre de divulgation de 2 436 failles dont 97,8 % sous embargo. Communique par billets institutionnels non signés, sans rapport technique ni carte de modèle
+- **rôle** : Nettoyage de traces de raisonnement d'Opus 4.8 (GTG-16006), 273 comptes, 3,4 M d'échanges ; campagne cyber abandonnée contre Fable
 - **secteur** : Laboratoire d'IA chinois, anciennement Zhipu, éditeur du modèle open-weights GLM-5.2
 
 ## Relations (comme sujet)
@@ -52,8 +53,14 @@
 - [[kb/GLM-5.2\|GLM-5.2]] (TECHNOLOGIE) — 0.94, STATIQUE
   - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]
 
+### utilise
+
+- [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] (CONCEPT) — 0.95, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ## Fiches sources
 
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-06/artificial-analysis-glm-5-2-gdpval-aa-open-weights-2026-06-22\|GLM-5.2 leads open weights models and sits at #3 overall on GDPval-AA, a real-world agentic work benchmark]]
 - [[fiches/2026-04/ng-the-batch-350-coding-agents-software-work-acceleration-2026-04-24\|The Batch n°350 — How Coding Agents Accelerate Different Types of Software Work (Andrew Ng) + GLM-5.1, Digit chez…]]
 - [[fiches/2026-08/nunez-mistral-gigawatt-compute-europeen-venturebeat-2026-08-11\|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.]]

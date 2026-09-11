@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 989 entités de type CONCEPT
+> 995 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -243,6 +243,7 @@
 - [[kb/_entites-mineures#GenAI-Divide\|GenAI Divide]] — définition: Fossé empirique entre adoption massive (80%) et transformation business mesurable (5%) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GenAI-Landing-Zone\|GenAI Landing Zone]] — catégorie: Architecture de référence gouvernée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GenAI-Landing-Zones\|GenAI Landing Zones]] — catégorie: Architecture de référence déploiement IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Generative-Threat-Group\|Generative Threat Group]] — définition: Désignateur interne d'Anthropic (GTG-xxxxx) pour un acteur observé abusant de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Generator-Reflector-Curator\|Generator-Reflector-Curator]] — rôle: architecture agentique à 3 composants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Generic-wrappers-(anti-pattern)\|Generic wrappers (anti-pattern)]] — définition: Couches fines au-dessus de GPT, sans moat, vulnérables au sherlocking par big tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Gentle-Singularity\|Gentle Singularity]] — origine: Terme attribué à roon (OpenAI), repris par Sam Altman dans essai éponyme (juin 2025) (1 occ., 1 fiches)
@@ -510,6 +511,7 @@
 - [[kb/_entites-mineures#approche-task-based\|approche task-based]] — définition: Décomposition d'un métier en tâches pour mesurer son exposition à l'IA (Acemoglu-Restrepo, Autor) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#arbitrage-réglementaire\|arbitrage réglementaire]] — principe: Montage d'alliance sans fusion : l'absence de prise au capital préserve la gouvernance de Mistral et minimise le risque d'examen antitrust (FTC, Commission européenne) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#artisanat-logiciel\|artisanat logiciel]] — description: Approche équilibrant logique, élégance et compréhension humaine (1 occ., 1 fiches)
+- [[kb/_entites-mineures#attaque-par-rejeu-inter-sessions\|attaque par rejeu inter-sessions]] — définition: Sauvegarde de la thinking signature puis nouvelle session pour faire reconvertir la signature en trace de raisonnement complète (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention-humaine\|attention humaine]] — statut: Nouveau goulot d'étranglement remplaçant l'écriture de code (1 occ., 1 fiches)
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] — définition: Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus (1 occ., 1 fiches)
@@ -552,6 +554,7 @@
 - [[kb/_entites-mineures#champions-IA\|champions IA]] — rôle: Ambassadeurs internes de l'adoption IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#changement-de-plateforme\|changement de plateforme]] — pattern: mainframe → PC → web → mobile → IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#charge-cognitive-de-validation\|charge cognitive de validation]] — description: Charge mentale liée à la vérification du code généré par IA (1 occ., 1 fiches)
+- [[kb/_entites-mineures#chaîne-d'approvisionnement-IA\|chaîne d'approvisionnement IA]] — statut: Cible criminelle délibérée : clés d'API, jetons de session, bacs à sable, proxys et revendeurs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] — axe: Axe Y de la carte (visible → invisible pour l'utilisateur) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chiffre-orphelin\|chiffre orphelin]] — définition: Donnée chiffrée largement reprise dont la source ne résiste pas à la vérification : soit attribuée à une institution au nom plausible dont la page renvoie une erreur, soit issue d'un benchmark réel mais portant sur une autre comparaison que celle qu'on lui prête (1 occ., 1 fiches)
 - [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] — définition: Indicateurs produits faute de cycle formalisé (nombre de licences, volume de tokens) qui ne disent rien de la qualité ni du risque (1 occ., 1 fiches)
@@ -636,6 +639,7 @@
 - [[kb/_entites-mineures#dette-technique-sociétale\|dette technique sociétale]] — cause: décennies de coûts logiciels élevés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#deux-portes-humaines\|deux portes humaines]] — définition: P1 approbation de la spec (intention) et P6 acceptation comportementale (vérification) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#diffusion-masquée\|diffusion masquée]] — définition: Absorbing diffusion : masquage progressif puis débruitage itératif réversible (1 occ., 1 fiches)
+- [[kb/_entites-mineures#distillation-illicite\|distillation illicite]] — définition: Campagne industrielle et couverte d'extraction des capacités d'un modèle, permise par des réseaux de comptes frauduleux (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distinguabilité-des-agents\|distinguabilité des agents]] — définition: Capacité à identifier un agent parmi d'autres ; condition nécessaire mais non suffisante de sa compréhension (1 occ., 1 fiches)
 - [[kb/_entites-mineures#distribution-en-haltère\|distribution en haltère]] — définition: Dépense de tokens lourde aux deux bouts (plan, revue), légère au milieu (exécution) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#doctrine-frontier-free\|doctrine frontier-free]] — définition: Atteindre la précision cible avec des modèles mid-tier via cinq substitutions (1 occ., 1 fiches)
@@ -834,6 +838,7 @@
 - [[kb/_entites-mineures#productive-struggle\|productive struggle]] — définition: Effort cognitif qui construit la compréhension, à préserver dans les outils éducatifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#productivité-10x-1000x\|productivité 10x-1000x]] — nature: Multiplication capacité individuelle par levier IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#produit-vs-projet\|produit vs projet]] — définition: Traiter la plateforme GenAI comme un produit financé en flux, pas un projet ponctuel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#programmes-d'accès-de-confiance\|programmes d'accès de confiance]] — rôle: Voie recommandée par Anthropic pour servir les capacités biologiques de pointe, avec signaux de compte et rétention de données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#programmeur\|programmeur]] — évolution: De codeur ligne par ligne à orchestrateur/superviseur IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#progrès-technique-biaisé\|progrès technique biaisé]] — définition: Innovation favorisant certains travailleurs/tâches au détriment d'autres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#prompt-structuré\|prompt structuré]] — composants: Spécification, exemples de code, standards, checklist DoD (1 occ., 1 fiches)
@@ -945,6 +950,7 @@
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] — volume: 500k+ vidéos publiées 2024-2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tâches-atomiques\|tâches atomiques]] — principe: Décomposition fine des user stories pour réduire l'ambiguïté LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#tâches-impossibles\|tâches impossibles]] — effet: Déclencheur observé des comportements de contournement (1 occ., 1 fiches)
+- [[kb/_entites-mineures#uplift\|uplift]] — définition: Gain de capacité apporté par l'IA à un acteur, évalué en vitesse, échelle et profondeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-augmentatif\|usage augmentatif]] — définition: collaboration homme-IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-directif\|usage directif]] — définition: tâche entièrement déléguée à Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#usage-passif-de-l'IA\|usage passif de l'IA]] — effet: Érosion des compétences cognitives (lecture, écriture, pensée critique) (1 occ., 1 fiches)
@@ -956,7 +962,7 @@
 - [[kb/_entites-mineures#verrouillage-développeur\|verrouillage développeur]] — définition: Situation où choisir un agent de codage revient à accepter les seules interfaces qu'il propose — l'un des trois coûts du couplage agent-éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#verrouillage-par-optimisation\|verrouillage par optimisation]] — définition: Mécanisme par lequel un harnais ajusté finement aux poids d'un laboratoire se dégrade sur les autres modèles, rendant les poids d'autant moins interchangeables que l'ajustement est bon (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vibe-architecting\|vibe architecting]] — définition: Décisions d'architecture/infra prises en secondes, plus vite que la gouvernance ne peut les encadrer (1 occ., 1 fiches)
-- [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (1 occ., 1 fiches)
+- [[kb/_entites-mineures#vibe-hacking\|vibe hacking]] — contexte: Précédent été 2025 — humains encore en boucle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#vision-en-tunnel-architecturale\|vision en tunnel architecturale]] — définition: Pire limite des LLMs selon ESR : excellents pour générer du code à la spécification mais parfois aveugles aux patterns de plus haut niveau — l'architecture reste le « job du meatbrain » humain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vqv-(video-quality-view)\|vqv (video quality view)]] — définition: Visionnage vidéo qui clear le seuil de durée minimal — signal positif first-class introduit en 2026, n'existait pas en 2023 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vérification-en-monde-clos\|vérification en monde clos]] — définition: Propriété structurelle de tout vérificateur automatique : il ne peut se prononcer que sur ce que ses sources couvrent. Confronté à une affirmation hors couverture, il ne trouve aucune contradiction et rend un verdict favorable indiscernable d'une vraie vérification — il certifie l'erreur au lieu de la manquer (1 occ., 1 fiches)

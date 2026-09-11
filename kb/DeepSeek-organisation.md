@@ -1,6 +1,6 @@
 # DeepSeek
 
-> **Type** : ORGANISATION | 6 relations | 4 fiches sources
+> **Type** : ORGANISATION | 7 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/DeepSeek-technologie\|DeepSeek (TECHNOLOGIE)]]
 
@@ -8,6 +8,7 @@
 
 - **origine** : Chine
 - **positionnement** : Laboratoire d'IA chinois. Le 13 août 2026, publie simultanément son harnais d'agent sous licence MIT et la disponibilité générale de DeepSeek-V4-Pro, trois jours avant une hausse tarifaire d'API assortie d'un barème heures pleines / heures creuses — harnais donné, inférence facturée. Communique par pages produit institutionnelles non signées, sans billet technique ni auteur nommé
+- **rôle** : Relais des utilisateurs de harnais de codage vers Opus (GTG-16001), 12,1 M d'échanges en 14 jours
 
 ## Relations (comme sujet)
 
@@ -35,9 +36,15 @@
 - [[kb/_entites-mineures#DeepSeek-V4-Pro\|DeepSeek-V4-Pro]] (TECHNOLOGIE) — 0.95, STATIQUE
   - [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 
+### utilise
+
+- [[kb/_entites-mineures#attaque-par-rejeu-inter-sessions\|attaque par rejeu inter-sessions]] (CONCEPT) — 0.93, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+
 ## Fiches sources
 
 - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2026-08/deepseek-harness-everything-is-a-plugin-2026-08-13\|DeepSeek Harness developer preview: Everything is a plugin]]
 - [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 - [[fiches/2026-07/xi-waic2026-gouvernance-mondiale-ia-2026-07-17\|Le discours d'ouverture de Xi Jinping à la WAIC 2026 (Shanghai) — « Joining Hands to Build a Just and Reasonable Global…]]

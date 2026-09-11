@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 132 relations | 44 fiches sources
+> **Type** : ORGANISATION | 144 relations | 45 fiches sources
 
 ## Attributs
 
@@ -54,12 +54,24 @@
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 - « l'en-tête clear_thinking_20251015 se déclenchait à chaque tour suivant (bug) » (AFFIRMATION) — 0.97, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+- « aucun cas de mésusage n'implique Fable ou Mythos, hors une tentative de distillation » (AFFIRMATION) — 0.96, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « « We're pausing the changes to Claude Agent SDK usage described below. For now, nothing has changed. » » (CITATION) — 0.96, STATIQUE
   - [[fiches/2026-06/sawers-thenewstack-anthropic-pause-agent-sdk-subscription-2026-06-16\|Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect]]
 - « l'en-tête clear_thinking_20251015 devait s'exécuter une seule fois sur les sessions inactives » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-04/anthropic-claude-code-quality-postmortem-2026-04-23\|An Update on Recent Claude Code Quality Reports]]
+- « la sophistication d'une attaque n'est plus un signal fiable de l'identité de son auteur » (AFFIRMATION) — 0.95, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « les composants du harnais encodent des hypothèses qui vieillissent vite quand les modèles s'améliorent » (AFFIRMATION) — 0.95, STATIQUE
   - [[fiches/2026-04/seale-semantic-agent-model-harness-ontology-data-2026-04-17\|There is a growing disconnect in the way people think about building AI agents]]
+- « le modèle opératoire autonome documenté en novembre 2025 s'est diffusé à toutes les classes d'acteurs » (AFFIRMATION) — 0.94, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- « un classifieur ne peut pas seul permettre le bénéfice et prévenir le mal en biologie à double usage » (AFFIRMATION) — 0.94, ATEMPOREL
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- « l'autonomie multiplie l'échelle et la vitesse d'une opération mais ne détermine pas sa gravité » (AFFIRMATION) — 0.93, ATEMPOREL
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- « les garde-fous n'ont pas fonctionné uniformément dans les cas de surveillance chinois » (AFFIRMATION) — 0.93, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « Mythos 5.1 reste sous le palier de risque suivant de la Responsible Scaling Policy » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
@@ -68,6 +80,8 @@
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « les limites Pro et Max supposent un usage ordinaire et individuel de Claude Code et de l'Agent SDK » (AFFIRMATION) — 0.90, DYNAMIQUE
   - [[fiches/2026-08/girard-acp-deux-protocoles-un-sigle-2026-08-02\|ACP : deux protocoles, un sigle, zéro rapport]]
+- « un modèle distillé d'un modèle frontière peut acquérir des capacités dangereuses même si les échanges récoltés n'en traitent pas » (AFFIRMATION) — 0.90, ATEMPOREL
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « "le RSP a influencé California SB 53, le NY RAISE Act et l'EU AI Act" » (AFFIRMATION) — 0.88, STATIQUE
   - [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 - « Skills sont intentionnellement découvrables » (AFFIRMATION) — 0.88, ATEMPOREL
@@ -168,6 +182,8 @@
   - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[kb/_entites-mineures#Powered-by-Claude\|Powered by Claude]] (DOCUMENT) — 0.99, STATIQUE
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
+- [[kb/Threat-Intelligence-Report-septembre-2026\|Threat Intelligence Report septembre 2026]] (DOCUMENT) — 0.99, STATIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT) — 0.98, STATIQUE
   - [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 - [[kb/_entites-mineures#anthropics-skills\|anthropics/skills]] (TECHNOLOGIE) — 0.98, STATIQUE
@@ -221,6 +237,10 @@
   - [[fiches/2025-07/powered-by-claude-anthropic-partners-2025-07-09\|Powered by Claude]]
 - planner generator evaluator split (METHODOLOGIE) — 0.95, ATEMPOREL
   - [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
+- « traiter les clés d'API IA et les intégrations d'agents comme des identifiants de production » (AFFIRMATION) — 0.95, ATEMPOREL
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- [[kb/_entites-mineures#programmes-d'accès-de-confiance\|programmes d'accès de confiance]] (CONCEPT) — 0.94, ATEMPOREL
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - automatisation SOC et défense IA (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
 - [[kb/_entites-mineures#architecture-security-first\|architecture security-first]] (METHODOLOGIE) — 0.92, ATEMPOREL
@@ -261,8 +281,12 @@
 
 - [[kb/Claude-entite\|Claude]] (TECHNOLOGIE) — 0.98, STATIQUE
   - [[fiches/2025-11/anthropic-disrupting-ai-espionage-2025-11-13\|Disrupting the first reported AI-orchestrated cyber espionage campaign]]
+- [[kb/_entites-mineures#Breakout-Scale\|Breakout Scale]] (METHODOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[kb/_entites-mineures#campus-ambassadors\|campus ambassadors]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
+- [[kb/_entites-mineures#Generative-Threat-Group\|Generative Threat Group]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
@@ -321,6 +345,7 @@
 - [[fiches/2025-11/anthropic-measuring-political-bias-claude-2025-11-13\|Measuring political bias in Claude]]
 - [[fiches/2025-09/anthropic-postmortem-multi-hour-outage-incident-2025-09-18\|Anthropic Releases Post-Mortem Analysis of Multi-Hour Claude Service Outage]]
 - [[fiches/2026-06/anthropic-self-service-data-analytics-claude-agentic-stack-2026-06-03\|How Anthropic enables self-service data analytics with Claude]]
+- [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - [[fiches/2025-10/apollo-academy-ai-safety-research-training-2025-10-01\|Apollo Academy: Training the Next Generation of AI Safety Researchers]]
 - [[fiches/2026-02/carlini-anthropic-building-c-compiler-parallel-claudes-2026-02-05\|Building a C Compiler with a Team of Parallel Claudes]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
