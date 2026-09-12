@@ -1,6 +1,6 @@
 # MCP
 
-> **Type** : TECHNOLOGIE | 24 relations | 14 fiches sources
+> **Type** : TECHNOLOGIE | 25 relations | 15 fiches sources
 
 ## Attributs
 
@@ -13,6 +13,7 @@
 - **nature** : protocole ouvert
 - **nom complet** : Model Context Protocol
 - **objectif** : accès structuré aux outils/données/API pour agents IA
+- **usage** : Outils attachables à un mode Portal lors de sa définition
 
 ## Relations (comme sujet)
 
@@ -80,6 +81,7 @@
 - fuites de données **observé_dans** → MCP — 0.93
 - [[kb/Interactions-API\|Interactions API]] **utilise** → MCP — 0.93
 - [[kb/Claude-Skills\|Claude Skills]] **s_oppose_à** → MCP — 0.90
+- [[kb/AiKA-Modes\|AiKA Modes]] **utilise** → MCP — 0.90
 - [[kb/_entites-mineures#everyone-ships\|everyone ships]] **utilise** → MCP — 0.90
 - [[kb/Shopify\|Shopify]] **utilise** → MCP — 0.90
 - overhead de tokens excessif **observé_dans** → MCP — 0.88
@@ -99,6 +101,7 @@
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
+- [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
 - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
 - [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 - [[fiches/2025-09/vibe-coding-hot-summer-redmonk-2025-09-08\|The Endless Hot Vibe Code Summer]]

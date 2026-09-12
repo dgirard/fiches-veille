@@ -334,7 +334,7 @@
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
 - [[kb/SpaceX\|SpaceX]] — positionnement: Groupe aérospatial ayant absorbé xAI en février 2026, cherchant un revenu IA et une crédibilité avant introduction en bourse (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
-- [[kb/Spotify-organisation\|Spotify]] — secteur: Streaming musical / Technologie (1 occ., 2 fiches)
+- [[kb/Spotify-organisation\|Spotify]] — secteur: Streaming musical / Technologie ; publie son outillage agent interne sur engineering.atspotify.com (2 occ., 3 fiches)
 - [[kb/Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Stanford\|Stanford]] — secteur: Recherche universitaire (2 occ., 2 fiches)

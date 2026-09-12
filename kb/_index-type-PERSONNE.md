@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 508 entités de type PERSONNE
+> 509 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -137,6 +137,7 @@
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] — rôle: Tracking pattern harness engineering, HumanLayer (1 occ., 1 fiches)
 - [[kb/Didier-Girard\|Didier Girard]] — rôle: Auteur de la note ; lit un lancement produit comme la mise en production d'une doctrine, valide la cohérence architecturale mais refuse les chiffres du constructeur comme preuve et documente trois manques opérationnels (4 occ., 4 fiches)
+- [[kb/Dimitri-Mazmanov\|Dimitri Mazmanov]] — rôle: Principal Product Manager chez Spotify ; auteur du plugin shunt et du billet (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dina-Kozlov\|Dina Kozlov]] — rôle: Auteur de l'article Cloudflare Blog (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dion-Hinchcliffe\|Dion Hinchcliffe]] — rôle: Lead CIO practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Donald-T.-Campbell\|Donald T. Campbell]] — rôle: Psychologue social, auteur de la loi de Campbell (1 occ., 1 fiches)

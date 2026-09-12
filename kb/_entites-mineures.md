@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2808 entités avec moins de 3 triples/fiches
+> 2813 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (375)
 
@@ -6866,7 +6866,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (629)
+## TECHNOLOGIE (633)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10989,6 +10989,19 @@
 
 **Fiches** : [[fiches/2024-04/openai-moderna-chatgpt-enterprise-case-study-2024-04-19\|Accelerating the development of life-saving treatments — Moderna case study]]
 
+### Portal by Spotify {#Portal-by-Spotify}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **nature** : Plateforme interne exposant des agents déclaratifs (AiKA Modes), une CLI et une API ; instance par organisation
+
+- **permet** → [[kb/AiKA-Modes\|AiKA Modes]] (TECHNOLOGIE) — 0.95
+
+- [[kb/Spotify-organisation\|Spotify]] **a_créé** → Portal by Spotify — 0.95
+- [[kb/shunt\|shunt]] **utilise** → Portal by Spotify — 0.94
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
+
 ### Priority Tier {#Priority-Tier}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -12485,6 +12498,17 @@
 
 **Fiches** : [[fiches/2026-02/andreessen-ai-coding-programmers-redefined-orchestrating-bots-2026-02\|Marc Andreessen: AI coding doesn't eliminate programmers — it redefines them]]
 
+### bulk-reader {#bulk-reader}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Mode public lisant un lot de fichiers encadrés en balises XML et répondant en puces structurées ; le corpus n'entre pas dans le contexte de Claude
+
+- **est_instance_de** → [[kb/AiKA-Modes\|AiKA Modes]] (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/Gemini-2.5-Flash\|Gemini 2.5 Flash]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
+
 ### buzz-acp {#buzz-acp}
 
 **Type** : TECHNOLOGIE | 2 relations | 2 fiches
@@ -12606,6 +12630,17 @@
 - **permet** → [[kb/_entites-mineures#authentification-Git-par-clé-Nostr\|authentification Git par clé Nostr]] (CONCEPT) — 0.94
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
+
+### code-writer {#code-writer}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Mode public générant du code à partir d'une spécification et d'un fichier de référence obligatoire ; sortie écrite sur disque, jamais vue par Claude
+
+- **est_instance_de** → [[kb/AiKA-Modes\|AiKA Modes]] (TECHNOLOGIE) — 0.94
+- **utilise** → [[kb/Gemini-2.5-Flash\|Gemini 2.5 Flash]] (TECHNOLOGIE) — 0.93
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
 
 ### coderabbit-review-helper {#coderabbit-review-helper}
 
@@ -13252,6 +13287,16 @@
 
 **Fiches** : [[fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14\|GLM-5.3: Frontier Coding with Emergent Cyber Capabilities]]
 
+### spotify/portal-ai-plugins {#spotify-portal-ai-plugins}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **nature** : Marketplace de plugins Claude Code distribuant portal (la CLI) et shunt (le routage)
+
+- **publie** → [[kb/shunt\|shunt]] (TECHNOLOGIE) — 0.92
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
+
 ### spécification FOCUS {#spécification-FOCUS}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13416,7 +13461,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (952)
+## CONCEPT (953)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -21362,6 +21407,19 @@
 
 **Fiches** : [[fiches/2026-06/nyt-musk-promises-spacex-ipo-track-record-2026-06-02\|Elon Musk Promises. Here's How Often He Delivers.]]
 
+### routage de modèles {#routage-de-modèles}
+
+**Type** : CONCEPT | 3 relations | 2 fiches
+
+- **principe** : Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin
+
+- **réduit** → consommation de tokens du modèle principal (CONCEPT) — 0.92
+- **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
+
+- [[kb/AiKA-Modes\|AiKA Modes]] **permet** → routage de modèles — 0.93
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+
 ### ruissellement économique du cloud {#ruissellement-économique-du-cloud}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -25921,11 +25979,16 @@
 
 ### routage de modèles {#routage-de-modèles}
 
-**Type** : METHODOLOGIE | 0 relations | 1 fiches
+**Type** : METHODOLOGIE | 3 relations | 2 fiches
 
 - **règle** : Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches
 
-**Fiches** : [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+- **réduit** → consommation de tokens du modèle principal (CONCEPT) — 0.92
+- **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
+
+- [[kb/AiKA-Modes\|AiKA Modes]] **permet** → routage de modèles — 0.93
+
+**Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
 ### routing de modèle {#routing-de-modèle}
 

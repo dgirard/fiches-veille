@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 995 entités de type CONCEPT
+> 996 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -865,6 +865,7 @@
 - [[kb/_entites-mineures#reward-hacking\|reward hacking]] — définition: Exploitation de bugs d'évaluation / extraction de réponses cachées gonflant les scores ; reconnu dans le system card OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
+- [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — principe: Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin (1 occ., 2 fiches)
 - [[kb/_entites-mineures#ruissellement-économique-du-cloud\|ruissellement économique du cloud]] — valeur: 68 centimes / € restent en Europe avec Scaleway vs < 20 centimes avec un hyperscaler US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-du-sigle-jamais-seul\|règle du sigle jamais seul]] — définition: Règle de curation : l'entité canonique est le nom complet, le sigle n'est qu'un alias rattaché explicitement à une entité — un même alias pouvant être porté par plusieurs entités (1 occ., 1 fiches)

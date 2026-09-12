@@ -1,6 +1,6 @@
 # Claude Code
 
-> **Type** : TECHNOLOGIE | 121 relations | 54 fiches sources
+> **Type** : TECHNOLOGIE | 122 relations | 55 fiches sources
 
 ## Attributs
 
@@ -16,7 +16,7 @@
 - **produits_affectés** : Claude Code, Claude Agent SDK, Claude Cowork
 - **revenus** : 500M$ annuels (run-rate)
 - **revenus annualisés** : ~1 milliard $ (novembre 2025)
-- **rôle** : Harnais d'évaluation de fait du billet : la version 2.1.207 est citée comme dépendance de mesure pour Terminal-Bench 2.1 et 3.0, Agents' Last Exam, CyberGym, ExploitGym, ExploitBench, PostTrainBench et SWE-Marathon — un laboratoire chinois y mesure son modèle et ceux de ses concurrents. Également cité comme client compatible de GLM-5.3
+- **rôle** : Agent principal dont les lectures et générations volumineuses sont routées vers un modèle secondaire
 - **rôle critiqué** : « Behavioral funnel » / couche otage verrouillant le dev
 - **stack** : TypeScript, React terminal
 - **usage** : Agent de codage utilisé transversalement chez Anthropic (produit, devrel, design écrivent du code) pour une livraison de bout en bout
@@ -263,6 +263,7 @@
 - [[kb/Groupe-étatique-chinois\|Groupe étatique chinois]] **utilise** → Claude Code — 0.95
 - [[kb/Mark-Dembo\|Mark Dembo]] **utilise** → Claude Code — 0.95
 - [[kb/_entites-mineures#Cowork\|Cowork]] **est_basé_sur** → Claude Code — 0.94
+- [[kb/shunt\|shunt]] **fait_partie_de** → Claude Code — 0.94
 - [[kb/GLM-5.3\|GLM-5.3]] **observé_dans** → Claude Code — 0.94
 - effondrement couche environnement **observé_dans** → Claude Code — 0.93
 - [[kb/_entites-mineures#hypothèses-erronées-sans-vérification\|hypothèses erronées sans vérification]] **observé_dans** → Claude Code — 0.93
@@ -313,6 +314,7 @@
 - [[fiches/2026-06/lushbinary-loop-engineering-ai-coding-agents-guide-2026-06-09\|Loop Engineering: The Guide for AI Agents]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
 - [[fiches/2026-02/martinho-allen-cloudflare-markdown-for-agents-2026-02-12\|Introducing Markdown for Agents]]
+- [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-03/mollick-entreprises-blocage-ia-adoption-2026-03-05\|It is amazing how many companies I talk to STILL have AI effectively blocked by IT & legal departments...]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]

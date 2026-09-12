@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 404 fiches | 1975-12 → 2026-09-10 | généré le 2026-09-11
+> 405 fiches | 1975-12 → 2026-09-10 | généré le 2026-09-12
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -11,6 +11,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **10** [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com. · Anthropic — threat intelligence, mésusage de l'IA, Generative Threat Group
 - **08** [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler. · martinfowler.com (Sumeet Gayathri Moghe) — présentation, slides, slideware
 - **06** [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon). · SFEIR — IA agentique, plateformisation, domaines métier exposés par API
+- **03** [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com. · engineering.atspotify.com (Dimitri Mazmanov) — Portal by Spotify, AiKA Modes, shunt
 - **01** [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle. · Anthropic — Claude Fable 5.1, Claude Mythos 5.1, modèle de fondation
 
 ### 2026-08
@@ -516,6 +517,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Agents de codage IA & Skills
 
+- [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
 - [The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage](fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21.md) — Louis Claxton (Anthropic, équipe Applied AI), sur le blog claude.com ; contributions créditées à Jim Blackhurst, Will Steuk et Jamal Arif.
 - [The Claude Code guide for startups](fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20.md) — Michael Segner, auteur du guide sur le blog claude.com (fonction non affichée par la page) ; entretiens avec les dirigeants de quinze entreprises nommées.
@@ -864,6 +866,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
+- [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
@@ -1009,6 +1012,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Outils & Plateformes
 
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
+- [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
 - [Designing AI with character: what we learned building Berd](fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18.md) — **Aucun auteur nommé** : le billet est signé **« Block »** — le champ *Author* de la page porte le nom de l'entreprise. Publié le **18 août 2026** sur `block.xyz/inside`, le blog **corporate**, et non sur `engineering.block.xyz`.
 - [Securing Software at the Speed of AI: What Four Years of Data Reveal](fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18.md) — Aaron Linskens, *technical writer* chez Sonatype, sur le blog de l'éditeur ; les chiffres sont produits par Sonatype Research Labs, non par l'auteur.
@@ -1122,17 +1126,17 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 404 fiches
-- **Par année** : 2026 (227) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 405 fiches
+- **Par année** : 2026 (228) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 147
+  - Agents de codage IA & Skills : 148
   - Architecture & Construction : 55
   - Transformation & Adoption : 86
   - Qualité & Sécurité : 46
-  - Économie & Marché : 84
+  - Économie & Marché : 85
   - Philosophie & Société : 24
   - Stratégie & Frameworks : 29
-  - Outils & Plateformes : 54
+  - Outils & Plateformes : 55
   - Recherche & Éducation : 12
   - Produits & Services : 12
   - Politique & Régulation : 24
