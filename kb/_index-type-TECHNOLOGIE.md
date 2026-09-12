@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 804 entités de type TECHNOLOGIE
+> 805 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -533,6 +533,7 @@
 - [[kb/_entites-mineures#Qwen\|Qwen]] — statut: Versions 3.5, 3.6 et 3.7 déclarées entraînées sur des traces de raisonnement extraites d'Opus 4.6 et 4.7 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen2.5-14b-2507\|Qwen2.5-14b-2507]] — catégorie: Modèle open-source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qwen3Guard\|Qwen3Guard]] — positionnement: Modèle de sûreté concurrent, version 8B mesurée à 84,0 % de F1 texte dans les benchmarks Mistral (1 occ., 1 fiches)
+- [[kb/RADAR\|RADAR]] — mécanisme: Risk Aware Diff Auto Review de Meta : automatise la revue d'un sous-ensemble de diffs à risque faible-à-moyen et route les autres vers des humains, avec critères d'éligibilité explicites (1 occ., 1 fiches)
 - [[kb/RAG\|RAG]] — statut: Technologie en déclin structurel (4 occ., 4 fiches)
 - [[kb/_entites-mineures#RAG-Agent\|RAG Agent]] — catégorie: Agent recherche rapports certifiés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RAG-Anything\|RAG-Anything]] — capacité: Traitement texte, images, tableaux, équations (1 occ., 1 fiches)

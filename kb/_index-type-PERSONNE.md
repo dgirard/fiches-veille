@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 510 entités de type PERSONNE
+> 512 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -86,6 +86,7 @@
 - [[kb/_entites-mineures#Bradley-Shimmin\|Bradley Shimmin]] — rôle: Lead data intelligence and analytics practice, The Futurum Group (1 occ., 1 fiches)
 - [[kb/Bret-Taylor\|Bret Taylor]] — rôle: Co-fondateur et CEO de Sierra, président du conseil d'OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brian-Fioca\|Brian Fioca]] — rôle: Engineering, OpenAI (1 occ., 1 fiches)
+- [[kb/Brian-Houck\|Brian Houck]] — rôle: Contradicteur nommé, rattaché à DX ; auteur du texte auquel ce billet répond (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Brian-Kessman\|Brian Kessman]] — rôle: Founder/Principal Lodestar Agency Consulting. Auteur principal du rapport VoxComm "Redesigning the Agency Value Model" (mars 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brian-Scanlan\|Brian Scanlan]] — rôle: Membre Intercom, auteur du thread viral sur plugin ecosystem agent-first (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Brice-Challamel\|Brice Challamel]] — rôle: Head of AI Products and Platforms chez Moderna (1 occ., 1 fiches)
@@ -298,7 +299,7 @@
 - [[kb/_entites-mineures#Marc-Benioff\|Marc Benioff]] — rôle: CEO Salesforce (1 occ., 1 fiches)
 - [[kb/Marco-Mornati\|Marco Mornati]] — role: Developpeur, blogueur technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Marco-Rubio\|Marco Rubio]] — rôle: Secrétaire d'État et Conseiller national à la sécurité par intérim (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] — rôle: Chercheuse en génie logiciel (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] — rôle: Chercheuse créditée d'avoir nommé la dette cognitive et la dette d'intention (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Marilyn-Strathern\|Marilyn Strathern]] — rôle: Anthropologue, autrice de la reformulation canonique (1997) (1 occ., 1 fiches)
 - [[kb/Mark-Dembo\|Mark Dembo]] — rôle: Head of Solutions – Developer Platform & AI chez Cloudflare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mark-Raasveldt\|Mark Raasveldt]] — rôle: Co-créateur de DuckDB, ancien chercheur au CWI (1 occ., 1 fiches)
@@ -386,6 +387,7 @@
 - [[kb/Prasanna-Sankar\|Prasanna Sankar]] — rôle: Co-fondateur et ex-CTO de Rippling ($16B+), fondateur et CEO de Vorflux AI, #1 coder en Inde (revendiqué) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] — rôle: Équipe Applied AI, Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Qizheng-Zhang\|Qizheng Zhang]] — affiliation: Stanford University (1 occ., 1 fiches)
+- [[kb/Rachel-Laycock\|Rachel Laycock]] — rôle: CTO de Thoughtworks, autrice de la section *Rachel's Ramblings* sur martinfowler.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rafael-Marques\|Rafael Marques]] — rôle: Product Manager, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raffi-Krikorian\|Raffi Krikorian]] — rôle: Chief Technology Officer de Mozilla, auteur de la lettre d'ouverture du rapport (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ranganathan-&-Ye\|Ranganathan & Ye]] — rôle: Chercheurs publiés dans HBR (1 occ., 1 fiches)

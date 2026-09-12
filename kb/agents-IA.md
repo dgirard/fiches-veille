@@ -1,6 +1,6 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 31 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 32 relations | 4 fiches sources
 
 ## Attributs
 
@@ -56,6 +56,8 @@
   - [[fiches/2026-05/frizzo-linkedin-year-claude-code-output-doubled-attention-span-2026-05-05\|A Year With Claude Code: My Output Doubled. My Attention Span Didn't.]]
 - travail économiquement pertinent (CONCEPT) — 0.93, STATIQUE
   - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
+- « participer aux boucles amont en contestant des designs, testant des hypothèses et vérifiant en continu, la pensée restant humaine » (AFFIRMATION) — 0.88, ATEMPOREL
+  - [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 - [[kb/dette-technique\|dette technique]] (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-11/harrison-maniar-mckinsey-reshaping-software-delivery-agents-2025-11-23\|Moving away from Agile: What's Next? Reshaping Software Delivery with Agents]]
 

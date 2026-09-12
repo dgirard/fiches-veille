@@ -1,13 +1,19 @@
 # Meta
 
-> **Type** : ORGANISATION | 16 relations | 2 fiches sources
+> **Type** : ORGANISATION | 18 relations | 3 fiches sources
 
 ## Attributs
 
+- **apport** : Source de la télémétrie de volume de diffs citée en ouverture et opérateur du système RADAR
 - **positionnement** : Se déclare en août 2026 « la seule entreprise principalement concentrée sur la superintelligence personnelle pour tous », par opposition aux labos construisant pour les entreprises, gouvernements et institutions ; annonce une gouvernance donnant au conseil indépendant l'approbation des critères de publication, un mode entièrement privé, des accès gratuits doublés d'une enchère dynamique sur le compute, et la reprise de publications open source
 - **secteur** : Réseaux sociaux / IA
 
 ## Relations (comme sujet)
+
+### a_créé
+
+- [[kb/RADAR\|RADAR]] (TECHNOLOGIE) — 0.95, STATIQUE
+  - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### concurrence
 
@@ -16,6 +22,8 @@
 
 ### mesure
 
+- « lignes significatives par diff humainement fusionné +106 % et diffs par développeur et par mois +51 % en un an, dont plus de 80 % attribués à l'IA agentique » (MESURE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 - « une prime de 50 000 dollars versée aux enseignants de Richland Parish en Louisiane grâce aux recettes fiscales du datacenter, chiffre autodéclaré et non audité » (MESURE) — 0.85, STATIQUE
   - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
@@ -64,4 +72,5 @@
 ## Fiches sources
 
 - [[fiches/2026-01/ahrens-meta-manus-acquisition-agentic-ai-2026-01-01\|The Meta-Manus Deal: How a $2B AI Gamble Redefines Tech Borders and Our Digital Future]]
+- [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 - [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]

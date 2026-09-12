@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2818 entités avec moins de 3 triples/fiches
+> 2831 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (376)
 
@@ -1812,7 +1812,7 @@
 
 - **rôle** : Deputy CTO chez DX
 
-- **travaille_chez** → [[kb/_entites-mineures#DX\|DX]] (ORGANISATION) — 0.98
+- **travaille_chez** → [[kb/DX\|DX]] (ORGANISATION) — 0.98
 - **affirme_que** → « les moyennes cachent une volatilité extrême de l'impact IA » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]]
@@ -2158,13 +2158,14 @@
 
 ### Margaret-Anne Storey {#Margaret-Anne-Storey}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : Chercheuse en génie logiciel
+- **rôle** : Chercheuse créditée d'avoir nommé la dette cognitive et la dette d'intention
 
 - **a_créé** → [[kb/_entites-mineures#Dette-cognitive\|dette cognitive]] (CONCEPT) — 0.95
+- **a_créé** → [[kb/_entites-mineures#dette-cognitive-et-dette-d'intention\|dette cognitive et dette d'intention]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]]
+**Fiches** : [[fiches/2026-02/fowler-thoughtworks-retreat-llm-software-development-2026-02-13\|Fragments: February 13]], [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### Marilyn Strathern {#Marilyn-Strathern}
 
@@ -4575,19 +4576,6 @@
 
 **Fiches** : [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]], [[fiches/2025-09/transformation-ai-first-15-questions-laissy-2025-09-15\|STRUCTURER LA TRANSFORMATION AI-FIRST EN 15 QUESTIONS]]
 
-### DX {#DX}
-
-**Type** : ORGANISATION | 3 relations | 2 fiches
-
-- **secteur** : Plateforme Developer Experience / Métriques
-
-- **permet** → mesure de l'efficacité ingénierie en entreprise (CONCEPT) — 0.95
-
-- [[kb/_entites-mineures#Justin-Reock\|Justin Reock]] **travaille_chez** → DX — 0.98
-- [[kb/Laura-Tacho\|Laura Tacho]] **travaille_chez** → DX — 0.98
-
-**Fiches** : [[fiches/2025-09/pragmatic-engineer-measure-ai-impact-dev-2025-09-16\|HOW TECH COMPANIES MEASURE THE IMPACT OF AI ON SOFTWARE DEVELOPMENT]], [[fiches/2025-11/reock-dx-leadership-ai-engineering-metrics-2025-11-23\|Effective Leadership in AI-Enhanced Organizations]]
-
 ### Databricks {#Databricks}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5680,6 +5668,16 @@
 - Transfig **collabore_avec** → Modern Software Engineering — 0.93
 
 **Fiches** : [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+
+### Moderne {#Moderne}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Hôte du panel Code Remix ; éditeur cité sans autre développement
+
+- **publie** → [[kb/_entites-mineures#Code-Remix\|Code Remix]] (EVENEMENT) — 0.88
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 
 ### Monks {#Monks}
 
@@ -13471,7 +13469,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (955)
+## CONCEPT (957)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -18244,6 +18242,16 @@
 
 **Fiches** : [[fiches/2025-11/mollick-giving-ai-job-interview-2025-11-12\|Giving your AI a Job Interview]]
 
+### bikeshedding {#bikeshedding}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dispute sur des points mineurs pendant que les problèmes sérieux restent inexaminés ; échec de revue documenté avant l'IA
+
+- **observé_dans** → « les échecs de revue les plus fréquents, où l'on dispute du détail pendant que le sérieux reste inexaminé » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+
 ### bottleneck-shifting {#bottleneck-shifting}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -19261,6 +19269,19 @@
 - **observé_dans** → [[kb/Square\|Square]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-08/block-berd-caractere-agents-open-source-2026-08-18\|Designing AI with character: what we learned building Berd]]
+
+### dette cognitive et dette d'intention {#dette-cognitive-et-dette-d'intention}
+
+**Type** : CONCEPT | 2 relations | 2 fiches
+
+- **définition** : Écart croissant entre le comportement du système et la compréhension collective de son pourquoi ; se manifeste à l'incident, à la passation ou à la refonte
+- **statut** : Concédée comme problème réel, mais dont la pull request obligatoire est jugée une défense faible
+
+- **mesure** → « écart croissant entre ce que le système fait et ce que l'organisation comprend du pourquoi, invisible sur les tableaux de bord » (AFFIRMATION) — 0.89
+
+- [[kb/_entites-mineures#Margaret-Anne-Storey\|Margaret-Anne Storey]] **a_créé** → dette cognitive et dette d'intention — 0.90
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]], [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 
 ### dette technique sociétale {#dette-technique-sociétale}
 
@@ -22685,7 +22706,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (367)
+## METHODOLOGIE (372)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25373,6 +25394,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-4-prosecution-not-code-review-2026-06-12\|Prosecution, Not Code Review]]
 
+### fitness functions {#fitness-functions}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Encodage exécutable des contraintes architecturales, posé après un design collectif plutôt que vérifié en revue
+
+- **permet** → encoder les contraintes architecturales importantes après un design commun (CONCEPT) — 0.92
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
 ### formulation de vision précise {#formulation-de-vision-précise}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25599,6 +25630,16 @@
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
 
+### mob programming {#mob-programming}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Dispositif de propriété collective, avec les sessions de design d'équipe au tableau, en amont de l'écriture ou de l'instruction donnée à l'agent
+
+- **permet** → « propriété collective par construction, au lieu d'une notification de l'équipe après coup » (AFFIRMATION) — 0.89
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
 ### mode headless {#mode-headless}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25707,6 +25748,17 @@
 - **séquence** : Foundation → shared packages → apps
 
 **Fiches** : [[fiches/2026-06/williams-adlc-5-three-dials-parallel-agents-2026-06-12\|Three Dials: Parallel Agents Without Merge Hell]]
+
+### pair programming {#pair-programming}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **rôle** : Substitut proposé à la revue pour le transfert de connaissance et l'apprentissage des juniors, parce qu'il opère pendant le raisonnement et non après
+
+- **remplace** → « la revue de code comme mécanisme de transfert de connaissance » (AFFIRMATION) — 0.92
+- **surpasse** → « la lecture d'une solution achevée pour apprendre le raisonnement d'un ingénieur expérimenté » (AFFIRMATION) — 0.91
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 
 ### pattern Committee {#pattern-Committee}
 
@@ -25865,6 +25917,16 @@
 
 **Fiches** : [[fiches/2026-08/segner-anthropic-claude-code-guide-startups-2026-08-20\|The Claude Code guide for startups]]
 
+### pull request {#pull-request}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **critique** : Contestée comme centre du processus de développement : construire, finir, emballer et transmettre avant d'avoir la conversation importante
+
+- **réduit** → « faiblement la dette cognitive et d'intention lorsqu'elle est rendue obligatoire, contre l'usage qui lui est prêté » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
 ### pédagogie socratique {#pédagogie-socratique}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25938,17 +26000,6 @@
 
 **Fiches** : [[fiches/2026-07/sumner-bun-rewrite-rust-claude-2026-07-08\|Rewriting Bun in Rust]]
 
-### revue de code {#revue-de-code}
-
-**Type** : METHODOLOGIE | 2 relations | 1 fiches
-
-- **objectifs** : Trouver les défauts, qualité, conformité, partage de connaissance
-
-- **est_instance_de** → goulot d'étranglement du développement assisté IA (CONCEPT) — 0.92
-- **est_basé_sur** → [[kb/_entites-mineures#inspection-de-Fagan-(1976)\|inspection de Fagan (1976)]] (DOCUMENT) — 0.88
-
-**Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
-
 ### revue de code IA {#revue-de-code-IA}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -25989,6 +26040,17 @@
 - **réduit** → [[kb/dette-technique\|dette technique]] (CONCEPT) — 0.85
 
 **Fiches** : [[fiches/2025-09/ia-sdlc-cutting-hype-aijournal-2025-09-15\|AI in the SDLC: Cutting Through the Hype]]
+
+### revue par exception {#revue-par-exception}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **définition** : Réserver la revue humaine aux classes de changement où le jugement humain apporte, au lieu d'inspecter systématiquement chaque changement
+
+- **s_applique_à** → changement architectural fondamental, frontière de sécurité sensible, large rayon d'impact, zone inconnue d'un système critique, inconfiance déclarée de l'équipe (CONCEPT) — 0.94
+- **s_oppose_à** → « exiger l'inspection humaine de chaque changement au titre de la cérémonie historique de production de confiance » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 
 ### role-playing {#role-playing}
 
@@ -26133,6 +26195,16 @@
 - [[kb/Kiro\|Kiro]] **utilise** → spec coding — 0.98
 
 **Fiches** : [[fiches/2025-07/aws-kiro-specification-driven-agentic-ide-forbes-2025-07-15\|AWS Launches Kiro, A Specification-Driven Agentic IDE]]
+
+### stratification par risque {#stratification-par-risque}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **principe** : Réserver l'attention humaine rare aux changements où le jugement et la redevabilité comptent, au lieu d'automatiser ou d'inspecter uniformément
+
+- **s_oppose_à** → « automatisation indifférenciée de la revue sur tous les changements » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### suite de tests {#suite-de-tests}
 
@@ -26389,7 +26461,7 @@
 
 **Fiches** : [[fiches/2026-06/saboo-loop-engineering-product-managers-2026-06-21\|Loop Engineering for Product Managers]]
 
-## EVENEMENT (48)
+## EVENEMENT (49)
 
 ### 100% code généré (Cherny) {#100%-code-généré-(Cherny)}
 
@@ -26462,6 +26534,18 @@
 - **description** : Avril 2026 — cocktail Molotov lancé sur propriété SF Sam Altman, puis quelques jours plus tard attaque par armes à feu sur sa maison. Événements documentés cités par Wallace-Wells comme "warning shots" du AI populism
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+
+### Code Remix {#Code-Remix}
+
+**Type** : EVENEMENT | 2 relations | 1 fiches
+
+- **nature** : Panel hébergé par Moderne où Laycock et Houck se sont publiquement opposés
+
+- **observé_dans** → « le désaccord public entre Rachel Laycock et Brian Houck, à l'origine du billet » (AFFIRMATION) — 0.90
+
+- [[kb/_entites-mineures#Moderne\|Moderne]] **publie** → Code Remix — 0.88
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
 
 ### Contrainte verbosité {#Contrainte-verbosité}
 
@@ -26903,7 +26987,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (131)
+## DOCUMENT (136)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -26966,6 +27050,16 @@
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] **est_basé_sur** → AI Jobs Transition Framework — 0.92
 
 **Fiches** : [[fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27\|How AI is expanding what people do at work (Work at the Frontier, rapport 1)]]
+
+### AI Where It Matters {#AI-Where-It-Matters}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **nature** : Recherche qualitative DX sur ce que les développeurs veulent et refusent de déléguer à l'IA en revue
+
+- **affirme_que** → « les développeurs veulent que l'IA détecte les risques et absorbe le routinier, mais refusent auto-merge, auto-commit et transfert de la redevabilité finale » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### AI-Powered Engineering at Scale: The Adoption Playbook {#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook}
 
@@ -27523,6 +27617,18 @@
 
 **Fiches** : [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto]]
 
+### Maybe We Shouldn't Be Reviewing All This Code {#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **format** : Billet d'environ 8 000 caractères publié le 2 septembre 2026, réponse explicite à l'édition d'Engineering Enablement de Brian Houck du 5 août
+
+- **s_oppose_à** → [[kb/_entites-mineures#What-are-code-reviews-even-for\|What are code reviews even for?]] (DOCUMENT) — 0.96
+
+- [[kb/Rachel-Laycock\|Rachel Laycock]] **a_créé** → Maybe We Shouldn't Be Reviewing All This Code — 0.97
+
+**Fiches** : [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code]]
+
 ### Meta Internal Coding Bench {#Meta-Internal-Coding-Bench}
 
 **Type** : DOCUMENT | 0 relations | 1 fiches
@@ -27530,6 +27636,16 @@
 - **référence** : Benchmark de codage propriétaire de Meta, non public et de composition non décrite, sur lequel Opus 5 devance Muse Spark 1.2 de 8,8 points
 
 **Fiches** : [[fiches/2026-08/meta-muse-code-muse-spark-1-2-2026-08-05\|Introducing Muse Code and Muse Spark 1.2]]
+
+### Modern Code Review {#Modern-Code-Review}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Bacchelli & Bird, ICSE 2013 ; source du chiffre des 14 % de commentaires liés aux défauts
+
+- **mesure** → « les commentaires liés aux défauts ne représentent que 14 % des commentaires réellement écrits en revue » (MESURE) — 0.94
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### Mon usine logicielle à l'heure de l'IA {#Mon-usine-logicielle-à-l'heure-de-l'IA}
 
@@ -27991,6 +28107,18 @@
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
 
+### What are code reviews even for? {#What-are-code-reviews-even-for}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **format** : Édition de newsletter d'environ 13 000 caractères, publiée le 5 août 2026, à l'origine de la réponse de Rachel Laycock un mois plus tard
+
+- [[kb/DX\|DX]] **publie** → What are code reviews even for? — 0.97
+- [[kb/Brian-Houck\|Brian Houck]] **a_créé** → What are code reviews even for? — 0.96
+- [[kb/_entites-mineures#Maybe-We-Shouldn't-Be-Reviewing-All-This-Code\|Maybe We Shouldn't Be Reviewing All This Code]] **s_oppose_à** → What are code reviews even for? — 0.96
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
+
 ### When code is abundant {#When-code-is-abundant}
 
 **Type** : DOCUMENT | 3 relations | 1 fiches
@@ -28149,7 +28277,7 @@
 - **rôle** : Formalisme fondateur de l'inspection de code, cible historique du papier
 
 - [[kb/_entites-mineures#The-End-of-Code-Review-Coding-Agents-Supersede-Human-Inspection\|The End of Code Review: Coding Agents Supersede Human Inspection]] **référence** → inspection de Fagan (1976) — 0.90
-- [[kb/_entites-mineures#revue-de-code\|revue de code]] **est_basé_sur** → inspection de Fagan (1976) — 0.88
+- [[kb/revue-de-code\|revue de code]] **est_basé_sur** → inspection de Fagan (1976) — 0.88
 
 **Fiches** : [[fiches/2026-06/monperrus-end-of-code-review-agents-supersede-2026-06-11\|The End of Code Review: Coding Agents Supersede Human Inspection]]
 
@@ -28257,6 +28385,16 @@
 - **mesure** → « 73% d'acceptation de réponses IA fausses » (MESURE) — 0.97
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+
+### étude Microsoft 2016 sur la revue de code {#étude-Microsoft-2016-sur-la-revue-de-code}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **référence** : Enquête auprès de 911 développeurs ; délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles
+
+- **mesure** → « délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles ; 26 % seulement rédigent toujours une description détaillée » (MESURE) — 0.90
+
+**Fiches** : [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for?]]
 
 ### étude sur la transformation du travail {#étude-sur-la-transformation-du-travail}
 
