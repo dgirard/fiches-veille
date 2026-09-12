@@ -1,6 +1,6 @@
 # Knowledge Base — Context Engineering
 
-> 93 fiches | Période : Mai 2025 — Août 2026 | Mis à jour le 2026-08-25
+> 97 fiches | Période : Mai 2025 — Septembre 2026 | Mis à jour le 2026-09-12
 
 ## Vue d'ensemble
 
@@ -51,6 +51,25 @@ d'agents ne bat l'agent solo** à prix égal (Block, Terminal-Bench 2.1) — le
 gain n'apparaît qu'à horizon long ; et le run le plus cher n'est pas le
 meilleur (Opus 5 *xhigh* : 140,63 $ pour 75,0 %, sous six runs moins chers,
 par sur-raisonnement et timeouts).
+
+**Septembre 2026 attaque le cycle par ses deux bouts.** En amont, la question
+n'est plus comment instrumenter la revue mais **pourquoi elle arrive si tard** :
+Houck chiffre la saturation (+**106 %** de lignes par diff chez Meta, +**64 %**
+de taille médiane de PR) et rappelle, étude à l'appui, que la détection de
+défauts ne pèse que **14 %** des commentaires écrits ; Laycock lui répond en
+réaffectant chaque fonction non-défectologique en amont — pair programming,
+mob programming, design commun, *fitness functions* — et ne garde qu'une **revue
+par exception**. Le geste commun aux deux textes est de refuser d'*« automatiser
+la cérémonie plutôt que de questionner pourquoi la cérémonie existe »*. En aval,
+le contexte devient une **ressource qu'on route** plutôt qu'un budget qu'on
+subit : le plugin `shunt` de Spotify sort l'entrée-sortie du contexte de Claude
+Code vers un modèle secondaire (**~90 %** d'économie annoncée sur la lecture en
+masse), en remplaçant des règles de `CLAUDE.md` *« advisory, not enforced »* par
+des hooks bloquants — application directe du durcissement en exécutable du point
+3. Et l'exigence de contexte quitte le poste de développeur : chez Adeo et
+Decathlon, *« un agent n'a pas de bon sens »* fait de la **sémantique métier**
+— une définition unique par concept, écrite parce qu'un agent ne compense pas —
+un chantier d'entreprise au même rang que le harnais.
 
 ## Chronologie
 
@@ -231,6 +250,32 @@ par sur-raisonnement et timeouts).
   trouve **repart en `intent.md`**. Aucun résultat chiffré : le guide ne livre
   que des indicateurs et nomme la source de chacun.
 
+### 2026 — Septembre : la revue remontée en amont, le contexte routé
+
+- **5 août → 2 sept. 2026** — **Le débat Houck ↔ Laycock.** Houck (DX) part du
+  constat de saturation et repose la question d'usage — *« what problem was code
+  review solving before AI arrived? »* — puis propose de réparer les
+  fondamentaux, de concevoir l'IA autour du jugement humain et de stratifier par
+  risque (RADAR chez Meta). **Rachel Laycock** (CTO Thoughtworks) accepte le
+  diagnostic et déplace la question : *« why are we waiting until code review to
+  do all of those things? »* Chaque fonction est réaffectée à une boucle plus
+  courte, la revue devient **par exception** (changement architectural, frontière
+  de sécurité, rayon d'impact large, zone inconnue, inconfiance déclarée), et
+  l'agent-relecteur est écarté comme *« automating the ceremony »*.
+- **3 sept. 2026** — **`shunt`** (Dimitri Mazmanov, Spotify) : *« most of what an
+  AI coding agent does for me isn't thinking, it's I/O »*. Hooks `PreToolUse`
+  bloquant toute lecture au-delà de **350 lignes**, routage vers des *AiKA Modes*
+  Portal sur **Gemini 2.5 Flash** ; le corpus **n'entre jamais** dans le contexte
+  de Claude Code. **~90 %** d'économie sur `bulk-read`, avec trois limites
+  déclarées (édition et raisonnement non délégables, **10-30 s** de latence).
+- **6 sept. 2026** — **Adeo × Decathlon** : *« un agent n'a pas de bon sens »* —
+  il applique la définition telle quelle, y compris quand elle vaut pour la
+  France et pas pour l'Espagne. La **sémantique data** devient un chantier de
+  groupe à part entière, attaqué par verticales, à côté du **harnais**
+  (environnement, sandbox, skills) et de la sécurité par zones. Taillade :
+  organiser la connaissance était jusqu'ici une activité qui *« n'existait qu'à
+  la peine »*.
+
 ## Fiches sources
 
 ### ADLC — le cycle refondé sur les modes de défaillance des modèles (Williams, juin 2026)
@@ -252,6 +297,8 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-07/sfeir-architecte-ere-ia-2026-07-15\|Le rôle de l'architecte à l'ère de l'IA : d'Oracle à amplificateur d'intelligence, DDD comme garde-fou]]
 - [[fiches/2026-08/dumortier-marketing-ai-os-verification-2026-08-12\|Le vérificateur en monde clos certifie ce qu'il ignore : interdire le « pass » nu, déclarer sa couverture]]
 - [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook (Claxton) : six étapes en boucle, un artefact committé par gate, skill consultative vs hook déterministe]]
+- [[fiches/2026-08/houck-dx-what-are-code-reviews-for-2026-08-05\|What are code reviews even for? (Houck, DX) : +106 % de lignes par diff chez Meta, les défauts ne pèsent que 14 % des commentaires, stratification par risque]]
+- [[fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02\|Maybe We Shouldn't Be Reviewing All This Code (Laycock) : réponse à Houck, fonctions réaffectées en amont, revue par exception]]
 
 ### Usines logicielles & boucles
 
@@ -268,6 +315,7 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (Cherny) : 5 étapes 0→4, goulot + garde-fous à casser pour monter d'un cran]]
 - [[fiches/2026-07/cherny-wu-reflecting-year-claude-code-2026-07-17\|Reflecting on a year of Claude Code : produit et ingénierie fusionnent — parce que livrer devient bon marché]]
 - [[fiches/2026-07/martignole-token-manifesto-2026-07-17\|The Token Manifesto : « You don't have a prompt problem. You have a context-window problem. »]]
+- [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|shunt (Spotify) : hooks PreToolUse à 350 lignes, I/O routée vers un modèle secondaire, ~90 % d'économie sur la lecture en masse]]
 
 ### Protocoles & empaquetage (ACP, Agent Plugins)
 
@@ -298,6 +346,7 @@ par sur-raisonnement et timeouts).
 - [[fiches/2026-02/debois-tessl-context-development-lifecycle-ai-coding-agents-2026-02-19\|Context Development Lifecycle (CDLC) — cycle d'ingénierie du contexte pour agents de codage IA]]
 - [[fiches/2026-02/debois-tessl-context-flywheel-ai-coding-teams-2026-02-26\|Volant d'inertie contextuel — avantage compétitif des équipes IA par le contexte cumulé]]
 - [[fiches/2025-10/ace-agentic-context-engineering-stanford-2025-10-07\|Ingénierie de contexte agentique - Auto-amélioration LLM - Architecture réflexive - Stanford]]
+- [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|« Un agent n'a pas de bon sens » (Adeo × Decathlon) : la sémantique data comme chantier d'entreprise, une définition unique par concept métier]]
 - [[fiches/2025-07/context-engineering-domain-understanding-johnson-2025-07-23\|Context Engineering - Domain Understanding - DICE - Rod Johnson]]
 
 ### Harness Engineering

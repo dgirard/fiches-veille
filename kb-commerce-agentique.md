@@ -1,6 +1,6 @@
 # Knowledge Base — Commerce Agentique (UCP/ACP)
 
-> 14 fiches | Période : Février 2025 — Août 2026 | Revu le 2026-08-25 (généré le 2026-08-15, sans ajout)
+> 15 fiches | Période : Février 2025 — Septembre 2026 | Mis à jour le 2026-09-12
 
 ## Vue d'ensemble
 
@@ -84,6 +84,29 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
   ISI (bundles SaaS, abonnements, offres entreprise, usage) **n'en comptent
   aucune indexée sur le résultat**.
 
+### Septembre 2026 — la voix des marchands
+
+- **6 sept. 2026** — **Adeo et Decathlon** apportent au dossier la perspective
+  qui manquait à ce corpus : celle du **marchand**, pas de l'émetteur de
+  protocole. Romain Taillade (CTO Decathlon) nomme la conséquence que les
+  spécifications ACP/UCP laissent hors champ — **le retailer ne fabrique plus le
+  parcours**. Jusqu'ici il imposait son process (« tu commandes, tu reçois ») ;
+  face à un agent, *« la machine du client décide de l'ordre de la discussion »*,
+  peut commencer par la fin, revenir au milieu, négocier — et le socle doit
+  l'encaisser, y compris en appels par seconde. Sa question de veille est une
+  reformulation marchande de l'AEO : *« en combien de temps on pourrait
+  disparaître de cette conversation ? »* — « un tee-shirt **Kiprun** pour mon
+  marathon » garde Decathlon dans la boucle, la même demande sans la marque
+  ouvre la compétition à tous les vendeurs de running, **et le client fera
+  toujours moins d'effort**. Contrepoint de Matthieu Grymonprez (Adeo) : même
+  peur au lancement de Google Shopping, *« on n'a jamais fait autant
+  d'e-commerce »* — le client délègue le simple et peu risqué, pas le vélo cher
+  ni le parquet, et la moitié des dépenses chez Leroy Merlin relève de projets
+  construits en semaines. La responsabilité qu'il en tire est symétrique du
+  débat jardins clos / protocoles ouverts, mais posée côté offre : *« si demain
+  c'est plus facile d'avoir des réponses sur le bricolage chez ChatGPT ou sur
+  YouTube que chez moi, le problème il est chez moi »*.
+
 ## Fiches sources
 
 ### Portefeuilles et autorisation de paiement agentique
@@ -107,6 +130,7 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[fiches/2025-10/novik-ai-online-shopping-consumers-2025-10-26\|73% consommateurs utilisent IA pour achats en ligne, confiance équivalente vendeurs humains]]
 - [[fiches/2025-11/barron-ernst-rise-of-commerce-chatgpt-2025-11-08\|L'essor du commerce sur ChatGPT]]
 - [[fiches/2025-10/rafal-chatgpt-atlas-web-conversationnel-2025-10-22\|Web conversationnel, ChatGPT Atlas, e-commerce conversationnel]]
+- [[fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06\|Adeo × Decathlon : l'agent du client comme nouvel interlocuteur, « disparaître de la conversation », parcours hybrides sur les achats engageants]]
 
 ### Visibilité et découverte IA
 
@@ -157,6 +181,7 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[kb/_entites-mineures#Merit-Systems\|Merit Systems]] — Infrastructure commerce agentique ouvert (AgentCash)
 - [[kb/Cloudflare\|Cloudflare]] — Wallets, `cloudflare.pay`, Web Bot Auth ; parie sur x402 et le stablecoin plutôt que sur les réseaux de cartes
 - [[kb/Block\|Block]] — Cash App / [[kb/_entites-mineures#Square\|Square]] ; Moneybot et Managerbot déployés **avant** d'avoir choisi un modèle de prix ; Square intégré à Google Maps
+- [[kb/Adeo\|Adeo]] / [[kb/Decathlon\|Decathlon]] — Côté marchand : plateformisation par API comme préalable à l'agentique, et la perte de maîtrise du parcours comme premier effet constaté
 
 ### Personnes
 
@@ -169,6 +194,7 @@ lui-même (cf. fiche Girard, août 2026) : **on n'indexe jamais un sigle seul**.
 - [[kb/_entites-mineures#Will-Papper\|Will Papper]] — Auteur de l'annonce Cloudflare Wallets (Agents Week)
 - [[kb/Jack-Dorsey\|Jack Dorsey]] — Block ; « nous pouvons expérimenter plusieurs modèles » de tarification de l'IA
 - [[kb/Didier-Girard\|Didier Girard]] — Désambiguïsation du sigle ACP et règle d'indexation associée
+- [[kb/Matthieu-Grymonprez\|Matthieu Grymonprez]] (Adeo) / [[kb/Romain-Taillade\|Romain Taillade]] (Decathlon) — Parcours hybrides et « disparaître de la conversation »
 
 ## Concepts structurants
 
@@ -268,3 +294,6 @@ La couche disputée n'est plus le **checkout** (ACP/UCP) mais le **portefeuille*
 - **Square dans Google Maps** : découverte et commande conversationnelles, présentées comme « la première étape d'un partenariat plus large »
 - **Aucune des quatre voies de monétisation** listées par Evercore ISI pour l'IA de Block (bundles SaaS, abonnements, offres entreprise, usage) **n'est indexée sur le résultat**
 - **Cloudflare Wallets, jour de l'annonce** : seule la **réservation d'un handle** est en service — une prise de position sur un espace de noms plus qu'une mise en service
+- **L'AEO reformulé côté marchand** : la requête qui cite la marque garde le vendeur dans la conversation, la même sans la marque l'en sort — et c'est la seconde qui gagne, parce que le client fait toujours moins d'effort (Decathlon, sept. 2026)
+- **Le parcours n'est plus imposé par le vendeur** : avec un agent en face, l'ordre de la discussion appartient au client — contrainte de **socle technique** (appels par seconde) autant que de conception
+- **Les parcours restent hybrides sur l'engageant** : le client délègue le simple et peu risqué, pas l'achat cher ou durable ; la moitié des dépenses chez Leroy Merlin relève de projets construits en semaines
