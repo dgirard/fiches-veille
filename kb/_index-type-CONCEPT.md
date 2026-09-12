@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 996 entités de type CONCEPT
+> 1000 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -132,6 +132,7 @@
 - [[kb/_entites-mineures#Centralize-expertise-not-innovation\|Centralize expertise not innovation]] — définition: Principe canonique cité par Hohpe (attribué à Peter / Thoughtworks) — la plateforme évite la réinvention de la roue (expertise commune) mais laisse l'innovation aux équipes proches du client (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Charge-cognitive\|Charge cognitive]] — levier: Chunking, interactions exploratoires, questions de réflexion (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Chatbot\|Chatbot]] — niveau: 1 — conversation sans contexte embarqué (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Checkpoints-de-capacité\|Checkpoints de capacité]] — forme: Si capacité X (ex. échapper aux méthodes de sandboxing courantes), alors certifications d'alignement Y et Z (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-clés-systémiques-d'adoption\|Cinq clés systémiques d'adoption]] — définition: Trust + Platform + Data + Users + Guardrails — capabilities organisationnelles qui transforment l'adoption en valeur financière (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-collaboration-patterns-(Lattice)\|Cinq collaboration patterns (Lattice)]] — source: Série d'articles martinfowler.com par techygarg expliquant les patterns sous-jacents au framework (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cinq-oligarques-IA-américains\|Cinq oligarques IA américains]] — description: Sam Altman (OpenAI), Dario Amodei (Anthropic), Elon Musk (xAI), Mark Zuckerberg (Meta), Demis Hassabis (Google DeepMind). Wallace-Wells les qualifie de "new faces of American oligarchy", "several widely described as sociopaths" (1 occ., 1 fiches)
@@ -171,6 +172,7 @@
 - [[kb/_entites-mineures#Convergence-cognitive-orchestrator-agent-supervisor\|Convergence cognitive orchestrator / agent supervisor]] — description: Pattern transversal 2026 : un nouveau rôle organisationnel émerge, nommé différemment (cognitive orchestrator chez Kamelman, agent harness engineer chez Osmani, agent supervisor chez Mornati, juge stratégique/manager d'agents chez Wescale, six zones doctrine chez Habert) avec trois fonctions invariantes : feedback design, guardrails, alignment measurement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Convergence-services-intellectuels-billable-→-outcome\|Convergence services intellectuels billable → outcome]] — description: Pattern industriel 2026 : consulting (McKinsey/Sternfels 60k people 20k agents), agences (VoxComm/MediaPost), SaaS (Bain Rule of 40 → 30) basculent simultanément du time-and-materials vers outcome-based pricing (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Conway's-Law\|Conway's Law]] — domaine: Design organisationnel / architecture système (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Coordination-mondiale\|Coordination mondiale]] — gradation: Quatre niveaux : usages bioterroristes, test avant publication, plafond d'auto-amélioration, pause générale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Copilot\|Copilot]] — niveau: 2 — IA dans l'espace de travail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Corporate-messaging\|Corporate messaging]] — catégorie: Troisième moteur, recadrage overhiring en efficience IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cost-Iceberg\|Cost Iceberg]] — définition: 80%+ du coût réel caché (intégrations, supervision, MLOps, compliance) (1 occ., 1 fiches)
@@ -281,6 +283,7 @@
 - [[kb/_entites-mineures#Infodeck\|Infodeck]] — définition: Document mis en page dans une interface de slides, pour du « light reading » ; ni slideument ni support de présentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Instant-Checkout\|Instant Checkout]] — statut: Disponible sur Etsy et Walmart aux États-Unis en 2025 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] — définition: Alternance dynamique pensée-action pour tâches long horizon (1 occ., 1 fiches)
+- [[kb/Interprétabilité\|Interprétabilité]] — analogie: « IRM » du cerveau d'un modèle ; progrès jugés possibles en 1-2 ans avec un effort concentré (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Introspection\|Introspection]] — catégorie: Pratique de conscience de soi et reconnaissance de patterns (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Investment-bias\|Investment bias]] — définition: Budgets IA orientés sales/marketing alors qu'operations/finance offrent un meilleur ROI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Is-This-Architecture-Look-for-Decisions\|Is This Architecture? Look for Decisions]] — thèse: Un artefact est une architecture s'il porte des décisions non triviales et leur justification (1 occ., 1 fiches)
@@ -344,6 +347,7 @@
 - [[kb/Outcome-based-pricing\|Outcome-based pricing]] — définition: Modèle économique futur SaaS où revenue se déplace de fixed seats vers labor/operations economics — paid for outcomes/work delivered, not seats. Convergence avec Levie agents trillion + Sierra autonomous resolution (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Overhiring-pandémique-2020-2022\|Overhiring pandémique 2020-2022]] — catégorie: Phénomène recadré en "efficience IA" lors des layoffs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#PLC\|PLC]] — définition: Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail ») (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Pacing-the-frontier\|Pacing the frontier]] — définition: Cadencer le progrès en capacités pour que la prévention du risque suive — ni arrêt de l'entraînement ni gel du progrès technique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] — catégorie: 30% features cassées au premier essai (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Paradoxe-d'Accès\|Paradoxe d'Accès]] — insight_clé: l'avantage vient du déploiement différencié, non de la vitesse (1 occ., 1 fiches)
 - [[kb/Paradoxe-de-Jevons\|Paradoxe de Jevons]] — categorie: Loi economique - demande infinie quand cout tend vers zero (5 occ., 5 fiches)
@@ -516,7 +520,7 @@
 - [[kb/_entites-mineures#attention_sparse_dynamique\|attention_sparse_dynamique]] — effet: réduction coûts inférence 6-7x sur contextes longs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#audit-d'indépendance-des-sources\|audit d'indépendance des sources]] — définition: Regroupement des copies syndiquées et dérivées afin qu'un ensemble de reprises d'une même origine ne compte que pour une voix dans l'évaluation d'un consensus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#authentification-Git-par-clé-Nostr\|authentification Git par clé Nostr]] — définition: Une seule paire de clés pour la conversation et le dépôt — ni jeton dédié, ni compte GitHub tiers (1 occ., 1 fiches)
-- [[kb/_entites-mineures#auto-amélioration-récursive\|auto-amélioration récursive]] — définition: Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue (1 occ., 1 fiches)
+- [[kb/auto-amélioration-récursive\|auto-amélioration récursive]] — définition: Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue (2 occ., 2 fiches)
 - [[kb/_entites-mineures#automatisation-d'agents-IA\|automatisation d'agents IA]] — bénéfice: Réduction du temps de développement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-(vs-souveraineté)\|autonomie (vs souveraineté)]] — définition: Posture LVMH : hybridation multicloud + indépendance, mot « souveraineté » récusé car ambigu (1 occ., 1 fiches)
 - [[kb/_entites-mineures#autonomie-intellectuelle\|autonomie intellectuelle]] — enjeu: Condition de la dignité humaine et de la responsabilité morale (1 occ., 1 fiches)

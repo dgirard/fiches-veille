@@ -1,11 +1,11 @@
 # METR
 
-> **Type** : ORGANISATION | 13 relations | 3 fiches sources
+> **Type** : ORGANISATION | 14 relations | 4 fiches sources
 
 ## Attributs
 
 - **nom complet** : Model Evaluation & Threat Research
-- **rôle** : Évaluateur indépendant ; signale un reward hacking record de Sol (horizon temporel de 11 h à 270+ h selon traitement) — éval du 26 juin 2026
+- **rôle** : Cité comme type d'évaluateur tiers susceptible d'être embarqué
 - **statut** : Organisation de recherche à but non lucratif
 
 ## Relations (comme sujet)
@@ -52,9 +52,11 @@
 ## Relations (comme objet)
 
 - article Agency and Agents **est_basé_sur** → METR — 0.90
+- [[kb/Dario-Amodei\|Dario Amodei]] **référence** → METR — 0.90
 
 ## Fiches sources
 
+- [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - [[fiches/2023-07/metr-study-ai-agents-autonomous-replication-risk-2023-07-31\|METR Study: Evaluating Autonomous Replication and Adaptation in AI Agents]]
 - [[fiches/2025-09/mollick-real-ai-agents-work-oneusefulthing-2025-09-29\|Real AI Agents and Real Work: The race between human-centered work and infinite PowerPoints]]
 - [[fiches/2026-07/sfeir-gpt56-sol-terra-luna-coding-agentique-pricing-2026-07-13\|GPT-5.6 Sol, Terra, Luna : comment OpenAI rebat les cartes du coding agentique et du pricing]]

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 152 entités de type DOCUMENT
+> 153 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -31,7 +31,7 @@
 - [[kb/_entites-mineures#CONCEPTS-md\|CONCEPTS.md]] — rôle: Vocabulaire partagé (glossaire, jamais des specs) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-MAP-md\|CONTEXT-MAP.md]] — rôle: Pointe vers les CONTEXT.md/docs/adr de chaque bounded context (1 occ., 1 fiches)
 - [[kb/_entites-mineures#CONTEXT-md\|CONTEXT.md]] — nature: Glossaire du vocabulaire métier (sans détails d'implémentation) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] — fonction: Autorité racine sur le comportement de Claude (alignement au provider) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] — fonction: Porte les principes d'alignement des modèles Claude (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Clouded-Judgement\|Clouded Judgement]] — catégorie: Newsletter SaaS / cloud software (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Co-Intelligence\|Co-Intelligence]] — type: Livre, nommé meilleur livre 2024 par Amazon et The Economist (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compound-Engineering-The-Definitive-Guide\|Compound Engineering: The Definitive Guide]] — type: Handbook de référence (Every Source Code + guide complet) (1 occ., 1 fiches)
@@ -87,6 +87,7 @@
 - [[kb/_entites-mineures#Refresh-2026\|Refresh 2026]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] — portée: Aurait influencé SB 53, NY RAISE Act, EU AI Act (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SALT\|SALT]] — analogie: Traités de plafonnement des missiles ; modèle invoqué pour un plafond de vitesse sur l'auto-amélioration récursive (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SWE-Bench-Pro\|SWE-Bench Pro]] — rôle: Benchmark issues GitHub réalistes où Claude domine (Mythos 5 80,3 %, Fable 5 80 %, Sol 64,6 %) ; audit OpenAI ~30 % « cassé » la veille du lancement (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SWE-bench\|SWE-bench]] — rôle: Benchmark de résolution d'issues GitHub réelles (~20-40 % selon modèles) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Safe-Use-Policy\|Safe Use Policy]] — définition: Politique d'usage liée en pied de page de la page produit de DeepSeek Harness, sensiblement plus directe que l'argumentaire : l'outil est décrit comme *locally-first* et capable d'exécuter du code sur la machine de l'utilisateur, les garde-fous des modèles de fondation contre l'injection de prompt sont qualifiés de basiques, et l'agent peut exécuter des commandes embarquées dans le contenu qu'il lit même lorsqu'elles contredisent la tâche assignée. Six précautions recommandées, dont la revue préalable de tout plugin, serveur MCP, Skill ou Hook installé — ce qui tempère l'invitation à composer librement (1 occ., 1 fiches)

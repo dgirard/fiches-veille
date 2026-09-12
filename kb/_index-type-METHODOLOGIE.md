@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 420 entités de type METHODOLOGIE
+> 421 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -420,5 +420,6 @@
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] — catégorie: Workflow d'automatisation de cartographie stratégique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-SEO-en-deux-phases\|workflow SEO en deux phases]] — définition: Stratégie one-off visuelle + production pipeline MCP (1 occ., 1 fiches)
 - [[kb/_entites-mineures#workflow-hybride-Gemini+Claude\|workflow hybride Gemini+Claude]] — principe: Gemini pour ingestion massive, Claude pour raisonnement et génération (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Évaluateurs-tiers-embarqués\|Évaluateurs tiers embarqués]] — dispositif: Bureaux, badges, laptops, permissions comparables aux équipes internes de risque ; droit de publier sans contrôle éditorial, rédactions limitées et signalables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#échelle-en-8-niveaux\|échelle en 8 niveaux]] — définition: Chatbot→Copilot→Agent→Autopilot→Workflows→Assistant→Multi-agent→Orchestrator (1 occ., 1 fiches)
 - [[kb/_entites-mineures#évaluations-(evals)\|évaluations (evals)]] — rôle: Tester un artefact contre des exemples connus (3 bons/3 mauvais PRD, 5 appels, 2 lancements) (1 occ., 1 fiches)

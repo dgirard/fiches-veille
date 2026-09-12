@@ -1,12 +1,13 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 144 relations | 45 fiches sources
+> **Type** : ORGANISATION | 146 relations | 46 fiches sources
 
 ## Attributs
 
 - **accusation** : « Régime de permission » vendant la cognition comme infrastructure
 - **apport** : Publie un playbook de SDLC AI-native tiré des déploiements de son équipe Applied AI
 - **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
+- **engagement** : S'engage unilatéralement à accueillir une équipe d'évaluateurs externes embarqués et appelle les autres laboratoires à suivre
 - **positionnement** : Topologie inverse de celle de Mistral : garde-fou logé dans les poids, Claude Fable 5 public avec mesures de sécurité et Claude Mythos 5 sans, réservé aux cyberdéfenseurs approuvés du Project Glasswing
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
@@ -72,6 +73,8 @@
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
 - « les garde-fous n'ont pas fonctionné uniformément dans les cas de surveillance chinois » (AFFIRMATION) — 0.93, STATIQUE
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- « les incidents d'alignement récents viennent en partie d'un filtrage imparfait d'environnements de RL cassés » (AFFIRMATION) — 0.93, STATIQUE
+  - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - « Mythos 5.1 reste sous le palier de risque suivant de la Responsible Scaling Policy » (AFFIRMATION) — 0.92, STATIQUE
   - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]
 - « interdiction d'utiliser les outputs pour entraîner des modèles concurrents (ToS) » (AFFIRMATION) — 0.90, STATIQUE
@@ -287,6 +290,8 @@
   - [[fiches/2026-02/connelly-nyt-ai-companies-eating-higher-education-2026-02-12\|A.I. Companies Are Eating Higher Education]]
 - [[kb/_entites-mineures#Generative-Threat-Group\|Generative Threat Group]] (CONCEPT) — 0.95, DYNAMIQUE
   - [[fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10\|Detecting and countering misuse of AI: September 2026]]
+- [[kb/_entites-mineures#Évaluateurs-tiers-embarqués\|Évaluateurs tiers embarqués]] (METHODOLOGIE) — 0.94, DYNAMIQUE
+  - [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - [[kb/_entites-mineures#taxonomie-9-catégories-de-skills\|taxonomie 9 catégories de skills]] (CONCEPT) — 0.92, STATIQUE
   - [[fiches/2026-06/shihipar-claude-code-lessons-building-skills-2026-06-03\|Lessons from building Claude Code: How we use skills]]
 - [[kb/Forward-Deployed-Engineering\|Forward Deployed Engineering]] (METHODOLOGIE) — 0.90, DYNAMIQUE
@@ -307,6 +312,7 @@
 - [[kb/Jack-Clark\|Jack Clark]] **a_créé** → Anthropic — 0.99
 - [[kb/Boris-Cherny\|Boris Cherny]] **travaille_chez** → Anthropic — 0.99
 - [[kb/Nicholas-Carlini\|Nicholas Carlini]] **travaille_chez** → Anthropic — 0.99
+- [[kb/Dario-Amodei\|Dario Amodei]] **dirige** → Anthropic — 0.98
 - [[kb/panne-de-service-Claude\|panne de service Claude]] **observé_dans** → Anthropic — 0.98
 - [[kb/_entites-mineures#Katelyn-Lesse\|Katelyn Lesse]] **travaille_chez** → Anthropic — 0.98
 - [[kb/_entites-mineures#Lance-Martin\|Lance Martin]] **travaille_chez** → Anthropic — 0.98
@@ -314,7 +320,6 @@
 - [[kb/_entites-mineures#Prithvi-Rajasekaran\|Prithvi Rajasekaran]] **travaille_chez** → Anthropic — 0.97
 - [[kb/Thariq-Shihipar\|Thariq Shihipar]] **travaille_chez** → Anthropic — 0.97
 - [[kb/METR\|METR]] **collabore_avec** → Anthropic — 0.96
-- [[kb/Dario-Amodei\|Dario Amodei]] **dirige** → Anthropic — 0.95
 - [[kb/Bun\|Bun]] **fait_partie_de** → Anthropic — 0.95
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
@@ -335,6 +340,7 @@
 ## Fiches sources
 
 - [[fiches/2025-10/agent-skills-anthropic-2025-10-16\|Introducing Agent Skills]]
+- [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 - [[fiches/2026-02/anthropic-agentic-coding-trends-report-2026-02\|2026 Agentic Coding Trends Report — How coding agents are reshaping software development]]
 - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - [[fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01\|Claude Fable 5.1 and Mythos 5.1]]

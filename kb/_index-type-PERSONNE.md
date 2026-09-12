@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 509 entités de type PERSONNE
+> 510 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -115,7 +115,7 @@
 - [[kb/Dan-Shipper\|Dan Shipper]] — rôle: CEO et co-fondateur Every (média/studio AI-native), auteur Compound Engineering (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] — rôle: Partner/Expert Bain & Company, co-auteur série software industry age of AI volet 1/5 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] — rôle: Designer Every (Figma designs Cora) (1 occ., 1 fiches)
-- [[kb/Dario-Amodei\|Dario Amodei]] — rôle: PDG d'Anthropic (interview ABC, 11 juin 2026) (2 occ., 2 fiches)
+- [[kb/Dario-Amodei\|Dario Amodei]] — rôle: CEO et cofondateur d'Anthropic ; douze ans de travail sur l'IA (3 occ., 3 fiches)
 - [[kb/Darragh-Curran\|Darragh Curran]] — rôle: R&D leader Intercom, auteur de l'engagement public 2x productivité R&D en 12 mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dave-Crossland\|Dave Crossland]] — rôle: Co-auteur article (1 occ., 1 fiches)
 - [[kb/Dave-Farley\|Dave Farley]] — rôle: Engineering coach, fondateur Modern Software Engineering, ex-Continuous Delivery (livre 2010 avec Jez Humble) (1 occ., 1 fiches)
@@ -133,6 +133,7 @@
 - [[kb/_entites-mineures#Dean-Ball\|Dean Ball]] — rôle: Policy wonk, architecte original de l'AI policy de l'administration Trump. Citation prophétique Palantir Foundation Yale "AI as governments" + "giant acid vat" (1 occ., 1 fiches)
 - [[kb/Dean-W.-Ball\|Dean W. Ball]] — rôle: Head of Strategic Futures chez OpenAI (depuis le 06/07/2026) ; principal rédacteur d'America's AI Action Plan à l'OSTP (Maison Blanche) ; Nonresident Senior Fellow FAI, auteur de la newsletter *Hyperdimensional* ; libéral classique, voix contrarienne du débat open-weights (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Deedy-Das\|Deedy Das]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Demis-Hassabis\|Demis Hassabis]] — rôle: Auteur d'un mécanisme de discussion sectorielle cité comme voie possible pour les standards volontaires (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] — rôle: Chercheur DORA, Google Cloud (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Derek-Xiao\|Derek Xiao]] — rôle: Co-auteur rapport, Menlo Ventures (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dex-Horthy\|Dex Horthy]] — rôle: Tracking pattern harness engineering, HumanLayer (1 occ., 1 fiches)

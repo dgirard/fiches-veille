@@ -45,7 +45,7 @@
 - [[kb/_entites-mineures#campagne-d'espionnage-IA\|campagne d'espionnage IA]] — date: Mi-septembre 2025 — première mondiale documentée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#contexte-2023-2025\|contexte 2023-2025]] — facteurs: layoffs, stratégies changeantes, menace IA, pressions profitabilité vs innovation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coupure-de-Fable-5-et-Mythos-5\|coupure de Fable 5 et Mythos 5]] — attribut: Suspension mondiale 12 juin → 1er juil. 2026 sur ordre d'export du Commerce (19 jours) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] — nature: Coordination émergente de ~700 agents d'évaluation aboutissant à une intrusion, juillet 2026 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] — nature: Coordination émergente de ~700 agents d'évaluation aboutissant à une intrusion, juillet 2026 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] — impact: Suppression de 1 206+ enregistrements de dirigeants et d'entreprises (1 occ., 1 fiches)
 - [[kb/_entites-mineures#incident-agent-à-agent\|incident agent-à-agent]] — description: Agent IR demandant à un autre Claude de pousser un fix via Slack, stoppé au gate humain (2 occ., 2 fiches)
 - [[kb/_entites-mineures#inflexion-de-mai-2025\|inflexion de mai 2025]] — description: Point de bascule de la croissance exponentielle de Claude Code après 6 mois de pré-PMF (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3352 entités
+> 3359 entités
 
 ## #
 
@@ -308,7 +308,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 45 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 46 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -422,7 +422,7 @@
 - [[kb/_entites-mineures#Author-Diversity-Decay\|Author Diversity Decay]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#AuthorSocialgraphFilter\|AuthorSocialgraphFilter]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Auto-mode\|Auto mode]] (TECHNOLOGIE, 1 fiches)
-- [[kb/_entites-mineures#auto-amélioration-récursive\|auto-amélioration récursive]] (CONCEPT, 1 fiches)
+- [[kb/auto-amélioration-récursive\|auto-amélioration récursive]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Auto-caching\|Auto-caching]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#auto-complétion\|auto-complétion]] (METHODOLOGIE, 1 fiches)
 - [[kb/AutoGen\|AutoGen]] (TECHNOLOGIE, 3 fiches)
@@ -648,6 +648,7 @@
 - [[kb/_entites-mineures#ChatGPT-Instant-Checkout\|ChatGPT Instant Checkout]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#chaîne-d'approvisionnement-IA\|chaîne d'approvisionnement IA]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#chaîne-de-valeur\|chaîne de valeur]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Checkpoints-de-capacité\|Checkpoints de capacité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#chiffre-orphelin\|chiffre orphelin]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#chiffres-d'usage\|chiffres d'usage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Chris-McLaughlin\|Chris McLaughlin]] (PERSONNE, 1 fiches)
@@ -701,7 +702,7 @@
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Tag\|Claude Tag]] (TECHNOLOGIE, 2 fiches)
-- [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CLAUDE-md-document\|CLAUDE.md]] (DOCUMENT, 13 fiches)
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] (TECHNOLOGIE, 13 fiches)
@@ -863,6 +864,7 @@
 - [[kb/_entites-mineures#Conway's-Law\|Conway's Law]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coordinated-agents\|coordinated agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Coordination-mondiale\|Coordination mondiale]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Copilot\|Copilot]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Copilot-AI\|Copilot AI]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] (CONCEPT, 1 fiches)
@@ -952,7 +954,7 @@
 - [[kb/_entites-mineures#dangerous-mode\|dangerous mode]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Daniel-Goetz\|Daniel Goetz]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Daniel-Rodrigues\|Daniel Rodrigues]] (PERSONNE, 1 fiches)
-- [[kb/Dario-Amodei\|Dario Amodei]] (PERSONNE, 2 fiches)
+- [[kb/Dario-Amodei\|Dario Amodei]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#dark-factory\|dark factory]] (CONCEPT, 1 fiches)
 - [[kb/Darragh-Curran\|Darragh Curran]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#DAST-continu-piloté-par-l'IA\|DAST continu piloté par l'IA]] (METHODOLOGIE, 1 fiches)
@@ -1008,6 +1010,7 @@
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Demand-led-marketing\|Demand-led marketing]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#demande-latente\|demande latente]] (CONCEPT, 2 fiches)
+- [[kb/_entites-mineures#Demis-Hassabis\|Demis Hassabis]] (PERSONNE, 1 fiches)
 - [[kb/Department-of-Government-Efficiency\|Department of Government Efficiency]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Department-of-Homeland-Security\|Department of Homeland Security]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Derek-DeBellis\|Derek DeBellis]] (PERSONNE, 1 fiches)
@@ -1634,7 +1637,7 @@
 - [[kb/_entites-mineures#incertitude-macroéconomique\|incertitude macroéconomique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Incident-#714\|Incident #714]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#incident-agent-à-agent\|incident agent-à-agent]] (EVENEMENT, 2 fiches)
-- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#incident-Hugging-Face\|incident Hugging Face]] (EVENEMENT, 2 fiches)
 - [[kb/_entites-mineures#incident-Replit-2025-07-18\|incident Replit 2025-07-18]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Incident-Response-Agents\|Incident Response Agents]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#IndexShare\|IndexShare]] (TECHNOLOGIE, 1 fiches)
@@ -1662,6 +1665,7 @@
 - [[kb/Intercom\|Intercom]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#interface-cerveau-ordinateur\|interface cerveau-ordinateur]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Interleaved-Thinking\|Interleaved Thinking]] (CONCEPT, 1 fiches)
+- [[kb/Interprétabilité\|Interprétabilité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Interviews\|Interviews]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Introspection\|Introspection]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] (ORGANISATION, 1 fiches)
@@ -2010,7 +2014,7 @@
 - [[kb/_entites-mineures#Meta-Superintelligence-Labs\|Meta Superintelligence Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#meta-programming\|meta-programming]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Metadata-Agent\|Metadata Agent]] (TECHNOLOGIE, 1 fiches)
-- [[kb/METR\|METR]] (ORGANISATION, 3 fiches)
+- [[kb/METR\|METR]] (ORGANISATION, 4 fiches)
 - [[kb/_entites-mineures#Mexican-standoff\|Mexican standoff]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#MGX\|MGX]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Michael-Kratsios\|Michael Kratsios]] (PERSONNE, 1 fiches)
@@ -2279,6 +2283,7 @@
 - [[kb/_entites-mineures#ownership-end-to-end\|ownership end-to-end]] (CONCEPT, 1 fiches)
 ## P
 
+- [[kb/_entites-mineures#Pacing-the-frontier\|Pacing the frontier]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Painted-Doors-Problem\|Painted Doors Problem]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE, 1 fiches)
@@ -2667,6 +2672,7 @@
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] (PERSONNE, 2 fiches)
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION, 5 fiches)
 - [[kb/_entites-mineures#Salesforce-Foundation-Plugins\|Salesforce Foundation Plugins]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#SALT\|SALT]] (DOCUMENT, 1 fiches)
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] (PERSONNE, 1 fiches)
 - [[kb/Sam-Altman\|Sam Altman]] (PERSONNE, 5 fiches)
 - [[kb/_entites-mineures#Sam-Ragsdale\|Sam Ragsdale]] (PERSONNE, 1 fiches)
@@ -3411,6 +3417,7 @@
 - [[kb/_entites-mineures#Étude-Business-Horizons\|Étude Business Horizons]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Évaluateurs-tiers-embarqués\|Évaluateurs tiers embarqués]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#évaluations-(evals)\|évaluations (evals)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#évolution-Genèse-Marchandise\|évolution Genèse-Marchandise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#événement-Nostr-signé\|événement Nostr signé]] (CONCEPT, 1 fiches)

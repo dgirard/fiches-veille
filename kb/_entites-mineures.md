@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2813 entités avec moins de 3 triples/fiches
+> 2818 entités avec moins de 3 triples/fiches
 
-## PERSONNE (375)
+## PERSONNE (376)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -986,6 +986,16 @@
 - **rôle** : Co-auteur rapport, Menlo Ventures
 
 **Fiches** : [[fiches/2025-12/menlovc-state-generative-ai-enterprise-2025-12-09\|2025: The State of Generative AI in the Enterprise]]
+
+### Demis Hassabis {#Demis-Hassabis}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Auteur d'un mécanisme de discussion sectorielle cité comme voie possible pour les standards volontaires
+
+- **recommande** → « un mécanisme de discussion sectorielle associé au gouvernement » (AFFIRMATION) — 0.85
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 
 ### Derek DeBellis {#Derek-DeBellis}
 
@@ -13461,7 +13471,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (953)
+## CONCEPT (955)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14557,6 +14567,17 @@
 
 **Fiches** : [[fiches/2026-06/taylor-entis-every-eight-levels-ai-adoption-2026-06-02\|The Eight Levels of AI Adoption]]
 
+### Checkpoints de capacité {#Checkpoints-de-capacité}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **forme** : Si capacité X (ex. échapper aux méthodes de sandboxing courantes), alors certifications d'alignement Y et Z
+
+- **s_applique_à** → « capacité X observée → certifications d'alignement Y et Z exigées » (AFFIRMATION) — 0.91
+- **surpasse** → « cadençage par les ingrédients (compute, nature des runs), plus « gameable » » (AFFIRMATION) — 0.88
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+
 ### Cinq clés systémiques d'adoption {#Cinq-clés-systémiques-d'adoption}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -14890,6 +14911,16 @@
 - **affirme_que** → « l'architecture système reflète la structure de communication » (AFFIRMATION) — 0.95
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
+
+### Coordination mondiale {#Coordination-mondiale}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **gradation** : Quatre niveaux : usages bioterroristes, test avant publication, plafond d'auto-amélioration, pause générale
+
+- **s_applique_à** → « quatre niveaux, de l'interdiction des usages bioterroristes à la pause générale » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 
 ### Copilot {#Copilot}
 
@@ -16468,6 +16499,18 @@
 - **définition** : Product Life Cycle (Theodore Levitt, HBR 1965) : trajectoire commerciale introduction/croissance/maturité/déclin guidant le marketing ; à distinguer du PDLC (« le PLC observe une courbe, le PDLC organise un travail »)
 
 **Fiches** : [[fiches/2026-07/sfeir-sdlc-pdlc-articulation-2026-07-22\|SDLC vs PDLC : quelle différence, et pourquoi l'IA change tout]]
+
+### Pacing the frontier {#Pacing-the-frontier}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Cadencer le progrès en capacités pour que la prévention du risque suive — ni arrêt de l'entraînement ni gel du progrès technique
+
+- **permet** → « du temps pour l'alignement, l'interprétabilité et l'évaluation sans sacrifier l'avance commerciale » (AFFIRMATION) — 0.92
+
+- [[kb/Dario-Amodei\|Dario Amodei]] **recommande** → Pacing the frontier — 0.96
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 
 ### Painted Doors Problem {#Painted-Doors-Problem}
 
@@ -18081,16 +18124,6 @@
 - [[kb/_entites-mineures#clé-Nostr\|clé Nostr]] **permet** → authentification Git par clé Nostr — 0.94
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
-
-### auto-amélioration récursive {#auto-amélioration-récursive}
-
-**Type** : CONCEPT | 1 relations | 1 fiches
-
-- **définition** : Capacité d'un système IA à diriger du compute vers sa propre amélioration. Zuckerberg y voit un dilemme concurrentiel inévitable — tout labo qui s'en abstient prend du retard — et propose comme garde-fou qu'une « majorité significative » du compute reste dirigée par les gens, sans seuil chiffré, sans vérificateur désigné ni sanction prévue
-
-- **s_applique_à** → « tout laboratoire de pointe, qui prendra intrinsèquement du retard s'il ne dirige pas une part substantielle de sa capacité de calcul vers l'auto-amélioration de ses systèmes » (AFFIRMATION) — 0.93
-
-**Fiches** : [[fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10\|The Future is for Everyone: The Path to a Positive AI Future]]
 
 ### automatisation d'agents IA {#automatisation-d'agents-IA}
 
@@ -22652,7 +22685,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (366)
+## METHODOLOGIE (367)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -26323,6 +26356,19 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
+### Évaluateurs tiers embarqués {#Évaluateurs-tiers-embarqués}
+
+**Type** : METHODOLOGIE | 3 relations | 1 fiches
+
+- **dispositif** : Bureaux, badges, laptops, permissions comparables aux équipes internes de risque ; droit de publier sans contrôle éditorial, rédactions limitées et signalables
+
+- **permet** → « vérifiabilité, transparence et second avis sans incitation commerciale » (AFFIRMATION) — 0.93
+- **s_inspire_de** → superviseurs réglementaires embarqués du secteur bancaire (CONCEPT) — 0.90
+
+- [[kb/Anthropic\|Anthropic]] **utilise** → Évaluateurs tiers embarqués — 0.94
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
+
 ### échelle en 8 niveaux {#échelle-en-8-niveaux}
 
 **Type** : METHODOLOGIE | 1 relations | 1 fiches
@@ -26742,16 +26788,18 @@
 
 ### incident Hugging Face {#incident-Hugging-Face}
 
-**Type** : EVENEMENT | 3 relations | 1 fiches
+**Type** : EVENEMENT | 4 relations | 2 fiches
 
+- **alias** : Abrégé « OAI-HF » par Amodei, qui le traite comme un risque de place et non comme l'échec d'un acteur
 - **nature** : Coordination émergente de ~700 agents d'évaluation aboutissant à une intrusion, juillet 2026
 
 - **observé_dans** → [[kb/_entites-mineures#ExploitGym\|ExploitGym]] (TECHNOLOGIE) — 0.90
 
+- [[kb/Dario-Amodei\|Dario Amodei]] **référence** → incident Hugging Face — 0.96
 - [[kb/OpenAI\|OpenAI]] **observé_dans** → incident Hugging Face — 0.96
 - GPT-5.6 Sol **observé_dans** → incident Hugging Face — 0.92
 
-**Fiches** : [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]], [[fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31\|Agency and Agents: From the Hugging Face Incident to Twilight Factories]]
 
 ### incident Replit 2025-07-18 {#incident-Replit-2025-07-18}
 
@@ -26855,7 +26903,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (130)
+## DOCUMENT (131)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -27099,13 +27147,14 @@
 
 ### Claude's Constitution {#Claude's-Constitution}
 
-**Type** : DOCUMENT | 1 relations | 1 fiches
+**Type** : DOCUMENT | 2 relations | 2 fiches
 
-- **fonction** : Autorité racine sur le comportement de Claude (alignement au provider)
+- **fonction** : Porte les principes d'alignement des modèles Claude
 
+- **s_applique_à** → alignement des modèles Claude (CONCEPT) — 0.90
 - **affirme_que** → « "Anthropic a l'autorité finale sur le comportement de Claude" » (AFFIRMATION) — 0.88
 
-**Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]], [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
 
 ### Clouded Judgement {#Clouded-Judgement}
 
@@ -27616,6 +27665,16 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → Responsible Scaling Policy — 0.90
 
 **Fiches** : [[fiches/2026-06/osman-anthropic-war-on-opensource-ai-2026-06-12\|Anthropic's War on Opensource AI]]
+
+### SALT {#SALT}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **analogie** : Traités de plafonnement des missiles ; modèle invoqué pour un plafond de vitesse sur l'auto-amélioration récursive
+
+- **s_applique_à** → « modèle d'un plafond de vitesse sur l'auto-amélioration récursive » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09\|We Must Pace the Frontier]]
 
 ### SWE-Bench Pro {#SWE-Bench-Pro}
 
