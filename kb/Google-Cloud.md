@@ -1,10 +1,10 @@
 # Google Cloud
 
-> **Type** : ORGANISATION | 8 relations | 2 fiches sources
+> **Type** : ORGANISATION | 10 relations | 3 fiches sources
 
 ## Attributs
 
-- **rôle** : Éditeur du rapport avec l'équipe DORA ; l'équipe delta en signe l'analyse économique
+- **rôle** : Éditeur du compte @GoogleCloudTech et de la plateforme qui distribue les modèles Google, Anthropic et xAI
 - **secteur** : Cloud / DevOps Research
 
 ## Relations (comme sujet)
@@ -27,14 +27,18 @@
 
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT) — 0.97, STATIQUE
   - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]
+- [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] (TECHNOLOGIE) — 0.95, DYNAMIQUE
+  - [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ## Relations (comme objet)
 
+- [[kb/Alan-Blount\|Alan Blount]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/_entites-mineures#Eva-Dong\|Eva Dong]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/_entites-mineures#Ursula-Lübbert-Passing\|Ursula Lübbert-Passing]] **travaille_chez** → Google Cloud — 0.95
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Google Cloud — 0.90
 
 ## Fiches sources
 
+- [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 - [[fiches/2026-04/dora-google-cloud-roi-ai-assisted-software-development-j-curve-2026-04-21\|The ROI of AI-assisted Software Development]]
 - [[fiches/2025-09/dora-report-2025-ai-software-dev-2025-09-23\|Announcing the 2025 DORA Report: State of AI-Assisted Software Development]]

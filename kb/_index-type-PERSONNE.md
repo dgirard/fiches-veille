@@ -16,7 +16,7 @@
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
 - [[kb/Aiman-Ezzat\|Aiman Ezzat]] — rôle: Directeur général de Capgemini (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] — affiliation: Reuters Breakingviews (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Alan-Blount\|Alan Blount]] — rôle: Technical Product Manager chez Google Cloud AI ; cosignataire de l'annonce (1 occ., 1 fiches)
+- [[kb/Alan-Blount\|Alan Blount]] — rôle: Technical Solutions Consultant chez Google Cloud (Vertex AI, LLMOps), @zeroasterisk ; auteur de l'article (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Alex-Bores\|Alex Bores]] — rôle: Candidat NY congressional, propose safety regulation IA + paiements directs financés par taxe IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-McMurray\|Alex McMurray]] — rôle: Cofounder et VP of Sales chez Valence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Alex-Pawlowski\|Alex Pawlowski]] — rôle: Auteur de The Strategy Stack (Substack), focus stratégie et IA opérationnelle (1 occ., 1 fiches)

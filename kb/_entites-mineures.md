@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2839 entités avec moins de 3 triples/fiches
+> 2846 entités avec moins de 3 triples/fiches
 
-## PERSONNE (376)
+## PERSONNE (375)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -91,14 +91,6 @@
 - **publie** → AI sets up Kodak moment for global consultants (DOCUMENT) — 0.99
 
 **Fiches** : [[fiches/2025-10/donnellan-ai-kodak-moment-consultants-2025-10-24\|AI sets up Kodak moment for global consultants]]
-
-### Alan Blount {#Alan-Blount}
-
-**Type** : PERSONNE | 0 relations | 1 fiches
-
-- **rôle** : Technical Product Manager chez Google Cloud AI ; cosignataire de l'annonce
-
-**Fiches** : [[fiches/2026-08/google-agent-plugins-packaging-skills-mcp-2026-08-06\|Agent Plugins package your skills, tools, and more]]
 
 ### Alex Bores {#Alex-Bores}
 
@@ -6894,7 +6886,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (635)
+## TECHNOLOGIE (639)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -9055,15 +9047,18 @@
 
 ### Gemini Enterprise Agent Platform {#Gemini-Enterprise-Agent-Platform}
 
-**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+**Type** : TECHNOLOGIE | 4 relations | 2 fiches
 
 - **catégorie** : Plateforme d'agents d'entreprise Google (retrait du nom Vertex AI à Cloud Next 2026) ; Agent Engine→Deployments, Memory Bank, Sessions, Agent Registry, Policies, Gateways
+- **nature** : Plateforme d'inférence et d'agents de Google Cloud, anciennement Vertex AI ; une authentification unique couvre Gemini et les modèles Anthropic
 
-- **remplace** → [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.88
+- **remplace** → [[kb/Vertex-AI\|Vertex AI]] (TECHNOLOGIE) — 0.93
+- **utilise** → [[kb/_entites-mineures#Model-Garden\|Model Garden]] (TECHNOLOGIE) — 0.93
 
+- [[kb/Google-Cloud\|Google Cloud]] **publie** → Gemini Enterprise Agent Platform — 0.95
 - [[kb/Microsoft-Foundry\|Microsoft Foundry]] **converge_avec** → Gemini Enterprise Agent Platform — 0.95
 
-**Fiches** : [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]], [[fiches/2026-07/janakiram-agent-platform-portability-contract-2026-07-20\|Amazon, Microsoft, and Google are converging on the same enterprise agent architecture]]
 
 ### Gemini Enterprise Web Search {#Gemini-Enterprise-Web-Search}
 
@@ -10453,6 +10448,19 @@
 - [[kb/Anthropic\|Anthropic]] **publie** → Model Context Protocol (MCP) — 0.97
 
 **Fiches** : [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]
+
+### Model Garden {#Model-Garden}
+
+**Type** : TECHNOLOGIE | 3 relations | 1 fiches
+
+- **nature** : Catalogue de modèles managés de la plateforme, incluant Google, Anthropic, xAI et les modèles Hugging Face à déployer soi-même
+
+- **permet** → [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] (TECHNOLOGIE) — 0.94
+- **permet** → [[kb/Gemini-3.8-Flash\|Gemini 3.8 Flash]] (TECHNOLOGIE) — 0.94
+
+- [[kb/_entites-mineures#Gemini-Enterprise-Agent-Platform\|Gemini Enterprise Agent Platform]] **utilise** → Model Garden — 0.93
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### Modèles open chinois {#Modèles-open-chinois}
 
@@ -13066,6 +13074,16 @@
 
 **Fiches** : [[fiches/2026-08/linskens-sonatype-securite-vitesse-ia-quatre-ans-2026-08-18\|Securing Software at the Speed of AI: What Four Years of Data Reveal]]
 
+### opencode {#opencode}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Harnais de codage configuré avec deux fournisseurs Vertex et des sous-agents worker (Flash) et deep-thinker (Fable)
+
+- [[kb/_entites-mineures#promptfoo\|promptfoo]] **utilise** → opencode — 0.93
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+
 ### orchestration agentique {#orchestration-agentique}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -13137,6 +13155,18 @@
 - **permet** → bootstrap projet en 30 min vs 1 semaine (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/habert-wenvision-proj-ai-repo-agent-ide-doctrine-2026-05-05\|PROJ-AI — pour que vos projets ne s'arrêtent plus au livrable (Un repo, un agent, un IDE — pourquoi PROJ-AI ?)]]
+
+### promptfoo {#promptfoo}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **usage** : Pilote des exécutions d'agent (provider exec) pour comparer deux modèles sur les mêmes tâches, timeout 60 s
+
+- **utilise** → [[kb/_entites-mineures#opencode\|opencode]] (TECHNOLOGIE) — 0.93
+
+- [[kb/Alan-Blount\|Alan Blount]] **utilise** → promptfoo — 0.93
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### pypdf {#pypdf}
 
@@ -13247,6 +13277,16 @@
 - schémas structurés **fait_partie_de** → serveurs MCP — 0.96
 
 **Fiches** : [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]
+
+### setPublisherModelConfig {#setPublisherModelConfig}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : API v1beta1 fixant dataSharingEnabledProvider à ANTHROPIC au niveau projet ; 409 si déjà fait, 403 explicite sinon
+
+- [[kb/_entites-mineures#Advanced-AI-Safety-Addendum\|Advanced AI Safety Addendum]] **utilise** → setPublisherModelConfig — 0.92
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### settings.json {#settings.json}
 
@@ -13512,7 +13552,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (960)
+## CONCEPT (962)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16913,6 +16953,18 @@
 - **principe** : Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité)
 
 **Fiches** : [[fiches/2026-07/cherny-steps-ai-adoption-2026-07-16\|Steps of AI Adoption (tableau/artifact + post LinkedIn « I talk to engineers at other companies every day… »)]]
+
+### ROI des tokens {#ROI-des-tokens}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **formule** : Temps humain économisé + fonctionnalités livrées + incidents évités − coût des tokens − coût de montée en compétence
+
+- **affirme_que** → « valeur du temps humain, des fonctionnalités livrées et des incidents évités, moins le coût des tokens et de la montée en compétence » (AFFIRMATION) — 0.90
+
+- [[kb/Alan-Blount\|Alan Blount]] **recommande** → ROI des tokens — 0.92
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### Race to the bottom {#Race-to-the-bottom}
 
@@ -21545,7 +21597,7 @@
 
 ### routage de modèles {#routage-de-modèles}
 
-**Type** : CONCEPT | 3 relations | 2 fiches
+**Type** : CONCEPT | 4 relations | 2 fiches
 
 - **principe** : Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin
 
@@ -21553,8 +21605,21 @@
 - **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
 
 - [[kb/AiKA-Modes\|AiKA Modes]] **permet** → routage de modèles — 0.93
+- [[kb/coordination-asymétrique\|coordination asymétrique]] **est_instance_de** → routage de modèles — 0.93
 
 **Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
+
+### routeurs de modèles dynamiques {#routeurs-de-modèles-dynamiques}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **limite** : Mûrs en ML prédictif (bandits, ad tech, fraude), fragiles en agents multi-tours ; écartés au profit d'une composition explicite
+
+- **affirme_que** → « signal insuffisant au premier tour, succès non traduisible en features, mauvais choix rejoués sur l'autre chemin » (AFFIRMATION) — 0.90
+
+- [[kb/Alan-Blount\|Alan Blount]] **s_oppose_à** → routeurs de modèles dynamiques — 0.92
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### ruissellement économique du cloud {#ruissellement-économique-du-cloud}
 
@@ -22788,7 +22853,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (373)
+## METHODOLOGIE (374)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25428,6 +25493,18 @@
 
 **Fiches** : [[fiches/2026-06/nadella-frontier-ecosystem-human-token-capital-2026-06-12\|A frontier without an ecosystem is not stable]]
 
+### escalade Ask for Help {#escalade-Ask-for-Help}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **mécanisme** : Outil ask_for_help(reason, failed_attempts, context) donné au worker ; escalade sur ambiguïté, action irréversible ou deux échecs consécutifs
+
+- **affirme_que** → « le worker rapide traite 85 à 90 % des requêtes et n'escalade que sur ambiguïté, action irréversible ou deux échecs d'outil consécutifs » (AFFIRMATION) — 0.90
+
+- [[kb/coordination-asymétrique\|coordination asymétrique]] **utilise** → escalade Ask for Help — 0.92
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
+
 ### escalade agent-vers-agent {#escalade-agent-vers-agent}
 
 **Type** : METHODOLOGIE | 2 relations | 1 fiches
@@ -26168,7 +26245,7 @@
 
 ### routage de modèles {#routage-de-modèles}
 
-**Type** : METHODOLOGIE | 3 relations | 2 fiches
+**Type** : METHODOLOGIE | 4 relations | 2 fiches
 
 - **règle** : Opus = stratégie, Sonnet 4.6 = prod, Haiku 4.5 = micro-tâches
 
@@ -26176,6 +26253,7 @@
 - **s_oppose_à** → « délégation de l'édition de code et du raisonnement » (AFFIRMATION) — 0.90
 
 - [[kb/AiKA-Modes\|AiKA Modes]] **permet** → routage de modèles — 0.93
+- [[kb/coordination-asymétrique\|coordination asymétrique]] **est_instance_de** → routage de modèles — 0.93
 
 **Fiches** : [[fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03\|Portal by Spotify cut my Claude Code token usage by 90%]], [[fiches/2026-05/pillitteri-opus-4-8-seo-workflow-deux-phases-2026-05-29\|Claude Opus 4.8 pour le SEO : le Workflow en Deux Phases que Presque Tout le Monde Rate]]
 
@@ -27081,7 +27159,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (136)
+## DOCUMENT (137)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -27164,6 +27242,18 @@
 - [[kb/Augment-Code-organisation\|Augment Code]] **publie** → AI-Powered Engineering at Scale: The Adoption Playbook — 0.99
 
 **Fiches** : [[fiches/2025-11/augment-code-ai-engineering-playbook-2025-11-03\|AI-Powered Engineering at Scale: The Adoption Playbook]]
+
+### Advanced AI Safety Addendum {#Advanced-AI-Safety-Addendum}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **nature** : Addendum contractuel Google Cloud conditionnant l'accès à certains modèles au partage prompt-réponse avec l'éditeur
+
+- **utilise** → [[kb/_entites-mineures#setPublisherModelConfig\|setPublisherModelConfig]] (TECHNOLOGIE) — 0.92
+
+- [[kb/Claude-Fable-5.1\|Claude Fable 5.1]] **fait_partie_de** → Advanced AI Safety Addendum — 0.92
+
+**Fiches** : [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 
 ### After Automation {#After-Automation}
 

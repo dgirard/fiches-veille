@@ -164,7 +164,7 @@
 - [[kb/_entites-mineures#GitLab\|GitLab]] — positionnement: Éditeur DevSecOps pariant sur une plateforme neutre en modèle et en cloud plutôt que sur un modèle propriétaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Glean\|Glean]] — description: Plateforme agentic enterprise search & coordination cross-function (citée Bain comme exemple cross-workflow decision context) (1 occ., 1 fiches)
 - [[kb/Google\|Google]] — secteur: IA / DeepMind, créateur de Diffusion Gemma et de la famille Gemma (21 occ., 20 fiches)
-- [[kb/Google-Cloud\|Google Cloud]] — secteur: Cloud / DevOps Research (2 occ., 2 fiches)
+- [[kb/Google-Cloud\|Google Cloud]] — secteur: Cloud / DevOps Research (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Google-Cloud-Developer-&-Experiences\|Google Cloud Developer & Experiences]] — rôle: Équipe produit Code Wiki (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Cloud-EMEA\|Google Cloud EMEA]] — secteur: Cloud / Marketing B2B (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Google-Cloud-delta-team\|Google Cloud delta team]] — rôle: Premier innovation practice Google Cloud Professional Services, agentic transformation end-to-end, value-driven model (1 occ., 1 fiches)

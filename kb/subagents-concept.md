@@ -1,6 +1,6 @@
 # subagents
 
-> **Type** : CONCEPT | 14 relations | 4 fiches sources
+> **Type** : CONCEPT | 15 relations | 5 fiches sources
 
 > **Même entité, autre type** : [[kb/subagents-technologie\|subagents (TECHNOLOGIE)]]
 
@@ -46,10 +46,12 @@
 - [[kb/_entites-mineures#Sid-Bidasaria\|Sid Bidasaria]] **a_créé** → subagents — 0.97
 - [[kb/Boris-Cherny\|Boris Cherny]] **utilise** → subagents — 0.95
 - [[kb/Compound-Engineering\|Compound Engineering]] **utilise** → subagents — 0.95
+- [[kb/coordination-asymétrique\|coordination asymétrique]] **utilise** → subagents — 0.92
 - [[kb/Opus-4.5\|Opus 4.5]] **s_applique_à** → subagents — 0.85
 
 ## Fiches sources
 
+- [[fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14\|Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team]]
 - [[fiches/2026-02/cherny-claude-code-10-tips-team-x-2026-02-01\|Claude Code Tips from the Claude Code Team]]
 - [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 - [[fiches/2026-04/thariq-claude-code-session-management-1m-context-2026-04-14\|Using Claude Code: Session Management & 1M Context]]

@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 428 entités de type METHODOLOGIE
+> 429 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -304,6 +304,7 @@
 - [[kb/_entites-mineures#développement-piloté-par-le-contexte\|développement piloté par le contexte]] — principe: Documentation persistante vs chat éphémère (1 occ., 1 fiches)
 - [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] — rôle: VM distantes à sortie réseau restreinte pour contenir le blast radius (1 occ., 1 fiches)
 - [[kb/_entites-mineures#environnements-de-RL-privés\|environnements de RL privés]] — rôle: Renforcer les modèles sur les traces réelles de l'organisation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#escalade-Ask-for-Help\|escalade Ask for Help]] — mécanisme: Outil ask_for_help(reason, failed_attempts, context) donné au worker ; escalade sur ambiguïté, action irréversible ou deux échecs consécutifs (1 occ., 1 fiches)
 - [[kb/_entites-mineures#escalade-agent-vers-agent\|escalade agent-vers-agent]] — définition: Topologie où les workers escaladent leurs questions vers un coordinateur qui en résout la majorité et n'expose à l'humain que les cas véritablement nouveaux, en écrivant les réponses humaines en mémoire ; l'humain cesse d'être un intermédiaire et redevient le dernier relecteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-continues\|evals continues]] — déclenchement: Suite de 20 à 50 tâches réelles rejouée à chaque changement de configuration d'agent, plus incidents convertis en régressions (1 occ., 1 fiches)
 - [[kb/_entites-mineures#evals-offline\|evals offline]] — seuil: ~90% requis pour autoriser un agent, cible ~100%, ground truth figé (1 occ., 1 fiches)

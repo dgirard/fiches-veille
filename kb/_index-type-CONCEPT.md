@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1005 entités de type CONCEPT
+> 1008 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -388,6 +388,7 @@
 - [[kb/_entites-mineures#Quiet-career-change\|Quiet career change]] — définition: Concept-pivot Chepurin/Turner — les devs choisis pour coder font désormais un travail différent sans transition de carrière consciente. 4 voies possibles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#RGPD\|RGPD]] — catégorie: Règlement européen protection données (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ROI-de-l'IA-(heures-ingénieur)\|ROI de l'IA (heures-ingénieur)]] — principe: Mesurer le retour par les heures-ingénieur manuelles évitées, pas par l'usage brut (qui ne mesure que l'activité) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#ROI-des-tokens\|ROI des tokens]] — formule: Temps humain économisé + fonctionnalités livrées + incidents évités − coût des tokens − coût de montée en compétence (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Race-to-the-bottom\|Race to the bottom]] — définition: Métaphore Williams — la dynamique billable hours conduit à une course descendante zero-sum entre agence (rewarded for more hours) et client (incentivized to minimize) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] — définition: Chaque erreur d'agent devient une règle permanente. Toute ligne d'AGENTS.md traçable à un échec passé. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Raw-signals\|Raw signals]] — définition: Sources non polies (avis utilisateurs, documentation, transcripts) priorisées sur les rapports synthétisés (1 occ., 1 fiches)
@@ -610,6 +611,7 @@
 - [[kb/_entites-mineures#convergence-distributionnelle\|convergence distributionnelle]] — catégorie: Biais vers choix design génériques (Inter, dégradés violets) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#convergence-prématurée\|convergence prématurée]] — définition: Ancrage d'un LLM sur sa première idée, persistant même en arbre quand les branches partagent un contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coordination\|coordination]] — statut: Défi principal des compounding teams (1 occ., 1 fiches)
+- [[kb/coordination-asymétrique\|coordination asymétrique]] — définition: Modèle rapide en première ligne pour l'exécution, planificateur profond aux points de contrôle d'architecture ; routage explicite par frontière de tâche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#copilot-vs-autopilot\|copilot vs autopilot]] — définition: Distinction Sankar : copilot = approbation humaine à chaque tour ; autopilot = l'agent gère la route entière. Les modèles sont prêts pour l'autopilot, les outils non (1 occ., 1 fiches)
 - [[kb/_entites-mineures#corriger-le-processus,-pas-le-code\|corriger le processus, pas le code]] — principe: Face à un bug/anti-pattern récurrent, éditer le workflow/prompt qui génère le code plutôt que corriger le fichier à la main (1 occ., 1 fiches)
 - [[kb/_entites-mineures#cost-per-merged-change\|cost per merged change]] — définition: Coût par changement mergé et vérifié — unité de compte correcte (1 occ., 1 fiches)
@@ -875,6 +877,7 @@
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#routage-de-modèles\|routage de modèles]] — principe: Découple la décision de déléguer (le plugin) de la manière de répondre (le mode) ; changer de modèle de travail ne change pas le plugin (1 occ., 2 fiches)
+- [[kb/_entites-mineures#routeurs-de-modèles-dynamiques\|routeurs de modèles dynamiques]] — limite: Mûrs en ML prédictif (bandits, ad tech, fraude), fragiles en agents multi-tours ; écartés au profit d'une composition explicite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ruissellement-économique-du-cloud\|ruissellement économique du cloud]] — valeur: 68 centimes / € restent en Europe avec Scaleway vs < 20 centimes avec un hyperscaler US (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-des-5%\|règle des 5%]] — principe: 5% des stratégies génèrent l'essentiel de l'impact (1 occ., 1 fiches)
 - [[kb/_entites-mineures#règle-du-sigle-jamais-seul\|règle du sigle jamais seul]] — définition: Règle de curation : l'entité canonique est le nom complet, le sigle n'est qu'un alias rattaché explicitement à une entité — un même alias pouvant être porté par plusieurs entités (1 occ., 1 fiches)
@@ -914,7 +917,7 @@
 - [[kb/_entites-mineures#stack-de-développement-IA\|stack de développement IA]] — phases: Planification, Code, Revue, QA, Documentation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#stop-hooks\|stop hooks]] — usage: Actions automatisées déclenchées quand Claude finit une tâche (1 occ., 1 fiches)
 - [[kb/_entites-mineures#stream-aligned-team\|stream-aligned team]] — catégorie: Topologie Team Topologies (1 occ., 1 fiches)
-- [[kb/subagents-concept\|subagents]] — usage: Instances Claude parallèles se challengeant mutuellement pour code review (2 occ., 4 fiches)
+- [[kb/subagents-concept\|subagents]] — usage: Instances Claude parallèles se challengeant mutuellement pour code review (2 occ., 5 fiches)
 - [[kb/_entites-mineures#subagents-agent-teams\|subagents / agent teams]] — définition: Agents scopés gérant des workstreams parallèles, en équipe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#suite-de-tests-indépendante-du-langage\|suite de tests indépendante du langage]] — rôle: Tests de Bun écrits en TypeScript (60 624 tests, 1,39 M expect(), 0 supprimé, 6 plateformes) → filet permettant de merger 1 M de lignes générées par LLM (1 occ., 1 fiches)
 - [[kb/_entites-mineures#superintelligence-personnelle\|superintelligence personnelle]] — définition: Agent superintelligent aligné sur les objectifs et valeurs de son utilisateur plutôt que sur ceux de son fournisseur, travaillant en continu, doté d'un mode entièrement privé inaccessible même à l'éditeur. Positionnement revendiqué par Meta contre les labos construisant pour les entreprises, gouvernements et institutions (1 occ., 1 fiches)

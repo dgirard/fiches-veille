@@ -1,6 +1,6 @@
 # LangGraph
 
-> **Type** : TECHNOLOGIE | 4 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 5 relations | 4 fiches sources
 
 ## Attributs
 
@@ -25,6 +25,7 @@
 ## Relations (comme objet)
 
 - [[kb/CLAUDE-md-technologie\|CLAUDE.md]] **remplace** → LangGraph — 0.85
+- [[kb/coordination-asymétrique\|coordination asymétrique]] **s_applique_à** → LangGraph — 0.85
 
 ## Fiches sources
 

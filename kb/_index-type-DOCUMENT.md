@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 158 entités de type DOCUMENT
+> 159 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -14,6 +14,7 @@
 - [[kb/_entites-mineures#AI-Where-It-Matters\|AI Where It Matters]] — nature: Recherche qualitative DX sur ce que les développeurs veulent et refusent de déléguer à l'IA en revue (1 occ., 1 fiches)
 - [[kb/_entites-mineures#AI-Powered-Engineering-at-Scale-The-Adoption-Playbook\|AI-Powered Engineering at Scale: The Adoption Playbook]] — date: 2025-11-03 (1 occ., 1 fiches)
 - [[kb/AI-assisted-engineers-are-burning-out\|AI-assisted engineers are burning out]] — description: Article Evil Martians Chronicles 19 mai 2026 — diagnostic burnout + boîte à outils 5 interventions (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Advanced-AI-Safety-Addendum\|Advanced AI Safety Addendum]] — nature: Addendum contractuel Google Cloud conditionnant l'accès à certains modèles au partage prompt-réponse avec l'éditeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#After-Automation\|After Automation]] — description: Essai-pivot Dan Shipper publié sur every.to le 21 mai 2026, contre-récit aux narrations white-collar bloodbath (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agent-Harness-Engineering\|Agent Harness Engineering]] — format: Article de blog long format addyosmani.com (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Agile-Manifesto\|Agile Manifesto]] — type: Manifeste fondateur du mouvement Agile (1 occ., 1 fiches)
