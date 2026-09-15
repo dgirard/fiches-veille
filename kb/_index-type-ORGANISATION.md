@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 416 entités de type ORGANISATION
+> 418 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -292,6 +292,7 @@
 - [[kb/_entites-mineures#Pew-Research\|Pew Research]] — donnée: ~1 travailleur US sur 5 fait une partie de son travail avec l'IA (part en hausse) (1 occ., 1 fiches)
 - [[kb/Plakar-organisation\|Plakar]] — catégorie: Startup open-source, outil de sauvegarde de données (2 occ., 2 fiches)
 - [[kb/_entites-mineures#PlayerZero\|PlayerZero]] — catégorie: Startup production engineering (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Polygon\|Polygon]] — secteur: Blockchain / cryptomonnaies ; employeur actuel de l'auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Postman\|Postman]] — statut adoption: Adoptant MCP-UI (host) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Prime-Radiant\|Prime Radiant]] — secteur: Outils de développement IA agentique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Procter-&-Gamble\|Procter & Gamble]] — rôle: Terrain de l'expérience « The Cybernetic Teammate » (professionnels R&D et commerce, défis d'innovation produit réels) (1 occ., 1 fiches)
@@ -366,6 +367,7 @@
 - [[kb/_entites-mineures#The-Strategy-Stack\|The Strategy Stack]] — catégorie: Newsletter Substack stratégie / AI operating models / agentic workflows (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Thinking-Machines-Lab\|Thinking Machines Lab]] — fondatrice: Mira Murati (ex-CTO OpenAI) (1 occ., 1 fiches)
 - [[kb/Thoughtworks\|Thoughtworks]] — secteur: Cabinet global de conseil software engineering, fondé 1993, héritage XP / CI-CD / microservices / refactoring (6 occ., 6 fiches)
+- [[kb/_entites-mineures#Tinder\|Tinder]] — rôle: Terrain de la migration de threading pilotée par prompt en juillet 2025 (1 occ., 1 fiches)
 - [[kb/Tokenomics-Foundation\|Tokenomics Foundation]] — nature: Projet de la Linux Foundation, annoncé le 2026-06-03 (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Translucent\|Translucent]] — apport: Marketplace interne d'agents spécialisés par métier ; relecteur de code maison qui éclate une modification en angles multiples puis synthétise (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] — secteur: Gouvernement fédéral américain (1 occ., 1 fiches)

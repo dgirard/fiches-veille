@@ -1,6 +1,6 @@
 # vibe coding
 
-> **Type** : METHODOLOGIE | 42 relations | 22 fiches sources
+> **Type** : METHODOLOGIE | 45 relations | 23 fiches sources
 
 ## Attributs
 
@@ -13,6 +13,7 @@
 - **définition** : Prompter une IA et accepter le résultat avec vérification minimale
 - **fonction** : Raise the floor — démocratisation du software development
 - **jugement** : Intenable / risqué en entreprise
+- **limite** : Suffit au MVP ; échoue sur la persistance de session, la localisation du code et les choix d'infrastructure à l'échelle
 - **posture Hohpe** : Prise de recul « level-headed » ; démystifie les chiffres marketing (« 30% du code par l'IA »)
 - **type** : Anti-pattern selon Farley — spec vague + délégation IA sans pipeline
 - **usage** : Prototypage rapide jetable pour clarifier les exigences
@@ -36,6 +37,13 @@
 - « rétention de revenus supérieure à 100% » (MESURE) — 0.85, DYNAMIQUE
   - [[fiches/2025-08/a16z-top-100-gen-ai-apps-5th-edition-2025-08-27\|The Top 100 Gen AI Consumer Apps - 5th Edition - Andreessen Horowitz]]
 
+### observé_dans
+
+- [[kb/_entites-mineures#Base44\|Base44]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+- [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] (TECHNOLOGIE) — 0.90, STATIQUE
+  - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### permet
 
 - [[kb/dette-technique\|dette technique]] (CONCEPT) — 0.95, ATEMPOREL
@@ -49,6 +57,8 @@
   - [[fiches/2025-11/ai4star-revolution-production-logicielle-deep-research-2025-11\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - explosion volume code (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2026-03/wardley-llms-vibe-coding-developers-jevons-paradox-2026-03-27\|Does LLMs / Vibe coding mean more or fewer developers?]]
+- prototype par non-technicien (CONCEPT) — 0.90, DYNAMIQUE
+  - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 - [[kb/_entites-mineures#Vibe-Coding-Hangover\|Vibe Coding Hangover]] (CONCEPT) — 0.90, DYNAMIQUE
   - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]
 - transformation des incertitudes UX en spécifications (CONCEPT) — 0.88, ATEMPOREL
@@ -122,6 +132,7 @@
 - [[fiches/2025-09/cloudflare-vibesdk-deploy-ai-vibe-coding-platform-2025-09-23\|Deploy your own AI vibe coding platform -- in one click!]]
 - [[fiches/2025-07/exit-vibe-coding-place-vibe-reviewing-mogere-2025-07-07\|Exit le "Vibe Coding", place au "Vibe Reviewing" !]]
 - [[fiches/2026-05/farley-continuous-delivery-ai-assisted-development-trap-2026-05-13\|AI Assisted Development is a TRAP Without Continuous Delivery]]
+- [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 - [[fiches/2025-09/fin-assistants-ia-bon-marche-infoworld-2025-09-15\|L'ère des assistants de codage IA bon marché pourrait être révolue]]
 - [[fiches/2026-07/hohpe-decision-options-ia-2026-07-15\|Gregor Hohpe et le rôle de l'architecte à l'ère de l'IA]]
 - [[fiches/2025-11/ia-production-logicielle-six-domaines-cles-2025-11-16\|La Révolution AI4* : Analyse Stratégique de l'Impact de l'IA sur le Cycle de Vie de la Production Logicielle]]

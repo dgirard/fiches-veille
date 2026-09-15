@@ -1,10 +1,11 @@
 # agents IA
 
-> **Type** : TECHNOLOGIE | 32 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 33 relations | 5 fiches sources
 
 ## Attributs
 
 - **caractéristique** : cross-système et orientés action
+- **effet** : Délégation du travail quotidien de codage ; déplacement du levier produit/ingénierie
 - **rôle** : consommateur principal des interfaces MCP
 - **rôles BMAD** : spécification, architecture, artisans, contrôleurs
 - **usage** : Outil éducatif pour enfants
@@ -74,6 +75,8 @@
 
 ### réduit
 
+- [[kb/_entites-mineures#identité-professionnelle\|identité professionnelle]] (CONCEPT) — 0.85, DYNAMIQUE
+  - [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 - équité des marchés (CONCEPT) — 0.85, ATEMPOREL
   - [[fiches/2025-11/wright-microsoft-ai-agents-manipulation-zdnet-2025-11-06\|Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts]]
 
@@ -107,5 +110,6 @@
 
 - [[fiches/2026-02/andreessen-lenny-podcast-ai-jobs-agi-2026-02\|Lenny's Podcast - Marc Andreessen on AI, jobs, AGI, and the future]]
 - [[fiches/2025-12/clouded-judgement-121225-long-live\|Clouded Judgement 12.12.25 - Long Live Systems of Record]]
+- [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 - [[fiches/2026-02/martin-bmad-method-urbanisme-ia-agentique-sdlc-2026-02-04\|BMAD-Method : le plan d'urbanisme qui apprivoise l'IA agentique dans votre SDLC]]
 - [[fiches/2025-09/mcp-replaces-browser-logrocket-2025-09-15\|MCP remplace le navigateur : Voici comment les développeurs devraient se préparer]]

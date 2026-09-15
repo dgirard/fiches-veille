@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1002 entités de type CONCEPT
+> 1005 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -502,6 +502,7 @@
 - [[kb/_entites-mineures#agency-(définition-Uber)\|agency (définition Uber)]] — définition: *« An entity that is authorized to act for or in the place of another »* — définition fondatrice qui pose la délégation comme propriété axiomatique de l'agent IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-telemetry\|agent telemetry]] — statut: Domaine émergent de mesure IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentId\|agentId]] — rôle: Identifiant unique permettant reprise de session subagent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#agentic-builder\|agentic builder]] — définition: Rôle hybride qui combine acumen business et compétence d'ingénierie pour exécuter avec des agents ; variante côté ingénierie nommée Agentic Product Engineer (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agentic-commerce\|agentic commerce]] — définition: L'agent du client devient un interlocuteur du retailer, après magasins, site et marketplace (2 occ., 2 fiches)
 - [[kb/_entites-mineures#agents-d'arrière-plan-persistants\|agents d'arrière-plan persistants]] — définition: Sous-agents spécialisés maintenus actifs pendant toute une session au lieu d'être créés par tâche, ce qui évite de refaire la même collecte d'information et laisse à l'agent le choix du moment où il remonte au principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#algorithme-de-Leiden\|algorithme de Leiden]] — rôle: Détection de communautés appliquée au graphe de code pour en dégager des sous-systèmes, avec labellisation sans modèle (1 occ., 1 fiches)
@@ -741,6 +742,7 @@
 - [[kb/_entites-mineures#identifiant-de-ressource-logique\|identifiant de ressource logique]] — définition: Identifiant choisi par l'auteur d'un script déclaratif, distinct de l'identifiant réel de la plateforme, et relié à lui par une table de correspondance produite au premier déploiement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#identité-déléguée-d'agent\|identité déléguée d'agent]] — définition: Modèle d'autorisation où l'agent possède sa propre clé et signe son travail lui-même, tandis que le credential signé par son propriétaire atteste qui l'a autorisé et sous quelles conditions ; l'autorisation n'efface pas la paternité, ce qui rend la révocation et l'attribution indépendantes de l'identité humaine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#identité-opératoire\|identité opératoire]] — définition: « Je sais concevoir des architectures complexes » — définition de soi par la compétence, opposée à l'identité statutaire (« je suis manager ») (1 occ., 1 fiches)
+- [[kb/_entites-mineures#identité-professionnelle\|identité professionnelle]] — mécanisme: Catégorisation occupationnelle + centralité identitaire ; menacée quand le travail quotidien est délégué à un agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#identité-visuelle-d'agent\|identité visuelle d'agent]] — définition: Donner à un agent une apparence distinctive pour le rendre reconnaissable parmi d'autres (2 occ., 1 fiches)
 - [[kb/_entites-mineures#iframes-sandboxées\|iframes sandboxées]] — rôle: Mécanisme d'isolation sécurisée des composants UI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#immutabilité\|immutabilité]] — domaine: Architecture logicielle, sauvegarde de données (1 occ., 1 fiches)
@@ -815,6 +817,7 @@
 - [[kb/_entites-mineures#paradoxe-du-kill-switch\|paradoxe du kill switch]] — définition: Plus on verrouille l'IA US fermée, plus on pousse vers l'open-weight (chinois) non maîtrisable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#parallèle-du-stagiaire\|parallèle du stagiaire]] — usage: Pédagogie sur l'effort d'entraînement et la confiance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#params.rs-(absent)\|params.rs (absent)]] — définition: Module Rust attendu contenant les valeurs de FAVORITE_WEIGHT, OON_WEIGHT_FACTOR etc. — **n'existe pas** dans le release public (vérifié par grep -rn exhaustif) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#pendule-de-levier\|pendule de levier]] — mécanisme: Levier initial vers le produit (prototype rapide), retour vers l'ingénierie sur complexité et échelle, oscillation amortie par codification des garde-fous, relancée à chaque nouveau modèle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#pensée-claire\|pensée claire]] — définition: Le vrai cœur du métier, que la vitesse rend impossible à simuler (1 occ., 1 fiches)
 - [[kb/personal-software\|personal software]] — définition: Application à usage unique créée par et pour une personne, adaptée à ses besoins précis (1 occ., 1 fiches)
 - [[kb/_entites-mineures#perspective-européenne-IA\|perspective européenne IA]] — caractéristiques: Réalisme technologique, rigueur philosophique, souveraineté (1 occ., 1 fiches)

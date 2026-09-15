@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 805 entités de type TECHNOLOGIE
+> 807 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -104,6 +104,7 @@
 - [[kb/_entites-mineures#BERT-en-C\|BERT en C]] — catégorie: Implémentation BERT 700 lignes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#BPlusTree3\|BPlusTree3]] — nature: Bibliothèque B+ Tree performance-compétitive en Rust et Python (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bard\|Bard]] — éditeur: Google (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Base44\|Base44]] — catégorie: Plateforme de vibe coding ; CRM et portail d'un studio photo, stockage Google Drive inadapté (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Bash\|Bash]] — rôle: Interface universelle entre Claude Code et le système (1 occ., 1 fiches)
 - [[kb/Berd\|Berd]] — catégorie: Application de bureau pour travailler avec des agents : projets, skills, outils, modèles (3 occ., 1 fiches)
 - [[kb/_entites-mineures#BigQuery\|BigQuery]] — usage: Requêtes analytics via CLI bq, remplace SQL manuel (1 occ., 1 fiches)
@@ -135,7 +136,7 @@
 - [[kb/_entites-mineures#Claude-4.5-Sonnet\|Claude 4.5 Sonnet]] — point fort: Qualité d'écriture créative (1 occ., 1 fiches)
 - [[kb/Claude-Agent-SDK\|Claude Agent SDK]] — catégorie: SDK d'agents d'Anthropic (3 occ., 3 fiches)
 - [[kb/Claude-Code\|Claude Code]] — atout: Suivi d'instructions, génération de code, utilisation d'outils (61 occ., 55 fiches)
-- [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Claude-Cowork\|Claude Cowork]] — categorie: Agent knowledge work (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Claude-Design\|Claude Design]] — mécanisme: Lit le code sous-jacent d'un composant/site référencé, pas seulement le rendu (1 occ., 1 fiches)
 - [[kb/Claude-Desktop\|Claude Desktop]] — définition: Client de bureau d'Anthropic (Mac et Windows depuis le 31 octobre 2024, beta Linux le 30 juin 2026) : Quick Entry sur macOS, Desktop Extensions pour installer un serveur MCP local en un clic, accès aux fichiers locaux, onglets Chat / Cowork / Code. Construction Electron plus couches natives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Desktop-app\|Claude Desktop app]] — catégorie: Application bureau Claude, support natif git worktrees (1 occ., 1 fiches)
@@ -211,6 +212,7 @@
 - [[kb/_entites-mineures#Deepnote-Cloud\|Deepnote Cloud]] — catégorie: Plateforme cloud collaborative (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Demand-Gen\|Demand Gen]] — éditeur: Google (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Desktop-Extensions\|Desktop Extensions]] — définition: Format d'empaquetage d'Anthropic pour installer un serveur MCP local depuis le client de bureau sans configuration manuelle ; extension `.dxt` renommée `.mcpb` le 11 septembre 2025 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Destructive-Command-Guard\|Destructive Command Guard]] — usage: Garde-fou empêchant un agent d'exécuter des commandes destructrices (ex. suppression d'une base de production) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#DevPortal-Raiffeisen\|DevPortal Raiffeisen]] — description: Backstage intégré + agents IA diagnostics Kubernetes ; −68% temps résolution incidents critiques (1 occ., 1 fiches)
 - [[kb/Devin\|Devin]] — catégorie: Agent de codage autonome (3 occ., 3 fiches)
 - [[kb/Dia\|Dia]] — catégorie: Navigateur AI Native (1 occ., 1 fiches)
@@ -689,7 +691,7 @@
 - [[kb/_entites-mineures#agent-de-réponse-à-incident\|agent de réponse à incident]] — permissions: 3 seulement : écrire docs, poster dans les canaux, lire logs prod (pas de déploiement) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-facilitateur\|agent facilitateur]] — rôle: Complément de l'orchestrateur, chargé de déterminer quand solliciter une personne (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agent-swarms\|agent swarms]] — statut: Terme critiqué par Mollick comme "terriblement nommé" (1 occ., 1 fiches)
-- [[kb/agents-IA\|agents IA]] — rôle: consommateur principal des interfaces MCP (4 occ., 4 fiches)
+- [[kb/agents-IA\|agents IA]] — rôle: consommateur principal des interfaces MCP (5 occ., 5 fiches)
 - [[kb/_entites-mineures#agents-Langchain\|agents Langchain]] — rôle: Gèrent une partie des décisions (changement de paradigme) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agents-navigateur\|agents navigateur]] — statut_sécurité: fondamentalement défectueux selon Willison (1 occ., 1 fiches)
 - [[kb/_entites-mineures#agents-troisième-génération-(B3)\|agents troisième génération (B3)]] — catégorie: Agent autonome longue durée (1 occ., 1 fiches)

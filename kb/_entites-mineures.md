@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2831 entités avec moins de 3 triples/fiches
+> 2839 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (376)
 
@@ -3767,7 +3767,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (303)
+## ORGANISATION (305)
 
 ### 10x {#10x}
 
@@ -5967,6 +5967,16 @@
 
 **Fiches** : [[fiches/2025-12/gupta-garg-context-graphs-trillion-dollar-opportunity-2025-12-22\|AI's trillion-dollar opportunity: Context graphs]]
 
+### Polygon {#Polygon}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **secteur** : Blockchain / cryptomonnaies ; employeur actuel de l'auteur
+
+- [[kb/Donn-Felker\|Donn Felker]] **travaille_chez** → Polygon — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### Postman {#Postman}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -6521,6 +6531,16 @@
 
 **Fiches** : [[fiches/2025-10/deepseek-openai-amd-finetuning-batch-323-2025-10-15\|DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, and more...]]
 
+### Tinder {#Tinder}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Terrain de la migration de threading pilotée par prompt en juillet 2025
+
+- [[kb/Donn-Felker\|Donn Felker]] **travaille_chez** → Tinder — 0.92
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### Translucent {#Translucent}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -6874,7 +6894,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (633)
+## TECHNOLOGIE (635)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -7687,6 +7707,16 @@
 
 **Fiches** : [[fiches/2023-06/mollick-setting-time-fire-button-temptation-2023-06-03\|Setting time on fire and the temptation of The Button]]
 
+### Base44 {#Base44}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **catégorie** : Plateforme de vibe coding ; CRM et portail d'un studio photo, stockage Google Drive inadapté
+
+- [[kb/vibe-coding\|vibe coding]] **observé_dans** → Base44 — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### Bash {#Bash}
 
 **Type** : TECHNOLOGIE | 1 relations | 1 fiches
@@ -7882,13 +7912,16 @@
 
 ### Claude Cowork {#Claude-Cowork}
 
-**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+**Type** : TECHNOLOGIE | 2 relations | 2 fiches
 
 - **categorie** : Agent knowledge work
+- **rôle** : Environnement dans lequel un CFO a construit et déployé son outil financier sur une session de deux mois, jusqu'à saturation
 
 - **fait_partie_de** → agents knowledge work (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
+- [[kb/vibe-coding\|vibe coding]] **observé_dans** → Claude Cowork — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]], [[fiches/2026-03/levie-building-trillions-agents-software-2026-03-07\|Building for trillions of agents]]
 
 ### Claude Design {#Claude-Design}
 
@@ -8458,6 +8491,16 @@
 - [[kb/Claude-Desktop\|Claude Desktop]] **utilise** → Desktop Extensions — 0.93
 
 **Fiches** : [[fiches/2026-08/chatgpt-claude-desktop-vs-web-deep-research-2026-08-12\|ChatGPT Desktop & Claude Desktop vs versions web — Rapport « What ? — So What ? — Now What ? »]]
+
+### Destructive Command Guard {#Destructive-Command-Guard}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **usage** : Garde-fou empêchant un agent d'exécuter des commandes destructrices (ex. suppression d'une base de production)
+
+- [[kb/Donn-Felker\|Donn Felker]] **recommande** → Destructive Command Guard — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 
 ### DevPortal Raiffeisen {#DevPortal-Raiffeisen}
 
@@ -13469,7 +13512,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (957)
+## CONCEPT (960)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -17933,6 +17976,19 @@
 
 **Fiches** : [[fiches/2025-09/claude-code-subagents-documentation-anthropic-2025-09-29\|Subagents - Claude Docs]]
 
+### agentic builder {#agentic-builder}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Rôle hybride qui combine acumen business et compétence d'ingénierie pour exécuter avec des agents ; variante côté ingénierie nommée Agentic Product Engineer
+
+- **est_instance_de** → rôle hybride ingénierie et produit (CONCEPT) — 0.93
+- **remplace** → spécialisation technique (CONCEPT) — 0.88
+
+- [[kb/Donn-Felker\|Donn Felker]] **a_créé** → agentic builder — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### agentic commerce {#agentic-commerce}
 
 **Type** : CONCEPT | 2 relations | 2 fiches
@@ -20240,6 +20296,19 @@
 
 **Fiches** : [[fiches/2026-08/sfeir-ia-frontieres-metiers-skill-based-organisation-2026-08-01\|L'IA fait tomber les murs entre les métiers]]
 
+### identité professionnelle {#identité-professionnelle}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **mécanisme** : Catégorisation occupationnelle + centralité identitaire ; menacée quand le travail quotidien est délégué à un agent
+
+- **est_basé_sur** → catégorisation occupationnelle (CONCEPT) — 0.90
+- **est_basé_sur** → centralité identitaire professionnelle (CONCEPT) — 0.90
+
+- [[kb/agents-IA\|agents IA]] **réduit** → identité professionnelle — 0.85
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
+
 ### identité visuelle d'agent {#identité-visuelle-d'agent}
 
 **Type** : CONCEPT | 4 relations | 1 fiches
@@ -20945,6 +21014,19 @@
 - **définition** : Module Rust attendu contenant les valeurs de FAVORITE_WEIGHT, OON_WEIGHT_FACTOR etc. — **n'existe pas** dans le release public (vérifié par grep -rn exhaustif)
 
 **Fiches** : [[fiches/2026-05/x-algorithm-teardown-growth-recommendations-2026-05-16\|How the X Algorithm Actually Works in 2026 — and What That Means for Growth]]
+
+### pendule de levier {#pendule-de-levier}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **mécanisme** : Levier initial vers le produit (prototype rapide), retour vers l'ingénierie sur complexité et échelle, oscillation amortie par codification des garde-fous, relancée à chaque nouveau modèle
+
+- **affirme_que** → « l'IA déplace le levier initial de l'ingénierie vers le produit, la complexité et l'échelle le ramènent vers l'ingénierie » (AFFIRMATION) — 0.94
+- **est_basé_sur** → oscillation amortie (CONCEPT) — 0.92
+
+- [[kb/Donn-Felker\|Donn Felker]] **a_créé** → pendule de levier — 0.90
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 
 ### pensée claire {#pensée-claire}
 
@@ -22706,7 +22788,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (372)
+## METHODOLOGIE (373)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25158,6 +25240,18 @@
 - [[kb/Replit-Agent\|Replit Agent]] **s_oppose_à** → code freeze — 0.98
 
 **Fiches** : [[fiches/2025-07/replit-ai-deletes-database-production-incident-2025-07-18\|AI CODING PLATFORM GOES ROGUE DURING CODE FREEZE AND DELETES ENTIRE COMPANY DATABASE]]
+
+### codification du savoir en skills {#codification-du-savoir-en-skills}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **étapes** : Lister ce qu'on fait manuellement, en choisir une chose, demander à l'agent de la transformer en skill par interview, l'utiliser, répéter
+
+- **permet** → passage d'opérateur à orchestrateur (CONCEPT) — 0.90
+
+- [[kb/Donn-Felker\|Donn Felker]] **recommande** → codification du savoir en skills — 0.95
+
+**Fiches** : [[fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14\|The Evaporation of Software Engineering (and the Rise of the Agentic Builder)]]
 
 ### cohorte fixe d'applications {#cohorte-fixe-d'applications}
 
