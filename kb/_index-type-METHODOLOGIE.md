@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 429 entités de type METHODOLOGIE
+> 431 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -131,6 +131,7 @@
 - [[kb/_entites-mineures#Human-in-the-loop\|Human-in-the-loop]] — justification: Nécessaire tant que l'humain sait ce que l'IA ignore (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Implementation-plan\|Implementation plan]] — principe: Mener par les décisions susceptibles de changer (data models, types, UX) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Interviews\|Interviews]] — usage: Claude interroge l'humain une question à la fois, priorité aux réponses qui changent l'architecture (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Intégration-continue\|Intégration continue]] — point de tension: Devient le goulot suivant une fois la génération et la revue de code accélérées par les agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jo-ha-kyū\|Jo-ha-kyū]] — principe: Accélération progressive du tempo (1 occ., 1 fiches)
 - [[kb/KDLC\|KDLC]] — définition: Knowledge Development Life Cycle : cycle en 8 étapes (Discovery, Extraction, Structuring, Knowledge Graph, Embedding, Index Optimization, Retrieval Evaluation, Refresh) traitant la connaissance comme actif ingénieré (1 occ., 1 fiches)
 - [[kb/Kishōtenketsu\|Kishōtenketsu]] — origine: Japon/Chine/Corée (1 occ., 1 fiches)
@@ -222,6 +223,7 @@
 - [[kb/_entites-mineures#Technique-Ralph\|Technique Ralph]] — principe: Boucle `while`, même prompt, contexte neuf, mémoire externe (PLAN.md/STATUS.md) (1 occ., 1 fiches)
 - [[kb/Tension-Map\|Tension Map]] — définition: Cartographie des contradictions et points de pression marché (vs parts de marché) — révèle les opportunity spaces (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tension-Mode\|Tension Mode]] — rôle: Phase 2 : localiser insatisfaction + segments mal servis (1 occ., 1 fiches)
+- [[kb/Test-impact-analysis\|Test impact analysis]] — définition: Service déterministe de sélection des tests par changement : un listener enregistre les résultats de chaque run, un selector lit l'historique et décide quels tests tournent sur chaque PR (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] — définition: Méthodologie où les tests guident l'écriture du code — j'écris à chaque fois un peu de code "en réaction" à un nouveau test. À distinguer de Test-first (écriture tous tests avant code) (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Test-first\|Test-first]] — définition: Pratique d'écriture de tous les tests avant la moindre ligne de code. Confondu avec TDD par DHH 2014, distinction levée par Eveillard 2022 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Think-Before-Coding\|Think Before Coding]] — objectif: Expliciter hypothèses, poser des questions avant de coder (1 occ., 1 fiches)

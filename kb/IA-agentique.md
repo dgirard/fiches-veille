@@ -1,6 +1,6 @@
 # IA agentique
 
-> **Type** : TECHNOLOGIE | 18 relations | 4 fiches sources
+> **Type** : TECHNOLOGIE | 20 relations | 4 fiches sources
 
 ## Attributs
 
@@ -15,6 +15,13 @@
 
 - phase suivante de l'IA enterprise (CONCEPT) — 0.93, ATEMPOREL
   - [[fiches/2025-08/mit-nanda-genai-divide-95-percent-pilots-fail-legalio-2025-08-23\|MIT Report Finds 95% of AI Pilots Fail to Deliver ROI, Exposing "GenAI Divide"]]
+
+### observé_dans
+
+- « déplacement du goulot de la génération de code vers l'intégration continue » (AFFIRMATION) — 0.92, DYNAMIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
+- « PR plus petites et granulaires, activité nocturne et de week-end, charge restant en rafales » (AFFIRMATION) — 0.90, DYNAMIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 
 ### permet
 

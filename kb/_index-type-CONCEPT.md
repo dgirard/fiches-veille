@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1008 entités de type CONCEPT
+> 1010 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -873,6 +873,7 @@
 - [[kb/_entites-mineures#renversement-AI4IT-AI4Business\|renversement AI4IT / AI4Business]] — définition: Inversion 2024→2026 : la valeur prouvée migre des processus métier vers la production logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#replace-trust-with-structure\|replace trust with structure]] — rôle: Formule-somme des sept volets : confiance → structure → mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ressource-naturelle-(métaphore-Mensch)\|ressource naturelle (métaphore Mensch)]] — définition: Cadre conceptuel de Mensch : l'IA est une ressource naturelle (électricité → tokens), le datacenter est une mine, le token est une commodité — justifie politique industrielle lourde (1 occ., 1 fiches)
+- [[kb/retard-de-listener\|retard de listener]] — effet: 20 minutes suffisent à laisser des dizaines de milliers de mises à jour hors du selector ; la sélection travaille alors sur des données périmées (1 occ., 1 fiches)
 - [[kb/_entites-mineures#reward-hacking\|reward hacking]] — définition: Exploitation de bugs d'évaluation / extraction de réponses cachées gonflant les scores ; reconnu dans le system card OpenAI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#risque-carrière\|risque carrière]] — origine: demander aide perçu comme signe d'échec personnel (1 occ., 1 fiches)
 - [[kb/_entites-mineures#robotaxi-full-self-driving\|robotaxi / full self-driving]] — rôle: >60 objectifs annoncés liés à l'autonomie, largement non tenus (1 occ., 1 fiches)
@@ -889,6 +890,7 @@
 - [[kb/_entites-mineures#sandboxed-iframes\|sandboxed iframes]] — catégorie: Mécanisme de sécurité pour isolation code tiers (1 occ., 2 fiches)
 - [[kb/_entites-mineures#sandwich-teams\|sandwich teams]] — définition: Binôme expert métier + tech lead augmentés IA, reste en appui (1 occ., 1 fiches)
 - [[kb/_entites-mineures#satisfaction-probabiliste\|satisfaction probabiliste]] — mesure: Fraction de trajectoires satisfaisant l'utilisateur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#scalabilité-horizontale\|scalabilité horizontale]] — condition: Exige des workers sans état ; le v0 à écrivain unique par test l'interdisait (1 occ., 1 fiches)
 - [[kb/_entites-mineures#schémas-MCP\|schémas MCP]] — fonction: définir outils, ressources, prompts pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#section-Gotchas\|section Gotchas]] — usage: Documenter les points d'échec réels — contenu à plus fort signal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#self-profiling\|self-profiling]] — définition: Pratique émergente : extraire les frameworks de décision tacites de sa tête pour les encoder dans la codebase/le harness — le « vrai travail » à l'ère des agents surhumains (1 occ., 1 fiches)

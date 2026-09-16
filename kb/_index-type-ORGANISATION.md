@@ -36,7 +36,7 @@
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] — rôle: ONG (Brad Carson) soutenant l'AI Kill Switch Act ; plaide pour un off switch fiable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Amplitude\|Amplitude]] — apport: Refonte de six mois de l'environnement, de la CI et de la revue, avec approbation automatisée documentée pour SOC 2 sur critères, décisions journalisées et voie de dérogation (1 occ., 1 fiches)
 - [[kb/Andreessen-Horowitz\|Andreessen Horowitz]] — secteur: Capital-risque, Silicon Valley (6 occ., 6 fiches)
-- [[kb/Anthropic\|Anthropic]] — secteur: IA / Safety (46 occ., 46 fiches)
+- [[kb/Anthropic\|Anthropic]] — secteur: IA / Safety (47 occ., 47 fiches)
 - [[kb/_entites-mineures#Anthropic-Institute\|Anthropic Institute]] — description: Institut Anthropic lancé mars 2026, dirigé par Jack Clark, regroupant economics + societal impact + frontier safety (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Threat-Intelligence\|Anthropic Threat Intelligence]] — rôle: Analyse des données d'investigation via Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Anysphere\|Anysphere]] — rôle: Société propriétaire de Cursor ; tour de 2 milliards à 50 milliards de valorisation préempté par l'accord (1 occ., 1 fiches)

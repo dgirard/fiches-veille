@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 410 fiches | 1975-12 → 2026-09-14 | généré le 2026-09-15
+> 411 fiches | 1975-12 → 2026-09-14 | généré le 2026-09-16
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -11,6 +11,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
 - **14** [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech. · X @GoogleCloudTech (Alan Blount) — routage de modèles, coordination asymétrique, tokenomics
 - **14** [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com. · donnfelker.substack.com (Donn Felker) — agentic builder, Agentic Product Engineer, identité professionnelle
+- **14** [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com. · claude.com (Sachin Malhotra, Anthropic) — intégration continue, CI, test impact analysis
 - **10** [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com. · Anthropic — threat intelligence, mésusage de l'IA, Generative Threat Group
 - **08** [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler. · martinfowler.com (Sumeet Gayathri Moghe) — présentation, slides, slideware
 - **06** [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon). · SFEIR — IA agentique, plateformisation, domaines métier exposés par API
@@ -524,6 +525,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
+- [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [Portal by Spotify cut my Claude Code token usage by 90%](fiches/2026-09/mazmanov-portal-spotify-shunt-claude-code-tokens-2026-09-03.md) — Dimitri Mazmanov (Principal Product Manager, Spotify), sur le blog d'ingénierie engineering.atspotify.com.
 - [Maybe We Shouldn't Be Reviewing All This Code](fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02.md) — Rachel Laycock, CTO de Thoughtworks, sur *Rachel's Ramblings* (martinfowler.com).
 - [When code is abundant](fiches/2026-08/staples-gitlab-when-code-is-abundant-2026-08-24.md) — Bill Staples, directeur général de GitLab (fonction non affichée par la page), sur le blog about.gitlab.com.
@@ -677,6 +679,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Architecture & Construction
 
+- [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
 - [Maybe We Shouldn't Be Reviewing All This Code](fiches/2026-09/laycock-thoughtworks-reviewing-all-this-code-2026-09-02.md) — Rachel Laycock, CTO de Thoughtworks, sur *Rachel's Ramblings* (martinfowler.com).
 - [DuckDB and the changing physics of analytics](fiches/2026-08/warfield-duckdb-changing-physics-analytics-2026-08-26.md) — Andy Warfield, ingénieur du service S3 chez AWS, en billet invité sur *All Things Distributed* ; introduction de Werner Vogels, CTO d'Amazon.
@@ -829,6 +832,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Qualité & Sécurité
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
+- [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com.
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [Agency and Agents: From the Hugging Face Incident to Twilight Factories](fiches/2026-08/mollick-agency-and-agents-twilight-factory-2026-08-31.md) — Ethan Mollick — professeur à la Wharton School (University of Pennsylvania), auteur du blog *One Useful Thing* sur Substack.
@@ -1146,13 +1150,13 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 410 fiches
-- **Par année** : 2026 (233) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 411 fiches
+- **Par année** : 2026 (234) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
-  - Agents de codage IA & Skills : 152
-  - Architecture & Construction : 56
+  - Agents de codage IA & Skills : 153
+  - Architecture & Construction : 57
   - Transformation & Adoption : 89
-  - Qualité & Sécurité : 48
+  - Qualité & Sécurité : 49
   - Économie & Marché : 86
   - Philosophie & Société : 25
   - Stratégie & Frameworks : 30

@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3396 entités
+> 3402 entités
 
 ## #
 
@@ -311,7 +311,7 @@
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#antfooding\|antfooding]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Anthony-Ligori\|Anthony Ligori]] (PERSONNE, 1 fiches)
-- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 46 fiches)
+- [[kb/Anthropic\|Anthropic]] (ORGANISATION, 47 fiches)
 - [[kb/_entites-mineures#Anthropic-agents-to-agents-Slack\|Anthropic agents-to-agents Slack]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-dogfood-doctrine\|Anthropic dogfood doctrine]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Anthropic-Economic-Index\|Anthropic Economic Index]] (DOCUMENT, 1 fiches)
@@ -707,7 +707,7 @@
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] (TECHNOLOGIE, 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] (TECHNOLOGIE, 2 fiches)
-- [[kb/Claude-Tag\|Claude Tag]] (TECHNOLOGIE, 2 fiches)
+- [[kb/Claude-Tag\|Claude Tag]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Claude's-Constitution\|Claude's Constitution]] (DOCUMENT, 2 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/CLAUDE-md-document\|CLAUDE.md]] (DOCUMENT, 13 fiches)
@@ -1686,6 +1686,7 @@
 - [[kb/_entites-mineures#Introspection\|Introspection]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Intuit\|Intuit]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Intégration-Chrome-Perplexity\|Intégration Chrome Perplexity]] (EVENEMENT, 1 fiches)
+- [[kb/_entites-mineures#Intégration-continue\|Intégration continue]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Investir\|Investir]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#investissements-sans-regrets\|investissements sans regrets]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Investment-bias\|Investment bias]] (CONCEPT, 1 fiches)
@@ -1932,6 +1933,7 @@
 - [[kb/_entites-mineures#machine-learning\|machine learning]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#machine-virtuelle-semi-automatisée\|machine virtuelle semi-automatisée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#MacKenzie-Sigalos\|MacKenzie Sigalos]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Magasin-de-données-en-mémoire\|Magasin de données en mémoire]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Magnifica-Humanitas\|Magnifica Humanitas]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Magnificat-(Lc-1,-46-55)\|Magnificat (Lc 1, 46-55)]] (CONCEPT, 1 fiches)
@@ -2612,6 +2614,7 @@
 - [[kb/_entites-mineures#resolve-pr-feedback\|resolve-pr-feedback]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Responsible-Scaling-Policy\|Responsible Scaling Policy]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#ressource-naturelle-(métaphore-Mensch)\|ressource naturelle (métaphore Mensch)]] (CONCEPT, 1 fiches)
+- [[kb/retard-de-listener\|retard de listener]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Retool\|Retool]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#retrieval-practice\|retrieval practice]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Retry-tails\|Retry tails]] (CONCEPT, 1 fiches)
@@ -2700,6 +2703,7 @@
 - [[kb/_entites-mineures#SaaS\|SaaS]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#SaaS-à-crédits\|SaaS à crédits]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] (CONCEPT, 1 fiches)
+- [[kb/Sachin-Malhotra\|Sachin Malhotra]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Safe-Use-Policy\|Safe Use Policy]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] (PERSONNE, 2 fiches)
 - [[kb/Salesforce\|Salesforce]] (ORGANISATION, 5 fiches)
@@ -2728,6 +2732,7 @@
 - [[kb/_entites-mineures#Savir-Basil\|Savir Basil]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Scaffolding\|Scaffolding]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Scalability!-But-at-what-COST\|Scalability! But at what COST?]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#scalabilité-horizontale\|scalabilité horizontale]] (CONCEPT, 1 fiches)
 - [[kb/Scaleway-organisation\|Scaleway]] (ORGANISATION, 3 fiches)
 - [[kb/Scaleway-technologie\|Scaleway]] (TECHNOLOGIE, 3 fiches)
 - [[kb/_entites-mineures#Scenario\|Scenario]] (CONCEPT, 1 fiches)
@@ -3068,6 +3073,7 @@
 - [[kb/_entites-mineures#Tessl\|Tessl]] (ORGANISATION, 2 fiches)
 - [[kb/_entites-mineures#test-discovery-vs-absorption\|test discovery vs absorption]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Test-Generator\|Test Generator]] (TECHNOLOGIE, 1 fiches)
+- [[kb/Test-impact-analysis\|Test impact analysis]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Test-Driven-Development\|Test-Driven Development]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#Test-first\|Test-first]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#testing-autonome\|testing autonome]] (METHODOLOGIE, 1 fiches)

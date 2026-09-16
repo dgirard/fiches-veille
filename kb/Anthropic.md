@@ -1,6 +1,6 @@
 # Anthropic
 
-> **Type** : ORGANISATION | 146 relations | 46 fiches sources
+> **Type** : ORGANISATION | 151 relations | 47 fiches sources
 
 ## Attributs
 
@@ -8,6 +8,7 @@
 - **apport** : Publie un playbook de SDLC AI-native tiré des déploiements de son équipe Applied AI
 - **description** : Incubator interne Anthropic fin 2024, équipe de quelques personnes, a créé Claude Code + MCP + app desktop, puis disbanded
 - **engagement** : S'engage unilatéralement à accueillir une équipe d'évaluateurs externes embarqués et appelle les autres laboratoires à suivre
+- **mesure interne** : ×25 de jobs CI en six mois, ×10 de tests, 8× de code livré par ingénieur, Claude auteur de 80 % du code
 - **positionnement** : Topologie inverse de celle de Mistral : garde-fou logé dans les poids, Claude Fable 5 public avec mesures de sécurité et Claude Mythos 5 sans, réservé aux cyberdéfenseurs approuvés du Project Glasswing
 - **produit** : Claude
 - **revenus** : $1B → $4B en quelques mois (2025)
@@ -137,14 +138,22 @@
   - [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
 - « crédits Agent SDK mensuels de 20 $ (Pro), 100 $ (Max 5x) et 200 $ (Max 20x) » (MESURE) — 0.95, STATIQUE
   - [[fiches/2026-05/dethlefsen-zed-anthropic-subscription-changes-2026-05-14\|What Anthropic's New Claude Billing Means for Zed Users]]
+- « ×10 sur le nombre de tests et ×25 sur les jobs CI en six mois » (MESURE) — 0.94, STATIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
+- « 8× plus de code livré par ingénieur et par trimestre qu'en 2021-2025 » (MESURE) — 0.93, STATIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 - « augmentation 67% des pull requests » (MESURE) — 0.93, STATIQUE
   - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - cache hit rate (CONCEPT) — 0.93, DYNAMIQUE
   - [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
+- « Claude écrit 80 % du code livré et pèse largement dans la revue des PR » (MESURE) — 0.93, DYNAMIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 - « +150% productivité par ingénieur » (MESURE) — 0.92, STATIQUE
   - [[fiches/2026-02/cherny-yc-lightcone-claude-code-origin-story-2026-02\|The Light Cone: Boris Cherny, Creator of Claude Code]]
 - « 50% de gain de productivité grâce à l'IA » (MESURE) — 0.92, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
+- « refonte livrée en trois semaines par un ingénieur, contre environ un trimestre un an plus tôt » (MESURE) — 0.92, STATIQUE
+  - [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 - « actions autonomes Claude Code passées de 10 à 20 en six mois » (MESURE) — 0.90, DYNAMIQUE
   - [[fiches/2025-12/anthropic-ai-transforming-work-research-2025-12-02\|How AI is transforming work at Anthropic]]
 - « 4 milliards de dollars de revenus » (MESURE) — 0.88, STATIQUE
@@ -324,6 +333,7 @@
 - [[kb/_entites-mineures#@trq212\|@trq212]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Cat-Wu\|Cat Wu]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Jarred-Sumner\|Jarred Sumner]] **travaille_chez** → Anthropic — 0.95
+- [[kb/Sachin-Malhotra\|Sachin Malhotra]] **travaille_chez** → Anthropic — 0.95
 - [[kb/Gates-Foundation\|Gates Foundation]] **collabore_avec** → Anthropic — 0.90
 - [[kb/SFEIR\|SFEIR]] **collabore_avec** → Anthropic — 0.90
 - [[kb/_entites-mineures#Snowflake\|Snowflake]] **collabore_avec** → Anthropic — 0.90
@@ -369,6 +379,7 @@
 - [[fiches/2025-09/how-claude-code-is-built-pragmatic-engineer-2025-09-15\|HOW CLAUDE CODE IS BUILT]]
 - [[fiches/2025-11/lesse-anthropic-building-agentic-systems-claude-2025-11-23\|Building Powerful Agentic Systems with Claude]]
 - [[fiches/2026-02/maitriser-claude-code-formation-pedagogique-deep-research-2026-02\|Maîtriser Claude Code — Détail complet des 12 modules et ~60 leçons]]
+- [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 - [[fiches/2025-07/mistral-cli-european-alternative-claude-code-garcia-2025-07-01\|Annonce : une alternative européenne à Claude Code (200 M$ de revenus). Voici Mistral AI CLI.]]
 - [[fiches/2026-01/nunez-cherny-claude-code-workflow-venturebeat-2026-01-05\|The creator of Claude Code just revealed his workflow, and developers are losing their minds]]
 - [[fiches/2025-12/openai-agentic-ai-foundation-linux-2025-12-09\|OpenAI co-founds the Agentic AI Foundation under the Linux Foundation]]

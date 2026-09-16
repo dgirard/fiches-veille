@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 513 entités de type PERSONNE
+> 514 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -412,6 +412,7 @@
 - [[kb/_entites-mineures#Ruth-Appel\|Ruth Appel]] — rôle: co-auteure rapport Anthropic Economic Index (1 occ., 1 fiches)
 - [[kb/Ryan-Law\|Ryan Law]] — rôle: Director of Content Marketing, Ahrefs (1 occ., 1 fiches)
 - [[kb/Rémi-Jacquet\|Rémi Jacquet]] — rôle: DG Cast Software France (2 occ., 1 fiches)
+- [[kb/Sachin-Malhotra\|Sachin Malhotra]] — rôle: Ingénieur chez Anthropic ; auteur du retour d'expérience sur la mise à l'échelle de la CI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Safi-Shamsi\|Safi Shamsi]] — rôle: Créateur et mainteneur de graphify et de Graphify Labs (Y Combinator S26) ; maintient aussi le site d'annuaire graphify.net et publie le livre The Memory Layer (2 occ., 2 fiches)
 - [[kb/Salvatore-Sanfilippo\|Salvatore Sanfilippo]] — pseudonyme: antirez (2 occ., 1 fiches)
 - [[kb/Sam-Altman\|Sam Altman]] — rôle: CEO OpenAI, auteur essai *The Gentle Singularity* (juin 2025) (5 occ., 5 fiches)

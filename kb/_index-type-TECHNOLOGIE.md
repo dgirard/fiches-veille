@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 812 entités de type TECHNOLOGIE
+> 813 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -158,7 +158,7 @@
 - [[kb/_entites-mineures#Claude-Sonnet\|Claude Sonnet]] — versions: 4.0 et 3.7 intégrés comme moteurs IA primaires de Kiro (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Claude-Sonnet-4\|Claude Sonnet 4]] — éditeur: Anthropic (3 occ., 2 fiches)
 - [[kb/Claude-Sonnet-4.5\|Claude Sonnet 4.5]] — catégorie: LLM Anthropic (2 occ., 2 fiches)
-- [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (2 occ., 2 fiches)
+- [[kb/Claude-Tag\|Claude Tag]] — statut: Bêta publique sur Slack ; Claude membre du canal sous sa propre identité (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Claude.ai\|Claude.ai]] — catégorie: Interface utilisateur Claude (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloud-Foundry\|Cloud Foundry]] — rôle: PaaS de référence (2011-2016) ; contrat applicatif, buildpacks, service brokers ; battu par Kubernetes, reconstruit via Korifi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Cloud-Native-Buildpacks\|Cloud Native Buildpacks]] — historique: Nés chez Heroku (2011) → projet Pivotal+Heroku (janv. 2018) → accepté CNCF (oct. 2018) ; « une idée PaaS a survécu à la plateforme qui l'a produite » (1 occ., 1 fiches)
@@ -421,6 +421,7 @@
 - [[kb/_entites-mineures#MLIR\|MLIR]] — rôle: Infrastructure de compilation utilisée par ZML pour produire le binaire natif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MLflow\|MLflow]] — rôle: Plateforme d'évaluation utilisée sur Databricks pour l'évaluation des 4 approches (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MMLU-Pro\|MMLU-Pro]] — catégorie: Benchmark questions professionnelles (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Magasin-de-données-en-mémoire\|Magasin de données en mémoire]] — rôle: Sort l'état du processus : journal en append, agrégation par un consommateur séparé toutes les quelques secondes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Magentic-Marketplace\|Magentic Marketplace]] — catégorie: Environnement open-source simulation agents (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Managerbot\|Managerbot]] — définition: Assistant IA destiné aux commerçants Square : marketing automatisé, analyse de marge et suggestions de correctifs opérationnels (1 occ., 1 fiches)
 - [[kb/Manus-technologie\|Manus]] — nature: Agent IA basé sur Claude (2 occ., 4 fiches)

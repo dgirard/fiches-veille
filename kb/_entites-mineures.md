@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2846 entités avec moins de 3 triples/fiches
+> 2849 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (375)
 
@@ -6886,7 +6886,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (639)
+## TECHNOLOGIE (640)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10212,6 +10212,16 @@
 - questions de valeur incertaine **fait_partie_de** → MMLU-Pro — 0.92
 
 **Fiches** : [[fiches/2025-12/ssrn-persona-prompting-ai-accuracy-2025-12-07\|Playing Pretend: Expert Personas Don't Improve Factual Accuracy]]
+
+### Magasin de données en mémoire {#Magasin-de-données-en-mémoire}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **rôle** : Sort l'état du processus : journal en append, agrégation par un consommateur séparé toutes les quelques secondes
+
+- **permet** → « des workers listener sans état, donc scalables horizontalement » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 
 ### Magentic Marketplace {#Magentic-Marketplace}
 
@@ -13552,7 +13562,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (962)
+## CONCEPT (963)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -21713,6 +21723,16 @@
 
 **Fiches** : [[fiches/2026-02/mccarthy-strongdm-software-factory-agentic-moment-2026-02-06\|Software Factories And The Agentic Moment]]
 
+### scalabilité horizontale {#scalabilité-horizontale}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **condition** : Exige des workers sans état ; le v0 à écrivain unique par test l'interdisait
+
+- **résout** → saturation mémoire du processus unique (CONCEPT) — 0.91
+
+**Fiches** : [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
+
 ### schémas MCP {#schémas-MCP}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -22853,7 +22873,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (374)
+## METHODOLOGIE (375)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -23980,6 +24000,16 @@
 - **usage** : Claude interroge l'humain une question à la fois, priorité aux réponses qui changent l'architecture
 
 **Fiches** : [[fiches/2026-07/thariq-field-guide-fable-finding-unknowns-2026-07-03\|A Field Guide to Fable: Finding Your Unknowns]]
+
+### Intégration continue {#Intégration-continue}
+
+**Type** : METHODOLOGIE | 1 relations | 1 fiches
+
+- **point de tension** : Devient le goulot suivant une fois la génération et la revue de code accélérées par les agents
+
+- [[kb/Test-impact-analysis\|Test impact analysis]] **s_applique_à** → Intégration continue — 0.94
+
+**Fiches** : [[fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14\|Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic]]
 
 ### Jo-ha-kyū {#Jo-ha-kyū}
 
