@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1010 entités de type CONCEPT
+> 1014 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -155,6 +155,7 @@
 - [[kb/_entites-mineures#Colonialisme-des-données\|Colonialisme des données]] — définition: Concept léonien (n. 178) : nouvelle forme de domination qui s'approprie les données plutôt que les corps, transforme les vies en informations exploitables — *« nouvelles terres rares du pouvoir »* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Community-of-Practice\|Community of Practice]] — usage: Développement connaissance pour data experts distribués (1 occ., 1 fiches)
 - [[kb/Compaction-concept\|Compaction]] — définition: Résumé automatique de la conversation remplaçant l'historique (1 occ., 2 fiches)
+- [[kb/_entites-mineures#Compatibilité-narrative\|Compatibilité narrative]] — définition: Affinité de vocabulaire et de récit entre deux discours sans lien causal établi — ici le doom IA et la restauration nationale (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] — définition: Formule-canonique Chepurin/Turner — *« We compensate for a lack of satisfaction with work quantity. »* Mécanisme central de l'escalade burnout (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Compositional-Path-Dependency\|Compositional Path Dependency]] — définition: Cause de surrender : chaque chunk surrender rend le prochain surrender plus probable, requiert reconstruction complète pour redevenir indépendant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Comprehension-Debt\|Comprehension Debt]] — définition: Écart croissant entre volume total de code et compréhension humaine ; cognitive surrender est le mécanisme d'accumulation. Extension d'origine Osmani de la "technical debt" (2 occ., 2 fiches)
@@ -205,6 +206,7 @@
 - [[kb/_entites-mineures#Distillation\|Distillation]] — position auteur: Légitime en soi ; le cadrage « vol » servirait un moat / « enclosure » (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Distribution\|Distribution]] — rôle: Facteur clé de succès dans l'industrie tech (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Distribution-productivité-IA\|Distribution productivité IA]] — description: Hypothèse féconde : la distribution se resserre par le bas (Tatsyi : underperformers→baseline) ET s'élargit par le haut (Cherny 150 PRs/jour, Curran top 5% à 6× median, Karpathy "peaks much higher than 10×") — les deux phénomènes coexistent (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Doctrine-volatile-de-souveraineté\|Doctrine volatile de souveraineté]] — définition: Souveraineté qui change d'état au contact de l'urgence : on proclame l'autonomie, on achète faute de capacités, on redécouvre la dépendance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Document-linéaire\|Document linéaire]] — vertu: Force à faire le pont entre les sections ; artefact autoportant à faible contexte (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Drift\|Drift]] — définition: Hallucination causée par manque d'injection de contexte rigoureuse entre sollicitations agent (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Durable-generator\|Durable generator]] — définition: Qualification financière SaaS Financialize Bain — entreprise qui produit du cash stable et limité, sans innover. Métaphore industrielle générateur électrique vs moteur de croissance (1 occ., 1 fiches)
@@ -355,6 +357,7 @@
 - [[kb/_entites-mineures#Peak-productivité-3-outils-IA\|Peak productivité 3 outils IA]] — données: Productivité auto-rapportée : 1 outil 3.3 / 2 outils 3.8 / 3 outils 4.1 / 4+ outils 3.7. Décroissance après 3. (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pecha-Kucha\|Pecha Kucha]] — format: 20 slides x 20 secondes = 6m40 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Permanent-underclass\|Permanent underclass]] — définition: Théorie virale 2026 : fenêtre limitée pour bâtir richesse avant que IA/robotique remplacent intégralement le travail humain, figeant les positions de classe (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Peur-de-devenir-superflu\|Peur de devenir superflu]] — définition: Sensation que quelque chose pourrait continuer sans moi ; se décline de l'individu à l'Europe (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Phase-Expand\|Phase Expand]] — description: Phase de croissance en escalier où l'on bute sur des ressources limitantes successives (modèle Explore/Expand/Extract) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Pivot-conceptuel-cluster-outcome-based-2025-2026\|Pivot conceptuel cluster outcome-based 2025-2026]] — description: Kamelman/Thoughtworks (déc 2025) précède chronologiquement et unifie conceptuellement les manifestations sectorielles : Sternfels/McKinsey (consulting, jan 2026), VoxComm/Mandese (agences, mars 2026), Bain Rule of 40 (SaaS, avril 2026), Bain cross-system labor (enterprise, mai 2026) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Plancher-financier-DORA-vs-plafond-praticien\|Plancher financier DORA vs plafond praticien]] — description: Lecture juste : DORA 12.5% time saved = plancher défendable devant CFO (avoided hire), ratios praticiens 3-5× (Frizzo/Wescale/Curran) ou ×4.5 (Tatsyi Claude stack) = plafond organisationnel observé incluant nouveaux produits / new product space que le calculator ne capte pas (1 occ., 1 fiches)
@@ -402,6 +405,7 @@
 - [[kb/_entites-mineures#Rule-of-40\|Rule of 40]] — définition: Métrique canonique SaaS depuis ~2015 : growth rate + profit margin ≥ 40%. Sous double pression IA en 2026 (headwinds variable costs + tailwinds productivity/EBITDA) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rumination\|Rumination]] — catégorie: Ressassement contre-productif, distinct de l'introspection (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Réordonnancement-7-Powers-à-l'ère-IA\|Réordonnancement 7 Powers à l'ère IA]] — description: AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Rétrofuturisme\|Rétrofuturisme]] — définition: Branchement des technologies les plus avancées sur des imaginaires d'ordre, de frontière, de puissance, de nation et d'âge d'or (1 occ., 1 fiches)
 - [[kb/_entites-mineures#SEO\|SEO]] — statut: En déclin face à l'AEO (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] — description: Fichiers markdown servant d'instructions structurées pour agents (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SaaS\|SaaS]] — catégorie: Modèle antérieur vendant des outils à l'abonnement, opposé terme à terme au Service-as-Software (1 occ., 1 fiches)

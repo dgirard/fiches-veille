@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2849 entités avec moins de 3 triples/fiches
+> 2861 entités avec moins de 3 triples/fiches
 
-## PERSONNE (375)
+## PERSONNE (377)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -1516,6 +1516,16 @@
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
 
+### Jacob Coxon {#Jacob-Coxon}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Chercheur passé par OpenAI puis Anthropic, démissionnaire le 9 septembre 2026 avec un avertissement viral sur le risque d'extinction
+
+- **prédit** → « l'IA avancée pourrait tuer l'humanité avant la fin de la décennie » (AFFIRMATION) — 0.92
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Jacqui Canney {#Jacqui-Canney}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -1638,6 +1648,16 @@
 - **a_créé** → [[kb/_entites-mineures#Diffusion-marathon\|Diffusion marathon]] (CONCEPT) — 0.95
 
 **Fiches** : [[fiches/2026-05/wallace-wells-nyt-magazine-ai-populism-altman-backlash-no-one-ready-2026-05-08\|A.I. Populism Is Here. And No One Is Ready. (Silicon Valley oligarchs worried about the risks their technology posed to…]]
+
+### Jeffrey Herf {#Jeffrey-Herf}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Historien, auteur de *Reactionary Modernism* (1984)
+
+- **publie** → [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] (DOCUMENT) — 0.95
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### Jensen Huang {#Jensen-Huang}
 
@@ -3759,7 +3779,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (305)
+## ORGANISATION (306)
 
 ### 10x {#10x}
 
@@ -4929,6 +4949,18 @@
 - **s_oppose_à** → efficacité de leur propre IA (réduit les sièges) (CONCEPT) — 0.93
 
 **Fiches** : [[fiches/2024-12/greenwald-sierra-outcome-based-pricing-ai-agents-2024-12-10\|Outcome-based pricing for AI Agents]]
+
+### Futuro Nazionale {#Futuro-Nazionale}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **nature** : Parti italien fondé en 2026 par Roberto Vannacci ; nom cité comme emblème du rétrofuturisme politique
+
+- **mesure** → « 7,5-7,7 % en Italie, parmi les principales forces politiques » (MESURE) — 0.92
+
+- Roberto Vannacci **dirige** → Futuro Nazionale — 0.94
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### GENIAL {#GENIAL}
 
@@ -13562,7 +13594,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (963)
+## CONCEPT (967)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -14855,6 +14887,16 @@
 
 **Fiches** : [[fiches/2025-07/heuvel-data-ai-team-structure-case-studies-xebia-2025-07-29\|Data & AI team structure: Case studies]]
 
+### Compatibilité narrative {#Compatibilité-narrative}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Affinité de vocabulaire et de récit entre deux discours sans lien causal établi — ici le doom IA et la restauration nationale
+
+- **s_applique_à** → « rencontre entre le discours du doom technologique et celui de la restauration nationale » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Compensate satisfaction with quantity {#Compensate-satisfaction-with-quantity}
 
 **Type** : CONCEPT | 0 relations | 1 fiches
@@ -15302,6 +15344,17 @@
 - **mesure** → « médiane committée 3-5×, tail élite 10×+ » (MESURE) — 0.95
 
 **Fiches** : [[fiches/2026-05/tatsyi-raiffeisen-ukraine-ai-engineers-different-not-just-faster-2026-05-05\|AI didn't make our engineers just faster. It made them different.]]
+
+### Doctrine volatile de souveraineté {#Doctrine-volatile-de-souveraineté}
+
+**Type** : CONCEPT | 2 relations | 1 fiches
+
+- **définition** : Souveraineté qui change d'état au contact de l'urgence : on proclame l'autonomie, on achète faute de capacités, on redécouvre la dépendance
+
+- **observé_dans** → « la réponse européenne à l'appel américain au ralentissement — accélérer pour ne pas sanctuariser l'avance américaine » (AFFIRMATION) — 0.90
+- **observé_dans** → « onze ans de Palantir « transitoire » à la DGSI, l'outil souverain restant inachevé en mai 2026 » (AFFIRMATION) — 0.90
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### Document linéaire {#Document-linéaire}
 
@@ -16666,6 +16719,16 @@
 
 **Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
+### Peur de devenir superflu {#Peur-de-devenir-superflu}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Sensation que quelque chose pourrait continuer sans moi ; se décline de l'individu à l'Europe
+
+- **s_applique_à** → « trois échelles — l'individu (mon métier), l'État (mes moyens d'agir), l'Europe (fabriquer ou acheter le futur) » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Phase Expand {#Phase-Expand}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17098,6 +17161,16 @@
 - **description** : AI réduit l'importance de switching costs et process power ; network effects, scale economies, cornered resources restent inchangés
 
 **Fiches** : [[fiches/2026-05/cherny-sequoia-coding-is-solved-loops-printing-press-2026-05\|Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next]]
+
+### Rétrofuturisme {#Rétrofuturisme}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Branchement des technologies les plus avancées sur des imaginaires d'ordre, de frontière, de puissance, de nation et d'âge d'or
+
+- **est_basé_sur** → [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] (DOCUMENT) — 0.92
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### SEO {#SEO}
 
@@ -27189,7 +27262,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (137)
+## DOCUMENT (142)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -27958,6 +28031,31 @@
 
 **Fiches** : [[fiches/2026-08/claxton-anthropic-ai-native-sdlc-playbook-2026-08-21\|The AI-Native SDLC playbook: How to transform your software development lifecycle with AI—stage by stage]]
 
+### Rapport international sur la sécurité de l'IA {#Rapport-international-sur-la-sécurité-de-l'IA}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **usage** : Opposé par l'autrice aux "prophéties à pourcentage" comme base de discussion du risque
+
+- **affirme_que** → « les systèmes actuels n'ont pas toutes les capacités nécessaires à un scénario de perte de contrôle, certaines progressent vite, les experts restent divisés » (AFFIRMATION) — 0.94
+
+- [[kb/Asma-Mhalla\|Asma Mhalla]] **est_basé_sur** → Rapport international sur la sécurité de l'IA — 0.90
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
+### Reactionary Modernism {#Reactionary-Modernism}
+
+**Type** : DOCUMENT | 3 relations | 1 fiches
+
+- **auteur et date** : Jeffrey Herf, 1984 ; étudie la combinaison fascination technique / rejet des Lumières dans l'Allemagne de l'entre-deux-guerres
+
+- **affirme_que** → « les modernistes réactionnaires n'ont pas combattu la machine, ils l'ont détachée du marché et du libéralisme pour la confier à la nation et à l'État fort » (AFFIRMATION) — 0.93
+
+- [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] **publie** → Reactionary Modernism — 0.95
+- [[kb/_entites-mineures#Rétrofuturisme\|Rétrofuturisme]] **est_basé_sur** → Reactionary Modernism — 0.92
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Reflecting on a year of Claude Code {#Reflecting-on-a-year-of-Claude-Code}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -28311,6 +28409,16 @@
 
 **Fiches** : [[fiches/2026-03/bedard-bcg-hbr-ai-brain-fry-cognitive-fatigue-2026-03-05\|When Using AI Leads to "Brain Fry"]]
 
+### Trust Barometer Edelman {#Trust-Barometer-Edelman}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **mesure 2026** : 6 % des Français anticipent une vie meilleure pour la génération suivante, dernier rang des 28 marchés
+
+- **mesure** → « 6 % des Français pensent que la prochaine génération vivra mieux — le plus bas des 28 marchés étudiés » (MESURE) — 0.95
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Vidéo de lancement de Fable {#Vidéo-de-lancement-de-Fable}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -28357,6 +28465,18 @@
 
 **Fiches** : [[fiches/2026-04/ashley-futurum-spacex-cursor-2026-04-29\|Why SpaceX-Cursor Works for Both, and What It Means for Google, AWS, IBM]]
 
+### Why the Future Doesn't Need Us {#Why-the-Future-Doesn't-Need-Us}
+
+**Type** : DOCUMENT | 2 relations | 1 fiches
+
+- **auteur et date** : Bill Joy, *Wired*, 2000 ; antécédent direct du titre et de l'angoisse de l'essai
+
+- **s_applique_à** → « antécédent de 2000 aux prophéties d'extinction de 2026 — mêmes mots, mêmes angoisses » (AFFIRMATION) — 0.90
+
+- Bill Joy **publie** → Why the Future Doesn't Need Us — 0.95
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
+
 ### Your Browser Does Math Differently on Every OS {#Your-Browser-Does-Math-Differently-on-Every-OS}
 
 **Type** : DOCUMENT | 1 relations | 1 fiches
@@ -28376,6 +28496,16 @@
 - [[kb/_entites-mineures#sécurité-du-SDLC-AI-native\|sécurité du SDLC AI-native]] **est_basé_sur** → Zero Trust for Agents — 0.90
 
 **Fiches** : [[fiches/2026-07/clinton-anthropic-secure-ai-native-sdlc-2026-07-21\|How Anthropic secures its AI-native software development lifecycle]]
+
+### article What if the future does not need you {#article-What-if-the-future-does-not-need-you}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **forme** : Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026
+
+- [[kb/Asma-Mhalla\|Asma Mhalla]] **publie** → article What if the future does not need you — 0.98
+
+**Fiches** : [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### article de Paul Sawers (16 juin 2026) {#article-de-Paul-Sawers-(16-juin-2026)}
 

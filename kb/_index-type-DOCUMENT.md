@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 159 entités de type DOCUMENT
+> 164 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -87,6 +87,8 @@
 - [[kb/_entites-mineures#Quo-vadis,-humanitas\|Quo vadis, humanitas ?]] — catégorie: Document de la Commission théologique internationale (9 février 2026) sur l'anthropologie chrétienne face aux scénarios futurs de l'humanité — référence-clé dans Magnifica Humanitas (1 occ., 1 fiches)
 - [[kb/_entites-mineures#REVIEW-md\|REVIEW.md]] — rôle: Doctrine de revue : passes bugs/sécurité/conformité, définition de « Important », plafond de nits (1 occ., 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] — date: 2025-09-23 (3 occ., 2 fiches)
+- [[kb/_entites-mineures#Rapport-international-sur-la-sécurité-de-l'IA\|Rapport international sur la sécurité de l'IA]] — usage: Opposé par l'autrice aux "prophéties à pourcentage" comme base de discussion du risque (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] — auteur et date: Jeffrey Herf, 1984 ; étudie la combinaison fascination technique / rejet des Lumières dans l'Allemagne de l'entre-deux-guerres (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Reflecting-on-a-year-of-Claude-Code\|Reflecting on a year of Claude Code]] — description: Vidéo LinkedIn (~47 s, Claude for Business, ~2026-07-17) : Cherny & Wu affirment que les rôles produit et ingénierie fusionnent ; l'IA favorise curiosité, goût produit, ownership end-to-end (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Refresh-2026\|Refresh 2026]] — description: Article Modern Data 101 du 4 mai 2026 par Jessica Talisman MLS révisant son framework Ontology Pipeline initial de janvier 2025 — ajoute Governance et AI Partnership comme étapes critiques (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Rerum-Novarum-(Léon-XIII)\|Rerum Novarum (Léon XIII)]] — catégorie: Encyclique sociale fondatrice (15 mai 1891), matrice originelle de la Doctrine sociale de l'Église, sur la question ouvrière — référence-pivot de Magnifica Humanitas (1 occ., 1 fiches)
@@ -127,14 +129,17 @@
 - [[kb/_entites-mineures#Token-Budget-Wars\|Token Budget Wars]] — description: Essai-thread X 28 mai 2026 (230,5K vues) : l'IA d'entreprise passe de l'adoption à l'allocation ; phase 2 = combien de travail vaut la peine (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tokenomics-foundation-l'ère-du-FinOps-appliqué-à-l'IA-est-officiellement-ouverte\|Tokenomics foundation : l'ère du FinOps appliqué à l'IA est officiellement ouverte]] — catégorie: Tribune d'analyse / décryptage d'actualité (~4 min) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tomorrowmind\|Tomorrowmind]] — type: Livre co-écrit par Gabriella Rosen Kellerman sur santé mentale et futur du travail (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Trust-Barometer-Edelman\|Trust Barometer Edelman]] — mesure 2026: 6 % des Français anticipent une vie meilleure pour la génération suivante, dernier rang des 28 marchés (1 occ., 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] — catégorie: Note d'analyse (juin 2026) — effets de l'IA sur l'emploi (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Vidéo-de-lancement-de-Fable\|Vidéo de lancement de Fable]] — production: Montée entièrement avec Claude Code (transcription Whisper, ffmpeg, Remotion, color grading) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#What-are-code-reviews-even-for\|What are code reviews even for?]] — format: Édition de newsletter d'environ 13 000 caractères, publiée le 5 août 2026, à l'origine de la réponse de Rachel Laycock un mois plus tard (1 occ., 1 fiches)
 - [[kb/_entites-mineures#When-code-is-abundant\|When code is abundant]] — format: Essai stratégique de ~39 000 caractères, 31 min de lecture annoncées, publié le 24 août 2026 en réponse au playbook d'Anthropic (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] — format: Note d'analyste Market Coverage News d'environ 9 500 caractères, publiée le 29 avril 2026, structurée en synthèse, faits, Analyst Take et cinq signaux de veille (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Why-the-Future-Doesn't-Need-Us\|Why the Future Doesn't Need Us]] — auteur et date: Bill Joy, *Wired*, 2000 ; antécédent direct du titre et de l'angoisse de l'essai (1 occ., 1 fiches)
 - [[kb/Work-at-the-Frontier\|Work at the Frontier]] — référence: OpenAI Economic Research, « How AI is Expanding What People Do at Work », 1er rapport de la série, 27 juillet 2026 — plus de 800 000 messages d'utilisateurs américains de ChatGPT (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Your-Browser-Does-Math-Differently-on-Every-OS\|Your Browser Does Math Differently on Every OS]] — référence: Article Scrapfly Engineering du 12 juillet 2026 cartographiant les fuites d'OS via Math.tanh, la trigonométrie CSS et Web Audio, et détaillant la reproduction bit à bit comme seule contre-mesure (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Zero-Trust-for-Agents\|Zero Trust for Agents]] — rôle: Framework Anthropic dont ce billet est le compagnon d'implémentation (1 occ., 1 fiches)
+- [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] — forme: Essai en cinq parties titrées en anglais, publié sur Substack le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] — catégorie: Article The New Stack (Paul Sawers, 16 juin 2026) sur la suspension de la scission de facturation de l'Agent SDK, replacée dans son contexte sectoriel et réglementaire (1 occ., 1 fiches)
 - [[kb/_entites-mineures#bands.yaml\|bands.yaml]] — rôle: Config versionnée des bandes de contrôle production et des paliers d'autonomie associés (1 occ., 1 fiches)
 - [[kb/_entites-mineures#billet-Zed-sur-la-facturation-Claude\|billet Zed sur la facturation Claude]] — catégorie: Billet Zed du 14 mai 2026 (Franciska Dethlefsen) sur la scission de facturation Claude, augmenté d'un addendum du 16 juin 2026 annonçant sa suspension (1 occ., 1 fiches)

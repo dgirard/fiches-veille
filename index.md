@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 411 fiches | 1975-12 → 2026-09-14 | généré le 2026-09-16
+> 412 fiches | 1975-12 → 2026-09-20 | généré le 2026-09-22
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -9,6 +9,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-09
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
+- **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
 - **14** [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech. · X @GoogleCloudTech (Alan Blount) — routage de modèles, coordination asymétrique, tokenomics
 - **14** [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com. · donnfelker.substack.com (Donn Felker) — agentic builder, Agentic Product Engineer, identité professionnelle
 - **14** [Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic](fiches/2026-09/malhotra-anthropic-ci-test-impact-analysis-2026-09-14.md) — Sachin Malhotra (ingénieur, Anthropic), sur le blog claude.com. · claude.com (Sachin Malhotra, Anthropic) — intégration continue, CI, test impact analysis
@@ -883,6 +884,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
@@ -972,6 +974,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [The Future is for Everyone: The Path to a Positive AI Future](fiches/2026-08/zuckerberg-meta-future-is-for-everyone-superintelligence-2026-08-10.md) — **Mark Zuckerberg** — fondateur et PDG de **Meta**. Texte signé du seul prénom (*« – Mark »*), publié le **10 août 2026** sur un domaine dédié de meta.com. La signature n'est pas « Meta », et l'alternance des pronoms est régulière : **« we » pour les engagements de l'entreprise** (*« we will offer free versions »*, *« Meta is implementing a governance structure »*), **« I » pour les affirmations normatives ou contestables** (*« I think this view of alignment is fundamentally flawed »*, *« I propose that companies developing frontier AI should… »*, *« My honest guess, and it is a guess »*). Les engagements produits et de gouvernance sont au « nous », les propositions de politique publique au « je ».
@@ -1123,6 +1126,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Politique & Régulation
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
+- [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](fiches/2026-08/zai-glm-53-emergent-cyber-2026-08-14.md) — **Z.ai** (anciennement **Zhipu AI**), laboratoire d'IA chinois, éditeur de la famille **GLM**. Billet **institutionnel et non signé** : aucun auteur nommé, aucun chercheur mis en avant, aucun lien vers un rapport technique ou une carte de modèle. Publié le **14 août 2026**. La page est une SPA React — le HTML servi est un `<div id="root">` vide, et le texte comme les scores ont dû être extraits du bundle `glm-5.3-BCnx8T5_.js`, où ils figurent en valeurs source.
@@ -1150,20 +1154,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 411 fiches
-- **Par année** : 2026 (234) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 412 fiches
+- **Par année** : 2026 (235) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 153
   - Architecture & Construction : 57
   - Transformation & Adoption : 89
   - Qualité & Sécurité : 49
-  - Économie & Marché : 86
-  - Philosophie & Société : 25
+  - Économie & Marché : 87
+  - Philosophie & Société : 26
   - Stratégie & Frameworks : 30
   - Outils & Plateformes : 56
   - Recherche & Éducation : 12
   - Produits & Services : 12
-  - Politique & Régulation : 25
+  - Politique & Régulation : 26
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (12)

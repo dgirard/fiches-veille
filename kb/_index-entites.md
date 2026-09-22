@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3402 entités
+> 3415 entités
 
 ## #
 
@@ -381,6 +381,7 @@
 - [[kb/Arthur-Mensch\|Arthur Mensch]] (PERSONNE, 3 fiches)
 - [[kb/_entites-mineures#article-de-Paul-Sawers-(16-juin-2026)\|article de Paul Sawers (16 juin 2026)]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Article-DHH-2014-TDD-is-dead\|Article DHH 2014 "TDD is dead"]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#article-What-if-the-future-does-not-need-you\|article What if the future does not need you]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Articulation-TDD-coding-agents-2026\|Articulation TDD / coding agents 2026]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Artifactory\|Artifactory]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Artificial-Analysis\|Artificial Analysis]] (ORGANISATION, 2 fiches)
@@ -397,6 +398,7 @@
 - [[kb/_entites-mineures#ASI-(Artificial-Super-Intelligence)\|ASI (Artificial Super Intelligence)]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Ask-HR\|Ask HR]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#ASL-3\|ASL-3]] (CONCEPT, 1 fiches)
+- [[kb/Asma-Mhalla\|Asma Mhalla]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#ASML\|ASML]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Assistant\|Assistant]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Assistant-axis\|Assistant axis]] (CONCEPT, 1 fiches)
@@ -795,6 +797,7 @@
 - [[kb/Compaction-methodologie\|Compaction]] (METHODOLOGIE, 2 fiches)
 - [[kb/_entites-mineures#compagnons-IA\|compagnons IA]] (TECHNOLOGIE, 1 fiches)
 - [[kb/Compare-the-Market\|Compare the Market]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Compatibilité-narrative\|Compatibilité narrative]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Compensate-satisfaction-with-quantity\|Compensate satisfaction with quantity]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#compilateur-C-en-Rust\|compilateur C en Rust]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#complicated-subsystem-team\|complicated subsystem team]] (CONCEPT, 1 fiches)
@@ -1084,6 +1087,7 @@
 - [[kb/_entites-mineures#doctrine-frontier-free\|doctrine frontier-free]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#doctrine-multicloud\|doctrine multicloud]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Doctrine-sociale-de-l'Église\|Doctrine sociale de l'Église]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Doctrine-volatile-de-souveraineté\|Doctrine volatile de souveraineté]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Document-linéaire\|Document linéaire]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#documentation-compressée\|documentation compressée]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#documentation-statique\|documentation statique]] (CONCEPT, 1 fiches)
@@ -1337,6 +1341,7 @@
 - [[kb/_entites-mineures#FTC\|FTC]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#FUD-réglementaire\|FUD réglementaire]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Fuel-Adoption-Output-Impact\|Fuel-Adoption-Output-Impact]] (METHODOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Futuro-Nazionale\|Futuro Nazionale]] (ORGANISATION, 1 fiches)
 ## G
 
 - [[kb/_entites-mineures#Gabriel-Vasquez\|Gabriel Vasquez]] (PERSONNE, 1 fiches)
@@ -1709,6 +1714,7 @@
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] (PERSONNE, 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] (PERSONNE, 1 fiches)
 - [[kb/Jack-Dorsey\|Jack Dorsey]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jacob-Coxon\|Jacob Coxon]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#jagged-frontier\|jagged frontier]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Jagged-intelligence\|Jagged intelligence]] (CONCEPT, 1 fiches)
@@ -1734,6 +1740,7 @@
 - [[kb/Jeff-Bezos\|Jeff Bezos]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] (PERSONNE, 1 fiches)
+- [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] (PERSONNE, 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] (PERSONNE, 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] (PERSONNE, 1 fiches)
@@ -2312,7 +2319,7 @@
 - [[kb/_entites-mineures#pair-programming\|pair programming]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#paire-contrastive\|paire contrastive]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Paired-Prompts-method\|Paired Prompts method]] (METHODOLOGIE, 1 fiches)
-- [[kb/Palantir\|Palantir]] (ORGANISATION, 1 fiches)
+- [[kb/Palantir\|Palantir]] (ORGANISATION, 2 fiches)
 - [[kb/panne-de-service-Claude\|panne de service Claude]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#paradox-of-choice\|paradox of choice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#paradoxe-collaboratif\|paradoxe collaboratif]] (CONCEPT, 1 fiches)
@@ -2371,6 +2378,7 @@
 - [[kb/Peter-Aideloje\|Peter Aideloje]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peter-McCrory\|Peter McCrory]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] (PERSONNE, 2 fiches)
+- [[kb/_entites-mineures#Peur-de-devenir-superflu\|Peur de devenir superflu]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Pew-Research\|Pew Research]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Pew-Research-2025\|Pew Research 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Phase-1-Fondation-des-Champions\|Phase 1 Fondation des Champions]] (METHODOLOGIE, 1 fiches)
@@ -2573,6 +2581,7 @@
 - [[kb/_entites-mineures#rapport-Disrupting-AI-espionage-novembre-2025\|rapport Disrupting AI espionage novembre 2025]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#rapport-DORA-2024\|rapport DORA 2024]] (DOCUMENT, 1 fiches)
 - [[kb/Rapport-DORA-2025\|Rapport DORA 2025]] (DOCUMENT, 2 fiches)
+- [[kb/_entites-mineures#Rapport-international-sur-la-sécurité-de-l'IA\|Rapport international sur la sécurité de l'IA]] (DOCUMENT, 1 fiches)
 - [[kb/rapport-interne-x-algorithm-growth\|rapport interne x-algorithm growth]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Ratchet-principle\|Ratchet principle]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#ratio-60-40-marque-performance\|ratio 60/40 marque-performance]] (CONCEPT, 1 fiches)
@@ -2582,6 +2591,7 @@
 - [[kb/_entites-mineures#Ray-Perrault\|Ray Perrault]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#RDF\|RDF]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#React\|React]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#Reactionary-Modernism\|Reactionary Modernism]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#reasoning-engine\|reasoning engine]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Rebecca-Parsons\|Rebecca Parsons]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#recherche-en-langage-naturel\|recherche en langage naturel]] (CONCEPT, 1 fiches)
@@ -2693,6 +2703,7 @@
 - [[kb/_entites-mineures#réplication-automatique\|réplication automatique]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#rétention-de-tâches-propres\|rétention de tâches propres]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#rétention-nulle-de-données\|rétention nulle de données]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Rétrofuturisme\|Rétrofuturisme]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#rétrospective-d'un-an\|rétrospective d'un an]] (EVENEMENT, 1 fiches)
 - [[kb/réversibilité\|réversibilité]] (CONCEPT, 3 fiches)
 ## S
@@ -3203,6 +3214,7 @@
 - [[kb/_entites-mineures#Trois-principes-Lattice\|Trois principes Lattice]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Trois-scénarios-(DORA)\|Trois scénarios (DORA)]] (METHODOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Trump-Administration\|Trump Administration]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#Trust-Barometer-Edelman\|Trust Barometer Edelman]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#truth-registry\|truth registry]] (CONCEPT, 1 fiches)
 - [[kb/Trésor-Éco-n°-391\|Trésor-Éco n° 391]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#tutoriels-IA-YouTube\|tutoriels IA YouTube]] (CONCEPT, 1 fiches)
@@ -3342,6 +3354,7 @@
 - [[kb/_entites-mineures#Whisper-large-v3\|Whisper large-v3]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#White-House-U-turn-AI-policy-mai-2026\|White House U-turn AI policy mai 2026]] (EVENEMENT, 1 fiches)
 - [[kb/_entites-mineures#Why-SpaceX-Cursor-Works-for-Both\|Why SpaceX-Cursor Works for Both]] (DOCUMENT, 1 fiches)
+- [[kb/_entites-mineures#Why-the-Future-Doesn't-Need-Us\|Why the Future Doesn't Need Us]] (DOCUMENT, 1 fiches)
 - [[kb/_entites-mineures#Widening-Gap\|Widening Gap]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#widgets-iframes\|widgets iframes]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Will-Allen\|Will Allen]] (PERSONNE, 1 fiches)

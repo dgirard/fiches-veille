@@ -1,10 +1,11 @@
 # Palantir
 
-> **Type** : ORGANISATION | 7 relations | 1 fiches sources
+> **Type** : ORGANISATION | 8 relations | 2 fiches sources
 
 ## Attributs
 
 - **rôle** : Cas d'école du passage services → produit : déploiements Gotham bespoke pour le renseignement américain encodés en primitives de plateforme (ontologie, modèles d'objets, permissions, workflows, provenance) devenues Foundry, avec marge brute montée dans les 80 % et sortie du motion FDE ; a assumé près de vingt ans de réputation de cabinet de conseil déguisé
+- **statut en France** : En service au renseignement intérieur depuis 2015, conçu comme transitoire ; outil souverain lancé en 2021, second lot non finalisé en mai 2026
 
 ## Relations (comme sujet)
 
@@ -17,6 +18,11 @@
 
 - « une marge brute montée dans les 80 % une fois les déploiements standardisés autour de Foundry » (MESURE) — 0.88, STATIQUE
   - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]
+
+### observé_dans
+
+- « renseignement intérieur français depuis 2015, solution présentée dès l'origine comme transitoire » (AFFIRMATION) — 0.94, DYNAMIQUE
+  - [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 
 ### publie
 
@@ -40,4 +46,5 @@
 
 ## Fiches sources
 
+- [[fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20\|WHAT IF THE FUTURE DOES NOT NEED YOU ?]]
 - [[fiches/2026-08/zhang-decagon-fde-produit-2026-08-11\|To FDE, or not to FDE?]]

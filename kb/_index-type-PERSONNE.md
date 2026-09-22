@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 514 entités de type PERSONNE
+> 517 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -59,6 +59,7 @@
 - [[kb/Ashish-Singh\|Ashish Singh]] — rôle: Auteur de la série « New Engineering Disciplines for the AI Era » (LinkedIn) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashu-Garg\|Ashu Garg]] — rôle: Investisseur VC, Foundation Capital (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Ashwin-Sreenivas\|Ashwin Sreenivas]] — rôle: Cofondateur de Decagon, ancien de Palantir ; source du récit Palantir mobilisé dans l'article (1 occ., 1 fiches)
+- [[kb/Asma-Mhalla\|Asma Mhalla]] — rôle: Politiste, autrice de *Technopolitique* et de la newsletter *Dangerous Ideas* (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Atish-Patel\|Atish Patel]] — rôle: Ingénieur chez Block, « Building AI solutions » ; auteur du billet de benchmarks sur les équipes d'agents dans Buzz (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Audry-Herblin-Stoupe\|Audry Herblin-Stoupe]] — rôle: Directrice des affaires publiques et de la communication, Mistral AI (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Augustin-d'Hippone\|Augustin d'Hippone]] — période: 354-430 (1 occ., 1 fiches)
@@ -211,6 +212,7 @@
 - [[kb/_entites-mineures#J.R.R.-Tolkien\|J.R.R. Tolkien]] — rôle: Écrivain catholique anglais (1892-1973), auteur du *Seigneur des Anneaux* — cité par Léon XIV (n. 213) via les paroles de Sam dans *Le Retour du Roi* sur la responsabilité de notre génération (1 occ., 1 fiches)
 - [[kb/Jack-Clark\|Jack Clark]] — rôle: Co-fondateur Anthropic, membre AI Index Steering Committee (1 occ., 1 fiches)
 - [[kb/Jack-Dorsey\|Jack Dorsey]] — rôle: Directeur général de Block ; assume de facturer l'IA en dernier et revendique une position confortable pour expérimenter plusieurs modèles de prix (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jacob-Coxon\|Jacob Coxon]] — rôle: Chercheur passé par OpenAI puis Anthropic, démissionnaire le 9 septembre 2026 avec un avertissement viral sur le risque d'extinction (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jacqui-Canney\|Jacqui Canney]] — rôle: Chief People and AI Transformation Officer ServiceNow (1 occ., 1 fiches)
 - [[kb/Jamin-Ball\|Jamin Ball]] — rôle: Analyste / auteur newsletter Clouded Judgement (2 occ., 1 fiches)
 - [[kb/Janakiram-MSV\|Janakiram MSV]] — rôle: Architecte praticien, analyste et conseil de startups Silicon Valley ; auteur The New Stack (2 occ., 2 fiches)
@@ -230,6 +232,7 @@
 - [[kb/Jeff-Bezos\|Jeff Bezos]] — rôle: Co-CEO Project Prometheus (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Jeff-Otto\|Jeff Otto]] — rôle: CMO, Riskified (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jeffrey-Ding\|Jeffrey Ding]] — rôle: Politologue, propose le concept "diffusion marathon" (vs winner-take-all race) pour cadrer la course IA comme general-purpose technology (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Jeffrey-Herf\|Jeffrey Herf]] — rôle: Historien, auteur de *Reactionary Modernism* (1984) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Jensen-Huang\|Jensen Huang]] — affirmation_rapportée: Le développeur devient un « RH d'agent » (1 occ., 1 fiches)
 - [[kb/Jesse-Vincent\|Jesse Vincent]] — rôle: Praticien ayant transmis le conseil de délégation multi-modèles (6 occ., 5 fiches)
 - [[kb/Jesse-Zhang\|Jesse Zhang]] — rôle: Cofondateur et CEO de Decagon (agents IA de service client) ; défend une approche produit contre l'approche FDE/services et déclare que deux tiers du travail de déploiement de son entreprise sont réalisés de façon autonome (1 occ., 1 fiches)

@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 418 entités de type ORGANISATION
+> 419 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -154,6 +154,7 @@
 - [[kb/Foundation-Capital\|Foundation Capital]] — secteur: Capital-risque (3 occ., 3 fiches)
 - [[kb/_entites-mineures#Fountain\|Fountain]] — secteur: Gestion RH / Personnel de terrain (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Fournisseurs-CX-legacy\|Fournisseurs CX legacy]] — rôle: Éditeurs historiques du service client, en conflit d'incitations avec la tarification à l'outcome (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Futuro-Nazionale\|Futuro Nazionale]] — nature: Parti italien fondé en 2026 par Roberto Vannacci ; nom cité comme emblème du rétrofuturisme politique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#GENIAL\|GENIAL]] — secteur: Startup IA française (1 occ., 1 fiches)
 - [[kb/Gadget\|Gadget]] — secteur: Plateforme de développement full-stack (1 occ., 1 fiches)
 - [[kb/Gartner\|Gartner]] — secteur: Recherche et conseil technologique (4 occ., 4 fiches)
@@ -284,7 +285,7 @@
 - [[kb/_entites-mineures#Oracle\|Oracle]] — rôle: acteur du réseau circulaire d'investissements IA (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Orange\|Orange]] — secteur: Opérateur télécom (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Orq.ai\|Orq.ai]] — secteur: Plateforme d'agents IA / gouvernance (1 occ., 1 fiches)
-- [[kb/Palantir\|Palantir]] — rôle: Cas d'école du passage services → produit : déploiements Gotham bespoke pour le renseignement américain encodés en primitives de plateforme (ontologie, modèles d'objets, permissions, workflows, provenance) devenues Foundry, avec marge brute montée dans les 80 % et sortie du motion FDE ; a assumé près de vingt ans de réputation de cabinet de conseil déguisé (1 occ., 1 fiches)
+- [[kb/Palantir\|Palantir]] — rôle: Cas d'école du passage services → produit : déploiements Gotham bespoke pour le renseignement américain encodés en primitives de plateforme (ontologie, modèles d'objets, permissions, workflows, provenance) devenues Foundry, avec marge brute montée dans les 80 % et sortie du motion FDE ; a assumé près de vingt ans de réputation de cabinet de conseil déguisé (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Parahelp\|Parahelp]] — apport: Contributions produit d'employés non techniques, rapportées par un cofondateur non développeur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Parti-communiste-chinois\|Parti communiste chinois]] — posture IA (selon Ball): Vision de l'IA « très Yann-LeCun-ienne » (peu AGI-pilled) — expliquerait ~75 % de la tolérance à l'open-sourcing de modèles puissants (1 occ., 1 fiches)
 - [[kb/_entites-mineures#People-and-Digital-Technology\|People and Digital Technology]] — structure: Département fusionné HR+IT chez Moderna (créé en 2025) (1 occ., 1 fiches)
