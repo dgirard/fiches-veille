@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 413 fiches | 1975-12 → 2026-09-25 | généré le 2026-09-26
+> 414 fiches | 1975-12 → 2026-09-25 | généré le 2026-09-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -10,6 +10,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
 - **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
+- **20** [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ). · Les Pirates de l'IA (RCJ) — place de marché, marketplace, modèle de plateforme
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
 - **14** [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech. · X @GoogleCloudTech (Alan Blount) — routage de modèles, coordination asymétrique, tokenomics
 - **14** [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com. · donnfelker.substack.com (Donn Felker) — agentic builder, Agentic Product Engineer, identité professionnelle
@@ -741,6 +742,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Transformation & Adoption
 
+- [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [Do you even need a presentation?](fiches/2026-09/moghe-need-presentation-never-send-slides-2026-09-08.md) — Sumeet Gayathri Moghe (global head of culture and organisational design, Thoughtworks), publié sur martinfowler.com ; relecture éditoriale de Martin Fowler.
 - [« Un agent n'a pas de bon sens » : ce qu'ADEO et Decathlon ont compris de l'ère agentique](fiches/2026-09/sfeir-adeo-decathlon-agent-bon-sens-2026-09-06.md) — SFEIR AI (voix éditoriale du cabinet), article non signé individuellement. Restitue un entretien de Matthieu Grymonprez (Adeo) et Romain Taillade (Decathlon).
@@ -885,6 +887,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Économie & Marché
 
+- [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech.
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
@@ -1129,6 +1132,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### Politique & Régulation
 
 - [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com.
+- [Philippe Corrot, fondateur de Mirakl](fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20.md) — Philippe Corrot, cofondateur et co-CEO de Mirakl, interrogé par Éric Hazan dans *Les Pirates de l'IA* (RCJ).
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [Detecting and countering misuse of AI: September 2026](fiches/2026-09/anthropic-threat-intelligence-misuse-report-2026-09-10.md) — Anthropic — équipe Threat Intelligence (rattachée aux Safeguards), rapport institutionnel non signé publié sur anthropic.com.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
@@ -1157,20 +1161,20 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 413 fiches
-- **Par année** : 2026 (236) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 414 fiches
+- **Par année** : 2026 (237) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 153
   - Architecture & Construction : 57
-  - Transformation & Adoption : 89
+  - Transformation & Adoption : 90
   - Qualité & Sécurité : 49
-  - Économie & Marché : 87
+  - Économie & Marché : 88
   - Philosophie & Société : 27
   - Stratégie & Frameworks : 30
   - Outils & Plateformes : 56
   - Recherche & Éducation : 13
   - Produits & Services : 12
-  - Politique & Régulation : 26
+  - Politique & Régulation : 27
 - **Auteurs (top 20)** :
   - SFEIR (13)
   - Ethan Mollick (12)

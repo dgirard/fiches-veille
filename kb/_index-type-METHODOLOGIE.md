@@ -1,6 +1,6 @@
 # Index — METHODOLOGIE
 
-> 431 entités de type METHODOLOGIE
+> 432 entités de type METHODOLOGIE
 
 - [[kb/_entites-mineures#design-blueprint-(Lattice)\|/design-blueprint (Lattice)]] — description: Five-level progressive design approach — design-first comme convention non négociable (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2x-Principles-(Curran)\|2x Principles (Curran)]] — description: Modern work methodology Intercom — annoncée mais détails réservés à un post suivant (1 occ., 1 fiches)
@@ -235,6 +235,7 @@
 - [[kb/_entites-mineures#Token-consumption-performance-metric\|Token consumption performance metric]] — description: Pratique d'entreprise (ex: Meta avec lines of AI code) qui incite à maximiser l'usage IA — source d'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Token-max\|Token-max]] — définition: Classement interne d'entreprise valorisant les plus gros utilisateurs d'IA — source d'injonction et d'épuisement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tool-search\|Tool search]] — description: Stubs légers avec defer_loading pour maintenir préfixe stable (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Transformation-par-les-livrables\|Transformation par les livrables]] — mécanisme: Partir du livrable produit (code, business review, réponse au support) et remonter la chaîne en reverse engineering pour trouver le meilleur moyen de l'obtenir avec de l'IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Tree-of-Thought\|Tree-of-Thought]] — limite: Branches multiples mais contexte unique partagé — l'ancrage persiste (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Triade-ingrédients-recette-plat-fini\|Triade ingrédients/recette/plat fini]] — catégorie: Cadre Meng To : skills/design.md/HTML (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Trois-critères-armes-IA\|Trois critères armes IA]] — définition: Critères léoniens de discernement (n. 199) : (1) responsabilité personnelle traçable, (2) refus de raccourcir le délai du jugement moral, (3) identification et protection des civils (1 occ., 1 fiches)

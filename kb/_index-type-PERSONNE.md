@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 518 entités de type PERSONNE
+> 522 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -13,6 +13,7 @@
 - [[kb/_entites-mineures#Adam-Cohen\|Adam Cohen]] — rôle: Co-fondateur & CEO (1 occ., 1 fiches)
 - [[kb/Addy-Osmani\|Addy Osmani]] — rôle: Ingénieur Google, a popularisé le terme « loop engineering » (juin 2026) (9 occ., 8 fiches)
 - [[kb/_entites-mineures#Adrian-Kinnersley\|Adrian Kinnersley]] — rôle: Dirigeant d'une société de recrutement ; alerte sur la non-conformité légale du 996 (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Adrien-Nussenbaum\|Adrien Nussenbaum]] — rôle: Cofondateur de Splitgames puis de Mirakl ; parti ouvrir l'activité commerciale à Boston en 2015 (1 occ., 1 fiches)
 - [[kb/Ahmad-Osman\|Ahmad Osman]] — rôle: Auteur du thread ; ancien power user de Claude Code (2024-2026) devenu critique (1 occ., 1 fiches)
 - [[kb/Aiman-Ezzat\|Aiman Ezzat]] — rôle: Directeur général de Capgemini (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Aimee-Donnellan\|Aimee Donnellan]] — affiliation: Reuters Breakingviews (1 occ., 1 fiches)
@@ -121,7 +122,7 @@
 - [[kb/Darragh-Curran\|Darragh Curran]] — rôle: R&D leader Intercom, auteur de l'engagement public 2x productivité R&D en 12 mois (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Dave-Crossland\|Dave Crossland]] — rôle: Co-auteur article (1 occ., 1 fiches)
 - [[kb/Dave-Farley\|Dave Farley]] — rôle: Engineering coach, fondateur Modern Software Engineering, ex-Continuous Delivery (livre 2010 avec Jez Humble) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#David-Autor\|David Autor]] — rôle: Économiste MIT, thèse new industries will emerge (contrepoint underclass) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#David-Autor\|David Autor]] — rôle: Économiste du MIT cité pour la démocratisation de l'expertise par les LLM et le déplacement des tâches (2 occ., 2 fiches)
 - [[kb/_entites-mineures#David-Crawford\|David Crawford]] — rôle: Partner Bain & Company, co-auteur série software industry age of AI 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Gibson\|David Gibson]] — rôle: Staff Data Scientist, Stack Overflow, co-auteur (1 occ., 1 fiches)
 - [[kb/_entites-mineures#David-Heinemeier-Hansson-(DHH)\|David Heinemeier Hansson (DHH)]] — rôle: Créateur Ruby on Rails, fondateur Basecamp/HEY, vainqueur 24h du Mans 82e édition, auteur essai "TDD is dead. Long live testing." (2014) (1 occ., 1 fiches)
@@ -156,7 +157,7 @@
 - [[kb/_entites-mineures#Eric-Meijer\|Eric Meijer]] — rôle: Chercheur informatique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Eric-Pantera\|Eric Pantera]] — rôle: CTO de Swile (Montpellier) (1 occ., 1 fiches)
 - [[kb/Eric-S.-Raymond\|Eric S. Raymond]] — rôle: Développeur et essayiste, figure historique de l'open source (auteur de *The Cathedral and the Bazaar*, co-fondateur de l'OSI, Fetchmail, *The Art of Unix Programming*) ; ~50 ans d'expérience ; témoin pro-LLM du débat sur les agents de codage (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Professeur senior, Stanford HAI (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Erik-Brynjolfsson\|Erik Brynjolfsson]] — rôle: Économiste cité pour la thèse des « canaris dans la mine de charbon » — recul de la demande de jeunes informaticiens aux États-Unis (2 occ., 2 fiches)
 - [[kb/Erwan-Simon\|Erwan Simon]] — rôle: CEO GENIAL (1 occ., 1 fiches)
 - [[kb/Ethan-Mollick\|Ethan Mollick]] — affiliation: Wharton School / One Useful Thing (19 occ., 15 fiches)
 - [[kb/_entites-mineures#Etienne-Bernard\|Etienne Bernard]] — rôle: auteur NuExtract (1 occ., 1 fiches)
@@ -348,6 +349,7 @@
 - [[kb/_entites-mineures#Molly-Kinder\|Molly Kinder]] — rôle: Senior fellow Brookings, parallèle white-collar / blue-collar narratives (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Montaigne\|Montaigne]] — période: 1533-1592 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NLW\|NLW]] — rôle: Animateur AI Daily Brief (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Nagi-Letaifa\|Nagi Letaifa]] — rôle: Premier développeur recruté chez Mirakl, aujourd'hui directeur technique ; contributeur de la méthode de transformation par les livrables (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nancy-Duarte\|Nancy Duarte]] — spécialité: Design présentations, Slidology (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Natasha-Maniar\|Natasha Maniar]] — rôle: Partner, McKinsey (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nathaniel-Moran\|Nathaniel Moran]] — rôle: Représentant US (R-Texas), co-sponsor de l'AI Kill Switch Act (1 occ., 1 fiches)
@@ -384,6 +386,7 @@
 - [[kb/_entites-mineures#Peter-Steinberger\|Peter Steinberger]] — contribution: Observation fondatrice (« design loops that prompt your agents »), checklist de boucle (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Phil-Williammee\|Phil Williammee]] — rôle: Co-tech lead du projet, Cornell AI Innovation Hub (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philipp-Schmid\|Philipp Schmid]] — rôle: Co-auteur article (1 occ., 1 fiches)
+- [[kb/Philippe-Corrot\|Philippe Corrot]] — rôle: Cofondateur et co-CEO de Mirakl ; entrepreneur autodidacte, parcours Keyrus (1997) → Mayrev → Splitgames → Fnac → Mirakl (1 occ., 1 fiches)
 - [[kb/Philippe-Ensarguet\|Philippe Ensarguet]] — rôle: Orange Fellow, VP Cloud & Software Engineering (7 occ., 6 fiches)
 - [[kb/_entites-mineures#Philippe-Latombe\|Philippe Latombe]] — rôle: Député MoDem (Vendée), président de la commission d'enquête vulnérabilités numériques, spécialiste souveraineté numérique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Philippe-Martin\|Philippe Martin]] — rôle: auteur, chroniqueur IT francophone (1 occ., 1 fiches)
@@ -520,3 +523,4 @@
 - [[kb/roon\|roon]] — rôle: Employé OpenAI, identité publique anonyme, voix influente du cercle *accel* sur X (1 occ., 1 fiches)
 - [[kb/_entites-mineures#techygarg\|techygarg]] — rôle: Auteur GitHub du framework Lattice + série d'articles martinfowler.com sur cinq collaboration patterns (1 occ., 1 fiches)
 - [[kb/_entites-mineures#u-H9ejFGzpN2\|u/H9ejFGzpN2]] — rôle: Auteur du post Reddit, praticien du workflow hybride (1 occ., 1 fiches)
+- [[kb/Éric-Hazan\|Éric Hazan]] — rôle: Présentateur de l'émission *Les Pirates de l'IA* (RCJ) ; mobilise Brynjolfsson et Autor dans la partie prospective (1 occ., 1 fiches)

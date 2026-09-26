@@ -1,8 +1,8 @@
 # Entités mineures
 
-> 2866 entités avec moins de 3 triples/fiches
+> 2876 entités avec moins de 3 triples/fiches
 
-## PERSONNE (377)
+## PERSONNE (379)
 
 ### 3Blue1Brown {#3Blue1Brown}
 
@@ -81,6 +81,16 @@
 - **affirme_que** → « de nombreuses entreprises appliquant le 996 sont totalement non conformes aux lois américaines du travail » (AFFIRMATION) — 0.88
 
 **Fiches** : [[fiches/2025-09/gauthier-996-silicon-valley-2025-09-30\|Travail. La Silicon Valley gagnée par l'implacable rythme "996", "sans alcool, sans sommeil, sans plaisir"]]
+
+### Adrien Nussenbaum {#Adrien-Nussenbaum}
+
+**Type** : PERSONNE | 1 relations | 1 fiches
+
+- **rôle** : Cofondateur de Splitgames puis de Mirakl ; parti ouvrir l'activité commerciale à Boston en 2015
+
+- **a_créé** → [[kb/Mirakl\|Mirakl]] (ORGANISATION) — 0.95
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### Aimee Donnellan {#Aimee-Donnellan}
 
@@ -881,13 +891,14 @@
 
 ### David Autor {#David-Autor}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 2 relations | 2 fiches
 
-- **rôle** : Économiste MIT, thèse new industries will emerge (contrepoint underclass)
+- **rôle** : Économiste du MIT cité pour la démocratisation de l'expertise par les LLM et le déplacement des tâches
 
+- **affirme_que** → « l'expertise se démocratise par les LLM et déplace les emplois vers des tâches plus complexes » (AFFIRMATION) — 0.90
 - **s_oppose_à** → [[kb/_entites-mineures#Permanent-underclass\|Permanent underclass]] (CONCEPT) — 0.90
 
-**Fiches** : [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]], [[fiches/2026-04/sun-nyt-silicon-valley-permanent-underclass-2026-04-30\|Silicon Valley Is Bracing for a Permanent Underclass]]
 
 ### David Crawford {#David-Crawford}
 
@@ -1130,13 +1141,16 @@
 
 ### Erik Brynjolfsson {#Erik-Brynjolfsson}
 
-**Type** : PERSONNE | 1 relations | 1 fiches
+**Type** : PERSONNE | 3 relations | 2 fiches
 
-- **rôle** : Professeur senior, Stanford HAI
+- **rôle** : Économiste cité pour la thèse des « canaris dans la mine de charbon » — recul de la demande de jeunes informaticiens aux États-Unis
 
 - **travaille_chez** → [[kb/_entites-mineures#Stanford-HAI\|Stanford HAI]] (ORGANISATION) — 0.97
+- **affirme_que** → « les jeunes informaticiens américains sont les canaris dans la mine de charbon, la corrélation n'étant pas encore causalité » (AFFIRMATION) — 0.90
 
-**Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
+- [[kb/Éric-Hazan\|Éric Hazan]] **référence** → Erik Brynjolfsson — 0.93
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]], [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
 
 ### Etienne Bernard {#Etienne-Bernard}
 
@@ -2510,6 +2524,14 @@
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption Status & ROI: Trends from the Ground]]
 
+### Nagi Letaifa {#Nagi-Letaifa}
+
+**Type** : PERSONNE | 0 relations | 1 fiches
+
+- **rôle** : Premier développeur recruté chez Mirakl, aujourd'hui directeur technique ; contributeur de la méthode de transformation par les livrables
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
 ### Nancy Duarte {#Nancy-Duarte}
 
 **Type** : PERSONNE | 2 relations | 1 fiches
@@ -3781,7 +3803,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (307)
+## ORGANISATION (309)
 
 ### 10x {#10x}
 
@@ -5302,6 +5324,14 @@
 
 **Fiches** : [[fiches/2025-11/nlw-ai-daily-brief-enterprise-adoption-roi-2025-11-23\|Enterprise AI Adoption Status & ROI: Trends from the Ground]]
 
+### Keyrus {#Keyrus}
+
+**Type** : ORGANISATION | 0 relations | 1 fiches
+
+- **rôle** : Agence web créée par Corrot en 1997, revendue en 2000 à Progiware, groupe qui a ensuite pris le nom de Keyrus
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
 ### Kima Ventures {#Kima-Ventures}
 
 **Type** : ORGANISATION | 0 relations | 1 fiches
@@ -5674,11 +5704,13 @@
 
 ### Mistral {#Mistral}
 
-**Type** : ORGANISATION | 1 relations | 1 fiches
+**Type** : ORGANISATION | 2 relations | 1 fiches
 
 - **secteur** : IA / modèles de langage (Europe)
 
 - **mesure** → « levée de fonds visée de 6 milliards de dollars » (MESURE) — 0.90
+
+- [[kb/Mirakl\|Mirakl]] **utilise** → Mistral — 0.90
 
 **Fiches** : [[fiches/2025-11/krim-bulle-ia-capital-infini-2025-11-02\|Le sentiment de bulle à l'épreuve du capital infini]]
 
@@ -6302,6 +6334,17 @@
 - **a_créé** → [[kb/_entites-mineures#The-Last-Ones-(TLO)\|The Last Ones (TLO)]] (TECHNOLOGIE) — 0.90
 
 **Fiches** : [[fiches/2026-04/aisi-uk-gpt55-cyber-capabilities-evaluation-2026-04-30\|Our evaluation of OpenAI's GPT-5.5 cyber capabilities]]
+
+### Splitgames {#Splitgames}
+
+**Type** : ORGANISATION | 2 relations | 1 fiches
+
+- **rôle** : Place de marché du jeu vidéo fondée par Corrot et Nussenbaum, rachetée par la Fnac en 2008 ; sa technologie a porté la marketplace Fnac.com
+
+- [[kb/Philippe-Corrot\|Philippe Corrot]] **a_créé** → Splitgames — 0.95
+- Fnac **utilise** → Splitgames — 0.94
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### Standard Chartered {#Standard-Chartered}
 
@@ -6930,7 +6973,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (641)
+## TECHNOLOGIE (643)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -10455,6 +10498,18 @@
 
 **Fiches** : [[fiches/2026-08/girard-shieldstral-mistral-doctrine-garde-fou-2026-08-07\|Shieldstral : Mistral compile sa doctrine en 3,8 milliards de paramètres]]
 
+### Mirakl Marketplace Platform {#Mirakl-Marketplace-Platform}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **modèle économique** : Logiciel connecté au front e-commerce du client, rémunéré en pourcentage des transactions — modèle aligné sur celui du client
+
+- **mesure** → « 20 milliards de dollars attendus en transit sur les plateformes en 2026 » (MESURE) — 0.92
+
+- [[kb/Mirakl\|Mirakl]] **publie** → Mirakl Marketplace Platform — 0.95
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
 ### Mistral Regional Endpoints {#Mistral-Regional-Endpoints}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -10831,6 +10886,18 @@
 - [[kb/workflow-IA-Wardley\|workflow IA Wardley]] **utilise** → Obsidian — 0.97
 
 **Fiches** : [[fiches/2025-04/ai-workflow-wardley-mapping-obsidian-youtube-2025-04-23\|AI Workflow for Creating Wardley Maps (Video Tutorial)]]
+
+### OneHelp {#OneHelp}
+
+**Type** : TECHNOLOGIE | 2 relations | 1 fiches
+
+- **fonction** : Agent de support de Mirakl adossé à la documentation ; satisfaction client ×2 et utilisateurs ×10 à effectif constant
+
+- **mesure** → « satisfaction client ×2 et utilisateurs du support ×10 à effectif constant » (MESURE) — 0.92
+
+- [[kb/Mirakl\|Mirakl]] **a_créé** → OneHelp — 0.94
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### OpenAI API {#OpenAI-API}
 
@@ -13616,7 +13683,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (970)
+## CONCEPT (972)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -16460,6 +16527,19 @@
 
 **Fiches** : [[fiches/2026-04/osmani-agent-harness-engineering-2026-04-19\|Agent Harness Engineering]]
 
+### Modèle de place de marché {#Modèle-de-place-de-marché}
+
+**Type** : CONCEPT | 3 relations | 1 fiches
+
+- **définition** : Mise en relation d'acheteurs et de vendeurs avec commission sur transaction ; l'hôte monétise ses coûts fixes et gagne offre, prix et qualité de service
+
+- **améliore** → « rentabilité de l'e-commerce en monétisant les coûts fixes d'une plateforme existante » (AFFIRMATION) — 0.93
+- **mesure** → « passé de 5 % à plus des deux tiers de l'activité d'Amazon » (MESURE) — 0.92
+
+- [[kb/Amazon\|Amazon]] **utilise** → Modèle de place de marché — 0.95
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
+
 ### Molecules (Lattice) {#Molecules-(Lattice)}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -17238,6 +17318,16 @@
 - [[kb/_entites-mineures#Service-as-Software\|Service-as-Software]] **remplace** → SaaS — 0.96
 
 **Fiches** : [[fiches/2025-12/kamelman-thoughtworks-service-as-software-economic-model-ai-agents-2025-12-03\|Service-as-Software: A new economic model for the age of AI agents]]
+
+### SaaSpocalypse {#SaaSpocalypse}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Dépréciation attendue des éditeurs de logiciels sous l'effet de l'IA, combinant l'effondrement de la tarification au siège et la menace de réécriture du produit
+
+- **s_applique_à** → « deux mécanismes distincts — la tarification au siège et la réécriture du produit par un modèle » (AFFIRMATION) — 0.93
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### Sabotage as a Service {#Sabotage-as-a-Service}
 
@@ -22998,7 +23088,7 @@
 
 **Fiches** : [[fiches/2026-08/petersen-block-buzz-projects-forge-souveraine-2026-08-18\|Projects in Buzz]]
 
-## METHODOLOGIE (375)
+## METHODOLOGIE (376)
 
 ### /design-blueprint (Lattice) {#design-blueprint-(Lattice)}
 
@@ -25032,6 +25122,18 @@
 - **utilise** → stubs avec defer_loading (TECHNOLOGIE) — 0.94
 
 **Fiches** : [[fiches/2026-02/trq212-anthropic-claude-code-prompt-caching-lessons-2026-02\|Lessons from Building Claude Code: Prompt Caching Is Everything]]
+
+### Transformation par les livrables {#Transformation-par-les-livrables}
+
+**Type** : METHODOLOGIE | 2 relations | 1 fiches
+
+- **mécanisme** : Partir du livrable produit (code, business review, réponse au support) et remonter la chaîne en reverse engineering pour trouver le meilleur moyen de l'obtenir avec de l'IA
+
+- **permet** → « fusion des équipes documentation, formation et support autour de la documentation comme source commune » (AFFIRMATION) — 0.92
+
+- [[kb/Mirakl\|Mirakl]] **utilise** → Transformation par les livrables — 0.92
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### Tree-of-Thought {#Tree-of-Thought}
 
@@ -27314,7 +27416,7 @@
 
 **Fiches** : [[fiches/2025-09/anthropic-economic-index-adoption-inegale-2025-09-15\|Rapport de l'Indice Économique d'Anthropic : Adoption inégale de l'IA au niveau géographique et en entreprise]]
 
-## DOCUMENT (142)
+## DOCUMENT (143)
 
 ### 2026 AI engineer roadmap {#2026-AI-engineer-roadmap}
 
@@ -28781,6 +28883,16 @@
 - **mesure** → « 73% d'acceptation de réponses IA fausses » (MESURE) — 0.97
 
 **Fiches** : [[fiches/2026-05/osmani-cognitive-surrender-comprehension-debt-2026-05-05\|Cognitive Surrender]]
+
+### épisode Philippe Corrot, fondateur de Mirakl {#épisode-Philippe-Corrot,-fondateur-de-Mirakl}
+
+**Type** : DOCUMENT | 1 relations | 1 fiches
+
+- **forme** : Entretien radio de 54 minutes en trois parties, volume 10 des *Pirates de l'IA*, diffusé le 20 septembre 2026
+
+- [[kb/Éric-Hazan\|Éric Hazan]] **publie** → épisode Philippe Corrot, fondateur de Mirakl — 0.96
+
+**Fiches** : [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ### étude Microsoft 2016 sur la revue de code {#étude-Microsoft-2016-sur-la-revue-de-code}
 

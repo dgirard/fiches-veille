@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1017 entités de type CONCEPT
+> 1019 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -325,6 +325,7 @@
 - [[kb/_entites-mineures#Model-fills-the-silence\|Model fills the silence]] — définition: Métaphore cognitive Chepurin/Turner — *« The model fills the silence before your own thinking has a chance to connect dots. »* Élimine le problem-solving passif (douches, marches) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-hierarchies-(gouvernance-tokens)\|Model hierarchies (gouvernance tokens)]] — définition: Contrôle d'accès par rôle appliqué aux modèles : quel utilisateur a le droit d'utiliser quel modèle (Opus/Sonnet/Haiku) — pendant gouvernance du routage. Pont vers Uber agent identity et le slot Gouvernance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Model-harness-training-loop\|Model-harness training loop]] — définition: Boucle de co-évolution : primitive harnais → produit → post-training modèle suivant → meilleur sur cette primitive. Crée du co-training et de l'overfitting. (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Modèle-de-place-de-marché\|Modèle de place de marché]] — définition: Mise en relation d'acheteurs et de vendeurs avec commission sur transaction ; l'hôte monétise ses coûts fixes et gagne offre, prix et qualité de service (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Molecules-(Lattice)\|Molecules (Lattice)]] — exemples: Design, implement, refactor, fix, review — workflows multi-étapes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Moment-kilowatt-heure\|Moment kilowatt-heure]] — categorie: Analogie transition bougie/electricite appliquee a la connaissance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mouvement-anti-data-center\|Mouvement anti-data-center]] — catégorie: Opposition citoyenne et législative US 2024-2025 (1 occ., 1 fiches)
@@ -410,6 +411,7 @@
 - [[kb/_entites-mineures#SEO\|SEO]] — statut: En déclin face à l'AEO (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SKILL-md\|SKILL.md]] — description: Fichiers markdown servant d'instructions structurées pour agents (1 occ., 2 fiches)
 - [[kb/_entites-mineures#SaaS\|SaaS]] — catégorie: Modèle antérieur vendant des outils à l'abonnement, opposé terme à terme au Service-as-Software (1 occ., 1 fiches)
+- [[kb/_entites-mineures#SaaSpocalypse\|SaaSpocalypse]] — définition: Dépréciation attendue des éditeurs de logiciels sous l'effet de l'IA, combinant l'effondrement de la tarification au siège et la menace de réécriture du produit (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sabotage-as-a-Service\|Sabotage as a Service]] — définition: Dégradation/reroutage silencieux de réponses sous bannière de sécurité (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Sample-12.5%-time-saved\|Sample 12.5% time saved]] — description: Estimation conservatrice DORA (~ 1h/8h jour) ; littérature range 40-150 min/jour. Choix de plancher défendable financièrement face à un CFO sceptique (1 occ., 1 fiches)
 - [[kb/_entites-mineures#San-Francisco-consensus\|San Francisco consensus]] — définition: Consensus transversal (engineers/VCs/doomers/lefties) sur l'impact bleak de l'IA sur les workers (1 occ., 1 fiches)

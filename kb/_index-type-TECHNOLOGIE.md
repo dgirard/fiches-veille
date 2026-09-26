@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 814 entités de type TECHNOLOGIE
+> 816 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -444,6 +444,7 @@
 - [[kb/_entites-mineures#MiniMax-M3\|MiniMax-M3]] — rôle: Modèle co-auteur du manifeste (2 occ., 2 fiches)
 - [[kb/Minions\|Minions]] — catégorie: Agents de codage bout-en-bout one-shot (4 occ., 3 fiches)
 - [[kb/_entites-mineures#Ministral-3\|Ministral 3]] — rôle: Modèle de base de Shieldstral, complété par l'encodeur vision de Pixtral pour la modération multimodale (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Mirakl-Marketplace-Platform\|Mirakl Marketplace Platform]] — modèle économique: Logiciel connecté au front e-commerce du client, rémunéré en pourcentage des transactions — modèle aligné sur celui du client (1 occ., 1 fiches)
 - [[kb/Mistral-AI-CLI\|Mistral AI CLI]] — catégorie: Agent de codage CLI open source (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Regional-Endpoints\|Mistral Regional Endpoints]] — définition: Produit d'inférence de Mistral AI en disponibilité générale (août 2026) permettant d'épingler l'inférence et ses traitements associés en Europe ou aux États-Unis. Les documents de Mistral prévoient des « transferts limités et encadrés » vers des sous-traitants hors région, les appels d'outils (recherche web) constituant le point de fuite identifié (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral-Small-3.1\|Mistral Small 3.1]] — catégorie: Modèle de langage backbone (1 occ., 1 fiches)
@@ -488,6 +489,7 @@
 - [[kb/_entites-mineures#OAuth-2.1\|OAuth 2.1]] — rôle: Protocole d'authentification provider-side (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OSS-20b\|OSS-20b]] — catégorie: Modèle open-source (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Obsidian\|Obsidian]] — catégorie: Outil de gestion des connaissances avec graphe natif (1 occ., 1 fiches)
+- [[kb/_entites-mineures#OneHelp\|OneHelp]] — fonction: Agent de support de Mirakl adossé à la documentation ; satisfaction client ×2 et utilisateurs ×10 à effectif constant (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-API\|OpenAI API]] — usage: Génération de capacités et relations via prompts (1 occ., 1 fiches)
 - [[kb/_entites-mineures#OpenAI-Agents-SDK\|OpenAI Agents SDK]] — catégorie: SDK d'agents OpenAI (2 occ., 2 fiches)
 - [[kb/_entites-mineures#OpenAI-Codex\|OpenAI Codex]] — catégorie: Agent de codage autonome OpenAI (2 occ., 2 fiches)

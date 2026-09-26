@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 420 entités de type ORGANISATION
+> 423 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -201,6 +201,7 @@
 - [[kb/_entites-mineures#Inworld\|Inworld]] — secteur: IA vocale / TTS (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Irregular\|Irregular]] — secteur: Cybersecurite (1 occ., 1 fiches)
 - [[kb/_entites-mineures#KPMG\|KPMG]] — secteur: Conseil / Audit (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Keyrus\|Keyrus]] — rôle: Agence web créée par Corrot en 1997, revendue en 2000 à Progiware, groupe qui a ensuite pris le nom de Keyrus (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kima-Ventures\|Kima Ventures]] — rôle: Fonds de Xavier Niel, coïnvestisseur de l'amorçage Delos (avec Inovia Capital et Plug and Play) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Kodak\|Kodak]] — valorisation actuelle: 500 millions de dollars (2 occ., 1 fiches)
 - [[kb/_entites-mineures#Kore.ai\|Kore.ai]] — secteur: IA conversationnelle (2 occ., 2 fiches)
@@ -249,6 +250,7 @@
 - [[kb/_entites-mineures#Millennium\|Millennium]] — rôle: Partenaire d'accès anticipé, diagnostic d'un crash rare (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MindStudio-Team\|MindStudio Team]] — rôle: Auteur de l'explainer, plateforme d'orchestration de workflows multi-modèles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#MiniMax\|MiniMax]] — secteur: IA / Modèles de langage (1 occ., 1 fiches)
+- [[kb/Mirakl\|Mirakl]] — situation 2026: 750 collaborateurs, 180-200 M$ d'ARR, 20 Md$ attendus en transit sur les plateformes, près de 100 000 vendeurs ; première équipe IA créée en 2017 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Mistral\|Mistral]] — secteur: IA / modèles de langage (Europe) (1 occ., 1 fiches)
 - [[kb/Mistral-AI\|Mistral AI]] — secteur: IA / Open source (6 occ., 6 fiches)
 - [[kb/_entites-mineures#Modern-Data-101\|Modern Data 101]] — description: Plateforme Substack data community ~20 000 membres, publie expert contributions data engineering / architecture (1 occ., 1 fiches)
@@ -338,6 +340,7 @@
 - [[kb/_entites-mineures#Sourcegraph\|Sourcegraph]] — secteur: Outils développement / Recherche code (1 occ., 1 fiches)
 - [[kb/SpaceX\|SpaceX]] — positionnement: Groupe aérospatial ayant absorbé xAI en février 2026, cherchant un revenu IA et une crédibilité avant introduction en bourse (2 occ., 2 fiches)
 - [[kb/_entites-mineures#SpecterOps\|SpecterOps]] — secteur: Cybersecurite offensive / Red team (1 occ., 1 fiches)
+- [[kb/_entites-mineures#Splitgames\|Splitgames]] — rôle: Place de marché du jeu vidéo fondée par Corrot et Nussenbaum, rachetée par la Fnac en 2008 ; sa technologie a porté la marketplace Fnac.com (1 occ., 1 fiches)
 - [[kb/Spotify-organisation\|Spotify]] — secteur: Streaming musical / Technologie ; publie son outillage agent interne sur engineering.atspotify.com (2 occ., 3 fiches)
 - [[kb/Stack-Overflow\|Stack Overflow]] — secteur: Communauté développeurs / enquêtes (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Standard-Chartered\|Standard Chartered]] — secteur: Banque internationale (1 occ., 1 fiches)

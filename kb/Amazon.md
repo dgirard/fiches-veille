@@ -1,6 +1,6 @@
 # Amazon
 
-> **Type** : ORGANISATION | 7 relations | 2 fiches sources
+> **Type** : ORGANISATION | 8 relations | 2 fiches sources
 
 ## Attributs
 
@@ -26,6 +26,11 @@
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
 - [[kb/Universal-Commerce-Protocol\|Universal Commerce Protocol]] (TECHNOLOGIE) — 0.97, DYNAMIQUE
   - [[fiches/2026-02/thilen-opascope-ai-shopping-assistant-agentic-commerce-protocols-2026-02-10\|AI Shopping Assistant Guide 2026: Agentic Commerce Protocols]]
+
+### utilise
+
+- [[kb/_entites-mineures#Modèle-de-place-de-marché\|Modèle de place de marché]] (CONCEPT) — 0.95, DYNAMIQUE
+  - [[fiches/2026-09/corrot-mirakl-pirates-de-lia-2026-09-20\|Philippe Corrot, fondateur de Mirakl]]
 
 ## Relations (comme objet)
 

@@ -1,6 +1,6 @@
 # Index — DOCUMENT
 
-> 164 entités de type DOCUMENT
+> 165 entités de type DOCUMENT
 
 - [[kb/_entites-mineures#2026-AI-engineer-roadmap\|2026 AI engineer roadmap]] — définition: Blueprint en 5 projets pour passer de prompt engineer à systems architect (gap 150k$) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#2026-Agentic-Coding-Trends-Report\|2026 Agentic Coding Trends Report]] — date: Février 2026 (1 occ., 1 fiches)
@@ -164,5 +164,6 @@
 - [[kb/_entites-mineures#Étude-BCG-HBR-mars-2026\|Étude BCG HBR mars 2026]] — méthodologie: 1 488 full-time US workers, 48% male / 51% female, 58% IC / 41% leaders, large companies, janvier 2026, design anti-priming (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Business-Horizons\|Étude Business Horizons]] — thèse: Le contournement des collègues (workforce ChatGPT) érode le partage de connaissance intra-firme (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Étude-Shaw-&-Nave\|Étude Shaw & Nave]] — description: Wharton/UPenn, 1372 participants, 3 expériences : 73% acceptent des réponses IA démontrablement fausses, confiance augmente malgré 50% taux d'erreur (1 occ., 1 fiches)
+- [[kb/_entites-mineures#épisode-Philippe-Corrot,-fondateur-de-Mirakl\|épisode Philippe Corrot, fondateur de Mirakl]] — forme: Entretien radio de 54 minutes en trois parties, volume 10 des *Pirates de l'IA*, diffusé le 20 septembre 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-Microsoft-2016-sur-la-revue-de-code\|étude Microsoft 2016 sur la revue de code]] — référence: Enquête auprès de 911 développeurs ; délai de retour, taille de la revue et compréhension de la motivation en tête des obstacles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#étude-sur-la-transformation-du-travail\|étude sur la transformation du travail]] — date: août 2025 (2 occ., 1 fiches)
