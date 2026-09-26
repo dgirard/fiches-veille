@@ -41,7 +41,7 @@
 
 - [[kb/_entites-mineures#Steeve-Morin\|Steeve Morin]] **dirige** → ZML — 0.95
 - [[kb/LLMD\|LLMD]] **utilise** → ZML — 0.95
-- [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] **soutient** → ZML — 0.90
+- [[kb/Yann-LeCun\|Yann LeCun]] **soutient** → ZML — 0.90
 
 ## Fiches sources
 

@@ -1,6 +1,6 @@
 # Veille Technologique
 
-> 412 fiches | 1975-12 → 2026-09-20 | généré le 2026-09-22
+> 413 fiches | 1975-12 → 2026-09-25 | généré le 2026-09-26
 
 _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
@@ -9,6 +9,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 ### 2026-09
 
 - **??** [We Must Pace the Frontier](fiches/2026-09/amodei-we-must-pace-the-frontier-2026-09.md) — Dario Amodei (CEO et cofondateur d'Anthropic), sur son site personnel darioamodei.com. · Dario Amodei — pacing the frontier, cadencer le frontier, auto-amélioration récursive
+- **25** [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X. · Yann LeCun (X) — Yann LeCun, AMI Labs, NYU
 - **20** [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack). · Dangerous Ideas — peur de devenir superflu, remplacement, compatibilité narrative
 - **14** [Put Claude Fable 5.1 and Gemini 3.8 Flash on the same team](fiches/2026-09/blount-googlecloudtech-fable-gemini-flash-same-team-2026-09-14.md) — Alan Blount (Technical Solutions Consultant, Google Cloud, @zeroasterisk), publié sur le compte X @GoogleCloudTech. · X @GoogleCloudTech (Alan Blount) — routage de modèles, coordination asymétrique, tokenomics
 - **14** [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com. · donnfelker.substack.com (Donn Felker) — agentic builder, Agentic Product Engineer, identité professionnelle
@@ -974,6 +975,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Philosophie & Société
 
+- [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
 - [WHAT IF THE FUTURE DOES NOT NEED YOU ?](fiches/2026-09/mhalla-what-if-the-future-does-not-need-you-2026-09-20.md) — Asma Mhalla, politiste, autrice de *Technopolitique* ; newsletter *Dangerous Ideas* (Substack).
 - [The Evaporation of Software Engineering (and the Rise of the Agentic Builder)](fiches/2026-09/felker-evaporation-software-engineering-agentic-builder-2026-09-14.md) — Donn Felker (responsable plateforme IA chez Polygon, ex-Tinder, ex-co-animateur du podcast Fragmented), sur son Substack donnfelker.substack.com.
 - [The turbulent AI era is here. The choices we make now are critical.](fiches/2026-08/gates-ere-ia-turbulente-choix-critiques-2026-08-26.md) — Bill Gates — cofondateur de Microsoft, président du conseil de la Gates Foundation. Blog personnel Gates Notes. Page non capturable par `curl | lynx` (403 Akamai) : extraction navigateur.
@@ -1095,6 +1097,7 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ### Recherche & Éducation
 
+- [Nope. It's still true. (post X en réponse à Noah Smith)](fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25.md) — Yann LeCun — fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing. Post X.
 - [Claude Fable 5.1 and Mythos 5.1](fiches/2026-09/anthropic-claude-fable-5-1-mythos-5-1-2026-09-01.md) — Anthropic — communication produit publiée sur anthropic.com, sans signature individuelle.
 - [The AI Engineering Skills Map](fiches/2026-08/ng-ai-engineering-skills-map-2026-08-14.md) — **Andrew Ng** — fondateur de **DeepLearning.AI**, general partner d'**AI Fund**, cofondateur de **Coursera** et de **Google Brain**, ancien chief scientist de Baidu. Texte signé, à la première personne, écrit *« with my team »* sans qu'aucun collaborateur soit nommé. Publié le **14 août 2026** sur X et dans ***The Batch* n°366** — même texte aux deux endroits ; préférer *The Batch* pour toute citation durable. Quatrième fiche Ng du corpus, après les lettres n°350 (24 avril), n°352 (8 mai) et n°359 (26 juin).
 - [How AI is expanding what people do at work (Work at the Frontier, rapport 1)](fiches/2026-07/openai-work-at-the-frontier-task-crossover-2026-07-27.md) — **OpenAI Economic Research** — équipe de recherche économique d'OpenAI ; la page crédite simplement *« OpenAI »* et la classe sous les tags *Economic Research* et *2026*. Le billet est la porte d'entrée d'un **rapport PDF** (`work-at-the-frontier-report.pdf`) et s'adosse à un cadre antérieur de la même équipe, l'**AI Jobs Transition Framework**, dont il reprend la thèse que de nombreux métiers vont **se réorganiser** plutôt que disparaître.
@@ -1154,18 +1157,18 @@ _Index généré par `scripts/build_index.py` — ne pas éditer à la main._
 
 ## Statistiques
 
-- **Total** : 412 fiches
-- **Par année** : 2026 (235) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
+- **Total** : 413 fiches
+- **Par année** : 2026 (236) · 2025 (160) · 2024 (9) · 2023 (3) · 2022 (2) · 2019 (1) · 1975 (2)
 - **Par thème** :
   - Agents de codage IA & Skills : 153
   - Architecture & Construction : 57
   - Transformation & Adoption : 89
   - Qualité & Sécurité : 49
   - Économie & Marché : 87
-  - Philosophie & Société : 26
+  - Philosophie & Société : 27
   - Stratégie & Frameworks : 30
   - Outils & Plateformes : 56
-  - Recherche & Éducation : 12
+  - Recherche & Éducation : 13
   - Produits & Services : 12
   - Politique & Régulation : 26
 - **Auteurs (top 20)** :

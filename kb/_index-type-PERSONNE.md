@@ -1,6 +1,6 @@
 # Index — PERSONNE
 
-> 517 entités de type PERSONNE
+> 518 entités de type PERSONNE
 
 - [[kb/_entites-mineures#3Blue1Brown\|3Blue1Brown]] — rôle: Créateur de contenu IA / mathématiques sur YouTube (1 occ., 1 fiches)
 - [[kb/_entites-mineures#@peakji\|@peakji]] — rôle: Ingénieur chez Manus (1 occ., 1 fiches)
@@ -358,6 +358,7 @@
 - [[kb/_entites-mineures#Nicolas-Bustamante\|Nicolas Bustamante]] — rôle: Fondateur de Fintool, auteur de The RAG Obituary (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Nicolas-Marette\|Nicolas Marette]] — rôle: Auteur guide Agentic Commerce Optimization (1 occ., 1 fiches)
 - [[kb/Nicolas-Martignole\|Nicolas Martignole]] — rôle: Auteur du blog Le Touilleur Express (2 occ., 2 fiches)
+- [[kb/_entites-mineures#Noah-Smith\|Noah Smith]] — rôle: Économiste et blogueur (Noahpinion) ; interlocuteur de LeCun dans l'échange du 25/09/2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] — rôle: Sponsor et mainteneur principal (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Noy-and-Zhang\|Noy and Zhang]] — catégorie: Chercheurs en économie du travail et IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Olive-Song\|Olive Song]] — rôle: Senior Researcher chez MiniMax (1 occ., 1 fiches)
@@ -507,7 +508,7 @@
 - [[kb/_entites-mineures#Xiao-Hong\|Xiao Hong]] — rôle: Fondateur Manus, VP Meta (1 occ., 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] — rôle: CEO de HubSpot (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] — rôle: Cofondateur de Moonshot AI (mars 2023) (1 occ., 1 fiches)
-- [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] — rôle: Lauréat du prix Turing ; soutient publiquement ZML (1 occ., 1 fiches)
+- [[kb/Yann-LeCun\|Yann LeCun]] — rôle: Fondateur et président d'AMI Labs, professeur à NYU, ex-Chief AI Scientist de Meta, prix Turing (2 occ., 2 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] — rôle: Chercheur, Stanford (1 occ., 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] — rôle: Partner a16z, entreprise et infrastructure (2 occ., 2 fiches)
 - [[kb/Yves-Caseau\|Yves Caseau]] — rôle: Group Chief Digital & Information Officer, Michelin (2 occ., 2 fiches)

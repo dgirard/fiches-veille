@@ -1,6 +1,6 @@
 # Index — TECHNOLOGIE
 
-> 813 entités de type TECHNOLOGIE
+> 814 entités de type TECHNOLOGIE
 
 - [[kb/_entites-mineures#.lattice-folder\|.lattice folder]] — description: Living context layer qui accumule project standards, décisions, review insights au fil des feature cycles (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ce-code-review\|/ce-code-review]] — rôle: Reviewer always-on : verdict followed/violated (violation = finding file:line) (1 occ., 1 fiches)
@@ -807,6 +807,7 @@
 - [[kb/_entites-mineures#toon-format-toon\|toon-format/toon]] — plateforme: GitHub (2 occ., 1 fiches)
 - [[kb/_entites-mineures#use-cache\|use cache]] — catégorie: Nouvelle API Next.js 16 absente des données d'entraînement (1 occ., 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] — catégorie: Framework d'inférence LLM (2 occ., 2 fiches)
+- [[kb/_entites-mineures#voiture-autonome-de-niveau-5\|voiture autonome de niveau 5]] — statut (selon LeCun, 09/2026): Non atteinte : conduite sans restriction dans toutes les situations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#watermark-de-contenu-généré\|watermark de contenu généré]] — portée: Modèles publiés après le 2026-08-02, API de détection en préversion privée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#watsonx-Code-Assistant\|watsonx Code Assistant]] — cible: Outillage de codage d'IBM orienté industries régulées, hors base développeurs de Cursor (1 occ., 1 fiches)
 - [[kb/_entites-mineures#window.openai\|window.openai]] — catégorie: Objet injecté dans iframe par OpenAI (1 occ., 1 fiches)

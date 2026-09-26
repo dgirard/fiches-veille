@@ -1,6 +1,6 @@
 # Index — ORGANISATION
 
-> 419 entités de type ORGANISATION
+> 420 entités de type ORGANISATION
 
 - [[kb/_entites-mineures#10x\|10x]] — secteur: Services d'ingénierie logicielle (1 occ., 1 fiches)
 - [[kb/_entites-mineures#11-Labs\|11 Labs]] — statut adoption: Adoptant MCP-UI (provider) (1 occ., 1 fiches)
@@ -13,6 +13,7 @@
 - [[kb/_entites-mineures#AI-Index-Steering-Committee\|AI Index Steering Committee]] — catégorie: Comité de direction interdisciplinaire (1 occ., 1 fiches)
 - [[kb/AISI-UK\|AISI UK]] — role: Institut de securite de l'IA du Royaume-Uni (1 occ., 1 fiches)
 - [[kb/AMD\|AMD]] — rôle: acteur du réseau circulaire d'investissements IA (3 occ., 3 fiches)
+- [[kb/_entites-mineures#AMI-Labs\|AMI Labs]] — rôle: Laboratoire fondé et présidé par Yann LeCun (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ANSSI\|ANSSI]] — rôle: Autorité nationale sécurité systèmes information (1 occ., 1 fiches)
 - [[kb/_entites-mineures#ARC\|ARC]] — rôle: organisation recherche partenaire (1 occ., 2 fiches)
 - [[kb/_entites-mineures#ARC-Evals\|ARC Evals]] — relation: Ancien nom de METR (1 occ., 1 fiches)

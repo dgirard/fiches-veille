@@ -1,6 +1,6 @@
 # Index — CONCEPT
 
-> 1014 entités de type CONCEPT
+> 1017 entités de type CONCEPT
 
 - [[kb/_entites-mineures#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.\|"A.I. Populism Is Here. And No One Is Ready."]] — source: Titre canonique Wallace-Wells NYT Magazine 8 mai 2026 — formule probable du dossier 2026 (1 occ., 1 fiches)
 - [[kb/_entites-mineures#A.I.-as-governments\|"A.I. as governments"]] — source: Prédiction Dean Ball (architecte original AI policy Trump, conférence Palantir Foundation Yale) — l'IA devient la gouvernance, pas seulement un outil. Distinction de "AI in government" (1 occ., 1 fiches)
@@ -276,6 +276,7 @@
 - [[kb/_entites-mineures#IA-Responsable\|IA Responsable]] — rôle_stratégique: Fondement de la confiance pour l'adoption et la délégation aux agents autonomes (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] — position Torvalds: L'IA traitée comme un outil parmi d'autres, « clairement utile » ; utilité non négociable, imperfections assumées (« l'intelligence naturelle non plus n'est pas parfaite »), usage non imposé mais interdiction refusée (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] — définition: Formulation léonienne (n. 98) : *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* — dialogue avec le vocabulaire ML 2026 sur les modèles émergents (1 occ., 1 fiches)
+- [[kb/_entites-mineures#IA-de-niveau-humain\|IA de niveau humain]] — position LeCun: Atteignable à terme, encore lointaine, et pas par les LLM seuls (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-locale\|IA locale]] — slogan: « Buy a GPU » = exit power / déclaration d'indépendance (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IA-open-source\|IA open source]] — définition: « Seule économie politique de l'intelligence » : usage, étude, modification, partage (1 occ., 1 fiches)
 - [[kb/_entites-mineures#IAG-(AGI)\|IAG (AGI)]] — rôle: Échéance perçue justifiant l'urgence de s'enrichir avant une « sous-classe permanente » (1 occ., 1 fiches)
@@ -624,6 +625,7 @@
 - [[kb/_entites-mineures#couche-durable-d'entreprise\|couche durable d'entreprise]] — principe: Contexte, identité, politique, provenance, vérification et mémoire organisationnelle doivent survivre au modèle et à l'agent qui exécutent le travail (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] — fonction: Encoder précédence et signification des données pour agents (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] — définition: Couche à créer sur un socle modernisé, orchestrant humains et agents, à coûts maîtrisés (1 occ., 1 fiches)
+- [[kb/_entites-mineures#country-of-geniuses-in-a-data-center\|country of geniuses in a data center]] — définition: Image d'une IA équivalente à une population de génies hébergée dans un data center ; qualifiée de « complete BS » par LeCun (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] — définition: Degré de liaison entre unités à l'intérieur d'une organisation (1 occ., 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] — liste: Supprimer des tests, affaiblir des assertions, mocker l'implémentation, skipper des validations (1 occ., 1 fiches)
 - [[kb/_entites-mineures#couture-de-capacité\|couture de capacité]] — définition: Traduction de *capability seam* : capacité substituable définie par trois rôles conçus ensemble — une Service Definition qui déclare l'interface, un Service Provider qui l'implémente, un Consumer qui l'utilise, le plus souvent un outil exposé au modèle. Un seul rôle ne fait pas une couture. C'est le mécanisme par lequel un remplacement de fournisseur change tout le produit, sans fork (1 occ., 1 fiches)
@@ -681,6 +683,7 @@
 - [[kb/_entites-mineures#effet-cobra\|effet cobra]] — définition: Incitation récompensant un comportement contre-productif (1 occ., 1 fiches)
 - [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] — définition: Canal par lequel l'automatisation de tâches réduit la demande de travail (substitution) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] — définition: Canal par lequel les gains de productivité et la baisse des coûts stimulent la demande de travail (complémentarité) (1 occ., 1 fiches)
+- [[kb/_entites-mineures#efficacité-d'apprentissage\|efficacité d'apprentissage]] — définition: Capacité à acquérir une compétence nouvelle avec peu d'expérience et à la transposer à des situations inédites (adolescent qui apprend à conduire, chat domestique) (1 occ., 1 fiches)
 - [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] — définition: Frugalité de consommation de tokens comme vertu du dev assisté par IA (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-agent\|email agent]] — usage: Exemple fil rouge de l'article (1 occ., 1 fiches)
 - [[kb/_entites-mineures#email-bankruptcy-feature\|email bankruptcy feature]] — périmètre: Traitement bulk de 53 000 emails via cache + queue (1 occ., 1 fiches)

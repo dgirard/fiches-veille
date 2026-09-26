@@ -1,6 +1,6 @@
 # Entités mineures
 
-> 2861 entités avec moins de 3 triples/fiches
+> 2866 entités avec moins de 3 triples/fiches
 
 ## PERSONNE (377)
 
@@ -2594,6 +2594,18 @@
 
 **Fiches** : [[fiches/2026-02/marette-agentic-commerce-optimization-acp-ucp-2026-02-23\|L'Agentic Commerce Optimization : le Guide technique pour se préparer aux protocoles ACP et UCP de Google]]
 
+### Noah Smith {#Noah-Smith}
+
+**Type** : PERSONNE | 2 relations | 1 fiches
+
+- **rôle** : Économiste et blogueur (Noahpinion) ; interlocuteur de LeCun dans l'échange du 25/09/2026
+
+- **affirme_que** → « la position de LeCun sur les limites des LLM semble déjà démentie » (AFFIRMATION) — 0.85
+
+- [[kb/Yann-LeCun\|Yann LeCun]] **s_oppose_à** → Noah Smith — 0.90
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
+
 ### NomenAK {#NomenAK}
 
 **Type** : PERSONNE | 1 relations | 1 fiches
@@ -3673,16 +3685,6 @@
 
 **Fiches** : [[fiches/2026-07/sfeir-kimi-k3-moonshot-frontier-open-weights-2026-07-16\|Kimi K3 de Moonshot AI : quand le frontier open-weights rattrape le propriétaire]]
 
-### Yann LeCun {#Yann-LeCun}
-
-**Type** : PERSONNE | 1 relations | 1 fiches
-
-- **rôle** : Lauréat du prix Turing ; soutient publiquement ZML
-
-- **soutient** → [[kb/ZML\|ZML]] (ORGANISATION) — 0.90
-
-**Fiches** : [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
-
 ### Yegor Denisov-Blanch {#Yegor-Denisov-Blanch}
 
 **Type** : PERSONNE | 3 relations | 1 fiches
@@ -3779,7 +3781,7 @@
 
 **Fiches** : [[fiches/2025-06/gemini-cli-claude-code-hybrid-workflow-reddit-2025-06-23\|Gemini CLI is awesome! But only when you make Claude Code use it as its bitch.]]
 
-## ORGANISATION (306)
+## ORGANISATION (307)
 
 ### 10x {#10x}
 
@@ -3865,6 +3867,16 @@
 - [[kb/_entites-mineures#Vanessa-Parli\|Vanessa Parli]] **fait_partie_de** → AI Index Steering Committee — 0.93
 
 **Fiches** : [[fiches/2025-04/stanford-hai-ai-index-report-2025-trends-2025-04-07\|Stanford HAI: AI Index Report 2025 - Global AI Trends and Metrics]]
+
+### AMI Labs {#AMI-Labs}
+
+**Type** : ORGANISATION | 1 relations | 1 fiches
+
+- **rôle** : Laboratoire fondé et présidé par Yann LeCun
+
+- [[kb/Yann-LeCun\|Yann LeCun]] **dirige** → AMI Labs — 0.95
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 
 ### ANSSI {#ANSSI}
 
@@ -6918,7 +6930,7 @@
 
 **Fiches** : [[fiches/2025-11/vibe-coding-vs-ai-assisted-engineering-osmani-2025-11-01\|Vibe-coding is not the same as AI-Assisted engineering.]]
 
-## TECHNOLOGIE (640)
+## TECHNOLOGIE (641)
 
 ### .lattice folder {#.lattice-folder}
 
@@ -13522,6 +13534,16 @@
 
 **Fiches** : [[fiches/2026-02/lancemartin-anthropic-prompt-auto-caching-claude-2026-02\|Prompt auto-caching with Claude]], [[fiches/2026-07/sfeir-zml-llmd-docker-llm-inference-souveraine-2026-07-09\|ZML/LLMD : et si le « Docker des LLM » était français ?]]
 
+### voiture autonome de niveau 5 {#voiture-autonome-de-niveau-5}
+
+**Type** : TECHNOLOGIE | 1 relations | 1 fiches
+
+- **statut (selon LeCun, 09/2026)** : Non atteinte : conduite sans restriction dans toutes les situations
+
+- **fait_partie_de** → limites de l'IA (CONCEPT) — 0.75
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
+
 ### watermark de contenu généré {#watermark-de-contenu-généré}
 
 **Type** : TECHNOLOGIE | 2 relations | 1 fiches
@@ -13594,7 +13616,7 @@
 
 **Fiches** : [[fiches/2026-06/alafrench-grymonprez-adeo-ia-agentique-grands-groupes-2026-06-18\|Comment l'IA agentique bouscule les Grands Groupes ? Partie 2/2 #DevSummit]]
 
-## CONCEPT (967)
+## CONCEPT (970)
 
 ### "A.I. Populism Is Here. And No One Is Ready." {#A.I.-Populism-Is-Here.-And-No-One-Is-Ready.}
 
@@ -15975,6 +15997,16 @@
 - **définition** : Formulation léonienne (n. 98) : *« les développeurs n'en conçoivent pas directement chaque détail, mais créent une architecture sur laquelle l'IA se développe »* — dialogue avec le vocabulaire ML 2026 sur les modèles émergents
 
 **Fiches** : [[fiches/2026-05/leon-xiv-magnifica-humanitas-encyclique-ia-2026-05-15\|Lettre encyclique MAGNIFICA HUMANITAS du Saint-Père LÉON XIV sur la protection de la personne humaine à l'ère de…]]
+
+### IA de niveau humain {#IA-de-niveau-humain}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **position LeCun** : Atteignable à terme, encore lointaine, et pas par les LLM seuls
+
+- [[kb/_entites-mineures#efficacité-d'apprentissage\|efficacité d'apprentissage]] **s_applique_à** → IA de niveau humain — 0.80
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 
 ### IA locale {#IA-locale}
 
@@ -19235,6 +19267,16 @@
 
 **Fiches** : [[fiches/2026-07/ezzat-capgemini-ia-agentique-processus-metiers-2026-07-25\|Aiman Ezzat, le directeur général de Capgemini : « L'enjeu ? Intégrer l'IA au coeur des opérations et réinventer les…]]
 
+### country of geniuses in a data center {#country-of-geniuses-in-a-data-center}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Image d'une IA équivalente à une population de génies hébergée dans un data center ; qualifiée de « complete BS » par LeCun
+
+- [[kb/Yann-LeCun\|Yann LeCun]] **s_oppose_à** → country of geniuses in a data center — 0.85
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
+
 ### couplage organisationnel {#couplage-organisationnel}
 
 **Type** : CONCEPT | 1 relations | 1 fiches
@@ -19793,6 +19835,16 @@
 - **s_oppose_à** → [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] (CONCEPT) — 0.90
 
 **Fiches** : [[fiches/2026-06/dgtresor-ia-effets-emploi-2026-06-30\|L'intelligence artificielle, quels effets sur l'emploi ?]]
+
+### efficacité d'apprentissage {#efficacité-d'apprentissage}
+
+**Type** : CONCEPT | 1 relations | 1 fiches
+
+- **définition** : Capacité à acquérir une compétence nouvelle avec peu d'expérience et à la transposer à des situations inédites (adolescent qui apprend à conduire, chat domestique)
+
+- **s_applique_à** → [[kb/_entites-mineures#IA-de-niveau-humain\|IA de niveau humain]] (CONCEPT) — 0.80
+
+**Fiches** : [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 
 ### efficacité des tokens {#efficacité-des-tokens}
 

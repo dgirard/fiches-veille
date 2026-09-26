@@ -1,6 +1,6 @@
 # Index alphabétique des entités
 
-> 3415 entités
+> 3421 entités
 
 ## #
 
@@ -282,6 +282,7 @@
 - [[kb/America's-AI-Action-Plan\|America's AI Action Plan]] (DOCUMENT, 3 fiches)
 - [[kb/_entites-mineures#America's-Workforce-Academy\|America's Workforce Academy]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Americans-for-Responsible-Innovation\|Americans for Responsible Innovation]] (ORGANISATION, 1 fiches)
+- [[kb/_entites-mineures#AMI-Labs\|AMI Labs]] (ORGANISATION, 1 fiches)
 - [[kb/_entites-mineures#Amjad-Masad\|Amjad Masad]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#amorriscode\|amorriscode]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Amplificateur-d'intelligence\|Amplificateur d'intelligence]] (CONCEPT, 1 fiches)
@@ -902,6 +903,7 @@
 - [[kb/_entites-mineures#couche-durable-d'entreprise\|couche durable d'entreprise]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-sémantique\|couche sémantique]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couche-technologique-agentique\|couche technologique agentique]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#country-of-geniuses-in-a-data-center\|country of geniuses in a data center]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#couplage-organisationnel\|couplage organisationnel]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Couple-journalistique-NYT-(Sun-+-Wallace-Wells)\|Couple journalistique NYT (Sun + Wallace-Wells)]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#coups-de-gaming-des-tests\|coups de gaming des tests]] (CONCEPT, 1 fiches)
@@ -1168,6 +1170,7 @@
 - [[kb/_entites-mineures#effet-de-déplacement\|effet de déplacement]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#effet-de-productivité\|effet de productivité]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Effet-Reine-Rouge\|Effet Reine Rouge]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#efficacité-d'apprentissage\|efficacité d'apprentissage]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#efficacité-des-tokens\|efficacité des tokens]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#Efficacité-tokens\|Efficacité tokens]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#egress-allowlisting\|egress allowlisting]] (METHODOLOGIE, 1 fiches)
@@ -1627,6 +1630,7 @@
 - [[kb/_entites-mineures#IA-comme-outil\|IA comme outil]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-cultivée-non-construite\|IA cultivée non construite]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-de-codage\|IA de codage]] (TECHNOLOGIE, 1 fiches)
+- [[kb/_entites-mineures#IA-de-niveau-humain\|IA de niveau humain]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#IA-et-emploi-le-vrai-risque,-c'est-le-décrochage\|IA et emploi : le vrai risque, c'est le décrochage]] (DOCUMENT, 1 fiches)
 - [[kb/IA-générative\|IA générative]] (TECHNOLOGIE, 4 fiches)
 - [[kb/_entites-mineures#IA-locale\|IA locale]] (CONCEPT, 1 fiches)
@@ -2210,6 +2214,7 @@
 - [[kb/_entites-mineures#NLW\|NLW]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#no-consultant-crowds\|no consultant crowds]] (CONCEPT, 1 fiches)
 - [[kb/_entites-mineures#No-Regrets-Zone\|No Regrets Zone]] (CONCEPT, 1 fiches)
+- [[kb/_entites-mineures#Noah-Smith\|Noah Smith]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#NomenAK\|NomenAK]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#non-déterminisme\|non-déterminisme]] (CONCEPT, 2 fiches)
 - [[kb/_entites-mineures#Northwestern-Mutual\|Northwestern Mutual]] (ORGANISATION, 1 fiches)
@@ -3308,6 +3313,7 @@
 - [[kb/_entites-mineures#Vivian-Hu\|Vivian Hu]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Viz.ai\|Viz.ai]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#vLLM\|vLLM]] (TECHNOLOGIE, 2 fiches)
+- [[kb/_entites-mineures#voiture-autonome-de-niveau-5\|voiture autonome de niveau 5]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Vorflux\|Vorflux]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#VoxComm\|VoxComm]] (ORGANISATION, 1 fiches)
 - [[kb/Voxtral\|Voxtral]] (TECHNOLOGIE, 1 fiches)
@@ -3404,7 +3410,7 @@
 - [[kb/_entites-mineures#yak-shaving\|yak shaving]] (CONCEPT, 1 fiches)
 - [[kb/Yamini-Rangan\|Yamini Rangan]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yang-Zhilin\|Yang Zhilin]] (PERSONNE, 1 fiches)
-- [[kb/_entites-mineures#Yann-LeCun\|Yann LeCun]] (PERSONNE, 1 fiches)
+- [[kb/Yann-LeCun\|Yann LeCun]] (PERSONNE, 2 fiches)
 - [[kb/_entites-mineures#Yegor-Denisov-Blanch\|Yegor Denisov-Blanch]] (PERSONNE, 1 fiches)
 - [[kb/_entites-mineures#Yoga\|Yoga]] (TECHNOLOGIE, 1 fiches)
 - [[kb/_entites-mineures#Yoko-Li\|Yoko Li]] (PERSONNE, 2 fiches)

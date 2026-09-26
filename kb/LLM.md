@@ -1,6 +1,6 @@
 # LLM
 
-> **Type** : TECHNOLOGIE | 9 relations | 3 fiches sources
+> **Type** : TECHNOLOGIE | 10 relations | 3 fiches sources
 
 ## Attributs
 
@@ -27,6 +27,8 @@
 
 - faux positifs de tests (CONCEPT) — 0.85, DYNAMIQUE
   - [[fiches/2025-08/martin-fowler-llm-software-development-2025-08-15\|Some thoughts on LLMs and Software Development]]
+- « interface textuelle vers des systèmes d'IA » (AFFIRMATION) — 0.80, ATEMPOREL
+  - [[fiches/2026-09/lecun-still-far-from-human-level-ai-llm-2026-09-25\|Nope. It's still true. (post X en réponse à Noah Smith)]]
 - « trouver des bugs embarrassants dans le code » (AFFIRMATION) — 0.80, ATEMPOREL
   - [[fiches/2026-07/torvalds-llm-outil-kernel-2026-07-14\|Re: Linking Patchwork with Sashiko? (message linux-media sur la position du kernel Linux vis-à-vis de l'IA)]]
 
